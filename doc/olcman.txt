@@ -1,0 +1,2182 @@
+                    Welcome to the OLC help manual.
+                     ( Volume IV. Updated 7/19/96)
+
+
+Table of Contents:
+
+A Brief Word from the Author
+
+How Do I begin and How should I start
+
+Chapter 1: The Area File Format
+
+Chapter 2. - Rooms and How much fun they are
+
+Chapter 3- Objects Galore
+
+Chapter 4.- MOBILES. (Monsters that are nasty
+
+Chapter 5.- Mob Guardians. (Those Nasty Guards
+
+Chapter 5.- RESETS; The hidden word for Confusion
+
+Chapter 6.- Shops. Those Fun places where you Buy things
+
+Tables
+
+
+
+
+
+
+A Brief Word From the Author.
+-----------------------------
+
+        I know that OLC can be a big pain in the butt when you have no clue
+what the heck you are doing. So I have wrote this manual to help you along
+the way. I believe that this manual will aid you in making very beautiful
+areas. So sit back, log into the mud with your favorite beverage (mine is a
+good beer) and practice as we go along. If you find a bug along the way PLEASE
+note it to immortal. Each section is divided into chapters and will guide you
+step by step on what to type. Remember that if you have more questions along
+the way there is on-line help as well. Thank you for making Aydindril a bigger 
+and better place.
+                        Beowolf of TSR Administration.
+
+
+
+
+How should I begin and How should I start?
+-------------------------------------------
+
+        So you think you are ready to build for Aydindril eh? More power to you.
+The building process can be long and draining at times...but in the end its
+well worth it. Remember that as a builder you have certain power that must
+not be abused. So take care brave one...and welcome.
+        First off I would like to suggest that before you start your area that
+you sit down with your ideas and brainstorm them. Do this for about an hour
+and write all your ideas down. Then once you know the storyline and plot for
+your area, mail your idea to pdp10@sover.net.
+        Once your idea has been approved then sit down with some graph paper,
+I suggest that if you don't have any, to invest in some, and map out your
+entire area. Don't forget to include vnums when you map. Once all of this
+is complete you will be ready to conquer the world of Building. Once you
+have read this manual and feel that you have a grasp of the basic idea then
+you will be ready to start.
+        When you start I have found that the fastest way to use olc to its full
+potential is to edit all the room exits first. Don't worry about descripts or
+names for the room. Simply pull out your graphed map and do all your exits from
+room to room. Generally you will get about 50 rooms done in about 30 mins.
+        Once all your exits and rooms are linked together take a few mins to
+walk around them and see that you created the exits the way you want them. My
+next suggestion is also an idea. Code in all your Mobs and when your done with
+mobs do all the objects. Save the Room names and Room descripts till the very
+end. Your area will move very quickly this way. If you prefer to use your own
+method then that is totally up to you.
+        Well enough of my babbling...I bet you are really itching to begin your
+learning of Aydindril's Building. Thank you for your time and your area. Remember
+to have fun while you build and don't rush. Now let us begin your teaching...
+
+
+
+
+Chapter 1- The Area File.
+-------------------------
+
+(Remember to type what it says in each step.) Also for further reference while
+on line you can type commands to see what OLC commands are available or see
+help olc. Also to see how your area is coming along at any time simple type
+show. To get out of the editor at any time type done.
+
+The first thing you will be exited about is making the first file in what your
+area goes into. This is perhaps the easiest thing in OLC. To see a the help
+file for editing an area type help aedit.
+
+Below is a look at what it will look like from inside the Area Editor. I have
+included Notes inside the *'s of what everything is:
+
+<AEDIT> <1000hp 1000m 1000mv>           *The Prompt*
+
+*when you hit return inside the editor this next part will be displayed. I
+take this example from the city I am creating*
+
+Name:     [   49] [  ALL  ] The City of Shadows.
+File:     shadow.are
+Vnums:    [8600-8699]
+Age:      [0]
+Players:  [1]
+Security: [9]
+Builders: [Beowolf]
+Flags:    [none]
+
+And Now what you have been waiting for...The Step by step introduction to what
+this all means...
+
+ Step 1.)   edit area create
+
+This command does exactly what it is saying. It creates your area. Note that
+this must be done...if you simply edit area...it will assume you are
+re-entering the current area to edit. Also once your done with this command
+you prob won't have to worry about this one again until your ready to start
+a new area.
+
+Step 2.) age 0
+
+This sets the age of the area and is really unimportant. just type 0 for the
+age of the area.
+
+Step 3.) builder [insert your name here]
+ example: builder beowolf
+
+This will set it up to show you that "hey damn it! I wrote that area, see!"
+
+Step 4.) filename [name].
+  example filename city
+
+This will create a brand new file in the area directory. There is no need to
+say oh lets call it  bubba.are. It will automatically set the .are option for
+you. all you need to do is name it.
+
+Step 5.) name [name]
+   example: name [  ALL  ] The City of  Majistar.
+
+This next step is a bit tricky. What you will need to do is actually hit the
+[ ] keys on your keyboard. Make sure that you insert the level of your
+area inside the []'s and make sure that there are 7 spaces in between the
+[]'s. This will make the command "area" show the levels of the area.
+
+Step 6.) security [level]
+   example: security 1
+
+ If this is your first area your security will be 1. As you become more trusted
+your security level will increase.
+
+Step 7.) vnum # #
+   example: vnum 400 499
+
+This will set your vnums for the area. These will be assigned to you by
+either Drakken or Skylord. DO NOT go over 100 vnums. If you need more
+please let one if the IMPS know.
+
+Step 8.) mprog <vnum> title/edit <title>
+   example mprog 3001 title Fine day MOBprog
+
+This is a very difficult part of area building, and it is NOT necissary. It however
+gives your area so much more depth, and intresting things than a normal area. This
+emproaches opon something called MOBprogs. If you dont consider youself a expirienced 
+area builder, skip this for now and come back to it when you are more comfortable. 
+This command will allow to to create the actual MOBprogram, change its title, or 
+see the current MOBprogs in the area you are editing. If you want to make a good
+area, and include MOBprogs, goto http://www.sover.net/~pdp10/mobprogs.txt and read 
+the information in that. This commands full syntax can be found by typing 
+mprog <invalid argument>.   
+
+Step 9.) asave area
+
+This will save your area..use this command from any editor to save your work
+I suggest you do this pretty frequently.
+
+The last thing you will need to do is set any flags that you want for that
+area. For a list of all the flags please type ? AREA to display the flags.
+To get a flag in simply type that flag at the prompt. More than likely you will
+NOT have to use this option. I am still not sure exactly what it is...cause the
+only flags I get are changed and added...So basically don't use it.
+
+
+
+
+Chapter 2. - Rooms and How much fun they are.
+--------------------------------------------------------
+
+(Remember to type what it says in each step.) Also for further reference
+while on line you can type commands to see what OLC commands are available
+or see help olc. Also to see how your area is coming along at any time simple
+type show. To get out of the editor at any time type done. In this section
+if you need more help see help redit.
+
+Below is a look at what it will look like from inside the Room Editor. I have
+included Notes inside the *'s of what everything is:
+
+<REDIT> <1000hp 1000m 1000mv>   *Once again that wonderful prompt*
+
+*when you hit return inside the editor or type show this next part will be disp
+layed. I
+take this example from an immortal room.*
+
+Description:
+You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  This is one of the many rooms
+where the heroes and gods come to socialize.  It is by far one of the most
+comfortable!
+Name:       [The Chat Room]
+Area:       [   11] [151 160] Immortal Zone
+Vnum:       [ 1200]
+Sector:     [inside]
+Room flags: [indoors private heroes_only]
+Mana Rate:  [100]
+Heal Rate:  [100]
+Characters: [beowolf]  *this will show you who is in the room*
+Objects:    [none]  *if you have a obj in the room it will be displayed here*
+-South to [ 8601] Key: [    0] Exit flags: [none]
+Asgard lies to the south.
+
+        So now your saying, "what the hell is all that stuff and what does it m
+ean?" Well I am glad that you ask. Let me show you what commands you have avail
+able inside the <REDIT> <1000hp 1000m 1000mv>  promt, or more commonly known, R
+OOM EDITOR.
+
+A listing of all the commands follows:
+-------------------------------------
+
+commands       create         desc           ed             format
+name           show           mana           heal           north
+south          east           west           up             down
+mreset         oreset         mlist          olist          mshow
+oshow          ?              version
+
+----------------------------------------------------------------------------
+
+Now in the previous versions of the OLC manual I have included a step-by-step
+method on how to make your rooms. I have came to find out more people like to
+know exactly how a command works. So I decided to trash that method and work
+with a more logical reference. I have a listing of each command, what it does,
+and
+how to use it.
+
+I. COMMANDS AND HOW TO USE THEM.
+
+1.) Commands.
+   Syntax: commands
+
+        This command will show you the various commands of the editor that you
+are
+in. The example of this command is the line above, where all the commands are l
+isted.
+
+2.) Create
+     Syntax: edit room create vnum
+      Example: edit room create 400
+
+        This command will create the room vnum that you wish to make. What else
+can I say about this? Any questions? Good.
+
+3.) Desc
+      Syntax: desc
+
+        This command will throw you into the description editor of the room. Fr
+om here
+you will see the following editor.
+
+-=======- Entering APPEND Mode -========-
+    Type .h on a new line for help
+ Terminate with a ~ or @ on a blank line.
+-=======================================-
+
+>
+The > is the begining of your prompt simply type out your room descript...make
+sure its at least 4 lines long...( 3 for Hallways or roads minimim), oh and a
+hint...hit return each time you near the end of your screen...it will give you
+a new > prompt...and when your done hit the ~ or @ on a line of its own. Then
+when your done do a desc again and at the > prompt type .f  This will format
+the room for you and make it look nice. Here is the .h help file within the
+editor.
+
+Sedit help (commands on blank line):
+.r 'old' 'new'   - replace a substring
+                   (requires '', "")
+.h               - get help (this info)
+.s               - show string so far
+.f               - (word wrap) string
+.c               - clear string so far
+@                - end string
+
+Special note: The above line of help ONLY works from INSIDE the desc editor.
+
+4.) Ed
+      Syntax:  ed add     [keyword]
+                   ed edit     [keyword]
+                   ed delete  [keyword]
+                   ed format [keyword]
+
+        Well this is a command that is long overdue for an explaination so let
+me give
+it to ya. What this command allows you to do is add hidden things in the room t
+hat
+you just wrote in. Let me rephrase that...lets say when you did a room descript
+ion
+that you said something about a book. Now if you wanted a player to type look
+book to learn more about it this is where this command will come into play. Her
+e is
+an example of what happens when you type it.
+
+<REDIT> <1000hp 1000m 1000mv>  ed add book
+
+-=======- Entering APPEND Mode -========-
+    Type .h on a new line for help
+ Terminate with a ~ or @ on a blank line.
+-=======================================-
+
+> A fine and dusty looking book lies here.
+> @
+
+<REDIT> <1000hp 1000m 1000mv>
+
+        Now when you type look book in the room you will see the descript-
+A fine and dusty looking book lies here.
+I think that the rest of the ed commands are self explainitory and should not n
+eed
+any other explaination. If you think I should go into detail about this command
+
+please let me know.
+
+5.) Format.
+     Syntax: format
+
+        This command is kind of a time saver. What it does is to alllow you to
+format the text of the description that you edited. Your probablly saying "what
+the hell is he talking about?" Well lets say your description of the room is re
+ally
+terrible looking...like this...
+
+You are lounging in a quiet cosy parlour, warmed by a gentle magical fire which
+ twinkles happily in a warm fireplace.  This is one of the many rooms
+where the heroes and gods come to socialize.
+It is by far one of the most
+comfortable!
+
+Ouch! That is really ugly! Now if we were to format it....It would look like th
+is...
+
+You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  This is one of the many rooms
+where the heroes and gods come to socialize.  It is by far one of the most
+comfortable!
+
+6.) Name
+      Syntax: name [insert name here.]
+      Example: name The hallway.
+
+        This command gives the room its title. What else can I say about it?
+
+7.) Show
+        Syntax: show
+        ALSO: [return] (hitting return is an alias for typing show)
+
+        This command will show you the room statistics that you have been worki
+ng
+on. An example of this is at the top of this section.
+
+8.) Mana
+         Syntax:  mana [Amount]
+         Example: mana 100
+
+        Now this command should ONLY be used sparingly! Allanon has yet to put
+in the rules about this but watch for the rules soon. Let me explain what this
+command
+does for now. The default mana recovery rate is 100% (normal). However, you
+may adjust recovery of mana up or down to 1% or normal or 200% of normal.
+This makes the players recover mana either faster or slower depending on what
+you set it to. If it is higher than 100 they get it faster, if it is lower than
+ 100 then
+they will recover mana more slowly.
+
+9.) Heal
+          Syntax:  heal [Amount]
+          Example: heal 100
+
+        This command is almost the same as the mana command. Lets repeat
+the rules for this. Now this command should ONLY be used sparingly! Allanon
+has yet to put in the rules about this but watch for the rules soon. Let me exp
+lain
+what this command does for now. The default heal recovery rate is 100% (normal)
+. However, you may adjust recovery of healing up or down to 1% or normal or 200
+%
+of normal. This makes the players recover hitpoints either faster or slower dep
+ending on
+what you set it to. If it is higher than 100 they get it faster, if it is lower
+ than 100 then
+they will recover hitpoints more slowly.
+
+II. *SPECIAL NOTE FROM THE ADMINISTRATION OF AYDINDRIL*
+
+        The following commands are discussed elsewhere in this manual. Just
+remember to use these commands from INSIDE the ROOM EDITOR.
+
+
+1.) north, south, east, west, up, down
+     - These are found in the section that deals with exits.
+
+2.) mreset, oreset, mlist, olist, mshow, oshow
+      - These commands are found in the section dealing with resets.
+
+III. INFORMATIONAL COMMANDS ABOUT OLC.
+
+        The following commands are to give you misc. information about
+OLC and/or help files that will help you.
+
+1.) ?
+     Syntax:  ? [command]
+     Example: ? area
+
+        This command is rather simple. It will show you a listing of helps or
+flags or information depending on what you type in. Here is a list of everythin
+g
+you can type ? to.
+
+[command]  [description]
+Area       -Area attributes.
+Room       -Room attributes.
+Sector     -Sector types, terrain.
+Exit       -Exit types.
+Type       -Types of objects.
+Extra      -Object attributes.
+Wear       -Where to wear object.
+Spec       -Available special programs.
+Sex        -Sexes.
+Act        -Mobile attributes.
+Affect     -Mobile affects.
+2affect    -More Mobile affects.
+Act2       -More Mobile attributes.
+Wear-loc   -Where mobile wears object.
+Spells     -Names of current spells.
+Weapon     -Type of weapon.
+Container  -Container status.
+Liquid     -Types of liquids.
+Ac         -Ac for different attacks.
+Form       -Mobile body form.
+Gate       -Portal/Gate types.
+Furniture  -Furniture flags.
+Part       -Mobile body parts.
+Imm        -Mobile immunity.
+Res        -Mobile resistance.
+Vuln       -Mobile vlnerability.
+Off        -Mobile offensive behaviour.
+Guard_dir  -Mobile guard direction behaviour.
+Action     -Mobile guard action behaviour.
+Size       -Mobile size.
+Position   -Mobile positions.
+Material   -Material mob/obj is made from.
+Wclass     -Weapon class.
+Wtype      -Special weapon type.
+
+2.) Version
+      Syntax: version
+
+        Well...how else can I explain this one..heh. Lets just show you what ha
+ppens.
+
+ILAB Online Creation [Beta 1.0, ROM 2.3 modified]
+     By Jason(jdinkel@mines.colorado.edu)
+     Modified for use with ROM 2.3
+     By Hans Birkeland (hansbi@ifi.uio.no)
+     Modified for use with ROM 2.4
+     By TSR Administration (realms.mat.net 9000)
+     Nikki and Beowolf of TSR MUD.
+     (Apr. 7, 1995 - ROM mod, Apr 16, 1995)
+     Original by Surreality(cxw197@psu.edu) and Locke(locke@lm.com)
+
+IV. ROOM FLAGS, EXITS, AND SECTORS.
+
+1.) ROOM FLAGS.
+     Syntax: flag
+     Example: dark
+
+        This next section is the most complex section of the rooms. It deals wi
+th
+adding room flags and also sectors and exits. To add either a flag or a sector
+simply type out the flag or sector name by itself. To see a list of available r
+oom
+flags type ? room. This will give you a nice list of flags. simply type one or
+more
+of the flags that you want into the room at the prompt. I have found a printed
+manual should contain the flags. Since I got a question about what some of the
+flags were for I have included the flag as well as a brief description of it.
+
+dark-----------A light source must be carried to see in this room.
+no_mob-------Monsters can not enter this room.
+indoors--------Room is inside and is not affected by weather.
+private--------Room is limited to just two characters.
+safe-----------Safe from pkilling and agressive monsters.
+solitary--------One character only can enter this room.
+pet_shop------Must be set if the shop sells pets.
+no_recall------Players can not use the recall command to leave.
+imp_only------Player has to be level 160 to enter the room.
+gods_only-----Player must be level 153 or higher to enter the room.
+heroes_only---Player must be level 151 or higher to enter the room.
+newbies_only--Player must be level 1-5 to enter room.
+law------------UNUSED.
+nowhere-------UNUSED.
+bank-----------Must be set if the room is a bank.
+arena-----------Must be set if the area is part of the arena. (do not set).
+silence----------Players can not cast spells from this room.
+underground----The room is a cave and may cave in on the player.
+
+
+2.) SECTOR:
+      Syntax: flag
+      Example: city
+
+        To see a list of available sectors type ? sector. This will give you a
+list of all possible sector flags. To set this also just type the name of the
+sector you want at the prompt. Here is a current list of sector types and
+how many movement points it uses. Each should be self expainitory.
+
+Sector        Movement points        Misc Info
+--------       ----------------          ----------
+inside                       1
+city                           2
+field                          2
+forest                        3
+hills                           4
+mountain                   6
+swim                         4                  Swimmable
+noswim                      -                  Boat required
+air                              -                  Fly spell required
+desert                        9                  Affects thirst and recovery.
+underwater                 4                 Breathe underwater spell required.
+
+
+
+3.) EXITS.
+
+        This is perhaps the hardest thing that people seem to mess up. In fact
+it is quite simple to understand. You first begin by typing out the direction
+in which you want an exit to go. (example: north.) This is followed by
+different commands depending on what you want it to do. I will give and
+example of each kind, due to the fact that most people get confused here.
+
+
+A.) Making an exit connect to a room that has not been created yet.
+      ----------------------------------------------------------------
+
+Step 1.) direction dig vnum
+   example: north dig 401
+
+This creates room 401 as it links the room your working on to it. To be more
+precise...what this does is this...It makes a two way exit (north and south
+from the example I used) and creates a new room...*note-If the room on
+the other side already exists then DO NOT, I repeat, DO NOT use this
+command....only do this if the other room you are linking this one to
+hasn't been made yet...otherwise you will see the following error...
+
+REdit:  Room vnum already exists.
+
+If the command is successful you will get this on a line...
+
+Room created.
+Two-way link established.
+
+B.) Making an exit connect to an already existing room.
+      ----------------------------------------------------
+
+Step 1.) direction link vnum
+    example: north link 401
+
+This will link the room your working on to room 401. For example...lets say
+you have already made a room 401 and you are in room 400. All you have to do
+is use this command and the rooms will link...
+
+C.) Making a one way ONLY exit to a room. (use with caution.)
+      --------------------------------------------------------------
+
+Step 1.) direction room vnum
+   example: north room 401
+
+This will make a one way exit from the room you are working on to room 401.
+Be very careful with this one...This should be used sparsely...I will let you
+know if you are messing this command up...
+
+
+
+D.) Making an exit that can be only exited with a key. (note you must set the r
+oom
+      flag to door and closed. Also you must have created a object that is a ke
+y and
+      have its vnum. All of this is discussed later.)
+      -------------------------------------------------------------------------
+---
+
+Step 1.) direction key [insert object key vnum]
+   example: north key 400
+
+This will make it so that no one can open the door without key number 400.
+
+E.) Naming a doorway. (This is quite fun).
+      --------------------------------------
+
+Step 1.) direction name [insert doorname]
+    example: north name glass doorway.
+
+This gives the door a name. So if you want the players looking for that secret
+doorway use this command...For example instead of open door the player
+would have to type open glass to open this door...heck this is quite fun
+because you can call it anything you want...you could even call it the ground
+or something so the player would have to type open ground. Very cool and
+fun command...use this all you want...get brownie points with the imms for
+using this one :P
+
+F.) Describing the exit.
+      -------------------
+
+Step 1.) direction desc
+    example: north desc
+
+This will once again put you into an editor and allow you to describe your
+exit. This is a very fun to do and makes your area much more alive. Once again
+a big brownie point from the imms here. :P
+
+G.) DELETING an exit.
+      --------------------
+
+Step 1.) direction delete
+  example: north delete.
+
+This will delete the directions exit from the room you are currently editing.
+
+F.) Setting EXIT FLAGS.
+      -----------------------
+
+This is also a place where most people become extremely confused.  IN fact it
+is quite simple.
+
+Step 1.) direction [insert flag or flags here.]
+   example: north door closed locked
+
+This will set the door to the north to be closed, locked and a door. You can
+have all the flags on or you could have just one flag on. For a list of the
+exit flags type ? exit. For more information on exits see help exit.
+
+That concludes the OLC lesson in Room editing.
+
+
+
+
+Chapter 3- Objects Galore.
+--------------------------------
+
+(Remember to type what it says in each step.) Also for further reference
+while on line you can type commands to see what OLC commands are available
+or see help olc. Also to see how your area is coming along at any time simple
+type show. To get out of the editor at any time type done. In this section
+if you need more help see help oedit.
+
+Below is a look at what it will look like from inside the Object Editor. I
+have included Notes inside the *'s of what everything is:
+
+<OEDIT> <1000hp 1000m 1000mv>   *Once again that wonderful prompt*
+
+*when you hit return inside the editor or type show this next part will be disp
+layed.
+ I take this example from the city I am creating*
+
+Name:        [wicked short sword]
+Area:        [   49] [  ALL  ] The City of Shadows.
+Vnum:        [ 8600]
+Type:        [weapon]
+Level:       [  100]
+Wear flags:  [take wield]
+Extra flags: [glow hum]
+Material:    [unknown]
+Condition:   [  100]
+Weight:      [    2]
+Cost:        [  100]
+Short desc:  a wicked shortsword
+Long desc:
+     A wicked shortshord lies here.
+[v0] Weapon class:   sword
+[v1] Number of dice: [8]
+[v2] Type of dice:   [8]
+[v3] Type:           wrath
+[v4] Special type:   none
+
+        So now your saying it again, "what the hell is all that stuff and what
+does it
+mean?" Let me show you what commands you have available inside the <OEDIT> <100
+0hp 1000m 1000mv>  promt, or more commonly known, OBJECT EDITOR.
+
+A listing of all the commands follows:
+-------------------------------------
+addaffect      commands       cost           create         delaffect
+ed             long           name           short          show
+v0             v1             v2             v3             v4
+weight         extra          wear           type           material
+level          condition      ?              version        spell
+----------------------------------------------------------------------------
+
+I. COMMANDS AND HOW TO USE THEM.
+
+1.)  Addaffect & Delaffect
+      Syntax:  addaffect [location] [#mod]
+      Syntax: delaffect [#affect]
+      Example: addaffect str +3
+      Example: delaffect 0
+
+
+        Ok...here are where the modifications come into play...Lets say
+you want to make that cool new item a +3 to strength and -1 to inititive...
+cool...this is how you do it...Just remember that when using this command
+that you have a positive and a negative to it...Remember we are striving for
+balance here...
+
+Current listing of things you can affect:
+
+str     (Strength)       int   (Intelligence)   con   (Constitution)
+dex     (Dexterity)      wis   (Wisdom )   sex
+Charisma                 hitroll                     ac
+damroll                  mana                   hitpoints
+movement
+
+If you goof up and addaffect that you didn't want simply do a show....
+(or hit return...) look at the number For example :
+
+Number Modifier Affects
+------ -------- -------
+[   0] 1        strength
+
+Would be in the  list...to delete this...simply use delaffect....
+
+
+2.) Commands.
+      Syntax: commands
+
+        This command will show you the various commands of the editor that you
+are
+in. The example of this command is the line above, where all the commands are l
+isted.
+
+
+3.) Cost
+     Syntax: cost [gold]
+     Example: cost 10000
+
+This simply sets the amount of gold that the object is worth. Please do not go
+too high when using this.
+
+4.) Create
+     Syntax: edit object create vnum
+     Example: edit object create 400
+
+        This command will create the room vnum that you wish to make. What else
+can I say about this? Any questions? Good.
+
+5.) Ed
+      Syntax:  ed add     [keyword]
+                   ed edit     [keyword]
+                   ed delete  [keyword]
+                   ed format [keyword]
+
+        This command is the exact same as the ROOM EDITOR command of ed.
+The only difference of this ed is that you set it on objects.
+
+6.) Long
+     Syntax: long [long desc]
+     Example: long The longsword is resting on the ground in front of you.
+
+        This sets the long description of the item. It is what the players see
+if
+they walk into a room and it is on the floor.
+
+7.) Name
+     Syntax: name [names]
+     Example: name longsword sword
+
+        This sets the names of the objects. If you call it just a longsword the
+n the
+players will have to type the whole word longsword to get it. it is always
+best to name it at least two things.
+
+8.) Short
+     Syntax: short [desc]
+     Example: short a longsword.
+
+        This is what is displayed when you look at a character or look in your
+inventory to see what you have. In this example if you were to have this item
+in your inventory you would read a longsword. Simple eh?
+
+9.) Show
+     Syntax: show
+     ALSO: [return] (hitting return is an alias for typing show)
+
+        This command is the same as the one in the ROOM EDITOR.
+
+10.) V0, V1, V2, V3, & V4
+        Syntax: v0 [number or flag]
+        Syntax: v1 [number or flag]
+        Syntax: v2 [number or flag]
+        Syntax: v3 [number or flag]
+        Syntax: v4 [number or flag]
+        Example: v0 12
+
+        This command is difficult to explain without all the differernt types
+explained in this section as well. So what I have decided to do is to place
+the Values of the Object at the bottom of the list in the APPENDIX. If you
+type v0 with NO arguments This will show you all the flags values. For example
+(this next part is from the header at the top of the objects section)
+
+<OEDIT> <1000hp 1000m 1000mv> v0   *what I typed*
+ITEM_WEAPON                                      *what I got...*
+   value 0    weapon class.
+   value 1    number of dice to roll.
+   value 2    type of dice to roll.
+   value 3    weapon type.
+   value 4    special weapon type.
+
+An up-to-date list of values can be obtained by typing
+? WCLASS
+help WEAPON_DICE
+? WEAPON
+? WTYPE
+
+*Note: each item type should automatically display values (the v0's...) There
+are only a few objects that I know of that do NOT display...(one being
+furnature) I am planning on getting this fixed though...so if you find an
+object that is supposed to have values note it to me  a.s.a.p
+so that I can add it into the code...*
+
+11.) Weight
+        Syntax: weight [number]
+        Example: weight 10
+
+        This is really self explanatory. In this example we have set the items
+weight to 10.
+
+12.) Extras
+       Syntax:  extra [flag]
+       Example: extra glow hum
+
+        This commands sets the the extra flag of the object. To see a
+complete list of extras type ? extra. So what exactly are extra flags?
+I am glad you asked. An extra flag is a visual effect and other controls
+on how the object may be used. A listing of extra flags are as follows:
+
+glow               hum                dark               lock
+evil               invis              magic              nodrop
+bless              anti-good          anti-evil          anti-neutral
+noremove           inventory          nopurge            rot-death
+vis-death          nonmetal           no_locate          melt_drop
+had_timer          sell_extract       burn_proof         nouncurse
+
+13.) Wear
+        Syntax: wear [flags]
+        Example: wear take wield
+
+        Wear flags determine where an object may be worn. Note that
+if you want the item to be able to be picked up that you MUST flag it
+as TAKE, as well as having a wear location flagged if the object is to
+be worn. Leaving off a take flag but flagging it wearable will make it
+impossible to pick up the object if the object is dropped. Also note that
+objects can NOT have multiple wear locations. (Take does NOT count
+as a wear location, it only determines if the item can be picked up). To
+see a complete list of flags for the wear command type ? wear. This will
+set the object if it is wearable or not. Here is an up-to-date list:
+
+take               finger             neck               body
+head               legs               feet               hands
+arms               shield             about              waist
+wrist              wield              hold               float
+no_sac
+
+
+14.) Type
+       Syntax: type [type]
+       Example: type weapon
+
+        The type is what kind of object the thing is. This is very important
+and it will determine what Values or (v0-v4) you will use. To see a complete
+list of types please type ? type. This will set the type of object it is. Here
+is
+a current list of types:
+
+light              scroll             wand               staff
+weapon             treasure           armor              potion
+furniture          trash              container          drink-container
+key                food               money              boat
+npc corpse         fountain           pill               clothing
+protect            map                jukebox            portal
+warp_stone         room_key           gem                jewelry
+saddle
+
+*note that the jukebox type shouldn't be used...this is changing to bard.
+Instead of a jukebox playing you will hear a bard singing :) *
+
+15.) Material
+       Syntax: material [flag]
+       Example: material
+
+This sets what the object is made out of .
+
+*Note- Right now there is no material set...so ? material shows none...I will
+try and fix this later though this isn't important to the MUD.*
+
+16.) Level
+       Syntax: level [number]
+
+        This command sets the level of the object that you are making. Remember
+to set the level at the mobs level you are giving the object to. Also remember
+the
+7 level rule. A player or a mob may wear eq higher than them by 7 levels.
+
+17.) Condition
+       Syntax:  condition [number]
+
+        This part is not fully implemented into the code yet but go ahead and u
+se this
+field. The number can range from 0 (ruined) to 100 (perfect).
+
+
+
+This concludes the Chapter on Objects. I have included a list of Tables at the
+end of this manual which contain ALL of the Values of Objects...Now your
+ready to tackle Mobs...
+
+18.) spell
+     Syntax: spell <add/delete> <spell name> <level>
+ 
+This is a very powerful command, and I dont want you to use it without GREAT 
+reason, like for eq from a damn level 100 mob. this commands adds a permanent 
+spell on an item. Be warned: I will strip eq from an area where spelled eq
+isn't justified.
+
+
+
+
+
+Chapter 4.- MOBILES. (Monsters that are nasty.)
+-----------------------------------------------------------
+
+(Remember to type what it says in each step.) Also for further reference while
+on line you can type commands to see what OLC commands are available or see
+help olc. Also to see how your area is coming along at any time simple type
+show. To get out of the editor at any time type done. In this section if you
+need more help see help medit.
+
+Below is a look at what it will look like from inside the Mobile Editor. I have
+
+included Notes inside the *'s of what everything is:
+
+<MEDIT> <1000hp 1000m 1000mv>   *Once again that wonderful prompt*
+
+*when you hit return inside the editor or type show this next part will be
+displayed. I take this example from the immortal zone.*
+
+Name:        [Heimdall]
+Area:        [   11] [151 160] Immortal Zone
+Act:         [npc sentinel warrior]
+Vnum:        [ 1200]
+Sex:         [male]
+Race:        [human]
+Level:       [57]
+Align:       [   0]
+Hitroll:     [30]
+Hit dice:    [ 1d1  +19999]
+Damage dice: [ 5d4  +  40]
+Mana dice:   [ 1d1  + 499]
+Affected by: [none]
+2 Affected by: [mute]
+Armor:       [pierce: -200  bash: -200  slash: -200  magic: -100]
+Form:        [edible poison magical instant_decay other animal sentient undead
+c
+onstruct mist biped mammal]
+Parts:       [head arms legs heart brains guts hands feet fingers ear eye]
+Imm:         [mental]
+Res:         [magic weapon]
+Vuln:        [fire negative]
+Off:         [area_attack bash berserk disarm dodge fast kick parry rescue trip
+crush assist_guard mob_is_guard]
+Act2:        [mountable]
+Guard:       [guard_up]
+Action:      [check_race]
+Obj Pass:    [4]
+Size:        [large]
+Start pos.   [standing]
+Default pos  [standing]
+Gold:        [    0]
+Short descr: Heimdall
+Long descr:
+Heimdall, guardian of Bifrost, stands guard over the Rainbow Bridge.
+Description:
+Standing over 7 feet tall and muscled as only a god can be, Heimdall keeps
+his unsleeping gaze over the Rainbow bridge.  His trusty Gjallor-horn never
+leaves his side, and shall remain unwinded until the dread ship Naglfar sails
+towards Valhalla on the dawn of Ragnarok.
+
+
+        So now your saying it yet again, "what the hell is all that stuff and w
+hat does it
+mean?" Let me show you what commands you have available inside the <MEDIT> <100
+0hp 1000m 1000mv>  promt, or more commonly known, MOBILE EDITOR.
+
+A listing of all the commands follows:
+-------------------------------------
+alignment      commands       create         desc           level
+long           name           shop           short          show
+spec           sex            ac             act            affect
+mprog          form           part           imm
+res            vuln           material       off            size
+hitdice        manadice       damdice        damtype        race
+position       gold           hitroll                       action
+               ?              version
+
+----------------------------------------------------------------------------
+Ok....Now lets begin the lesson with MOBs...
+
+I. COMMANDS AND HOW TO USE THEM
+
+1.) Alignment
+     Syntax: alignment  [number]
+     Example: alignment -1000
+
+        This is what determines the alignment of the mob. Alignments may
+range from -1000 to 1000. Any number in between is fine. Remember that
+1000 is a real goody-goody and -1000 is the devil himself...namely me.
+*smirk*
+
+
+2.) Create
+     Syntax: edit mob create vnum.
+     Example: edit mob create 400.
+
+        This creates the mobile you will be making.
+
+3.) Desc
+     Syntax: desc.
+
+        Simply type this to enter the description editor. This will allow you t
+o
+make a description of the mob when a player looks at it. Make it at least
+2 lines. Use this editor just like editing Room descriptions.
+
+4.) Level
+     Syntax: level [number]
+     Example: level 100
+
+        This sets the mobs level. Pretty easy to understand I would hope.
+
+5.) Long
+     Syntax: long [desc]
+     Example: bo bo fet is standing here looking pissed off.
+
+        This is what players see when the enter the room with the monster in
+ it. Make sure there is a nice flavor here. Don't use so and so is standing her
+e,
+that gets rather old.
+
+6.) Name
+     Syntax: name [names]
+     Example: name bo hunter alcoholic
+
+        This command sets the names of the mobile. Make sure you name it
+at least the same thing that you see when a player sees its long description in
+ the
+room. This is what the player must type to look at the mob. Please do NOT use
+player names or Immortal names. If you are caught doing this you will be given
+one warning. If you do it two times you will be deleted.
+
+7.) Shop
+
+        *OPTIONAL* If you wish that mob to be a shopkeeper please use
+the shop command. just type shop for further details. This is further detailed
+in
+the Shops section of  this manual.
+
+8.) Short
+     Syntax: short [desc]
+     Example: short bo bo fet.
+
+        This sets the mobs short name. It is what is displayed on the shadow
+whisper channel  when a player is killed by it.
+
+9.) Spec
+     Syntax: spec spec_[type]
+     Example: spec spec_guard
+
+        To see a list of spec types type ? spec. I have also included with this
+
+version of the OLC manual a detailed listing of what each spec is for. Here are
+
+a current list of spec types:
+
+Make sure to preceed special functions with 'spec_'
+
+breath_any---------Monster can use any breath spell.
+nasty---------------Monster attacks, robs, and runs (set act thief flag for thi
+s too)
+troll_member-------Monster attacks ogre gang members
+ogre_member------Monster attacks troll gang members
+patrolman----------Monster will break up gang fights
+questmaster--------Monster will give quests
+breath_acid--------Monster breathes acid in combat.
+breath_fire---------Monster breathes fire in combat.
+breath_frost--------Monster breathes frost in combat.
+breath_gas---------Monster breathes poison gas in combat.
+breath_lightning----Monster breathes lightning in combat.
+cast_adept--------Monster casts helpful spells on low level players.
+cast_cleric---------Mob casts cleric spells (set act cleric)
+cast_judge---------Mob fires blasts of bullet type spells.
+cast_mage---------mob casts mage spells (set act mage)
+cast_undead-------mob casts undead spells.
+executioner--------Mob attacks players will KILLER and THIEF flags
+fido----------------Mob will eat corpses
+guard--------------Mob will protect good-aligned players from attack.
+
+janitor--------------Mob picks up items on ground.
+mayor--------------Mob will do mayor type things.
+poison-------------Mob has poison attacks.
+thief ---------------Mob steals gold (set act thief)
+sect_guard---------Mob guards rooms (see the Mob guardian section)
+
+*Note that spec_questmaster will not be used by anyone but Beowolf...also
+DO NOT set any mobs with spec_mayor. These two are unique to the Main city.*
+
+10.) Sex
+       Syntax: sex [male, female]
+       Example: sex male
+
+        This sets the sex of the mob. Self explanatory.
+
+11.) Ac
+       Syntax: ac [# # # # ]
+       Example: ac 9 9 9 9
+
+        This sets the mobs ac. See help Mob_ac for a list of ac's We want
+you to stick with. Also this is listed on a Table in the back of this manual.
+
+12.) Act
+       Syntax: act [flags]
+       Example: act practice
+
+        This sets what the mob is. For a list of flags type ? act for a list. I
+ have
+decided yet again to explain what eact flag does. This is a current list of act
+
+flags and what they do:
+
+sentinel---------------Mob will not wonder. will stay in one room.
+scavenger------------Mob picks up items off the ground.
+aggressive------------Mob will attack any character who enters.
+stay_area-------------Mob will not leave the zone.
+wimpy----------------Mob will flee when hurt.
+pet-------------------Mob is a pet.
+train------------------Mob can train a player's trains
+practice--------------Mob can practice a players stats.
+undead--------------Mob has special undead powers.
+cleric----------------Mob has clerical powers
+mage----------------Mob has mage powers.
+thief------------------Mob has thief powers.
+warrior---------------Mob has warrior powers.
+noalign---------------Mob is unaligned.
+nopurge--------------Mob is not removed by purge or clean command.
+outdoors-------------Mob will not wonder outside a building.
+indoors---------------Mob will not wonder into a building.
+healer----------------Mob can heal players.
+gain------------------Mob can grant new skills.
+update_always-------Mob is always updated. (rarely needed)
+changer--------------Mob can change coins.
+banker---------------Mob runs a bank.
+
+13.) Affect
+       Syntax: affect [affect flags]
+       Example: affect sanc
+
+        This sets what the mob is affected by. I still did not see a reason
+to explain these flags. If you are still confused what these flags do then
+please recomend that I write what each ones does for Volume V of the
+OLC manual. For example you can have the mob all sanced and spelled
+up :). Use these with caution. Type ? affect for a list. Below is a current lis
+t
+of affects:
+
+blind              invisible          detect_evil        detect_invis
+detect_magic       detect_hidden      detect_good        sanctuary
+faerie_fire        infrared           curse              poison
+protect_evil       protect_good       sneak              hide
+sleep              charm              flying             pass_door
+haste              calm               plague             weaken
+dark_vision        berserk            swim               regeneration
+slow
+
+
+*Note that to make a more realistic MUD...sometimes its fun to place bad
+spells on mobs. If you do sanc up a mob at least have a reason to do it*
+
+
+
+14.) Form
+       Syntax: form [flags]
+       Example: form  reptile
+
+        This sets the form flags. For a list of these type ? form Here is a
+updated list:
+
+edible             poison             magical            instant_decay
+other              animal             sentient           undead
+construct          mist               intangible         biped
+centaur            insect             spider             crustacean
+worm               blob               mammal             bird
+reptile            snake              dragon             amphibian
+fish               cold_blood
+
+
+15.) Part
+       Syntax: part [flags]
+       Example: part head arms legs heart brains guts hands feet fingers ear ey
+e
+
+        
+        This sets what body parts the mob has. For a list type ? part. Here is
+an
+updated list:
+
+head               arms               legs               heart
+brains             guts               hands              feet
+fingers            ear                eye                long_tongue
+eyestalks          tentacles          fins               wings
+tail               claws              fangs              horns
+scales             tusks
+
+16.) Imm
+       Syntax: imm [flags]
+       Example: imm magic
+
+        This determines what the mob is immune to. For a list type ? imm
+Here is a list:
+
+summon         charm           magic         weapon
+bash           pierce          slash         fire
+cold           lightning       acid          poison
+negative       holy            energy        mental
+disease        drowning        light         sound
+wood           silver          iron
+
+17.) Res
+       Syntax: res [flags]
+       Example: res magic
+
+        This determines what the mob is resistant to. For a list type ? res
+Same flags as imm...vuln is the same way too..
+
+18.) Vuln
+       Syntax: vuln [flags]
+       Example: vuln weapon
+
+        This determines what a mob is vulnerable to. For a list type ? vuln.
+
+19.) Material
+       Syntax: material [material flag.]
+       Example: material none
+
+        This is not yet implemented into Aydindril code. 
+
+20.) Off
+       Syntax: off [flags]
+       Example: off bash
+
+        This sets what happens when a mob attacks. For a list type ? off
+Here is a list and what they mean:
+
+area_attack-------------------Mob hits ALL characters fighting against it.
+
+backstab---------------------Mob can backstab to start combat.
+bash--------------------------Mob can bash characters off thier feet.
+
+berserk-----------------------Mob may go beserk in a fight.
+disarm------------------------Mob can disarm _without_ a weapon wielded.
+
+dodge------------------------Mob will dodge blows.
+fade--------------------------Mob can fade out of phase to avoid blows.
+
+fast---------------------------Mob is fater than most others, so has extra atta
+cks.
+kick--------------------------Mob can kick in combat for extra damage.
+
+dirt_kick---------------------Mob kicks dirt, blinding opponent.
+parry------------------------Mob can parry _without_ a weapon wielded.
+
+rescue----------------------Mob may rescue allies in a fight.
+tail--------------------------Mob can legsweep with its tail.
+trip-------------------------Mob trips in combat. (not the acid eating kind eit
+her :P)
+crush-----------------------Mob can crush opponents in its arms.
+assist_all--------------------Mob will help all other mobs in combat.
+assist_align------------------Mob will assist mobs of the same alignment.
+
+assist_race-------------------Mob will assist mobs of the same race.
+assist_players----------------Mob will assist players with same race and alignm
+ent.
+assist_guard------------------Mob will assist like a cityguard.
+assist_vnum------------------Mob assists other mobs of the same vnum only.
+
+mob_is_guard----------------Needed for Mob Guardian.
+
+21.) Size
+       Syntax: size [size]
+       Example: size small
+
+        This sets how big the mobile is. Here is a listing of the current flags
+:
+
+small              medium             large              huge
+giant
+
+
+22.) Hitdice
+       Syntax: hitdice [#d#+#]
+       Example: hitdice 1d2+6
+
+        This sets the hitdice of the mobile. A high number of dice makes
+for less variance in the mobs hitpoints. For a suggested list please see help
+hitdice. Try and use the values there. There is a table list at the end of this
+
+manual.
+
+23.) Manadice
+       Syntax: manadice <level> d 10 + 100
+       Example: manadice 100d10+100
+
+        All you need to know for this is to put the level in and type the rest
+out...
+pretty simple eh?
+
+24.) Damdice
+       Syntax: damdice [#d#+#]
+       Example: damdice 2d3+2
+
+        This is how much damage that a mob will inflict to a player. please rea
+d
+help Damdice for a suggested list. Table at the end of this Manual.
+
+25.) Verb 
+       Syntax: verb <damage verb>
+       Example: verb acidic-bite
+
+        A mobiles damage type defines three things: what message is seen when it
+attacks in combat, what armor class is used to defend against the attack, and 
+also what type of resistance or vulnerability affects the damage received from 
+the attack.
+The following damage types are supported.
+
+hit                slice              stab               slash    
+whip               claw               blast              pound              
+crush              grep               bite               pierce             
+suction            beating            digestion          charge             
+slap               punch              wrath              magic              
+divine-power       cleave             scratch            peck-pierce        
+peck-bash          chop               sting              smash              
+shocking-bite      flaming-bite       freezing-bite      acidic-bite        
+chomp 
+
+
+26.) Race
+       Syntax:
+       Example:
+
+        This command will set what race the mob is. Here is a listing of the Ra
+ces:
+
+Available races are:
+ unique          human           elf
+ dwarf           giant           demon
+ sprite          vampre          bodak
+ sithid          bat             bear
+ cat             centipede       dog
+ doll            dragon          fido
+ fox             goblin          hobgoblin
+ kobold          lizard          modron
+ orc             pig             rabbit
+ school monster  snake           song bird
+ troll           water fowl      wolf
+ wyvern          unique
+
+
+29.) Position
+       Syntax:
+       Example:
+
+        This will set the position that the mob is loaded into the room as. The
+default is standing. So unless you don't want the mob to be standing up You
+will not have to set this. Here are the positions for the mobs.
+
+sleeping           resting            sitting            standing
+
+30.) Gold
+        Syntax:
+        Example:
+
+        This sets how much trasure is carried by the monster. Most mobs will
+carry no more than 100 coins per level, and usually much less unless they are
+supposed to be wealthy. Non-intelligent mobs should have 0 gold.
+
+31.) Hitroll
+       Syntax:
+       Example:
+
+        This statistic is normally 0, but with mobs with exceptional combat
+abilities it may be higher. Clumsy mobs may deserve a -1 or lower. If you
+do not wish to set this then don't worry about it. It will automatically set
+this to 0 for you.
+
+32.) MOBprog 
+      Syntax: mprog <#> <vnum> add/delete <trigger> <argument>
+      Example: mprog 1 3001 add speech fine day
+	
+	This is amother part of the ever complex MOBprogs. This command
+will link an existing MOBprog to a mobile. This is all explained in the
+MOBprog docs. (http://www.sover.net/~pdp10/mobprogs.txt) 
+
+
+Chapter 5.- RESETS;  is This the hidden word for Confusion?
+------------------------------------------------------------------------
+
+Well here we are in the tricky section of OLC...So you got your mobs and
+objects done eh? congratulations! Now your ready for resets and I am
+telling you these things are confusing...I will do my best to explain
+these things...
+
+For resets to be successful make sure that you add them in a logical order.
+For example if you are equiping a mobile don't load a container in the room
+and fill it with some objects and then continue equiping the mobile.  It is
+likely that resets will backfire if they are not carefully entered.
+
+I. How the hell do I use these reset commands anyways and what are they?
+
+A listing of all the commands follows:
+-------------------------------------
+reset   mreset  oreset  mlist   olist   mshow   oshow
+----------------------------------------------------------------------------
+
+        Before you begin you should remember that you should be inside your
+room and also in the room editor. You will need to get familiar with all of the
+se
+commands.
+
+1.) Reset
+     Syntax: reset
+
+        This command doesn't need to be done inside the room editor. You can
+check your rooms resets with this command. You will see something very simular
+to this:
+
+Resets: M = mobile, R = room, O = object, P = pet, S = shopkeeper
+ No.  Loads    Description    Location     Vnum   Max   Min   Description
+==== ======== ============= ============= ======= ===== ===== ============
+[ 1] M[10001] Goldmoon      in room      R[10002] [  1] [  1] Small Grove
+[ 2] O[10003] a blue crysta none                M[10001]       Goldmoon
+[ 3] O[10013] leather armor on the body         M[10001]       Goldmoon
+[ 4] M[10003] Riverwind     in room      R[10002] [  1] [  1] Small Grove
+[ 5] O[10008] silver longsw wielded             M[10003]       Riverwind
+[ 6] O[10013] leather armor on the body         M[10003]       Riverwind
+
+
+Your probably wondering what all that stuff means...well you will come to
+understand as we move through each command.
+
+2.) Mreset
+     Syntax:  mreset <vnum> <max #> <min #>
+     Example: mreset 400 4 2
+
+        Ok. This command will load your mob into the room. You type it
+in the order of mob vnum, how many can be in the mud at once, and finally
+how many will be loaded into the room. If you will be giving your mob any
+equipment make sure to do oreset next and then do your next mob.
+
+3.) Oreset
+     Syntax:  oreset <vnum> <args>
+                               -no_args               = into room
+                               -<obj_name> <number>   = into obj
+                               -<mob_name> <wear_loc> = into mob
+
+        
+        This next bit is a bit tricky. Just make sure that if you are wanting
+objects loaded onto a mob that you do it in a logical order. Load the mob
+first then the equipment that the mob is to have. Then move to the next mob
+and use this command again. Hopefully the syntax should be good enough
+to get you going. So I will not go into great detail exept to give examples.
+
+EXAMPLES OF ORESET:
+
+A.) Loading a object into a room (ie. on the floor)
+
+        Syntax: oreset vnum
+        Example: oreset 400
+
+B.) Loading a object into an object (ie. Gold into a chest)
+
+        Syntax: oreset vnum objectname number
+            Example: oreset 400 chest 2
+
+        This one needed to be explained a little. First off before you
+can use this command you have to load the object into the room.
+once the object is loaded into the room you can use this command.
+The number stands for how many items you are loading into the
+object. In the example I am loading object 400 (gold) into the
+chest. There will be 2 sets of gold (obj 400) in the chest to get.
+
+C.) Loading an object on a mob.
+
+        Syntax: oreset vnum mobname wear_location.
+            Example: oreset 400 beavis none
+
+        This command can only be used if you have added a mob into
+the room with the mreset command FIRST. A following is a listing of
+wear_location flags you may use:
+
+none               light              lfinger            rfinger
+neck1              neck2              body               head
+legs               feet               hands              arms
+shield             about              waist              lwrist
+rwrist             wielded            hold               float
+
+Simply type the none wear_location flag if you want the mob to have
+the item in its inventory. All other wear_locations will load the object
+to that part of the mob.
+
+4.) Mlist
+     Syntax:  mlist <all/name>
+     Example: mlist all
+     Example: mlist puff
+
+        This command will show you what mobs you have created inside
+your area. If you type mlist all it will show you the name of every mob
+that you have made in your area. This is very helpful if you forget about
+some of your mobs. You will also need this to tell you what that mobs
+vnum is so you can get the reset right. Here is an example of what mlist
+all would look like:
+
+[10001] Goldmoon         [10002] Fewmaster toede  [10003] Riverwind
+[10004] Baaz draconian   [10005] The farmer       [10006] Farm worker
+[10007] Barracuda        [10008] Turtle dragon    [10009] Farmers guarddog
+[10010] Strange fish     [10011] Hobgoblin        [10012] The white stag
+[10013] Old pooh bear    [10014] A large rat      [10015] A field mouse
+
+5.) Olist
+     Syntax:  olist <all/name/item_type>
+     Example: olist all
+     Example: olist sword
+     Example: olist weapon
+
+        This command is very simular to the mlist command. It basically
+is the same thing and is used the same way except if you need to locate
+an item by what type it is you can do that as well.
+
+6.) Mshow & Oshow
+     Syntax:  mshow <vnum>
+     Syntax:  oshow <vnum>
+     Example: mshow 300
+     Example: oshow 300
+
+        This command is also a bit helpful if you don't feel like re-entering t
+he
+object and mobile editors to find out what a mob or object is. These commands
+will quickly show you what you need to know. Here is an example of what one
+of these commands looks like (Hopefully it will look familiar to you):
+
+Name:        [Heimdall]
+Area:        [   11] [151 160] Immortal Zone
+Act:         [npc sentinel warrior]
+Vnum:        [ 1200]
+Sex:         [male]
+Race:        [human]
+Level:       [57]
+Align:       [   0]
+Hitroll:     [30]
+Hit dice:    [ 1d1  +19999]
+Damage dice: [ 5d4  +  40]
+Mana dice:   [ 1d1  + 499]
+Affected by: [none]
+2 Affected by: [mute]
+Armor:       [pierce: -200  bash: -200  slash: -200  magic: -100]
+Form:        [edible poison magical instant_decay other animal sentient undead
+c
+onstruct mist biped mammal]
+Parts:       [head arms legs heart brains guts hands feet fingers ear eye]
+Imm:         [mental]
+Res:         [magic weapon]
+Vuln:        [fire negative]
+Off:         [area_attack bash berserk disarm dodge fast kick parry rescue trip
+crush assist_guard mob_is_guard]
+Act2:        [mountable]
+Guard:       [guard_up]
+Action:      [check_race]
+Obj Pass:    [4]
+Size:        [large]
+Start pos.   [standing]
+Default pos  [standing]
+Gold:        [    0]
+Short descr: Heimdall
+Long descr:
+Heimdall, guardian of Bifrost, stands guard over the Rainbow Bridge.
+Description:
+Standing over 7 feet tall and muscled as only a god can be, Heimdall keeps
+his unsleeping gaze over the Rainbow bridge.  His trusty Gjallor-horn never
+leaves his side, and shall remain unwinded until the dread ship Naglfar sails
+towards Valhalla on the dawn of Ragnarok.
+
+Well congradulations. You made it through the hairy things known as resets!
+
+The next sections have not changed. I decided that they looked good as
+they were. If you think I should change the way these next two are written
+be sure to let me know.
+
+Chapter 6.- Shops. Those Fun places where you Buy things.
+----------------------------------------------------------------------
+
+Now this section really isn't hard at all...it is done within the Mob editor...
+So turn it on and lets go....
+
+Step 1.) edit mob <vnum>
+       example: edit mob 8600
+
+make sure that this is the mob that you want to be the shopkeeper.
+
+step 2.) shop hours [#opening] [#closing]
+        example: shop hours 1 24
+
+This sets the shops hours. If you want the shop to only be open 1 hour a day
+it is possible...just set the time...a 1 24 shop is open 24 hours.
+
+step 3.) shop profit [#buying%] [#selling%]
+        example: shop profit 10 100
+
+This shopkeeper would sell things at 100% markup and buy things at 10% of
+thier price.
+
+step 4.) shop type [#0-4] [item type]
+        example: shop type 0 weapon
+
+This would place the shop to buy weapons. You can set up to 5 of these. Same
+flags as object type. see ? type inside the editor.
+
+That is all there is to it...Make sure that you have the resets done right...
+You MUST have loaded the mob with the items you want it to sell into its
+inventory.
+
+example: oreset 8600 puff none
+
+This places object 8600 into puff's inventory...and thus if he is a shopkeeper
+will sell it.
+
+PETSHOPS
+--------------
+
+These are done in the same fashion...only one difference...you DO NOT load
+the mobs onto the shopkeeper...you MUST make a room 1 vnum higher than
+the petshops room. DO NOT connect this room to the shop or to any room in
+the MUD.
+        So for example if you have a petshop with the vnum of 6400 the petshop
+must have a backroom to keep the pets in...so 6401 would do it...just
+load the pets into room 6401 and you will be set....Also make sure you flag
+the room as pet_shop. Otherwise it won' work. Its as easy as that to make a
+petshop :).
+
+Oooops, I don't want the shop to buy those anymore....
+
+        simple just do this step...
+
+step 1.) shop delete [#0-4]
+               example: shop delete 0
+
+Its as easy as that...Now you should know everything you need to know about OLC
+.
+If you find anything that I have left out let me know at once!
+
+
+
+                                TABLES
+                              -----------
+
+OBJECT VALUES TABLES
+-----------------------------------
+In these tables only the appropriate values are given...ALL other values
+are assumed to be 0 (zero).
+
+Light-
+v2----------hours available, 0 dead, -1 infinite
+
+Weapons-
+v0----------weapon class.  (see ? wclass )
+v1----------number of dice to roll. (see help weapon_dice)
+v2----------type of dice to roll. (see help weapon_dice)
+v3----------weapon type. (see ? weapon)
+v4----------special weapon type.  (see ? wtype)
+
+Furniture-
+V0 is the number of people that can fit onto the piece of furniture
+(in the case of the couch, 2 people).  V1 is the total weight the
+piece of furniture can support (200 pounds here, meaning while in
+theory 2 people can sit on the couch, the people sitting on it can't
+weigh more than a total of 200 pounds).  V2 is furniture flags, which
+determine the message to the room when the person uses the furniture
+in various different ways.  The couch can be sat on, rested on, slept
+on, stood on, and have things put on it.  However, a bathtub might be
+sit in, rest in, have no setting for sleep (sleeping in a bathtub is
+a bad idea) and allow things to be put in it -- hence the configurability
+on the messages.  You can only flag the furniture with one of each type
+of message -- one sit, one rest, one sleep, one stand and one put --
+and you don't have to use all of them, like I said in my bathtub
+example.  V3 determines how much of a healing bonus or penalty the person
+receives for using the furniture -- V4 determines the mana recovery bonus
+or penalty. 100 is normal heal/mana recovery.
+
+A list of furniture flags for V2 follows:
+
+A       Stand at      F   Sit in        K  Sleep on     P Put Inside
+B       Stand on      G   Rest at       L   Seep in
+C       Stand in      H   Rest on       M  Put at
+D       Sit at        I   Rest in       N   Put on
+E       Sit on        J   Sleep at      O   Put in
+
+(Note that the Put flags in furniture are not yet enabled, but please design yo
+ur furniture using them anyhow, so that when the code is written, your area wil
+l be current to it.)
+
+Scolls, Potions, Pills-
+v0--------level
+v1--------spell name 1
+v2--------spell name 2
+v3--------spell name 3
+v4--------unused
+
+An up-to-date list of spells can be obtained by typing:
+? SPELLS [ignore/attack/defend/self/object/all]
+
+Food-
+v0----------hours of food value
+v1----------0
+v2----------0
+v3----------poisoned?
+v4----------0
+
+Staff or wands.-
+v0----------level of staff or wand
+v1----------max charges
+v2----------current charges
+v3----------spell names
+v4----------0
+
+An up to date list of the spells can be found typing ? spells with the
+argument [ignore/attack/defend/self/object/all]
+Example: ? spells all
+This would list all the spells available.
+
+Armor-
+v0----------ac pierce
+v1----------ac bash
+v2----------ac slash
+v3----------ac exotic (magic)
+v4----------0
+
+Container-
+v0----------weight compacity
+v1----------flags: closeable, pickproof, closed, locked
+v2----------key vnum
+v3----------0
+v4----------0
+
+Money-
+*NOTE this isn't working right now...will be working on getting fixed soon*
+v0----------value in Silver.
+v1----------Value in Gold.
+v2----------0
+v3----------0
+v4----------0
+
+Drinks.-
+v0----------capacity
+v1----------current quantity
+v2----------liquid type (to see the list type ? liquid)
+v3----------poisoned?
+v4----------0
+
+A list of liquids:
+water             beer                 wine           ale
+dark-ale          whisky               lemonade       firebreather
+local-specialty   slime-mold-juice     milk           tea
+coffee            blood                salt-water     cola
+
+Portals.-
+V0 is the number of charges the portal has (for limited use portals) --
+similar to how a wand or staff has charges.  Set it to -1 for a permanent
+portal.  V1 is exit flags -- see the section of #ROOMS dealing with doors for a
+
+listing of usable exit flags. V2 is gate flags, a listing of which is at
+the end of this example. V3 is the vnum of the room that the portal goes to.
+V4 is unused, and held with a zero.
+
+Gate flags:
+
+A       Normal exit (should be set if no other portal flags are used)
+B       No curse (can't be used by people who are cursed)
+C       Go with (portal entrance moves with the person using it)
+D       Gate buggy (chance it will teleport the person to a random room)
+E       Random (will always teleport the person to a random room)
+
+Fountains-
+
+V0 and V1 for fountains are technically set the same as drink containers
+(max capacity and current capacity) but since a fountain holds an
+endless supply of liquid, usually V0 and V1 are set to some arbitrarily
+large number.  Any number above zero should work fine.  :)  V2
+is the type of liquid the fountain holds.  Any liquid in the table
+associated with drink containers will work in a fountain.  V3
+and V4 are held with zeroes.
+
+(And yes, you can have fountains of wine, or fountains of coffee :)
+
+----------------------------------------------------------------------------
+                              MOB TABLES
+
+***********************************************************************
+| Below are the Values you need to use for setting a mobs HITDICE:    |
+***********************************************************************
+| Lvl |     Dice      | Lvl |     Dice         | Lvl |     Dice       |
+***********************************************************************
+|  1  | 1d2+6         | 51  | 10d176+905       | 101 | 12d573+2775    |
+|  2  | 1d3+15        | 52  | 10d183+980       | 102 | 12d584+2815    |
+|  3  | 1d6+24        | 53  | 10d190+1010      | 103 | 12d596+2860    |
+|  4  | 1d13+33       | 54  | 11d179+1040      | 104 | 12d607+2905    |
+|  5  | 1d17+42       | 55  | 11d186+1070      | 105 | 12d619+2950    |
+|  6  | 1d25+45       | 56  | 11d192+1100      | 106 | 12d631+2990    |
+|  7  | 2d17+57       | 57  | 11d199+1130      | 107 | 12d643+3035    |
+|  8  | 2d22+69       | 58  | 11d206+1160      | 108 | 12d655+3080    |
+|  9  | 3d19+82       | 59  | 11d214+1195      | 109 | 12d667+3125    |
+| 10  | 3d22+96       | 60  | 11d221+1225      | 110 | 12d679+3175    |
+| 11  | 3d28+111      | 61  | 11d228+1255      | 111 | 12d692+3220    |
+| 12  | 4d25+124      | 62  | 11d236+1290      | 112 | 12d704+3265    |
+| 13  | 4d29+137      | 63  | 11d243+1325      | 113 | 12d717+3310    |
+| 14  | 5d27+151      | 64  | 11d251+1351      | 114 | 12d730+3355    |
+| 15  | 5d30+161      | 65  | 11d259+1390      | 115 | 12d743+3405    |
+| 16  | 5d35+180      | 66  | 11d267+1425      | 116 | 12d755+3450    |
+| 17  | 6d33+195      | 67  | 11d275+1455      | 117 | 12d769+3500    |
+| 18  | 6d37+211      | 68  | 11d284+1490      | 118 | 12d782+3545    |
+| 19  | 6d41+227      | 69  | 11d292+1525      | 119 | 12d795+3595    |
+| 20  | 6d45+244      | 70  | 11d300+1560      | 120 | 12d808+3640    |
+| 21  | 7d43+261      | 71  | 11d309+1595      | 121 | 12d822+3690    |
+| 22  | 7d47+278      | 72  | 11d318+1630      | 122 | 12d836+3740    |
+| 23  | 7d51+296      | 73  | 11d327+1665      | 123 | 12d849+3785    |
+| 24  | 7d56+315      | 74  | 11d336+1700      | 124 | 12d863+3835    |
+| 25  | 8d53+334      | 75  | 11d345+1735      | 125 | 12d877+3885    |
+| 26  | 8d57+353      | 76  | 11d354+1775      | 126 | 12d891+3935    |
+| 27  | 8d62+373      | 77  | 11d363+1810      | 127 | 12d905+3985    |
+| 28  | 8d66+393      | 78  | 11d373+1845      | 128 | 12d920+4035    |
+| 29  | 8d71+414      | 79  | 12d351+1885      | 129 | 12d934+4085    |
+| 30  | 9d61+416      | 80  | 12d360+1920      | 130 | 12d949+4135    |
+| 31  | 9d72+431      | 81  | 12d369+1960      | 131 | 12d963+4185    |
+| 32  | 9d77+453      | 82  | 12d378+2000      | 132 | 12d978+4235    |
+| 33  | 9d82+485      | 83  | 12d387+2035      | 133 | 12d993+4265    |
+| 34  | 9d87+518      | 84  | 12d396+2075      | 134 | 12d1008+4335   |
+| 35  | 9d92+541      | 85  | 12d406+2115      | 135 | 12d1023+4390   |
+| 36  | 9d97+564      | 86  | 12d415+2150      | 136 | 13d958+4440    |
+| 37  | 9d103+588     | 87  | 12d425+2190      | 137 | 13d972+4490    |
+| 38  | 9d108+612     | 88  | 12d435+2230      | 138 | 13d987+4545    |
+| 39  | 9d114+637     | 89  | 12d445+2270      | 139 | 13d1001+4600   |
+| 40  | 10d108+662    | 90  | 12d455+2310      | 140 | 13d1015+4650   |
+| 41  | 10d114+687    | 91  | 12d465+2350      | 141 | 13d1030+4700   |
+| 42  | 10d119+712    | 92  | 12d475+2395      | 142 | 13d1045+4755   |
+| 43  | 10d125+738    | 93  | 12d486+2435      | 143 | 13d1059+4810   |
+| 44  | 10d131+765    | 94  | 12d496+2475      | 144 | 13d1074+4860   |
+| 45  | 10d137+891    | 95  | 12d507+2515      | 145 | 13d1089+4915   |
+| 46  | 10d143+818    | 96  | 12d518+2560      | 146 | 13d1104+4970   |
+| 47  | 10d149+846    | 97  | 12d528+2600      | 147 | 13d1119+5025   |
+| 48  | 10d156+873    | 98  | 12d539+2645      | 148 | 13d1135+5080   |
+| 49  | 10d162+901    | 99  | 12d550+2685      | 149 | 13d1150+5135   |
+| 50  | 10d169+920    | 100 | 12d562+2730      | 150 | 13d1166+5190   |
+***********************************************************************
+
+-----------------------------------------------------------------------------
+
+***********************************************************************
+| Below are the Values you need to use for setting a mobs DAMDICE:    |
+***********************************************************************
+| Lvl |     Dice      | Lvl |     Dice         | Lvl |     Dice       |
+***********************************************************************
+|  1  | 1d2+0         | 51  | 5d10+25          | 101 | 5d20+50        |
+|  2  | 1d2+1         | 52  | 5d10+26          | 102 | 5d20+51        |
+|  3  | 1d3+2         | 53  | 5d11+26          | 103 | 5d21+51        |
+|  4  | 1d4+2         | 54  | 5d11+27          | 104 | 5d21+52        |
+|  5  | 2d3+2         | 55  | 5d11+27          | 105 | 5d21+52        |
+|  6  | 2d3+3         | 56  | 5d11+28          | 106 | 6d18+53        |
+|  7  | 2d4+3         | 57  | 5d12+28          | 107 | 6d18+53        |
+|  8  | 2d4+4         | 58  | 5d12+29          | 108 | 6d18+54        |
+|  9  | 2d5+4         | 59  | 5d12+29          | 109 | 6d18+54        |
+| 10  | 2d5+5         | 60  | 5d12+30          | 110 | 6d18+55        |
+| 11  | 3d4+5         | 61  | 5d12+30          | 111 | 6d19+55        |
+| 12  | 3d4+6         | 62  | 5d12+31          | 112 | 6d19+56        |
+| 13  | 3d5+6         | 63  | 5d13+31          | 113 | 6d19+56        |
+| 14  | 3d5+7         | 64  | 5d13+32          | 114 | 6d19+57        |
+| 15  | 3d5+8         | 65  | 5d13+32          | 115 | 6d19+57        |
+| 16  | 3d5+9         | 66  | 5d13+33          | 116 | 6d19+58        |
+| 17  | 4d4+8         | 67  | 5d14+33          | 117 | 6d20+58        |
+| 18  | 4d5+9         | 68  | 5d14+34          | 118 | 6d20+59        |
+| 19  | 4d5+9         | 69  | 5d14+34          | 119 | 6d20+59        |
+| 20  | 4d5+10        | 70  | 5d14+35          | 120 | 6d20+60        |
+| 21  | 4d5+10        | 71  | 5d14+35          | 121 | 6d20+60        |
+| 22  | 4d6+11        | 72  | 5d14+36          | 122 | 6d20+61        |
+| 23  | 4d6+11        | 73  | 5d15+36          | 123 | 6d21+61        |
+| 24  | 4d6+12        | 74  | 5d15+37          | 124 | 6d21+62        |
+| 25  | 4d6+12        | 75  | 5d15+37          | 125 | 6d21+62        |
+| 26  | 4d6+13        | 76  | 5d15+38          | 126 | 6d21+63        |
+| 27  | 4d6+13        | 77  | 5d15+38          | 127 | 6d21+63        |
+| 28  | 4d7+14        | 78  | 5d16+39          | 128 | 6d21+64        |
+| 29  | 4d7+14        | 79  | 5d16+39          | 129 | 6d22+64        |
+| 30  | 5d6+15        | 80  | 5d16+40          | 130 | 6d22+65        |
+| 31  | 5d6+15        | 81  | 5d16+40          | 131 | 6d22+65        |
+| 32  | 5d6+16        | 82  | 5d16+41          | 132 | 6d22+66        |
+| 33  | 5d6+16        | 83  | 5d17+41          | 133 | 6d22+66        |
+| 34  | 5d7+17        | 84  | 5d17+42          | 134 | 6d22+67        |
+| 35  | 5d7+17        | 85  | 5d17+42          | 135 | 6d23+67        |
+| 36  | 5d7+18        | 86  | 5d17+43          | 136 | 6d23+68        |
+| 37  | 5d7+18        | 87  | 5d18+43          | 137 | 6d23+68        |
+| 38  | 5d8+19        | 88  | 5d18+44          | 138 | 6d23+69        |
+| 39  | 5d8+19        | 89  | 5d18+44          | 139 | 6d23+69        |
+| 40  | 5d8+20        | 90  | 5d18+45          | 140 | 6d23+70        |
+| 41  | 5d8+20        | 91  | 5d18+45          | 141 | 6d24+70        |
+| 42  | 5d8+21        | 92  | 5d18+46          | 142 | 6d24+71        |
+| 43  | 5d9+21        | 93  | 5d19+46          | 143 | 6d24+71        |
+| 44  | 5d9+22        | 94  | 5d19+47          | 144 | 6d24+72        |
+| 45  | 5d9+22        | 95  | 5d19+47          | 145 | 6d24+72        |
+| 46  | 5d9+23        | 96  | 5d19+48          | 146 | 6d24+73        |
+| 47  | 5d10+23       | 97  | 5d20+48          | 147 | 6d25+73        |
+| 48  | 5d10+24       | 98  | 5d20+49          | 148 | 6d25+74        |
+| 49  | 5d10+24       | 99  | 5d20+49          | 149 | 6d25+74        |
+| 50  | 5d10+25       | 100 | 5d20+50          | 150 | 6d25+75        |
+***********************************************************************
+
+-----------------------------------------------------------------------------
+
+Below is a list of MOB Armor Class. Please Follow this when making mobs:
+******************************************************************
+| Lvl |   pierce  |    bash     |     slash     |      exotic    |
+******************************************************************
+|  1  |     95    |     95      |       95      |       95       |
+|  2  |     88    |     88      |       88      |       94       |
+|  3  |     81    |     81      |       81      |       94       |
+
+|  4  |     75    |     75      |       75      |       88       |
+
+|  5  |     70    |     70      |       70      |       85       |
+
+|  6  |     63    |     63      |       63      |       81       |
+|  7  |     56    |     56      |       56      |       81       |
+|  8  |     50    |     50      |       50      |       75       |
+
+|  9  |     44    |     44      |       44      |       75       |
+
+| 10  |     40    |     40      |       40      |       70       |
+
+| 11  |     31    |     31      |       31      |       69       |
+
+| 12  |     25    |     25      |       25      |       63       |
+| 13  |     19    |     19      |       19      |       63       |
+
+| 14  |     13    |     13      |       13      |       56       |
+
+| 15  |      5    |      5      |        5      |       55       |
+
+| 16  |      0    |      0      |        0      |       50       |
+
+| 17  |     -6    |     -6      |       -6      |       50       |
+
+| 18  |    -13    |    -13      |      -13      |       44       |
+
+| 19  |    -19    |    -19      |      -19      |       44       |
+
+| 20  |    -25    |    -25      |      -25      |       40       |
+
+| 21  |    -31    |    -31      |      -31      |       38       |
+
+| 22  |    -38    |    -38      |      -38      |       31       |
+
+| 23  |    -44    |    -44      |      -44      |       31       |
+
+| 24  |    -50    |    -50      |      -50      |       25       |
+
+| 25  |    -55    |    -55      |      -55      |       20       |
+
+| 26  |    -63    |    -63      |      -63      |       19       |
+
+| 27  |    -69    |    -69      |      -69      |       19       |
+
+| 28  |    -75    |    -75      |      -75      |       13       |
+| 29  |    -81    |    -81      |      -81      |       13       |
+| 30  |    -90    |    -90      |      -90      |        5       |
+| 31  |    -94    |    -94      |      -94      |        5       |
+| 32  |   -100    |   -100      |     -100      |        0       |
+| 33  |   -106    |   -106      |     -106      |        0       |
+| 34  |   -113    |   -113      |     -113      |       -6       |
+| 35  |   -120    |   -120      |     -120      |      -10       |
+| 36  |   -125    |   -125      |     -125      |      -13       |
+
+| 37  |   -131    |   -131      |     -131      |      -13       |
+
+| 38  |   -138    |   -138      |     -138      |      -19       |
+
+| 39  |   -144    |   -144      |     -144      |      -19       |
+| 40  |   -150    |   -150      |     -150      |      -25       |
+
+| 41  |   -156    |   -156      |     -156      |      -25       |
+
+| 42  |   -163    |   -163      |     -163      |      -31       |
+| 43  |   -169    |   -169      |     -169      |      -31       |
+| 44  |   -175    |   -175      |     -175      |      -38       |
+| 45  |   -180    |   -180      |     -180      |      -40       |
+| 46  |   -188    |   -188      |     -188      |      -44       |
+| 47  |   -194    |   -194      |     -194      |      -44       |
+| 48  |   -200    |   -200      |     -200      |      -50       |
+| 49  |   -206    |   -206      |     -206      |      -50       |
+| 50  |   -215    |   -215      |     -215      |      -55       |
+| 51  |   -219    |   -219      |     -219      |      -56       |
+| 52  |   -225    |   -225      |     -225      |      -63       |
+
+| 53  |   -231    |   -231      |     -231      |      -63       |
+
+| 54  |   -238    |   -238      |     -238      |      -69       |
+| 55  |   -245    |   -245      |     -245      |      -70       |
+| 56  |   -250    |   -250      |     -250      |      -75       |
+| 57  |   -256    |   -256      |     -256      |      -75       |
+| 58  |   -263    |   -263      |     -263      |      -81       |
+| 59  |   -269    |   -269      |     -269      |      -81       |
+| 60  |   -275    |   -275      |     -275      |      -90       |
+| 61  |   -281    |   -281      |     -281      |      -90       |
+| 62  |   -288    |   -288      |     -288      |      -94       |
+| 63  |   -294    |   -294      |     -294      |      -94       |
+| 64  |   -300    |   -300      |     -300      |     -100       |
+| 65  |   -305    |   -305      |     -305      |     -105       |
+| 66  |   -313    |   -313      |     -313      |     -106       |
+| 67  |   -319    |   -319      |     -319      |     -106       |
+| 68  |   -325    |   -325      |     -325      |     -113       |
+| 69  |   -331    |   -331      |     -331      |     -113       |
+| 70  |   -340    |   -340      |     -340      |     -120       |
+| 71  |   -344    |   -344      |     -344      |     -120       |
+| 72  |   -350    |   -350      |     -350      |     -125       |
+| 73  |   -356    |   -356      |     -356      |     -125       |
+| 74  |   -363    |   -363      |     -363      |     -131       |
+| 75  |   -369    |   -369      |     -369      |     -131       |
+| 76  |   -375    |   -375      |     -375      |     -138       |
+| 77  |   -381    |   -381      |     -381      |     -138       |
+| 78  |   -388    |   -388      |     -388      |     -144       |
+| 79  |   -394    |   -394      |     -394      |     -144       |
+| 80  |   -400    |   -400      |     -400      |     -150       |
+| 81  |   -406    |   -406      |     -406      |     -150       |
+| 82  |   -413    |   -413      |     -413      |     -156       |
+| 83  |   -419    |   -419      |     -419      |     -156       |
+| 84  |   -425    |   -425      |     -425      |     -163       |
+| 85  |   -431    |   -431      |     -431      |     -163       |
+| 86  |   -438    |   -438      |     -438      |     -169       |
+| 87  |   -444    |   -444      |     -444      |     -169       |
+| 88  |   -450    |   -450      |     -450      |     -175       |
+| 89  |   -456    |   -456      |     -456      |     -175       |
+| 90  |   -463    |   -463      |     -463      |     -181       |
+| 91  |   -469    |   -469      |     -469      |     -181       |
+| 92  |   -475    |   -475      |     -475      |     -188       |
+| 93  |   -481    |   -481      |     -481      |     -188       |
+| 94  |   -488    |   -488      |     -488      |     -194       |
+| 95  |   -494    |   -494      |     -494      |     -194       |
+| 96  |   -500    |   -500      |     -500      |     -200       |
+| 97  |   -506    |   -506      |     -506      |     -200       |
+| 98  |   -513    |   -513      |     -513      |     -206       |
+| 99  |   -519    |   -519      |     -519      |     -206       |
+| 100 |   -525    |   -525      |     -525      |     -213       |
+| 101 |   -531    |   -531      |     -531      |     -213       |
+| 102 |   -538    |   -538      |     -538      |     -219       |
+| 103 |   -544    |   -544      |     -544      |     -219       |
+| 104 |   -550    |   -550      |     -550      |     -225       |
+| 105 |   -556    |   -556      |     -556      |     -225       |
+| 106 |   -563    |   -563      |     -563      |     -231       |
+| 107 |   -569    |   -569      |     -569      |     -231       |
+| 108 |   -575    |   -575      |     -575      |     -238       |
+| 109 |   -581    |   -581      |     -581      |     -238       |
+| 110 |   -588    |   -588      |     -588      |     -244       |
+| 111 |   -594    |   -594      |     -594      |     -244       |
+| 112 |   -600    |   -600      |     -600      |     -250       |
+| 113 |   -606    |   -606      |     -606      |     -250       |
+| 114 |   -613    |   -613      |     -613      |     -256       |
+| 115 |   -619    |   -619      |     -619      |     -256       |
+| 116 |   -625    |   -625      |     -625      |     -263       |
+| 117 |   -631    |   -631      |     -631      |     -263       |
+| 118 |   -638    |   -638      |     -638      |     -269       |
+| 119 |   -644    |   -644      |     -644      |     -269       |
+| 120 |   -650    |   -650      |     -650      |     -275       |
+| 121 |   -656    |   -656      |     -656      |     -275       |
+| 122 |   -663    |   -663      |     -663      |     -281       |
+| 123 |   -669    |   -669      |     -669      |     -281       |
+| 124 |   -675    |   -675      |     -675      |     -288       |
+| 125 |   -681    |   -681      |     -681      |     -288       |
+| 126 |   -688    |   -688      |     -688      |     -294       |
+| 127 |   -694    |   -694      |     -694      |     -294       |
+| 128 |   -700    |   -700      |     -700      |     -300       |
+| 129 |   -706    |   -706      |     -706      |     -300       |
+| 130 |   -713    |   -713      |     -713      |     -306       |
+| 131 |   -719    |   -719      |     -719      |     -306       |
+| 132 |   -725    |   -725      |     -725      |     -313       |
+| 133 |   -731    |   -731      |     -731      |     -313       |
+| 134 |   -738    |   -738      |     -738      |     -319       |
+| 135 |   -744    |   -744      |     -744      |     -319       |
+| 136 |   -750    |   -750      |     -750      |     -325       |
+| 137 |   -756    |   -756      |     -756      |     -325       |
+| 138 |   -763    |   -763      |     -763      |     -331       |
+| 139 |   -769    |   -769      |     -769      |     -331       |
+| 140 |   -775    |   -775      |     -775      |     -338       |
+| 141 |   -781    |   -781      |     -781      |     -338       |
+| 142 |   -788    |   -788      |     -788      |     -344       |
+| 143 |   -794    |   -794      |     -794      |     -344       |
+| 144 |   -800    |   -800      |     -800      |     -350       |
+| 145 |   -806    |   -806      |     -806      |     -350       |
+| 146 |   -813    |   -813      |     -813      |     -356       |
+| 147 |   -819    |   -819      |     -819      |     -356       |
+| 148 |   -825    |   -825      |     -825      |     -363       |
+| 149 |   -831    |   -831      |     -831      |     -363       |
+| 150 |   -838    |   -838      |     -838      |     -369       |
+| 151 |   -844    |   -844      |     -844      |     -369       |
+| 152 |   -850    |   -850      |     -850      |     -375       |
+| 153 |   -856    |   -856      |     -856      |     -375       |
+| 154 |   -863    |   -863      |     -863      |     -381       |
+| 155 |   -869    |   -869      |     -869      |     -381       |
+| 156 |   -875    |   -875      |     -875      |     -388       |
+| 157 |   -881    |   -881      |     -881      |     -388       |
+| 158 |   -888    |   -888      |     -888      |     -394       |
+| 159 |   -894    |   -894      |     -894      |     -394       |
+| 160 |   -900    |   -900      |     -900      |     -400       |
+******************************************************************
+
+-------------------------------------------------------------------------
+
+                         WEAPON DICE
+These are the values the server generates automatically when
+converting a merc-format mobile to ROM format.  A higher
+number of dice gives less variance in damage.  There is no
+dice-bonus on weapon dice.
+
+ levels:      dice             levels        dice
+   1:         1d8              78-83:        6d14
+  2-3:        2d5              84-89:        6d15
+  4-5:        2d6              90-96:        6d16
+  6-9:        4d4              97-102:       6d17
+ 10-12:       4d5             103-108:       6d18
+ 13-15:       5d4             109-115:       6d19
+ 16-21:       5d5             116-121:       6d20
+ 22-26:       5d6             122-127:       6d21
+ 27-31:       5d7             128-134:       6d22
+ 32-36:       5d8             135-140:       6d23
+ 37-42:       5d9             141-146:       6d24
+ 43-47:       5d10            147-153:       6d25
+ 48-50:       5d11            154-160:       6d26
+ 51-52:       6d9
+ 53-58:       6d10
+ 59-64:       6d11
+ 65-71:       6d12
+ 72-77:       6d13
+------------------------------------------------------------------------
+
+The MOB TABLES were compiled by Terram and made pretty by Beowolf. So
+a special thanks goes out to Terram. See anything from this document
+I  failed to hit on? If so mail me and I will add it in and give you
+thanks here :)
+
+That concludes the OLC manual for TSR. I hope that this has helped you become
+a better and more successful area builder. Good luck on that area.
+
+                     -Beowolf, Allanon, and Draven.
+
+This document is Copyright 1996 by TSR. For permission to use this document
+on any other mud please send email to beowolf@mat.net.
+

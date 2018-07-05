@@ -1,0 +1,2762 @@
+#AREADATA
+Name Mammoth Studious~
+Builders None~
+VNUMs 66200 66299
+Credits [100 151] Mantor   Mammoth Studious~
+Security 9
+End
+
+
+
+#MOBILES
+#66200
+Security Guard~
+the {5Mammoth Studios{& Guard{0~
+A guard stands here, keeping the flow of traffic in and out finely.
+~
+This Guard seems to be watching the people who go and in and out of the
+studio area.  
+~
+human~
+ABG DFJLZ N 1000 0
+135 234 1d1+9853 1d1+2 1d1+1512 punch
+-54 -50 -54 -15
+CFGIKN ABCDEFGHIKLMNOPQRSTXYZa 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium flesh
+M SPEECH 66201 let me in~
+M GRALL 66200 100~
+#66201
+Information Drone~
+an {&Information Drone{0~
+A {5Mammoth Studios{& Drone stands behind the desk here, giving out information.{0
+~
+This thin and stringy, but reliable drone gives tourist information to
+the people.  
+~
+crystal-dragon~
+ABG JZ H 1000 0
+151 250 100d50+50000 2d1+400 51d4+1000 blast
+-100 -100 -100 -10
+K ABHQ D J
+stand stand none 100
+ACGHMZ ABCDEFGHIJKPQUVWX medium metal
+F aff T
+F res BC
+M SPEECH 66204 yes~
+M SPEECH 66203 no~
+M GRALL 66202 100~
+#66202
+Giftshop Manager~
+the Giftshop Manager~
+The Mammoth Studios Giftshop Manager stands behind the counter here.
+~
+Looking around for thieves, this manager seems to know her business.  
+~
+human~
+ABG 0 0 1000 0
+200 250 10d5+10000 10d10+1000 10d21+1000 slash
+-100 -100 -100 -50
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium flesh
+M GRALL 66205 100~
+M SPEECH 66206 do you have any maps?~
+#66203
+Commander Hiragi~
+{!Commander Hiragi{0~
+The ship commander is here, overseeing the final ship repairs.
+~
+Commander Hiragi is among one of the veteran starship commanders in the
+Confederation.  
+~
+halfling~
+AB JU H 1000 0
+136 136 1d1+9762 1d1+10 10d15+10 punch
+-100 -100 -100 -100
+CI 0 BLQ SZ
+stand stand male 1000
+AHMV ABCDEFGHIJK medium flesh
+#66204
+Lieutenant Junior Grade Galvanis~
+{#Lieutenant Jr. Grade Galvanis{0~
+A lieutenant sits at the ops position of the ship.
+~
+Lieutenant Jr.  Grade Galvanis was just shipped onto the ship on this
+starbase.  
+~
+elf~
+AB J H 500 0
+124 124 1d1+8500 1d1+100 9d14+15 punch
+-100 -100 -100 -100
+I 0 B Z
+sit stand female 500
+AHMV ABCDEFGHIJK medium flesh
+#66205
+Captain Burke~
+{!Captain Burke{0~
+The ship's captain is here, reading something off a pad.
+~
+Skilled as a Confederation captain, Captain Burke is among the youngest
+legends of history.  At the age of 15, he graduated the academy and led a
+battle against a fleet ten times his own.  
+~
+draconian~
+AB D H 1000 0
+151 152 10d2+12500 10d2+500 5d1+254 punch
+-150 -150 -150 -150
+CI LQ HI FGJ
+stand stand male 1500
+ACHMVXZ ABCDEFGHIJKPQUVWX medium flesh
+F aff T
+#66206
+Ensign Keith~
+{$Ensign Keith{0~
+An ensign at the helm is checking up on the ship systems.
+~
+Ensign Keith is a new member aboard this ship.  
+~
+feline~
+ABCD DFJLZ H 510 0
+115 116 10d2+2500 10d10+100 5d1+147 slash
+-90 -90 -90 -90
+FIK L BI 0
+stand stand female 1000
+ACGHMV ABCDEFGHIJKQUV medium flesh
+F vul H
+#66207
+Lieutenant Commander Pazcherov~
+{#Lieutenant Commander Pazcherov{0~
+A Lieutenant Commander is at the bridge science station.
+~
+Lieutenant Commander Pazcherov has served with Commander Hiragi and
+Captain Burke since the academy.  
+~
+orc~
+AB J H 0 0
+127 100 10d1+5800 10d1+1000 10d21+50 punch
+-100 -100 -100 -100
+0 0 DQ 0
+stand stand male 2500
+ACHMV ABCDEFGHIJK medium flesh
+F vul S
+#66208
+Lieutenant Commander Jael~
+{#Lieutenant Commander Ja'el{0~
+The Chief Engineer Ja'el is here, overseeing final repairs on the ship.
+~
+Youthful and determined, Ja'el is one of the many skilled technicians
+aboard this ship.  
+~
+halfelf~
+AB L H 1000 0
+124 124 10d2+6500 10d10+100 17d20+100 punch
+0 0 0 0
+0 0 0 0
+stand stand male 1100
+AHMV ABCDEFGHIJK medium flesh
+#66209
+Doctor Julias~
+{$Doctor Julias{0~
+The Chief Medical Doctor aboard the ship is here.
+~
+Unlike most of the other crew, Dr.  Julias is a seasoned doctor. 
+Although her age is unlike the others, she is still one of the better crew
+members aboard this vessel.  
+~
+draconian~
+AB 0 H 1000 0
+215 215 200d10+10000 100d2+10000 21d19+100 punch
+-100 -100 -100 -100
+I LQ HI FGJ
+sit stand female 1000
+ACHMVXZ ABCDEFGHIJKPQUVWX medium flesh
+F aff T
+#66210
+science officer~
+a {$science officer{0~
+One of the officers from the science department is here.
+~
+Dressed in the appropriate blue jumpsuit of all medical and science
+officers, this one in particular is similar to all the others.  
+~
+elf~
+A J 0 500 0
+110 110 50d25+2000 10d10+100 25d15+10 punch
+-100 -100 -10 -100
+0 0 B Z
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#66211
+security officer~
+a {#security officer{0~
+One of the officers of security is here.
+~
+Dressed in the operations color of yellow, this security officer is alike
+to all the others.  
+~
+halforc~
+A a 0 500 0
+120 115 60d30+5000 10d10+100 25d30+100 punch
+0 0 0 0
+0 0 CD P
+stand stand male 100
+AGHMV ABCDEFGHIJKUVWY large flesh
+#66212
+triceratops~
+a triceratops~
+An adult triceratops is here, munching on some ferns peacefully.
+~
+Although it looks dangerous, triceratops are very calm unless protecting
+its young.  In addition, triceratops often follow in packs for safety from
+predators.  
+~
+dragon~
+A J H 0 0
+110 102 40d50+10000 10d10+100 17d21+100 pierce
+-150 -150 -150 -150
+DKMU 0 BEH FI
+stand stand male 100
+ACHZ ACDEFGHIJKQUVX large flesh
+F aff T
+F par P
+#66213
+pteranadon~
+a pteranadon~
+A pteranadon flies above the sky, searching for prey.
+~
+Flying in flocks, pteranadon are often seen in the skies of the jurassic
+period.  As dangerous as they look, they are both aggressive and rather
+pointy about their meals.  
+~
+dragon~
+AF JT H 0 0
+100 99 40d50+9000 10d10+10 15d20+100 pierce
+-50 -50 -50 -50
+FHMU 0 BEH FI
+stand stand none 100
+ACHZ ACDEFGHIJKPQUVX medium flesh
+#66214
+tyrannosaurus rex~
+a T. Rex~
+Massive and dangerous, this T. Rex is ready to make you its meal.
+~
+The most aggressive of all dinosaurs, a T.  Rex eats anything it wants
+and destroys anything it can.  Feared by most normal people, the T.  Rex has
+massive legs, short arms, and a huge appetite.  Most T.  Rexes are loners,
+as the profession they lead in the food chain is rather choosy.  
+~
+dragon~
+AF J H 0 0
+150 151 5000d5+2000 10d10+100 30d25+100 bite
+-120 -120 -120 -120
+IKMO 0 BEH FI
+stand stand none 100
+ACHZ ACDEFGHIJKQUVX medium flesh
+F aff T
+F par P
+#66215
+chief medic~
+the head medic~
+The head medic of this camp sits in the center, helping the injured.
+~
+A rather small figure of a man, but his healing skills seem quite potent.
+~
+gnome~
+ABa J H 1000 0
+151 151 10000d10+2000 500d200+1000 10d10+2000 punch
+-100 -100 -100 -100
+CDFHIKO ABCDHIJ P 0
+stand stand male 20000
+AHMV ABCDEFGHIJKU medium flesh
+F vul R
+#66216
+Lau Mei Wa~
+{*Lau Mei Wa{0~
+The evil martial artist Lau Mei Wa stands here, laughing at tied up villagers.
+~
+Lau Mei Wa is one of the most vile of the martial arts world.  Both
+strong and evil, Lau Mei Wa is ruthless and powerful.  He is a force to be
+reckoned with.  
+~
+elf~
+ABT JV 0 -1000 0
+190 0 999d99+999 10d10+1000 45d10+100 punch
+-200 -200 -200 -200
+CFHIKO A BD a
+stand stand male 2500
+AHMV ABCDEFGHIJK medium flesh
+F vul Z
+#66217
+Chan Ying Fai~
+{&Chan Ying Fai{0~
+The famed martial artist Chan Ying Fai hacks at some ninjas.
+~
+With a skill unmatched, Chan Ying Fai can fight blindfolded, against any
+odds.  Although not one to be easily provoked, his temper will soar beyond
+the clouds once angered.  
+~
+halfling~
+ABT UV H 1000 0
+250 211 1000d100+1000 10d10+100 35d19+100 punch
+-100 -100 -100 -100
+CFGHIJKO AB CDLQ S
+stand stand male 100
+AHMV ABCDEFGHIJK medium flesh
+#66218
+Imperial Guard~
+an {#I{3m{#p{3e{#r{3i{#a{3l{0 {&Guard{0~
+An Imperial Guard stands here, watching the magistrate's palace.
+~
+With the basic black robe and imperial insignia and funny looking cone
+hat, this Imperial guard is usually just made to inspire fear in enemies to
+government officials rather than actually have military skills.  
+~
+orc~
+ABT J H 500 0
+150 151 1000d85+2000 10d10+100 21d45+100 cleave
+-100 -100 -100 -100
+FIJKN 0 CQ 0
+stand stand male 2000
+ACHMV ABCDEFGHIJK medium flesh
+F vul S
+#66219
+Swamp Thing~
+the {*Swamp {3Thing{0~
+Oh no! It's the horrid Swamp Thing!
+~
+Ugly and lizard-like, the Swamp Thing is an angry and misunderstood
+creature of the swamp.  
+~
+lizard~
+ABF QV 0 0 0
+60 51 100d10+500 10d10+100 10d12+25 slash
+-100 -100 -100 -100
+FHIM R HL J
+stand stand male 1000
+ACGXc ACDEFHKQV medium flesh
+F vul I
+#66220
+vampire minion~
+a {*vampire minion{0~
+A vampire minion hides in the shadows here.
+~
+The lowest form for all vampires, almost a fresh corpse.  But do not
+underestimate these new vampires, for they are just as strong as others.  
+~
+elf~
+ABFP JQ H -1000 0
+80 81 200d10+1000 10d10+100 21d9+100 bite
+-50 -50 -50 -50
+FGKV 0 AB SZ
+stand stand male 1000
+AHMV ABCDEFGHIJK medium undead
+#66221
+Frankenstein~
+{2Frankenstein{0~
+Frankenstein is here, smashing things around here.
+~
+With a large scar on his green forehead, Frankenstein was created by a
+certain Professor Frankenstein.  Although peaceful himself, when angered he
+becomes confused and dangerous.  
+~
+orc~
+ABF JZ H 0 0
+101 120 500d10+1500 1d1+1 12d35+150 punch
+-110 -110 -110 -110
+CIKO 0 CILQS HJR
+stand stand male 1000
+ACGHMV ABCDEFGHIJKQUV large parts
+F vul S
+#66222
+dancing girl~
+a dancing girl~
+A dancing girl is on the stage here, doing her job.
+~
+Wearing a tattered pink dress like her other two companions, this dancing
+girl is not exactly a girl anymore.  
+
+~
+drow~
+AB JV H -1000 0
+75 75 1d1+2447 10d10+100 10d15+50 slap
+-50 -50 -50 -50
+I 0 AB SZ
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+M BRIBE 66222 100~
+M GRALL 66221 100~
+#66223
+Bartender Dusty~
+{3Dusty{0~
+The bartender Dusty sits behind the counter serving alcohol in dirty mugs.
+~
+Not the best looking guy in the wild wild west.  With an empty eye socket
+and an almost toothless smile, this grizzly and revulsing man is the
+bartender of this "fine" establishment.  
+~
+dwarf~
+AB DEFJ H 500 0
+151 200 10d10+500 10d10+100 0d0+0 punch
+-200 -200 -200 -200
+CI ABCD LQ R
+stand stand male 2000
+AHMV ABCDEFGHIJK medium flesh
+#66224
+poker cheater~
+an obvious cheater~
+A cowboy sits here, cheating at cards.
+~
+His cards are obviously marked and you notice a card drop out of his
+loose sleeve from time to time.  
+~
+orc~
+AB J 0 0 0
+100 101 1d1+4500 10d10+100 10d16+150 punch
+-100 -100 -100 -100
+CFIKO 0 CDQ S
+sit stand none 1000
+ACHMV ABCDEFGHIJK medium flesh
+#66225
+outlaw~
+an outlaw~
+One of the many outlaws running this backwater frontier town.
+~
+Grizzly faced like many of the westerners of this era, this outlaw
+is no different from the rest.
+~
+drow~
+A J H -500 0
+135 145 1d1+10000 1d1+1 16d21+50 punch
+-100 -100 -100 -100
+FIJ AB B SZ
+stand stand male 10000
+AHMV ABCDEFGHIJK medium flesh
+M RANDOM 66225 45~
+M RANDOM 66224 1~
+#66226
+town sheriff~
+the town sheriff~
+The drunken town sheriff is here, not doing his job.
+~
+This sheriff is the worst of the worst.  Perhaps he was a good sheriff
+before he was assigned to Gommorah, perhaps not.  He is now drunk, his batch
+ripped right off his shirt, and he is in a serious need of a bath.  
+~
+elf~
+A J H 500 0
+75 75 1d1+5000 1d1+100 12d15+100 punch
+-100 -100 -100 -100
+J A B Z
+stand stand male 100
+AHMV ABCDEFGHIJK medium flesh
+#66227
+Father Mathias~
+{WFather Mathias{}~
+The healing priest of this parish sits here.
+~
+Father Mathias is the healing priest, healing the sick and tending to the
+wounded.  
+~
+elf~
+ABQZa DJ HP 1000 0
+101 200 200d100+1000 99d1000+10000 1000d1000+2000 punch
+0 0 0 0
+0 ABCDEFGHIKLMNOPQRSTXYZa B Z
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#66228
+Administrator Chen Yu Ping~
+{*A{!d{#m{!i{*n{#i{*s{!t{#r{!a{*t{#o{*r {&Chen{0~
+The administrator of the village sits on his throne here.
+~
+A rather well-built administrator who carried himself well.
+~
+elf~
+ABT DJ CDEHP 0 0
+210 200 1d1+50000 10d10+1000 21d50+200 slash
+-100 -100 -100 -100
+CFHIKO AIJ BCDa 0
+sit stand male 25000
+AHMV ABCDEFGHIJK medium flesh
+F vul Z
+M GRALL 66228 100~
+M DEATH 66231 100~
+M SPEECH 66229 foe~
+M SPEECH 66230 friend~
+#66229
+Defense Cannon Platform~
+a {*Defense Platform{0~
+An automated cannon platform floats here in space.
+~
+This is a rebel cannon platform.  Able to fire multiple blasts to destroy
+any oncoming and unprepared targets.  
+~
+human~
+ABFN CDEFGJLVZc CDEHNO 0 0
+151 151 1d1+25000 1d1+1 1d1+500 blast
+-200 -200 -200 -200
+GHK ABINQRXYZ D HJK
+stand stand none 10000
+DHJ 0 large metal
+F for AMV
+F par ABCDEFGHIJK
+#66230
+Rebel Skyhopper~
+a {!Rebel{# Skyhopper{0~
+A funny looking craft appears out of nowhere.
+~
+Skyhoppers are the little fighters of the Rebellion.  
+~
+human~
+AFN V H 0 0
+125 127 1d1+10000 1d1+1 21d30+100 blast
+-100 -100 -100 -100
+FHU MNXYZ C HJK
+stand stand none 2000
+HJ 0 medium metal
+F for AMV
+F par ABCDEFGHIJK
+#66231
+telemetry station~
+a telemetry station~
+A large repair and telemetry station sits by the wormhole here.
+~
+This station seems able to repair damages to your ship.  
+~
+elf~
+ABa DEFJ H 0 0
+151 101 100d2000+10000 10d10+10000 10d50+100 blast
+-100 -100 -100 -100
+0 ABCD 0 0
+stand stand none 20000
+J K giant metal
+F res B
+F vul Z
+F for AHMV
+F par ABCDEFGHIJ
+M SPEECH 66298 wormhole~
+M GRALL 66299 100~
+#66232
+rigellian cruiser~
+a rigellian cruiser~
+A cruiser flies through this sector, delivering goods.
+~
+Rigellian cruisers, however delivery skilled they are, are still armed
+with enough defensive weapons to keep pirates away.  
+~
+human~
+AN V CDEH 1000 0
+100 101 1d1+9500 1d1+100 15d20+100 blast
+-150 -150 -150 -150
+FHK ABLQX IMN HJK
+stand stand none 2500
+HJ 0 giant metal
+F for AMV
+F par ABCDEFGHIJK
+#66233
+science starship~
+a science starship~
+A science and exploration starship is in this nebula, examining the area.
+~
+This starship is not ehavily armed, but has enough weapons to get away. 
+However, this starship is more or less a scientific discovery starship.  
+~
+human~
+AHN DEFV BCDEHNO 0 0
+75 80 1d1+4789 1d1+100 12d20+50 blast
+-100 -100 -100 -100
+FH ABMNXY IP HJK
+stand stand none 1000
+HJ 0 medium metal
+F for AMV
+F par ABCDEFGHIJK
+#66234
+behemoth battlecruiser~
+a {3Behemoth{* Battlecruiser{0~
+A flesh-skinned battlecruiser floats here.
+~
+This battlecruiser seems almost alive, but when tentacles appear on its
+stern, it proves its sentient.  
+~
+human~
+AFN DEVc BCDEHNOPQ 0 0
+300 400 9000d99+20000 10d10+1000 50d50+200 blast
+-100 -100 -100 -100
+FHKOU AB JMNXYa HILQ
+stand stand none 1000
+GHJ EN medium flesh
+F for AMV
+F par ABCDFGHIJK
+#66235
+chinese villager~
+a {&Chinese{0 Villager~
+A chinese villager is here, doing the usual oddjobs.
+~
+This chinese villager is wearing a simple rag and some dirt-worn shoes. 
+Nothing on this villager seems to be of any worth.  
+~
+human~
+A 0 0 500 0
+75 80 1d1+5000 1d1+100 10d21+50 punch
+-100 -100 -100 -100
+CFIK 0 0 0
+stand stand female 500
+AHMV ABCDEFGHI medium flesh
+F par JK
+#0
+
+
+
+#OBJECTS
+#66200
+nightstick~
+a nightstick~
+A long black nightstick has been left aside here.~
+plastic~
+weapon SY AN
+mace 12 9 thwack ABG
+125 8 1000 P
+A
+13 125
+A
+12 -100
+A
+18 25
+A
+19 25
+A
+21 -1
+A
+2 -1
+#66201
+Mammoth Studios Security Jacket~
+a {5Mammoth Studios{# Security Jacket{0~
+A Jacket belonging to a Mammoth Studios Guard has been dropped here.~
+leather~
+armor SY AK
+65 65 76 48 0
+115 10 1000 P
+A
+18 40
+A
+19 45
+A
+13 100
+A
+23 -1
+A
+2 -1
+A
+14 -100
+#66202
+Cowboy Hat~
+a {*C{&o{*w{&b{*o{&y {*H{&a{*t{0~
+A Cowboy Hat from the television show Bonanza has been dropped here.~
+leather~
+armor SY AE
+55 55 55 10 0
+110 4 10000 P
+A
+18 45
+A
+19 15
+A
+2 -1
+A
+13 50
+#66203
+Stormtrooper Blastech Rifle~
+a {&Stormtrooper {*Blastech Rifle{0~
+The replica of a Star Wars blaster has been dropped here.~
+metal~
+weapon Y AN
+exotic 18 21 blast AEG
+137 20 12000 P
+O FIGHT 66201 100~
+O remove 66204 100~
+O wear 66200 100~
+#66204
+Jurassic Park Backpack~
+a {@Jurassic Park Backpack{0~
+A backpack made of Dinosaur Skin has been dropped here.~
+dinosaur~
+container Y AX
+10 AC 0 100 60
+99 12 5000 P
+A
+13 145
+A
+18 25
+A
+3 -1
+#66205
+Mammoth Studios Mug~
+a {5Mammoth Studios Mug{0~
+A Mug with one of the Mammoth Studio Movies sits here.~
+porcelain~
+drink S AO
+25 0 'water' 0 0
+1 10 2500 P
+#66206
+Transporter~
+the Cargo Transporter~
+A large transporter has been placed beside the docked ship here.~
+metal~
+portal 0 0
+2147483647 KL A 66213 0
+0 0 0 P
+#66207
+transporter~
+the Cargo Transporter~
+A large transporter sits in the corner here.~
+metal~
+portal 0 0
+2147483647 KL A 66212 0
+0 0 0 P
+#66208
+PADD~
+a PADD~
+A pad device of some sort has been dropped here.~
+plastic~
+light ABY AO
+0 0 999 0 0
+101 5 1000 P
+A
+12 -400
+A
+19 35
+A
+18 35
+A
+13 150
+#66209
+blaster type-I~
+a {&Type-I{0 Blaster~
+A blaster has been left behind here.~
+metal~
+weapon AB AN
+exotic 16 19 blast A
+101 15 12500 P
+A
+19 15
+A
+18 15
+#66210
+medical tricorder~
+a Medical Tricorder~
+A medical tricorder as been dropped here.~
+unknown~
+wand ABY AO
+101 2 2 'cheal' 0
+101 15 25000 P
+#66211
+Phaser Rifle~
+a Phaser Rifle~
+A Phaser Rifle has been dropped here.~
+metal~
+weapon AB AN
+exotic 21 19 blast AFG
+151 50 10000 P
+A
+12 -300
+A
+13 200
+A
+19 101
+A
+18 101
+#66212
+katana~
+a long steel katana~
+A katana without its sheath has been left behind here.~
+steel~
+weapon AGY AN
+sword 13 45 slash CEG
+145 10 1000 P
+A
+18 50
+A
+19 60
+#66213
+thick black cloth blindfold~
+a {*black{0 blindfold~
+A thick piece of cloth has been left behind here.~
+cloth~
+armor AB AR
+20 20 19 22 0
+101 1 10 P
+A
+23 5
+A
+13 100
+A
+12 112
+A
+2 2
+O wear 66213 100~
+#66214
+dirty mug~
+a {3dirty{0 mug~
+A dirty mug has been left behind here.~
+glass~
+drink 0 A
+100 100 'beer' 0 0
+0 3 25 P
+#66215
+bowl peanuts~
+a bowl of peanuts~
+A bowl of peanuts has been left behind here.~
+peanuts~
+food 0 A
+25 12 0 0 0
+0 0 35 P
+#66216
+waterfall~
+a waterfall~
+A waterfall is here, built right into the Church's incline upwards.~
+nature~
+fountain 0 0
+-1 -1 'water' 0 0
+0 1 1 P
+#66217
+shuttlecraft~
+a shuttlecraft~
+An active and open shuttlecraft sits in the center of the hangar bay.~
+metal~
+portal 0 0
+200 0 A 66279 0
+0 2000 10000 P
+#66218
+wormhole~
+a {^w{$o{&r{$m{^h{&o{^l{$e{0~
+A wormhole is here, leading to another galaxy.~
+antimatter~
+portal AB 0
+10000 0 A 66295 0
+0 100000 1000 P
+#66219
+wormhole~
+a {^w{$o{&r{$m{^h{&o{^l{$e{0~
+A wormhole is here, leading to another galaxy.~
+antimatter~
+portal AB 0
+100000 0 A 66294 0
+0 10000 100 P
+#66220
+behemoth construct plating~
+a {3Behemoth's{* Plating{0~
+A construct plating of a behemoth cruiser has been dropped here.~
+flesh~
+armor AB AK
+50 50 50 40 0
+151 20 100 P
+A
+4 1
+A
+2 1
+A
+1 1
+A
+18 80
+A
+19 80
+A
+13 200
+A
+12 100
+A
+20 -1
+A
+23 -2
+A
+21 -2
+#66221
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#66279
+space station~
+the {3Space Station{0~
+A space station sits here, openned for you to dock your ship.~
+metal~
+portal 0 0
+10000000 AK A 66211 0
+0 99999 100000 P
+#66280
+behemoth cannon~
+a {*Behemoth{0 Cannon~
+A gigantic cannon lies here.~
+flesh~
+weapon ABY AN
+exotic 13 50 blast G
+151 50 1000 P
+A
+19 70
+A
+18 60
+A
+13 250
+A
+17 -60
+#0
+
+
+
+#ROOMS
+#66200
+Paved Road~
+The dirt road soon becomes a paved asphalt road.  Two long {#yellow{0
+parallel lines extend to the gate to the far north.  A large facility stands
+before you.  Freshly cut {@grass{0 surrounds the entire area, along with a
+high steel fence to keep intruders out.  The long {*asphalt{0 road continues
+to the north.  To the south, is the Mid'Enir forest.  
+ 
+{2A dark green sign stands here.{0
+~
+0 0 1
+E
+sign~
+{&======================================{0
+{&||                                  {&||{0
+{&||            {@Welcome to{0            {&||{0
+{&||         {@Mammoth Studios{0          {&||{0
+{&||                                  {&||{0
+{&||                                  {&||{0
+{&||                                  {&||{0
+{&======================================{0
+~
+D0
+~
+~
+0 0 66201
+D2
+~
+~
+0 0 312
+S
+#66201
+{*Asphalt Road{0~
+The main gate is close to the north.  The gate does not seem so
+protective, with only a wooden pole for a gate.  A guard shack lies next to
+the gate.  Beyond that, the {#yellow{0 lines slowly become {&white{0 and
+becoming more like dots, leaving parts of the asphalt unpainted.  The main
+gate is to the north, and Mid'Enir forest is to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 66202
+D2
+~
+~
+0 0 66200
+S
+#66202
+The Main Gate~
+The {*asphalt{0 road stops before the main gate.  The gate ahead is the
+visible barrier, but a magical force rumbles from the gate..  Perhaps a
+magical shield?  The lush green grass brightens up the metal walls. 
+Whenever a light hits the walls, each of the panels reflect a light just as
+bright as the source.  The road continues back south, but you do not seem to
+be able to go north.  Perhaps you should talk with the guard?  
+~
+0 0 1
+D2
+~
+~
+0 0 66201
+S
+#66203
+Mammoth Studios Lobby~
+Filled with large posters of movies filmed in this studio, the tourist
+lobby seems to be a busy center for tourists.  An information desk sits in
+the center of the room, with robots servicing information to the many
+inquisiting tourists.  The room leads off into two hallways, one to the east
+and the other to the west.  Above the entrance to the west, is a large sign.
+A small plaque has been placed beside the hallway to the east.  
+~
+0 8 0
+E
+sign~
+{&MAMMOTH STUDIOS GIFTSHOP{0
+~
+E
+plaque~
+{!This way to the Studio Set Tour.{0
+~
+D1
+~
+~
+0 0 66205
+D2
+~
+~
+0 0 66273
+D3
+~
+~
+0 0 66204
+S
+#66204
+The Mammoth Studios Giftshop~
+Filled with all sorts of items and memorabilia of the films done in this
+studio, this giftshop sells from the cheapest stickers to the more expensive
+costumes worn by the actors in famous movies.  A busy counter sits by the
+south wall of the room.  Cameras on the ceiling watch for shoplifters and
+pickpockets.  The only exit is to the east, back to the lobby.  
+~
+0 8 0
+D1
+~
+~
+0 0 66203
+S
+#66205
+Well Lit Hallway~
+More Movie Billboards and commercial pictures are hung across this
+hallway.  Most of the movies are rather old, considering most of the new
+movies of the studios have not been released yet.  The floor is covered in a
+thick, bushy red carpet, and the movie theater smell fills the air.  The
+light popping of popcorn and that corny, cheesy music playing in the
+background echo throughout the hallway.  The hallway continues to the north,
+and the Main Tourist center is to the west.  
+~
+0 8 0
+D0
+~
+~
+0 0 66206
+D3
+~
+~
+0 0 66203
+S
+#66206
+Genre Split~
+This room separates into different hallways.  Each hallway contains a
+different movie genre.  The room seems normal enough, well lit by both
+windows and lamps.  A ramp leads up to the Horror Section.  The ramp down
+leads to the Sci-Fi Section.  Western movies are to the east, while Dinosaur
+films are to the west.  To the North are the exciting Kung Fu Movies.  The
+hallways south leads back to the lobby.  
+~
+0 12 0
+D0
+~
+~
+0 0 66225
+D1
+~
+~
+0 0 66219
+D2
+~
+~
+0 0 66205
+D3
+~
+~
+0 0 66207
+D4
+~
+~
+0 0 66214
+D5
+~
+~
+0 0 66211
+S
+#66207
+The Jurassic Park Hallway~
+This room seems completely different from the rest of the building.  The
+entire room is filled with flora from the Jurassic Period.  The muddy ground
+is imprinted with several foot steps.  The path leading westward seems to
+have been made by a rather large creature.  The illusion begins to break
+into reality eastwards.  
+~
+0 8 3
+D1
+~
+~
+0 0 66206
+D3
+~
+~
+0 0 66208
+S
+#66208
+Deep in the Jungle~
+With almost unfamiliar plant life living here, the path becomes divided
+and almost impossible.  The path leads out to an inlet apparently.  Several
+fallen trees overlook the prehistoric, but majestic body of water.  An
+impending storm seems to be growing over the horizon.  It is obvious that
+this is only a set however.  The illusion does not extend past the trees. 
+The path continues to the east and west.  
+~
+0 8 3
+D1
+~
+~
+0 0 66207
+D3
+~
+~
+0 0 66209
+S
+#66209
+Overlooking an Inlet~
+The sparkling sea-green water recedes calmly.  The tropical air runs
+through the computer generated wind.  A storm of illusion grows over the
+horizon.  The Path continues downward to the beath and westward back into
+the forest.  
+~
+0 8 0
+D1
+~
+~
+0 0 66208
+D5
+~
+~
+0 0 66210
+S
+#66210
+On the Beach~
+Large footprints mark the sands.  The long dunes stretch for miles,
+separating the ocean and the forest.  The calm water recedes from time to
+time higher onto the shore.  The odd tides shift every few seconds.  A
+looming black cloud grows to the far north, causing both wind and thunder. 
+A path leading back to the forest goes eastwards.  
+~
+0 12 10
+D0
+~
+~
+0 0 66229
+D2
+~
+~
+0 0 66231
+D4
+~
+~
+0 0 66209
+S
+#66211
+Launch Site #12~
+This is one of the many launch sites for the space station.  Reality here
+has seemingly been altered yet again.  Several different controls and
+buttons stand behind a shielded area.  Small lights on each side of a path
+leads down to the end.  The lighted path continues north.  
+~
+0 8 0
+D0
+~
+~
+0 0 66212
+D4
+~
+~
+0 0 66206
+S
+#66212
+Launch Site #1~
+This is the first of the many Launch Sites.  Apparently a ship has still
+been docked here.  A docking bay door to the east leads outside to a
+corridor in the space station.  
+~
+0 8 0
+D1
+~
+blastdoor~
+1 0 66260
+D2
+~
+~
+0 0 66211
+S
+#66213
+The Cargo Bay~
+Filled with all sorts of containers and cargo, this room seems sturdy
+enough to take quite a hit.  A blast door to the north seems to be securely
+locked.  The exit seems to be to the north.  
+~
+0 12 0
+D0
+~
+blastdoors~
+1 0 66235
+R RANDOM 66200 15~
+S
+#66214
+{*A Murky Marsh{0~
+Almost impossible to see, this boggy swamp covers the light into
+darkness.  An odd fog rolls over the area.  The swamp ends to the north,
+with a path leading to a castle.  
+~
+0 9 3
+D0
+~
+~
+0 0 66215
+D5
+~
+~
+0 0 66206
+S
+#66215
+{3Mud Flats{0~
+The ground here is muddy, but sturdy for anyone to stand in.  The swampy
+path continues north towards the castle.  
+~
+0 9 3
+D0
+~
+~
+0 0 66216
+D2
+~
+~
+0 0 66214
+S
+#66216
+Through the Swamp~
+The Darkness of this area seems to eliminate all but the minor lights
+from the castle ahead.  Apparently though, the surroundings are swamp-like
+marsh and forest.  
+~
+0 9 3
+D0
+~
+~
+0 0 66217
+D2
+~
+~
+0 0 66215
+S
+#66217
+Through the Swamp~
+The Darkness of this area seems to eliminate all but the minor lights
+from the castle ahead.  Apparently though, the surroundings are swamp-like
+marsh and forest.  The path goes upwards towards the castle.  
+~
+0 9 3
+D2
+~
+~
+0 0 66216
+D4
+~
+~
+0 0 66218
+S
+#66218
+Before the Castle~
+The mighty stone steps leading before the open castle gate are covered in
+moss.  It would almost seem that this path has not been active for awhile
+now.  The castle continues within to the north.  The swamp is below this
+hill and southwards.  
+~
+0 8 0
+D0
+~
+~
+0 0 66261
+D5
+~
+~
+0 0 66217
+S
+#66219
+Dusty Path~
+The beyond of this scene is the desert.  Ahead is a small town, likely
+for cowboys.  Some horses ride in and out of that city as well.  The path
+going east leads into the city.  You can return to reality going west.  
+~
+0 8 10
+D1
+~
+~
+0 0 66220
+D3
+~
+~
+0 0 66206
+S
+#66220
+The Town of Gommorah~
+Probably one of the most moraless frontier towns in the wild wild west,
+Gommorah is home to burlesques, drunks, criminals, and any other scum
+possible.  This is probably one of the seediest towns ever to exist.  The
+desert road continues to the east and west.  
+~
+0 8 10
+D1
+~
+~
+0 0 66221
+D3
+~
+~
+0 0 66219
+S
+#66221
+Main Road of Gommorah~
+Most of this scene is built up of wooden buildings and set pieces. 
+Certain buildings however are real, for example the saloon.  This town is
+rather empty, save for the loud raucous noises coming from the saloon to the
+far north.  The dusty path continues north and west.  To the north is more
+of the town, and to the west is the desert road out of the town.  
+~
+0 8 10
+D0
+~
+~
+0 0 66222
+D3
+~
+~
+0 0 66220
+S
+#66222
+The Town of Gommorah~
+This set looks like it hasn't been used in awhile.  The sun is always at
+five till noon from here.  A wooden board in the shape of a burlesque is to
+the west, and the path continues north and south.  
+~
+0 8 10
+D0
+~
+~
+0 0 66223
+D2
+~
+~
+0 0 66221
+D3
+~
+~
+0 0 66272
+S
+#66223
+The Town of Gommorah~
+Most of the buildings here have been boarded up or closed.  The only open
+space is to the north, the saloon.  The sun has seemingly moved to noon
+here.  The path continues to the north into the bar, and south through the
+beaten town.  The Jail is to the east.  Another path leads to the west,
+leading out to the local church.  
+~
+0 8 10
+D0
+~
+~
+0 0 66224
+D1
+~
+~
+0 0 66271
+D2
+~
+~
+0 0 66222
+D3
+~
+~
+0 0 66274
+S
+#66224
+Dusty's Saloon~
+Filled with the stench of alcohol and unclean bodies, Dusty's saloon is
+the ideal place to get drunk and get merry while at the same time have a bar
+fight without a sheriff stopping you.  To the corner is a painist playing
+ragtime.  It is easily noticed that most of these people here are cheating
+at poker and any other card game they play here.  The saloon heads back
+south into the town.  
+~
+0 8 0
+D2
+~
+~
+0 0 66223
+S
+#66225
+Village Alleyway~
+This Alleyway seems to lead into an enclosed square.  A slight dust storm
+rolls in.  The falling leaves signify it to be sometime in the fall.  The
+Sun beats down through the dust.  The dirt path continues north.  However to
+the south is reality.  
+~
+0 8 1
+D0
+~
+~
+0 0 66226
+D1
+~
+~
+0 0 66265
+D2
+~
+~
+0 0 66206
+S
+#66226
+Village Alleyway~
+Further to the North Appears to be an enclosed square.  The dust storm
+continues to roll out in this alleyway for some reason.  The falling leaves
+identify the season of fall in this area.  The bright sun passes through the
+dusts and beats down on the people of the village.  This dirt path continues
+to the north and south.  
+~
+0 12 1
+D0
+~
+~
+0 0 66227
+D2
+~
+~
+0 0 66225
+S
+#66227
+Entrance to the {!Red Flower Society{0~
+A large archway encompasses the entrance.  A red lotus flower has been
+placed valiantly over the archway.  Further northwards leads into the
+Square.  Laughing can be heard within.  The path also goes south, back into
+the village.  
+~
+0 8 1
+D0
+~
+~
+0 0 66228
+D2
+~
+~
+0 0 66226
+S
+#66228
+The Meeting Square for the {!Red Flower Society{0~
+Filled with all sorts of writings and scripts around the square, this
+meeting place seems to all face toward a chair in the center. 
+Unfortunately, this square has been seemingly converted temporarily into a
+place for criminals and robbers.  Dust rolls in from time to time here. 
+Going back south leads back into the village.  
+~
+0 8 1
+D2
+~
+~
+0 0 66227
+S
+#66229
+Path to the Camp~
+A small set of torches line up on the beach, leading back into the
+forest.  The waves recede back and forth on the shore.  A soothing surf
+echoes throughout this inlet.  Going Back South is the beach and the more
+forest.  Several odd roars can be heard to the south.  
+~
+0 8 3
+D0
+~
+~
+0 0 66230
+D2
+~
+~
+0 0 66210
+S
+#66230
+Exploration Camp~
+Enclosed by a Palisade Wall on one side and thick underbrush on all
+others, this camp makes perfect sense as a defensible fortress.  Although
+the tents and living conditions seem slightly crude, one would guess that
+this is the best of living conditions in this area.  The beach is to the
+south.  However, most of the people have moved out, save for the few medics.
+~
+0 8 1
+D2
+~
+~
+0 0 66229
+S
+#66231
+Forest Path~
+Big footprints fill the path here.  The underbrush seem slightly
+trampled.  The high trees cover from where the roars come from.  The path
+continues to the south.  
+~
+0 8 3
+D0
+~
+~
+0 0 66210
+D2
+~
+~
+0 0 66232
+S
+#66232
+Forest Path~
+It becomes very difficult to see anything around here.  
+
+~
+0 9 3
+D0
+~
+~
+0 0 66231
+D1
+~
+~
+0 0 66233
+S
+#66233
+Forest Path~
+It becomes difficult to see anything.  
+~
+0 9 0
+D1
+~
+~
+0 0 66234
+D3
+~
+~
+0 0 66232
+S
+#66234
+Clearing~
+An open clearing of fresh green grass has the many features of comfort. 
+Unfortunately, those comforts are smashed by a large imprint in the grass. 
+The path continues west.  
+
+~
+0 8 3
+D3
+~
+~
+0 0 66233
+S
+#66235
+Corridor A Deck 5~
+One of the many corridors on board this ship.  A pair of large blastdoors
+are to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 66242
+D1
+~
+~
+0 0 66236
+D2
+~
+blastdoors~
+1 0 66213
+S
+#66236
+Corridor A Deck 5~
+One of the many corridors on board this ship.
+~
+0 8 0
+D0
+~
+~
+0 0 66237
+D3
+~
+~
+0 0 66235
+S
+#66237
+Corridor B Deck 5~
+One of the many corridors on board this ship.  A Junction leads east of
+here.  
+~
+0 8 0
+D0
+~
+~
+0 0 66238
+D1
+~
+~
+0 0 66244
+D2
+~
+~
+0 0 66236
+S
+#66238
+Corridor B Deck 5~
+One of the many corridors on board this ship.
+~
+0 8 0
+D0
+~
+~
+0 0 66239
+D2
+~
+~
+0 0 66237
+S
+#66239
+Corridor C Deck 5~
+One of the many corridors on board this ship.
+~
+0 8 0
+D2
+~
+~
+0 0 66238
+D3
+~
+~
+0 0 66240
+S
+#66240
+Corridor C Deck 5~
+One of the many corridors on board this ship.  To the south however,
+seems to be a door somewhere.  
+~
+0 8 0
+D1
+~
+~
+0 0 66239
+D2
+~
+door~
+1 0 66243
+D3
+~
+~
+0 0 66241
+S
+#66241
+Corridor D Deck 5~
+One of the many corridors on board this ship.  There is another blast
+door to the north.  
+~
+0 8 0
+D0
+~
+blastdoor~
+1 0 66278
+D1
+~
+~
+0 0 66240
+D2
+~
+~
+0 0 66242
+S
+#66242
+Corridor D Deck 5~
+One of the many corridors on board this ship.
+~
+0 8 0
+D0
+~
+~
+0 0 66241
+D2
+~
+~
+0 0 66235
+S
+#66243
+The Brig~
+Currently unmanned and unattended, this brig is state of the art in
+technologies.  Most of the room is empty, as the ship is still in dock.  
+~
+0 8 0
+D0
+~
+door~
+1 0 66240
+S
+#66244
+Junction 1 - Corridor B - Deck 5~
+One of the many corridors on board this ship.
+~
+0 8 0
+D1
+~
+~
+0 0 66245
+D3
+~
+~
+0 0 66237
+S
+#66245
+Lift~
+Nice and padded, this lift leads only upwards from here.  
+~
+0 8 0
+D3
+~
+~
+0 0 66244
+D4
+~
+~
+0 0 66246
+S
+#66246
+Lift~
+Nice and padded, this lift leads upwards and downwards on the ship.
+~
+0 8 0
+D0
+~
+~
+0 0 66254
+D4
+~
+~
+0 0 66247
+D5
+~
+~
+0 0 66245
+S
+#66247
+Lift~
+Nice and padded, this lift leads upwards and downwards on the ship.  
+~
+0 8 0
+D2
+~
+~
+0 0 66251
+D4
+~
+~
+0 0 66248
+D5
+~
+~
+0 0 66246
+S
+#66248
+Lift~
+Nice and padded, this lift leads downwards to the bowels of the ship.  
+~
+0 12 0
+D0
+~
+~
+0 0 66249
+D5
+~
+~
+0 0 66247
+S
+#66249
+The Bridge~
+The Main Deck of this Starship.  A large viewscreen overlooks the entire
+sector for a certain range.  The Command controls for the entire ship are
+centralized here for the commanding officer to declare orders.  The
+Turbolift is to the south, and to the west is the Captain's Ready Room.  
+~
+0 8 0
+D2
+~
+~
+0 0 66248
+D3
+~
+~
+0 0 66250
+S
+#66250
+Captain's Ready Room~
+Filled with knicknacks and other interesting objects of interest, this
+room is comparitevely cleaner than the others.  The Captain must be a real
+nitpicker for cleanliness, or else the entire room would have some trash
+somewhere visible.  A small fish tank lies behind the desk beside the view
+of the exterior of the ship.  The Bridge is to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 66249
+S
+#66251
+Junction 1 Corridor A Deck 2~
+Alike to the many corridors of the ship.  
+~
+0 8 0
+D0
+~
+~
+0 0 66247
+D2
+~
+~
+0 0 66252
+S
+#66252
+Corridor A Deck 2~
+Alike to the many corridors of the ship.  
+~
+0 8 0
+D0
+~
+~
+0 0 66251
+D2
+~
+~
+0 0 66253
+S
+#66253
+Engineering Bay~
+Filled with all sorts of gizmos and gadjets, this room controls the
+engine that makes this ship run.  Engineers run about working on the engine,
+not noticing anyone else but their commanding officer.  A soft hum from the
+engine echoes through this room.  The corridor north leads back to the
+Turbolift.  
+~
+0 8 0
+D0
+~
+~
+0 0 66252
+S
+#66254
+Junction 1 Corridor A Deck 3~
+This Corridor is alike to all the other ones aboard the ship.  
+~
+0 8 0
+D0
+~
+~
+0 0 66255
+D2
+~
+~
+0 0 66246
+S
+#66255
+Corridor A Deck 3~
+This Corridor is alike to all the other ones aboard the ship.
+~
+0 8 0
+D1
+~
+~
+0 0 66258
+D2
+~
+~
+0 0 66254
+D3
+~
+~
+0 0 66256
+S
+#66256
+Corridor A Deck 5~
+Like all the other corridors on the ship, this corridor has carpets and
+lights.  However, an open door to the north leads to the mess hall.  
+~
+0 8 0
+D0
+~
+~
+0 0 66257
+D1
+~
+~
+0 0 66255
+S
+#66257
+The Ship Mess Hall~
+Completely empty since the ship is docked in the space station, the mess
+hall is clean and orderly like all the rooms of the ship.  A bar by the door
+probably serves drinks besides from the replication unit.  Going back into
+the corridor is to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 66256
+S
+#66258
+Corridor A Deck 3~
+This Corridor is alike to all the other ones aboard the ship.
+~
+0 8 0
+D0
+~
+~
+0 0 66259
+D3
+~
+~
+0 0 66255
+S
+#66259
+Sick Bay~
+Filled with medical instruments and medicines, this medical bay seems
+well equipped from a small epidemic aboard the ship to a mass plasma blast
+in Engineering.  Empty for now like most of the ship, this is probably the
+busiest room than any other aboard the ship.  South is the Corridor for this
+deck 
+~
+0 8 0
+D2
+~
+~
+0 0 66258
+S
+#66260
+Starbase Promenade~
+The Promenade has been closed for the time being because of impending
+war.  The only available areas to travellers is the docking bay.  Mostly the
+entire base has only been for the repair of the military ships in the
+sector.  The blast doors to the west lead back to the Docking Bay.  
+~
+0 0 0
+D3
+~
+blastdoor~
+1 0 66212
+S
+#66261
+Entrance to an Old Gothic Castle~
+Both spooky and murky, this ancient medieval castle overlooks the thick
+foggy swamp below.  Dark clouds cover the area completely, and thunderstorms
+echo throughout the sky.  Screaming can be heard in the distance from within
+the castle.  Accompanying it is insane laughter of the worst.  
+~
+0 12 3
+D0
+~
+~
+0 0 66262
+D2
+~
+~
+0 0 66218
+S
+#66262
+Main Chamber of the Ancient Castle~
+Broken and scarred from years of disuse, decay, and war, this ancient
+castle has completely fallen aparty from the eons of existence.  Thick {*black
+curtains{0 cover the windows and cobwebs grow over the two sets of stairs. 
+One set leads downwards, this other upwards.  
+~
+0 8 0
+D2
+~
+~
+0 0 66261
+D4
+~
+~
+0 0 66264
+D5
+~
+~
+0 0 66263
+S
+#66263
+Coffin Room~
+Filled with coffins of all sorts, this entire room is dedicated to one
+coffin though.  One large coffin in the center of the room surrounded by
+lowly lit candles and held up by a propped wooden pole.  Several of the
+other coffins, however, are openned and exposed with no corpses or skeletons
+within them.  A set of stairs lead back to the main chamber of the creepy
+castle 
+~
+0 8 0
+D4
+~
+~
+0 0 66262
+S
+#66264
+Laboratory~
+Filled with all sorts of equipment and dusty beakers, this lab has
+probably been long since used.  Observation tables are covered with long
+white drapes, concealing the experiments in this laboratory.  A tall window
+overlooks the gloomy and stormy outside.  A set of stairs leads back down to
+the Main Chamber of the Castle and it also seems to be the only exit to
+leave this place.  
+~
+0 8 0
+D5
+~
+~
+0 0 66262
+S
+#66265
+Village Path~
+Covered behind the many homes of the village, the administration palace
+seems farther than it really is.  The magistrates palace is further to the
+east.  The village alleyway goes on east and west.  The dusty dirt street
+seems to roll with dirt and sand.  
+~
+0 8 1
+D1
+~
+~
+0 0 66266
+D3
+~
+~
+0 0 66225
+S
+#66266
+Village Market Square~
+Vendors of all sorts stand here selling their wares.  Hundreds of live
+birds and the smell of both vegetables and freshly butchered meats waifs in
+the air.  The market square's path to the magistrate's palace is to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 66267
+D3
+~
+~
+0 0 66265
+S
+#66267
+Imperial Way~
+Marked by the splendor of Chinese culture from koi lanterns to well
+dressed imperial soldiers, this road marks the beauty of chinese culture in
+this village.  The Magistrates Palace is just up ahead to the east.  The
+Market Square is to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 66268
+D3
+~
+~
+0 0 66266
+S
+#66268
+Before the Magistrate's Palace~
+A large iron grate seals the entrance to the palace.  The grate has been
+designed to be shaped like a dragon with a chinese insignia on it.  The
+palace is to the east, and the rest of the village is to the west.  
+ 
+~
+0 12 1
+D1
+~
+grate~
+1 0 66269
+D3
+~
+~
+0 0 66267
+S
+#66269
+Palace Promenade~
+Decorated with the finest of all, this promenade is filled with the
+largest garden in the province.  Thousands of blooming flowers grow almost
+wildly, overtaking most of the promenade.  A stone path continues to the
+north, leading to the main administration building.  The grate to the west
+leads back to the Village.  
+~
+0 8 1
+D0
+~
+~
+0 0 66270
+D3
+~
+grate~
+1 0 66268
+S
+#66270
+The Administration Building~
+Better known as the throne room of the village magistrate, all complaints
+and orders are brought to the magistrate's attention here.  Thousands of
+artworks cover the walls of this room.  Large empty vases sit on stands each
+of them lined up in a parallel formation.  The throne in the center of the
+room is surrounded by several guards.  The only exit is to the south where
+the Garden is.  
+~
+0 8 0
+D2
+~
+~
+0 0 66269
+S
+#66271
+Town Jail~
+Almost beaten down from years of not being used, this jail is dustier
+than the desert outside of town.  The town street is to the west.  
+~
+0 8 0
+D3
+~
+~
+0 0 66223
+S
+#66272
+The Dance Hall~
+Shoddily built and maintained, the key attraction to this dance hall as
+with all dance halls is the stage.  With broken chairs and tables for
+viewers, most of the town of Gommorah is alike to this building: damaged. 
+Different wanted posters hang on the walls of the building, but most are no
+longer legible after being shot up with bullet holes.  A player piano echoes
+throughout the background of the room for the girls to dance to.  The only
+exit is to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 66222
+S
+#66273
+Entrance Hallway to Mammoth Studio Tourist Area~
+This room is pretty much flashy and decorative.  With movie posters and
+cardboard cutouts of famous action stars placed up all around the place,
+most of the wall is covered by the movie posters.  A red carpet leads north
+to the Lobby and Information Center.  
+~
+0 0 0
+D0
+~
+~
+0 0 66203
+S
+#66274
+Church Road~
+Connecting the church and Gommorah is the road.  Although rather beaten,
+this road seems to be in good use.  Completely separated from the lawless
+town, this church is the only sanctuary from the outlaws of the town.  The
+path continues to the west towards the church and east towards the town.  
+~
+0 12 10
+D1
+~
+~
+0 0 66223
+D3
+~
+~
+0 0 66275
+S
+#66275
+Church path~
+A simple looking church from the outside, made of the nearby wood and
+painted with white with and iron cross on the steeple, this church is alike
+to many other churches in other towns.  However, this church is the only
+safehaven from the crime and villainy of Gommorah.  Unlike the desert of the
+area, the church has a garden and several different plant life within its
+walls.  A small gate leads into the Church grounds.  The path goes back east
+to the town.  
+~
+0 8 10
+D1
+~
+~
+0 0 66274
+D3
+~
+gate~
+1 0 66276
+S
+#66276
+The Church Grounds~
+Lush with both grass and flora, the church is obviously the beautiful
+haven that resembles the garden of eden.  A fountain in the center of the
+path is built like a waterful as the path steeps towards the church. 
+Several different flowers and plants grow almost abdundantly here.  The
+Church Door is to the north.  The path to the east leads back to the town.  
+~
+0 8 3
+D0
+~
+door~
+1 0 66277
+D1
+~
+~
+1 0 66275
+S
+#66277
+Inside the Church~
+A simple church with only a few pews.  This church is almost like a
+chapel.  It is obvious why few seats were made, as the town it has been
+assigned to is just all villainy and scum.  No regular service seems to be
+held here, but all the lavish things of a regular church are all still here.
+A small organ can be seen on the stage with the altar next to it.  Several
+confession boxes are against the wall to the left and a holy water fountain
+is to the right.  An aisle runs down the middle, with pews to the left and
+right.  The only exit is to the south.  
+~
+0 1032 0
+D2
+~
+~
+1 0 66276
+S
+#66278
+The Ship Hangar~
+With metal walls and a large hangar door, this room seems to be devoid of
+any life and almost any craft.  However, one shuttle sits in the center of
+the room, and it appears to be open and operative.  There is a blastdoor to
+the south.  
+~
+0 8 0
+D2
+~
+~
+1 0 66241
+S
+#66279
+Sector 001-01-01~
+This is the sector where the space station above Earth is.
+~
+0 12 0
+D0
+~
+~
+0 0 66280
+D1
+~
+~
+0 0 66290
+D4
+~
+~
+0 0 66285
+S
+#66280
+Sector 002-02-02~
+This sector is past the Sol System and into Rebel territory.
+~
+0 0 0
+D0
+~
+~
+0 0 66281
+D2
+~
+~
+0 0 66279
+S
+#66281
+Sector 002-03-04~
+This sector of space is around the third planet of this solar system.  
+~
+0 0 0
+D0
+~
+~
+0 0 66282
+D2
+~
+~
+0 0 66280
+S
+#66282
+Sector 002-04-04~
+This sector of space orbits the second planet of this solar system.  
+~
+0 8 0
+D0
+~
+~
+0 0 66283
+D2
+~
+~
+0 0 66281
+S
+#66283
+Sector 002-05-04~
+This sector of space orbits the first planet of this solar system.
+~
+0 8 0
+D0
+~
+~
+0 0 66284
+D2
+~
+~
+0 0 66282
+S
+#66284
+Sector 002-06-04~
+This sector orbits the sun of this solar system.  
+~
+0 8 0
+D2
+~
+~
+0 0 66283
+S
+#66285
+Sector 003-05-02~
+This sector begins the border between the Sol System and the Rigel System.  
+~
+0 12 0
+D4
+~
+~
+0 0 66286
+D5
+~
+~
+0 0 66279
+S
+#66286
+Sector 003-04-02~
+This sector of space orbits Rigel Three.
+~
+0 8 0
+D4
+~
+~
+0 0 66287
+D5
+~
+~
+0 0 66285
+S
+#66287
+Sector 003-03-02~
+This sector of space orbits Rigel Two.
+~
+0 8 0
+D4
+~
+~
+0 0 66288
+D5
+~
+~
+0 0 66286
+S
+#66288
+Sector 003-02-02~
+This sector of space orbits Rigel One.
+~
+0 8 0
+D4
+~
+~
+0 0 66289
+D5
+~
+~
+0 0 66287
+S
+#66289
+Sector 003-01-02~
+This sector of space orbits the Rigel Systems Red Dwarf Sun.  
+~
+0 8 0
+D5
+~
+~
+0 0 66288
+S
+#66290
+Sector 004-05-03~
+This sector leads to the Alpha Centauri system.
+~
+0 12 0
+D1
+~
+~
+0 0 66291
+D3
+~
+~
+0 0 66279
+S
+#66291
+Sector 004-04-02~
+This sector of space is surrounded by a {5purple{0 and {%pink{0 nebula.  
+~
+0 8 0
+D1
+~
+~
+0 0 66292
+D3
+~
+~
+0 0 66290
+S
+#66292
+Sector 004-03-02~
+This sector of space is surrounded by a {2green{0 nebula.  
+~
+0 8 0
+D1
+~
+~
+0 0 66293
+D3
+~
+~
+0 0 66291
+S
+#66293
+Sector 004-02-02~
+This sector of space is surrounded by a {$blue{0 nebula.  
+~
+0 8 0
+D1
+~
+~
+0 0 66294
+D3
+~
+~
+0 0 66292
+S
+#66294
+Sector 004-01-02~
+This part of this sector is normal without any nebulas, but there is a
+rather large wormhole in the center of the sector.  
+~
+0 12 0
+D3
+~
+~
+0 0 66293
+S
+#66295
+Sector 010-05-99~
+This entire galaxy is entirely covered in {@green gas{0.  
+~
+0 8 0
+D1
+~
+~
+0 0 66296
+S
+#66296
+010-04-99~
+This entire galaxy is entirely covered in {@green gas{0.
+~
+0 8 0
+D1
+~
+~
+0 0 66297
+D3
+~
+~
+0 0 66295
+S
+#66297
+Sector 010-03-99~
+This entire galaxy is entirely covered in {@green gas{0.  
+~
+0 8 0
+D1
+~
+~
+0 0 66298
+D3
+~
+~
+0 0 66296
+S
+#66298
+010-02-99~
+This entire galaxy is entirely covered in {@green gas{0.  
+~
+0 8 0
+D1
+~
+~
+0 0 66299
+D3
+~
+~
+0 0 66297
+S
+#66299
+010-01-99~
+This entire galaxy is entirely covered in {@green gas{0.  This is the center
+of this galaxy.  
+~
+0 8 0
+D3
+~
+~
+0 0 66298
+S
+#0
+
+
+
+#SPECIALS
+M 66209 spec_cast_adept
+M 66215 spec_cast_adept
+M 66218 spec_impale
+M 66227 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 66212 1 1
+D 0 66213 0 1
+D 0 66235 2 1
+D 0 66241 0 1
+D 0 66260 3 1
+D 0 66268 1 1
+D 0 66269 3 1
+D 0 66275 3 1
+D 0 66276 1 1
+D 0 66278 2 1
+M 0 66200 1 66202 1
+E 0 66200 0 16
+E 0 66201 0 12
+M 0 66201 1 66203 1
+M 0 66202 1 66204 1
+G 0 66202 0
+G 0 66203 0
+G 0 66204 0
+G 0 66205 0
+M 0 66214 7 66207 1
+M 0 66213 16 66208 4
+M 0 66214 7 66208 1
+M 0 66213 16 66208 4
+M 0 66212 15 66208 5
+M 0 66214 7 66209 1
+O 0 66206 0 66212
+O 0 66207 0 66213
+M 0 66219 5 66214 1
+M 0 66219 5 66215 1
+M 0 66219 5 66216 1
+M 0 66219 5 66217 2
+M 0 66225 10 66222 2
+M 0 66226 1 66223 1
+M 0 66225 10 66223 2
+M 0 66223 1 66224 1
+G 0 66215 0
+M 0 66225 10 66224 1
+G 0 66214 0
+M 0 66224 5 66224 5
+M 0 66235 10 66225 3
+M 0 66217 1 66226 1
+E 0 66213 0 20
+E 0 66212 0 16
+E 0 66212 0 19
+M 0 66216 1 66228 1
+M 0 66215 1 66230 1
+M 0 66213 16 66231 4
+M 0 66214 7 66231 1
+M 0 66212 15 66231 5
+M 0 66212 15 66232 5
+M 0 66214 7 66232 1
+M 0 66214 7 66233 1
+M 0 66213 16 66234 4
+M 0 66214 7 66234 1
+M 0 66210 10 66236 2
+M 0 66210 10 66237 2
+M 0 66211 10 66240 2
+M 0 66211 10 66244 2
+M 0 66210 10 66245 2
+M 0 66210 10 66247 2
+M 0 66207 1 66249 1
+E 0 66211 0 16
+M 0 66206 1 66249 1
+E 0 66209 0 16
+M 0 66203 1 66249 1
+E 0 66209 0 16
+M 0 66204 1 66249 1
+E 0 66209 0 16
+M 0 66205 1 66250 1
+E 0 66208 0 17
+E 0 66209 0 16
+M 0 66208 1 66253 1
+E 0 66209 0 16
+E 0 66208 0 0
+M 0 66211 10 66254 2
+M 0 66211 10 66255 2
+M 0 66210 10 66255 2
+M 0 66211 10 66257 2
+M 0 66209 1 66259 1
+E 0 66210 0 17
+E 0 66209 0 16
+E 0 66208 0 0
+M 0 66220 5 66263 5
+M 0 66221 1 66264 1
+M 0 66235 10 66265 3
+M 0 66235 10 66266 3
+M 0 66218 10 66267 2
+M 0 66218 10 66267 2
+M 0 66218 10 66268 2
+M 0 66218 10 66268 2
+M 0 66218 10 66269 2
+M 0 66218 10 66269 2
+M 0 66228 1 66270 1
+M 0 66218 10 66270 2
+M 0 66218 10 66270 2
+M 0 66225 10 66271 1
+M 0 66222 3 66272 3
+M 0 66225 10 66272 4
+O 0 66216 0 66276
+M 0 66227 1 66277 1
+O 0 66217 0 66278
+O 0 66279 0 66279
+M 0 66230 15 66281 5
+M 0 66230 15 66282 3
+M 0 66229 9 66282 3
+M 0 66230 15 66283 3
+M 0 66229 9 66283 3
+M 0 66230 15 66284 4
+M 0 66229 9 66284 3
+M 0 66232 15 66286 5
+M 0 66232 15 66287 5
+M 0 66232 15 66288 5
+M 0 66233 15 66291 5
+M 0 66233 15 66292 5
+M 0 66233 15 66293 5
+M 0 66231 1 66294 1
+O 0 66218 0 66294
+M 0 66234 4 66295 1
+E 0 66280 0 16
+O 0 66219 0 66295
+M 0 66234 4 66296 1
+E 0 66220 0 5
+M 0 66234 4 66297 1
+E 0 66280 0 16
+M 0 66234 4 66298 1
+E 0 66220 0 5
+S
+
+
+
+#SHOPS
+66202 9 5 17 15 0 140 140 0 24
+66223 17 19 0 0 0 50 151 0 24
+0
+
+
+
+#MOBPROGS
+#66200
+SAY  Halt.
+SAY  You do not have an identification, you are a tourist.
+SAY  Say '{&Let me in{0' if you want me to send you to the tour area.
+~
+#66201
+SAY  Very well.
+EMOTE  opens the gate for $n, and directs $n to the tourist center.
+MOB TRANSFER  $n 66273
+~
+#66202
+SAY  Greetings visitor, May I help you?
+~
+#66203
+SAY Very good sir, have a nice time.  
+~
+#66204
+SAY  The giftshop to the west is where you may purchase some maps.
+SAY  The tour begins to the east.
+~
+#66205
+SAY  Look Bill, I want those maps sent ASAP.
+SAY  No... oh, hello how can I help you?
+~
+#66206
+SAY  I'm sorry, we're fresh out of maps.
+SAY  We have other things that could be of interest to you.
+SAY  Feel free to look around.
+~
+#66221
+SAY  Hi there, would you like to see something?
+SAY  Well, it'll cost you 100 silver..
+~
+#66222
+MOB ECHOAT  $n The dancing girl lifts up her skirt to you, giggling drunkenly.
+MOB ECHOAT  $n The dancing girl asks you '{5would you like to see that again?{0'
+~
+#66224
+SAY  I've got the death sentence in twelve other towns!
+MOB KILL  $n
+~
+#66225
+SAY  What are you looking at?
+~
+#66228
+SAY  Welcome to my fair city.
+SAY  Now, have you come as friend, or foe?
+~
+#66229
+SAY  Guards, kill the enemy!
+MOB FORCE  imperial kill $n
+~
+#66230
+SAY  Ah, splendid, welcome to our city!
+~
+#66231
+SAY  You can not win, the empire will kill you for this...
+~
+#66298
+SAY  This wormhole leads to a dangerous sector called the Behemoth Sector.
+SAY  It is a noxious area, and behemoth ships there are deadly.
+SAY  Enter at your own risk.
+~
+#66299
+SAY  Greetings traveller to Telemetry station 1.
+SAY  If you wish to repair your ship, type '{&Heal{0' for a list of prices.
+SAY  If you are here to enter the wormhole, please say wormhole.
+~
+#0
+
+#OBJPROGS
+#66200
+obj echo  A light bleep echoes from the Rifle.
+~
+#66201
+obj echo  A mighty shriek comes from the blaster as it begins to fire.
+~
+#66204
+obj echo  The light goes off and slowly fades and dies.
+~
+#66213
+FORCE  $n  say I swore I would not see myself kill my own brothers..
+~
+#0
+
+#ROOMPROGS
+#66200
+ROOM ECHO  {&A light hum echoes from the ships hull.{0
+~
+#66201
+~
+#0
+
+#$

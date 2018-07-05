@@ -1,0 +1,901 @@
+#AREADATA
+Name Quest area~
+Builders None~
+VNUMs 80000 80099
+Credits [-QUEST-] Imm      Quest Area~
+Security 9
+End
+
+
+
+#MOBILES
+#80000
+Nian~
+Nian~
+Nian is here ready to take you.
+~
+~
+human~
+AC V 0 500 0
+160 1200 100d10000+40000 10d300+200 10d300+500 none
+120 120 120 120
+C 0 0 0
+stand stand male 100000
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#80001
+Fu~
+{DFu{x~
+Fu, the blessing of goodluck and fortune.
+~
+~
+human~
+A 0 0 0 0
+156 1092 82d296+8112 78d234+6084 31d78+1248 none
+-102 -102 -102 -70
+CFK 0 0 0
+stand stand none 30000
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#80002
+Ai~
+{MA{Ri{x~
+{MA{Ri{x, is here.
+~
+~
+human~
+A 0 0 0 0
+160 1120 84d304+8480 80d240+6400 32d80+1280 none
+-105 -105 -105 -73
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#80003
+dragon~
+A large dancing {gd{Gragon{x~
+A large group of people have created dancing {gd{Gragon{x
+~
+~
+dragon~
+A JT 0 0 0
+300 2100 157d570+30000 150d450+22500 60d150+2400 none
+-205 -205 -205 -144
+0 0 BEH FI
+stand stand none 20000
+CHZ ACDEFGHIJKPQUVX medium unknown
+#80010
+christmas elf~
+an {Gelf{x~
+An {Gelf{x is here resting.
+~
+One of santa's helpers is here resting.
+~
+elf~
+A J 0 0 0
+20 100 1d500+1000 0d0+0 1d10+100 pierce
+10 10 10 10
+0 0 B Z
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+#80011
+reindeer~
+a reindeer~
+A reindeer is here practicing to fly
+~
+~
+changeling~
+A Z 0 0 0
+50 100 1d1000+100 0d0+0 1d10+50 none
+10 10 10 10
+0 0 CL IR
+stand stand none 100
+AGHMV ABCDEFGHIJKQUV medium unknown
+#80012
+angel~
+an {YA{Wn{Yg{We{Yl{x~
+An {YA{Wn{Yg{We{Yl{x is praying here.
+~
+~
+human~
+A 0 0 0 0
+50 200 100d100+1000 0d0+0 1d20+20 pierce
+10 10 10 10
+0 0 0 0
+stand stand none 100
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#80013
+Dove~
+a dove~
+A dove flies around with a olive branch
+~
+~
+song bird~
+A Te 0 0 0
+10 50 10d10+10 0d0+0 1d5+10 peck
+5 5 5 5
+FH 0 0 0
+stand stand none 100
+GW ACDEFHKP medium unknown
+#80014
+pig~
+a {mpig{x~
+A {mpig{x snorts at you.
+~
+A symbol of wealth and good health
+~
+pig~
+A 0 0 0 0
+1 10 1d10+10 0d0+0 1d10+100 bite
+0 0 0 0
+0 0 0 0
+stand stand none 100000
+CGV ACDEFHJK medium unknown
+#0
+
+
+
+#OBJECTS
+#80000
+Cosmic's ring~
+cosmic's wedding ring.~
+Cosmic's wedding ring is here~
+unknown~
+armor AH AB
+40 40 40 40 0
+151 1 0 P
+A
+13 200
+A
+19 150
+A
+18 150
+#80001
+quest sign~
+quest sign~
+A QUEST SIGN floats here.~
+wood~
+furniture 0 0
+0 0 0 0 0
+152 0 0 P
+#80002
+bean bag pink~
+{wA {MP{mi{Mn{mk{x {Rb{Ge{Ba{Yn{Cb{Da{Rg{x~
+{wA {MP{mi{Mn{mk{x {Rb{Ge{Ba{Yn{Cb{Da{Rg{x {Dsits here.{x~
+unknown~
+furniture 0 A
+1 10000 EHK 800 800
+152 0 0 P
+#80003
+red beanbag~
+{RA {rr{Re{rd {Rb{re{Ra{rn{Rb{ra{Rg {rc{Rh{ra{Ri{rr{x~
+{RA {rr{Re{rd {Rb{re{Ra{rn{Rb{ra{Rg {rc{Rh{ra{Ri{rr{x~
+leather~
+furniture 0 AP
+2 800 EHK 200 200
+0 1000 0 P
+#80004
+purple beanbag~
+{MA {mp{Mu{mr{Mp{ml{Me {mb{Me{ma{Mn{mb{Ma{mg {Mc{mh{Ma{mi{Mr{x~
+{MA {mp{Mu{mr{Mp{ml{Me {mb{Me{ma{Mn{mb{Ma{mg {Mc{mh{Ma{mi{Mr{x~
+leather~
+furniture 0 AP
+2 1000 EHK 200 200
+0 1000 0 P
+#80005
+green beanbag~
+{gA {Gg{gr{Ge{ge{Gn {gb{Ge{ga{Gn{gb{Ga{gg {Gc{gh{Ga{gi{Gr{x~
+{gA {Gg{gr{Ge{ge{Gn {gb{Ge{ga{Gn{gb{Ga{gg {Gc{gh{Ga{gi{Gr{x~
+leather~
+furniture 0 AP
+2 1000 EHK 200 200
+0 1000 0 P
+#80006
+teal beanbag~
+{CA {ct{Ce{ca{Cl {cb{Ce{ca{Cn{cb{Ca{cg {Cc{ch{Ca{ci{Cr{x~
+{CA {ct{Ce{ca{Cl {cb{Ce{ca{Cn{cb{Ca{cg {Cc{ch{Ca{ci{Cr{x~
+leather~
+furniture 0 AP
+2 1000 EHK 200 200
+0 1000 0 P
+#80007
+yellow beanbag~
+{YA {yy{Ye{yl{Yl{yo{Yw {yb{Ye{ya{Yn{yb{Ya{yg {Yc{yh{Ya{yi{Yr{x~
+{YA {yy{Ye{yl{Yl{yo{Yw {yb{Ye{ya{Yn{yb{Ya{yg {Yc{yh{Ya{yi{Yr{x~
+leather~
+furniture 0 AP
+2 1000 EHK 200 200
+0 1000 0 P
+#80008
+white beanbag~
+{WA {ww{Wh{wi{Wt{we {Wb{we{Wa{wn{Wb{wa{Wg {wc{Wh{wa{Wi{wr{x~
+{WA {ww{Wh{wi{Wt{we {Wb{we{Wa{wn{Wb{wa{Wg {wc{Wh{wa{Wi{wr{x~
+leather~
+furniture 0 AP
+2 1000 EHK 200 200
+0 1000 0 P
+#80009
+blue beanbag~
+{bA {Bb{bl{Bu{be {Bb{be{Ba{bn{Bb{ba{Bg {bc{Bh{ba{Bi{br{x~
+{bA {Bb{bl{Bu{be {Bb{be{Ba{bn{Bb{ba{Bg {bc{Bh{ba{Bi{br{x~
+leather~
+furniture 0 AP
+2 1000 EHK 200 200
+0 1000 0 P
+#80010
+patch quest prize~
+patch~
+Patch~
+gold~
+armor AIOSY AOV
+75 75 75 75 0
+151 1 100 P
+A
+19 120
+A
+18 120
+A
+13 220
+A
+12 220
+A
+14 220
+#80011
+grey beanbag~
+{DA {dg{Dr{de{Dy {db{De{da{Dn{db{Da{dg {Dc{dh{Da{di{Dr{x~
+{DA {dg{Dr{de{Dy {db{De{da{Dn{db{Da{dg {Dc{dh{Da{di{Dr{x~
+leather~
+furniture 0 AP
+2 1000 EHK 200 200
+0 1000 0 P
+#80012
+angelic ring~
+{wa{Wn{Yg{we{Wl{Yi{wc {Wr{Yi{Wn{wg{x~
+{wa{Wn{Yg{we{Wl{Yi{wc {Wr{Yi{Wn{wg{x~
+unknown~
+armor 0 AB
+38 38 38 37 0
+1 0 10000 P
+A
+20 -18
+A
+13 50
+#80013
+olive branch~
+an {golive {ybranch{x~
+An {golive {ybranch{x~
+unknown~
+weapon ABc AO
+exotic 2 10 pierce 0
+1 0 0 P
+#80015
+candy cane~
+{wa {Rc{Wa{Rn{Wd{Ry {Wc{Ra{Wn{Re{x~
+{wa {Rc{Wa{Rn{Wd{Ry {Wc{Ra{Wn{Re{x is waiting to be eaten~
+unknown~
+pill AB AO
+151 'quest pill' 'quest pill' 'sanctuary' 'bless'
+1 0 0 P
+#80016
+carrot~
+a {Rc{Ya{Rr{Yr{Ro{Yt{x~
+A {Rc{Ya{Rr{Yr{Ro{Yt{x~
+unknown~
+pill AB AO
+151 'quest pill' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#80020
+magical bag~
+{BM{ba{Cg{ci{Bc{ba{cl {CB{Ba{bg{x~
+{BA {bM{Ca{cg{Bi{bc{Ca{cl {BB{ba{Cg {co{Bf {bT{Co{ck{Be{bn{Cs{x~
+cloth~
+container ABGIRef AOP
+5000 AC 0 100 0
+153 2 0 P
+#80021
+magical token~
+{BM{ba{Cg{ci{Bc{ba{cl {CT{Bo{bk{ce{Cn{x~
+You have won 1 stance point or 10 Platinum!~
+unknown~
+treasure TY AO
+0 0 0 0 0
+0 0 0 P
+#80030
+Water Narcissus~
+{WW{wa{Ct{ce{Br {WN{wa{Br{Cc{ci{Ws{ws{Bu{Cs{x~
+A beautiful white flower rests here.~
+unknown~
+armor ABGXae AW
+48 48 48 50 0
+151 300 100000 P
+A
+13 350
+A
+18 45
+A
+19 45
+#80031
+Skylarks Armguards~
+{DSk{Wyl{war{Dks {DAr{Wmg{wua{Drd{Ws{x~
+Forged by Skylark,Laniessa & Abraxas from pieces of skylarks rusty truck.~
+godly~
+armor ABIXYcef AI
+35 35 35 35 0
+151 0 100000 P
+A
+18 20
+A
+19 20
+A
+20 -20
+A
+13 270
+A
+19 40
+A
+18 40
+A
+12 300
+#80050
+Quest Prize~
+quest Prize~
+Its a custom prize~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#80053
+quest prize 3~
+prize #3~
+Any piece of eq (non-weapon) your level.~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#80054
+quest prize 4~
+quest Prize~
+A custom pet of your choice.~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#80055
+quest prize 5~
+quest Prize~
+Any piece of eq your level.~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#80056
+quest prize 6~
+quest Prize~
+A full enchant of any peace of eq (including weapons) you want. (You can either provide your own eq or ask to be given one)~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#80057
+quest prize 7~
+quest Prize~
+Free restring of any object you have.~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#80058
+quest prize 8~
+quest Prize~
+A Quest point.~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#80059
+quest prize 9~
+quest Prize~
+A free custom who string. (Colors included)~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#80091
+no name~
+(no short description)~
+(no description)~
+unknown~
+weapon 0 0
+exotic 0 0 none 0
+0 0 0 P
+#80097
+decapitator sword~
+(no short description)~
+(no description)~
+unknown~
+weapon 0 NP
+exotic 0 0 none 0
+157 0 0 P
+#80098
+pats beanbag patriots~
+{RG{Bo {dP{Ra{Bt{ds{R!{x~
+{RP{Ba{dt{Rr{Bi{do{Rt{Bs {dB{Re{Ba{dn{Rb{Ba{dg{x~
+leather~
+furniture ABGIOR AP
+2 1000000 EHK 250 250
+0 1000 0 P
+#80099
+flatlined flat sword~
+{W\/\/\/\/\/\/\{!Y{@O{#U{$H{%A{^V{%E{$F{#L{@A{!T{@L{#I{$N{%E{^D{D____________{x~
+{W\/\/\/\/\/\/\{!Y{@O{#U{$H{%A{^V{%E{$F{#L{@A{!T{@L{#I{$N{%E{^D{D____________{x~
+unknown~
+weapon ABGHIRTYZ AN
+exotic 16 60 mindwarp ABCDEGHI
+0 0 10000 P
+F
+A 0 0 e
+A
+20 -40
+A
+18 100
+A
+19 100
+A
+13 100
+#0
+
+
+
+#ROOMS
+#80000
+{RQ{Yu{Ge{Bs{Ct {MR{Ro{Yo{Wm{x~
+This is one of the many rooms where {RQ{Wu{Me{Cs{ct{Gs{x take place.{x
+~
+0 4 0
+D0
+~
+~
+0 0 80001
+D5
+~
+~
+0 0 80010
+S
+#80001
+{YL{ye{Yt{ys {YM{ya{Yk{Ye a {YD{ye{Ya{yl{Y!!!!{x~
+{GT{gh{Ge {Cr{cu{Cl{ce{Cs {Ra{rr{Re {Ys{yi{Ym{yp{Yl{ye{Y:{x
+ 
+{dA{D-{dY{wo{Wu {Gc{ga{Gn {Ct{ca{Ck{ce {Rt{rh{Re {Yo{yf{Yf{ye{Yr {MI {Bg{bi{Bv{be {Ry{ro{Ru{r.{x
+{dB{D-{dY{wo{Wu {Rc{ra{Rn {Mc{mh{Mo{mo{Ms{me {Cw{ch{Ca{ct{C'{cs {Bb{be{Bh{bi{Bn{bd {CD{co{Co{cr {C#{c1 {Gt{go {Rt{rh{Re {YN{yo{Yr{yt{Yh{y.{x
+{dC{D-{dY{wo{Wu {Rc{ra{Rn {Mc{mh{Mo{mo{Ms{me {Cw{ch{Ca{ct{C'{cs {Bb{be{Bh{bi{Bn{bd {CD{co{Co{cr {C#{c2 {Gt{go {Rt{rh{Re {CE{ca{Cs{ct{C.{x
+{MO{BR{x
+{dD{D-{dY{wo{Wu {Rc{ra{Rn {Mc{mh{Mo{mo{Ms{me {Cw{ch{Ca{ct{C'{cs {Bb{be{Bh{bi{Bn{bd {CD{co{Co{cr {C#{c3 {Gt{go {Rt{rh{Re {MW{be{ms{Bt{m.{x
+~
+0 0 0
+D0
+~
+~
+0 0 80002
+D1
+~
+~
+0 0 80004
+D2
+~
+~
+0 0 80000
+D3
+~
+~
+0 0 80003
+S
+#80002
+{CDoor #1{x~
+~
+0 0 0
+D2
+~
+~
+0 0 80001
+S
+#80003
+{MDOOR#3{x~
+~
+0 0 0
+D1
+~
+~
+0 0 80001
+S
+#80004
+{RDOOR#2{x~
+~
+0 0 0
+D3
+~
+~
+0 0 80001
+S
+#80010
+Happy Chinese New Year!~
+~
+0 0 0
+D0
+~
+~
+0 0 80011
+D4
+~
+~
+0 0 80000
+S
+#80011
+{RMerry Christmas{x~
+~
+0 0 0
+D0
+~
+~
+0 0 80012
+D2
+~
+~
+0 0 80010
+S
+#80012
+{RM{Ge{Wr{Rr{Gy {WC{Rh{Gr{Wi{Rs{Gt{Wm{Ra{Gs{x~
+~
+0 0 0
+D1
+~
+~
+0 0 80013
+D2
+~
+~
+0 0 80011
+S
+#80013
+{RM{re{Rr{rr{Ry {GC{gh{Gr{gi{Gs{gt{Gm{ga{Gs{x~
+~
+0 0 0
+D0
+~
+~
+0 0 80013
+D2
+~
+~
+0 0 80013
+D3
+~
+~
+0 0 80012
+D4
+~
+~
+0 0 80014
+S
+#80014
+{gMerry Christmas{x~
+~
+0 0 0
+D5
+~
+~
+0 0 80013
+S
+#80050
+{GS{gt{Ga{gr{Gt{gi{Gn{gg {GL{gi{Gn{ge{x~
+{DY{Wo{wu {wa{Wr{De {Ma{Bt {bt{Bh{be {ms{Mt{Ba{br{Bt{Mi{mn{bg {Bl{Gin{Be {Ro{Cf {Gt{gh{Ge {bd{Brun{bk {gr{Ge{gl{Ga{gy {Gr{ga{Gc{ge{Gs{g.{x 
+{DH{de{Wr{we{, {Wy{wo{du {ds{we{De {Ra {Bb{bu{rn{mc{Mh {Yo{yf {Wy{wo{du{Dr {gf{Ge{gl{Gl{go{Gw {gp{Gl{ga{Gy{ge{Gr{gs {rg{Re{rt{yt{mi{Mn{mg {bd{Br{Mu{Bn{bk {Ya{yn{Yd {ch{Ca{cv{ci{Cn{cg {Ra {Mg{No{Mo{Nd {gt{Gi{gm{Ge{g.{X
+{BW{Mh{Ry {yd{Yo{yn{Y'{yt {Ry{ro{Ru {Cj{co{Ci{cn {gt{Gh{ge{Gm{g?{x
+~
+0 0 0
+D0
+~
+~
+0 0 80051
+S
+#80051
+{GWhere's the Finish Line!!{x~
+{YA{ys {Ry{ro{Ru {ml{Mo{Bo{bk {Ca{cr{Co{cu{Cn{cd {Gt{gh{Ge {br{Bo{Mo{mm, {Ry{ro{Ru {wn{Wo{wt{di{Dc{de {Mt{mh{ma{Mt {bt{Bh{be{Br{be {Da{dr{De {Ym{yan{Yy {gf{Go{go{Gt{gs{Gt{ge{Gp{gs{G.{x
+{dT{Dh{We{wn, {Yy{yo{Yu {Gr{ge{Ga{gl{Gi{gz{Ge {Rt{rha{Rt {Mt{mh{be{By {ba{Br{be {cy{Co{cu{Cr{cs{C!{x 
+{MY{mou{B'{bve {rb{Re{Ye{yn {gs{Gt{gu{Gm{gb{Gl{gi{Gn{gg {ca{Cr{co{Cu{cn{Cd {Rt{rh{Re {Bs{ba{mm{Me {Ds{dpa{wc{We!{x
+~
+0 0 0
+D0
+~
+~
+0 0 80054
+D1
+~
+~
+0 0 80052
+D2
+~
+~
+0 0 80050
+D3
+~
+~
+0 0 80053
+S
+#80052
+{YWrong Turn!{x~
+{YY{Ro{Mu {Gr{ge{Ga{gl{Gi{gz{Ge {Yt{Ch{Ma{Bt {dy{Do{wu{Wr {Mb{bo{md{By {Ch{Ya{Rs {Cb{me{Bt{cr{Ma{Ry{be{rd {Yy{yo{Yu{y, {Ra{rn{Rd {Yy{yo{Yu{yr {Mf{Be{Re{Yt {Rl{Ge{Cd {Ry{Go{Bu {Ce{ca{Cs{ct{C.{x
+{CG{ce{Ct {Cb{ya{cc{Yk {Mw{be{ms{Bt {Ya{yn{Yd {Cg{Re{Gt {Mt{Yo {bt{Mh{be {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge{G!{x
+~
+0 0 0
+D3
+~
+~
+0 0 80051
+S
+#80053
+{YWrong Turn!{x~
+{YY{Ro{Mu {Gr{ge{Ga{gl{Gi{gz{Ge {Yt{Ch{Ma{Bt {dy{Do{wu{Wr {Mb{bo{md{By {Ch{Ya{Rs {Cb{me{Bt{cr{Ma{Ry{be{rd {Yy{yo{Yu{y, {Ra{rn{Rd {Yy{yo{Yu{yr {Mf{Be{Re{Yt {Rl{Ge{Cd {Ry{Go{Bu {Mw{be{ms{Bt{M.{x
+{CG{ce{Ct {Cb{ya{cc{Yk {Ce{ca{Cs{ct{C {Ya{yn{Yd {Cg{Re{Gt {Mt{Yo {bt{Mh{be {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge{G!{x
+~
+0 0 0
+D1
+~
+~
+0 0 80051
+S
+#80054
+{MYou see someone in the distance at the finish line{x~
+{RT{Yo {Yt{yh{Ye {mn{Mo{mr{rt{Rh{r, {Gy{Ro{Yu {Mc{Ba{Cn {Rs{re{Re {Ca {Cf{ca{ri{mn{Mt {yl{Yi{yg{Yh{yt{Y.{x
+{YA{Rs {Yy{Mo{Bu {Yw{ya{cl{Ck {Gt{go{Gw{ga{Gr{gd{Gs {Mi{Bt{Y, {My{Go{Bu {Cn{co{mt{Mi{Bc{be {Ya {Yp{yi{Re{Mc{be {Yo{yf {Ma{mr{rm{bo{Br {Cl{cy{mi{bn{Bg {Gb{ge{Gn{ge{Ga{gt{Gh {Yi{Rt{C.{x
+{MA{Bs {Ry{ro{Ru {Mk{mn{re{be{Bl {Yd{yo{cw{Cn {Rt{Yo {Ml{mo{Bo{bk {Ya{Rt {Bi{Mt{Y, {Yy{Ro{Cu {Ms{Be{We {wt{dh{De {Cc{cu{br{ml{My {GK {Mf{Bo{Yr {GK{ga{Gr{go{Gl {Ro{rn {Yt{yh{Ye {ds{Dh{wo{Wu{ml{Md{be{Br{Y.{x
+{GK{ga{Gr{go{Gl {Mh{Ya{Bs {Ca{cl{yr{Ye{Ma{md{By {bb{ge{Ge{bn {Rh{re{yr{Ye{M! {MD{mo{bn{B'{Yt {Yl{Me{Ct {Bh{Wi{Dm {Bb{be{ma{Mt {Yy{yo{mu{M!{x
+~
+0 0 0
+D0
+~
+~
+0 0 80057
+D1
+~
+~
+0 0 80055
+D2
+~
+~
+0 0 80051
+D3
+~
+~
+0 0 80056
+S
+#80055
+{YWrong Way!!{x~
+{YY{Ro{Mu {Gr{ge{Ga{gl{Gi{gz{Ge {Yt{Ch{Ma{Bt {dy{Do{wu{Wr {Mb{bo{md{By {Ch{Ya{Rs {Cb{me{Bt{cr{Ma{Ry{be{rd {Yy{yo{Yu{y, {Ra{rn{Rd {Yy{yo{Yu{yr {Mf{Be{Re{Yt {Rl{Ge{Cd {Ry{Go{Bu {Ce{ca{Cs{ct{C.{x
+{CG{ce{Ct {Cb{ya{cc{Yk {Mw{be{ms{Bt {Ya{yn{Yd {Cg{Re{Gt {Mt{Yo {bt{Mh{be {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge{G!{x
+~
+0 0 0
+D3
+~
+~
+0 0 80054
+S
+#80056
+{YWrong Way!!{x~
+{YY{Ro{Mu {Gr{ge{Ga{gl{Gi{gz{Ge {Yt{Ch{Ma{Bt {dy{Do{wu{Wr {Mb{bo{md{By {Ch{Ya{Rs {Cb{me{Bt{cr{Ma{Ry{be{rd {Yy{yo{Yu{y, {Ra{rn{Rd {Yy{yo{Yu{yr {Mf{Be{Re{Yt {Rl{Ge{Cd {Ry{Go{Bu {Mw{be{ms{Bt{M.{x
+{CG{ce{Ct {Cb{ya{cc{Yk {Ce{ca{Cs{ct{C {Ya{yn{Yd {Cg{Re{Gt {Mt{Yo {bt{Mh{be {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge{G!{x
+~
+0 0 0
+D1
+~
+~
+0 0 80054
+S
+#80057
+{CJust {Ya {Glittle {Rfurther {Dnorth!!!!{x~
+{CL{co{Co{Rk{Bi{bn{Bg {Ma{mr{Mo{Bu{bn{Bd {Yt{yh{Ye {Dr{do{wo{Rm, {Ry{ro{Ru {cn{Co{ct{Ci{cc{Ce {Ya{yn {Gi{gm{Gp{gr{Gi{gn{Gt {Di{dn {dt{wh{We {cw{Ca{cl{Cl{c.{x 
+{cT{Ca{ck{Ci{cn{Cg {Wa {Yc{yl{Yo{Ms{me{Mr {Rl{ro{Ro{rk{R, {Yy{yo{Yu {Ys{Re{Me {Mt{mh{ba{Bt {Bt{bh{Be {gi{Gm{gp{Gr{gi{Gn{gt {Ri{rs {Mo{mf {MO{Bg{Rr{Yi{Cn{M'{Bs {Yh{ye{ra{Rd{C!{x 
+{RH{Ye {Gm{Ru{Cs{Yt {Bh{ba{mv{Me {Yr{yu{Yn {Ci{gn{ct{Go {Rt{rh{ba{Bt {Ww{wa{dl{Dl {Ya {Yf{Re{Cw {Mt{Bo{Co {Cm{ca{mn{My {Mt{mi{bm{Be{Ys{y!{x
+{CB{ce{Cs{Bi{bd{Be {Yi{yt{Y, {Ry{Yo{Cu {Bs{be{Be {Ma {Mp{mi{re{bc{Be {Bo{Mf {RC{re{cr{Ce{Ym{yo{mn{My{g'{Gs {wa{Wr{Dm{do{wr{W.{x
+{RI{rt{R'{rs {Ya {Cf{ci{mg{Mh{Bt {bt{Yo {Rt{Yh{Ce {Gf{gi{Gn{gi{Gs{gh{G!{x
+~
+0 0 0
+D0
+~
+~
+0 0 80060
+D1
+~
+~
+0 0 80058
+D2
+~
+~
+0 0 80054
+D3
+~
+~
+0 0 80059
+S
+#80058
+{YWrong Way!{x~
+{YY{Ro{Mu {Gr{ge{Ga{gl{Gi{gz{Ge {Yt{Ch{Ma{Bt {dy{Do{wu{Wr {Mb{bo{md{By {Ch{Ya{Rs {Cb{me{Bt{cr{Ma{Ry{be{rd {Yy{yo{Yu{y, {Ra{rn{Rd {Yy{yo{Yu{yr {Mf{Be{Re{Yt {Rl{Ge{Cd {Ry{Go{Bu {Ce{ca{Cs{ct{C.{x
+{CG{ce{Ct {Cb{ya{cc{Yk {Mw{be{ms{Bt {Ya{yn{Yd {Cg{Re{Gt {Mt{Yo {bt{Mh{be {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge{G!{x
+~
+0 0 0
+D3
+~
+~
+0 0 80057
+S
+#80059
+{YWrong Way!{x~
+{YY{Ro{Mu {Gr{ge{Ga{gl{Gi{gz{Ge {Yt{Ch{Ma{Bt {dy{Do{wu{Wr {Mb{bo{md{By {Ch{Ya{Rs {Cb{me{Bt{cr{Ma{Ry{be{rd {Yy{yo{Yu{y, {Ra{rn{Rd {Yy{yo{Yu{yr {Mf{Be{Re{Yt {Rl{Ge{Cd {Ry{Go{Bu {Mw{be{ms{Bt{M.{x
+{CG{ce{Ct {Cb{ya{cc{Yk {Ce{ca{Cs{ct{C {Ya{yn{Yd {Cg{Re{Gt {Mt{Yo {bt{Mh{be {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge{G!{x
+~
+0 0 0
+D1
+~
+~
+0 0 80057
+S
+#80060
+{RJust a little bit further!!!{x~
+{ME{mn{bt{Be{Rr{ri{yn{Yg {Ct{ch{Ce {Yr{yo{bo{Bm{r, {Ry{Yo{Cu {Bs{Me{Ge {Ct{Yh{Me {Bo{Rn{Ge {Ca{Mn{Yd {Yo{yn{rl{Ry {RB{re{Rl{mz{Mi{mr{Be {Gs{gt{Gu{gm{Gb{gl{Gi{gn{Gg {Ra{rr{mo{Mu{Bn{bd{g.{x
+{YH{Re{My{B, {Ga{Bt {Gl{ge{Ga{gs{Gt {Rh{Be {Cw{co{bn{B'{Rt {rb{Ye {Mh{ca{mr{Cd {Rt{ro {Gp{Ba{Ms{Ys{C.{x
+{GO{gr {Rs{yo {Ny{Mo{Ru {Ct{gh{ci{Gn{ck{C.{x
+~
+0 0 0
+D0
+~
+~
+0 0 80061
+D1
+~
+~
+0 0 80062
+D2
+~
+~
+0 0 80057
+D3
+~
+~
+0 0 80063
+S
+#80061
+{RJust a little further North!!{x~
+{dJ{wu{Ds{Wt {Ra{rh{Ce{ca{md{M, {My{Yo{Bu {Cs{Ge{De {dt{wh{We {Rb{Yr{Ci{Bg{Gh{Mt {Yl{yi{Yg{yh{Yt {ro{Rf {Mt{mh{Me {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge{G!{x 
+{RI{Yf {My{mo{Mu {bh{Bu{br{Br{by{B, {Cy{co{Cu {Mj{yu{ms{Yt {Gm{ci{Rg{gh{Ct {Ym{Ra{Ck{Me {gi{Gt {Rt{ro {Bt{bh{Be {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge {Rf{Yi{Cr{Bs{Gt{M!{x
+~
+0 0 0
+D0
+~
+~
+0 0 80064
+D1
+~
+~
+0 0 80065
+D2
+~
+~
+0 0 80060
+D3
+~
+~
+0 0 80066
+S
+#80062
+WRONG WAY~
+{YY{Ro{Mu {Gr{ge{Ga{gl{Gi{gz{Ge {Yt{Ch{Ma{Bt {dy{Do{wu{Wr {Mb{bo{md{By {Ch{Ya{Rs {Cb{me{Bt{cr{Ma{Ry{be{rd {Yy{yo{Yu{y, {Ra{rn{Rd {Yy{yo{Yu{yr {Mf{Be{Re{Yt {Rl{Ge{Cd {Ry{Go{Bu {Ce{ca{Cs{ct{C.{x
+{CG{ce{Ct {Cb{ya{cc{Yk {Mw{be{ms{Bt {Ya{yn{Yd {Cg{Re{Gt {Mt{Yo {bt{Mh{be {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge{G!{x
+~
+0 0 0
+D3
+~
+~
+0 0 80060
+S
+#80063
+WRONG WAY~
+{YY{Ro{Mu {Gr{ge{Ga{gl{Gi{gz{Ge {Yt{Ch{Ma{Bt {dy{Do{wu{Wr {Mb{bo{md{By {Ch{Ya{Rs {Cb{me{Bt{cr{Ma{Ry{be{rd {Yy{yo{Yu{y, {Ra{rn{Rd {Yy{yo{Yu{yr {Mf{Be{Re{Yt {Rl{Ge{Cd {Ry{Go{Bu {Mw{be{ms{Bt{M.{x
+{CG{ce{Ct {Cb{ya{cc{Yk {Ce{ca{Cs{ct{C {Ya{yn{Yd {Cg{Re{Gt {Mt{Yo {bt{Mh{be {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge{G!{x
+~
+0 0 0
+D1
+~
+~
+0 0 80060
+S
+#80064
+{GFINISH LINE{X~
+{YA{ys {My{mo{Mu {Be{bn{Yt{ye{Rr {rt{ch{Ce {Mr{mo{bo{rm{R, {bt{mh{re {RG{ro{Rd{rs {Gc{gh{Ge{ge{Gr {Ry{Mo{Bu {Yo{Rn{M.{x
+{CF{mi{Bn{ca{Ml{rl{by{R, {Yy{Co{Ru {Mh{Ga{Rv{Be {wm{da{Wd{De {Yi{Ct {Bt{Mo {Rt{rh{Re {GF{gi{Gn{gi{Gs{gh {Gl{gi{Gn{ge{G.{x
+{RL{mo{ro{Mk {ga{Gr{go{Gu{gn{Gd{g, {Yd{Ci{Rd {Ba{mn{cy{Mo{bn{Ce {wb{We{da{Dt {Gy{Ro{Cu{M? {BA{mn{bd{M, {Ya{Cr{Re{Gy{Bo{Mu {Yu{yp {Rf{ro{Rr {Ga{gn{Go{gt{Gh{ge{Gr {Rr{Yo{Cu{Bn{Gd{M?{x
+~
+0 0 0
+D2
+~
+~
+0 0 80061
+S
+#80065
+WRONG WAY~
+{YY{Ro{Mu {Gr{ge{Ga{gl{Gi{gz{Ge {Yt{Ch{Ma{Bt {dy{Do{wu{Wr {Mb{bo{md{By {Ch{Ya{Rs {Cb{me{Bt{cr{Ma{Ry{be{rd {Yy{yo{Yu{y, {Ra{rn{Rd {Yy{yo{Yu{yr {Mf{Be{Re{Yt {Rl{Ge{Cd {Ry{Go{Bu {Ce{ca{Cs{ct{C.{x 
+{CG{ce{Ct {Cb{ya{cc{Yk {Mw{be{ms{Bt {Ya{yn{Yd {Cg{Re{Gt {Mt{Yo {bt{Mh{be {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge{G!{x
+~
+0 0 0
+D3
+~
+~
+0 0 80061
+S
+#80066
+WRONG WAY~
+{YY{Ro{Mu {Gr{ge{Ga{gl{Gi{gz{Ge {Yt{Ch{Ma{Bt {dy{Do{wu{Wr {Mb{bo{md{By {Ch{Ya{Rs {Cb{me{Bt{cr{Ma{Ry{be{rd {Yy{yo{Yu{y, {Ra{rn{Rd {Yy{yo{Yu{yr {Mf{Be{Re{Yt {Rl{Ge{Cd {Ry{Go{Bu {Mw{be{ms{Bt{M.{x
+{CG{ce{Ct {Cb{ya{cc{Yk {Ce{ca{Cs{ct{C {Ya{yn{Yd {Cg{Re{Gt {Mt{Yo {bt{Mh{be {GF{gi{Gn{gi{Gs{gh {GL{gi{Gn{ge{G!{x
+~
+0 0 0
+D1
+~
+~
+0 0 80061
+S
+#80099
+{MS{Cy{Gn{me{Ms{Ct{Gr{ma{M's {YP{Ba{Yl{Ba{Yc{Be {dof {RP{rl{Re{ra{Rs{ru{Rr{re {dand {DP{ya{Di{yn{x~
+Looking around the room you see....
+~
+0 32781 9
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 80003 0 80000
+O 0 80004 0 80000
+O 0 80011 0 80000
+O 0 80009 0 80000
+O 0 80008 0 80000
+O 0 80007 0 80000
+O 0 80006 0 80000
+O 0 80005 0 80000
+M 0 80010 5 80010 5
+G 0 80015 0
+M 0 80011 5 80011 5
+G 0 80016 0
+M 0 80012 5 80012 5
+E 0 80012 0 1
+M 0 80013 10 80013 10
+G 0 80013 0
+M 0 80014 10 80014 10
+O 0 80098 0 80099
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

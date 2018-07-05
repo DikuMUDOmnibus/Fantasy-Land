@@ -1,0 +1,336 @@
+#AREADATA
+Name Dragon Lands (ff)~
+Builders Kurr Zap~
+VNUMs 57000 57299
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#57000
+Entrance to the Valley Pass~
+As you make your way down the trail, you notice it widens and becomes
+more beaten in.  The fragrant scent of wild flowers tickle yours nose as
+you make your way further down the path.  It appears to lead into a valley
+of some sort, though you cannot see what lies at the end of the trail.
+A weather-faded oak sign must have been jammed into the ground a long
+time ago, but it still appears to be readable.
+~
+0 0 5
+E
+sign~
+*** do ascii for sign later. Credits. Random threat ***
+~
+D0
+~
+~
+0 0 57001
+O kurr~
+S
+#57001
+The Valley Pass~
+As you wander down the trail, you feel oddly at peace with
+your surroundings.  The warbling of a far off bird only seems to
+aid in the serenity this place is bringing you.  A {Ccool{x breeze
+sweeps by, refreshing you.  Off to the north, you can make out the
+remnants of a campsite. Your curiosity piqued, you hurry along.
+~
+0 0 5
+D0
+~
+~
+0 0 57002
+D2
+~
+~
+0 0 57000
+S
+#57002
+The Remains of a Campsite~
+A burnt out campfire and two forked sticks stuck into the ground
+are all that remain of the campsite.  You pause, sensing something is wrong.
+You whirl about, weapons drawn, ready to face whatever foe has decided to
+ambush you.  As it turns out, it's just a harmless looking doe.  She sniffs
+at you, then turns and bounds away, before you can even react.  Chuckling at
+your own paranoia, you turn back to the burnt out campfire, and notice a
+small diary half buried in the dirt nearby.
+~
+0 0 5
+E
+diary~
+*** fancy page entry. do this later ***
+~
+D2
+~
+~
+0 0 57001
+D3
+~
+~
+0 0 57003
+M 200 H 200
+S
+#57003
+Along the Valley Pass~
+Steadfast and resilient, you keep along the trail.
+Oddly enough, there seem to be no trees here. Just shrubbery
+and chaparal.  The trail is less defined here, as well. A
+dark shape flickers across the ground about 20 paces ahead of
+you.  A shadow, but a very large one. You look up at the sky
+to see what could cast such a large shadow, but find it nothing
+but empty, not even a single cloud.
+~
+0 0 5
+D1
+~
+~
+0 0 57002
+D3
+~
+~
+0 0 57004
+S
+#57004
+A bend in the trail~
+The trail begins a rather steady descent from here,
+although it hardly seems to make a difference.  A steady
+breeze picks up, from behind you.  It's almost as if it
+was pushing you along.  Shrugging your shoulders, you
+continue along the path.
+~
+0 0 5
+D0
+~
+~
+0 0 57005
+D1
+~
+~
+0 0 57003
+S
+#57005
+The {CC{cry{Ws{cta{Cl {GP{gas{Ys{gag{Ge{x~
+Shimmering bands of color seem to dazzle you as you step
+into this erstwhile invisible clearing.  The  soft crunching 
+of glass being broken underfoot is all you can hear.  Wait, 
+you can hear something else.  It sounds like a faunt humming, 
+but very high pitched. Every time you turn your head, the colors 
+shift.  The rocks and boulders, plants and yes, even small
+animal life seem to be frozen, locked into eternal translucent 
+crystal.  You shudder, wondering what wonderously horrible magic
+could do this.  Off to the north, you notice the trail returns to normal.
+~
+0 0 0
+D0
+~
+~
+0 0 57006
+D2
+~
+~
+0 0 57004
+S
+#57006
+In the Valley Pass~
+Travelling along, you return to more mundane surroundings,
+breathing a sigh of relief as you do.  However beautiful that
+place was, you doubt you would want to be around when whatever
+did that came back. The trail continues it's steady descent
+towards the north.
+~
+0 0 0
+D0
+~
+~
+0 0 57007
+D2
+~
+~
+0 0 57005
+S
+#57007
+The Valley Pass~
+The path widens out considerably, and a massive plain
+comes into view, with each step north, you can see more and
+more.  As you stare off into the horizon, you think you can
+make out the vague shape of a castle of some sort.
+~
+0 0 0
+D0
+~
+~
+0 0 57008
+D2
+~
+~
+0 0 57006
+S
+#57008
+Nearing the end of the Path~
+A {bchilling{x wind sweeps down from the south, nearly
+knocking you onto your face.  Shivering, you behold the massive
+plain before you.  The powerful wind sweeps the waist high grass
+around, whipping it about.  To the west you see a forboding looking
+mountain, and to the north a Large castle, and a small town nearby.
+The ground is bare here, as well as to the west. A sense of
+apprehension fills your soul as you stand here.
+~
+0 0 0
+D0
+~
+~
+0 0 57009
+D2
+~
+~
+0 0 57007
+S
+#57009
+The Barren clearing~
+~
+0 0 0
+D2
+~
+~
+0 0 57008
+S
+#57010
+~
+~
+0 0 0
+S
+#57011
+~
+~
+0 0 0
+S
+#57012
+~
+~
+0 0 0
+S
+#57013
+~
+~
+0 0 0
+S
+#57014
+~
+~
+0 0 0
+S
+#57015
+~
+~
+0 0 0
+S
+#57016
+~
+~
+0 0 0
+S
+#57017
+~
+~
+0 0 0
+S
+#57018
+~
+~
+0 0 0
+S
+#57019
+~
+~
+0 0 0
+S
+#57020
+~
+~
+0 0 0
+S
+#57021
+~
+~
+0 0 0
+S
+#57022
+~
+~
+0 0 0
+S
+#57023
+~
+~
+0 0 0
+S
+#57024
+~
+~
+0 0 0
+S
+#57025
+~
+~
+0 0 0
+S
+#57026
+~
+~
+0 0 0
+S
+#57027
+~
+~
+0 0 0
+S
+#57028
+~
+~
+0 0 0
+S
+#57029
+~
+~
+0 0 0
+S
+#57030
+~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,905 @@
+#AOD_AREA
+Underground Tunnel*~
+2500 2599 0 9
+Levl 10 30
+Bldr RzA~
+Alig E
+End
+
+#MOBILES
+#2506
+kobold~
+A mean kobold~
+A kobold snarls angrily at you!
+~
+Mean and ugly.. nasty and gross
+~
+kobold~
+100 100 100 100 100 100 100 100 150 100 150 100 150 50 100 100 100 100 50 150 100 100 100 100 100 150 
+AB J 0 -500 0
+25 25 0 203 217 58 145 1 10 10 smash
+-10 -10 -10 70
+STANDING STANDING neutral 2850
+0 mage medium ABCDEFGHIJKQ
+P 106 0
+M GRALL 2506 100~
+
+#2508
+green troll~
+A muscular troll~
+A nasty green troll growls at your arrival.
+~
+Green, smelly, ugly but tall and muscular.
+~
+troll~
+150 50 50 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACFS FJc 0 -500 0
+25 30 0 203 220 65 141 1 10 10 crush
+-10 -10 -10 70
+STANDING STANDING neutral 2800
+0 mage medium ABCUV
+P 168 0
+M GRALL 2508 100~
+
+#2512
+ogre~
+A hunched ogre~
+A wide-bodied ogre leans on the wall here.
+~
+Hunched back and wide bodied.. but skinny legs and lower physique.
+~
+gnoll~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 
+AB FZ 0 -600 0
+30 40 0 247 310 56 147 2 5 10 crush
+0 0 0 80
+STANDING STANDING neutral 3535
+0 mage medium ABCDEFGHIJKUV
+P 142 0
+M GRALL 2512 100~
+
+#2513
+ugly fat goblin~
+A fat goblin~
+An ugly goblin is here snarling angrily!
+~
+He's so fat and ugly and smells so horribly!
+~
+goblin~
+100 100 100 100 100 100 100 100 150 100 150 100 100 50 100 100 100 100 100 150 100 100 100 100 100 150 
+ABCT CDFJ B -500 0
+30 40 0 284 353 63 138 2 5 10 beating
+0 0 0 80
+STANDING STANDING neutral 3853
+0 mage medium ABCDEFGHIJK
+P 77 0
+M RANDOM 2513 4~
+
+#2514
+headless creature~
+A headless~
+A headless creatures stands here motionless.
+~
+No head, strong physique.. and claws that can rip through steel!
+~
+goblin~
+100 100 100 100 100 100 100 100 150 100 150 100 100 50 100 100 100 100 100 150 100 100 100 100 100 150 
+AF CDFJ B -500 0
+25 30 0 202 219 58 129 1 10 10 claw
+-10 -10 -10 70
+STANDING STANDING neutral 2888
+0 mage medium ABCDEFGHIJK
+P 154 1
+
+#2516
+flesh feeler woman~
+A flesh feeler~
+A voluptuous woman is here on all fours.
+~
+Volutpuous body.. firm breasts, juicy thighs.. very very sexy but dangerous!
+~
+feline~
+100 100 50 50 100 100 150 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABCDP DFJLVZ 0 -500 0
+35 45 0 306 329 61 145 2 8 10 bite
+-30 -30 -30 70
+STANDING STANDING female 4020
+0 mage medium ABCHKQ
+P 69 1
+M GRALL 2516 100~
+
+#2517
+ettin cyclops giant man~
+A two-headed ettin~
+Your eyes gasp at the ettin standing before you!
+~
+Two headed cyclops.. 6 foot in height and strong like a giant.
+~
+cyclops~
+100 100 100 50 100 100 50 100 100 100 100 150 100 150 100 100 100 100 100 100 100 100 100 100 100 100 
+AF a DH -600 0
+25 30 0 173 189 58 138 1 10 5 crush
+-10 -10 -10 70
+STANDING STANDING neutral 2800
+0 mage medium ABCDEFGHJK
+P 155 0
+M GRALL 2517 100~
+
+#2520
+dark blob slime growth~
+A dark blob~
+A huge slime-like growth is here motionless.
+~
+Strange blobbish material.  Consumes all in its path.. very dangerous.
+~
+snake~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABF 0 0 -800 0
+35 45 0 306 326 64 139 2 10 5 digestion
+-30 -30 -30 70
+STANDING STANDING neutral 4040
+0 mage medium ADEFKLQVX
+P 107 0
+
+#2522
+worm~
+A ten foot worm~
+A gigantic worm wobbles about wildly in here!
+~
+It is jellylike in skin substance and humongous enough to fill this room!
+Are you able to successfuly kill this horrid thing?  
+~
+snake~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+AB 0 0 -800 0
+35 45 0 306 326 60 140 2 10 5 none
+-30 -30 -30 70
+STANDING STANDING neutral 3838
+0 mage medium ADEFKLQVX
+P 50 0
+
+#2525
+giant spider creature~
+A giant spider~
+A 8-legged creature readys to attack!
+~
+Arachnid and horrible.  8 legs and creepy looking thing.
+~
+centipede~
+100 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 
+ABF FJLTZ 0 -500 0
+45 55 0 463 489 53 139 4 4 10 bite
+-80 -80 -80 -80
+STANDING STANDING neutral 4848
+0 mage medium ACK
+P 113 0
+
+#2526
+zombie~
+A half-dead zombie~
+A disfigured zombie slowly approaches you!
+~
+Disfigured, deformed, ugly and horrific.. this skinny thing looks to do evil everywhere it goes!
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AFOT 0 0 -500 0
+25 30 0 204 219 60 143 1 10 10 beating
+-10 -10 -10 70
+STANDING STANDING neutral 2888
+0 mage medium ABCDEFGHIJK
+P 116 0
+
+#2529
+demon man~
+A demon~
+A devious-looking man grins evilly at you.
+~
+Nothing less than a evil-minded demon!
+~
+demon~
+100 100 100 100 100 100 100 100 150 100 150 100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 
+AB CJTU AD -500 0
+45 55 0 462 489 65 134 4 4 10 wrath
+-80 -80 -80 -80
+STANDING STANDING neutral 5050
+0 mage medium ABCDEFGHIJKPQ
+P 107 2
+#0
+
+#OBJECTS
+#2506
+crystal crystallized ring~
+a small crystallized ring~
+A small ring with a beautiful crystal lies here.~
+armor X AB
+8 8 8 5 0
+25 15 2855
+A 13 10
+A 19 3
+
+#2512
+silver spiked anklet~
+a silver spiked anklet~
+A shiny anklet with sharp spikes lies here.~
+armor X AU
+7 7 7 5 0
+30 20 3535
+A 12 20
+A 18 4
+
+#2513
+platinum earring~
+a platinum earring~
+A beautiful earring made of platinum lies here!~
+armor MX AS
+7 7 7 6 0
+30 20 3434
+A 20 -2
+A 19 3
+
+#2516
+brazziere bra~
+a revealing skin-tight brazziere~
+A very skimpy brazziere lies here for you to try wearing.~
+armor X AD
+14 14 14 13 0
+35 30 3838
+A 12 55
+A 1 2
+A 14 35
+
+#2525
+fangs spider~
+the fangs of the giant spider~
+A nasty set of fangs from a spider lies here.~
+armor X AR
+12 12 12 11 0
+40 30 4242
+A 13 40
+A 2 3
+A 14 40
+
+#2526
+arm~
+a dragging decapitated arm~
+A bloody cut-off arm lies here looking for attachment.~
+armor X AQ
+10 9 9 10 0
+25 25 3000
+A 5 1
+A 14 25
+A 13 15
+
+#2529
+trident demon~
+the trident of the demon~
+A long flaming trident from a demon lies here.~
+weapon X AN
+exotic 4 23 pierce A
+40 35 4242
+A 4 -1
+A 19 14
+A 18 7
+
+#2530
+demonic horns pair~
+a pair of demonic horns~
+A pair of sharp demonic horns lies here.~
+armor X AE
+17 15 16 15 0
+40 35 4555
+A 19 14
+A 20 -2
+#0
+
+#ROOMS
+#2500
+Planning Room~
+~
+4 0
+D5
+~
+~
+0 0 2501
+S
+
+#2501
+Below the Forest Above~
+From atop the forest, the tunnel here descends into the depths below
+where shreads of ripped roots and rich soil lie scattered about.  A steady
+downward slope continues as you leave the beauties of the outside world to
+explore into the unknown.   
+~
+8 0
+D4
+~
+~
+0 0 6001
+D5
+~
+~
+0 0 2502
+S
+
+#2502
+Descending Downward~
+A hilly climb rises upward here as the light above shines from where
+you-stand.  To the west lies a tunnel where a rope of sort is attached to
+the dirt ceiling hanging.  
+~
+8 0
+D3
+~
+~
+0 0 2503
+D4
+~
+~
+0 0 2501
+S
+
+#2503
+Beside A Rope Going Down~
+A rope hangs here attached to the hard soil as it sags halfway only
+forcing you to leap below whatever lurks inside the tunnel.  East of here
+takes you back where you came from.  
+~
+8 0
+D1
+~
+~
+0 0 2502
+D5
+~
+~
+0 0 2504
+S
+
+#2504
+Inside the Tunnel~
+The leap downward into this tightly fitted underground tunnel has
+disabled any access in returning back up as the rope you came down from
+hangs way high above far out of reach.  To the west, the tunnel suddenly
+ends as you scan to find another descent foreseeable.  
+~
+8 0
+D3
+~
+~
+0 0 2505
+D4
+~
+~
+0 0 2503
+S
+
+#2505
+Another Descent Downward~
+The walk here dips downward as you realize how far underground you must
+be from the outside world.  Down below lies darkness even more obscure then
+ever.  Hanging roots begin to somewhat disable your movement here.  
+~
+8 0
+D1
+~
+~
+0 0 2504
+D5
+~
+~
+0 0 2506
+S
+
+#2506
+Inside the Tunnel~
+A long passage begins here headed west as evil laughing and roars of
+anger are heard from deep inside.  East takes you further up away into
+safety..  Hopefully.  
+~
+8 0
+D3
+~
+~
+0 0 2507
+D4
+~
+~
+0 0 2505
+S
+
+#2507
+Inside the Tunnel~
+You are on a east-west tunnel.  The ground dirt is so rich and fresh and
+so soft you feel as if you can sink easily under with the amount of it
+scattered about here.  
+~
+8 0
+D1
+~
+~
+0 0 2506
+D3
+~
+~
+0 0 2508
+S
+
+#2508
+Inside the Tunnel~
+The tunnel continues east and west here.  Several snakeholes are seen on
+the northern and southern walls making you a bit apprehensive of what to
+expect.  
+~
+8 0
+D1
+~
+~
+0 0 2507
+D3
+~
+~
+0 0 2509
+S
+
+#2509
+A Circular Pit~
+A huge circular pit allows you to descend below where the passage sinks
+tremendously.  A second choice of direction leaps to the west as well.  
+~
+8 0
+D1
+~
+~
+0 0 2508
+D3
+~
+~
+0 0 2514
+D5
+~
+~
+0 0 2510
+S
+
+#2510
+Going Down~
+The passage downward continues as far below, you can see the ground in
+view.  Above you ascends to the main tunnel.  
+~
+8 0
+D4
+~
+~
+0 0 2509
+D5
+~
+~
+0 0 2511
+S
+
+#2511
+Outside Holes~
+To the east and west of here lie two huge holes leading into a small
+cave.  A passage slops upward allowing to go back where you came from.  
+~
+8 0
+D1
+~
+~
+0 0 2513
+D3
+~
+~
+0 0 2512
+D4
+~
+~
+0 0 2510
+S
+
+#2512
+A Small Cave~
+The cave is empty and has nothing of value to survey.  Several shattered
+pieces of armor lie scattered about.  The way out is to the east.  
+~
+8 0
+D1
+~
+~
+0 0 2511
+S
+
+#2513
+A Small Cave~
+You find nothing much to examine in this small-sized cave but broken
+weapons lying around from possibly past warriors who once roamed inside
+these tunnels.  The west is the exit out of here.  
+~
+8 0
+D3
+~
+~
+0 0 2511
+S
+
+#2514
+Inside the Tunnel~
+The tunnel east-west continues here.  Several tiny insects fly about as
+you flinch away from some of them almost falling.  
+~
+8 0
+D1
+~
+~
+0 0 2509
+D3
+~
+~
+0 0 2515
+S
+
+#2515
+Inside the Tunnel~
+A small opening widens to the north where not much can be viewed from
+where you are.  The east-west tunnel continues on here.  
+~
+8 0
+D0
+~
+~
+0 0 2516
+D1
+~
+~
+0 0 2514
+D3
+~
+~
+0 0 2517
+S
+
+#2516
+A Strange Cave~
+A pile of human skulls form in the northeastern corner of this cave as
+many gopher-like holes from above radiate bright light from atop.  Nothing
+much else of value is seen in here but the exit south into the darkness.  
+~
+8 0
+D2
+~
+~
+0 0 2515
+S
+
+#2517
+Inside the Tunnel~
+The tunnel continues east and west here.  A sudden scream echoes across
+the tunnels as flappings from flying creatures are heard distantly
+screeching.  
+~
+8 0
+D1
+~
+~
+0 0 2515
+D3
+~
+~
+0 0 2518
+S
+
+#2518
+Inside A Tunnel~
+The tunnel continues east and west of here where two more directions,
+north and south, allows passage into different parts of the tunnel here.  
+~
+8 0
+D0
+~
+~
+0 0 2521
+D1
+~
+~
+0 0 2517
+D2
+~
+~
+0 0 2519
+D3
+~
+~
+0 0 2523
+S
+
+#2519
+An Opening Passage~
+It is somewhat safe here except for strange digging sounds from behind
+the dirt walls as you make a small opening southwards.  
+~
+8 0
+D0
+~
+~
+0 0 2518
+D2
+~
+~
+0 0 2520
+S
+
+#2520
+A Small Cave~
+The capacity of this cave allows only four people the most.  Broken
+pieces of equipment lie around as a strange warm sensation fills within this
+place.  North is the visible exit.  
+~
+8 0
+D0
+~
+~
+0 0 2519
+S
+
+#2521
+A Passageway~
+All is quiet in this passageway here.  A small opening is seen north of
+you.  Unknown creatures hurry about to the south as whispers come and go
+from a distance.  
+~
+8 0
+D0
+~
+~
+0 0 2522
+D2
+~
+~
+0 0 2518
+S
+
+#2522
+A Small Cave~
+Across the walls are shackles with dead creatures attached on to it. 
+Several are completely in skeletons while some are being consumed by maggots
+and flies.  Piles of disgusting manure are about here making you want to
+leave here quickly.  
+~
+8 0
+D2
+~
+~
+0 0 2521
+S
+
+#2523
+Inside the Tunnel~
+The east-west tunnel continues here.  A small torch stands on the
+southern wall providing some light inside here.  
+~
+8 0
+D1
+~
+~
+0 0 2518
+D3
+~
+~
+0 0 2524
+S
+
+#2524
+Inside A Tunnel~
+An old steel door with a chain knob stands to the south in this tunnel as
+dead silence is heard from inside.  Maybe its empty..  The passage continues
+east and west.  
+~
+8 0
+D1
+~
+~
+0 0 2523
+D2
+~
+~
+0 0 2525
+D3
+~
+~
+0 0 2526
+S
+
+#2525
+A Small Chamber~
+The room looks like a small cell once used to hold banished creatures
+from the outwide world.  Several rats scamper away in hiding as an old ball
+and chain lies in the corner and a small bench to the west wall.  Foot
+shackles on the southern wall as a cold feeling is felt as you stand here. 
+An exit is out to the north.  
+~
+8 0
+D0
+~
+~
+0 0 2524
+S
+
+#2526
+Inside the Tunnel~
+The tunnel passage continues east and west here.  A small faint light can
+be seen not too far westward.  The ceiling dirt above steadily rises away
+from your head as more space unfolds in that direction.  
+~
+8 0
+D1
+~
+~
+0 0 2524
+D3
+~
+~
+0 0 2527
+S
+
+#2527
+A Shaft~
+A shaft is detected down from here as several broken pieces of lumber are
+lying around you raising curiousity of what could be down there.  
+~
+8 0
+D1
+~
+~
+0 0 2526
+D3
+~
+~
+0 0 2530
+D5
+~
+~
+0 0 2528
+S
+
+#2528
+On A Piece of Lumber~
+You stand on a small boarded lumber attached to the eastern wall allowing
+access going up and down here.  The stability of the lumber is sturdy enough
+for three men to stand on.  A pit lies below.  
+~
+8 0
+D4
+~
+~
+0 0 2527
+D5
+~
+~
+0 0 2529
+S
+
+#2529
+The Nasty Pit~
+A horrible smell overwhelms the pit as several corpses lie around
+consumed in small fires.  The odor sickens as you look above to want to
+leave here quickly.  
+~
+8 0
+D4
+~
+~
+0 0 2528
+S
+
+#2530
+The End of the Tunnel~
+A light from above shines down here as the long tunnel finally makes its
+end.  An old ladder made of rope climbs you up and away from this hideous
+place.  
+~
+8 0
+D1
+~
+~
+0 0 2527
+D4
+~
+~
+0 0 2531
+S
+
+#2531
+Bright Light From Above~
+Brighter light shines through here as you make out the skies above
+visible almost perfectly.  Aren't you glad you're out of that hellhole?  The
+exit from this tunnel goes upward.  
+~
+0 0
+D4
+~
+~
+0 0 6103
+D5
+~
+~
+0 0 2530
+S
+#0
+
+#SPECIALS
+M 2508 spec_thief
+M 2514 spec_poison
+M 2516 spec_breath_any
+M 2522 spec_poison
+M 2525 spec_poison
+M 2526 spec_cast_undead
+S
+
+#RESETS
+M 100 2506 1 2506 1
+E 100 2506 0 1
+M 100 2508 2 2508 2
+M 100 2512 2 2512 2
+E 100 2512 0 24
+M 100 2513 2 2513 2
+E 100 2513 0 21
+M 100 2514 2 2514 2
+M 100 2516 1 2516 1
+E 100 2516 0 5
+M 100 2517 2 2517 2
+M 100 2520 2 2520 2
+M 100 2522 1 2522 1
+M 100 2525 2 2525 2
+E 100 2525 0 20
+M 100 2526 2 2526 2
+E 100 2526 0 18
+M 100 2529 2 2529 2
+E 100 2529 0 16
+E 100 2530 0 6
+S
+
+#MOBPROGS
+#2506
+Unknown~
+Unknown~
+mob echo The ground trembles as the kobold roars in rage!!
+~
+
+#2508
+Unknown~
+Unknown~
+snarl
+say Prepare to die!!
+~
+
+#2512
+Unknown~
+Unknown~
+mob echo The ogre lets out a deep bass moan...
+say You are no match for me!
+~
+
+#2513
+Unknown~
+Unknown~
+mob echo You suddenly hear a fart!
+emote picks his butt and snorts happily.
+~
+
+#2516
+Unknown~
+Unknown~
+mob echo The woman hungers for your lust.
+drool
+mob echo Give me your body!!!!
+~
+
+#2517
+Unknown~
+Unknown~
+mob echo Footprints mark the ground here as the ettin roars at you!
+~
+#0
+
+#$

@@ -1,0 +1,3279 @@
+#AOD_AREA
+The Sea & the Beach~
+54200 54399 0 9
+Levl 60 80
+Bldr Towhnn~
+Alig N
+End
+
+#MOBILES
+#54200
+fish~
+A little fish~
+A little fish is swimming along through here
+~
+The fish looks as just as clear as the sea does...  How odd 
+~
+lizard~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+AY V 0 0 0
+65 20 0 1342 1887 0 0 10 4 10 none
+-120 -120 -120 -70
+STANDING STANDING neutral 500
+0 mage small ACDEFHKQV
+P 82 0
+
+#54250
+Keeper~
+Keeper of the Castle~
+The Keeper of the Castle stands here looking at you.
+~
+The Keeper of the Castle seems to be aged beyond his soul.  He still
+stands guard with a firey spirit just like a young veteran would.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT c 0 0 0
+60 0 0 1415 2107 0 0 5 10 25 none
+-210 -210 -210 -50
+STANDING STANDING female 200
+0 mage large ABCDEFGHIJK
+P 2 0
+
+#54265
+guardian~
+A guardian of the castle~
+A guardian standing century eyes you carefully.
+~
+The guardians hair looks to be blazing with the purest flame.  His eyes
+have an icy cold stare to them.  
+~
+human~
+100 150 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 150 100 100 100 100 100 
+ABE 0 C 0 0
+65 15 0 1375 2184 0 0 5 5 0 slash
+-100 -70 -70 -30
+STANDING STANDING male 500
+0 mage large ABCDEFGHIJK
+
+#54266
+Head Guardian~
+The Head Guardian~
+The Head Guardian stands here instructing his students.
+~
+This man is the biggest you have seen yet.  He towers over all of his
+students, even the Keeper of the Castle is as large is this man.  
+~
+human~
+100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABT a H 0 0
+70 0 0 2505 2516 0 0 4 10 20 punch
+-200 -200 -200 -100
+STANDING STANDING male 0
+0 mage large ABCDEFGHIJK
+
+#54267
+Guardian Trainee~
+Trainee Guardian~
+A Guardian in training is here sparing another
+~
+You can tell this person has been working out hard.  Sweat pouring off
+their brow, clothes soaked to the bone, but you still see the fire burning
+in their eyes to keep on going.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABE V 0 0 0
+60 15 0 687 1144 0 0 2 10 10 punch
+-140 -140 -140 -70
+STANDING STANDING male 500
+0 mage medium ABCDEFGHIJK
+
+#54270
+tower~
+(no short description)~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#54271
+monk~
+A Monkish Shopkeeper~
+A monk selling many items stands here
+~
+You wonder how in the world this monk stays supplied in such a remote
+place like this 
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DF 0 0 0
+0 10 0 7387 8741 0 0 1 1 50 none
+0 0 0 0
+STANDING STANDING neutral 500000
+0 mage medium ABCDEFGHIJK
+M GREET 54271 100~
+M GREET 54271 100~
+
+#54272
+shark~
+A dangerous looking shark~
+A dangerous looking shark swims around in here
+~
+This shark is one of the meanest you have ever seen, teeth longer than
+your fingers, fins larger than your leg, and becareful of that huge tail.  
+~
+snake~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+AG V 0 0 0
+70 30 0 2032 2497 0 0 10 5 15 bite
+-170 -170 -170 -100
+STANDING STANDING neutral 500
+0 mage large ADEFKLQVX
+P 44 0
+#0
+
+#OBJECTS
+#54250
+Keeper blade~
+{!K{1e{7e{&per's Bl{7a{1d{!e{0~
+A shiny blade is resting on the ground, man it looks sharp.~
+weapon IX AN
+sword 10 10 cleave DE
+55 3 5000
+A 1 4
+A 18 20
+A 19 15
+A 13 100
+
+#54251
+.~
+{!F{1l{7a{&il of De{7a{1t{!H{0~
+A VERY sharp flail lays here~
+weapon X 0
+exotic 0 0 none 0
+105 0 0
+
+#54266
+staff wisdom~
+{#S{3ta{&ff {2of {&Wis{3do{#m{0~
+A staff glowing with power is laying on the ground.~
+weapon ABIX AN
+polearm 10 15 crush EG
+70 3 4200
+A 4 4
+A 19 25
+A 18 30
+
+#54270
+Tower~
+(no short description)~
+(no description)~
+trash X 0
+0 0 0 0 0
+0 0 0
+
+#54271
+Silken Robe~
+{^Sil{6ken{0 {$Ro{4be{0~
+A nice long robe lays neatly spread across the floor~
+armor GIX AD
+-20 -18 -18 -14 0
+50 4 40000
+A 1 -3
+A 20 -3
+A 19 10
+A 18 8
+
+#54272
+Light Truth~
+light of truth~
+A light burning with the purest flame lays here~
+light AKX AO
+0 0 70 0 0
+58 0 30000
+A 17 -25
+
+#54273
+ring life~
+ring of life~
+A ring pulsing with energy is lying here~
+armor IX AB
+-12 -12 -12 -10 0
+60 3 50000
+A 13 125
+A 5 3
+A 19 12
+
+#54274
+Helm Protection~
+helm of protection~
+A helmet lies here in the dust~
+armor BX AE
+-15 -15 -15 -15 0
+58 6 50000
+A 17 -30
+
+#54275
+Monk bed love~
+the Monk's Bed of Love~
+A Monk's Bed of Love rests in the corner of the room~
+furniture ABX 0
+2 10000 DEFGHIJKL 1500 150
+1 200 0
+#0
+
+#ROOMS
+#54272
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north and east you see nothing
+but water and a few rocks, Swiming up will put you back on the waters
+surface.  
+~
+0 0
+D0
+~
+~
+0 0 54273
+D1
+~
+~
+0 0 54282
+D4
+~
+~
+0 0 54200
+S
+
+#54273
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, and east you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54274
+D1
+~
+~
+0 0 54283
+D2
+~
+~
+0 0 54272
+D4
+~
+~
+0 0 54201
+S
+
+#54274
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, and east you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54275
+D1
+~
+~
+0 0 54284
+D2
+~
+~
+0 0 54273
+D4
+~
+~
+0 0 54202
+S
+
+#54275
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, and east you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54276
+D1
+~
+~
+0 0 54285
+D2
+~
+~
+0 0 54274
+D4
+~
+~
+0 0 54203
+S
+
+#54276
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, and east you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54277
+D1
+~
+~
+0 0 54286
+D2
+~
+~
+0 0 54275
+D4
+~
+~
+0 0 54204
+S
+
+#54277
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, and east you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54278
+D1
+~
+~
+0 0 54287
+D2
+~
+~
+0 0 54276
+D4
+~
+~
+0 0 54205
+S
+
+#54278
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, and east you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54279
+D1
+~
+~
+0 0 54288
+D2
+~
+~
+0 0 54277
+D4
+~
+~
+0 0 54206
+S
+
+#54279
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, and east you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54280
+D1
+~
+~
+0 0 54289
+D2
+~
+~
+0 0 54278
+D4
+~
+~
+0 0 54207
+S
+
+#54280
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, and east you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54281
+D1
+~
+~
+0 0 54290
+D2
+~
+~
+0 0 54279
+D4
+~
+~
+0 0 54208
+S
+
+#54281
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the south and east you see nothing
+but water and a few rocks, Swiming up will put you back on the waters
+surface.  
+~
+0 0
+D1
+~
+~
+0 0 54291
+D2
+~
+~
+0 0 54280
+D4
+~
+~
+0 0 54209
+S
+
+#54282
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north and west you see nothing
+but water and a few rocks, Swiming up will put you back on the waters
+surface.  
+~
+0 0
+D0
+~
+~
+0 0 54283
+D3
+~
+~
+0 0 54272
+D4
+~
+~
+0 0 54210
+S
+
+#54283
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54284
+D1
+~
+~
+0 0 54292
+D2
+~
+~
+0 0 54282
+D3
+~
+~
+0 0 54273
+D4
+~
+~
+0 0 54211
+S
+
+#54284
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54285
+D1
+~
+~
+0 0 54293
+D2
+~
+~
+0 0 54283
+D3
+~
+~
+0 0 54274
+D4
+~
+~
+0 0 54212
+S
+
+#54285
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54286
+D1
+~
+~
+0 0 54294
+D2
+~
+~
+0 0 54284
+D3
+~
+~
+0 0 54275
+D4
+~
+~
+0 0 54213
+S
+
+#54286
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54287
+D1
+~
+~
+0 0 54295
+D2
+~
+~
+0 0 54285
+D3
+~
+~
+0 0 54276
+D4
+~
+~
+0 0 54214
+S
+
+#54287
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54288
+D1
+~
+~
+0 0 54296
+D2
+~
+~
+0 0 54286
+D3
+~
+~
+0 0 54277
+D4
+~
+~
+0 0 54215
+S
+
+#54288
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54289
+D1
+~
+~
+0 0 54297
+D2
+~
+~
+0 0 54287
+D3
+~
+~
+0 0 54278
+D4
+~
+~
+0 0 54216
+S
+
+#54289
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54290
+D1
+~
+~
+0 0 54298
+D2
+~
+~
+0 0 54288
+D3
+~
+~
+0 0 54279
+D4
+~
+~
+0 0 54217
+S
+
+#54290
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54291
+D1
+~
+~
+0 0 54299
+D2
+~
+~
+0 0 54289
+D3
+~
+~
+0 0 54280
+D4
+~
+~
+0 0 54218
+S
+
+#54291
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the south, west, and east you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D2
+~
+~
+0 0 54290
+D3
+~
+~
+0 0 54281
+D4
+~
+~
+0 0 54219
+S
+
+#54292
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north and west you see nothing
+but water and a few rocks, Swiming up will put you back on the waters
+surface.  
+~
+0 0
+D0
+~
+~
+0 0 54293
+D3
+~
+~
+0 0 54283
+D4
+~
+~
+0 0 54221
+S
+
+#54293
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, and west you see
+nothing but water and a few rocks, to the east you see a rocky entrance. 
+Swiming up will put you back on the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54294
+D2
+~
+~
+0 0 54292
+D3
+~
+~
+0 0 54284
+D4
+~
+~
+0 0 54222
+S
+
+#54294
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54295
+D2
+~
+~
+0 0 54293
+D3
+~
+~
+0 0 54285
+D4
+~
+~
+0 0 54223
+S
+
+#54295
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54296
+D2
+~
+~
+0 0 54294
+D3
+~
+~
+0 0 54286
+D4
+~
+~
+0 0 54224
+S
+
+#54296
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54297
+D2
+~
+~
+0 0 54295
+D3
+~
+~
+0 0 54287
+D4
+~
+~
+0 0 54225
+S
+
+#54297
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54298
+D2
+~
+~
+0 0 54296
+D3
+~
+~
+0 0 54288
+D4
+~
+~
+0 0 54226
+S
+
+#54298
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54299
+D2
+~
+~
+0 0 54297
+D3
+~
+~
+0 0 54289
+D4
+~
+~
+0 0 54227
+S
+
+#54299
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D2
+~
+~
+0 0 54298
+D3
+~
+~
+0 0 54290
+D4
+~
+~
+0 0 54228
+S
+
+#54350
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the south, west, and east you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+4 0
+D1
+~
+~
+0 0 54358
+S
+
+#54351
+Rocky Cavern Entrance~
+You have come apon a rocky entrance, you look around and see the rock
+door is to the east.  The area around this entrance if very rocky with not
+much to see.  To your north and west you see the beautiful blue sea
+(underwater of course) and swimming up would put you back to the water
+surface.  
+~
+0 0
+D0
+~
+~
+0 0 54352
+D1
+~
+~
+0 0 54366
+S
+
+#54352
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here.  To the north and west you see
+nothing but water and a few rocks.  To the south you see a rocky entrance. 
+Swiming up will put you back on the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54353
+D2
+~
+~
+0 0 54351
+S
+
+#54353
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here.  To the north, south, and west you
+see nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54354
+D2
+~
+~
+0 0 54352
+S
+
+#54354
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here.  To the north, south, and west you
+see nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54355
+D2
+~
+~
+0 0 54353
+S
+
+#54355
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54356
+D1
+~
+~
+0 0 54359
+D2
+~
+~
+0 0 54354
+S
+
+#54356
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54357
+D1
+~
+~
+0 0 54360
+D2
+~
+~
+0 0 54355
+S
+
+#54357
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, west, and east
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54358
+D1
+~
+~
+0 0 54361
+D2
+~
+~
+0 0 54356
+S
+
+#54358
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the south, west, and east you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D1
+~
+~
+0 0 54362
+D2
+~
+~
+0 0 54357
+D3
+~
+~
+0 0 54350
+S
+
+#54359
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here.  To the north and west you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54360
+D3
+~
+~
+0 0 54355
+S
+
+#54360
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here.  To the north, south, east, and west
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54361
+D1
+~
+~
+0 0 54363
+D2
+~
+~
+0 0 54359
+D3
+~
+~
+0 0 54356
+S
+
+#54361
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here.  To the north, south, east, and west
+you see nothing but water and a few rocks, Swiming up will put you back on
+the waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54362
+D1
+~
+~
+0 0 54364
+D2
+~
+~
+0 0 54360
+D3
+~
+~
+0 0 54357
+S
+
+#54362
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here.  To the south, east, and west you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D1
+~
+~
+0 0 54365
+D2
+~
+~
+0 0 54361
+D3
+~
+~
+0 0 54358
+S
+
+#54363
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here.  To the north and west you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54364
+D3
+~
+~
+0 0 54360
+S
+
+#54364
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the north, south, and west you see
+nothing but water and a few rocks, Swiming up will put you back on the
+waters surface.  
+~
+0 0
+D0
+~
+~
+0 0 54365
+D2
+~
+~
+0 0 54363
+D3
+~
+~
+0 0 54361
+S
+
+#54365
+Under the Sea~
+You are totally submerged in the beautiful blue sea, becareful, there has
+been many reports of sharsk down here To the south and west you see nothing
+but water and a few rocks, Swiming up will put you back on the waters
+surface.  
+~
+0 0
+D2
+~
+~
+0 0 54364
+D3
+~
+~
+0 0 54362
+S
+
+#54366
+Cavern Entrance~
+You enter the cavern and see nothing but rock and pillars.  To the far
+east you see a light shining brightly ...  Could it be ...  Is that the
+Light of Life you read about in your school books 
+~
+0 0
+D1
+~
+~
+0 0 54367
+D3
+~
+~
+0 0 54351
+S
+
+#54367
+Great Cavern Room~
+This room has to be one of the biggest you have ever seen ...  It looks
+as if it were carved out of a huge rock by a hand of a god.  To the west you
+see the entrance , To the east you see an intersection 
+~
+0 0
+D1
+~
+~
+0 0 54370
+D3
+~
+~
+0 0 54366
+S
+
+#54368
+A bend in the Cavern Walls~
+You have come to a bend in the cavern walk, to the east you see yet
+another curve, and to the north you see a cavern room.  
+~
+0 0
+D0
+~
+~
+0 0 54369
+D1
+~
+~
+0 0 54373
+S
+
+#54369
+Cavern Room~
+This is just another room in the cavern, it seems to just be a hall way
+connection the rooms to the north and south.  
+~
+0 0
+D0
+~
+~
+0 0 54370
+D2
+~
+~
+0 0 54368
+S
+
+#54370
+Intersection in the Caverns~
+After coming from that huge room to the west you dont see this one to be
+all that magnificant.  Although this room does have a majestic look to it,
+seems to just serve as an intersection.  To the north and south you see some
+Cavern Rooms ...  And back west you see The Great Cavern Room.  
+~
+0 0
+D0
+~
+~
+0 0 54371
+D2
+~
+~
+0 0 54369
+D3
+~
+~
+0 0 54367
+S
+
+#54371
+Cavern Room~
+This is just another room in the cavern, it seems to just be a hall way
+connection the rooms to the north and south.  
+~
+0 0
+D0
+~
+~
+0 0 54372
+D2
+~
+~
+0 0 54370
+S
+
+#54372
+A bend in the Cavern Walls~
+You have come to a bend in the cavern walk, to the east you see yet
+another curve, and to the south you see a cavern room 
+~
+0 0
+D1
+~
+~
+0 0 54377
+D2
+~
+~
+0 0 54371
+S
+
+#54373
+A bend in the Cavern Walls~
+You have come to a bend in the cavern walk, to the west you see yet
+another curve, and to the north you see a cavern room.  
+~
+0 0
+D0
+~
+~
+0 0 54374
+D3
+~
+~
+0 0 54368
+S
+
+#54374
+Cavern Room~
+This is just another room in the cavern, it seems to just be a hall way
+connection the rooms to the north and south.  
+~
+0 0
+D0
+~
+~
+0 0 54375
+D2
+~
+~
+0 0 54373
+S
+
+#54375
+The Room of the Great Cavern Beast~
+You come into this room with great fear, your knees buckle, while your
+teeth chatter...  You think you see a figure in the far corner but you cant
+be sure.  All around you are bones of dead animals and you think even some
+humans.  
+~
+0 0
+D0
+~
+~
+0 0 54376
+D2
+~
+~
+0 0 54374
+S
+
+#54376
+Cavern Room~
+This is just another room in the cavern, it seems to just be a hall way
+connection the rooms to the north and south.  
+~
+0 0
+D0
+~
+~
+0 0 54377
+D2
+~
+~
+0 0 54375
+S
+
+#54377
+A bend in the Cavern Walls~
+You have come to a bend in the cavern walk, to the west you see yet
+another curve, and to the south you see a cavern room.  
+~
+0 0
+D2
+~
+~
+0 0 54376
+D3
+~
+~
+0 0 54372
+S
+
+#54200
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north and east ...  But you do think you can
+swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54201
+D1
+~
+~
+0 0 54210
+D5
+~
+~
+0 0 54272
+S
+
+#54201
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, and east ...  But you do think
+you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54202
+D1
+~
+~
+0 0 54211
+D2
+~
+~
+0 0 54200
+D5
+~
+~
+0 0 54273
+S
+
+#54202
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, and east ...  But you do think
+you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54203
+D1
+~
+~
+0 0 54212
+D2
+~
+~
+0 0 54201
+D5
+~
+~
+0 0 54274
+S
+
+#54203
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, and east ...  But you do think
+you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54204
+D1
+~
+~
+0 0 54213
+D2
+~
+~
+0 0 54202
+D5
+~
+~
+0 0 54275
+S
+
+#54204
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, and east ...  But you do think
+you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54205
+D1
+~
+~
+0 0 54214
+D2
+~
+~
+0 0 54203
+D5
+~
+~
+0 0 54276
+S
+
+#54205
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, and east ...  But you do think
+you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54206
+D1
+~
+~
+0 0 54215
+D2
+~
+~
+0 0 54204
+D5
+~
+~
+0 0 54277
+S
+
+#54206
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, and east ...  But you do think
+you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54207
+D1
+~
+~
+0 0 54216
+D2
+~
+~
+0 0 54205
+D5
+~
+~
+0 0 54278
+S
+
+#54207
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, and east ...  But you do think
+you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54208
+D1
+~
+~
+0 0 54217
+D2
+~
+~
+0 0 54206
+D5
+~
+~
+0 0 54279
+S
+
+#54208
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, and east ...  But you do think
+you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54209
+D1
+~
+~
+0 0 54218
+D2
+~
+~
+0 0 54207
+D5
+~
+~
+0 0 54280
+S
+
+#54209
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your south and east ...  But you do think you can
+swim down.  
+~
+0 0
+D1
+~
+~
+0 0 54219
+D2
+~
+~
+0 0 54208
+D5
+~
+~
+0 0 54281
+S
+
+#54210
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, west, and east ...  But you do think
+you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54211
+D1
+~
+~
+0 0 54220
+D3
+~
+~
+0 0 54200
+D5
+~
+~
+0 0 54282
+S
+
+#54211
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, west, south, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54212
+D1
+~
+~
+0 0 54221
+D2
+~
+~
+0 0 54210
+D3
+~
+~
+0 0 54201
+D5
+~
+~
+0 0 54283
+S
+
+#54212
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, west, south, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54213
+D1
+~
+~
+0 0 54222
+D2
+~
+~
+0 0 54211
+D3
+~
+~
+0 0 54202
+D5
+~
+~
+0 0 54284
+S
+
+#54213
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, west, south, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54214
+D1
+~
+~
+0 0 54223
+D2
+~
+~
+0 0 54212
+D3
+~
+~
+0 0 54203
+D5
+~
+~
+0 0 54285
+S
+
+#54214
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, west, south, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54215
+D1
+~
+~
+0 0 54224
+D2
+~
+~
+0 0 54213
+D3
+~
+~
+0 0 54204
+D5
+~
+~
+0 0 54286
+S
+
+#54215
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, west, south, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54216
+D1
+~
+~
+0 0 54225
+D2
+~
+~
+0 0 54214
+D3
+~
+~
+0 0 54205
+D5
+~
+~
+0 0 54287
+S
+
+#54216
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, west, south, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54217
+D1
+~
+~
+0 0 54226
+D2
+~
+~
+0 0 54215
+D3
+~
+~
+0 0 54206
+D5
+~
+~
+0 0 54288
+S
+
+#54217
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, west, south, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54218
+D1
+~
+~
+0 0 54227
+D2
+~
+~
+0 0 54216
+D3
+~
+~
+0 0 54207
+D5
+~
+~
+0 0 54289
+S
+
+#54218
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, west, south, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54219
+D1
+~
+~
+0 0 54228
+D2
+~
+~
+0 0 54217
+D3
+~
+~
+0 0 54208
+D5
+~
+~
+0 0 54290
+S
+
+#54219
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your west, south, and east ...  But you do think
+you can swim down.  
+~
+0 0
+D1
+~
+~
+0 0 54229
+D2
+~
+~
+0 0 54218
+D3
+~
+~
+0 0 54209
+D5
+~
+~
+0 0 54291
+S
+
+#54220
+Nearing a Beach~
+You quickly sink to your waste in water and realize your feet touching
+the bottom.  To the east you see a beach, but to the north is the clear blue
+sea.  
+~
+0 0
+D0
+~
+~
+0 0 54221
+D1
+~
+~
+0 0 54230
+D3
+~
+~
+0 0 54210
+S
+
+#54221
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, west, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54222
+D1
+~
+~
+0 0 54231
+D2
+~
+~
+0 0 54220
+D3
+~
+~
+0 0 54211
+D5
+~
+~
+0 0 54292
+S
+
+#54222
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, west, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54223
+D1
+~
+~
+0 0 54232
+D2
+~
+~
+0 0 54221
+D3
+~
+~
+0 0 54212
+D5
+~
+~
+0 0 54293
+S
+
+#54223
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, west, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54224
+D1
+~
+~
+0 0 54233
+D2
+~
+~
+0 0 54222
+D3
+~
+~
+0 0 54213
+D5
+~
+~
+0 0 54294
+S
+
+#54224
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, west, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54225
+D1
+~
+~
+0 0 54234
+D2
+~
+~
+0 0 54223
+D3
+~
+~
+0 0 54214
+D5
+~
+~
+0 0 54295
+S
+
+#54225
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, west, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54226
+D1
+~
+~
+0 0 54235
+D2
+~
+~
+0 0 54224
+D3
+~
+~
+0 0 54215
+D5
+~
+~
+0 0 54296
+S
+
+#54226
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, west, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54227
+D1
+~
+~
+0 0 54236
+D2
+~
+~
+0 0 54225
+D3
+~
+~
+0 0 54216
+D5
+~
+~
+0 0 54297
+S
+
+#54227
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, west, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54228
+D1
+~
+~
+0 0 54237
+D2
+~
+~
+0 0 54226
+D3
+~
+~
+0 0 54217
+D5
+~
+~
+0 0 54298
+S
+
+#54228
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, west, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54229
+D1
+~
+~
+0 0 54238
+D2
+~
+~
+0 0 54227
+D3
+~
+~
+0 0 54218
+D5
+~
+~
+0 0 54299
+S
+
+#54229
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, west, and east ...  But you do
+think you can swim down.  
+~
+0 0
+D1
+~
+~
+0 0 54239
+D2
+~
+~
+0 0 54228
+D3
+~
+~
+0 0 54219
+S
+
+#54230
+Sandy Beach Front~
+You feel the sand between your toes, the cool air coming off the sea, and
+the smell of Seaguls fills your head You look around and see sea to your
+west and north, but further west you see sand.  
+~
+0 10
+D0
+~
+~
+0 0 54231
+D1
+~
+~
+0 0 54240
+D3
+~
+~
+0 0 54220
+S
+
+#54231
+Nearing a Beach~
+You quickly sink to your waste in water and realize your feet are
+touching the bottom.  To the south and east you see a beach, but to the
+north and west you see clear blue water.  
+~
+0 0
+D0
+~
+~
+0 0 54232
+D1
+~
+~
+0 0 54241
+D2
+~
+~
+0 0 54230
+D3
+~
+~
+0 0 54221
+S
+
+#54232
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, east, and west ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54233
+D1
+~
+~
+0 0 54242
+D2
+~
+~
+0 0 54231
+D3
+~
+~
+0 0 54222
+S
+
+#54233
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, east, and west ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54234
+D1
+~
+~
+0 0 54243
+D2
+~
+~
+0 0 54232
+D3
+~
+~
+0 0 54223
+S
+
+#54234
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, east, and west ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54235
+D1
+~
+~
+0 0 54244
+D2
+~
+~
+0 0 54233
+D3
+~
+~
+0 0 54224
+S
+
+#54235
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, east, and west ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54236
+D1
+~
+~
+0 0 54245
+D2
+~
+~
+0 0 54234
+D3
+~
+~
+0 0 54225
+S
+
+#54236
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, east, and west ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54237
+D1
+~
+~
+0 0 54246
+D2
+~
+~
+0 0 54235
+D3
+~
+~
+0 0 54226
+S
+
+#54237
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, east, and west ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54238
+D1
+~
+~
+0 0 54247
+D2
+~
+~
+0 0 54236
+D3
+~
+~
+0 0 54227
+S
+
+#54238
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, east, and west ...  But you do
+think you can swim down.  
+~
+0 0
+D0
+~
+~
+0 0 54239
+D1
+~
+~
+0 0 54248
+D2
+~
+~
+0 0 54237
+D3
+~
+~
+0 0 54228
+S
+
+#54239
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your south, east, and west ...  But you do think
+you can swim down.  
+~
+0 0
+D1
+~
+~
+0 0 54249
+D2
+~
+~
+0 0 54238
+D3
+~
+~
+0 0 54229
+S
+
+#54240
+A Sandy White Beach~
+You feel the sand between your toes, the cool air coming off the sea, and
+the smell of Seaguls fills your head To the west and north you see a nice
+beach front.  To the east you see the beginnings of a sand castle.  
+~
+0 10
+D0
+~
+~
+0 0 54241
+D1
+~
+~
+0 0 54250
+D3
+~
+~
+0 0 54230
+S
+
+#54241
+Sandy Beach Front~
+You feel the sand between your toes, the cool air coming off the sea,
+and the smell of Seaguls fills your head You look around and see to your
+west and north endless sea, but to your east and south you see a sandy beach
+~
+0 10
+D0
+~
+~
+0 0 54242
+D1
+~
+~
+0 0 54251
+D2
+~
+~
+0 0 54240
+D3
+~
+~
+0 0 54231
+S
+
+#54242
+Nearing a Beach~
+You quickly sink to your waste in water and realize your feet are
+touching the bottom.  To the south and east you see a nice sandy beach, to
+the west you see clear blue sea, but to the north you see foamy waves.  
+~
+0 0
+D0
+~
+~
+0 0 54243
+D1
+~
+~
+0 0 54252
+D2
+~
+~
+0 0 54241
+D3
+~
+~
+0 0 54232
+S
+
+#54243
+Nearing a Beach~
+You quickly sink to your waste in water and realize your feet are
+touching the bottom.  To the and east you see a nice sandy beach, to the
+west you see clear blue sea, but to the north and south you see foamy waves.
+~
+0 0
+D0
+~
+~
+0 0 54244
+D1
+~
+~
+0 0 54253
+D2
+~
+~
+0 0 54242
+D3
+~
+~
+0 0 54233
+S
+
+#54244
+Nearing a Beach~
+You quickly sink to your waste in water and realize your feet are
+touching the bottom.  To the and east you see a nice sandy beach, to the
+west you see clear blue sea, but to the north and south you see foamy waves.
+~
+0 0
+D0
+~
+~
+0 0 54245
+D1
+~
+~
+0 0 54254
+D2
+~
+~
+0 0 54243
+D3
+~
+~
+0 0 54234
+S
+
+#54245
+Nearing a Beach~
+You quickly sink to your waste in water and realize your feet are
+touching the bottom.  To the east you see a sandy beach, to the south you
+see foamy waves, and to the west and north you see clear blue sea 
+~
+0 0
+D0
+~
+~
+0 0 54246
+D1
+~
+~
+0 0 54255
+D2
+~
+~
+0 0 54244
+D3
+~
+~
+0 0 54235
+S
+
+#54246
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north and west, to your south and east you
+see foamy waves.  
+~
+0 0
+D0
+~
+~
+0 0 54247
+D1
+~
+~
+0 0 54256
+D2
+~
+~
+0 0 54245
+D3
+~
+~
+0 0 54236
+S
+
+#54247
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, east, and west, ...  But you
+think you can go down.  
+~
+0 0
+D0
+~
+~
+0 0 54248
+D1
+~
+~
+0 0 54257
+D2
+~
+~
+0 0 54246
+D3
+~
+~
+0 0 54237
+S
+
+#54248
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, east, and west, ...  But you
+think you can go down.  
+~
+0 0
+D0
+~
+~
+0 0 54249
+D1
+~
+~
+0 0 54258
+D2
+~
+~
+0 0 54247
+D3
+~
+~
+0 0 54238
+S
+
+#54249
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your south, east, and west, ...  But you think
+you can go down.  
+~
+0 0
+D1
+~
+~
+0 0 54259
+D2
+~
+~
+0 0 54248
+D3
+~
+~
+0 0 54239
+S
+
+#54250
+Sand Castle Entrance~
+You feel the sand between your toes, the cool air coming off the sea, and
+the smell of Seaguls fills your head.  You look around and see a massive
+sand castle towering in front of you.  Surely the Gods must have built it. 
+To your east you look inside the castle, but to your north and west you see
+all sand.  
+~
+0 10
+D0
+~
+~
+0 0 54251
+D1
+~
+~
+0 0 54260
+D3
+~
+~
+0 0 54240
+S
+
+#54251
+A Sandy White Beach~
+You feel the sand between your toes, the cool air coming off the sea, and
+the smell of Seaguls fills your head.  You look around and see your at the
+beginning of what it looks like a sand castle.  To your south is the
+entrance to it but to the west and north you see all sand.  
+~
+0 10
+D0
+~
+~
+0 0 54252
+D2
+~
+~
+0 0 54250
+D3
+~
+~
+0 0 54241
+S
+
+#54252
+Sandy Beach Front~
+You feel the sand between your toes, the cool air coming off the sea, and
+the smell of Seaguls fills your head.  You look around and see sea to your
+west, but to your north and south you see a sandy beach.  
+~
+0 10
+D0
+~
+~
+0 0 54253
+D2
+~
+~
+0 0 54251
+D3
+~
+~
+0 0 54242
+S
+
+#54253
+Sandy Beach Front~
+You feel the sand between your toes, the cool air coming off the sea, and
+the smell of Seaguls fills your head.  You look around and see sea to your
+west, but to your north and south you see a sandy beach.  
+~
+0 10
+D0
+~
+~
+0 0 54254
+D2
+~
+~
+0 0 54252
+D3
+~
+~
+0 0 54243
+S
+
+#54254
+Sandy Beach Front~
+You feel the sand between your toes, the cool air coming off the sea, and
+the smell of Seaguls fills your head.  You look around and see sea to your
+west, but to your north and south you see a sandy beach.  
+~
+0 10
+D0
+~
+~
+0 0 54255
+D2
+~
+~
+0 0 54253
+D3
+~
+~
+0 0 54244
+S
+
+#54255
+Sandy Beach Front~
+You feel the sand between your toes, the cool air coming off the sea,
+and the smell of Seaguls fills your head.  You look around and see sea to
+your north and west, but to your south you see a sandy beach 
+~
+0 10
+D0
+~
+~
+0 0 54256
+D1
+~
+~
+0 0 23399
+D2
+~
+~
+0 0 54254
+D3
+~
+~
+0 0 54245
+S
+
+#54256
+Nearing a Beach~
+You quickly sink to your waste in water and realize your feet touching
+the bottom.  To the south you see a beach, but to your west and north you
+see nothing but clear blue sea.  
+~
+0 0
+D0
+~
+~
+0 0 54257
+D2
+~
+~
+0 0 54255
+D3
+~
+~
+0 0 54246
+S
+
+#54257
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see foamy waves to your south, and nothing but sea to your north and
+west ...  But you think you can go down.  
+~
+0 0
+D0
+~
+~
+0 0 54258
+D2
+~
+~
+0 0 54256
+D3
+~
+~
+0 0 54247
+S
+
+#54258
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your north, south, and west ...  But you think
+you can go down.  
+~
+0 0
+D0
+~
+~
+0 0 54259
+D2
+~
+~
+0 0 54257
+D3
+~
+~
+0 0 54248
+S
+
+#54259
+Walking on Water~
+The waves tide over your legs, caressing them, you feel relaxed and calm.
+You see nothing but sea to your south and west ...  But you think you can go
+down.  
+~
+0 0
+D2
+~
+~
+0 0 54258
+D3
+~
+~
+0 0 54249
+S
+
+#54260
+Grand Hall of The Sand Castle~
+You look around in this Wonderous structure and see giant pillars holding
+the ceiling up.  From the looks of it, you believe it was built a very long
+time ago.  To the north you see a Grand Audience Chamber, to your east you
+see a statue standing in the corner, and back west you see the sandy
+entrance.  
+~
+8 0
+D0
+~
+~
+0 0 54261
+D1
+~
+~
+0 0 54263
+D3
+~
+~
+0 0 54250
+S
+
+#54261
+Grand Audience Chamber~
+You trip on a small step as you come into this room.  You clearly now see
+its structure.  It is set on a platform that raises the floor of the room a
+few inches.  To the front of the chamber you see a stand with a small book
+opened out on it To the east you see a staircase leading up and to the south
+you see a the Grand Hall.  
+~
+8 0
+D1
+~
+~
+0 0 54262
+D2
+~
+~
+0 0 54260
+S
+
+#54262
+The Spiraling Staircase~
+You look up at the staircase and see that it goes only in the up
+direction.  The staircase seems to be made out of some kind of rock facing
+jutting out from the castle, this clearly shows the craftmanship of the God
+who made it.  To the west you see the Grand Audience Chamber and to the
+south you see A statue room 
+~
+8 0
+D2
+~
+~
+0 0 54263
+D3
+~
+~
+0 0 54261
+D4
+~
+~
+0 0 54264
+S
+
+#54263
+Statue Room~
+You look around in this room and see that it is the most decorated of
+them all.  You see a statue in the corner clearly representing the God who
+made this place.  There are pillows surronding the statue for kneeling and
+worshiping this glorious figure.  To the north you see a staircase made of
+rock and to your west you see the Grand Hall.  You see a plaque down by your
+feet 
+~
+1032 0
+D0
+~
+~
+0 0 54262
+D3
+~
+~
+0 0 54260
+E
+plaque~
+The plaque reads: I curse those who vandalize my temple.  A warning to
+all, those who degrade my castle will never see the light of day, nor will
+their families.  
+~
+S
+
+#54264
+The Spiraling Staircase~
+You look up and down at the staircase and see that it goes both
+directions.  The staircase seems to be made out of some kind of rock facing
+jutting out from the castle, this clearly shows the craftmanship of the God
+who made it.  To the west and south you see rooms filled with guardians.  
+~
+8 0
+D2
+~
+~
+0 0 54267
+D3
+~
+~
+0 0 54265
+D4
+~
+~
+0 0 54268
+D5
+~
+~
+0 0 54262
+S
+
+#54265
+Barracks of the Castle Guardian~
+As you enter the room you see several bunks and chests neatly spread out
+across the floor.  The room is filled with dead silence the guardians stand
+at their designated posts.  To the east you see a Spiraling Staircase and to
+your south you see a training room.  
+~
+8 0
+D1
+~
+~
+0 0 54264
+D2
+~
+~
+0 0 54266
+S
+
+#54266
+Training Room~
+All around you there are weapons and armor strung out across the floor. 
+In the middle of the room there is a great circle that is used for sparing
+purposes.  Just the smell of sweat is enough to make you gag.  
+~
+8 0
+D0
+~
+~
+0 0 54265
+D1
+~
+~
+0 0 54267
+S
+
+#54267
+Barracks of the Castle Guardians~
+As you enter the room you see several bunks and chests neatly spread out
+across the floor.  The room is filled with dead silence the guardians stand
+at their designated posts.  To the north you see a Spiraling Staircase and
+to the west you see a training room 
+~
+8 0
+D0
+~
+~
+0 0 54264
+D3
+~
+~
+0 0 54266
+S
+
+#54268
+A Spiraling Staircase~
+You have come to the top of the staircase.  To your west is a balcony
+over looking the beach and sea.  To your south is a small room where it
+seems a monk lives.  
+~
+8 0
+D2
+~
+~
+0 0 54271
+D3
+~
+~
+0 0 54269
+D5
+~
+~
+0 0 54264
+S
+
+#54269
+A Beautiful Balcony View~
+As you step out onto the balcony you gasp in aww of the pure beauty
+of the view.  You can feel the wind blowing strongly at your face.
+The mist from the sea is lightly showering you.  You feel just
+at peace with yourself.  To your east is a staircase.  
+~
+0 0
+D1
+~
+~
+0 0 54268
+S
+
+#54270
+Unstable balcony~
+From the second you laid eyes on this section of the balcony you knew it
+was trouble.  You step forward onto a very loose clump of sand and you go
+Faaallllllliiiiiinnnnnngggggg DoWn to the sandy beach and just cant think of
+anything but pain.  
+~
+4 0
+S
+
+#54271
+A Monks Living Quarters~
+The room you have just entered is full of smoke from burning insents. 
+You see a palet on the floor made of blankets, that must be where the monk
+sleeps.  Off to the far corner of the room you see a very old chest.  To the
+north you see a staircase 
+~
+1032 0
+D0
+~
+~
+0 0 54268
+S
+#0
+
+#RESETS
+M 100 54272 15 54272 2
+M 100 54272 15 54276 2
+M 100 54272 15 54281 2
+M 100 54272 15 54283 2
+M 100 54272 15 54286 2
+M 100 54272 15 54289 2
+M 100 54272 15 54293 2
+M 100 54272 15 54296 2
+M 100 54272 15 54299 2
+M 100 54200 30 54200 2
+M 100 54200 30 54203 2
+M 100 54200 30 54206 2
+M 100 54200 30 54209 2
+M 100 54200 30 54212 2
+M 100 54200 30 54215 2
+M 100 54200 30 54218 2
+M 100 54200 30 54221 2
+M 100 54200 30 54224 2
+M 100 54200 30 54227 2
+M 100 54200 30 54233 2
+M 100 54200 30 54236 2
+M 100 54200 30 54239 2
+M 100 54200 30 54242 2
+M 100 54250 1 54250 1
+E 100 54250 0 16
+M 100 54200 30 54259 2
+M 100 54265 14 54265 7
+M 100 54266 1 54266 1
+E 100 54266 0 16
+M 100 54267 2 54266 2
+M 100 54265 14 54267 7
+O 100 54275 0 54271
+M 100 54271 1 54271 1
+G 100 54271 0
+G 100 54272 0
+G 100 54273 0
+G 100 54274 0
+S
+
+#SHOPS
+54271 0 0 0 0 0 150 40 1 23
+0
+
+#MOBPROGS
+#54263
+Unknown~
+Unknown~
+~
+
+#54271
+Unknown~
+Unknown~
+Bow
+say Hello $n I have many items for the power hungry adventurer
+~
+#0
+
+#$

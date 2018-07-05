@@ -1,0 +1,138 @@
+#MAX_CLAN 5
+
+#Clan
+CName none~
+Who_N {x           ~
+Color none~
+Descr Unused~
+Indep 1
+Pkill 0
+Membe 1
+Roster
+-1
+
+#Clan
+CName condemned~
+Who_N {w{-{rC{Ro{rn{Rd{re{Rm{rn{Re{rd{w{-{x~
+Color {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~
+Descr {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{c souls of the world.~
+Recal 3001
+Indep 1
+Membe 34
+Kills 10
+Death 13
+KRCRD Jade~ Marlos~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 122 124 1257960720 25 0 none~
+KRCRD Jade~ Prakus~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 109 101 1257817997 31 0 none~
+KRCRD Geldar~ Rzarecta~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 107 110 1257718075 25 19 none~
+KRCRD Prakus~ Naminae~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 101 101 1257385932 25 0 none~
+KRCRD Mordwen~ Prakus~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 101 101 1252945471 33 0 none~
+KRCRD Blank~ Prakus~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 101 87 1252679090 43 0 none~
+KRCRD Prakus~ Miranda~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 76 90 1251669324 25 0 none~
+KRCRD Prakus~ Surtur~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 75 80 1251640054 25 0 none~
+KRCRD Prakus~ Medraut~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 54 57 1251580502 25 0 none~
+KRCRD NotaWarlock~ Averius~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {^Su{6r{8v{&i{7v{8a{&l{8i{6s{^m{x~ 64 70 1180645283 25 0 none~
+DRCRD Sithik~ Phoebus~ {x{r-{RBLOODLUST{r-{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 151 151 1353040106 25 0 none~
+DRCRD Jade~ Marlos~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 122 124 1257960720 25 0 none~
+DRCRD Jade~ Prakus~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 109 101 1257817997 31 0 none~
+DRCRD Geldar~ Rzarecta~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 107 110 1257718075 25 19 none~
+DRCRD Prakus~ Naminae~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 101 101 1257385932 25 0 none~
+DRCRD Mordwen~ Prakus~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 101 101 1252945471 33 0 none~
+DRCRD Blank~ Prakus~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 101 87 1252679090 43 0 none~
+DRCRD Prakus~ Miranda~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 76 90 1251669324 25 0 none~
+DRCRD Prakus~ Surtur~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 75 80 1251640054 25 0 none~
+DRCRD Prakus~ Medraut~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 54 57 1251580502 25 0 none~
+DRCRD Moreno~ Spasmolytic~ {^Su{6r{8v{&i{7v{&a{8l{6i{^sm{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 101 101 1187726953 25 79 none~
+DRCRD Goneja~ Rust~ {^Su{6r{8v{&i{7v{8a{&l{8i{6s{^m{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 101 101 1180300548 25 0 none~
+DRCRD Dahak~ Goneja~ {DS{wh{ci{Cn{Wi{Cg{ca{wm{Di{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 101 101 1179783644 25 0 none~
+Roster
+0 Seros~
+0 Muln~
+0 Naminae~
+0 Linden~
+0 Aneirin~
+0 Drakus~
+0 Mordwen~
+0 Surtur~
+0 Whisper~
+0 Laurentis~
+0 Core~
+0 Sly~
+0 NotaWarlock~
+0 Angelanmars~
+0 Crapweasel~
+0 Vtech~
+0 Marcellus~
+0 Tear~
+0 Darf~
+0 Wriech~
+0 Palaerim~
+0 Dejavu~
+0 Medraut~
+0 Prakus~
+0 Miranda~
+0 Elystan~
+0 Ianto~
+0 Blank~
+0 Geldar~
+0 Jade~
+0 Marlos~
+0 Zion~
+-1
+
+#Clan
+CName testors~
+Who_N {R--{GTESTORS{R--{x~
+Color {GTESTORS{x~
+Descr {CThe clan for testing stuff...{x~
+Recal 60100
+Donat 60112
+Porta 60104
+TwoWy 60107
+Pkill 0
+MaxMe 6
+Membe 2
+Cubic 200
+Aqust 66910
+Iqust 97468
+Rank0 none~
+Rank1 none~
+Rank2 none~
+Rank3 none~
+Rank4 none~
+Roster
+5 Tester~
+5 Zarko~
+-1
+
+#Clan
+CName lex_talionis~
+Who_N -----------~
+Color lex_talionis~
+Descr none~
+Rank0 none~
+Rank1 none~
+Rank2 none~
+Rank3 none~
+Rank4 none~
+Roster
+-1
+
+#Clan
+CName bloodlust~
+Who_N {x{r-{RBLOODLUST{r-{x~
+Color {x{r-{RBLOODLUST{r-{x~
+Descr {x We put the {RK{x in {RPK{x~
+Recal 76030
+Membe 1
+Kills 1
+Rank0 Slave~
+Rank1 Soldier~
+Rank2 Bloodknight~
+Rank3 Overlord~
+Rank4 Warlord~
+KRCRD Sithik~ Phoebus~ {x{r-{RBLOODLUST{r-{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 151 151 1353040106 25 0 none~
+Roster
+4 Phoebus~
+-1
+
+#END

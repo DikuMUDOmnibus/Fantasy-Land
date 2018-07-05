@@ -1,0 +1,616 @@
+#AREADATA
+Name PKSCHOOL~
+Builders Laniessa~
+VNUMs 200 299
+Credits Laniessa~
+Security 9
+End
+
+
+
+#MOBILES
+#200
+pknewbies healer warrior old~
+an old warrior~
+An old warrior stands here tending to the wounded
+~
+He is old and battered, but he knows the art well.  You can leave your
+fate in his hands.  
+~
+human~
+ABGJKQRTVabcd DTUZ 0 1000 0
+180 0 1d1+49999 1d1+1000 1d1+100 magic
+-399 -399 -399 -399
+AGHO ABCDEFGHIJKLMNOPQRS 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#201
+pknewbies bronze chest donation pit~
+bronze chest~
+A bronze chest stands in the corner for your donations.~
+~
+pit O 0
+10000 0 0 1000 100
+0 0 0 P
+E
+pit~
+This is where you put money and items to help other travelers.
+~
+#202
+portal war passageway forbidding trap door~
+a forbidding Passageway~
+Forbidding Passageway to the north leads to the battle ground.~
+unknown~
+portal BO 0
+-2 0 0 36301 0
+0 0 0 P
+#203
+yellow brick road school pkschool~
+road to pk school~
+{yYellow brick{x road stretches east towards the {rPK School{x.~
+unknown~
+portal BO 0
+-2 0 0 210 0
+0 0 0 P
+E
+road~
+Perhaps you should enter it?
+~
+#204
+campfire fire~
+a {1ca{!mp{1fi{!re{x~
+A {Rcr{rac{Rkl{ring {rcampfire{x slowly {yglows{x here~
+wood~
+furniture AB 0
+20 20000 GJN 400 400
+0 0 0 P
+#205
+Loner Book~
+book of Loner~
+A dusty book looks very lonely by itself in the far corner.~
+wood~
+trash 0 0
+0 0 0 0 0
+1 400 1 P
+#206
+lady_justice clan book gobblet goblet beer wine mug ~
+wine goblet~
+A gigantic wine goblet stands here, or is it a beer mug?~
+wood~
+drink A 0
+1000 1000 'firebreather' 0 0
+1 400 1 P
+E
+Roskovy~
+The {&S{^m{&a{^rt{&e{^s{&t{0 man in the {1W{!o{&r{!l{1d {0Belt~
+E
+Roskovy~
+Kelcyron's long {5strings {0of {3kitty {1bites{0 surround his neck.~
+E
+0~
+A trio of {@Frogs{x sit here, saying "{!Bud{x...{&WEIS{x...{$ER{x..."~
+E
+tt~
+{yYellow brick{x road stretches east towards the {rPK School{x.~
+E
+Cian~
+A nifty inflatable {&NYMPHOMANIAC{x doll, complete with mouth-hole and patch kit awaits your pleasures.~
+E
+kick~
+A nifty inflatable NYMPHOMANIAC {^P{7o{^l{7a{^r B{7e{^a{7r{0 doll, complete with mouth-hole and patch kit~
+E
+Atma~
+The torn-out heart of a drakyri mage protector is lying here.~
+E
+6~
+{yYellow brick{x road stretches east towards the {rPK School{x.~
+E
+8~
+The sliced-off leg of a drakyri mage protector is lying here.~
+E
+9~
+~
+E
+10~
+A pair of shorts with a "{RDo Not Enter{x" sign on the front~
+E
+it~
+looks like Ronni, except the head is oversized, the legs are too small and the makers didn't quite capture the eyes.
+~
+E
+~
+Atryou tells you '{Ucan i please get 30 dispel magic scrolls{x'
+~
+E
+doll~
+A small pat of green butter lies here.
+
+     A small pat of golden butter lies here.
+
+~
+E
+Sune~
+You get a {$f{7r{$o{7z{$e{7n{0 tree trunk .
+~
+E
+goblet~
+You see some writing on the side of the goblet and make out faint words
+{rlady_justice{x among it.  
+~
+E
+mub~
+~
+E
+mug~
+You see some writing on the side of the goblet and make out faint words
+{rlady_justice{x among it.  
+~
+E
+beer~
+You see some writing on the side of the goblet and make out faint words
+{rlady_justice{x among it.  
+~
+#207
+soothsayer tooth sharp~
+soothsayer's tooth~
+A long sharp tooth of a soothsayer decorates the near wall.~
+wood~
+trash 0 0
+0 0 0 0 0
+1 400 1 P
+E
+Roskovy~
+The {&S{^m{&a{^rt{&e{^s{&t{0 man in the {1W{!o{&r{!l{1d {0Belt~
+E
+Roskovy~
+Kelcyron's long {5strings {0of {3kitty {1bites{0 surround his neck.~
+E
+0~
+A trio of {@Frogs{x sit here, saying "{!Bud{x...{&WEIS{x...{$ER{x..."~
+E
+tt~
+{yYellow brick{x road stretches east towards the {rPK School{x.~
+E
+Cian~
+A nifty inflatable {&NYMPHOMANIAC{x doll, complete with mouth-hole and patch kit awaits your pleasures.~
+E
+kick~
+A nifty inflatable NYMPHOMANIAC {^P{7o{^l{7a{^r B{7e{^a{7r{0 doll, complete with mouth-hole and patch kit~
+E
+Atma~
+The torn-out heart of a drakyri mage protector is lying here.~
+E
+6~
+{yYellow brick{x road stretches east towards the {rPK School{x.~
+E
+8~
+The sliced-off leg of a drakyri mage protector is lying here.~
+E
+9~
+~
+E
+10~
+A pair of shorts with a "{RDo Not Enter{x" sign on the front~
+E
+it~
+looks like Ronni, except the head is oversized, the legs are too small and the makers didn't quite capture the eyes.
+~
+E
+~
+Atryou tells you '{Ucan i please get 30 dispel magic scrolls{x'
+~
+E
+doll~
+A small pat of green butter lies here.
+
+     A small pat of golden butter lies here.
+
+~
+E
+Sune~
+You get a {$f{7r{$o{7z{$e{7n{0 tree trunk .
+~
+E
+soothsayer~
+{rClan of Soothsayers{x Soothsayer is a clan dedicated to the arcane
+magics.  We are the proud magic-users of the realms.  We pride ourselves on
+our intelligence and craftiness rather than on the simple muscle of the
+simple people.  We assist each other and train new memebrs in the arcane
+arts.  Presently, the clan is small, but tight.  We will all watch each
+other and teach each other as there is never a time to quit learning.  These
+are the ways of the Soo thsayers.  
+~
+E
+tooth~
+It came from a {rSoothsayer{x...  Perhaps you should examine that.  
+~
+#208
+warning sign war~
+warning sign~
+A {rwarning sign{x hangs from the corner of the passageway.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 1 1 P
+E
+sign~
+Beware! Those entering this passageway may not find their way back except by way of death!
+For what lies within is a battle to the death. Enter only if you dare.
+~
+#209
+gurgling brook~
+a brook~
+A brook of {6clear {^cool{x water gurgles nearby~
+unknown~
+fountain 0 0
+10000 10000 'water' 0 0
+1 1 0 P
+#0
+
+
+
+#ROOMS
+#200
+{RPK N{rewbie{Rs{x Clan Hall Entrance~
+Stretched out in front of you lays the entrance hall to the PK Newbies
+School.  Often times you will find new and old warriors gathered to share
+their stories, train their skills and sharpen their senses.  North lies the
+clan hall.  
+~
+0 8 0
+D0
+~
+~
+0 0 201
+D5
+~
+~
+0 0 3014
+S
+#201
+{RPK {RN{rewbie{Rs{x Gathering Place~
+PKers large and small come here to sit around the campfire and share
+stories.  A soft {rcrackle{x of the fire in the middle of the clearing
+echoes throughout the area.  Bloody trails lead to the east, and to the west
+lies a well traveled path.  
+~
+0 1032 0
+D1
+~
+~
+0 0 203
+D2
+~
+~
+0 0 200
+D3
+~
+~
+0 0 202
+M 400 H 400
+S
+#202
+{RPK {RN{rewbies{x Healing Tent~
+This is a place to come and heal your wounds after a long day or a hard
+fight.  A chest in the corner holds donations of your fellow clan members. 
+You can use {rcdonate{x command to donate things to the clan.  The Old Warrior
+can heal your wounds and help you practice.  
+~
+0 1032 0
+D0
+~
+~
+0 0 3005
+D1
+~
+~
+0 0 201
+S
+#203
+{RR{Doom of many choice{Rs{x~
+Choice of paths stands before you.  Towards the east stretches a long
+yellow road leading to the Murderers' University.  Choose it to learn some
+of the finer points of breaking a person's neck.  A dark gateway leads to
+the battle unkown.  Sounds of war and smell of carnige come through it. 
+Choose the passageway to test your abilities in real combat.  
+~
+0 8 0
+D3
+~
+~
+0 0 201
+S
+#209
+PK Clans~
+Now that you've learned some of basics of PK its time to explore the
+different PK clans on Redemption.  In order to PK you must join a PK Clan, they
+show up in {4blue{x when you type {rclan list{x.  Type {rclan list{x now and
+check out the names of the clans.  Then you can read the help file on each
+clan (for example {rhelp lady_justice{x) If you look around, you'll notice
+some books around this room, with different clan symbols on each.  You can
+check out these books and also contact clan leaders (on clan list) for more
+info about joining their clan.  
+~
+0 8 0
+D0
+~
+~
+0 0 215
+D2
+~
+~
+0 0 214
+C PKNewbies~
+S
+#210
+Welcome to Redemption's PK School~
+This is the Murderers University.  Welcome.  The walls of the school are
+covered by writings of some of the Player Killer teachers.  To read the
+writings all you have to do is look at the name of the teacher whose words
+you want to learn.  Good luck.  
+~
+0 8 0
+D0
+~
+~
+0 0 211
+S
+#211
+Lesson 1 - Creating a PK Character~
+Words of PK wisdom cover the walls describing how to get eq, spells, and
+skills necessary for a good PKer.  You make out names of Chu and Helgriz and Tanis in
+large bold letters.  
+~
+0 8 0
+E
+tanis~
+{3I. Race and Class{x
+ 
+You can't choose a proper race and class without knowing what u are doing. Experiment with different race/class combinations first before settling down on one. The character u choose doesn't have to necessarily be the popular
+race/class, or the one that seems to win the most. It should be the one u are most comfortable with, and the one that u have the knowledge/skills with.
+Some races are extremely hard to use in pk, even for masters. A list of the races which serve the best purpose for pk are:
+{rDemon, Crystal Dragon, Silver Dragon, Tiegre, Redemption, Feline, Tiegre, Half-Orc, Drider, Titan, and Heucuva.{x
+ 
+As for classes, its up to you, because they all have their weaknesses and strengths.
+ 
+{3II. Stats{x
+With a PK char, the most important stats are: CON, WIS, and INT. More wis, int, and con leads to more HP. Even though its annoying to concentrate on something like this, hp does make a difference in fights, up to a certain;extent. A more skilled pker can
+still beat you if you have no skills.
+ 
+When u choose your race, u should know your strengths and weaknesses. This makes a difference in some of the eq u will use later, (will be discussed in another note) but the main thing is that it can be very deadly if u don't
+know about the race u chose. For example, the phoenix race is immune to fire. being born from flames, but is also vulnerable to cold. If you get hit by cold weapons, it will cause mass damage.
+Besides choosing the right race/class for u, it helps to also know who u might be fighting against later. Certain race/classes have advantages and disadvantages over others, u just have to choose wisely.
+Just so you don't forget, choose the race/class u can do the best at.
+--Tanis Half-Elven.
+~
+E
+chu~
+Get flaming weapons, flaming weapons are good here..blind the thieves warriors and whatnot and their powerful attacks are completely negated.
+~
+E
+helgriz~
+1. First, you need to choose a race that will benefit you best. I like ones that give dodge/parry. You also need to watch out for Vulns/Immuntities/Resists. If you choose a race with 3  Vulns you'll likely get yer arse wooped by everyone. 
+Some good races for starting out are Tiegre,Felines,Titans, and Dragons.
+2. Secondly, You need to choose the right class. It may be best to ask because the changes to the mud sometimes effect the Advantages/disadvantages of a class. 
+Personaly, I go for Sages, Striders, and Priests. But that's because I only pk at 2nd tier Hro level.
+3. Third, No matter what race/class you decide you need to gain stances. Spellcasters should gain monkey which is a combination of Crane and Mongoose. Fighter types should gain dragon which is a a combination of bull/crab and fighters should get monk
+ey also.  You should gain monkey because if another fighter type decided to dirt kick or gouge yer dead meat unless you can switch to a stance that dragon will do the least amount against.
+4. Fourth, Decide what level/tier you want to be at and stick to it. You should get to know the best eq for you level. (like Level 90 Oaths,100-Huge Scaley Wings,115-Bag of holding, ect..).
+If you don't know where half this stuff is, try locatinging it yourself or if it comes down to it ask. Get to know resist eq as well. You don't want to have a vuln to fire and not be able to get a resist to it because your too low of a leve. 
+5.  Try choosing a race that that gives good wisdom. A high Wisdom gives you more practices, and with more practices you can gain more hp or skills rather then wasting your trains on getting skills that could be used towards hp.
+You may also want to look into getting a high Int also because Int determines how much practices it takes to learn a spell/skill.  For Example, You may have an Int of 20 and it takes you 10 practices to learn a spell/skill, but if you have an Int ;of 25 
+it may take only 3 practices. And practices can ultimately be converted into hp.
+l
+~
+D0
+~
+~
+0 0 212
+D2
+~
+~
+0 0 210
+C PKNewbies~
+S
+#212
+Lesson 2 - Basic PK skills.~
+Words of wisdom from Kira, Wrath and Tanis are written on the ceiling
+above.  You have to strain your neck to see them.  
+~
+0 8 0
+E
+tanis~
+In PK, have you ever wanted to outclass all the rest of the people? It isn't possible, there will always be people waiting with blades, carrying the same idea. 
+-Inspiration requires preparation.- How much better you will become depends on how much work and time you will want to put in.
+Always come prepared. Skill and spell percentages at 100 help greatly during battle, along with knowing which spell/skill to use at the right time. PKing isn't just about killing, its also about how you do the job.
+Targeting class weaknesses is one of the prime things which u should be aware of. A quick jab to the eyes can spell the difference between your grave or their grave.
+Never ever underestimate anyone..EVER. Always expect the worst. Someone can feign like they cannot fight at first, when the real battle comes, you find yourself being torn up like crazy.
+Sometimes, it helps to have a friend somewhere out there. People will not hesitate to kill you with several people if they really want you dead. Having some allies might keep you alive longer, as well as learning more about pk. 
+And never sit around in nice open spaces without keeping an eye on your back. Waiting without open eyes makes you wait for lightning to strike, often fatally.
+-- One of the {3light{x, who treads up the path of {8darkness{x.
+~
+E
+wrath~
+1) Learn what where, who pk, who clan, and detect location are good for
+2) You will almost never beat someone by spamming your power skill - you must learn how to use the other skills you are given.
+3) Stances, Stances, Stances
+4) If you whine when you die, or are snotty when you kill, it makes more people want to kill you more often.  Don't do it unless you can handle it
+5) Looting happens, but really eq is so easy to get here that its pointless;If you loot someone, you make them mad, they come back with their friends,;they loot you, and it goes on and on.  So why loot?;Every now and then someone deserves it, but this is
+a personal call.
+6) Every class can be used to beat every other class...you must learn both;your strengths and weaknesses and theirs.
+7) Always be prepared - carry whatever potions you need with you and use them;whenever you need them.  Don't leave safe if you're not expecting to fight;even if there is no one on in your range.
+8) Learn your opponent - everyone has their own style and every style can;be countered.;"Your dragon style kung-fu is strong, pondskipper, but not as strong as my monkey style"
+9) Dying is not the end of the world - learn from it and it will make you;a better killer in the end.
+~
+E
+kira~
+1) PK range on here is 10 levels down and 15 levels up.
+2) Always know who is on in your range. {rwho pk{x is useful, but I prefer to alias something short (like alias f) and put -15 +15 range on it.
+3) If you are out in the open, leveling or whatever, keep your {yannouncement channel{x on so that you can see when someone who may be after you logs on.
+4) {rWHERE{x is your friend. Get comfortable with typing it about every 40 secs if you know there is someone online in your range.
+5) Don't EVER go outside w/out sanc/bless/haste. Stack up on pills so that you don't have to walk unsanced to the healer.
+~
+D0
+~
+~
+0 0 213
+D2
+~
+~
+0 0 211
+C PKNewbies~
+S
+#213
+Lesson 3 - Be prepared!~
+Writings some of Redemption's wisest PKers adorn these walls.  You see names
+Chu and Mich and Achilles and Ramoth 
+~
+0 8 0
+E
+chu~
+1. Make use of {rWhere{x command...always...every few seconds, get into the habit of it, also use who know who your threats are.
+2. {rDETECTS DETECTS DETECTS{x, {3SANC SANC SANC{x go NOWHERE without these two
+spells, you can get a powerful and;cheap sanc at the chapel of vartan in midgaard, ms 3e, 3n, w, s, repent sanc if you do not have sanc expect to die A LOT
+~
+E
+mich~
+My advice is be paranoid 100% of the time. Two favorite commands who pk and where.
+~
+E
+achilles~
+Remember, paranoia is total awareness.  Check your <{rwhere{x> command often and don't linger in an open area for too long.  Take note of when players log in at your level range and keep up to date on the <{rwho{x> tabs.
+~
+E
+ramoth~
+My advice is simple...  If you are hunting be smart, if you are hunted
+RUN LIKE HELL.  Know your areas, know the mud, so you know where to hide. 
+You don't have to hug safe, you just need to know where to run and hide if
+you are being chased....  The middle of the Amber Palace was one of my
+favorites And remember dying isn't the end of the world.  
+~
+D0
+~
+~
+0 0 214
+D2
+~
+~
+0 0 212
+C PKNewbies~
+S
+#214
+Lesson 4 - Hunting your pray.~
+The walls are covered in writings, you see names Chu and Kira signed in big letters.
+~
+0 8 0
+E
+chu~
+1. Attack them before they attack you, it lets you get that powerful attack in first and starts them at a disadvantage (they have lower hp when they get an opportunity to strike back) 
+2.  Learn the areas..dont just gate around, if you learn the areas you can hunt and run more effectively, take time;to explore and take note of rooms with good exp mobs and eq mobs...these are where most of your ;targets will be.
+~
+E
+kira~
+To catch someone who's on the run you gotta be quick.
+Using aliases usualy helps (some use triggers on their mud clients too). For example, if I'm a thief and I'm after Char, I'll alias
+2 to back Char. Its also really good to alias "murder" because by the time you need it, you don't really have time to be spelling it out.
+Sometimes you can wait in some popular rooms that they will probably walk through at some point and jump when they walk in. But you gotta be QUICK.
+~
+D0
+~
+~
+0 0 209
+D2
+~
+~
+0 0 213
+C PKNewbies~
+S
+#215
+On to Player Killing - Lets Shed Blood!~
+In the end, no amount of reading or coaching will teach you how to PK. 
+PKing is something you can learn only by doing it.  So gear up, go hunt, and
+prepare to die a lot.  With death and experience will come the ultimate
+knowledge.  Parting words of wisdom have been scratched on the east wall.  
+~
+0 8 0
+E
+chu~
+Dont worry about dying a lot, you're new..  You're learning..  There isnt
+a good pker in existance who didnt start out getting thrashed around and
+dying ten times a day, its no big deal, just like any other skill or
+talent..  Without practice you're not going to be great at it, and those
+with more practice are going to have an advantage over you.  Keep at it. 
+And lastly, if you find yourself getting frustrated to the point of verbally
+attacking them over a channel, dont, log off.  If you begin with that.. 
+Every other pker is going to jump on you, no one likes "whiners".  
+~
+E
+stuff~
+you can't be attatched to stuff or eq or anything if you are going to pkill'
+pk is something you learn from DOING it, and having it done TO you
+~
+E
+wisdom~
+Dont worry about dying a lot, you're new..  You're learning..  There
+isnt;a good pker in existance who didnt start out getting thrashed around
+and;dying ten times a day, its no big deal, just like any other skill
+or;talent..  Without practice you're not going to be great at it, and
+those;with more practice are going to have an advantage over you.  Keep at
+it.  And lastly, if you find yourself getting frustrated to the point of
+verbally;attacking them over a channel, dont, log off.  If you begin with
+that..  ;Every other pker is going to jump on you, no one likes "whiners".  
+~
+D0
+~
+~
+0 0 3014
+D2
+~
+~
+0 0 209
+C PKNewbies~
+S
+#0
+
+
+
+#SPECIALS
+M 200 spec_cast_adept
+S
+
+
+
+#RESETS
+O 0 204 0 201
+O 0 209 0 201
+O 0 201 0 202
+M 0 200 1 202 1
+O 0 208 0 203
+O 0 203 0 203
+O 0 205 0 209
+O 0 206 0 209
+O 0 207 0 209
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

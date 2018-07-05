@@ -1,0 +1,451 @@
+#AREADATA
+Name Shadow Clan Hall~
+Builders None~
+VNUMs 29500 29549
+Credits [-CLANS-] Vartan17    Shadow CH~
+Security 9
+End
+
+
+
+#MOBILES
+#29500
+night stalker shadow~
+A Night-Stalker~
+A {2N{8ight{0-{2S{8talker{0 stands here guarding the entrance to the {2S{8hadow {2R{8ealm{0.
+~
+You see before you an outline of black, with no form, just black.  His
+bright red eyes drill deep into you constitution, as you decide whether or
+not to run.  
+~
+human~
+ABMT DFVc CDEHN 1000 0
+159 159 1d1+999999 25d5+4000 6d9+24 thwack
+-599 -599 -599 -599
+BEGHW AB 0 0
+stand stand male 5000
+AHLMV ABCDEFGHIJK huge unknown
+#29501
+shadow master~
+A Shadow Master~
+A {2S{8hadow {2M{8aster{0 is here helping you train.
+~
+A wise and expierience Shadow Warrior who was promoted to his current
+status for his years of services to the realm.  
+~
+human~
+ABGJKQRTVabcd DTUZ 0 1000 0
+180 105 1d1+10000 1d1+1000 1d1+100 magic
+-399 -399 -399 -399
+AGHO ABCDEFGHIJKLMNOPQRS 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge unknown
+#29502
+retired assassin shadow~
+The Retired Assassin~
+The {2R{8etired {2A{8ssassin{0 is here inspecting his wares.
+~
+A tall slender man dressed in all black.  Formerly an assassin he has
+retired to sell fine weapons and armor.  
+~
+human~
+ABM DF 0 1000 0
+100 0 1d1+1999 1d1+999 1d1+99 divine
+-250 -250 -250 -250
+0 ABCDEFGHIJK 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK large unknown
+M ACT 29502 bows before you.~
+#0
+
+
+
+#OBJECTS
+#29500
+ebony couch~
+an {2E{8bony {2C{8ouch{0~
+An {2E{8bony {2C{8ouch{0 is here.~
+hardwood~
+furniture AB 0
+20 20000 BCEHIKL 400 400
+0 0 0 P
+#29501
+claws night stalker~
+{2C{8laws of the {2N{8ight {2S{8talker{0~
+You see a pair of {8Shadowy Gloves{0 with black claws on the end.~
+steel~
+weapon ABHM N
+polearm 10 38 claw ABCDEFGH
+109 1000 1 P
+#29502
+shadow pit donation~
+{2S{8hadow's donation pit{0~
+A {2L{8arge {2S{8hadow{0 is here waiting to hold your unwanted equipment.~
+~
+pit O 0
+10000 0 0 1000 100
+0 0 0 P
+#29503
+fountain ebony coffee~
+a {2F{8ountain {0of {2C{8offee{0~
+An {2E{8bony {2F{8ountain{0 is here gushing a black liquid.~
+marble~
+fountain G 0
+10000 100000 'coffee' 0 0
+0 0 0 P
+#29504
+shadow ring~
+{2R{8ing of the {2T{8wilight{0~
+You spot a ring with the {8Shadow Clan{0 insignia lying in the dirt.~
+metal~
+armor AHMST AB
+0 0 0 0 0
+1 10 1000 P
+A
+19 2
+A
+18 3
+#29505
+shadow cape~
+{2T{8he {2C{8loak of {2S{8hadows{0~
+A strange darkness covers the floor below you.~
+silk~
+armor BCGHST AK
+0 0 0 0 0
+1 30 1500 P
+F
+A 2 3 P
+#29506
+shadow plate~
+{2T{8he {2P{8late of the {2S{8hadow{0~
+A set of dark plate has been left here.~
+silk~
+armor CGHST AD
+0 0 0 0 0
+1 250 5000 P
+A
+19 2
+A
+18 3
+A
+1 2
+#29507
+ball shadow light darkness~
+{2T{8he {2B{8all of {2D{8arkness{0~
+You notice a shadow in the corner of the room.~
+energy~
+light ACGHST AO
+0 0 999 0 0
+25 10 2000 P
+F
+A 0 0 CDEFG
+#29508
+shadow blade~
+{2T{8he {2B{8lade of {2D{8arkness{0~
+A long blade has been left in the shadows of the room.~
+metal~
+weapon ACHIMST AN
+sword 1 1 slash ADEH
+1 30 4000 P
+A
+19 5
+A
+18 5
+#29509
+shadow helm~
+{2T{8he {2H{8elm of {2D{8arkness{0~
+A helm has been left here for someone to find.~
+metal~
+armor ABOST AE
+0 0 0 0 0
+1 40 6500 P
+F
+A 13 50 c
+A
+19 4
+A
+18 3
+#29510
+shadow gloves~
+{2T{8he {2G{8loves of {2D{8arkness{0~
+A set of gloves has been left here.~
+wood~
+armor ABHMST AH
+0 0 0 0 0
+1 55 5000 P
+A
+19 2
+A
+18 2
+#29511
+kris shadow~
+{2T{8he {2S{8hadowy {2K{8ris{0~
+A exotic looking dagger lies in the dirt here.~
+metal~
+weapon ABCFIMST AN
+dagger 1 1 pierce DGH
+1 50 6000 P
+A
+19 10
+A
+18 10
+#29512
+shadow globe~
+{2T{8he {2G{8lobe of {2N{8ight{0~
+A large globe has been left here.~
+nothingness~
+armor BHMST AQ
+0 0 0 0 0
+1 0 2000 P
+#29513
+shadow leggings~
+{2L{8eggings of {2S{8hadows{0~
+You see a pair of leggings left here.~
+cloth~
+armor ABOST AF
+0 0 0 0 0
+1 40 6500 P
+F
+A 5 2 c
+#29514
+shadow boots~
+{2T{8he {2B{8oots of {2D{8arkness{0~
+You found a pair of boots left here.~
+soft leather~
+armor AOST AG
+0 0 0 0 0
+1 55 5000 P
+F
+A 2 2 L
+#29515
+sandwich rye~
+a {@S{2andwich{0 on {@R{2ye{0~
+Your mouth waters as you spot a sandwich left here.~
+food~
+food A A
+75 70 0 0 0
+0 10 50 P
+#29516
+couch diamond~
+a {2S{8hadow {2D{8iamond {2C{8ouch{0~
+A {2S{8hadow {2D{8iamond {2C{8ouch{0 is here.~
+hardwood~
+furniture 0 0
+20 20000 BCEHIKL 400 400
+0 0 0 P
+#29517
+obsidian desk~
+an {2O{8bsidian {2D{8esk{0~
+A {2L{8arge {2D{8esk {0made of {2B{8lack {2O{8bsidian{0 is here.~
+marble~
+container 0 0
+1000 ABCD 27300 1000 100
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#29500
+Entrance to the Shadow Realm~
+You gaze at the shadows all around you, they seem to dance as if with
+they're own energy and life.  As watch the shadows swirl around, a
+night-stalker appears.  You become frightened and you run back to the world
+of light.  You once again run from the cool comfort of the shadows.  You
+also run from your destiny, A place in darkness.  
+~
+0 1048588 0
+D4
+The center of the clan hall is just up the stairs here.
+~
+~
+0 0 29501
+D5
+~
+~
+0 0 3027
+S
+#29501
+The Shadow Realm~
+A cold sensation chills you to your bones.  It will take some getting
+used to but you think this might be a nice place to make your new home,
+since of course nobody from the light realm will ever be here.  There are
+exits to your west, south, and north all leading further into darkness. 
+Five statues are here carved from Marble.  Statues of the founders Synn, and
+Jorus, also of the gods F'nor and Alys.  
+~
+0 1032 0
+D0
+You see a quiet room to chat in.
+~
+~
+0 0 29505
+D1
+There are students training in the room.
+~
+~
+0 0 29503
+D2
+Weapons and armor line the walls of the room to  the south.
+~
+~
+0 0 29504
+D3
+You see some bright lights that create some dark shadows.
+~
+~
+0 0 29502
+D4
+You see a unopening door blocking your way.
+~
+~
+4 27300 29506
+D5
+You see the entrance to the clan hall below you.
+~
+~
+0 0 29500
+M 200 H 200
+S
+#29502
+The Portal Room~
+A room filled with secret portals and passages to be used by the Shadow
+Warriors to venture forth to the realm of light and prove their skills. 
+Each passage leads to a different place of importance in the Realm of Light.
+You see many of the warriors hoping into portals and climbing through the
+passages already, hoping some day to make the rank of Shadow Master.  
+~
+0 8 0
+D1
+You see the center of the clan hall.
+~
+~
+0 0 29501
+S
+#29503
+The Training Grounds~
+This is the place where all the Shadow Warriors learn their deadly art. 
+There are racks of training swords and daggers.  Shadow Masters oversee
+every aspect of the training from sword play to picking pockets.  Mature
+Shadow Warriors stand here encouraging the new reqruits.  A man garbed in
+Shadow Master clothing is here wondering what you would like train.  
+~
+0 8 0
+D3
+You see the center of the clan hall.
+~
+~
+0 0 29501
+S
+#29504
+Shadow Clan Store~
+The darkness clears a little here to allow you to browse the wares of a
+small shop run by a retired assassin.  Many many weapons and pieces of armor
+line the walls, as well as jewlery in the glass cases.  As you walk in the
+Shop-Keep turns and looks at you.  You feel nervious under his expierienced
+gaze.  
+~
+0 8 0
+D0
+You see the center of the clan hall.
+~
+~
+0 0 29501
+S
+#29505
+Members Chat and Complaining Room~
+You see a huge sign floating in the middle of the room, looking more
+closely you read: "This room is for the people that like to complain about
+anything.  Also, for the people that would like to talk to other clan
+members in semi-privacy."  
+~
+0 8200 0
+D2
+~
+~
+0 0 29501
+S
+#29506
+Business Room~
+You see a small sign on the wall which states: "Business room, please
+keep all clan information to the leaders except voting on rules: Thanx
+Akran."  You see five statues around the room: Synn, Jorus, Akran, Vartan17, and
+one "Faceless" statue.  
+~
+0 8200 0
+D5
+~
+~
+4 27300 29501
+S
+#0
+
+
+
+#SPECIALS
+M 29500 spec_breath_any
+M 29501 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 29501 4 2
+D 0 29506 5 2
+O 0 29500 0 29501
+O 0 29503 0 29501
+O 0 29502 0 29502
+O 0 27314 0 29502
+O 0 27313 0 29502
+O 0 27312 0 29502
+O 0 27311 0 29502
+M 0 29501 1 29503 1
+O 0 27309 0 29503
+M 0 29502 1 29504 1
+G 0 27315 0
+G 0 29504 0
+G 0 29513 0
+G 0 29510 0
+G 0 29514 0
+G 0 29509 0
+G 0 29506 0
+G 0 29507 0
+G 0 29505 0
+G 0 29512 0
+G 0 29511 0
+G 0 29508 0
+G 0 29515 0
+O 0 27310 0 29504
+O 0 29516 0 29505
+O 0 29517 0 29506
+S
+
+
+
+#SHOPS
+29502 32 5 9 0 0 100 88 0 23
+0
+
+
+
+#MOBPROGS
+#29500
+~
+#29502
+if name $n Akran
+or name $n Halfpint
+or name $n Jorus
+or name $n Sylence
+or name $n Lucafer
+or isimmort $n
+  bow $n
+  mob oload 27300
+  mob otransfer glass $n
+  say This is your key to the Business Room, $n.
+  mob force $n get glass
+endif
+ 
+~
+#0
+
+#$

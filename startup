@@ -1,0 +1,45 @@
+#!/bin/csh
+# Written by Furey.
+# With additions from Tony and Alander.
+# Changes by Locke
+
+# Set the port number.
+set port = 1111
+set filepath = /home/loki/fantasyland
+set mud = rot
+if ( "$1" != "" ) set port="$1"
+
+# Change to area directory.
+cd $filepath/area
+
+# Set limits.
+nohup
+nice
+limit stack 16384k
+#if ( -e shutdown.txt ) rm -f shutdown.txt
+
+#while ( 1 )
+    # If you want to have logs in a different directory,
+    #   change the 'set logfile' line to reflect the directory name.
+    set index = 1000
+    while ( 1 )
+	set logfile = $filepath/log/$index.log
+	if ( ! -e $logfile ) break
+	@ index++
+    end
+
+    # Run current build.
+    $filepath/area/$mud $port >&! $logfile
+    # Execute Perlstart
+    sleep 5
+
+    cd $filepath
+    perl $filepath/mudstart.pl
+
+    # Restart, giving old connections a chance to die.
+    if ( -e shutdown.txt ) then
+	rm -f shutdown.txt
+	exit 0
+    endif
+    sleep 10
+#end

@@ -1,0 +1,196 @@
+#AREADATA
+Name Overseers~
+Builders Laniessa~
+VNUMs 29281 29299
+Credits [Clan Hall] Laniessa Overseers~
+Security 1
+End
+
+
+
+#MOBILES
+#29281
+islena~
+{WI{ws{Yl{Ce{wn{Wa{x~
+{WI{ws{Yl{Ce{wn{Wa{x is here to heal you.
+~
+~
+human~
+ABa 0 0 0 0
+200 1200 1d10000+1000000 0d0+0 1d10000+10000 pierce
+120 120 120 120
+FGK CDHK 0 0
+stand stand none 10000
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#29282
+wizened gnome~
+a gnome~
+A wise gnome rests here.
+~
+~
+gnome~
+ABJKb J 0 0 0
+200 1200 1d10000+100000 0d0+0 1d10000+10000 pierce
+0 0 0 0
+0 CDK P R
+stand stand none 100000
+AHMV ABCDEFGHIJKU medium unknown
+#29283
+polgara~
+{YP{yo{Yl{yg{Ya{yr{Ya{x~
+{YP{yo{Yl{yg{Ya{yr{Ya{x is here protecting the codex of Redemption.
+~
+A powerful sorceress stands here protecting her wares
+from shady individuals, clues to the codex can be found
+around the realm if you look hard enough.
+~
+human~
+AB 0 0 0 0
+200 1200 4d1000+100000 0d0+0 4d10000+10000 none
+120 120 120 120
+G CDHKM 0 0
+stand stand none 100000
+0 0 medium ethereal
+F for AMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#29281
+comfy reclining couch~
+{WC{wo{Ym{Cf{Wy {wr{Ye{Cc{Wl{wi{Yn{Ci{Wn{wg {Yc{Co{Wu{wc{Yh{x~
+{DA {WC{wo{Ym{Cf{Wy {wr{Ye{Cc{Wl{wi{Yn{Ci{Wn{wg {Yc{Co{Wu{wc{Yh{x rests in the center of the room.~
+unknown~
+furniture AB 0
+10 10000 EHK 900 900
+153 10000 0 P
+#29283
+stone orb of aldur~
+{DO{Wr{wb {Yo{Cf A{Yl{wd{Wu{Dr{x~
+A smoothed out stone shines brightly.~
+unknown~
+armor AB AU
+40 40 40 39 0
+1 0 20000 P
+A
+13 250
+A
+18 90
+A
+19 90
+A
+20 -60
+#29284
+codex of healing~
+{WC{wo{Yd{Ce{Wx {wo{Yf {CH{we{Wa{Cl{Yi{wn{Wg{x~
+A {WC{wo{Yd{Ce{Wx {wo{Yf {CH{we{Wa{Cl{Yi{wn{Wg{x shines brightly.~
+unknown~
+potion ABY AO
+151 'cheal' 'cheal' 'cheal' 'cheal'
+1 0 10000 P
+#29285
+codex of curing~
+{WC{wo{Yd{Ce{Wx {wo{Yf {wC{Wu{Cr{Yi{wn{Wg{x~
+A {WC{wo{Yd{Ce{Wx {wo{Yf {wC{Wu{Cr{Yi{wn{Wg{x twinkles here.~
+unknown~
+potion ABY AO
+151 'cure blindness' 'cure disease' 'cancellation' 'remove curse'
+1 0 10000 P
+#29286
+codex of restoration~
+{WC{wo{Yd{Ce{Wx {wo{Yf {CR{We{ws{Ct{Yo{wr{Wa{Ct{Yi{wo{Wn{x~
+A {WC{wo{Yd{Ce{Wx {wo{Yf {CR{We{ws{Ct{Yo{wr{Wa{Ct{Yi{wo{Wn{x burns brightly here.~
+unknown~
+potion ABY AO
+151 'restore mana' 'giant strength' 'haste' 'sanctuary'
+1 0 10000 P
+#0
+
+
+
+#ROOMS
+#29281
+{WO{wv{Ye{Cr{Ws{we{Ye{Cr{Ws {WM{wee{Ct{Yi{wn{Wg {CH{Ya{wl{Wl{x~
+{WM{wa{Yn{Cy {Wt{wa{Yl{Ck{Ws {wt{Ya{Ck{We {wp{Yl{Ca{Wc{we {Yi{yn {Wt{wh{Yi{Cs {Ww{we{Yl{Cl {Ww{wo{Yr{Cn {Wr{wo{Yo{Cm{W.  {x {WO{wf{Yt{Ce{Wn {wt{Yi{Cm{We{ws Laniessa,
+Abraxas, Vartan & Synestra {Wc{wa{Yn {Cb{We {wf{Yo{Cu{Wn{wd {Yh{Ce{Wr{we {Yc{Co{Wn{wv{Ye{Cr{Ws{wi{Yn{Cg {Ww{wi{Yt{Ch {Wm{we{Ym{Cb{We{wr{Ys {Co{Wf
+{wO{Yv{Ce{Wr{ws{Ye{Ce{Wr{ws {Ya{Cb{Wo{wu{Yt {Cu{Wp{wc{Yo{Cm{Wi{wn{Yg {Wp{wr{Yo{Cj{We{wc{Yt{Cs.  {x {x {WT{wo {Yt{Ch{We {wn{Yo{Cr{Wt{wh {Yt{Ch{We {wb{Yu{Cs{Wy {ws{Yo{Cu{Wn{wd{Ys {Co{Wf {wM{Ya{Cr{Wk{we{Yt
+{CS{Wq{wu{Ya{Cr{We {wc{Ya{Cn {Wb{we {Yh{Ce{Wa{wr{Yd{C.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 3014
+D2
+~
+~
+0 0 29283
+D4
+~
+~
+0 0 29282
+S
+#29282
+{WT{wh{Ye {CB{Ya{Wl{wc{Yo{Cn{Wy{x~
+This balcony overlooks the streets of Midgaard.  Smells of fresh apple
+pies fill your nostrils as you relax and watch the activities of the busy
+Market Square.  A wizened gnome stands here prepared to help you train and
+practice new skills.  
+~
+0 0 0
+D5
+~
+~
+0 0 29281
+S
+#29283
+{WH{wi{Yd{Cd{We{wn {YS{Ch{Wo{wp {Yo{wf {WM{Ca{Yg{wi{Wc{x~
+~
+0 0 0
+D0
+~
+~
+0 0 29281
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 29281 1 29281 1
+O 0 29281 0 29281
+M 0 29282 1 29282 1
+M 0 29283 1 29283 1
+G 0 29283 0
+G 0 29284 0
+G 0 29285 0
+G 0 29286 0
+S
+
+
+
+#SHOPS
+29283 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

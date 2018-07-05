@@ -1,0 +1,2479 @@
+#AREADATA
+Name        NewTown~
+Builders    None~
+VNUMs       1900 1999
+Security    9
+Credits     { 0 5 } Grehyton  Newbie Town~
+End
+
+
+#ROOMS
+#1900
+{YCenter Of The New District{x~
+You are standing in the the center square of the new
+section of town. All the streets and buildings are in
+very good condition. From here you can go north or south
+on Wen road or go east and west on Eib road. In the very
+center of this square is a beautiful bubbling fountain,
+the water looks very refreshing. Citizens gather around
+this fountain discussing events and looking at the young
+adventurers wandering through. There is a wood signpost
+with a {bsign{x attached. Maybe you should {bREAD SIGN{x.
+There is also a {bplaque{x here, maybe you should also
+{bREAD PLAQUE{x.
+~
+0 1024 1
+E
+plaque~
+-----------
+From here you can go east 3 and north 1 to find the
+local GOODWILL. This is the place where young adventurers
+can get items they will need to advance in rank. Be
+sure to visit it before you start fighting things.
+Go north 2 and east 1 to find the FOOD STORE, buy some
+food so if you get hungry you can eat, if you get
+thirsty you can drink from the fountain here or go
+south 2 and east 1 to buy a water skin to drink from.
+Walk around a bit and learn where stuff is. You can
+train a bit by going all west then all south, or you
+can practice your skills by going all north and 1 west.
+There are other places to visit in here, but you will
+have to learn the rest yourself. Return here and read
+this plaque again if you forget, or find it on your own.
+~
+E
+sign~
+---------
+Welcome to the new section of town, designed to allow
+new players to learn the basic workings of a city and
+of how to play. There will be various signs around, be
+sure to read them. You will find everything in this
+section that you would find in the normal town, except
+here it is on a much smaller scale. This section is
+designed to allow you to advance to level 5 or 6 after
+that you will find the experience lacking. Stay here
+until you are ready to leave. When you are ready to
+leave type RECALL and you will be sent into the real
+city and off to real adventure. You cannot RECALL after
+level 10, so do leave before you gain this rank.
+~
+D0
+You see Wen road.
+~
+~
+0 -1 1901
+D1
+You see Eib road.
+~
+~
+0 -1 1914
+D2
+You see Wen road.
+~
+~
+0 -1 1907
+D3
+You see Eib road.
+~
+~
+0 -1 1920
+S
+#1901
+{YWen Road{x~
+You are on a newly paved street known as Wen road.
+To the south of here is Center square and the local
+fountain. Beautiful trees and shrubs line the street
+and a fragrant smell comes down from the north. From
+here you can go north or south. There is a big wooden
+{bsign{x here. Maybe you should read it.
+~
+0 0 1
+E
+sign~
+----------
+You need to EAT and DRINK to survive here. You will
+get messages when you are hungry or thirsty. Food you
+must buy to eat. Water is usually available from a
+fountain in the city, or you can buy a container that
+holds water to take with you. To drink from a fountain
+you just type DRINK, or you can drink from a specific
+item like a buffalo water skin by typing, DRINK SKIN.
+These skins dont hold alot, some more then others. You
+will need to FILL SKIN when you are near a fountain
+to replenish the amount of water in the skin. Food
+works in the same way, when you have bought or found
+some food you simply eat it. For instance if you have
+a pie, you EAT PIE. It will then return a message to
+you saying your hunger level, like 'You are no longer
+hungry' or 'You are full'. You WILL die if you do not
+eat and drink.
+~
+D0
+You see Wen road.
+~
+~
+0 -1 1902
+D2
+You see Wen road.
+~
+~
+0 -1 1900
+S
+#1902
+{YWen Road{x~
+You are standing on the beautifully landscaped Wen
+road. All around are nice cooling trees and warm
+looking flowers and shrubs. A smokey barbacue smell
+fills the air and is coming from the east where
+you see a small shop. Wen road continues north and
+south from here. You can also go east to the small
+shop that smells good. There is a {bsign{x here.
+~
+0 0 1
+E
+sign~
+----------
+When you are moving around the world of Rylelia (this planet).
+You use the cardinal directions, north, south, east, west, up
+and down. You can type 'east' to go east or just type 'e', alot
+of the commands can be abbreviated. Sometimes it is wise to
+see what is in the direction you are heading. Dangerous creatures
+could be there, or their could be a trap that is only found
+if you look. Here are the commands to see in different directions.
+'LOOK EAST' will give you a description of what is east. Now
+this will not show you any creatures that may be there. To do
+this you need to 'scan'. Type 'SCAN EAST' and it will tell you
+if there are any creatures there. You will not see invisible or
+hidden creatures unless you can somehow detect them. Another
+helpful command to quickly look around is 'EXIT' by typing
+this you will look in each direction and see what is there.
+~
+D0
+You see Wen road.
+~
+~
+0 -1 1903
+D1
+You see a barbacue stand.
+~
+~
+0 -1 1964
+D2
+You see Wen road.
+~
+~
+0 -1 1901
+S
+#1903
+{YWen Road{x~
+You are moving along Wen road one of the main streets that
+goes through this district of Calinth. From here you can
+head north and south along Wen road. From the south comes
+a fragrant appetizing smell. To the north you see a small
+T intersection. There is a {bsign{x here.
+~
+0 0 1
+E
+sign~
+------------
+Fighting can be a dangerous game, but it is one of the few ways
+to increase your knowledge and rank. Some of the creatures you
+find during your travels will be aggressive, this means they
+will attack as soon as they see you. Others are more passive
+and will not attack unless you attack them first. FLEEing is
+one of the ways to get out of battle, if things are not going
+so good, type FLEE and you will run. Now what is very important
+is that things you attack will come after you and attack when
+they reach you, so flee and run far away or to a place you know
+is safe. A way to automate your fleeing is to type WIMPY. This
+command sets you up to flee when you reach a certain level of
+your total hit points. Type WIMPY 10 and you will flee at 10
+hit points. You can set this to whatever you want. Before you
+fight a creature you should consider it first. Consider lets
+you see if you can kill the creature by returning a message to
+you. For instance if you see a goblin, type CON goblin, you
+will get a message telling you what your chances are. It is
+always best to CON things before attacking, or you might be
+destroyed.
+~
+D0
+You see a small T intersection.
+~
+~
+0 -1 1904
+D2
+You see Wen road.
+~
+~
+0 -1 1902
+S
+#1904
+{YWen Road and Jail Avenue{x~
+You are standing at a small t-intersection of Wen road and
+Jail avenue. The local jail is off to the east while Wen
+road continues north and south. On the west side of the
+street are rows of quaint cottages for the locals.
+There is a small {bsign{x here and a small {bplaque{x.
+~
+0 0 1
+E
+plaque~
+-----------
+From here you can travel east to reach the local Jail.
+Depending on your feelings you can kill some of these dirty
+criminals if you wish. Or you can look for more monster
+type creatures. What you kill determines the type of person
+you are. There is no alignment, except how you act! Moving
+from one extreme to another is frowned upon, try to stay
+in character and act how your character always acts. To
+the east of here a north is a healer who will help you for
+free but it takes time, or you can purchase heals from him
+or her if you have money.
+~
+E
+sign~
+------------
+It is important to read the help files available to you.
+The first and most important are the laws. Type HELP LAWS,
+to read them. Other items are available through the help
+command as well. You can get info on just about any command
+there is. Remember to read these well.
+~
+D0
+You see Wen road.
+~
+~
+0 -1 1905
+D1
+You see Jail avenue.
+~
+~
+0 -1 1936
+D2
+You see Wen road.
+~
+~
+0 -1 1903
+S
+#1905
+{YWen Road{x~
+You are standing on Wen road, beautiful shrubs and trees line
+both sides of the streets. Small cottages are on either side
+belonging to the locals, all of which are painted and in
+very good condition. Wen road continues north of here to a
+corner or south from here to a small intersection. There is
+a {bsign{x here.
+~
+0 0 1
+E
+sign~
+-------------
+Calinth is the principle city in which you live. This part of
+town is part of Calinth. When you are done here learning the
+ways of things you will venture into the big city, and it is
+VERY big. It might take you a while to learn your way about
+but feel free to ask another citizen, and they might help you.
+Leaving Calinth can be dangerous to those of lower rank, if
+you do venture out make sure you are ready.
+~
+D0
+You see a corner.
+~
+~
+0 -1 1906
+D2
+You see a small intersection.
+~
+~
+0 -1 1904
+S
+#1906
+{YCorner of Wen Road{x~
+You are standing on the corner of Wen road, from here it
+curves to the west. Around you are small cottages and
+gardens of the locals in this section. Well kept trees and
+flowers line the street here. There is a {bsign{x for
+you to read.
+~
+0 0 1
+E
+sign~
+----------
+Being in a Guild is an intregal part of your life. Be sure
+you read the help for your guild and race to learn more about
+how you are supposed to act. Staying in character is very
+important here. Those that do not will be asked to leave.
+Guilds tend to work together and disrepect those members that
+harm others of the same guild. Do be suprised if you get
+killed if you disrespect your guild. Your race is also very
+important, it is the foundation of who you are, although
+you will often fight members of your own race who belong to
+different guilds then you. This is the nature of the guild
+system on Rylelia.
+~
+D2
+You see Wen road heading south.
+~
+~
+0 -1 1905
+D3
+You see Wen road heading west.
+~
+~
+0 -1 1943
+S
+#1907
+{YWen Road{x~
+You are standing just south of the center square in the
+New district of Calinth. Around you are small friendly
+looking cottages with well kept gardens and shrubs around
+their white picket fences. From here you can continue
+north to center square or go south where you here the
+splashing of water. There is a {bsign{x here.
+~
+0 0 1
+E
+sign~
+-----------
+As you move around you will get tired. When you are out of
+movement you will be exhausted this means you have to REST.
+When you REST you gain back hit points, mana and movement.
+While resting you can perform alot of the basic commands.
+Another way to get back hits, mana, and movement quicker is
+to SLEEP. While sleeping you cannot do most of the commands.
+Try typing 'REST' or 'SLEEP'. When you are done resting you
+need to 'STAND' when you are done sleeping you need to 'WAKE'.
+~
+D0
+You see center square.
+~
+~
+0 -1 1900
+D2
+You see Wen road.
+~
+~
+0 -1 1908
+S
+#1908
+{YWen Road{x~
+You are on the beautifully landscaped, Wen road. To the east
+of here you see a small pump house with a pleasant looking
+waterwheel spinning away at its side. You can go north or
+south from here as well. There is a {bsign{x here as well.
+~
+0 0 1
+E
+sign~
+---------
+Death is fact in all of the adventurers lives who roam
+this land. After you die you will awaken at the morgue.
+You will find it now costs you more experience to rank
+to the next level. You will also find that all of your
+belongings are gone. They are back at your corpse where
+you died, if you get back there in time, you can retreive
+them, but so can anyone else who happens upon them. Dont
+take death to seriously it is a fact in this dangerous
+land.
+~
+D0
+You see Wen road.
+~
+~
+0 -1 1907
+D1
+You see a small pumphouse.
+~
+~
+0 -1 1965
+D2
+You see Wen road.
+~
+~
+0 -1 1909
+S
+#1909
+{YWen Road{x~
+You are on the very well kept, Wen road. Small cottages
+are on the east and west of you. Each has a small garden
+and some well kept shrubs near it. To the north you can
+hear the splashing of water. And to the south you see
+a small intersection. There is a {bsign{x here.
+~
+0 0 1
+E
+sign~
+----------
+Objects you carry are very important. Armor and weapons are
+a part of survival. Sometimes the items will hold hidden
+descriptions. To find these you must LOOK at it. For example
+if you have a sword, type LOOK SWORD, it may or may not give
+you a description. Sometimes things are inside of stuff.
+If there is a pile of hay, type LOOK IN HAY, maybe something
+will be in there.  If there is something inside of an object
+you can GET COINS HAY, or GET BOOK CHEST. Remember these
+as they are very very important to this world.
+You can also EXAMINE stuff. Doors, books,
+chests, and other objects have commands to, you can OPEN DOOR,
+or maybe CLOSE BOOK, sometimes things are locked, and if you
+have the key you can UNLOCK DOOR, or UNLOCK CHEST, then you
+can LOCK DOOR or LOCK CHEST as well.
+~
+D0
+You see Wen road.
+~
+~
+0 -1 1908
+D2
+You see a small intersection.
+~
+~
+0 -1 1910
+S
+#1910
+{YWen Road and Wealthy Avenue{x~
+You are standing on a small intersection where Wealthy avenue
+meets Wen road. To the east Wealthy road continues on toward
+an exotic zoo. To the south Wen road continues onward. There
+is a small {bsign{x here.
+~
+0 0 1
+E
+sign~
+----------
+You character that you play is defined by his abilitys and
+traits. You can take a look at your character sheet by typing
+SCORE. This will give you alot of important information.
+To see what you are carrying on your person, type INV, this
+is short for INVENTORY. You inventory is different from what
+you are using at the time. What you are using can be found
+by typing EQ, this is short for EQUIPMENT. To use something
+in your inventory, you need to WEAR, WIELD or HOLD it. This
+will take it from your inventory and put it in your equipment.
+To stop using something in your equipment you need to REMOVE it.
+For instance you want to change weapons from a sword to a mace.
+Type REMOVE SWORD, then type WIELD MACE, you have now switched
+weapons. Sometimes you can just type WIELD MACE, and it will
+automatically switch it out for you. Other commands are
+WEAR ALL, or WIELD ALL, which will put all inventory into your
+empty equipment spots. If you see something laying on the
+you GET it. Like GET SWORD. Or if you do not want it anymore
+type DROP SWORD, and you will drop it, but it has to be in
+your inventory, you cannot DROP something from your EQUIPMENT.
+~
+D0
+You see Wen road.
+~
+~
+0 -1 1909
+D1
+You see Wealthy avenue.
+~
+~
+0 -1 1929
+D2
+You see Wen road.
+~
+~
+0 -1 1911
+S
+#1911
+{YWen Road{x~
+You are standing between some humble village houses lined
+up along Wen road. Chirping birds and friendly voices greet
+you. You can continue by going north or south along Wen road.
+~
+0 0 1
+D0
+You see Wen road.
+~
+~
+0 -1 1910
+D2
+You see Wen road.
+~
+~
+0 -1 1912
+S
+#1912
+{YWen Road{x~
+You are standing between some humble village houses lined
+up along Wen road. Chirping birds and friendly voices greet
+you. You can continue by going north or south along Wen road.
+There is a {bsign{x here.
+~
+0 0 1
+E
+sign~
+----------
+The rest of Calinth is not as nice as this section of town.
+Times are hard and the laws and regulations are strict. It
+is much more difficult, sometimes even finding something to
+eat will be a challenge. Prepare yourself here in this
+section of town before adventuring out.
+~
+D0
+You see Wen road.
+~
+~
+0 -1 1911
+D2
+You see Wen road.
+~
+~
+0 -1 1913
+S
+#1913
+{YThe South End of Wen Road{x~
+You are standing on the southern end of Wen road. The
+cottages and houses are not around you here. To the
+east is a grey and dismal looking city {bwall{x the same
+is to the south. To the west you see a small weapons
+shop. You can return to the north as well. There is
+a small {bsign{x here.
+~
+0 0 1
+E
+wall~
+--------
+The town wall of Calinth. Erected by the Overlord to
+keep out his enemys, and to keep the populace in. Its
+grey chipped mortar is a sign of hard oppression to many.
+~
+E
+sign~
+---------
+To the west of here is a weapons shop. If you have
+money maybe you can find a better weapon then the
+one you have. Go in and look around, see if anything
+appeals to you. Take notice of the grey city wall,
+this surrounds Calinth and protect it from its enemys.
+~
+D0
+You see Wen road.
+~
+~
+0 -1 1912
+D3
+You see a weapons shop.
+~
+~
+0 -1 1967
+S
+#1914
+{YEib Road{x~
+You are standing on Eib road, the main street heading
+east and west through the new section of town. To the
+west of you lies center square or you can continue
+east down Eib road. Small cottages are to the north
+and south of you. You hear birds singing and children
+laughing in the distance. There is a {bsign{x here.
+~
+0 0 1
+E
+sign~
+------------
+Having good equipment is a major way to stay alive in
+the game. Sometimes you will have to sets of a certain
+piece, for instance you are wearing a pair of gloves
+and you just picked up a pair. To find out which set
+is better you would COMPARE them. By typing COMPARE GLOVES
+you will get a message telling you which pair is better.
+Use this command alot, it will help you find good eq.
+~
+D1
+You see Eib road.
+~
+~
+0 -1 1915
+D3
+You see center square.
+~
+~
+0 -1 1900
+S
+#1915
+{YEib Road{x~
+You are standing on the main east and west road through
+the new section of town. You can head east towards the
+goodwill and the Gate into Calinth, or you can head
+west towards center square. There is a {bsign{x here.
+~
+0 0 1
+E
+sign~
+----------
+Using magic and fighting are fairly simple. If you want
+to kill something, like a goblin, type KILL GOBLIN. Using
+a spell works almost the same way but is a little more
+tricky. To cast a spell that affects you, like the armor
+spell, you would type CAST ARMOR. But if the spell has
+a two word name, you have to put quotes around it, like
+CAST 'GIANT STRENGTH'. Spells that have a target need
+the quotes and a target, like CAST 'MAGIC MISSILE' ORC.
+You can use the alias command to help you make these
+castings simpler.
+~
+D1
+You see Eib road.
+~
+~
+0 -1 1916
+D3
+You see Eib road.
+~
+~
+0 -1 1914
+S
+#1916
+{YEib Road{x~
+You are standing on a well used section of Eib road.
+To the south of you a couple of quaint cottages sit
+peacefully in the trees. To the north you see a large
+warehouse like building. You can continue east towards
+the Gate into Calinth. Or head west further into the
+new section of town. There is a {bsign{x here.
+~
+0 0 1
+E
+sign~
+----------
+To the north of here is the local GOODWILL. There you
+can find free items to prepare you for your travels.
+Sometimes it is empty as the needy are many, other
+times it is stocked full of stuff. Please dont be to
+greedy as others are just as needy as you.
+~
+D0
+You see a GOODWILL.
+~
+~
+0 -1 1969
+D1
+You see Eib road.
+~
+~
+0 -1 1917
+D3
+You see Eib road.
+~
+~
+0 -1 1915
+S
+#1917
+{YEib Road{x~
+You are standing on a well used section of Eib road.
+To the south of you a couple of quaint cottages sit
+peacefully in the trees. You can continue east towards
+the Gate into Calinth. Or head west further into the
+new section of town.
+~
+0 0 1
+D1
+You see Eib road.
+~
+~
+0 -1 1918
+D3
+You see Eib road.
+~
+~
+0 -1 1916
+S
+#1918
+{YEib Road{x~
+You are standing on a well used section of Eib road.
+To the south of you a couple of quaint cottages sit
+peacefully in the trees. You can continue east towards
+the Gate into Calinth. Or head west further into the
+new section of town.
+~
+0 0 1
+D1
+You see Eib road.
+~
+~
+0 -1 1919
+D3
+You see Eib road.
+~
+~
+0 -1 1917
+S
+#1919
+Newbie Town - Eib Road~
+You are standing on a well used section of Eib road.
+To the south of you a couple of quaint cottages sit
+peacefully in the trees. You can continue east towards
+the Gate into MUD School. Or head west further into the
+new section of town.
+~
+0 0 1
+D1
+~
+~
+1 0 3700
+D3
+You see Eib road.
+~
+~
+0 -1 1918
+S
+#1920
+{YEib Road{x~
+You are standing on a clean section of Eib road.
+From here you can head east to the center square,
+or you can go west down Eib road. Small cottages
+and houses occupy the tree filled lots all around
+you. There are children laughing in the distance.
+~
+0 0 1
+D1
+You see center square.
+~
+~
+0 -1 1900
+D3
+You see Eib road.
+~
+~
+0 -1 1921
+S
+#1921
+{YEib Road{x~
+You are standing on a quaint section of Eib road.
+From here you can head east to the center square,
+or you can go west down Eib road. Small cottages
+and houses occupy the tree filled lots all around
+you. There are birds singing in the distance.
+~
+0 0 1
+D1
+You see Eib road.
+~
+~
+0 -1 1920
+D3
+You see Eib road.
+~
+~
+0 -1 1922
+S
+#1922
+{YEib Road{x~
+You are standing on a quaint section of Eib road.
+From here you can head east to the center square,
+or you can go west down Eib road. Small cottages
+and houses occupy the tree filled lots all around
+you. There is a small shop to the south with a
+banging sound coming from it. There is a {bsign{x
+here.
+~
+0 0 1
+E
+sign~
+---------
+To the south of here is the local Armor shop. You
+can purchase pieces you might not be able to find
+or get some extras you might need later. To see
+what he offers type LIST when you get inside.
+~
+D1
+You see Eib road.
+~
+~
+0 -1 1921
+D2
+You see the Armorer.
+~
+~
+0 -1 1966
+D3
+You see Eib road.
+~
+~
+0 -1 1923
+S
+#1923
+{YEib Road{x~
+You are standing on a quaint section of Eib road.
+From here you can head east to the center square,
+or you can go west down Eib road. Small cottages
+and houses occupy the tree filled lots all around
+you.
+~
+0 0 1
+D1
+You see Eib road.
+~
+~
+0 -1 1922
+D3
+You see Eib road.
+~
+~
+0 -1 1924
+S
+#1924
+{YEib Road{x~
+You are standing on a corner section of Eib road.
+From here you can head east to the center square,
+or you can go south down Eib road. Small cottages
+and houses occupy the tree filled lots all around
+you.
+~
+0 0 1
+D1
+You see Eib road.
+~
+~
+0 -1 1923
+D2
+You see Eib road.
+~
+~
+0 -1 1925
+S
+#1925
+{YEib Road{x~
+You are standing on a corner section of Eib road.
+From here you can head north towards the corner,
+or you can go south down Eib road. Small cottages
+and houses occupy the tree filled lots all around
+you. To the west of here you see a General Store.
+~
+0 0 1
+D0
+You see a corner of Eib road.
+~
+~
+0 -1 1924
+D2
+You see Eib road.
+~
+~
+0 -1 1926
+D3
+You see a General Store.
+~
+~
+0 -1 1999
+S
+#1926
+{YEib Road{x~
+You are standing on a corner section of Eib road.
+From here you can head north towards the store,
+or you can go south down Eib road. Small cottages
+and houses occupy the tree filled lots all around
+you.
+~
+0 0 1
+D0
+You see Eib road.
+~
+~
+0 -1 1925
+D2
+You see Eib road.
+~
+~
+0 -1 1927
+S
+#1927
+{YEib Road{x~
+You are standing on a corner section of Eib road.
+From here you can head north towards the corner,
+or you can go south down Eib road. Small cottages
+and houses occupy the tree filled lots all around
+you.
+~
+0 0 1
+D0
+You see Eib road.
+~
+~
+0 -1 1926
+D2
+You see Eib road.
+~
+~
+0 -1 1928
+S
+#1928
+{YEib Road{x~
+You are at a dead end portion of Eib road. The
+city wall of Calinth lies directly to the south
+of you while a small training yard lies to the
+east, you can also return north.
+~
+0 0 1
+D0
+You see Eib road.
+~
+~
+0 -1 1927
+D1
+You see a training yard.
+~
+~
+0 -1 1971
+S
+#1929
+{YWealthy Avenue{x~
+This section road known as Wealthy avenue was
+built by an exotic old man who lives in a mansion
+in the main part of Calinth. He built this road
+that leads to a large structure where he keeps an
+exotic collection of beasts from around Rylelia.
+You can visit this place by heading east, or return
+to the west
+~
+0 0 1
+D1
+You see Wealthy avenue.
+~
+~
+0 -1 1930
+D3
+You see Wen road.
+~
+~
+0 -1 1910
+S
+#1930
+{YWealthy Avenue{x~
+This section road known as Wealthy avenue was
+built by an exotic old man who lives in a mansion
+in the main part of Calinth. He built this road
+that leads to a large structure where he keeps an
+exotic collection of beasts from around Rylelia.
+You can visit this place by heading east, or return
+to the west
+~
+0 0 1
+D1
+You see Wealthy avenue.
+~
+~
+0 -1 1931
+D3
+You see Wealthy ave.
+~
+~
+0 -1 1929
+S
+#1931
+{YWealthy Avenue{x~
+This street is lined with the best of stones
+and bricks gold could buy. Exotic trees and
+bushes are on the north and south pruned daily
+by some hired hands. You can head east to a
+corner or back west down Wealthy ave.
+~
+0 0 1
+D1
+You see A corner.
+~
+~
+0 -1 1932
+D3
+You see Wealthy ave.
+~
+~
+0 -1 1930
+S
+#1932
+{YWealthy Avenue{x~
+You are standing on a turn in Wealthy
+avenue. From here it heads on to the south.
+A building lies to the east of you but the
+entrance must be further down. A pungent
+smell is in the air.
+~
+0 0 1
+D2
+You see Wealthy ave.
+~
+~
+0 -1 1933
+D3
+You see Wealthy ave.
+~
+~
+0 -1 1931
+S
+#1933
+{YWealthy Avenue{x~
+There is a very pungent smell coming from the east
+where the entrance to the large building is. You
+notice that there are no houses on this street, the
+builder must want to keep people away from his strange
+collection. You can continue south or go north as
+well.
+~
+0 0 1
+D0
+You see Wealthy ave.
+~
+~
+0 -1 1932
+D1
+You see a large building.
+~
+~
+0 -1 1989
+D2
+You see Wealthy ave.
+~
+~
+0 -1 1934
+S
+#1934
+{YWealthy Avenue{x~
+You are nearing the end of Wealthy avenue. From
+here you can head north towards the large building
+or you can go south towards a lavish inn. On
+either side of the street are large oak trees that
+sway in the breeze.
+~
+0 0 1
+D0
+You see Wealthy ave.
+~
+~
+0 -1 1933
+D2
+You see Wealthy ave.
+~
+~
+0 -1 1935
+S
+#1935
+{YThe End Of Wealthy Avenue{x~
+You have reached the end of Wealthy ave. To the
+east lies a lavish Inn where you can get a room
+and some food for the night, Or you can head back
+north along the avenue. The city wall of Calinth
+lies to the south of you.
+~
+0 0 1
+D0
+You see Wealthy ave.
+~
+~
+0 -1 1934
+D1
+You see a lavish inn.
+~
+~
+0 -1 1970
+S
+#1936
+{YJail Avenue{x~
+You are walking along Jail avenue, named so
+because the local jail lies off of it to the
+east and south. Residents do not build houses
+along this street for fear and escaping prisoner
+might attack them. Further to the east and to
+the north lies the healer. He is known to help
+all, he even frequently visits the jail to lift
+spirits and help the sick.
+~
+0 0 1
+D1
+You see Jail ave.
+~
+~
+0 -1 1937
+D3
+You see Wen road.
+~
+~
+0 -1 1904
+S
+#1937
+{YJail Avenue{x~
+You are walking on the only desolate stretch in
+the new section of town. Trees have been cleared
+and the plants are brown and dead. You would figure
+being so close to the jail would lower the value
+of the properties, and you were right.
+~
+0 0 1
+D1
+You see Jail ave.
+~
+~
+0 -1 1938
+D3
+You see Jail ave.
+~
+~
+0 -1 1936
+S
+#1938
+{YJail Avenue{x~
+You are walking on the only desolate stretch in
+the new section of town. Trees have been cleared
+and the plants are brown and dead. You would figure
+being so close to the jail would lower the value
+of the properties, and you were right. To the north
+of here is the town healer.
+~
+0 0 1
+D0
+You see the local healer.
+~
+~
+0 -1 1968
+D1
+You see Jail ave.
+~
+~
+0 -1 1939
+D3
+You see Jail ave.
+~
+~
+0 -1 1937
+S
+#1939
+{YJail Avenue{x~
+You are walking on the only desolate stretch in
+the new section of town. Trees have been cleared
+and the plants are brown and dead. You would figure
+being so close to the jail would lower the value
+of the properties, and you were right. Jail ave
+curves to the south here.
+~
+0 0 1
+D2
+You see Jail ave.
+~
+~
+0 -1 1940
+D3
+You see Jail ave.
+~
+~
+0 -1 1938
+S
+#1940
+{YJail Avenue{x~
+You are walking on the only desolate stretch in
+the new section of town. Trees have been cleared
+and the plants are brown and dead. You would figure
+being so close to the jail would lower the value
+of the properties, and you were right. Jail ave
+heads north and south here. A large Jailhouse lies
+to your east but the entrance is further south.
+~
+0 0 1
+D0
+You see Jail ave.
+~
+~
+0 -1 1939
+D2
+You see Jail ave.
+~
+~
+0 -1 1941
+S
+#1941
+{YJail Avenue{x~
+You are walking on the only desolate stretch in
+the new section of town. Trees have been cleared
+and the plants are brown and dead. You would figure
+being so close to the jail would lower the value
+of the properties, and you were right. Jail ave
+heads north and south here. A large Jailhouse lies
+to your east.
+~
+0 0 1
+D0
+You see Jail ave.
+~
+~
+0 -1 1940
+D1
+You see the Jailhouse.
+~
+~
+0 -1 1973
+D2
+You see Jail ave.
+~
+~
+0 -1 1942
+S
+#1942
+{YThe End Of Jail Avenue{x~
+You are at the end of Jail avenue. To the south
+over a large fence you can see the main street
+Eib road, the connection has been blocked to keep
+the prisoners from reaching it so easy. You can
+return to the north to head back on Jail ave.
+~
+0 0 1
+D0
+You see Jail ave.
+~
+~
+0 -1 1941
+S
+#1943
+{YWen Road{x~
+You are on a more run down looking section of
+Wen road. To the north of here you see a local
+guildhouse that is willing to teach all the guild
+skills needed. To the east you see Wen road slowly
+turning to the south and to the west you hear
+a busy marketplace.
+~
+0 0 1
+D0
+You a local guildhouse.
+~
+~
+0 -1 1972
+D1
+You see Wen road.
+~
+~
+0 -1 1906
+D3
+You see Wen road.
+~
+~
+0 -1 1944
+S
+#1944
+{YWen Road{x~
+You are on standing on a run down section of Wen
+road. It doesnt look quite so nice here. The road
+is potholed and broken. The normal houses you see
+are rather run down and shabby looking. You can
+head east or west from here.
+~
+0 0 1
+D1
+You see Wen road.
+~
+~
+0 -1 1943
+D3
+You see Wen road.
+~
+~
+0 -1 1945
+S
+#1945
+{YWen Road{x~
+You are on standing on a run down section of Wen
+road. It doesnt look quite so nice here. The road
+is potholed and broken. The normal houses you see
+are rather run down and shabby looking. You can
+head east or west from here.
+~
+0 0 1
+D1
+You see Wen road.
+~
+~
+0 -1 1944
+D3
+You see Wen road.
+~
+~
+0 -1 1946
+S
+#1946
+{YWen Road's Slave Pens{x~
+You are on standing on a run down section of Wen
+road. It doesnt look quite so nice here. The road
+is potholed and broken. The normal houses you see
+are rather run down and shabby looking. To the south
+of here you see the entrance to a slavers guild. To
+the east you can return down Wen road.
+~
+0 0 1
+D1
+You see Wen road.
+~
+~
+0 -1 1945
+D2
+You see a Slavers Guild.
+~
+~
+0 -1 1947
+S
+#1947
+{YEntrance To The Slavers Guild{x~
+You are standing in the coatroom of the Slavers guild.
+A sick smell assaults your nostrils and you can hear the
+sounds of torture in the distance. You wonder how they
+were able to build this place in the new section. To
+The west are the main offices and to the east is the
+auction block.
+~
+0 12 0
+D0
+You see Wen road.
+~
+~
+0 -1 1946
+D1
+You see the auction block.
+~
+~
+0 -1 1948
+D3
+You see the Offices.
+~
+~
+0 -1 1950
+S
+#1948
+{YThe Auction Block{x~
+This rooms reeks of human bondage. Shackles and and
+stocks are on the walls. Fat and smelly merchants from
+the various wealthy familys fill the room. A raised
+platform is on the south wall where the deeds are done.
+To the east are the pens, and to the west is the
+entrance hall.
+~
+0 0 0
+D1
+You see the slave pens.
+~
+~
+0 -1 1949
+D3
+You see the entrance hall.
+~
+~
+0 -1 1947
+S
+#1949
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D2
+You see the slave pens.
+~
+~
+0 -1 1954
+D3
+You see the auction block.
+~
+~
+0 -1 1948
+S
+#1950
+{YFront Office{x~
+You are standing in an opulent front office of the
+Slave guild. The riches provided from bondage are
+quite rewarding. A large oak desk fills the room.
+To the west you see the entrance to a back office.
+~
+0 0 0
+D1
+You see the entrance hall.
+~
+~
+0 -1 1947
+D3
+You see a back office.
+~
+~
+0 -1 1951
+S
+#1951
+{YBack Office{x~
+You are in the back office of the Slaver guild.
+Large file cabinets line all the walls along with
+various instruments of torture and bondage. A
+leather smell fills this room.
+~
+0 8192 0
+D1
+You see the front office.
+~
+~
+0 -1 1950
+S
+#1952
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D2
+You see the slave pens.
+~
+~
+0 -1 1955
+S
+#1953
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D2
+You see the slave pens.
+~
+~
+0 -1 1957
+S
+#1954
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D0
+You see the slave pens.
+~
+~
+0 -1 1949
+D2
+You see the slave pens.
+~
+~
+0 -1 1958
+S
+#1955
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D0
+You see the slave pens.
+~
+~
+0 -1 1952
+D1
+You see the slave pens.
+~
+~
+0 -1 1956
+S
+#1956
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D1
+You see the slave pens.
+~
+~
+0 -1 1957
+D2
+You see the slave pens.
+~
+~
+0 -1 1959
+D3
+You see the slave pens.
+~
+~
+0 -1 1955
+S
+#1957
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D0
+You see the slave pens.
+~
+~
+0 -1 1953
+D1
+You see the slave pens.
+~
+~
+0 -1 1958
+D3
+You see the slave pens.
+~
+~
+0 -1 1956
+S
+#1958
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D0
+You see the slave pens.
+~
+~
+0 -1 1954
+D3
+You see the slave pens.
+~
+~
+0 -1 1957
+S
+#1959
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D0
+You see the slave pens.
+~
+~
+0 -1 1956
+D2
+You see the slave pens.
+~
+~
+0 -1 1960
+S
+#1960
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D0
+You see the slave pens.
+~
+~
+0 -1 1959
+D1
+You see the slave pens.
+~
+~
+0 -1 1961
+S
+#1961
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D1
+You see the slave pens.
+~
+~
+0 -1 1962
+D3
+You see the slave pens.
+~
+~
+0 -1 1960
+S
+#1962
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D1
+You see the slave pens.
+~
+~
+0 -1 1963
+D3
+You see the slave pens.
+~
+~
+0 -1 1961
+S
+#1963
+{RSlave Pens{x~
+Sick remains of human and humanoid creatures cover the
+floor along with excrement and blood. Chains are attached
+to the walls along with smoldering torch stubs which provide
+a small amount of light.
+~
+0 0 0
+D3
+You see the slave pens.
+~
+~
+0 -1 1962
+S
+#1964
+{YBar-B-Que Stand{x~
+A large fire pit occupies the majority of this room, good
+smells waft up from the many cuts of meat cooking in the
+'special' sauce. A few patrons sit at wood picnic style
+benches placed around the room. If you want to see what
+is for sale type {blist{x.
+~
+0 0 0
+D3
+You see Wen Road.
+~
+~
+0 -1 1902
+S
+#1965
+{YThe PumpHouse{x~
+You are standing in an oldstyle pumphouse, on the outside
+a large waterwheel turns with the current pouring over it.
+Inside here you see a large pump mechanism hooked up to
+a faucet that is used to fill skins and buckets that are
+for sale to the townsfolk and wandering adventurers. Type
+{blist{x to see what is for sale.
+~
+0 0 0
+D3
+You see Wen road.
+~
+~
+0 -1 1908
+S
+#1966
+{YThe Armor Shop{x~
+You are standing inside a very very HOT armor shop. A large
+furnace burns in the rear of the building where the young
+helpers of the master armorer hammer away at new and strange
+designs. Different styles of metal work hang about the
+walls. Type {blist{x to see what is for sale.
+~
+0 0 0
+D0
+You see Eib road.
+~
+~
+0 -1 1922
+S
+#1967
+{YSharp As A Razor Weapon Shop{x~
+You are standing inside a rather odd weapons shop. There
+are various practice dummys lining the walls with stab
+and slash wounds covering them. The owner is here cheering
+on some young fellow as they hack apart a dummy. Type
+{blist{x to see what is for sale.
+~
+0 0 0
+D1
+You see Eib road.
+~
+~
+0 -1 1913
+S
+#1968
+{YThe Fountain Of Life{x~
+You are in a quiet and peaceful white chamber. A large
+sign bearing the Healers guild insignia is on the back
+wall. Beds and comfy chairs are all around. The aroma of
+strange herbs and medicines fill the air.
+~
+0 0 0
+D2
+You see Jail ave.
+~
+~
+0 -1 1938
+S
+#1969
+{YG{rO{BO{RD{bW{yI{GL{gL{x~
+You are in the local goodwill. Here items can be purchased
+with the five finger discount thanx to local helpful souls.
+Please take what you want but do not be to greedy as others
+are in need as well.
+~
+0 0 0
+D2
+You see Eib road.
+~
+~
+0 -1 1916
+S
+#1970
+{YThe Incomplete Inn{x~
+You are standing on the construction site of a lavish inn.
+It isnt quite done yet, so you are not required to stay
+here.
+~
+0 0 0
+D3
+You see Wealthy ave.
+~
+~
+0 -1 1935
+S
+#1971
+{GThe Training Yard{x~
+You are in a large cleared area designed to help you train
+your skills. The various workout tools and practice dummys
+line the yard. Some tough trainers helpers will spar with
+you and a master trainer is here to teach you.
+Type {bhelp train{x to learn more.
+~
+0 0 1
+D3
+You see Eib road.
+~
+~
+0 -1 1928
+S
+#1972
+{GThe GuildHouse{x~
+This is one of the few guildhouses in all of Rylelia that
+trains the skills of all the guilds. The setting is quaint
+and humble as they try and keep it quiet as not to upset
+the real guildhouses by showing wealth. You can practice
+your skills here if you wish. Type {bhelp practice{x to
+learn more.
+~
+0 0 0
+D2
+You see Wen road.
+~
+~
+0 -1 1943
+S
+#1973
+{yThe Entrance To The Jail{x~
+You are standing in the entrance to the jail. Strangely
+enough their are no doors or bars covering the entrance.
+Their is a guard room to the north and the way out is
+to the west.
+~
+0 1036 0
+D0
+You see the guard room
+~
+~
+0 -1 1974
+D3
+You see Jail road.
+~
+~
+0 -1 1941
+S
+#1974
+{yGuard Room To The Jail{x~
+You are in the guard room of the new section minimum
+security jailhouse. Their are no bars or doors to this
+jail but the prisoners would have to get through this
+guard room to get out. Most dont ever try.
+To the north lies the beginning of the jail yard.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1975
+D2
+You see the Entrance hall.
+~
+~
+0 -1 1973
+S
+#1975
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1976
+D2
+You see the guard room.
+~
+~
+0 -1 1974
+S
+#1976
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D1
+You see an open jail yard.
+~
+~
+0 -1 1977
+D2
+You see the jail yard.
+~
+~
+0 -1 1975
+S
+#1977
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1987
+D1
+You see an open jail yard.
+~
+~
+0 -1 1978
+D2
+You see the jail yard.
+~
+~
+0 -1 1986
+D3
+You see the jail yard.
+~
+~
+0 -1 1976
+S
+#1978
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1988
+D2
+You see an open jail yard.
+~
+~
+0 -1 1979
+D3
+You see the jail yard.
+~
+~
+0 -1 1977
+S
+#1979
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1978
+D2
+You see an open jail yard.
+~
+~
+0 -1 1980
+D3
+You see the jail yard.
+~
+~
+0 -1 1986
+S
+#1980
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1979
+D2
+You see an open jail yard.
+~
+~
+0 -1 1981
+D3
+You see the jail yard.
+~
+~
+0 -1 1985
+S
+#1981
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1980
+D2
+You see an open jail yard.
+~
+~
+0 -1 1982
+D3
+You see the jail yard.
+~
+~
+0 -1 1984
+S
+#1982
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1981
+D3
+You see the jail yard.
+~
+~
+0 -1 1983
+S
+#1983
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1984
+D1
+You see an open jail yard.
+~
+~
+0 -1 1982
+S
+#1984
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1985
+D1
+You see an open jail yard.
+~
+~
+0 -1 1981
+S
+#1985
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1986
+D1
+You see an open jail yard.
+~
+~
+0 -1 1980
+S
+#1986
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D0
+You see an open jail yard.
+~
+~
+0 -1 1977
+D1
+You see an open jail yard.
+~
+~
+0 -1 1979
+S
+#1987
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D2
+You see an open jail yard.
+~
+~
+0 -1 1977
+S
+#1988
+{yOpen Jail Yard{x~
+You are in an open jail yard. Cots and piles of straw are
+on the ground, there is a shithole in the corner and a few
+small fires keep the prisoners somewhat warm.
+~
+0 0 0
+D2
+You see an open jail yard.
+~
+~
+0 -1 1978
+S
+#1989
+{BEntrance To The Strange Collection{x~
+You are standing in the entrance hall the the wealthy mans
+strange collection of creatures. A pungent smell of dirt
+and filth fill this room. A sign says, be careful of using
+anti-magics as the creatures are held in place using some
+sort of spell. To the north is the start of the exhibits.
+To the west lies Wealthy ave.
+~
+0 1036 0
+D0
+You see an exhibit.
+~
+~
+0 -1 1990
+D3
+You see Wealthy ave.
+~
+~
+0 -1 1933
+S
+#1990
+{BCreature Exhibit{x~
+This is the exhibit room of some wierd creature. It looks
+as though it hasnt been cleaned in a while. Different
+types of bedding lie strewn about as well as rotting pieces
+of food. You think the creatures must be changed around
+quite a bit.
+~
+0 0 0
+D0
+You see an exhibit.
+~
+~
+0 -1 1991
+D2
+You see the entrance hall.
+~
+~
+0 -1 1989
+S
+#1991
+{BCreature Exhibit{x~
+This is the exhibit room of some wierd creature. It looks
+as though it hasnt been cleaned in a while. Different
+types of bedding lie strewn about as well as rotting pieces
+of food. You think the creatures must be changed around
+quite a bit.
+~
+0 0 0
+D0
+You see an exhibit.
+~
+~
+0 -1 1992
+D2
+You see an exhibit.
+~
+~
+0 -1 1990
+S
+#1992
+{BCreature Exhibit{x~
+This is the exhibit room of some wierd creature. It looks
+as though it hasnt been cleaned in a while. Different
+types of bedding lie strewn about as well as rotting pieces
+of food. You think the creatures must be changed around
+quite a bit.
+~
+0 0 0
+D0
+You see an exhibit.
+~
+~
+0 -1 1993
+D2
+You see an exhibit.
+~
+~
+0 -1 1991
+S
+#1993
+{BCreature Exhibit{x~
+This is the exhibit room of some wierd creature. It looks
+as though it hasnt been cleaned in a while. Different
+types of bedding lie strewn about as well as rotting pieces
+of food. You think the creatures must be changed around
+quite a bit.
+~
+0 0 0
+D1
+You see an exhibit.
+~
+~
+0 -1 1994
+D2
+You see an exhibit.
+~
+~
+0 -1 1992
+S
+#1994
+{BCreature Exhibit{x~
+This is the exhibit room of some wierd creature. It looks
+as though it hasnt been cleaned in a while. Different
+types of bedding lie strewn about as well as rotting pieces
+of food. You think the creatures must be changed around
+quite a bit.
+~
+0 0 0
+D2
+You see an exhibit.
+~
+~
+0 -1 1995
+D3
+You see an exhibit.
+~
+~
+0 -1 1993
+S
+#1995
+{BCreature Exhibit{x~
+This is the exhibit room of some wierd creature. It looks
+as though it hasnt been cleaned in a while. Different
+types of bedding lie strewn about as well as rotting pieces
+of food. You think the creatures must be changed around
+quite a bit.
+~
+0 0 0
+D0
+You see an exhibit.
+~
+~
+0 -1 1994
+D2
+You see an exhibit.
+~
+~
+0 -1 1996
+S
+#1996
+{BCreature Exhibit{x~
+This is the exhibit room of some wierd creature. It looks
+as though it hasnt been cleaned in a while. Different
+types of bedding lie strewn about as well as rotting pieces
+of food. You think the creatures must be changed around
+quite a bit.
+~
+0 0 0
+D0
+You see an exhibit.
+~
+~
+0 -1 1995
+D2
+You see an exhibit.
+~
+~
+0 -1 1997
+S
+#1997
+{BCreature Exhibit{x~
+This is the exhibit room of some wierd creature. It looks
+as though it hasnt been cleaned in a while. Different
+types of bedding lie strewn about as well as rotting pieces
+of food. You think the creatures must be changed around
+quite a bit.
+~
+0 0 0
+D0
+You see an exhibit.
+~
+~
+0 -1 1996
+D2
+You see an exhibit.
+~
+~
+0 -1 1998
+S
+#1998
+{BCreature Exhibit{x~
+This is the exhibit room of some wierd creature. It looks
+as though it hasnt been cleaned in a while. Different
+types of bedding lie strewn about as well as rotting pieces
+of food. You think the creatures must be changed around
+quite a bit.
+~
+0 0 0
+D0
+You see an exhibit.
+~
+~
+0 -1 1997
+D3
+You see the entrance hall.
+~
+~
+0 -1 1989
+S
+#1999
+{YThe General Store{x~
+Welcome to the general store. Here you can buy various
+utilitarian items you might need along your trips and
+adventures. The shelves are lined with things so to
+take a look around just type {blist{x.
+~
+0 0 0
+D1
+You see Eib road.
+~
+~
+0 -1 1925
+S
+#0
+
+
+
+#SPECIALS
+M 1906 spec_cast_adept Load to: thar the healer
+S
+
+
+
+#RESETS
+D 0 1919 1 1
+O 0 1933 100 1900
+M 0 1914 5 1900 5
+M 0 1908 3 1901 3
+E 0 1909 100 5
+E 0 1936 100 7
+E 0 1908 100 8
+O 0 1934 100 1902
+M 0 1913 1 1903 1
+E 0 1938 100 16
+E 0 1937 100 17
+M 0 1912 3 1904 3
+M 0 1909 6 1905 6
+E 0 1909 100 5
+E 0 1907 100 7
+O 0 1934 100 1906
+M 0 1914 5 1908 1
+M 0 1909 1 1909 1
+M 0 1911 3 1910 3
+O 0 1934 100 1912
+O 0 1934 100 1916
+M 0 1910 5 1917 5
+E 0 1909 100 5
+E 0 1907 100 7
+E 0 1913 100 8
+M 0 1914 5 1918 1
+M 0 1913 1 1922 1
+E 0 1909 100 5
+E 0 1907 100 7
+E 0 1938 100 16
+E 0 1937 100 17
+O 0 1934 100 1923
+M 0 1908 1 1926 1
+O 0 1934 100 1932
+M 0 1914 5 1932 1
+O 0 1934 100 1937
+M 0 1910 1 1938 1
+M 0 1931 1 1942 1
+G 0 1946 100
+M 0 1919 1 1948 1
+E 0 1911 100 7
+E 0 1912 100 8
+M 0 1920 1 1950 1
+E 0 1909 100 5
+E 0 1936 100 7
+G 0 1939 100
+M 0 1921 1 1951 1
+G 0 1940 100
+G 0 1941 100
+M 0 1915 4 1952 1
+E 0 1919 100 13
+M 0 1915 4 1953 1
+E 0 1919 100 13
+M 0 1916 4 1954 1
+E 0 1919 100 13
+M 0 1917 4 1954 1
+E 0 1919 100 13
+M 0 1917 4 1956 1
+E 0 1919 100 13
+M 0 1916 4 1957 1
+M 0 1915 4 1958 1
+E 0 1919 100 13
+M 0 1916 4 1958 1
+M 0 1917 4 1958 1
+M 0 1915 4 1961 1
+E 0 1919 100 13
+M 0 1917 4 1961 1
+M 0 1918 5 1962 5
+E 0 1908 100 8
+E 0 1919 100 13
+M 0 1916 4 1963 1
+E 0 1919 100 13
+M 0 1907 1 1964 1
+E 0 1909 100 5
+E 0 1907 100 7
+E 0 1908 100 8
+E 0 1910 100 13
+G 0 1928 100
+G 0 1929 100
+G 0 1930 100
+G 0 1931 100
+G 0 1932 100
+M 0 1904 1 1965 1
+E 0 1909 100 5
+E 0 1907 100 7
+E 0 1908 100 8
+G 0 1925 100
+G 0 1926 100
+G 0 1927 100
+M 0 1902 1 1966 1
+E 0 1914 100 1
+E 0 1914 100 2
+E 0 1919 100 13
+G 0 1913 100
+G 0 1914 100
+G 0 1915 100
+G 0 1916 100
+G 0 1917 100
+G 0 1918 100
+M 0 1903 1 1967 1
+E 0 1909 100 5
+E 0 1911 100 7
+E 0 1913 100 8
+G 0 1920 100
+G 0 1921 100
+G 0 1922 100
+G 0 1923 100
+G 0 1924 100
+M 0 1906 1 1968 1
+O 0 1935 100 1968
+O 0 1935 100 1968
+O 0 1935 100 1968
+M 0 1930 1 1970 1
+E 0 1944 100 8
+E 0 1945 100 16
+G 0 1943 100
+M 0 1901 1 1971 1
+E 0 1911 100 7
+E 0 1912 100 8
+M 0 1905 1 1972 1
+E 0 1914 100 1
+E 0 1915 100 3
+E 0 1916 100 5
+E 0 1907 100 7
+E 0 1912 100 8
+M 0 1922 9 1974 9
+E 0 1942 100 5
+M 0 1922 9 1974 9
+M 0 1922 9 1974 9
+M 0 1923 5 1976 5
+M 0 1929 9 1979 9
+M 0 1924 9 1980 9
+M 0 1925 9 1983 9
+M 0 1926 9 1986 9
+M 0 1927 1 1987 1
+M 0 1928 1 1988 1
+E 0 1936 100 7
+E 0 1949 100 3
+E 0 1947 100 8
+E 0 1948 100 15
+M 0 1932 1 1990 1
+M 0 1933 1 1991 1
+M 0 1934 1 1992 1
+M 0 1935 1 1993 1
+M 0 1936 1 1994 1
+M 0 1937 1 1995 1
+M 0 1938 1 1996 1
+M 0 1939 1 1997 1
+M 0 1940 3 1998 3
+M 0 1900 1 1999 1
+E 0 1909 100 5
+E 0 1907 100 7
+E 0 1908 100 8
+E 0 1910 100 13
+G 0 1900 100
+G 0 1901 100
+G 0 1902 100
+G 0 1903 100
+G 0 1904 100
+G 0 1905 100
+G 0 1906 100
+S
+
+
+
+#SHOPS
+1900 15 0 0 0 0 100 100 0 23
+1902 9 0 0 0 0 100 100 0 23
+1903 5 0 0 0 0 100 100 0 23
+1904 17 0 0 0 0 100 100 0 23
+1907 19 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

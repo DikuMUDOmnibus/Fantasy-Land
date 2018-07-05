@@ -1,0 +1,2517 @@
+#AOD_AREA
+Plutonian~
+14600 14699 C 4
+Levl 5 35
+Bldr Dariuas~
+End
+
+#MOBILES
+#14600
+~
+~
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+1 0 0 2 2 2 2 1 20 1 none
+100 100 100 100
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#14601
+guardian undead protector skeleton~
+a skeleton~
+A large skeleton stands here protecting the depths of Plutonian.
+~
+~
+human~
+100 50 0 100 100 100 0 100 100 100 100 100 50 150 100 100 100 50 100 100 50 100 150 100 100 100 
+ABCFORT DEFGNVZ BCDEHIPQRS -500 0
+140 500 -60 15001 15001 18001 18001 70 140 600 crush
+450 500 550 430
+STANDING STANDING male 0
+0 mage large ABCDEFGHIJK
+W 3
+
+#14602
+merchant elf elven~
+the Elven Merchant~
+An Elven merchant checks his wares.
+~
+This Elf does not appear to be very prosperous. His violet eyes look you
+over as he tries to decide if you are a client or a salesman.
+~
+human~
+100 0 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 150 100 
+ABG J 0 -1 0
+12 0 0 152 170 120 120 1 20 3 pound
+0 0 0 80
+STANDING STANDING male 300000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#14603
+merchant dwarven~
+the Dwarven Merchant~
+The Dwarven Merchant greets you, "Welcome!"
+~
+This merchant has the Eye of the Tiger. "Welcome my friend," he says.
+~
+human~
+100 0 0 100 50 100 100 100 100 100 100 100 0 50 100 100 100 0 50 100 0 100 150 100 100 100 
+ABG J I -1 0
+12 0 0 152 168 120 120 1 20 3 pound
+0 0 0 80
+STANDING STANDING male 300000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#14604
+merchant halfdwarf~
+the Halfdwarf Merchant~
+The Halfdwarf Merchant looks at you.
+~
+This man is only four feet tall but has a powerful body.  His arms reach
+almost to his calves.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 150 100 100 100 100 0 100 100 0 100 100 100 100 100 
+AGH 0 0 90 0
+12 0 0 153 168 120 120 1 20 3 pound
+0 0 0 80
+STANDING STANDING random 300000
+0 mage small ABCDEFGHIJK
+W 1
+
+#14605
+merchant human~
+the Human Merchant~
+A large Human Merchant stands ready to sell you.
+~
+Many of the merchants you have seen throughout your life resemble this man.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 150 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ACS 0 0 -200 0
+5 1 0 63 71 100 100 1 20 1 punch
+70 50 50 100
+STANDING STANDING male 300000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#14606
+adventurer madboy~
+Madboy the Adventurer~
+Madboy the Adventurer sneers at you.
+~
+This adventurer is a largish, oafish, boy with the largest ego you've ever
+seen.  His ego is writing checks his character will never be able to cash.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACHS 0 0 -200 0
+7 0 0 88 97 70 70 1 20 1 punch
+40 40 40 90
+STANDING STANDING male 140
+0 mage medium ABCDEFGHIJK
+W 1
+
+#14607
+soldier bearded~
+the Bearded Soldier~
+The Bearded Soldier stand alert.
+~
+This soldier has an alert look about him.  With his pointed beard and
+sharp sword the security he provides comes mostly from his presence.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT 0 0 1000 3000
+15 3 0 247 308 150 150 1 20 4 stab
+0 0 0 80
+STANDING STANDING male 2200
+0 mage medium ABCDEFGHIJK
+W 3
+
+#14608
+spirit zalrak ghost body~
+Zalrak ~
+The body of Zalrak rots here.
+~
+This soldier greets you with a bared blade. I don't think you'll be
+sneaking up on him.
+~
+human~
+150 0 0 50 0 100 150 100 150 100 0 100 50 0 50 150 100 100 100 100 100 150 100 0 0 100 
+ACFOPQRS DEFJZac DEGHIJKLS 1000 3000
+100 3 -90 5128 24711 1089 10943 50 100 100 none
+-700 -750 -700 -700
+STANDING STANDING male 1530
+0 mage medium ABCDEFGHIJK
+W 4
+
+#14609
+soldier skeleton undead spirit~
+a skeleton spirit~
+The spirit of a fallen soldier roams around looking for combat.
+~
+Without looking in his eye you have no idea how tough he would be.
+~
+human~
+100 100 0 0 100 100 150 100 100 100 100 100 100 100 50 150 100 100 100 100 100 100 0 100 100 100 
+ABFT DUZ H 1000 3000
+100 400 -30 472 10288 1094 4969 50 100 4 crush
+-400 -500 -700 -400
+STANDING STANDING male 1200
+0 mage large ABCDEFGHIJK
+W 2
+
+#14610
+Watcher~
+the Watcher~
+The Watcher is looking for evil.
+~
+This female Watcher is one of those cultist who protect the rest of the
+world from those they determine are evil.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT J N 1000 3000
+20 4 0 331 473 200 200 10 20 7 punch
+-40 -60 -60 0
+STANDING STANDING female 3200
+0 mage medium ABCDEFGHIJK
+W 1
+
+#14611
+pig fat~
+the fat pig~
+A fat pig is rooting around for food.
+~
+This fat pig is very hungry. He eats just about ANYTHING.
+~
+pig~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACGH Gb 0 500 0
+5 0 0 62 72 50 50 1 20 1 bite
+50 50 50 90
+STANDING STANDING random 35
+0 mage medium ACDEFHJK
+W 3
+
+#14612
+dog~
+the dog~
+A dog sits here wagging it's tail.
+~
+The dog looks back at you.  After a few moments it sits up..
+puts a cigar in it's mouth, lights it, and asks, "So..what's up bub?"
+~
+dog~
+100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABU F 0 400 0
+7 3 0 77 112 150 150 1 20 1 bite
+40 40 40 80
+STANDING STANDING random 0
+0 mage medium ACDEFHJKUV
+W 2
+
+#14613
+chicken~
+the chicken~
+A scrawny chicken is scratching for something.
+~
+This chicken is so skinny it WOULDN'T provide enough meat for a soup.
+        ************ IT ESCAPE FROM KFC BAR !!! *************
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 150 100 150 100 100 100 100 100 
+ACGKQRTbc T NO 0 0
+35 0 0 1335 1371 350 350 17 35 11 peck
+-110 -110 -110 50
+STANDING STANDING female 5000
+0 mage small ACDEFHKP
+W 6
+
+#14614
+human man~
+the Human Man~
+A Human Man goes about his business.
+~
+This guy looks like an advertisement for a wilderness clothing company.
+>From his buckskins to his fur cap he fits the part.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACS 0 0 -200 0
+5 1 0 62 72 100 100 1 20 1 none
+70 50 50 100
+STANDING STANDING male 181
+0 mage medium ABCDEFGHIJK
+W 4
+
+#14615
+woman human~
+the Human Woman~
+A Human Woman walks by.
+~
+She appears to be distracted by some inner thought. Although she seems
+to be in good health, her eyes are puffy and red.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACS 0 0 -200 0
+8 0 0 98 110 80 80 1 20 2 none
+30 30 30 90
+STANDING STANDING female 223
+0 mage medium ABCDEFGHIJK
+W 5
+
+#14616
+man elven~
+the Elven Man~
+An Elven Man is here, looking for something.
+~
+The Elven Man looks at you intently before continuing on his way.
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABKR DEFZ 0 500 0
+13 0 0 172 189 130 130 1 20 3 magic
+-10 -10 -10 80
+STANDING STANDING male 513
+0 mage medium ABCDEFGHIJK
+W 4
+
+#14617
+woman elven~
+the Elven Woman~
+A beautiful Elven Woman paces back and forth before you.
+~
+Looking into her eyes causes you great fear.
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABKR DEFZ 0 500 0
+16 0 0 240 257 160 160 1 20 4 magic
+-20 -20 -20 70
+STANDING STANDING female 300
+0 mage medium ABCDEFGHIJK
+W 4
+
+#14618
+woman dwarven~
+the Dwarven Woman~
+The Dwarven Woman is smacking her fist in her hand.
+~
+Stand back!  She's about to blow!!!
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 150 100 100 100 
+ABT DF 0 900 0
+16 0 0 236 259 160 160 1 20 4 beating
+-20 -20 -20 70
+STANDING STANDING female 122
+0 mage medium ABCDEFGHIJK
+W 5
+
+#14619
+man dwarven~
+the Dwarven Man~
+A large Dwarven Man walks by you.
+~
+He looks back at you, then dismisses you as unimportant.
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 150 100 100 100 
+ABT DF 0 900 0
+19 0 0 312 331 190 190 1 20 5 punch
+-40 -40 -40 70
+STANDING STANDING male 444
+0 mage medium ABCDEFGHIJK
+W 4
+
+#14620
+warrior goblin~
+the Goblin Warrior~
+The Goblin Warrior raises his hand to strike you.
+~
+This goblin must be a shock troop.  He is HUGE. Standing 6' tall and weighing
+about 250 pounds his bite will be worse than you would think. He is lightly
+armed and armored, doesn't wear boots, and has claws and talons with which
+to fight.
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100 
+AFG J 0 -300 0
+12 0 0 152 170 120 120 1 20 3 slash
+0 0 0 80
+STANDING STANDING male 123
+0 mage huge ABCDEFGHIJK
+W 10
+
+#14624
+spirit ghost raltrin~
+Raltrin~
+The body of Raltrin rots here.
+~
+The once powerfull mage now roams the earth searching for a cause.
+~
+human~
+150 0 0 50 0 100 150 100 150 100 0 100 50 0 50 150 100 100 100 100 100 150 100 0 0 100 
+ACFOPQRS DEFJZac DEHI 0 3000
+160 250 0 1056 15906 1305 10950 80 160 100 divine
+-700 -750 -700 -700
+STANDING STANDING male 1530
+0 mage medium ABCDEFGHIJK
+
+#14628
+portal guardian demon~
+a demon~
+A guardian demon flies here stoping any from entering the portal.
+~
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 50 150 100 100 100 50 100 100 50 100 150 100 100 100 
+ABCFORT DEFGNVZ BCDEHIPQRS -1000 0
+140 500 -50 24001 24001 18001 18001 70 140 600 crush
+450 500 550 430
+STANDING STANDING male 0
+0 mage large ABCDEFGHIJK
+
+#14632
+spirit ghost traklan~
+Traklan~
+The long lost warrior Traklan's corpse rots here.
+~
+~
+human~
+150 0 0 50 0 100 100 100 150 100 0 100 50 0 50 150 100 100 100 100 100 150 100 0 0 100 
+ACFOPQRS DEFJZac DEHI 0 3000
+150 400 0 355 19976 1108 10573 75 150 50 pound
+-700 -750 -700 -700
+STANDING STANDING male 1530
+0 mage medium ABCDEFGHIJK
+
+#14634
+King Praoak~
+King Praoak~
+A mummifed King Praoak dives towards you.
+~
+~
+human~
+100 100 100 0 100 100 150 100 100 100 100 100 50 0 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 H -1000 0
+150 0 0 1067 10691 1020 1980 75 150 100 wrath
+-400 -500 -600 -400
+STANDING STANDING male 0
+0 mage large ABCDEFGHIJK
+
+#14642
+Gwantin gravedigger protector wanderer~
+Gwantin~
+Gwantin, the graveyard keeper roams the graveyard hoping to find something to do.
+~
+~
+human~
+100 0 100 50 100 100 150 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 50 100 100 100 
+AB V HP 400 3000
+110 400 -100 1086 11982 2 2 55 110 100 punch
+-600 -550 -550 -400
+STANDING STANDING male 0
+0 mage small ABCDEFGHIJK
+W 1
+
+#14652
+corpse rotting~
+rotting corpse~
+A rotting corpse lies here decaying.
+~
+~
+human~
+150 100 0 0 100 0 150 100 150 100 100 100 50 0 100 150 100 0 100 100 50 150 0 150 100 100 
+ABFO DFJKXZa H -1000 3000
+130 400 -40 402 12772 1091 10949 65 130 10 smash
+-600 -600 -500 -400
+STANDING STANDING neutral 1000
+0 mage large ABCDEFGHIJK
+W 40
+
+#14660
+mist evil~
+an evil mist~
+An evil mist floats here.
+~
+~
+human~
+100 0 0 0 100 100 150 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+A DT CH -500 0
+102 200 -40 160 8986 0 0 51 102 100 drowning
+-400 -800 -600 -500
+STANDING STANDING male 0
+0 mage small ABCDEFGHIJK
+W 30
+
+#14668
+Pluto~
+{8P{7luto {8t{7he {8G{7od {8o{7f {8D{7eath.~
+{8P{7luto {8t{7he {8G{7od {8o{7f {8D{7eath{0 stands here.
+~
+~
+human~
+100 0 0 100 0 100 0 100 0 100 100 0 100 100 50 100 100 100 100 100 100 100 100 150 100 100 
+A BCDEFLNUVZac CDHIST 1000 0
+150 600 -60 102 29984 2 2 75 150 100 wrath
+-600 -600 -600 -600
+STANDING STANDING male 0
+0 mage large ABCDEFGHIJK
+
+#14694
+Ritchandra the cultist master sacrifice~
+Ritchandra the cultist master~
+Ritchandra the cultist master, prepares herbs for a sacrifice.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFGORSYc 0 HS -1000 0
+150 400 -90 4159 23632 1357 10938 75 150 100 none
+-500 -600 -500 -700
+STANDING STANDING female 0
+0 mage small ABCDEFGHIJK
+#0
+
+#OBJECTS
+#14600
+(No Name)~
+(No Short Description~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0
+
+#14601
+key skeleton~
+a skeleton key.~
+A skeleton key lies here, glowing with the curse of the undead.~
+key CEGPTY A
+0 0 0 0 0
+0 100 400
+
+#14602
+Wooden Bow~
+a strange wooden bow~
+A strange bow lies here.~
+weapon 0 AC
+exotic 8 7 stab DF
+25 10 4700
+A 17 -6
+
+#14603
+stone teleport~
+a strange glowing stone~
+A strage glowing stone rests displaced here.~
+warp_stone G AO
+0 0 0 0 0
+40 300 2000
+
+#14604
+rune bench wooden~
+a wooden bench~
+A short wooden bench , rests (COMMA?) in the corner of the path waiting to be ocupied (OCCUPIED!!!)~
+furniture A 0
+2 1000 EHIKL 30 30
+20 150 2000
+E
+rune~
+A strange {Ggreen{0 glowing rune on the sides of the bench, seems to be a circle with an arrow going though the left side.
+~
+
+#14605
+torch blue flame~
+a blue flamed torch~
+A torch burning a {bblue{0 flame rests upon a tree here.~
+light AGP A
+0 0 999 0 0
+40 30 90
+E
+blue~
+You gaze at a dancing blue flame atop the wooden torch, you notice also
+the torch is engraved with a small rune.  The flame of the torch seems to
+burn forever.  
+~
+
+#14606
+money~
+a pile of money~
+A pile of money~
+money 0 A
+10 1000000 0 0 0
+1 50 150
+
+#14607
+dwarven adventurer bread~
+Dwarven Adventurer Bread~
+A fine example of Dwarven Adventurer Bread lies here.~
+food 0 A
+48 20 0 0 0
+1 1 50
+
+#14608
+bonemace bone mace~
+bonemace~
+A large bone mace rests upon the ground before you.~
+weapon GH AN
+mace 13 13 crush DGH
+101 4 1200
+F A 0 0 V
+A 19 30
+A 1 2
+A 2 -2
+A 20 -2
+A 12 150
+A 13 100
+A 18 30
+
+#14609
+magical emergency wafer~
+a magical emergency wafer~
+A magical emergency wafer lies here.~
+potion G AO
+15 '' '' '' ''
+30 1 1000
+
+#14610
+map treasure~
+a Treasure Map~
+A Treasure Map has been dropped here.~
+map 0 A
+A 0 0 0 0
+1 10 500
+E
+map~
+The golden talent a large is at tree step then twenty plus twenty step south.
+~
+
+#14611
+Stonebench~
+a stone-bench~
+A stone-bench lies here, looking quite comfortable.~
+furniture BG 0
+2 1000 DEHIL 53 53
+1 10 1000
+
+#14612
+quest note ~
+a Quest Note ~
+A Quest Note lies here.~
+trash a A
+0 0 0 0 0
+0 1 0
+E
+note quest~
+Find what is missing and tell someone on the wizlist what is missing and who
+has it.  DO NOT TELL ANYONE ELSE!!
+~
+
+#14613
+water urn~
+a Water Urn~
+A Water Urn lies here.~
+drinkcontainer 0 A
+15 15 'water' 0 0
+1 1 30
+
+#14614
+head madboy~
+madboy's Head~
+Madboy's head is lying here.~
+light 0 AO
+0 0 999 0 0
+7 10 200
+
+#14615
+sword madboy~
+madboy's sword~
+Madboy's sword has been dropped here.~
+weapon BGI AN
+sword 5 5 slash 0
+7 50 500
+A 3 -2
+A 4 -8
+
+#14616
+island sword~
+an Island Sword~
+An Island Sword has been dropped here.~
+weapon BI AN
+sword 6 6 slash 0
+15 150 1500
+
+#14617
+island helmet~
+an Island Helmet~
+An Island Helmet is lying here.~
+armor AG AE
+7 5 6 1 4
+15 5 1500
+A 3 2
+A 4 1
+E
+helmet~
+You see an Island Helmet.  Imprinted on the side is: Gapcio Industries
+~
+
+#14618
+shield island~
+an Island Shield~
+An Island Shield has been dropped here.~
+armor G AJ
+6 6 6 2 5
+15 100 2000
+E
+shield island~
+You see an Island Shield.  Imprinted on the side is: Gapcio Industries
+~
+
+#14619
+island mace~
+an Island Mace~
+An Island Mace is lying here.~
+weapon G AN
+mace 7 6 pound 0
+17 30 2620
+A 19 5
+A 18 5
+E
+island mace~
+You see a island mace.  Imprinted on the side is: Gapcio Industries
+~
+
+#14620
+scroll glowing~
+a Glowing Scroll~
+A Glowing Scroll is lying here.~
+scroll G AO
+20 'earthquake' '' '' 'earthquake'
+17 300 5313
+
+#14621
+watcher cape black~
+a Watcher's Black Cape~
+A Watcher's Black Cape has been dropped onto the floor.~
+armor GK AK
+5 10 5 1 3
+20 200 4600
+A 17 -5
+
+#14622
+watcher thrusting dagger~
+a Watcher's Thrusting Dagger~
+A Watcher's Thrusting Dagger is sticking in the floor.~
+weapon G AN
+dagger 7 7 thrust 0
+19 50 3100
+A 18 3
+A 12 15
+
+#14623
+watcher ring~
+a Watcher Signet Ring~
+A Watcher Signet Ring lies here discarded.~
+treasure GK AB
+AC AC BC A 0
+18 1 4567
+A 2 3
+
+#14624
+ancient ankh~
+an ancient {3Ankh{0~
+An ancient {3Ankh{0 floats above the ground.~
+armor ABGITUY AOQ
+45 50 39 40 0
+101 1 40
+F S 0 0 I
+A 20 -4
+A 13 250
+A 18 20
+A 19 20
+A 5 2
+
+#14625
+chair woven~
+a woven chair~
+A woven chair sits here.~
+furniture 0 0
+1 40 BEHKN 50 50
+0 0 0
+
+#14626
+basket fruit~
+a basket of fruit~
+A basket full of fruit lies here.~
+food 0 A
+24 12 0 0 0
+15 50 200
+
+#14627
+key portal~
+a key~
+{*A {*Portal {*Key{0 lies here.~
+key 0 AO
+0 0 0 0 0
+101 10 700
+
+#14628
+door portal~
+a door~
+A strange door leading.... somewhere.~
+portal T 0
+999 K A 14503 0
+-1 0 -100
+
+#14629
+featherbed~
+a featherbed~
+A featherbed sits here.~
+furniture 0 0
+2 40 CFILO 50 50
+0 500 0
+
+#14630
+wooden table~
+a wooden table~
+A wooden table sits here.~
+furniture 0 0
+2 40 BEHN 50 50
+0 500 0
+
+#14631
+portrait~
+a portrait~
+A portrait of a beautiful woman lies here.~
+furniture 0 0
+0 0 0 0 0
+0 0 0
+E
+portrait~
+This portrait is of a sandy haired woman with penetrating wise eyes.
+The upturned lips signifies the possession of secret knowledge.
+~
+E
+secret knowledge~
+This portrait is of Siren, the Goddess of the Mist.
+~
+
+#14632
+warriors sword~
+a warriors sword.~
+A sword wielded by only the strongest of warriors has been left here.~
+weapon 0 AN
+sword 13 14 slash DEG
+101 50 1000
+A 18 40
+A 19 40
+A 12 -1000
+A 13 303
+
+#14633
+wheelbarrow~
+a wheelbarrow~
+A wheelbarrow rests here.~
+container 0 AO
+1000 A 0 200 50
+35 50 4000
+
+#14634
+crown of bones~
+a crown of bone.~
+A crown created of {8bone {7lies here.~
+armor B AE
+33 1 45 1 0
+101 50 50
+F A 0 0 D
+A 20 -3
+A 13 100
+A 18 15
+A 19 15
+A 1 -1
+
+#14635
+spear goblin~
+a Goblin Spear~
+A Goblin Spear is lying on the floor.~
+weapon AG AN
+exotic 6 6 pierce D
+12 50 1700
+
+#14636
+goblin loincloth~
+a Goblin Loincloth~
+A Goblin Loincloth has been discarded here.~
+armor G AD
+3 6 2 0 2
+12 20 2456
+A 1 -1
+A 3 -1
+A 4 -1
+
+#14637
+dwarwen flail~
+a Dwarwen Flail~
+A Dwarwen Flail is lying on the floor.~
+weapon AG AN
+flail 6 6 pound D
+17 250 3400
+
+#14638
+dwarwen shield~
+an Dwarwen Shield~
+A Dwarwen Shield has been dropped here.~
+armor AG AJ
+4 4 5 0 5
+17 190 4500
+A 5 3
+
+#14642
+rotting shovel~
+a rotting shovel~
+A stange looking shovel rots here.~
+weapon A AN
+mace 13 13 pound F
+95 15 100
+A 19 20
+A 18 20
+A 13 200
+A 20 -1
+A 4 2
+
+#14668
+Staff of Pluto~
+the {8S{7taff of {8P{7luto{0~
+The {8S{7taff of {8P{7luto{0 has been left here.~
+armor AHIY AO
+20 20 20 20 0
+101 4 100000
+A 19 40
+A 18 40
+A 13 -400
+A 12 -500
+A 20 -2
+A 2 -4
+
+#14684
+alter key~
+a key to the alter.~
+A key to the alter lies here.~
+key 0 A
+0 0 0 0 0
+101 0 15815
+
+#14692
+draw boe alter~
+a bone draw.~
+A draw made from bones sits half open within the alter.~
+container 0 0
+0 0 0 0 0
+101 0 18520
+
+#14694
+stone key~
+a stone key.~
+A strange stone lies here, in the shape of a key.~
+key 0 A
+0 0 0 0 0
+101 0 12187
+
+#14695
+stone table~
+stone table~
+{0~
+portal 0 0
+999 0 0 14592 0
+101 0 10103
+
+#14696
+bag sacrificial powders~
+bag of sacraficial powders~
+A bag of sacraficial powders.~
+container HT AL
+5 AE 0 1000 40
+101 10 10000
+A 19 35
+A 18 35
+A 13 303
+A 12 -150
+A 20 -2
+A 4 1
+
+#14699
+Mortal Slayer~
+a sword~
+A powerfull sword Dont touch!~
+weapon ABGIS ANO
+exotic 14 14 slash H
+102 3 10000000
+A 13 306
+A 18 40
+A 19 40
+#0
+
+#ROOMS
+#14601
+Before a darkened gate.~
+Blackness fills the air, as a strange black gate appears.  The tips of
+the gate appear sharp and dangerous.  The sides of the gate are followed by
+a long split-bar fence, it to appears dangerously sharp.  Behind the gate
+lies Plutonian the most lethal graveyard the world has ever known.  Those
+that were buried here, were evil villains destroyed by great powers of the
+land.  Pluto, the god of death sought the fiends to be buried within a
+graveyard to the north, stories and rumors say of spirits of the fiends
+still roam the grounds....  
+~
+1 0
+D0
+A large gate protects the undead within the depths of Plutionian.  
+~
+Gate~
+0 14601 14602
+S
+
+#14602
+Within Plutonian.~
+Darkness fillies the air, and reveals Plutonian, the worlds most
+dangerous graveyard.  Stones of the vile fiends who have passed away, or
+been slain can be seen about the grounds.  A path leades north towards a
+large hill that can be seen in the distance.  Spirits who still roam within
+the graveyard, those who Pluto was unable to control.  Many have entered the
+depths of Plutonian.......  None have returned.  
+~
+1 10
+D0
+~
+~
+0 0 14603
+D1
+~
+~
+0 0 14643
+D2
+~
+gate~
+0 0 14601
+S
+
+#14603
+Within Plutonian.~
+A stench of death fills the air, as more gravestones become apparent. 
+The large hill in the distance becomes more and more visible, as it grows
+closer.  This path is covered with decaying bones, and corpses of those
+adventures who came to Plutonian, but did not leave.  A gravestone standing
+about 4 feet tall to the left side of the path, draws the attention of those
+who pass it..  
+~
+1 0
+D0
+~
+~
+0 0 14604
+D2
+~
+~
+0 0 14602
+E
+gravestone~
+{g                        Here lies Annaon.
+{g            Born: Month of the Gods, on the Day of the Bull
+{g            Was she who brought light unto my life.
+{g            Until that day, oh that vile day,
+{g            To which evil sought to overtake my poor Annaon
+~
+S
+
+#14604
+Within Plutonian.~
+Lightning flashes though the sky, as thunder clouds begin to roll in.  In
+the distance, the hill becomes more visible, atop a strange stone can be
+seen.  The path is covered with broken pieces of gravestones.  A large
+statue rests on the left side of the path, no inscription can be seen
+though.  
+~
+1 0
+D0
+~
+~
+0 0 14609
+D2
+~
+~
+0 0 14603
+D3
+~
+~
+0 0 14605
+S
+
+#14605
+Strange grounds within Plutonian.~
+Peering west, a strange stone appears, standing about ten feet high, off
+the ground on top of a small hill.  The stone is comprised of a strange
+marble.  Below the structure, a stoneslab lies.  Providing access to
+something....  
+~
+0 0
+D1
+~
+~
+0 0 14604
+D3
+~
+~
+0 0 14606
+S
+
+#14606
+Strange grounds within Plutonian.~
+The monolith that stands to the west can be seen much better now.  It is
+made up of mostly black marble, though the monolith itself is not fully
+intact as some parts have broken off and fallen to the ground.  A stoneslab
+provides entrance to something...  The path leading to the monolith is
+covered with bones, and pools of rotted blood.  
+~
+1 0
+D1
+~
+~
+0 0 14605
+D3
+~
+~
+0 0 14607
+S
+
+#14607
+Atop the burial grounds Zalrak~
+Cries from the beyond can be heard, as the stoneslab and monolith become
+fully visible.  The monolith itself describes an evil warrior, who plagued
+the lands for many years.  It tells the story of his demise, and how Pluto
+came to place him in Plutonian.  The stoneslab itself has a strange hole on
+the top of it looking, somewhat like a skeleton.  The monolith is bordered
+by a strange black fence, standing approximate ten foot tall, with pointed
+tips.  
+~
+1 0
+D1
+~
+~
+0 0 14606
+D5
+~
+stoneslab~
+0 14694 14608
+S
+
+#14608
+Monolith of Zalrak~
+A strange ladder leads down to a very large room, in the middle, a
+strange casket lies, with its lid misplaced.  Cackles and hisses can be
+heard from all thought out the room.  Echoing sqeals of rats, and other
+pests can also be heard.  The walls seem to bend down and out, into total
+darkness.  A pair of glowing red eyes begin to emerge from the shadows. 
+This is the burial of Zalrak, to whom has been disturbed.  His attempts to
+bring death to those who bother him, and one day to the entire world is
+becoming a reality.  
+~
+5 0
+D4
+~
+stoneslab~
+0 0 14607
+S
+
+#14609
+Deeper in Plutonian.~
+The stone becomes quite visible, a strange stone plate seems to rest just
+underneath it, but a closer examination would probably be best.  Upon the
+path lies a cross.  It probably comes from the corpse lying just to the left
+of it, on top of a gravesite.  The stone has a strange language inscribed
+upon it.  To the west, a strange path, yet another hill becomes visible.  
+~
+1 0
+D0
+~
+~
+0 0 14610
+D2
+~
+~
+0 0 14604
+D3
+~
+~
+0 0 14625
+S
+
+#14610
+Deeper in Plutonian.~
+Mist fills the room, from the west, blocking some of the visibility of
+the strange stone atop the hill to the north.  A strange gravestone lies in
+the middle of the path, seems the graveyard has become quite full, thus
+buried in the middle of the road.  The gravestone appears about four feet
+high, two foot wide.  A strange blackish red marble makes up the color of
+the stone.  
+~
+1 0
+D0
+~
+~
+0 0 14611
+D2
+~
+~
+0 0 14609
+D3
+~
+~
+0 0 14660
+S
+
+#14611
+Deeper in Plutonian.~
+Plutonnian, has become the grave of not only those vile criminals and
+villains, but those adventures who never returned.  To the east a large
+stone building can be seen, north, the strange stone appears quite larger
+then before.  Mist fills the room, coming from the west.  Not as much as
+would be expected in a graveyard, though ample amount so vision becomes a
+bit impaired.  
+~
+1 0
+D0
+~
+~
+0 0 14612
+D1
+~
+~
+0 0 14633
+D2
+~
+~
+0 0 14610
+D3
+~
+~
+0 0 14660
+S
+
+#14612
+Deeper in Plutonian.~
+Standing ten feet tall, carved in a blackish red marble, the monolith
+becomes fully apparent.  Parts of the monolith have broken off and decayed
+over the many years.  The monolith itself'rests atop a large hill, to
+which a stone slab underneath it provides entrance to the crypt below. 
+Around the monolith bones and dead wild-life can be seen.  
+~
+1 0
+D0
+~
+~
+0 0 14613
+D2
+~
+~
+0 0 14611
+D3
+~
+~
+0 0 14660
+S
+
+#14613
+Deeper in Plutonian.~
+The uphill venture has started, towards the monolith.  Growls and screams
+can be heard as the monolith draws closer.  The black fence behind the
+monolith becomes more apparent.  The stone slab under the monolith seems
+quite thick.  Pluto obviously doesnt want whatever.......  Or whoever
+maybe under it, out.  
+~
+1 0
+D0
+~
+~
+0 0 14622
+D1
+~
+~
+0 0 14639
+D2
+~
+~
+0 0 14612
+D3
+~
+~
+0 0 14660
+S
+
+#14622
+Nearing a monolith~
+Parts of the monolith obscure the path and movement becomes a bit impaired.
+An inscription on the monolith becomes semi visible, but still not readable
+from the distance.  Large bones also flood the path, to the east and west
+mist cycles in to the area, making visibility a bit difficult.  
+~
+1 0
+D0
+~
+~
+0 0 14623
+D2
+~
+~
+0 0 14613
+D3
+~
+~
+0 0 14660
+S
+
+#14623
+Atop the monolith of Raltrin~
+A large monolith with strange engraving dominates this hill.  Its
+marble texture glistens in the moonlight.  Pieces of the monolith lie broken
+on the ground.  A large stone slab provides entrance to the monolith.  Eerie
+yelps can be heard from below.  As the stoneslab is uncovered by a blowing
+wind, a strange hole in the shape of a skull appears.  Probably keeping what
+ever is below this slab, below this slab.  
+~
+1 0
+D2
+~
+~
+0 0 14622
+D5
+~
+stoneslab~
+0 0 14624
+S
+
+#14624
+Within the grave of Raltrin.~
+After the the drop the realization of the evil place to which you have
+just entered becomes apparent.  A large chamber, housing corpses of rats,
+and other pests who aid in the decay of the human........  Or inhuman
+corpses.  Light from the open stone slab above, shines directly on a casket
+to which the lid is no were to be seen.  A loud cackle echoes, then a form
+steps from the shadows.  Raltrin, the evil fiend whos'' infatuation with the
+earth drove him to his grave in Plutonian.  This has been his sanctuary for
+many decades, now he can feed on souls who enter his eternal sanctuary.  ; 
+~
+1 0
+D4
+~
+stoneslab~
+0 14694 14623
+S
+
+#14625
+A darkenend path within Plutonian.~
+Visibility is minimal, all that can be seen is a strange glowing light
+farther west.  The air smells of death, and cries from...  Some where echo. 
+~
+4 0
+D1
+~
+~
+0 0 14609
+D3
+~
+~
+0 0 14626
+S
+
+#14626
+A  darkened path within Plutonian~
+Visibility is minimal, all that can be seen is a strange glowing light
+farther west.  The air smells of death, and cries from...  Some where echo. 
+~
+0 0
+D1
+~
+~
+0 0 14625
+D3
+~
+~
+0 0 14627
+S
+
+#14627
+A  darkened path within Plutonian~
+Visibility is minimal, all that can be seen is a strange glowing light
+farther west.  The air smells of death, and cries from...  Some where echo. 
+~
+0 0
+D1
+~
+~
+0 0 14626
+D3
+~
+~
+0 0 14628
+S
+
+#14628
+A  darkened path within Plutonian~
+The light saw moments ago seems quite bright now just ahead to the north
+west.  Growls and hisses can be heard though out much of the graveyard.  A
+bit of the path can be seen, though littered with bones and pools of decayed
+blood, not many would like to see it.  
+~
+0 0
+D1
+~
+~
+0 0 14627
+D3
+~
+~
+0 0 14629
+S
+
+#14629
+A  darkened path within Plutonian~
+Now visible, another monolith, which gives off a strange green glow. 
+Letters on the monolith are visible, but not quite legible.  Before the
+monolith a stoneslab can be seen.  Providing access to yet another chamber
+of the undead.  
+~
+0 0
+D0
+~
+~
+0 0 14630
+D1
+~
+~
+0 0 14628
+S
+
+#14630
+Before a monolith.~
+Now fully visable, the words Traklan appear on the monolith..  Moans, and
+howls can be heard from just ahead.  The moon shines down upon the stone,
+and the light reflects off like a mirror.  This monolith has been left
+undamaged over the years..  Or maybe it was just placed....  
+~
+0 0
+D0
+~
+~
+0 0 14631
+D2
+~
+~
+0 0 14629
+S
+
+#14631
+Upon the Monolith of Traklan.~
+Standing on top of the stoneslab before the monolith you can tell it was
+newly placed.  The keyhole seen on others, does not seem to be present.  The
+monolith reads;Hear lies Traklan, the vile fiend killed relentlessly.  His
+soul shall forever roam Plutonian.  God Protect those who face him in a dark
+red text.  Howls and growls can be heard from beneath the protective
+stoneslab.  
+~
+1 0
+D2
+~
+~
+0 0 14630
+D5
+~
+stoneslab~
+0 0 14632
+S
+
+#14632
+Within the Monolith of Traklan.~
+Newly created, this sanctuary of the damned houses Traklan.  The vile
+fiend of the east, whos arrival brought many deaths  Those who oppose this
+great warrior, were nothing less then slain at his feet.  This room has no
+stench of rot or decay, only sweat of those who created this chamber, with
+haste.  The black ladder provides entrance and exit from this chamber.  
+~
+1 0
+D4
+~
+stoneslab~
+0 14694 14631
+S
+
+#14633
+Before a masoleum.~
+This large stone building, appears to be quite fortified.  Entrance to
+this moslem, is only though a large stone door.  The roof of this building,
+peeks up at an angle around twenty feet into the air.  No windows, no
+cracks, no holes any were in the building, Though it looks quite desolate
+and decayed.  The building itself is a gray stone, the door, marble.  Atop
+the door a strange crest, engraved into the building.  The letters Praoak
+can be made out.  
+~
+1 0
+D1
+~
+Door~
+0 0 14634
+D3
+~
+~
+0 0 14611
+S
+
+#14634
+A dismembered masoleum.~
+A strange stone throne lies along the southern most wall, sitting in it,
+a strange corpse wearing a crown made of bones.  His eyes open at the scent of
+mortals.  This is King Paroak, one of the most vile fiends to which Pluto as
+locked up.  The room itself, is bedded with bones, and small, strange
+colored gems.  A large staff sits next to the throne providing King Paroak
+life.  The staff seems embedded far into the ground.  Providing Paroak with
+eternal life.  
+~
+0 0
+D3
+~
+Door~
+0 0 14633
+S
+
+#14639
+Keepers Lane.~
+Far to the east, howls and growls can be heard, many say this is the
+trail of he who Pluto created to keep the fiends of Plutonian were they
+should be.  Though tales tell of spirits who have slain this poor soul, now
+wandering the graveyard hoping to find he who will return him to the land of
+the living.  
+~
+1 0
+D1
+~
+~
+0 0 14640
+D3
+~
+~
+0 0 14613
+S
+
+#14640
+Keepers Lane.~
+Far to the east, howls and growls can be heard, many say this is the
+trail of he who Pluto created to keep the fiends of Plutonian were they
+should be.  Though tales tell of spirits who have slain this poor soul, now
+wandering the graveyard hoping to find he who will return him to the land of
+the living.  
+~
+1 0
+D1
+~
+~
+0 0 14641
+D3
+~
+~
+0 0 14639
+S
+
+#14641
+Keepers Lane.~
+Far to the east, howls and growls can be heard, many say this is the
+trail of he who Pluto created to keep the fiends of Plutonian were they
+should be.  Though tales tell of spirits who have slain this poor soul, now
+wandering the graveyard hoping to find he who will return him to the land of
+the living.  
+~
+1 0
+D1
+~
+~
+0 0 14642
+D3
+~
+~
+0 0 14640
+S
+
+#14642
+A dead end.~
+Reaching the end of Keepers Lane, reveals he who Pluto chose to protect
+these grounds, though he was killed by fiends of the ground for doing as
+Pluto instructed.  He now walks in search of answers, as to why he was
+chosen to do this work, and to die for this, hopping one day to be reunited
+with life.  This section of the graveyard is quite clean, no out of place
+stones or rocks, this almost looks like another place, besides a graveyard. 
+~
+1 0
+D3
+~
+~
+0 0 14641
+S
+
+#14643
+Along the southern wall.~
+Black fencing leads a bit to the east, traveling it reveals many
+different sites, broken gravestones, solid gravestones, to blood pools and
+bones.  The path itself however is not cluttered with these items as much as
+the sides though.  Apparently the travelers of this road who died were moved
+off the side of the path by.........  Something.  
+~
+1 0
+D1
+~
+~
+0 0 14644
+D3
+~
+~
+0 0 14602
+S
+
+#14644
+Along the southern wall.~
+To the north yet another tall stone figure appears.  It can not be made
+out totally from this distance, but the path between it and the southern
+wall is quite packed down, strange skulls moving back and fourth, as well as
+pools of blood boiling and shooting up drops of blood into the air.  
+~
+1 0
+D0
+~
+~
+0 0 14669
+D3
+~
+~
+0 0 14643
+S
+
+#14645
+Along the southern wall.~
+~
+0 0
+D1
+~
+~
+0 0 14646
+S
+
+#14646
+Along the southern wall.~
+~
+0 0
+D1
+~
+~
+0 0 14647
+D3
+~
+~
+0 0 14645
+S
+
+#14647
+Along the southern wall.~
+~
+0 0
+D1
+~
+~
+0 0 14648
+D3
+~
+~
+0 0 14646
+S
+
+#14648
+Along the southern wall.~
+~
+0 0
+D1
+~
+~
+0 0 14649
+D3
+~
+~
+0 0 14647
+S
+
+#14649
+Along the eastern wall.~
+~
+0 0
+D0
+~
+~
+0 0 14650
+D3
+~
+~
+0 0 14648
+S
+
+#14650
+Along the eastern wall.~
+~
+0 0
+D0
+~
+~
+0 0 14651
+D2
+~
+~
+0 0 14649
+S
+
+#14651
+Along the eastern wall.~
+~
+0 0
+D0
+~
+~
+0 0 14652
+D2
+~
+~
+0 0 14650
+S
+
+#14652
+Along the eastern wall.~
+~
+0 0
+D0
+~
+~
+0 0 14653
+D2
+~
+~
+0 0 14651
+S
+
+#14653
+Along the eastern wall.~
+~
+0 0
+D0
+~
+~
+0 0 14654
+D2
+~
+~
+0 0 14652
+S
+
+#14654
+Along the eastern wall.~
+~
+0 0
+D0
+~
+~
+0 0 14655
+D2
+~
+~
+0 0 14653
+S
+
+#14655
+A dead end on the eastern wall.~
+~
+0 0
+D2
+~
+~
+0 0 14654
+S
+
+#14656
+Along the southern wall.~
+~
+0 0
+D3
+~
+~
+0 0 14657
+S
+
+#14657
+Along the southern wall.~
+~
+0 0
+D1
+~
+~
+0 0 14656
+D3
+~
+~
+0 0 14658
+S
+
+#14658
+Along the southern wall.~
+~
+0 0
+D0
+~
+~
+0 0 14659
+D1
+~
+~
+0 0 14657
+S
+
+#14659
+Along the western wall.~
+~
+0 0
+D2
+~
+~
+0 0 14658
+S
+
+#14660
+A mist filled path.~
+Mist fills this path, making visibility impossible, and movement
+difficult and hazardous.  Glowing eyes is the only thing that can be seen
+though the thick mist, though many sounds can be heard, yelps of the dead
+mainly.  As well as howls from........  Some where.  
+~
+167780353 5
+D0
+~
+~
+0 0 14661
+D1
+~
+~
+0 0 14660
+D2
+~
+~
+0 0 14662
+D3
+~
+~
+0 0 14662
+S
+
+#14661
+A mist filled path.~
+Mist fills this path, making visibility impossible, and movement
+difficult and hazardous.  Glowing eyes is the only thing that can be seen
+though the thick mist, though many sounds can be heard, yelps of the dead
+mainly.  As well as howls from........  Some where.  
+~
+1 0
+D0
+~
+~
+0 0 14661
+D1
+~
+~
+0 0 14662
+D2
+~
+~
+0 0 14660
+D3
+~
+~
+0 0 14660
+S
+
+#14662
+A mist filled path.~
+Mist fills this path, making visibility impossible, and movement
+difficult and hazardous.  Glowing eyes is the only thing that can be seen
+though the thick mist, though many sounds can be heard, yelps of the dead
+mainly.  As well as howls from........  Some where.  
+~
+1 0
+D0
+~
+~
+0 0 14660
+D1
+~
+~
+0 0 14660
+D2
+~
+~
+0 0 14664
+D3
+~
+~
+0 0 14663
+S
+
+#14663
+A mist filled path.~
+Mist fills this path, making visibility impossible, and movement
+difficult and hazardous.  Glowing eyes is the only thing that can be seen
+though the thick mist, though many sounds can be heard, yelps of the dead
+mainly.  As well as howls from........  Some where.  
+~
+1 0
+D0
+~
+~
+0 0 14664
+D1
+~
+~
+0 0 14662
+D2
+~
+~
+0 0 14665
+D3
+~
+~
+0 0 14664
+S
+
+#14664
+A mist filled path.~
+Mist fills this path, making visibility impossible, and movement
+difficult and hazardous.  Glowing eyes is the only thing that can be seen
+though the thick mist, though many sounds can be heard, yelps of the dead
+mainly.  As well as howls from........  Some where.  
+~
+1 0
+D0
+~
+~
+0 0 14662
+D1
+~
+~
+0 0 14663
+D2
+~
+~
+0 0 14660
+D3
+~
+~
+0 0 14660
+S
+
+#14665
+A mist filled path.~
+Mist fills this path, making visibility impossible, and movement
+difficult and hazardous.  Glowing eyes is the only thing that can be seen
+though the thick mist, though many sounds can be heard, yelps of the dead
+mainly.  As well as howls from........  Some where.  
+~
+1 0
+D0
+~
+~
+0 0 14663
+D1
+~
+A mist filled path~
+0 0 14666
+D2
+~
+~
+0 0 14664
+D3
+~
+~
+0 0 14660
+S
+
+#14666
+A mist filled path.~
+Desc Mist fills this path, making visibility impossible, and movement
+difficult and hazardous.  Glowing eyes is the only thing that can be seen
+though the thick mist, though many sounds can be heard, yelps of the dead
+mainly.  As well as howls from........  Some where.  
+~
+1 0
+D0
+~
+~
+0 0 14660
+D1
+~
+~
+0 0 14662
+D2
+~
+~
+0 0 14667
+D3
+~
+~
+0 0 14661
+S
+
+#14667
+Within the deepths of Plutonian~
+As the mist field clears, visibility becomes once again possible.  Now
+apparent, many broken, and destroyed gravestones, all over this one way
+path.  It seems not many travel this way.  Far behind the stones, a few dead
+trees can be seen..  The air smells of rot, as well, the noise of this area
+is nil.  
+~
+5 0
+D2
+~
+~
+0 0 14671
+S
+
+#14668
+Within the decayed monolith.~
+This is the chamber where the god Pluto himself makes plans for who will
+become a resident of Plutonian, as well as other plans he devises to keep
+this place untouched by mortal hands.  He is very protective and attacks all
+who enter, for disturbing his thinking is never a good thing.  
+~
+436805645 0
+D4
+~
+~
+0 0 14670
+S
+
+#14669
+Nearing a monolith~
+Drawing closer and closer, the decayed monolith becomes quite apparent. 
+It is old and decayed, rotting on every corner.  Pieces of the monolith
+break off with the first shake of the ground.  Bones and blood pools litter
+the path to the monolith.  A stoneslab can be seen at the base of the
+monolith.  
+~
+1 0
+D0
+~
+~
+0 0 14670
+D2
+~
+~
+0 0 14644
+S
+
+#14670
+Atop a decayed monolith.~
+On top of this decayed monolith, everything becomes visible.  The writing
+on the monolith is so ineligible that not even a letter can be made out. 
+The monolith, unlike others only stands 4 feet high, due to its age, and
+decay.  Much of the monolith lie at the base, on top of a stone slab, others,
+no were to be seen.  The stoneslab it self.  However, looks quite untouched,
+even over the millenium to which it has been here.  
+~
+1 0
+D2
+~
+~
+0 0 14669
+D5
+~
+stoneslab~
+0 14694 14668
+S
+
+#14671
+Nearing a deslote path of gravestones.~
+Ahead a large pool of broken stones can be seen, for what seems like
+forever.  Though each step taken seems similar to the last, each is
+different in its own.  No gravestones, that can be seen, are fully intact,
+not even the inscriptions can be read.  The pool of broken gravestones draws
+closer and closer.  A strange moan can be heard...  Slightly 
+~
+4 0
+D0
+~
+~
+0 0 14667
+D3
+~
+~
+0 0 14672
+S
+
+#14672
+Nearing a deslote path of gravestones.~
+Ahead a large pool of broken stones can be seen, for what seems like
+forever.  Though each step taken seems similar to the last, each is
+different in its own.  No gravestones, that can be seen, are fully intact,
+not even the inscriptions can be read.  The pool of broken gravestones draws
+closer and closer.  A strange moan can be heard...  Slightly 
+~
+4 0
+D1
+~
+~
+0 0 14671
+D3
+~
+~
+0 0 14673
+S
+
+#14673
+Nearing a desolet path of gravestones.~
+Ahead a large pool of broken stones can be seen, for what seems like
+forever.  Though each step taken seems similar to the last, each is
+different in its own.  No gravestones, that can be seen, are fully intact,
+not even the inscriptions can be read.  The pool of broken gravestones draws
+closer and closer.  A strange moan can be heard...  Slightly 
+~
+4 0
+D0
+~
+~
+0 0 14674
+D1
+~
+~
+0 0 14672
+S
+
+#14674
+A desolet path of gravestones~
+Within the pool of gravestones, movement becomes the most difficult. 
+Thousands of broken stones can be seen scattered around this portion of the
+graveyard.  Though, through the abundance of broken gravestones, a small
+path can still be made out.  Moans and howls become a bit louder.  
+~
+5 5
+D0
+~
+~
+0 0 14675
+D2
+~
+~
+0 0 14673
+S
+
+#14675
+A desolet path of gravestones~
+Within the pool of gravestones, movement becomes the most difficult. 
+Thousands of broken stones can be seen scattered around this portion of the
+graveyard.  Though, through the abundance of broken gravestones, a small
+path can still be made out.  Moans and howls become a bit louder.  
+~
+4 0
+D1
+~
+~
+0 0 14676
+D2
+~
+~
+0 0 14674
+S
+
+#14676
+A desolet path of gravestones~
+Within the pool of gravestones, movement becomes the most difficult. 
+Thousands of broken stones can be seen scattered around this portion of the
+graveyard.  Though, through the abundance of broken gravestones, a small
+path can still be made out.  Moans and howls become a bit louder.  
+~
+4 0
+D0
+~
+~
+0 0 14677
+D3
+~
+~
+0 0 14675
+S
+
+#14677
+A deslote path of gravestones.~
+Within the pool of gravestones, movement becomes the most difficult. 
+Thousands of broken stones can be seen scattered around this portion of the
+graveyard.  Though, through the abundance of broken gravestones, a small
+path can still be made out.  Moans and howls become a bit louder.  
+~
+4 0
+D2
+~
+~
+0 0 14676
+D3
+~
+~
+0 0 14678
+S
+
+#14678
+A deslote path of gravestones.~
+Within the pool of gravestones, movement becomes the most difficult. 
+Thousands of broken stones can be seen scattered around this portion of the
+graveyard.  Though, through the abundance of broken gravestones, a small
+path can still be made out.  Moans and howls become a bit louder.  
+~
+4 0
+D0
+~
+~
+0 0 14679
+D1
+~
+~
+0 0 14677
+S
+
+#14679
+A deslote path of gravestones.~
+Within the pool of gravestones, movement becomes the most difficult. 
+Thousands of broken stones can be seen scattered around this portion of the
+graveyard.  Though, through the abundance of broken gravestones, a small
+path can still be made out.  Moans and howls become a bit louder.  
+~
+4 0
+D0
+~
+~
+0 0 14680
+D2
+~
+~
+0 0 14678
+S
+
+#14680
+A decrepid section of Plutonian.~
+After passing through the path of endless gravestone parts, a new light
+is brought to life.  An empty section of the graveyard, no rocks, no dead
+trees, no corpses, not even any bones or bloodstains.  It seems no one has
+ventured to this region of the yard in ages.  Or have, and never came
+back....  Off a bit in the distance, a strange tall wooden building can be
+seen.  
+~
+1 0
+D0
+~
+~
+0 0 14681
+D2
+~
+~
+0 0 14679
+S
+
+#14681
+A decrepid section of Plutonian.~
+After passing through the path of endless gravestone parts, a new light
+is brought to life.  An empty section of the graveyard, no rocks, no dead
+trees, no corpses, not even any bones or bloodstains.  It seems no one has
+ventured to this region of the yard in ages.  Or have, and never came
+back....  Off a bit in the distance, a strange tall wooden building can be
+seen.  
+~
+0 0
+D1
+~
+~
+0 0 14682
+D2
+~
+~
+0 0 14680
+S
+
+#14682
+A decrepid section of Plutonian.~
+After passing through the path of endless gravestone parts, a new light
+is brought to life.  An empty section of the graveyard, no rocks, no dead
+trees, no corpses, not even any bones or bloodstains.  It seems no one has
+ventured to this region of the yard in ages.  Or have, and never came
+back....  Off a bit in the distance, a strange tall wooden building can be
+seen.  
+~
+0 0
+D1
+~
+~
+0 0 14683
+D3
+~
+~
+0 0 14681
+S
+
+#14683
+Before a decayed masoleum.~
+This large wooden building seems to have two stories.  The door, seems
+rotted, with many holes around it.  The building itself is comprised of
+total wood.  Brown as it is, its obviously this building has been here for a
+very long time, its no wonder it has yet to collapse.  There is a small
+decayed sign hanging.  Next to the door handle 
+olc I am sitll in school what are you talking about
+ld 6
+~
+1 2
+D0
+~
+~
+0 0 14684
+D3
+~
+~
+0 0 14682
+S
+
+#14684
+Within the unholy temple.~
+Blood stains the floor all about.  This tall rickety building seems aged
+and decayed, a smell of moisture fills the air.  To the north 2 large
+chamber doors leading to something..  Barley stand.  To the east and west. 
+A small staircase, leading up.  Below a trapdoor seemingly half open.  A dim
+light comes from below.  Words spoken fall upon deaf ears, as no sounds seem
+to be heard.  
+~
+9 0
+D0
+~
+ChamberDoors~
+0 14684 14685
+D1
+~
+~
+0 0 14688
+D2
+~
+~
+0 0 14683
+D3
+~
+~
+0 0 14686
+D5
+~
+TrapDoor~
+0 0 14694
+S
+
+#14685
+Nearing the alter of sacrifice.~
+To the north, is the well to which all great sacrifices to Pluto are
+made.  Not allot can be seen from here, though a large pentagram on the far
+back wall can.  As well, two balconies for spectators to watch can also be
+seen.  A large black carpet leads to the alter, though, know one dares to go
+beyond it, for the fear of Plutos Curse.  
+~
+1 0
+D0
+~
+~
+0 0 14692
+D2
+~
+chamberdoor~
+0 0 14684
+S
+
+#14686
+Below the spectating area.~
+Leading upwards, a small staircase leading to a small balcony, with a few
+benches that can be seen from this angle.  The staircase itself looks
+totally decayed, and rotted, not very safe looking.  
+~
+0 0
+D1
+~
+~
+0 0 14684
+D4
+~
+~
+0 0 14687
+S
+
+#14687
+Spectating area.~
+A few benches line the wall of this spectator balcony, were the
+sacrificial alter can be see.  Near the ledge of the balcony are a few small
+mats, this is were the worshipers of Pluto come to watch sacrifices made.  A
+full overhead view of the alter can be seen.  A ladder leads down to the
+bottom floor.  
+~
+0 0
+D5
+~
+~
+0 0 14686
+S
+
+#14688
+Below the spectating area.~
+Leading upwards, a small staircase leading to a small balcony, with a few
+benches that can be seen from this angle.  The staircase itself looks
+totally decayed, and rotted, not very safe looking.  
+~
+0 0
+D3
+~
+~
+0 0 14684
+D4
+~
+~
+0 0 14690
+S
+
+#14689
+Top Spectating area.~
+~
+4 0
+S
+
+#14690
+Spectating area.~
+A few benches line the wall of this spectator balcony, were the
+sacrificial alter can be see.  Near the ledge of the balcony are a few small
+mats, this is were the worshipers of Pluto come to watch sacrifices made.  A
+full overhead view of the alter can be seen.  A ladder leads down to the
+bottom floor.  
+~
+1 0
+D5
+~
+~
+0 0 14688
+S
+
+#14691
+Top Spectating area.~
+~
+4 0
+S
+
+#14692
+The alter of sacrifice.~
+Here is were the sacrifices to the god of dead, Pluto, are made.  There
+is a large round shaped hole in the middle of the room, before the alter. 
+On the side of the well, are two burning flames, inside cauldrons.  They
+burn a greenish black flame.  Behind the alter itself is a large pentagram,
+some say it hone the powers of the sacrifice, others think it to be a curse.
+The floor around the well, is comprised of mainly marble.  The air here
+smells of decayed and rot, not a very pleasant smell.  
+~
+0 0
+D2
+~
+~
+0 0 14685
+S
+
+#14694
+Preperation Chambers.~
+As the light from above shines down, this preparation room becomes
+visible.  A large wooden work bench stands in the southern most part of the
+room, with many powders, and different viles of liquids all about, as well
+as shelves holding many different items.  On the souther wall, a large axe
+used for any....  Problems that may arise during sacrifice, though it does
+not appear to be mobile.  
+~
+0 0
+D4
+~
+trapdoor~
+0 0 14684
+S
+#0
+
+#SPECIALS
+M 14601 spec_cast_mage
+M 14610 spec_cast_mage
+M 14624 spec_cast_cleric
+M 14628 spec_cast_mage
+M 14632 spec_guard
+M 14634 spec_executioner
+M 14652 spec_breath_any
+M 14660 spec_cast_cleric
+M 14694 spec_cast_cleric
+S
+
+#RESETS
+M 100 14601 3 14601 1
+G 100 14601 0
+M 100 14652 40 14602 1
+M 100 14608 4 14608 1
+E 100 14608 0 16
+M 75 14609 2 14611 1
+M 75 14609 2 14612 2
+M 75 14609 2 14613 2
+M 100 14624 0 14624 1
+E 100 14624 0 17
+M 100 14632 0 14632 1
+E 100 14632 0 16
+M 100 14634 0 14634 1
+E 100 14634 0 6
+M 100 14642 1 14642 1
+E 100 14642 0 16
+M 70 14652 40 14643 5
+M 70 14652 40 14644 5
+M 70 14652 40 14645 5
+M 70 14652 40 14646 5
+M 70 14652 40 14647 5
+M 70 14652 40 14648 5
+M 70 14652 40 14649 5
+M 70 14652 40 14652 5
+M 100 14652 40 14653 5
+M 100 14652 40 14654 5
+M 100 14652 40 14655 5
+M 75 14660 30 14660 2
+M 75 14660 30 14661 2
+M 75 14660 30 14662 2
+M 75 14660 30 14663 2
+M 75 14660 30 14664 2
+M 75 14660 30 14665 2
+M 75 14660 30 14666 2
+M 100 14668 0 14668 1
+E 100 14668 0 17
+O 100 14692 0 14692
+P 100 14694 1 14692 0
+M 100 14694 0 14694 1
+G 100 14684 0
+E 100 14696 0 13
+S
+
+#SHOPS
+14602 8 9 10 22 0 50 150 8 21
+14603 17 1 19 0 0 50 175 8 20
+14604 15 26 0 0 0 25 175 9 18
+14605 8 17 0 0 0 50 175 8 21
+0
+
+#$

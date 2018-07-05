@@ -1,0 +1,3194 @@
+#AOD_AREA
+Quest Projects~
+5500 5599 C 1
+Levl 0 0
+End
+
+#MOBILES
+#5500
+quest marshall ezekial~
+{YQ{yuest {MM{marshall {GE{gzekial{x~
+{DStanding before you is the {YQ{yuest {MM{marshall{D of {rA{Rs{yg{Ya{Wr{Yd{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABJZb 0 0 0 0
+300 0 0 2 2 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+M SPEECH 5503 reset~
+M SPEECH 5501 commence~
+M RANDOM 5500 100~
+M SPEECH 5502 home~
+
+#5501
+Champion Hel~
+{rH{Re{Dl{w'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rH{Re{Dl {yawaits your dismay.{x
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT TVc H -1000 0
+200 475 0 121378 133567 648 880 42 42 420 flame
+480 480 480 480
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M DEATH 5512 100~
+
+#5502
+Champion Aegir~
+{rA{Re{Dg{wi{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rA{Re{Dg{wi{rr{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT TVc H -1000 0
+200 450 0 116324 127314 659 868 41 41 420 flash
+450 450 450 450
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5503
+Champion Odin~
+{rO{Rd{Di{rn{D'{rs C{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {RC{Rh{Da{wmp{Di{Ro{rn{D of {rO{Rd{Di{rn {yawaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 
+ABT TVc H 1000 0
+200 350 0 115995 126508 688 883 40 40 410 divine
+450 450 450 450
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5504
+Thor Champion~
+{rT{Rh{Do{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rT{Rh{Do{rr{y awaits your dismay.{x 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT TVc H 1000 0
+200 250 0 115142 126394 670 859 37 37 370 none
+370 370 370 370
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M DEATH 5509 100~
+
+#5505
+Champion Loki~
+{rL{Ro{Dk{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rL{Ro{Dk{ri {yawaits your dismay.{x 
+~
+~
+human~
+100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT TVc 0 0 0
+200 250 0 71180 77731 674 886 41 41 450 drain
+350 350 350 350
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+M DEATH 5508 100~
+
+#5506
+modi champion~
+{rM{Ro{Dd{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ro{Dd{ri{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 
+ABT TVc H 0 0
+200 250 0 70075 77712 683 850 39 39 390 grep
+520 520 520 520
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5507
+Champion Sif~
+{rS{Ri{Df{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rS{Ri{Df {yawaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT TVc H 350 0
+200 300 0 112773 124547 664 887 30 30 300 none
+530 530 530 530
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M DEATH 5515 100~
+
+#5508
+Champion Magni~
+{rM{Ra{Dg{wn{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ra{Dg{wn{ri {yawaits your dismay.{x 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 
+ABT TVc H -350 0
+200 300 0 92268 99891 610 885 35 35 325 acbite
+400 400 400 400
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M DEATH 5511 100~
+
+#5509
+Champion Ull~
+{rU{Rl{Dl{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rU{Rl{Dl{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 
+ABT DFTVZc H 0 0
+200 200 0 87453 95388 672 922 42 42 410 none
+490 490 490 490
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M DEATH 5507 100~
+
+#5510
+Champion Njord~
+{rN{Rj{Do{wr{rd{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rN{Rj{Do{wr{rd{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+ABT DFJTVZac H 0 0
+200 200 0 73164 78319 654 847 40 40 400 shbite
+450 450 450 450
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M DEATH 5504 100~
+
+#5511
+Snotra Champion~
+{rS{Rn{Do{wt{Dr{ra{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rS{Rn{Do{wt{Dr{ra{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT TVc H 0 0
+200 200 0 71175 78920 644 874 38 38 380 chill
+480 480 480 480
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M DEATH 5505 100~
+
+#5512
+Champion Frey~
+{rF{Rr{De{ry{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rF{Rr{De{ry{y awaits your dismay.{x
+~
+~
+human~
+150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT TVc H 0 0
+200 250 0 76208 81791 660 875 41 41 410 chomp
+500 500 500 500
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M DEATH 5506 100~
+
+#5513
+Champion Hel~
+{rH{Re{Dl{w'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rH{Re{Dl {yawaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT 0 0 -1000 0
+200 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+
+#5514
+Champion Aegir~
+{rA{Re{Dg{wi{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rA{Re{Dg{wi{rr{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT 0 0 0 0
+175 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+
+#5515
+Champion Odin~
+{rO{Rd{Di{rn{D'{rs C{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {RC{Rh{Da{wmp{Di{Ro{rn{D of {rO{Rd{Di{rn {yawaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+175 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5516
+Thor Champion~
+{rT{Rh{Do{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rT{Rh{Do{rr{y awaits your dismay.{x 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5517
+Champion Loki~
+{rL{Ro{Dk{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rL{Ro{Dk{ri {yawaits your dismay.{x 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT 0 0 0 0
+200 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+
+#5518
+modi champion~
+{rM{Ro{Dd{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ro{Dd{ri{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5519
+Champion Sif~
+{rS{Ri{Df{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{ of {rS{Ri{Df {yawaits your dismay.{x 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5520
+Champion Magni~
+{rM{Ra{Dg{wn{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ra{Dg{wn{ri {yawaits your dismay.{x 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5521
+Champion Ull~
+{rU{Rl{Dl{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rU{Rl{Dl{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5522
+Champion Njord~
+{rN{Rj{Do{wr{rd{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rN{Rj{Do{wr{rd{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5523
+Snotra Champion~
+{rS{Rn{Do{wt{Dr{ra{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rS{Rn{Do{wt{Dr{ra{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5524
+Champion Frey~
+{rF{Rr{De{ry{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rF{Rr{De{ry{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5525
+Champion Hel~
+{rH{Re{Dl{w'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rH{Re{Dl {yawaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT 0 0 -1000 0
+225 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+
+#5526
+Champion Aegir~
+{rA{Re{Dg{wi{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn {Dof {rA{Re{Dg{wi{rr{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT 0 0 0 0
+175 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+
+#5527
+Champion Odin~
+{rO{Rd{Di{rn{D'{rs C{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {RC{Rh{Da{wmp{Di{Ro{rn{D of {rO{Rd{Di{rn {yawaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+175 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5528
+Thor Champion~
+{rT{Rh{Do{rr{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rT{Rh{Do{rr{y awaits your dismay.{x 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5529
+Champion Loki~
+{rL{Ro{Dk{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rL{Ro{Dk{ri {yawaits your dismay.{x 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT 0 0 0 0
+250 0 0 2 2 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+
+#5530
+modi champion~
+{rM{Ro{Dd{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ro{Dd{ri{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5531
+Champion Sif~
+{rS{Ri{Df{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{ of {rS{Ri{Df {yawaits your dismay.{x 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5532
+Champion Magni~
+{rM{Ra{Dg{wn{ri{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rM{Ra{Dg{wn{ri {yawaits your dismay.{x 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5533
+Champion Ull~
+{rU{Rl{Dl{r'{Ds {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rU{Rl{Dl{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5534
+Champion Njord~
+{rN{Rj{Do{wr{rd{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rN{Rj{Do{wr{rd{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5535
+Snotra Champion~
+{rS{Rn{Do{wt{Dr{ra{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rS{Rn{Do{wt{Dr{ra{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5536
+Champion Frey~
+{rF{Rr{De{ry{D'{rs {rC{Rh{Da{wmp{Di{Ro{rn{x~
+{yA long undefeated {rC{Rh{Da{wmp{Di{Ro{rn{D of {rF{Rr{De{ry{y awaits your dismay.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5537
+open mob number 1~
+open mob number 1~
+Open mob number 1
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5538
+Quest Marshall Lanthorl~
+{YQ{yuest {MM{marshall {GL{ganthorl{x~
+{DStanding before you is the {YQ{yuest {MM{marshall{D of {rA{Rs{yg{Ya{Wr{Yd{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABJZb 0 0 0 0
+300 0 0 2 2 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+#0
+
+#OBJECTS
+#5500
+Chest Games~
+{BGame {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+container X 0
+10000 0 0 0 0
+1 1 0
+
+#5501
+Quest Flag Gauntlet Easy~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({GEASY{M){x~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({GEASY{M){x~
+treasure X A
+0 0 0 0 0
+0 0 0
+
+#5502
+Quest Flag Gauntlet Normal~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({BNORMAL{M){x~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({BNORMAL{M){x~
+treasure X A
+0 0 0 0 0
+0 0 0
+
+#5503
+Quest Flag Gauntlet Hard~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({RHARD{M){x~
+{y<{YQUEST{y-{YFLAG{y> {cGauntlet {M({RHARD{M){x~
+treasure X A
+0 0 0 0 0
+0 0 0
+
+#5504
+Gateway field conquests~
+{bG{Ba{ct{Ce{cw{Ba{by{x~
+{bG{Ba{ct{Ce{cw{Ba{by{D to the {yField {wof {cConquests{x~
+portal X 0
+10 H 0 4501 0
+0 0 0
+
+#5505
+North east hill top chest~
+{Y({RN{y/{GE{Y) {DHill Top {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+container SXY 0
+10000 0 0 1000 0
+1 1 0
+
+#5506
+North West Hill Top Chest~
+{Y({RN{y/{MW{Y) {DHill Top {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+container SXY 0
+10000 0 0 10000 0
+1 1 0
+
+#5507
+South West Hill Top Chest~
+{Y({BS{y/{MW{Y) {DHill Top {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+container SXY 0
+10000 0 0 10000 0
+1 1 0
+
+#5508
+South East Hill Top Chest~
+{Y({BS{y/{GE{Y) {DHill Top {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+container SXY 0
+10000 0 0 10000 0
+1 0 0
+
+#5509
+South East Perimeter Chest~
+{Y({BS{y/{GE{Y) {mPerimeter {yChest{x~
+{DA huge {ychest{D rests on the ground.{x~
+container SXY 0
+10000 0 0 0 0
+1 1 0
+
+#5510
+South West Perimeter Chest~
+{Y({BS{y/{MW{Y) {mPerimeter {yChest{x~
+{DA huge {ychest {Drests on the ground.{x~
+container SXY 0
+10000 0 0 10000 0
+1 0 0
+
+#5511
+North West Perimeter Chest~
+{Y({RN{y/{MW{Y) {mPerimeter {yChest{x~
+{DA huge {ychest {Drests on the ground.{x~
+container SXY 0
+10000 0 0 10000 0
+1 0 0
+
+#5512
+North East Perimeter Chest~
+{Y({RN{y/{GE{Y) {mPerimeter {yChest{x~
+{DA huge {ychest {Drests on the ground.{x~
+container SXY 0
+10000 0 0 10000 0
+1 0 0
+
+#5513
+Gauntlet Prize Chest~
+{CG{ca{wuntl{ce{Ct {YP{Gr{Yi{Gz{Ye {yChest{x~
+{DAn enormous {ychest {Drests on the ground.{x~
+container SXY 0
+10000 0 0 10000 0
+0 0 0
+
+#5514
+gateway market square~
+{bG{Ba{ct{Ce{cw{Ba{by{x~
+{bG{Ba{ct{Ce{cw{Ba{by {Dto {rM{Ra{Wrk{Ret {DSq{Wu{ware{x~
+portal SXY 0
+-1 H A 3014 0
+0 0 0
+
+#5515
+Practice Ticket~
+{Y({G1{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G1{Y){x~
+{Y({G1{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5516
+Practice Ticket~
+{Y({G2{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G2{Y){x~
+{Y({G2{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G2{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5517
+Practice Ticket~
+{Y({G3{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G3{Y){x~
+{Y({G3{Y)    {RP{rr{Ra{rc{Rt{ri{Rc{re {CT{cicke{Ct   {Y({G3{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5518
+one train ticket~
+{Y({G1{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G1{Y){x~
+{Y({G1{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5519
+two Train Ticket~
+{Y({G2{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G2{Y){x~
+{Y({G2{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G2{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5520
+Three Train Ticket~
+{Y({G3{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G3{Y){x~
+{Y({G3{Y)     {gT{Gr{ga{Gi{gn {CT{cicke{Ct     {Y({G3{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5521
+fifty platinum ticket~
+{Y({G1{Y)   {B50 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y)   {B50 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5522
+one hundered platinum ticket~
+{Y({G1{Y)  {B100 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y)  {B100 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5523
+two platinum ticket~
+{Y({G1{Y)  {B250 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y)  {B250 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5524
+five platinum ticket~
+{Y({G1{Y)  {B500 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y) {B500  {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5525
+thousand platinum ticket~
+{Y({G1{Y) {B1000 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y) {B1000 {mP{Ml{wa{Wti{wn{Mu{mm {CT{cicke{Ct {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5526
+one iq ticket~
+{Y({G1{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G1{Y){x~
+{Y({G1{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5527
+two iq ticket~
+{Y({G2{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G2{Y){x~
+{Y({G2{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G2{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5528
+three iq ticket~
+{Y({G3{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G3{Y){x~
+{Y({G3{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G3{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5529
+four iq ticket~
+{Y({G4{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G4{Y){x~
+{Y({G4{Y)    {YI{w-{YQ{yues{Yt {CT{cicke{Ct    {Y({G4{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5530
+unique ticket~
+{Y({G1{Y)    {RU{rn{Diqu{re{Rs {CT{cicke{Ct    {Y({G1{Y){x~
+{Y({G1{Y)    {RU{rn{Diqu{re{Rs {CT{cicke{Ct    {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5531
+random ticket~
+{Y({G1{Y)    {WS{wp{Deci{wa{Wl {CT{cicke{Ct    {Y({G1{Y){x~
+{Y({G1{Y)    {WS{wp{Deci{wa{Wl {CT{cicke{Ct    {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5532
+vinir ticket~
+{Y({G1{Y)     {cV{Ci{Wn{Ci{cr {CT{cicke{Ct     {Y({G1{Y){x~
+{Y({G1{Y)     {cV{Ci{Wn{Ci{cr {CT{cicke{Ct     {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5533
+aesir ticket~
+{Y({G1{Y)     {GA{Ye{Ws{Yi{Gr {CT{cicke{Ct     {Y({G1{Y){x~
+(no description)~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5534
+one silver babble ticket~
+{Y({G1{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G1{Y){x~
+{Y({G1{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5535
+two silver babble ticket~
+{Y({G2{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G2{Y){x~
+{Y({G2{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G2{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5536
+three silver babble ticket~
+{Y({G3{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G3{Y){x~
+{Y({G3{Y) {DS{wi{Wlv{we{Dr {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G3{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5537
+one blue babble ticket~
+{Y({G1{Y)  {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct  {Y({G1{Y){x~
+{Y({G1{Y) {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct {Y({G1{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5538
+two blue babble kill~
+{Y({G2{Y)  {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct  {Y({G2{Y){x~
+{Y({G2{Y)  {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct  {Y({G2{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5539
+three blue babble ticket~
+{Y({G3{Y)  {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct  {Y({G3{Y){x~
+{Y({G3{Y)  {BB{blu{Be {MB{ma{rb{mb{Ml{re {CT{cicke{Ct  {Y({G3{Y){x~
+treasure SXY A
+0 0 0 0 0
+1 0 0
+
+#5540
+control object~
+{y<{DControl Object {W({R1{W){y>{x~
+{y<{DControl Object {W({R1{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5541
+control object~
+{y<{DControl Object {W({R2{W){y>{x~
+{y<{DControl Object {W({R2{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5542
+control~
+{y<{DControl Object {W({R3{W){y>{x~
+{y<{DControl Object {W({R3{W){y>{x~
+trash X A
+0 0 0 0 0
+1 0 0
+
+#5543
+control~
+{y<{DControl Object {W({R4{W){y>{x~
+{y<{DControl Object {W({R4{W){y>{x~
+trash X A
+0 0 0 0 0
+1 0 0
+
+#5544
+Control ~
+{y<{DControl Object {W({R5{W){y>{x~
+{y<{DControl Object {W({R5{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5545
+Control Object~
+{y<{DControl Object {W({R6{W){y>{x~
+{y<{DControl Object {W({R6{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5546
+Control Object~
+{y<{DControl Object {W({R7{W){y>{x~
+{y<{DControl Object {W({R7{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5547
+Control object~
+{y<{DControl Object {W({R8{W){y>{x~
+{y<{DControl Object {W({R8{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5548
+Control Object~
+{y<{DControl Object {W({R9{W){y>{x~
+{y<{DControl Object {W({R9{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5549
+Control Object~
+{y<{DControl Object {W({R10{W){y>{x~
+{y<{DControl Object {W({R10{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5550
+Control Object~
+{y<{DControl Object {W({R11{W){y>{x~
+{y<{DControl Object {W({R11{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5551
+Control Object~
+{y<{DControl Object {W({R12{W){y>{x~
+{y<{DControl Object {W({R12{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5552
+Control Object~
+{y<{DControl Object {W({R13{W){y>{x~
+{y<{DControl Object {W({R13{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5553
+Control Object~
+{y<{DControl Object {W({R14{W){y>{x~
+{y<{DControl Object {W({R14{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5554
+Control Object~
+{y<{DControl Object {W({R15{W){y>{x~
+{y<{DControl Object {W({R15{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5555
+Control Object~
+{y<{DControl Object {W({R16{W){y>{x~
+{y<{DControl Object {W({R16{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5556
+Control Object~
+{y<{DControl Object {W({R17{W){y>{x~
+{y<{DControl Object {W({R17{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5557
+Control Object~
+{y<{DControl Object {W({R18{W){y>{x~
+{y<{DControl Object {W({R18{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5558
+Control Object~
+{y<{DControl Object {W({R19{W){y>{x~
+{y<{DControl Object {W({R19{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#5559
+Control Object~
+{y<{DControl Object {W({R20{W){y>{x~
+{y<{DControl Object {W({R20{W){y>{x~
+trash X A
+0 0 0 0 0
+0 0 0
+#0
+
+#ROOMS
+#5500
+{y<{YSTART ROOM{y>{x~
+~
+4 0
+S
+
+#5501
+{D<{yField {wof {cConquests{D> {mCenter{x~
+~
+0 2
+D0
+~
+~
+0 0 5530
+D1
+~
+~
+0 0 5502
+D2
+~
+~
+0 0 5532
+D3
+~
+~
+0 0 5528
+S
+
+#5502
+{D<{yField {wof {cConquests{D> {mEast Path{x~
+~
+0 2
+D0
+~
+~
+0 0 5534
+D1
+~
+~
+0 0 5503
+D2
+~
+~
+0 0 5536
+D3
+~
+~
+0 0 5501
+S
+
+#5503
+{D<{yField {wof {cConquests{D> {mEast Path{x~
+~
+0 2
+D1
+~
+~
+0 0 5504
+D3
+~
+~
+0 0 5502
+S
+
+#5504
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5505
+D2
+~
+~
+0 0 5527
+D3
+~
+~
+0 0 5503
+S
+
+#5505
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5506
+D2
+~
+~
+0 0 5504
+S
+
+#5506
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5507
+D2
+~
+~
+0 0 5505
+S
+
+#5507
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D2
+~
+~
+0 0 5506
+D3
+~
+~
+0 0 5508
+S
+
+#5508
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D1
+~
+~
+0 0 5507
+D3
+~
+~
+0 0 5509
+S
+
+#5509
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D1
+~
+~
+0 0 5508
+D3
+~
+~
+0 0 5510
+S
+
+#5510
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D1
+~
+~
+0 0 5509
+D2
+~
+~
+0 0 5531
+D3
+~
+~
+0 0 5511
+S
+
+#5511
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D1
+~
+~
+0 0 5510
+D3
+~
+~
+0 0 5512
+S
+
+#5512
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D1
+~
+~
+0 0 5511
+D3
+~
+~
+0 0 5513
+S
+
+#5513
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D1
+~
+~
+0 0 5512
+D2
+~
+~
+0 0 5514
+S
+
+#5514
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5513
+D2
+~
+~
+0 0 5515
+S
+
+#5515
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5514
+D2
+~
+~
+0 0 5516
+S
+
+#5516
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5515
+D1
+~
+~
+0 0 5529
+D2
+~
+~
+0 0 5517
+S
+
+#5517
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5516
+D2
+~
+~
+0 0 5518
+S
+
+#5518
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5517
+D2
+~
+~
+0 0 5519
+S
+
+#5519
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5518
+D1
+~
+~
+0 0 5520
+S
+
+#5520
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D1
+~
+~
+0 0 5521
+D3
+~
+~
+0 0 5519
+S
+
+#5521
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D1
+~
+~
+0 0 5522
+D3
+~
+~
+0 0 5520
+S
+
+#5522
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5533
+D1
+~
+~
+0 0 5523
+D3
+~
+~
+0 0 5521
+S
+
+#5523
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D1
+~
+~
+0 0 5524
+D3
+~
+~
+0 0 5522
+S
+
+#5524
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D1
+~
+~
+0 0 5525
+D3
+~
+~
+0 0 5523
+S
+
+#5525
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5526
+D3
+~
+~
+0 0 5524
+S
+
+#5526
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5527
+D2
+~
+~
+0 0 5525
+S
+
+#5527
+{D<{yField {wof {cConquests{D> {mPerimeter{x~
+~
+0 2
+D0
+~
+~
+0 0 5504
+D2
+~
+~
+0 0 5526
+S
+
+#5528
+{D<{yField {wof {cConquests{D> {mWest Path{x~
+~
+0 0
+D0
+~
+~
+0 0 5535
+D1
+~
+~
+0 0 5501
+D2
+~
+~
+0 0 5537
+D3
+~
+~
+0 0 5529
+S
+
+#5529
+{D<{yField {wof {cConquests{D> {mWest Path{x~
+~
+0 0
+D1
+~
+~
+0 0 5528
+D3
+~
+~
+0 0 5516
+S
+
+#5530
+{D<{yField {wof {cConquests{D> {mNorth Path{x~
+~
+0 2
+D0
+~
+~
+0 0 5531
+D1
+~
+~
+0 0 5534
+D2
+~
+~
+0 0 5501
+D3
+~
+~
+0 0 5535
+S
+
+#5531
+{D<{yField {wof {cConquests{D> {mNorth Path{x~
+~
+0 2
+D0
+~
+~
+0 0 5510
+D2
+~
+~
+0 0 5530
+S
+
+#5532
+{D<{yField {wof {cConquests{D> {mSouth Path{x~
+~
+0 2
+D0
+~
+~
+0 0 5501
+D1
+~
+~
+0 0 5536
+D2
+~
+~
+0 0 5533
+D3
+~
+~
+0 0 5537
+S
+
+#5533
+{D<{yField {wof {cConquests{D> {mSouth Path{x~
+~
+0 2
+D0
+~
+~
+0 0 5532
+D2
+~
+~
+0 0 5522
+S
+
+#5534
+{D<{yField {wof {cConquests{D> {mN/E Center{x~
+~
+0 2
+D0
+~
+~
+0 0 5539
+D1
+~
+~
+0 0 5538
+D2
+~
+~
+0 0 5502
+D3
+~
+~
+0 0 5530
+S
+
+#5535
+{D<{yField {wof {cConquests{D> {mN/W Center{x~
+~
+0 2
+D0
+~
+~
+0 0 5542
+D1
+~
+~
+0 0 5530
+D2
+~
+~
+0 0 5528
+D3
+~
+~
+0 0 5541
+S
+
+#5536
+{D<{yField {wof {cConquests{D> {mS/E Center{x~
+~
+0 2
+D0
+~
+~
+0 0 5502
+D1
+~
+~
+0 0 5547
+D2
+~
+~
+0 0 5548
+D3
+~
+~
+0 0 5532
+S
+
+#5537
+{D<{yField {wof {cConquests{D> {mS/W Center{x~
+~
+0 2
+D0
+~
+~
+0 0 5528
+D1
+~
+~
+0 0 5532
+D2
+~
+~
+0 0 5545
+D3
+~
+~
+0 0 5544
+S
+
+#5538
+{D<{yField {wof {cConquests{D> {mN/E Hill{x~
+~
+0 2
+D0
+~
+~
+0 0 5540
+D3
+~
+~
+0 0 5534
+S
+
+#5539
+{D<{yField {wof {cConquests{D> {mN/E Hill{x~
+~
+0 2
+D1
+~
+~
+0 0 5540
+D2
+~
+~
+0 0 5534
+S
+
+#5540
+{D<{yField {wof {cConquests{D> {mN/E Hill Top{x~
+~
+0 2
+D2
+~
+~
+0 0 5538
+D3
+~
+~
+0 0 5539
+S
+
+#5541
+{D<{yField {wof {cConquests{D> {mN/W Hill{x~
+~
+0 2
+D0
+~
+~
+0 0 5543
+D1
+~
+~
+0 0 5535
+S
+
+#5542
+{D<{yField {wof {cConquests{D> {mN/W Hill{x~
+~
+0 2
+D2
+~
+~
+0 0 5535
+D3
+~
+~
+0 0 5543
+S
+
+#5543
+{D<{yField {wof {cConquests{D> {mN/W Hill Top{x~
+~
+0 2
+D1
+~
+~
+0 0 5542
+D2
+~
+~
+0 0 5541
+S
+
+#5544
+{D<{yField {wof {cConquests{D> {mS/W Hill{x~
+~
+0 0
+D1
+~
+~
+0 0 5537
+D2
+~
+~
+0 0 5546
+S
+
+#5545
+{D<{yField {wof {cConquests{D> {mS/W Hill{x~
+~
+0 0
+D0
+~
+~
+0 0 5537
+D3
+~
+~
+0 0 5546
+S
+
+#5546
+{D<{yField {wof {cConquests{D> {mS/W Hill Top{x~
+~
+0 0
+D0
+~
+~
+0 0 5544
+D1
+~
+~
+0 0 5545
+S
+
+#5547
+{D<{yField {wof {cConquests{D> {mS/E Hill{x~
+~
+0 0
+D2
+~
+~
+0 0 5549
+D3
+~
+~
+0 0 5536
+S
+
+#5548
+{D<{yField {wof {cConquests{D> {mS/E Hill{x~
+~
+0 0
+D0
+~
+~
+0 0 5536
+D1
+~
+~
+0 0 5549
+S
+
+#5549
+{D<{yField {wof {cConquests{D> {mS/E Hill Top{x~
+~
+0 0
+D0
+~
+~
+0 0 5547
+D3
+~
+~
+0 0 5548
+S
+#0
+
+#RESETS
+M 100 5500 1 5500 1
+S
+
+#MOBPROGS
+#5500
+Unknown~
+Unknown~
+if objhere 5500
+else
+mob oload 5500
+mob oload 5501
+mob oload 5502
+mob oload 5503
+put flag chest
+put flag chest
+put flag chest
+endif
+~
+
+#5501
+Unknown~
+Unknown~
+if objhere 5503
+or objhere 5502
+or objhere 5501
+   mob goto 5525
+       if objhere 5509
+          mob goto 5500
+          break
+       endif
+   mob oload 5509
+   mob goto 5519
+   mob oload 5510
+   mob goto 5513
+   mob oload 5511
+   mob goto 5507
+   mob oload 5512
+   mob goto 5540
+   mob oload 5505
+   mob goto 5543
+   mob oload 5506
+   mob goto 5546
+   mob oload 5507
+   mob goto 5549
+   mob oload 5508
+   mob goto 5501
+   mob oload 5513
+mob mload 5538
+   mob goto 5500
+endif
+if objhere 5503
+   mob goto 5534
+       if mobhere 5534
+          mob goto 5500
+          say The field is already prepared, you should enter the gateway.
+          break
+       endif
+   mob mload 5534
+   mob goto 5535
+   mob mload 5535
+   mob goto 5537
+   mob mload 5536
+   mob goto 5536
+   mob mload 5533
+   mob goto 5522
+   mob mload 5532
+   mob goto 5510
+   mob mload 5531
+   mob goto 5516
+   mob mload 5530
+   mob goto 5504
+   mob mload 5529
+   mob goto 5506
+mob mload 5528
+   mob goto 5508
+   mob mload 5528
+   mob goto 5512
+   mob mload 5527
+   mob goto 5514
+   mob mload 5527
+   mob goto 5518
+   mob mload 5526
+   mob goto 5520
+   mob mload 5526
+   mob goto 5524
+   mob mload 5525
+   mob goto 5526
+   mob mload 5525
+   mob goto 5500
+   say The field is prepared, enter the gateway to begin.
+   mob oload 5504
+else
+if objhere 5502
+   mob goto 5534
+       if mobhere 5522
+          mob goto 5500
+          say The field is already prepared, you should enter the gateway.
+          break
+       endif
+   mob mload 5522
+   mob goto 5535
+   mob mload 5523
+   mob goto 5537
+   mob mload 5524
+   mob goto 5536
+   mob mload 5521
+   mob goto 5522
+   mob mload 5520
+   mob goto 5510
+   mob mload 5519
+   mob goto 5516
+   mob mload 5518
+   mob goto 5504
+   mob mload 5517
+   mob goto 5506
+   mob mload 5516
+   mob goto 5508
+   mob mload 5516
+   mob goto 5512
+mob mload 5515
+   mob goto 5514
+   mob mload 5515
+   mob goto 5518
+   mob mload 5514
+   mob goto 5520
+   mob mload 5514
+   mob goto 5524
+   mob mload 5513
+   mob goto 5526
+   mob mload 5513
+   mob goto 5500
+   say The field is prepared, enter the gateway to begin.
+   mob oload 5504
+else
+if objhere 5501
+   mob goto 5534
+       if mobhere 5510
+          mob goto 5500
+          say The field is already prepared, you should enter the gateway.
+          break
+       endif
+   mob mload 5510
+   mob goto 5535
+   mob mload 5511
+   mob goto 5537
+   mob mload 5512
+   mob goto 5536
+   mob mload 5509
+   mob goto 5522
+   mob mload 5508
+   mob goto 5510
+   mob mload 5507
+   mob goto 5516
+   mob mload 5506
+   mob goto 5504
+   mob mload 5505
+   mob goto 5506
+mob mload 5504
+   mob goto 5508
+   mob mload 5504
+   mob goto 5512
+   mob mload 5503
+   mob goto 5514
+   mob mload 5503
+   mob goto 5518
+   mob mload 5502
+   mob goto 5520
+   mob mload 5502
+   mob goto 5524
+   mob mload 5501
+   mob goto 5526
+   mob mload 5501
+   mob goto 5500
+   say The field is prepared, enter the gateway to begin.
+   mob oload 5504
+else
+   say There is no Game Flag present, please pick one from the Chest.
+endif
+endif
+endif
+~
+
+#5502
+Unknown~
+Unknown~
+mob oload 5514
+say If its home you want to go, then its home you shall be.
+mob force $n enter market
+~
+
+#5503
+Unknown~
+Unknown~
+mob goto 5501
+mob purge
+mob goto 5502
+mob purge
+mob goto 5503
+mob purge
+mob goto 5504
+mob purge
+mob goto 5505
+mob purge
+mob goto 5506
+mob purge
+mob goto 5507
+mob purge
+mob goto 5508
+mob purge
+mob goto 5509
+mob purge
+mob goto 5510
+mob purge
+mob goto 5511
+mob purge
+mob goto 5512
+mob purge
+mob goto 5513
+mob purge
+mob goto 5514
+mob purge
+mob goto 5515
+mob purge
+mob goto 5516
+mob purge
+mob goto 5517
+mob purge
+mob goto 5518
+mob purge
+mob goto 5519
+mob purge
+mob goto 5520
+mob purge
+mob goto 5521
+mob purge
+mob goto 5522
+mob purge
+mob goto 5523
+mob purge
+mob goto 5524
+mob purge
+mob goto 5525
+mob purge
+mob goto 5526
+mob purge
+mob goto 5527
+mob purge
+mob goto 5528
+mob purge
+mob goto 5529
+mob purge
+mob goto 5530
+mob purge
+mob goto 5531
+mob purge
+mob goto 5532
+mob purge
+mob goto 5533
+mob purge
+mob goto 5534
+mob purge
+mob goto 5535
+mob purge
+mob goto 5536
+mob purge
+mob goto 5537
+mob purge
+mob goto 5538
+mob purge
+mob goto 5539
+mob purge
+mob goto 5540
+mob purge
+mob goto 5541
+mob purge
+mob goto 5542
+mob purge
+mob goto 5543
+mob purge
+mob goto 5544
+mob purge
+mob goto 5545
+mob purge
+mob goto 5546
+mob purge
+mob goto 5547
+mob purge
+mob goto 5548
+mob purge
+mob goto 5549
+mob purge
+mob goto 5500
+say The field has been reset, so what shall we do instead?
+mob purge
+~
+
+#5504
+Unknown~
+Unknown~
+if rand 90
+mob goto 5540
+mob oload 5517
+put ticket chest
+mob goto 5534
+else
+if rand 90
+mob goto 5540
+mob oload 5516
+put ticket chest
+mob goto 5534
+else
+mob goto 5540
+mob oload 5515
+put ticket chest
+mob goto 5534
+endif
+endif
+if rand 90
+mob goto 5540
+mob oload 5520
+put ticket chest
+mob goto 5534
+else
+if rand 90
+mob goto 5540
+mob oload 5519
+put ticket chest
+mob goto 5534
+else
+mob goto 5540
+mob oload 5518
+put ticket chest
+mob goto 5534
+endif
+endif
+if rand 90
+mob goto 5540
+mob oload 5536
+put ticket chest
+mob goto 5534
+else
+if rand 90
+mob goto 5540
+mob oload 5535
+put ticket chest
+mob goto 5534
+else
+if rand 50
+mob goto 5540
+mob oload 5534
+put ticket chest
+mob goto 5534
+endif
+endif
+endif
+if rand 90
+mob goto 5540
+mob oload 5539
+put ticket chest
+mob goto 5534
+else
+if rand 90
+mob goto 5540
+mob oload 5538
+put ticket chest
+mob goto 5534
+else
+if rand 50
+mob goto 5540
+mob oload 5537
+put ticket chest
+mob goto 5534
+endif
+endif
+endif
+if rand 90
+mob goto 5540
+mob oload 5529
+put ticket chest
+mob goto 5534
+else
+if rand 90
+mob goto 5540
+mob oload 5528
+put ticket chest
+mob goto 5534
+else
+if rand 90
+mob goto 5540
+mob oload 5527
+put ticket chest
+mob goto 5534
+else
+mob goto 5540
+mob oload 5526
+put ticket chest
+mob goto 5534
+endif
+endif
+endif
+if rand 90
+mob goto 5540
+mob oload 5523
+put ticket chest
+mob goto 5534
+else
+if rand 90
+mob goto 5540
+mob oload 5522
+put ticket chest
+mob goto 5534
+else
+mob goto 5540
+mob oload 5521
+put ticket chest
+mob goto 5534
+endif
+endif
+if rand 90
+mob goto 5540
+mob oload 5531
+put ticket chest
+mob goto 5534
+else
+if rand 90
+mob goto 5540
+mob oload 5530
+put ticket chest
+mob goto 5534
+else
+if rand 90
+mob goto 5540
+mob oload 5532
+put ticket chest
+mob goto 5534
+else
+if rand 90
+mob goto 5540
+mob oload 5533
+put ticket chest
+mob goto 5534
+endif
+endif
+endif
+endif
+~
+
+#5505
+Unknown~
+Unknown~
+if rand 90
+mob goto 5543
+mob oload 5520
+put ticket chest
+mob goto 5535
+else
+if rand 90
+mob goto 5543
+mob oload 5519
+put ticket chest
+mob goto 5535
+else
+mob goto 5543
+mob oload 5518
+put ticket chest
+mob goto 5535
+endif
+endif
+if rand 90
+mob goto 5543
+mob oload 5536
+put ticket chest
+mob goto 5535
+else
+if rand 90
+mob goto 5543
+mob oload 5535
+put ticket chest
+mob goto 5535
+else
+if rand 50
+mob goto 5543
+mob oload 5534
+put ticket chest
+mob goto 5535
+endif
+endif
+endif
+if rand 90
+mob goto 5543
+mob oload 5539
+put ticket chest
+mob goto 5535
+else
+if rand 90
+mob goto 5543
+mob oload 5538
+put ticket chest
+mob goto 5535
+else
+if rand 50
+mob goto 5543
+mob oload 5537
+put ticket chest
+mob goto 5535
+endif
+endif
+endif
+if rand 90
+mob goto 5543
+mob oload 5529
+put ticket chest
+mob goto 5535
+else
+if rand 90
+mob goto 5543
+mob oload 5528
+put ticket chest
+mob goto 5535
+else
+if rand 90
+mob goto 5543
+mob oload 5527
+put ticket chest
+mob goto 5535
+else
+mob goto 5543
+mob oload 5526
+put ticket chest
+mob goto 5535
+endif
+endif
+endif
+if rand 90
+mob goto 5543
+mob oload 5523
+put ticket chest
+mob goto 5535
+else
+if rand 90
+mob goto 5543
+mob oload 5522
+put ticket chest
+mob goto 5535
+else
+mob goto 5543
+mob oload 5521
+put ticket chest
+mob goto 5535
+endif
+endif
+if rand 90
+mob goto 5543
+mob oload 5531
+put ticket chest
+mob goto 5535
+else
+if rand 90
+mob goto 5543
+mob oload 5530
+put ticket chest
+mob goto 5535
+else
+if rand 90
+mob goto 5543
+mob oload 5532
+put ticket chest
+mob goto 5535
+else
+if rand 90
+mob goto 5543
+mob oload 5533
+put ticket chest
+mob goto 5535
+endif
+endif
+endif
+endif
+~
+
+#5506
+Unknown~
+Unknown~
+if rand 90
+mob goto 5546
+mob oload 5520
+put ticket chest
+mob goto 5537
+else
+if rand 90
+mob goto 5546
+mob oload 5519
+put ticket chest
+mob goto 5537
+else
+mob goto 5546
+mob oload 5518
+put ticket chest
+mob goto 5537
+endif
+endif
+if rand 90
+mob goto 5546
+mob oload 5536
+put ticket chest
+mob goto 5537
+else
+if rand 90
+mob goto 5546
+mob oload 5535
+put ticket chest
+mob goto 5537
+else
+if rand 50
+mob goto 5546
+mob oload 5534
+put ticket chest
+mob goto 5537
+endif
+endif
+endif
+if rand 90
+mob goto 5546
+mob oload 5539
+put ticket chest
+mob goto 5537
+else
+if rand 90
+mob goto 5546
+mob oload 5538
+put ticket chest
+mob goto 5537
+else
+if rand 50
+mob goto 5546
+mob oload 5537
+put ticket chest
+mob goto 5537
+endif
+endif
+endif
+if rand 90
+mob goto 5546
+mob oload 5529
+put ticket chest
+mob goto 5537
+else
+if rand 90
+mob goto 5546
+mob oload 5528
+put ticket chest
+mob goto 5537
+else
+if rand 90
+mob goto 5546
+mob oload 5527
+put ticket chest
+mob goto 5537
+else
+mob goto 5546
+mob oload 5526
+put ticket chest
+mob goto 5537
+endif
+endif
+endif
+if rand 90
+mob goto 5546
+mob oload 5523
+put ticket chest
+mob goto 5537
+else
+if rand 90
+mob goto 5546
+mob oload 5522
+put ticket chest
+mob goto 5537
+else
+mob goto 5546
+mob oload 5521
+put ticket chest
+mob goto 5537
+endif
+endif
+if rand 90
+mob goto 5546
+mob oload 5531
+put ticket chest
+mob goto 5537
+else
+if rand 90
+mob goto 5546
+mob oload 5530
+put ticket chest
+mob goto 5537
+else
+if rand 90
+mob goto 5546
+mob oload 5532
+put ticket chest
+mob goto 5537
+else
+if rand 90
+mob goto 5546
+mob oload 5533
+put ticket chest
+mob goto 5537
+endif
+endif
+endif
+endif
+~
+
+#5507
+Unknown~
+Unknown~
+if rand 90
+mob goto 5549
+mob oload 5520
+put ticket chest
+mob goto 5536
+else
+if rand 90
+mob goto 5549
+mob oload 5519
+put ticket chest
+mob goto 5536
+else
+mob goto 5549
+mob oload 5518
+put ticket chest
+mob goto 5536
+endif
+endif
+if rand 90
+mob goto 5549
+mob oload 5536
+put ticket chest
+mob goto 5536
+else
+if rand 90
+mob goto 5549
+mob oload 5535
+put ticket chest
+mob goto 5536
+else
+if rand 50
+mob goto 5549
+mob oload 5534
+put ticket chest
+mob goto 5536
+endif
+endif
+endif
+if rand 90
+mob goto 5549
+mob oload 5539
+put ticket chest
+mob goto 5536
+else
+if rand 90
+mob goto 5549
+mob oload 5538
+put ticket chest
+mob goto 5536
+else
+if rand 50
+mob goto 5549
+mob oload 5537
+put ticket chest
+mob goto 5536
+endif
+endif
+endif
+if rand 90
+mob goto 5549
+mob oload 5529
+put ticket chest
+mob goto 5536
+else
+if rand 90
+mob goto 5549
+mob oload 5528
+put ticket chest
+mob goto 5536
+else
+if rand 90
+mob goto 5549
+mob oload 5527
+put ticket chest
+mob goto 5536
+else
+mob goto 5549
+mob oload 5526
+put ticket chest
+mob goto 5536
+endif
+endif
+endif
+if rand 90
+mob goto 5549
+mob oload 5523
+put ticket chest
+mob goto 5536
+else
+if rand 90
+mob goto 5549
+mob oload 5522
+put ticket chest
+mob goto 5536
+else
+mob goto 5549
+mob oload 5521
+put ticket chest
+mob goto 5536
+endif
+endif
+if rand 90
+mob goto 5549
+mob oload 5531
+put ticket chest
+mob goto 5536
+else
+if rand 90
+mob goto 5549
+mob oload 5530
+put ticket chest
+mob goto 5536
+else
+if rand 90
+mob goto 5549
+mob oload 5532
+put ticket chest
+mob goto 5536
+else
+if rand 90
+mob goto 5549
+mob oload 5533
+put ticket chest
+mob goto 5536
+endif
+endif
+endif
+endif
+~
+
+#5508
+Unknown~
+Unknown~
+mob goto 5508
+if mobhere 5504
+mob oload 5540
+endif
+mob goto 5506
+if mobhere 5504
+mob oload 5541
+endif
+if carries $i 5540
+and carries $i 5541
+mob goto 5504
+else
+if rand 60
+mob goto 5547
+mob oload 5520
+put ticket chest
+mob goto 5504
+else
+if rand 60
+mob goto 5547
+mob oload 5519
+put ticket chest
+mob goto 5504
+else
+mob goto 5547
+mob oload 5518
+put ticket chest
+mob goto 5504
+endif
+endif
+if rand 60
+mob goto 5547
+mob oload 5536
+put ticket chest
+mob goto 5504
+else
+if rand 60
+mob goto 5547
+mob oload 5535
+put ticket chest
+mob goto 5504
+else
+if rand 50
+mob goto 5547
+mob oload 5534
+put ticket chest
+mob goto 5504
+endif
+endif
+endif
+if rand 60
+mob goto 5547
+mob oload 5539
+put ticket chest
+mob goto 5504
+else
+if rand 60
+mob goto 5547
+mob oload 5538
+put ticket chest
+mob goto 5504
+else
+if rand 50
+mob goto 5547
+mob oload 5537
+put ticket chest
+mob goto 5504
+endif
+endif
+endif
+if rand 60
+mob goto 5547
+mob oload 5529
+put ticket chest
+mob goto 5504
+else
+if rand 60
+mob goto 5547
+mob oload 5528
+put ticket chest
+mob goto 5504
+else
+if rand 60
+mob goto 5547
+mob oload 5527
+put ticket chest
+mob goto 5504
+else
+mob goto 5547
+mob oload 5526
+put ticket chest
+mob goto 5504
+endif
+endif
+endif
+if rand 60
+mob goto 5547
+mob oload 5523
+put ticket chest
+mob goto 5504
+else
+if rand 60
+mob goto 5547
+mob oload 5522
+put ticket chest
+mob goto 5504
+else
+mob goto 5547
+mob oload 5521
+put ticket chest
+mob goto 5504
+endif
+endif
+if rand 60
+mob goto 5547
+mob oload 5531
+put ticket chest
+mob goto 5504
+else
+if rand 60
+mob goto 5547
+mob oload 5530
+put ticket chest
+mob goto 5504
+else
+if rand 60
+mob goto 5547
+mob oload 5532
+put ticket chest
+mob goto 5504
+else
+if rand 60
+mob goto 5547
+mob oload 5533
+put ticket chest
+mob goto 5504
+endif
+endif
+endif
+endif
+endif
+eat control
+eat control
+~
+
+#5509
+Unknown~
+Unknown~
+mob goto 5508
+if mobhere 5504
+mob oload 5540
+endif
+mob goto 5506
+if mobhere 5504
+mob oload 5541
+endif
+mob goto 5504
+if mobhere 5505
+mob oload 5542
+endif
+mob goto 5506
+if carries $i 5540
+and carries $i 5541
+and carries $i 5542
+else
+if rand 99
+mob goto 5547
+mob oload 5520
+put ticket chest
+mob goto 5506
+else
+if rand 99
+mob goto 5547
+mob oload 5519
+put ticket chest
+mob goto 5506
+else
+mob goto 5547
+mob oload 5518
+put ticket chest
+mob goto 5506
+endif
+endif
+if rand 99
+mob goto 5547
+mob oload 5536
+put ticket chest
+mob goto 5506
+else
+if rand 99
+mob goto 5547
+mob oload 5535
+put ticket chest
+mob goto 5506
+else
+if rand 50
+mob goto 5547
+mob oload 5534
+put ticket chest
+mob goto 5506
+endif
+endif
+endif
+if rand 99
+mob goto 5547
+mob oload 5539
+put ticket chest
+mob goto 5506
+else
+if rand 99
+mob goto 5547
+mob oload 5538
+put ticket chest
+mob goto 5506
+else
+if rand 50
+mob goto 5547
+mob oload 5537
+put ticket chest
+mob goto 5506
+endif
+endif
+endif
+if rand 99
+mob goto 5547
+mob oload 5529
+put ticket chest
+mob goto 5506
+else
+if rand 99
+mob goto 5547
+mob oload 5528
+put ticket chest
+mob goto 5506
+else
+if rand 99
+mob goto 5547
+mob oload 5527
+put ticket chest
+mob goto 5506
+else
+mob goto 5547
+mob oload 5526
+put ticket chest
+mob goto 5506
+endif
+endif
+endif
+if rand 99
+mob goto 5547
+mob oload 5523
+put ticket chest
+mob goto 5506
+else
+if rand 99
+mob goto 5547
+mob oload 5522
+put ticket chest
+mob goto 5506
+else
+mob goto 5547
+mob oload 5521
+put ticket chest
+mob goto 5506
+endif
+endif
+if rand 99
+mob goto 5547
+mob oload 5531
+put ticket chest
+mob goto 5506
+else
+if rand 99
+mob goto 5547
+mob oload 5530
+put ticket chest
+mob goto 5506
+else
+if rand 99
+mob goto 5547
+mob oload 5532
+put ticket chest
+mob goto 5506
+else
+if rand 99
+mob goto 5547
+mob oload 5533
+put ticket chest
+mob goto 5506
+endif
+endif
+endif
+endif
+endif
+~
+
+#5510
+Unknown~
+Unknown~
+if rand 75
+mob oload 5520
+else
+if rand 75
+mob oload 5519
+else
+mob oload 5518
+endif
+endif
+if rand 75
+mob oload 5536
+else
+if rand 75
+mob oload 5535
+else
+if rand 50
+mob oload 5534
+endif
+endif
+endif
+if rand 75
+mob oload 5539
+else
+if rand 75
+mob oload 5538
+else
+if rand 50
+mob oload 5537
+endif
+endif
+endif
+if rand 75
+mob oload 5529
+else
+if rand 75
+mob oload 5528
+else
+if rand 75
+mob oload 5527
+else
+mob oload 5526
+endif
+endif
+endif
+if rand 75
+mob oload 5523
+else
+if rand 75
+mob oload 5522
+else
+mob oload 5521
+endif
+endif
+if rand 75
+mob oload 5531
+else
+if rand 75
+mob oload 5530
+else
+if rand 75
+mob oload 5532
+else
+if rand 75
+mob oload 5533
+endif
+endif
+endif
+endif
+~
+
+#5511
+Unknown~
+Unknown~
+mob goto 5526
+if mobhere 5501
+mob oload 5540
+endif
+mob goto 5524
+if mobhere 5501
+mob oload 5541
+endif
+if carries $i 5540
+and carries $i 5541
+else
+mob call 5510 null null null
+endif
+mob goto 5525
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+mob goto 5522
+~
+
+#5512
+Unknown~
+Unknown~
+mob oload 5543
+drop control
+mob goto 5524
+if clones == 1
+mob oload 5540
+endif
+mob goto 5526
+if clones == 1
+mob oload 5541
+endif
+mob goto 5522
+if mobhere 5508
+mob oload 5542
+endif
+if carries $i 5542
+and carries $i 5541
+and carries $i 5540
+else
+if carries $i 5542
+and carries $i 5541
+or carries $i 5540
+else
+mob call 5510 null null null
+endif
+endif
+mob goto 5525
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+mob goto 5524
+if objhere 5543
+get control
+else
+mob goto 5526
+get control
+endif
+~
+
+#5513
+Unknown~
+Unknown~
+mob goto 5520
+if mobhere 5502
+mob oload 5540
+endif
+mob goto 5518
+if mobhere 5502
+mob oload 5541
+endif
+if carries $i 5540
+and carries $i 5541
+else
+mob call 5510 null null null
+endif
+mob goto 5519
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+mob goto 5516
+~
+
+#5514
+Unknown~
+Unknown~
+~
+
+#5515
+Unknown~
+Unknown~
+mob goto 5512
+if mobhere 5503
+mob oload 5540
+endif
+mob goto 5514
+if mobhere 5503
+mob oload 5541
+endif
+if carries $i 5540
+and carries $i 5541
+else
+mob call 5510 null null null
+endif
+mob goto 5513
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+put ticket chest
+mob goto 5510
+~
+#0
+
+#$

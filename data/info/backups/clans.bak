@@ -1,0 +1,89 @@
+#MAX_CLAN 5
+
+#Clan
+CName none~
+Who_N {x           ~
+Color none~
+Descr Unused~
+Indep 1
+Pkill 0
+Plati 1
+Roster
+999
+
+#Clan
+CName condemned~
+Who_N {w{-{rC{Ro{rn{Rd{re{Rm{rn{Re{rd{w{-{x~
+Color {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~
+Descr {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{c souls of the world.~
+Recal 3001
+Indep 1
+Membe 5
+Roster
+0 Marcellus~
+0 Vtech~
+0 Crapweasel~
+0 Angelanmars~
+0 Shryp~
+999
+
+#Clan
+CName crimson~
+Who_N {Y<>{RC{1rimso{Rn{Y<>{x~
+Color {Y<>{RC{1rimso{Rn{Y<>{x~
+Descr {WA {RH{1ord{Re{x {Wof {YM{Rar{1a{Rude{Yrs{x~
+Membe 3
+Rank0 Eclipse Lord~
+Rank1 Shadow Guardian~
+Rank2 Death Knight~
+Rank3 Berserker~
+Rank4 Marauder~
+Roster
+5 Acadia~
+5 Ophrys~
+4 Tyron~
+999
+
+#Clan
+CName logrus~
+Who_N {&-={2L{3o{&gr{3u{2s{&=-{x ~
+Color {&-={2L{3o{&gr{3u{2s{&=-{x~
+Descr {2Keeper {7of the {3Balance {7({2Helper{7)~
+Pkill 0
+EditC 1163359941
+Membe 5
+Plati 900
+Cubic 231
+Rank0 Recruit~
+Rank1 Grunt~
+Rank2 Elder~
+Rank3 Superior~
+Rank4 Leader~
+Roster
+5 Chroniosio~
+5 Krable~
+4 Osmonic~
+4 Zilba~
+4 Lithane~
+999
+
+#Clan
+CName shinigami~
+Who_N {W-{DS{wh{ci{Cn{Wi{Cg{ca{wm{Di{W-{x~
+Color {DS{wh{ci{Cn{Wi{Cg{ca{wm{Di{x~
+Descr {8The {RS{rou{Rl{8col{Wlec{8tors{x~
+Recal 60000
+EditC 1173599551
+EditR 1173599551
+Membe 2
+Rank0 Soldier~
+Rank1 Elite-Soldier~
+Rank2 Lieutenant~
+Rank3 Captain~
+Rank4 Commander~
+Roster
+5 Bawn~
+5 Dahak~
+999
+
+#END

@@ -1,0 +1,4080 @@
+#AOD_AREA
+Wynterhaven~
+10000 10199 C 4
+Levl 50 80
+Bldr Neka~
+Alig N
+End
+
+#MOBILES
+#10000
+Tonim~
+{0Tonim~
+Tonim wipes her hands on her apron.
+~
+Type list to see what may be purchased here.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+AB DF 0 0 0
+110 237 0 7566 8733 7692 8547 25 27 249 none
+-303 -291 -432 -347
+STANDING STANDING male 4781
+0 mage medium ABCDEFGHIJK
+
+#10001
+Risaq~
+{0Risaq~
+Risaq arranges items on a shelf.
+~
+Type list to see what may be purchased here.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+AB DF 0 0 0
+110 196 0 7671 8106 7233 8694 22 23 184 none
+-306 -310 -318 -310
+STANDING STANDING male 3810
+0 mage medium ABCDEFGHIJK
+
+#10002
+Serina~
+{0Serina~
+Serina brews magical potions in a cauldron.
+~
+Type list to see what may be purchased here.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABT DFJL P 0 0
+110 225 0 7587 8878 7557 8392 28 24 270 none
+-436 -302 -385 -291
+STANDING STANDING male 4769
+0 mage medium ABCDEFGHIJK
+
+#10003
+Taiuy~
+{0Taiuy~
+Taiuy brews a healing potion over the fire.
+~
+Type heal to see a list of spells.  
+~
+human~
+100 50 0 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABGa FJLa IOP 0 0
+70 112 0 4210 4671 4077 4714 16 12 118 silver
+-192 -182 -240 -189
+STANDING STANDING random 2618
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10004
+ancient warrior~
+the ancient warrior~
+An ancient warrior of eternal knowledge and power stands here.
+~
+Type 'help gain' for more information.  
+~
+human~
+100 50 0 100 0 100 100 100 100 100 100 100 50 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABGJKTb FJLa P 0 0
+90 198 -60 5905 6522 5887 6514 18 19 175 slash
+-257 -279 -232 -268
+STANDING STANDING random 3739
+0 mage medium ABCDEFGHIJK
+W 10
+
+#10005
+blacksmith~
+the blacksmith~
+The blacksmith wipes the sweat from his brow with one hand.
+~
+Type list to see what may be purchased here.  
+~
+human~
+100 50 0 100 0 100 100 100 100 100 100 100 50 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABGTc FJLa HIOP 0 0
+90 184 0 6090 6790 6006 6615 21 19 175 slash
+-224 -259 -213 -224
+STANDING STANDING male 3399
+0 mage medium ABCDEFGHIJK
+W 10
+
+#10006
+a snow bird~
+snow bird~
+A tiny bird searches for seeds within the snow.
+~
+This tiny bird fluffs its feathers in a vain attempt at staying warm in
+the cold.  Tiny markings in the snow show where it has searched for food.  
+~
+water fowl~
+100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 50 100 100 100 
+AGc FJLT IP 3000 0
+45 71 0 2194 2268 2240 2448 8 7 50 none
+-105 -77 -82 -92
+STANDING STANDING random 1301
+0 mage tiny ACDEFHKP
+W 50
+P 4 0
+
+#10007
+fox~
+a fox~
+A fox darts into the thick brush.
+~
+Hunger is apparent on his thin face, The fox eyes the surrounding area
+for intruders before he darts into the brush.  
+~
+fox~
+100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABTc FJL O 3000 0
+50 62 0 2479 2968 2685 2851 8 7 71 bite
+-139 -128 -146 -119
+STANDING STANDING male 1595
+0 mage medium ACDEFHJKQV
+W 50
+
+#10008
+snowy owl~
+the snow owl~
+A snowy owl swoops down from the sky!
+~
+The snowy owl ruffls his feathers.  Golden eyes look out over the snow
+covered valley.  He is never without food.  Always some poor creature falls
+under the choking grasp of his talons.  
+~
+water fowl~
+100 50 0 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 50 100 100 100 
+ABGT FJLTa HO 3000 0
+45 74 0 2157 2329 2169 2349 8 8 54 claw
+-87 -102 -84 -90
+STANDING STANDING female 1098
+0 mage medium ACDEFHKP
+W 50
+
+#10009
+tawny eagle~
+a tawny eagle~
+A tawny eagle peers out over the valley from this perch.
+~
+A large tawny eagle peers out over the valley.  With one swipe of those
+wicked talons he could tear an animal to shreds.  A solitary feather floats
+from his tail to the ground below.  
+~
+bat~
+100 100 50 100 0 100 100 100 150 100 150 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABFGT FJTa HO 3000 0
+40 49 0 1794 1938 1717 1833 5 5 52 claw
+-95 -100 -60 -91
+STANDING STANDING random 858
+0 mage medium ACDEFHJKP
+
+#10010
+weary adventurer~
+a weary adventurer~
+A weary adventurer trudges down the snowy path.
+~
+A weary adventurer searchs in vain for some place to seek refuge from
+this storm.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGT 0 0 3000 0
+37 48 0 1454 1586 1440 1565 5 4 48 beating
+-73 -69 -73 -65
+STANDING STANDING female 822
+0 mage tiny ABCDEFGHIJK
+W 50
+
+#10011
+militia guard~
+a militia guard~
+A guard scans the horizon for signs of trouble.
+~
+The militia guard is a volunteer who guards the village.  Every day she
+can be seen here watching for trouble.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACG Ta P 3000 0
+38 52 0 1440 1681 1570 1765 6 4 52 crush
+-54 -75 -80 -67
+STANDING STANDING female 1078
+0 mage medium ABCDEFGHIJK
+W 50
+
+#10012
+militia guard~
+a militia guard~
+A guard scans the horizon for signs of trouble.
+~
+The militia guard is a volunteer who guards the village.  Every day he
+can be seen here watching for trouble.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACG Ta P 3000 0
+38 48 0 1526 1639 1505 1634 5 6 44 crush
+-84 -54 -79 -79
+STANDING STANDING male 759
+0 mage medium ABCDEFGHIJK
+W 50
+
+#10013
+ice giant~
+an ice giant~
+An ice giant walks by whistling a cheery tune.
+~
+Dressed in sturdy wool trousers and a heavy coat, the ice giant is
+unaffected by the cold.  His hair is frosty white.  His eyes are the most
+amazing azure blue.  Every ice giant is well over 15 feet tall This young
+man is almost 20 feet tall.  
+~
+human~
+100 50 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGT Va 0 3000 0
+45 60 0 2220 2372 2188 2316 6 7 56 punch
+-79 -90 -114 -80
+STANDING STANDING male 1396
+0 mage huge ABCDEFGHIJK
+
+#10014
+ice giant~
+an ice giant~
+The ice giant woman sings a beautiful song as she goes about her work.
+~
+She is quite beautiful.  Long white hair frames an angelic face.  She
+stands well over 15 feet tall.  An air of grace and peace seems to surround
+her.  
+~
+human~
+100 50 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGT Va 0 5000 0
+47 62 0 2233 2588 2235 2579 7 6 59 none
+-125 -94 -113 -135
+STANDING STANDING female 1502
+0 mage huge ABCDEFGHIJK
+
+#10015
+ice giant child~
+an ice giant child~
+A child of wondrous beauty smiles and giggles happily.
+~
+Even though this ice giant is a child, she stands well over 10 feet tall.
+She is clad in a colorful sweater and heavy wool breeches.  Her face glows
+with an inner light.  
+~
+human~
+100 50 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGT Va 0 3000 0
+32 36 0 1068 1196 996 1105 4 4 29 punch
+-41 -57 -53 -52
+STANDING STANDING male 529
+0 mage giant ABCDEFGHIJK
+
+#10016
+travelling bard~
+a travelling bard~
+A bard wanders through the village in search of shelter.
+~
+~
+human~
+100 50 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGT Va 0 0 0
+32 26 0 973 1188 999 1138 3 4 24 punch
+-51 -60 -42 -41
+STANDING STANDING male 543
+0 mage giant ABCDEFGHIJK
+
+#10017
+snowflake~
+a snowflake~
+A tiny snowflake drifts slowly to the ground.
+~
+The fido sniffs your leg as you walk by, then he raises his leg and aims
+a stream of warm urine at your boot.  
+~
+fido~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 0 0
+50 67 0 2602 2976 2462 2807 10 7 77 chill
+-138 -93 -143 -144
+STANDING STANDING male 1608
+0 mage medium ACDEFHJKQV
+
+#10018
+ice crystal~
+an ice crystal~
+An ice crystal sings and dances about.
+~
+~
+fido~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 0 0
+55 105 0 2887 3485 3110 3480 11 11 84 chill
+-134 -129 -112 -152
+STANDING STANDING male 1420
+0 mage medium ACDEFHJKQV
+
+#10019
+frost~
+the frost~
+The frost nips at your nose.
+~
+The frost nips gently at your nose then flits off giggling.  
+~
+fido~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 0 0
+55 80 0 2996 3330 2876 3230 9 11 78 bite
+-134 -144 -108 -122
+STANDING STANDING male 1742
+0 mage medium ACDEFHJKQV
+
+#10020
+soldier~
+a toy soldier~
+A toy soldier lies on the floor.
+~
+This person is a guest of the Royal Family's party.  The party guests
+have come in droves to socialize with each other in the finery of Castle
+Yrarl.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AT JZ 0 0 0
+20 2 0 81 92 82 97 0 0 2 none
+-5 -3 -4 -3
+STANDING STANDING male 56
+0 mage medium ABCDEFGHIJK
+
+#10021
+doll~
+a rag doll~
+A rag doll waits to be played with.
+~
+This person is a guest of the Royal Family's party.  The party guests
+have come in droves to socialize with each other in the finery of Castle
+Yrarl.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AT JZ 0 0 0
+22 5 0 161 184 180 187 0 0 4 none
+-6 -9 -10 -10
+STANDING STANDING male 104
+0 mage medium ABCDEFGHIJK
+
+#10022
+jack box~
+a Jack in the box~
+A Jack in the box plays a cheery tune.
+~
+This person is a guest of the Royal Family's party.  The party guests
+have come in droves to socialize with each other in the finery of Castle
+Yrarl.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AT JZ 0 0 0
+24 9 0 352 379 322 384 1 1 9 none
+-14 -15 -16 -13
+STANDING STANDING male 166
+0 mage medium ABCDEFGHIJK
+
+#10023
+dust bunny~
+a dust bunny~
+A dust bunny has formed here.
+~
+This person is a guest of the Royal Family's party.  The party guests
+have come in droves to socialize with each other in the finery of Castle
+Yrarl.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AT JZ 0 0 0
+26 16 0 534 546 506 570 1 2 14 none
+-24 -23 -29 -18
+STANDING STANDING male 332
+0 mage medium ABCDEFGHIJK
+
+#10024
+top~
+a top~
+A colorful top spins about.
+~
+This person is a guest of the Royal Family's party.  The party guests
+have come in droves to socialize with each other in the finery of Castle
+Yrarl.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AT JZ 0 0 0
+30 28 0 898 902 891 904 3 3 29 none
+-42 -39 -37 -49
+STANDING STANDING male 598
+0 mage medium ABCDEFGHIJK
+
+#10025
+apprentice~
+an {Dap{wpr{Den{wti{Dce{0 of {RD{romini{Rc{0~
+An apprentice of Dominic studies an ancient tome.
+~
+Pale beauty, more hideously frightful than anything, stands before you. 
+She serves only Dominic.  
+~
+human~
+100 150 100 100 50 100 100 100 150 100 150 100 50 100 50 100 100 0 50 100 100 100 100 100 100 100 
+ABCFGPT FJLPQTZ DFHJP 0 0
+150 387 0 10938 12431 10850 12909 37 36 381 bite
+-523 -464 -491 -518
+STANDING STANDING female 7095
+0 mage medium ABCDEFGHIJK
+
+#10026
+apprentice~
+an {Dap{wpr{Den{Dti{Dce{0 of {RA{rlisad{Re{0~
+An apprentice of {RA{rlisad{Re{0 lingers in the shadows.
+~
+Craving the next feast of blood, his eyes are rimmed in red.  He writhes
+in silent pain from the faint light of the torches.  
+~
+human~
+100 150 100 100 50 100 100 100 150 100 150 100 50 100 50 100 100 0 50 100 100 100 100 100 100 100 
+ABCFGPT FJLPQTZ DFHJP 0 0
+150 277 0 10424 12256 11155 12707 37 33 374 bite
+-584 -586 -422 -413
+STANDING STANDING female 7418
+0 mage medium ABCDEFGHIJK
+
+#10027
+apprentice~
+an apprentice of {RS{rrin{D-{RP{ro{0~
+An apprentice of {RS{rrin{D-{RP{ro{0 lies lifelessly on the floor.
+~
+~
+human~
+100 150 100 100 50 100 100 100 150 100 150 100 50 100 50 100 100 0 50 100 100 100 100 100 100 100 
+ABCFGPT FJLPQTZ DFHPQ 0 0
+150 266 0 11078 11980 10981 12537 34 38 312 bite
+-500 -530 -482 -642
+STANDING STANDING female 7120
+0 mage medium ABCDEFGHIJK
+
+#10028
+apprentice~
+an apprentice of {RB{Da{wo{Db{wh{Da{Rn S{Di{wt{Rh{0~
+An apprentice of {RB{Da{wo{Db{wh{Da{Rn S{Di{wt{Rh{0 shivers in the darkness.
+~
+~
+human~
+100 150 100 100 50 100 100 100 150 100 150 100 50 100 50 100 100 0 50 100 100 100 100 100 100 100 
+ABCFGPT FJLPQTZ DFHIP 0 0
+150 382 0 11034 12794 10804 12614 38 39 306 bite
+-462 -596 -552 -639
+STANDING STANDING female 5571
+0 mage medium ABCDEFGHIJK
+
+#10029
+follower~
+a follower of {RL{wa{Dn{wg{Rs{wo{Di{Rr{0~
+A stoutly built young man waits to visit {RD{romini{Rc{0.
+~
+~
+human~
+100 150 100 100 50 100 100 100 150 100 150 100 50 100 50 100 100 0 50 100 100 100 100 100 100 100 
+ABCFGPT FJLPQTZ DFHLQ 0 0
+150 326 0 10600 12535 10951 12107 35 42 331 bite
+-626 -402 -460 -403
+STANDING STANDING male 7284
+0 mage medium ABCDEFGHIJK
+
+#10030
+daywalker~
+a daywalker~
+A dark, handsome man lounges on a velvet chair.
+~
+~
+human~
+100 100 100 100 50 100 100 100 150 100 100 100 100 100 50 100 100 100 50 100 100 100 100 100 100 100 
+ABFGP FL FH 0 0
+1 3 0 86 100 82 93 0 0 2 none
+-3 -3 -3 -5
+STANDING STANDING male 52
+0 mage medium ABCDEFGHIJK
+
+#10031
+Civatateo~
+{RC{Di{rv{wa{Dt{ra{wt{De{Ro{0~
+{RC{Di{rv{wa{Dt{ra{wt{De{Ro{0 studies the Grimoire de Sangre.
+~
+~
+human~
+100 150 100 100 50 100 100 100 150 100 150 100 50 100 50 100 100 0 50 100 100 100 100 100 100 100 
+ABCFGPT FJLPQTZ DFHIPT 0 0
+150 381 0 11553 11856 11468 12303 36 40 383 bite
+-574 -409 -565 -449
+STANDING STANDING male 7319
+0 mage medium ABCDEFGHIJK
+
+#10032
+alisade~
+{RA{rlisade{0~
+{RA{rlisade{0 reclines on a satin sofa.
+~
+~
+human~
+100 150 100 100 50 100 100 100 150 100 150 100 50 100 0 100 100 0 50 100 100 100 100 100 100 100 
+ABCFGPT FJLPQTZ EFHIPS 0 0
+150 300 0 11687 11896 10799 12956 40 38 268 bite
+-460 -622 -555 -453
+STANDING STANDING female 7081
+0 mage medium ABCDEFGHIJK
+
+#10033
+dominic~
+{RD{romini{Rc{0~
+{RD{rominic{0 sips sherry from a crystal goblet.
+~
+~
+human~
+100 50 100 100 50 100 0 100 150 100 150 0 50 100 0 150 100 0 50 100 100 100 100 100 100 100 
+ABCFGPT FJLPQTZ DFHJP 0 0
+150 262 0 10505 12733 10701 12576 38 32 335 bite
+-563 -451 -622 -609
+STANDING STANDING male 7313
+0 mage medium ABCDEFGHIJK
+
+#10034
+dhamhir~
+a lesser {RD{Dha{Wm{Dhi{Rr{0~
+A strange young man searches for invisible vampires.
+~
+~
+human~
+50 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 150 100 100 
+ABG DFLU DHLPQ 0 0
+150 318 0 11089 12730 10908 12634 42 35 360 none
+-598 -573 -574 -582
+STANDING STANDING male 6279
+0 mage medium ABCDEFGHIJK
+
+#10035
+villager~
+an angry villager~
+An angry villager screams in rage.
+~
+~
+human~
+50 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 150 100 100 
+AFG DFLU DHLPQ 0 0
+150 299 0 11079 12129 10747 11893 39 39 336 none
+-451 -593 -569 -426
+STANDING STANDING male 6847
+0 mage medium ABCDEFGHIJK
+
+#10036
+Baobhan Sith~
+{GB{gaobhan {GS{gith{0~
+{GB{gaobhan {GS{gith{0 reclines in the silk lined crypt.
+~
+~
+human~
+50 100 100 0 100 100 100 100 100 100 100 100 100 150 0 150 100 50 100 100 100 100 100 100 100 100 
+ABFGPR BFLTVc CEHQTU 0 0
+150 388 0 10412 12747 11473 12595 36 39 335 flbite
+-500 -423 -488 -465
+STANDING STANDING male 5360
+0 mage medium ABCDEFGHIJK
+
+#10037
+langsoir~
+{GL{gangsoir{0~
+{GL{gangsoir{0 meditates quietly in the crypt.
+~
+~
+human~
+50 100 100 0 100 100 100 100 100 100 100 100 100 150 0 150 100 50 100 100 100 100 100 100 100 100 
+ABFGPR BFLTVc CEHQTU 0 0
+150 273 0 11591 11731 11412 12478 40 42 384 flbite
+-565 -473 -648 -432
+STANDING STANDING male 6222
+0 mage medium ABCDEFGHIJK
+
+#10038
+Ai Apaec~
+{GA{gi {GA{gpaec{0~
+A woman of stunning beauty smiles mysteriously.
+~
+~
+human~
+50 100 100 0 100 100 100 100 100 100 100 100 100 150 0 150 100 50 100 100 100 100 100 100 100 100 
+ABFGPR BFLTVc CEHQTU 0 0
+150 363 0 11139 11714 11192 12618 38 35 279 flbite
+-538 -409 -542 -411
+STANDING STANDING female 5600
+0 mage medium ABCDEFGHIJK
+
+#10039
+ancient story teller~
+an {yancient {Gstory {yteller{0~
+An {yancient {Gstory {yteller{0 smiles mysteriously.
+~
+The lines of wisdom are upon the story teller's face.  She has seen much,
+and heard many things in her travels through this realm.  The horrors of
+death, and the beauty of life linger in her mind.  She is as ancient as
+anything in this land.  But there is a child like innocence about her.  Worn
+simple robes enfold her thin body.  One hand reaches out to touch your face
+with amazing gentleness.  An aura of peace seems to surround her.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 50 100 50 50 100 100 100 100 100 100 100 100 100 100 150 100 
+AG FL T 0 0
+1 2 0 85 93 83 91 0 0 3 none
+-5 -5 -3 -4
+STANDING STANDING female 49
+0 mage medium ABCDEFGHIJK
+
+#10040
+Akycha~
+{0Akycha{0~
+Akycha guards the villagers treasure with his life.
+~
+Type help bank for more information.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABVd DF 0 0 0
+50 60 0 2437 2843 2456 2762 7 9 60 none
+-107 -115 -122 -124
+STANDING STANDING male 1577
+0 mage medium ABCDEFGHIJK
+
+#10098
+Srin Po~
+{GS{grin{D-{GP{go{0~
+A tall slender man stands here.
+~
+~
+human~
+50 100 100 0 100 100 100 100 100 100 100 100 100 150 0 150 100 50 100 100 100 100 100 100 100 100 
+ABFGPR BFLTVc CEHQTU 0 0
+150 362 0 10682 11760 11608 12376 38 38 318 flbite
+-525 -529 -608 -650
+STANDING STANDING male 6497
+0 mage medium ABCDEFGHIJK
+
+#10099
+priest~
+a priest~
+The priest slumps against the altar.
+~
+The priest has lost his flock.  The church is crumbling about him.  A
+demonic force too great for his talents has taken hold of this realm.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGOT JZ 0 0 0
+44 58 0 2046 2331 2009 2166 7 6 59 none
+-77 -83 -92 -82
+STANDING STANDING male 1356
+0 mage medium ABCDEFGHIJK
+
+#10140
+Chetas~
+{0Chetas{0~
+Chetas studies an thick tome with jaded eyes.
+~
+Type 'help quest' for more information on questing.  
+~
+human~
+100 100 0 100 100 100 150 100 100 100 100 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 0 0 0
+115 207 0 7663 8934 7781 9163 29 23 207 thwack
+-312 -415 -374 -441
+STANDING STANDING male 4833
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#10000
+fountain water~
+a {Cf{co{Wu{wn{Wt{wa{ci{Cn{0~
+A {Cf{co{Wu{wn{Wt{wa{ci{Cn{0 is filled with water.~
+fountain 0 0
+0 0 'water' 0 0
+0 200 0
+
+#10001
+banana muffin~
+a {Yb{yanan{Ya {Mm{muffi{Mn{0~
+A tasty {Mm{muffi{Mn{0 lies here.~
+food 0 A
+48 10 0 0 0
+0 1 10
+
+#10002
+milk~
+a glass of {Wmilk{0~
+A glass of {Wmilk{0 sits here.~
+drinkcontainer 0 A
+4 4 'milk' 0 0
+50 2 15
+
+#10003
+loaf bread~
+a {Yl{yoa{Yf{0 of bread~
+A {Yl{yoa{Yf{0 of bread sits on the table.~
+food 0 AO
+48 12 0 0 0
+0 1 12
+
+#10004
+venison pie~
+a {Rv{reniso{Rn{0 pie~
+A tasty {Rv{reniso{Rn{0 pie has been dropped here.~
+food 0 A
+48 15 0 0 0
+0 1 15
+
+#10005
+tea~
+a cup of {Gt{gea{0~
+A steaming cup of {Gt{gea{0 sits here.~
+drinkcontainer 0 A
+4 4 'tea' 0 0
+0 1 10
+
+#10006
+belt pouch~
+a {Cb{cel{Ct p{couc{Ch{0~
+A finely crafted {Cp{couc{Ch{0 has been carelessly dropped here.~
+container Y AL
+750 0 0 75 10
+0 40 250
+
+#10007
+globe ice crystal~
+a {Wg{wlob{We {0of {Ci{cce {Cc{crystals{0~
+A shimmering {Wg{wlob{We{0 lies in a bank of snow.~
+light 0 AO
+0 0 60 0 0
+0 1 20
+
+#10008
+skin waterskin~
+a water skin~
+A leather waterskin lies here.~
+drinkcontainer 0 A
+30 30 'water' 0 0
+0 30 400
+
+#10009
+dry rations~
+some dry rations~
+Some dried pieces of fruit and meat lie here.~
+food 0 A
+36 9 0 0 0
+0 1 10
+
+#10010
+potion sanct sanctuary~
+a potion of {&s{8anctuar{&y{0~
+A potion of {&s{8anctuar{&y{0 is here.~
+potion ABY AO
+35 'sanctuary' '' '' ''
+20 10 4675
+
+#10011
+potion negation~
+a potion of {6n{&egatio{6n{0~
+A potion of {6n{&egatio{6n {0is here.~
+potion ABY AO
+35 'cancellation' '' '' ''
+20 10 2500
+
+#10012
+potion healing~
+a potion of healing~
+A potion has been dropped here.~
+potion ABY A
+35 'heal' 'reserved' 'reserved' 'reserved'
+20 20 3000
+
+#10013
+potion divine curing~
+a potion of divine curing~
+A potion lies here.~
+potion ABY AO
+35 'cure poison' '' '' ''
+20 2 5000
+
+#10014
+potion divine protection~
+a potion of divine protection~
+A potion lies here.~
+potion ABY AO
+60 'sanctuary' 'protection evil' '' ''
+75 1 15000
+
+#10015
+healing bed~
+a {Mh{mealing {Gb{ged{0~
+A {Mh{mealing {Gb{ged{0 is pushed against one wall.~
+furniture 0 0
+2 90000 BEHKN 50 50
+0 5000 0
+E
+jar~
+Just for you, Delleb.  Tasty(?)  , soft, and filling.  
+~
+
+#10016
+sword of ice~
+a sword of {Ci{cc{Ce{0~
+An icy blade lies in the snow.~
+weapon 0 AN
+sword 7 7 slice BD
+20 30 2800
+A 18 2
+A 19 2
+
+#10017
+flail ice~
+a flail of {Ci{cc{Ce{0~
+An icy flail lies in the snow.~
+weapon 0 AN
+flail 7 7 crush B
+20 30 5000
+A 18 2
+A 19 2
+
+#10018
+ice dagger~
+an {Ci{cc{Ce{0 dagger~
+An icy dagger lies here.~
+weapon 0 AN
+dagger 7 7 chill BD
+20 30 3315
+A 18 2
+A 19 2
+
+#10019
+ice mace~
+an {Ci{cc{Ce{0 mace~
+A mace lies in the snow.~
+weapon 0 AN
+mace 7 7 pound B
+20 30 5000
+A 18 2
+A 19 2
+
+#10020
+eyes snow owl~
+the {Ye{yye{Ys{0 of the {ws{Dn{wo{Dw{wy {Yo{yw{Yl{0~
+Two strange {Yg{yolde{Yn{x eyes stare back at you~
+armor 0 AY
+8 9 9 9 0
+25 5 500
+F A 0 0 L
+
+#10021
+tawny eagle talon~
+the {Yt{yawn{Yy {De{wagl{De{0's {Yt{yalo{Yn{0~
+A wicked looking claw lies here.~
+weapon 0 AN
+dagger 8 8 pierce BD
+27 40 3000
+A 19 3
+F A 0 0 V
+
+#10022
+wool cloak~
+a {Dw{wool {Dc{wloak{0~
+A dark piece of cloth lies in the snow.~
+armor 0 AC
+10 9 8 10 0
+25 10 1500
+A 1 2
+
+#10023
+soft leather boots~
+soft leather {Db{woots{0~
+A comfortable pair of boots lie in the snow.~
+armor 0 AG
+11 10 10 10 0
+25 10 1000
+A 2 2
+
+#10024
+blue steel helm~
+a {Cb{clu{Ce {Ds{wtee{Dl{0 helm~
+A heavy helmet of blue steel lies here.~
+armor 0 AE
+13 12 10 10 0
+30 10 1200
+A 4 2
+
+#10025
+blue steel breastplate~
+a {Cb{clu{Ce {Ds{wtee{Dl{0 breastplate~
+A heavy breastplate lies in the snow.~
+armor 0 AD
+12 12 12 10 0
+30 20 1200
+A 5 2
+
+#10026
+embossed leather girth~
+an {Dem{wboss{Ded {Cl{ceathe{Cr{0 girth~
+A heavy piece of leather lies here.~
+armor 0 AL
+13 12 10 10 0
+30 10 900
+A 14 45
+A 13 45
+
+#10027
+woolen breeches~
+a pair of {Dw{woole{Dn {Yb{yreeches{0~
+A dark piece of cloth lies here.~
+armor 0 AF
+12 10 12 12 0
+30 10 1000
+A 19 3
+A 13 45
+
+#10028
+blue steel shield~
+a {Cb{clu{Ce {Ds{wtee{Dl{0 shield~
+A round metal shield lies in the snow.~
+armor 0 AJ
+12 11 14 12 0
+30 20 1200
+A 19 3
+A 13 50
+
+#10029
+sword of sapphires~
+the {Ds{ww{Do{wr{Dd{0 of {Csa{Dpp{Ch{Dir{Ces{0~
+A wicked looking blade shimmers in the light.~
+weapon 0 AN
+sword 8 8 slash BD
+30 40 2000
+A 19 4
+F A 0 0 a
+
+#10030
+wynterhaven mace~
+a {CW{cynter{Ch{caven{0 mace~
+A long pole of wood lies here.~
+weapon H AN
+mace 8 8 crush B
+30 40 2000
+A 19 4
+F A 0 0 V
+
+#10031
+wynterhaven polearm~
+a {CW{cynter{Ch{caven{0 polearm~
+A long pole of wood lies here.~
+weapon H AN
+polearm 8 8 crush B
+30 40 2000
+A 19 4
+F A 0 0 V
+
+#10032
+snowflake earring~
+a {Ws{wnowflake {Me{marring{0~
+A tiny snowflake lies melting on the ground.~
+armor 0 AS
+11 8 11 9 0
+25 1 900
+A 12 45
+A 13 45
+
+#10033
+bead anklet~
+a {MB{Ce{Ya{rd{0 anklet~
+A string of beads lie in the snow.~
+armor 0 AU
+9 9 11 9 0
+25 2 900
+A 12 45
+A 13 45
+
+#10034
+snowy owl beak~
+the {Ws{wnow{Wy {Yo{yw{Yl {Db{wea{Dk{0~
+A bird's sharp beak lies in the snow.  ~
+armor 0 AR
+7 9 8 10 0
+20 10 1000
+A 13 60
+
+#10035
+globe frozen tears~
+a shimmering {Yg{ylob{Ye{0 of {Cfr{woz{Cen t{wear{Cs{0~
+A frozen tear lies here.~
+light 0 AO
+0 0 999 0 0
+20 10 500
+A 19 3
+
+#10036
+quest token~
+a {Mq{muest {Yt{yoken{0~
+A shiny coin lies here.~
+treasure T AO
+0 0 0 0 0
+0 1 1
+
+#10037
+a life saver~
+a {Rl{rif{Re {Ysa{yv{Yer{0~
+Yummy! Lick me like a lolly pop baby!~
+treasure T A
+0 0 0 0 0
+0 1 1
+
+#10038
+whip ice~
+a whip of {Ci{cc{Ce{0~
+A piece of leather lies frozen on the ground.~
+weapon 0 AN
+whip 7 7 whip BD
+20 30 3472
+A 18 2
+A 19 2
+
+#10039
+your voodoo doll~
+{Ma {Gv{goo{Gd{goo {Yd{yol{Yl{0 of {ryou!{0~
+Yep, you pissed Neka off.  Now she's made a voodoo doll of you.~
+gem W AO
+0 0 0 0 0
+0 1 500000
+
+#10040
+katana ice~
+a katana of {Ci{cc{Ce{0~
+An icy blade lies in the snow.~
+weapon 0 AN
+dagger 7 7 slice BD
+20 40 3138
+A 19 2
+A 18 2
+
+#10041
+sarcophagus~
+a {Rb{rlood {Rr{red {Ds{wa{Dr{wc{Do{wp{Dh{wa{Dg{wu{Ds{0~
+A {Rb{rlood {Rr{red {Ds{wa{Dr{wc{Do{wp{Dh{wa{Dg{wu{Ds{0 leans against one wall.~
+portal 0 0
+0 0 A 5887 0
+0 500 0
+
+#10042
+braided whip~
+a braided whip~
+A braided leather whip lies here.~
+weapon 0 ANO
+whip 8 8 whip CD
+30 40 2000
+F A 0 0 V
+A 19 2
+
+#10043
+ring obirii~
+{Rr{rin{Rg {wof {rob{Dir{rii{0~
+A shiny golden signet ring lies here.~
+armor FSY AB
+30 30 30 30 0
+101 10 8000
+A 13 300
+A 3 3
+A 20 -2
+A 19 33
+A 18 33
+
+#10044
+black velvet cape~
+a {Dbl{wa{Dck ve{wlv{Det {xcape~
+A {Dd{war{Dk{0 piece of cloth lies pooled on the floor.~
+armor 0 AC
+45 37 37 37 0
+101 20 8000
+A 2 1
+A 19 30
+A 18 30
+A 13 303
+F A 0 0 U
+A 20 -1
+
+#10045
+grimoire de sangre book~
+{YG{yrimoir{Ye {wde {YS{yangre{0~
+A leather bound tome lies on the floor.~
+armor U AO
+46 35 35 35 0
+101 20 18323
+F A 0 0 V
+A 1 2
+A 2 2
+A 12 250
+A 13 250
+A 17 -25
+A 20 -4
+A 19 20
+A 18 20
+
+#10046
+mark passion~
+a {Mm{mar{Mk {wof {Cpa{cssi{Con{0~
+Two {Rb{rlood{Ry{0 fang marks mar the skin of {RA{rlisade{0's neck{0.~
+armor F AW
+35 35 35 35 0
+101 10 10000
+A 2 2
+A 4 2
+A 19 32
+A 13 303
+
+#10047
+forsaken soul~
+a {cfo{Cr{ws{cak{Ce{wn {cs{Co{wu{cl{0~
+A {cfo{Cr{ws{cak{Ce{wn {cs{Co{wu{cl{0 shimmers strangely.~
+armor ABG AQ
+30 30 30 30 0
+101 1 10000
+A 2 3
+A 19 30
+A 18 30
+A 13 303
+A 20 -1
+
+#10048
+silver key~
+an engraved {Ws{wilve{Wr{0 key~
+A delicately engraved key lies here.~
+key FPU A
+0 0 0 0 0
+0 1 0
+
+#10049
+rune stone~
+a rune covered stone~
+A rune covered stone lies here.~
+portal 0 AO
+1 0 A 5886 0
+100 0 14747
+
+#10050
+hell stone~
+a {Rh{re{Rl{rl {Ds{wt{Do{wn{De{0~
+A dull {Rr{re{Rd{0 stone has been dropped here.~
+portal FP A
+1 0 A 5902 0
+90 1 18148
+
+#10051
+flaming stake~
+a {Rf{rl{Ya{rm{Yi{rn{Rg s{rt{Ya{rk{Re{0~
+A {Rf{rl{Ya{rm{Yi{rn{Rg s{rt{Ya{rk{Re{0 has been thrust into the floor!~
+weapon HM AN
+dagger 13 13 stab ACD
+95 40 8000
+A 19 25
+A 18 25
+
+#10052
+flaming crucifix~
+a {Rf{rl{Ya{rm{Yi{rn{Rg c{rr{Yu{rc{Yi{rf{Yi{Rx{0~
+A {Rf{rl{Ya{rm{Yi{rn{Rg c{rr{Yu{rc{Yi{rf{Yi{Rx{0 lies on the floor.~
+weapon HZ AN
+sword 13 13 slash 0
+95 35 8000
+A 19 25
+A 18 25
+
+#10053
+crimson scarf~
+a {Rc{rrimso{Rn s{rcar{Rf{0~
+A {Rc{rrimso{Rn s{rcar{Rf{0 lies on the floor of the crypt.~
+weapon HM AN
+whip 12 12 whip ACD
+95 50 8000
+A 13 200
+A 19 25
+A 18 25
+
+#10054
+crimson potion~
+a {rcrimson{0 potion~
+A {rcrimson{0 potion shimmers strangely.~
+potion ABY A
+50 'heal' 'reserved' 'reserved' 'reserved'
+90 1 15571
+
+#10055
+vectors birthday card~
+{YV{yecto{Yr{w'{ys{x {FB{fi{Cr{ct{Yh{yd{fa{Fy{x {YC{wa{Dr{Yd{x~
+{YV{yecto{Yr{w'{ys{x {FB{fi{Cr{ct{Yh{yd{fa{Fy{x {YC{wa{Dr{Yd{x waits to surprise someone.~
+treasure GY AO
+0 0 0 0 0
+0 0 0
+E
+card~
+Happy Birthday to the Queen!
+ 
+We love you, 
+The Immortals and Players of DS
+~
+
+#10056
+elven sewn bag~
+an {Me{mlve{Mn {Ys{yew{Yn {Mb{ma{Mg{0~
+A delicately sewn cloth pouch lies here.~
+container 0 A
+500 0 0 50 10
+0 10 0
+
+#10057
+scroll tattered~
+a tattered scroll~
+A worn and tattered scroll has been left here.~
+scroll G A
+24 'bless' '' '' 'reserved'
+15 150 1280
+
+#10058
+dried fruit~
+some dried fruit~
+Some tasty looking morsels of food lie here.~
+food 0 A
+48 10 0 0 0
+0 1 8
+
+#10059
+skin elvish wine~
+a skin of with elvish wine~
+A skin filled with elvish wine lies here.~
+drinkcontainer GY AO
+70 70 'elvish wine' 0 0
+0 10 200
+
+#10060
+flames hell~
+{rF{Rl{Ya{Ym{Re{rs {Dof {rH{Rel{rl{x~
+A flaming tool of death has been dropped here.~
+weapon GHT AN
+dagger 14 13 scorch ADE
+100 40 7500
+A 12 100
+A 13 150
+A 17 -25
+A 18 25
+A 19 25
+
+#10061
+book ice mastery~
+book of {CI{Bc{ce{x Mastery~
+The Book of {CI{Bc{ce{x Mastery is here~
+wand AY AO
+110 11 13 'blizzard' 0
+100 10 200
+A 3 3
+A 20 -2
+A 13 300
+A 17 -20
+
+#10062
+darkwood bracer~
+{DD{ga{yr{Dk{gw{yo{Do{gd {wBracer{x~
+A bracer lies here.~
+armor E AM
+25 25 25 25 0
+101 30 1200
+A 20 -2
+A 13 300
+A 12 150
+A 1 2
+
+#10063
+darkwood sleeves~
+{DD{ga{yr{Dk{gw{yo{Do{gd {wSleeves{x~
+A pair of dark sleeves are here.~
+armor E AI
+24 24 24 24 0
+101 0 22778
+A 20 -3
+A 5 3
+A 1 2
+A 13 300
+A 19 10
+A 18 10
+
+#10064
+darkwood leggings~
+{DD{ga{yr{Dk{gw{yo{Do{gd {wLeggings{x~
+A pair of dark leggings lie here.~
+armor E AF
+24 24 24 24 0
+101 10 3000
+A 12 150
+A 1 3
+A 5 2
+A 13 300
+A 20 -3
+
+#10075
+restring token~
+{rA restring token{x~
+A shiny golden coin lies here.~
+jewelry Y A
+0 0 0 0 0
+0 1 0
+
+#10076
+sharpened fang~
+a {rsh{Da{rrpe{Dn{red {Wf{Da{wn{Wg{0~
+A {Rbl{roo{Rdy {Wf{Da{wn{Wg{0 lies in a pool of blood.~
+weapon GHIM AN
+dagger 14 13 sting ACD
+101 40 10000
+F A 0 0 V
+A 19 32
+A 18 32
+
+#10080
+silver klaive~
+{8a Silver {5Klaive{0~
+A long {8silver {5dagger{0 is inscribed with {#glowing runes.{0~
+weapon AG AN
+dagger 14 14 sting AB
+101 40 10000
+
+#10090
+can piss~
+a {Gc{ga{Gn {0of {Cw{car{Cm {Yp{yis{Ys{0~
+A {Gc{ga{Gn {0of {Cw{car{Cm {Yp{yis{Ys{0 waits for Atlas to taste it.~
+drinkcontainer 0 A
+50 50 'water' 0 0
+0 1 0
+
+#10099
+birthday cake~
+{Mb{Ci{mr{Yt{Wh{md{Ca{My c{Ca{mk{Ce{0~
+A tasty looking {Mb{Ci{mr{Yt{Wh{md{Ca{My c{Ca{mk{Ce{0 sits here.  Someone sure must like you!~
+food 0 A
+500 100 0 0 0
+0 1 0
+#0
+
+#ROOMS
+#10000
+From sea to snow~
+A fresh blanket of snow covers the landscape.  Trees are outlined
+in white.  The path is almost virginally pure, untouched by anything.
+Still peaceful snowflakes fall gently from the sky.  The icy kisses
+touch things almost lovingly.  Only a faint hint of the sun peaks
+through the covering of clouds.  The path leads to the north through
+the forest.  To the south the snow instantly turns to water as
+the sea suddenly opens in that direction.  
+~
+4 4
+D0
+~
+~
+0 0 10001
+D2
+~
+~
+0 0 65030
+S
+
+#10001
+Snowy Path~
+The snow is still undisturbed in this part of the forest.  No sign of
+life can be seen.  Snowflakes continue to fall.  
+~
+0 3
+D2
+~
+~
+0 0 10000
+D5
+~
+~
+0 0 10002
+S
+
+#10002
+Rim of the Valley~
+The view of the valley from this vantage point is breathtaking.  Sunlight
+reflects on the snow that covers everything.  A small frozen lake can be
+seen in the northern part of the valley.  The path leads down into the
+valley.  
+~
+0 3
+D4
+~
+~
+0 0 10001
+D5
+~
+~
+0 0 10003
+S
+
+#10003
+Valley of the Ice Giants~
+A feeling of peace transcends the valley as snow continues to fall.  A
+snow bird hops about looking for seeds to eat.  The path continues down into
+the valley.  
+~
+0 3
+D4
+~
+~
+0 0 10002
+D5
+~
+~
+0 0 10004
+S
+
+#10004
+Valley of the Ice Giants~
+The path turns to the east, continuing through the forest.  A solitary
+rabbit darts from a briar patch.  The bloodcurdling shriek it gives when a
+fox tears it to pieces is almost sickening.  Crimson spots of blood mar the
+virginal white of the snow.  
+~
+0 3
+D1
+~
+~
+0 0 10005
+D4
+~
+~
+0 0 10003
+S
+
+#10005
+Valley of the Ice Giants~
+Snowflakes drift down from the heavens, spiralling slowly toward the
+earth.  In the snow covering the path are huge footprints.  The creature
+that made them is indeed gigantic!  Better hope it's friendly as well.  
+~
+0 3
+D0
+~
+~
+0 0 10102
+D3
+~
+~
+0 0 10004
+D5
+~
+~
+0 0 10006
+S
+
+#10006
+Valley of the Ice Giants~
+The path finally levels, leading north into the valley.  Several inches
+of snow have fallen.  Dusk is quickly approaching.  Perhaps it would be a
+good time to seek shelter.  A huge oak tree lies to the east.  The branches
+are gnarled.  The bark has darkened with time.  
+~
+0 3
+D0
+~
+~
+0 0 10007
+D1
+~
+~
+0 0 10055
+D4
+~
+~
+0 0 10005
+S
+
+#10007
+Valley Floor~
+The covering of snow is thicker here.  The temperature has dropped until
+ice crystals have begun to form on nearby trees and bushes.  The path
+branches in several directions.  Huge footprints mar the fresh covering of
+snow.  Exits lead in the cardinal directions.  
+~
+0 3
+D0
+~
+~
+0 0 10014
+D1
+~
+~
+0 0 10008
+D2
+~
+~
+0 0 10006
+D3
+~
+~
+0 0 10011
+S
+
+#10008
+Valley Floor~
+The covering of snow is thicker here.  The temperature has dropped until
+ice crystals have begun to form on nearby trees and bushes.  The path
+branches in several directions.  Huge footprints mar the fresh covering of
+snow.  The path leads east and west.  
+~
+0 3
+D1
+~
+~
+0 0 10009
+D3
+~
+~
+0 0 10007
+S
+
+#10009
+Valley Floor~
+The covering of snow is thicker here.  The temperature has dropped until
+ice crystals have begun to form on nearby trees and bushes.  The path
+branches in several directions.  Huge footprints mar the fresh covering of
+snow.  The path leads south and west.  
+~
+0 3
+D2
+~
+~
+0 0 10010
+D3
+~
+~
+0 0 10008
+S
+
+#10010
+Valley Floor~
+The covering of snow is thicker here.  The temperature has dropped until
+ice crystals have begun to form on nearby trees and bushes.  The path
+branches in several directions.  Huge footprints mar the fresh covering of
+snow.  The path ends against a sheer rock face.  The only obvious exit leads
+to the north.  
+~
+0 3
+D0
+~
+~
+0 0 10009
+S
+
+#10011
+Valley Floor~
+The covering of snow is thicker here.  The temperature has dropped until
+ice crystals have begun to form on nearby trees and bushes.  The path
+branches in several directions.  Huge footprints mar the fresh covering of
+snow.  The path leads east and west.  
+~
+0 3
+D1
+~
+~
+0 0 10007
+D3
+~
+~
+0 0 10012
+S
+
+#10012
+Valley Floor~
+The covering of snow is thicker here.  The temperature has dropped until
+ice crystals have begun to form on nearby trees and bushes.  The path
+branches in several directions.  Huge footprints mar the fresh covering of
+snow.  The path leads north and east.  
+~
+0 3
+D0
+~
+~
+0 0 10013
+D1
+~
+~
+0 0 10011
+S
+
+#10013
+Valley Floor~
+The covering of snow is thicker here.  The temperature has dropped until
+ice crystals have begun to form on nearby trees and bushes.  The path
+branches in several directions.  Huge footprints mar the fresh covering of
+snow.  The path ends near a large chasm which skirts the edge of a glacier. 
+~
+0 3
+D2
+~
+~
+0 0 10012
+S
+
+#10014
+Valley Floor~
+The path widens and appears to have been well travelled.  Someone chops
+wood nearby, the sound echoing in the quiet air.  The path turns to the
+east.  
+~
+0 3
+D1
+~
+~
+0 0 10015
+D2
+~
+~
+0 0 10007
+S
+
+#10015
+Snowy Path to Wynterhaven~
+Quaint cottages and shops lie to the east in the center of the village. 
+The smell of roasting meat wafts through the air.  The path leads east into
+the village.  
+~
+4 3
+D0
+~
+~
+0 0 10031
+D1
+~
+~
+0 0 10016
+D3
+~
+~
+0 0 10014
+S
+
+#10016
+Wynterhaven~
+The snow covered path leads east into the village.  This is the fabled
+home of the frost giants.  Many books have been written about this mystical
+village.  It is rumored to have perished in the battle of the seven.  The
+path leads east and west.  Cottages lie to the north and south of the path. 
+~
+4 1
+D0
+~
+~
+0 0 10047
+D1
+~
+~
+0 0 10017
+D2
+~
+~
+0 0 10048
+D3
+~
+~
+0 0 10015
+S
+
+#10017
+Village Path~
+The snow covered path leads east and west.  Villagers go about their
+daily routines.  Yes, indeed!  This is home of the ice giants.  The
+villagers are huge, beautiful people.  One could easily stomp a small
+adventurer into the ground.  
+~
+4 1
+D0
+~
+~
+0 0 10049
+D1
+~
+~
+0 0 10018
+D2
+~
+~
+0 0 10050
+D3
+~
+~
+0 0 10016
+S
+
+#10018
+Village Path~
+The snow covered path widens slightly.  It leads east and west through
+the village.  The entrance to the bakery lies to the north.  The general
+store lies to the south.  
+~
+4 0
+D0
+~
+~
+0 0 10019
+D1
+~
+~
+0 0 10021
+D2
+~
+~
+0 0 10020
+D3
+~
+~
+0 0 10017
+S
+
+#10019
+Tonim's Bakery~
+The smells of freshly baked foods fill the air.  Several young girls
+busily prepare bread and rolls on a counter.  Pastries, pies, cookies!  Any
+delightful treat can be purchased in this shop.  
+~
+4 0
+D2
+~
+~
+0 0 10018
+S
+
+#10020
+Risaq's General Store~
+Neatly wrapped parcels fill the shelves of this small shop.  A storm
+lantern hangs near the counter.  Several crates sit near one wall.  A young
+boy places items on the appropriate shelf.  
+~
+0 0
+D0
+~
+~
+0 0 10018
+S
+
+#10021
+Village Path~
+The snow covered path widens slightly.  It leads east and west through
+the village.  Cottages lie to the north and south of the path.  
+~
+4 0
+D0
+~
+~
+0 0 10022
+D1
+~
+~
+0 0 10024
+D2
+~
+~
+0 0 10023
+D3
+~
+~
+0 0 10018
+S
+
+#10022
+A Cottage~
+The interior of the cottage is lit with the warmth of a small fire in the
+stone fireplace.  Large chairs sit around a huge oak table.  It is obvious
+someone of large stature lives here.  
+~
+0 0
+D2
+~
+~
+0 0 10021
+S
+
+#10023
+A Cottage~
+The interior of the cottage is lit with the warmth of a small fire in the
+stone fireplace.  Large chairs sit around a huge oak table.  It is obvious
+someone of large stature lives here.  
+~
+0 0
+D0
+~
+~
+0 0 10021
+S
+
+#10024
+Village Square~
+Statues of the four patron gods of the ice giants stand at the corners of
+the square.  Each has been painstakingly crafted from marble.  A thick
+blanket of snow covers the square.  Ice has formed over the water in the
+base of the fountain.  Exits lead in the cardinal directions.  
+~
+4 0
+D0
+~
+~
+0 0 10025
+D1
+~
+~
+0 0 10029
+D2
+~
+~
+0 0 10026
+D3
+~
+~
+0 0 10021
+S
+
+#10025
+Magical Surprises~
+The interior of the shop is dimly lit.  Shelves are filled with mystical
+items and ingredients for potions.  A cauldron filled with a simmering
+concoction hangs over an open flame in the fireplace.  
+~
+4 0
+D2
+~
+~
+0 0 10024
+S
+
+#10026
+Village Path~
+The path narrows slightly.  The snow bears the footprints of the many who
+have travelled through this part of the village.  The snow continues to fall
+blanketing everything in white.  Cottages lie to the east and west of the
+path.  
+~
+4 0
+D0
+~
+~
+0 0 10024
+D1
+~
+~
+0 0 10027
+D2
+~
+~
+0 0 10051
+D3
+~
+~
+0 0 10028
+S
+
+#10027
+A Cottage~
+The interior of the cottage is lit with the warmth of a small fire in the
+stone fireplace.  Large chairs sit around a huge oak table.  It is obvious
+someone of large stature lives here.  
+~
+0 0
+D3
+~
+~
+0 0 10026
+S
+
+#10028
+A Cottage~
+The interior of the cottage is lit with the warmth of a small fire in the
+stone fireplace.  Large chairs sit around a huge oak table.  It is obvious
+someone of large stature lives here.  
+~
+0 0
+D1
+~
+~
+0 0 10026
+S
+
+#10029
+Village Path~
+The snow covered path widens slightly.  It leads east and west through
+the village.  The entrance to the blacksmith's shop lies to the south.  
+~
+4 0
+D1
+~
+~
+0 0 10030
+D2
+~
+~
+0 0 10054
+D3
+~
+~
+0 0 10024
+S
+
+#10030
+Village Path~
+The path leads to the east out of the village.  Snow continues to fall,
+muffling the sounds with an icy blanket.  The temperature continues to drop.
+Icicles form on bushes and trees.  
+~
+0 0
+D2
+~
+~
+0 0 10133
+D3
+~
+~
+0 0 10029
+S
+
+#10031
+Icy Forest~
+Every tree is covered in snow and ice.  An eery feeling of the
+supernatural descends over this part of the valley.  
+~
+0 3
+D1
+~
+~
+0 0 10032
+D2
+~
+~
+0 0 10015
+S
+
+#10032
+Icy Forest~
+Every tree is covered in snow and ice.  An eery feeling of the
+supernatural descends over this part of the valley.  
+~
+0 3
+D0
+~
+~
+0 0 10033
+D1
+~
+~
+0 0 10035
+D3
+~
+~
+0 0 10031
+S
+
+#10033
+Icy Forest~
+Every tree is covered in snow and ice.  An eery feeling of the
+supernatural descends over this part of the valley.  
+~
+0 3
+D1
+~
+~
+0 0 10034
+D2
+~
+~
+0 0 10032
+S
+
+#10034
+Icy Forest~
+Every tree is covered in snow and ice.  An eery feeling of the
+supernatural descends over this part of the valley.  
+~
+0 3
+D2
+~
+~
+0 0 10035
+D3
+~
+~
+0 0 10033
+S
+
+#10035
+Icy Forest~
+Every tree is covered in snow and ice.  An eery feeling of the
+supernatural descends over this part of the valley.  
+~
+0 3
+D0
+~
+~
+0 0 10034
+D3
+~
+~
+0 0 10032
+D5
+~
+~
+0 0 10036
+S
+
+#10036
+On the Shore of the Frozen Lake~
+The banks of the lake are covered in ice and snow.  The temperature has
+dropped drastically.  The breath from your nostrils turns into plumes of
+steam.  There is no other way around the lake.  To reach the other side you
+must walk across the frozen surface.  
+~
+4 0
+D0
+~
+~
+0 0 10037
+D1
+~
+~
+0 0 10039
+D2
+~
+~
+0 0 10038
+D4
+~
+~
+0 0 10035
+S
+
+#10037
+On the Shore of the Frozen Lake~
+The banks of the lake are covered in ice and snow.  The temperature has
+dropped drastically.  The breath from your nostrils turns into plumes of
+steam.  There is no other way around the lake.  To reach the other side you
+must walk across the frozen surface.  
+~
+4 0
+D2
+~
+~
+0 0 10036
+S
+
+#10038
+On the Shore of the Frozen Lake~
+The banks of the lake are covered in ice and snow.  The temperature has
+dropped drastically.  The breath from your nostrils turns into plumes of
+steam.  There is no other way around the lake.  To reach the other side you
+must walk across the frozen surface.  
+~
+4 0
+D0
+~
+~
+0 0 10036
+S
+
+#10039
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D0
+~
+~
+0 0 10040
+D1
+~
+~
+0 0 10045
+D2
+~
+~
+0 0 10041
+D3
+~
+~
+0 0 10036
+S
+
+#10040
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D1
+~
+~
+0 0 10046
+D2
+~
+~
+0 0 10039
+S
+
+#10041
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D0
+~
+~
+0 0 10039
+D1
+~
+~
+0 0 10044
+D2
+~
+~
+0 0 10042
+S
+
+#10042
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D0
+~
+~
+0 0 10041
+D1
+~
+~
+0 0 10043
+S
+
+#10043
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D0
+~
+~
+0 0 10044
+D3
+~
+~
+0 0 10042
+S
+
+#10044
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D0
+~
+~
+0 0 10045
+D2
+~
+~
+0 0 10043
+D3
+~
+~
+0 0 10041
+S
+
+#10045
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D0
+~
+~
+0 0 10046
+D1
+~
+~
+0 0 10067
+D2
+~
+~
+0 0 10044
+D3
+~
+~
+0 0 10039
+S
+
+#10046
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D1
+~
+~
+0 0 10061
+D2
+~
+~
+0 0 10045
+D3
+~
+~
+0 0 10040
+S
+
+#10047
+A Cottage~
+The interior of the cottage is lit with the warmth of a small fire in the
+stone fireplace.  Large chairs sit around a huge oak table.  It is obvious
+someone of large stature lives here.  A beautifully carved toy box sits in
+one corner.  
+~
+4 0
+D2
+~
+~
+0 0 10016
+D5
+~
+box~
+0 0 10068
+S
+
+#10048
+A Cottage~
+The interior of the cottage is lit with the warmth of a small fire in the
+stone fireplace.  Large chairs sit around a huge oak table.  It is obvious
+someone of large stature lives here.  
+~
+0 0
+D0
+~
+~
+0 0 10016
+S
+
+#10049
+A Cottage~
+The interior of the cottage is lit with the warmth of a small fire in the
+stone fireplace.  Large chairs sit around a huge oak table.  It is obvious
+someone of large stature lives here.  
+~
+4 0
+D2
+~
+~
+0 0 10017
+S
+
+#10050
+A Cottage~
+The interior of the cottage is lit with the warmth of a small fire in the
+stone fireplace.  Large chairs sit around a huge oak table.  It is obvious
+someone of large stature lives here.  
+~
+4 0
+D0
+~
+~
+0 0 10017
+S
+
+#10051
+Village Path~
+The path leads to the north and south.  Two temples lie to the east and
+west.  Those seeking knowledge venture to eastern temple.  Those seeking the
+healing arts visit the western temple.  
+~
+4 1
+D0
+~
+~
+0 0 10026
+D1
+~
+~
+0 0 10052
+D2
+~
+~
+0 0 10199
+D3
+~
+~
+0 0 10053
+S
+
+#10052
+Temple of the Ancient Warrior~
+Weapons of every type and kind line the walls of the temple.  Each has
+been honed to a razor sharpness.  Scrolls and tomes containing ancient words
+of magic sit on a low table in one corner.  The warrior is rumored to be
+well versed in all fighting arts and magic as well.  
+~
+0 0
+D3
+~
+~
+0 0 10051
+S
+
+#10053
+Temple of the Healer~
+The interior of this rather large cottage is furnished rather simply. 
+The villagers worked hard to construct this temple to house the healer in. 
+She is treated with the utmost respect.  
+~
+4 0
+D1
+~
+~
+0 0 10051
+S
+
+#10054
+Blacksmith's Shop~
+The interior of the smithy is filled with a haze of smoke.  A heavily
+muscled man stands near a huge anvil pounding a piece of iron into the shape
+of a broadsword.  Weapons hang from brackets on the walls of the smithy. 
+The weapons from this very shop have slain some of the most famous warriors
+this realm has ever known.  
+~
+0 0
+D0
+~
+~
+0 0 10029
+S
+
+#10055
+Base of the Oak Tree~
+The ancient oak stands alone at this point in the valley.  Huge limbs
+offers shade during spring and summer.  Many animals call this tree home.  
+~
+4 0
+D3
+~
+~
+0 0 10006
+D4
+~
+~
+0 0 10056
+S
+
+#10056
+In the Tree Top~
+Much of the valley is visible from this vantage point.  The tree is
+indeed ancient and mighty.  Large branches grow from the trunk.  
+~
+0 0
+D0
+~
+~
+0 0 10058
+D1
+~
+~
+0 0 10060
+D2
+~
+~
+0 0 10059
+D3
+~
+~
+0 0 10057
+D5
+~
+~
+0 0 10055
+S
+
+#10057
+On a Limb~
+The limb stretches out over the ground below.  It is covered lightly with
+snow.  A few leaves cling heroically to a twig.  The only exit leads south
+to the main tree trunk.  
+~
+0 0
+D1
+~
+~
+0 0 10056
+S
+
+#10058
+On a Limb~
+The limb stretches out over the ground below.  It is covered lightly with
+snow.  A few leaves cling heroically to a twig.  The only exit leads south
+to the main tree trunk.  
+~
+0 0
+D2
+~
+~
+0 0 10056
+S
+
+#10059
+On a Limb~
+The limb stretches out over the ground below.  It is covered lightly with
+snow.  A few leaves cling heroically to a twig.  The only exit leads south
+to the main tree trunk.  
+~
+0 0
+D0
+~
+~
+0 0 10056
+S
+
+#10060
+On a Limb~
+The limb stretches out over the ground below.  It is covered lightly with
+snow.  A few leaves cling heroically to a twig.  The only exit leads south
+to the main tree trunk.  
+~
+0 0
+D3
+~
+~
+0 0 10056
+S
+
+#10061
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D1
+~
+~
+0 0 10062
+D2
+~
+~
+0 0 10067
+D3
+~
+~
+0 0 10046
+S
+
+#10062
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D2
+~
+~
+0 0 10063
+D3
+~
+~
+0 0 10061
+S
+
+#10063
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D0
+~
+~
+0 0 10062
+D2
+~
+~
+0 0 10064
+D3
+~
+~
+0 0 10067
+S
+
+#10064
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D0
+~
+~
+0 0 10063
+D3
+~
+~
+0 0 10065
+S
+
+#10065
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D0
+~
+~
+0 0 10067
+D1
+~
+~
+0 0 10064
+D2
+~
+~
+0 0 10066
+S
+
+#10066
+On the Lake of Ice~
+~
+0 0
+D0
+~
+~
+0 0 10065
+S
+
+#10067
+On the Lake of Ice~
+The surface of the lake is frozen and covered in a thin layer of snow. 
+Footprints of animals criss-cross the surface of the lake.  Many have
+crossed here in order to reach the other side.  Perhaps it is safe to
+journey here after all.  
+~
+0 0
+D0
+~
+~
+0 0 10061
+D1
+~
+~
+0 0 10063
+D2
+~
+~
+0 0 10065
+D3
+~
+~
+0 0 10045
+S
+
+#10068
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+5 0
+D1
+~
+~
+0 0 10069
+D2
+~
+~
+0 0 10073
+D4
+~
+~
+0 0 10047
+S
+
+#10069
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D1
+~
+~
+0 0 10070
+D2
+~
+~
+0 0 10072
+D3
+~
+~
+0 0 10068
+S
+
+#10070
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D2
+~
+~
+0 0 10071
+D3
+~
+~
+0 0 10069
+S
+
+#10071
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10070
+D2
+~
+~
+0 0 10075
+D3
+~
+~
+0 0 10072
+S
+
+#10072
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10069
+D1
+~
+~
+0 0 10071
+D2
+~
+~
+0 0 10074
+D3
+~
+~
+0 0 10073
+D5
+~
+~
+0 0 10077
+S
+
+#10073
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10068
+D1
+~
+~
+0 0 10072
+D2
+~
+~
+0 0 10076
+S
+
+#10074
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10072
+D1
+~
+~
+0 0 10075
+D3
+~
+~
+0 0 10076
+S
+
+#10075
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10071
+D3
+~
+~
+0 0 10074
+S
+
+#10076
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10073
+D1
+~
+~
+0 0 10074
+S
+
+#10077
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10082
+D1
+~
+~
+0 0 10078
+D2
+~
+~
+0 0 10081
+D3
+~
+~
+0 0 10084
+D4
+~
+~
+0 0 10072
+S
+
+#10078
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10080
+D2
+~
+~
+0 0 10079
+D3
+~
+~
+0 0 10077
+S
+
+#10079
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10078
+D3
+~
+~
+0 0 10081
+S
+
+#10080
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D2
+~
+~
+0 0 10078
+D3
+~
+~
+0 0 10082
+S
+
+#10081
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10077
+D1
+~
+~
+0 0 10079
+D3
+~
+~
+0 0 10085
+S
+
+#10082
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D1
+~
+~
+0 0 10080
+D2
+~
+~
+0 0 10077
+D3
+~
+~
+0 0 10083
+S
+
+#10083
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D1
+~
+~
+0 0 10082
+D2
+~
+~
+0 0 10084
+S
+
+#10084
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10083
+D1
+~
+~
+0 0 10077
+D2
+~
+~
+0 0 10085
+S
+
+#10085
+Inside the Toy Box~
+Toys lie everywhere in the toy box.  Blocks are strewn about.  Bits and
+pieces of cookies lie here.  The child who owns the many toys sits here
+sometimes eating cookies and playing quietly.  
+~
+1 0
+D0
+~
+~
+0 0 10084
+D1
+~
+~
+0 0 10081
+S
+
+#10086
+Before the Crypt~
+"Prophet!" said I, "thing of evil!--prophet still, if bird or devil!
+Whether tempter sent, or whether tempest tossed thee here ashore,
+Desolate, yet all undaunted, on this desert land enchanted--
+On this home by horror haunted--tell me truly, I implore:
+Is there--is there balm in Gilead?--tell me--tell me I implore!"
+Quoth the raven, "Nevermore."
+ 
+excerpt from The Raven by Edgar Allen Poe
+~
+4 0
+S
+
+#10087
+Entrance to the Bloodstone~
+The walls are panelled in dark teak.  The highly polished marble floor
+gleams in the dim light of the torches that line the hall.  Murals depicting
+the creation of apprentices decorate the vaulted ceiling.  The hall leads to
+the north.  
+~
+5 0
+D0
+~
+~
+0 0 10088
+S
+
+#10088
+Darkened Hallway~
+The walls are panelled in dark teak.  The highly polished marble floor
+gleams in the dim light of the torches that line the hall.  Murals depicting
+the creation of apprentices decorate the vaulted ceiling.  The hall leads to
+the north.  
+~
+5 0
+D0
+~
+~
+0 0 10089
+D2
+~
+~
+0 0 10087
+S
+
+#10089
+Darkened Hallway~
+The walls are panelled in dark teak.  The highly polished marble floor
+gleams in the dim light of the torches that line the hall.  Murals depicting
+the creation of apprentices decorate the vaulted ceiling.  The only obvious
+exit leads back to the south.  
+~
+5 0
+D0
+~
+door~
+0 0 10090
+D2
+~
+~
+0 0 10088
+S
+
+#10090
+Antechamber~
+Haunting violin music fills the air.  Torches flutter in a breeze that
+comes from the north.  The walls are made of mahogany and intricately
+carved.  The only obvious exit leads back to the south.  
+~
+5 0
+D0
+~
+door~
+0 0 10093
+D1
+~
+door~
+0 0 10092
+D2
+~
+~
+0 0 10089
+D3
+~
+door~
+0 0 10091
+S
+
+#10091
+Chamber of the Daywalkers~
+The circular walls shimmer with an unseen light.  There are no windows to
+shed light into this chamber.  The torches have long since gone out.  A
+chill lingers in the air.  Each apprentice is gradually weaned from the
+light so daywalking is possible.  
+~
+5 0
+D1
+~
+~
+0 0 10090
+S
+
+#10092
+Deprivation Chamber~
+The chamber is circular in shape.  This is where the very life is taken
+from each apprentice.  As each nears death the blood of rodents are fed to
+them.  It is then they come closer to their final journey.  
+~
+5 0
+D3
+~
+~
+0 0 10090
+S
+
+#10093
+Short Dark Hallway~
+The strange violin music comes from the north.  It echoes quietly through
+the hall.  The haunting melody seems almost to consume your very soul.  
+~
+8197 0
+D0
+~
+Crypt of Obyrii~
+0 0 10094
+D2
+~
+~
+0 0 10090
+S
+
+#10094
+Crypt of Obyrii~
+The darkness is all consuming.  The very shadows seem to take solace in
+the sense of evil that fills this place.  There is no light, the torches are
+long since cold and dead.  
+~
+4 0
+D1
+~
+~
+0 0 10095
+D2
+~
+~
+0 0 10093
+S
+
+#10095
+Crypt of Obyrii~
+The darkness is all consuming.  The very shadows seem to take solace in
+the sense of evil that fills this place.  There is no light, the torches are
+long since cold and dead.  
+~
+4 0
+D0
+~
+~
+0 0 10096
+D3
+~
+~
+0 0 10094
+S
+
+#10096
+Crypt of Obyrii~
+The darkness is all consuming.  The very shadows seem to take solace in
+the sense of evil that fills this place.  There is no light, the torches are
+long since cold and dead.  
+~
+4 0
+D0
+~
+~
+0 0 10097
+D2
+~
+~
+0 0 10095
+S
+
+#10097
+Crypt of Obyrii~
+The darkness is all consuming.  The very shadows seem to take solace in
+the sense of evil that fills this place.  There is no light, the torches are
+long since cold and dead.  
+~
+4 0
+D2
+~
+~
+0 0 10096
+D3
+~
+~
+0 0 10098
+S
+
+#10098
+Crypt of Obyrii~
+The darkness is all consuming.  The very shadows seem to take solace in
+the sense of evil that fills this place.  There is no light, the torches are
+long since cold and dead.  
+~
+4 0
+D1
+~
+~
+0 0 10097
+D3
+~
+~
+0 0 10099
+S
+
+#10099
+Crypt of Obyrii~
+The darkness is all consuming.  The very shadows seem to take solace in
+the sense of evil that fills this place.  There is no light, the torches are
+long since cold and dead.  
+~
+4 0
+D1
+~
+~
+0 0 10098
+D2
+~
+~
+0 0 10100
+S
+
+#10100
+Crypt of Obyrii~
+The darkness is all consuming.  The very shadows seem to take solace in
+the sense of evil that fills this place.  There is no light, the torches are
+long since cold and dead.  
+~
+4 0
+D0
+~
+~
+0 0 10099
+D2
+~
+~
+0 0 10101
+S
+
+#10101
+Crypt of Obyrii~
+The darkness is all consuming.  The very shadows seem to take solace in
+the sense of evil that fills this place.  There is no light, the torches are
+long since cold and dead.  
+~
+4 0
+D0
+~
+~
+0 0 10100
+D1
+~
+~
+0 0 10094
+S
+
+#10102
+Forest of Bulgaros~
+The darkness is overwhelming.  It lingers over the forest much as the
+plague does over the tiny village of Bulgaros.  It is rumored the vampires
+brought the plague to this place when they settled here.  The path winds
+through the forest, leading to the north.  A sliver of silver moon peeps
+through the darkness clouds.  In the distance, a wolf howls.  
+~
+8197 3
+D0
+~
+~
+0 0 10103
+D2
+~
+~
+0 0 10005
+S
+
+#10103
+Forest of Bulgaros~
+The trees are almost skeletal.  Long, thing twigs are visible in the
+silver light of the moon.  A wild animal scurries across the path.  From
+just to the north an angry villager is shouting.  
+~
+8197 0
+D0
+~
+~
+0 0 10110
+D1
+~
+~
+0 0 10104
+D2
+~
+~
+0 0 10102
+S
+
+#10104
+Forest of Bulgaros~
+The path narrows slightly.  Heavy brush and undergrowth surrounds the
+path on all sides.  A fluttering bat dips down from the sky.  Again, the
+lonesome howl of the wolf comes from not so far away.  
+~
+8197 0
+D0
+~
+~
+0 0 10107
+D1
+~
+~
+0 0 10105
+D3
+~
+~
+0 0 10103
+S
+
+#10105
+Forest of Bulgaros~
+The path narrows slightly.  Heavy brush and undergrowth surrounds the
+path on all sides.  A fluttering bat dips down from the sky.  Again, the
+lonesome howl of the wolf comes from not so far away.  
+~
+8197 0
+D0
+~
+~
+0 0 10106
+D3
+~
+~
+0 0 10104
+S
+
+#10106
+A Clearing~
+A clear brook runs through the center of the clearing.  Frogs croak and
+sing in the moonlight.  The sense of fear that overwhelms the other parts of
+the forest seem to have disappeared from this place.  
+~
+1 2
+D2
+~
+~
+0 0 10105
+S
+
+#10107
+Forest of Bulgaros~
+The path narrows slightly.  Heavy brush and undergrowth surrounds the
+path on all sides.  A fluttering bat dips down from the sky.  Again, the
+lonesome howl of the wolf comes from not so far away.  
+~
+8197 0
+D0
+~
+~
+0 0 10109
+D2
+~
+~
+0 0 10104
+D3
+~
+~
+0 0 10108
+S
+
+#10108
+Forest of Bulgaros~
+The path narrows slightly.  Heavy brush and undergrowth surrounds the
+path on all sides.  A fluttering bat dips down from the sky.  Again, the
+lonesome howl of the wolf comes from not so far away.  
+~
+8197 0
+D1
+~
+~
+0 0 10107
+D3
+~
+~
+0 0 10110
+S
+
+#10109
+Forest of Bulgaros~
+The path narrows slightly.  Heavy brush and undergrowth surrounds the
+path on all sides.  A fluttering bat dips down from the sky.  Again, the
+lonesome howl of the wolf comes from not so far away.  
+~
+8197 0
+D2
+~
+~
+0 0 10107
+S
+
+#10110
+Forest of Bulgaros~
+The path narrows slightly.  Heavy brush and undergrowth surrounds the
+path on all sides.  A fluttering bat dips down from the sky.  Again, the
+lonesome howl of the wolf comes from not so far away.  
+~
+8197 0
+D0
+~
+~
+0 0 10111
+D1
+~
+~
+0 0 10108
+D2
+~
+~
+0 0 10103
+S
+
+#10111
+Forest of Bulgaros~
+The path narrows slightly.  Heavy brush and undergrowth surrounds the
+path on all sides.  A fluttering bat dips down from the sky.  Again, the
+lonesome howl of the wolf comes from not so far away.  
+~
+8197 0
+D0
+~
+~
+0 0 10114
+D2
+~
+~
+0 0 10110
+D3
+~
+~
+0 0 10112
+S
+
+#10112
+Forest of Bulgaros~
+The path narrows slightly.  Heavy brush and undergrowth surrounds the
+path on all sides.  A fluttering bat dips down from the sky.  Again, the
+lonesome howl of the wolf comes from not so far away.  
+~
+8197 0
+D0
+~
+~
+0 0 10113
+D1
+~
+~
+0 0 10111
+S
+
+#10113
+A Clearing~
+A clear brook runs through the center of the clearing.  Frogs croak and
+sing in the moonlight.  The sense of fear that overwhelms the other parts of
+the forest seem to have disappeared from this place.  
+~
+1 2
+D2
+~
+~
+0 0 10112
+S
+
+#10114
+Forest of Bulgaros~
+The path narrows slightly.  Heavy brush and undergrowth surrounds the
+path on all sides.  A fluttering bat dips down from the sky.  Again, the
+lonesome howl of the wolf comes from not so far away.  
+~
+8197 0
+D0
+~
+~
+0 0 10115
+D2
+~
+~
+0 0 10111
+S
+
+#10115
+In the Clearing~
+A dark mansion stands in the clearing.  The windows are covered with
+heavy iron bars.  The massive oak doors are closed.  It appears the place is
+deserted.  The only sign of life are the villagers who scream as they search
+the forest for vampires.  
+~
+4 0
+D2
+~
+~
+0 0 10114
+D4
+~
+door~
+0 0 10116
+S
+
+#10116
+Inside the Mansion~
+The foyer floor echoes quietly beneath your feet.  Torches flicker dimly
+to shed a bit of light about this place.  There is no obvious sign of life. 
+~
+4 0
+D0
+~
+~
+0 0 10117
+D5
+~
+~
+0 0 10115
+S
+
+#10117
+Hallway~
+The hallway is dark and deserted.  A rat scurries across the floor just
+to the north.  For a moment the sound of haunting violin music can be heard
+to the north.  It is gone just as quickly as it came.  
+~
+4 0
+D0
+~
+~
+0 0 10119
+D1
+~
+~
+0 0 10118
+D2
+~
+~
+0 0 10116
+S
+
+#10118
+Sitting Room~
+Heavy cloth covers have been thrown across the fine furnishings that sit
+about the room.  A thick layer of dust implies that this fine mansion has
+not had any visitors in a very long time.  
+~
+4 0
+D3
+~
+~
+0 0 10117
+S
+
+#10119
+Hallway~
+The hallway is dark and silent.  There is no obvious sign of life here.  
+~
+4 0
+D0
+~
+~
+0 0 10121
+D2
+~
+~
+0 0 10117
+D3
+~
+~
+0 0 10120
+S
+
+#10120
+Study~
+The study sits empty.  Dust and cobwebs cover almost every part of this
+room.  It is as deserted as the sitting room.  
+~
+4 0
+D1
+~
+~
+0 0 10119
+S
+
+#10121
+Hallway~
+The hallway is dark and silent.  There is no obvious sign of life here. 
+Doors lead to the east and west.  
+~
+4 0
+D1
+~
+door~
+0 0 10125
+D2
+~
+~
+0 0 10119
+D3
+~
+door~
+0 0 10122
+S
+
+#10122
+West Wing~
+The hall is silent and dark.  Torches flicker feebly to dispel the heavy
+cloak of darkness that has fallen over this place.  
+~
+4 0
+D0
+~
+~
+0 0 10123
+D1
+~
+~
+0 0 10121
+D3
+~
+~
+0 0 10124
+S
+
+#10123
+Deserted Chamber~
+The chamber floor is littered with bits of debris and rubble.  Furniture
+lies in pieces on the floor.  There is no sign of life in this place.  
+~
+4 0
+D2
+~
+~
+0 0 10122
+S
+
+#10124
+Ruins of the West Wing~
+The walls of the west wing have collapsed inward.  The villagers had set
+fire to this part of the mansion in hopes of destroying all who lived here. 
+Their plan was unsuccessful.  
+~
+4 0
+D1
+~
+~
+0 0 10122
+S
+
+#10125
+East Wing~
+The east wing is more elegant than any part of the mansion.  The floor is
+covered in thick crimson carpet.  Small crystal chandeliers shed a warm
+golden light about this part of the mansion.  
+~
+4 0
+D1
+~
+~
+0 0 10126
+D3
+~
+~
+0 0 10121
+S
+
+#10126
+East Wing~
+The east wing is more elegant than any part of the mansion.  The floor is
+covered in thick crimson carpet.  Small crystal chandeliers shed a warm
+golden light about this part of the mansion.  
+~
+4 0
+D0
+~
+crypt~
+0 0 10127
+D1
+~
+~
+0 0 10129
+D2
+~
+crypt~
+0 0 10128
+D3
+~
+~
+0 0 10125
+S
+
+#10127
+Srin-Po's Crypt~
+The darkness inside this place is heavy.  The crypt is lined in black
+satin.  A luxurious pillow lies at the north end of the crypt for Srin-Po to
+rest his head on.  
+~
+8197 0
+D2
+~
+~
+0 0 10126
+S
+
+#10128
+Baobhan Sith's Crypt~
+The scent of roses comes faintly from within this crypt.  The interior is
+lined with crimson satin.  
+~
+8197 0
+D0
+~
+~
+0 0 10126
+S
+
+#10129
+East Wing~
+The east wing is more elegant than any part of the mansion.  The floor is
+covered in thick crimson carpet.  Small crystal chandeliers shed a warm
+golden light about this part of the mansion.  
+~
+4 0
+D0
+~
+crypt~
+0 0 10130
+D2
+~
+crypt~
+0 0 10131
+D3
+~
+~
+0 0 10126
+D5
+~
+panel~
+0 10048 10176
+S
+
+#10130
+Langsoir's Crypt~
+The black satin of the crypt makes odd swishing sounds as you move about.
+A few drops of fresh blood mar the black satin pillow that lies at the north
+end of the crypt.  
+~
+8193 0
+D2
+~
+~
+0 0 10129
+S
+
+#10131
+Ai Apaec's Crypt~
+The warm golden hue of the satin that lines this crypt are almost
+soothing to the soul.  A faded black cape lies crumpled on the pillow.  
+~
+8193 0
+D0
+~
+~
+0 0 10129
+S
+
+#10133
+Village Bank~
+The interior of the building is well lit.  Several brass lanterns hang on
+the walls.  A warm fire blazes in the stone hearth.  Several large
+iron-bound chests sit against one wall.  Two burly guards watch over the
+chests with their lives.  
+~
+0 0
+D0
+~
+~
+0 0 10030
+S
+
+#10176
+Deserted Stairway~
+The stairway is dark and foreboding.  The torch that hangs on one wall
+flickers dimly.  
+~
+4 0
+D1
+~
+sarcophagus~
+0 0 10198
+D4
+~
+~
+0 0 10129
+S
+
+#10197
+A Cabin~
+~
+4 0
+S
+
+#10198
+Fake Sarcophagus~
+The sarcophagus has been placed here to lure unsuspecting villagers into
+its depths.  The lid is then closed and locked.  All who fall prey to this
+trap then perish.  
+~
+4 0
+D3
+~
+~
+0 0 10176
+S
+
+#10199
+Deserted Church~
+The interior of the church is littered with trash and debris.  Broken
+pews lie about.  Shattered stained glass windows allow the snow and ice to
+enter the church.  Several rats seem to have made the altar their home.  A
+nest of grass lies at the top of the altar.  It is filled with squeaking
+baby rats.  
+~
+0 0
+D0
+~
+~
+0 0 10051
+S
+#0
+
+#SPECIALS
+M 10003 spec_cast_adept
+M 10011 spec_guard
+M 10012 spec_guard
+M 10036 spec_breath_any
+M 10037 spec_breath_any
+M 10038 spec_breath_any
+M 10098 spec_breath_any
+S
+
+#RESETS
+M 100 10006 50 10001 2
+M 100 10006 50 10001 2
+M 100 10007 50 10002 1
+M 100 10006 50 10002 1
+M 100 10006 50 10005 2
+M 100 10007 50 10005 2
+M 100 10010 50 10007 1
+M 100 10006 50 10008 1
+M 100 10007 50 10008 1
+M 100 10008 50 10008 1
+M 100 10008 50 10011 1
+M 100 10007 50 10012 1
+M 100 10006 50 10013 1
+M 100 10010 50 10014 1
+E 100 10042 0 17
+M 100 10011 50 10016 1
+E 100 10029 0 16
+E 100 10022 0 3
+M 100 10012 50 10016 1
+E 100 10023 0 8
+M 100 10016 0 10017 1
+E 100 10035 0 0
+M 100 10011 50 10018 1
+M 100 10000 0 10019 1
+G 100 10005 0
+G 100 10004 0
+G 100 10003 0
+G 100 10002 0
+G 100 10001 0
+M 100 10001 0 10020 1
+G 100 10009 0
+G 100 10008 0
+G 100 10007 0
+G 100 10006 0
+M 100 10011 50 10021 1
+E 100 10024 0 6
+M 100 10012 50 10021 1
+E 100 10025 0 5
+M 100 10013 0 10022 1
+M 100 10014 0 10022 1
+M 100 10015 0 10022 1
+E 100 10033 0 24
+M 100 10013 0 10023 1
+M 100 10014 0 10023 1
+M 100 10015 0 10023 1
+O 100 10000 0 10024
+M 100 10012 50 10024 1
+E 100 10026 0 13
+M 100 10011 50 10026 1
+E 100 10028 0 11
+M 100 10012 50 10026 1
+E 100 10026 0 13
+M 100 10012 50 10026 1
+E 100 10031 0 16
+M 100 10013 0 10027 1
+M 100 10014 0 10027 1
+M 100 10015 0 10027 1
+M 100 10013 0 10028 1
+M 100 10014 0 10028 1
+M 100 10015 0 10028 1
+M 100 10011 50 10029 1
+E 100 10030 0 16
+M 100 10012 50 10029 1
+E 100 10027 0 7
+M 100 10011 50 10030 1
+E 100 10028 0 11
+M 100 10012 50 10030 1
+E 100 10031 0 16
+M 100 10019 0 10032 1
+M 100 10018 0 10033 1
+M 100 10017 0 10034 1
+M 100 10017 0 10036 1
+M 100 10018 0 10036 1
+M 100 10019 0 10036 1
+M 100 10017 0 10040 1
+M 100 10018 0 10040 1
+M 100 10019 0 10040 1
+M 100 10017 0 10044 1
+M 100 10018 0 10044 1
+M 100 10019 0 10044 1
+M 100 10017 0 10046 1
+M 100 10018 0 10046 1
+M 100 10019 0 10046 1
+M 100 10013 0 10047 1
+M 100 10014 0 10047 1
+M 100 10015 0 10047 1
+E 100 10032 0 21
+M 100 10013 0 10048 1
+M 100 10014 0 10048 1
+M 100 10015 0 10048 1
+M 100 10013 0 10049 1
+M 100 10014 0 10049 1
+M 100 10015 0 10049 1
+M 100 10013 0 10050 1
+M 100 10014 0 10050 1
+M 100 10015 0 10050 1
+M 100 10011 50 10051 1
+E 100 10028 0 11
+M 100 10011 50 10051 1
+E 100 10031 0 16
+M 100 10011 50 10051 1
+E 100 10026 0 13
+M 100 10004 10 10052 1
+M 100 10005 10 10054 1
+G 100 10038 0
+G 100 10040 0
+G 100 10019 0
+G 100 10018 0
+G 100 10017 0
+G 100 10016 0
+M 100 10009 0 10056 1
+E 100 10021 0 16
+M 100 10008 50 10057 1
+E 100 10034 0 20
+M 100 10008 50 10058 1
+E 100 10020 0 20
+M 100 10008 50 10059 1
+M 100 10008 50 10060 1
+M 100 10017 0 10063 1
+M 100 10018 0 10063 1
+M 100 10019 0 10063 1
+M 100 10020 0 10069 1
+M 100 10021 0 10069 1
+M 100 10022 0 10069 1
+M 100 10023 0 10069 1
+M 100 10024 0 10069 1
+M 100 10020 0 10073 1
+M 100 10021 0 10073 1
+M 100 10022 0 10076 1
+M 100 10023 0 10076 1
+M 100 10024 0 10076 1
+M 100 10020 0 10079 3
+M 100 10021 0 10079 3
+M 100 10022 0 10079 1
+M 100 10023 0 10079 1
+M 100 10024 0 10079 1
+M 100 10020 0 10079 1
+M 100 10024 0 10079 1
+M 100 10021 0 10083 1
+M 100 10022 0 10083 1
+M 100 10023 0 10083 1
+O 100 10041 0 10086
+M 100 10025 0 10088 2
+M 100 10026 0 10089 2
+M 100 10028 0 10091 3
+E 100 10044 0 3
+M 100 10027 0 10092 3
+E 100 10043 0 1
+M 100 10029 0 10094 2
+M 100 10030 0 10096 6
+M 100 10030 0 10096 6
+M 100 10030 0 10096 6
+M 100 10030 0 10096 6
+M 100 10030 0 10096 6
+M 100 10030 0 10096 6
+M 100 10030 0 10099 6
+M 100 10030 0 10099 6
+M 100 10030 0 10099 6
+M 100 10030 0 10099 6
+M 100 10030 0 10099 6
+M 100 10030 0 10099 6
+M 100 10031 0 10100 1
+E 100 10060 0 16
+E 100 10045 0 17
+M 100 10032 0 10101 1
+E 100 10046 0 25
+M 100 10033 0 10101 1
+E 100 10076 0 16
+E 100 10047 0 18
+M 100 10034 0 10103 3
+M 100 10034 0 10107 3
+E 100 10064 0 7
+M 100 10034 0 10109 3
+E 100 10062 0 14
+M 100 10034 0 10110 3
+E 100 10063 0 10
+M 100 10035 0 10111 3
+M 100 10034 0 10112 2
+M 100 10034 0 10112 2
+M 100 10035 0 10112 2
+M 100 10035 0 10112 2
+M 100 10034 0 10114 2
+M 100 10034 0 10114 2
+M 100 10035 0 10114 2
+M 100 10035 0 10114 2
+M 100 10034 0 10117 1
+M 100 10035 0 10117 1
+M 100 10034 0 10119 1
+M 100 10035 0 10119 1
+M 100 10034 0 10120 1
+E 100 10061 0 17
+M 100 10034 0 10121 1
+M 100 10035 0 10121 1
+M 100 10034 0 10122 1
+M 100 10035 0 10122 1
+M 100 10034 0 10125 1
+M 100 10035 0 10125 1
+M 100 10034 0 10126 1
+M 100 10035 0 10126 1
+M 100 10098 0 10127 1
+E 100 10051 0 16
+M 100 10098 0 10128 1
+E 100 10052 0 16
+M 100 10034 0 10129 1
+M 100 10035 0 10129 1
+G 100 10048 0
+M 100 10037 0 10130 1
+E 100 10053 0 16
+M 100 10038 0 10131 1
+G 100 10054 0
+M 100 10040 0 10133 1
+M 100 10039 0 10197 1
+G 100 10059 0
+G 100 10058 0
+G 100 10057 0
+G 100 10056 0
+M 100 10034 0 10198 2
+M 100 10035 0 10198 2
+G 100 10049 0
+M 100 10099 0 10199 1
+G 100 10050 0
+S
+
+#SHOPS
+10000 19 17 0 0 0 150 0 0 23
+10001 1 15 17 19 0 150 40 0 23
+10002 10 26 2 3 4 100 40 0 23
+10005 5 9 0 0 0 150 40 0 23
+0
+
+#$

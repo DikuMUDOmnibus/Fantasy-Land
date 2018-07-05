@@ -1,0 +1,3787 @@
+#AREADATA
+Name Scottish Highlands~
+Builders None~
+VNUMs 4200 4299
+Credits [ 10 100] Ameth    Scottish Highlands~
+Security 9
+End
+
+
+
+#MOBILES
+#4200
+Death the Earl O'Hell~
+Death~
+Death, Earl of Hell, listens for his next summons.
+~
+This handsome figure garbed in fine clothes would have deceived you
+completely if you had not spotted his cloven hooves.  He is well familiar
+with the underground spirit ways of the Low Road which lead back to a
+warrior's birthplace when the warrior dies away from home.  Flashing you
+an enigmatic smile he offers to take YOU home.  All you need to do is
+die first!
+~
+human~
+ABOQ DFH H 0 0
+80 80 50d10+7650 80d10+100 5d14+35 blast
+-14 -14 -14 -11
+EFIK ABE MP Y
+stand stand male 4150
+AHMV ABCDEFGHIJK medium 0
+#4201
+Siubhan pict fairy~
+Siubhan~
+Siubhan the Pict emerges from the thicket with a mischievous grin.
+~
+A pixie-like  sturdy figure emerges from the thicket grinning mischievously.
+Her eyes are as blue as any bluebell and she tosses her long flaxen hair
+behind her shoulders as she looks you over with a keen gaze.
+~
+human~
+ABHS DFJ 0 -100 0
+51 51 10d15+2283 51d10+100 5d8+20 stab
+-2 -2 -2 -2
+EIJ LQ P X
+stand stand female 680
+AHMV ABCDEFGHIJK medium 0
+#4202
+Marta pict pixie~
+Marta the Pict~
+Marta the Pict grins as she brushes off some brambles.
+~
+This small fairie-like pixie steps carefully out of the thicket patch
+pausing to look at you inquisitively.  She grins while removing a few
+brambles from her hair.  You think you see Marta wink or was that just
+an illusion?  You wonder what was in the thicket patch...
+~
+human~
+ABHS DFJ 0 100 0
+51 51 50d10+3283 51d10+100 5d8+19 stab
+-2 -2 -2 -2
+DEFJN LQ H 0
+stand stand female 750
+AHMV ABCDEFGHIJK medium 0
+#4203
+cantrip trap~
+Scottish cantrip~
+A lethal looking spiked trap waits with patient anticipation.
+~
+A sturdy trap of sharply spiked jaws is pretty much concealed by the
+earth.  The trap stirs slightly when you enter which alerts you to its
+presence.  Thoughts of what those cruel jaws could do to a foot or leg
+cause you to approach it with extreme caution.
+~
+human~
+ABFT DFQ N -200 0
+52 0 50d10+3240 52d10+100 5d10+24 crush
+-2 -2 -2 -6
+CFKNPU AQ LP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#4204
+pech pict~
+Pech~
+A wild, bold, red-headed Pech twirls and briefly moons you.
+~
+The Pech didna even wear a kilt but is covered with a bit of war-paint
+instead.  Still celebrating his ancestors beating the Romans, he waves a
+Jug o' ale in one hand while he wields a dirk in the other hand.  As ye
+stand there watching, he twirls, mooning you briefly. He is, however,
+ready for battle.
+~
+human~
+ABT HJ 0 600 0
+80 80 11d31+7514 80d10+100 5d14+33 slice
+-6 -6 -6 -3
+CDEJKN AQ BCIJP 0
+stand stand male 1200
+AHMV ABCDEFGHIJK medium 0
+#4205
+king pech heather~
+King of the Pechs~
+A thrawn yet sturdy auld king cackles as ye enter the room.
+~
+The wild yet wily King is as stubborn as the day is long.  Yet he is
+merry in his own fashion and most fond of the Heather Ale.  Many a cantie
+tale of battle is known to him.  'Tis said he carries a magical pouch of
+holding which doesn't seem to weigh much no matter how much he puts in
+there.
+~
+human~
+ABHQT CDEFH N -600 0
+85 85 50d10+8638 85d10+100 5d15+37 cleave
+-13 -13 -13 -16
+CEFK ABEPQ HIJL 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0
+#4206
+heather prince~
+Heather Ale Prince~
+The Heather Ale Prince smiles at his favorite wench.
+~
+The Prince is happily downing a jug of heather ale.  At the sound of your
+footsteps he jumps to his feet.  "I am the King's eldest son", he tells
+you.  He doesn't appear to be doing much besides pleasuring himself with
+ale and wenches.
+~
+human~
+ABT HVZ DEN -650 0
+80 80 12d36+7808 80d10+100 5d15+37 slap
+-15 -15 -15 -15
+CEFK QT BHIJP 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#4207
+ghost roman soldier~
+ghost of a roman soldier~
+The ghost of a Roman soldier swings unsuccesfully at the pech.
+~
+This once proud Roman soldier now slinks about the room alternately
+wringing its hands and taking useless swipes at the pech.  You hear the
+soldier mutter something about heather ale.
+~
+human~
+ABOT DF 0 0 0
+55 55 50d10+4250 55d10+100 5d9+22 slice
+-3 -3 -3 -3
+CDFKU P J 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#4208
+heather faerie~
+heather faerie~
+A slim sprite of a heather faerie flies overhead.
+~
+This slim faerie sprite has raven black hair and leaf-green eyes.  She is
+garbed in a simple but pretty pale lavendar gown gathered at the waist.
+Wings of iridescent silver and amethyst frame her shoulders.  Her shapely
+feet are bare and she holds a wand sprig of fragrant heather.
+~
+human~
+ABGHT TV 0 300 0
+58 58 50d10+4536 58d10+100 5d9+22 magic
+-6 -6 -6 -3
+EFIK K BL 0
+stand stand female 1110
+AHMV ABCDEFGHIJK small 0
+#4209
+heather worker~
+heather ale worker~
+The Heather Ale worker whistles as he heads for the brewery.
+~
+The Heather Ale worker is slinging a sack of what appears to be heather
+sprigs.  He licks his lips thirstily as he gets closer to the brewery.
+He wipes his beld head and ye wonder why his head is shaved.  Perhaps it
+so the bees don't think he is a flower too.
+~
+human~
+AGHT CNU 0 100 0
+65 65 50d10+5633 65d10+100 5d13+32 pound
+-5 -5 -5 -5
+CEFJK L BH 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium 0
+#4210
+assistant ale brewer~
+Assistant Heather Ale Brewer~
+The assistant Heather Ale brewer hastens back to work.
+~
+The assistant brewer seems to be in a hurry to get back to his work.  He
+is smiling as he walks briskly towards the brewery.  You notice he is still
+carrying a jug which makes sloshing sounds as he walks.
+~
+human~
+ACGT UZ 0 0 0
+68 68 10d25+5989 68d10+100 5d12+28 smash
+-6 -6 -6 -3
+CDINU AB PQ 0
+stand stand male 850
+AHMV ABCDEFGHIJK large 0
+#4211
+wench heather ~
+Heather Ale Wench~
+A lusty red-headed Heather Ale wench winks at you suggestively.
+~
+This lusty wench has curves that show to perfection under her mauve
+colored gown which has a low cut bodice.  Her long golden red hair
+ripples down to waist.  Wearing a wreath of heather, she appears to
+be in a merry mood.  As ye look at her, she teasingly lifts her gown
+so ye can admire her shapely ankles which are most bonnie to look at.
+~
+human~
+ABT CFGTc C -100 0
+55 55 50d10+4630 55d10+100 5d9+22 whip
+-4 -4 -4 -2
+FHN AN JKQ 0
+stand stand female 700
+AHMV ABCDEFGHIJK medium 0
+#4212
+smith ghost~
+ghost of a village blacksmith~
+The smith of Lochaber's ghost is still looking for the devil.
+~
+The smith of Lochaber used to be well known for his craftmanship.  'Tis
+said he nary slipped with the hammer except on purpose.  Tho he boasted
+wildly of his experience with the devil, there were those who never
+believed him.  His ghost still roams the cavern hoping for a glimpse of
+that devil.
+~
+human~
+ABCOT CT B 200 0
+50 50 50d10+3170 50d10+100 5d8+19 slice
+-2 -2 -2 -1
+DFKN LQ BI 0
+stand stand male 450
+AHMV ABCDEFGHIJK large 0
+#4213
+stallion pony aboot shetland~
+Aboot the shetland pony~
+The king's stallion Aboot stamps his hooves as you approach.
+~
+The king's stallion looks at you with eyes that appear almost human.
+Aboot has fought many a cantie battle wi' the King and obviously adores him.
+You notice some fine crisscrossed scars on the pony's flanks and close to
+his forelock.  You don't doubt that this pony could run like the wind.  He
+snorts rather fiercely at your approach and stamps his foreleg.
+~
+human~
+ABT HTV H 800 0
+70 70 50d10+6810 70d10+100 5d12+29 charge
+-12 -12 -12 -12
+CEIMN GLQ BJP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#4214
+brewer head heather~
+heather ale brewer~
+The Heather Ale Brewer will not easily give up his brewery!
+~
+>From the tufts of his reddish eyebrows to the tips of his agile feet, the
+heather brewer is both feisty and cunning.  He studies your weaknesses and
+uses them to his advantage making it feel like there are three of him
+instead of only one.  He didn't get to be chief brewer by being a wimp.
+~
+human~
+ABFT BDFH EHN -500 0
+76 76 50d10+7050 76d10+100 5d13+32 pound
+-17 -17 -17 -17
+CDEFKN ABS IPQ 0
+stand stand male 900
+AHMV ABCDEFGHIJK large 0
+#4215
+lillard fair maiden warrior~
+Lillard, the fair maiden warrior~
+Lillard, fair maiden warrior, fights bravely by her lover's side.
+~
+Little was her statue, but great was her fame.  Upon English loons she
+laid many thumps.  And when her legs wer cuttit off, she focht upon her
+stumps!  Wild and brave, Lillard was known for her courageous actions.
+~
+human~
+ABT EFHV H 600 0
+75 75 50d10+6814 75d10+100 5d13+32 slash
+-15 -15 -15 -15
+CDEFIKN LN BPQ 0
+stand stand female 550
+AHMV ABCDEFGHIJK large 0
+#4216
+duncan macleod highlander~
+Duncan MacLeod, the Highlander~
+The Highlander swiftly assesses if ye be friend or foe
+~
+This famed warrior stands tall with long dark hair and dark eyes which
+smoulder when he encounters an injustice.  Lithe yet verra muscular, he
+strides with a confidence inspired by his excellent swordsmanship.  Though
+wise beyond his years, he carries an everlasting sorrow at not having been
+able to save his sweetheart from death.
+~
+human~
+ABT EFH CDEHO 600 0
+115 115 12d743+3405 90d10+100 10d16+39 slash
+-19 -19 -19 -19
+EFGHKN AIPQ BHL 0
+stand stand male 1130
+AHMV ABCDEFGHIJK large 0
+#4217
+willie kinmont bauld~
+Willie Kinmont~
+Bauld (bold) Willie Kinmont sneers at the English nobles.
+~
+Bauld Willie Kinmont is stout-hearted and hale physically.  His longish
+golden hair streams in the breeze and his eyes are blue as the skies.
+Though the English captured him, binding his legs and feet, still his tongue
+was free to speak.  Five and forty of his kinsmen came to his aid and they
+escaped o'er the Eden water leaving behind a very abashed English Lord
+Scroope.
+~
+human~
+ABT EFHJTV H 400 0
+80 80 50d10+7550 80d10+100 5d14+34 charge
+-20 -20 -20 -20
+CDEFIKN ABQ ILP 0
+stand stand male 590
+AHMV ABCDEFGHIJK large 0
+#4218
+english warrior~
+English warrior~
+An English warrior is beginning to regret leaving merry old England.
+~
+The English warrior is beginning to have his doubts about victory here
+in Scotland.  He has been taught from childhood that the Scots have no
+right to be free.  The resistance in this cave he stumbled upon is more
+than he bargained for and he is trying to find his way out alive!
+~
+human~
+AGHT QTc D -500 0
+60 1 50d10+4320 60d10+100 5d10+24 sting
+-30 -30 -30 -30
+DJKU B LP 0
+stand stand male 150
+AHMV ABCDEFGHIJK large 0
+#4219
+scottish rebel~
+Scottish rebel~
+A Scottish rebel is NOT happy to see you and stands ready.
+~
+Tall and lean, with a haunted air to his features, this braw rebel does
+not wait to give you a chance to get the first cut.  Though he would rather
+hide, when cornered he fights fearlessly for his freedom and for Scotland.
+~
+human~
+AGT DFJQ 0 0 0
+60 30 50d10+4750 60d10+100 5d10+24 punch
+-30 -30 -30 -30
+CDEFIK BEQ JKLP 0
+stand stand male 350
+AHMV ABCDEFGHIJK large 0
+#4220
+scottish warrior~
+scottish warrior~
+A scottish warrior stands ready to fight and bleed for freedom.
+~
+Far from his hamlet and bonnie lass, this strong warrior lends his
+support to his leader.  Loyal to his clan, he is equally loyal to
+the cause prefering to die rather than flee.  Using military tactics
+passed down by William Wallace, he also paints his face white and blue.                                                                                 
+~
+human~
+ABCT FGH 0 -100 0
+75 73 50d10+6800 75d10+100 5d13+32 blast
+-35 -35 -35 -35
+CDEFJKN AB PQ 0
+stand stand male 1000
+AHMV ABCDEFGHIJK large 0
+#4221
+highland warrior~
+highland warrior~
+The highland warrior has come down from the hills to lend support.
+~
+The highlanders have learned how to blend in with the terrain so
+ye can hardly see them.  Rugged and dour to outsiders, they are
+fierce warriors who will bleed for the right cause.  Fond of the
+simple pleasures of life, this warrior longs to return to the burns
+and braes of the highlands when the frey is over.
+~
+human~
+ABT BC 0 100 0
+78 73 50d10+7250 78d10+100 5d14+33 pierce
+-14 -14 -14 -14
+BCDEFINU ABQ ILM 0
+stand stand male 450
+AHMV ABCDEFGHIJK large 0
+#4222
+robert bruce~
+Robert the Bruce~
+Robert the 17th Earl of Bruce thunders a warcry of victory!
+~
+Already a living legend, this noble warrior is both handsome and
+charismatic.  His eyes, sable as the night, fix you with a keen gaze.
+Pinned to his garments is a tartan strip from Sir William Wallace
+whose death the Bruce has sworn to avenge.  Scots wha hae wi' Wallace
+bled follow this man freely.
+~
+human~
+ABT DFHUV DEH 600 0
+85 85 10d51+8650 85d10+100 5d15+39 sting
+-29 -29 -29 -29
+CDEFIK BLQ JNP 0
+stand stand male 3750
+AHMV ABCDEFGHIJK large 0
+#4223
+lover warrior~
+Lillard's lover~
+Lillard's lover fights proudly by her side for all times.
+~
+This courageous warrior tries to both fend off the enemy and shield
+his lover, Lillard, at the same time.  He would freely give his life
+to defend her and his beloved country.  Though harried and hassled he
+does not shrink from the battle fray.
+~
+human~
+ABT DGHQTVc B 600 0
+75 93 50d10+7200 75d10+100 5d13+32 beating
+-35 -35 -35 -35
+CDEFIKLN BL FLP 0
+stand stand male 250
+AHMV ABCDEFGHIJK large 0
+#4224
+geordie campbell ghost~
+ghost of Geordie Campbell~
+The braw ghost of Geordie Campbell sets out on his nightly journey.
+~
+Staid and braw, Geordie Campbell even as a ghost is something to reckon
+with.  Ye canna imagine what evil befell him on his way to meet his bride.
+The wails of greeting or mourning cause him to clench his jaw.  He looks
+pensively at the toom saddle and casts a glance around as if looking for
+his horse.
+~
+human~
+ABOT BCDFTc B 0 0
+65 0 50d10+5300 65d10+100 5d11+27 wrath
+-31 -31 -31 -31
+DFGJKN BI LPQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#4225
+lord scroope english~
+Lord Scroope~
+Lord Scroope still can't believe Willie Kinmont escaped.
+~
+Lord Scroope is a fleshy man whose uniform can't conceal the fact that
+his gut hangs o'er his belt.  His nostrils flare disdainfully when he
+issues commands.  He has a taste for Scottish deer and Scottish wenches
+but has no compassion towards them.  He rubs his fleshy hands together
+greedily as you approach.
+~
+human~
+ABRT HK HN -800 0
+80 86 50d10+7950 80d10+100 5d14+34 cleave
+-40 -40 -40 -40
+CIKN G JKLNP 0
+stand stand male 3380
+AHMV ABCDEFGHIJK large 0
+#4226
+king edward~
+King Edward of England~
+King Edward stares at you with eyes as cold as ice.
+~
+This man, King Edward of England, is both shrewd and cunning.  He has
+been cruel to so many for so long that he has apparently forgotten what
+mercy is.  Ruthless beyond your wildest dreams, he is constantly annoyed
+by his wimpy son.  His hair is white as snow and his watery blue eyes
+are colder than any iceberg.  King Edward will do anything, no matter how
+heinous to achieve his ends.
+~
+human~
+ABRT CDHV BCDEHO -800 0
+87 125 75d10+8950 87d10+100 5d15+38 grep
+-47 -47 -47 -47
+BDEGIKN AEP KLQ 0
+stand stand male 8000
+AHMV ABCDEFGHIJK large 0
+#4227
+ghost braw warrior~
+ghost of a braw warrior~
+(ghost) A braw warrior embraces his sweetheart.
+~
+This braw warrior has been returned to his place of birth at the speed of
+death.  He is delighted to be reunited with his sweetheart.  Time and
+weather and earthly matters no long concern him very much.  He doesn't
+appreciate being interrupted.
+~
+human~
+ABOT AFc B 33 0
+55 0 50d10+4200 55d10+100 5d9+22 wrath
+-25 -25 -25 -25
+CFIKNQ BGIQ BLP 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#4228
+sweetheart bonnie~
+the braw warrior's bonnie sweetheart~
+(ghost) the braw warrior's bonnie sweetheart embraces him lovingly.
+~
+This bonnie ghost is still comely to look upon with light auburn hair and
+blue-green eyes.  When news of her lover's coming death reached her, she
+plunged her own dirk deep inside her to join him.
+~
+human~
+ABOT AFTc 0 33 0
+55 0 50d10+4200 55d10+100 5d9+22 stab
+-25 -25 -25 -25
+EFJKQ B LMPQ 0
+stand stand female 0
+AHMV ABCDEFGHIJK large 0
+#4229
+bogle~
+bogle~
+A nasty looking bogle lurks along the passageways.
+~
+The bogle is rather homely with a mottled black body covered thinly with
+sparse tufts of hair.  His rheumy eyes are bloodshot.  He has just returned
+from a nice leisurely dip in the well of Perpetual Stench.  The resulting
+odor causes your nostrils to flare slightly.
+~
+human~
+ABHOT B 0 0 0
+70 3 50d10+5450 70d10+100 5d12+39 suction
+-23 -23 -23 -23
+FINU BH JK 0
+stand stand none 210
+AHMV ABCDEFGHIJK medium 0
+#4230
+devil imp~
+devil imp~
+A smirking devil's imp reaches out to grab yer leg.
+~
+A wee but potent devil's imp hops up and down evilly as it sees you
+approach.  The imp is the color of blood.  Its eyes are small and the
+pupils of them are rectangle-shaped much like a goats.  You notice
+folded wings tucked away on its back.
+~
+human~
+ABHST QTc BCDEH 0 0
+68 0 50d10+4850 68d10+100 5d12+28 claw
+-23 -23 -23 -23
+FHIN HQ BOP 0
+stand stand none 700
+AHMV ABCDEFGHIJK medium 0
+#4231
+witch devil~
+devil witch~
+The devil witch displays her mark of the Mayna claw to ye.
+~
+This witch is seeking the rest of her coven.  They recognize each other
+by the mark of the Mayna claw put there by the devil when he claims her as
+one of his.  'Tis said a pin can be jabbed in the spot without causing any
+pain. She is known for being both petty and vindictive to others.
+~
+human~
+ABR QTZ 0 -500 0
+73 2 50d10+6066 73d10+100 5d12+31 magic
+-26 -26 -26 -26
+CEFHKN AB JMP 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium 0
+#4232
+english noble~
+english noble~
+The English noble seems to be enjoying your predicament.
+~
+Born of noble blood, this chap has learned well to play the game of life
+correctly.  He is now skilled in character assasination, backstabbing,
+creative lies, cruelty and being obsequious.  Right now his main interest
+seems to be you, he bows in a courtly fashion but ye notice his expression
+hardens even though his lips smile.
+~
+human~
+ABST BJ HN -800 0
+78 8 50d10+6150 78d10+100 5d14+33 slash
+-28 -28 -28 -28
+CGJKN ABQ P 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#4233
+scottish fugitive~
+scottish fugitive~
+The fugitive is quietly making his way to a hide-out.
+~
+Though a hero to his kinfolk and bairns, this quiet man has somehow
+violated English law making it necessary for him to seek refuge where the
+law will not find him easily.  He carries very little with him and you
+wonder where he manages to get supplies.
+~
+human~
+ABT BQVc H 0 0
+80 105 50d10+6950 80d10+100 5d14+34 cleave
+-30 -30 -30 -30
+CEFKN AB CLP 0
+stand stand male 750
+AHMV ABCDEFGHIJK large 0
+#4234
+sir william wallace braveheart~
+Sir William Wallace the Bravehearted~
+Your pulses race as Braveheart thunders the stirring battlecry, "FREEDOM!!"
+~
+Blue eyes ablaze with indomitable charisma and bravery, this larger than
+life legend among men, Braveheart stands his ground as ye enter the room.
+His long reddish hair has several small braids on each side of his face
+while the rest streams over his shoulders tossed by the winds.  Braw to
+look at, his face is partly covered with a jagged design of intense
+sky-blue warpaint.  His broad shoulders amply support the tartan flung
+o'er one shoulder and the scabbard on the other.  Beneath those are his
+studded leather shirt and belt.  A handsome looking kilt is worn aboot
+his waist. Legend has it that he is 7 ft tall, shoots lightning bolts
+from his eyes and consumes the enemies with fireballs from his arse. His
+smile is from the angels themselves.
+~
+human~
+ABCRT DFHJTUVZc H 100 0
+125 70 100d10+21900 125d10+100 6d19+57 slice
+-89 -89 -89 -89
+ABDFHJKN ABJOQ CDGIMP X
+stand stand male 15000
+AHMV ABCDEFGHIJK large 0
+#4235
+rob roy macgregor~
+Rob Roy MacGregor~
+Rob Roy MacGregor says "Come now lads, set down yer arms and I will spare ye."
+~
+Rob Roy Macgregor of Glenyle, tall and brawny, comes from a clan of royal
+descent well known not only for their misfortunes but also for their
+outstanding courage and honesty.  The Macgregor clan battlecry
+"Ard Coille!" stands for the wooded height which is prized by them.  His
+longish brown hair has a wee tinge of red to it while his blue eyes are
+both steadfast and calm.  Revered amongst his clansmen, Macgregor prizes
+his word of honor.  He is an excellent swordsman with much charisma and
+definitely a man to be reckoned with.
+
+~
+human~
+ABCRT DFHJTUVZc BCDEH 800 0
+120 160 100d10+19400 120d10+100 6d18+54 stab
+-80 -80 -80 -80
+ABDFHJKN ABJOQ CDGIMP X
+stand stand male 15000
+AHMV ABCDEFGHIJK large 0
+#4236
+clansmen MacDonald~
+MacDonald clansman~
+The MacDonald clansman is fiercely territorial of this room.
+~
+A tall braw warrior garbed in clan tartan and sporting a sprig of heather
+in his tam, this man is skilled in fighting and not to be reckoned with
+lightly.
+~
+human~
+ABRT DFV 0 300 0
+100 101 100d10+11150 100d10+100 5d18+44 chill
+-50 -50 -50 -50
+CEFJKNU ABEL JNQ I
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0
+#4237
+macrae clansman~
+MacRae clansman~
+The wild MacRae clansman is not aboot to take any guff from ye.
+~
+A tall braw warrior sporting a sprig of club moss in his tam and wearing
+the clan tartan, this man is both wild and reckless.  He welcomes a sporting
+fight asnd ye dinna know just who would win.
+~
+human~
+ABT DFV 0 800 0
+90 101 50d10+7350 90d10+100 5d14+39 chill
+-40 -40 -40 -40
+CEFJKNU ABEL MQ J
+stand stand male 900
+AHMV ABCDEFGHIJK large 0
+#4238
+clanswoman MacRae~
+clanswoman MacRae~
+The clanswoman MacRae is as deadly with a dirk as she is bonnie.
+~
+Long tumbling ringlets of fiery red hair and merry brown eyes are
+physical characteristics of most MacRae clanswomen.  Her low cut bodice
+with ivory ruching sets off her curvaceous figure.  A soft shawl of
+blue-green tartan is wrapped loosely over her shoulders.
+~
+human~
+ABT OUV 0 -500 0
+100 101 100d10+11150 100d10+100 5d18+44 shock
+-50 -50 -50 -50
+CEFJKN ABEL MQ H
+stand stand female 900
+AHMV ABCDEFGHIJK medium 0
+#4239
+MacLean clansman~
+MacLean clansman~
+The MacLean clansman feels lucky today, better watch yer doup or hind end.
+~
+Sporting a crowberry sprig badge in his tam and the clan tartans, this
+tall braw warrior is feeling mighty plucky today.  He eyes you up and
+down and ye dinna like the grinning curl to his lips.  He will fight to
+the death to protect his chief.
+~
+human~
+ABFT DFV 0 0 0
+92 91 75d10+6700 92d10+100 5d14+40 cleave
+-42 -42 -42 -42
+CEFJKNU AEJL Q K
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0
+#4240
+MacMillan clansman~
+MacMillan clansman~
+The MacMillan clansman looks ye over with a shure gaze.
+~
+Tall and lithe, this braw clansman moves with the quick grace of a fox.
+Dressed in clan tartans, he looks like he could wield a mighty reemish or
+blow to those who oppose him.
+~
+human~
+ABT DFV 0 700 0
+90 91 50d10+6350 90d10+100 5d14+39 thwack
+-40 -40 -40 -40
+CEFJKNU ABEL MQ J
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0
+#4241
+Campbell clansman~
+Campbell clansman~
+Upon seeing ye, the Campbell Clansman shouts "Chuachan!"
+~
+The energy and force generated by this Campbell clansman almost make ye
+forget to see if his mouth is slightly crooked too.  Stout of limb and
+breadth, he sports a wild myrtle in his tam and wears the clan tartan.
+~
+human~
+ABFT DFQTVc BDN -800 0
+90 101 50d10+6350 90d10+100 5d14+39 crush
+-40 -40 -40 -40
+CEFJKNU ABEJL Q F
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0
+#4242
+MacBean clansman~
+MacBean clansman~
+An unco thrawn MacBean clansman is more than ready to fight if need be.
+~
+This unco thrawn or very stubborn and proud clansman gives his tartan a
+hitch and fingers the oak sprig on his tam.  All the while he draws close
+to his other clansmen.  His reflexes are verra verra sharp.
+~
+human~
+ABT DFV 0 -600 0
+92 101 75d10+8700 92d10+100 5d16+40 smash
+-42 -42 -42 -42
+CDEFJKNU ABL Q E
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0
+#4243
+MacFarlane clansman~
+MacFarlane clansman~
+"Dinna blether wi' me," the MacFarlane clansman warns ye.
+~
+This tall braw warrior clansman sports a sprig of cranberry in his plaid
+tam and wears the MacFarlane tartan proudly.  He's not one for much idle
+chatter as he has warned ye.  He stands ready for whatever happens next.
+~
+human~
+ABT DFVc E 800 0
+92 101 75d10+8700 92d10+100 5d16+40 grep
+-42 -42 -42 -42
+CDEFJKNU ABEJL Q G
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0
+#4244
+Macintosh clansman~
+Macintosh clansman~
+A Macintosh clansman with fiery hair and beard stands watch.
+~
+The clansman warrior is a big man with the constitution of an ox.  He
+towers over ye, and ye dinna doubt that he could throw a man off his horse
+easily enough.  It's not hard to imagine how well he would fight to protect
+his chief who is Captain of the Clan Chattan.
+~
+human~
+ABS DFVc B 0 0
+92 101 75d10+8700 92d10+100 5d16+40 charge
+-42 -42 -42 -42
+CDEFJKNU ABEJL JQ I
+stand stand male 900
+AHMV ABCDEFGHIJK large 0
+#4247
+MacFarlane Chief~
+MacFarlane Chief~
+The MacFarland Chief announces, "We don't want you armaddons thinking ye can
+have all the fun by yerselves."
+~
+This tall brawny chief thoughtfully fingers his silver-clasp brooch upon
+his tartan.  Being very charismatic, he can easily rally his clansmen.
+Not as patient as some of the other chiefs, he is none the less a wise man.
+~
+human~
+ABT DFHVc CDEHO 800 0
+105 122 75d10+12050 105d10+100 5d19+46 whip
+-55 -55 -55 -55
+CEFHIK ABJ EOPQ L
+stand stand male 1000
+AHMV ABCDEFGHIJK large 0
+#4248
+Campbell Chief~
+Campbell Chief~
+The Campbell Chief is well renowned for his drinking and fighting prowress.
+~
+This man is not easily perturbed and possesses excellent leadership
+qualities.  He can rally his kinfolk in a heartbeat since he is so
+charismatic.  He stands slightly apart from his clansmen thoughtfully
+fingering his silver-clasp brooch.
+~
+human~
+ABT DFHVc CDEHN -800 0
+105 22 75d10+12050 105d10+100 5d17+46 blast
+-55 -55 -55 -55
+CEFHJKN ABL EOPQ J
+stand stand male 5000
+AHMV ABCDEFGHIJK large 0
+#4249
+MacMillan Chief~
+MacMillan Chief~
+The MacMillan Chief is attending to his clan business.
+~
+This man is not easily perturbed and shows excellent leadership
+qualities.  With his verra fine charisma, he can rally his kinsfolk
+in a heartbeat.  He stands slightly apart from his clansmen thoughtfully
+fingering his silver-clasp brooch.
+~
+human~
+ABT DFHVc CDEH 400 0
+105 22 75d10+12050 105d10+100 5d17+46 chill
+-55 -55 -55 -55
+CEFJKN ABJL EOPQ H
+stand stand male 5000
+AHMV ABCDEFGHIJK large 0
+#4250
+MacLean Chief~
+MacLean Chief~
+The MacLean Chief is keeps a sharp lookout for runners with news.
+~
+Showing excellent leadership qualities, this man is not easily
+perturbed. His charisma radiates out into the room rallying his
+kinsfolk and followers. He stands slightly apart from them thoughtfully
+fingering his silver-clasp brooch.
+~
+human~
+ABGT DFHVc CDEH 0 0
+105 22 75d10+12050 105d10+100 5d19+46 blast
+-55 -55 -55 -55
+CEFJKN ABJL EOPQ K
+stand stand male 5000
+AHMV ABCDEFGHIJK large 0
+#4251
+MacRae Chief~
+MacRae Chief~
+The MacRae Chief is verra proud of his clan members.
+~
+This braw looking chief is a very charismatic person and can easily
+rally his kinsfolk.  He is an excellent leader as evidenced by his
+clan's satisfaction.  He stands a little apart from his clansmen
+while he thoughtfully fingers his silver-clasp brooch.
+~
+human~
+ABGT DFHVc CDEH -600 0
+105 22 75d10+12050 105d10+100 5d19+46 blast
+-55 -55 -55 -55
+CEFJKN ABJL EOPQ I
+stand stand male 1000
+AHMV ABCDEFGHIJK large 0
+#4252
+Clan-Chattan Guard~
+Clan-Chattan Guard~
+A brawny Clan-Chattan guard stands watch at the western door.
+~
+Only the finest of the clansmen in each sect are chosen for this
+important position.  They are well acquent with a certain item clansmen
+carry and ye will no get the clan treasure either at least not unless ye
+can walk thru walls.  Strong, agile and an excellent fighter the guard
+waits for you to try and pass.
+~
+human~
+ABRT DFHVc H 0 0
+85 3 50d10+7650 85d10+100 5d14+37 blast
+-45 -45 -45 -45
+DEFJKN ABEL JKOPQ N
+stand stand male 1000
+AHMV ABCDEFGHIJK large 0
+#4253
+Macintosh Captain~
+Macintosh Captain~
+The Macintosh Captain is listening to some of his clansmen.
+~
+A well-known man stands afore ye, wearing the silver-clasp brooch of the
+Macintoshes.  He is not only Chief of his clan but Captain of the entire
+Clan-Chattan.  He mixes well with his men and most of the other clan chiefs.
+Although he is usually guarded by others, he is no wimp in battle.  The
+Captain whistles to his collie, Owd Robin.
+~
+human~
+ABT DFHV 0 0 0
+95 102 75d10+9990 95d10+100 5d17+42 beating
+-50 -50 -50 -50
+DEFHJKN ABEJL OPQ F
+stand stand male 8000
+AHMV ABCDEFGHIJK large 0
+#4254
+MacBean Chief~
+MacBean Chief~
+The MacBean Chief is busy considering many matters.
+~
+The MacBean Chief's blue eyes warm like sunshine agang rain whenever he
+gazes at his deerhounds.  The tall braw man radiates charisma and his
+clansmen are most loyal and fierce.  He proudly wears the MacBean
+silver-clasp brooch on his tartan.
+~
+human~
+ABT DFHV 0 -300 0
+105 22 75d10+12050 105d10+100 5d19+46 thrust
+-55 -55 -55 -55
+DEFJKN ABEJL OPQ F
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#4255
+MacDonald Chief~
+MacDonald Chief~
+The MacDonald Chief needs to talk to the Macintosh Captain.
+~
+This brave chieftain is a powerful man physically as well as mentally.
+He is not readily lead into traps nor killed during battle.  His
+charismatic powers allow him to rally clansmen support rapidly.  He
+sports a sprig of heather proudly and thoughtfully fingers his clan
+silver-clasp brooch aboot his tartan.
+~
+human~
+ABT DFHV 0 800 0
+88 88 75d10+8750 88d10+100 5d15+38 pound
+-45 -45 -45 -45
+DEFJKN ABEJL OPQ E
+stand stand male 2000
+AHMV ABCDEFGHIJK large 0
+#4256
+ghost Conn~
+ghost of Conn of a hundred battles~
+The ghost of Conn visits here to spin battle tales for his clan members.
+~
+The ghost of this braw legendary warrior is a fine figure of a man still.
+Although translucent his fiery hair and blazing eyes are not dimmed.  He
+wields a heavy weapon which looks quite lethal.  His clansmen cheer him
+on and he faces ye without a trace of fear.
+~
+human~
+ABOT DFHOQTVc B 0 0
+105 22 75d10+13050 105d10+100 5d19+46 pound
+-60 -60 -60 -60
+DEFJKN AEJL BOPQ G
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#4257
+MacGregor Clansman~
+MacGregor Clansman~
+The MacGregor Clansman tosses his tartan o'er his shoulder as he stands watch.
+~
+The MacGregor clansman rallies aboot the area keeping a close watch on
+things.  Ever heedful of Rob Roy's "whist laddies", he stands ready for
+action.  Honest and hardworking this highlander is braw and hearty as
+well. He proudly wears a sprig of pine as clan badge.
+~
+human~
+ABFT DFV 0 500 0
+85 81 50d10+8750 85d10+100 5d15+37 charge
+-40 -40 -40 -40
+CEFJKNU AELP IJOQ H
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0
+#4258
+Wallace Clansman~
+Wallace Clansman~
+The Wallace Clansman is proud to be at Braveheart's side.
+~
+The Wallace clansman is almost as earnest and fierce and lion-hearted as
+Sir William Wallace himself.  Bold and a feared fighter, he paces the area
+ever alert for trouble.  He bears scars from previous battles which only
+make him yearn more for freedom.
+~
+human~
+ABFT DFHV 0 0 0
+85 81 50d10+8750 85d10+100 5d15+37 crush
+-40 -40 -40 -40
+EFJKNU AEL JOPQ I
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0
+#4259
+auld reekie packman~
+Auld Reekie the Packman~
+Auld Reekie the Packman canna resist an opportunity to make gold.
+~
+The packman looks around anxiously as this be far from his usual haunts.
+He clutches his pack of ferlies (or wares) tightly to him as ye enter.  The
+pack bulges with a vast assortment of things.  An' the news comes from the
+Packman like the water doon the lade.  He kent wha kissed the sweetie wife
+the nicht o' Dancie's ball, an' wha it was 'at threw the stan 'at crippled
+Geordie's coo.  An' he never spoiled a story by consid'rin' gin 'twas true.
+All the while, he puffs on his pipe while blowing reek or smoke circles.
+~
+human~
+ABT DFHV CDEH 0 0
+105 180 12d562+14730 105d10+100 50d20+500 wrath
+-52 -52 -52 -21
+ADEFJKN ACDEJL Q 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#4201
+spirit way staff~
+staff of Spirit Way~
+The staff of Spirit Way pulsates with a protective energy.~
+wood~
+staff BG AO
+80 6 6 'sanctuary' 0
+70 10 6500 P
+#4202
+plaid potion~
+plaid potion~
+A flask of a criss-crossed red, green and blue liquid sits here.~
+glass~
+potion A AO
+55 '' 'detect hidden' 'detect evil' ''
+45 3 1500 P
+#4203
+mug heather tea~
+heather tea~
+Mug of hot heather tea~
+glass~
+drink 0 A
+8 8 'tea' 0 0
+40 1 1 P
+#4204
+roast hare~
+roast hare~
+A nicely cooked, delicious-looking roast hare lays here.~
+food~
+food 0 A
+18 0 0 0 0
+40 1 10 P
+#4205
+wee silvery pool~
+wee silvery pool~
+The icy-cold water in this wee silvery pool looks very refreshing.~
+stone~
+fountain 0 0
+999 999 'water' 0 0
+0 500 3000 G
+#4206
+richt dirk~
+richt dirk~
+This richt dirk has an extremely sharp blade and is still glowing.~
+adamantite~
+weapon ABHI AN
+dagger 5 19 grep CD
+80 5 9600 P
+A
+19 6
+A
+18 6
+A
+13 50
+#4207
+heather wand~
+heather wand~
+A shimmering amethyst wand lies here~
+gold~
+wand AG AO
+70 5 5 'identify' 0
+55 1 4250 P
+#4208
+honeycomb honey comb~
+honeycomb~
+Sweet, sticky honeycomb~
+food~
+food 0 A
+12 0 0 0 0
+20 2 30 P
+#4209
+heather key~
+heather Key~
+A heather key glows with an amethyst light~
+steel~
+key AF AO
+0 0 0 0 0
+70 1 0 P
+#4210
+amethyst heather plate~
+amethyst plate~
+A magically enhanced amethyst colored heather plate sits here. ~
+iron~
+armor AEGJ AD
+22 15 15 15 0
+75 10 8500 P
+A
+19 4
+A
+4 3
+A
+1 3
+#4211
+amethyst heather boots~
+amethyst boots~
+A pair of well crafted amethyst colored heather boots~
+leather~
+armor BGJ AG
+21 15 15 15 0
+75 3 4000 P
+A
+14 75
+A
+4 3
+A
+1 3
+#4212
+honey ale key~
+honey ale key~
+A glowing honey colored key~
+glass~
+key AG AO
+0 0 0 0 0
+60 0 0 P
+#4213
+chest heather treasure~
+carved heather chest~
+A carved heather treasure chest~
+wood~
+container AGO 0
+199 ACD 4212 0 0
+50 0 0 P
+#4214
+spirit wind axe~
+windspirit axe~
+This magical axe has a stallion carved in the grip~
+adamantine~
+weapon AGI AN
+axe 8 13 cleave G
+85 20 15000 P
+A
+19 5
+A
+18 5
+A
+13 30
+#4215
+sugar lump pill~
+sugar lump~
+A shimmering lump of sweet sugar~
+pill~
+pill A AO
+90 'cure poison' 'cure critical' 'cure disease' ''
+70 1 2750 P
+#4216
+amethyst heather crown~
+amethyst crown~
+A stunning heather crown carved from amethyst sits here~
+gold~
+armor BJM AE
+22 16 16 16 0
+80 5 18750 P
+A
+23 -5
+A
+4 3
+A
+3 3
+#4217
+amethyst holding hold ring~
+amethyst ring~
+A massive amethyst ring glows magically and seems to hold things.~
+gold~
+container AH AB
+850 0 50 60 0
+75 5 5000 P
+A
+24 -2
+A
+12 35
+A
+5 3
+A
+4 3
+#4218
+pile coins~
+small pile of coins~
+A small golden pile of coins~
+gold~
+money 0 AO
+3000 0 0 0 0
+1 1 0 P
+#4219
+pile coins~
+pile of coins~
+A golden pile of coins~
+gold~
+money 0 AO
+35000 0 0 0 0
+1 1 0 P
+#4220
+amethyst heather sleeves~
+amethyst sleeves~
+These amethyst colored heather sleeves glow magically~
+iron~
+armor BG AI
+15 21 15 15 0
+75 10 15000 P
+A
+19 3
+A
+3 3
+A
+2 3
+#4221
+amethyst heather leggings~
+amethyst leggings~
+A pair of amethyst colored heather leggings glow magically~
+iron~
+armor GI AF
+15 15 22 15 0
+75 5 14500 P
+A
+19 4
+A
+5 3
+A
+3 3
+#4222
+heather ale barrel~
+heather ale barrel~
+An aromatic barrel of heather ale~
+wood~
+container AGO 0
+500 0 50 90 0
+45 50 0 P
+#4223
+heather bell~
+heather bell~
+A potion of heather bell~
+glass~
+potion A AO
+70 'create food' 'create food' 'create spring' ''
+45 1 2 P
+#4224
+heather ale scroll~
+heather ale scroll~
+A mystical heather colored scroll~
+paper~
+scroll A AO
+90 'enchant weapon' '' '' ''
+75 0 17500 P
+#4225
+heather whip~
+heather whip~
+A heather colored cat of nine tails~
+leather~
+weapon BI AN
+flail 8 15 whip A
+70 5 3000 P
+A
+19 5
+A
+18 5
+A
+12 50
+#4226
+heather heart~
+heather heart~
+'Be my Sweetheart' is carved in this lovely amethyst heart~
+glass~
+treasure AGI AO
+0 0 0 0 0
+55 1 2500 P
+#4227
+devil howl~
+howl of the devil~
+A horseshoe-shaped pill sits here~
+pill~
+pill AG AO
+75 'bless' 'detect evil' 'protection evil' ''
+55 1 3200 P
+#4228
+bluebells spray~
+(fragrant) spray of bluebells~
+(fragrant) spray of bluebells~
+vellum~
+trash 0 AO
+0 0 0 0 0
+1 0 0 P
+#4229
+smithy hammer~
+smithy's hammer~
+A well-crafted smithy's hammer lies here~
+bronze~
+weapon BG AN
+mace 25 3 frbite B
+50 20 6800 P
+A
+19 3
+A
+18 3
+A
+12 30
+A
+3 3
+#4230
+katana macleod~
+{WMacLeod's{x katana~
+A magnificent weapon has been left here.~
+iron~
+weapon AIM AN
+sword 12 14 slice DEG
+80 15 9500 P
+A
+13 -50
+A
+18 20
+A
+19 20
+#4231
+valour warbracer~
+warbracer of valour~
+An etched bracer is set with dark red garnets~
+silver~
+armor ABG AM
+23 14 16 15 0
+80 5 2700 P
+A
+19 4
+A
+18 4
+A
+13 30
+A
+1 2
+#4232
+spear victory~
+spear of victory~
+A mighty spear of victory sits nearby.~
+steel~
+weapon ABGM AN
+exotic 8 13 flame A
+85 15 12000 P
+A
+19 5
+A
+18 5
+A
+13 35
+A
+2 3
+#4233
+shield victory~
+shield of victory~
+A well-crafted shield of victory lies here.~
+steel~
+armor ABGK AJ
+17 17 17 17 0
+85 5 10000 P
+A
+24 -10
+A
+19 4
+A
+18 4
+A
+1 4
+#4234
+light fair maiden~
+light of the fair maiden warrior~
+A glowing light of fair maiden's courage hovers here.~
+unknown~
+light AG AO
+0 0 999 0 0
+75 3 5000 P
+A
+19 3
+A
+18 3
+A
+13 25
+A
+3 1
+A
+1 1
+#4235
+toom empty saddle~
+the toom saddle~
+A toom or empty saddle gives off a mournful aura~
+leather~
+trash AO 0
+0 0 0 0 0
+0 30 0 P
+#4236
+rebel rock boulder~
+rebel's Rock~
+A large grey boulder known as Rebel's Rock sits here.~
+stone~
+container AGO 0
+500 AC 50 0 0
+40 0 0 P
+#4237
+rebel staff~
+staff of the rebel~
+A reble's staff is tucked in here~
+wood~
+staff BGI AO
+65 6 6 'faerie fire' 0
+50 5 2750 P
+#4238
+rebel ring~
+rebel ring~
+A heavy gold ring with an embossed setting sun~
+gold~
+armor ABGI AB
+18 9 5 2 0
+60 1 3200 P
+A
+18 3
+A
+5 2
+A
+4 2
+A
+3 2
+#4239
+scottish claymore~
+scottish claymore~
+This Scottish claymore has been passed down from feyther to son.~
+adamantine~
+weapon BI AN
+sword 6 15 sting D
+75 15 6750 P
+A
+19 6
+A
+18 4
+A
+14 75
+#4240
+spirit way robes~
+robes of Spirit Way~
+The robes of Spirit Way glimmer with a magical aura.~
+cloth~
+armor AGI AK
+21 20 16 16 0
+80 5 11000 P
+A
+13 30
+A
+12 30
+A
+3 4
+#4241
+lover dirk~
+lover's Dirk~
+A silvery lover's dirk with inset garnets is here.~
+silver~
+weapon AGH AN
+dagger 7 10 stab D
+55 3 3575 P
+A
+19 4
+A
+18 4
+A
+14 75
+#4242
+scroll low road~
+scroll of the low road~
+A sparkling scroll of the low road~
+paper~
+scroll AG AO
+75 'heal' 'refresh' '' ''
+55 1 2375 P
+#4243
+pixie dust~
+pixie dust~
+Shimmering pixie dust has been fashioned into a pill.~
+unknown~
+pill AG AO
+65 'cure critical' 'cure blindness' 'giant strength' ''
+53 0 820 P
+#4244
+heather jug~
+heather Jug~
+A nice pewter jug with a heather sprig embossed on it~
+silver~
+drink AG AO
+150 150 'water' 0 0
+20 2 500 P
+#4245
+collar seven hills~
+collar of the seven hills~
+The collar of the seven hills gives off a reddish aura~
+leather~
+armor BE AC
+18 12 12 11 0
+55 3 6500 P
+A
+24 -1
+A
+19 2
+A
+18 2
+A
+13 15
+A
+2 2
+#4246
+highland sword claymore~
+highland sword~
+A large well-crafted claymore from the scottish highlands lies here.~
+steel~
+weapon ABGKM AN
+sword 8 12 shbite H
+78 15 10000 P
+A
+19 4
+A
+18 4
+#4247
+english pike~
+english pike~
+A rusty looking english pike~
+iron~
+weapon CEJ AN
+exotic 6 13 pierce D
+60 10 2100 P
+A
+19 4
+A
+18 4
+A
+13 25
+#4248
+tartan strip~
+(Courage) tartan strip~
+A glowing strip of Braveheart's tartan lies nearby.~
+cloth~
+armor AG AO
+20 17 17 17 0
+85 4 22000 P
+A
+19 4
+A
+18 4
+A
+13 35
+A
+12 30
+A
+3 3
+#4249
+axe execution~
+axe of execution~
+A malevolant axe with a curiously blood-red handle lies here.~
+steel~
+weapon BE AN
+axe 8 13 cleave CF
+87 15 17500 P
+A
+19 7
+A
+18 5
+A
+13 50
+#4250
+belt scottish blood~
+belt of Scottish blood~
+A belt of Scottish blood writhes as if it were alive.~
+leather~
+armor BE AL
+22 16 16 16 0
+80 2 16300 P
+A
+19 2
+A
+18 2
+A
+13 45
+A
+2 3
+#4251
+sash lillard edge~
+Sash of Lillard's Edge~
+A glowing magical sash set with moonstones~
+adamantine~
+armor ABFG AL
+20 15 14 13 0
+75 10 8500 P
+A
+19 2
+A
+13 25
+A
+3 3
+A
+2 1
+#4252
+glove gloves willie braw~
+gloves of braw Willie~
+Gloves of braw Willie~
+leather~
+armor ABG AH
+22 16 16 16 0
+80 2 12500 P
+A
+19 3
+A
+18 3
+A
+1 4
+#4253
+bouquet dead flowers tag~
+bouquet of dead flowers with bloody tag~
+Tag reads: Bend over, stick yer head between yer legs and kiss yer own arse!~
+stone~
+trash E AO
+0 0 0 0 0
+0 5 0 P
+#4254
+potion toom~
+toom potion~
+The potion flask appears empty but it isn't.~
+glass~
+potion B AO
+80 'heal' 'stone skin' 'sanctuary' ''
+65 1 3780 P
+#4255
+black bun~
+black bun~
+A black bun~
+pill~
+pill 0 AO
+73 'faerie fire' 'fireball' 'teleport' ''
+60 1 818 P
+#4256
+mottled cape~
+mottled cape~
+An ugly mottled cape~
+vellum~
+armor BEM AC
+0 0 0 0 0
+73 5 2000 P
+A
+24 10
+A
+14 -100
+A
+2 -2
+A
+1 -2
+#4257
+imp pitchfork~
+imp's pitchfork~
+A heavy rather rusted pitchfork~
+iron~
+weapon BG AN
+exotic 6 15 thrust E
+68 15 7400 P
+A
+19 4
+A
+18 4
+A
+2 2
+#4258
+mark claw~
+mark of the mayna claw~
+A claw-shaped wand with the evil mayna's mark lies here.~
+wood~
+wand BG AO
+65 4 4 'cancellation' 0
+50 1 3200 P
+#4259
+mark of thistle~
+mark of thistle~
+A well used suede scrap of map with thistle mark on it~
+leather~
+map AG AO
+0 0 0 0 0
+70 0 0 P
+E
+map~
+Mark of Thistle Map - From the Cairn Crossroads go ye 2w and south
+to find the curious grey boulder with the mark of the thistle on it.
+>From there find ye a way to go 2d. Two wondrous portals await ye.
+The Plaid one leads to a wee silvery pool whilst the swirling black one
+leads to the Low Road. Along the way find ye a chattan key which opens
+a braw treasure chest located in the Clan Chattan area of the cave.
+Ye are now 1w of Cairn Crossroads.
+~
+#4260
+crate~
+fugitive's crate~
+A supply crate~
+wood~
+container AC 0
+500 0 50 70 0
+50 0 0 P
+#4261
+salted fish~
+salted fish~
+Salted fish~
+food~
+food 0 AO
+8 0 0 0 0
+0 1 0 P
+#4262
+oatcakes bannocks~
+oatcakes~
+A oat bannock with raisins~
+food~
+food 0 AO
+10 0 0 0 0
+0 1 0 P
+#4263
+dried fruits nuts~
+dried fruits and nuts~
+A small packet of dried fruits and nuts~
+food~
+food 0 AO
+12 0 0 0 0
+0 1 0 P
+#4264
+tartan sign~
+tartan sign~
+A tartan sign proclaims: ### SCOTTISH HIGHLANDS - LEV 50 100 AREA! ###~
+wood~
+trash O 0
+0 0 0 0 0
+0 30 0 P
+E
+sign~
+Created Fall of 1996 copyright by Silver aka Silvermist/Misty/Amethyst
+A Scottish blessing on those who play and appreciate my area..  :)
+A Scottish curse on the fey ones who would desecrate it *grim smile*
+they know who they are.
+~
+#4265
+bagpipes chattan~
+clan chattan bagpipes~
+A tartan set of bagpipes sits here.~
+unknown~
+armor ABG AO
+21 15 14 14 0
+75 10 4500 P
+A
+19 3
+A
+18 3
+A
+13 25
+A
+3 1
+A
+2 1
+#4266
+sword freedom Braveheart~
+freedom sword of Braveheart~
+A sharp claymore with Braveheart embossed on handle flickers magically.~
+steel~
+weapon ABGH AN
+sword 15 20 charge BC
+100 30 80000 P
+A
+20 -10
+A
+19 20
+A
+18 20
+A
+13 100
+A
+12 100
+A
+2 4
+#4267
+bracers freedom braveheart~
+Freedom Bracer of Braveheart~
+This bracer has a Braveheart embossed upon it.~
+adamantine~
+armor ABG AM
+25 25 25 25 0
+100 10 75000 P
+A
+24 -5
+A
+19 4
+A
+18 4
+A
+13 75
+A
+12 75
+#4268
+kilt braveheart~
+the kilt of Braveheart~
+A braw kilt of blues, tans and rusts lies here.~
+cloth~
+armor ABG AL
+25 24 23 22 0
+100 12 65000 P
+A
+24 -3
+A
+19 3
+A
+18 3
+A
+13 50
+A
+12 50
+A
+2 3
+A
+1 3
+#4269
+embroidered ivory scrap fabric~
+embroidered ivory scrap of fabric~
+A fabric scrap from Braveheart's beloved wife lies here.~
+cloth~
+armor AGI AK
+25 23 22 21 0
+100 0 20000 P
+A
+24 -5
+A
+19 3
+A
+14 50
+A
+12 35
+A
+13 35
+#4270
+blue warpaint braveheart~
+the blue warpaint of Braveheart~
+A deep intense sky blue warpaint which glides on your face easily.~
+unknown~
+armor ABGI AE
+30 25 24 20 0
+100 1 55000 P
+A
+24 -5
+A
+19 4
+A
+18 4
+A
+13 65
+A
+12 50
+A
+3 3
+A
+1 3
+#4271
+studded freedom vest braveheart~
+studded freedom vest of Braveheart~
+This leather vest has oblong leather reinforcement pieces on it.~
+leather~
+armor ABG AD
+25 22 21 20 0
+100 5 55000 P
+A
+3 -2
+A
+19 14
+A
+18 14
+A
+13 125
+A
+20 -7
+A
+14 60
+#4272
+light freedom~
+Light of Freedom~
+Braveheart's Light of Freedom blazes proudly for all to see!~
+wood~
+light AGI AO
+0 0 999 0 0
+95 3 5000 P
+A
+24 -3
+A
+19 4
+A
+18 2
+A
+13 50
+A
+12 50
+A
+3 3
+#4273
+clasp~
+clasp of Rob Roy~
+A silvery clasp set with pale blue stones lies here.~
+silver~
+armor ABG AC
+23 22 20 20 0
+97 1 7800 P
+A
+24 -3
+A
+19 4
+A
+18 1
+A
+13 35
+A
+12 25
+#4274
+tartan tam MacGregor~
+tartan tam of MacGregor~
+A tartan tam which is worn aboot the head.~
+wool~
+armor ABG AE
+23 21 21 20 0
+97 2 30000 P
+A
+24 -3
+A
+19 3
+A
+18 2
+A
+13 25
+A
+12 50
+A
+3 4
+#4275
+ivory colored shirt Rob Roy~
+ivory colored shirt of Rob Roy~
+An ivory colored shirt of Rob Roy is laying here.~
+cloth~
+armor ABG AD
+25 24 22 21 0
+100 5 45000 P
+A
+24 -4
+A
+19 4
+A
+18 1
+A
+13 60
+A
+2 3
+#4276
+clan chattan key~
+clan chattan key~
+A glowing tartan key~
+glass~
+key AG AO
+0 0 0 0 0
+60 0 0 P
+#4277
+boots suede Rob Roy~
+suede boots of Rob Roy~
+Brown suede boots of Rob Roy are here.~
+leather~
+armor ABGI AG
+23 22 21 20 0
+97 15 55000 P
+A
+24 -3
+A
+18 1
+A
+19 3
+A
+14 150
+A
+13 35
+A
+2 4
+#4278
+argyle socks rob roy~
+argyle socks of Rob Roy ~
+A verra fine pair of socks in rust, grey and slate blue lie here.~
+wool~
+armor ABGM AF
+22 21 20 20 0
+97 5 65000 P
+A
+21 -2
+A
+19 5
+A
+13 40
+A
+12 40
+#4279
+braw greaves rob roy~
+braw greaves of Rob Roy~
+A pair of well crafted greaves emanate magic as they lie there.~
+leather~
+armor ABFG AI
+22 21 20 21 0
+98 13 35000 P
+A
+24 -3
+A
+19 3
+A
+18 1
+A
+13 60
+A
+1 3
+#4280
+sword thousand pounds~
+sword of a thousand pounds~
+A deadly sharp claymore with a well crafted blade is here.~
+adamantine~
+weapon ABG AN
+sword 9 16 thwack CG
+99 35 75000 P
+A
+19 8
+A
+18 8
+A
+13 50
+A
+12 75
+A
+3 3
+#4281
+rowan tree~
+rowan Tree~
+A verra stately Rowan tree grows here.~
+wood~
+container AG 0
+500 ACD 4295 0 0
+80 300 0 P
+#4282
+rowan branch~
+rowan branch~
+A rowan branch has been placed here.~
+wood~
+staff AG AO
+90 15 15 'mass healing' 0
+85 5 20000 P
+#4283
+sledgehammer of Conn~
+sledgehammer of Conn~
+A heavy blude-stained sledgehammer sits there.~
+iron~
+weapon ABG AN
+mace 10 13 pound B
+100 20 27000 P
+A
+19 6
+A
+18 6
+A
+13 75
+A
+3 3
+A
+1 1
+#4284
+chattan polearm~
+clan chattan polearm~
+A Clan Chattan polearm is stuck in the ground.~
+steel~
+weapon ABG AN
+polearm 9 11 shock G
+95 15 0 P
+A
+19 6
+A
+18 6
+A
+13 50
+A
+12 50
+A
+3 2
+#4285
+Macintosh cat nines~
+a Macintosh cat o' nines~
+An impressive looking whip with nine lashes lies here.~
+leather~
+weapon ABM AN
+flail 10 12 whip H
+105 10 45000 P
+A
+19 6
+A
+18 7
+A
+12 75
+A
+2 3
+#4286
+gundy toffee~
+gundy toffee~
+A magical twist of toffee lies here.~
+pill~
+pill AGN AO
+85 'cure blindness' 'cure poison' 'cure critical' ''
+70 1 15000 P
+#4287
+bonnie potion~
+bonnie potion~
+A shimmering bonnie potion is here.~
+glass~
+potion AGN AO
+70 'detect invis' 'detect hidden' 'detect evil' 'detect magic'
+55 1 2500 P
+#4288
+plaid staff~
+plaid staff~
+A staff of stippled plaid lies on the ground.~
+wood~
+staff AN AO
+75 15 15 'cure critical' 0
+50 1 10000 P
+#4289
+heather sprig~
+heather sprig~
+A heather sprig potion is here~
+glass~
+potion A AO
+75 'giant strength' 'stone skin' 'shield' ''
+60 1 10000 P
+#4291
+freedom sprig~
+freedom sprig~
+A freedom sprig potion is here.~
+glass~
+potion A AO
+90 'heal' 'heal' 'bless' ''
+70 1 35000 P
+#4293
+chest chattan treasure~
+carved chattan chest~
+A carved chattan treasure chest~
+wood~
+container AGO 0
+199 ACD 4276 0 0
+50 0 0 P
+#4294
+gold pile coins~
+pile of coins~
+A pile of gold coins~
+gold~
+money 0 AO
+15000 0 0 0 0
+1 1 0 P
+#4295
+rowan leaf key~
+rowan leaf~
+A curiously shaped metal leaf looks like some sort of key.~
+metal~
+key AF AO
+0 0 0 0 0
+75 1 0 P
+#0
+
+
+
+#ROOMS
+#4200
+Bonnie Banks O' Loch Lomond~
+The surrounding upward slopes known as braes are green and the muirs that
+some call moors are carpeted lushly with heather.  The wild cry of the loon
+echoes a wistful refrain strangely out of keeping in this peaceful scene.
+Thither and yon you see a hale gilly-fish ripple the cobalt waters of this
+pristine very deep loch.  In the distance you hear the poignant strains of
+the bagpipes.  Near the banks you see the ghosts of a braw warrior and his
+lass wrapped in the arms of true luve.  'Tis said he was brought here via
+the Low Road at the speed of Death.
+~
+0 0 2
+D1
+You see a wooded path.
+~
+~
+0 -1 4201
+D2
+~
+~
+0 0 6151
+S
+#4201
+Path Towards Outer Banks~
+You brush aside the shrub-elder branches as you head deeper towards the
+less explored reaches of Loch Lomond's outerbanks.  Bluebells of a richer
+hue than the sky itself bloom in sequestered clumps along the way.  To one
+side you see a dense thicket patch.  Something or someone has startled the
+brown hare who almost hops right on your feet as it dashes by you.  The path
+east has been declared off limits temporarily but a sign advises it will be
+opened later.
+~
+0 0 2
+E
+thicket~
+You see a seemingly dense mat of thickets' favorite hiding spot for
+mischievous Picts.  It looks like it might conceal an opening to something.
+~
+D2
+A seemingly dense mat of thickets, favorite hiding spot for mischievous Picts,
+conceals a low opening to a secret cave.
+~
+thicket~
+1 -1 4202
+D3
+You see the banks of Loch Lomond.
+~
+~
+0 -1 4200
+S
+#4202
+The Thicket Patch~
+This dense thicket patch which appears perfectly normal on the outside
+glows with a magical blue aura once you have entered it.  You notice both
+small and larger footprints in the ground here.  The cave opening gives no
+indication of what might be inside of it.  A wee voice whispers, "mind the
+cantrips."
+~
+0 1 2
+D0
+You think you hear a rustling beyond this thicket covering the cave opening.
+~
+thicket~
+1 -1 4201
+D2
+You aren't sure what you see but you smell something delicious.
+~
+~
+0 -1 4203
+S
+#4203
+Opening to Rebel Cave~
+The cave entrance is low enough that ye need to to stoop slightly as ye
+enter.  To one side of the entrance the embers from a small fire still glow
+dimly.  Aromatic yew branches are piled on the other side covering a neat
+pile of what look like hare or rabbit bones.  It appears the Picts may have
+left a few things around.
+~
+0 9 0
+D0
+You see an area beneath the thicket patch.
+~
+~
+0 0 4202
+D2
+You see a tunnel.
+~
+~
+0 -1 4204
+S
+#4204
+Rebel Cave Tunnel~
+The grey tunnel walls are smooth and parts of them seem to glow slightly
+with a silvery luminescence.  Carved in the wall you see:
+
+All this may be, the people's voice is odd...
+The Scots will fight for Wallace, as for God.
+-Pope-
+~
+0 8 0
+D0
+You see some yew branches on the floor.
+~
+~
+0 -1 4203
+D2
+You see a large boulder to the south.
+~
+~
+0 -1 4205
+S
+#4205
+Rebel Room~
+The thundering braw words of a rebel echo magically through this room.
+Behind my rock I hide, my friends seem few.  The sun goes down upon the
+darkening plain.  Those who have dispossessed me congregate.  I may not see
+the sun go down again.  I am the rebel, though my cause seems lost, yet will
+I fight and fight again.  I will encounter death before submission to these
+proud conquerors on the darkening plain.
+~
+0 8 0
+D0
+You see a long tunnel to the north.
+~
+~
+0 -1 4204
+D1
+You see a cairn or pile of rocks to the east.
+~
+~
+0 -1 4206
+D3
+You see Clan Way to the west.
+~
+~
+0 -1 4246
+S
+#4206
+Cairn Tunnel~
+As you wander farther into the cave you almost stumble on a neatly piled
+stack of rocks known as a cairn.  The ground is a wee bit damper here and
+the distant sounds of an underground stream pique your curiosity.  Someone
+has left a large metal horse-shoe to the side of the cairn.  Perhaps ye
+might want to look at it more closely.
+~
+0 8 0
+E
+horse-shoe~
+In Scotland, the horse-shoe is not so much a bringer of luck as a
+keeper-away of evil.  And here is how it obtained the power to keep off
+witches, bogles and all other imps of the Devil.  Once upon a time, the
+Devil pulled from his bed at midnight a smith in Lochaber, for badly his
+hooves needing shoeing.  The smith, annoyed and frightened, but having the
+Devil in his power, not only burned the horn of the hoof he was shoeing, but
+the fleshy part, too!  While driving in the first nail, the smith
+deliberately hammered it into the flesh.  The Devil screamed in agony, and
+hpped round the smithy on one unshod foot.  He howled for the man to tear
+out the nail and to shoe him properly, but the smith refused until the Devil
+was willing to promise him anything.  And the promise the man extracted was,
+that wherever a horseshoe lay or hung no evil thing could pass.  And the
+Devil, perforce, had to agree.
+~
+D2
+You see crossroads to the south.
+~
+~
+0 -1 4207
+D3
+You see Reble Room to the west.
+~
+~
+0 -1 4205
+S
+#4207
+Cairn Crossroads~
+The ceiling in this part of the cave is festooned with shimmering
+crystalline snowball-like formations.  Neatly stacked cairns are beside the
+exits though their meaning is unclear to you right now.  You see some words
+of a famous Scottish proverb chisled in the wall.  One cairn or pile of
+rocks looks especially interesting.
+~
+0 9224 0
+E
+crevice~
+Within the slim crevice, upon looking closely, ye see a small marble switch.
+~
+E
+proverb~
+If ye canna bite dinna show yer teeth.
+~
+E
+cairn~
+You see a stack of stones with one stone set to the side pointing to a
+wall with a curious crevice in it.
+~
+D0
+You see Cairn tunnel to the north.
+~
+~
+0 -1 4206
+D1
+You see East Cairn tunnel to the east.
+~
+~
+0 -1 4208
+D2
+You see Highlanders Passageway to the south.
+~
+~
+0 -1 4222
+D3
+Inside the shimmering frosty crevice you find a small switch which
+can be raised or lowered.
+~
+crevice~
+1 -1 4216
+S
+#4208
+East Cairn Tunnel~
+The sounds of rushing water become louder as you enter this section of
+the tunnel.  Even the air in here is slightly misty and some club moss is
+sprouting on the earth floor close to the cavern walls.  Something swoops by
+your head and you duck instinctively hoping that it was only a bat.
+~
+0 8200 0
+D1
+~
+~
+0 -1 4209
+D2
+~
+~
+0 -1 4210
+D3
+~
+~
+0 -1 4207
+S
+#4209
+BraveHeart's Linn~
+A silver linn of icy-cold fresh spring water cascades over the step-stone
+roughened side of the cavern.  The misty spray from the linn touches your
+face causing you to shiver slightly.  Some of the water forms a wee pool in
+a naturally made trough.  The rest of it rushes off via a very small opening
+at the far cave wall.  It doesn't look as if a man could fit through that
+opening.  This part of the cave ends abruptly here though you do notice
+a faint plaid glimmering by the linn.
+~
+0 8 0
+D3
+You see an amethyst glow to the west.
+~
+~
+0 -1 4208
+S
+#4210
+Heather Tunnel Bend~
+The cavern walls here have a slight amethyst hue.  You smell the faint
+mingled fragrance of heather and something else in the air.  Could it be
+ale?  Most Scottish bairns or children have heard the story of the heather
+ale and how it started with the Pechs or as some say, Picts.
+~
+0 8 0
+D0
+You see East Cairn Tunnel to the north.
+~
+~
+0 -1 4208
+D1
+You see Heather Tunnel to the east.
+~
+~
+0 -1 4211
+S
+#4211
+Heather Tunnel~
+As ye travel down this tunnel a verra fine aroma fills the air.  Chisled
+in the slightly amethyst glowing wall ye see:
+
+>From the bonny bells of heather, They brewed a drink langsyne,
+Was sweeter far than honey, Was stronger far than wine.
+_R.L. Stevenson_
+~
+0 8 0
+D2
+You hear sounds of merriment to the south.
+~
+~
+0 -1 4212
+D3
+You see Heather Bend Tunnel to the west.
+~
+~
+0 -1 4210
+S
+#4212
+Heather Ale Gathering ~
+You enter a roomy gathering area that looks as if much partying and
+celebrating has taken place frequently.  There is a warm fire crackling in
+the ingle or fireplace and you see a plate of black buns, studded with
+fruits and nuts, sitting on a nearby table.  Shelves with mugs line one of
+the cavern walls.  A bonnie set of bagpipes rests carefully in one corner.
+The pechs in this room certainly seem to be cheerful.
+~
+0 8200 1
+D0
+You see Heather Tunnel to the north.
+~
+~
+0 -1 4211
+D1
+You hear female laughter to the east.
+~
+~
+0 -1 4213
+D2
+You hear a snorting and stamping of hooves to the south.
+~
+~
+0 -1 4215
+S
+#4213
+Heather Ale Prince's Room~
+Sprays of mauve heather have been strewn in profusion around this room.
+The Prince gazes at you calmly as he swigs down some of the heather ale.
+He rises from his gilded throne chair of heather colored velvet.  "Tis a
+secret about the heather ale, I ken but I maun not tell ye", he says with
+a slight slur to his voice.
+~
+0 8200 0
+D3
+You hear the sounds of mingled voices to the west.
+~
+~
+0 -1 4212
+S
+#4214
+Heather Ale Brewery~
+Kegs of ale, sacks of hops, containers of honey and massses sprays of
+heather seem to be stewn about the room.  You notice a sign on the wall
+posted over a beautifully hand carved chest which appears to be locked.  The
+fragrance of the heather ale fills you with sheer happiness and vibrance.
+
+~
+0 8 0
+E
+sign~
+And tho me you may kill, I winna not tell,
+How they brew the yill from the Heather bell!
+_auld Scottish folklore_
+~
+E
+keg~
+You notice one barrel the heather brewer has set aside.  Upon closer
+examination you notice a small recessed hinge on the top of it.  Perhaps
+there is a secret compartment.
+~
+D3
+You see a large sturdy door with a glowing lock to the west.
+~
+~
+2 4209 4215
+S
+#4215
+King's Keep~
+The floor in here has been strewn with a sweet smelling hay.  The King
+offers a lump of sugar to his honey-coloured Shetland pony.  You see various
+battleplans scattered about on a table in the room.  A gilded throne nearby
+is carved with a pattern of honeybees and heather bells.  Seeing you the
+King says, "My son ye maun kill, before ye I will tell how we brew the yill
+from the heather bell!"  You hear sounds of activity from a room to the east.
+~
+0 8200 0
+E
+door~
+A large sturdy door with a  well crafted lock is here.
+~
+E
+pony~
+The King has named his pony Aboot as a private joke since the King never
+means to tell aboot how they brew the heather ale.
+~
+D0
+You hear mingled sounds of voices to the north.
+~
+~
+0 -1 4212
+D1
+This sturdy door glows with a faint amber light, it appears to be locked.
+~
+~
+2 4209 4214
+S
+#4216
+Fugitive's Hideout~
+Shadows from the dim torch flicker erratically on the cavern walls
+creating a criss-cross pattern of activity.  Fresh grey-green sprigs of
+laurel and reddish-brown leathery leaves of eucalyptus have been placed in a
+small cranny so that the area is aromatically scented.  The earthern floor
+appears to have been swept clear of any footprints.
+~
+0 8 0
+E
+crevice~
+You notice a shimmering frosty looking crevice to the east which you
+think might open.
+~
+D1
+You see a secret exit to the east.
+~
+~
+1 -1 4207
+D2
+You see more of Fugitive Hideout to the south.
+~
+~
+0 -1 4219
+D3
+You see more of Fugitive Hideout to the west.
+~
+~
+0 -1 4217
+S
+#4217
+Fugitive's Hideout~
+Where you confront your foes, I now turn and have to flee. I am too weak
+to make heroic stand. My hope is to escape, and so I slip from cave to
+cave across the darkening land. No one will tell of my heroic death.
+My strategy is to elude and live. When Fortune smiles again, I will return
+and rule again. I am the fugitive.
+-Anonymous-
+~
+0 8 0
+D1
+You see more of Fugitive Hideout to the east.
+~
+~
+0 -1 4216
+D2
+You see the southwest part of Fugitive Hideout to the south.
+~
+~
+0 -1 4218
+S
+#4218
+Mark of the Thistle~
+There is an air of mystery in this part of the hideout.  Dark green
+sprays of juniper bearing silvery berries are placed to one side.  A stack
+of barley bannocks known as flat bread are heaped on a cog which is a wooden
+plate set in a nook.  Several medium sized boulders cover parts of the
+floor.  You notice that one of them has a crude drawing of a thistle on it.
+~
+0 8 0
+E
+boulder~
+One boulder in particular stands out because of the thistle carved in it.
+Perhaps if ye tried to open it....
+~
+D0
+You see more of Fugitive Hideout to the north.
+~
+~
+0 -1 4217
+D1
+You see more of Fugitive Hideout to the east.
+~
+~
+0 -1 4219
+D5
+A medium sized light grey boulder with silver specks has a delicate
+thistle carved on it.
+~
+~
+1 -1 4220
+S
+#4219
+Fugitive Hideout~
+Shadows from the dim torch flicker erratically on the cavern walls
+reminding you of how easily a bush becomes a bear.  The aromatic fragrance
+of eucalyptus and juniper is soothing to your nerves.  The dirt floor has
+been carefully swept so no footprints but yours are evident.  This is
+definitely a more secluded part of the cave.
+~
+0 8 0
+D0
+You see more of Fugitive Hideout to the north.
+~
+~
+0 -1 4216
+D3
+You see Mark of the Thistle to your west.
+~
+~
+0 -1 4218
+S
+#4220
+Thistle Lair~
+You quietly climb down the rough-hewn ladder and gratefully land with a
+soft thump.  The quiet seclusion and semi-darkness in here gives a feeling
+of safeness which hopefully is not just an illusion.  A number of open
+crates, filled with supplies, are stacked around the cave room.  In one
+crate you see extra dirks and fresh quivers of arrows.  Another crate bears
+waterskins, cloth bandages and medicinal herbs.  Salted fish, dried nuts and
+fruits as well as oatcakes are in a third crate.  Upon closer inspection you
+find what appears to be a sleeping area nestled behind some of the crates.
+There is even a tartan blanket spread out to keep a body warm.  How would a
+hunted fugitive escape if this lair was invaded?
+~
+0 8200 0
+D4
+Looking up you see a boulder covering a hidey hole.
+~
+~
+1 -1 4218
+D5
+As you lift the tartan up you see a hidden hole in the floor leading to
+another place.
+~
+~
+1 -1 4221
+S
+#4221
+Thistle Portal~
+It feels cooler down here and the walls seem possessed of a natural
+luminescence.  A light mist refracts the shimmering colors which dance
+about with an almost mystical beauty. Several colored portals coalesce
+just as ye think ye hear scuffling noises overhead: To the east a plaid
+portal beckons. To the west stands a black tartan portal.
+The lovliness of this scene is secondary to yer decision of whether to
+enter a portal or retrace yer steps to face your foes.
+~
+0 8 0
+D1
+A plaid portal beckons to the east, you see a silvery linn.
+~
+~
+0 -1 4209
+D3
+A black tartan portal beckons to the west, you see the Low Road there.
+~
+~
+0 -1 4232
+D4
+You see a tartan blanket covering a hole that leads upwards to thistle lair.
+~
+~
+1 -1 4220
+S
+#4222
+The High Road Pass~
+Many a braw Scottish warrior have taken the high road home to their
+beloved Scotland.  The cavern walls in this area are a silvery color
+streaked with veins of azure.  You hear some noises coming from afar and you
+wonder what lies ahead.
+~
+0 8200 0
+D0
+You see Cairn Crossroads to the north.
+~
+~
+0 -1 4207
+D2
+You see High Road Pass to the south.
+~
+~
+0 -1 4223
+S
+#4223
+The High Road Pass~
+Many a braw Scottish warrior have taken the high road home to their
+beloved Scotland.  The cavern walls in this area are a silvery color
+streaked with veins of azure.  The sounds you heard seem to be closer now
+but you still can't tell what lies ahead.
+~
+0 8200 0
+D0
+~
+~
+0 -1 4222
+D2
+You see High Road Split to the south.
+~
+~
+0 -1 4224
+S
+#4224
+The High Road Split~
+The sounds you heard earlier abruptly stop and are replaced with an eerie
+silence.  Even worse you sense something is in the room with you.  The trail
+of blood to the west does not do anything to help you stay calm.  Since the
+path splits here, you have need to decide which way to go.
+~
+0 8200 0
+D0
+You see High Road Pass to the north.
+~
+~
+0 -1 4223
+D1
+You see the fair maiden Lillard to the east.
+~
+~
+0 -1 4225
+D2
+You see Highlander's Passageway South to the south.
+~
+~
+0 -1 4227
+D3
+You see Bannockburn Remembered to the west.
+~
+~
+0 -1 4229
+S
+#4225
+Lillard's Edge~
+In 1545 the Battle of Ancrum Muir was fought a mile and a half north of
+the village of Ancrum.  The English were defeated.  According to tradition
+the battle site was named for the bravest of all warriors, Lillard the fair
+maiden warrior.  'Tis said that when her legs were cut off she continued to
+fight on her stumps.  The site has been named Lillard's Edge in her honor.
+~
+0 8 0
+D3
+You see the High Road Split to the west.
+~
+~
+0 -1 4224
+D5
+You peer into the misty murky depths but ye canna tell what lies there.
+~
+~
+0 -1 4232
+S
+#4226
+Highlander's Cliff~
+Upon entering this room, a feeling of magical disorientation overcomes
+ye.  After a brief period, your eyes open and you notice a strong warrior
+standing periously close to the edge of a craggy cliff.  Sheer frustration
+and grief cloud his handsome features.  A scream of heart-wrenching fright
+echos eerily through the room chilling your bones to the very marrow.  You
+have just witnessed the death of his sweetheart!  Seeking a place to recover
+from this shock you notice a room to south.
+~
+0 8192 5
+D2
+You see Eden Water to the south.
+~
+~
+0 -1 4230
+D3
+You see Highlander's Passageway South to the west.
+~
+~
+0 -1 4227
+S
+#4227
+Highlander's Passageway South~
+The passageway here is sloped slightly and the air seems somewhat
+fresher.  You even imagine you hear distant sounds of a rushing burn or
+stream.  Several torches on the arched walls provide illumination.
+You wonder if this is a safe spot to bide a wee and rest.
+~
+0 8205 0
+D0
+You see Highlander's Split to the north.
+~
+~
+0 -1 4224
+D1
+You see Highlander's Cliff to the east.
+~
+~
+0 -1 4226
+D3
+You see an empty toom saddle to the west.
+~
+~
+0 -1 4228
+S
+#4228
+The Toom Saddle~
+Ye sense an air of bravery in this room shrouded in darkness and
+illuminated only by what seems to be moonlight.  The Campbells were well
+known for their fighting prowress and Geordie was no exception to the rule.
+He was last seen with a plume in his bonnet and a sword at his knee, riding
+out to meet his bride.  Sounds of greet or grief echo hollowly from the
+cavern walls.
+~
+0 520 0
+D1
+You see Highlander's Passageway South to the east.
+~
+~
+0 -1 4227
+S
+#4229
+Bannockburn Remembered~
+At the battle of Bannockburn, Robert the 17th Earl of Bruce and scores of
+braw warriors overcame the wicked English king Edward.  They laid the once
+proud usurpers low in a savage fight for freedom and a strong desire not to
+fill a coward's grave.  The very walls of this room echo mingled sounds of
+elation and despair, of charges and retreats, of savage fighting and
+triumphant bagpipe music.
+~
+0 8 0
+D1
+You see Highlander's Split to the east.
+~
+~
+0 -1 4224
+S
+#4230
+Eden Water~
+Here Willie Kinmont took his stand by the Eden water, even where it
+flowed frae bank to brim he plunged in wi' a' band and safely swam through
+the stream.  He turned him on the other side and at Lord Scroope his glove
+flung he.  "If ye like na my visit in merry England, in fair Scotland come
+visit me!"  Lord Scroope replied, "He is either himsel' a devil frae hell or
+else his mother a witch maun be, I wadna have ridden that wan water for a'
+the gowd in Christentien."  Ye wonder where the english nobles have gone.
+~
+0 8 0
+D0
+You see Highlander's Cliff to the north.
+~
+~
+0 -1 4226
+D1
+You see a mysterious floor covered with aromatic branches.
+~
+~
+0 -1 4231
+S
+#4231
+Highlander's Revenge~
+The floor in here is covered with branches of yew, pine and juniper
+interspersed with tufts of red grass.  The aromatic blend of fragrance
+lowers yer guard and ye find yerself getting sleepy.  So sleepy that it
+takes a minute or two for ye to realize that maybe coming in here wasn't
+such a great idea after all.  Magical grey mists start to fill the room as
+ye wonder how ye are going to get oot!  For some fey reason ye canna get oot
+the way ye got in.  Even worse ye are not alone in here!
+~
+0 13 0
+S
+#4232
+The Low Road~
+A rather chill breeze whistles uneasily down the corridor as you descend.
+The air here has an unnatural mistiness to it not unlike fog on the moors.
+You are inspired to hasten along tho you are not at all sure where this path
+leads to.  Ye dinna ken what other kinds of beasties might be doon here
+either.
+~
+0 8 0
+D3
+You see more Low Road to the west.
+~
+~
+0 -1 4248
+D4
+You see a brave lass to the up.
+~
+~
+0 -1 4225
+S
+#4233
+Clan Chattan Passage~
+The passageway here reflects myriad shadows from the torches set along
+the walls.  The ceiling slopes at an oblique angle still in an almost
+protective fashion.  Shimmering ceiling colors refract from a crystalline
+outcropping near which a slogan of some kind has been carved.  Ye hear
+mingled voices further along the way but canna make out what they are
+saying.  Spirals of mist in here have kept ye from noticing the brawny
+clansmen standing watch at the western exit.  Ye wonder if they are looking
+for some kind of a clan token and searching aboot for a clue ye see an
+unguarded archway to the south.  Perchance there's yet another way to find
+the clansmen.
+~
+0 8200 0
+E
+slogan~
+Albe gu brath!  Scotland forever!!
+~
+D1
+You see Reble Rock to the east.
+~
+~
+0 -1 4246
+D2
+You see a mysterious room to the south.
+~
+~
+0 -1 4234
+D3
+You see Clan-Chattan Gathering to the west.
+~
+~
+0 -1 4235
+S
+#4234
+Gey-Dowie~
+A cold stone slab ye never noticed slides yont.  Your efforts to force
+the slab behind you open again are futile.  The cavern walls here are beaded
+with moisture.  Despite the muir you are able to see a glowing sign thru the
+darkness.  Thoughts of tracing down clansmen fade from your mind replaced by
+your earnest desire to get out of this room alive.  Perhaps ye should read
+the sign first, tho.
+~
+0 13 0
+E
+sign~
+We've na fought so hard to be taken this easily by surprise.
+Great sorrow, gey-dowie, to them that thinks otherwise.
+~
+S
+#4235
+Clan Chattan Gathering ~
+Here, deep within the cavern, is the meeting area for the clan chiefs.
+Ye can tell a chief by the silver crest-brooch he wears just below the right
+shoulder aboot his tartan.  The walls here are stippled with flecks of
+deeper grey and cobalt blue.  A rough hewn table by one wall is stacked with
+barley bannocks, crowdie cheese and a big stew-pot of hodge-podge.  There
+are also several bottle of guid whiskey setting there.  The words of a
+famous toast echo from the walls, 'Freedom an' whuskey gang thegither - take
+aff your dram!  '.  A brawn mahagony sable collie, name of Robin, gives his
+plumy tail a wee wag and studies ye with grave eyes.
+~
+0 8200 0
+D1
+You see Clan Way to the east.
+~
+~
+0 -1 4233
+D2
+You see some fiery Macintoshes to the south.
+~
+~
+0 -1 4236
+S
+#4236
+The Fiery Macintoshes~
+The clan Macintosh is descended from the Thane of Rothiemurchus.  Indeed
+their name, Mae an Toisich, means son of the thane.  They have been
+recognized as the leading sect-clan within Clan Chattan.  As such their
+chief, Macintosh of Macintosh, is the ruling Chief tho this honour was
+disputed by the chief of the Macphersons.  Known for their fiery
+dispositions that match their fiery hair they seem to wear a sprig of
+whatever they feel like for the clan badge!  Ye hear them shouting Loch
+Maigh!  It is known that the shores of Loch Moy are by many of their homes.
+~
+0 8 0
+D0
+You see Clan Chattan Gathering to the North.
+~
+~
+0 -1 4235
+D2
+You see the Macbeans to the south.
+~
+~
+0 -1 4237
+D3
+You see MacFarlanes to the west.
+~
+~
+0 -1 4238
+S
+#4237
+The MacBeans Gathering~
+The MacBeans are said to originally to belonged to MacBeth's province of
+Moray.  The clanmembers here hail from Inverness, Strathdearn and Badenoch.
+They appear to be a braw but rowdy bunch.  Their tams sport a verdant oak
+leaf sprig and their tartans are bright with color.  The tale of Gilles
+MacBean is being proudly told.  Seems this clan hero held the gap at the
+wall in Culloden during a battle and singlehandedly accounted for doing away
+with a considerable number of the enemy.  Several large Scottish deerhounds
+are dozing by their master's feet.
+~
+0 8 0
+D0
+You see fiery Macintoshes to the north.
+~
+~
+0 -1 4236
+D3
+You see greedy but brave Campbells to the west.
+~
+~
+0 -1 4239
+S
+#4238
+MacFarlane Clan Gathering~
+The MacFarlanes of Dumbarton have secured themselves a guidly sized room
+in the cavern as they feel proper for those descended from the Celtic Lords
+of Lennox.  Far from their hamlets, the battlecry of Loch Sluaigh reminds
+them of the clear loch waters which are close to home.  Though all Scots are
+fond of plaid tartans, the Wild MacFarlane Plaided Clan even has plaid tams
+with a sprig of cranberry tucked in near the plumes.
+~
+0 8 0
+D1
+You see fiery Macintoshes to the east.
+~
+~
+0 -1 4236
+D2
+You see greedy but brave Campbells to the south.
+~
+~
+0 -1 4239
+S
+#4239
+The Greedy Campbells~
+The Campbells are descended from the Duke of Argyll in county Stirling
+close to where Sir William Wallace and his band of men won such a stunning
+victory in Stirling Ridge.  In ancient gaelic cam-beul stood for crooked
+mouth and ye do notice this feature is prevelant amongst the clanspeople in
+the room.  They bear the sprigs of wild mrytle in their tams and utter the
+battlecry of Cruachan!  That battlecry is the name of a mountain near Loch
+Awe.
+~
+0 8 0
+D0
+You see MacFarlanes to the north.
+~
+~
+0 -1 4238
+D1
+You see MacBeans to the east.
+~
+~
+0 -1 4237
+D2
+You see Loyal MacMillans to the south.
+~
+~
+0 -1 4240
+S
+#4240
+The Loyal MacMillans~
+Records show that this clan established at an early period in Lochaber.
+They were loyal retainers of Lochiel and from there moved on to the Crown
+Lands of Loch Tay in the county of Perth.  At a later period they were found
+in Knapdale and Galloway.  The Knapdale MacMillans soon reached great
+++prominence.  "While currents run and winds blow cold, Macmillan's right to
+Knap shall hold" is inscribed on a boulder at Knap Head.  Ye notice several
+black and white border collies who growl suspiciously when you enter the
+room.
+~
+0 8 0
+D0
+You see greedy but brave Campbells to the north.
+~
+~
+0 -1 4239
+D2
+You see Clan Walk South to the south.
+~
+~
+0 -1 4241
+D3
+You see some MacLeans to the west.
+~
+~
+0 -1 4242
+S
+#4241
+Clan Walk South~
+The mingled aromatic fragrances of pine, heather, club moss and crowberry
+fill the air in a pleasant fashion.  Intermittent clan battlecries echo
+stirringly along the sloping passageways.  The cool grey cavern walls are
+illuminated by flickering torches.  A magical mist swirls through the
+corrider adding an air of intrigue.
+~
+0 8 0
+D0
+You see some MacMillans to the north.
+~
+~
+0 -1 4240
+D2
+You see the Clan of a Hundred Battles to the south.
+~
+~
+0 -1 4244
+D3
+You see the wild MacRaes to the west.
+~
+~
+0 -1 4243
+S
+#4242
+The Luckless MacLeans~
+It is known by the Scottish clansmen that clan titles are often given
+them by their enemies, hence the luckless in their title.  This powerful
+clan are descended from a famous warrior known as Gillian of the Battle Axe.
+They hold many lands in Duart where they built a bonnie castle.  A sprig of
+crowberry is proudly worn in their tams as clan badge.  The MacLeans of
+Brolas have recently united with them so they are even stronger now than
+before.
+~
+0 8 0
+D1
+You see the Loyal MacMillans to the east.
+~
+~
+0 -1 4240
+D2
+You see the Clan of a Hundred Battles to the south.
+~
+~
+0 -1 4243
+S
+#4243
+The Wild MacRaes~
+The MacRaes of Kintail sport club moss sprigs in their tams.  Ye notice
+their slogan Sgurr Urain!  Which stands for Mount Urain chiseled in one of
+the caverns walls.  During battle, they are known to use it for a battlecry
+which seems to regenerate their energies.  The clanmembers are known for
+their wild almost reckless ways both in fighting and in pleasuring
+themselves.  It appears they have even managed to smuggle in some female
+clansmembers.
+~
+0 8 0
+D0
+You see some MacLeans to the north.
+~
+~
+0 -1 4242
+D1
+You see Clan Walk South to the east.
+~
+~
+0 -1 4241
+S
+#4244
+Clan of the Hundred Battles~
+Ye have entered the clan gathering room of the Brave MacDonalds who were
+descended from Donald, grandson of Somerled of the Isles also known as Lord
+of the Isles.  Their battlecry of "Fraoch Eilean!"  which means Heather Isle
+stirs them to greater fighting prowress.  The cavern walls in here have a
+wee bit of amethyst luminescence to them which is intensified by the sprigs
+of heather worn as clan badge.  The legend of their clan hero Conn is still
+being retold and men still marvel at how he singlehandedly held off a
+hundred enemies at the pass.
+~
+0 8 0
+D0
+You see Clan Walk South to the north.
+~
+~
+0 -1 4241
+D1
+You see MacGregors to the south.
+~
+~
+0 -1 4245
+S
+#4245
+MacGregors Gathering~
+Carved in one wall is the MacGregor clan's motto "Is Rioghail Lilo
+Dhream" or "Royal is my Race".  Small sprigs of pine, the clan badge which
+they wear in their tams, have been chiseled and painted on another wall.
+Despite the misfortunes the MacGregors have endured they are well known for
+their stewardship and the honesty of their given word.  Rob Roy's titan
+haired wife, Mary, and their two bairns wait patiently for him to return.
+Having won his match of honor for the Duke, MacGregor has some further clan
+business afore he can do so.
+~
+0 8 0
+D2
+You see the legendary Wallace clansmen to the south.
+~
+~
+0 -1 4252
+D3
+You see the Clan of a Hundred Battles to the west.
+~
+~
+0 -1 4244
+S
+#4246
+Clan Chattan Passage~
+The passageway here is reflects myriad shadows on the walls from the
+torches set on the cavern walls.  Ye notice a sign which is posted to one
+side.  The ceiling slopes at an oblique angle and seems to shimmer with many
+different colors.  The earthern floor bears the imprint of many footprints
+as if it was often used.  A silvery looking horseshoe rests on one of the
+torches perhaps to ward off evil spirits.
+~
+0 8 0
+E
+sign~
+Clan Chattan is a federation of clans, each with it's own chief, each
+Chief recognizing the Captaincy of Mackintosh of Mackintosh.
+~
+D1
+You see Reble Room to the east.
+~
+~
+0 -1 4205
+D3
+You see Clan Way to the west.
+~
+~
+0 -1 4233
+S
+#4247
+BraveHeart's Tyauve~
+Shaped like a natural horseshoe, there is a heavily wooded deep gully
+running through the middle of this area.  It is sort of a minature glen down
+which tumbles a cool, refreshing burn or stream.  Hares run through the wild
+myrtle and ferns growing along this gully.  The wind ripples through the red
+hawthorne trees and sweeps past the pines and the yews.  The air is perfumed
+by gowans, gillyflowers, pink azaleas and bluebells.  Hills surround three
+sides of the horseshoe.  If there is an exit out it is so well hidden ye
+canna find it just now.  Spying a rowan tree ye recall that its wood is
+often used to ward off evil spirits.  It took great effort or tyauve to
+locate this naturally secluded and protected spot.
+~
+0 1544 4
+D0
+You see the Wallace Clansmen to the north.
+~
+~
+0 -1 4252
+S
+#4248
+The Low Road~
+Wisps of incandescent silver swirl amongst the foggy air down here.  The
+very floor seems to have an energy of its own.  You find yourself wanting to
+run rather than walk.  The very walls of this room seem to be filled with
+elusive memories.  Ye seem to feel assaulted by many small stabbing
+sensations.
+~
+0 8200 0
+D1
+You see the Low Road to your east.
+~
+~
+0 -1 4232
+D3
+You see more Low Road to your west.
+~
+~
+0 -1 4249
+S
+#4249
+The Low Road~
+The cave bends sharply at this point.  You almost run into the wall but
+stop just in time.  Pausing for breath, you notice what appear to be cloven
+hoof marks in the subterrean floor.  The rushing wind and chilliness are
+beginning to sap some of your energy.
+~
+0 8200 0
+D0
+You see more Low Road to the north.
+~
+~
+0 -1 4250
+D1
+You see more Low Road to the east.
+~
+~
+0 -1 4248
+S
+#4250
+The Low Road~
+The cavern walls in this area appear to be smoother though the path is
+quite narrow.  The breeze here is warmer and you start to relax just a wee
+bit.  The fog has thinned out some but you still can't see what lies ahead.
+Ye dinna ken what else maun be here.  Ye dinna ken what else maun be here.
+~
+0 8200 0
+D0
+You see more Low Road to the north.
+~
+~
+0 -1 4251
+D2
+You see more Low Road to the south.
+~
+~
+0 -1 4249
+S
+#4251
+The Low Road~
+Through the thin swirling layers of mist and fog in this room, you can
+see a ray of sunshine beaming through an opening above your head.  Though
+you see no rope or ladder the very ground in here feels bouyant.  The warm
+updraft of the breeze wafts you towards that opening.
+~
+0 0 0
+D2
+You see more Low Road to the south.
+~
+~
+0 -1 4250
+D4
+You see the rippling waters of Loch Lochmond.
+~
+~
+0 -1 4200
+S
+#4252
+Braveheart's Stand~
+A scent of gowens or mountain daisies freshens the air here and ye notice
+off to one side of this irregularly shaped area is an opening in the cavern
+which is well guarded by some of the clanmen.  Here before ye is the living
+legend that Scots have bled with in the battlefields be they highlanders or
+lowlanders.  Doon by yer feet ye spy a stack of long sharpened poles which
+Braveheart and his men used so advantageously at the battle of Stirling
+Ridge.  Ye can see the tips of them are still stained with blude.  Wallace
+radiates an aura of courage and charisma and indomitable will that ye
+rarely see amongst mortal men.
+~
+0 0 0
+D0
+You see the brave MacGregors to the north.
+~
+~
+0 -1 4245
+D2
+You see a restful wooded area to the south.
+~
+~
+0 -1 4247
+S
+#0
+
+
+
+#SPECIALS
+M 4200 spec_cast_undead
+M 4201 spec_thief
+M 4202 spec_thief
+M 4205 spec_cast_undead
+M 4225 spec_breath_gas
+M 4226 spec_breath_frost
+M 4227 spec_cast_undead
+M 4230 spec_thief
+M 4232 spec_thief
+M 4234 spec_impale
+M 4235 spec_breath_frost
+M 4239 spec_breath_gas
+M 4244 spec_thief
+M 4252 spec_breath_gas
+M 4256 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 4201 2 1
+D 0 4202 0 1
+D 0 4207 3 1
+D 0 4214 3 2
+D 0 4215 1 2
+D 0 4216 1 1
+D 0 4218 5 1
+D 0 4220 4 1
+D 0 4220 5 1
+D 0 4221 4 1
+M 0 4227 1 4200 1
+E 0 4242 0 17
+M 0 4228 1 4200 1
+E 0 4241 0 16
+M 0 4200 1 4200 1
+E 0 4240 0 12
+E 0 4201 0 17
+O 0 4264 0 4200
+M 0 4201 1 4201 1
+G 0 4202 0
+M 0 4202 1 4201 1
+G 0 4243 0
+M 0 4203 2 4202 2
+M 0 4203 2 4202 2
+O 0 4203 0 4203
+O 0 4204 0 4203
+M 0 4219 11 4204 3
+M 0 4219 11 4204 3
+M 0 4219 11 4204 3
+E 0 4238 0 2
+M 0 4219 11 4205 4
+E 0 4238 0 2
+M 0 4219 11 4205 4
+M 0 4219 11 4205 4
+M 0 4219 11 4205 4
+O 0 4236 0 4205
+P 0 4237 15 4236 1
+M 0 4212 1 4206 1
+E 0 4227 0 17
+E 0 4229 0 16
+O 0 4228 0 4207
+M 0 4208 1 4208 1
+E 0 4207 0 17
+O 0 4208 0 4208
+M 0 4219 11 4209 2
+M 0 4219 11 4209 2
+O 0 4205 0 4209
+M 0 4207 4 4210 2
+M 0 4207 4 4210 2
+E 0 4245 0 4
+M 0 4204 2 4210 1
+E 0 4206 0 16
+M 0 4210 11 4211 1
+E 0 4244 0 17
+M 0 4207 4 4211 2
+M 0 4207 4 4211 2
+E 0 4245 0 4
+M 0 4209 7 4211 1
+M 0 4204 2 4211 1
+M 0 4209 7 4212 4
+M 0 4209 7 4212 4
+M 0 4209 7 4212 4
+M 0 4209 7 4212 4
+M 0 4204 2 4212 1
+M 0 4210 11 4212 4
+M 0 4210 11 4212 4
+E 0 4244 0 17
+M 0 4210 11 4212 4
+M 0 4210 11 4212 4
+M 0 4211 6 4212 3
+M 0 4211 6 4212 3
+M 0 4211 6 4212 3
+E 0 4225 0 16
+E 0 4226 0 17
+M 0 4206 1 4213 1
+G 0 4209 0
+E 0 4210 0 5
+E 0 4211 0 8
+M 0 4211 6 4213 3
+E 0 4226 0 17
+M 0 4211 6 4213 3
+E 0 4225 0 16
+M 0 4211 6 4213 3
+E 0 4225 0 16
+M 0 4214 1 4214 1
+E 0 4220 0 10
+M 0 4210 11 4214 3
+E 0 4244 0 17
+M 0 4210 11 4214 3
+M 0 4210 11 4214 3
+O 0 4222 0 4214
+P 0 4223 50 4222 1
+P 0 4224 10 4222 1
+O 0 4213 0 4214
+P 0 4219 1 4213 1
+M 0 4213 1 4215 1
+E 0 4215 0 17
+E 0 4221 0 7
+M 0 4205 1 4215 1
+E 0 4214 0 16
+G 0 4212 0
+E 0 4216 0 6
+E 0 4217 0 1
+M 0 4233 9 4216 1
+E 0 4259 0 16
+M 0 4219 11 4216 3
+M 0 4219 11 4216 3
+M 0 4219 11 4216 3
+E 0 4238 0 2
+M 0 4233 9 4217 2
+M 0 4233 9 4217 2
+M 0 4219 11 4218 2
+M 0 4219 11 4218 2
+M 0 4233 9 4219 3
+M 0 4233 9 4219 3
+M 0 4233 9 4219 3
+M 0 4259 1 4220 1
+G 0 4286 0
+G 0 4287 0
+G 0 4288 0
+G 0 4289 0
+G 0 4291 0
+M 0 4233 9 4220 2
+M 0 4233 9 4220 2
+O 0 4260 0 4220
+P 0 4261 1 4260 1
+P 0 4262 1 4260 1
+P 0 4263 1 4260 1
+P 0 4276 5 4260 1
+O 0 4218 0 4221
+M 0 4220 10 4222 4
+E 0 4239 0 16
+M 0 4220 10 4222 4
+M 0 4220 10 4222 4
+M 0 4220 10 4222 4
+E 0 4239 0 16
+M 0 4221 9 4222 2
+E 0 4246 0 16
+M 0 4221 9 4222 2
+M 0 4221 9 4223 4
+E 0 4246 0 16
+M 0 4221 9 4223 4
+E 0 4246 0 16
+M 0 4221 9 4223 4
+M 0 4221 9 4223 4
+M 0 4220 10 4223 2
+M 0 4220 10 4223 2
+E 0 4239 0 16
+M 0 4218 8 4224 4
+E 0 4247 0 16
+M 0 4218 8 4224 4
+M 0 4218 8 4224 4
+E 0 4247 0 16
+M 0 4218 8 4224 4
+M 0 4218 8 4225 2
+E 0 4247 0 16
+M 0 4218 8 4225 2
+E 0 4247 0 16
+M 0 4215 1 4225 1
+E 0 4234 0 0
+M 0 4223 1 4225 1
+E 0 4251 0 13
+M 0 4216 1 4226 1
+E 0 4230 0 16
+E 0 4231 0 14
+M 0 4224 1 4228 1
+E 0 4254 0 17
+O 0 4235 0 4228
+M 0 4222 1 4229 1
+E 0 4232 0 16
+E 0 4233 0 11
+E 0 4248 0 17
+M 0 4226 1 4229 1
+E 0 4249 0 16
+E 0 4250 0 13
+M 0 4220 10 4229 4
+M 0 4220 10 4229 4
+E 0 4239 0 16
+M 0 4220 10 4229 4
+M 0 4220 10 4229 4
+E 0 4239 0 16
+M 0 4217 1 4230 1
+E 0 4252 0 9
+M 0 4225 1 4230 1
+E 0 4253 0 17
+G 0 4295 0
+M 0 4232 4 4230 1
+M 0 4232 4 4231 3
+M 0 4232 4 4231 3
+M 0 4232 4 4231 3
+M 0 4218 8 4231 2
+E 0 4247 0 16
+M 0 4218 8 4231 2
+E 0 4247 0 16
+M 0 4229 12 4232 4
+M 0 4229 12 4232 4
+M 0 4229 12 4232 4
+M 0 4229 12 4232 4
+E 0 4255 0 17
+E 0 4256 0 3
+M 0 4230 10 4232 2
+E 0 4257 0 16
+M 0 4230 10 4232 2
+E 0 4257 0 16
+M 0 4231 10 4232 2
+M 0 4231 10 4232 2
+E 0 4258 0 17
+M 0 4252 2 4233 2
+E 0 4284 0 16
+M 0 4252 2 4233 2
+E 0 4284 0 16
+M 0 4253 1 4235 1
+E 0 4265 0 12
+M 0 4255 1 4235 1
+M 0 4244 6 4235 3
+M 0 4244 6 4235 3
+M 0 4244 6 4235 3
+M 0 4243 4 4235 1
+M 0 4236 4 4235 1
+M 0 4239 3 4235 1
+M 0 4244 6 4236 3
+M 0 4244 6 4236 3
+M 0 4244 6 4236 3
+M 0 4242 4 4237 4
+M 0 4242 4 4237 4
+M 0 4242 4 4237 4
+M 0 4242 4 4237 4
+M 0 4254 1 4237 1
+M 0 4243 4 4238 4
+M 0 4243 4 4238 4
+M 0 4243 4 4238 4
+M 0 4243 4 4238 4
+M 0 4247 1 4238 1
+M 0 4241 3 4239 3
+M 0 4241 3 4239 3
+M 0 4241 3 4239 3
+M 0 4248 1 4239 1
+M 0 4240 4 4240 4
+M 0 4240 4 4240 4
+M 0 4240 4 4240 4
+M 0 4240 4 4240 4
+M 0 4249 1 4240 1
+M 0 4239 3 4242 3
+M 0 4239 3 4242 3
+M 0 4239 3 4242 3
+M 0 4250 1 4242 1
+M 0 4237 4 4243 4
+M 0 4237 4 4243 4
+M 0 4237 4 4243 4
+M 0 4237 4 4243 4
+M 0 4238 2 4243 2
+M 0 4238 2 4243 2
+M 0 4251 1 4243 1
+M 0 4236 4 4244 4
+M 0 4236 4 4244 4
+M 0 4236 4 4244 4
+M 0 4236 4 4244 4
+M 0 4256 1 4244 1
+E 0 4283 0 16
+M 0 4235 1 4245 1
+E 0 4273 0 3
+E 0 4274 0 6
+E 0 4275 0 5
+E 0 4277 0 8
+E 0 4278 0 7
+E 0 4279 0 10
+E 0 4280 0 16
+M 0 4257 5 4245 5
+M 0 4257 5 4245 5
+M 0 4257 5 4245 5
+M 0 4257 5 4245 5
+M 0 4257 5 4245 5
+O 0 4293 0 4245
+P 0 4294 1 4293 1
+O 0 4281 0 4247
+P 0 4282 15 4281 1
+M 0 4230 10 4248 5
+E 0 4257 0 16
+M 0 4230 10 4248 5
+M 0 4230 10 4248 5
+M 0 4230 10 4248 5
+E 0 4257 0 16
+M 0 4230 10 4248 5
+M 0 4229 12 4249 4
+M 0 4229 12 4249 4
+E 0 4255 0 17
+E 0 4256 0 3
+M 0 4229 12 4249 4
+M 0 4229 12 4249 4
+E 0 4255 0 17
+E 0 4256 0 3
+M 0 4230 10 4249 2
+E 0 4257 0 16
+M 0 4230 10 4249 2
+E 0 4257 0 16
+M 0 4231 10 4249 2
+M 0 4231 10 4249 2
+E 0 4258 0 17
+M 0 4231 10 4249 1
+M 0 4229 12 4250 2
+M 0 4229 12 4250 2
+E 0 4255 0 17
+E 0 4256 0 3
+M 0 4231 10 4250 3
+M 0 4231 10 4250 3
+E 0 4258 0 17
+M 0 4231 10 4250 3
+M 0 4230 10 4250 1
+E 0 4257 0 16
+M 0 4229 12 4251 3
+M 0 4229 12 4251 3
+E 0 4255 0 17
+E 0 4256 0 3
+M 0 4229 12 4251 3
+M 0 4230 10 4251 3
+E 0 4257 0 16
+M 0 4230 10 4251 3
+M 0 4230 10 4251 3
+M 0 4231 10 4251 3
+E 0 4258 0 17
+M 0 4234 1 4252 1
+E 0 4266 0 16
+E 0 4267 0 14
+E 0 4268 0 13
+E 0 4269 0 12
+E 0 4270 0 6
+E 0 4271 0 5
+E 0 4272 0 0
+M 0 4258 4 4252 4
+M 0 4258 4 4252 4
+M 0 4258 4 4252 4
+M 0 4258 4 4252 4
+S
+
+
+
+#SHOPS
+4259 10 26 3 4 2 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

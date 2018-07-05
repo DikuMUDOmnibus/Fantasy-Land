@@ -1,0 +1,2325 @@
+#AREADATA
+Name The Coastline~
+Builders Ishamael~
+VNUMs 22000 22099
+Continent 2
+Credits {y[{Y  LGD{y ]{c Ishamel {Y The Coastline{X~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#22000
+scaled worm~
+a scaled worm~
+A large scaled worm rears back at your entrance.
+~
+Thick scales provide armor like protection for this giant worm.
+~
+snake~
+A DFVa 0 0 0
+145 500 1d1+13988 0d0+0 6d28+23 digestion
+-45 -45 -45 -40
+0 ABL L I
+stand stand none 0
+AGXYc ADEFKLQVX large unknown
+#22001
+sand sprite~
+a sand sprite~
+A sand sprite giggles madly at your entrance.
+~
+~
+pixie~
+AGS DF B 0 0
+150 200 1d1+20000 0d0+0 10d27+50 claw
+-30 -30 -30 -30
+FHIK AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+F aff T
+M FIGHT 22007 100~
+M DEATH 22000 100~
+#22002
+skeletal sailor~
+a skeletal sailor~
+A skeletal sailor glares at your intrusion.
+~
+~
+human~
+AFG DF 0 0 0
+155 0 1d1+25000 0d0+0 10d29+75 slash
+-40 -40 -40 -40
+0 0 D 0
+stand stand none 5
+AHMV ABCDEFGHIJK medium unknown
+#22003
+sailor spirit~
+a spirit of a sailor~
+The spirit of a long dead sailor floats here.
+~
+~
+human~
+AFG DF 0 0 0
+155 0 1d1+25000 0d0+0 11d29+50 drain
+-35 -35 -35 -35
+0 0 D 0
+stand stand none 5
+AHMV ABCDEFGHIJK medium unknown
+#22004
+captain ghost~
+the ghost of the Captain~
+The ghost of the Captain of the ship floats nearby.
+~
+~
+human~
+ABFG DFJTV 0 0 0
+170 130 1d1+75000 110d10+100 900d3+1 bite
+-100 -85 -85 -85
+EFGHK JS ACDEM H
+stand stand male 80000
+AHIMV ABCDEFGHIJK medium unknown
+#22005
+doe deer~
+A Doe~
+A doe gambols about.
+~
+~
+human~
+A Z 0 1000 0
+85 0 15d10+2200 0d0+0 4d10+15 charge
+-15 -15 -15 -15
+C 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#22006
+buck deer~
+A Large Buck~
+A buck stands here, grazing.
+~
+~
+human~
+A Z 0 -1000 0
+85 0 15d10+2200 0d0+0 5d10+20 charge
+-15 -15 -15 -15
+C 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#22007
+crow~
+A Crow~
+A crow flies about.
+~
+~
+song bird~
+A T 0 -1000 0
+60 0 6d12+900 0d0+0 2d12+10 peck
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#22008
+spiny backed sand lizard~
+a spiny-backed sand lizard~
+A spiny lizard blends in with the sands.
+~
+~
+lizardman~
+AFG b 0 0 0
+160 300 1d1+23000 0d0+0 20d40+50 claw
+-40 -40 -40 -40
+FH 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKQ medium unknown
+M DEATH 22006 100~
+#22009
+sand crab~
+a giant sand crab~
+A giant sand crab stands ready to defend.
+~
+~
+dragon~
+AGS DFJT 0 0 0
+150 200 1d1+20000 0d0+0 12d30+50 claw
+-30 -30 -30 -30
+FHK AB B F
+stand stand none 0
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+F res EH
+F vul I
+M FIGHT 22007 100~
+M DEATH 22008 100~
+#0
+
+
+
+#OBJECTS
+#22000
+ship shipwreck~
+a large shipwreck~
+{x~
+unknown~
+portal 0 0
+0 KL A ACEFJKMO 0
+0 0 0 P
+E
+shipwreck~
+It appears you can ENTER SHIPWRECK to board the shipwreck.  
+~
+E
+ship~
+It appears you can ENTER SHIPWRECK to board the shipwreck.  
+~
+#22001
+shackle stone heavy~
+a heavy stone shackle~
+A heavy stone shackle lies collecting dust~
+stone~
+armor 0 AT
+ABCD ABCD ABCD ABCD 0
+101 1 10000 P
+A
+9 5
+A
+18 5
+A
+2 -1
+A
+19 16
+#22002
+eye patch~
+a black eye patch~
+A dark piece of material with a strap lies discarded.~
+cloth~
+armor 0 AR
+CE CE CE CE 0
+101 0 10000 P
+A
+13 25
+A
+18 10
+A
+19 10
+A
+1 3
+#22003
+rusty hook~
+a rusty hook~
+A badly rusted hook sits tossed aside.~
+rusty~
+weapon 0 AN
+exotic 7 29 slash 0
+101 0 10000 W
+A
+19 15
+A
+18 -5
+#22004
+barnacle chainmail~
+a suit of barnacle encrusted chainmail~
+A suit of barnacle encrusted chainmail lies here.~
+unknown~
+armor 0 AD
+ACF ACF ABCDE ABCDE 0
+101 0 10000 G
+A
+13 50
+A
+28 10
+A
+19 -10
+#22005
+scale lizard~
+a scale of a spiny-backed sand lizard~
+A scale from a sand lizard blends into its surroundings.~
+unknown~
+armor 0 A
+0 0 0 0 0
+101 5 150000 P
+#22006
+crab claw~
+a crab claw~
+A severed crab claw sits baking in the sun.~
+crab~
+armor 0 A
+0 0 0 0 0
+0 0 30000 P
+#22007
+small rock crystal~
+a small rock crystal~
+A small rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 100000 P
+#22008
+medium rock crystal~
+a medium rock crystal~
+A medium rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 135000 P
+#22009
+large rock crystal~
+a large rock crystal~
+A large rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 177250 P
+#22010
+huge rock crystal~
+a huge rock crystal~
+A huge rock crystal glitters in the light.~
+crystal~
+gem 0 A
+0 0 0 0 0
+0 1 250000 P
+#22011
+small turquoise stone~
+a small turquoise stone~
+A small turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 120000 P
+#22012
+medium turquoise stone~
+a medium turquoise stone~
+A medium turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 187500 P
+#22013
+large turquoise stone~
+a large turquoise stone~
+A large turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 230000 P
+#22014
+huge turquoise stone~
+a huge turquoise stone~
+A huge turquoise stone glows softly in the light.~
+turquoise~
+gem 0 A
+0 0 0 0 0
+0 1 297750 P
+#22015
+small black pearl~
+a small black pearl~
+A small black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 200000 P
+#22016
+medium black pearl~
+a medium black pearl~
+A medium black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 280000 P
+#22017
+large black pearl~
+a large black pearl~
+A large black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 330000 P
+#22018
+huge black pearl~
+a huge black pearl~
+A huge black pearl swallows all light touching it.~
+pearl~
+gem 0 A
+0 0 0 0 0
+0 1 375000 P
+#22019
+medium fire opal~
+a medium fire opal~
+A medium fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 1 350000 P
+#22020
+large fire opal~
+a large fire opal~
+A large fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 1 455000 P
+#22021
+huge fire opal~
+a huge fire opal~
+A huge fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 1 570000 P
+#22022
+small ruby~
+a small ruby~
+A small ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 500000 P
+#22023
+medium ruby~
+a medium ruby~
+A medium ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 677500 P
+#22024
+large ruby~
+a large ruby~
+A large ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 775000 P
+#22025
+huge ruby~
+a huge ruby~
+A huge ruby sparkles in the light.~
+ruby~
+gem 0 A
+0 0 0 0 0
+0 1 1000000 P
+#22026
+massive green sapphire~
+a massive green sapphire~
+A massive green sapphire radiates brightly in the light.~
+sapphire~
+gem 0 A
+0 0 0 0 0
+0 0 10000000 P
+#22027
+small fire opal~
+a small fire opal~
+A small fire opal shines in the light.~
+opal~
+gem 0 A
+0 0 0 0 0
+0 0 275000 P
+#0
+
+
+
+#ROOMS
+#22000
+The Beach~
+The sun heats the sand on the beach making it warm beneath your feet.  To
+the north the ocean is just steps away, to the south two mountains loom in
+the distance.  To the east the beach continues as far as the eye can see.  
+~
+0 0 2
+D1
+~
+~
+0 0 22001
+D3
+~
+~
+0 0 14504
+S
+#22001
+The Beach~
+Loose grains of sand swirl in the breeze blowing across the beach and
+shards of broken seachells crunch with every step.  The waves roll into the
+coast splashing onto the sandy beach.  
+~
+0 0 2
+D1
+~
+~
+0 0 22003
+D3
+~
+~
+0 0 22000
+S
+#22002
+~
+~
+0 4 0
+S
+#22003
+The Beach~
+The beach continues off to the north snaking around the forest to the
+east.  The sand is wet from the tide and dotted with bits of shells that
+have washed ashore.  
+~
+0 0 0
+D0
+~
+~
+0 0 22004
+D3
+~
+~
+0 0 22001
+S
+#22004
+The Beach~
+The nothern horizon reveals nothing but the water of the ocean.  The
+beach itself is lined with scattered seachells and the white sand swirls in
+the light breeze.  
+~
+0 0 2
+D1
+~
+~
+0 0 22005
+D2
+~
+~
+0 0 22003
+S
+#22005
+The Beach~
+The ocean waves crash onto the beach, the surf rushing over the sand. 
+Far to the east a large cliff looms ominously in the distance.  The sound of
+crashing waves dominates the area.  
+~
+0 0 2
+D1
+~
+~
+0 0 22006
+D3
+~
+~
+0 0 22004
+S
+#22006
+The Beach~
+The ocean waves crash onto the beach, the surf rushing over the sand. 
+Nearby to the east a large cliff looms ominously in the distance.  The sound
+of crashing waves dominates the area 
+~
+0 0 2
+D1
+~
+~
+0 0 22007
+D3
+~
+~
+0 0 22005
+S
+#22007
+The Beach~
+The ocean waves crash onto the beach, the surf rushing over the sand. 
+Close by to the east a large cliff looms ominously in the distance.  The
+sound of crashing waves dominates the area 
+~
+0 0 2
+D1
+~
+~
+0 0 22008
+D3
+~
+~
+0 0 22006
+S
+#22008
+The Beach~
+The coastline heads north around the large cliff looming to the east. 
+The forest to the south runs smack into the cliff's rock wall.  To the north
+ocean water is all that can be scence to the horizon.  
+~
+0 4 2
+D0
+~
+~
+0 0 22022
+D2
+~
+~
+0 0 22009
+D3
+~
+~
+0 0 22007
+S
+#22009
+Path through the Forest~
+The small path cuts through the dense forest, tall trees surround the
+path on all sides.  Thick ferns hang over over the path swaying softly in
+the wind.  
+~
+0 0 3
+D0
+~
+~
+0 0 22008
+D2
+~
+~
+0 0 22010
+S
+#22010
+Twist in the Path~
+The path twists to the east headed through the dense forest.  A large log
+lays across half rotten full of colorful fungi.  To the north the ocean
+shimmers in the sunlight.  To the south a small area has been cleared to
+allow entrance into the massive forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 22009
+D1
+~
+~
+0 0 22011
+D2
+~
+~
+0 0 22400
+S
+#22011
+Path through the Forest~
+The path continues heading on its east-west path through the forest. 
+Tiny saplings grow along the side of the path as if they are slowly trying
+to reclaim the path cut through the trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 22012
+D3
+~
+~
+0 0 22010
+S
+#22012
+Path through the Forest~
+The path continues its way through the dense forest.  Several rays of
+light filter in through the trees creating an odd affect.  Through the trees
+to the north the glimmer of the ocean can bee seen.  
+~
+0 0 3
+D1
+~
+~
+0 0 22013
+D3
+~
+~
+0 0 22011
+S
+#22013
+Path through the Forest~
+The path splits momentarily around an enourmous tree.  The tree dwarfs
+all those around it its canopy blocking out most of the sunlight.  Nothing
+grows beneath the tree due to the lack of light.  
+~
+0 0 3
+D1
+~
+~
+0 0 22014
+D3
+~
+~
+0 0 22012
+S
+#22014
+Twist in the Path~
+The path twists around a section of thick foliage.  Large ferns and thorn
+bushes line the side of path discouraging anyone from trying to wander the
+forest.  To the north a faint glimpse of the ocean can be seen through the
+trees.  
+~
+0 0 3
+D2
+~
+~
+0 0 22015
+D3
+~
+~
+0 0 22013
+S
+#22015
+Path through the Forest~
+The path continues through the tall trees of the forest.  Thick foliage
+along the sides of the path prevent travel off the path.  Roots peek out
+from the soil in the path causing a hazzard for hasty travellers.  
+~
+0 0 3
+D0
+~
+~
+0 0 22014
+D2
+~
+~
+0 0 22016
+S
+#22016
+Twist in the Path~
+The path twists again avoiding dense thorn bushes and heads deeper into
+the continent.  To the south as far as the eye can see is nothing but trees
+and green undergrowth.  
+~
+0 0 0
+D0
+~
+~
+0 0 22015
+D1
+~
+~
+0 0 22017
+S
+#22017
+Path through the Forest~
+The path continues through the forest between tall trees and dense
+foliage.  To the north and south nothing can been seen but the trunks of
+trees and thick bushes making travel in those directions impassable.  
+~
+0 0 3
+D1
+~
+~
+0 0 22018
+D3
+~
+~
+0 0 22016
+S
+#22018
+Path through the Forest~
+The path continues through the forest between tall trees and dense
+foliage.  Trees surround the path on both sides making passage impossible. 
+Several large ferns hang over the path waving hypnotically in the breeze.  
+~
+0 0 3
+D1
+~
+~
+0 0 22019
+D3
+~
+~
+0 0 22017
+S
+#22019
+Twist in the Path~
+The path continues through the forest twisting around the trunk of a
+large tree.  In the path several brightly colored mushrooms grow from the
+decaying trunk of a fallen tree.  
+~
+0 0 3
+D2
+~
+~
+0 0 22020
+D3
+~
+~
+0 0 22018
+S
+#22020
+Twist in the Path ~
+The path continues around the thick tree trunk headed away from the
+beach.  To the south the dense forest continues as far as the eye can see. 
+To the east the forest appears to thin out making travel easier.  
+~
+0 0 3
+D0
+~
+~
+0 0 22019
+D1
+~
+~
+0 0 22021
+S
+#22021
+Path through the Forest~
+The path comes to an end to the east as the forest becomes less dense and
+allows easier travel.  To the west the forest thickens forcing travellers to
+stick to the path.  
+~
+0 0 3
+D1
+~
+~
+0 0 17583
+D3
+~
+~
+0 0 22020
+S
+#22022
+The Beach~
+In the shadow of the cliff to the southeast, all that can be seen is sand
+and water.  The beach widens and appears to head endlessly to the east the
+ocean beating relentlessly on it.  
+~
+0 0 2
+D0
+~
+~
+0 0 22023
+D1
+~
+~
+0 0 22025
+D2
+~
+~
+0 0 22008
+S
+#22023
+In the Surf~
+The tide washes onto the beach the surf rushing in and out inbetween the
+crash of each wave.  Jagged shells sit half buried in the wet sand forcing
+you to watch your step.  
+~
+0 0 2
+D1
+~
+~
+0 0 22024
+D2
+~
+~
+0 0 22022
+S
+#22024
+In the Surf~
+The tide washes onto the beach the surf rushing in and out inbetween the
+crash of each wave.  Jagged shells sit half buried in the wet sand forcing
+you to watch your step.  The beach continues as far as the eye can see the
+only end is the cliff looming to the south.  
+~
+0 0 2
+D1
+~
+~
+0 0 22027
+D2
+~
+~
+0 0 22025
+D3
+~
+~
+0 0 22023
+S
+#22025
+Before the Cliff~
+The cliff provides some shade cooling the sand on the beach.  The white
+sand swirls in the gentle breeze and the sound of the crashing waves echos
+off the cliffs rock face.  
+~
+0 0 2
+D0
+~
+~
+0 0 22024
+D1
+~
+~
+0 0 22026
+D3
+~
+~
+0 0 22022
+S
+#22026
+Before the Cliff~
+The shadow of the cliff and the breeze create a cooling effect.  The high
+rock face of the cliff appears to be relatively smooth and impossible to
+scale.  
+~
+0 0 2
+D0
+~
+~
+0 0 22027
+D1
+~
+~
+0 0 22031
+D3
+~
+~
+0 0 22025
+S
+#22027
+In the Surf~
+The tide of the ocean washes ashore splashing onto the beach.  Small
+crabs scuttle back into the sea as they get washed ashore by the tide.  
+~
+0 0 2
+D0
+~
+~
+0 0 22028
+D1
+~
+~
+0 0 22030
+D2
+~
+~
+0 0 22026
+D3
+~
+~
+0 0 22024
+S
+#22028
+In the Surf~
+The white foam of broken waves rushes onto the beach, before receeding
+and heading back out to sea.  A large conch shell lays half burried in the
+wet sand, its white shell standing out brightly in the sunlight.  
+~
+0 0 2
+D1
+~
+~
+0 0 22029
+D2
+~
+~
+0 0 22027
+S
+#22029
+In the Surf~
+The waves crash relentlessly onto the beach slowly eroding it away.  Each
+wave displacing more sand with each breaking of the wave.  The sound of the
+waves breaking dominates the area.  
+~
+0 0 2
+D1
+~
+~
+0 0 22034
+D2
+~
+~
+0 0 22030
+D3
+~
+~
+0 0 22028
+S
+#22030
+Sandy Beach~
+The sandy beach sweeps for miles to the east and west.  Only the dark
+water of the ocean to the north and the high rock face of the cliffs break
+up the monotiny of the white sand.  
+~
+0 0 0
+D0
+~
+~
+0 0 22029
+D1
+~
+~
+0 0 22033
+D2
+~
+~
+0 0 22031
+D3
+~
+~
+0 0 22027
+S
+#22031
+Before the Cliff~
+The shadow casted by the cliff provides some relief from the relentless
+heat of the sun.  Scattered bits of shells lay interlaced throughout the
+sand the white pieces all but blending in with the sand.  
+~
+0 0 2
+D0
+~
+~
+0 0 22030
+D1
+~
+~
+0 0 22032
+D3
+~
+~
+0 0 22026
+S
+#22032
+Before the Cliff~
+Loose grains of sand swirl in a funnel like affect in the gentle wind. 
+At the base of the cliff a small sand dune has begun to form from the wind
+that constantly blows across the sandy beach.  
+~
+0 0 2
+D0
+~
+~
+0 0 22033
+D1
+~
+~
+0 0 22035
+D3
+~
+~
+0 0 22031
+S
+#22033
+Sandy Beach~
+Dried pieces of seaweed lay scattered across the sandy surface of the
+beach.  The shell of a long dead horseshoe crab smells pungently of decay
+after being baked in the relentless sun.  
+~
+0 0 3
+D0
+~
+~
+0 0 22034
+D1
+~
+~
+0 0 22036
+D2
+~
+~
+0 0 22032
+D3
+~
+~
+0 0 22030
+S
+#22034
+In the Surf~
+The wet sand slows down travel along the beach, each step sloshing in the
+surf that rushes ashore.  Pieces of seaweed float in and out with the
+rhythmic flow of the oceans tide.  
+~
+0 0 2
+D1
+~
+~
+0 0 22037
+D2
+~
+~
+0 0 22033
+D3
+~
+~
+0 0 22029
+S
+#22035
+Before the Cliff~
+The unscalable rock cliff juts out preventing travel to the east.  In the
+corner of the cliff walls sand is piled high from the ever blowing wind. 
+The crash of waves echos off the cornering of the cliff walls creating a
+thunder like affect.  
+~
+0 0 3
+D0
+~
+~
+0 0 22036
+D3
+~
+~
+0 0 22032
+S
+#22036
+Before the Cliff~
+The corner of the cliff is nearly reached by the ocean tide as it crashes
+onto the beach and then hurries back out to sea.  Fine pieces of broken
+shells lay mixed with the sand making it appear as though it were pure
+white.  
+~
+0 0 2
+D0
+~
+~
+0 0 22037
+D1
+~
+~
+0 0 22038
+D2
+~
+~
+0 0 22035
+D3
+~
+~
+0 0 22033
+S
+#22037
+In the Surf~
+The foaming water rushes onto the beach and back out to sea just as
+quickly as it game in its seemingly endless pattern.  The horizon is
+dominated by the sight of sand and water with only the cliff to the south to
+break up the monotiny.  
+~
+0 0 2
+D1
+~
+~
+0 0 22039
+D2
+~
+~
+0 0 22036
+D3
+~
+~
+0 0 22034
+S
+#22038
+Before the Cliff~
+The cliff juts out forming a wall to the east breaking up the all to
+familar sight of sand and water.  Far off to the southwest a pair of tree
+dotted mountains can barely be seen.  
+~
+0 0 2
+D0
+~
+~
+0 0 22039
+D3
+~
+~
+0 0 22036
+S
+#22039
+In the Surf~
+The oceans tide splashes against the cliffs base to the southeast.  The
+sand is all but invisible beneath the ankle deep ocean water.  To the east
+it appears the ocean has not yet claimed the vast sandy beach that can be
+seen.  
+~
+0 0 2
+D0
+~
+~
+0 0 22040
+D1
+~
+~
+0 0 22041
+D2
+~
+~
+0 0 22038
+D3
+~
+~
+0 0 22037
+S
+#22040
+In the Surf~
+The ocean constantly beats at a large rock that lies half burried in the
+wet sand.  The rock has been cleared of the seaweed that litters the beach
+around it and appears to have something carved into it.  
+~
+0 0 2
+E
+rock~
+Welcome to the Northern Coast built by Ishamael the Betrayer of Hope
+~
+D1
+~
+~
+0 0 22042
+D2
+~
+~
+0 0 22039
+S
+#22041
+Before the Cliff~
+The sandy beach provides a natrual barrier preventing the oceans waters
+from battering the base of the cliff.  The white sand of the coast line can
+be seen for miles in each direction, to the east the massive cliff looms
+providing a soothing shade.  
+~
+0 0 2
+D0
+~
+~
+0 0 22042
+D1
+~
+~
+0 0 22043
+D3
+~
+~
+0 0 22039
+S
+#22042
+In the Surf~
+Small crabs trying to escape the sand fight in vain against the tide of
+the ocean.  Its relentless rhythym slowly washing away the sand on the
+beach.  
+~
+0 0 2
+D1
+~
+~
+0 0 22044
+D2
+~
+~
+0 0 22041
+D3
+~
+~
+0 0 22040
+S
+#22043
+Before the Cliff~
+The cliff curves blocking path to the east, high rock walls glaring at
+the horizon.  The beach itself continues for miles in every direction void
+of any major objects, the sand, water and rock dominate the view.  
+~
+0 0 2
+D0
+~
+~
+0 0 22044
+D3
+~
+~
+0 0 22041
+S
+#22044
+In the Surf~
+The crashing waves rush over the sandy beach and splash on the
+southeastern wall of the cliff.  The dark waters covering over all signs of
+tracks or travellers through this path.  
+~
+0 0 2
+D0
+~
+~
+0 0 22045
+D1
+~
+~
+0 0 22046
+D2
+~
+~
+0 0 22043
+D3
+~
+~
+0 0 22042
+S
+#22045
+In the Surf~
+The white crests of waves about to break stretch as far as the eye can
+see to the north.  The wet sand remains motionless as a stinging wind whips
+around the beach.  
+~
+0 0 0
+D1
+~
+~
+0 0 22047
+D2
+~
+~
+0 0 22044
+S
+#22046
+Before the Cliff~
+Shadows casted by the tall cliff and the strong breeze provide from
+relief from the heat on the beach.  The rock face of the cliff rises high
+and prevents any view of what the land to the south has to offer.  
+~
+0 0 0
+D0
+~
+~
+0 0 22047
+D1
+~
+~
+0 0 22048
+D3
+~
+~
+0 0 22044
+S
+#22047
+In the Surf~
+White crests rise and fall rapidly rushing towards the shore.  All that
+can be seen to the north is the waters of the ocean no sign of other lands
+on the horizon.  To the east the cliff begins to extend out pushing the
+beach further north.  
+~
+0 0 0
+D1
+~
+~
+0 0 22049
+D2
+~
+~
+0 0 22046
+D3
+~
+~
+0 0 22045
+S
+#22048
+Before the Cliff~
+The cliff extends north prevent further travel to the east, the coastline
+extending futher to the north.  The wall in the cliff has a large cave-like
+entrance guarded by an ancient gate.  Only darkness surrounds the opening
+not giving any clue to how deep the cave runs.  
+~
+0 0 2
+D0
+~
+~
+0 0 22049
+D2
+~
+~
+1 0 22083
+D3
+~
+~
+0 0 22046
+S
+#22049
+In the Surf~
+The tide rushes to the base of the cliff completely hiding the beach
+beneath it.  The rushing waters foaming white as they break on the shore. 
+Long strands of seaweed rush in and tangle around your ankles as you walk
+through.  
+~
+0 0 2
+D0
+~
+~
+0 0 22050
+D1
+~
+~
+0 0 22051
+D2
+~
+~
+0 0 22048
+D3
+~
+~
+0 0 22047
+S
+#22050
+In the Surf~
+The beach begins to distance itself away from the tall cliff.  To the
+north a distant land can barely be made out on the horizon the cresting
+waves making it difficult to get a good glimpse at what lies beyond.  
+~
+0 0 0
+D1
+~
+~
+0 0 22052
+D2
+~
+~
+0 0 22049
+S
+#22051
+Before the Cliff~
+The large cliff prevents all sight of the continent to the south.  The
+sand of the beach goes as far as the eye can see swirling slightly in the
+wind.  The crash of waves echos around the area, the sound ressonating off
+the cliff.  
+~
+0 0 2
+D0
+~
+~
+0 0 22052
+D1
+~
+~
+0 0 22056
+D3
+~
+~
+0 0 22049
+S
+#22052
+In the Surf~
+The surf rushes over this part of the beach, dumping hunks of seaweed on
+the shore.  The sand darkened by the water of the ocean is dotted with
+jagged shards of seashells.  
+~
+0 0 2
+D0
+~
+~
+0 0 22053
+D1
+~
+~
+0 0 22055
+D2
+~
+~
+0 0 22051
+D3
+~
+~
+0 0 22050
+S
+#22053
+In the Surf~
+The coastline reaches its northern most point, the distant land now
+clearly visible on the horizon.  The crashing waves and sound of rushing
+water drowns out all other sounds, the waters constantly running in and out
+with the tide.  
+~
+0 0 2
+D1
+~
+~
+0 0 22054
+D2
+~
+~
+0 0 22052
+S
+#22054
+In the Surf~
+The ocean waters are littered with pieces of seaweed caught helplessly in
+the oceans tide.  The northern horizon reveals a distant land across the
+ocean but no more the n the fact it exists is revealed.  
+~
+0 0 2
+D1
+~
+~
+0 0 22057
+D2
+~
+~
+0 0 22055
+D3
+~
+~
+0 0 22053
+S
+#22055
+Sandy Beach~
+Dried pieces of seaweed litter the beach from were the tide once was. 
+Bright white seashells sit half exposed in the sand, baking in the sun.  The
+slight wind provides the only comfort from the heat of the sun.
+~
+0 0 2
+D0
+~
+~
+0 0 22054
+D1
+~
+~
+0 0 22058
+D2
+~
+~
+0 0 22056
+D3
+~
+~
+0 0 22052
+S
+#22056
+Before the Cliff~
+The cliff provides a comforting shadow from the heat of the sun.  Through
+out the sand bits of seaweed and shells are scattered providing color to the
+beach.  To the east the coast line receeds back to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 22055
+D1
+~
+~
+0 0 22059
+D3
+~
+~
+0 0 22051
+S
+#22057
+In the Surf~
+Far off on the horizon across the raging ocean, the distant land appears
+mirage like in the heat of the sun.  To the east the coastline receeds south
+and a blue watered lagoon can be seen.  
+~
+0 0 2
+D2
+~
+~
+0 0 22058
+D3
+~
+~
+0 0 22054
+S
+#22058
+In the Surf~
+The surf crashes onto the beach washing away the strands of seaweed that
+were once there before redepositing them back on the beach.  To the east a
+blue lagoon shimmers in the sunlight.  
+~
+0 0 2
+D0
+~
+~
+0 0 22057
+D2
+~
+~
+0 0 22059
+D3
+~
+~
+0 0 22055
+S
+#22059
+In the Surf~
+The base of the cliff is splashed by the breaking waves, the bottom
+portion of its rock face wet from the ocean water.  The beach is all but
+invisible beneath the oceans tide.  
+~
+0 4 2
+D0
+~
+~
+0 0 22058
+D1
+~
+~
+0 0 22061
+D2
+~
+~
+0 0 22060
+D3
+~
+~
+0 0 22056
+S
+#22060
+Before the Cliff~
+The coastline receeds south pushing back into the continent.  The cliff
+blocks all signs of what exists on the continent to the south.  The ocean
+waters and sand dominate the horizon.  
+~
+0 0 2
+D0
+~
+~
+0 0 22059
+D1
+~
+~
+0 0 22062
+S
+#22061
+In the Surf~
+The oceans waves roll into shore gently the beach shielded from the
+onslaught by the northern portion of the coastline.  To the east the waters
+of a lagoon shimmer in the sun.  
+~
+0 0 2
+D1
+~
+~
+0 0 22063
+D2
+~
+~
+0 0 22062
+D3
+~
+~
+0 0 22059
+S
+#22062
+Before the Cliff~
+The cliff casts a shadow over the majority of the beach providing shade
+from the heat.  To the east the coastline receeds to the south revealing a
+dark blue lagoon on the horizon.  
+~
+0 0 2
+D0
+~
+~
+0 0 22061
+D1
+~
+~
+0 0 22064
+D3
+~
+~
+0 0 22060
+S
+#22063
+In the Surf~
+The waves break gently onto the beach, the northern part of the beach
+acting as a shield from the raging waters.  At a closer range a large
+shipwreck is now visible in the blue lagoon, half submerged taking up the
+majority of the lagoon.  
+~
+0 0 3
+D1
+~
+~
+0 0 22065
+D2
+~
+~
+0 0 22064
+D3
+~
+~
+0 0 22061
+S
+#22064
+Before the Cliff~
+The cliff comes to an abrupt end the rock face suddenly disappearing.  To
+the east the lagoon is close by appears unpassable due to the large
+shipwreck engulfed in the blue.  
+~
+0 0 3
+D0
+~
+~
+0 0 22063
+D1
+~
+~
+0 0 22066
+D3
+~
+~
+0 0 22062
+S
+#22065
+On a Sandbar~
+The sandbar holds back the tides of the ocean, creating a lagoon to the
+southeast.  The broken bow of the shipwreck blocks futher passage to the
+east.  The beach and ocean dominate the view back to the west and north.  
+~
+0 0 3
+D2
+~
+~
+0 0 22066
+D3
+~
+~
+0 0 22063
+S
+#22066
+Before the Lagoon~
+The beach comes to an end and a lagoon stands in your path.  The sandbar
+and shipwreck prevent the ocean waves from rushing in creating the blue
+lagoon.  The deck of the ruined ship sits half on the sand and half in the
+lagoon, perhaps this needs a closer look.  
+~
+0 0 3
+E
+shipwreck~
+It appears you can ENTER SHIPWRECK to board the ship and have a look
+around.  
+~
+E
+ship~
+It appears you can ENTER SHIPWRECK to board the ship and have a look
+around.  
+~
+D0
+~
+~
+0 0 22065
+D3
+~
+~
+0 0 22064
+S
+#22067
+Aft Deck~
+The aft deck overlooks the ocean to the north.  Several places in the
+deck are missing planks making it necessary to watch your step.  Broken
+pieces of wood lay litter the deck making travel even more difficult.  
+~
+0 0 3
+D1
+~
+~
+0 0 22068
+D2
+~
+~
+0 0 22070
+S
+#22068
+Aft Deck~
+The aft deck ends suddenly, broken and jagged planks mark were the ship
+took damage the heaviest.  The ocean rushing in to fill the void left by the
+missing deck below.  The massive damage suggest the ship was badly damaged
+by the spawn of charybdis.  
+~
+0 0 2
+D2
+~
+~
+0 0 22071
+D3
+~
+~
+0 0 22067
+S
+#22069
+Starboard Side of the Ship~
+The decaying planks creak with every step, strands of seaweed are
+scattered throughout the port side of the deck.  The broken railings making
+walking diffucult through the debris on the deck.  To the west it appears
+you can walk down to the beach.  
+~
+0 4 2
+D1
+~
+~
+0 0 22070
+D2
+~
+~
+0 0 22073
+D3
+~
+~
+0 0 22066
+S
+#22070
+Main Deck~
+The toppled mast lies across the deck of the ship, pieces of the tattered
+sail still attached flapping in the wind.  Across the deck of the ship,
+large splinters of wood and seaweed are scattered.  
+~
+0 0 3
+D0
+~
+~
+0 0 22067
+D1
+~
+~
+0 0 22071
+D2
+~
+~
+0 0 22074
+D3
+~
+~
+0 0 22069
+S
+#22071
+Main Deck~
+The remains of the mast lay across the deck, its rotten wood badly
+splintered and damaged by wind and water.  The tattered sail flaps uselessly
+in the breeze ludly smacking against the deck.  
+~
+0 0 0
+D0
+~
+~
+0 0 22068
+D1
+~
+~
+0 0 22072
+D2
+~
+~
+0 0 22075
+D3
+~
+~
+0 0 22070
+S
+#22072
+Port Side of the Ship~
+The crows nest lays hanging over the edge of the deck greatly straining
+on the already damaged mast.  The rotten planks squeak beneath your feet
+with every step you take.  The smashed railing lays in pieces strewn across
+the deck.  
+~
+0 0 3
+D2
+~
+~
+0 0 22076
+D3
+~
+~
+0 0 22071
+S
+#22073
+Starboard Side of the Ship~
+The tattered remains of the sail flap in the wind as it blows across the
+deck.  The planks creak with every step, the rotten boards nearly giving way
+beneath the weight.  
+~
+0 0 2
+D0
+~
+~
+0 0 22069
+D1
+~
+~
+0 0 22074
+S
+#22074
+Main Deck~
+The torn and tattered remains of the main sail lay flapping uselessly
+covering the majority of the deck.  Held down by broken pieces of wood the
+wet sail flaps again the deck making a loud smacking sound.  
+~
+0 0 2
+D0
+~
+~
+0 0 22070
+D1
+~
+~
+0 0 22075
+D2
+~
+~
+0 0 22077
+D3
+~
+~
+0 0 22073
+S
+#22075
+Main Deck~
+The debris strewn across the deck nearly cover the set of stairs leading
+down below the deck.  The nearly rotten planks make for dangerous passage
+across the deck.  
+~
+0 0 0
+D0
+~
+~
+0 0 22071
+D1
+~
+~
+0 0 22076
+D2
+~
+~
+0 0 22078
+D3
+~
+~
+0 0 22074
+D5
+~
+~
+0 0 22079
+S
+#22076
+Port Side of the Ship~
+The badly damaged deck is covered with broken timbers waterlogged and
+decaying from years of negelect.  To the east the ocean stretches as far as
+the eye can see with no hint of what lies beyond the horizon.  
+~
+0 0 3
+D0
+~
+~
+0 0 22072
+D3
+~
+~
+0 0 22075
+S
+#22077
+On the Bow~
+The majority of the deck is destroyed, the broken pieces of wood and
+jagged planks mark were the ship ran aground.  The waters of the lagoon half
+fill the void below, making it dangerous to head further in that direction. 
+~
+0 0 2
+D0
+~
+~
+0 0 22074
+D1
+~
+~
+0 0 22078
+S
+#22078
+On the Bow~
+The splintered bow lays in ruin on the deck, badly decaying pieces of
+wood lay scattered around.  Badly frayed ropes lay in shambles across the
+deck making for an easy hazard to trip and fall on.  
+~
+0 0 2
+D0
+~
+~
+0 0 22075
+D3
+~
+~
+0 0 22077
+S
+#22079
+Below the Deck~
+Broken barrels lay smashed around the room, the stairs lead back up to
+the main deck.  The cramped area compounded with the ammount of debris make
+it difficult to walk through the area.  
+~
+0 0 0
+D1
+~
+~
+0 0 22080
+D2
+~
+~
+0 0 22081
+D4
+~
+~
+0 0 22075
+S
+#22080
+Below the Deck~
+The rest of the area is blocked off by mounds of debris.  Shattered
+timbers lay piled high to the north blocking passage further into the ship. 
+The eastern wall is badly decaying and glimpses of the lagoon can be seen
+through the cracks.  
+~
+0 0 0
+D2
+~
+~
+0 0 22082
+D3
+~
+~
+0 0 22079
+S
+#22081
+Below the Deck~
+Destroyed bits of barrels and wood lay decaying in the now ruined ship. 
+The wooden bottem on the ship creaks loudly with every step.  The smell of
+mold and decay overpowers the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 22079
+D1
+~
+~
+0 0 22082
+S
+#22082
+Below the Deck~
+Broken planks and barrels are scattered dangerously throughout the room. 
+To the south water from the lagoon fills the room making it impossible to
+proceed further into the ship.  
+~
+0 4 0
+D0
+~
+~
+0 0 22080
+D3
+~
+~
+0 0 22081
+S
+#22083
+Dank Cave~
+The dark cave smells of must and mold, its damp walls covered with a
+green fungus.  Cut through the stone a dark staircase leads down into the
+depths of the unknown.  
+~
+0 0 0
+D0
+~
+~
+1 0 22048
+D5
+~
+~
+0 0 22084
+S
+#22084
+Tunnel Passage~
+An torch fastened in an iron sconce provides light through this passage. 
+The walls glisten with moister and a dark rock staircase leads up back to
+the surface.  
+~
+0 0 0
+D0
+~
+~
+0 0 22085
+D4
+~
+~
+0 0 22083
+S
+#22085
+Tunnel Passage~
+The shadows dance and flicker in the light provided by the torch.  The
+mold lined walls are damp with moister.  The pungent smell of mold engulfs
+the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 22086
+D2
+~
+~
+0 0 22084
+S
+#22086
+Tunnel Passage~
+The dark walls shine with moister in the light provided by a torch
+fastened in an iron sconce.  The tunnel continues on its north-south passage
+guided by the thick rock walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 22087
+D2
+~
+~
+0 0 22085
+S
+#22087
+Tunnel Passage~
+The dimly lit tunnel continues underneath the ocean, water dripping in
+through the rock ceiling.  Small puddles sit in the floor of the tunnel
+splashing with every step echoing throughout the tunnel.  
+~
+0 0 0
+D0
+~
+~
+0 0 22088
+D2
+~
+~
+0 0 22086
+S
+#22088
+Tunnel Passage~
+The rock walls guide passage in the north-south direction each way
+appearing identical.  The dim light provided by the torches provides no clue
+to where the passage is headed.  
+~
+0 0 0
+D0
+~
+~
+0 0 22089
+D2
+~
+~
+0 0 22087
+S
+#22089
+Tunnel Passage~
+Small puddles form beneath cracks in the ceiling as water slowly drips
+in.  The area is damp and humid smelling of mold.  The tunnel continues to
+head north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 22090
+D2
+~
+~
+0 0 22088
+S
+#22090
+Tunnel Passage~
+Dim light provided by a torch fastened in a bronze sconce reveals a
+tunnel passage headed off to the south.  An iron ladder leads up to a heavy
+metal grating and the surface.  
+~
+0 4 0
+D2
+~
+~
+0 0 22089
+D4
+~
+~
+3 0 10983
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 22048 2 2 The south door of Before the Cliff is closed and locked
+D 0 22083 0 2 The north door of Dank Cave is closed and locked
+D 0 22090 4 1 The up door of Tunnel Passage is closed
+M 0 22007 10 22009 1 *Load A Crow
+M 0 22007 10 22010 1 *Load A Crow
+M 0 22007 10 22011 1 *Load A Crow
+M 0 22007 10 22012 1 *Load A Crow
+M 0 22006 5 22013 1 *Load A Large Buck
+M 0 22005 5 22013 1 *Load A Doe
+M 0 22007 10 22014 1 *Load A Crow
+M 0 22007 10 22015 1 *Load A Crow
+M 0 22007 10 22016 1 *Load A Crow
+M 0 22007 10 22017 1 *Load A Crow
+M 0 22006 5 22017 1 *Load A Large Buck
+M 0 22007 10 22018 1 *Load A Crow
+M 0 22005 5 22018 1 *Load A Doe
+M 0 22007 10 22019 1 *Load A Crow
+M 0 22006 5 22019 1 *Load A Large Buck
+M 0 22007 10 22020 1 *Load A Crow
+M 0 22005 5 22021 1 *Load A Doe
+M 0 22007 10 22021 1 *Load A Crow
+M 0 22001 25 22023 1 *Load a sand sprite
+M 0 22001 25 22024 1 *Load a sand sprite
+M 0 22009 15 22025 1 *Load a giant sand crab
+M 0 22001 25 22026 1 *Load a sand sprite
+M 0 22001 25 22028 1 *Load a sand sprite
+M 0 22001 25 22030 1 *Load a sand sprite
+M 0 22009 15 22031 1 *Load a giant sand crab
+M 0 22001 25 22032 1 *Load a sand sprite
+M 0 22001 25 22033 1 *Load a sand sprite
+M 0 22009 15 22034 1 *Load a giant sand crab
+M 0 22001 25 22035 1 *Load a sand sprite
+M 0 22001 25 22036 1 *Load a sand sprite
+M 0 22001 25 22037 1 *Load a sand sprite
+M 0 22001 25 22038 1 *Load a sand sprite
+M 0 22001 25 22039 1 *Load a sand sprite
+M 0 22001 25 22040 1 *Load a sand sprite
+M 0 22009 15 22041 1 *Load a giant sand crab
+M 0 22001 25 22042 1 *Load a sand sprite
+M 0 22001 25 22043 1 *Load a sand sprite
+M 0 22009 15 22044 1 *Load a giant sand crab
+M 0 22001 25 22045 1 *Load a sand sprite
+M 0 22001 25 22046 1 *Load a sand sprite
+M 0 22009 15 22047 1 *Load a giant sand crab
+M 0 22001 25 22049 1 *Load a sand sprite
+M 0 22001 25 22050 1 *Load a sand sprite
+M 0 22001 25 22052 1 *Load a sand sprite
+M 0 22009 15 22053 1 *Load a giant sand crab
+M 0 22001 25 22054 1 *Load a sand sprite
+M 0 22009 15 22055 1 *Load a giant sand crab
+M 0 22009 15 22056 1 *Load a giant sand crab
+M 0 22009 15 22057 1 *Load a giant sand crab
+M 0 22001 25 22058 1 *Load a sand sprite
+M 0 22003 10 22060 1 *Load a spirit of a sailor
+M 0 22002 10 22061 1 *Load a skeletal sailor
+M 0 22003 10 22063 1 *Load a spirit of a sailor
+M 0 22002 10 22064 1 *Load a skeletal sailor
+M 0 22002 10 22065 1 *Load a skeletal sailor
+M 0 22003 10 22065 1 *Load a spirit of a sailor
+O 0 22000 0 22066 *A large shipwreck loaded to Before the Lagoon
+M 0 22003 10 22066 1 *Load a spirit of a sailor
+M 0 22002 10 22067 1 *Load a skeletal sailor
+M 0 22002 10 22068 1 *Load a skeletal sailor
+M 0 22003 10 22070 1 *Load a spirit of a sailor
+M 0 22002 10 22071 1 *Load a skeletal sailor
+M 0 22002 10 22072 1 *Load a skeletal sailor
+M 0 22002 10 22074 1 *Load a skeletal sailor
+M 0 22002 10 22075 1 *Load a skeletal sailor
+M 0 22003 10 22076 1 *Load a spirit of a sailor
+M 0 22002 10 22077 1 *Load a skeletal sailor
+M 0 22003 10 22078 1 *Load a spirit of a sailor
+M 0 22003 10 22079 1 *Load a spirit of a sailor
+M 0 22002 10 22081 1 *Load a skeletal sailor
+M 0 22004 1 22082 1 *Load the ghost of the Captain
+E 0 22003 0 16 *A rusty hook is loaded wielded of the ghost of the Captain
+E 0 22001 0 23 *A heavy stone shackle is loaded around the left ankle of the ghost of the Captain
+E 0 22001 0 24 *A heavy stone shackle is loaded around the right ankle of the ghost of the Captain
+E 0 22004 0 5 *A suit of barnacle encrusted chainmail is loaded on the body of the ghost of the Captain
+E 0 22002 0 20 *A black eye patch is loaded on the face of the ghost of the Captain
+M 0 22000 5 22086 1 *Load a scaled worm
+M 0 22000 5 22087 1 *Load a scaled worm
+M 0 22000 5 22088 1 *Load a scaled worm
+M 0 22000 5 22089 1 *Load a scaled worm
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#22000
+if rand 30
+if rand 25
+mob call 22001 self
+else
+if rand 30
+mob call 22002 self
+else
+if rand 45
+mob call 22003 self
+else
+if rand 50
+mob call 22004 self
+else
+if rand 60
+mob call 22005 self
+~
+#22001
+if rand 30
+mob oload 22007
+else
+if rand 40
+mob oload 22008
+else
+if rand 50
+mob oload 22009
+else
+if rand 60
+mob oload 22010
+~
+#22002
+if rand 30
+mob oload 22011
+else
+if rand 40
+mob oload 22012
+else
+if rand 50
+mob oload 22013
+else
+if rand 60
+mob oload 22014
+~
+#22003
+if rand 30
+mob oload 22015
+else
+if rand 40
+mob oload 22016
+else
+if rand 50
+mob oload 22017
+else
+if rand 60
+mob oload 22018
+~
+#22004
+if rand 30
+mob oload 22027
+else
+if rand 40
+mob oload 22019
+else
+if rand 50
+mob oload 22020
+else
+if rand 60
+mob oload 22021
+~
+#22005
+if rand 30
+mob oload 22022
+else
+if rand 40
+mob oload 22023
+else
+if rand 50
+mob oload 22024
+else
+if rand 60
+mob oload 22025
+else
+if rand 65
+mob oload 22026
+~
+#22006
+if rand 20
+mob oload 22005
+~
+#22007
+if mobhere lizard
+else
+if rand 90
+mob echo Awakened by the sounds of battle a spiny-backed lizard rises from the sand.
+mob mload 22008
+~
+#22008
+if rand 10
+mob oload 22006
+~
+#0
+
+#$

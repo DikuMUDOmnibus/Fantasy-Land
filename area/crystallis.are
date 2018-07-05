@@ -1,0 +1,885 @@
+#AOD_AREA
+Crystallis~
+13200 13299 C 9
+Levl 101 101
+Bldr Alecca~
+End
+
+#MOBILES
+#13200
+crystal spider~
+{DA {ccr{Cy{Ws{Ct{cal{D spider{x~
+{DA {ccr{Cy{Ws{Ct{cal{D spider is here scurrying about{x
+~
+~
+bat~
+100 150 100 100 100 100 100 100 100 100 150 100 50 100 100 100 100 0 100 100 100 100 100 100 100 100 
+ABCFT JPQTZ 0 -1000 0
+110 600 -20 15002 17454 5417 5685 75 150 5000 bite
+-1000 -1000 -1000 -500
+STANDING STANDING neutral 2000
+0 mage medium ACDEFHJKP
+W 10
+
+#13201
+crystal spider~
+{DA {ccr{Cy{Ws{Ct{cal{D spider{x~
+{DA {ccr{Cy{Ws{Ct{cal{D spider is here scurrying about wildly.{x
+~
+~
+human~
+100 50 100 100 50 100 50 100 150 100 150 50 150 100 100 100 100 50 100 100 150 100 100 100 100 100 
+ABCFT DGJTVac D -1000 0
+110 500 -40 20134 20986 1383 1666 65 130 1000 drain
+-1000 -1000 -1000 -400
+STANDING STANDING random 9500
+0 mage large ABCDEFGHIJK
+W 10
+
+#13202
+crystal spider~
+{DA {ccr{Cy{Ws{Ct{cal{D spider{x~
+{DA {ccr{Cy{Ws{Ct{cal{D spider is here scurrying about wildly.{x
+~
+~
+human~
+100 100 100 100 50 100 100 100 50 100 150 50 150 100 100 100 100 100 100 100 150 100 100 100 100 100 
+ABCFT DGJLTVac HNOP 0 0
+110 600 -50 20115 20860 1398 1649 65 130 1000 acbite
+-1000 -1000 -1000 -400
+STANDING STANDING random 9500
+0 mage large ABCDEFGHIJK
+
+#13203
+high priestess crystallis~
+{CThe High Priestess of Crystallis{x~
+{CThe High Priestess of Crystallis is here looking chillingly beautiful.{x
+~
+~
+human~
+100 50 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFQRST DFPQ 0 -1000 0
+110 750 -70 14541 20026 7006 7907 75 150 5000 frbite
+-1500 -1500 -1500 -1500
+STANDING STANDING female 50000
+0 mage huge ABCDEFGHIJK
+W 1
+
+#13204
+crystal spider~
+{DA {ccr{Cy{Ws{Ct{cal{D spider{x~
+{DA {ccr{Cy{Ws{Ct{cal{D spider is here scurrying about wildly.{x
+~
+~
+human~
+100 50 100 150 50 100 50 100 50 100 150 100 150 100 100 100 100 50 100 100 150 100 100 100 100 100 
+ABCFT DGJTUVac D 0 0
+110 600 -55 20051 21061 1403 1722 65 130 1000 slash
+0 0 0 0
+STANDING STANDING random 9500
+0 mage large ABCDEFGHIJK
+
+#13205
+crystal spider~
+{DA {ccr{Cy{Ws{Ct{cal{D spider{x~
+{DA {ccr{Cy{Ws{Ct{cal{D spider is here scurrying about wildly.{x
+~
+~
+human~
+100 100 100 100 50 100 100 100 50 100 150 50 150 100 100 100 100 100 100 100 150 100 150 100 100 100 
+ABCFT DGJLTVac HNO 0 0
+110 400 -20 19908 21035 1399 1707 65 130 1000 slash
+-1000 -1000 -1000 -400
+STANDING STANDING random 9500
+0 mage large ABCDEFGHIJK
+
+#13206
+crystal spider~
+{DA {ccr{Cy{Ws{Ct{cal{D spider{x~
+{DA {ccr{Cy{Ws{Ct{cal{D spider is here scurrying about wildly.{x
+~
+~
+human~
+100 50 100 100 50 100 100 100 50 100 150 50 150 50 100 100 100 100 100 100 150 100 150 100 100 100 
+ABCFT DGJLTVac EHNO 0 0
+110 400 -30 20100 20990 1341 1627 65 130 1000 slash
+-1000 -1000 -1000 -400
+STANDING STANDING neutral 9500
+0 mage large ABCDEFGHIJK
+
+#13207
+crystal spider~
+{DA {ccr{Cy{Ws{Ct{cal{D spider{x~
+{DA {ccr{Cy{Ws{Ct{cal{D spider is here scurrying about wildly.{x
+~
+~
+human~
+100 100 100 100 50 100 100 100 50 100 150 50 150 50 100 100 100 100 100 100 50 100 150 100 100 100 
+ABCFST DGJLPTVac EHNO 0 0
+110 400 -60 19988 21009 1367 1664 65 130 1000 slash
+-1000 -1000 -1000 -400
+STANDING STANDING neutral 9500
+0 mage large ABCDEFGHIJK
+
+#13208
+crystal spider~
+{DA {ccr{Cy{Ws{Ct{cal{D spider{x~
+{DA {ccr{Cy{Ws{Ct{cal{D spider is here scurrying about wildly.{x
+~
+~
+human~
+100 150 100 100 50 100 100 100 50 100 150 50 150 50 100 100 100 150 100 100 150 100 150 100 100 100 
+ABCFT DGJLPTVac EHNO 0 0
+110 400 0 20059 20933 1396 1621 65 130 1000 slash
+-1000 -1000 -1000 -400
+STANDING STANDING neutral 9500
+0 mage huge ABCDEFGHIJK
+
+#13209
+crystal spider~
+{DA {ccr{Cy{Ws{Ct{cal{D spider{x~
+{DA {ccr{Cy{Ws{Ct{cal{D spider is here scurrying about wildly.{x
+~
+~
+human~
+100 150 100 100 50 100 100 100 50 100 150 50 50 50 100 150 100 150 100 100 150 100 150 100 100 100 
+ABCFQT DGJLPTVac EHNO 0 0
+110 400 0 20002 20881 1369 1620 65 130 1000 slash
+-1000 -1000 -1000 -400
+STANDING STANDING neutral 9500
+0 mage huge ABCDEFGHIJK
+
+#13210
+crystal spider~
+{DA {ccr{Cy{Ws{Ct{cal{D spider{x~
+{DA {ccr{Cy{Ws{Ct{cal{D spider is here scurrying about wildly.{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFQT DGJLPTVZac EHNO 0 0
+110 500 -60 20017 20903 1372 1648 65 130 1000 slash
+-1000 -1000 -1000 -400
+STANDING STANDING neutral 9500
+0 mage huge ABCDEFGHIJK
+
+#13211
+ghost Graunich~
+the {WG{Chost {Wo{Cf {WG{Craunich{x~
+The {WG{Chost {Wo{Cf {WG{Craunich{x floats here looking for some prey.
+~
+The {WG{Chost {Wo{Cf {WG{Craunich{x evil ways have lead him to his
+destruction.  {R  Evil {xeyes look at you though empty sockets.  
+~
+human~
+100 100 100 100 100 100 100 100 150 100 150 100 50 100 100 100 100 0 100 100 50 100 100 100 100 100 
+ABCFT CDFGQVZc 0 -1000 0
+110 800 -60 35964 39900 28562 31759 75 150 750 chill
+-1500 -1500 -1500 -1500
+STANDING STANDING neutral 1000
+0 mage large ABCDEFGHIJK
+W 1
+
+#13212
+Spider Queen~
+The Spider Queen~
+The Queen of the Crystal Spiders is here giving out orders.
+~
+Legends of the great Spider Queen, which were thought of only as myth to
+you, suddenly and horrible become quite real to you.  Life was good, time to
+say goodbye.  
+~
+human~
+50 50 0 50 0 50 50 100 50 50 50 50 100 50 50 50 100 50 0 100 50 50 50 50 50 100 
+ABT DHTVZac GHNOSU 0 0
+110 500 0 50001 50001 10461 12361 250 750 200 silver
+-2000 -2000 -2000 -2000
+STANDING STANDING female 0
+0 mage giant ABCDEFGHIJK
+#0
+
+#OBJECTS
+#13200
+crystal spider neckchain~
+{wA {ccr{Cy{Ws{Ct{cal{w spider neckchain{x~
+{wA {ccr{Cy{Ws{Ct{cal{w spider neckchain lies here shimmering.{x~
+armor ABG AC
+30 30 30 30 0
+101 1 1000000
+A 20 -1
+A 12 303
+A 2 3
+A 19 30
+A 18 30
+A 13 303
+
+#13201
+spiderwebs~
+{DSpiderWebs{x~
+{DA slinky web is lying on the ground.{x~
+armor ABG AQ
+30 30 30 30 0
+101 1 100000
+A 4 3
+A 12 300
+A 20 -4
+A 13 250
+A 17 -25
+A 18 15
+A 19 15
+
+#13202
+araignee~
+{mAr{Daign{mee{x~
+{mAr{Daign{mee{x shimmers here.~
+armor ABG AL
+30 30 30 30 0
+101 1 1000000
+A 20 -2
+A 17 -20
+A 12 303
+A 13 150
+
+#13203
+bloodfang~
+{rBloodfang{x~
+A {rbloody{x dagger points out of the ground.~
+weapon 0 AN
+dagger 13 13 acbite DEG
+101 40 10000
+A 19 30
+A 20 -4
+A 2 3
+
+#13204
+colmillos~
+{cCo{Dlmill{cos{x~
+A spider's fangs lie on the floor~
+armor ABG AE
+30 30 30 30 0
+101 1 100000
+A 19 20
+A 18 20
+A 17 -25
+A 12 250
+A 13 250
+A 1 2
+A 2 2
+A 20 -4
+
+#13205
+arachnida~
+{DAra{wchn{Dida{x~
+{DAra{wchn{Dida{x lies on the floor discarded~
+armor ABFTY AS
+22 22 22 18 0
+95 40 10000
+A 20 -2
+A 12 285
+A 1 3
+A 18 30
+A 19 30
+
+#13206
+crystal tear~
+{cCr{Cy{Ws{Ct{cal {DTear{x~
+A tear lies here.~
+armor G AS
+24 24 24 24 0
+101 20 110000
+A 20 -3
+A 19 20
+A 18 20
+A 13 300
+A 17 -25
+A 2 1
+
+#13207
+egg sac~
+an egg sac~
+An egg sac has been left on the floor.~
+container AY AL
+500 AC 0 100 50
+95 20 10000
+A 1 3
+A 20 -3
+A 13 285
+A 12 285
+A 14 285
+
+#13208
+araneaus~
+araneaus~
+Some spidery webbing is here.~
+weapon AB AN
+flail 13 14 poison DE
+99 50 15054
+A 13 225
+A 20 -1
+A 4 3
+A 2 3
+A 19 30
+A 18 30
+
+#13209
+spider webbing~
+{DSpider Webbing{x~
+Someone dropped some {DSpider Webbing{x  here.~
+armor ABF AT
+24 24 20 22 0
+101 30 10000
+A 3 2
+A 4 2
+A 13 250
+A 18 20
+A 19 20
+A 17 -25
+A 20 -3
+
+#13210
+insecta~
+{cInsecta{x~
+A squirming bug is here on the floor.~
+armor AB AY
+23 22 19 22 0
+101 30 1000
+A 18 20
+A 3 3
+A 12 200
+A 13 200
+A 20 -4
+A 17 -25
+A 19 20
+
+#13211
+kruisspin~
+kruisspin~
+Kruisspin is lying on the floor.~
+armor ABFY AW
+23 23 24 20 0
+101 30 10000
+A 4 3
+A 19 20
+A 18 20
+A 13 200
+A 20 -4
+A 17 -25
+
+#13212
+silken veil~
+a silken veil~
+A silken veil shimmers in the light.~
+armor ABY AR
+23 24 19 23 0
+101 20 10000
+A 5 1
+A 18 20
+A 19 20
+A 20 -4
+A 17 -25
+A 13 250
+
+#13213
+crystal spider eyes~
+{cCr{Cy{Ws{Ct{cal {DSpider {cE{Wye{cs{x~
+Some crystal eyes lie here.~
+armor G AY
+23 23 23 23 0
+101 20 50000
+A 13 300
+A 20 -2
+
+#13214
+spiderfang~
+{DSpiderfang{x~
+A spider's fang lies here.~
+weapon G AN
+exotic 13 13 sting BDK
+101 40 10000
+A 17 -25
+A 20 -2
+
+#13215
+spider queens wrath~
+{CW{cr{Cat{ch {Dof the {CS{cp{Cid{cer {CQ{cu{Cee{cn{x~
+A dark whip gives off an aura of evil here.~
+weapon AEHT AN
+whip 13 13 magic DEHJ
+101 40 100000
+#0
+
+#ROOMS
+#13200
+A dark hallway~
+You stand in a darkened corridor.  The light from the torches barely
+flickers as a bone-chilling wind settles deep in your bones.  The torches
+extinguish.  You are in total darkness.  An eerie wailing seems to beckon
+you northward.  It is not too late to turn back to the safety of the forest.
+Dare you continue?  
+~
+9 0
+D0
+~
+~
+0 0 13201
+S
+
+#13201
+The dark hallway continues...~
+Chilling water drips on to you from the ceilings.  As you look up, you
+see small red eyes following your every movement.  You shiver as the voice
+continues to grow louder, you are entranced by it's chilling beauty...  You
+become breathless, and every step you take becomes more heavy...  Your eyes
+start to close, but you fight it.  The hallway continues to the north.  
+~
+8201 0
+D0
+~
+~
+0 0 13203
+D2
+~
+~
+0 0 13200
+S
+
+#13203
+The hallway continues...~
+You continue to walk, in your dazed state through the hallway.  You
+shiver, you feel eyes watching you from every nook and crannie in the
+room...  The eyes study you, watching your every movement...  Yet do nothing
+more than watch.  You pause in your steps...  But as the eerie voice
+serenades you, you continue in your path.  The hallway veers off to the east
+from here.  
+~
+8201 0
+D1
+~
+~
+0 0 13204
+D2
+~
+~
+0 0 13201
+S
+
+#13204
+The end of the hallway~
+As you turn the corner, the voice abruptly stops.  You no longer feel the 
+eyes upon you.  The cold seeps deeper into your bones, but that really is 
+the only other sensation that you feel, other than fear.  You wonder if you 
+are safe, or if you are slipping deep into unconsciousness.  The room is
+bare, and the marble walls only serve to chill it more.
+~
+8201 0
+D1
+~
+stone~
+0 0 13205
+D3
+~
+~
+0 0 13203
+S
+
+#13205
+The hidden room~
+You stand in another dark room...  You aren't surprised, it seems that
+all these rooms seem to be dark...  Your eyes are beginning to adjust to the
+light.  The eerie voice has returned...  You try to distinguish to see if
+it's a voice in your head or if it's truly something you are hearing.  Your
+head is fuzzy...  You shake it to try to clear your mind, but you feel
+lethargic, sleepy.  It would be so simple to just lie down and sleep.  
+~
+8201 0
+D3
+~
+~
+0 0 13204
+D5
+~
+~
+0 0 13206
+S
+
+#13206
+A mud slide!~
+Oh no!!!  Your feet fall out from under you!  You fall to the ground and
+start to slide.  The mud is cold and slippery, there is nothing to grab on
+to to slow your fall.  Faster and faster you go, your arms flail out to the
+sides, desperatly trying to slow your pace to no avail.  Your body gets
+tossed and turned, mud gets pushed up into your nose and mouth so that you
+can't even barely breathe anymore.  You hit the ground with a sudden thud! 
+You are in a pool of mud, but you see a dim light towards your north.  
+~
+8201 0
+D0
+~
+~
+0 0 13207
+D4
+~
+~
+0 0 13205
+S
+
+#13207
+Safe from the mud pool.~
+A cold spring drips into the room, travelling to feed the mud pool to the
+south.  You stand under it to clean the viscous mud off of you.  The fresh
+coldness of the pure spring water revitalizes you, but you remain as cold as
+you were before.  This is not a place anyone would want to be, but strangely
+you feel safe in this room.  You may rest here a bit.  
+~
+8204 0
+D0
+~
+~
+0 0 13208
+D2
+~
+~
+0 0 13206
+S
+
+#13208
+{wA {DDark{w Room{x~
+{DThe darkness grips you totally....  You feel it suffocating you, almost
+as if it is stealing your very soul from your body.  Although you can't make
+out the walls to your sides, you feel as if they are closing in on you. 
+This is not a room you want to be stuck in.  There are exits to your north,
+east, and west, and safety back to the south.  {x 
+~
+8201 0
+D0
+~
+~
+0 0 13209
+D2
+~
+~
+0 0 13207
+D3
+~
+~
+0 0 13212
+S
+
+#13209
+{wA {Dstank {wcave{x~
+You pray to the gods to end the infernal assault of body odor on your
+nose!  This is the foulest smelling room that you have _ever_ been in.... 
+But you don't have time to think about the odiferous the remains of heros
+past lay rotting on the floor around you.  Do you have time to decipher what
+killed them?  
+~
+8200 0
+D2
+~
+~
+0 0 13208
+S
+
+#13210
+{CChamber of the High Priestess of Crystallis{x~
+You are in the Chamber of the High Priestess.  Unlike the rest of the
+rooms around you, this one is strangely neat and orderly.  A large bed rests
+on iron-wrought spider legs.  The curtains are draped with the finest silken
+material.  As you examine it more closely, you realize that it's actually
+made of spider webs.  The humming has grown so intense you cover your ears
+from the chilling sound.  
+~
+532488 0
+D3
+~
+~
+0 0 13219
+S
+
+#13211
+Graunich's Rest~
+Death and Decay cover every inch of this once peacful outpost.  The
+corpses of the previous inhabitants litter the floor around you.  Legends of
+times past have been said to have died at this very spot, but they are just
+Legends right?  A small area has been cleared where a cooking fire may have
+once been.  The pot and its contents long gone.  A small {Wskull {xcan be
+seen hanging on the far wall, with fresh {R  Blood {xdripping from it.  Who
+made the fire?  Are those human {wbones {xlittering the floor?  
+~
+8204 0
+D2
+~
+~
+0 0 13221
+S
+
+#13212
+Path to the Lair~
+You are on the pathway to the Lair of the Queen Spider.  Fear grips at
+you, but curiousity moves you along.  There are torches that line the walls.
+You look at the sconces, they depict stories of ritual massacres that chill
+you to your bones.  Tiny spiders scurry at your feet.  You feel them
+crawling on your very skin...  Or is it your imagination?  The path
+continues to the north.  
+~
+8200 0
+D0
+~
+~
+0 0 13213
+D1
+~
+~
+0 0 13208
+S
+
+#13213
+The path continues~
+{R  Blood{x streams slowly towards you.  You manage to keep yourself from
+slipping under the viscous liquid.  Broken {Dbones{x are imbedded in the
+very walls.  What is this {RHell{x you have found yourself in?  You hear
+strange, faint, incantations from the north.  The voice is almost
+{Cmelodic{x, entrancing.  You shake your head to clear your senses.  
+~
+8200 0
+D0
+~
+~
+0 0 13214
+D2
+~
+~
+0 0 13212
+S
+
+#13214
+{BAlong the {Rbloody{B path{x~
+{R  Blood{x continues to seep towards you.  {DBones{x lie scattered
+around your feet.  You feel almost as if the walls are closing in on you, or
+maybe it's the pungent smell of the {Rblood{x assaulting your nostrils.  You
+recognize the chanting voice as the one you heard at the beginning of your
+descent into the heart of this horrid place.  To your north, you see the
+entrance to a large chamber.  
+~
+8200 0
+D0
+~
+~
+0 0 13215
+D2
+~
+~
+0 0 13213
+S
+
+#13215
+Entrance to the Ritual Chamber~
+{R  Blood{x, {Dgore{x, and {yguts{x fill this room.  This is the ritual
+chamber of the {CHigh Priestess of Crystallis{x.  A sacrificial altar
+contains a gutted corpse.  You wince as you can almost feel the {Ragony{x
+and {rpain{x the victim must have gone through.  The {Rblood{x slowly seeps
+out of the corpse and travels the way you came.  
+~
+8200 0
+D0
+~
+~
+0 0 13216
+D1
+~
+~
+0 0 13217
+D2
+~
+~
+0 0 13214
+S
+
+#13216
+The wall of torture~
+Various elements of torture cover the walls, from simple instruments, to
+ones that you can't even figure out how to begin to work.  They are all well
+taken care of, and seem well used.  Your knees buckle under you...  Who
+could be this sadistic?  
+~
+8200 0
+D2
+~
+~
+0 0 13215
+S
+
+#13217
+The long hallway~
+This is the hallway leading to the chambers of the {CHigh Priestess of
+Crystallis{x.  Murals depicting agonizing sacrifices cover the walls, they
+seem so real!  The chanting grows louder and louder with each step.  As you
+look down, you see tiny {Dsilver{x lined footsteps that lead back and forth
+from this chamber.  You put your foot on top of one of them, and cover it
+completley.  
+l
+~
+8200 0
+D1
+~
+~
+0 0 13218
+D3
+~
+~
+0 0 13215
+S
+
+#13218
+{DA dead end{x~
+{DThe hallway ends here abruptly.  The only way back is to the west.  The
+silver footsteps disappear in the middle of the room.  Isn't that odd?  The
+humming, however is getting even more intense and loud.  Death and decay
+seem to seep into your very bones.  
+{x
+~
+8200 0
+D3
+~
+~
+0 0 13217
+D5
+~
+~
+0 0 13219
+S
+
+#13219
+A secret passageway~
+You have discovered a secret passageway that leads you deep into the
+bottom of this seemingly never endless hell.  The walls are damp and you
+feel a presence watching you, which puts endless thoughts of "What can
+possibly come next" in your head.  You can barely make out remnants of
+previous travellers, a broken pot here, a discarded shield there, but you
+can tell that no one has walked this path in centuries.  
+~
+8200 0
+D0
+~
+~
+0 0 13220
+D1
+~
+~
+0 0 13210
+D4
+~
+~
+0 0 13218
+S
+
+#13220
+An underground spring~
+You are at the edges of an underground spring.  The water, however, does
+not look drinkable to you.  You are almost disgusted by the foul stench
+emanating from the water.  As you look into the spring and to the other side
+of it, you see rotting carcasses and half eaten bodies decomposing, causing
+this vile stench, and fouling the water.  As you hold yourself back from
+retching into the dank water, you spy an exit to the north at the other side
+of the spring.  
+~
+532488 0
+D0
+~
+~
+0 0 13221
+D2
+~
+~
+0 0 13219
+S
+
+#13221
+A wind tunnel~
+Eerie wails emanate north of you.  You shiver uncomfortably.  Wind blows
+violently all around.  You can barely keep your feet planted.  The wind
+seems to push you northward.  The wails become louder as you are moved
+closer and closer to the room.  Do you have the strength to fight the wind
+for much longer?  
+~
+8200 0
+D0
+~
+~
+0 0 13211
+D2
+~
+~
+0 0 13220
+S
+#0
+
+#SPECIALS
+M 13211 spec_cast_mage
+S
+
+#RESETS
+M 100 13204 0 13208 1
+E 100 13201 0 18
+M 100 13200 10 13208 3
+E 100 13202 0 13
+M 100 13201 10 13209 5
+E 100 13200 0 3
+M 100 13201 10 13209 5
+E 100 13200 0 3
+M 100 13201 10 13209 5
+E 100 13200 0 3
+M 100 13201 10 13209 5
+E 100 13200 0 3
+M 100 13201 10 13209 5
+E 100 13200 0 3
+M 100 13203 1 13210 1
+E 100 13206 0 21
+E 100 13212 0 20
+E 100 13203 0 16
+M 100 13211 1 13211 1
+E 50 13211 0 25
+E 50 13210 0 27
+M 100 13202 0 13213 5
+E 50 13204 0 6
+M 100 13202 0 13213 5
+E 50 13204 0 6
+M 100 13202 0 13213 5
+E 50 13204 0 6
+M 100 13202 0 13213 5
+E 50 13204 0 6
+M 100 13202 0 13213 5
+M 100 13202 0 13213 3
+E 100 13204 0 6
+M 100 13205 0 13215 3
+E 100 13205 0 21
+M 100 13205 0 13215 2
+E 100 13213 0 27
+M 100 13207 0 13216 7
+G 50 13207 0
+M 100 13207 0 13216 7
+G 50 13207 0
+M 100 13207 0 13216 7
+G 50 13207 0
+M 100 13207 0 13216 7
+G 50 13207 0
+M 100 13207 0 13216 7
+G 50 13207 0
+M 100 13207 0 13216 7
+G 50 13207 0
+M 100 13207 0 13216 7
+G 100 13214 0
+G 50 13207 0
+M 100 13212 0 13216 1
+G 100 13215 0
+M 100 13208 0 13217 3
+E 100 13208 0 16
+M 100 13208 0 13217 1
+E 100 13214 0 16
+M 100 13208 0 13217 1
+E 100 13214 0 16
+M 100 13209 0 13219 3
+E 100 13209 0 23
+S
+
+#$

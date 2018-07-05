@@ -1,0 +1,903 @@
+#PLAYER
+Name Atropos~
+Race titan~
+Levl 150
+Clas gladiator~
+Pkpt 100
+TSex 2
+LogO 1353360041
+Sock c-76-25-229-51.hsd1.co.comcast.net~
+Titl .{x~
+
+#STAT_BREAK
+
+Id   1353282098
+Plat 62
+Gold 77
+Silv 52
+Exp  210971
+Attr 27 17 16 14 25
+Prom (%e){1<{@%hh %mm %vv{1> {1[{@%q{1]{x ~
+Act  BCDEFGHJQT
+AfBy CDEFGHLTVce
+ShBy K
+Comm NQ
+Pos  8
+Alig  1000
+Sk 75 'berserk'
+Sk 75 'counter'
+Sk 75 'cross slash'
+Sk 76 'dodge'
+Sk 81 'dual wield'
+Sk 86 'enhanced damage'
+Sk 76 'fast healing'
+Sk 78 'fifth attack'
+Sk 76 'fourth attack'
+Sk 76 'gash'
+Sk 78 'kick'
+Sk 75 'lore'
+Sk 75 'lunge'
+Sk 76 'parry'
+Sk 50 'recall'
+Sk 1 'scrolls'
+Sk 79 'second attack'
+Sk 76 'seventh attack'
+Sk 77 'sixth attack'
+Sk 1 'staves'
+Sk 88 'sword'
+Sk 77 'third attack'
+Sk 81 'ultra damage'
+Sk 1 'wands'
+MaxDam 898
+LLev 5
+Pass AtBU/sAKpgRKU~
+Plyd 20539
+Note 1352926669 0 0 0 0
+Room 66301
+HMVN 16656 16271 7092 7067 4499 4569
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 0 0
+Deviant 0 0
+Tier 2
+Prac 254
+Trai 57
+Devote current 0
+Pnts 40
+Mkil 209
+Mdea 1
+Gr 'gladiator basics'
+Gr 'rom basics'
+Affc 'stone skin'   0 112   0  14 -115  17          0
+Affc 'haste'   0 107   0  14   3   2    2097152
+Affc 'giant strength'   0 106   0  14   3   1 1073741824
+Affc 'fly'   0 105   0  75   0   0     524288
+Affc 'farsight'   0 105   0  14   0   0       2048
+Affc 'divine aura'   1 104   0  19   0   0       1024
+Affc 'detect neutral'   0 101   0  14   0   0        128
+Affc 'detect magic'   0 107   0  14   0   0         16
+Affc 'detect invis'   0 105   0  14   0   0          8
+Affc 'detect hidden'   0 106   0  14   0   0         32
+Affc 'detect good'   0 107   0  14   0   0         64
+Affc 'detect evil'   0 106   0  14   0   0          4
+Affc 'bless'   0 110   0   1 -14  20          0
+Affc 'bless'   0 110   0   1  14  18          0
+Affc 'regeneration'   0  59   0  -1   0   0  268435456
+End
+
+#O
+Vnum 3716
+Nest 0
+Name round oval sphere reddish orange~
+ShD  A Strange Reddish-Orange Sphere~
+Desc A round oval-like sphere glowing reddish-orange is settled here on the ground.~
+Cost 0
+Valu 2 1 199
+End
+
+#O
+Vnum 3703
+Nest 0
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3702
+Nest 0
+Name sword thothian~
+ShD  A Thothian Sword~
+Desc A long curved sword made from Thoth lies here.~
+End
+
+#O
+Vnum 3704
+Nest 0
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+End
+
+#O
+Vnum 6745
+Nest 0
+Name sword of dreams~
+ShD  {&S{8word of {WD{8reams{x~
+Desc A glimmering sword lies here.~
+Loader LOAD: (18:26-11/18/2012) Locke~
+ExtF AX
+Wear 16
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+Wear 25
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+Wear 24
+End
+
+#O
+Vnum 3711
+Nest 0
+Name thothian dark cape~
+ShD  A Thothian Cape~
+Desc A long dark cape finely made from Thoth lies here.~
+End
+
+#O
+Vnum 16000
+Nest 0
+Name amulet captain~
+ShD  the {1p{!i{8ra{!t{1e {1c{!a{&pta{!i{1n{x's amulet~
+Desc {1C{!a{&pta{!i{1n {8Amos'{x precious amulet has been accidentally left here.~
+End
+
+#O
+Vnum 3716
+Nest 0
+Name round oval sphere reddish orange~
+ShD  A Strange Reddish-Orange Sphere~
+Desc A round oval-like sphere glowing reddish-orange is settled here on the ground.~
+Cost 0
+Valu 2 1 85
+End
+
+#O
+Vnum 3707
+Nest 0
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+End
+
+#O
+Vnum 3725
+Nest 0
+Name ancient symbol thothian~
+ShD  The symbol of a Thothian Warrior~
+Desc An ancient symbol of a Thothian warrior has been disregarded here.~
+Wear 26
+End
+
+#O
+Vnum 3708
+Nest 0
+Name pair leather thothian sandals~
+ShD  A pair of Thothian Sandals~
+Desc A pair of leather sandals made from Thoth lies here.~
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+Wear 15
+End
+
+#O
+Vnum 3724
+Nest 0
+Name ring thothian ~
+ShD  A Thothian-made Ring~
+Desc A small ring with the engraving "T" is lying here.~
+End
+
+#O
+Vnum 6745
+Nest 0
+Name sword of dreams~
+ShD  {&S{8word of {WD{8reams{x~
+Desc A glimmering sword lies here.~
+Loader LOAD: (18:26-11/18/2012) Locke~
+ExtF AX
+Wear 19
+End
+
+#O
+Vnum 16006
+Nest 0
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+End
+
+#O
+Vnum 16006
+Nest 0
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+End
+
+#O
+Vnum 16005
+Nest 0
+Name hat captain~
+ShD  the {rp{Ri{Dra{Rt{re {1C{!a{&pta{!i{1n{x's hat~
+Desc Captain Amos's hat is flipped upside down here.~
+End
+
+#O
+Vnum 16016
+Nest 0
+Name boots Captain~
+ShD  {rC{Ra{Wpta{Ri{rn {DAmos{x' {rb{Root{rs{x~
+Desc Some fancy boots with a skull and crossbone design on them sits here.~
+Wear 8
+End
+
+#O
+Vnum 16018
+Nest 0
+Name gloves Captain~
+ShD  {rC{Ra{Wpta{Ri{rn {DAmos{x' {rg{Rlove{rs{x~
+Desc Captain Amos's gloves have been dropped in the dust.~
+Wear 9
+End
+
+#O
+Vnum 18801
+Nest 0
+Name holy robe~
+ShD  {3holy robes{0~
+Desc {3A brown rag lies on the floor{0~
+End
+
+#O
+Vnum 16011
+Nest 0
+Name parrot~
+ShD  a {gt{Galkativ{ge {gp{Garro{gt{x~
+Desc An extremely loquacious parrot is perched here.~
+End
+
+#O
+Vnum 3706
+Nest 0
+Name round thothian helmet~
+ShD  A Thothian Helmet~
+Desc A large round helmet made from Thoth is lying here.~
+End
+
+#O
+Vnum 3711
+Nest 0
+Name thothian dark cape~
+ShD  A Thothian Cape~
+Desc A long dark cape finely made from Thoth lies here.~
+Wear 12
+End
+
+#O
+Vnum 3726
+Nest 0
+Name earring thothian~
+ShD  A Thothian Earring~
+Desc A crystallized earring shaped in a "T" lies here.~
+End
+
+#O
+Vnum 3700
+Nest 0
+Name thothian mace~
+ShD  A Thothian Mace~
+Desc A large Thothian mace lies here waiting to crush someone's skull.~
+End
+
+#O
+Vnum 3500
+Nest 0
+Name sword short~
+ShD  a goblin's short sword~
+Desc A rusted sword lies on the ground.~
+End
+
+#O
+Vnum 3074
+Nest 0
+Name skirt scale mail~
+ShD  a long scale mail skirt~
+Desc A long scale mail skirt is lying on the ground.~
+End
+
+#O
+Vnum 3500
+Nest 0
+Name sword short~
+ShD  a goblin's short sword~
+Desc A rusted sword lies on the ground.~
+End
+
+#O
+Vnum 3072
+Nest 0
+Name jerkin scale mail~
+ShD  a scale mail jerkin~
+Desc A scale mail jerkin is lying on the ground.~
+End
+
+#O
+Vnum 16006
+Nest 0
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+Wear 1
+End
+
+#O
+Vnum 16011
+Nest 0
+Name parrot~
+ShD  a {gt{Galkativ{ge {gp{Garro{gt{x~
+Desc An extremely loquacious parrot is perched here.~
+End
+
+#O
+Vnum 16012
+Nest 0
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+End
+
+#O
+Vnum 16044
+Nest 0
+Name mop~
+ShD  a {rb{Rlood{ry {rm{Ro{rp{x~
+Desc A mop has been left here.~
+End
+
+#O
+Vnum 16009
+Nest 0
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+End
+
+#O
+Vnum 16006
+Nest 0
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+Wear 2
+End
+
+#O
+Vnum 16011
+Nest 0
+Name parrot~
+ShD  a {gt{Galkativ{ge {gp{Garro{gt{x~
+Desc An extremely loquacious parrot is perched here.~
+End
+
+#O
+Vnum 16006
+Nest 0
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+End
+
+#O
+Vnum 16011
+Nest 0
+Name parrot~
+ShD  a {gt{Galkativ{ge {gp{Garro{gt{x~
+Desc An extremely loquacious parrot is perched here.~
+Wear 6
+End
+
+#O
+Vnum 16013
+Nest 0
+Name pegleg peg~
+ShD  a {yp{Yegle{yg{x~
+Desc A short stick is leaning against the wall.~
+End
+
+#O
+Vnum 16022
+Nest 0
+Name dagger gold~
+ShD  a {yg{Yol{yd d{Yagge{yr{x~
+Desc A shiny gold dagger shines in the sun.~
+End
+
+#O
+Vnum 31010
+Nest 0
+Name long staff quarterstaff~
+ShD  a Long Staff~
+Desc A long curved staff lies here almost cracked in two.~
+End
+
+#O
+Vnum 31011
+Nest 0
+Name brown robe~
+ShD  a Dirty Brown Robe~
+Desc An old shaggy brown robe lies here wrinkled up.~
+End
+
+#O
+Vnum 31012
+Nest 0
+Name long cloth clothed turban~
+ShD  a Long-Clothed Turban~
+Desc A huge piece of cloth wrapped into a turban lies here.~
+End
+
+#O
+Vnum 31012
+Nest 0
+Name long cloth clothed turban~
+ShD  a Long-Clothed Turban~
+Desc A huge piece of cloth wrapped into a turban lies here.~
+End
+
+#O
+Vnum 792
+Nest 0
+Name javelin cracked~
+ShD  cracked javelin~
+Desc A javelin is here.~
+Loader MPOP: (13:20-11/19/2012) Atropos~
+Cost 500
+End
+
+#O
+Vnum 31073
+Nest 0
+Name suit chain mail armor~
+ShD  a Suit of Chain Mail~
+Desc A large suit of armor made of chains lies here jingling.~
+End
+
+#O
+Vnum 31072
+Nest 0
+Name metallic skirt~
+ShD  a Metallic Skirt~
+Desc A wide double-layered skirt of silver lies here.~
+End
+
+#O
+Vnum 31026
+Nest 0
+Name bronze necklace~
+ShD  a Bronze Necklace~
+Desc A bizarre necklace made of bronze lies here.~
+Wear 4
+End
+
+#O
+Vnum 31023
+Nest 0
+Name wooden leg~
+ShD  a Wooden Leg~
+Desc A small leg used to stick your leg in lies here.~
+End
+
+#O
+Vnum 31022
+Nest 0
+Name black eyepatch~
+ShD  an Eyepatch~
+Desc A small black eyepatch lies here for you to wear.~
+Wear 20
+End
+
+#O
+Vnum 31021
+Nest 0
+Name golden bracer~
+ShD  a Golden Bracer~
+Desc A small sparkling bracer lies here with a golden aura about it.~
+Wear 14
+End
+
+#O
+Vnum 17220
+Nest 0
+Name oil can~
+ShD  a small can of {8o{7i{8l{0~
+Desc A small can of {8o{7i{8l{0 rests on the ground.~
+Time 694
+End
+
+#O
+Vnum 17220
+Nest 0
+Name oil can~
+ShD  a small can of {8o{7i{8l{0~
+Desc A small can of {8o{7i{8l{0 rests on the ground.~
+Time 557
+End
+
+#O
+Vnum 17220
+Nest 0
+Name oil can~
+ShD  a small can of {8o{7i{8l{0~
+Desc A small can of {8o{7i{8l{0 rests on the ground.~
+Time 749
+End
+
+#O
+Vnum 17220
+Nest 0
+Name oil can~
+ShD  a small can of {8o{7i{8l{0~
+Desc A small can of {8o{7i{8l{0 rests on the ground.~
+Time 427
+End
+
+#O
+Vnum 17222
+Nest 0
+Name ear mouse~
+ShD  a {7M{0o{8u{0s{7e{0 Ear~
+Desc A pair of  {7m{0o{8u{0s{7e{0 ears lays on the ground.~
+End
+
+#O
+Vnum 17222
+Nest 0
+Name ear mouse~
+ShD  a {7M{0o{8u{0s{7e{0 Ear~
+Desc A pair of  {7m{0o{8u{0s{7e{0 ears lays on the ground.~
+End
+
+#O
+Vnum 17222
+Nest 0
+Name ear mouse~
+ShD  a {7M{0o{8u{0s{7e{0 Ear~
+Desc A pair of  {7m{0o{8u{0s{7e{0 ears lays on the ground.~
+End
+
+#O
+Vnum 17231
+Nest 0
+Name hammer~
+ShD  the {3Bell{7Ringer's{3 Hammer{0~
+Desc A small hammer rests against the wall.~
+End
+
+#O
+Vnum 17232
+Nest 0
+Name frock shirt~
+ShD  a {5frock{0~
+Desc A large frilly shirt rests on the ground.~
+End
+
+#O
+Vnum 17219
+Nest 0
+Name hands~
+ShD  the {7H{0a{8n{0d{7s{0 of the {4Clock{0~
+Desc {bThe Hands of the Clock rotate slowly.{x~
+Cost 0
+End
+
+#O
+Vnum 17228
+Nest 0
+Name metal sword~
+ShD  a {7M{0e{8t{0a{7l S{0w{8o{0r{7d{0~
+Desc A small metal sword rests on the ground.~
+End
+
+#O
+Vnum 17224
+Nest 0
+Name screwdriver~
+ShD  a screwdriver~
+Desc A small screwdriver rests on the ground.~
+End
+
+#O
+Vnum 17226
+Nest 0
+Name tool belt toolbelt~
+ShD  a {7Tool {4Belt{0~
+Desc A tool belt rests on the ground.~
+Wear 13
+End
+
+#O
+Vnum 17228
+Nest 0
+Name metal sword~
+ShD  a {7M{0e{8t{0a{7l S{0w{8o{0r{7d{0~
+Desc A small metal sword rests on the ground.~
+End
+
+#O
+Vnum 17223
+Nest 0
+Name eyes cat mechanicl~
+ShD  the {3Glowing{0 Eyes of the {&M{7e{0c{8h{0an{8i{0c{7a{&l{0 {4cat{0~
+Desc A pair of glowing amethysts rest on the ground~
+Wear 0
+Valu 2 1 -1
+End
+
+#O
+Vnum 62057
+Nest 0
+Name paper sailor hat~
+ShD  a paper sailor's hat~
+Desc A poorly made paper hat waits for you to wear it.~
+End
+
+#O
+Vnum 62050
+Nest 0
+Name blue summer dress~
+ShD  a light {$blue{x summer dress~
+Desc A light {$blue{x dress perfect for living near the seas lies here.~
+End
+
+#O
+Vnum 18806
+Nest 0
+Name picture landscape~
+ShD  A picture of a sunny landscape~
+Desc A gorgeous landscape is in a picture frame.~
+End
+
+#O
+Vnum 18807
+Nest 0
+Name silken slippers~
+ShD  silken slippers~
+Desc A pair silk slippers.~
+End
+
+#O
+Vnum 18804
+Nest 0
+Name crystal necklace~
+ShD  A {ccrystal{0 necklace~
+Desc Shiny crystals catch your eye.~
+Wear 3
+End
+
+#O
+Vnum 18805
+Nest 0
+Name handkerchief~
+ShD  a wet handkerchief~
+Desc A wet handkerchief is crumpled into a ball.~
+End
+
+#O
+Vnum 18811
+Nest 0
+Name trillium helmet~
+ShD  A Trillium helmet~
+Desc A strong helmet lies on the floor.~
+End
+
+#O
+Vnum 18800
+Nest 0
+Name grimy rag~
+ShD  A {8grimy{0 rag{0~
+Desc A {8grimy{0 rag lies on the ground~
+End
+
+#O
+Vnum 18801
+Nest 0
+Name holy robe~
+ShD  {3holy robes{0~
+Desc {3A brown rag lies on the floor{0~
+End
+
+#O
+Vnum 18802
+Nest 0
+Name brown pants~
+ShD  {3brown pants{0~
+Desc {3Brown pants{0 lie on the floor.~
+Wear 7
+End
+
+#O
+Vnum 18803
+Nest 0
+Name holy mace~
+ShD  a {choly{0 mace~
+Desc A mace lies in the corner.~
+End
+
+#O
+Vnum 18800
+Nest 0
+Name grimy rag~
+ShD  A {8grimy{0 rag{0~
+Desc A {8grimy{0 rag lies on the ground~
+End
+
+#O
+Vnum 18800
+Nest 0
+Name grimy rag~
+ShD  A {8grimy{0 rag{0~
+Desc A {8grimy{0 rag lies on the ground~
+End
+
+#O
+Vnum 18814
+Nest 0
+Name feather duster~
+ShD  A {7feather{0 duster~
+Desc A fluffy feather duster is here.~
+End
+
+#O
+Vnum 18835
+Nest 0
+Name silver earrings~
+ShD  {DSilver Earrings{0~
+Desc Some earrings lie on a table.~
+End
+
+#O
+Vnum 18816
+Nest 0
+Name key~
+ShD  brass key~
+Desc A small key made of brass.~
+End
+
+#O
+Vnum 18835
+Nest 0
+Name silver earrings~
+ShD  {DSilver Earrings{0~
+Desc Some earrings lie on a table.~
+End
+
+#O
+Vnum 18835
+Nest 0
+Name silver earrings~
+ShD  {DSilver Earrings{0~
+Desc Some earrings lie on a table.~
+End
+
+#O
+Vnum 18835
+Nest 0
+Name silver earrings~
+ShD  {DSilver Earrings{0~
+Desc Some earrings lie on a table.~
+Wear 21
+End
+
+#O
+Vnum 18835
+Nest 0
+Name silver earrings~
+ShD  {DSilver Earrings{0~
+Desc Some earrings lie on a table.~
+Wear 22
+End
+
+#O
+Vnum 18835
+Nest 0
+Name silver earrings~
+ShD  {DSilver Earrings{0~
+Desc Some earrings lie on a table.~
+End
+
+#O
+Vnum 18819
+Nest 0
+Name silken robe~
+ShD  Silk Robe~
+Desc A silken robe, that doesn't leave much to the imagination.~
+End
+
+#O
+Vnum 18820
+Nest 0
+Name dominatrix paddle~
+ShD  A dominatrix paddle~
+Desc An mean looking paddle lies on the floor.~
+End
+
+#O
+Vnum 18812
+Nest 0
+Name manacles~
+ShD  manacles~
+Desc Some steel manacles have been dropped here.~
+End
+
+#O
+Vnum 18823
+Nest 0
+Name edible lipstick~
+ShD  some edible lipstick~
+Desc A tube of {1ruby red{0 lipstick is here.~
+End
+
+#O
+Vnum 18824
+Nest 0
+Name delicate sandwich~
+ShD  A delicious looking sandwich~
+Desc A delicious sandwich is on the table.~
+End
+

@@ -1,0 +1,4868 @@
+#AOD_AREA
+Chronos~
+51901 52199 C 4
+Levl 1 101
+Bldr Nevalis~
+End
+
+#MOBILES
+#51901
+Bander apothecarist~
+Bander, the Apothecarist~
+Bander, the Apothecarist is behind the counter, busy with work.
+~
+He is a kind but dangerous man.  Robbing him wouldn't be such a bright
+idea.  
+~
+human~
+0 0 0 100 100 100 50 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABQR DEFLT H 0 0
+150 5000 0 30001 30001 1000 1000 75 150 10 magic
+-150 -150 -150 -150
+STANDING STANDING male 500000
+0 mage medium ABCDEFGHIJK
+
+#51902
+Sarihm armorer~
+Sarihm, the Armorer~
+Sarihm, the Armorer is walking around polishing armors and helmets.
+~
+He is a kind but dangerous man.  Robbing him wouldn't be such a bright
+idea.  
+~
+human~
+0 0 0 100 100 100 50 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABQR DEFLT H 0 0
+150 5000 0 30001 30001 1000 1000 75 150 10 magic
+-150 -150 -150 -150
+STANDING STANDING male 500000
+0 mage medium ABCDEFGHIJK
+
+#51903
+Taln clerk~
+Taln, the Clerk~
+Taln, the Clerk is here, offering help.
+~
+He is a kind but dangerous man.  Robbing him wouldn't be such a bright
+idea.  
+~
+human~
+0 0 0 100 100 100 50 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABQR DEFLT H 0 0
+150 5000 0 30001 30001 1000 1000 75 150 10 magic
+-150 -150 -150 -150
+STANDING STANDING male 500000
+0 mage medium ABCDEFGHIJK
+
+#51904
+villager~
+A Villager~
+A villager is here, attending to his tasks.
+~
+This villager enjoys the easy living here.  He is lazy but will
+eventually get the job done.  The long list he has means it'll be awhile
+before he finishes.  
+~
+human~
+100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 50 100 100 100 100 100 
+AGc FJLT T 0 0
+45 0 0 48 74 34 58 22 45 2 punch
+60 60 60 60
+STANDING STANDING male 500
+0 mage tiny ABCDEFGHIJK
+
+#51905
+villager~
+A Villager~
+A villager is here, frantically trying to get things done.
+~
+This villager is hardworking since she needs to get her chores done
+before dinner time.  She is dressed in a simple dress, containing many
+pockets filled with little notes on what needs to be done.  
+~
+human~
+100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 50 100 100 100 100 100 
+AGc FJLT T 0 0
+45 0 0 46 74 34 61 22 45 2 punch
+60 60 60 60
+STANDING STANDING female 500
+0 mage tiny ABCDEFGHIJK
+
+#51906
+child villager~
+Young Villager~
+A young villager is playing around.
+~
+This young villager loves to play and hates to work.  He is enjoying his
+freedom while he can before the shackles of necessary labor take over.  
+~
+human~
+100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 50 100 100 100 100 100 
+AGc FJLT T 0 0
+39 0 0 48 74 35 63 19 39 2 punch
+60 60 60 60
+STANDING STANDING male 500
+0 mage tiny ABCDEFGHIJK
+
+#51907
+Lucian~
+Lucian~
+Lucian sits here, drinking his worries away.
+~
+Lucian is the master of this mansion.  He steals money from the villagers
+during the night, using a black magic taught to him by some mysterious
+sorcerer.  His cruel nature is only outdone by his greed.  
+~
+human~
+100 50 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 50 100 100 100 100 100 
+AB BDEFVc HI 0 0
+70 75 0 5654 5654 10427 10606 35 70 33 slice
+-460 -430 -440 -430
+STANDING STANDING male 3000
+0 mage large ABCDEFGHIJK
+
+#51908
+villager~
+A male villager~
+A young man is here, relaxing.
+~
+~
+human~
+100 50 100 50 100 100 50 100 150 100 150 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 
+AGTc FJ U 0 0
+90 10 0 4033 4033 25960 26364 45 90 40 sting
+-620 -620 -620 -620
+STANDING STANDING male 700
+0 mage medium ABCDEFGHIJK
+
+#51909
+villager~
+A female villager~
+A young woman is here, reading a list of chores.
+~
+~
+human~
+100 50 100 50 100 100 100 100 100 100 150 50 100 150 100 100 100 100 100 100 100 100 100 100 100 100 
+AGTc FJ U 0 0
+90 10 0 3406 3406 1631 1675 45 90 12 none
+-120 -120 -120 -120
+STANDING STANDING female 700
+0 mage medium ABCDEFGHIJK
+
+#51910
+old villager~
+An old villager~
+An aged villager slowly walks by.
+~
+~
+human~
+100 100 100 50 100 100 50 100 150 100 150 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 
+AGTc FJ TU 0 0
+95 10 0 5943 5943 1642 1675 47 95 12 sting
+-120 -120 -120 -120
+STANDING STANDING male 700
+0 mage medium ABCDEFGHIJK
+
+#51911
+Prehistoric Man~
+Prehistoric Man~
+A large man is here, searching for prey.
+~
+~
+human~
+150 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 0 100 50 100 100 100 100 100 
+ABCG J 0 -1000 0
+140 200 0 10001 10001 333 438 100 200 200 punch
+-10 -10 -10 -10
+STANDING STANDING male 480
+0 mage large ABCDEFGHIJK
+
+#51912
+Fire Master~
+{DThe Master of {rF{Ri{rr{Re{x~
+The Master of Fire is here, hovering and clenching a fist of pure heat.
+~
+~
+human~
+100 50 50 150 100 100 0 100 150 100 100 100 50 100 100 100 100 100 100 100 50 100 100 100 100 100 
+ABCT CDEFGJPQTVZa DHT 0 0
+150 300 0 13918 16519 5377 5628 75 150 20 crush
+-800 -800 -800 -800
+STANDING STANDING neutral 2000
+0 mage giant ABCDEFGHIJK
+
+#51913
+Prehistoric Woman~
+Prehistoric Woman~
+A rather large woman is here, dressed in animal skins.
+~
+~
+human~
+150 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 0 100 50 100 100 100 100 100 
+ABCG J 0 -1000 0
+140 200 0 10001 10001 341 428 100 200 200 punch
+-10 -10 -10 -10
+STANDING STANDING male 480
+0 mage large ABCDEFGHIJK
+
+#51914
+Fire Being~
+{rF{Ri{rr{Re {rB{Re{Yi{Rn{rg{x~
+A living flame flickers here.
+~
+~
+human~
+100 100 100 150 100 100 0 100 100 100 100 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABG JT D -1000 0
+130 48 0 7855 7855 330 418 100 150 200 blaze
+-10 -10 -10 -10
+STANDING STANDING male 500
+0 mage large ABCDEFGHIJK
+
+#51915
+Arcane Apprentice~
+An Arcane Apprentice~
+A young boy is here, practicing magic.
+~
+~
+human~
+100 150 100 50 100 100 100 100 50 100 100 100 100 100 0 100 100 150 100 100 150 100 100 100 100 100 
+ACG J CD 0 0
+100 70 0 6046 6046 354 414 50 100 200 magic
+-40 -40 -40 -100
+STANDING STANDING male 400
+0 mage medium ABCDEFGHIJK
+
+#51916
+An Arcane Mage~
+An Arcane Mage~
+A mage is here, reading a book of spells.
+~
+~
+human~
+100 150 100 50 100 100 100 100 50 100 100 100 100 100 0 100 100 150 100 100 150 100 100 100 100 100 
+ACG J CDE 0 0
+102 70 0 7895 7895 305 426 65 130 200 magic
+-50 -50 -50 -50
+STANDING STANDING male 600
+0 mage medium ABCDEFGHIJK
+
+#51917
+Arcane Master~
+An Arcane Master~
+A powerful mage is here, muttering an incantation.
+~
+~
+human~
+100 150 100 50 100 100 100 100 50 100 100 100 100 100 0 100 100 150 100 100 150 100 100 100 100 100 
+ACG J CDEP 0 0
+140 90 0 9044 9044 314 437 70 140 200 magic
+-60 -60 -60 -150
+STANDING STANDING male 700
+0 mage medium ABCDEFGHIJK
+
+#51918
+wiseman~
+A Wiseman~
+An old man is here, examining some charts.
+~
+~
+human~
+100 150 100 50 100 100 100 100 50 100 100 100 100 100 0 100 100 150 100 100 150 100 100 100 100 100 
+ABCG J EP 0 0
+140 90 0 5501 5501 340 425 70 140 200 magic
+-60 -60 -60 -150
+STANDING STANDING male 700
+0 mage medium ABCDEFGHIJK
+
+#51919
+fanatic survivor~
+A Fanatical Survivor~
+A crazed person is here, digging through debris.
+~
+~
+human~
+100 100 100 100 100 150 50 100 0 100 0 150 50 100 0 100 100 0 100 100 50 100 150 100 100 100 
+ABCFT CDEFGJPQTVZa CDH 0 0
+120 1100 0 10385 12214 0 0 60 120 5000 crush
+0 0 0 0
+STANDING STANDING neutral 2500
+0 mage medium ABCDEFGHIJK
+
+#51920
+illusion master~
+The {CI{Dllusio{Cn M{Daste{Cr{x~
+A being of pure illusion is here, twisting reality.
+~
+~
+human~
+100 50 0 0 0 100 100 100 150 100 150 100 50 0 100 100 100 50 0 100 50 100 100 100 100 100 
+ABCORT DFNTVZa BCEHINOPS 0 0
+150 1000 0 25001 25001 20001 20001 75 150 50 magic
+-5000 -5000 -5000 -5000
+STANDING STANDING male 1000
+0 mage huge ABCDEFGHIJK
+
+#51921
+Tribe Elder~
+The Tribe Elder~
+An old man is here, offering some advice.
+~
+~
+human~
+150 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 0 100 50 100 100 100 100 100 
+ABCG JV H 0 0
+130 100 0 7001 7001 328 429 65 130 200 bite
+-40 -40 -40 -40
+STANDING STANDING male 800
+0 mage large ABCDEFGHIJK
+
+#51922
+mansion servant~
+A Mansion Servant~
+A servant is here, casually doing his work.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 0 0
+20 15 0 337 358 238 257 10 20 5 none
+-60 -50 -50 -50
+STANDING STANDING male 300
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#51901
+Time Warp~
+{*T{*i{*m{*e {*W{*a{*r{*p{x~
+{x~
+portal 0 0
+0 0 0 51951 0
+0 0 0
+
+#51902
+Past Warp Portal~
+{*T{*i{*m{*e {*W{*a{*r{*p{x~
+A mysterious portal leading to the past swirls here.~
+portal 0 0
+0 0 0 51952 0
+0 0 0
+
+#51903
+Time Warp~
+{*T{*i{*m{*e {*W{*a{*r{*p{x~
+{x~
+portal 0 0
+0 0 0 51951 0
+0 0 0
+
+#51904
+Prehistoric Portal Warp~
+{*T{*i{*m{*e {*W{*a{*r{*p{x~
+A mysterious portal leading to prehistoric times swirls here.~
+portal 0 0
+0 0 0 51991 0
+0 0 0
+
+#51905
+Time Warp~
+{*T{*i{*m{*e {*W{*a{*r{*p{x~
+{x~
+portal 0 0
+0 0 0 51951 0
+0 0 0
+
+#51906
+future portal warp~
+{*T{*i{*m{*e {*W{*a{*r{*p{x~
+A mysterious portal leading to the future swirls here.~
+portal 0 0
+0 0 0 52043 0
+0 0 0
+
+#51907
+Teleporter~
+a Teleporter~
+A magical teleporter glows here.~
+portal A 0
+0 0 0 52057 0
+0 0 0
+
+#51908
+crystal~
+a {MCrystal{x~
+A magical crystal levitates here.~
+trash A 0
+0 0 0 0 0
+0 0 0
+
+#51909
+Teleporter~
+a Teleporter~
+A magical teleporter glows here.~
+portal A 0
+0 0 0 52059 0
+0 0 0
+
+#51910
+Teleporter~
+a Teleporter~
+A magical teleporter glows here.~
+portal A 0
+0 0 0 52061 0
+0 0 0
+
+#51911
+Teleporter~
+a Teleporter~
+A magical teleporter glows here.~
+portal A 0
+0 0 0 52063 0
+0 0 0
+
+#51912
+Time Warp~
+{*T{*i{*m{*e {*W{*a{*r{*p{x~
+{x~
+portal 0 0
+0 0 0 51951 0
+0 0 0
+
+#51913
+Apocalypse portal~
+{*T{*i{*m{*e {*W{*a{*r{*p{x~
+A mysterious portal leading to the apocalypse swirls here.~
+portal 0 0
+0 0 0 51940 0
+0 0 0
+
+#51914
+teleporter~
+a teleporter~
+A broken teleporter lies here.~
+portal 0 0
+0 0 0 51951 0
+0 0 0
+
+#51915
+teleporter~
+a teleporter~
+A broken teleporter lies here.~
+portal 0 0
+0 0 0 52082 0
+0 0 0
+
+#51916
+teleporter~
+a teleporter~
+A broken teleporter lies here.~
+portal 0 0
+0 0 0 52080 0
+0 0 0
+
+#51917
+teleporter~
+a teleporter~
+A broken teleporter lies here.~
+portal 0 0
+0 0 0 52081 0
+0 0 0
+
+#51918
+potion sanctuary~
+a potion of {msanctuary{0~
+A shimmering potion of {msanctuary{0 lies here.~
+potion G A
+30 'sanctuary' '' '' ''
+20 1 18000
+
+#51919
+potion mana~
+A {Rb{rloo{Rd{x red potion of heal mana~
+A {Rb{rloo{Rd{x red potion of heal mana is here.~
+potion A AO
+25 'restore mana' 'restore mana' '' ''
+10 10 3000
+
+#51920
+(No Name)~
+(No Short Description~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0
+
+#51921
+power~
+{wBander's special {Wpotion{x of {RPo{rw{Rer{x~
+A small flask lies here.~
+potion A A
+20 'frenzy' '' '' ''
+10 0 7000
+
+#51922
+divinity potion~
+{wBander's special {Wpotion{x of {YD{yi{Yv{yi{Yn{yi{Yt{yy{x~
+A large vial is here.~
+potion G A
+30 'bless' '' '' ''
+20 0 12000
+
+#51923
+potion cure serious~
+a potion of cure {Dserious {rwounds{x~
+A potion of cure {Dserious {rwounds{x is here.~
+potion G O
+25 '' '' '' ''
+10 2 3900
+
+#51924
+potion true sight~
+a potion of {Dtrue {Ysight{x~
+A potion of {Dtrue {Ysight {xis here.~
+potion G A
+15 '' '' '' ''
+0 4 6000
+
+#51925
+shield adventurer~
+{WA Small {yLeather {WShield{x~
+A small shield is here.~
+armor 0 AJ
+12 12 12 9 0
+30 50 8000
+A 13 45
+A 19 3
+A 18 3
+A 5 3
+
+#51926
+armor adventurer~
+{WSturdy {yLeather {WArmor{x~
+Some tough armor lies here.~
+armor 0 AD
+9 9 9 9 0
+30 90 12000
+A 13 45
+A 19 3
+A 18 3
+A 1 2
+A 2 1
+
+#51927
+helmet adventurer~
+{WA {yLeather {WHelmet{x~
+A helmet lies on the ground.~
+armor 0 AE
+9 11 11 11 0
+30 40 10000
+A 13 20
+A 19 1
+A 18 2
+A 3 2
+
+#51928
+vambraces adventurer~
+{yLeather {WVambraces{x~
+A lost pair of vambraces lie here.~
+armor 0 AI
+9 9 10 10 0
+30 30 11000
+A 13 20
+A 12 20
+A 19 2
+A 18 2
+A 4 2
+
+#51929
+(No Name)~
+(No Short Description~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0
+
+#51930
+water jug~
+a {yjug {xof {bw{ca{Ct{ce{br{x~
+A small jug of water sits here.~
+drinkcontainer 0 A
+150 150 'water' 0 0
+0 40 600
+
+#51931
+loaf bread~
+a {yloaf of bread{x~
+A bread lies here on the ground.~
+food 0 A
+-1 30 0 0 0
+0 15 500
+
+#51932
+bag~
+a {ybag{x~
+A small {ybag{x.~
+container Y A
+100 0 0 200 0
+0 50 1000
+
+#51933
+cape illusion~
+a {WCape of {*I{*l{*l{*u{*s{*i{*o{*n{x~
+A multicolored cloth lies here.~
+armor T AK
+26 26 26 33 0
+101 45 5500
+A 12 200
+A 20 -2
+A 13 303
+A 18 15
+A 19 15
+A 1 1
+A 4 3
+A 2 2
+
+#51934
+crystal~
+a {MCrystal{x~
+A magical crystal levitates here.~
+container A 0
+50 0 0 5 0
+0 0 0
+
+#51935
+crystal shard~
+{wA {MCrystal{w Shard{x~
+A large shard of crystal lies on the ground.~
+armor AG AJ
+24 24 27 27 0
+90 30 15000
+A 19 19
+A 18 19
+A 13 75
+A 4 2
+A 20 -3
+
+#51936
+fire sleeve~
+{wSleeves of Eternal {rF{Rl{Yam{Re{rs{x~
+A pair of sleeves, engulfed in an inferno, burn here.~
+armor GY AI
+27 22 22 22 0
+90 98 3000
+A 18 14
+A 19 14
+A 20 -3
+A 13 150
+
+#51937
+bear skin leggings~
+bear skin leggings~
+A small pile of fur is here.~
+armor 0 AF
+20 20 18 10 0
+85 90 3000
+A 19 15
+A 18 10
+A 20 -2
+A 13 100
+A 1 3
+
+#51938
+orb dark matter~
+{wAn {WOrb{w of {DDark{w Matter{x~
+A mysterious sphere illuminates the ground with a grey light.~
+armor G AQ
+15 15 15 12 0
+60 20 6000
+A 3 2
+A 5 2
+A 19 7
+A 18 7
+A 13 50
+A 12 50
+A 20 -2
+
+#51939
+wolf mat~
+a wolfskin mat~
+A comfortable wolfskin mat lies on the ground.~
+furniture 0 0
+2 1000000 BEHK 0 0
+0 0 0
+
+#51940
+animal chair~
+an animal skin chair~
+A comfortable chair, composed of many animal skins rests here.~
+furniture 0 0
+1 1000000 BEHK 0 0
+0 0 0
+
+#51941
+Arcane Cloak~
+{wan {bA{crcan{be {WCloak{x~
+A powerful cloak lies on the ground.~
+armor G AK
+20 20 20 25 0
+90 40 5000
+A 13 100
+A 12 150
+A 20 -3
+
+#51942
+inferno polearm~
+{rI{Rn{Yf{We{Yr{Rn{ro {DPolearm{x~
+A polearm, engulfed in flames lies here~
+weapon G AN
+polearm 13 14 flame AEFHJ
+101 70 10000
+A 20 -4
+A 13 200
+A 12 100
+A 3 3
+A 19 40
+A 18 40
+
+#51943
+torn robe~
+{wTorn {bR{wob{be{x~
+A torn robe lies here.~
+armor 0 AK
+26 26 26 26 0
+101 50 4500
+A 3 2
+A 12 200
+A 13 200
+A 20 -4
+
+#51944
+energy claw~
+{CE{cnergy {YClaws{x~
+A pair of energy claws lie here.~
+weapon 0 AN
+exotic 13 14 blast CDG
+101 50 4000
+A 17 -25
+A 12 100
+A 13 150
+
+#51945
+ragged receptacle~
+{CR{cagged {CR{ceceptacle{x~
+A barely functioning receptacle is here.~
+container 0 AL
+1000 A 0 200 25
+101 50 5000
+A 18 15
+A 14 50
+A 12 100
+A 13 300
+A 17 -25
+
+#51946
+(No Name)~
+(No Short Description~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0
+
+#51947
+talisman energy~
+{cT{Wa{cl{Wi{cs{Wm{ca{Wn {wof {CE{cnergy{x~
+A talisman glows here.~
+armor 0 AC
+27 27 27 27 0
+101 40 1000
+A 4 2
+A 3 3
+A 20 -4
+A 13 303
+
+#51948
+sphere power~
+{CS{wphere {wof {CP{cower{x~
+A sphere floats here.~
+armor 0 AS
+25 25 25 25 0
+101 60 3000
+A 1 3
+A 2 3
+A 13 303
+A 19 15
+A 18 15
+A 4 2
+A 20 -3
+A 12 250
+
+#51949
+enchanted ring~
+{CE{cnchante{Cd {wRing{x~
+An enchanted lies here on the ground.~
+armor 0 AB
+20 20 20 20 0
+101 10 5000
+A 18 25
+A 19 25
+A 13 100
+A 12 303
+A 20 -3
+
+#51950
+magical sleeve~
+{bMagical {wSleeves{x~
+A pair of magical sleeves are here.~
+armor 0 AI
+23 23 23 23 0
+101 50 4000
+A 20 -4
+A 12 200
+A 13 250
+
+#51951
+hood adept~
+{bHood {wof the {CA{cdep{Ct{x~
+The hood of an adept mage lies here.~
+armor 0 AE
+30 30 30 30 0
+101 50 1000
+A 4 3
+A 20 -4
+A 12 300
+A 13 300
+A 18 15
+A 19 15
+
+#51952
+wolf paw~
+{DW{Wol{Df {wPaws{x~
+A pair of wolf paws lie here.~
+armor 0 AH
+22 22 22 22 0
+90 20 1200
+A 1 3
+A 13 150
+
+#51953
+hunter lantern~
+{xHunter's {yLantern{x~
+A lantern lies here.~
+light A A
+0 0 999 0 0
+90 30 1200
+A 20 -3
+A 13 120
+A 12 100
+
+#51954
+panther skin cape~
+{DPanther {ySkin {wCape{x~
+A panther skin cape lies on the ground.~
+armor 0 AK
+23 23 23 23 0
+85 50 1500
+A 20 -2
+A 1 3
+A 12 150
+
+#51955
+sabertooth fangs~
+{YS{ya{Yb{ye{Yr{w-{yt{Yo{yo{Yt{yh Tiger {WFangs{x~
+Some teeth on a string lie here.~
+armor 0 AC
+20 20 20 20 0
+88 20 2300
+A 13 150
+A 20 -2
+A 5 3
+A 1 2
+
+#51956
+tribe ring~
+{yTribe {wRing{x~
+A ring lies here.~
+armor 0 AB
+19 19 19 19 0
+90 10 1000
+A 20 -3
+A 1 3
+A 2 2
+A 13 100
+
+#51957
+hunting spear~
+{gH{yuntin{gg {ySpear{x~
+A hunter's spear lies here.~
+weapon S AN
+exotic 14 13 splinter ADEF
+101 60 2000
+A 19 40
+A 18 40
+A 1 2
+
+#51958
+clay anklet~
+{yC{xl{ya{xy {wAnklet{x~
+A clay anklet lies on the ground.~
+armor 0 AT
+21 21 21 21 0
+90 20 2000
+A 2 -1
+A 1 3
+A 13 100
+A 12 50
+
+#51959
+lionskin boots~
+{YL{yio{Yn {ySkin {wBoots{x~
+Some lion skin boots lie here.~
+armor 0 AG
+22 22 22 22 0
+90 0 20
+A 2 3
+A 20 -2
+A 13 150
+A 5 3
+
+#51960
+skull mask~
+{WS{wkul{Wl {wMask{x~
+A skull mask is here.~
+armor 0 AR
+23 23 23 23 0
+90 30 2200
+A 13 100
+A 20 -3
+A 1 2
+A 2 2
+
+#51961
+axe sunray~
+{YS{Wu{wn{WR{Ya{Wy{x~
+A sword made of a sunray lies here~
+weapon 0 AN
+axe 13 13 sunlight EK
+101 40 800
+A 13 300
+A 19 30
+A 18 30
+
+#51962
+staff archmagi~
+{YS{ytaf{Yf{w of the {rA{Rr{Bc{bhm{Ba{Rg{ri{x~
+The staff of the archmagi is here.~
+weapon AHZ AN
+exotic 13 13 magic ABG
+101 40 100000
+A 20 -3
+A 13 303
+A 19 20
+A 18 20
+#0
+
+#ROOMS
+#51901
+Along a Path~
+{cThe path looks like it has ben worn out, as if it had been here
+for some time.  Oddly enough, word about this village came about recently. 
+It seems that after centuries of seclusion, the village in the distance has
+decided to be seen by all who venture there.  The tranquil forest that
+surrounds it waves gently to passing adventurers, but is it a greeting or a
+goodbye?  {x 
+~
+0 0
+D0
+~
+~
+0 0 51902
+D1
+~
+~
+0 0 6121
+S
+
+#51902
+Before a Strange Village~
+{cFrom outside the fence, the village seems to be busy with citizens
+moving to and from homes and shops, performing their daily chores. 
+Amidst all the surrounding the forest, the sun has managed to penetrate
+through the canopy, providing an ample amount of light to grow produce. 
+The village seems typical of villages, but things are often not as they appear.{x. 
+~
+0 0
+D0
+~
+~
+0 0 51903
+D2
+~
+~
+0 0 51901
+S
+
+#51903
+Village Entrance~
+{cThe homes that line the roads are constructed out of sturdy pinewood,
+and roofed by a blanked of tightly wrapped leaves.  The villagers seem to
+be in a daze as if they cannot be detered from their duties.  A strange
+essence can be detected here that the people here are unaware of.  It may be
+the cause of the appearance and even the source of this very village.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51923
+D1
+~
+~
+0 0 51904
+D2
+~
+~
+0 0 51902
+D3
+~
+~
+0 0 51907
+S
+
+#51904
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51931
+D1
+~
+~
+0 0 51905
+D3
+~
+~
+0 0 51903
+S
+
+#51905
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51932
+D1
+~
+~
+0 0 51906
+D3
+~
+~
+0 0 51904
+S
+
+#51906
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D1
+~
+~
+0 0 51910
+D3
+~
+~
+0 0 51905
+S
+
+#51907
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51943
+D1
+~
+~
+0 0 51903
+D3
+~
+~
+0 0 51908
+S
+
+#51908
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51942
+D1
+~
+~
+0 0 51907
+D3
+~
+~
+0 0 51909
+S
+
+#51909
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51941
+D1
+~
+~
+0 0 51908
+D3
+~
+~
+0 0 51911
+S
+
+#51910
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51922
+D3
+~
+~
+0 0 51906
+S
+
+#51911
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51912
+D1
+~
+~
+0 0 51909
+S
+
+#51912
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51913
+D1
+~
+~
+0 0 51930
+D2
+~
+~
+0 0 51911
+S
+
+#51913
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D1
+~
+~
+0 0 51914
+D2
+~
+~
+0 0 51912
+S
+
+#51914
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D1
+~
+~
+0 0 51915
+D3
+~
+~
+0 0 51913
+S
+
+#51915
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51938
+D1
+~
+~
+0 0 51916
+D3
+~
+~
+0 0 51914
+S
+
+#51916
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51937
+D1
+~
+~
+0 0 51917
+D3
+~
+~
+0 0 51915
+S
+
+#51917
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D1
+~
+~
+0 0 51918
+D2
+~
+~
+0 0 51923
+D3
+~
+~
+0 0 51916
+S
+
+#51918
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51936
+D1
+~
+~
+0 0 51919
+D3
+~
+~
+0 0 51917
+S
+
+#51919
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51935
+D1
+~
+~
+0 0 51920
+D3
+~
+~
+0 0 51918
+S
+
+#51920
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51934
+D1
+~
+~
+0 0 51921
+D3
+~
+~
+0 0 51919
+S
+
+#51921
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D2
+~
+~
+0 0 51922
+D3
+~
+~
+0 0 51920
+S
+
+#51922
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51921
+D2
+~
+~
+0 0 51910
+D3
+~
+~
+0 0 51926
+S
+
+#51923
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51917
+D1
+~
+~
+0 0 51924
+D2
+~
+~
+0 0 51903
+D3
+~
+~
+0 0 51927
+S
+
+#51924
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51944
+D1
+~
+~
+0 0 51925
+D3
+~
+~
+0 0 51923
+S
+
+#51925
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51945
+D1
+~
+~
+0 0 51926
+D3
+~
+~
+0 0 51924
+S
+
+#51926
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51946
+D1
+~
+~
+0 0 51922
+D3
+~
+~
+0 0 51925
+S
+
+#51927
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51947
+D1
+~
+~
+0 0 51923
+D3
+~
+~
+0 0 51928
+S
+
+#51928
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51948
+D1
+~
+~
+0 0 51927
+D3
+~
+~
+0 0 51929
+S
+
+#51929
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51949
+D1
+~
+~
+0 0 51928
+D3
+~
+~
+0 0 51930
+S
+
+#51930
+Dirt Beaten Road~
+{cThe road of this village are well used, as indicated by the deep grooves
+on either side of the road made by carts and carriges.  The dirt is very
+loose, yet it never seems to be swept into the air whenever someone passes
+over it.  Simple but complex buildings take residence along the northern
+section of the road.  The buildings look almost imaginary, as such grand
+design only lies within the imaginations of men{x{x.  
+~
+0 0
+D0
+~
+~
+0 0 51950
+D1
+~
+~
+0 0 51929
+D3
+~
+~
+0 0 51912
+S
+
+#51931
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51904
+S
+
+#51932
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51905
+S
+
+#51934
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51920
+S
+
+#51935
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51919
+S
+
+#51936
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51918
+S
+
+#51937
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51916
+S
+
+#51938
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51915
+S
+
+#51940
+{DBefore a Crumbling City{x~
+{rSmoldering debris and rubble litter the decimated marble pathway.  The
+sky is tainted and mired by dark clouds, preventing any sunlight from
+piercing through.  In the distance, the ruins of what was once a magnificent
+city lie in a heap of scattered stone.  Movement can {r be seen north. 
+Perhaps it's a survivor or it may even be the cause of the destruction of
+this once prosperous location.  {x 
+~
+1 0
+D0
+~
+~
+0 0 52065
+S
+
+#51941
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51909
+S
+
+#51942
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51908
+S
+
+#51943
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51907
+S
+
+#51944
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51924
+S
+
+#51945
+Village Apothecary~
+{cThe apothecary is where the locals go to get much needed potions and
+elixers.  Bander is here, behind the counter, mixing up another of his
+renowned tinctures.  All sorts of flasks, jars, and bottles occupy the
+makeshift shelves, but there always seems to be a perfect supply of each
+potion.  These potions range from healing to enhancement.  It all depends on
+what the customer desires, and of course the price{x.  
+~
+0 0
+D2
+~
+~
+0 0 51925
+S
+
+#51946
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?  {cA
+strange force can be sensed in here as if there is another exit, hidden by
+magic.  {x 
+~
+0 0
+D2
+~
+~
+0 0 51926
+S
+
+#51947
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51927
+S
+
+#51948
+Village Armory~
+{cThe armory, ran by Sarihm, provides a basic supply of equipment for a
+new adventurer.  Suits of armor line the walls on mannequin bodies while
+helmets and shields are kept nicely organized on shelves.  Sarihm is a
+master blacksmith, and is proud to show it in his work.  {x 
+~
+0 0
+D2
+~
+~
+0 0 51928
+S
+
+#51949
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51929
+S
+
+#51950
+A Quaint House~
+{cThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51930
+S
+
+#51951
+A Collision of {*T{*i{*m{*e{x~
+{*The room wavers with energy, and there seems to be no beginning or end
+to this place.  Great explosions are seen as energy collides in this chaotic
+alternate universe.  Through all the confusion, a small hole below reveals
+the land from which this realm lurks over.  However, several other warps are
+swirling here, containing mysteries and possibly treasures.  Each path has
+its own benefits as well as consequences.  {x 
+~
+1 0
+D0
+~
+~
+0 0 51951
+D1
+~
+~
+0 0 51951
+D2
+~
+~
+0 0 51951
+D3
+~
+~
+0 0 51951
+D4
+~
+~
+0 0 51951
+D5
+~
+~
+0 0 51901
+S
+
+#51952
+Along a Path~
+{bThis road seems familiar except the roads seem less traveled upon, and
+there aren't as many trees.  A small collection of homes can be seen in the
+distance.  This is the same place as before, yet everything appears to be
+younger and newer.  Perhaps that portal was not the correct path out of this
+chaos.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51953
+S
+
+#51953
+Before a Small Village~
+{bThere is no fence surrounding the village, as there are barely any
+homes which would require one.  Some villagers can be seen walking around,
+tending to their daily chores.  The grand forest which concealed this place
+is just a mere meadow that stretches far beyond the horizon as if nothing
+has grown yet.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51954
+D2
+~
+~
+0 0 51952
+S
+
+#51954
+Village Entrance~
+{bFrom the looks of things, this is the very same village from before. 
+Everything seems undeveloped.  The once complex homes are now just simple
+straw huts.  Strangely enough, no farms can be seen, yet the villagers are
+carrying crates overflowing with crops.  The outline of a huge mansion lies
+north, and may also have the answers to this magic produce.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51968
+D1
+~
+~
+0 0 51955
+D2
+~
+~
+0 0 51953
+D3
+~
+~
+0 0 51958
+S
+
+#51955
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51969
+D1
+~
+~
+0 0 51956
+D3
+~
+~
+0 0 51954
+S
+
+#51956
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51970
+D1
+~
+~
+0 0 51957
+D3
+~
+~
+0 0 51955
+S
+
+#51957
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51967
+D1
+~
+~
+0 0 51971
+D3
+~
+~
+0 0 51956
+S
+
+#51958
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51977
+D1
+~
+~
+0 0 51954
+D3
+~
+~
+0 0 51959
+S
+
+#51959
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51976
+D1
+~
+~
+0 0 51958
+D3
+~
+~
+0 0 51960
+S
+
+#51960
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51961
+D1
+~
+~
+0 0 51959
+D3
+~
+~
+0 0 51975
+S
+
+#51961
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51974
+D1
+~
+~
+0 0 51962
+D2
+~
+~
+0 0 51960
+S
+
+#51962
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D1
+~
+~
+0 0 51963
+D3
+~
+~
+0 0 51961
+S
+
+#51963
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D1
+~
+~
+0 0 51968
+D3
+~
+~
+0 0 51962
+S
+
+#51964
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D1
+~
+~
+0 0 51965
+D3
+~
+~
+0 0 51968
+S
+
+#51965
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D1
+~
+~
+0 0 51966
+D3
+~
+~
+0 0 51964
+S
+
+#51966
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51973
+D1
+~
+~
+0 0 51967
+D3
+~
+~
+0 0 51965
+S
+
+#51967
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51972
+D2
+~
+~
+0 0 51957
+D3
+~
+~
+0 0 51966
+S
+
+#51968
+A Grass Path~
+{bThis path is barely visible through all the lush grass that grows upon
+it.  Minor imprints can be seen in the path, showing signs of use.  Upon
+closer inspection, the grass is also fake much like the dirt road.  That
+strange essence of before also looms over this village as well.  It is
+apparent that someone is trying to hide something from people by creating
+this incredibly realistic realm.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51978
+D1
+~
+~
+0 0 51964
+D2
+~
+~
+0 0 51954
+D3
+~
+~
+0 0 51963
+S
+
+#51969
+A Small Home~
+{c{bThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51955
+S
+
+#51970
+A Small Home~
+{c{bThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51956
+S
+
+#51971
+A Small Home~
+{c{bThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D3
+~
+~
+0 0 51957
+S
+
+#51972
+A Small Home~
+{c{bThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51967
+S
+
+#51973
+A Small Home~
+{c{bThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51966
+S
+
+#51974
+A Small Home~
+{c{bThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51961
+S
+
+#51975
+General Store~
+{bThe general store is where someone can buy basic needs such as food,
+drink, bags.  Taln happily restocks the shelves with fresh jugs of water and
+loaves of bread.  Most people who come here end up spending more time
+talking with the kind clerk than actually shopping for goods.  Taln is a
+humble man who knows when to help those in need by offering an ample supply
+of simple products.  {x 
+~
+0 0
+D1
+~
+~
+0 0 51960
+S
+
+#51976
+A Small Home~
+{c{bThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51959
+S
+
+#51977
+A Small Home~
+{c{bThis is a nicely sized home.  All the necessities for a comfortable
+life seem to be here.  A lot of effort must be needed to maintain such a
+lifestyle, but nobody can be seen working or attending to daily tasks in the
+house.  It feels as if nobody lives here.  The unspoiled and unlived in
+appearance of this house makes one wonder, is this too good to be true?{x  
+~
+0 0
+D2
+~
+~
+0 0 51958
+S
+
+#51978
+Inside A Mansion~
+{bThis mansion is poorly lit, so visibility is limited.  The walls are
+decorated with beautiful designs, which are outlined in thin golden thread. 
+A small lantern flickers on the wall, making the golden thread shimmer in
+the darkness.  Other than the designs nothing else in this room can be seen.
+{x 
+~
+0 0
+D1
+~
+~
+0 0 51979
+D2
+~
+~
+0 0 51968
+D3
+~
+~
+0 0 51980
+S
+
+#51979
+Inside A Mansion~
+{bThis mansion is poorly lit, so visibility is limited.  The walls are
+decorated with beautiful designs, which are outlined in thin golden thread. 
+A small lantern flickers on the wall, making the golden thread shimmer in
+the darkness.  Other than the designs nothing else in this room can be seen.
+{x 
+~
+0 0
+D0
+~
+~
+0 0 51982
+D3
+~
+~
+0 0 51978
+S
+
+#51980
+Inside A Mansion~
+{bThis mansion is poorly lit, so visibility is limited.  The walls are
+decorated with beautiful designs, which are outlined in thin golden thread. 
+A small lantern flickers on the wall, making the golden thread shimmer in
+the darkness.  Other than the designs nothing else in this room can be seen.
+{x 
+~
+0 0
+D0
+~
+~
+0 0 51981
+D1
+~
+~
+0 0 51978
+S
+
+#51981
+Inside A Mansion~
+{bThis mansion is poorly lit, so visibility is limited.  The walls are
+decorated with beautiful designs, which are outlined in thin golden thread. 
+A small lantern flickers on the wall, making the golden thread shimmer in
+the darkness.  A stairway lies ahead, leading to the second floor of the
+mansion.  {x 
+~
+0 0
+D2
+~
+~
+0 0 51980
+D4
+~
+~
+0 0 51984
+S
+
+#51982
+Inside A Mansion~
+{bThis mansion is poorly lit, so visibility is limited.  The walls are
+decorated with beautiful designs, which are outlined in thin golden thread. 
+A small lantern flickers on the wall, making the golden thread shimmer in
+the darkness.  A stairway lies ahead, leading to the second floor of the
+mansion.  {x 
+~
+0 0
+D2
+~
+~
+0 0 51979
+D4
+~
+~
+0 0 51983
+S
+
+#51983
+Inside A Mansion~
+{bThis mansion is poorly lit, so visibility is limited.  The walls are
+decorated with beautiful designs, which are outlined in thin golden thread. 
+A small lantern flickers on the wall, making the golden thread shimmer in
+the darkness.  A stairway is located by the near wall, leading back down to
+the first floor of the mansion.  {x 
+~
+0 0
+D2
+~
+~
+0 0 51987
+D5
+~
+~
+0 0 51982
+S
+
+#51984
+Inside A Mansion~
+{bThis mansion is poorly lit, so visibility is limited.  The walls are
+decorated with beautiful designs, which are outlined in thin golden thread. 
+A small lantern flickers on the wall, making the golden thread shimmer in
+the darkness.  A stairway is located by the near wall, leading back down to
+the first floor of the mansion.  {x 
+~
+0 0
+D2
+~
+~
+0 0 51985
+D5
+~
+~
+0 0 51981
+S
+
+#51985
+Inside A Mansion~
+{bThis mansion is poorly lit, so visibility is limited.  The walls are
+decorated with beautiful designs, which are outlined in thin golden thread. 
+A small lantern flickers on the wall, making the golden thread shimmer in
+the darkness.  Other than the designs nothing else in this room can be seen.
+{x 
+~
+0 0
+D0
+~
+~
+0 0 51984
+D1
+~
+~
+0 0 51986
+S
+
+#51986
+Inside A Mansion~
+{bThis mansion is poorly lit, so visibility is limited.  The walls are
+decorated with beautiful designs, which are outlined in thin golden thread. 
+A small lantern flickers on the wall, making the golden thread shimmer in
+the darkness.  Other than the designs nothing else in this room can be seen.
+{x 
+~
+0 0
+D0
+~
+~
+0 0 51989
+D1
+~
+~
+0 0 51987
+D3
+~
+~
+0 0 51985
+S
+
+#51987
+Inside A Mansion~
+{bThis mansion is poorly lit, so visibility is limited.  The walls are
+decorated with beautiful designs, which are outlined in thin golden thread. 
+A small lantern flickers on the wall, making the golden thread shimmer in
+the darkness.  Other than the designs nothing else in this room can be seen.
+{x 
+~
+0 0
+D0
+~
+~
+0 0 51983
+D3
+~
+~
+0 0 51986
+S
+
+#51989
+The Master's Quarters~
+{bThis is the room of the master of the mansion.  The room is decorated
+with only the most expensive and lavish furniture.  Silk blue tapestries
+cover the windows and the wall has a masterful mural of the master, wearing
+golden armor and wielding a jewel-hilted sword.  Every square inch of the
+floor is covered in a think plush carpet with an image of a wolf woven into
+it.  {x 
+~
+0 0
+D2
+~
+Door~
+0 0 51986
+S
+
+#51990
+A Collision of {*T{*i{*m{*e{x~
+{*The room wavers with energy, and there seems to be no beginning or end
+to this place.  Great explosions are seen as energy collides in this chaotic
+alternate universe.  Through all the confusion, a small hole below reveals
+the land from which this realm lurks over.  However, several other warps are
+swirling here, containing mysteries and possibly treasures.  Each path has
+its own benefits as well as consequences.  {x 
+~
+0 0
+D5
+~
+~
+0 0 51952
+S
+
+#51991
+A Path Through the Foliage~
+{gEverything in this familiar land has become very large.  There are
+plants that are as tall as trees, containing leaves that are over six feet
+long.  Even the grass grows to heights over five feet.  Above the gigantic
+jungle, smoke can be seen rising into the sky.  Faint sounds of grunts and
+howls can also be heard north of here.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51992
+S
+
+#51992
+Before the Huts~
+{gBeyond the huge jungle, a small clearing can be seen, containing
+several huts, tents, and a gigantic rock in the center.  The smoke also
+seems to be rising from this rock as well, but the people don't seem to be
+concerned.  A small dirt pathway leads directly to the clearing.  {x 
+~
+0 0
+D0
+~
+~
+0 0 51993
+D2
+~
+~
+0 0 51991
+S
+
+#51993
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 52011
+D1
+~
+~
+0 0 51994
+D2
+~
+~
+0 0 51992
+D3
+~
+~
+0 0 52010
+S
+
+#51994
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D1
+~
+~
+0 0 51995
+D3
+~
+~
+0 0 51993
+S
+
+#51995
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 52035
+D1
+~
+~
+0 0 51996
+D3
+~
+~
+0 0 51994
+S
+
+#51996
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 51997
+D3
+~
+~
+0 0 51995
+S
+
+#51997
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 51998
+D2
+~
+~
+0 0 51996
+D3
+~
+~
+0 0 52041
+S
+
+#51998
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 51999
+D2
+~
+~
+0 0 51997
+S
+
+#51999
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D2
+~
+~
+0 0 51998
+D3
+~
+~
+0 0 52000
+S
+
+#52000
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D1
+~
+~
+0 0 51999
+D3
+~
+~
+0 0 52001
+S
+
+#52001
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 52039
+D1
+~
+~
+0 0 52000
+D3
+~
+~
+0 0 52002
+S
+
+#52002
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 52040
+D1
+~
+~
+0 0 52001
+D3
+~
+~
+0 0 52003
+S
+
+#52003
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 52038
+D1
+~
+~
+0 0 52002
+D3
+~
+~
+0 0 52004
+S
+
+#52004
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D1
+~
+~
+0 0 52003
+D3
+~
+~
+0 0 52005
+S
+
+#52005
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D1
+~
+~
+0 0 52004
+D2
+~
+~
+0 0 52006
+S
+
+#52006
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 52005
+D1
+~
+~
+0 0 52037
+D2
+~
+~
+0 0 52007
+S
+
+#52007
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 52006
+D1
+~
+~
+0 0 52042
+D2
+~
+~
+0 0 52008
+S
+
+#52008
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 52007
+D1
+~
+~
+0 0 52009
+S
+
+#52009
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D0
+~
+~
+0 0 52036
+D1
+~
+~
+0 0 52010
+D3
+~
+~
+0 0 52008
+S
+
+#52010
+A Large Clearing~
+{gThere is very little here.  A few huts constructed of animal skins,
+mud, and sticks can be seen in the clearing.  The residents of this place
+are larger than normal humans.  Some can be seen tending to a fire
+while others are skinning and preparing their newly captured prey.  This
+tribe is very primitive compared to the village it will eventually become. 
+{x 
+~
+0 0
+D1
+~
+~
+0 0 51993
+D3
+~
+~
+0 0 52009
+S
+
+#52011
+Volcano Entrance~
+{gHere lies the source of the smoke.  From the look of the aged rock,
+this volcano has been inactive for hundreds of years.  A small crevasce has
+been formed in the volcano, allowing entrance, but it looks as if the people
+here have tried to conceal it with leaves and mud.  Whatever may be in here,
+it is something that is preferred to be forgotten.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52012
+D2
+~
+~
+0 0 51993
+S
+
+#52012
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D1
+~
+~
+0 0 52013
+D2
+~
+~
+0 0 52011
+D3
+~
+~
+0 0 52023
+S
+
+#52013
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D1
+~
+~
+0 0 52014
+D3
+~
+~
+0 0 52012
+S
+
+#52014
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D0
+~
+~
+0 0 52015
+D3
+~
+~
+0 0 52013
+S
+
+#52015
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D0
+~
+~
+0 0 52016
+D2
+~
+~
+0 0 52014
+S
+
+#52016
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D2
+~
+~
+0 0 52015
+D3
+~
+~
+0 0 52017
+S
+
+#52017
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D1
+~
+~
+0 0 52016
+D3
+~
+~
+0 0 52018
+S
+
+#52018
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D1
+~
+~
+0 0 52017
+D3
+~
+~
+0 0 52019
+D4
+~
+~
+0 0 52024
+S
+
+#52019
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D1
+~
+~
+0 0 52018
+D3
+~
+~
+0 0 52020
+S
+
+#52020
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D1
+~
+~
+0 0 52019
+D2
+~
+~
+0 0 52021
+S
+
+#52021
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D0
+~
+~
+0 0 52020
+D2
+~
+~
+0 0 52022
+S
+
+#52022
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D0
+~
+~
+0 0 52021
+D1
+~
+~
+0 0 52023
+S
+
+#52023
+{rInside the Volcano{x~
+{DThe inside of the volcano is practically hollow except for a large
+pillar that rises in the center.  Down below, a massive pool of molten lava
+bubbles and wavers, emitting a very hot glow through the thick black smoke. 
+There are flames that flicker along the rocky pathway.  However, these
+crackling flames seem alive.  These beings are probably what the primitive
+villagers feared.
+~
+1 0
+D1
+~
+~
+0 0 52012
+D3
+~
+~
+0 0 52022
+S
+
+#52024
+{rInside the Volcano{x~
+{DThe pathways are a lot narrower up here, and they are connected to the
+pillar in the center.  The pillar probably serves as a primitive pipe for
+the lava to flow through as the walls and floor here are very warm.  A few
+fire beings flicker about, staying very close to the slightly glowing
+pillar.  This enclosed area is free from the blinding smoke, and it seems
+this pathway circles the pillar.  {x 
+~
+0 0
+D3
+~
+~
+0 0 52025
+D5
+~
+~
+0 0 52018
+S
+
+#52025
+{rInside the Volcano{x~
+{DThe pathways are a lot narrower up here, and they are connected to the
+pillar in the center.  The pillar probably serves as a primitive pipe for
+the lava to flow through as the walls and floor here are very warm.  A few
+fire beings flicker about, staying very close to the slightly glowing
+pillar.  This enclosed area is free from the blinding smoke, and it seems
+this pathway circles the pillar.  {x 
+~
+0 0
+D1
+~
+~
+0 0 52024
+D2
+~
+~
+0 0 52026
+S
+
+#52026
+{rInside the Volcano{x~
+{DThe pathways are a lot narrower up here, and they are connected to the
+pillar in the center.  The pillar probably serves as a primitive pipe for
+the lava to flow through as the walls and floor here are very warm.  A few
+fire beings flicker about, staying very close to the slightly glowing
+pillar.  This enclosed area is free from the blinding smoke, and it seems
+this pathway circles the pillar.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52025
+D2
+~
+~
+0 0 52027
+S
+
+#52027
+{rInside the Volcano{x~
+{DThe pathways are a lot narrower up here, and they are connected to the
+pillar in the center.  The pillar probably serves as a primitive pipe for
+the lava to flow through as the walls and floor here are very warm.  A few
+fire beings flicker about, staying very close to the slightly glowing
+pillar.  This enclosed area is free from the blinding smoke, and it seems
+this pathway circles the pillar.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52026
+D1
+~
+~
+0 0 52028
+S
+
+#52028
+{rInside the Volcano{x~
+{DThe pathways are a lot narrower up here, and they are connected to the
+pillar in the center.  The pillar probably serves as a primitive pipe for
+the lava to flow through as the walls and floor here are very warm.  A few
+fire beings flicker about, staying very close to the slightly glowing
+pillar.  This enclosed area is free from the blinding smoke, and it seems
+this pathway circles the pillar.  {x 
+~
+0 0
+D1
+~
+~
+0 0 52029
+D3
+~
+~
+0 0 52027
+S
+
+#52029
+{rInside the Volcano{x~
+{DThe pathways are a lot narrower up here, and they are connected to the
+pillar in the center.  The pillar probably serves as a primitive pipe for
+the lava to flow through as the walls and floor here are very warm.  A few
+fire beings flicker about, staying very close to the slightly glowing
+pillar.  This enclosed area is free from the blinding smoke, and it seems
+this pathway circles the pillar.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52030
+D3
+~
+~
+0 0 52028
+S
+
+#52030
+{rInside the Volcano{x~
+{DThe pathways are a lot narrower up here, and they are connected to the
+pillar in the center.  The pillar probably serves as a primitive pipe for
+the lava to flow through as the walls and floor here are very warm.  A few
+fire beings flicker about, staying very close to the slightly glowing
+pillar.  This enclosed area is free from the blinding smoke, and it seems
+this pathway circles the pillar.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52031
+D2
+~
+~
+0 0 52029
+S
+
+#52031
+{rInside the Volcano{x~
+{DThe pathway is a lot narrower up here, and it is connected to the
+pillar in the center.  The pillar probably serves as a primitive pipe for
+the lava to flow through as the walls and floor here are very warm.  A
+circle of light is seen on the floor as there is an exit above.  Small
+jagged rocks provide a means to leave this small hell.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52030
+D4
+~
+~
+0 0 52032
+S
+
+#52032
+On a Thin Ledge~
+{gThis ledge is high above the ground, even higher than the jungle
+canopy.  The winds howl furiously at these heights, trying to scare whomever
+may wander here.  The relentless smoke bellows out of the top of the
+volcano, making it difficult to see anything, especially the very thin
+ledge.  The path seems to continue south.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52033
+D5
+~
+~
+0 0 52031
+S
+
+#52033
+On a Thin Ledge~
+{gThis ledge is high above the ground, even higher than the jungle
+canopy.  The winds howl furiously at these heights, trying to scare whomever
+may wander here.  The relentless smoke bellows out of the top of the
+volcano, making it difficult to see anything, especially the very thin
+ledge.  It seems like it is a dead end here.  Going back may be the only
+option.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52032
+D3
+~
+rock~
+0 0 52034
+S
+
+#52034
+{rA Secret Chamber{x~
+{DThis chamber is extremely hot since it is nearly surrounded by a moat
+of lava.  Many fire beings flicker along the walls toward one giant being in
+the center of the room.  Apparently, this is the leader of them, and he does
+not like intruding guests.  A magical mass swirls just below the leader. 
+Perhaps it serves as a means to leave this place since the entrance to this
+chamber has disappeared.  {x 
+~
+0 0
+D5
+~
+swirl~
+0 0 51991
+S
+
+#52035
+An Animal Skin Hut~
+{gThe inside of this hut is very warm due to the insulation that the
+animal skin provides.  A small firepit lies in the center of the floor,
+serving as both a source of heat and as a crude oven.  The floor is dirt
+with the exception of a few wolf skin rugs.  These rugs are likely the
+sleeping mats for whomever lives in this place.  A small hole in one of the
+walls provides the only source of natural light.  {x 
+~
+0 0
+D2
+~
+~
+0 0 51995
+S
+
+#52036
+An Animal Skin Hut~
+{gThe inside of this hut is very warm due to the insulation that the
+animal skin provides.  A small firepit lies in the center of the floor,
+serving as both a source of heat and as a crude oven.  The floor is dirt
+with the exception of a few wolf skin rugs.  These rugs are likely the
+sleeping mats for whomever lives in this place.  A small hole in one of the
+walls provides the only source of natural light.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52009
+S
+
+#52037
+An Animal Skin Hut~
+{gThe inside of this hut is very warm due to the insulation that the
+animal skin provides.  A small firepit lies in the center of the floor,
+serving as both a source of heat and as a crude oven.  The floor is dirt
+with the exception of a few wolf skin rugs.  These rugs are likely the
+sleeping mats for whomever lives in this place.  A small hole in one of the
+walls provides the only source of natural light.  {x 
+~
+0 0
+D3
+~
+~
+0 0 52006
+S
+
+#52038
+An Animal Skin Hut~
+{gThe inside of this hut is very warm due to the insulation that the
+animal skin provides.  A small firepit lies in the center of the floor,
+serving as both a source of heat and as a crude oven.  The floor is dirt
+with the exception of a few wolf skin rugs.  These rugs are likely the
+sleeping mats for whomever lives in this place.  A small hole in one of the
+walls provides the only source of natural light.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52003
+S
+
+#52039
+An Animal Skin Hut~
+{gThe inside of this hut is very warm due to the insulation that the
+animal skin provides.  A small firepit lies in the center of the floor,
+serving as both a source of heat and as a crude oven.  The floor is dirt
+with the exception of a few wolf skin rugs.  These rugs are likely the
+sleeping mats for whomever lives in this place.  A small hole in one of the
+walls provides the only source of natural light.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52001
+S
+
+#52040
+The Elder's Hut~
+{gThe elder's residence is better furnished than other hut, although that
+is not saying much.  The walls are decorated with various types of animal
+skins, while the floor sports many wolfskin rugs.  The elder sits upon a
+chair constructed of bones and pelts.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52002
+S
+
+#52041
+An Animal Skin Hut~
+{gThe inside of this hut is very warm due to the insulation that the
+animal skin provides.  A small firepit lies in the center of the floor,
+serving as both a source of heat and as a crude oven.  The floor is dirt
+with the exception of a few wolf skin rugs.  These rugs are likely the
+sleeping mats for whomever lives in this place.  A small hole in one of the
+walls provides the only source of natural light.  {x 
+~
+0 0
+D1
+~
+~
+0 0 51997
+S
+
+#52042
+An Animal Skin Hut~
+{gThe inside of this hut is very warm due to the insulation that the
+animal skin provides.  A small firepit lies in the center of the floor,
+serving as both a source of heat and as a crude oven.  The floor is dirt
+with the exception of a few wolf skin rugs.  These rugs are likely the
+sleeping mats for whomever lives in this place.  A small hole in one of the
+walls provides the only source of natural light.  {x 
+~
+0 0
+D3
+~
+~
+0 0 52007
+S
+
+#52043
+Just Outside a Town~
+{WThis town seems very advanced compared to the village.  Huge towers
+seem to disappear into the sky.  The trees here don't even exist as they are
+illusions created by powerful magic.  From this distance, it looks as if the
+citizens are flying throughout the town rather than walking.  Flashes of
+light can be seen further down the smooth marble path.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52044
+S
+
+#52044
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52064
+D1
+~
+~
+0 0 52045
+D2
+~
+~
+0 0 52043
+D3
+~
+~
+0 0 52055
+S
+
+#52045
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52056
+D1
+~
+~
+0 0 52046
+D3
+~
+~
+0 0 52044
+S
+
+#52046
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52047
+D3
+~
+~
+0 0 52045
+S
+
+#52047
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52048
+D2
+~
+~
+0 0 52046
+S
+
+#52048
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52047
+D3
+~
+~
+0 0 52049
+S
+
+#52049
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52062
+D1
+~
+~
+0 0 52048
+D3
+~
+~
+0 0 52050
+S
+
+#52050
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D1
+~
+~
+0 0 52049
+D3
+~
+~
+0 0 52051
+S
+
+#52051
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52060
+D1
+~
+~
+0 0 52050
+D3
+~
+~
+0 0 52052
+S
+
+#52052
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D1
+~
+~
+0 0 52051
+D2
+~
+~
+0 0 52053
+S
+
+#52053
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52052
+D2
+~
+~
+0 0 52054
+S
+
+#52054
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52053
+D1
+~
+~
+0 0 52055
+S
+
+#52055
+A Smooth Marble Path~
+{WThis village has become proficient in the use of arcane arts. 
+Everything here is protected by a magical aura, preventing aging and damage.
+The pathway itself is so clean that it reflects perfect images of whatever
+passes over.  It even stores the energy of the sun, so it can release it at
+night, providing a sufficient amount of light.  The grand towers seem to be
+encased in the same illuminating magic as the pathways.  The citizens here
+wear regal garments and use flying as their means of transportation.  Some
+of the younger residents try showing off , exhibiting many amazing magical
+feats.  {x 
+~
+0 0
+D0
+~
+~
+0 0 52058
+D1
+~
+~
+0 0 52044
+D3
+~
+~
+0 0 52054
+S
+
+#52056
+The Base of a Tower~
+{WThis is one of the four towers of this town, which protects the
+citizens from invaders by forming a magical barrier around the entire area. 
+A few wisemen can be seen at magically created screens, making sure the
+tower is working properly.  There is a teleporter at the far end of the
+room, which will take anyone to the next level of the tower.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52045
+S
+
+#52057
+Atop of a Tower~
+{WThe teleporter stops at the top floor of the tower.  A large crystal
+levitates in the center of the room, surrounded by an aura of pure energy. 
+More wisemen are here, checking calculations and charts, keeping the tower
+is perfect working order.  It seems that the tower absorbs solar energy,
+which supplies powers to all the machines in here.  Some stairs lead back
+down to the base of the tower.  {x 
+~
+0 0
+D5
+~
+~
+0 0 52056
+S
+
+#52058
+The Base of a Tower~
+{WThis is one of the four towers of this town, which protects the
+citizens from invaders by forming a magical barrier around the entire area. 
+A few wisemen can be seen at magically created screens, making sure the
+tower is working properly.  There is a teleporter at the far end of the
+room, which will take anyone to the next level of the tower.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52055
+S
+
+#52059
+Atop of a Tower~
+{WThe teleporter stops at the top floor of the tower.  A large crystal
+levitates in the center of the room, surrounded by an aura of pure energy. 
+More wisemen are here, checking calculations and charts, keeping the tower
+is perfect working order.  It seems that the tower absorbs solar energy,
+which supplies powers to all the machines in here.  Some stairs lead back
+down to the base of the tower.  {x 
+~
+0 0
+D5
+~
+~
+0 0 52058
+S
+
+#52060
+The Base of a Tower~
+{WThis is one of the four towers of this town, which protects the
+citizens from invaders by forming a magical barrier around the entire area. 
+A few wisemen can be seen at magically created screens, making sure the
+tower is working properly.  There is a teleporter at the far end of the
+room, which will take anyone to the next level of the tower.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52051
+S
+
+#52061
+Atop of a Tower~
+{WThe teleporter stops at the top floor of the tower.  A large crystal
+levitates in the center of the room, surrounded by an aura of pure energy. 
+More wisemen are here, checking calculations and charts, keeping the tower
+is perfect working order.  It seems that the tower absorbs solar energy,
+which supplies powers to all the machines in here.  Some stairs lead back
+down to the base of the tower.  {x 
+~
+0 0
+D5
+~
+~
+0 0 52060
+S
+
+#52062
+The Base of a Tower~
+{WThis is one of the four towers of this town, which protects the
+citizens from invaders by forming a magical barrier around the entire area. 
+A few wisemen can be seen at magically created screens, making sure the
+tower is working properly.  There is a teleporter at the far end of the
+room, which will take anyone to the next level of the tower.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52049
+S
+
+#52063
+Atop of a Tower~
+{WThe teleporter stops at the top floor of the tower.  A large crystal
+levitates in the center of the room, surrounded by an aura of pure energy. 
+More wisemen are here, checking calculations and charts, keeping the tower
+is perfect working order.  It seems that the tower absorbs solar energy,
+which supplies powers to all the machines in here.  Some stairs lead back
+down to the base of the tower.  {x 
+~
+0 0
+D5
+~
+~
+0 0 52062
+S
+
+#52064
+A Magical Transport~
+{WHere lies a magical portal that is encased with pure white marble. 
+This portal was not created by the townspeople, but by a force more powerful
+than them.  Many fear this portal due to the fact that anyone who has
+entered it has never returned.  It is an entity shrouded with uncertainty. 
+{x 
+~
+0 0
+D2
+~
+~
+0 0 52044
+S
+
+#52065
+{DA Scorched Path{x~
+{rThe marble road is barely visible under the dirt and debris.  The city
+seems to have been abandoned for decades, containing only a few survivors
+who roam the city remains in search of sustenance.  The darkness blankets
+this wasteland, and the blood red skies bring a sense of foreboding, it is
+an evil omen indeed.  {x 
+~
+1 0
+D0
+~
+~
+0 0 52070
+D1
+~
+~
+0 0 52066
+D2
+~
+~
+0 0 51940
+D3
+~
+~
+0 0 52068
+S
+
+#52066
+{DA Scorched Path{x~
+{rThe marble road is barely visible under the dirt and debris.  The city
+seems to have been abandoned for decades, containing only a few survivors
+who roam the city remains in search of sustenance.  The darkness blankets
+this wasteland, and the blood red skies bring a sense of foreboding, it is
+an evil omen indeed.  {x 
+~
+1 0
+D0
+~
+~
+0 0 52081
+D1
+~
+~
+0 0 52067
+D3
+~
+~
+0 0 52065
+S
+
+#52067
+{DA Dead End{x~
+{rThe rumble of a road has led to a dead end.  All that lies here is a
+giant pile of garbage, which seems to act as a blockade.  In most likely
+hood, there is probably a reason why this pile was constructed here.  Oddly
+enough, the debris and garbage from the ground move themselves to the pile. 
+Perhaps it is just the wind, or it could be something unknown which drives
+objects to this crude construction.  {x 
+~
+1 0
+D3
+~
+~
+0 0 52066
+S
+
+#52068
+{DA Scorched Path{x~
+{rThe marble road is barely visible under the dirt and debris.  The city
+seems to have been abandoned for decades, containing only a few survivors
+who roam the city remains in search of sustenance.  The darkness blankets
+this wasteland, and the blood red skies bring a sense of foreboding, it is
+an evil omen indeed.  {x 
+~
+1 0
+D0
+~
+~
+0 0 52080
+D1
+~
+~
+0 0 52065
+D3
+~
+~
+0 0 52069
+S
+
+#52069
+{DA Dead End{x~
+{rThe rumble of a road has led to a dead end.  All that lies here is a
+giant pile of garbage, which seems to act as a blockade.  In most likely
+hood, there is probably a reason why this pile was constructed here.  Oddly
+enough, the debris and garbage from the ground move themselves to the pile. 
+Perhaps it is just the wind, or it could be something unknown which drives
+objects to this crude construction.  {x 
+~
+1 0
+D1
+~
+~
+0 0 52068
+S
+
+#52070
+{DA Scorched Path{x~
+{rThe marble road is barely visible under the dirt and debris.  The city
+seems to have been abandoned for decades, containing only a few survivors
+who roam the city remains in search of sustenance.  The darkness blankets
+this wasteland, and the blood red skies bring a sense of foreboding, it is
+an evil omen indeed.  {x 
+~
+1 0
+D1
+~
+~
+0 0 52071
+D2
+~
+~
+0 0 52065
+D3
+~
+~
+0 0 52074
+S
+
+#52071
+{DA Scorched Path{x~
+{rThe marble road is barely visible under the dirt and debris.  The city
+seems to have been abandoned for decades, containing only a few survivors
+who roam the city remains in search of sustenance.  The darkness blankets
+this wasteland, and the blood red skies bring a sense of foreboding, it is
+an evil omen indeed.  {x 
+~
+1 0
+D0
+~
+~
+0 0 52072
+D3
+~
+~
+0 0 52070
+S
+
+#52072
+{DA Scorched Path{x~
+{rThe marble road is barely visible under the dirt and debris.  The city
+seems to have been abandoned for decades, containing only a few survivors
+who roam the city remains in search of sustenance.  The darkness blankets
+this wasteland, and the blood red skies bring a sense of foreboding, it is
+an evil omen indeed.  {x 
+~
+1 0
+D0
+~
+~
+0 0 52079
+D1
+~
+~
+0 0 52073
+D2
+~
+~
+0 0 52071
+S
+
+#52073
+{DA Dead End{x~
+{rThe rumble of a road has led to a dead end.  All that lies here is a
+giant pile of garbage, which seems to act as a blockade.  In most likely
+hood, there is probably a reason why this pile was constructed here.  Oddly
+enough, the debris and garbage from the ground move themselves to the pile. 
+Perhaps it is just the wind, or it could be something unknown which drives
+objects to this crude construction.  {x 
+~
+1 0
+D3
+~
+~
+0 0 52072
+S
+
+#52074
+{DA Scorched Path{x~
+{rThe marble road is barely visible under the dirt and debris.  The city
+seems to have been abandoned for decades, containing only a few survivors
+who roam the city remains in search of sustenance.  The darkness blankets
+this wasteland, and the blood red skies bring a sense of foreboding, it is
+an evil omen indeed.  {x 
+~
+1 0
+D0
+~
+~
+0 0 52076
+D1
+~
+~
+0 0 52070
+D3
+~
+~
+0 0 52075
+S
+
+#52075
+{DA Dead End{x~
+{rThe rumble of a road has led to a dead end.  All that lies here is a
+giant pile of garbage, which seems to act as a blockade.  In most likely
+hood, there is probably a reason why this pile was constructed here.  Oddly
+enough, the debris and garbage from the ground move themselves to the pile. 
+Perhaps it is just the wind, or it could be something unknown which drives
+objects to this crude construction.  {x 
+~
+1 0
+D1
+~
+~
+0 0 52074
+S
+
+#52076
+{DA Scorched Path{x~
+{rThe marble road is barely visible under the dirt and debris.  The city
+seems to have been abandoned for decades, containing only a few survivors
+who roam the city remains in search of sustenance.  The darkness blankets
+this wasteland, and the blood red skies bring a sense of foreboding, it is
+an evil omen indeed.  {x 
+~
+1 0
+D0
+~
+~
+0 0 52078
+D1
+~
+~
+0 0 52077
+D2
+~
+~
+0 0 52074
+S
+
+#52077
+{DA Dead End{x~
+{rThe rumble of a road has led to a dead end.  All that lies here is a
+giant pile of garbage, which seems to act as a blockade.  In most likely
+hood, there is probably a reason why this pile was constructed here.  Oddly
+enough, the debris and garbage from the ground move themselves to the pile. 
+Perhaps it is just the wind, or it could be something unknown which drives
+objects to this crude construction.  {x 
+~
+1 0
+D3
+~
+~
+0 0 52076
+S
+
+#52078
+{DTower Ruins{x~
+{rThis appears to be the ruins of an important building that once stood
+tall.  Research papers and shattered glass are strewn about the floor while
+a strong wind howls through the hole in the ceiling.  A small light pulsates
+randomly on a broken down teleporter.  It may well be functional, however,
+the destination of the teleporter may lead to a dangerous location.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52076
+S
+
+#52079
+{DTower Ruins{x~
+{rThis appears to be the ruins of an important building that once stood
+tall.  Research papers and shattered glass are strewn about the floor while
+a strong wind howls through the hole in the ceiling.  A small light pulsates
+randomly on a broken down teleporter.  It may well be functional, however,
+the destination of the teleporter may lead to a dangerous location.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52072
+S
+
+#52080
+{DTower Ruins{x~
+{rThis appears to be the ruins of an important building that once stood
+tall.  Research papers and shattered glass are strewn about the floor while
+a strong wind howls through the hole in the ceiling.  A teleporter lies in
+the rubbish, but appears to be destroyed beyond any means of restoration. 
+The exit from this tower lies south.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52068
+S
+
+#52081
+{DTower Ruins{x~
+{rThis appears to be the ruins of an important building that once stood
+tall.  Research papers and shattered glass are strewn about the floor while
+a strong wind howls through the hole in the ceiling.  A teleporter lies in
+the rubbish, but appears to be destroyed beyond any means of restoration. 
+The exit from this tower lies south.  {x 
+~
+0 0
+D2
+~
+~
+0 0 52066
+S
+
+#52082
+{DBehind A Pile of Garbage{x~
+{rThe teleporter has stopped behind one of the gigantic piles of garbage
+and debris.  A strange force can be detected here.  It seems to block the
+use of acrane powers in this room.  The clouds swirl directly overhead,
+while a mysterious figure can be seen further east.  {x 
+~
+0 0
+D1
+~
+~
+0 0 52083
+S
+
+#52083
+{DA Strange Energy Field{x~
+{rHere stands an amorphous shadow that can shift into any form it
+pleases.  From the looks of it's powerful aura, it probably possesses many
+magical abilities.  It seems to warp and distort the enviroment around it,
+and is probably the cause of all the trouble in this area.  The form grins
+evilly as it clenches its shapeless fist which causes all exits to
+disappear.  The only way out now seems to be slaying this foul demon. 
+However, this being is a master of illusions and may very well have just
+concealed the exits but not actually remove them.  {x 
+~
+33562624 0
+D1
+~
+rift in space~
+0 0 51940
+S
+#0
+
+#SPECIALS
+M 51912 spec_cast_mage
+M 51915 spec_cast_mage
+M 51916 spec_cast_mage
+M 51917 spec_cast_mage
+M 51918 spec_breath_lightning
+M 51920 spec_cast_mage
+S
+
+#RESETS
+M 100 51908 0 51903 1
+M 100 51909 0 51903 1
+M 100 51910 0 51904 1
+M 100 51910 0 51904 1
+M 100 51908 0 51904 1
+M 100 51908 0 51905 1
+M 100 51909 0 51905 1
+M 100 51909 0 51905 1
+M 100 51909 0 51906 1
+M 100 51908 0 51906 1
+M 100 51910 0 51907 1
+M 100 51908 0 51907 1
+M 100 51910 0 51908 1
+M 100 51910 0 51908 1
+M 100 51909 0 51908 1
+M 100 51909 0 51909 1
+M 100 51909 0 51909 1
+M 100 51909 0 51909 1
+M 100 51908 0 51909 1
+M 100 51910 0 51913 1
+M 100 51909 0 51913 1
+M 100 51909 0 51913 1
+M 100 51908 0 51914 1
+M 100 51910 0 51914 1
+M 100 51908 0 51915 1
+M 100 51909 0 51916 1
+M 100 51908 0 51917 1
+M 100 51910 0 51917 1
+M 100 51910 0 51917 1
+M 100 51910 0 51918 1
+M 100 51909 0 51918 1
+M 100 51909 0 51918 1
+M 100 51909 0 51919 1
+M 100 51910 0 51919 1
+M 100 51908 0 51920 1
+M 100 51909 0 51920 1
+M 100 51910 0 51921 1
+M 100 51910 0 51921 1
+M 100 51908 0 51922 1
+M 100 51910 0 51922 1
+M 100 51909 0 51923 1
+M 100 51909 0 51923 1
+M 100 51908 0 51923 1
+M 100 51908 0 51924 1
+M 100 51909 0 51924 1
+M 100 51910 0 51925 1
+M 100 51908 0 51925 1
+M 100 51908 0 51926 1
+M 100 51908 0 51926 1
+M 100 51908 0 51941 1
+M 100 51908 0 51941 1
+M 100 51910 0 51941 1
+M 100 51910 0 51941 1
+M 100 51901 0 51945 1
+G 100 51924 0
+G 100 51923 0
+G 100 51922 0
+G 100 51921 0
+G 100 51919 0
+G 100 51918 0
+O 100 51901 0 51946
+M 100 51902 0 51948 1
+G 100 51928 0
+G 100 51927 0
+G 100 51926 0
+G 100 51925 0
+O 100 51902 0 51951
+O 100 51904 0 51951
+O 100 51906 0 51951
+O 100 51913 0 51951
+M 100 51904 0 51954 1
+M 100 51906 0 51954 1
+M 100 51905 0 51954 1
+M 100 51904 0 51954 1
+M 100 51904 0 51955 1
+M 100 51904 0 51955 1
+M 100 51906 0 51956 1
+M 100 51906 0 51956 1
+M 100 51906 0 51957 1
+M 100 51905 0 51957 1
+M 100 51906 0 51958 1
+M 100 51905 0 51958 1
+M 100 51905 0 51959 1
+M 100 51906 0 51959 1
+M 100 51904 0 51960 1
+M 100 51906 0 51960 1
+M 100 51905 0 51960 1
+M 100 51904 0 51961 1
+M 100 51904 0 51962 1
+M 100 51904 0 51963 1
+M 100 51906 0 51965 1
+M 100 51906 0 51965 1
+M 100 51906 0 51965 1
+M 100 51905 0 51966 1
+M 100 51905 0 51966 1
+M 100 51905 0 51967 1
+M 100 51904 0 51967 1
+M 100 51906 0 51968 1
+M 100 51904 0 51968 1
+M 100 51905 0 51972 1
+M 100 51903 0 51975 1
+G 100 51932 0
+G 100 51931 0
+G 100 51930 0
+M 100 51922 0 51979 1
+M 100 51922 0 51980 1
+M 100 51922 0 51985 1
+M 100 51922 0 51987 1
+O 100 51903 0 51989
+M 100 51907 0 51989 1
+E 100 51938 0 18
+M 100 51911 0 51992 1
+M 100 51913 0 51992 1
+M 100 51913 0 51993 1
+M 100 51911 0 51993 1
+M 100 51913 0 51994 1
+M 100 51911 0 51994 1
+M 100 51911 0 51994 1
+M 100 51911 0 51995 1
+M 100 51913 0 51995 1
+M 100 51913 0 51996 1
+M 100 51913 0 51996 1
+E 100 51955 0 3
+M 100 51911 0 51997 1
+M 100 51911 0 51998 1
+M 100 51913 0 51998 1
+E 100 51955 0 3
+M 100 51913 0 51999 1
+M 100 51911 0 52000 1
+M 100 51911 0 52000 1
+E 100 51958 0 23
+M 100 51911 0 52001 1
+M 100 51913 0 52001 1
+M 100 51913 0 52002 1
+M 100 51911 0 52003 1
+M 100 51913 0 52004 1
+M 100 51911 0 52004 1
+E 100 51957 0 16
+M 100 51913 0 52005 1
+M 100 51913 0 52005 1
+M 100 51911 0 52006 1
+M 100 51913 0 52007 1
+M 100 51911 0 52007 1
+M 100 51911 0 52007 1
+M 100 51911 0 52008 1
+M 100 51913 0 52008 1
+E 100 51952 0 9
+M 100 51911 0 52009 1
+E 100 51953 0 0
+M 100 51913 0 52010 1
+E 100 51954 0 12
+M 100 51914 0 52012 1
+M 100 51914 0 52012 1
+M 100 51914 0 52013 1
+M 100 51914 0 52014 1
+M 100 51914 0 52015 1
+M 100 51914 0 52015 1
+M 100 51914 0 52015 1
+M 100 51914 0 52016 1
+M 100 51914 0 52017 1
+M 100 51914 0 52017 1
+M 100 51914 0 52018 1
+M 100 51914 0 52019 1
+M 100 51914 0 52019 1
+M 100 51914 0 52020 1
+M 100 51914 0 52021 1
+M 100 51914 0 52022 1
+M 100 51914 0 52022 1
+M 100 51914 0 52023 1
+M 100 51914 0 52024 1
+M 100 51914 0 52025 1
+M 100 51914 0 52025 1
+M 100 51914 0 52026 1
+M 100 51914 0 52026 1
+M 100 51914 0 52027 1
+M 100 51914 0 52028 1
+M 100 51914 0 52029 1
+M 100 51914 0 52030 1
+M 100 51914 0 52031 1
+M 100 51914 0 52031 1
+M 100 51914 0 52034 1
+M 100 51912 0 52034 1
+E 100 51942 0 16
+E 70 51936 0 10
+O 100 51939 0 52035
+O 100 51939 0 52036
+O 100 51939 0 52037
+O 100 51939 0 52038
+O 100 51939 0 52039
+M 100 51921 0 52040 1
+E 100 51960 0 20
+E 100 51956 0 1
+E 70 51937 0 7
+O 100 51940 0 52040
+O 100 51939 0 52041
+O 100 51905 0 52042
+O 100 51939 0 52042
+M 100 51915 0 52044 1
+M 100 51915 0 52044 1
+M 100 51916 0 52044 1
+M 100 51916 0 52045 1
+M 100 51917 0 52045 1
+M 100 51915 0 52046 1
+M 100 51915 0 52046 1
+E 100 51949 0 1
+M 100 51915 0 52047 1
+M 100 51916 0 52048 1
+M 100 51917 0 52048 1
+E 100 51948 0 21
+E 100 51951 0 6
+M 100 51916 0 52049 1
+M 100 51917 0 52050 1
+E 100 51941 0 12
+M 100 51915 0 52050 1
+M 100 51915 0 52051 1
+M 100 51916 0 52051 1
+M 100 51917 0 52051 1
+E 100 51948 0 21
+M 100 51915 0 52052 1
+M 100 51917 0 52052 1
+E 100 51948 0 21
+M 100 51916 0 52053 1
+E 100 51950 0 10
+M 100 51915 0 52054 1
+M 100 51916 0 52054 1
+M 100 51916 0 52054 1
+M 100 51916 0 52055 1
+M 100 51915 0 52055 1
+E 100 51949 0 1
+O 100 51907 0 52056
+M 100 51918 0 52056 1
+M 100 51918 0 52056 1
+O 100 51908 0 52057
+M 100 51918 0 52057 1
+O 100 51909 0 52058
+M 100 51918 0 52058 1
+M 100 51918 0 52058 1
+O 100 51908 0 52059
+M 100 51918 0 52059 1
+M 100 51918 0 52059 1
+O 100 51910 0 52060
+M 100 51918 0 52060 1
+M 100 51918 0 52060 1
+O 100 51908 0 52061
+M 100 51918 0 52061 1
+M 100 51918 0 52061 1
+O 100 51911 0 52062
+M 100 51918 0 52062 1
+M 100 51918 0 52062 1
+O 100 51934 0 52063
+P 40 51935 1 51934 0
+M 100 51918 0 52063 1
+M 100 51918 0 52063 1
+E 100 51948 0 18
+O 100 51912 0 52064
+M 100 51919 0 52065 1
+M 100 51919 0 52066 1
+M 100 51919 0 52067 1
+M 100 51919 0 52069 1
+E 100 51944 0 16
+M 100 51919 0 52070 1
+M 100 51919 0 52071 1
+M 100 51919 0 52072 1
+M 100 51919 0 52073 1
+E 100 51945 0 13
+M 100 51919 0 52074 1
+M 100 51919 0 52075 1
+E 100 51943 0 12
+M 100 51919 0 52076 1
+M 100 51919 0 52077 1
+O 100 51915 0 52078
+O 100 51914 0 52079
+O 100 51916 0 52080
+O 100 51917 0 52081
+M 100 51920 0 52083 1
+G 100 51962 0
+E 100 51961 0 16
+E 100 51947 0 3
+E 70 51933 0 5
+S
+
+#SHOPS
+51901 10 0 0 0 0 100 25 0 23
+51902 9 0 0 0 0 100 15 0 23
+51903 19 17 15 0 0 100 50 0 23
+0
+
+#$

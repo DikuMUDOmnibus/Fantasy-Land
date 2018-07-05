@@ -1,0 +1,600 @@
+#PLAYER
+Name Jorgsvald~
+Race human~
+Levl 25
+Clas thief~
+Pkpt 100
+TSex 1
+LogO 1353213607
+Sock adsl-74-160-50-221.asm.bellsouth.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1353181347
+Plat 21
+Gold 73
+Silv 80
+Exp  174492
+Attr 18 18 18 20 18
+Prom {x<{R%A{x/{r%H{xhp {B%B{x/{b%M{xm {G%Cmv {x<%X{Wxp{x>%c~
+Act  BCDEFGHJQT
+AfBy CDEFGHLTe
+ShBy K
+Comm NQ
+Config N
+Pos  8
+Alig  -696
+Sk 75 'backstab'
+Sk 1 'circle'
+Sk 1 'critical strike'
+Sk 76 'dagger'
+Sk 1 'disarm'
+Sk 75 'dodge'
+Sk 1 'dual wield'
+Sk 1 'fast healing'
+Sk 1 'fourth attack'
+Sk 1 'gouge'
+Sk 75 'haggle'
+Sk 75 'hand to hand'
+Sk 75 'hide'
+Sk 75 'kick'
+Sk 1 'knife fighter'
+Sk 75 'lore'
+Sk 75 'mace'
+Sk 75 'parry'
+Sk 75 'peek'
+Sk 75 'pick lock'
+Sk 76 'recall'
+Sk 1 'repair'
+Sk 1 'scrolls'
+Sk 75 'second attack'
+Sk 75 'sneak'
+Sk 1 'stalk'
+Sk 1 'staves'
+Sk 1 'steal'
+Sk 75 'sword'
+Sk 1 'third attack'
+Sk 1 'trap disarm'
+Sk 75 'trip'
+Sk 1 'wands'
+MaxDam 91
+LLev 2
+Pass JoIH/J9J/aZ5.~
+Plyd 11123
+Note 0 0 0 0 0
+Room 3365
+HMVN 1687 1677 870 855 1189 1184
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 5 19 4
+Deviant 0 0
+Prac 51
+Devote current 0
+Pnts 90
+Mkil 123
+Mdea 1
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+Affc 'stone skin'   0 108   0  26 -115  17          0
+Affc 'giant strength'   0 109   0  26   3   1 1073741824
+Affc 'fly'   0 104   0  87   0   0     524288
+Affc 'divine aura'   1 110   0  31   0   0       1024
+Affc 'detect neutral'   0 107   0  26   0   0        128
+Affc 'detect magic'   0 101   0  26   0   0         16
+Affc 'detect invis'   0 112   0  26   0   0          8
+Affc 'detect hidden'   0 108   0  26   0   0         32
+Affc 'detect good'   0 109   0  26   0   0         64
+Affc 'detect evil'   0 112   0  26   0   0          4
+Affc 'bless'   0 110   0  13 -14  20          0
+Affc 'bless'   0 110   0  13  14  18          0
+Affc 'farsight'   0   1   0  -1   0   0       2048
+End
+
+#O
+Vnum 3162
+Nest 0
+Name map new midgaard~
+ShD  A map of New Midgaard~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3163
+Nest 0
+Name map thera~
+ShD  a map of Western Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3169
+Nest 0
+Name map thera~
+ShD  a map of Eastern Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3703
+Nest 0
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Name dagger thothian ~
+ShD  A Thothian Dagger~
+Desc A small dagger made from Thoth lies here.~
+End
+
+#O
+Vnum 3704
+Nest 0
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+Wear 13
+End
+
+#O
+Vnum 3706
+Nest 0
+Name round thothian helmet~
+ShD  A Thothian Helmet~
+Desc A large round helmet made from Thoth is lying here.~
+Wear 6
+End
+
+#O
+Vnum 3711
+Nest 0
+Name thothian dark cape~
+ShD  A Thothian Cape~
+Desc A long dark cape finely made from Thoth lies here.~
+Wear 12
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+Wear 3
+End
+
+#O
+Vnum 723
+Nest 0
+Name exceptional veil Vitality special~
+ShD  Exceptional veil of Vitality~
+Desc A veil is here.~
+Loader MPOP: (15:12-11/17/2012) Jorgsvald~
+Cost 100
+Wear 20
+Valu 1 7 12
+Valu 2 7 12
+Valu 3 7 12
+Valu 4 7 4
+Affc 'reserved' 2 1 -1 2 5 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Name pair leather thothian sandals~
+ShD  A pair of Thothian Sandals~
+Desc A pair of leather sandals made from Thoth lies here.~
+Wear 8
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+Wear 15
+End
+
+#O
+Vnum 3728
+Nest 0
+Name thothian black eyepatch~
+ShD  A Thothian Eyepatch~
+Desc A thin but long black eyepatch of Thoth lies here.~
+Wear 27
+End
+
+#O
+Vnum 3709
+Nest 0
+Name leather thothian gloves~
+ShD  A pair of Thothian gloves~
+Desc Two leather gloves specially made from Thoth lie here.~
+Wear 9
+End
+
+#O
+Vnum 3710
+Nest 0
+Name pair leather sleeves thothian~
+ShD  A pair of Thothian arm braces~
+Desc A pair of fine-leathered sleeves made from Thoth lie here.~
+Wear 10
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+Wear 14
+End
+
+#O
+Vnum 3715
+Nest 0
+Name diploma school mud~
+ShD  a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x~
+Desc You see a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x here.~
+End
+
+#O
+Vnum 31087
+Nest 0
+Name potion invisibility~
+ShD  a Potion of Invisibility~
+Desc A strange potion of invisibility is lying here.~
+Cost 228
+Time 585
+End
+
+#O
+Vnum 31087
+Nest 0
+Name potion invisibility~
+ShD  a Potion of Invisibility~
+Desc A strange potion of invisibility is lying here.~
+Cost 144
+Time 545
+End
+
+#O
+Vnum 31087
+Nest 0
+Name potion invisibility~
+ShD  a Potion of Invisibility~
+Desc A strange potion of invisibility is lying here.~
+Cost 168
+Time 592
+End
+
+#O
+Vnum 31087
+Nest 0
+Name potion invisibility~
+ShD  a Potion of Invisibility~
+Desc A strange potion of invisibility is lying here.~
+Cost 211
+Time 861
+End
+
+#O
+Vnum 31087
+Nest 0
+Name potion invisibility~
+ShD  a Potion of Invisibility~
+Desc A strange potion of invisibility is lying here.~
+Time 837
+End
+
+#O
+Vnum 31087
+Nest 0
+Name potion invisibility~
+ShD  a Potion of Invisibility~
+Desc A strange potion of invisibility is lying here.~
+Cost 195
+Time 926
+End
+
+#O
+Vnum 17220
+Nest 0
+Name oil can~
+ShD  a small can of {8o{7i{8l{0~
+Desc A small can of {8o{7i{8l{0 rests on the ground.~
+Time 538
+End
+
+#O
+Vnum 17220
+Nest 0
+Name oil can~
+ShD  a small can of {8o{7i{8l{0~
+Desc A small can of {8o{7i{8l{0 rests on the ground.~
+Time 768
+End
+
+#O
+Vnum 17220
+Nest 0
+Name oil can~
+ShD  a small can of {8o{7i{8l{0~
+Desc A small can of {8o{7i{8l{0 rests on the ground.~
+Time 466
+End
+
+#O
+Vnum 17220
+Nest 0
+Name oil can~
+ShD  a small can of {8o{7i{8l{0~
+Desc A small can of {8o{7i{8l{0 rests on the ground.~
+Time 841
+End
+
+#O
+Vnum 17220
+Nest 0
+Name oil can~
+ShD  a small can of {8o{7i{8l{0~
+Desc A small can of {8o{7i{8l{0 rests on the ground.~
+Time 705
+End
+
+#O
+Vnum 17220
+Nest 0
+Name oil can~
+ShD  a small can of {8o{7i{8l{0~
+Desc A small can of {8o{7i{8l{0 rests on the ground.~
+Time 922
+End
+
+#O
+Vnum 17220
+Nest 0
+Name oil can~
+ShD  a small can of {8o{7i{8l{0~
+Desc A small can of {8o{7i{8l{0 rests on the ground.~
+Wear 17
+Time 595
+End
+
+#O
+Vnum 17218
+Nest 0
+Name key~
+ShD  {1Key{7 #12{0~
+Desc A small key in the shape of a twelve rests on the ground.~
+End
+
+#O
+Vnum 9513
+Nest 0
+Name scimitar~
+ShD  a {&scimitar{x~
+Desc A scimitar lies here.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 4
+End
+
+#O
+Vnum 9519
+Nest 0
+Name splintmail splint mail suit~
+ShD  a {!suit {xof {8splintmail{x~
+Desc A suit of splintmail armor lies here.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 4
+End
+
+#O
+Vnum 9521
+Nest 0
+Name splinted shield~
+ShD  a {3splinted {7shield{x~
+Desc A splinted shield lies here.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 4
+End
+
+#O
+Vnum 9513
+Nest 0
+Name scimitar~
+ShD  a {&scimitar{x~
+Desc A scimitar lies here.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 4
+Wear 16
+End
+
+#O
+Vnum 9519
+Nest 0
+Name splintmail splint mail suit~
+ShD  a {!suit {xof {8splintmail{x~
+Desc A suit of splintmail armor lies here.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 4
+Wear 5
+End
+
+#O
+Vnum 9521
+Nest 0
+Name splinted shield~
+ShD  a {3splinted {7shield{x~
+Desc A splinted shield lies here.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 4
+Wear 11
+End
+
+#O
+Vnum 17207
+Nest 0
+Name key~
+ShD  {1Key{7 #1{0~
+Desc A small key in the shape of a one rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 23
+End
+
+#O
+Vnum 17208
+Nest 0
+Name key~
+ShD  {1Key{7 #2{0~
+Desc A small key in the shape of a two rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 24
+End
+
+#O
+Vnum 17209
+Nest 0
+Name key~
+ShD  {1Key{7 #3{0~
+Desc A small key in the shape of a three rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 25
+End
+
+#O
+Vnum 17215
+Nest 0
+Name key~
+ShD  {1Key{7 #9{0~
+Desc A small key in the shape of a nine rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 25
+End
+
+#O
+Vnum 17216
+Nest 0
+Name key~
+ShD  {1Key{7 #10{0~
+Desc A small key in the shape of a ten rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 26
+End
+
+#O
+Vnum 17217
+Nest 0
+Name key~
+ShD  {1Key{7 #11{0~
+Desc A small key in the shape of an eleven rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 27
+End
+
+#O
+Vnum 17212
+Nest 0
+Name key~
+ShD  {1Key{7 #6{0~
+Desc A small key in the shape of a six rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 29
+End
+
+#O
+Vnum 17213
+Nest 0
+Name key~
+ShD  {1Key{7 #7{0~
+Desc A small key in the shape of a seven rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 30
+End
+
+#O
+Vnum 17214
+Nest 0
+Name key~
+ShD  {1Key{7 #8{0~
+Desc A small key in the shape of an eight rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 31
+End
+
+#O
+Vnum 17210
+Nest 0
+Name key~
+ShD  {1Key{7 #4{0~
+Desc A small key in the shape of a four rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 32
+End
+
+#O
+Vnum 17211
+Nest 0
+Name key~
+ShD  {1Key{7 #5{0~
+Desc A small key in the shape of a five rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 32
+End
+
+#O
+Vnum 17224
+Nest 0
+Name screwdriver~
+ShD  a screwdriver~
+Desc A small screwdriver rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 35
+End
+
+#O
+Vnum 17226
+Nest 0
+Name tool belt toolbelt~
+ShD  a {7Tool {4Belt{0~
+Desc A tool belt rests on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 35
+End
+
+#O
+Vnum 17223
+Nest 0
+Name eyes cat mechanicl~
+ShD  the {3Glowing{0 Eyes of the {&M{7e{0c{8h{0an{8i{0c{7a{&l{0 {4cat{0~
+Desc A pair of glowing amethysts rest on the ground~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 36
+Valu 2 1 -1
+End
+
+#O
+Vnum 17227
+Nest 0
+Name cuckoo~
+ShD  a {3c{5u{3ck{5o{3o{0~
+Desc A {3c{5u{3ck{5o{3o{0 lies on the ground.~
+MULTI Jorgsvald~ adsl-74-160-50-221.asm.bellsouth.net~ 37
+End
+

@@ -1,0 +1,587 @@
+#PLAYER
+Name Sephiroth~
+Race titan~
+Levl 40
+Clas warrior~
+Pkpt 100
+TSex 1
+LogO 1352168056
+Sock 70-36-139-194.dsl.dynamic.sonic.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1263495218
+Plat 27
+Gold 91
+Silv 57
+Exp  57971
+Attr 27 17 16 14 25
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+AfBy CDEFGHLTUVZce
+ShBy BCDEFGHIJKLR
+Comm NQ
+Pos  8
+Alig  1000
+Sk 75 'bash'
+Sk 75 'berserk'
+Sk 75 'dagger'
+Sk 76 'dodge'
+Sk 75 'dual wield'
+Sk 78 'enhanced damage'
+Sk 75 'fourth attack'
+Sk 75 'hand to hand'
+Sk 87 'kick'
+Sk 75 'lunge'
+Sk 75 'parry'
+Sk 75 'recall'
+Sk 75 'rub'
+Sk 1 'scrolls'
+Sk 75 'second attack'
+Sk 75 'sharpen'
+Sk 75 'shield smash'
+Sk 1 'staves'
+Sk 75 'stun'
+Sk 85 'sword'
+Sk 1 'tackle'
+Sk 76 'third attack'
+Sk 1 'wands'
+MaxDam 126
+LLev 1
+Pass SemCycN8w236U~
+Plyd 7069
+Note 1325216857 0 0 1325227163 1325220243
+Room 3023
+HMVN 3733 2996 1837 1737 1401 1196
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 17 28
+Deviant 1 1
+Prac 122
+Trai 43
+Devote current 0
+Pnts 43
+Mkil 154
+TotalCmpl 1
+TotalPnts 16
+TotalAttm 4
+TotalFail 3
+QuestPnts 16
+Alias . ooc~
+Gr 'rom basics'
+Gr 'warrior basics'
+Affc 'farsight'   0   1   0  -1   0   0       2048
+Affc 'regeneration'   0   0   0  -1   0   0  268435456
+Affc 'acidshield'   1 115   0  25   0   0       2048
+Affc 'armor'   0 114   0  20 -115  17          0
+Affc 'awen'   0 114   0  20  28  18          0
+Affc 'awen'   0 114   0  20  28  19          0
+Affc 'barkskin'   0 115   0  20 -115  17          0
+Affc 'bless'   0 114   0  41  14  18          0
+Affc 'bless'   0 115   0  41 -14  20          0
+Affc 'constitution'   0 114   0   8   3   5          0
+Affc 'darkvision'   0 115   0  25   0   0   33554432
+Affc 'detect evil'   0 114   0  54   0   0          4
+Affc 'detect good'   0 114   0  54   0   0         64
+Affc 'detect hidden'   0 115   0  54   0   0         32
+Affc 'detect invis'   0 113   0  54   0   0          8
+Affc 'detect magic'   0 115   0  54   0   0         16
+Affc 'detect neutral'   0 114   0  54   0   0        128
+Affc 'devotion'   0 114   0   8 -22  20          0
+Affc 'divine aura'   1 115   0  59   0   0       1024
+Affc 'faith'   0 114   0  20  57  19          0
+Affc 'faith'   0 114   0  20  57  18          0
+Affc 'faith'   4 115   0  20 -23  14          0
+Affc 'fireshield'   1 115   0  25   0   0          8
+Affc 'fly'   0 114   0 115   0   0     524288
+Affc 'giant strength'   0 114   0  54   3   1 1073741824
+Affc 'golden armor'   4 113   0   8 -16  20          0
+Affc 'golden armor'   4 114   0   8 -16  17          0
+Affc 'golden armor'   4 114   0   8 -16   1          0
+Affc 'haste'   0 113   0  25   3   2    2097152
+Affc 'iceshield'   1 115   0  25   0   0          4
+Affc 'intellect'   0 114   0   8   3   3          0
+Affc 'invisibility'   1 114   0  54   0   0          2
+Affc 'pass door'   0 115   0  25   0   0    1048576
+Affc 'rockshield'   1 115   0  25   0   0         32
+Affc 'sanctuary'   1 115   0  16   0   0        128
+Affc 'shield'   0 114   0  25 -38  17          0
+Affc 'shockshield'   1 113   0  25   0   0         16
+Affc 'shrapnelshield'   1 115   0  25   0   0         64
+Affc 'stone skin'   0 114   0  54 -115  17          0
+Affc 'thornshield'   1 114   0  25   0   0        256
+Affc 'vampiricshield'   1 113   0  25   0   0        512
+Affc 'vigorize'   0 114   0   1 622  13          0
+Affc 'watershield'   1 115   0  25   0   0     131072
+Affc 'wisdom'   0 115   0   8   3   4          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Name round oval sphere reddish orange~
+ShD  A Strange Reddish-Orange Sphere~
+Desc A round oval-like sphere glowing reddish-orange is settled here on the ground.~
+Cost 0
+Wear 0
+Valu 2 1 47
+End
+
+#O
+Vnum 3703
+Nest 0
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Name sword thothian~
+ShD  A Thothian Sword~
+Desc A long curved sword made from Thoth lies here.~
+End
+
+#O
+Vnum 3704
+Nest 0
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3706
+Nest 0
+Name round thothian helmet~
+ShD  A Thothian Helmet~
+Desc A large round helmet made from Thoth is lying here.~
+End
+
+#O
+Vnum 3711
+Nest 0
+Name thothian dark cape~
+ShD  A Thothian Cape~
+Desc A long dark cape finely made from Thoth lies here.~
+Wear 12
+End
+
+#O
+Vnum 3725
+Nest 0
+Name ancient symbol thothian~
+ShD  The symbol of a Thothian Warrior~
+Desc An ancient symbol of a Thothian warrior has been disregarded here.~
+Wear 26
+End
+
+#O
+Vnum 3707
+Nest 0
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+Wear 13
+End
+
+#O
+Vnum 3726
+Nest 0
+Name earring thothian~
+ShD  A Thothian Earring~
+Desc A crystallized earring shaped in a "T" lies here.~
+Wear 21
+End
+
+#O
+Vnum 3708
+Nest 0
+Name pair leather thothian sandals~
+ShD  A pair of Thothian Sandals~
+Desc A pair of leather sandals made from Thoth lies here.~
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+Wear 15
+End
+
+#O
+Vnum 3724
+Nest 0
+Name ring thothian ~
+ShD  A Thothian-made Ring~
+Desc A small ring with the engraving "T" is lying here.~
+End
+
+#O
+Vnum 756
+Nest 0
+Name wristguard guard exceptional~
+ShD  exceptional wristguard~
+Desc A wristguard is here.~
+Loader MPOP: (11:04-01/14/2010) Sephiroth~
+ExtF IW
+Cost 1500
+Wear 14
+Valu 1 7 8
+Valu 2 7 6
+Valu 3 7 6
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+Wear 25
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+Wear 24
+End
+
+#O
+Vnum 3727
+Nest 0
+Name abandoned mask~
+ShD  An abandoned mask~
+Desc An abandoned mask is lying here eyeless and mouthless.~
+End
+
+#O
+Vnum 3728
+Nest 0
+Name thothian black eyepatch~
+ShD  A Thothian Eyepatch~
+Desc A thin but long black eyepatch of Thoth lies here.~
+Wear 27
+End
+
+#O
+Vnum 3709
+Nest 0
+Name leather thothian gloves~
+ShD  A pair of Thothian gloves~
+Desc Two leather gloves specially made from Thoth lie here.~
+Wear 9
+End
+
+#O
+Vnum 3710
+Nest 0
+Name pair leather sleeves thothian~
+ShD  A pair of Thothian arm braces~
+Desc A pair of fine-leathered sleeves made from Thoth lie here.~
+Wear 10
+End
+
+#O
+Vnum 3715
+Nest 0
+Name diploma school mud~
+ShD  a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x~
+Desc You see a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x here.~
+Wear 17
+End
+
+#O
+Vnum 2525
+Nest 0
+Name fangs spider~
+ShD  the fangs of the giant spider~
+Desc A nasty set of fangs from a spider lies here.~
+Wear 20
+End
+
+#O
+Vnum 2526
+Nest 0
+Name arm~
+ShD  a dragging decapitated arm~
+Desc A bloody cut-off arm lies here looking for attachment.~
+Wear 18
+End
+
+#O
+Vnum 2529
+Nest 0
+Name trident demon~
+ShD  the trident of the demon~
+Desc A long flaming trident from a demon lies here.~
+End
+
+#O
+Vnum 2512
+Nest 0
+Name silver spiked anklet~
+ShD  a silver spiked anklet~
+Desc A shiny anklet with sharp spikes lies here.~
+Wear 23
+End
+
+#O
+Vnum 798
+Nest 0
+Name cracked shortsword the Ox special~
+ShD  Cracked shortsword of the Ox~
+Desc A shortsword is here.~
+Loader MPOP: (00:41-01/15/2010) Sephiroth~
+Lev  33
+Cost 50
+Affc 'reserved' 2 1 -1 4 1 0
+End
+
+#O
+Vnum 798
+Nest 0
+Name shortsword exceptional~
+ShD  exceptional shortsword~
+Desc A shortsword is here.~
+Loader MPOP: (00:41-01/15/2010) Sephiroth~
+Cost 1500
+Valu 4 5 F
+End
+
+#O
+Vnum 31072
+Nest 0
+Name metallic skirt~
+ShD  a Metallic Skirt~
+Desc A wide double-layered skirt of silver lies here.~
+End
+
+#O
+Vnum 31018
+Nest 0
+Name pair ice boots~
+ShD  a Pair of Ice-Filled Boots~
+Desc A soggy wet pair of ice-filled boots lies here.~
+Wear 8
+End
+
+#O
+Vnum 2516
+Nest 0
+Name brazziere bra~
+ShD  a revealing skin-tight brazziere~
+Desc A very skimpy brazziere lies here for you to try wearing.~
+Wear 5
+End
+
+#O
+Vnum 2529
+Nest 0
+Name trident demon~
+ShD  the trident of the demon~
+Desc A long flaming trident from a demon lies here.~
+Wear 16
+End
+
+#O
+Vnum 2530
+Nest 0
+Name demonic horns pair~
+ShD  a pair of demonic horns~
+Desc A pair of sharp demonic horns lies here.~
+Wear 6
+End
+
+#O
+Vnum 31024
+Nest 0
+Name elven ring~
+ShD  a Small Elven Ring~
+Desc A strange shiny ring made of elven lore lies here.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 10
+Wear 2
+End
+
+#O
+Vnum 31016
+Nest 0
+Name knight helmet~
+ShD  a Knight's Helmet~
+Desc A helmet of a royal knight lies here.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 15
+End
+
+#O
+Vnum 31015
+Nest 0
+Name emblemed shield~
+ShD  an Emblemed Shield~
+Desc A huge shield with a strange diamond emblem lies here.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 15
+End
+
+#O
+Vnum 31014
+Nest 0
+Name silver lance chrome~
+ShD  a Long Silver Lance~
+Desc A long sharp lance with a chrome layering lies here.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 15
+End
+
+#O
+Vnum 31071
+Nest 0
+Name Kratasian Plate Mail~
+ShD  a Kratasian Plate Mail~
+Desc A heavy suit of plate armor lies here.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 16
+End
+
+#O
+Vnum 3009
+Nest 0
+Name ramen noodle soup~
+ShD  {rr{ma{rm{me{rn {wn{yo{wo{yd{wl{ye {ws{yo{wu{yp{x~
+Desc A hot bowl of ramen noodle soup with a healthy dose of tabasco has been left here.~
+End
+
+#O
+Vnum 3009
+Nest 0
+Name ramen noodle soup~
+ShD  {rr{ma{rm{me{rn {wn{yo{wo{yd{wl{ye {ws{yo{wu{yp{x~
+Desc A hot bowl of ramen noodle soup with a healthy dose of tabasco has been left here.~
+End
+
+#O
+Vnum 31023
+Nest 0
+Name wooden leg~
+ShD  a Wooden Leg~
+Desc A small leg used to stick your leg in lies here.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 21
+End
+
+#O
+Vnum 31022
+Nest 0
+Name black eyepatch~
+ShD  an Eyepatch~
+Desc A small black eyepatch lies here for you to wear.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 21
+End
+
+#O
+Vnum 31021
+Nest 0
+Name golden bracer~
+ShD  a Golden Bracer~
+Desc A small sparkling bracer lies here with a golden aura about it.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 21
+End
+
+#O
+Vnum 31026
+Nest 0
+Name bronze necklace~
+ShD  a Bronze Necklace~
+Desc A bizarre necklace made of bronze lies here.~
+Wear 4
+End
+
+#O
+Vnum 31096
+Nest 0
+Name pair snow boots~
+ShD  a Pair of Worn Snow Boots~
+Desc A long pair of boots worn over the ankles lies here covered with snow.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 26
+End
+
+#O
+Vnum 31026
+Nest 0
+Name bronze necklace~
+ShD  a Bronze Necklace~
+Desc A bizarre necklace made of bronze lies here.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 29
+Wear 3
+End
+
+#O
+Vnum 31017
+Nest 0
+Name black sash pockets~
+ShD  a Black Sash of Holding~
+Desc A long black sash with several pockets lies here.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 31
+End
+
+#O
+Vnum 769
+Nest 0
+Name dagger exceptional~
+ShD  exceptional dagger~
+Desc A dagger is here.~
+Loader MPOP: (01:33-01/15/2010) Sephiroth~
+Cost 1500
+Valu 4 5 H
+End
+
+#O
+Vnum 31024
+Nest 0
+Name elven ring~
+ShD  a Small Elven Ring~
+Desc A strange shiny ring made of elven lore lies here.~
+MULTI Sephiroth~ ppp-71-139-196-113.dsl.snfc21.pacbell.net~ 32
+Wear 1
+End
+
+#O
+Vnum 741
+Nest 0
+Name shield normal~
+ShD  shield~
+Desc A shield is here.~
+Loader MPOP: (01:38-01/15/2010) Sephiroth~
+End
+
+#END

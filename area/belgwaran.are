@@ -1,0 +1,2822 @@
+#AOD_AREA
+Bel'Gwaran's Castle~
+37100 37199 C 9
+Levl 1 60
+Bldr Harbingr~
+End
+
+#MOBILES
+#37100
+Guard castle~
+a Castle Guard~
+A Guard stands here, protecting the castle from the likes of you.
+~
+You see before you a guard of Bel'Gwaran's castle.  He is dressed in
+shining plate armor, and he wields an extremely sharp long sword.  Although
+he stares straight ahead at all times, you are sure that he is aware of your
+presence.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT V 0 1000 0
+78 171 0 1946 2060 536 623 39 78 156 cleave
+-170 -170 -170 -80
+STANDING STANDING male 1000
+0 mage medium ABCDEFGHIJK
+W 8
+
+#37101
+Gyrod~
+Gyrod~
+Apparantly this guest has made this his permanent room.
+~
+You look at Gyrod, and ponder how he might have gotten his own room here.
+He is a bit of a slob as elves go, but you can tell by the way he looks you
+over that he is not one to be trifled with.  Gyrod grins at you and asks,
+"Can I help you?"  .  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABT EFJV HO 750 0
+72 155 0 1741 1870 2863 3264 36 72 144 none
+-130 -130 -130 -80
+STANDING STANDING male 100
+0 mage medium ABCDEFGHIJK
+W 1
+
+#37102
+Demon gate keeper gatekeeper~
+the Gatekeeper~
+Bel'Gwaran's gatekeeper stands here.
+~
+~
+human~
+100 50 0 150 100 100 50 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100 150 100 100 100 
+ABT CDFTV H 0 0
+84 202 0 4411 4809 4423 4792 42 84 168 none
+-170 -170 -170 -90
+STANDING STANDING neutral 0
+0 mage huge ABCDEFGHIJK
+
+#37103
+Bel Gwaren BelGwaran mage~
+Bel'Gwaran~
+The great mage Bel'Gwaran stands here, a look of kindness on his face.
+~
+Bel'Gwaran stands before you, a kindly looking old man.  He wields a
+glowing wooden staff that pulses with energy, and he taps it on the floor
+and says, "What are you doing here?  Do I know you?"  .  He mumbles
+something under his breath about unwanted guests, then looks up and says,
+"Well, make yourself at home, then."  
+~
+dragon~
+0 50 50 150 100 100 50 100 100 100 100 100 50 100 100 100 100 150 100 100 50 100 100 100 100 100 
+ABCEGLMNOPQRSTU DFJTVc CDEHNO 1000 1901
+145 50 0 30000 30000 18480 21681 72 145 55 divine
+-900 -900 -900 -900
+STANDING STANDING neutral 10000
+0 mage huge ACDEFGHIJKPQUVX
+W 1
+
+#37104
+server waitress~
+a server~
+A server of the castle stands here, carrying some food.
+~
+A server of the castle looks at you as you pass by.  She smiles wickedly
+and says, "Can I get you anything?"  .  Before you can answer, she turns and
+walks away, and gets a tray of food.  She then carries the food out of the
+kitchen into the great hall.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGQ V 0 200 0
+72 217 0 1672 2039 1526 1772 36 72 144 none
+-160 -160 -160 -80
+STANDING STANDING female 15
+0 mage medium ABCDEFGHIJK
+W 4
+
+#37105
+spider giant~
+a Giant Spider~
+A Giant Spider drops down on you from the ceiling!
+~
+As soon as you enter the room, a giant spider drops down on you!  It
+stands about five feet tall and is about fifteen feet long.  Its fangs drip
+with venom, and all eight of its eyes stare directly at you.  
+~
+centipede~
+100 150 100 150 100 100 150 100 100 100 100 100 100 50 100 100 100 150 100 100 100 100 100 100 100 100 
+ABF JQZ 0 -1000 0
+66 110 0 1872 2865 1471 1670 33 66 99 bite
+-90 -110 -100 -70
+STANDING STANDING female 0
+0 mage large ACK
+W 1
+
+#37106
+chef~
+the Head Chef~
+The Head Chef is here, preparing the meals for the castle.
+~
+As you look at the head chef, he turns to you and says, "What are you
+doing in my kitchen?  Could you please get back into the dining room?  The
+food will be ready soon!  Sheesh!"  He then turns and walks away from you. 
+You can guess that his job is rather stressful.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGS CV H -1000 0
+78 216 0 1651 1760 1455 1643 39 78 156 none
+-230 -230 -230 -80
+STANDING STANDING neutral 10
+0 mage medium ABCDEFGHIJK
+W 1
+
+#37107
+lady Teldra~
+the Lady Teldra~
+Lady Teldra stands here, welcoming you to the castle.
+~
+The Lady Teldra stands before you, smiling brightly.  She is perhaps one
+of the most beautiful elves you have ever seen.  She stands about six feet
+tall, and her long golden blonde hair is framed by a shining tiara.  She
+looks at you sweetly, and says, "Welcome to the castle...  You are free to
+stay for a maximum of seventeen days, after which you must vacate.  You are
+allowed free reign of the castle, but beware...  All is not as it seems." 
+She smiles devilishly, and opens the castle doors.  
+~
+human~
+100 100 50 100 100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 150 100 
+ABQ DGJL HP 1000 0
+84 186 0 2812 3523 1702 1981 42 84 168 magic
+-240 -240 -240 -100
+STANDING STANDING female 10000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#37108
+ylaine elf elven scholar~
+Ylaine~
+An Elven scholar sits here, reading a book.
+~
+A beautiful, fine-boned elven woman sits here, reading a book.  You tip
+your hat to her, but she does not respond, so absorbed is she in her book. 
+You decide to let her study in peace.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABQ CJ H 1000 0
+72 202 0 1917 2153 1551 1741 36 72 144 punch
+-150 -150 -150 -80
+STANDING STANDING female 30
+0 mage medium ABCDEFGHIJK
+W 1
+
+#37110
+kitchen worker~
+a kitchen worker~
+A kitchen worker stands here, chopping food for dinner.
+~
+A kitchen worker stands here, dressed in checkered pants and a chef's
+jacket.  He is chopping up some herbs on a cutting board and putting them
+into a big pot.  He then sticks his finger in the pot, and sticks it in his
+mouth.  "More sage...  Definately more sage."  , you hear him mutter.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGHS 0 0 0 0
+72 136 0 3345 4363 1324 1508 36 72 144 slice
+-140 -140 -140 -80
+STANDING STANDING male 30
+0 mage medium ABCDEFGHIJK
+W 2
+
+#37111
+frost beast~
+the Frost Beast~
+The Beast that lives in the freezer is here, and he's really upset.
+~
+The Frost Beast stands before you, growling his head off.  He stands
+about ten feet tall, and is covered in a blueish-white colored fur.  His
+hide looks so thick you wonder if your weapon will even hurt him.  He snarls
+and attacks!  
+~
+bear~
+100 50 100 50 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABF Q 0 -1000 0
+96 233 0 2874 7096 1597 1786 48 96 192 charge
+-250 -250 -250 -100
+STANDING STANDING male 15
+0 mage huge ABCDEFHJKUV
+W 1
+
+#37112
+guest~
+a guest~
+A guest of the castle sits on one of the couches.
+~
+A small halfling man sits on a couch in front of the fire.  He is smoking
+a long wooden pipe, and trails of smoke waft out of his mouth, forming some
+interesting patterns in the air.  He seems completely oblivious of your
+presence.  
+~
+human~
+150 100 150 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABR DV HN 600 0
+72 179 0 1752 1879 1416 1753 36 72 144 punch
+-150 -150 -130 -80
+STANDING STANDING male 6
+0 mage medium ABCDEFGHIJK
+W 1
+
+#37113
+eagle giant familiar~
+Bel'Gwaran's Familiar~
+A huge eagle is perched here, eyeing you menancingly.
+~
+You see before you a huge eagle.  Judging from the intelligence you can
+see it its eyes, you can guess that this is Bel'Gwaran's familiar, an animal
+used to help him channel his magics.  
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 
+ABT TV 0 0 0
+102 417 0 3898 5111 1914 2378 51 102 255 none
+-260 -260 -260 -120
+STANDING STANDING male 0
+0 mage large ACDEFHKP
+W 1
+
+#37114
+bard elf elven castle~
+the Castle Bard~
+A beautiful elven woman sits here, playing songs that fill the room.
+~
+The  bard sits here, strumming on her lute and singing a song.  The
+song she sings fills your heart with a warmth you haven't felt in a very
+long time, and her voice sends shivers up your spine.  She looks at you at
+one point during her song and winks at you.  
+castle
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 50 100 100 150 100 
+AB CFJV H 800 0
+84 178 0 1964 2057 1683 2144 42 84 168 none
+-210 -210 -190 -90
+STANDING STANDING female 30
+0 mage medium ABCDEFGHIJK
+W 1
+
+#37115
+armor magical suit animated~
+an Animated Suit of Armor~
+A Suit of armor is on display here, shining brightly.
+~
+This suit of armor appears to be standing on its own, as it is not
+resting on anything, and there are no supports holding it up.  The armor is
+polished so brightly that you can see you reflection in it.  
+~
+human~
+150 100 100 50 100 50 50 100 150 100 100 50 100 150 150 100 100 100 100 100 100 100 100 100 100 100 
+ABT ACV H -750 0
+78 221 0 1870 2111 1272 1684 39 78 156 pound
+-230 -230 -230 -90
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+W 5
+
+#37116
+skeleton closet~
+the Skeleton in the Closet~
+The Skeleton in the Closet is here, hidden away.
+~
+The skeleton in the closet stares at you, grins widely, and jumps in to
+attack!  His bones gleam a strange white color in the darkness, and the
+place where his eyes should be glows with an eerie red light.  The whole
+effect is rather unnerving.  
+~
+human~
+100 100 0 50 100 100 50 100 100 100 100 100 100 150 150 100 100 100 100 100 100 100 100 100 100 100 
+ABFT EGQVZ H -1000 0
+96 220 0 4237 4578 1683 2222 48 96 192 magic
+-350 -350 -350 -110
+STANDING STANDING neutral 0
+0 mage large ABCDEFGHIJK
+W 1
+
+#37117
+dinner guest~
+a castle guest~
+A guest of the castle is here, milling about.
+~
+You look closely at the guest to try and get some idea of what he's all
+about.  He seems to be intent only on eating, and doesn't even look up from
+his plate to acknowledge you.  His face is covered with bits of food.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+AGHRT JL P 600 0
+66 73 0 1699 1922 1327 1772 33 66 99 beating
+-140 -140 -140 -70
+STANDING STANDING male 20
+0 mage medium ABCDEFGHIJK
+W 8
+
+#37118
+guest castle~
+a guest of the castle~
+A guest of the castle stands here, talking to someone.
+~
+This guest seems not to even notice your presence as she walks about the
+room, chatting with people.  As you look at her, she makes eye contact with
+you, then quickly looks away.  She spins on her heels and walks off in the
+other direction.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 700 0
+66 78 0 1782 2403 1148 1545 33 66 99 none
+-140 -140 -150 -70
+STANDING STANDING female 3
+0 mage medium ABCDEFGHIJK
+W 10
+
+#37119
+servant castle~
+a castle servant~
+A castle servant is here, cleaning his room.
+~
+~
+human~
+150 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 150 50 100 
+AB V 0 -200 0
+66 91 0 1969 3008 1275 1642 33 66 99 punch
+-140 -140 -140 -70
+STANDING STANDING male 2
+0 mage medium ABCDEFGHIJK
+W 1
+
+#37120
+stag giant white~
+The Giant White Stag~
+A beautiful white stag stands here, majestic in every way.
+~
+You see before you the fabled white stag of the legends.  He stands about
+eight feet tall, and shows no fear at your presence.  With a snort, the stag
+turns and walks away.  
+~
+fox~
+100 100 0 100 50 0 100 100 100 100 100 100 50 100 150 100 100 100 100 100 100 100 100 100 100 100 
+AT CEFJVZ HNO 0 0
+84 176 0 3601 3942 2147 2406 42 84 168 charge
+-170 -240 -190 -110
+STANDING STANDING male 0
+0 mage large ACDEFHJKQV
+
+#37121
+castle guest~
+a guest of the castle~
+The person living in this room is here, wondering why you're in his room.
+~
+You aren't even sure if what you're looking at is even a person.  One
+thing is for certain though, he doesn't seem as if he belongs here.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AT PQV 0 -1000 0
+72 214 0 2490 2766 593 700 36 72 144 stab
+-180 -180 -180 -80
+STANDING STANDING male 200
+0 mage medium ABCDEFGHIJK
+
+#37122
+sorceror guard~
+a sorcerous guard~
+A guard of the castle chants some magical words.
+~
+This castle guard looks up at you as you walk by.  You can feel her eyes
+burning into your soul, searching for any kind of wrong doings therein.  She
+catches your eye and says, "Move along, please."  
+
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGR CV B 75 0
+78 143 0 2070 2158 575 680 39 78 156 none
+-210 -190 -200 -80
+STANDING STANDING female 1000
+0 mage medium ABCDEFGHIJK
+W 8
+
+#37123
+servant castle~
+a castle servant~
+A servant of the castle looks at you curiously.
+~
+The servant appears to be an ordinary human being, perhaps working to pay
+off some service to Bel'Gwaran.  He is about as tall as you are, and looks
+you right in the eye with a curious turn of his head.  He inspects you much
+as you inspect him.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT Z 0 300 0
+66 94 0 1531 1667 634 748 33 66 99 punch
+-150 -150 -150 -70
+STANDING STANDING male 200
+0 mage medium ABCDEFGHIJK
+W 3
+
+#37124
+hell hound wolf black~
+A Grinning Hellhound~
+A huge pitch-black wolf is here, grinning at you with jaws that drip blood.
+~
+The huge black wolf before you radiates pure evil, and your stomach
+turns as you realize exactly what it is.  It is a Hellhound, a beast
+straight from the depths of Hell, come to torture and torment your very
+soul.  It turns to face you, and it grins at you.  Its tongue lolls out of
+its mouth, and blood drips out, forming a small puddle on the floor.  
+~
+wolf~
+100 50 0 150 100 100 50 100 150 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABHRT DEFJPVZ HNO -1000 0
+72 126 0 2872 2874 1818 2158 36 72 144 flbite
+-260 -230 -250 -110
+STANDING STANDING male 0
+0 mage large ACDEFJKQV
+#0
+
+#OBJECTS
+#37100
+vest feather feathers eagle~
+a vest of eagle feathers~
+A vest made of tightly bound eagle feathers lies here.~
+armor STY AD
+21 21 21 17 10
+101 5 11780
+A 18 33
+A 19 33
+A 13 300
+A 20 -3
+
+#37101
+a fireplace roaring~
+a huge fireplace~
+A huge fireplace is here, giving off a comfortable amount of heat and light.~
+furniture AO 0
+0 0 0 0 0
+20 0 4483
+
+#37102
+table large oaken~
+an Oaken Dining Table~
+A large oaken table is here, with settings for ten people.~
+furniture O 0
+0 0 0 0 0
+0 100 0
+
+#37103
+antlers stag~
+the Antlers of the Stag~
+The antlers of the Great White Stag, an eighteen-point rack.~
+armor AGIMSY AE
+14 13 14 14 0
+45 90 5000
+A 19 3
+A 18 1
+A 1 3
+
+#37104
+robes long flowing~
+long flowing robes~
+Some long flowing robes rest here.~
+armor B AD
+10 9 14 10 0
+40 20 5400
+A 18 3
+A 2 3
+
+#37105
+plush couch~
+a plush couch~
+A plush couch is here, just waiting to be sat upon.~
+furniture 0 0
+2 1000 CDEFHIK 110 110
+20 300 3596
+
+#37106
+staff yellow~
+a yellow staff~
+A glowing yellow staff.~
+staff ABG AK
+50 20 18 'mass healing' 0
+50 15 20
+
+#37107
+wand yellow~
+a glowing yellow wand~
+A glowing yellow wand, nothing special here~
+wand A AO
+50 20 18 'heal' 0
+100 10 50
+
+#37108
+bracelet shimmering~
+a shimmering bracelet~
+A bracelet shimmering with all the colors of the rainbow is here.~
+armor ABGIK AM
+7 7 7 8 8
+44 5 1500
+A 19 4
+A 12 100
+A 18 2
+A 3 1
+
+#37109
+tiara golden~
+a golden tiara~
+A tiara made of gold lies here.~
+jewelry A AE
+0 0 0 0 0
+20 10 7500
+A 12 60
+A 13 60
+A 4 3
+A 3 3
+
+#37110
+Chef chef's knife~
+a chef's knife~
+An amazingly sharp Chef's Knife is here.~
+weapon 0 AN
+dagger 8 8 slice D
+35 40 5000
+
+#37111
+peace peacemaker staff~
+the Peacemaker~
+A staff of amazing power rests here.~
+weapon ABGMT AN
+exotic 13 14 shbite EG
+99 40 10000
+A 4 3
+A 3 3
+A 19 25
+A 18 25
+
+#37112
+mystic dagger~
+the mystic's dagger~
+A sharp dagger lies here, glowing with magical power.~
+weapon BE AN
+dagger 13 13 magic 0
+101 20 10000
+A 3 3
+A 13 50
+A 19 10
+A 18 10
+
+#37113
+robe sun sunlight~
+the robe of sunlight~
+A robe that appears to be made entirely of sunshine lies here.~
+armor AGI AK
+30 30 30 30 12
+101 100 10000
+A 18 20
+A 19 20
+A 3 2
+
+#37114
+book saints~
+the book of saints~
+A holy book rests here, you feel more confident in its presence.~
+scroll G AO
+32 '' 'armor' 'sanctuary' 'frenzy'
+101 5 5
+
+#37115
+fountain spigot drinking~
+a porcelain drinking fountain~
+A porcelain drinking fountain is here, bubbling an endless stream of water.~
+fountain O 0
+-1 -1 'water' 0 0
+50 300 5000
+
+#37116
+desk wooden~
+a wooden desk~
+A wooden desk is here, covered with papers.~
+container 0 0
+100 ACD 37117 50 0
+2 1000 471
+
+#37117
+Silver Key~
+a silver key~
+A key made of silver rests here.~
+key 0 A
+0 0 0 0 0
+2 5 350
+
+#37118
+setting place knife fork spoon~
+a place setting~
+A place setting of a knife, a fork, a spoon, and a plate lies here.~
+trash 0 0
+0 0 0 0 0
+5 10 564
+
+#37119
+shard iron~
+a shard of iron~
+A shard of iron has been dropped here.~
+weapon H AN
+dagger 11 10 iron CDG
+75 50 1820
+A 19 15
+A 18 10
+
+#37120
+table oaken~
+an oaken table~
+A massive oaken table is here, with eight hand carved oak chairs.~
+furniture 0 0
+2 1000 DN 0 0
+35 0 7864
+
+#37121
+tray food~
+a tray of food~
+A tray of food rests here, tantilizing your taste buds.~
+food 0 A
+15 6 0 0 0
+5 20 5
+
+#37122
+sun miniature~
+a miniature sun~
+A miniature sun is here, shining brightly.~
+warp_stone A AQ
+0 0 0 0 0
+30 0 500
+A 3 3
+A 12 10
+A 17 -7
+A 13 20
+
+#37123
+key diamond~
+a key made of diamonds~
+A key made of diamonds rests here.~
+key AU AO
+0 0 0 0 0
+50 10 5000
+
+#37124
+hat box~
+a hat box~
+A hat box decorated with the moon and stars lies here.~
+container AST 0
+5 ABCD 37123 0 0
+50 50 500
+
+#37125
+halo bent~
+a hat made of stars~
+A hat made of brightly shining stars lies here.~
+armor HQSTUYZ AE
+21 21 21 17 0
+101 5 20459
+A 19 10
+A 18 10
+A 20 -4
+A 3 3
+A 13 250
+
+#37126
+box wooden~
+a small wooden box~
+A small wooden box rests on a table here.~
+container 0 0
+50 ABCD 37127 0 0
+50 100 12075
+
+#37127
+frost key~
+the frost key~
+A key that feels very cold to the touch.~
+key 0 AO
+0 0 0 0 0
+35 10 10
+
+#37128
+ring defense~
+the defense ring~
+A ring lies here, radiating an aura of protection.~
+armor ABG AB
+6 7 10 10 0
+20 5 5000
+A 12 50
+A 13 50
+A 17 -4
+
+#37129
+staff sunlight~
+the Staff of Sunlight~
+Man~
+light ABIKL AO
+0 0 999 0 0
+50 50 8773
+A 18 10
+A 19 10
+A 4 3
+A 17 -10
+
+#37130
+rib floating~
+a floating rib~
+A rib floats here, calling your name.~
+warp_stone BCT AQ
+0 0 0 0 0
+1 20 5000
+A 17 0
+A 5 3
+A 3 2
+
+#37131
+pipe lit~
+a lit pipe~
+A lit pipe lies here, glowing softly.~
+treasure AI AO
+0 0 0 0 0
+20 10 300
+A 4 2
+A 3 2
+
+#37132
+holy axe~
+{WH{Yol{Wy {WA{Yx{We{X~
+A humming axe waits for it's owner.~
+weapon H AN
+axe 10 10 divine EK
+75 50 1820
+A 19 10
+A 18 10
+A 13 150
+
+#37133
+lute bard castle harmonious harmony~
+a harmonious lute~
+A beautifully constructed lute lies here.~
+weapon ABGI AN
+exotic 9 9 magic E
+40 40 5000
+A 18 2
+A 3 2
+A 12 15
+
+#37134
+lock hair~
+a lock of hair~
+A lock of hair.~
+trash 0 AO
+0 0 0 0 0
+0 0 0
+
+#37135
+pants leather~
+some tight leather pants~
+Some tight leather pants that fit you rather snugly.~
+armor T AF
+6 9 8 8 0
+20 30 200
+A 19 5
+A 18 5
+A 3 2
+
+#37136
+wristband studded~
+a studded wristband~
+A leather wristband with studded metal spikes on it.~
+armor 0 AM
+8 8 9 7 0
+30 20 400
+A 19 3
+A 18 2
+A 1 2
+
+#37137
+torch lit~
+a lit torch~
+A torch is fixed to the wall, providing some light.~
+light A 0
+0 0 999 0 0
+5 20 50
+
+#37138
+foot dismembered~
+a dismembered foot~
+A foot, cut off from the leg it came from.~
+trash 0 AO
+0 0 0 0 0
+50 30 20
+
+#37139
+hole black~
+a Black Hole~
+A black hole is here, ready to hold your possessions.~
+container ABCGY AQ
+50000 0 0 50000 0
+50 0 2000
+A 12 50
+A 2 -1
+A 19 3
+
+#37140
+staff starlight~
+the Staff of Starlight~
+A Staff that glows with the brilliance of the stars.~
+light ABGIY AO
+0 0 999 0 0
+1 40 2000
+A 2 3
+A 19 0
+A 18 0
+
+#37141
+wand yellow bright~
+a bright yellow wand~
+This wand pulsates with magical energy and glows a brilliant yellow.~
+wand AGSTUY AO
+15 3 3 '(null)' 0
+0 10 5000
+A 19 0
+
+#37142
+Holy Bible~
+{WHoly Bible{x~
+Hey look, it's the {WHoly Bible!{x!~
+wand AY AO
+101 11 13 '(null)' 0
+101 10 200
+A 20 -3
+A 17 -20
+A 13 200
+
+#37143
+gyrod cane~
+{mG{cyrod'{ms{x Cane~
+A cane lies on the ground.~
+weapon G AN
+exotic 14 14 shock DEFJK
+101 60 10000
+A 17 -25
+A 13 300
+A 20 -4
+
+#37144
+bag~
+a {ybag{x~
+A small {ybag{x.~
+container 0 A
+50 0 0 5 0
+0 10 9
+
+#37170
+no name~
+.~
+(null)~
+portal 0 0
+0 0 0 0 0
+0 0 0
+#0
+
+#ROOMS
+#37100
+Main Entrance~
+You stand at the entrance to the magnificent floating castle.  A
+beautiful Elven woman stands here, smiling at you.  She says, "Welcome to
+Castle Soleil, we are honored to have you as our guest".  You feel a strange
+sense of contentment as she speaks, and you really do feel welcome here. 
+You look down at the ground below and a chill runs up your spine.  You
+wonder just how stable this castle is.  
+~
+0 0
+D0
+~
+~
+0 0 37101
+D2
+~
+~
+0 0 9662
+S
+
+#37101
+A Hallway~
+As you enter the castle, the gates close with a loud crash.  Looking
+around you see what looks like a normal castle.  Tapestries line the walls,
+depicting great battles from a past age, and tremendous magical acts. 
+Torches are spaced at regular intervals along the walls, providing some
+semblance of light.  
+~
+8 0
+D0
+~
+~
+0 0 37102
+D1
+~
+~
+0 0 37199
+D2
+~
+~
+0 0 37100
+S
+
+#37102
+A Hallway~
+Walking further into the castle, you can't help but notice how damp the
+air is in here.  It seems strange to you, since this castle is several
+hundred feet in the air, but it is definately damp in here.  
+~
+8 0
+D0
+~
+~
+0 0 37103
+D2
+~
+~
+0 0 37101
+S
+
+#37103
+A Hallway~
+Here stands two of the guards for the castle.  They watch you carefully
+as you move about, but they make no move to stop you.  To the west, you see
+a giant door with a fork and knife engraved on it.  To the east and north,
+the hallway continues.  
+~
+8 0
+D0
+~
+~
+0 0 37116
+D1
+~
+~
+0 0 37130
+D2
+~
+~
+0 0 37102
+D3
+~
+~
+0 0 37104
+S
+
+#37104
+Entrance to the Great Hall~
+As you stand at the entrance to the great hall, your eyes scan about the
+room, taking in every minute detail.  Right in the center of the room you
+see a huge oaken table, with ten chairs around it.  There is a fireplace at
+the end of the hallway, and several comfortable looking couches are set in
+front of the fire.  
+~
+8 0
+D0
+~
+~
+0 0 37105
+D1
+~
+~
+0 0 37103
+D2
+~
+~
+0 0 37106
+D3
+~
+~
+0 0 37107
+S
+
+#37105
+Great Hall~
+You stand in the north eastern corner of the great hall.  Hanging along
+the northern wall are massive portraits of some rather impressive looking
+people.  Candles are spaced in between the portaits, providing a small
+amount of light.  
+~
+8 0
+D2
+~
+~
+0 0 37104
+D3
+~
+~
+0 0 37108
+S
+
+#37106
+Great Hall~
+As you stand at the south east corner of the great hall, your eyes wander
+about the room.  Along the north wall hang huge ten foot portraits of people
+whose identity you can only guess.  Along the southern wall, there are
+paintings of great battles and feats of magic.  In the center of the room,
+there is a large oaken table, presumably to seat the diners.  Against the
+far southern wall, a giant marble fireplace holds a roaring fire under
+control.  All around the room, people are milling about, talking to this
+person or that.  
+~
+8 0
+D0
+~
+~
+0 0 37104
+D3
+~
+~
+0 0 37109
+S
+
+#37107
+Great Hall~
+You stand at the center of the great hall.  Amidst all the commotion of
+the people eating here, there is a certain sense of peace in this room.  You
+feel awed by the immensity of the construction of this castle.  
+~
+8 0
+D0
+~
+~
+0 0 37108
+D1
+~
+~
+0 0 37104
+D2
+~
+~
+0 0 37109
+D3
+~
+~
+0 0 37111
+S
+
+#37108
+Great Hall~
+The most notable feature of this room is the portaits hanging along the
+wall in front of you.  You stand before one, a painting of a wise-looking
+man.  His hair is long and white, and his face is nearly distorted by
+wrinkles, but there seems to be a twinkle of incredible intelligence coming
+from his eyes.  The plaque under the picture reads, "Aaniron, Royal Magician
+during the reign of Selartus."  
+~
+8 0
+D1
+~
+~
+0 0 37105
+D2
+~
+~
+0 0 37107
+D3
+~
+~
+0 0 37112
+S
+
+#37109
+Great Hall~
+Along the wall to the south hang giant pictures.  The one to your
+immediate south catches your eye.  It is a painting of a man, dressed in
+white flowing robes, standing on top of a mountain.  He holds a blazing red
+staff high over his head.  It is then that you notice the dragon, flying
+over his head.  You can only wonder how that battle turned out.  
+~
+8 0
+D0
+~
+~
+0 0 37107
+D1
+~
+~
+0 0 37106
+D3
+~
+~
+0 0 37110
+S
+
+#37110
+Great Hall~
+Hanging along the south wall is a painting of a terrible scene.  It is a
+tableau of a battle, apparantly with an entire army facing one person.  As
+you look closer at the person in the center of the painting, the one cutting
+down dozens of soldiers with a single wave of His arm, you notice that it is
+a giant demon, bathed in magical fire.  You feel sorry for the poor soldiers
+thrown in front of His path.  
+~
+8 0
+D0
+~
+~
+0 0 37111
+D1
+~
+~
+0 0 37109
+D3
+~
+~
+0 0 37113
+S
+
+#37111
+Great Hall~
+As you walk up to the table, you are struck by how regal this entire set
+up is.  You could probably seat over twenty people at this table, and you
+can envision yourself sitting at the head of the table, hosting your friends
+for a nice dinner.  
+~
+8 0
+D0
+~
+~
+0 0 37112
+D1
+~
+~
+0 0 37107
+D2
+~
+~
+0 0 37110
+D3
+~
+~
+0 0 37114
+S
+
+#37112
+Great Hall~
+You stand in front of the kitchen door to the great hall.  You try to
+push the door open from this side, but apparantly it only opens one way,
+perhaps to control the traffic flow of the servers.  
+~
+8 0
+D0
+~
+~
+0 0 37121
+D1
+~
+~
+0 0 37108
+D2
+~
+~
+0 0 37111
+D3
+~
+~
+0 0 37115
+S
+
+#37113
+Great Hall~
+You stand in the south west corner of the great hall.  Just as there are
+portraits hanging along the northern wall, along the southern wall there are
+massive paintings.  These paintings are not so much portraits as they are
+depictions of what appear to be some incredible feats of magic.  
+~
+8 0
+D0
+~
+~
+0 0 37114
+D1
+~
+~
+0 0 37110
+S
+
+#37114
+Great Hall~
+As you stand before the huge fire, you feel a sense of warmth penetrate
+your very being.  You take a seat in one of the plush couches, and relax for
+a while.  
+~
+8 0
+D0
+~
+~
+0 0 37115
+D1
+~
+~
+0 0 37111
+D2
+~
+~
+0 0 37113
+H 110 110
+S
+
+#37115
+Great Hall~
+You stand in the south west corner of the great hall.  Along the northern
+wall there are giant portraits of what could only be some very influential
+people.  To your immediate south, you can see a huge in-wall carved stone
+fireplace, kicking out enough heat to keep this entire room comfortable.  
+~
+8 0
+D1
+~
+~
+0 0 37112
+D2
+~
+~
+0 0 37114
+S
+
+#37116
+A Hallway~
+As you walk along this hallway, your eyes wander about to some of the
+tapestries hanging on the wall.  The one to your immediate left is a real
+piece of work.  The tapestry is obviously magical, as the patterns keep
+shifting from one to another.  
+~
+8 0
+D0
+~
+~
+0 0 37117
+D2
+~
+~
+0 0 37103
+S
+
+#37117
+A Hallway~
+As you walk past the two guards standing here, one of them glares at you,
+and says to his partner, "I can't believe the people they're letting in
+these days."  He then returns his gaze to full front and is silent.  To the
+west, you see a closed door.  
+~
+8 0
+D0
+~
+~
+0 0 37126
+D1
+~
+~
+0 0 37138
+D2
+~
+~
+0 0 37116
+D3
+~
+~
+0 0 37118
+S
+
+#37118
+Kitchen~
+As you enter the kitchen, you are struck by the high level of noise and
+commotion.  Someone is always running around carrying some dish or another,
+frantically trying to prepare the evening's meal on time.  You cringe as the
+head chef throws a pan at one of his helpers.  
+~
+8 0
+D0
+~
+~
+0 0 37124
+D1
+~
+~
+0 0 37117
+D3
+~
+~
+0 0 37119
+S
+
+#37119
+Kitchen~
+As you walk through the kitchen, you can't help but notice the fact that
+all of the food being prepared is cooked by magical means.  A magical stove
+puts out an amazingly hot flame, and even the knives are sharpened
+magically.  To the south and east you see a door that says 'out'.  
+~
+8 0
+D0
+~
+~
+0 0 37123
+D1
+~
+~
+0 0 37118
+D3
+~
+~
+0 0 37120
+S
+
+#37120
+Kitchen~
+You stand before the door that goes to the Great Hall.  A server bumps
+into you carrying a tray full of food.  She looks up at you and says, "Hey! 
+Watch where you're going!"  She mumbles something under her breath about
+dumb adventurers.  
+~
+8 0
+D0
+~
+~
+0 0 37122
+D1
+~
+~
+0 0 37119
+D2
+~
+~
+0 0 37121
+S
+
+#37121
+Kitchen Entrance~
+This is the hallway the servants take to carry food to the people in the
+great hall.  The door to your south has the word 'out' written on it.  There
+is a small window in the door through which you can see the dining room.  
+~
+8 0
+D0
+~
+~
+0 0 37120
+D2
+~
+door~
+0 0 37112
+S
+
+#37122
+Kitchen~
+As you stand in the corner of the kitchen, you feel like you're getting
+in the way of the kitchen staff.  Everyone in this room is running around
+like chickens with their heads cut off.  To the north you see a large metal
+door.  
+~
+8 0
+D0
+~
+~
+0 0 37125
+D1
+~
+~
+0 0 37123
+D2
+~
+~
+0 0 37120
+S
+
+#37123
+Kitchen~
+As you stand in the center of the kitchen, your nose is tantalized by the
+odors of the dishes the chef has prepared.  Your mouth is watering very
+badly, and you realize how long it's been since you've had a nice
+home-cooked meal.  
+~
+8 0
+D1
+~
+~
+0 0 37124
+D2
+~
+~
+0 0 37119
+D3
+~
+~
+0 0 37122
+S
+
+#37124
+Kitchen~
+You stand in the corner of the kitchen and take in the view.  You are
+amazed at how hot it is in here, and wonder how the cooks can stand it in
+their long pants and coats.  You hear the chef screaming at one of the
+servers about getting the food out on time.  
+~
+8 0
+D2
+~
+~
+0 0 37118
+D3
+~
+~
+0 0 37123
+S
+
+#37125
+Walk-In Cooler~
+Apparantly, the owner of this castle has discovered the means to keep
+food cold for long periods of storage.  You feel a chill in your bones... 
+It's cold in here!  You wish you had your trusty hat and mittens right about
+now.  Looking around at all the food in here, you notice that one of the
+shelves is completely empty.  Other than that, there is a lot of food in
+here, but none of it is appetizing to you.  
+~
+8 0
+D0
+~
+shelves~
+0 0 37151
+D2
+~
+door~
+0 0 37122
+S
+
+#37126
+A Hallway~
+As you walk down the hallway, you peer ahead to get some idea of what
+awaits you.  Unfortunately, the torches further along the hallway appear to
+have been extinguished.  You hear scratching sounds coming from the north.  
+~
+8 0
+D0
+~
+~
+0 0 37127
+D2
+~
+~
+0 0 37117
+S
+
+#37127
+A Hallway~
+You stand at the north-east junction of the hallway.  Both exits are far
+too dark for you to discern what might lie ahead.  You steel your courage
+and pick an exit.  
+~
+8 0
+D0
+~
+~
+0 0 37128
+D1
+~
+~
+0 0 37129
+D2
+~
+~
+0 0 37126
+S
+
+#37128
+A Dead End~
+This room doesn't appear to go anywhere.  How strange that it is here at
+all.  You wonder what the builder of this castle was thinking.  A small
+torch burns down to nothing on the wall.  
+~
+9 0
+D2
+~
+~
+0 0 37127
+D3
+~
+torch~
+0 0 37149
+S
+
+#37129
+A Dark Hallway~
+This hallway is so dark, you can barely see your hand in front of your
+face, even with your light.  You hear a strange scratching sound coming from
+the north.  This room gives you the creeps.  
+~
+1 0
+D0
+~
+~
+0 0 37145
+D3
+~
+~
+0 0 37127
+S
+
+#37130
+A Hallway~
+This hallway continues ahead into a north-south junction.  The torches
+along the hallway flicker out minimal amounts of light.  You hear footsteps
+echoing in the hallway behind you.  
+~
+8 0
+D1
+~
+~
+0 0 37131
+D3
+~
+~
+0 0 37103
+S
+
+#37131
+A Hallway~
+You stand at the end of the hallway and look around.  Along the wall in
+front of you, there are three rooms, all with the doors closed. At the end of
+the hallway to the south, you see a door with strange markings on it.  
+ 
+~
+8 0
+D0
+~
+~
+0 0 37133
+D1
+~
+~
+0 0 37135
+D2
+~
+~
+0 0 37132
+D3
+~
+~
+0 0 37130
+S
+
+#37132
+Door to Jyrod's Room~
+You stand in a hallway in the guest quarters.  There is a door to your
+east and to your south.  To the south, you see a glowing symbol of some kind
+engraved on the door.  The symbol depicts a humanoid figure, with his arms
+raised over his head, apparantly casting a spell.  
+~
+8 0
+D0
+~
+~
+0 0 37131
+D1
+~
+~
+0 0 37136
+D2
+~
+~
+0 0 37137
+S
+
+#37133
+End of Hallway~
+This hallway is very dark.  To the east you see another door, presumably
+leading to another guest room.  To the south you see a strange-looking door.
+~
+0 0
+D1
+~
+~
+0 0 37134
+D2
+~
+~
+0 0 37131
+S
+
+#37134
+Guest Quarters~
+This room is used by Bel'Gwaran to house his guests.  There are not many
+creature comforts in here, aside from the bed and the small dresser in the
+corner, this room is bare.  A thin layer of dust covers the floor.  
+~
+8 0
+D3
+~
+~
+0 0 37133
+S
+
+#37135
+Guest Quarters~
+This is another one of the guest rooms.  This one is very similar to the
+other room, but apparantly, this one is used a bit more often.  There are
+pictures on the wall, and the window shade is open, letting the sunlight in.
+~
+8 0
+D3
+~
+~
+0 0 37131
+S
+
+#37136
+Guest Quarters~
+This is also one of the guest rooms of the castle.  For whatever reason,
+the bed in this room looks as if it was slept in recently.  Dirty laundry is
+strewn about the floor.  
+~
+8 0
+D3
+~
+~
+0 0 37132
+S
+
+#37137
+Gyrod's Room~
+This room is far more lavishly decorated than the other rooms.  Colorful
+paintings line the walls, giving the room a much brighter feel to it.  There
+is no window in this room, but there is a small glowing ball of light in the
+corner of the room, shining like a miniature sun.  
+~
+8 0
+D0
+~
+~
+0 0 37132
+S
+
+#37138
+Hallway to Servant's Quarters~
+As you start down this hallway, your mind wanders to thoughts about the
+fact that the castle your are in is actually floating hundreds of feet in
+the air.  You suddenly feel rather queasy, but your adventurer training
+helps you to maintain.  
+~
+8 0
+D1
+~
+~
+0 0 37139
+D3
+~
+~
+0 0 37117
+S
+
+#37139
+Hallway to Servant's Quarters~
+You stand in the hallway, and look around you.  To your north, an open
+door leads into what appears to be someone's living quarters.  No one is in
+the room at the time, but it looks as if it has been lived in recently.  To
+the east, there is a door to the north and a door to the south.  To the
+west, the hallway branches to the north and south.  
+~
+8 0
+D0
+~
+~
+0 0 37140
+D1
+~
+~
+0 0 37141
+D3
+~
+~
+0 0 37138
+S
+
+#37140
+Servant's Quarters~
+This room looks as if someone was just in here, and judging by the open
+door, they will probably return soon.  You feel uncomfortable invading
+someone else's living space, and decide to make a hasty exit before they
+return to find you here.  
+~
+8 0
+D2
+~
+~
+0 0 37139
+S
+
+#37141
+Hallway to Servant's Quarters~
+You stand at the end of this hallway.  To your south is a closed door,
+and to your north is an open door.  You hear footsteps down the hallway to
+the west.  
+~
+0 0
+D0
+~
+~
+0 0 37142
+D2
+~
+~
+0 0 37143
+D3
+~
+~
+0 0 37139
+S
+
+#37142
+Servant's Quarters~
+This room apparantly houses some of the servants of the castle.  There
+are two beds in this room, stacked atop one another, allowing  relative
+freedom of movement from the person on the bottom bed.  This room is far
+more tidy than some of the other rooms you have seen in the castle, with
+every little thing properly in its place.  
+ 
+~
+8 0
+D2
+~
+~
+0 0 37141
+S
+
+#37143
+Chef's Quarters~
+Looking around the Chef's bedroom, you are struck by what an unorganized
+man he is.  Clothes are thrown everywhere, and dozens of cooking magazines
+are strewn haphazardly about the room.  To the west you see a door with a
+small window in it, through the window, you can see the chef's office.  
+~
+8 0
+D0
+~
+~
+0 0 37141
+D3
+~
+~
+0 0 37144
+S
+
+#37144
+Chef's Office~
+As you enter the chef's office, you are amazed at how cluttered it is in
+here.  Loose pieces of paper with strange scrawlings are strewn about the
+room.  There is a single desk against one of the walls, lit by a strangely
+colored light.  
+~
+8 0
+D1
+~
+~
+0 0 37143
+S
+
+#37145
+A Dark Hallway~
+This room is as dark as the room before, but this room happens to have a
+giant spider inhabiting it.  The spider immediately sees you enter his web,
+and springs to attack.  
+~
+9 0
+D1
+~
+~
+0 0 37146
+D2
+~
+~
+0 0 37129
+S
+
+#37146
+A Dark Hallway~
+Thankful to have dispatched that bothersome spider, you continue down the
+hallway.  To the east, the torches have been relit, and you can see stairs
+leading upwards.  
+~
+9 0
+D1
+~
+~
+0 0 37147
+D3
+~
+~
+0 0 37145
+S
+
+#37147
+Stairway~
+As you stand at the base of the stairs, you stop to think about what
+might be up there.  What types of devious tricks and traps has the owner of
+this castle set for you?  You continue up the steps, true to the form of the
+brave adventurer.  
+~
+8 0
+D3
+~
+~
+0 0 37146
+D4
+~
+~
+0 0 37154
+S
+
+#37148
+Guest Room~
+~
+12 0
+S
+
+#37149
+Secret Room~
+You turn the torch slightly, and to your surprise, the wall spins around,
+and you are suddenly in this room.  There is a small table in the corner of
+the room, but there are no other discernable features.  But wait, as you
+look closer at the space under the table, you can see the outline of a trap
+door.  
+~
+8 0
+D1
+~
+secret~
+0 0 37128
+D5
+~
+~
+0 0 51000
+S
+
+#37150
+Guest Room~
+~
+12 0
+S
+
+#37151
+Secret Room~
+As you stand in the entranceway of the secret room, you feel a chill to
+your very bones.  It is _very_ cold in here, and your breath forms clouds of
+steam.  To the east you here a muted growling noise.  
+~
+9 0
+D1
+~
+~
+0 0 37152
+D2
+~
+secret~
+0 0 37125
+S
+
+#37152
+Lair of the Frost Beast~
+You stand in the lair of the Frost Beast.  He stands about ten feet tall,
+and looks like some kind of cross between a bear and a lion.  It is even
+colder in this room than in the previous two.  Bones litter the floor,
+assumably old guests of the Frost Beast.  
+~
+9 0
+D3
+~
+~
+0 0 37151
+S
+
+#37153
+use me~
+~
+12 0
+S
+
+#37154
+Going Up...~
+All these stairs are making you tired, and you decide to stop and catch
+your breath for a minute.  After you have relaxed a bit, you head on up the
+stairs.  
+~
+8 0
+D4
+~
+~
+0 0 37155
+D5
+~
+~
+0 0 37147
+S
+
+#37155
+Top of the Stairs~
+You have finally reached the top of the stairs.  Two guards stand here,
+eyeing you cautiously.  A hallway leads to your south.  There appears to be
+no other way to go.  
+~
+8 0
+D2
+~
+~
+0 0 37156
+D5
+~
+~
+0 0 37154
+S
+
+#37156
+A Hallway~
+As you leave the stairwell, you notice that this hallway has a far more
+bright look to it than any of the ones downstairs.  The floors are carpeted
+with a plush red fabric, and there are windows spaced evenly along the
+eastern wall, allowing the sun to shine in.  Potted plants rest along
+regular intervals, providing a very welcoming atmosphere.  
+~
+0 0
+D0
+~
+~
+0 0 37155
+D2
+~
+~
+0 0 37157
+S
+
+#37157
+A Hallway~
+You sigh as you notice how far south this hallway actually goes.  You can
+barely make out a turn to the west at the end of this hallway.  
+~
+8 0
+D0
+~
+~
+0 0 37156
+D2
+~
+~
+0 0 37158
+S
+
+#37158
+A Hallway~
+Further down the hallway you walk.  At least your feet don't echo on this
+carpet.  On second thought, neither would anyone else's...  You spin behind
+you, but no one is there.  You continue walking south much apace.  
+~
+8 0
+D0
+~
+~
+0 0 37157
+D2
+~
+~
+0 0 37159
+S
+
+#37159
+A Hallway~
+You have reached the halfway point of this hallway.  Another pair of
+guards waits for you at the turn to the west.  They don't seem intent on
+attacking, but they certainly notice your presence.  
+~
+8 0
+D0
+~
+~
+0 0 37158
+D2
+~
+~
+0 0 37160
+S
+
+#37160
+A Hallway~
+Just when you think that this hallway might never end, you realize just
+how close you are to the turn.  You steel yourself and begin to walk faster.
+~
+8 0
+D0
+~
+~
+0 0 37159
+D2
+~
+~
+0 0 37161
+S
+
+#37161
+A Turn in the Hallway~
+You have finally reached the end of that damn hallway!  You turn to the
+west to see what lies ahead.  To your despair, the western hallway continues
+just as long as the northern one did.  You tip your hat to the guards as you
+walk by, but you can elicit no response from them.  
+~
+8 0
+D0
+~
+~
+0 0 37160
+D3
+~
+~
+0 0 37162
+S
+
+#37162
+A Hallway~
+As you walk down this hallway, you realize how sick you are of walking
+down hallways.  This hallway is set up much the same as the north hallway,
+but the slits in the wall to let the light in have been covered with cloth,
+for some reason.  The torches flicker brightly, but this hallway is still
+rather dark.  
+~
+8 0
+D1
+~
+~
+0 0 37161
+D3
+~
+~
+0 0 37163
+S
+
+#37163
+A Hallway~
+Further you walk down the hallway...  You begin to wonder what the point
+of having all of these long hallways is.  You make a note to yourself to
+speak with the builder as soon as possible about this.  
+~
+8 0
+D1
+~
+~
+0 0 37162
+D3
+~
+~
+0 0 37164
+S
+
+#37164
+A Hallway~
+As you approach the end of the hallway, the darkness lets up
+considerably.  You can see the hallway ahead of you turn to the north.  
+ 
+~
+8 0
+D1
+~
+~
+0 0 37163
+D3
+~
+~
+0 0 37165
+S
+
+#37165
+Hallway Corner~
+You stand at the north east junction of the hallways.  To the east, the
+hallway continues a long distance, then turns north.  To the north, the
+hallway turns enough times so that you cannot see very far ahead.  
+~
+8 0
+D0
+~
+~
+0 0 37166
+D1
+~
+~
+0 0 37164
+S
+
+#37166
+Junction~
+To the north, the hallway continues a short distance, and there is a
+large door along the western wall towards the end of the hallway.  To the
+east, the hallway branches off to the north twice.  
+~
+8 0
+D0
+~
+~
+0 0 37167
+D1
+~
+~
+0 0 37177
+D2
+~
+~
+0 0 37165
+S
+
+#37167
+A Hallway~
+This is another one of those damn hallways.  Fortunately, this one isn't
+as long as the previous ones.  Along the walls, suits of armor shine in the
+torchlight.  You walk up to inspect one, and you can see you reflection in
+the gleam of the metal.  There is a door to the north along the western
+wall.  
+~
+8 0
+D0
+~
+~
+0 0 37168
+D2
+~
+~
+0 0 37166
+S
+
+#37168
+A Hallway~
+The hallway extends to the north a bit, and you can see a door along the
+western side of the wall.  Suits of armor, polished to a brilliant shine,
+line the hallways.  You can sense a strange sort of magic coming from the
+statues.  
+~
+8 0
+D0
+~
+~
+0 0 37169
+D2
+~
+~
+0 0 37167
+S
+
+#37169
+Door to the Library~
+As you walk down the hallway, you notice a set of red colored wooden
+doors.  There is a picture of a book carved into the door by some means that
+allows the picture to glow with a bright yellow light.  More tapestries line
+the walls, and you notice that one of the torches in this hallway has gone
+out.  
+~
+8 0
+D0
+~
+~
+0 0 37170
+D2
+~
+~
+0 0 37168
+D3
+~
+~
+0 0 37171
+S
+
+#37170
+End of the Hallway~
+You stand at the end of this huge hallway, your mind boggled by the
+amazing stonework done in this castle.  You are fairly certain that most of
+the building of this castle was done by magical means.  You see a large
+doorway to the south along the western wall.  
+~
+8 0
+D2
+~
+~
+0 0 37169
+S
+
+#37171
+Library~
+This is Bel'Gwaran's Library.  Here he keeps all of his reference
+material and magical scrolls.  You see a slender elven lady reading a book
+to the west.  She doesn't even look up to acknowledge your presence.  There
+is a large sign reading, "Shh!"  On the wall.  
+~
+8 0
+D0
+~
+~
+0 0 37173
+D1
+~
+~
+0 0 37169
+D2
+~
+~
+0 0 37176
+D3
+~
+~
+0 0 37172
+S
+
+#37172
+Library~
+You see a fine-boned Elven woman here.  She has her nose deep inside a
+strange book.  You call out to her, but she doesn't even notice your
+presence.  You walk up to her, and tap her on the shoulder, but all she does
+is look at you and say, "Ssshhhh!"  .  
+~
+8 0
+D0
+~
+library~
+0 0 37174
+D1
+~
+library~
+0 0 37171
+D2
+~
+~
+0 0 37175
+S
+
+#37173
+Library~
+This is the Kinetic section of Bel'Gwaran's library.  Here there are
+books like, "Moving a Mountain in Five Easy Steps", "Housecleaning the
+Magical Way", and "Self-Levitation in Order to Make Yourself Look Taller, is
+it Morally Right?"  .  One that really catches your eye is the one titled
+"How to Keep a Castle Alfoat and Manage a Career".  
+~
+8 0
+D2
+~
+~
+0 0 37171
+D3
+~
+~
+0 0 37174
+S
+
+#37174
+Library~
+This is the Organic Chemistry section of the Library.  Here you see such
+arduous tomes as "The Effects of 2,4-DNP on 4,5-dimethyl-hex-4-yn-ol", and
+"Resonance Hybrids, Blow It Out Your Orbitals".  You are really intimidated
+by the vast amounts of knowledge in these books, and wonder what type of
+person would actually enjoy reading this stuff.  
+~
+8 0
+D1
+~
+~
+0 0 37173
+D2
+~
+~
+0 0 37172
+S
+
+#37175
+Library~
+This is the section of the library dealing with the magical manipulation
+of the weather.  Books like "The Thalosian Trade Winds, and Their Effect on
+the Crop Production of the Eastern Continent" "How to Make a Rain Cloud
+Appear Over the Head of Someone You Really Hate", and "Rainbows and Their
+Quantitative Properties".  This corner of the room is decidedly more damp
+then the rest of the Library.  You notice a small trickle of water running
+out from the Rain section.  
+~
+8 0
+D0
+~
+~
+0 0 37172
+D1
+~
+~
+0 0 37176
+D2
+~
+secret~
+0 0 37185
+S
+
+#37176
+Library~
+Here you see a bare corner of the library.  Coming out of the wall is an
+incredibly decorative stone drinking fountain, carved into an elaborate
+design, but you can't recognize any of the shapes.  You wonder how many
+people have actually drank from here.  Some spillage from the Rain section
+has leaked into this room, forming quite a puddle at your feet.  
+~
+8 0
+D0
+~
+~
+0 0 37171
+D3
+~
+~
+0 0 37175
+S
+
+#37177
+A Hallway~
+The hallway continues to the west and east.  To the east, it branches off
+to the north, and there is a door at the end of the hallway along the
+northern wall.  To the west, the hallway branches north and south.  
+~
+8 0
+D1
+~
+~
+0 0 37178
+D3
+~
+~
+0 0 37166
+S
+
+#37178
+A Hallway~
+This hallway branches to the north, east, and south.  To the north, the
+hallway is brightly lit, and you can see two doors, one at the end of the
+hallway, and one next to it along the western wall.  To the east, you see a
+door to the north, and then the hallway dead ends.  To the west, the hallway
+goes north and south.  
+~
+8 0
+D0
+~
+~
+0 0 37179
+D1
+~
+~
+0 0 37191
+D3
+~
+~
+0 0 37177
+S
+
+#37179
+A Hallway~
+This hallway continues to the north and south.  You notice that this
+hallway is lit far better than even the hallways with the windows, and yet,
+there is no visible source of light.  No torches line the walls, as they did
+in the rest of the castle.  You hear a strange sound coming from the north. 
+~
+8 0
+D0
+~
+~
+0 0 37180
+D2
+~
+~
+0 0 37178
+S
+
+#37180
+A Hallway~
+Not only is this hallway brighter than the rest of the castle, it is also
+most definately warmer than the other hallways.  Again, you can see no
+visible heat or light source, but you are very combfortable, both thermally
+and optically.  
+~
+8 0
+D0
+~
+~
+0 0 37181
+D2
+~
+~
+0 0 37179
+S
+
+#37181
+A Hallway~
+You stand before two doors.  The door to your north is opened slightly,
+and you hear that noise again coming from behind it.  Judging from the dust
+on the doorknob, the room to your west hasn't been entered recently.  
+~
+8 0
+D0
+~
+~
+0 0 37186
+D2
+~
+~
+0 0 37180
+D3
+~
+door~
+0 5623 37182
+S
+
+#37182
+The Closet~
+You have gotten inside the closet, but you didn't expect this!  A huge
+skeleton is here, and immediately it attacks you.  Apparantly Bel'Gwaran has
+a big skeleton in his closet.  The closet stretches to the north, where a
+pile of clothes lies about the floor.  
+~
+8 0
+D0
+~
+~
+0 0 37183
+D1
+~
+door~
+0 5623 37181
+S
+
+#37183
+the Closet~
+Evidently, Bel'Gwaran keeps a lot of clothes in storage.  This room has
+old clothes lying about everywhere, and smells strongly of mothballs.  A
+shining hat box draws your eye.  
+~
+8 0
+D2
+~
+~
+0 0 37182
+S
+
+#37184
+A Bathroom~
+This would be Bel'Gwaran's bathroom.  It smells terrible in here...  You
+would think that a magician capable of keeping a castle afloat would find
+some means of ventilating his bathroom, but apparantly this is not the case.
+~
+8 0
+D3
+~
+~
+0 0 37188
+S
+
+#37185
+Secret Room~
+You push aside the shelf of books, and the wall turns, spinning you into
+this room.  The room is completely bare, except for a small box on a desk.  
+~
+12 0
+D0
+~
+~
+0 0 37175
+S
+
+#37186
+Master Bedroom~
+As you step into the room, the screeching grows louder.  You turn your
+head to the right, and see one of the biggest eagles you have ever seen in
+your entire life.  A man walks around the room behind the eagle.  
+~
+8 0
+D1
+~
+~
+0 0 37187
+D2
+~
+~
+0 0 37181
+S
+
+#37187
+Master Bedroom~
+You stand right in front of the eagle, and it stares you right in the
+eyes.  You can tell that the bird is intelligent by the look in its eyes. 
+The room around you is apparantly the owner of the castle's bedroom.  A
+massive four poster bed is against the wall, reminding you of how long it's
+been since you've had a good night's sleep.  
+~
+8 0
+D1
+~
+~
+0 0 37188
+D2
+~
+~
+0 0 37190
+D3
+~
+~
+0 0 37186
+S
+
+#37188
+Master Bedroom~
+You stand in Bel'Gwaran's bedroom.  To your east is a closed door, and to
+your south is the huge bed.  You smell a strange odor from the east.  You
+can see Bel'Gwaran walking around in his room, apparantly undisturbed by
+your presence.  
+~
+8 0
+D1
+~
+~
+0 0 37184
+D2
+~
+~
+0 0 37189
+D3
+~
+~
+0 0 37187
+S
+
+#37189
+Master Bedroom~
+You stand facing Bel'Gwaran's bed.  It is a huge four-poster piece of
+work, with draping yellow curtains hanging over the side.  The sheets are
+decorated with woven sun patterns, providing for a very comfortable looking
+bed.  
+~
+8 0
+D0
+~
+~
+0 0 37188
+D3
+~
+~
+0 0 37190
+S
+
+#37190
+Master Bedroom~
+This is the south west corner of Bel'Gwaran's bedroom.  To your east is a
+huge bed, and to your north, the eagle is perched on a post coming out of
+the wall.  There is a door in the opposite corner of the room.  
+~
+8 0
+D0
+~
+~
+0 0 37187
+D1
+~
+~
+0 0 37189
+S
+
+#37191
+A Hallway~
+This hallway runs to the east and west.  To the east and north, there is
+a closed door.  To the south, the hallway branches off twice to the north,
+and later, to the south.  The door down the hall has a bright light shining
+out from under the door.  There is a glowing carving of a sun hanging off of
+the door.  
+ea
+~
+8 0
+D1
+~
+~
+0 0 37192
+D3
+~
+~
+0 0 37178
+S
+
+#37192
+A Hallway~
+You stand at the end of the hallway, and look at the door in front of
+you.  There is a magical carving of a sun on the door, and it glows with
+such intensity that you have to avert your eyes.  
+~
+8 0
+D0
+~
+~
+0 0 37193
+D3
+~
+~
+0 0 37191
+S
+
+#37193
+A Small Room~
+This room is very warm.  There is an enormous amount of light coming from
+under the door to your north.  A sign on the door reads, "Warning!"  .  The
+doorknob is very hot.  
+~
+8 0
+D0
+~
+~
+0 0 37197
+D2
+~
+~
+0 0 37192
+S
+
+#37194
+the Sunlight Room~
+~
+12 0
+S
+
+#37195
+the Sunlight Room~
+~
+12 0
+S
+
+#37196
+the Sunlight Room~
+~
+12 0
+S
+
+#37197
+A Piece of the Sun~
+This must be the power source for the magics required to float the
+castle.  It seems as if Bel'Gwaran has harnessed a piece of sun and placed
+it in this room to draw off of its power.  Unfortunately, the moment you
+enter, you are fried to a crisp.  
+ 
+ 
+SeeYa!!
+~
+16777224 0
+D2
+~
+~
+0 0 37193
+S
+
+#37198
+the Sunlight Room~
+~
+12 0
+S
+
+#37199
+Lady Teldra's room~
+You stand in Lady Teldra's bedroom and allow your eyes to adjust to the
+bright sunlight flooding in from a giant window along the eastern wall. 
+When your eyes fully adjust, you can see that the Lady is quite fond of
+sunflowers.  Massive sunflower plants decorate the entire room, and you can
+barely even see the Lady's bed through the flora.  The Lady keeps her room
+very tidy other than the occasional small pile of dirt, and you do not want
+to step any farther into the room for fear of tracking mud on her carpet and
+inflicting the true wrath of the Lady Teldra.  
+~
+0 0
+D3
+~
+~
+0 0 37101
+S
+#0
+
+#SPECIALS
+M 37100 spec_guard
+M 37101 spec_cast_mage
+M 37102 spec_breath_fire
+M 37105 spec_poison
+M 37107 spec_cast_cleric
+M 37108 spec_cast_cleric
+M 37111 spec_breath_frost
+M 37112 spec_cast_mage
+M 37114 spec_cast_adept
+M 37116 spec_cast_undead
+S
+
+#RESETS
+M 100 37107 1 37100 4
+E 100 37109 0 6
+E 100 37108 0 14
+E 100 37104 0 5
+O 100 37137 0 37101
+O 100 37137 0 37102
+M 100 37100 8 37103 2
+E 100 37119 0 16
+O 100 37137 0 37103
+M 100 37117 8 37104 3
+M 100 37114 1 37105 4
+E 100 37133 0 16
+M 100 37117 8 37107 2
+M 100 37118 10 37108 2
+M 100 37118 10 37108 1
+M 100 37118 10 37109 2
+M 100 37118 10 37110 2
+O 100 37120 0 37111
+M 100 37117 8 37111 3
+M 100 37118 10 37113 2
+O 100 37101 0 37114
+O 100 37105 0 37114
+M 100 37112 1 37114 4
+E 100 37131 0 17
+O 100 37137 0 37116
+M 100 37100 8 37117 2
+M 100 37100 8 37117 2
+E 100 37132 0 16
+O 100 37137 0 37117
+M 100 37104 4 37119 2
+M 100 37104 4 37120 3
+E 100 37121 0 17
+M 100 37110 2 37122 2
+M 100 37110 2 37123 4
+M 100 37106 1 37123 4
+E 100 37110 0 16
+G 100 37117 0
+M 100 37110 2 37124 2
+M 100 37122 8 37126 2
+O 100 37137 0 37126
+O 100 37137 0 37127
+M 100 37122 8 37128 1
+O 100 37137 0 37128
+M 100 37101 1 37137 4
+E 100 37143 0 16
+E 100 37122 0 19
+M 100 37123 3 37140 1
+E 100 37135 0 7
+M 100 37119 1 37142 3
+O 100 37116 0 37144
+P 100 37136 1 37116 0
+M 100 37105 1 37145 3
+M 100 37122 8 37147 2
+O 100 37137 0 37147
+M 100 37111 1 37152 4
+G 100 37127 0
+O 100 37137 0 37154
+M 100 37100 8 37155 2
+M 100 37100 8 37155 2
+O 100 37137 0 37155
+M 100 37100 8 37156 2
+O 100 37137 0 37157
+O 100 37137 0 37159
+M 100 37100 8 37161 2
+O 100 37137 0 37161
+M 100 37100 8 37163 1
+O 100 37137 0 37163
+M 100 37100 8 37165 2
+O 100 37137 0 37165
+O 100 37137 0 37166
+M 100 37115 5 37167 2
+O 100 37137 0 37167
+M 100 37115 5 37168 3
+M 100 37115 5 37168 1
+M 100 37115 5 37169 1
+M 100 37115 5 37170 2
+M 100 37108 1 37172 4
+E 100 37142 0 17
+G 100 37114 0
+O 100 37115 0 37176
+M 100 37116 1 37182 4
+E 100 37130 0 19
+O 100 37124 0 37183
+P 100 37125 1 37124 0
+O 100 37126 0 37185
+P 100 37128 1 37126 0
+M 100 37103 1 37187 1
+E 100 37111 0 16
+E 100 37113 0 12
+G 100 37112 0
+G 100 37123 0
+G 100 37141 0
+M 100 37113 1 37187 1
+E 100 37100 0 5
+S
+
+#$

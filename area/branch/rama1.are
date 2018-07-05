@@ -1,0 +1,918 @@
+#AREADATA
+Name Rama's Area~
+Builders Rama~
+VNUMs 50500 50599
+Credits [HERO ] Rama  Lightning Palace~
+Security 4
+End
+
+
+
+#MOBILES
+#50500
+gatekeeper wight~
+The GateKeeper Wight~
+The GateKeeper Wight stands here guarding the gate.
+~
+A translucent guardian wight hovers here. Thier touch is deadly and
+drains the life from the unfortunate victim, perhaps you should just
+move on.
+~
+human~
+ABOPT DFTUV CE 0 0
+151 9999 500000d1+0 500d1+0 1750d1+0 drain
+-500 -500 -500 -500
+ABEFGHK ABDKLMQ 0 Y
+stand stand none 0
+DIKL 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50501
+eposius evil guest~
+{!T{1he Evil Wizard Eposius{0~
+Eposius sits in a chair reading a book.
+~
+This evil creature was once a great noble of the amber palace but was
+expelled and exiled after abusing his incredible powers. He traveled
+the world of phoenix for a short while in a blind rage, until he stumbled
+upon the palace of king Kurama. In his madness, he worked his way into
+the depths of the palace, killing all that entered his path. He finally
+reached the evil King after days of wandering and mounted a great attack.
+Although his power was minute compared to the king's, he so impressed
+Kurama that he was offered sanctuary in the guest rooms. Having his rage
+sated by his fast defeat at the hands of the Lightning King, Eposius gladly
+accepted the offer and has lived here ever since.
+~
+feline~
+ABCDFHR DFJLTZc CDEH -1000 0
+156 5000 1000000d1+0 500d1+0 3000d1+0 beating
+0 0 0 0
+ADFGHIKO AB 0 0
+stand stand male 0
+AHMV ABCDEFGIJKLQU huge unknown
+F imm L
+F res BI
+F vul H
+M GRALL 50500 100~
+M GREET 50500 100~
+#50502
+erzrallia wizardress guest~
+{!T{1he Wizardress Erzrallia{0~
+The Wizardress Erzrallia is sleeping in her bed.
+~
+This beautiful pixie sorceress is very possibly one of the most beautiful
+creatures any have ever laid eyes on. Officially, she is an ambassador
+from the rainy spirit dimension, though it is rumored that Kurama has
+fallen in love with her, and prevents her from leaving through use of
+a powerful, hidden geas that removes her will to leave the palace.
+~
+pixie~
+ABRT EJT CDEH 10000 0
+157 5000 1250000d1+0 10000d1+0 1250d1+0 magic
+0 0 0 0
+AFIK AB P Z
+sleep stand female 0
+AHMV ABCDEFGHIJKP tiny unknown
+F res B
+#50503
+ragahrius sage guest~
+{!T{1he Sage Ragharius{0~
+Ragahrius the sage is passed out at his desk.
+~
+Ragahrius is a very old and wise sage visiting from another land. He has
+been travelling across the dimensions by himself and stumbled upon the Lightning
+Palace half-dead. After being ravaged by a wild pack of Vernicious Knids he
+pleaded mercy to Kurama. Realizing that he might be of some future use,
+Kurama agreed to shelter Ragahrius until he was completely healed, though
+he no longer seems to have a choice in when he leaves. He now gives advice
+and council to Kurama (When sober)
+~
+modron~
+ABQRT J CDEH 0 0
+159 5000 2000000d1+0 5000d1+0 1500d1+0 grep
+0 0 0 0
+AFK ABMNPQ 0 0
+stand stand male 0
+H ABCGHJK medium unknown
+F off QR
+F res HIK
+M GRALL 50502 100~
+M DELAY 50504 100~
+M DELAY 50503 100~
+#50504
+gainasius assassin guest~
+{!T{1he Red Assassin Gainasius{0~
+Gainasius lurks in the shadows.
+~
+This demon is evil incarnate. He was created when Satan himself raped
+a priestess from another dimension. He was bestowed the incredible
+power of his father, and the humanoid form of his mother, giving him
+all the advantages, and none of the penalties. He has left a trail of
+corpses in his wake, and no one knows why he chose to take residence
+at the Lightning Palace, though some believe that he may be in conspiring
+with Kurama towards some great evil. Or maybe he is just passing through.
+~
+demon~
+ABFGMST FJPQU H -1000 0
+152 5000 1000000d1+0 0d0+0 150d1+0 pierce
+0 0 0 0
+ABEFHIJK A CM 0
+stand stand male 0
+AHMV ABCDEFGHIJKQ medium unknown
+F vul NS
+M GREET 50501 100~
+#50505
+drow vampire lord ryzaro guest~
+{!T{1he Vampire Lord Ryzaro{0~
+The Drow Vampire Lord Ryzaro stands here with a blank look.
+~
+This evil creature was once renowned for his vileness and cruelty. Through
+sheer morbidness he stunned many opponents and fed on thier blood. He was
+perhaps most well known for his collection of "pets", which grew with
+each foe he slew. As the dead corpse fell to the earth, he would use his
+powerful magic to seperate the heads and place an animation spell on
+them. Before the entrance to his keep, he placed them on pikes and ordered
+them to scream their pains to any foolish enough to attempt entry.
+If the victim persisted, they would fly off thier perches and fiercly
+attack the unwanted visiter. Ryzaro heard of the great king Kurama
+and set out to add his head to the collection. Although he brought
+his entire army of heads, he only managed to infiltrate the top floors
+of the palace, where he and his army were abruptly stopped by Kurama
+himself. Upon seeing such a foolish attack, Kurama destroyed the army
+and dissolved Ryzaro's undead mind. He then placed the unthinking shell
+in one of his guest rooms, as a display that he might bring out when
+he so chose.
+~
+drow~
+ABGMPT Jc H -1000 0
+152 5000 1250000d1+0 5000d5000+0 2000d1+0 drain
+0 0 0 0
+AFGHIK A B SZ
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#50506
+mazer white paladin guest~
+{!T{1he White Paladin Mazer{0~
+Mazer the White Paladin stands here.
+~
+This valiant paladin has been travelling the dimensions in search of
+the Crest of Infinity. This powerful artifact is said to halt aging in
+its bearer. Being from a foreign land, Mazer did not know of Kurama's evil
+reputation and stopped at his palace to seek aid. When he told Kurama that
+he wanted to find the Crest of Infinity so that he could live forever and
+continue doing good. Upon hearing this and actually keeping a straight face,
+he decided to help Mazer with his quest on the condition that he return
+the crest for "further magical study" once he found it. That was over
+three hundred years ago, and Kurama has had the Crest of Infinity in his
+possession ever since. Every once in a while, he brings it to Mazer and
+keeps him from growing old, just for laughs.
+~
+human~
+ABT JV H 1000 0
+152 5000 1000000d1+0 0d0+0 500d1+0 cleave
+0 0 0 0
+ACEFHIK A 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#50507
+aurican king dragon~
+{!T{1he King of the Dragons, Aurican{0~
+Aurican, the King of all Dragons stands here.
+~
+A large golden dragon stands here, eyeing you as you enter. He stands 15
+feet tall and 20 feet long.  His massive wings are folded to his sides as he
+stands in greeting.  This was Kurama's long-time companion before he went
+insane.  Aurican helped him before he went mad so he stayed, and he now helps
+tresspassers by warning them of the dangers that lurk.  
+~
+dragon~
+AB DFJTVc H 1000 0
+154 5000 1000000d1+0 100d1+0 1600d1+0 divine
+0 0 0 0
+ADFKR AH BEH FI
+stand stand male 10000
+AHZ ACDEFGHIJKPQUVX giant unknown
+#50508
+ghost jason wise man~
+{!T{1he Memory of Jason{0~
+A peaceful ghost hovers here, the memories of Jason
+~
+This man was legendary for his intelligence, but had an equal amount
+of kindness. His life was short and tortured, filled by the torments
+of the foolish. Hounded constantly by those who hated him, took his
+own life by plunging from a great bridge. In his life, he was a great
+friend to Kurama, and in death, was brought back from the nothingness
+by the great king as a final gift. He now spends his time pondering
+life, death, cruelty, wisdom, foolishness, and all other things. He
+was a great man, and his final mistake was that of his own suicide.
+~
+human~
+ABQT DFTVW CDEHNP 1000 0
+158 9000 10000000d1+0 0d0+0 10000d1+0 divine
+-555 -555 -555 -5555
+0 ACD 0 0
+stand stand male 0
+CDHIKLc DE medium unknown
+F for AMV
+F par ABCFGHIJK
+M KILL 50506 100~
+M GRALL 50505 100~
+#50509
+prison guard~
+{!T{1he Prison Guard{0~
+A guard stands next to the throne.
+~
+This man was assigned to keep the people from entering and leaving
+the royal prison at will. He is tall, strong, and mean looking.
+~
+human~
+ABT DFV 0 0 0
+141 0 25000d1+1 0d0+0 100d1+0 pound
+0 0 0 0
+0 A C D
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50510
+moron filth wallowing~
+{!T{1he Idiot Tidie{0~
+The world's greatest moron sits here wallowing in his filth.
+~
+This pathetic little creature was imprisoned by Kurama shortly after
+they met. Showing extreme stupidity over and over, he finally infuriated
+Kurama so greatly that he was imprisoned and tortured, and here he
+remains. A filthy little 11 year old boy, with the intelligence of
+a burnt piece of toast. People would constantly follow him around, but
+only out of morbid curiosity. The world's only hope is that he does
+not manage to breed. When he opens his mouth it is only to switch his
+feet. He would be out of his depth in a parking lot puddle. He has
+delusions of adequacy. He is depriving a village somewhere of an idiot.
+He is a gross ignoramus, 144 times worse than a normal ignoramus.
+He takes a long time to make his pointless. He doesn't have ulcers,
+but he is a carrier. Many people would like to go hunting with him
+sometime. He would argue with a signpost. He brings alot of joy
+whenever he leaves a room. He has a photographic memory with the lense
+cap glued on. He is a prime candidate for natural deselection. The
+gates are down, the lights are flashing, but the train isnt coming.
+He has two brains, one is lost and the other is out looking for it.
+If you stand close enough to him you can hear the ocean. It's hard
+to believe he beat out 1,000,000 other sperm. Some drink from the
+fountain of knowledge; he only gargled. The wheel is turning, but
+the hamster is dead. He couldn't pour water out of a boot with instructions
+on the heel.
+~
+human~
+ACHS KQXYacd 0 0 0
+140 0 500d1+0 0d0+0 1d1+0 bite
+0 0 0 0
+N A 0 CD
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DELAY 50508 100~
+M DELAY 50509 100~
+M GRALL 50507 100~
+#50511
+twit wall confused~
+{!T{1he Twit Seifert{0~
+A confused little twit constantly walks face first into a wall.
+~
+This is one of the great idiots of the land. Completely lacking in
+moral fiber, intelligence, and all other things that may make someone
+popular. Before a fight with a mighty cleric, he agreed not to use any
+potions during the fight. When he was almost dead, he began quaffing
+like mad, and was only able to defeat the mighty opponent through sheer
+treachery. The mighty cleric arose a mighty complaint about Seifert's
+incredible cheating and another mighty cleric (And quite crafty
+at that!) heard the outcry and decided to avenge his mighty friend.
+Devising a crafty plan to play on the foolish Seifert, the mighty and
+wise cleric fooled the fool into killing himself. While Seifert stood
+waiting for his promotion to hero level, the crafty cleric went and
+stole the fool's corpse.
+~
+human~
+ABC 0 0 0 0
+5 0 1d1+0 0d0+0 1d1+0 slap
+0 0 0 0
+0 A 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50512
+none~
+A test~
+A test
+~
+~
+human~
+A 0 0 0 0
+151 0 500d1+0 0d0+0 500d1+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50513
+butt kisser sucker~
+{!T{1he Supreme Suck-Up Jorus{0~
+The supreme butt kisser of the universe is sucking on a rock.
+~
+This little man has become famous across the lands for having no
+self respect what so ever. Always the first to grovel to any immortal
+that was unfortunate enough to log on, he has been forgotten by more Gods
+than any other creature in the land. A constant fountain of extremely
+bad ideas, he continued to plague the land until Kurama finally became
+so disgusted with the creature that he imprisoned him in his dungeons.
+Here he has remained for ages, still kissing up to anyone he can find.
+~
+phoenix~
+ABCDGR DFJLTc 0 1000 0
+154 0 100000d1+0 5000d1+0 125d1+0 suction
+0 0 0 0
+FK ABH LQ IN
+stand stand none 0
+AHMW ABCDEFGIJKLP medium unknown
+M GRALL 50510 100~
+#0
+
+
+
+#OBJECTS
+#50500
+dagger kaines~
+{!T{1he Dagger Kaines{0~
+The Dagger Kaines sits here.~
+unknown~
+weapon CEGHJMPUZ AN
+dagger 3000 1 pierce BCDEH
+152 500 0 P
+#50501
+great sword white~
+gleaming White GreatSword~
+A gleaming white greatsword lies here.~
+unknown~
+weapon HMPSUZ AN
+sword 1250 1 cleave A
+152 0 0 P
+#50502
+burden wisdom~
+{!T{1he Burden of Wisdom{0~
+The burden of wisdom, unremovable and permanent lies here.~
+unknown~
+treasure CGHMPSUYZ 0
+0 0 0 0 0
+0 99999999 0 P
+#50503
+prison key~
+an Iron Key~
+The key to the prison~
+iron~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#50500
+{$The Path To The Lightning Palace{0~
+You stand on a long winding path leading up to the fabled Lightning Palace.
+It is very dark here, and a constant storm pervades the area, blocking
+out all sunlight. A small slightly charred sign stands among the blackened
+and burnt trees.
+~
+0 1 3
+E
+sign~
+{!{zWARNING{1 do not enter this area unless you are a group of heroes, or
+a very pumped up character! There are aggressive mobs in here that will
+very quickly reduce any one player to a messy red puddle. This is
+your only warning. Enjoy.
+ 
+ 
+                                   Kurama, The Lightning King{0
+~
+D0
+~
+~
+0 0 50501
+S
+#50501
+{$The Gates To The Lightning Palace{0~
+You stand before a pair of great black iron gates that lead into the
+main entrance of the Lightning Palace. Kurama The Lightning King is
+said to be a very powerful warlock, and collector of voodoo dolls. To
+promote the growth of his collection, he has laid a spell of negation across
+his entire palace that prevents all types of transportation spells.
+~
+0 1 3
+E
+gates~
+A very large pair of iron gates stand here. They are surprisingly easy
+to open, making you wonder what lies beyond.
+~
+D0
+~
+~
+0 0 50502
+D2
+~
+~
+0 0 50500
+S
+#50502
+{$Inside The Lightning Palace{0~
+You are standing inside the main entrance to the Lightning Palace.
+Paintings and murals adorn every one of the granite walls in this grand hall.
+Large columns of marble are placed throughout and add a sense of elegance,
+partly masking the feeling of incredible evil and danger that pervades
+the area.
+~
+0 8 0
+D0
+~
+~
+0 0 50503
+D2
+~
+~
+0 0 50501
+S
+#50503
+{$Inside The Lightning Palace{0~
+This grand granite entrance hall continues steadily towards the throne
+room. Large marble pillars stand to either side, and cast shadows
+across the floor.
+~
+0 8192 0
+D0
+~
+~
+0 0 50504
+D2
+~
+~
+0 0 50502
+S
+#50504
+{$The Grand Throne Room{0~
+You are in a huge room with a large domed ceiling that vanishes into
+darkness. In the far end of the room sits a giant throne made out of
+pure obsidian. To the west lies the entrance to the guest wing of the
+palace, and to the east lie the royal quarters.
+~
+0 8192 0
+E
+throne~
+This giant obsidian throne is where the Lightning King sits when he
+makes all his important deciscions. Although it looks to be very heavy,
+there seem to be a set of small tracks hidden and inlaid next to it.
+~
+D0
+~
+~
+4 50503 50517
+D2
+~
+~
+0 0 50503
+D3
+~
+~
+0 0 50505
+S
+#50505
+{$The Guest Wing Corridor{0~
+You are in a dimly lit corridor that stretches throughout the west wing
+and connects all the guest rooms. To the north and south lie doors into
+the guests rooms. To the east lies the throne room, and the corridor
+continues to the west.
+~
+0 8192 0
+D0
+~
+~
+0 0 50507
+D1
+~
+~
+0 0 50504
+D2
+~
+~
+0 0 50506
+D3
+~
+~
+0 0 50508
+S
+#50506
+{$A Guest Room{0~
+You are standing in a large, bright room lined with torches. There are
+gaily colored fabrics placed all about the room, and the contrast from
+the rest of the palace makes your eyes hurt. Eposius is sitting at
+his desk reading from a deep tome, and he looks up as you enter. He doesnt
+look very happy about being barged in on.
+~
+0 8192 0
+D0
+~
+~
+0 0 50505
+S
+#50507
+{$A Guest Room{0~
+You are in one of the many guest rooms in the palace. As with the other
+guest rooms, this one is substancially brighter than the corridor outside.
+Erzrallia sits asleep in her silken bed, oblivious to your entrance.
+~
+0 8192 0
+D2
+~
+~
+0 0 50505
+S
+#50508
+{$The Guest Wing Corridor{0~
+You are standing in the west wing corridor that connects all the guest
+rooms. To the north and south lie the guest rooms. To the west the hall
+continues, and further to the east lies the throne room.
+~
+0 8192 0
+D0
+~
+~
+0 0 50510
+D1
+~
+~
+0 0 50505
+D2
+~
+~
+0 0 50509
+D3
+~
+~
+0 0 50511
+S
+#50509
+{$A Guest Room{0~
+You are in a bright and colorful room with a bed in one corner, and
+in the other corner sits a desk, which is currently occupied by this room's
+guest. The wise sage Ragahrius sits passed out next to a bottle of grog.
+The exit lies to the north, and there is a window to the south.
+~
+0 8192 0
+D0
+~
+~
+0 0 50508
+S
+#50510
+{$A Guest Room{0~
+You are standing one of the palace's brightly decorated guest rooms.
+This room is somewhat darker than the rest, as is the person occupying
+it. Gainasius can often be found here, unless you try to enter without
+his permission. Though people who do that often find his famous dagger
+"Kaines" in thier back.
+~
+0 8192 0
+D2
+~
+~
+0 0 50508
+S
+#50511
+{$The Guest Wing Corridor{0~
+You are standing in the west wing guest hall corridor. It is dimly lit,
+and made of smooth polished granite. To the north and south lie the
+guest rooms. Going eastward would take you back to the throne room,
+and the hall continues to the west.
+~
+0 8192 0
+D0
+~
+~
+0 0 50513
+D1
+~
+~
+0 0 50508
+D2
+~
+~
+0 0 50512
+D3
+~
+~
+0 0 50514
+S
+#50512
+{$A Guest Room{0~
+You are in the room of Ryzaro, the infamous vampire lord. This guest room
+has fallen to great dissrepair and is very cold and dark compared to
+the others. There is no furniture here, as the resident has no use of it.
+to the A door to the north leads back to the guest wing corridor.
+~
+0 8192 0
+D0
+~
+~
+0 0 50511
+S
+#50513
+{$A Guest Room{0~
+You are standing in the guest room of Mazer, the White Paladin. This
+room has slightly less colors than the rest of the guest rooms, but
+is still considerably brighter than the rest of the palace. A great
+tower shield is leaning up against one wall, and a faintly glowing
+white helmet sits on the desk. The door to the south leads back to
+the guest wing hallway.
+~
+0 8192 0
+E
+shield~
+This giant white tower shield has painted on its front a crimson
+flaming eagle. Surely the man who would wear this must be powerful.
+~
+E
+helmet~
+This resplendant white helm glows with an aura of goodness, though it
+has grown fairly dull due to lack of use.
+~
+D2
+~
+~
+0 0 50511
+S
+#50514
+{$The Guest Wing Corridor{0~
+You are at the western end of the guest wing. This hall connects all
+the guest rooms in the palace together. More rooms lie to the north and
+south, and far to the east is the throne room.
+~
+0 8192 0
+D0
+~
+~
+0 0 50516
+D1
+~
+~
+0 0 50511
+D2
+~
+~
+0 0 50515
+S
+#50515
+The dragon's room~
+~
+0 0 0
+D0
+~
+~
+0 0 50514
+S
+#50516
+{$A Guest Room{0~
+This is the room of Jason. It is warm and glowing, with an amber tint
+to it. Everything in the room is completely tasteful, and radiates
+an aura of extreme peace and happiness. It seems that to violate
+this peace would be a crime worse than any other. An open door to the
+south leads back to the corridor, and a window to the west shows a
+beautiful scene of the mountains.
+A small plaque lies unobtrusively to the side.
+~
+0 8192 0
+E
+plaque~
+This is for you Jason, God forgive your sins, God bless your life.
+May we never forget you.
+"If we do not learn from our mistakes, we are doomed to repeat them."
+                         --Unknown
+~
+D2
+~
+~
+0 0 50514
+S
+#50517
+{*The Prison{0~
+You are in a very dark and dingy corridor with greasy stone walls.
+dim torches line each of the walls and provide very little light.
+There is a massive iron door to the south, and the hall continues
+on to the north where there are cells.
+~
+0 8192 0
+D0
+~
+~
+0 0 50518
+D2
+~
+~
+4 50503 50504
+S
+#50518
+{*The Prison{0~
+The stone walls, floor, and cieling are covered in an inch thick layer
+of soot which dampens all sound. Pitiful whimpers come from the east
+and west, the pathetic prisoners wallowing in torture. More cells lie
+to the north, and further to the south lies the exit.
+~
+0 8192 0
+D0
+~
+~
+0 0 50521
+D1
+~
+~
+4 50503 50520
+D2
+~
+~
+0 0 50517
+D3
+~
+~
+4 50503 50519
+S
+#50519
+{*A Prison Cell{0~
+This is a dark, greasy, smokey, filthy little rat hole, home to the
+greatest rat of all time. The walls are all covered in and smeared
+with human filth, and there is a rotting pile of straw in the corner.
+a dirty puddle sits in another corner and serves as a source of water.
+Yes, this is the prison cell of none other than Tidie.
+A giant iron door lies to the east, preventing the stupidity from
+escaping to the outside world.
+~
+0 8193 0
+D1
+~
+~
+4 50503 50518
+S
+#50520
+{*A Prison Cell{0~
+This is a small, cramped cell, with dark fungus growing along the walls.
+There is a pile of hay in one corner that looks entirely unused.
+Apparently the resident of this cell was too stupid to figure out what
+it was for. There is a heavy iron door to the west.
+~
+0 8193 0
+D3
+~
+~
+4 50503 50518
+S
+#50521
+{*The Prison{0~
+There is a small drain in the middle of the hall here for blood, urine,
+and various other liquids to drain. A foul odor comes from the door
+to the east, and loud sucking sounds can be heard. The hall continues
+on a bit to the north, and the exit from the prison lies to the south.
+~
+0 8192 0
+D1
+~
+~
+4 50503 50522
+D2
+~
+~
+0 0 50518
+S
+#50522
+{*A Prison Cell{0~
+This is a meticulously clean cell, with bright torches in every corner,
+and a clean pile of straw neatly arranged to the side. Large dark
+spots reside everywhere on the walls, floor, and ceiling. They almost
+look like hickeys! There is a large iron door to the west.
+~
+0 8192 0
+D3
+~
+~
+4 50503 50521
+S
+#0
+
+
+
+#SPECIALS
+M 50504 spec_nasty
+M 50505 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 50504 0 2
+D 0 50517 2 2
+D 0 50518 1 2
+D 0 50518 3 2
+D 0 50519 1 2
+D 0 50520 3 2
+D 0 50521 1 2
+D 0 50522 3 2
+M 0 50500 1 50501 1
+M 0 50509 1 50504 1
+G 0 50503 0
+M 0 50501 1 50506 1
+M 0 50501 1 50506 1
+M 0 50502 1 50507 1
+M 0 50503 1 50509 1
+M 0 50504 1 50510 1
+E 0 50500 0 16
+E 0 50500 0 19
+M 0 50505 1 50512 1
+M 0 50506 1 50513 1
+E 0 50501 0 16
+M 0 50508 1 50516 1
+E 0 50502 0 28
+M 0 50510 1 50519 1
+M 0 50511 1 50520 1
+M 0 50513 1 50522 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#50500
+say How dare you enter my room?!
+charge $n
+~
+#50501
+if isgood $n
+say Your time has come, little angel.
+else
+if isneutral $n
+say If you were evil, I might have spared you.
+else
+if isevil $n
+say Oh ho! Someone almost as evil as me! Ready to die?
+~
+#50502
+mob reset
+mob echo Ragahrius mumbles 'royal.........fake...'
+mob delay 4
+~
+#50503
+mob echo Ragahrius mumbles 'throne...'
+mob cancel
+mob delay 13
+~
+#50504
+mob echo Ragahrius mumbles 'must kill... Tidie... little moron... must die...'
+~
+#50505
+say Where is the fairness in life?
+say The fools run round and round, happy as a bird, while the gifted are persecuted to the death?
+~
+#50506
+say You fool, you have disrupted the sanctity of my chambers.
+mob echoat $n Jason shakes his head sorrowfully as a searing white light burns through your body.
+mob echoaround $n Jason shakes his head sorrowfully as a searing white light fills the room.
+mob damage $n 80000 150000 lethal
+~
+#50507
+say AREE YoU CHADWICK?!!???!?!?!?!!?!?!!??!
+mob delay 3
+~
+#50508
+mob cancel
+say HEy BuTt MUncH!!!!!!!!!!!!! LEtS GO TO ThEE MoVIES!!!!?!?!!?!?!!?!!?!!
+mob delay 3
+~
+#50509
+mob reset
+say IM GoinG TO tELl MY SISter abOUT What YoOU sAID AbOUt her if YOU DONT GO aWay!!!!!!!!!
+slap $n
+spit $n
+delay 4
+~
+#50510
+worship $n
+grovel
+say Oh master! Oh master! Bless me with you spittle oh great one!
+say Hey, I had a great idea!
+say How about we promote all the players to immortal status, then let them try to kill each other!
+mob echo Jorus puckers up and plants his lips square on your rear end, perhaps a crowbar would come in handy?
+~
+#0
+
+#$

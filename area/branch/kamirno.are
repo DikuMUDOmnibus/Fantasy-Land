@@ -1,0 +1,5523 @@
+#AREADATA
+Name Kamirno Isle~
+Builders None~
+VNUMs 400 599
+Credits [ 80 151] Ronni    Kamirno Isle~
+Security 9
+End
+
+
+
+#MOBILES
+#400
+yellow jacket yellowjacket~
+{WA {Yy{ye{Yl{yl{Yo{yw {Dj{Ya{yc{Dk{Ye{yt{x~
+A Yellow Jacket is buzzing around your head.
+~
+It's larger then most yellow jackets and a lot more violent.  It seems to
+be being controlled by the magical beings that rule this land.  
+~
+centipede~
+AG TZ 0 0 0
+100 10 12d562+5460 1d1+499 5d20+50 sting
+-52 -52 -52 -21
+FH A FI E
+stand stand female 1500
+ABGO AKP medium unknown
+F par C
+#401
+alligator gator~
+an {gal{Gli{ggat{Gor{x~
+An alligator is here awaiting your approach.
+~
+All you really can see are its huge teeth ready to take a piece out of
+you.  
+~
+lizard~
+AFG 0 0 0 0
+120 10 12d808+7280 1d1+499 6d20+60 bite
+-65 -65 -65 -27
+FH A L I
+stand stand male 1500
+ACGXc ACDEFHKQV medium unknown
+#402
+dragon fly dragonfly~
+{WA {wd{Cr{ma{Wg{Co{mn{Df{Cl{wy{x~
+A dragonfly buzzes around here.
+~
+This normally harmless insect is seemingly being controlled by a higher
+power than itself.  Though a dragonfly normally exists to reproduce, it
+seems its new orders are to protect.  
+~
+centipede~
+AG Z 0 0 0
+100 10 12d562+5460 1d1+499 5d20+50 sting
+-52 -52 -52 -21
+FH A FI E
+stand stand male 1500
+ABGO AKP medium unknown
+F par C
+#403
+piranha~
+{wa {Cp{Di{Yr{Ca{Dn{Yh{Ca{x~
+A piranha is waiting for some fresh meat.
+~
+So many teeth, in such a small mouth.  
+~
+sea-elf~
+AFG Fb 0 0 0
+112 10 12d704+6530 1d1+499 6d19+56 chomp
+-60 -60 -60 -25
+FH A IR HZ
+stand stand male 1500
+AHbc ADEFKQX medium unknown
+F for M
+F par BCGHIJ
+#404
+water strider~
+{wA {Cw{Wa{wt{Ce{Wr {ws{Ct{Wr{wi{Cd{We{wr{x~
+A water strider is floating around on the water.
+~
+It's just a small little spider gliding around aimlessly on the water.  
+~
+human~
+AG 0 0 0 0
+104 10 12d607+5810 1d1+499 5d21+54 charge
+-55 -55 -55 -22
+FH AR I 0
+stand stand male 1500
+AHP ACDEFK medium unknown
+F for MV
+F par BGHIJ
+#405
+swamp wraith~
+a swamp wraith~
+A Swamp Wraith jumps out of the water!
+~
+This beast of magical construct has taken the form of a mighty gladiator
+and is fixated on destroying you.  
+~
+human~
+AFGT I 0 0 0
+116 10 12d755+6900 1d1+499 6d19+58 pound
+-62 -62 -62 -21
+FHI AIR 0 J
+stand stand female 1500
+ACDHKMV ABCDEFGHIJK medium unknown
+#406
+rattler~
+a rattler~
+A rattler is here floating on the water.
+~
+It's a small, colourful snake that's looking for a meal.  
+~
+snake~
+AG 0 0 0 0
+108 10 12d655+6160 1d1+499 6d18+54 bite
+-57 -57 -57 -23
+FH A L I
+stand stand male 1500
+AGXYc ADEFKLQVX medium unknown
+#407
+old seer healer~
+The Old Seer~
+An Old Seer is here waiting to help someone out.
+~
+It's a small, frail old man covered in brown robes and having a white
+beard that reaches his waist.  He tells you a tale about his travels and
+offers you some assistance.  Type heal for a list of spells.  
+~
+human~
+ABGa 0 0 0 0
+200 10 1d1+999 1d1+499 1d1+99 slap
+0 0 0 0
+FH ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#408
+keeper man odd~
+Odd old man~
+An odd old man is walking around, talking to himself.
+~
+He's only about 5 feet tall and wears only a green, tattered gown.  He's
+talking to himself, but the words are incomprehensible.  He sees you and
+points to the wonderful creatures he has for sale.  
+~
+human~
+AB 0 0 0 0
+200 5000 500d500+5000 1d1+499 500d500+5000 slap
+-90 -90 -90 -90
+FH ABCDLQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#409
+shadow hawk shadowhawk~
+A Shadowhawk~
+A Shadowhawk circles above.
+~
+It circles high above, protecting its master.  
+~
+song bird~
+AI T 0 0 0
+110 10 12d679+6350 0d0+0 6d18+55 claw
+-58 -58 -58 -24
+FHN 0 0 0
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#410
+phoenix~
+A phoenix~
+A phoenix rests on its master's shoulder.
+~
+It's a red bird with an aura of heat emanating from it.  It watches you
+carefully making sure you bring no harm to its master.  
+~
+song bird~
+AI DFT D 0 0
+120 10 12d808+7280 1d1+499 6d20+60 flame
+-65 -65 -65 -27
+FHN H 0 I
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#411
+demon~
+A demon~
+A small demon is bouncing all over the room.
+~
+It's maybe 2 feet high, but it leaps all around the room and has a look
+in its eye that makes you realize he's a powerful ally to its master.  
+~
+troll~
+AI DFJc 0 0 0
+130 10 12d949+8270 1d1+499 6d22+65 bite
+-71 -71 -71 -30
+DFHN 0 BE HK
+stand stand none 0
+ABHMV ABCDEFGHIJKUV medium unknown
+#412
+panther black~
+A black panther~
+A black panther creeps slowly to its prey.
+~
+A slender panther with its glowing black fur stares distrustfully at you.
+The way it licks its mouth, lets you know its hungry.  
+~
+cat~
+AI DFZ 0 0 0
+140 250 13d1015+9300 1d1+499 6d23+70 scratch
+-77 -77 -77 -33
+FHN 0 I H
+stand stand none 0
+AGV ACDEFHJKQUV medium unknown
+#413
+cockatrice~
+A Cockatrice~
+A Cockatrice awaits its next victim.
+~
+The legendary half lizard, half chicken creature, the cockatrice stands
+before you.  Be careful not to look into its eyes...  
+~
+lizard~
+ABFGT DF DEH 0 0
+191 35 13d1792+75000 1d1+499 6d30+1100 wrath
+-108 -108 -108 -49
+0 ABGH JKL I
+stand stand male 9000
+ACGXc ACDEFHKPQV medium unknown
+#414
+blood beast small~
+A blood beast~
+A small beast is here, blood dripping from his fangs.
+~
+As he looks you over, a chunk of his former victim falls from his mouth.  
+~
+dog~
+AGS 0 0 0 0
+120 10 12d808+7280 1d1+499 6d20+60 chomp
+-65 -65 -65 -27
+EFH A 0 0
+stand stand female 3000
+AGV ACDEFHJKUV medium unknown
+#415
+bloody angno~
+A Bloody Angno~
+The Bloody Angno rises up and hisses at you.
+~
+Acid drips from his fangs, and blood oozes out the pores of his skin.  
+~
+lizard~
+AGS 0 0 0 0
+124 10 12d863+7670 1d1+499 6d21+62 pierce
+-67 -67 -67 -28
+EFH AK L I
+stand stand female 3000
+ACGXc ACDEFHKQV medium unknown
+#416
+laxian man~
+A Laxian~
+The Laxian glares at you contemptuously.
+~
+This 'man' growls at you in a low voice.  Walk away, quickly.  
+~
+human~
+AFGS 0 0 0 0
+140 10 13d1015+9300 1d1+499 6d23+70 stab
+-77 -77 -77 -33
+EFH A 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#417
+taglo~
+A Taglo~
+The evil taglo's gaze sends a shiver down your spine.
+~
+As you meet his gaze, you become transfixed by the evil of this beast. 
+When you regain your senses and look again, he is gone.  
+~
+human~
+AGS 0 0 0 0
+136 10 13d958+8880 1d1+499 6d23+68 charge
+-75 -75 -75 -32
+EFHN A 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+#418
+rogue~
+A Rogue~
+A Rogue slinks in the shadows.
+~
+A seedy little man eyes your money purse and readies himself to slit your
+throat.  
+~
+human~
+AGS 0 0 0 0
+132 10 12d978+8470 1d1+499 6d22+66 slash
+-72 -72 -72 -31
+EFHN A 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#419
+earth viper~
+An Earth Viper~
+Some earth animated in the form of a snake hisses at you.
+~
+Some earth has been animated to take the form of a snake.  It hisses
+distrustfully at you and readies to attack.  
+~
+lizard~
+AFGS 0 0 0 0
+120 10 12d808+7280 1d1+499 6d20+60 slash
+-65 -65 -65 -27
+EFHN A L IR
+stand stand female 3000
+ACGXc ACDEFHKQV medium earth
+#420
+dark stalker~
+A Dark Stalker~
+A dark Stalker looks you over.
+~
+A wolf-man beast, the Stalker sniffs at you and begins to drool.  
+~
+wolf~
+AFG Z 0 0 0
+128 10 12d920+8070 1d1+499 6d21+64 punch
+-70 -70 -70 -30
+FHN A 0 0
+stand stand female 3000
+AGHMV ABCDEFGHIJKQUV medium unknown
+#421
+hill giant druid~
+A Hill Giant Druid~
+A Hill Giant Druid is looking for some herbs.
+~
+He searches the ground for herbs for his next potion.  He stops to take a
+look at you, then carries on.  
+~
+giant~
+AGQ 0 0 0 0
+145 15 13d1089+9830 1d1+499 6d24+72 pound
+-80 -80 -80 -35
+FHIN A HI JP
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#422
+gorgon~
+The Gorgon~
+The half man, half bull Gorgon is standing here.
+~
+It's a bipedal bull, and it's not happy.  
+~
+titan~
+AG Da 0 0 0
+145 15 13d1089+9830 1d1+499 6d24+72 charge
+-80 -80 -80 -35
+FHN AB D 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+#423
+undead giant thief~
+An undead giant thief~
+An undead giant thief is waiting for you.
+~
+This giant has been given a second chance by the Sinistrals in an undead
+form to extract some revenge on those that robbed him of his natural life. 
+You're one target.  
+~
+giant~
+AG 0 0 0 0
+150 15 13d1166+10380 1d1+499 6d25+75 pierce
+-83 -83 -83 -36
+EFHIN AM 0 HNP
+stand stand female 6000
+AHMV ABCDEFGHIJK medium unknown
+F res HI
+F vul J
+#424
+bone golem~
+A bone golem~
+A golem made of bone wanders aimlessly.
+~
+The Sinistrals seemingly animated a skeleton and changed it into the more
+solid form of a golem that stands in front of you now.  
+~
+human~
+AGT 0 0 0 0
+150 15 13d1166+10380 1d1+499 6d25+75 pound
+-83 -83 -83 -36
+EFHIN AM 0 HN
+stand stand female 6000
+HJMV ABCDEFGHIJK medium unknown
+F for A
+#425
+sand giant mage~
+A Sand Giant mage~
+A Sand Giant mage is practicing create spring.
+~
+Someone this big and living in the desert must be fortunate to be a mage,
+so it can create its own water.  
+~
+giant~
+AGR 0 0 0 0
+155 15 13d1247+10930 1d1+499 6d26+77 pound
+-86 -86 -86 -38
+EFHIK A 0 0
+stand stand female 7500
+AHMV ABCDEFGHIJK medium unknown
+F res HI
+F vul JP
+#426
+sand golem~
+A Sand Golem~
+Some sand has been formed into a golem.
+~
+Grains of sand have been animated and formed together to make this golem
+and knowing the Sinistrals are doing the animating, be sure it's tough.  
+~
+human~
+AGT 0 0 0 0
+155 15 13d1247+10930 1d1+499 6d26+77 thwack
+-86 -86 -86 -38
+EFHIK A 0 0
+stand stand male 7500
+AHMV ABCDEFGHIJK medium unknown
+#427
+giant frost warrior~
+A Frost Giant Warrior~
+A Frost Giant Warrior is searching for food.
+~
+To survive on a frozen wasteland takes a lot of survival and hunting
+knowledge.  This giant obviously has it...  And you're looking mighty tasty
+to him.  
+~
+giant~
+AGT 0 0 0 0
+160 15 13d1322+11680 1d1+499 6d27+79 pound
+-90 -90 -90 -40
+EFHIK AI 0 H
+stand stand male 8000
+AHMV ABCDEFGHIJK medium unknown
+F res HI
+F vul JP
+#428
+golem ice~
+an ice golem~
+An ice golem waits.
+~
+It's an intricately carved block of ice animated into a deadly warrior by
+the Sinistrals.  
+~
+human~
+AGT 0 0 0 0
+160 15 13d1322+11680 1d1+499 6d27+79 bite
+-90 -90 -90 -40
+EFHIK AI 0 H
+stand stand male 8000
+AHMV ABCDEFGHIJK medium unknown
+#429
+fire giant antipaladin~
+A Fire Giant Anti-Paladin~
+A Fire Giant Anti-Paladin gets his axe ready.
+~
+He's here to see that you don't make it to see the Sinistrals.  
+~
+giant~
+AGRT 0 0 0 0
+165 15 13d1405+12420 1d1+499 6d28+82 chomp
+-93 -93 -93 -41
+EFHIK AH 0 I
+stand stand female 8500
+AHMV ABCDEFGHIJK medium unknown
+F res HI
+F vul JP
+#430
+magma golem~
+A magma golem~
+Some magma form into a golem before your eyes.
+~
+The magma that was bubbling around you has come to life.  
+~
+human~
+AGT 0 0 0 0
+165 15 13d1405+12420 1d1+499 6d28+82 punch
+-93 -93 -93 -41
+EFHIK AH 0 I
+stand stand male 8500
+AHMV ABCDEFGHIJK medium unknown
+#431
+cloud giant cleric~
+A Cloud Giant Cleric~
+A Cloud Giant Cleric glares at you.
+~
+This huge mountain dweller glares at the first sign of human life he has
+seen in some time....  And he doesn't like it.  
+~
+giant~
+AGQT 0 0 0 0
+170 15 13d1488+12940 1d1+499 6d28+84 pound
+-96 -96 -96 -43
+EFHIK A IJ 0
+stand stand male 9000
+AHMV ABCDEFGHIJK medium unknown
+F res H
+F vul JP
+#432
+gold gargoyle~
+A Gold Gargoyle~
+A Gold Gargoyle hovers here.
+~
+This gargoyle has been intricately forged from some bricks of gold.  The
+insignia of the Sinistrals stands out on its chest.  
+~
+human~
+AGT 0 0 0 0
+170 15 13d1488+12940 1d1+499 6d28+84 thwack
+-96 -96 -96 -43
+EFHIK A CD 0
+stand stand male 9000
+AHMV ABCDEFGHIJK medium unknown
+#433
+storm giant assassin~
+A Storm Giant Assassin~
+A Storm Giant Assassin tries to prevent you from making it to the Sinistrals.
+~
+This fierce giant is doing what he can to prevent you from making it up
+the next flight of stairs.  
+~
+giant~
+AFGST DFTVc 0 0 0
+180 25 13d1635+13400 1d1+499 6d30+88 slap
+-102 -102 -102 -46
+EFHIK AJ CD 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+F res HI
+F vul JP
+#434
+platinum gargoyle~
+A Platinum Gargoyle~
+A Platinum Gargoyle impedes your progress.
+~
+A gargoyle of platinum forged and animated by the Sinistrals will do its
+best to make sure you don't make it up the next set of stairs.  
+~
+human~
+AFGT DFTVc 0 0 0
+180 25 13d1635+13400 1d1+499 6d30+88 wrath
+-102 -102 -102 -46
+EFHIK AJ CD 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#435
+Idura~
+Idura~
+Idura, the Sinistral lackey prepares to attack.
+~
+The Sinistrals have given this young man everything he's ever wanted. 
+All they wanted in return was his life.  
+~
+human~
+ABFGS DFVc CEH 0 0
+185 40 13d1705+65000 1d1+499 6d30+1100 slap
+-105 -105 -105 -48
+BEFIK A 0 0
+stand stand male 11000
+AHMV ABCDEFGHIJK medium unknown
+#436
+Juana sinistral~
+Juana~
+Juana, the Sinistral cleric awaits your presence.
+~
+An attractive young woman, well schooled in the clerical magic stands
+before you.  As one of the four Sinistrals, she won't be easy to defeat 
+~
+human~
+ABFGQ DVc CDEH 0 0
+190 40 13d1792+75000 1d1+499 6d30+1100 charge
+-108 -108 -108 -49
+FHIK ABMN C G
+stand stand female 12500
+AHMV ABCDEFGHIJK medium unknown
+#437
+ikawa~
+Ikawa~
+Ikawa, the Sinistral mage has been waiting for you to show.
+~
+This young man is well schooled in the black magic.  As one of the four
+Sinistrals, this will not be an easy fight 
+~
+human~
+ABFGR DFVc CDEH 0 0
+190 40 13d1792+75000 1d1+499 6d30+1100 magic
+-108 -108 -108 -49
+FHIK ABJ 0 H
+stand stand none 12500
+AHMV ABCDEFGHIJK medium unknown
+#438
+Kohno~
+Kohno~
+Kohno, the Sinistral sword master is practising his manoeuvres.
+~
+This young, strong looking man carefully practices his art form.  As one
+of the four Sinistrals, this guy is going to be tough.  
+~
+human~
+ABFGT DFVc 0 0 0
+190 40 13d1792+75000 1d1+499 6d30+1100 pound
+-108 -108 -108 -49
+CEFHIK AB CD 0
+stand stand male 12500
+AHMV ABCDEFGHIJK medium unknown
+#439
+shacho sinistral~
+Shacho~
+Shacho, the Sinistral master prepares to do battle with you.
+~
+He towers over your puny form and gives a little chuckle.  He has
+gathered much knowledge through his travels and is now ready to command the
+universe.  He is well schooled in all magic and won't be an easy mark.  
+~
+human~
+ABFGR DFVc CDEH 0 0
+200 50 13d1938+100000 1d1+499 20d50+1400 divine
+-114 -114 -114 -52
+EFHIK ABKMN F 0
+stand stand male 15000
+AHMV ABCDEFGHIJK medium unknown
+#440
+dragon~
+a dragon~
+A dragon follows it's master.
+~
+~
+dragon~
+AIRV DFJUZ 0 0 0
+150 150 13d1900+8888 1d3000+100 50d10+63 digestion
+-1188 -1188 -1188 -900
+CFHIN 0 BEH FI
+stand stand none 0
+ACHZ ACDEFGHIJKPQUVX giant unknown
+F aff T
+#0
+
+
+
+#OBJECTS
+#400
+key platinum~
+a {Wplatinum{x key~
+A platinum key glistens in the light.~
+platinum~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#401
+golden key~
+a {Ygolden{x key~
+A golden key lies on the ground.~
+gold~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#402
+a {8silver{x key~
+a {8silver{w key~
+A silver key is here.~
+silver~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#403
+bronze key~
+a {rbronze{x key~
+A bronze key has been tossed aside.~
+bronze~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#404
+small pouch~
+a small pouch~
+A small pouch has been discarded.~
+leather~
+container Y A
+10 0 0 10 100
+0 5 130 P
+#405
+blanket phoenix feathers~
+a blanket of {Rphoenix{x feathers~
+A blanket of phoenix feathers looks rather inviting.~
+feather~
+furniture A 0
+3 10000 EHK 2500 2500
+0 0 0 P
+#406
+corpse adventurer~
+a failed adventurer's corpse~
+The rotting corpse of a failed adventurer litters the room.~
+flesh~
+npc_corpse 0 0
+0 0 0 0 0
+0 0 0 P
+E
+corpse~
+A cold body is lying here.  He came in search of the legendary gaze
+weapon that so many others have failed to get before him.  
+~
+#407
+gaze cockatrice~
+{WGaze{x of the {CCockatrice{x~
+The piercing gaze of the cockatrice goes right through you!~
+glass~
+weapon BM AN
+exotic 25 18 wrath DEG
+145 3 12100 P
+A
+18 90
+A
+19 100
+A
+13 210
+#408
+oaken halberd~
+a large {yoaken {Dh{Wa{wl{Db{we{Wr{Dd{x~
+A large oaken halberd has been discarded.~
+oak~
+weapon 0 AN
+polearm 12 19 stab DF
+110 15 6400 P
+A
+1 6
+A
+19 40
+A
+18 35
+#409
+gorgon rock~
+a Gorgon {Drock{x~
+A Gorgon rock is glowing in the dirt.~
+flesh~
+armor B AQ
+23 23 23 14 0
+115 8 7500 P
+A
+1 10
+A
+19 10
+A
+18 12
+A
+13 150
+#410
+shimmering portal~
+a shimmering portal~
+This shimmering portal is the only hope out of here.~
+energy~
+portal A A
+10 0 0 596 0
+0 0 0 P
+#411
+mark sinistral~
+the mark of the Sinistrals~
+The mark of the Sinistrals hums ominously.~
+etherealness~
+armor B AV
+35 35 35 30 0
+151 7 12000 P
+A
+12 350
+A
+13 350
+A
+4 5
+A
+3 5
+#412
+mace valour~
+the mighty mace '{CValour{x'~
+A glowing mace lies here.~
+unknown~
+weapon ABI AN
+mace 25 20 blast BG
+151 16 31000 P
+A
+5 6
+A
+18 85
+A
+19 90
+#413
+shadow shroud~
+the {8shadow{x shroud~
+A dark shroud has been tossed aside.~
+shadow~
+armor C AK
+35 35 35 30 0
+151 3 12000 P
+A
+13 220
+A
+18 10
+A
+19 10
+A
+12 100
+#414
+ring divinity~
+the ring '{WDivinity{x'~
+A small ring named divinity lies here.~
+glass~
+armor 0 AB
+35 35 35 30 0
+151 3 23000 P
+A
+19 20
+A
+18 20
+A
+12 1000
+A
+4 4
+A
+20 -10
+A
+13 150
+#415
+belt majesty~
+the belt '{RMajesty{x'~
+A thin leather belt called majesty is here.~
+leather~
+armor I AL
+35 35 35 30 0
+151 2 13000 P
+A
+20 -20
+A
+1 5
+A
+13 150
+A
+12 100
+#416
+boots stealth~
+the boots '{yStealth{x'~
+A pair of leather boots named Stealth have been discarded.~
+leather~
+armor A AG
+35 35 35 30 0
+151 5 17500 P
+A
+19 20
+A
+18 20
+A
+14 500
+F
+A 0 0 P
+A
+13 190
+A
+2 4
+#417
+earring jade~
+a shimmering {Gjade{x earring~
+A shimmering jade earring glows silently.~
+jade~
+armor A AS
+35 35 35 30 0
+151 3 19000 P
+A
+13 175
+A
+3 3
+A
+20 -8
+A
+12 50
+#418
+skull demon shield~
+a demon skull shield~
+The skull of a demon has been made into a shield.~
+bone~
+armor C AJ
+35 35 35 30 0
+151 20 20000 P
+A
+13 200
+A
+12 175
+A
+1 6
+#419
+spear dust stardust~
+the spear '{BStardust{x'{x~
+A shimmering spear sticks in the ground.~
+iron~
+weapon AB AN
+staff 25 18 charge DEG
+151 25 24000 P
+A
+18 80
+A
+19 75
+#420
+shock whip scorpio~
+the shock whip '{YScorpio{x'~
+A whip made from a scorpions tail, with a cracking field lies here.~
+flesh~
+weapon B AN
+whip 18 25 sting AG
+151 5 12500 P
+A
+19 100
+A
+18 90
+#421
+crystal orb~
+a crystal orb~
+A crystal orb has been tossed aside.~
+crystal~
+armor A AO
+35 35 35 30 0
+151 5 11000 P
+A
+20 -15
+A
+4 10
+A
+13 180
+A
+12 200
+#422
+glass bracer~
+a glass bracer~
+A bracer made of glass lies here.~
+glass~
+armor A AM
+35 35 35 30 0
+151 12 14000 P
+A
+19 20
+A
+3 6
+A
+18 20
+A
+12 100
+F
+A 0 0 U
+A
+13 100
+#423
+sword chaos~
+the short sword '{MChaos{x'~
+A flaming short sword lies here.~
+energy~
+weapon A AN
+sword 18 25 slash AEH
+151 14 22500 P
+A
+18 90
+A
+19 80
+A
+1 9
+#424
+gold platinum marbled plate breastplate~
+a gold and platinum marbled breastplate~
+A breastplate made of gold and platinum with a marbled look lies here.~
+platinum~
+armor AB AD
+35 35 35 30 0
+151 30 45000 P
+A
+20 -15
+A
+1 4
+A
+13 300
+#425
+diamond shin guard~
+a diamond shin guard~
+A diamond shin guard lies glittering.~
+diamond~
+armor A AT
+35 35 35 30 0
+151 12 27000 P
+A
+20 -10
+A
+12 500
+A
+5 4
+A
+13 150
+#426
+gold morning star~
+a {Ygolden{x morning star~
+A golden morning star lies here.~
+gold~
+weapon A AN
+flail 18 25 pound BG
+151 10 21000 P
+A
+18 90
+A
+19 80
+#427
+slave crown~
+a slave crown~
+A slave crown has been wisely discarded.~
+iron~
+armor CMZ AE
+28 28 28 22 0
+120 10 0 P
+A
+13 200
+A
+12 140
+F
+A 4 5 S
+#428
+amulet sinistral~
+an amulet with the Sinistral insignia~
+An amulet bearing the mark of the Sinistrals lies here.~
+mithril~
+armor AI AC
+35 35 35 30 0
+151 10 17500 P
+A
+18 15
+A
+19 15
+A
+20 -10
+A
+13 250
+A
+12 250
+A
+1 2
+A
+3 2
+A
+4 2
+A
+2 2
+A
+5 2
+#429
+five pointed star~
+a five pointed star~
+The symbol of the Sinstrals lies on the ground.~
+platinum~
+armor AB AW
+35 35 35 30 0
+151 12 20000 P
+A
+12 300
+A
+13 250
+A
+5 3
+A
+3 3
+#430
+rusty jagged dagger~
+a rusty jagged dagger~
+A rusty, jagged dagger has been tossed aside.~
+steel~
+weapon 0 AN
+dagger 12 19 stab D
+115 7 3500 P
+A
+18 40
+A
+19 45
+A
+2 6
+#431
+bag holding~
+a bag of holding~
+A large bag of holding has been forgotten by someone.~
+leather~
+container Yef AX
+500 0 0 10000 60
+115 15 1200 P
+A
+13 200
+A
+12 150
+#432
+mageus staff~
+a mageus staff~
+A mageus staff is sitting up against the wall.~
+wood~
+weapon A AN
+staff 12 20 stab A
+120 10 7000 P
+A
+18 45
+A
+19 45
+#433
+loaded leather gloves~
+loaded leather gloves~
+Some gloves with a small sand pouch located at the knuckles lies here.~
+leather~
+armor B AH
+24 24 24 19 0
+120 17 9000 P
+A
+18 15
+A
+13 195
+A
+12 150
+A
+19 15
+#434
+arctic club~
+an Arctic club~
+A club made of ice glistens in the light.~
+ice~
+weapon A AN
+mace 12 21 smash B
+125 16 6100 P
+A
+18 50
+A
+19 45
+#435
+ice mask~
+an ice mask~
+An ice mask waits to be worn.~
+ice~
+armor A AR
+25 25 25 20 0
+125 15 19000 P
+A
+12 200
+A
+4 5
+A
+3 5
+A
+13 175
+#436
+fire axe~
+a fire axe~
+A flaming axe burns away endlessly.~
+fire~
+weapon A AN
+axe 12 23 chomp AD
+130 20 12000 P
+A
+18 60
+A
+19 55
+#437
+orb magma~
+a magma orb~
+A ball of magma burns away.~
+magma~
+light A AO
+0 0 999 0 0
+130 4 4000 P
+A
+13 175
+A
+12 125
+A
+18 15
+A
+19 12
+#438
+war hammer storm~
+the war hammer '{YStorm{x'~
+A war hammer with a crackling field lies here.~
+electricity~
+weapon B AN
+mace 14 23 shbite G
+136 10 23000 P
+A
+18 70
+A
+19 60
+#439
+leg plate golden scale~
+leg plates with golden scales~
+Some leg plates with golden scales glow in the light.~
+gold~
+armor A AF
+27 27 27 22 0
+135 21 29000 P
+A
+13 250
+A
+12 150
+A
+2 5
+A
+1 10
+#440
+ivory hilted stiletto~
+an ivory hilted stiletto{x~
+An ivory hilted stiletto gleams away.~
+ivory~
+weapon A AN
+dagger 14 24 stab ACD
+140 10 19000 P
+A
+18 75
+A
+19 75
+#441
+vambraces platinum scale~
+vambraces with platinum scales~
+Some vambraces with platinum scales have been discarded.~
+platinum~
+armor A AI
+28 28 28 24 0
+140 24 24000 P
+A
+20 -20
+A
+13 275
+A
+12 200
+A
+1 5
+#0
+
+
+
+#ROOMS
+#400
+A Muddy Path~
+Your feet sink slowly in the dark mud along this path.  There is an aura
+of magic surrounding the area around.  Bright lights can be found in the sky
+far off to the south.  The path continues south and a trail can be seen in
+the distance to the north.  
+~
+0 1 6
+D2
+~
+~
+0 0 401
+S
+#401
+A Muddy Path~
+Your feet sink slowly in the dark mud along this path.  There is an aura
+of magic surrounding the area around.  Bright lights can be found in the sky
+far off to the south.  The path continues north and west.  
+~
+0 1 6
+D0
+~
+~
+0 0 400
+D3
+~
+~
+0 0 402
+S
+#402
+A Muddy Path~
+Your feet sink slowly in the dark mud along this path.  There is an aura
+of magic surrounding the area around.  Bright lights can be found in the sky
+far off to the south.  The path continues east and west.  
+~
+0 1 6
+D1
+~
+~
+0 0 401
+D3
+~
+~
+0 0 403
+S
+#403
+A Muddy Path~
+Your feet sink slowly in the dark mud along this path.  There is an aura
+of magic surrounding the area around.  Bright lights can be found in the sky
+far off to the south.  The path continues east and a large swamp can be seen
+to the south.  
+~
+0 1 6
+D1
+~
+~
+0 0 402
+D2
+~
+~
+0 0 404
+S
+#404
+Edge of the Great Swamp~
+The ground underfoot is fairly solid here, but there is nothing but swamp
+to the south and mud to the north.  A small island and a large shrine can be
+seen in the distance to the south as can bright colours.  
+~
+0 5 6
+D0
+~
+~
+0 0 403
+D2
+~
+~
+0 0 405
+S
+#405
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues south and west. 
+There is a patch of dry land north.  
+~
+0 1 6
+D0
+~
+~
+0 0 404
+D2
+~
+~
+0 0 408
+D3
+~
+~
+0 0 406
+S
+#406
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues east and south.  
+~
+0 1 6
+D1
+~
+~
+0 0 405
+D2
+~
+~
+0 0 407
+S
+#407
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, east, and
+south.  
+~
+0 1 6
+D0
+~
+~
+0 0 406
+D1
+~
+~
+0 0 408
+D2
+~
+~
+0 0 410
+S
+#408
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, south and
+west.  
+~
+0 1 6
+D0
+~
+~
+0 0 405
+D2
+~
+~
+0 0 411
+D3
+~
+~
+0 0 407
+S
+#409
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues east and south.  
+~
+0 1 6
+D1
+~
+~
+0 0 410
+D2
+~
+~
+0 0 413
+S
+#410
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 407
+D1
+~
+~
+0 0 411
+D2
+~
+~
+0 0 414
+D3
+~
+~
+0 0 409
+S
+#411
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 408
+D1
+~
+~
+0 0 412
+D2
+~
+~
+0 0 415
+D3
+~
+~
+0 0 410
+S
+#412
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues south and west.  
+~
+0 1 6
+D2
+~
+~
+0 0 416
+D3
+~
+~
+0 0 411
+S
+#413
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, east and
+south.  
+~
+0 1 6
+D0
+~
+~
+0 0 409
+D1
+~
+~
+0 0 414
+D2
+~
+~
+0 0 418
+S
+#414
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 410
+D1
+~
+~
+0 0 415
+D2
+~
+~
+0 0 419
+D3
+~
+~
+0 0 413
+S
+#415
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 411
+D1
+~
+~
+0 0 416
+D2
+~
+~
+0 0 420
+D3
+~
+~
+0 0 414
+S
+#416
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, south and
+west.  
+~
+0 1 6
+D0
+~
+~
+0 0 412
+D2
+~
+~
+0 0 421
+D3
+~
+~
+0 0 415
+S
+#417
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues east and south.  
+~
+0 1 6
+D1
+~
+~
+0 0 418
+D2
+~
+~
+0 0 423
+S
+#418
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 413
+D1
+~
+~
+0 0 419
+D2
+~
+~
+0 0 424
+D3
+~
+~
+0 0 417
+S
+#419
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 414
+D1
+~
+~
+0 0 420
+D2
+~
+~
+0 0 425
+D3
+~
+~
+0 0 418
+S
+#420
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 415
+D1
+~
+~
+0 0 421
+D2
+~
+~
+0 0 426
+D3
+~
+~
+0 0 419
+S
+#421
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 416
+D1
+~
+~
+0 0 422
+D2
+~
+~
+0 0 427
+D3
+~
+~
+0 0 420
+S
+#422
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues south and west.  
+~
+0 1 6
+D2
+~
+~
+0 0 428
+D3
+~
+~
+0 0 421
+S
+#423
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues all directions but
+west.  
+~
+0 1 6
+D0
+~
+~
+0 0 417
+D1
+~
+~
+0 0 424
+D2
+~
+~
+0 0 430
+S
+#424
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 418
+D1
+~
+~
+0 0 425
+D2
+~
+~
+0 0 431
+D3
+~
+~
+0 0 423
+S
+#425
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 419
+D1
+~
+~
+0 0 426
+D2
+~
+~
+0 0 432
+D3
+~
+~
+0 0 424
+S
+#426
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 420
+D1
+~
+~
+0 0 427
+D2
+~
+~
+0 0 433
+D3
+~
+~
+0 0 425
+S
+#427
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 421
+D1
+~
+~
+0 0 428
+D2
+~
+~
+0 0 434
+D3
+~
+~
+0 0 426
+S
+#428
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, south and
+west.  
+~
+0 1 6
+D0
+~
+~
+0 0 422
+D2
+~
+~
+0 0 435
+D3
+~
+~
+0 0 427
+S
+#429
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues east and south.  
+~
+0 1 6
+D1
+~
+~
+0 0 430
+D2
+~
+~
+0 0 438
+S
+#430
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 423
+D1
+~
+~
+0 0 431
+D2
+~
+~
+0 0 439
+D3
+~
+~
+0 0 429
+S
+#431
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 424
+D1
+~
+~
+0 0 432
+D2
+~
+~
+0 0 440
+D3
+~
+~
+0 0 430
+S
+#432
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 425
+D1
+~
+~
+0 0 433
+D2
+~
+~
+0 0 441
+D3
+~
+~
+0 0 431
+S
+#433
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 426
+D1
+~
+~
+0 0 434
+D2
+~
+~
+0 0 442
+D3
+~
+~
+0 0 432
+S
+#434
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 427
+D1
+~
+~
+0 0 435
+D2
+~
+~
+0 0 443
+D3
+~
+~
+0 0 433
+S
+#435
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D0
+~
+~
+0 0 428
+D1
+~
+~
+0 0 436
+D2
+~
+~
+0 0 444
+D3
+~
+~
+0 0 434
+S
+#436
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues in all directions.  
+~
+0 1 6
+D2
+~
+~
+0 0 445
+D3
+~
+~
+0 0 435
+S
+#437
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues east and south.  
+~
+0 1 6
+D1
+~
+~
+0 0 438
+D2
+~
+~
+0 0 448
+S
+#438
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, east and
+west.  The island can be reached to the south.  
+~
+0 1 6
+D0
+~
+~
+0 0 429
+D1
+~
+~
+0 0 439
+D2
+~
+~
+0 0 457
+D3
+~
+~
+0 0 437
+S
+#439
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, east and
+west.  The island can be reached to the south.  
+~
+0 1 6
+D0
+~
+~
+0 0 430
+D1
+~
+~
+0 0 440
+D2
+~
+~
+0 0 458
+D3
+~
+~
+0 0 438
+S
+#440
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, east and
+west.  The island can be reached to the south.  
+~
+0 1 6
+D0
+~
+~
+0 0 431
+D1
+~
+~
+0 0 441
+D2
+~
+~
+0 0 459
+D3
+~
+~
+0 0 439
+S
+#441
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, west and
+east.  The island can be accessed to the south.  
+~
+0 1 6
+D0
+~
+~
+0 0 432
+D1
+~
+~
+0 0 442
+D2
+~
+~
+0 0 460
+D3
+~
+~
+0 0 440
+S
+#442
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, east and
+west.  The island can be reached from the south.  
+~
+0 1 6
+D0
+~
+~
+0 0 433
+D1
+~
+~
+0 0 443
+D2
+~
+~
+0 0 461
+D3
+~
+~
+0 0 441
+S
+#443
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, east and
+west.  The island can be accessed by heading south.  
+~
+0 0 6
+D0
+~
+~
+0 0 434
+D1
+~
+~
+0 0 444
+D2
+~
+~
+0 0 462
+D3
+~
+~
+0 0 442
+S
+#444
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, east and
+west.  The island can be accessed by heading south.  
+~
+0 1 6
+D0
+~
+~
+0 0 435
+D1
+~
+~
+0 0 445
+D2
+~
+~
+0 0 463
+D3
+~
+~
+0 0 443
+S
+#445
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, west and
+east.  The island can be reached by going south.  
+~
+0 1 6
+D0
+~
+~
+0 0 436
+D1
+~
+~
+0 0 446
+D2
+~
+~
+0 0 464
+D3
+~
+~
+0 0 444
+S
+#446
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues south and west.  
+~
+0 1 6
+D2
+~
+~
+0 0 449
+D3
+~
+~
+0 0 445
+S
+#447
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues south and east.  
+~
+0 1 6
+D1
+~
+~
+0 0 448
+D2
+~
+~
+0 0 452
+S
+#448
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues south, west and
+north.  The island can be reached by heading east.  
+~
+0 1 6
+D0
+~
+~
+0 0 437
+D1
+~
+~
+0 0 457
+D2
+~
+~
+0 0 453
+D3
+~
+~
+0 0 447
+S
+#449
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, east and
+south.  The Island can be reached by going west.  
+~
+0 1 6
+D0
+~
+~
+0 0 446
+D1
+~
+~
+0 0 450
+D2
+~
+~
+0 0 454
+D3
+~
+~
+0 0 464
+S
+#450
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues south and west.  
+~
+0 1 6
+D2
+~
+~
+0 0 455
+D3
+~
+~
+0 0 449
+S
+#451
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues east.  
+~
+0 1 6
+D1
+~
+~
+0 0 452
+S
+#452
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, east and
+west.  
+~
+0 1 6
+D0
+~
+~
+0 0 447
+D1
+~
+~
+0 0 453
+D3
+~
+~
+0 0 451
+S
+#453
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north and west.  The
+island can be reached by heading east.  
+~
+0 1 6
+D0
+~
+~
+0 0 448
+D1
+~
+~
+0 0 465
+D3
+~
+~
+0 0 452
+S
+#454
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north and east.  The
+island can be reached by going west.  
+~
+0 1 6
+D0
+~
+~
+0 0 449
+D1
+~
+~
+0 0 455
+D3
+~
+~
+0 0 472
+S
+#455
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues north, east and
+west.  
+~
+0 1 6
+D0
+~
+~
+0 0 450
+D1
+~
+~
+0 0 456
+D3
+~
+~
+0 0 454
+S
+#456
+Kamirno Swamp~
+A pale white mist rises off of the swamp surface and gives a sickening
+odour.  Sounds of wild life can be heard all around.  There is a tall shrine
+on a small island in the south, and the swamp continues west.  
+~
+0 1 6
+D3
+~
+~
+0 0 455
+S
+#457
+Island Shore~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues south and
+east while the swamp is north and west.  
+~
+0 5 2
+D0
+~
+~
+0 0 438
+D1
+~
+~
+0 0 458
+D2
+~
+~
+0 0 465
+D3
+~
+~
+0 0 448
+S
+#458
+Island Shore~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues east, south
+and west while the swamp is north.  
+~
+0 5 2
+D0
+~
+~
+0 0 439
+D1
+~
+~
+0 0 459
+D2
+~
+~
+0 0 466
+D3
+~
+~
+0 0 457
+S
+#459
+Island Shore~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues east, south
+and west while the swamp is north.  
+~
+0 5 2
+D0
+~
+~
+0 0 440
+D1
+~
+~
+0 0 460
+D2
+~
+~
+0 0 467
+D3
+~
+~
+0 0 458
+S
+#460
+Island Shore~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues east, south
+and west while the swamp is north.  
+~
+0 5 2
+D0
+~
+~
+0 0 441
+D1
+~
+~
+0 0 461
+D2
+~
+~
+0 0 468
+D3
+~
+~
+0 0 459
+S
+#461
+Island Shore~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues east, south
+and west while the swamp is north.  
+~
+0 5 2
+D0
+~
+~
+0 0 442
+D1
+~
+~
+0 0 462
+D2
+~
+~
+0 0 469
+D3
+~
+~
+0 0 460
+S
+#462
+Island Shore~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues east, south
+and west while the swamp is north.  
+~
+0 5 2
+D0
+~
+~
+0 0 443
+D1
+~
+~
+0 0 463
+D2
+~
+~
+0 0 470
+D3
+~
+~
+0 0 461
+S
+#463
+Island Shore~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues east, south
+and west while the swamp is north.  
+~
+0 5 2
+D0
+~
+~
+0 0 444
+D1
+~
+~
+0 0 464
+D2
+~
+~
+0 0 471
+D3
+~
+~
+0 0 462
+S
+#464
+Island Shore~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues south and
+west, while the swamp is to the north and east.  
+~
+0 5 2
+D0
+~
+~
+0 0 445
+D1
+~
+~
+0 0 449
+D2
+~
+~
+0 0 472
+D3
+~
+~
+0 0 463
+S
+#465
+Island Shore~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues north, east
+and south, while the swamp is west.  
+~
+0 5 2
+D0
+~
+~
+0 0 457
+D1
+~
+~
+0 0 466
+D2
+~
+~
+0 0 473
+D3
+~
+~
+0 0 453
+S
+#466
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 458
+D1
+~
+~
+0 0 467
+D2
+~
+~
+0 0 474
+D3
+~
+~
+0 0 465
+S
+#467
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 459
+D1
+~
+~
+0 0 468
+D2
+~
+~
+0 0 475
+D3
+~
+~
+0 0 466
+S
+#468
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 460
+D1
+~
+~
+0 0 469
+D2
+~
+~
+0 0 476
+D3
+~
+~
+0 0 467
+S
+#469
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 461
+D1
+~
+~
+0 0 470
+D2
+~
+~
+0 0 477
+D3
+~
+~
+0 0 468
+S
+#470
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 462
+D1
+~
+~
+0 0 471
+D2
+~
+~
+0 0 478
+D3
+~
+~
+0 0 469
+S
+#471
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 463
+D1
+~
+~
+0 0 472
+D2
+~
+~
+0 0 479
+D3
+~
+~
+0 0 470
+S
+#472
+Island Shore~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions but east.  That's where the swamp is.  
+~
+0 5 2
+D0
+~
+~
+0 0 464
+D1
+~
+~
+0 0 454
+D2
+~
+~
+0 0 480
+D3
+~
+~
+0 0 471
+S
+#473
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions but west.  
+~
+0 1 2
+D0
+~
+~
+0 0 465
+D1
+~
+~
+0 0 474
+D2
+~
+~
+0 0 481
+S
+#474
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  The ground gives way more than usual here.  
+~
+0 1 2
+D0
+~
+~
+0 0 466
+D1
+~
+~
+0 0 475
+D2
+~
+~
+0 0 482
+D3
+~
+~
+0 0 473
+D5
+~
+trapdoor~
+1 0 524
+S
+#475
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 467
+D1
+~
+~
+0 0 476
+D2
+~
+~
+0 0 483
+D3
+~
+~
+0 0 474
+S
+#476
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 468
+D1
+~
+~
+0 0 477
+D2
+~
+~
+0 0 484
+D3
+~
+~
+0 0 475
+S
+#477
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 469
+D1
+~
+~
+0 0 478
+D2
+~
+~
+0 0 485
+D3
+~
+~
+0 0 476
+S
+#478
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 470
+D1
+~
+~
+0 0 479
+D2
+~
+~
+0 0 486
+D3
+~
+~
+0 0 477
+S
+#479
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 471
+D1
+~
+~
+0 0 480
+D2
+~
+~
+0 0 487
+D3
+~
+~
+0 0 478
+S
+#480
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions but east.  
+~
+0 1 2
+D0
+~
+~
+0 0 472
+D2
+~
+~
+0 0 488
+D3
+~
+~
+0 0 479
+S
+#481
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions but west.  
+~
+0 1 2
+D0
+~
+~
+0 0 473
+D1
+~
+~
+0 0 482
+D2
+~
+~
+0 0 489
+S
+#482
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 474
+D1
+~
+~
+0 0 483
+D2
+~
+~
+0 0 490
+D3
+~
+~
+0 0 481
+S
+#483
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 475
+D1
+~
+~
+0 0 484
+D2
+~
+~
+0 0 491
+D3
+~
+~
+0 0 482
+S
+#484
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 476
+D1
+~
+~
+0 0 485
+D2
+~
+~
+0 0 492
+D3
+~
+~
+0 0 483
+S
+#485
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 477
+D1
+~
+~
+0 0 486
+D2
+~
+~
+0 0 493
+D3
+~
+~
+0 0 484
+S
+#486
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  The ground gives way more than usual here.  
+~
+0 1 2
+D0
+~
+~
+0 0 478
+D1
+~
+~
+0 0 487
+D2
+~
+~
+0 0 494
+D3
+~
+~
+0 0 485
+D5
+~
+trapdoor~
+1 0 522
+S
+#487
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 479
+D1
+~
+~
+0 0 488
+D2
+~
+~
+0 0 495
+D3
+~
+~
+0 0 486
+S
+#488
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions but east.  
+~
+0 1 2
+D0
+~
+~
+0 0 480
+D2
+~
+~
+0 0 496
+D3
+~
+~
+0 0 487
+S
+#489
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions but west.  
+~
+0 1 2
+D0
+~
+~
+0 0 481
+D1
+~
+~
+0 0 490
+D2
+~
+~
+0 0 497
+S
+#490
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 482
+D1
+~
+~
+0 0 491
+D2
+~
+~
+0 0 498
+D3
+~
+~
+0 0 489
+S
+#491
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 483
+D1
+~
+~
+0 0 492
+D2
+~
+~
+0 0 499
+D3
+~
+~
+0 0 490
+S
+#492
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 484
+D1
+~
+~
+0 0 493
+D2
+~
+~
+0 0 500
+D3
+~
+~
+0 0 491
+S
+#493
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 485
+D1
+~
+~
+0 0 494
+D2
+~
+~
+0 0 501
+D3
+~
+~
+0 0 492
+S
+#494
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 486
+D1
+~
+~
+0 0 495
+D2
+~
+~
+0 0 502
+D3
+~
+~
+0 0 493
+S
+#495
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 487
+D1
+~
+~
+0 0 496
+D2
+~
+~
+0 0 503
+D3
+~
+~
+0 0 494
+S
+#496
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions but east.  
+~
+0 1 2
+D0
+~
+~
+0 0 488
+D2
+~
+~
+0 0 504
+D3
+~
+~
+0 0 495
+S
+#497
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions but west.  
+~
+0 1 2
+D0
+~
+~
+0 0 489
+D1
+~
+~
+0 0 498
+D2
+~
+~
+0 0 505
+S
+#498
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 490
+D1
+~
+~
+0 0 499
+D2
+~
+~
+0 0 506
+D3
+~
+~
+0 0 497
+S
+#499
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  The ground gives way a little more than usual here.  
+~
+0 1 2
+D0
+~
+~
+0 0 491
+D1
+~
+~
+0 0 500
+D2
+~
+~
+0 0 507
+D3
+~
+~
+0 0 498
+D5
+~
+trapdoor~
+1 0 521
+S
+#500
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 492
+D1
+~
+~
+0 0 501
+D2
+~
+~
+0 0 508
+D3
+~
+~
+0 0 499
+S
+#501
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 493
+D1
+~
+~
+0 0 502
+D2
+~
+~
+0 0 509
+D3
+~
+~
+0 0 500
+S
+#502
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 494
+D1
+~
+~
+0 0 503
+D2
+~
+~
+0 0 510
+D3
+~
+~
+0 0 501
+S
+#503
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 495
+D1
+~
+~
+0 0 504
+D2
+~
+~
+0 0 511
+D3
+~
+~
+0 0 502
+S
+#504
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions but east.  
+~
+0 1 2
+D0
+~
+~
+0 0 496
+D2
+~
+~
+0 0 512
+D3
+~
+~
+0 0 503
+S
+#505
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions but west.  
+~
+0 1 2
+D0
+~
+~
+0 0 497
+D1
+~
+~
+0 0 506
+D2
+~
+~
+0 0 513
+S
+#506
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 498
+D1
+~
+~
+0 0 507
+D2
+~
+~
+0 0 514
+D3
+~
+~
+0 0 505
+S
+#507
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 499
+D1
+~
+~
+0 0 508
+D2
+~
+~
+0 0 515
+D3
+~
+~
+0 0 506
+S
+#508
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 500
+D1
+~
+~
+0 0 509
+D2
+~
+~
+0 0 516
+D3
+~
+~
+0 0 507
+S
+#509
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 501
+D1
+~
+~
+0 0 510
+D2
+~
+~
+0 0 517
+D3
+~
+~
+0 0 508
+S
+#510
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 502
+D1
+~
+~
+0 0 511
+D2
+~
+~
+0 0 518
+D3
+~
+~
+0 0 509
+S
+#511
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions.  
+~
+0 1 2
+D0
+~
+~
+0 0 503
+D1
+~
+~
+0 0 512
+D2
+~
+~
+0 0 519
+D3
+~
+~
+0 0 510
+S
+#512
+Kamirno Isle~
+The ground here is solid, and the sounds of local animals are nearly
+deafening.  The shrine is looking magnificent with all of the colours
+flashing out of the top of the structure.  The island continues in all
+directions but east.  
+~
+0 1 2
+D0
+~
+~
+0 0 504
+D2
+~
+~
+0 0 520
+D3
+~
+~
+0 0 511
+S
+#513
+Base of the Shrine~
+There is a large stone wall impeding any progress southward.  The lights
+can still be seen flashing out of the windows near the top of the building. 
+The wall is impossible to scale and the magical aura is preventing any
+chance at flying up.  
+~
+0 1 2
+D0
+~
+~
+0 0 505
+D1
+~
+~
+0 0 514
+S
+#514
+Base of the Shrine~
+There is a large stone wall impeding any progress southward.  The lights
+can still be seen flashing out of the windows near the top of the building. 
+The wall is impossible to scale and the magical aura is preventing any
+chance at flying up.  
+~
+0 1 2
+D0
+~
+~
+0 0 506
+D1
+~
+~
+0 0 515
+D3
+~
+~
+0 0 513
+S
+#515
+Base of the Shrine~
+There is a large stone wall impeding any progress southward.  The lights
+can still be seen flashing out of the windows near the top of the building. 
+The wall is impossible to scale and the magical aura is preventing any
+chance at flying up.  
+~
+0 1 2
+D0
+~
+~
+0 0 507
+D1
+~
+~
+0 0 516
+D3
+~
+~
+0 0 514
+S
+#516
+Base of the Shrine~
+There is a large stone wall impeding any progress southward.  The lights
+can still be seen flashing out of the windows near the top of the building. 
+The wall is impossible to scale and the magical aura is preventing any
+chance at flying up.  
+~
+0 1 2
+D0
+~
+~
+0 0 508
+D1
+~
+~
+0 0 517
+D3
+~
+~
+0 0 515
+S
+#517
+Entrance to the Great Shrine~
+A large set of marble stairs and maple double doors highlight the
+entrance to this great shrine.  The magical aura is almost electric and it's
+obvious that what ever is controlling these monsters are inside this grand
+palace.  
+~
+0 5 2
+D0
+~
+~
+0 0 509
+D1
+~
+~
+0 0 518
+D2
+~
+doors~
+1 0 525
+D3
+~
+~
+0 0 516
+S
+#518
+Base of the Shrine~
+There is a large stone wall impeding any progress southward.  The lights
+can still be seen flashing out of the windows near the top of the building. 
+The wall is impossible to scale and the magical aura is preventing any
+chance at flying up.  
+~
+0 1 2
+D0
+~
+~
+0 0 510
+D1
+~
+~
+0 0 519
+D3
+~
+~
+0 0 517
+S
+#519
+Base of the Shrine~
+There is a large stone wall impeding any progress southward.  The lights
+can still be seen flashing out of the windows near the top of the building. 
+The wall is impossible to scale and the magical aura is preventing any
+chance at flying up.  
+~
+0 1 2
+D0
+~
+~
+0 0 511
+D1
+~
+~
+0 0 520
+D3
+~
+~
+0 0 518
+S
+#520
+Base of the Shrine~
+There is a large stone wall impeding any progress southward.  The lights
+can still be seen flashing out of the windows near the top of the building. 
+The wall is impossible to scale and the magical aura is preventing any
+chance at flying up.  
+~
+0 1 2
+D0
+~
+~
+0 0 512
+D3
+~
+~
+0 0 519
+S
+#521
+Lair of the Cockatrice~
+Bones litter the floor and the smell of death permeates the entire room. 
+This is where the mythical creature known as the cockatrice makes its home. 
+Many an adventurer has tried to gain it's gaze, only to be defeated by it.  
+~
+0 9 0
+D4
+~
+trapdoor~
+1 0 499
+S
+#522
+Island Pet Shop~
+The smell of animal feces dominates this room.  And strange fellow
+wanders around feeding his animals.  Maybe he'll sell one to you.  
+~
+0 4105 0
+D4
+~
+trapdoor~
+1 0 486
+S
+#523
+Pet Shop Storage~
+If you can read this, you're using goto.  
+~
+0 8205 0
+S
+#524
+Sanctuary~
+This is a small cavern that is well lit by lamps and candles.  There is a
+feeling of peace inside, like nothing can cause anyone else harm.  Redemption
+feathers line the floor and are waiting to be used by tired adventurers.  
+~
+0 1032 0
+D4
+~
+trapdoor~
+1 0 474
+M 500 H 500
+S
+#525
+Kamirno Shrine: Floor 1~
+The Sinistrals have transformed this floor into a lush green area with
+rolling hills.  The smell of morning dew hovers in the air.  The scenery is
+dominated by tall pines and thick grasses.  Sounds of birds can also be
+heard.  
+~
+0 0 4
+D0
+~
+doors~
+1 0 517
+D2
+~
+~
+0 0 526
+S
+#526
+Kamirno Shrine: Floor 1~
+The Sinistrals have transformed this floor into a lush green area with
+rolling hills.  The smell of morning dew hovers in the air.  The scenery is
+dominated by tall pines and thick grasses.  Sounds of birds can also be
+heard.  
+~
+0 0 4
+D0
+~
+~
+0 0 525
+D2
+~
+~
+0 0 527
+S
+#527
+Kamirno Shrine: Floor 1~
+The Sinistrals have transformed this floor into a lush green area with
+rolling hills.  The smell of morning dew hovers in the air.  The scenery is
+dominated by tall pines and thick grasses.  Sounds of birds can also be
+heard.  
+~
+0 0 4
+D0
+~
+~
+0 0 526
+D3
+~
+~
+0 0 528
+S
+#528
+Kamirno Shrine: Floor 1~
+The Sinistrals have transformed this floor into a lush green area with
+rolling hills.  The smell of morning dew hovers in the air.  The scenery is
+dominated by tall pines and thick grasses.  Sounds of birds can also be
+heard.  
+~
+0 0 4
+D1
+~
+~
+0 0 527
+D2
+~
+~
+0 0 529
+S
+#529
+Kamirno Shrine: Floor 1~
+The Sinistrals have transformed this floor into a lush green area with
+rolling hills.  The smell of morning dew hovers in the air.  The scenery is
+dominated by tall pines and thick grasses.  Sounds of birds can also be
+heard.  
+~
+0 0 4
+D0
+~
+~
+0 0 528
+D2
+~
+~
+0 0 530
+S
+#530
+Kamirno Shrine: Floor 1~
+The Sinistrals have transformed this floor into a lush green area with
+rolling hills.  The smell of morning dew hovers in the air.  The scenery is
+dominated by tall pines and thick grasses.  Sounds of birds can also be
+heard.  
+~
+0 0 4
+D0
+~
+~
+0 0 529
+D1
+~
+~
+0 0 531
+S
+#531
+Kamirno Shrine: Floor 1~
+The Sinistrals have transformed this floor into a lush green area with
+rolling hills.  The smell of morning dew hovers in the air.  The scenery is
+dominated by tall pines and thick grasses.  Sounds of birds can also be
+heard.  
+~
+0 0 4
+D1
+~
+~
+0 0 532
+D3
+~
+~
+0 0 530
+S
+#532
+Kamirno Shrine: Floor 1~
+The Sinistrals have transformed this floor into a lush green area with
+rolling hills.  The smell of morning dew hovers in the air.  The scenery is
+dominated by tall pines and thick grasses.  Sounds of birds can also be
+heard.  
+~
+0 0 4
+D1
+~
+~
+0 0 533
+D3
+~
+~
+0 0 531
+S
+#533
+Kamirno Shrine: Floor 1~
+The Sinistrals have transformed this floor into a lush green area with
+rolling hills.  The smell of morning dew hovers in the air.  The scenery is
+dominated by tall pines and thick grasses.  Sounds of birds can also be
+heard.  A floating stairwell can be seen to the north.  
+~
+0 0 4
+D0
+~
+~
+0 0 534
+D3
+~
+~
+0 0 532
+S
+#534
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading up.  Hills can be seen to the south.  
+~
+0 13 0
+D2
+~
+~
+0 0 533
+D4
+~
+~
+0 0 538
+S
+#535
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading up, and a graveyard can be seen to the east.  
+~
+0 13 0
+D1
+~
+~
+0 0 536
+D4
+~
+~
+0 0 546
+S
+#536
+Kamirno Shrine: Floor 2~
+The Sinistrals have made this floor look like a grave yard.  The
+incessant hooting of owls is deafening and the smell of death is unbearable.
+The ground underfoot seems almost alive as if the things buried underground
+will rise again.  A floating stairwell can be seen to the west.  
+~
+0 1 1
+D2
+~
+~
+0 0 537
+D3
+~
+~
+0 0 535
+S
+#537
+Kamirno Shrine: Floor 2~
+The Sinistrals have made this floor look like a grave yard.  The
+incessant hooting of owls is deafening and the smell of death is unbearable.
+The ground underfoot seems almost alive as if the things buried underground
+will rise again.  A floating stairwell can be seen to the south.  
+~
+0 9 1
+D0
+~
+~
+0 0 536
+D2
+~
+~
+0 0 538
+S
+#538
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading down and a graveyard can be seen both north and south.  
+~
+0 13 0
+D0
+~
+~
+0 0 537
+D2
+~
+~
+0 0 539
+D5
+~
+~
+0 0 534
+S
+#539
+Kamirno Shrine: Floor 2~
+The Sinistrals have made this floor look like a grave yard.  The
+incessant hooting of owls is deafening and the smell of death is unbearable.
+The ground underfoot seems almost alive as if the things buried underground
+will rise again.  A floating stairwell can be seen to the north.  
+~
+0 1 1
+D0
+~
+~
+0 0 538
+D3
+~
+~
+0 0 540
+S
+#540
+Kamirno Shrine: Floor 2~
+The Sinistrals have made this floor look like a grave yard.  The
+incessant hooting of owls is deafening and the smell of death is unbearable.
+The ground underfoot seems almost alive as if the things buried underground
+will rise again.  
+~
+0 1 1
+D1
+~
+~
+0 0 539
+D3
+~
+~
+0 0 541
+S
+#541
+Kamirno Shrine: Floor 2~
+The Sinistrals have made this floor look like a grave yard.  The
+incessant hooting of owls is deafening and the smell of death is unbearable.
+The ground underfoot seems almost alive as if the things buried underground
+will rise again.  
+~
+0 1 1
+D0
+~
+~
+0 0 542
+D1
+~
+~
+0 0 540
+S
+#542
+Kamirno Shrine: Floor 2~
+The Sinistrals have made this floor look like a grave yard.  The
+incessant hooting of owls is deafening and the smell of death is unbearable.
+The ground underfoot seems almost alive as if the things buried underground
+will rise again.  
+~
+0 1 1
+D0
+~
+~
+0 0 544
+D2
+~
+~
+0 0 541
+D3
+~
+~
+0 0 543
+S
+#543
+Kamirno Shrine: Floor 2~
+The Sinistrals have made this floor look like a grave yard.  The
+incessant hooting of owls is deafening and the smell of death is unbearable.
+The ground underfoot seems almost alive as if the things buried underground
+will rise again.  
+~
+0 1 1
+D1
+~
+~
+0 0 542
+S
+#544
+Kamirno Shrine: Floor 2~
+The Sinistrals have made this floor look like a grave yard.  The
+incessant hooting of owls is deafening and the smell of death is unbearable.
+The ground underfoot seems almost alive as if the things buried underground
+will rise again.  
+~
+0 1 1
+D2
+~
+~
+0 0 542
+S
+#545
+Kamirno Shrine: Floor 3~
+The Sinistral's magic has transformed floor three of this magnificent
+shrine into a desert.  Sweat pours from your brow as thirst starts to set in
+as do the hallucinations.  The heat is so intense, that it can actually be
+seen.  
+~
+0 0 10
+D2
+~
+~
+0 0 546
+S
+#546
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading down and a blast of heat from the desert can be felt coming
+from the north and south.  
+~
+0 13 0
+D0
+~
+~
+0 0 545
+D2
+~
+~
+0 0 547
+D5
+~
+~
+0 0 535
+S
+#547
+Kamirno Shrine: Floor 3~
+The Sinistral's magic has transformed floor three of this magnificent
+shrine into a desert.  Sweat pours from your brow as thirst starts to set in
+as do the hallucinations.  The heat is so intense, that it can actually be
+seen.  
+~
+0 0 10
+D0
+~
+~
+0 0 546
+D3
+~
+~
+0 0 548
+S
+#548
+Kamirno Shrine: Floor 3~
+The Sinistral's magic has transformed floor three of this magnificent
+shrine into a desert.  Sweat pours from your brow as thirst starts to set in
+as do the hallucinations.  The heat is so intense, that it can actually be
+seen.  
+~
+0 0 10
+D1
+~
+~
+0 0 547
+D3
+~
+~
+0 0 549
+S
+#549
+Kamirno Shrine: Floor 3~
+The Sinistral's magic has transformed floor three of this magnificent
+shrine into a desert.  Sweat pours from your brow as thirst starts to set in
+as do the hallucinations.  The heat is so intense, that it can actually be
+seen.  
+~
+0 0 10
+D1
+~
+~
+0 0 548
+D3
+~
+~
+0 0 551
+S
+#550
+Kamirno Shrine: Floor 3~
+The Sinistral's magic has transformed floor three of this magnificent
+shrine into a desert.  Sweat pours from your brow as thirst starts to set in
+as do the hallucinations.  The heat is so intense, that it can actually be
+seen.  
+~
+0 0 10
+D2
+~
+~
+0 0 551
+S
+#551
+Kamirno Shrine: Floor 3~
+The Sinistral's magic has transformed floor three of this magnificent
+shrine into a desert.  Sweat pours from your brow as thirst starts to set in
+as do the hallucinations.  The heat is so intense, that it can actually be
+seen.  
+~
+0 0 10
+D0
+~
+~
+0 0 550
+D1
+~
+~
+0 0 549
+D2
+~
+~
+0 0 552
+S
+#552
+Kamirno Shrine: Floor 3~
+The Sinistral's magic has transformed floor three of this magnificent
+shrine into a desert.  Sweat pours from your brow as thirst starts to set in
+as do the hallucinations.  The heat is so intense, that it can actually be
+seen.  
+~
+0 0 10
+D0
+~
+~
+0 0 551
+D2
+~
+~
+0 0 553
+S
+#553
+Kamirno Shrine: Floor 3~
+The Sinistral's magic has transformed floor three of this magnificent
+shrine into a desert.  Sweat pours from your brow as thirst starts to set in
+as do the hallucinations.  The heat is so intense, that it can actually be
+seen.  
+~
+0 0 10
+D0
+~
+~
+0 0 552
+D1
+~
+~
+0 0 554
+S
+#554
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading up and heat from a desert can be felt coming from the west.  
+~
+0 13 0
+D3
+~
+~
+0 0 553
+D4
+~
+~
+0 0 561
+S
+#555
+Kamirno Shrine: Floor 4~
+Cold winds blow snow across the icy landscape on this floor which the
+Sinistrals have turned into a tundra.  White dominates the scenery and snow
+blindness is inevitable.  The piercing winds send a chill right through your
+garments and all mucus membranes are freezing up.  
+~
+0 0 5
+D3
+~
+~
+0 0 556
+S
+#556
+Kamirno Shrine: Floor 4~
+Cold winds blow snow across the icy landscape on this floor which the
+Sinistrals have turned into a tundra.  White dominates the scenery and snow
+blindness is inevitable.  The piercing winds send a chill right through your
+garments and all mucus membranes are freezing up.  
+~
+0 0 5
+D1
+~
+~
+0 0 555
+D3
+~
+~
+0 0 557
+S
+#557
+Kamirno Shrine: Floor 4~
+Cold winds blow snow across the icy landscape on this floor which the
+Sinistrals have turned into a tundra.  White dominates the scenery and snow
+blindness is inevitable.  The piercing winds send a chill right through your
+garments and all mucus membranes are freezing up.  
+~
+0 0 5
+D1
+~
+~
+0 0 556
+D2
+~
+~
+0 0 558
+S
+#558
+Kamirno Shrine: Floor 4~
+Cold winds blow snow across the icy landscape on this floor which the
+Sinistrals have turned into a tundra.  White dominates the scenery and snow
+blindness is inevitable.  The piercing winds send a chill right through your
+garments and all mucus membranes are freezing up.  
+~
+0 0 5
+D0
+~
+~
+0 0 557
+D2
+~
+~
+0 0 559
+S
+#559
+Kamirno Shrine: Floor 4~
+Cold winds blow snow across the icy landscape on this floor which the
+Sinistrals have turned into a tundra.  White dominates the scenery and snow
+blindness is inevitable.  The piercing winds send a chill right through your
+garments and all mucus membranes are freezing up.  
+~
+0 0 5
+D0
+~
+~
+0 0 558
+D2
+~
+~
+0 0 560
+S
+#560
+Kamirno Shrine: Floor 4~
+Cold winds blow snow across the icy landscape on this floor which the
+Sinistrals have turned into a tundra.  White dominates the scenery and snow
+blindness is inevitable.  The piercing winds send a chill right through your
+garments and all mucus membranes are freezing up.  
+~
+0 0 5
+D0
+~
+~
+0 0 559
+D2
+~
+~
+0 0 561
+S
+#561
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading down, and there is extremely cold winds coming from the north
+and east.  
+~
+0 13 0
+D0
+~
+~
+0 0 560
+D1
+~
+~
+0 0 562
+D5
+~
+~
+0 0 554
+S
+#562
+Kamirno Shrine: Floor 4~
+Cold winds blow snow across the icy landscape on this floor which the
+Sinistrals have turned into a tundra.  White dominates the scenery and snow
+blindness is inevitable.  The piercing winds send a chill right through your
+garments and all mucus membranes are freezing up.  
+~
+0 0 5
+D1
+~
+~
+0 0 563
+D3
+~
+~
+0 0 561
+S
+#563
+Kamirno Shrine: Floor 4~
+Cold winds blow snow across the icy landscape on this floor which the
+Sinistrals have turned into a tundra.  White dominates the scenery and snow
+blindness is inevitable.  The piercing winds send a chill right through your
+garments and all mucus membranes are freezing up.  
+~
+0 0 5
+D1
+~
+~
+0 0 564
+D3
+~
+~
+0 0 562
+S
+#564
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading up and there are cold winds coming from the west.  
+~
+0 13 0
+D3
+~
+~
+0 0 563
+D4
+~
+~
+0 0 565
+S
+#565
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading down and tremendous heat can be felt coming from the north.  
+~
+0 13 0
+D0
+~
+~
+0 0 566
+D5
+~
+~
+0 0 564
+S
+#566
+Kamirno Shrine: Floor 5~
+Lava pools send a blast of heat throughout the entire floor of this
+shrine which the Sinistrals have turned into the inside of a volcano.  The
+smoke that is present is enough to impair anyone's vision.  
+~
+0 0 2
+D0
+~
+~
+0 0 567
+D2
+~
+~
+0 0 565
+S
+#567
+Kamirno Shrine: Floor 5~
+Lava pools send a blast of heat throughout the entire floor of this
+shrine which the Sinistrals have turned into the inside of a volcano.  The
+smoke that is present is enough to impair anyone's vision.  
+~
+0 0 2
+D2
+~
+~
+0 0 566
+D3
+~
+~
+0 0 568
+S
+#568
+Kamirno Shrine: Floor 5~
+Lava pools send a blast of heat throughout the entire floor of this
+shrine which the Sinistrals have turned into the inside of a volcano.  The
+smoke that is present is enough to impair anyone's vision.  
+~
+0 0 2
+D1
+~
+~
+0 0 567
+D3
+~
+~
+0 0 569
+S
+#569
+Kamirno Shrine: Floor 5~
+Lava pools send a blast of heat throughout the entire floor of this
+shrine which the Sinistrals have turned into the inside of a volcano.  The
+smoke that is present is enough to impair anyone's vision.  
+~
+0 0 2
+D1
+~
+~
+0 0 568
+D3
+~
+~
+0 0 570
+S
+#570
+Kamirno Shrine: Floor 5~
+Lava pools send a blast of heat throughout the entire floor of this
+shrine which the Sinistrals have turned into the inside of a volcano.  The
+smoke that is present is enough to impair anyone's vision.  
+~
+0 0 2
+D1
+~
+~
+0 0 569
+D3
+~
+~
+0 0 571
+S
+#571
+Kamirno Shrine: Floor 5~
+Lava pools send a blast of heat throughout the entire floor of this
+shrine which the Sinistrals have turned into the inside of a volcano.  The
+smoke that is present is enough to impair anyone's vision.  
+~
+0 0 2
+D0
+~
+~
+0 0 572
+D1
+~
+~
+0 0 570
+S
+#572
+Kamirno Shrine: Floor 5~
+Lava pools send a blast of heat throughout the entire floor of this
+shrine which the Sinistrals have turned into the inside of a volcano.  The
+smoke that is present is enough to impair anyone's vision.  
+~
+0 0 2
+D0
+~
+~
+0 0 573
+D2
+~
+~
+0 0 571
+S
+#573
+Kamirno Shrine: Floor 5~
+Lava pools send a blast of heat throughout the entire floor of this
+shrine which the Sinistrals have turned into the inside of a volcano.  The
+smoke that is present is enough to impair anyone's vision.  
+~
+0 0 2
+D1
+~
+~
+0 0 574
+D2
+~
+~
+0 0 572
+S
+#574
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading up and there is tremendous heat coming from the west.  
+~
+0 13 0
+D3
+~
+~
+0 0 573
+D4
+~
+~
+0 0 576
+S
+#575
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading up and another stairwell can be seen to the north.  
+~
+0 13 0
+D0
+~
+~
+0 0 576
+D4
+~
+~
+0 0 593
+S
+#576
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading down.  Another stairwell can be seen in the south and mountain
+top is to the east.  
+~
+0 13 0
+D1
+~
+~
+0 0 577
+D2
+~
+~
+0 0 575
+D5
+~
+~
+0 0 574
+S
+#577
+Kamirno Shrine: Floor 6~
+The Sinistrals have transformed this area into a picturesque mountain
+top.  The footing is extremely poor due to the rocks and the ice.  The wind
+up here also is cold and fairly strong.  
+~
+0 0 5
+D1
+~
+~
+0 0 578
+D3
+~
+~
+0 0 576
+S
+#578
+Kamirno Shrine: Floor 6~
+The Sinistrals have transformed this area into a picturesque mountain
+top.  The footing is extremely poor due to the rocks and the ice.  The wind
+up here also is cold and fairly strong.  
+~
+0 0 5
+D2
+~
+~
+0 0 579
+D3
+~
+~
+0 0 577
+S
+#579
+Kamirno Shrine: Floor 6~
+The Sinistrals have transformed this area into a picturesque mountain
+top.  The footing is extremely poor due to the rocks and the ice.  The wind
+up here also is cold and fairly strong.  
+~
+0 0 5
+D0
+~
+~
+0 0 578
+D2
+~
+~
+0 0 580
+S
+#580
+Kamirno Shrine: Floor 6~
+The Sinistrals have transformed this area into a picturesque mountain
+top.  The footing is extremely poor due to the rocks and the ice.  The wind
+up here also is cold and fairly strong.  
+~
+0 0 5
+D0
+~
+~
+0 0 579
+D1
+~
+~
+0 0 581
+S
+#581
+Kamirno Shrine: Floor 6~
+The Sinistrals have transformed this area into a picturesque mountain
+top.  The footing is extremely poor due to the rocks and the ice.  The wind
+up here also is cold and fairly strong.  
+~
+0 0 5
+D1
+~
+~
+0 0 582
+D3
+~
+~
+0 0 580
+S
+#582
+Kamirno Shrine: Floor 6~
+The Sinistrals have transformed this area into a picturesque mountain
+top.  The footing is extremely poor due to the rocks and the ice.  The wind
+up here also is cold and fairly strong.  
+~
+0 0 5
+D2
+~
+~
+0 0 583
+D3
+~
+~
+0 0 581
+S
+#583
+Kamirno Shrine: Floor 6~
+The Sinistrals have transformed this area into a picturesque mountain
+top.  The footing is extremely poor due to the rocks and the ice.  The wind
+up here also is cold and fairly strong.  
+~
+0 0 5
+D0
+~
+~
+0 0 582
+D2
+~
+~
+0 0 584
+S
+#584
+Kamirno Shrine: Floor 6~
+The Sinistrals have transformed this area into a picturesque mountain
+top.  The footing is extremely poor due to the rocks and the ice.  The wind
+up here also is cold and fairly strong.  
+~
+0 0 5
+D0
+~
+~
+0 0 583
+S
+#585
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading up.  Nothing but sky can be seen to the east.  
+~
+0 13 0
+D1
+~
+~
+0 0 586
+D4
+~
+~
+0 0 596
+S
+#586
+Kamirno Shrine: Floor 7~
+There is nothing to see but clouds and skies.  The Sinistrals have
+changed this floor into sky.  Can't really call it a floor seeing as it
+doesn't have one.  
+~
+0 0 9
+D0
+~
+~
+0 0 588
+D2
+~
+~
+0 0 594
+D3
+~
+~
+0 0 585
+S
+#587
+Kamirno Shrine: Floor 7~
+There is nothing to see but clouds and skies.  The Sinistrals have
+changed this floor into sky.  Can't really call it a floor seeing as it
+doesn't have one.  
+~
+0 0 9
+D3
+~
+~
+0 0 588
+S
+#588
+Kamirno Shrine: Floor 7~
+There is nothing to see but clouds and skies.  The Sinistrals have
+changed this floor into sky.  Can't really call it a floor seeing as it
+doesn't have one.  
+~
+0 0 9
+D0
+~
+~
+0 0 589
+D1
+~
+~
+0 0 587
+D2
+~
+~
+0 0 586
+S
+#589
+Kamirno Shrine: Floor 7~
+There is nothing to see but clouds and skies.  The Sinistrals have
+changed this floor into sky.  Can't really call it a floor seeing as it
+doesn't have one.  
+~
+0 0 9
+D2
+~
+~
+0 0 588
+D3
+~
+~
+0 0 590
+S
+#590
+Kamirno Shrine: Floor 7~
+There is nothing to see but clouds and skies.  The Sinistrals have
+changed this floor into sky.  Can't really call it a floor seeing as it
+doesn't have one.  
+~
+0 0 9
+D1
+~
+~
+0 0 589
+D3
+~
+~
+0 0 591
+S
+#591
+Kamirno Shrine: Floor 7~
+There is nothing to see but clouds and skies.  The Sinistrals have
+changed this floor into sky.  Can't really call it a floor seeing as it
+doesn't have one.  
+~
+0 0 9
+D1
+~
+~
+0 0 590
+D3
+~
+~
+0 0 592
+S
+#592
+Kamirno Shrine: Floor 7~
+There is nothing to see but clouds and skies.  The Sinistrals have
+changed this floor into sky.  Can't really call it a floor seeing as it
+doesn't have one.  
+~
+0 0 9
+D1
+~
+~
+0 0 591
+D2
+~
+~
+0 0 593
+S
+#593
+A Stairwell~
+This is an extremely dark, rather non-descript room.  There are stairs
+here leading down, and nothing but sky can be seen to the north.  
+~
+0 13 0
+D0
+~
+~
+0 0 592
+D5
+~
+~
+0 0 575
+S
+#594
+Kamirno Shrine: Floor 7~
+There is nothing to see but clouds and skies.  The Sinistrals have
+changed this floor into sky.  Can't really call it a floor seeing as it
+doesn't have one.  
+~
+0 0 9
+D0
+~
+~
+0 0 586
+S
+#595
+Shacho's Den~
+This is the room where the Sinistral master Shacho commands his
+followers.  The walls are lined with books of all magic from clerical to
+undead.  Here, all those that wish to defeat Shacho are forsaken by their
+gods.  The door that was supposed to be west has now disappeared.  
+~
+0 12 0
+S
+#596
+Kamirno Shrine:  Floor 8~
+This is a small room with white marble walls and doors of platinum, gold,
+silver and bronze to the east, north, west and south respectively.  The
+doors look far too thick to pass through.  This floor is the source of all
+of the colours that can be seen from the outside.  
+~
+0 9 0
+D0
+~
+golden~
+3 401 598
+D1
+~
+platinum~
+3 400 595
+D2
+~
+bronze~
+3 403 597
+D3
+~
+silver~
+3 402 599
+D5
+~
+~
+0 0 585
+S
+#597
+Ikawa's Abode~
+This is the room where the Sinistral mage, Ikawa makes his home.  There
+are spell books and jars everywhere.  The room is poorly lit apart from the
+occasional flash brought on by the magic casted in here.  The door that was
+entered through has disappeared.  
+~
+0 12 0
+S
+#598
+Kohno's Practice Room~
+This is the room where Kohno practises his sword techniques.  The room is
+filled with ceremonial swords and the walls are lined with mirrors so he can
+watch himself.  The door that was entered through has now disappeared.  
+~
+0 12 0
+S
+#599
+Juana's Study~
+The walls are adorned with crosses showing Juana's devotion to religion
+and also with books that show her dedication to the study of clerical magic.
+Candles illuminate the entire room.  The door that was south of here has
+disappeared as has the support of your god.  
+~
+0 12 0
+S
+#0
+
+
+
+#SPECIALS
+M 406 spec_poison
+M 413 spec_poison
+M 421 spec_high_cleric
+M 423 spec_thief
+M 425 spec_high_mage
+M 429 spec_high_mage
+M 431 spec_high_cleric
+M 433 spec_thief
+M 435 spec_high_mage
+M 436 spec_high_cleric
+M 437 spec_high_cleric
+M 439 spec_high_mage
+S
+
+
+
+#RESETS
+D 0 474 5 1
+D 0 486 5 1
+D 0 499 5 1
+D 0 517 2 1
+D 0 521 4 1
+D 0 522 4 1
+D 0 524 4 1
+D 0 525 0 1
+D 0 596 0 2
+D 0 596 1 2
+D 0 596 2 2
+D 0 596 3 2
+M 0 400 7 405 7
+M 0 401 7 406 7
+M 0 404 7 407 7
+M 0 402 7 408 7
+M 0 400 7 409 7
+M 0 405 7 410 7
+M 0 406 7 411 7
+M 0 402 7 412 7
+M 0 403 7 413 7
+M 0 401 7 414 7
+M 0 404 7 415 7
+M 0 403 7 416 7
+M 0 406 7 417 7
+M 0 404 7 418 7
+M 0 405 7 419 7
+M 0 403 7 420 7
+M 0 400 7 421 7
+M 0 403 7 422 7
+M 0 402 7 423 7
+M 0 405 7 424 7
+M 0 406 7 425 7
+M 0 400 7 426 7
+M 0 404 7 427 7
+M 0 401 7 428 7
+M 0 403 7 429 7
+M 0 404 7 430 7
+M 0 401 7 431 7
+M 0 406 7 432 7
+M 0 400 7 433 7
+M 0 403 7 434 7
+M 0 406 7 435 7
+M 0 405 7 436 7
+M 0 404 7 437 7
+M 0 405 7 439 7
+M 0 403 7 440 7
+M 0 402 7 441 7
+M 0 406 7 442 7
+M 0 400 7 443 7
+M 0 401 7 444 7
+M 0 404 7 445 7
+M 0 402 7 446 7
+M 0 400 7 447 7
+M 0 401 7 448 7
+M 0 406 7 449 7
+M 0 402 7 451 7
+M 0 405 7 453 7
+M 0 405 7 454 7
+M 0 401 7 455 7
+M 0 414 7 466 7
+M 0 415 7 467 7
+M 0 416 7 468 7
+M 0 417 7 469 7
+M 0 418 7 470 7
+M 0 419 7 471 7
+M 0 417 7 473 7
+M 0 415 7 474 7
+M 0 419 7 475 7
+M 0 418 7 476 7
+M 0 414 7 477 7
+M 0 420 7 478 7
+M 0 416 7 479 7
+M 0 418 7 481 7
+M 0 419 7 482 7
+M 0 414 7 483 7
+M 0 415 7 484 7
+M 0 416 7 485 7
+M 0 420 7 487 7
+M 0 417 7 488 7
+M 0 417 7 489 7
+M 0 416 7 491 7
+M 0 415 7 492 7
+M 0 419 7 493 7
+M 0 414 7 494 7
+M 0 420 7 495 7
+M 0 418 7 496 7
+M 0 418 7 497 7
+M 0 414 7 498 7
+M 0 416 7 500 7
+M 0 419 7 501 7
+M 0 420 7 503 7
+M 0 415 7 503 7
+M 0 417 7 504 7
+M 0 417 7 505 7
+M 0 419 7 506 7
+M 0 415 7 507 7
+M 0 418 7 508 7
+M 0 420 7 509 7
+M 0 420 7 510 7
+M 0 414 7 511 7
+M 0 416 7 512 7
+M 0 418 7 513 7
+M 0 419 7 514 7
+M 0 416 7 515 7
+M 0 414 7 516 7
+M 0 420 7 518 7
+M 0 415 7 519 7
+M 0 417 7 520 7
+O 0 406 0 521
+M 0 413 2 521 2
+E 0 407 0 16
+M 0 413 2 521 2
+E 0 407 0 16
+M 0 408 1 522 1
+M 0 409 1 523 1
+M 0 412 1 523 1
+M 0 411 1 523 1
+M 0 410 1 523 1
+M 0 440 1 523 1
+O 0 405 0 524
+M 0 407 1 524 1
+M 0 421 4 525 4
+E 0 408 0 16
+M 0 422 4 526 4
+E 0 409 0 18
+M 0 421 4 527 4
+E 0 408 0 16
+M 0 422 4 528 4
+E 0 409 0 18
+M 0 421 4 529 4
+E 0 408 0 16
+M 0 422 4 530 4
+E 0 409 0 18
+M 0 421 4 531 4
+E 0 408 0 16
+M 0 422 4 532 4
+E 0 409 0 18
+M 0 424 4 536 4
+E 0 431 0 28
+M 0 423 4 537 4
+E 0 430 0 16
+M 0 424 4 539 4
+E 0 431 0 28
+M 0 423 4 540 4
+E 0 430 0 16
+M 0 424 4 541 4
+E 0 431 0 28
+M 0 423 4 542 4
+E 0 430 0 16
+M 0 424 4 543 4
+E 0 431 0 28
+M 0 423 4 544 4
+E 0 430 0 16
+M 0 426 4 545 4
+E 0 433 0 9
+M 0 425 4 547 4
+E 0 432 0 16
+M 0 426 4 548 4
+E 0 433 0 9
+M 0 425 4 549 4
+E 0 432 0 16
+M 0 426 4 550 4
+E 0 433 0 9
+M 0 425 4 551 4
+E 0 432 0 16
+M 0 426 4 552 4
+E 0 433 0 9
+M 0 425 4 553 4
+E 0 432 0 16
+M 0 427 4 555 4
+E 0 434 0 16
+M 0 428 4 556 4
+E 0 435 0 20
+M 0 427 4 557 4
+E 0 434 0 16
+M 0 428 4 558 4
+E 0 435 0 20
+M 0 427 4 559 4
+E 0 434 0 16
+M 0 428 4 560 4
+E 0 435 0 20
+M 0 427 4 562 4
+E 0 434 0 16
+M 0 428 4 563 4
+E 0 435 0 20
+M 0 430 4 566 4
+E 0 437 0 0
+M 0 429 4 567 4
+E 0 436 0 16
+M 0 430 4 568 4
+E 0 437 0 0
+M 0 429 4 569 4
+E 0 436 0 16
+M 0 430 4 570 4
+E 0 437 0 0
+M 0 429 4 571 4
+E 0 436 0 16
+M 0 430 4 572 4
+E 0 437 0 0
+M 0 429 4 573 4
+E 0 436 0 16
+M 0 432 4 577 4
+E 0 439 0 7
+M 0 431 4 578 4
+E 0 438 0 16
+M 0 432 4 579 4
+E 0 439 0 7
+M 0 431 4 580 4
+E 0 438 0 16
+M 0 432 4 581 4
+E 0 439 0 7
+M 0 431 4 582 4
+E 0 438 0 16
+M 0 432 4 583 4
+E 0 439 0 7
+M 0 431 4 584 4
+E 0 438 0 16
+M 0 434 4 586 4
+E 0 441 0 10
+M 0 434 4 587 4
+E 0 441 0 10
+M 0 433 4 588 4
+E 0 440 0 16
+M 0 434 4 589 4
+E 0 441 0 10
+M 0 433 4 590 4
+E 0 440 0 16
+M 0 434 4 591 4
+E 0 441 0 10
+M 0 433 4 592 4
+E 0 440 0 16
+M 0 433 4 594 4
+E 0 440 0 16
+M 0 439 1 595 1
+E 0 416 0 8
+E 0 415 0 13
+E 0 414 0 2
+E 0 414 0 1
+E 0 413 0 12
+E 0 412 0 16
+E 0 411 0 26
+M 0 435 1 596 1
+E 0 429 0 27
+E 0 428 0 4
+E 0 428 0 3
+E 0 426 0 16
+G 0 404 0
+P 0 403 1 404 1
+P 0 402 1 404 1
+P 0 401 1 404 1
+P 0 400 1 404 1
+G 0 427 0
+M 0 437 1 597 1
+E 0 422 0 15
+E 0 422 0 14
+E 0 411 0 26
+E 0 421 0 17
+E 0 420 0 16
+M 0 438 1 598 1
+E 0 411 0 26
+E 0 423 0 16
+E 0 425 0 24
+E 0 425 0 23
+E 0 424 0 5
+M 0 436 1 599 1
+E 0 411 0 26
+E 0 419 0 16
+E 0 418 0 11
+E 0 417 0 21
+E 0 417 0 22
+S
+
+
+
+#SHOPS
+408 0 0 0 0 0 110 90 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,488 @@
+#AOD_AREA
+Geldars Area~
+60500 60599 C 1
+Levl 5 10
+Bldr Geldar~
+End
+
+#MOBILES
+#60500
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+5 11 0 402 451 407 488 1 1 11 none
+-23 -22 -25 -19
+STANDING STANDING neutral 250
+0 mage medium ABCDEFGHIJK
+
+#60501
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+10 21 0 846 903 842 935 3 2 21 none
+-42 -47 -31 -33
+STANDING STANDING neutral 562
+0 mage medium ABCDEFGHIJK
+
+#60590
+Yolandi the chef~
+{YYolandi {xthe {#Chef~
+{YYolandi{x the {YChef{x is looking great in that apron and high heels.
+~
+This beautiful human stares up at you.  Long brown hair, slim figure and
+blue eyes, she drives you wild.  Although pleasant looking, she's got feist
+in her eyes.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+D DFJV 0 0 0
+301 1200 -100 70000 70000 10000 10000 100 110 7500 claw
+-1400 -1200 -1300 -1400
+STANDING STANDING female 1
+0 warlock medium ABCDEFGHIJK
+P 2 0
+S 'awen' 100
+S 'conjure' 100
+S 'heal' 100
+S 'magic missile' 100
+S 'rockshield' 100
+S 'bash' 100
+
+#60591
+A bed bug~
+A {@bed bug{x~
+A {Gbed bug{x tries to get his {rfeed{x off you.
+~
+~
+vampire~
+100 100 100 90 0 100 125 90 130 100 140 100 80 85 50 100 100 100 0 145 100 100 75 100 50 135 
+BR TVc J 0 1
+250 1500 -100 20000 25000 20000 25000 40 40 1000 bite
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 5
+0 mage small ABCDEFGHIJKV
+F 200
+G 200
+P 20 1
+S 'blindness' 100
+S 'feed' 100
+
+#60594
+a mangy wolf~
+A {ymangy{x {Xwolf{x~
+A {Dwolf{s is here, mange {hhigh{x in the ear and {Yteeth{x showing.  He looks like he is stalking his {rprey{x.
+~
+~
+wolf~
+100 200 100 100 100 100 150 125 100 100 100 100 80 100 100 100 100 120 100 100 90 200 100 100 100 100 
+0 JVc 0 0 0
+301 1200 -95 83000 85000 84000 84001 120 115 5200 none
+-1200 -1300 -1100 -800
+STANDING STANDING female 243
+0 ranger medium ACDEFJKQV
+F 100
+G 100
+H 100
+P 0 1
+S 'bash' 100
+S 'berserk' 100
+S 'gash' 100
+
+#60597
+A crazed goat~
+A crazed goat.~
+A crazed goat is here ready to ram you.
+~
+A {Rcrazed goat{x stands here, exhaling steam through his nose in this cold,
+dark, damp room.
+~
+wolf~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 KVZe D 0 0
+301 350 0 50000 60000 30000 40000 75 50 4300 none
+-1000 -800 -1200 -1300
+STANDING STANDING neutral 150
+0 mage small ACDEFJKQV
+F 20
+G 20
+H 20
+P 7 3
+S 'backdraft' 100
+S 'magic missile' 100
+S 'backstab' 100
+S 'bash' 100
+S 'circle' 100
+S 'cross slash' 100
+
+#60599
+A Golem~
+A Golem~
+A golem stands here glaring with {YYellow{x eyes making your feel rather uncomfortable.
+~
+~
+ogre~
+100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B LVe 0 0 0
+1001 0 0 15000 25000 15000 25000 0 0 0 none
+-1000 -1000 -1000 -1000
+STANDING STANDING male 0
+0 mage giant ABCDEFGHIJK
+F 500
+G 500
+H 500
+#0
+
+#OBJECTS
+#60500
+no name~
+(no short description)~
+(no description)~
+weapon 0 0
+exotic 5 5 none 0
+5 0 617
+
+#60501
+no name~
+(no short description)~
+(no description)~
+armor 0 0
+0 0 0 0 0
+10 0 1290
+
+#60589
+A black lace apron~
+A {DBlack {WLace {cApron~
+A {DBlack {WLace {cApron, {xslightly see through, lies here in a heap.  Now to find the {Rhot {xbody it came off.~
+armor C V
+-60 -50 -30 -80 0
+301 1 235
+A 1 5
+A 2 5
+A 18 400
+A 18 50
+A 19 50
+
+#60590
+a kitchen knife~
+{RA {DKitchen {YKnife~
+{RA {DKitchen {YKnife {xlies here, covered in coagulated {Rblood.~
+weapon 0 N
+sword 20 25 slice D
+301 5 465
+A 19 45
+A 18 50
+A 13 350
+H large~
+
+#60592
+pile of fur skins~
+{^Pile of {#Fur Skins~
+A {^Pile of {#Fur Skins{x lie here waiting to be slept on.~
+furniture BIOY 0
+10 1000000 CFIL 700 700
+0 6 0
+
+#60593
+a fur coat~
+A {cFur{x {RCoat{x~
+A {cFur {RCoat {xlies here.  On top the fur is thick and soft, underneath {Bblood{x drips off being apparent it was just {Yscalped{x.~
+armor EMS T
+-30 -20 -40 -30 0
+301 5 1346
+A 12 100
+A 18 200
+A 20 -3
+A 19 30
+A 18 40
+
+#60595
+{cCarved carrot~
+{OA carved carrot{x~
+A {ccaraved carrot{x is laying here looking a bit sharp..pehaps it will {Rkill{x?~
+weapon FS N
+dagger 15 15 slice 0
+301 6 3253
+A 5 1
+A 1 2
+A 19 40
+A 18 40
+
+#60596
+{rCrazed goat's horns~
+{rGoat horns{x~
+{rCrazed goat's horns{x lie here, in a puddle of {Rblood{x, as if they were just hacked off a goat's head.~
+armor 0 E
+-40 -30 -30 -30 0
+301 6 12004
+A 19 35
+A 18 35
+
+#60597
+Fountain~
+A {Bfountain{x~
+A {Xgranite {Bfountain{x runs here.~
+fountain 0 0
+50000 50000 'water' 0 0
+0 0 0
+
+#60598
+A Giant Axe~
+A Giant Axe~
+A giant axe lays here waiting to be put to use.~
+weapon E N
+axe 20 20 slice A
+1001 10 1000
+H giant~
+#0
+
+#ROOMS
+#60500
+Prakus~
+{RPrakus's House{x
+You come across a hill in the middle of the field.  It appears as if
+someone hollowed out this hill and made a home.  It is guarded by a
+fearsome golem.
+~
+0 4
+D0
+~
+~
+AB 0 60501
+D2
+~
+~
+0 0 3529
+S
+
+#60501
+Inside the home.~
+You enter the home and look up and notice the {Bsky{x.  {WMarble{x lines the clay
+walls through the top of the hill which this home is built into.  A
+{$fountain{x trickles water and some {Gplants{x grow around it.  There are 3 more
+doors which lead out of this room.  Although you are invading someones
+home, curiosity gets the best of you.
+~
+0 2
+D0
+~
+~
+0 0 60509
+D1
+~
+~
+0 0 60507
+D2
+~
+~
+0 0 60500
+D3
+~
+~
+AB 0 60502
+S
+
+#60502
+A long dark hallway~
+{x As you walk down the hallway you notice {gmoss {xand {Gvines{x growing in the
+stone.  This hallway is damp, dark, and cool.
+~
+0 0
+D1
+~
+~
+0 0 60501
+D3
+~
+~
+0 0 60503
+S
+
+#60503
+Further down the hallway~
+You carefully walk down this hallway.  The {gmoss {xand {Gvines{x are thinner here
+now.  The air is thick with humidity and you begin to wonder if you should
+continue.
+~
+1 0
+D1
+~
+~
+0 0 60502
+D3
+~
+~
+0 0 60504
+S
+
+#60504
+The end of the hallway~
+You reach the end of the hallway.  There are doors to your right and left
+which have {wiron{x bars that allow you to catch a glimpse inside.  A {Ylight{x on
+the wall provides little light, allowing you to catch a glimpse of what is
+in the closed doors, and it is not good.
+~
+8 0
+D0
+~
+~
+AB 0 60505
+D1
+~
+~
+0 0 60503
+D2
+~
+~
+AB 0 60506
+S
+
+#60505
+A dark cave~
+There are no finished walls here.  Just rocks.  {GBoulders{x stick out of the
+wall and you see deep gashes carved into them.  {YStraw{x and {pfeces{x litter the
+room.
+~
+0 0
+D2
+~
+~
+0 0 60504
+S
+
+#60506
+{bA dark cave{x~
+As you enter the room you notice holes dug with what appears to be elf like
+bones half baried.  Shivers go up your spine.
+~
+0 0
+D0
+~
+~
+0 0 60504
+S
+
+#60507
+{%A Campers Den{x~
+You enter a room that looks well lived in.  Empty bowls adorn a tree stump
+used as a table.  A pile of fur {Yskins{x in the corner looks slept in.
+~
+8 0
+D1
+~
+~
+0 0 60508
+D3
+~
+~
+0 0 60501
+S
+
+#60508
+{!The Kitchen{x~
+{GStream{x rises on the cook stove.  A flue enters the ceiling which is
+reinforced with logs.  Shelfs built from {jbranches {xhold wooden dishes and
+cast iron pans.  Looks like {Wrabbit{x tonight.
+~
+8 0
+D3
+~
+~
+0 0 60507
+S
+
+#60509
+Beyond the {$fountain~
+~
+0 0
+D0
+~
+~
+0 0 60510
+D2
+~
+~
+0 0 60501
+S
+
+#60510
+~
+~
+0 0
+D0
+~
+~
+0 0 60511
+D2
+~
+~
+0 0 60509
+S
+
+#60511
+Zions stomping room.~
+~
+0 0
+D0
+~
+~
+0 0 60512
+D2
+~
+~
+0 0 60510
+S
+
+#60512
+~
+~
+0 0
+D2
+~
+~
+0 0 60511
+S
+#0
+
+#RESETS
+D 100 60500 0 1
+D 100 60501 3 1
+D 100 60504 0 1
+D 100 60504 2 1
+M 100 60599 1 60500 1
+E 100 60598 0 16
+O 100 60597 0 60501
+M 100 60597 1 60505 1
+E 100 60596 0 6
+E 100 60595 0 16
+M 100 60594 1 60506 1
+E 100 60593 0 23
+M 100 60591 100 60507 3
+O 100 60592 0 60507
+M 100 60590 1 60508 1
+E 100 60590 0 16
+E 100 60589 0 26
+M 100 60591 100 60509 5
+M 100 60591 100 60510 5
+M 100 60591 100 60511 5
+M 100 60591 100 60512 5
+S
+
+#MOBPROGS
+#60590
+Geldar~
+Great~
+What are you doing here?  Go Away!
+~
+#0
+
+#$

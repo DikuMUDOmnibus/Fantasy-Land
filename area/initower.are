@@ -1,0 +1,3483 @@
+#AOD_AREA
+Initiate's Tower~
+22600 22799 C 9
+Levl 30 50
+Bldr Neka~
+End
+
+#MOBILES
+#22600
+bear~
+a grizzly bear~
+A fierce grizzly bear shakes its head in rage!
+~
+The huge grizzly is filled with rage.  He looks hungry too.  
+~
+bear~
+100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 0 3000 0
+8 5 0 54 60 95 128 1 20 4 claw
+50 50 50 60
+STANDING STANDING male 250
+0 mage medium ABCDEFHJKUV
+W 3
+
+#22601
+fox~
+a fox~
+A clever fox searches for ways to outsmart you.
+~
+The fox is very clever.  Watch him carefully.  
+~
+fox~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG JZ 0 3000 0
+10 7 0 77 85 105 136 1 20 6 bite
+40 40 40 50
+STANDING STANDING male 350
+0 mage medium ACDEFHJKQV
+W 3
+
+#22602
+a bat~
+a bat~
+A fierce bat swoops into your hair!
+~
+The bat swoops at your hair, shrieking loudly.  Those red eyes almost
+pierce you with a gaze of hatred.  
+~
+bat~
+100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG JTZ 0 3000 0
+12 9 0 102 118 119 152 1 20 8 bite
+20 20 20 40
+STANDING STANDING neutral 450
+0 mage tiny ACDEFHJKP
+W 3
+
+#22603
+black panther~
+a black panther~
+A black panther purrs contentedly.
+~
+The panther licks her paws.  She stretches and purrs loudly.  
+~
+cat~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG JZ 0 3000 0
+14 11 0 131 149 130 172 1 20 9 claw
+10 10 10 30
+STANDING STANDING female 550
+0 mage large ACDEFHJKQUV
+W 3
+
+#22604
+lizard~
+a lizard~
+A lizard hisses as you enter the chamber.
+~
+The lizard lashes its tail back and forth angrily.  With a hiss it
+attacks.  
+~
+human~
+100 50 100 150 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 0 0 100 100 
+ABG La C 3000 0
+16 13 0 170 194 132 173 1 20 11 acbite
+0 0 0 20
+STANDING STANDING neutral 650
+0 mage large ABCDEFGHIJK
+W 3
+
+#22605
+boa constrictor~
+a boa constrictor~
+A boa constrictor lies in wait.
+~
+~
+snake~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABG 0 0 3000 0
+18 15 0 213 239 143 194 1 20 13 crush
+0 0 0 0
+STANDING STANDING neutral 750
+0 mage medium ADEFKLQVX
+W 3
+
+#22606
+dragon~
+a fiery dragon~
+A {rf{yier{ry{0 dragon attacks you!
+~
+~
+dragon~
+100 100 50 150 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+ABG DFJT 0 0 0
+20 17 0 236 272 148 207 10 20 15 flbite
+0 0 0 0
+STANDING STANDING neutral 750
+0 mage medium ACDEFGHIJKPQUVX
+W 3
+
+#22607
+rabbit~
+a demonic rabbit~
+A demonic rabbit stands ready to do battle.
+~
+~
+rabbit~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 0 3000 0
+24 21 0 336 393 174 222 12 24 18 bite
+0 0 0 0
+STANDING STANDING neutral 1050
+0 mage medium ACDEFHJK
+W 3
+
+#22608
+fido~
+a rabid fido~
+A rabid fido foams at the mouth.
+~
+~
+fido~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG 0 0 3000 0
+25 23 0 370 431 176 241 12 25 20 none
+0 0 0 0
+STANDING STANDING neutral 1150
+0 mage medium ACDEFHJKQV
+W 3
+
+#22609
+beast~
+a beast~
+A slavering beast howls out his rage!
+~
+~
+school monster~
+100 100 0 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGTU 0 0 3000 0
+28 25 0 421 488 198 255 14 28 22 none
+0 0 0 0
+STANDING STANDING male 1250
+0 mage medium ABCDEFHJKQU
+W 3
+
+#22610
+tower guardian~
+the tower guardian~
+The tower guardian blocks the entrance to the next level of the tower.
+~
+The tower guardian stands at the ready to prevent your entry to the next
+level of the tower.  
+~
+human~
+100 100 100 50 100 100 50 100 100 100 150 50 100 100 100 100 100 0 100 100 150 100 100 100 100 100 
+ABFGT DFLT H 3000 0
+27 27 0 530 629 216 312 13 27 26 punch
+-360 -360 -360 -120
+STANDING STANDING neutral 1350
+0 mage medium ABCDEFGHIJK
+W 1
+
+#22611
+L.30 Mage~
+a L.30 mage~
+A L.30 mage practices her spells.
+~
+The mage is very practiced with spells of destruction.  
+~
+human~
+100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 50 100 150 100 0 100 100 100 
+ABFG J AHV 3000 0
+30 30 0 614 750 227 338 15 30 29 magic
+-200 -200 -200 -100
+STANDING STANDING female 1500
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22612
+L.31 thief~
+a L.31 thief~
+A L.31 thief hides in the shadows.
+~
+The thief peeks into your pouch.  Slowly a hand slides inside and
+snatches your coin purse!  
+~
+human~
+0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 150 100 100 100 100 100 100 100 
+ABG V 0 3000 0
+31 31 0 556 685 224 288 15 31 27 stab
+-130 -130 -130 -60
+STANDING STANDING neutral 1500
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22613
+L.32 Druid~
+a L.32 druid~
+A L.32 druid prepares a magical potion.
+~
+The mystical druid chants an incantation over the potion that is being
+prepared.  
+~
+human~
+100 100 100 100 100 100 100 100 150 100 100 100 150 100 100 100 100 50 0 100 100 100 100 100 100 100 
+ABFGL TU 0 3000 0
+32 32 0 649 778 248 318 16 32 31 flame
+-160 -160 -160 -100
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22614
+L.33 warrior~
+a L.33 warrior~
+A L.33 warrior screams and attacks!
+~
+The warrior is scarred from many battles.  Blood drips from his gleaming
+blade.  You are his next conquest.  
+~
+human~
+100 150 0 100 100 150 100 100 150 100 150 100 50 50 100 100 100 150 100 100 150 150 100 100 100 100 
+ABFGT DFV S 3000 0
+33 33 0 719 835 261 327 16 33 32 cleave
+-170 -170 -170 -100
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22615
+L cleric~
+a L.34 cleric~
+A L.34 cleric waits to purge the evil from your soul.
+~
+~
+human~
+100 150 100 100 100 100 100 100 150 100 100 100 150 100 100 100 100 50 0 100 100 100 100 100 100 100 
+ABFGQ TU 0 3000 0
+34 34 0 723 882 254 329 17 34 33 chill
+-180 -180 -180 -110
+STANDING STANDING neutral 1500
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22616
+L mage~
+a L.35 mage~
+A L.35 mage practices a mystical ritual.
+~
+The mage is a wizened gnome of unknown years.  
+~
+gnome~
+100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 150 100 0 100 100 100 
+ABFGR J AH 0 0
+35 35 0 758 883 257 345 17 35 34 magic
+-180 -180 -180 -110
+STANDING STANDING male 1600
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22617
+L.36 thief~
+a L.36 thief~
+A L.36 thief sneaks out of the shadows.
+~
+The thief never blinks an eye as he sneaks his hand into your pack.  
+~
+human~
+100 150 100 100 100 100 100 100 0 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 
+ABFGS 0 0 3000 0
+36 36 0 821 936 262 355 18 36 35 thrust
+-190 -190 -190 -120
+STANDING STANDING male 1600
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22618
+L.37 druid~
+a L.37 druid~
+A L.37 druid brews a potion.
+~
+The druid is clothed in a mystical black robe.  A small cauldron simmers
+before him.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 0 3000 0
+37 37 0 831 984 272 355 18 37 36 magic
+-200 -200 -200 -130
+STANDING STANDING female 1600
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22619
+L.38 warrior~
+a L.38 warrior~
+A L.38 warrior holds a bloody blade in one hand.
+~
+The warrior is more fierce than any opponent you have faced.  
+~
+human~
+150 100 100 100 0 100 150 100 150 100 100 100 100 100 0 100 100 100 0 100 100 100 100 100 100 100 
+ABFGT J 0 3000 0
+38 38 0 863 1017 283 369 19 38 37 cleave
+-210 -210 -210 -130
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22620
+L.39 wraith~
+a L.39 wraith~
+A L.39 wraith floats in a swirling mist.
+~
+The wraith stares out at you with unseeing eyes.  The air is cold in this
+chamber.  
+~
+human~
+100 100 100 100 100 100 100 100 150 100 100 100 150 100 100 100 100 50 0 100 100 100 100 100 100 100 
+ABFG TU 0 3000 0
+39 39 0 923 1078 280 371 19 39 38 none
+-220 -220 -220 -140
+STANDING STANDING neutral 1600
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22621
+tower guardian~
+the tower guardian~
+The tower guardian stands before you.
+~
+The tower guardian is impressive in his shining suit of armor.  He
+cackles insanely as you approach.  
+~
+human~
+150 100 100 100 0 100 150 100 150 100 100 100 100 100 0 100 100 100 0 100 100 100 100 100 100 100 
+ABFGT J H 3000 0
+40 40 0 951 1073 293 378 20 40 39 none
+-230 -230 -230 -140
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#22622
+L.42 Thief~
+a L.42 thief~
+A L.42 thief disappears into the shadows.
+~
+The thief sneaks past you hoping you don't notice the coins missing from
+your coin purse.  
+~
+human~
+0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 150 100 100 100 100 100 100 100 
+AGS V 0 3000 0
+47 42 0 948 1109 271 346 23 47 37 thrust
+0 0 0 0
+STANDING STANDING random 1600
+0 mage medium ABCDEFGHIJK
+W 8
+
+#22623
+L.44 warrior~
+a L.44 warrior~
+A L.44 warrior leers at you.
+~
+The warrior is covered in blood and gore.  Who may be next?  
+~
+human~
+100 100 0 100 100 150 100 100 150 100 150 100 100 50 100 100 100 100 100 100 100 150 100 100 100 100 
+AGT DFV S 3000 0
+50 44 0 1008 1178 286 363 25 50 39 chop
+0 0 0 0
+STANDING STANDING male 1600
+0 mage medium ABCDEFGHIJK
+W 8
+
+#22624
+L cleric~
+a L.46 cleric~
+A L.46 mage grins evilly and recites a spell.
+~
+~
+gnome~
+100 150 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 150 50 100 150 100 0 100 100 100 
+AGQ J AHMV 0 0
+46 46 0 1095 1304 303 371 23 46 40 magic
+0 0 0 0
+STANDING STANDING female 1500
+0 mage medium ABCDEFGHIJK
+
+#22625
+l.48 thief~
+a L.48 thief~
+A L.48 thief sneaks around you.
+~
+The thief grins wickedly.  There is no telling what he might steal next.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 150 100 100 100 100 100 100 100 100 
+AG 0 0 3000 0
+51 48 0 1201 1382 298 385 25 51 42 thrust
+0 0 0 0
+STANDING STANDING male 1700
+0 mage medium ABCDEFGHIJK
+W 4
+
+#22626
+L.50 warrior~
+a L.50 warrior~
+A L.50 warrior spins her sword and attacks!
+~
+The maiden warrior bows in honor of your prescence.  The dim light
+catches the wickedly sharp weapon she carries.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 
+AGT 0 0 3000 0
+55 50 0 1262 1435 281 390 27 55 44 none
+0 0 0 0
+STANDING STANDING female 1500
+0 mage medium ABCDEFGHIJK
+W 6
+
+#22700
+level sixty warrior~
+a level sixty warrior~
+A level sixty warrior is here, glaring at you
+~
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+AGT J N 500 0
+60 1 0 1335 1726 278 365 30 60 20 smash
+-150 -150 -150 -20
+STANDING STANDING male 4000
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22701
+level sixtyfive warrior~
+a level sixty-five warrior~
+A level sixty-five warrior is here, preparing to attack
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGT a N 350 0
+41 1 0 1324 1671 284 356 20 41 20 slice
+-150 -150 -150 -20
+STANDING STANDING male 100
+0 mage medium ABCDEFGHIJK
+W 3
+
+#22702
+cook Beldis~
+Beldis~
+Beldis the cook supervises the servants in making the evening meal.
+~
+Beldis is a man of uncompromising beliefs and indominable will.  He is
+also a VERY good cook.  He is able to take the simple provisions he recieves
+and make scrumptious meals.  Even the usually finiky elves find his food to
+be more than palatable.  He is not a very forgiving man and with his size
+few challenge his will.  Thus his servants move quickly to obey his every
+command.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 0 0 0
+45 1 0 2325 2735 291 389 22 45 20 beating
+-180 -180 -180 -40
+STANDING STANDING male 4500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#22704
+Shadow Stalker~
+{DShadow{w Stalker{x~
+A {DShadow{w stalks{x you here. 
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFGT DVa H 750 0
+54 8 0 10329 10664 425 533 27 54 30 wrath
+-440 -440 -440 -340
+STANDING STANDING male 7000
+0 mage medium ABCDEFGHIJK
+W 50
+
+#22705
+a caged beast~
+a caged beast~
+A caged beast growls at you, then attacks
+~
+~
+human~
+100 50 50 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABFGR JTVa HN 350 0
+60 5 0 4196 4743 339 422 30 60 30 none
+-210 -210 -210 -50
+STANDING STANDING male 5000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#22706
+a caged beast~
+a caged beast~
+A caged beast growls at you, then attacks
+~
+~
+human~
+100 50 50 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABFGR JTVa HN 500 0
+75 5 0 4220 4637 317 429 37 75 30 none
+-210 -210 -210 -50
+STANDING STANDING male 5000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#22707
+level seventy warrior~
+A level seventy warrior~
+A level seventy warrior grins at you
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGT V N -1000 0
+70 2 0 1257 1793 448 573 35 70 20 slice
+-200 -200 -200 -100
+STANDING STANDING female 666
+0 mage medium ABCDEFGHIJK
+W 1
+
+#22708
+elf guard defender~
+the Defender~
+An elven Defender rests quietly on his cot.
+~
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABGT JV N 500 0
+40 2 0 1317 1715 271 355 20 40 20 slash
+-150 -150 -150 -20
+STANDING STANDING male 3000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#22709
+ivan smith~
+Ivan~
+Ivan works in the intense heat of the forge.
+~
+Ivan is a bear of man standing over 6 feet tall and covered in muscles. 
+He is known through the fort as a very good blacksmith and an even better
+friend.  
+~
+human~
+100 100 0 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGT a NO 0 0
+45 8 0 4419 5047 317 395 22 45 25 beating
+-180 -180 -180 -40
+STANDING STANDING male 4500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#22710
+dayn ranger scout~
+Dayn~
+A ranger gathers his belongings.
+~
+This lithe half-elf is head of the scouts who patrol the areas beyond the
+First Wall.  He is absolutly devoted to his job and to the protection of his
+charges.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABGT JLV HNP 350 0
+45 6 0 2263 2773 311 397 22 45 22 pierce
+-180 -180 -180 -40
+STANDING STANDING male 4500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#22711
+pigeon~
+a carrier pigeon~
+A carrier pigeon seems to have just arrived.
+~
+These small birds are used to carry messages over great distances.  As of
+yet the demons and orcs have not learned to take any notice of them on the
+battle field.  
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG T 0 0 0
+10 0 0 100 100 100 100 1 20 3 peck
+70 70 70 90
+STANDING STANDING random 100
+0 mage small ACDEFHKP
+W 1
+
+#22712
+hawk~
+the hawk~
+A war hawk rests on its perch waiting for its mistress.
+~
+This bird is the symbol of the remainders of the combined armies.  Its
+sleek mahogeny frathers shine with an aura of determination.  Two deep black
+eyes frame the powerful beak, a beak sharp enough to rip through the flesh
+of an enemy.  
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG TV 0 0 0
+40 0 0 924 1402 270 369 20 40 20 claw
+-150 -150 -150 -20
+STANDING STANDING random 3500
+0 mage small ACDEFHKP
+W 1
+
+#22713
+lady silverleaf~
+Lady Silverleaf~
+Lady Silverleaf goes about her daily routine.
+~
+This petite elf has long blonde hair and golden eyes which hold a spark
+which alludes to a temper few ever see.  While she heads the elven
+delegation, she leaves the elven troops to Lannick while she concentrates on
+the wizards.  Her small size belies the power she holds, for she is a master
+magician in every way.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABGR JTV HN 750 0
+54 4 0 8504 9372 342 443 27 54 25 magic
+-400 -400 -400 -300
+STANDING STANDING female 6000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#22714
+Elven archer elf~
+the elven archer~
+An elven archer scans the horizon, ready to fire his bow at the site of
+danger.
+~
+Like all elves these archers posses the keen eyesight of their race. 
+Their job is to patrol the wall and keep an eye out for advanced bands of
+orcs.  They are also unmatched in their skill with the bow and act as first
+line f defense against an approaching enemy.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABG J N 400 0
+42 3 0 1261 1744 276 366 21 42 20 pierce
+-160 -160 -160 -30
+STANDING STANDING random 3000
+0 mage medium ABCDEFGHIJK
+W 4
+
+#22715
+human archer~
+an archer~
+An archer walks the area on patrol.
+~
+This archer is a member of the human contingent at Defender Fort.  Like
+most other members of the guard here, they seem tired but ever alert for the
+danger that dwells so close at hand.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGT 0 N 400 0
+42 3 0 1349 1698 301 365 21 42 20 pierce
+-160 -160 -160 -30
+STANDING STANDING random 4000
+0 mage medium ABCDEFGHIJK
+W 6
+
+#22716
+elven elf battlemage mage~
+an elven mage~
+A small elf practices their magical skills.
+~
+This elf is smaller than most of the elves here at Defender Fort.  Lady
+Silverleaf brought several of her personal students with her when she came
+to the fort to help provide magical backup.  These elves continue their
+training under her tutelage.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABGR JT HN 500 0
+45 2 0 1756 2323 305 378 22 45 23 magic
+-180 -180 -180 -40
+STANDING STANDING random 4500
+0 mage medium ABCDEFGHIJK
+W 2
+
+#22717
+warriorpriest warrior warrior-priest priest~
+a warrior-priest~
+A warrior-priest of the god of war meditates on the meaning of life.
+~
+These priests look to be like normal warriors of the keep except for
+their holy symbols of the god of War.  They have pledged their assistance in
+the defense of Defender Fort against the hordes of evil.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGQ T HN 200 0
+45 5 0 1832 2270 306 384 22 45 23 chop
+-180 -180 -180 -40
+STANDING STANDING male 4500
+0 mage medium ABCDEFGHIJK
+W 2
+
+#22718
+Malim priest head headpriest~
+Malim~
+The head-priest of the clan prays for guidance.
+~
+This a bear of a man at over 6 feet tall and almost as wide.  He has
+brought his men to the fort for the glory of battle and for the honor of his
+sect.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGT T HN 400 0
+50 6 0 3474 4176 334 429 25 50 25 wrath
+-210 -210 -210 -50
+STANDING STANDING male 5000
+0 mage medium ABCDEFGHIJK
+W 2
+
+#22719
+defender~
+a defender~
+A defender practices his fighting skills.
+~
+When not on patrol the guards often engage in good nature sparring to
+keep their skills up to snuff.  They must remain diligent as an attack could
+come about at any time.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGT 0 HN 300 0
+40 4 0 1363 1807 277 358 20 40 20 slash
+-150 -150 -150 -20
+STANDING STANDING random 4000
+0 mage medium ABCDEFGHIJK
+W 4
+
+#22720
+servant~
+a servant~
+A servant runs about trying to keep up with his duties.
+~
+These servants came here hoping to join as defenders.  They are too young
+however and thus while they train they serve under Beldis.  Most are young
+boys but several girls are around as well.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGH V 0 200 0
+30 0 0 616 829 239 294 15 30 15 none
+0 0 0 0
+STANDING STANDING random 3000
+0 mage medium ABCDEFGHIJK
+W 4
+#0
+
+#OBJECTS
+#22600
+magical potion of healing~
+a magical potion of healing~
+A magical potion of healing awaits you.~
+potion 0 A
+15 'heal' '' '' 'reserved'
+0 1 0
+
+#22601
+chain mail gauntlets~
+some chain mail gauntlets~
+A pair of chain mail gauntlets lie on a table.~
+armor 0 AH
+12 12 14 10 0
+30 31 500
+A 2 3
+
+#22602
+initiate's mace~
+an {gin{witia{gte{0's {rmace{0~
+An {gin{witia{gte{0's {rmace{0 is propped against one wall.~
+weapon 0 AN
+mace 8 8 pound B
+30 28 1660
+A 19 2
+A 18 2
+
+#22603
+intiates katana~
+an {gin{witia{gte's {rkatana{0~
+An {gin{witia{gte's {rkatana{0 lies here.~
+weapon 0 AN
+dagger 8 8 slice BD
+30 31 2015
+A 18 2
+A 19 2
+
+#22604
+chain mail sleeves~
+some chain mail sleeves~
+Some chain mail sleeves have been dropped here.~
+armor 0 AI
+10 12 13 10 0
+30 31 500
+A 1 2
+
+#22605
+initiate's dagger~
+an {gin{witia{gte{0's {rdagger{0~
+An {gin{witia{gte's {rdagger{0 lies here.~
+weapon 0 AN
+dagger 8 8 pierce CD
+30 40 1890
+A 18 2
+A 19 2
+
+#22606
+thieve's pouch~
+a {gth{wie{gve{0's {rpouch{0~
+A {gth{wie{gve{0's {rpouch{0 has been dropped here.~
+container Y AL
+1000 0 0 100 10
+20 30 500
+A 13 40
+
+#22607
+initiate's flail~
+an {gin{witia{gte{0's {rflail{0~
+A heavy piece of iron lies in the path.~
+weapon 0 AN
+flail 8 8 crush C
+30 31 1640
+A 18 2
+A 19 2
+
+#22608
+initiate's sword~
+an {gin{witia{gte{0's {rsword{0~
+A razor sharp blade lies in the path.~
+weapon 0 AN
+sword 8 8 slash CD
+30 31 1890
+A 18 2
+A 19 2
+
+#22609
+initiate's whip~
+an {gin{witia{gte{0's {rwhip{0~
+A thin strip of leather lies here.~
+weapon 0 AN
+whip 8 8 whip CD
+30 31 1640
+A 18 2
+A 19 2
+
+#22610
+initiate's spear~
+an {gin{witia{gte{0's {rspear{0~
+A wicked looking spear has been thrust into the ground.~
+weapon 0 AN
+exotic 8 8 pierce CD
+30 31 2015
+A 13 40
+A 18 2
+A 19 2
+
+#22611
+initiate's nujitsu~
+an {gin{witia{gte{0's {rnujitsu{0~
+A beautifully carved piece of wood lies before you.~
+weapon 0 AN
+exotic 8 8 acbite D
+30 31 2015
+A 18 2
+A 19 2
+
+#22612
+initiate's polearm~
+an {gin{witia{gte{0's {rpolearm{0~
+A long wooden staff is propped against the wall.~
+weapon 0 AN
+polearm 8 8 chop C
+30 31 1890
+A 18 2
+A 19 2
+
+#22613
+initiate's axe~
+an {gin{witia{gte{0's {raxe{0~
+A heavy iron axe lies here.~
+weapon 0 AN
+axe 8 8 cleave C
+30 31 1890
+A 18 2
+A 19 2
+
+#22614
+initiates claw~
+{gin{witia{gte's {rclaw{0~
+A silvery claw has been dropped here.~
+weapon 0 AN
+exotic 8 8 claw C
+30 31 2015
+A 18 2
+A 19 2
+
+#22615
+chainmail leggings~
+chain mail leggings~
+Some chain mail leggings have been dropped here.~
+armor 0 AF
+13 17 17 12 0
+35 36 750
+A 5 3
+
+#22616
+silent boots of walking~
+{wsilent {cboots {wof {cwalking{0~
+A well worn pair of boots have been dropped here.~
+armor GI AG
+18 13 15 14 0
+40 41 1200
+F A 0 0 P
+
+#22617
+silver wand~
+a tiny silver wand~
+A tiny silver wand lies here.~
+wand H AO
+30 20 20 'energy drain' 0
+35 2 200
+
+#22618
+brass plaque~
+a brass plaque~
+A heavy brass plaque hangs on the wall.~
+trash O 0
+0 0 0 0 0
+0 200 0
+E
+plaque~
+Only the most brave wander through the corridors of this tower.  The
+beasts that are trapped within are more fierce than any you have known.  
+            {RYOU HAVE BEEN WARNED!!!{0
+~
+
+#22700
+bloody table~
+a bloody table~
+A {Rbloody{X table stands here, waiting for the next sacrifice.~
+furniture X P
+0 0 0 0 0
+40 5000 10
+E
+gate~
+This porticlus is made of strong black iron and looks to be very, very
+heavy.  
+~
+
+#22701
+knife rack~
+a knife rack~
+A small rack sits on the ground, holding many implements of torture.~
+container X P
+0 0 0 0 0
+40 10000 1
+E
+table~
+This table seems to be made of strong oak and is scrubbed very clean.  
+~
+
+#22702
+steel chair~
+a steel chair~
+A chair stands at the table.~
+weapon X ANP
+exotic 14 13 crush G
+101 10 400
+E
+chair~
+This chair is made of solid oak.
+~
+
+#22703
+shelf~
+a shelf~
+A wide shelf runs along the western wall.~
+container X P
+1000 0 0 50 100
+40 1 100
+
+#22704
+paper~
+a sheet of paper~
+A sheet of paper.~
+trash 0 A
+0 0 0 0 0
+52 1 1
+
+#22705
+ink~
+an ink well~
+An inkwell rests on the floor.~
+potion 0 AO
+30 'pass door' 'poison' 'reserved' 'reserved'
+52 10 10
+
+#22706
+candle~
+a wax candle~
+A wax candle rests on the floor.~
+light A AO
+0 0 48 0 0
+49 10 5
+E
+key~
+The key seems to be made entirely out of a cold, dark, translucent
+substance that seems to be flowing inside it's glowing shell.  You wonder
+what this key was meant to lock away.  On the large end of the key is an
+engraved symbol that seems to resemble a demon.  In fact, the key itself is
+shaped like a thin spector.  Its low pitched hum vibrates your hand and
+makes you feel dizzy.  
+~
+
+#22707
+oil~
+a flask of lamp oil~
+A flask of lamp oil rests on the ground.~
+potion 0 AO
+30 'slow' '' '' ''
+40 50 20
+E
+ring~
+A small dark piece of shadow, seemingly rotting.  
+~
+E
+ring~
+A small piece of dark shadow lies here.  It seems to be rotting away.  
+~
+
+#22708
+medical kit~
+a medical kit~
+A medical kit lies here.~
+container 0 AO
+50 AC 0 5 100
+40 10 25
+
+#22709
+blue pill~
+a small blue pill~
+A small blue pill.~
+pill 0 AO
+30 'cure critical' '' '' ''
+40 1 400
+
+#22710
+red pill~
+a little red pill~
+A little red pill.~
+pill 0 AO
+30 'cure blindness' '' '' ''
+30 1 400
+
+#22711
+green pill~
+a little green pill~
+A little green pill.~
+pill 0 AO
+30 'cure poison' '' '' ''
+40 1 400
+
+#22712
+water barrel~
+several barrels of water~
+Several barrels of water sit in the corner.~
+fountain X P
+0 0 'water' 0 0
+1 1 1
+
+#22713
+pantry key~
+a small pantry key~
+A small pantry key rests on the ground.~
+key 0 AO
+0 0 0 0 0
+1 1 1
+
+#22714
+cot~
+a cot~
+A cot rests against the wall.~
+furniture X P
+1 300 ABDEGHJKN 53 53
+1 1 1
+
+#22715
+chest~
+a chest~
+A strong chest stands at the foot of the cot.~
+container X AP
+500 AC 0 50 100
+1 16959 1
+
+#22716
+table~
+a large table~
+A large table used for staff meeetings stands in the center of the room.~
+furniture X P
+2 2000 ABDEGHJKN 53 53
+1 1 1
+
+#22717
+map~
+a map~
+A rolled up map rests on the table~
+trash 0 A
+0 0 0 0 0
+1 10 100
+E
+map~
+---/ ....................../\/\/\/\/\.......... /\/\/\/\/\/\/\/\
+--/.............../\/\/\/\/\/\/\/\/\/\/\ /\/\/\/\/\/\/\/\/\/\/\/\/\
+--|...../\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+ --|............................----------..../\
+ --|...........................| Defender |..|.Borderlands
+--/...............+ -----------|    Fort  |..|.(orcs)
+-/.....Camps......|.............----------... /\
+-|............+---+..... /\/\/\/\/\/\ /\/\/\/\/\/\/\/\/\
+-|............|......... /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+-|--+------ + Guard....... /\/\/\/\/\/\/\/\/\/\/\/\/\
+/...|.........|................. /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+|...|..**********/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+|---| ***The******....................................
+|... ***** Mists****....... Battlezone.....
+|..... **************...............................
+\.........*********..........................................
+~
+
+#22718
+spiral staircase~
+a spiral staircase~
+A wide spiral staircase leads up.~
+trash X P
+0 0 0 0 0
+1 1 1
+
+#22719
+spiral staircase~
+a spiral staircase~
+A wide spiral staircase leads up and down.~
+trash X P
+0 0 0 0 0
+1 1 1
+
+#22720
+spiral staircase~
+a spiral staircase~
+A wide spiral staircase leads down.~
+trash X P
+0 0 0 0 0
+1 1 1
+
+#22721
+forge~
+a forge~
+A forge stands in the corner bellowing out heat.~
+trash X P
+0 0 0 0 0
+1 1 1
+
+#22722
+bed~
+a bed~
+A comfortable bed rests in the corner~
+furniture X P
+2 0 ABDEGHJKN 53 53
+1 1 1
+
+#22723
+A small wooden desk~
+a small wooden desk~
+A small wooden desk stands against the wall.~
+furniture X P
+1 300 ABDEGHJKN 53 53
+1 1 1
+
+#22724
+shag rug~
+the shag rug~
+A thin shag rug runs along the length of the hallway.~
+trash X P
+0 0 0 0 0
+1 1 1
+
+#22725
+pigeon coop~
+the pigeon coop~
+A pigeon coop stands open waiting for the pigeons to return.~
+trash X P
+0 0 0 0 0
+1 1 1
+
+#22726
+no name~
+the four poster bed~
+A four poster bed dominates the room.~
+furniture X P
+2 600 ABDEGHJKN 53 53
+1 1 1
+
+#22727
+desk~
+a hand carved desk~
+A beautifully crafted desk sits in the corner of the room.~
+furniture X P
+1 300 ABDEGHJKN 53 53
+1 1 1
+
+#22728
+rug~
+a rug~
+An ornanmental rug covers the floor on one side of the bed.~
+trash X P
+0 0 0 0 0
+1 1 1
+
+#22729
+some gold coins~
+a few gold coins~
+A few gold coins lay here.~
+money 0 A
+0 5 0 0 0
+0 5 500
+
+#22730
+comb~
+a comb~
+A comb lies on the ground.~
+trash 0 A
+0 0 0 0 0
+0 10 6
+
+#22731
+book~
+a book~
+A book of elven poetry rests on the ground.~
+trash 0 AO
+0 0 0 0 0
+1 10 2500
+A 4 1
+E
+book~
+This is a collection of poems from the famous elven bard Allenrood.
+~
+
+#22732
+towel~
+a towel~
+A toewl lays here neatly folded.~
+trash 0 AK
+0 0 0 0 0
+1 10 1
+
+#22733
+golden leaf~
+golden leaf~
+golden leaf sparkles like the light of the sun.~
+none AT AO
+A 0 0 0 0
+0 1 0
+
+#22734
+picture~
+a picture~
+A picture lies forgotten on the floor.~
+trash 0 AO
+0 0 0 0 0
+1 1 1
+E
+picture~
+This is a picture of the defender's family drawn with great skill and
+valued as though made of diamond.  
+~
+
+#22735
+dresser~
+a dresser~
+A small dresser leans against the far wall.~
+container X P
+100 AC 0 50 100
+1 100 245
+
+#22736
+socks~
+a pair of socks~
+A pair of socks look very warm.~
+armor AG AG
+7 9 8 5 0
+40 3 7500
+A 18 2
+A 19 2
+E
+socks~
+These are a pair of very warm looking socks made of high grade wool.
+~
+
+#22737
+silk gloves~
+silk gloves~
+A pair of well made silk gloves lay here.~
+armor G AH
+8 8 8 8 0
+40 10 10000
+A 12 20
+A 2 2
+A 1 1
+E
+gloves~
+These gloves are made of the finest silk gathered by elven weavers.
+~
+
+#22738
+key commander ~
+the commander key~
+A key with pearl inlay lies here.~
+key 0 AO
+0 0 0 0 0
+1 1 2
+
+#22739
+catapult~
+a catapult~
+A catapult stands armed and ready to fire at a moments notice.~
+trash X P
+0 0 0 0 0
+1 1 1
+
+#22740
+Defender cloak~
+a defender cloak~
+A cloak bearing the defender symbol lies on the ground.~
+armor AG AK
+7 7 7 7 1
+40 10 10000
+A 18 2
+A 13 50
+A 5 2
+E
+cloak~
+This dark blue cloak is made of sturdy cloth and serves as standard
+equipment for defenders.  
+~
+
+#22741
+defender shield~
+a defender shield~
+A sturdy shield bearing the defender symbol lies here.~
+armor ABG AJ
+7 7 7 7 2
+40 20 10000
+A 1 1
+A 19 2
+A 13 50
+E
+shield~
+This strong metal shield is part of the standard armor for soldiers of
+Defender Fort.  
+~
+
+#22742
+defender bow~
+a defender bow~
+A sturdy bow bearing the defender symbol lies here.~
+weapon BG AN
+exotic 9 10 pierce 0
+40 25 10000
+E
+bow~
+This strong wooden bow is made from Laniath wood and is extremely strong.
+It is used by all of the archers at Defender Fort.  
+~
+
+#22743
+defender broadsword~
+a defender broadsword~
+A gleaming broadsword with a defender symbold rests here.~
+weapon BG AN
+sword 10 10 slash 0
+40 20 10000
+E
+broadsword~
+This long sword is the standard issue weapon of all the defenders.  It is
+forged from a very strong grade of steel.  
+~
+
+#22744
+defender belt~
+a defender belt~
+A thick leather bely bearing the defender symbol lies here.~
+armor AGS AL
+6 6 6 6 2
+40 20 10000
+A 19 1
+A 18 1
+
+#22745
+Burning iron~
+a {rburning{x iron~
+An iron lies on the ground here~
+weapon AIKMTY AN
+exotic 7 8 flbite A
+50 100 60000
+A 18 3
+A 19 3
+
+#22746
+note~
+a note~
+A small note has been tossed aside.~
+trash 0 A
+0 0 0 0 0
+0 10 0
+E
+note~
+This small note reads:
+   The situation is getting desperate. I don't know how much
+   longer we can last. They beat on the walls incessintly,
+   and our food supplies have dwindled to nearly nothing.
+   We can only hope to die bravely in the name of justice.
+                                     -Kar'Morath-
+~
+
+#22747
+small bloody dagger~
+a small {Rbloody{x dagger~
+A small dagger lies in a pool of {Rblood{x here~
+weapon ABFGT AN
+dagger 8 8 pierce D
+30 10 20000
+A 19 4
+A 18 4
+
+#22748
+scout pack~
+a scout pack~
+A camoflaged pack blends in with its surroundings.~
+container FY AK
+500 A 0 50 50
+45 10 7562
+A 1 2
+A 14 75
+A 2 2
+
+#22749
+bracelet elven magic~
+a bracelet of elven magic~
+A glittering bracelet of mithril shines with an aura of magic.~
+jewelry ABGY AM
+0 0 0 0 0
+20 5 20000
+A 3 2
+A 4 2
+A 12 60
+
+#22750
+sphere protection~
+a sphere of protection~
+A clear bubble seems to radiate energy.~
+armor ABFG AD
+9 9 9 9 0
+50 0 20000
+A 13 50
+A 2 2
+
+#22751
+Warhammer hammer~
+a warhammer~
+A strong warhammer lies on the ground.~
+weapon AIKMTY AN
+mace 11 10 pound A
+75 50 30000
+A 19 15
+A 18 15
+A 13 50
+A 2 3
+
+#22752
+battle robes~
+battle robes~
+A pile of fine silk robes rests on the ground.~
+armor AG AD
+8 8 8 4 2
+45 20 25000
+A 19 2
+A 18 2
+E
+robes~
+These fine robes are made of elven silk and have elven runes running
+along its hem.  
+~
+
+#22753
+smock blacksmith's~
+a blacksmith's smock~
+A dirty smock with sooty smears rests on the ground.~
+armor BGY AL
+9 9 9 4 2
+40 20 5023
+A 1 3
+A 5 2
+E
+smock~
+This is a sort of apron used to help protect blacksmith's from the heat
+of the forge.  It is particularly well made and seems to be crafted of a
+magical nature.  
+~
+#0
+
+#ROOMS
+#22600
+Entrance to Initiate's Tower~
+A narrow path leads to the entrance of the tower.  The tower is a narrow,
+tall structure constructed of gigantic stone blocks.  The craftsmanship is
+remarkable.  A massive arched doorway leads into the tower.  There are
+windows visible on the exterior of the tower.  Each has been carefully
+covered with heavy iron bars.  
+~
+0 0
+D4
+~
+~
+0 0 22601
+S
+
+#22601
+Stone Corridor~
+The corridor is made entirely of large stone blocks.  The floor echoes
+quietly with each step you take.  Shrieks and moans echo through the tower. 
+Blood and gore grime the floor near your feet.  A horrible fight seems to
+have taken place here.  
+~
+0 0
+D0
+~
+~
+0 0 22602
+D5
+~
+~
+0 0 22600
+S
+
+#22602
+Stone Corrridor~
+A thin layer of dust covers the floor.  The faint outline the steps of
+those who have been here before can be seen.  The air is heavy with the
+smell of a long closed in space.  There is very little light to show you
+what may lie here.  Faint noises can be heard coming from all directions.  
+~
+0 0
+D0
+~
+~
+0 0 22605
+D1
+~
+~
+0 0 22603
+D2
+~
+~
+0 0 22601
+D3
+~
+~
+0 0 22604
+S
+
+#22603
+Tower Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the west.  
+~
+0 0
+D3
+~
+~
+0 0 22602
+S
+
+#22604
+Tower Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the east.  
+~
+0 0
+D1
+~
+~
+0 0 22602
+S
+
+#22605
+Stone Corridor~
+The corridor is made entirely of large stone blocks.  The floor echoes
+quietly with each step you take.  Shrieks and moans echo through the tower. 
+Blood and gore grime the floor near your feet.  A horrible fight seems to
+have taken place here.  
+~
+0 0
+D0
+~
+~
+0 0 22606
+D1
+~
+~
+0 0 22607
+D2
+~
+~
+0 0 22602
+D3
+~
+~
+0 0 22608
+S
+
+#22606
+Stone Corridor~
+A slight draft of cold air stirs here.  A chill runs down your spine. 
+Sudden movement comes from the east.  A low growl echoes through the
+corridor.  What manner of beast is it hiding there in the shadows?  
+~
+0 0
+D0
+~
+~
+0 0 22612
+D1
+~
+~
+0 0 22609
+D2
+~
+~
+0 0 22605
+D3
+~
+~
+0 0 22610
+S
+
+#22607
+Tower Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the west.  
+~
+0 0
+D3
+~
+~
+0 0 22605
+S
+
+#22608
+Tower Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the east.  
+~
+0 0
+D1
+~
+~
+0 0 22605
+S
+
+#22609
+Tower Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the west.  
+~
+0 0
+D3
+~
+~
+0 0 22606
+S
+
+#22610
+Tower Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the east.  
+~
+0 0
+D1
+~
+~
+0 0 22606
+S
+
+#22611
+none~
+~
+4 0
+S
+
+#22612
+Stone Corridor~
+A thin layer of dust covers the floor.  The faint outline the steps of
+those who have been here before can be seen.  The air is heavy with the
+smell of a long closed in space.  There is very little light to show you
+what may lie here.  Faint noises can be heard coming from all directions.  
+~
+0 0
+D0
+~
+~
+0 0 22615
+D1
+~
+~
+0 0 22613
+D2
+~
+~
+0 0 22606
+D3
+~
+~
+0 0 22614
+S
+
+#22613
+Tower Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the west.  
+~
+0 0
+D3
+~
+~
+0 0 22612
+S
+
+#22614
+Tower Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the east.  
+~
+0 0
+D1
+~
+~
+0 0 22612
+S
+
+#22615
+Stone Corridor~
+It is utterly silent in this part of the corridor.  No movement or sound
+can be heard.  Gripping your weapon more firmly, you continue into the
+unknown.  
+~
+0 0
+D0
+~
+~
+0 0 22618
+D1
+~
+~
+0 0 22616
+D2
+~
+~
+0 0 22612
+D3
+~
+~
+0 0 22617
+S
+
+#22616
+Tower Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the west.  
+~
+0 0
+D3
+~
+~
+0 0 22615
+S
+
+#22617
+Tower Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the east.  
+~
+0 0
+D1
+~
+~
+0 0 22615
+S
+
+#22618
+Before the Stairs~
+The small antechamber that leads to the stairs is completely deserted.  A
+thick layer of dust covers the floor.  Cobwebs hang from the ceiling,
+fluttering in the cold draft of air that stirs through here.  
+~
+0 0
+D2
+~
+~
+0 0 22615
+D4
+~
+~
+0 0 22619
+S
+
+#22619
+Stairway~
+The stairway is narrow and dimly lit.  Flickering torches shed very
+little light into the area.  The air is hazy from the smoke give off by the
+torches.  
+~
+0 0
+D2
+~
+~
+0 0 22620
+D5
+~
+~
+0 0 22618
+S
+
+#22620
+Second Floor Corridor~
+The corridor is made entirely of large stone blocks.  The floor echoes
+quietly with each step you take.  Shrieks and moans echo through the tower. 
+Blood and gore grime the floor near your feet.  A horrible fight seems to
+have taken place here.  
+~
+0 0
+D0
+~
+~
+0 0 22619
+D1
+~
+~
+0 0 22621
+D2
+~
+~
+0 0 22623
+D3
+~
+~
+0 0 22622
+S
+
+#22621
+Second Floor Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the west.  
+~
+0 0
+D3
+~
+~
+0 0 22620
+S
+
+#22622
+Second Floor Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the east.  
+~
+0 0
+D1
+~
+~
+0 0 22620
+S
+
+#22623
+Second Floor Corridor~
+A thin layer of dust covers the floor.  The faint outline the steps of
+those who have been here before can be seen.  The air is heavy with the
+smell of a long closed in space.  There is very little light to show you
+what may lie here.  Faint noises can be heard coming from all directions.  
+~
+0 0
+D0
+~
+~
+0 0 22620
+D1
+~
+~
+0 0 22624
+D2
+~
+~
+0 0 22626
+D3
+~
+~
+0 0 22625
+S
+
+#22624
+Second Floor Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the west.  
+~
+0 0
+D3
+~
+~
+0 0 22623
+S
+
+#22625
+Second Floor Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the east.  
+~
+0 0
+D1
+~
+~
+0 0 22623
+S
+
+#22626
+Second Floor Corridor~
+A slight draft of cold air stirs here.  A chill runs down your spine. 
+Sudden movement comes from the east.  A low growl echoes through the
+corridor.  What manner of beast is it hiding there in the shadows?  
+~
+0 0
+D0
+~
+~
+0 0 22623
+D1
+~
+~
+0 0 22627
+D2
+~
+~
+0 0 22629
+D3
+~
+~
+0 0 22628
+S
+
+#22627
+Second Floor Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the west.  
+~
+0 0
+D3
+~
+~
+0 0 22626
+S
+
+#22628
+Second Floor Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the east.  
+~
+0 0
+D1
+~
+~
+0 0 22626
+S
+
+#22629
+Second Floor Corridor~
+A thin layer of dust covers the floor.  The faint outline the steps of
+those who have been here before can be seen.  The air is heavy with the
+smell of a long closed in space.  There is very little light to show you
+what may lie here.  Faint noises can be heard coming from all directions.  
+~
+0 0
+D0
+~
+~
+0 0 22626
+D1
+~
+~
+0 0 22630
+D2
+~
+~
+0 0 22632
+D3
+~
+~
+0 0 22631
+S
+
+#22630
+Second Floor Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the west.  
+~
+0 0
+D3
+~
+~
+0 0 22629
+S
+
+#22631
+Second Floor Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the east.  
+~
+0 0
+D1
+~
+~
+0 0 22629
+S
+
+#22632
+Second Floor Corridor~
+The corridor is made entirely of large stone blocks.  The floor echoes
+quietly with each step you take.  Shrieks and moans echo through the tower. 
+Blood and gore grime the floor near your feet.  A horrible fight seems to
+have taken place here.  
+~
+0 0
+D0
+~
+~
+0 0 22629
+D1
+~
+~
+0 0 22633
+D2
+~
+~
+0 0 22635
+D3
+~
+~
+0 0 22634
+S
+
+#22633
+Second Floor Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the west.  
+~
+0 0
+D3
+~
+~
+0 0 22632
+S
+
+#22634
+Second Floor Chamber~
+The chamber is bare of any decoration.  Blood and gore grime the floor. 
+The single window that is visible on the far wall is barred from the
+outside.  The only exit lies to the east.  
+~
+0 0
+D1
+~
+~
+0 0 22632
+S
+
+#22635
+Before the Stairs~
+The small antechamber that leads to the stairs is completely deserted. 
+A thick layer of dust covers the floor.  Cobwebs hang from the ceiling,
+fluttering in the cold draft of air that stirs through here.  
+~
+0 0
+D0
+~
+~
+0 0 22632
+D4
+~
+~
+0 0 22636
+S
+
+#22636
+Stairway~
+The stairway is narrow and dimly lit.  Flickering torches shed very
+little light into the area.  The air is hazy from the smoke give off by the
+torches.  
+~
+4 0
+D0
+~
+~
+0 0 22637
+D5
+~
+~
+0 0 22635
+S
+
+#22637
+Third Floor Corridor~
+The corridor is made entirely of large stone blocks.  The floor echoes
+quietly with each step you take.  Shrieks and moans echo through the tower. 
+Blood and gore grime the floor near your feet.  A horrible fight seems to
+have taken place here.  
+~
+0 0
+D0
+~
+~
+0 0 22640
+D1
+~
+~
+0 0 22638
+D2
+~
+~
+0 0 22636
+D3
+~
+~
+0 0 22639
+S
+
+#22638
+Third Floor Chamber~
+The chamber is filled with broken furniture.  Blood and gore grime the
+floor and walls.  The smell of death is heavy in the air.  A strangled
+shriek of pain comes from somewhere nearby.  Welcome to the final level of
+Initiate's Tower.  
+~
+0 0
+D3
+~
+~
+0 0 22637
+S
+
+#22639
+Third Floor Chamber~
+The chamber is filled with broken furniture.  Blood and gore grime the
+floor and walls.  The smell of death is heavy in the air.  A strangled
+shriek of pain comes from somewhere nearby.  Welcome to the final level of
+Initiate's Tower.  
+~
+0 0
+D1
+~
+~
+0 0 22637
+S
+
+#22640
+Third Floor Corridor~
+A thin layer of dust covers the floor.  The faint outline the steps of
+those who have been here before can be seen.  The air is heavy with the
+smell of a long closed in space.  There is very little light to show you
+what may lie here.  Faint noises can be heard coming from all directions.  
+~
+0 0
+D0
+~
+~
+0 0 22643
+D1
+~
+~
+0 0 22641
+D2
+~
+~
+0 0 22637
+D3
+~
+~
+0 0 22642
+S
+
+#22641
+Third Floor Chamber~
+The chamber is filled with broken furniture.  Blood and gore grime the
+floor and walls.  The smell of death is heavy in the air.  A strangled
+shriek of pain comes from somewhere nearby.  Welcome to the final level of
+Initiate's Tower.  
+~
+0 0
+D3
+~
+~
+0 0 22640
+S
+
+#22642
+Third Floor Chamber~
+The chamber is filled with broken furniture.  Blood and gore grime the
+floor and walls.  The smell of death is heavy in the air.  A strangled
+shriek of pain comes from somewhere nearby.  Welcome to the final level of
+Initiate's Tower.  
+~
+0 0
+D1
+~
+~
+0 0 22640
+S
+
+#22643
+Third Floor Corridor~
+The corridor is made entirely of large stone blocks.  The floor echoes
+quietly with each step you take.  Shrieks and moans echo through the tower. 
+Blood and gore grime the floor near your feet.  A horrible fight seems to
+have taken place here.  
+~
+0 0
+D0
+~
+~
+0 0 22646
+D1
+~
+~
+0 0 22644
+D2
+~
+~
+0 0 22640
+D3
+~
+~
+0 0 22645
+S
+
+#22644
+Third Floor Chamber~
+The chamber is filled with broken furniture.  Blood and gore grime the
+floor and walls.  The smell of death is heavy in the air.  A strangled
+shriek of pain comes from somewhere nearby.  Welcome to the final level of
+Initiate's Tower.  
+~
+0 0
+D3
+~
+~
+0 0 22643
+S
+
+#22645
+Third Floor Chamber~
+The chamber is filled with broken furniture.  Blood and gore grime the
+floor and walls.  The smell of death is heavy in the air.  A strangled
+shriek of pain comes from somewhere nearby.  Welcome to the final level of
+Initiate's Tower.  
+~
+0 0
+D1
+~
+~
+0 0 22643
+S
+
+#22646
+Third Floor Corridor~
+A thin layer of dust covers the floor.  The faint outline the steps of
+those who have been here before can be seen.  The air is heavy with the
+smell of a long closed in space.  There is very little light to show you
+what may lie here.  Faint noises can be heard coming from all directions.  
+~
+0 0
+D0
+~
+~
+0 0 22649
+D1
+~
+~
+0 0 22647
+D2
+~
+~
+0 0 22643
+D3
+~
+~
+0 0 22648
+S
+
+#22647
+Third Floor Chamber~
+The chamber is filled with broken furniture.  Blood and gore grime the
+floor and walls.  The smell of death is heavy in the air.  A strangled
+shriek of pain comes from somewhere nearby.  Welcome to the final level of
+Initiate's Tower.  
+~
+0 0
+D3
+~
+~
+0 0 22646
+S
+
+#22648
+Third Floor Chamber~
+The chamber is filled with broken furniture.  Blood and gore grime the
+floor and walls.  The smell of death is heavy in the air.  A strangled
+shriek of pain comes from somewhere nearby.  Welcome to the final level of
+Initiate's Tower.  
+~
+0 0
+D1
+~
+~
+0 0 22646
+S
+
+#22649
+Third Floor Chamber~
+The haunting sounds of the dead and dying echo in your ears.  The smell
+of death is heavy in this chamber.  A rotting corpse lies in one corner of
+the room.  A rusted sword is still clutched in the decaying hand.  Flies
+swarm about your face.  Sweat runs in rivulets from your brow.  Is it the
+heat?  Or could it be the sense of dread forming in the pit of your stomach?
+~
+0 0
+D2
+~
+~
+0 0 22646
+D4
+~
+~
+0 0 22700
+S
+
+#22700
+The Fourth Floor~
+The room is enveloped in darkness.  Footsteps echo through the darkened
+halls, they seem to be coming closer.  The smell of death hangs thick in the
+air.  As you walk forward your feet make crunching noises on the ground. 
+There isn't enough light for you to see what you're stepping on, but it
+almost sounds as if you are crushing bones beneath your feet.  
+~
+4 2
+D1
+~
+gate~
+0 0 22701
+D5
+~
+~
+0 0 22649
+S
+
+#22701
+The Fourth Floor~
+The room is enveloped in darkness.  Footsteps echo through the darkened
+halls, they seem to be coming closer.  The smell of death hangs thick in the
+air.  As you walk forward your feet make crunching noises on the ground. 
+There isn't enough light for you to see what you're stepping on, but it
+almost sounds as if you are crushing bones beneath your feet.  
+~
+0 0
+D1
+~
+~
+0 0 22702
+D3
+~
+gate~
+0 0 22700
+S
+
+#22702
+The Fourth Floor~
+The room is enveloped in darkness.  Footsteps echo through the darkened
+halls, they seem to be coming closer.  The smell of death hangs thick in the
+air.  As you walk forward your feet make crunching noises on the ground. 
+There isn't enough light for you to see what you're stepping on, but it
+almost sounds as if you are crushing bones beneath your feet.  
+~
+0 0
+D0
+~
+~
+0 0 22703
+D2
+~
+~
+0 0 22704
+D3
+~
+~
+0 0 22701
+S
+
+#22703
+Kitchen~
+This is where the food is cooked for the vast armies of warriors at the
+fort.  It is a bit simplistic by most means but it serves the purposes well
+of the staff.  
+~
+8 0
+D2
+~
+door~
+0 0 22702
+D3
+~
+door~
+0 22713 22705
+S
+
+#22704
+The Fourth Floor~
+A small candle burns on a table in this room, giving off a faint bit of
+light.  Aided by the flickering light you can see a small doorway to the
+east.  
+~
+8 0
+D0
+~
+~
+0 0 22702
+D1
+~
+~
+0 0 22706
+E
+sign~
+This is some sort of wierd sign that is etched in blood on some charred
+wood.  It is attached to a pole constructed out of bleached bones nailed and
+bolted together to resemble an upright pole.  Written on it reads: 
+ 
+            "Welcome to hell traveller. This place is of
+             true evil and anyone venturing in it will
+             surely die a slow and agonizing death.
+             This is your last chance to return to the
+             world of the living. Venture back up the
+             stairs and survive."
+~
+S
+
+#22705
+Pantry~
+This chamber contains not only food and water, but the castle's many
+other necessities as well: paper, ink, oil for lanterns, candles, medical
+supplies and other mundane items.  
+~
+8 0
+D1
+~
+~
+0 0 22703
+S
+
+#22706
+A Small Hallway~
+The corridor is lit by several torches, and only now can you see the
+trails of bones and blood on the floor.  To the north the corridor
+continues, to the east is a small room.  
+~
+1073750029 0
+D0
+~
+~
+0 0 22708
+D1
+~
+~
+0 0 22707
+D3
+~
+~
+0 0 22704
+H 50 50
+S
+
+#22707
+An Alcove~
+The room is small and cramped.  The only light comes from the corridor to
+the west, and it fails to fully illuminate the room.  A small shadow drifts
+across the bottom of the wall, as if something was crawling towards you.  
+~
+8 0
+D3
+~
+~
+0 0 22706
+S
+
+#22708
+Intersection~
+The trail of bones leads up towards the top of the tower.  To the east
+there is another long corridor, it's destination lost in the darkness.  
+~
+8 0
+D0
+~
+~
+0 0 22709
+D1
+~
+~
+0 0 22710
+D2
+~
+~
+0 0 22706
+D4
+~
+~
+0 0 22713
+S
+
+#22709
+A Small Hallway~
+A single window can be seen on the north wall, allowing enough light into
+the room to see without the aid of a torch.  There is a doorway to the east.
+The only other exit is south the way you came 
+~
+8 0
+D1
+~
+~
+0 0 22711
+D2
+~
+~
+0 0 22708
+S
+
+#22710
+A Short Passageway~
+To the east you can see a bright light, it looks like an opening in the
+tower.  The floor is slick with blood, forcing you to more carefully down
+the narrow hallway.  Shadows creep along the walls all around you, dodging
+each glimpse you get with remarkable speed.  You soon realize that you are
+being stalked.  
+~
+2056 0
+D1
+~
+~
+0 0 22712
+D3
+~
+~
+0 0 22708
+S
+
+#22711
+A small alcove~
+Light filters in from the hallway to the west.  From the walls hang many
+shackles and chains.  In the center of the room a large stone table sits,
+soaked in blood.  Various knives can be seen in a rack on the east wall. 
+The room stinks of death, and the walls echo the screams of the tortured
+souls that died in here.  
+~
+8 0
+D3
+~
+~
+0 0 22709
+S
+
+#22712
+A Short Passageway~
+To the east you can see a bright light, it looks like an opening in the
+tower.  The floor is slick with blood, forcing you to more carefully down
+the narrow hallway.  Shadows creep along the walls all around you, dodging
+each glimpse you get with remarkable speed.  You soon realize that you are
+being stalked.  To the east there is a doorway, leading out onto a large
+balcony 
+~
+8 0
+D1
+~
+gate~
+0 0 22733
+D3
+~
+~
+0 0 22710
+S
+
+#22713
+The Fifth Floor.~
+Once again you are plunged into utter darkness as you step into this
+room.  The only exit you can see leads down, back to where you came from.  
+~
+8 0
+D0
+~
+~
+0 0 22714
+D4
+~
+~
+0 0 22724
+D5
+~
+~
+0 0 22708
+S
+
+#22714
+Hall Junction~
+In the darkness all you can hear are whispers.  In all directions you can
+hear voices, but you cannot pinpoint an exact direction for any of them.  A
+dim light reveals a hallway running to the east and west.  
+~
+8 0
+D1
+~
+~
+0 0 22718
+D2
+~
+~
+0 0 22713
+D3
+~
+~
+0 0 22715
+S
+
+#22715
+Hallway~
+The hallway, or what you can make of it in the darkness, is relatively
+plain.  Light spills onto the floor from doorways to the north and south,
+giving you a small measure of light.  
+~
+8 0
+D0
+~
+~
+0 0 22717
+D1
+~
+~
+0 0 22714
+D2
+~
+~
+0 0 22716
+E
+rock~
+Although the etchings on the stone are faded, you are able to make out what
+seem to be the last words of an unfortunate adventurer.
+ 
+"Alas this message falls upon you from a once proud but broken man. My wife
+lost and my children slain, I ventured forth towards those evil gates to
+sell my soul for the return of my kin. Instead I have been cursed to live
+in an endless nightmare of eternal damnation. My time is almost gone in this
+life and I wish to warn those who are determined to venture forth as I
+did, to the dark side of humanity, a darker image of ones self, an act of vengence.
+Things are not what they seem in the dark, and a lifetime is not long enough
+to live. I plead to you now, go back, back to where you are safe. Once you
+wear the mark of the dead, you can never remove it."
+~
+S
+
+#22716
+A Cage.~
+Bars run from the floor to the ceiling in this room.  A large cage stands
+in the center of the room.  The cage door has been broken.  The sound of
+claws on the floor around you warns you that you are not alone in this room.
+~
+8 0
+D0
+~
+~
+0 0 22715
+S
+
+#22717
+A Cage.~
+Bars run from the floor to the ceiling in this room.  A large cage stands
+in the center of the room.  The cage door has been broken.  The sound of
+claws on the floor around you warns you that you are not alone in this room.
+~
+8 0
+D2
+~
+~
+0 0 22715
+E
+brick~
+This brick looks as if it might be a keystone in the wall.  You wonder
+what is behind it.  
+~
+S
+
+#22718
+Hallway~
+The hallway, or what you can make of it in the darkness, is relatively
+plain.  Light spills onto the floor from doorways to the north and south,
+giving you a small measure of light.  
+~
+8 0
+D0
+~
+~
+0 0 22720
+D1
+~
+~
+0 0 22719
+D2
+~
+~
+0 0 22721
+D3
+~
+~
+0 0 22714
+S
+
+#22719
+Hallway~
+The hallway, or what you can make of it in the darkness, is relatively
+plain.  Light spills onto the floor from doorways to the north and south,
+giving you a small measure of light.  
+~
+8 0
+D0
+~
+~
+0 0 22722
+D2
+~
+~
+0 0 22723
+D3
+~
+~
+0 0 22718
+S
+
+#22720
+A Cage.=~
+Bars run from the floor to the ceiling in this room.  A large cage stands
+in the center of the room.  The cage door has been broken.  The sound of
+claws on the floor around you warns you that you are not alone in this room.
+~
+8 0
+D2
+~
+~
+0 0 22718
+E
+entranceway~
+This dark doorway is the entrance to the evil village of Demons' Haven.  
+~
+E
+doorway~
+This dark doorway is the entrance to the evil village of Demons' Haven.  
+~
+S
+
+#22721
+A Cage.~
+Bars run from the floor to the ceiling in this room.  A large cage stands
+in the center of the room.  The cage door has been broken.  The sound of
+claws on the floor around you warns you that you are not alone in this room.
+~
+8 0
+D0
+~
+~
+0 0 22718
+S
+
+#22722
+A Cage.~
+Bars run from the floor to the ceiling in this room.  A large cage stands
+in the center of the room.  The cage door has been broken.  The sound of
+claws on the floor around you warns you that you are not alone in this room.
+~
+8 0
+D2
+~
+~
+0 0 22719
+S
+
+#22723
+A Cage~
+Bars run from the floor to the ceiling in this room.  A large cage stands
+in the center of the room.  The cage door has been broken.  The sound of
+claws on the floor around you warns you that you are not alone in this room.
+~
+8 0
+D0
+~
+~
+0 0 22719
+S
+
+#22724
+The Sixth Floor~
+This floor, in contrast to the previous two, is not dark.  The complete
+lack of a roof may be held accountable for that.  Two small towers can be
+seen to the north, and two small rooms can also be seen just before the
+towers.  
+~
+12 0
+D0
+~
+~
+0 0 22725
+D5
+~
+~
+0 0 22713
+S
+
+#22725
+The Sixth Floor~
+To the east and west lie two small structures.  Further north you can see
+two small towers, and to the south you can see the stairway that brought you
+up to this level.  
+~
+12 0
+D0
+~
+~
+0 0 22728
+D1
+~
+door~
+0 22738 22727
+D2
+~
+~
+0 0 22724
+D3
+~
+door~
+0 22738 22726
+S
+
+#22726
+A Cage~
+Bars run from the floor to the ceiling in this room.  A large cage stands
+in the center of the room.  The cage door has been broken.  The sound of
+claws on the floor around you warns you that you are not alone in this room.
+~
+8 0
+D1
+~
+~
+0 0 22725
+S
+
+#22727
+A Cage~
+Bars run from the floor to the ceiling in this room.  A large cage stands
+in the center of the room.  The cage door has been broken.  The sound of
+claws on the floor around you warns you that you are not alone in this room.
+~
+8 0
+D3
+~
+~
+0 0 22725
+S
+
+#22728
+The Sixth Floor~
+Two towers stand before you to the east and west.
+~
+0 0
+D1
+~
+~
+0 0 22730
+D2
+~
+~
+0 0 22725
+D3
+~
+~
+0 0 22729
+S
+
+#22729
+Inside the Tower~
+A large spiral staircase leads up.  Aside from that the room is extremely
+plain.  A small window overlooks a forest to the north.  The only other exit
+is out the way you came 
+~
+0 0
+D1
+~
+~
+0 0 22728
+D4
+~
+~
+0 0 22732
+S
+
+#22730
+Inside the Tower~
+A large spiral staircase leads up.  Aside from that the room is extremely
+plain.  A small window overlooks a forest to the north.  The only other exit
+is out the way you came 
+~
+0 0
+D3
+~
+~
+0 0 22728
+D4
+~
+~
+0 0 22731
+S
+
+#22731
+At the Top of the Tower~
+The wind pushes against you furiously.  From this height you can see for
+a hundred miles in all directions.  
+~
+0 0
+D5
+~
+~
+0 0 22730
+S
+
+#22732
+At the Top of the Tower~
+The wind pushes against you furiously.  From this height you can see for
+a hundred miles in all directions.  
+~
+0 0
+D5
+~
+~
+0 0 22729
+S
+
+#22733
+The Balcony~
+Light fills your eyes, forcing you to squint against the light of the
+many torches and the light of the sun.  The balcony has two levels to it. 
+Small towers on all four corners of the balcony lead upwards towards a
+second floor, which runs along the perimeter, but leaves a space in the
+center to allow light into the lower level.  
+~
+0 0
+D0
+~
+~
+0 0 22734
+D1
+~
+~
+0 0 22737
+D2
+~
+~
+0 0 22735
+D3
+~
+~
+0 0 22712
+S
+
+#22734
+The Balcony~
+Light fills your eyes, forcing you to squint against the light of the
+many torches and the light of the sun.  The balcony has two levels to it. 
+Small towers on all four corners of the balcony lead upwards towards a
+second floor, which runs along the perimeter, but leaves a space in the
+center to allow light into the lower level.  
+~
+0 0
+D1
+~
+~
+0 0 22736
+D2
+~
+~
+0 0 22733
+S
+
+#22735
+The Balcony~
+Light fills your eyes, forcing you to squint against the light of the
+many torches and the light of the sun.  The balcony has two levels to it. 
+Small towers on all four corners of the balcony lead upwards towards a
+second floor, which runs along the perimeter, but leaves a space in the
+center to allow light into the lower level.  
+~
+0 0
+D0
+~
+~
+0 0 22733
+D1
+~
+~
+0 0 22738
+S
+
+#22736
+The Balcony~
+Light fills your eyes, forcing you to squint against the light of the
+many torches and the light of the sun.  The balcony has two levels to it. 
+Small towers on all four corners of the balcony lead upwards towards a
+second floor, which runs along the perimeter, but leaves a space in the
+center to allow light into the lower level.  
+~
+0 0
+D1
+~
+door~
+0 0 22739
+D2
+~
+~
+0 0 22737
+D3
+~
+~
+0 0 22734
+S
+
+#22737
+The Balcony~
+Light fills your eyes, forcing you to squint against the light of the
+many torches and the light of the sun.  The balcony has two levels to it. 
+Small towers on all four corners of the balcony lead upwards towards a
+second floor, which runs along the perimeter, but leaves a space in the
+center to allow light into the lower level.  
+~
+0 0
+D0
+~
+~
+0 0 22736
+D2
+~
+~
+0 0 22738
+D3
+~
+~
+0 0 22733
+S
+
+#22738
+The Balcony~
+Light fills your eyes, forcing you to squint against the light of the
+many torches and the light of the sun.  The balcony has two levels to it. 
+Small towers on all four corners of the balcony lead upwards towards a
+second floor, which runs along the perimeter, but leaves a space in the
+center to allow light into the lower level.  
+~
+0 0
+D0
+~
+~
+0 0 22737
+D1
+~
+door~
+0 0 22740
+D3
+~
+~
+0 0 22735
+S
+
+#22739
+A Staircase~
+The room is brightly lit.  A large spiraling staircase stands in the
+center of the room leading towards the upper level of the balcony.  To the
+west you can see me main balcony.  
+~
+0 0
+D3
+~
+~
+0 0 22736
+D4
+~
+~
+0 0 22744
+S
+
+#22740
+A Staircase~
+The room is brightly lit.  A large spiraling staircase stands in the
+center of the room leading towards the upper level of the balcony.  To the
+west you can see me main balcony.  
+~
+0 0
+D3
+~
+~
+0 0 22738
+D4
+~
+~
+0 0 22741
+S
+
+#22741
+The Upper Lever~
+The wind is fierce here, and there is little shelter from it's fury.  The
+upper level of the balcony continues north towards a second tower.  To the
+west the Initiates tower looms above you, revealing that there are still
+many more floors to go.  
+~
+0 0
+D0
+~
+~
+0 0 22742
+D5
+~
+~
+0 0 22740
+S
+
+#22742
+The Upper Lever~
+The wind is fierce here, and there is little shelter from it's fury.  The
+upper level of the balcony continues north towards a second tower.  To the
+west the Initiates tower looms above you, revealing that there are still
+many more floors to go.  
+~
+0 0
+D0
+~
+~
+0 0 22743
+D2
+~
+~
+0 0 22741
+S
+
+#22743
+The Upper Lever~
+The wind is fierce here, and there is little shelter from it's fury.  The
+upper level of the balcony continues north towards a second tower.  To the
+west the Initiates tower looms above you, revealing that there are still
+many more floors to go.  
+~
+0 0
+D0
+~
+~
+0 0 22744
+D2
+~
+~
+0 0 22742
+S
+
+#22744
+The Upper Lever~
+The wind is fierce here, and there is little shelter from it's fury.  The
+upper level of the balcony continues north towards a second tower.  To the
+west the Initiates tower looms above you, revealing that there are still
+many more floors to go.  
+~
+0 0
+D2
+~
+~
+0 0 22743
+D5
+~
+~
+0 0 22739
+S
+
+#22745
+Defender Trail~
+The Defender Trail is the only way up to the fort proper.  It is a steep
+hill that rises 20 feet of the forest floor to the hilltop.  The path is
+well kept despite the large number of people who have been along its route
+recently.  A strong wind blows over the mountains to the south bringing the
+stench of smoke and evil.  Even at this distance the howls of the demons can
+be heard in the air.  Upwards looms the great gates of Defender Fort while
+the encampments start west from the bottom of the hill.  
+~
+0 4
+S
+#0
+
+#SPECIALS
+M 22610 spec_cast_undead
+M 22613 spec_poison
+M 22700 spec_guard
+M 22701 spec_guard
+M 22704 spec_cast_cleric
+M 22705 spec_cast_mage
+M 22706 spec_cast_mage
+M 22707 spec_guard
+M 22708 spec_guard
+M 22713 spec_cast_mage
+M 22714 spec_guard
+M 22715 spec_guard
+M 22719 spec_guard
+S
+
+#RESETS
+O 100 22618 0 22600
+M 100 22600 3 22603 3
+M 100 22600 3 22603 3
+M 100 22600 3 22603 3
+M 100 22601 3 22604 3
+M 100 22601 3 22604 3
+M 100 22601 3 22604 3
+M 100 22602 3 22607 3
+M 100 22602 3 22607 3
+M 100 22602 3 22607 3
+M 100 22603 3 22608 3
+M 100 22603 3 22608 3
+M 100 22603 3 22608 3
+M 100 22604 3 22609 3
+M 100 22604 3 22609 3
+M 100 22604 3 22609 3
+M 100 22605 3 22610 3
+M 100 22605 3 22610 3
+M 100 22605 3 22610 3
+M 100 22606 3 22613 3
+M 100 22606 3 22613 3
+M 100 22606 3 22613 3
+M 100 22607 3 22614 3
+M 100 22607 3 22614 3
+M 100 22607 3 22614 3
+M 100 22608 3 22616 3
+M 100 22608 3 22616 3
+M 100 22608 3 22616 3
+M 100 22609 3 22617 3
+M 100 22609 3 22617 3
+M 100 22609 3 22617 3
+M 100 22610 1 22618 1
+E 100 22603 0 16
+E 100 22600 0 5
+E 100 22601 0 9
+M 100 22612 3 22621 3
+E 100 22606 0 13
+M 100 22612 3 22621 3
+M 100 22612 3 22621 3
+E 100 22605 0 16
+M 100 22611 3 22622 3
+E 100 22604 0 10
+M 100 22611 3 22622 3
+M 100 22611 3 22622 3
+E 100 22602 0 16
+M 100 22613 3 22624 3
+M 100 22613 3 22624 3
+M 100 22613 3 22624 3
+E 100 22607 0 16
+M 100 22614 3 22625 3
+M 100 22614 3 22625 3
+M 100 22614 3 22625 3
+E 100 22608 0 16
+M 100 22615 3 22627 3
+M 100 22615 3 22627 3
+M 100 22615 3 22627 3
+E 100 22609 0 16
+M 100 22616 3 22628 3
+M 100 22616 3 22628 3
+M 100 22616 3 22628 3
+E 100 22610 0 16
+M 100 22617 3 22630 3
+M 100 22617 3 22630 3
+M 100 22617 3 22630 3
+E 100 22611 0 16
+M 100 22618 3 22631 3
+M 100 22618 3 22631 3
+M 100 22618 3 22631 3
+E 100 22612 0 16
+M 100 22619 3 22633 3
+M 100 22619 3 22633 3
+M 100 22619 3 22633 3
+E 100 22613 0 16
+M 100 22620 3 22634 3
+M 100 22620 3 22634 3
+M 100 22620 3 22634 3
+E 100 22614 0 16
+M 100 22621 1 22635 1
+E 100 22615 0 7
+M 100 22623 8 22637 2
+M 100 22623 8 22637 2
+M 100 22623 8 22638 2
+M 100 22623 8 22638 2
+M 100 22622 8 22638 2
+M 100 22622 8 22638 2
+M 100 22623 8 22639 2
+M 100 22623 8 22639 2
+M 100 22622 8 22639 2
+M 100 22622 8 22639 2
+M 100 22623 8 22640 2
+M 100 22623 8 22640 2
+M 100 22623 8 22641 2
+M 100 22623 8 22641 2
+M 100 22622 8 22641 2
+M 100 22622 8 22641 2
+E 100 22616 0 8
+M 100 22623 8 22642 2
+E 100 22617 0 5
+M 100 22623 8 22642 2
+M 100 22622 8 22642 2
+M 100 22622 8 22642 2
+M 100 22625 4 22644 2
+M 100 22625 4 22644 2
+M 100 22625 4 22645 2
+M 100 22625 4 22645 2
+M 100 22626 6 22647 2
+M 100 22626 6 22647 2
+M 100 22626 6 22648 2
+M 100 22626 6 22648 2
+M 100 22626 6 22649 2
+M 100 22626 6 22649 2
+M 100 22700 3 22700 2
+M 100 22700 3 22700 2
+M 100 22700 3 22702 2
+M 100 22700 3 22702 2
+M 100 22702 1 22703 1
+G 100 22713 0
+M 100 22720 4 22703 1
+M 100 22700 3 22704 2
+O 100 22703 0 22705
+P 100 22704 5 22703 0
+P 100 22706 5 22703 0
+P 100 22705 5 22703 0
+P 100 22707 5 22703 0
+O 100 22708 0 22705
+P 100 22709 1 22708 0
+P 100 22710 1 22708 0
+P 100 22711 1 22708 0
+O 100 22712 0 22705
+M 100 22704 50 22707 1
+O 100 22718 0 22708
+M 100 22700 3 22708 2
+M 100 22700 3 22709 2
+M 100 22700 3 22709 2
+M 100 22700 3 22710 2
+O 100 22700 0 22711
+M 100 22704 50 22711 2
+M 100 22704 50 22711 2
+O 100 22701 0 22711
+P 100 22747 1 22701 0
+P 100 22745 1 22701 0
+M 100 22704 50 22712 1
+O 100 22719 0 22713
+M 100 22707 1 22713 1
+M 100 22707 1 22714 3
+M 100 22707 1 22714 3
+M 100 22707 1 22714 3
+M 100 22707 1 22715 4
+M 100 22707 1 22715 4
+M 100 22707 1 22715 4
+M 100 22705 1 22716 1
+M 100 22705 1 22717 1
+M 100 22707 1 22718 3
+M 100 22707 1 22718 3
+M 100 22707 1 22719 4
+M 100 22707 1 22719 4
+M 100 22707 1 22719 4
+M 100 22705 1 22720 1
+M 100 22705 1 22721 1
+M 100 22705 1 22722 1
+M 100 22705 1 22723 1
+O 100 22720 0 22724
+M 100 22707 1 22724 3
+M 100 22706 1 22726 1
+M 100 22706 1 22727 1
+M 100 22707 1 22728 3
+M 100 22707 1 22728 3
+M 100 22707 1 22731 3
+M 100 22707 1 22731 3
+M 100 22707 1 22732 3
+M 100 22707 1 22732 3
+M 100 22701 3 22733 3
+M 100 22701 3 22733 3
+M 100 22701 3 22734 3
+M 100 22701 3 22734 3
+M 100 22701 3 22736 3
+M 100 22701 3 22736 3
+M 100 22701 3 22736 3
+M 100 22701 3 22738 3
+M 100 22704 50 22739 2
+M 100 22701 3 22740 2
+M 100 22704 50 22740 10
+M 100 22701 3 22742 2
+M 100 22701 3 22742 2
+M 100 22701 3 22743 2
+M 100 22704 50 22743 1
+S
+
+#$

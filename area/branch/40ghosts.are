@@ -1,0 +1,4810 @@
+#AREADATA
+Name Mausoleum of 40 Ghosts~
+Builders None~
+VNUMs 6400 6499
+Credits [ 60 100] Ronni    Mausoleum of 40 Ghosts~
+Security 9
+End
+
+
+
+#MOBILES
+#6400
+blue shadow~
+a {bblue{x shadow~
+A {bblue{x shadow moves along the wall.
+~
+This restless spirit takes the shape of a blue shadow, haunting the
+hallways of the mausoleum.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+60 360 30d90+900 20d71+720 10d24+420 blast
+-30 -30 -30 -18
+FGHIKPV LMQ 0 NSY
+stand stand none 3000
+ACIM ABCGHIJV medium unknown
+F res D
+#6401
+red shadow~
+a {rred{x shadow~
+A {rred{x shadow writhes in agony.
+~
+This restless spirit takes the shape of a red shadow, haunting the
+hallways of the mausoleum.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+60 360 30d90+900 20d71+720 10d24+420 pierce
+-30 -30 -30 -18
+FGHIKPV LMQ D NSY
+stand stand none 3100
+ACIM ABCGHIJV medium unknown
+#6402
+green shadow~
+a {ggreen{x shadow~
+A {ggreen{x shadow is lurking here.
+~
+This restless spirit takes the shape of a green shadow, haunting the
+hallways of the mausoleum.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+62 372 31d93+930 20d74+744 11d24+434 slash
+-32 -32 -32 -19
+FGHIKPV LMQ 0 NSY
+stand stand none 3200
+ACIM ABCGHIJV medium unknown
+F res D
+#6403
+black shadow~
+a {Dblack{x shadow~
+A {Dblack{x shadow is on the hunt.
+~
+This restless spirit takes the shape of a black shadow, haunting the
+hallways of the mausoleum.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+63 378 31d94+945 21d75+756 11d25+441 pound
+-32 -32 -32 -19
+FGHIKPV LMQ 0 NSY
+stand stand none 3300
+ACIM ABCGHIJV medium unknown
+F res D
+#6404
+yellow shadow~
+a {yyellow{x shadow~
+A {yyellow{x shadow creeps in the darkness.
+~
+This restless spirit takes the shape of a yellow shadow, haunting the
+hallways of the mausoleum.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+64 384 32d96+1024 21d76+768 11d25+448 bite
+-33 -33 -33 -20
+FGHIKPV LMQ 0 NSY
+stand stand none 3400
+ACIM ABCGHIJV medium unknown
+F res D
+#6405
+hoijar blackshade~
+Hoijar, the {DBlack{wShade{x~
+A shadow phases here.
+~
+He once lead a troop of Ofcol soldiers until poisoned by his own men.  
+~
+heucuva~
+AFGP DFUZ CHO -1000 0
+70 420 35d105+1190 23d83+980 12d28+490 slash
+-37 -37 -37 -22
+FGHIKPV ABLMQ D NSY
+stand stand male 4000
+ACIM ABCGHIJV medium unknown
+#6406
+onerra rage spirit~
+Onerra, the {RRage{WSpirit{x~
+A screaming spirit is here.
+~
+Once a beautiful and promising young woman, she took her own life over
+the man she couldn't have.  
+~
+heucuva~
+AFGP DFUZ CHO -1000 0
+70 420 35d105+1190 23d83+980 12d28+490 beating
+-37 -37 -37 -22
+FGHIKPV ABLMQ D NSY
+stand stand female 4000
+ACIM ABCGHIJV medium unknown
+#6407
+Chigokor hauntfury~
+Chigokor, the {BHaunt{RFury{x~
+A raging shadow bounces off the walls.
+~
+He lived his life as a petty thief, until slain while entering a
+stranger's house.  
+~
+heucuva~
+AFGP DFUZ CHO -1000 0
+70 420 35d105+1190 23d83+980 12d28+490 claw
+-37 -37 -37 -22
+FGHIKPV ABLMQ D NSY
+stand stand male 4000
+ACIM ABCGHIJV medium unknown
+#6408
+Keatrem soul caster~
+Keatrem, the {WSoul{YCaster{x~
+A magical shadow stands here.
+~
+She once ran a church outside of New Thalos, until heretics raided,
+slaughtered and burned all they had.  
+~
+heucuva~
+AFGP DFUZ CHO -1000 0
+70 420 35d105+1190 23d83+980 12d28+490 stab
+-37 -37 -37 -22
+FGHIKPV ABLMQ D NSY
+stand stand female 4000
+ACIM ABCGHIJV medium unknown
+#6409
+ghost mage~
+a {Wghost{Ymage{x~
+A ghostly mage is here.
+~
+Now deceased, this former mage carries its trade to its new life.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+65 390 32d97+1040 21d77+845 11d26+455 magic
+-34 -34 -34 -20
+FGHIKPV LMQ 0 NSY
+stand stand none 3500
+ACIM ABCGHIJV medium unknown
+F res D
+#6410
+ghost thief~
+a {Wghost{Bthief{x~
+A ghostly thief haunts the corridor.
+~
+Now deceased, this former thief carries its trade to its new life.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+66 396 33d99+1056 22d79+858 12d26+462 stab
+-34 -34 -34 -21
+FGHIKPV LMQ D NSY
+stand stand none 3600
+ACIM ABCGHIJV medium unknown
+#6411
+ghost warrior~
+a {Wghost{Gwarrior{x~
+A ghostly warrior finds no rest.
+~
+A warrior in its former life, now carries the trade to the afterlife.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+67 402 33d100+1072 22d80+871 12d26+469 slice
+-35 -35 -35 -21
+FGHIKPV LMQ D NSY
+stand stand none 3700
+ACIM ABCGHIJV medium unknown
+#6412
+ghost ranger~
+a {Wghost{Cranger{x~
+A ghostly ranger stands here.
+~
+A ranger in its former life, now carries the trade to the afterlife.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+68 408 34d102+1156 22d81+884 12d27+476 crush
+-36 -36 -36 -21
+FGHIKPV LMQ 0 NSY
+stand stand none 3800
+ACIM ABCGHIJV medium unknown
+F res D
+#6413
+ghost assassin~
+a {Wghostly {massassin{x~
+A ghostly assassin is on the hunt.
+~
+An assassin in its former life, now carries the trade to the afterlife.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+69 414 34d103+1173 23d82+897 12d27+483 stab
+-36 -36 -36 -22
+FGHIKPV LMQ D NSY
+stand stand none 3900
+ACIM ABCGHIJV medium unknown
+#6414
+ghostly image~
+a {Wghostly {Dimage{x~
+A ghostly image is here.
+~
+A ranger in its former life, now carries the trade to the afterlife. 
+Barely visible, this spirit seeks revenge for a life cut short.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+70 420 35d105+1190 23d83+980 12d28+490 sting
+-37 -37 -37 -22
+FGHIKPV LMQ 0 NSY
+stand stand none 4000
+ACIM ABCGHIJV medium unknown
+F res D
+#6415
+raohan demonghost~
+Raohan, the {rDemon{Wghost{x~
+A translucent demon is standing here.
+~
+Formerly an assassin for hire, he was killed when his target proved
+sneakier and stealthier than him.  
+~
+heucuva~
+AFGP DFUZ DHO -1000 0
+80 480 40d120+1600 26d95+1280 14d32+560 sting
+-44 -44 -44 -28
+FGHIKPV ABLMQ D NSY
+stand stand male 5000
+ACIM ABCGHIJV medium unknown
+#6416
+woawyn blood ghost~
+Woawyn, the {RBlood{Wghost{x~
+A bleeding ghost remains on the material plane.
+~
+An aetheist, he was stoned to death for persisting his stance that there
+is no god.  
+~
+heucuva~
+AFGP DFUZ DHO -1000 0
+80 480 40d120+1600 26d95+1280 14d32+560 pound
+-44 -44 -44 -28
+FGHIKPV ABLMQ D NSY
+stand stand male 5000
+ACIM ABCGHIJV medium unknown
+#6417
+ocaendra rage ghost~
+Ocaendra, the {YRage{Wghost{x~
+A suffering ghost looks for peace.
+~
+She was forced to look on as raiders slayed her children then her.  
+~
+heucuva~
+AFGP DFUZ DHO -1000 0
+80 480 40d120+1600 26d95+1280 14d32+560 claw
+-44 -44 -44 -28
+FGHIKPV ABLMQ D NSY
+stand stand female 5000
+ACIM ABCGHIJV medium unknown
+#6418
+Preassi ghosttear~
+Preassi, the {WGhost{Ctear{x~
+A crying spirit is here.
+~
+She perished at the inn she was lodged at caught fire, waiting for her
+sailor to come to port.  
+~
+heucuva~
+AFGP DFUZ DHO -1000 0
+80 480 40d120+1600 26d95+1280 14d32+560 scratch
+-44 -44 -44 -28
+FGHIKPV ABLMQ D NSY
+stand stand female 5000
+ACIM ABCGHIJV medium unknown
+#6419
+crimson spectre~
+a {rcrimson{x spectre~
+A crimson spectre flies around.
+~
+This soul left its body with conditions unfulfilled and now haunts the
+earth as a crimson spectre.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+60 360 30d90+900 20d71+720 10d24+420 none
+-30 -30 -30 -18
+FGHIKPV LMQ 0 NSY
+stand stand none 3000
+ACIM ABCGHIJV medium unknown
+F res D
+#6420
+black spectre~
+a {Dblack{x spectre~
+A black spectre screams!
+~
+This soul left its body with conditions unfulfilled and now haunts the
+earth as a black spectre.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+60 360 30d90+900 20d71+720 10d24+420 pierce
+-30 -30 -30 -18
+FGHIKPV LMQ D NSY
+stand stand none 3100
+ACIM ABCGHIJV medium unknown
+#6421
+silver spectre~
+a {wsilver{x spectre~
+A silver spectre is haunting the room.
+~
+This soul left its body with conditions unfulfilled and now haunts the
+earth as a silver spectre.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+62 372 31d93+930 20d74+744 11d24+434 slash
+-32 -32 -32 -19
+FGHIKPV LMQ 0 NSY
+stand stand none 3200
+ACIM ABCGHIJV medium unknown
+F res D
+#6422
+white spectre~
+a {Wwhite{x spectre~
+A white spectre is seeking revenge.
+~
+This soul left its body with conditions unfulfilled and now haunts the
+earth as a white spectre.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+63 378 31d94+945 21d75+756 11d25+441 pound
+-32 -32 -32 -19
+FGHIKPV LMQ 0 NSY
+stand stand none 3300
+ACIM ABCGHIJV medium unknown
+F res D
+#6423
+green spectre~
+a {Ggreen{x spectre~
+A green spectre is on the prowl.
+~
+This soul left its body with conditions unfulfilled and now haunts the earth as a green spectre.
+~
+heucuva~
+AGNPT UZ 0 -600 0
+64 384 32d96+1024 21d76+768 11d25+448 bite
+-33 -33 -33 -20
+FGHIKPV LMQ 0 NSY
+stand stand none 3400
+ACIM ABCGHIJV medium unknown
+F res D
+#6424
+ethaowin hellspectre~
+Ethaowin, the {RHell{yspectre{x~
+A demonic spectre flies here with incredible speed.
+~
+He once lead a crime ring until rivals merged and slaughtered them.  
+~
+heucuva~
+AFGP DFUZ CHO -1000 0
+70 420 35d105+1190 23d83+980 12d28+490 slash
+-37 -37 -37 -22
+FGHIKPV ABLMQ D NSY
+stand stand male 4000
+ACIM ABCGHIJV medium unknown
+#6425
+Gredriwyr madspectre~
+Gredriwyr, the {Ymad{Wspectre{x~
+A ruthless form repeatedly bumps you.
+~
+He was a hired assassin, until one day a contract was successfully
+carried out against him.  
+~
+heucuva~
+AFGP DFUZ CHO -1000 0
+70 420 35d105+1190 23d83+980 12d28+490 slash
+-37 -37 -37 -22
+FGHIKPV ABLMQ D NSY
+stand stand male 4000
+ACIM ABCGHIJV medium unknown
+#6426
+rhiri spectralmystic~
+Rhiri, the {WSpectral{BMystic{x~
+A magical spirit runs amok.
+~
+Once a promising young wizard, she was kidnapped by the Grandmistress to
+be used for evil until she took her own life.  
+~
+heucuva~
+AFGP DFUZ CHO -1000 0
+70 420 35d105+1190 23d83+980 12d28+490 beating
+-37 -37 -37 -22
+FGHIKPV ABLMQ D NSY
+stand stand female 4000
+ACIM ABCGHIJV medium unknown
+#6427
+skeletal warrior~
+a skeletal warrior~
+A skeletal warrior moves in.
+~
+This fallen warrior was given a second chance.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+60 360 30d90+900 20d71+720 10d24+420 blast
+-30 -30 -30 -18
+FGHIKPV LMQ 0 NSY
+stand stand none 3000
+ACIM ABCGHIJV medium unknown
+F res D
+#6428
+skeletal stalker~
+a skeletal stalker~
+A skeletal stalker is creeping in the shadows.
+~
+This fallen stalker was given a second chance.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+60 360 30d90+900 20d71+720 10d24+420 pierce
+-30 -30 -30 -18
+FGHIKPV LMQ D NSY
+stand stand none 3100
+ACIM ABCGHIJV medium unknown
+#6429
+skeletal gladiator~
+a skeletal gladiator~
+A skeletal gladiator is stands here.
+~
+This fallen gladiator was given a second chance.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+62 372 31d93+930 20d74+744 11d24+434 slash
+-32 -32 -32 -19
+FGHIKPV LMQ 0 NSY
+stand stand none 3200
+ACIM ABCGHIJV medium unknown
+F res D
+#6430
+robed skeleton~
+a robed skeleton~
+A robed skeleton awaits.
+~
+This fallen wizard was given a second chance.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+63 378 31d94+945 21d75+756 11d25+441 pound
+-32 -32 -32 -19
+FGHIKPV LMQ 0 NSY
+stand stand none 3300
+ACIM ABCGHIJV medium unknown
+F res D
+#6431
+dark skeleton~
+a dark skeleton~
+A skeleton with black bones is here.
+~
+This fallen individual was given a second chance.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+64 384 32d96+1024 21d76+768 11d25+448 bite
+-33 -33 -33 -20
+FGHIKPV LMQ 0 NSY
+stand stand none 3400
+ACIM ABCGHIJV medium unknown
+F res D
+#6432
+Waedric skullspirit~
+Waedric, the {WSkull{DSpirit{x~
+A regal looking skeleton stands here.
+~
+Overestimating his army's ability, this former King fell in battle to the
+Volijverig forces.  
+~
+heucuva~
+AFGP DFUZ CHO -1000 0
+70 420 35d105+1190 23d83+980 12d28+490 claw
+-37 -37 -37 -22
+FGHIKPV ABLMQ D NSY
+stand stand male 4000
+ACIM ABCGHIJV medium unknown
+#6433
+choinydd ghastbone~
+Choinydd, the {yGhast{Dbone{x~
+A ghastly skeleton stands here.
+~
+He fell to the plague outbreak in surrounding Amber Palace.  
+~
+heucuva~
+AFGP DFUZ CHO -1000 0
+70 420 35d105+1190 23d83+980 12d28+490 slash
+-37 -37 -37 -22
+FGHIKPV ABLMQ D NSY
+stand stand male 4000
+ACIM ABCGHIJV medium unknown
+#6434
+ocilisa bone mystic~
+Ocilisa, the {WBone{Ymystic{x~
+A magical skeleton raises her arms to the sky.
+~
+She was once a respected magician among the ranks of those in the
+Vestigal of Delerium, until slain by the Vengeful Warlord for her percieved
+treachery.  
+~
+heucuva~
+AFGP DFUZ CHO -1000 0
+70 420 35d105+1190 23d83+980 12d28+490 beating
+-37 -37 -37 -22
+FGHIKPV ABLMQ D NSY
+stand stand female 4000
+ACIM ABCGHIJV medium unknown
+#6435
+gnome lich~
+a gnomelich~
+Here stands a lich, formerly a gnome.
+~
+The former gnome was resurrected after serving as a meal for the lich
+lords.  
+~
+heucuva~
+AGP Z 0 -800 0
+76 456 38d114+1444 25d91+1140 13d30+532 bite
+-41 -41 -41 -25
+FHIKP LMQ 0 NSY
+stand stand none 3600
+ACIM ABCGHIJV medium unknown
+F res D
+#6436
+avian lich~
+an avianlich~
+An avian lich is here.
+~
+The former avian was resurrected after serving as a meal for the lich
+lords.  
+~
+heucuva~
+AGP Z 0 -800 0
+77 462 38d115+1463 25d92+1155 14d30+539 chomp
+-42 -42 -42 -26
+FHIKP LMQ 0 NSY
+stand stand none 3700
+ACIM ABCGHIJV medium unknown
+F res D
+#6437
+elf lich~
+an elflich~
+An elven lich lurks in the shadows.
+~
+The former elf was resurrected after serving as a meal for the lich lords.  
+~
+heucuva~
+AGP Z 0 -800 0
+78 468 39d117+1482 26d93+1170 14d31+546 scratch
+-43 -43 -43 -26
+FHIKP LMQ 0 NSY
+stand stand none 3800
+ACIM ABCGHIJV medium unknown
+F res D
+#6438
+dwarf lich~
+a dwarflich~
+A dwarven lich hisses.
+~
+The former dwarf was resurrected after serving as a meal for the lich
+lords.  
+~
+heucuva~
+AGP Z 0 -800 0
+79 474 39d118+1501 26d94+1185 14d31+553 scratch
+-43 -43 -43 -27
+FHIKP LMQ 0 NSY
+stand stand none 3900
+ACIM ABCGHIJV medium unknown
+F res D
+#6439
+demon lich~
+a demonlich~
+A demonic lich leaps out!
+~
+The former demon was resurrected after serving as a meal for the lich
+lords.  
+~
+heucuva~
+AGP Z 0 -800 0
+80 480 40d120+1600 26d95+1280 14d32+560 claw
+-44 -44 -44 -28
+FHIKP LMQ 0 NSY
+stand stand none 4000
+ACIM ABCGHIJV medium unknown
+F res D
+#6440
+dracolich~
+a dracolich~
+A dracolich readies itself
+~
+The former draconian was resurrected after serving as a meal for the lich
+lords.  
+~
+heucuva~
+AGP Z 0 -800 0
+81 486 40d121+1620 27d97+1296 14d32+567 claw
+-45 -45 -45 -28
+FHIKP LMQ 0 NSY
+stand stand none 4100
+ACIM ABCGHIJV medium unknown
+F res D
+#6441
+filikor nightspirit~
+Filikor, the {DNight{WSpirit{x~
+A dark spirit stands before you.
+~
+Forever wishing to serve darkness, he took his own life and had it come
+true.  
+~
+heucuva~
+AFGP DFUZ DEH -1000 0
+100 600 50d150+2500 33d119+2000 18d40+700 slice
+-57 -57 -57 -37
+FHIKPV ABLMQ D NSY
+stand stand male 6000
+ACIM ABCGHIJV medium unknown
+#6442
+Ybirann tombshroud~
+Ybirann, the {yTomb{gShroud{x~
+An evil lich hisses in your direction.
+~
+A lifetime criminal, believing that all of his crimes were done for the
+good of society, he was executed for the murder of a high ranking official. 
+~
+heucuva~
+AFGP DFUZ DEH -1000 0
+100 600 50d150+2500 33d119+2000 18d40+700 bite
+-57 -57 -57 -37
+FHIKPV ABLMQ D NSY
+stand stand male 6000
+ACIM ABCGHIJV medium unknown
+#6443
+adrayrwyn evilbrood~
+Adrayrwyn, the {rEvil{bBrood{x~
+An evil lich woman is here.
+~
+After suffering through an abusive relationship, she found love in the
+arms of another man and was murdered by her jealous husband.  
+~
+heucuva~
+AFGP DFUZ DEH -1000 0
+100 600 50d150+2500 33d119+2000 18d40+700 scratch
+-57 -57 -57 -37
+FHIKPV ABLMQ D NSY
+stand stand female 6000
+ACIM ABCGHIJV medium unknown
+#6444
+Pigothiel demonfury~
+Pigothiel, the {RDemon{YFury{x~
+A cowled woman jumps out!
+~
+Forced into prostitution by a destitute father, she was slain by him for
+keeping some of the money she earned.  
+~
+heucuva~
+AFGP DFUZ DEH -1000 0
+100 600 50d150+2500 33d119+2000 18d40+700 slap
+-57 -57 -57 -37
+FHIKPV ABLMQ D NSY
+stand stand female 6000
+ACIM ABCGHIJV medium unknown
+#6445
+lesser vampire~
+a lesser vampire~
+A lesser vampire is here.
+~
+After serving as a meal for a vampire lord, it now shares the same
+appetite.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+65 390 32d97+1040 21d77+845 11d26+455 stab
+-34 -34 -34 -20
+FGHIKPV LMQ D NSY
+stand stand none 3500
+ACIM ABCGHIJV medium unknown
+#6446
+greater vampire~
+a greater vampire~
+A greater vampire bears its fangs.
+~
+After serving as a meal for a vampire lord, it now shares the same
+appetite.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+66 396 33d99+1056 22d79+858 12d26+462 blast
+-34 -34 -34 -21
+FGHIKPV LMQ 0 NSY
+stand stand none 3600
+ACIM ABCGHIJV medium unknown
+F res D
+#6447
+vampire servant~
+a vampire servant~
+A vampire servant lurks around.
+~
+After serving as a meal for a vampire lord, it now shares the same appetite.
+~
+heucuva~
+AGNPT UZ 0 -600 0
+67 402 33d100+1072 22d80+871 12d26+469 chomp
+-35 -35 -35 -21
+FGHIKPV LMQ 0 NSY
+stand stand none 3700
+ACIM ABCGHIJV medium unknown
+F res D
+#6448
+vampire underling~
+a vampire underling~
+A vampire underling is looking for a feast.
+~
+After serving as a meal for a vampire lord, it now shares the same
+appetite.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+68 408 34d102+1156 22d81+884 12d27+476 bite
+-36 -36 -36 -21
+FGHIKPV LMQ 0 NSY
+stand stand none 3600
+ACIM ABCGHIJV medium unknown
+F res D
+#6449
+vampire minion~
+a vampire minion~
+A vampire minion is here hunting.
+~
+After serving as a meal for a vampire lord, it now shares the same
+appetite.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+69 414 34d103+1173 23d82+897 12d27+483 sting
+-36 -36 -36 -22
+FGHIKPV LMQ 0 NSY
+stand stand none 3900
+ACIM ABCGHIJV medium unknown
+F res D
+#6450
+vampire peon~
+a vampire peon~
+A vampire peon stands here.
+~
+After serving as a meal for a vampire lord, it now shares the same
+appetite.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+70 420 35d105+1190 23d83+980 12d28+490 slash
+-37 -37 -37 -22
+FGHIKPV LMQ 0 NSY
+stand stand none 4000
+ACIM ABCGHIJV medium unknown
+F res D
+#6451
+predrihar nighthaunt~
+Predrihar, the {DNight{cHaunt{x~
+A moaning vampire looks on.
+~
+Just a beggar in the streets, he was heckled, stoned and then killed by
+his aggressors.  
+~
+heucuva~
+AFGP DFUZ DH -1000 0
+80 480 40d120+1600 26d95+1280 14d32+560 pound
+-44 -44 -44 -28
+FGHIKPV ABLMQ D NSY
+stand stand male 5000
+ACIM ABCGHIJV medium unknown
+#6452
+cadeijan soulspawn~
+Cadeijan, the {MSoul{bSpawn{x~
+A dark being hides in the shadows.
+~
+Once a promising inventor, he was slain while resisting the attempts of
+the king to force him into the service of inventing implements of
+destruction.  
+~
+heucuva~
+AFGP DFUZ DH -1000 0
+80 480 40d120+1600 26d95+1280 14d32+560 claw
+-44 -44 -44 -28
+FGHIKPV ABLMQ D NSY
+stand stand male 5000
+ACIM ABCGHIJV medium unknown
+#6453
+Braecyla necroghost~
+Braecyla, the {DNecro{WGhost{x~
+A female vampire haunts the room.
+~
+She was the object of two men's affections.  When she chose one, she fell
+to the sword of the other.  
+~
+heucuva~
+AFGP DFUZ DH -1000 0
+80 480 40d120+1600 26d95+1280 14d32+560 scratch
+-44 -44 -44 -28
+FGHIKPV ABLMQ D NSY
+stand stand female 5000
+ACIM ABCGHIJV medium unknown
+#6454
+stealthy wight~
+a stealthy wight~
+A stealthy wight is lurking here.
+~
+This restless spirit takes the shape of a wight, haunting the hallways of
+the mausoleum.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+71 426 35d106+1207 23d85+994 12d28+497 slice
+-38 -38 -38 -23
+FGHIKPV LMQ 0 NSY
+stand stand none 4100
+ACIM ABCGHIJV medium unknown
+F res D
+#6455
+lesser wight~
+a lesser wight~
+A lesser wight is here.
+~
+This restless spirit takes the shape of a wight, haunting the hallways of
+the mausoleum.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+72 432 36d108+1296 24d86+1008 13d28+504 pierce
+-39 -39 -39 -23
+FGHIKPV LMQ 0 NSY
+stand stand none 4200
+ACIM ABCGHIJV medium unknown
+F res D
+#6456
+hooded wight~
+a hooded wight~
+A hooded wight is moaning.
+~
+This restless spirit takes the shape of a wight, haunting the hallways of
+the mausoleum.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+73 438 36d109+1314 24d87+1022 13d29+511 slice
+-39 -39 -39 -24
+FGHIKPV LMQ 0 NSY
+stand stand none 4300
+ACIM ABCGHIJV medium unknown
+F res D
+#6457
+cloaked wight~
+a cloaked wight~
+A cloaked wight is patrolling the area.
+~
+This restless spirit takes the shape of a wight, haunting the hallways of
+the mausoleum.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+74 444 37d111+1332 24d88+1036 13d29+518 bite
+-40 -40 -40 -24
+FGHIKPV LMQ 0 NSY
+stand stand none 4400
+ACIM ABCGHIJV medium unknown
+F res D
+#6458
+black wight~
+a black wight~
+A black wight is here screaming.
+~
+This restless spirit takes the shape of a wight, haunting the hallways of
+the mausoleum.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+75 450 37d112+1350 25d89+1125 13d30+525 slice
+-41 -41 -41 -25
+FGHIKPV LMQ 0 NSY
+stand stand none 4500
+ACIM ABCGHIJV medium unknown
+F res D
+#6459
+greater wight~
+a greater wight~
+A greater wight looks for some live flesh.
+~
+This restless spirit takes the shape of a wight, haunting the hallways of
+the mausoleum.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+76 456 38d114+1444 25d91+1140 13d30+532 claw
+-41 -41 -41 -25
+FGHIKPV LMQ 0 NSY
+stand stand none 4600
+ACIM ABCGHIJV medium unknown
+F res D
+#6460
+crilith gloomsoul~
+Crilith, the {gGloom{wSoul{x~
+A pensive wight is here, deep in thought.
+~
+Once a promising soldier engaged to a beautiful young woman, he returned
+home from battle to find his future wife was killed during a raid.  He lost
+the passion for life and was felled by an arrow in his next battle.  
+~
+heucuva~
+AFGP DFUZ EH -1000 0
+90 540 45d135+1980 30d107+1620 16d36+630 sting
+-51 -51 -51 -32
+FGHIKPV ABLMQ D NSY
+stand stand male 6000
+ACIM ABCGHIJV medium unknown
+#6461
+Grynd ripsoul~
+Grynd, the {MRip{WSoul{x~
+An angry wight leaps out!
+~
+As a mortal, he was raised by wealthy parents that catered to his every
+whim.  Once exposed to the world outside the walls of his home, he found
+people that did not take too kindly to the commands of a spoiled child.  He
+was slain in the streets by an angry mob.  
+~
+heucuva~
+AFGP DFUZ EH -1000 0
+90 540 45d135+1980 30d107+1620 16d36+630 claw
+-51 -51 -51 -32
+FGHIKPV ABLMQ D NSY
+stand stand male 6000
+ACIM ABCGHIJV medium unknown
+#6462
+Trulia ghostcaster~
+Trulia, the {WGhost{YCaster{x~
+A magical wight raises her arms.
+~
+She "passed" the test and was found not guilty of being a witch. 
+Unfortunately, drowning in the process.  
+~
+heucuva~
+AFGP DFUZ EH -1000 0
+90 540 45d135+1980 30d107+1620 16d36+630 scratch
+-51 -51 -51 -32
+FGHIKPV ABLMQ D NSY
+stand stand female 6000
+ACIM ABCGHIJV medium unknown
+#6463
+Rhaenia ghostfury~
+Rhaenia, the {WGhost{RFury{x~
+A crazed wight lets out a glass shattering scream.
+~
+Raised in poverty, she employed herself as a prostitute and was murdered
+by a politician whom she had shared a bed with for fear of public knowledge.
+~
+heucuva~
+AFGP DFUZ EH -1000 0
+90 540 45d135+1980 30d107+1620 16d36+630 claw
+-51 -51 -51 -32
+FGHIKPV ABLMQ D NSY
+stand stand female 6000
+ACIM ABCGHIJV medium unknown
+#6464
+screaming wraith~
+a screaming wraith~
+A screaming wraith is here....screaming.
+~
+Once mortal, this soul has been reduced to a screaming monstrosity.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+71 426 35d106+1207 23d85+994 12d28+497 slice
+-38 -38 -38 -23
+FGHIKPV LMQ 0 NSY
+stand stand none 4100
+ACIM ABCGHIJV medium unknown
+F res D
+#6465
+crazed wraith~
+a crazed wraith~
+A crazed wraith is on the rampage.
+~
+Once mortal, this soul has been reduced to a crazed monstrosity.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+72 432 36d108+1296 24d86+1008 13d28+504 pierce
+-39 -39 -39 -23
+FGHIKPV LMQ 0 NSY
+stand stand none 4200
+ACIM ABCGHIJV medium unknown
+F res D
+#6466
+transparent wraith~
+a transparent wraith~
+A transparent wraith is hiding here.
+~
+Once mortal, this soul has been reduced to a transparent monstrosity.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+73 438 36d109+1314 24d87+1022 13d29+511 slice
+-39 -39 -39 -24
+FGHIKPV LMQ 0 NSY
+stand stand none 4300
+ACIM ABCGHIJV medium unknown
+F res D
+#6467
+invisible wraith~
+an invisible wraith~
+An invisible wraith is searching for a meal.
+~
+Once mortal, this soul has been reduced to an invisible monstrosity.  
+~
+heucuva~
+AGNPT UZ B -600 0
+74 444 37d111+1332 24d88+1036 13d29+518 bite
+-40 -40 -40 -24
+FGHIKPV LMQ 0 NSY
+stand stand none 4400
+ACIM ABCGHIJV medium unknown
+F res D
+#6468
+night wraith~
+a night wraith~
+A dark wraith is haunting the area.
+~
+Once mortal, this soul has been reduced to a black monstrosity.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+75 450 37d112+1350 25d89+1125 13d30+525 slice
+-41 -41 -41 -25
+FGHIKPV LMQ 0 NSY
+stand stand none 4500
+ACIM ABCGHIJV medium unknown
+F res D
+#6469
+zunyth spiritwraith~
+Zunyth, the {WSpirit{DWraith{x~
+A transparent wraith searches for flesh.
+~
+Once a promising scholar, he fell to the addiction of alcohol and was
+slain in a bar fight.  
+~
+heucuva~
+AFGP DFUZ EH -1000 0
+90 540 45d135+1980 30d107+1620 16d36+630 sting
+-51 -51 -51 -32
+FGHIKPV ABLMQ D NSY
+stand stand male 6000
+ACIM ABCGHIJV medium unknown
+#6470
+Sevyria wraithwitch~
+Sevyria, the {DWraith{GWitch{x~
+A magical wraith is conjuring something.
+~
+Once a peace loving citizen that healed with herbs, she was burned at the
+stake for witchcraft.  
+~
+heucuva~
+AFGP DFUZ EH -1000 0
+90 540 45d135+1980 30d107+1620 16d36+630 slap
+-51 -51 -51 -32
+FGHIKPV ABLMQ D NSY
+stand stand female 6000
+ACIM ABCGHIJV medium unknown
+#6471
+drelik wraithsoul~
+Drelik, the {DWraith{WSoul{x~
+A glowing wraith stands here.
+~
+Once the sole heir to a powerful household, this man got greedy and
+slayed his father, only to be executed for this crime.  
+~
+heucuva~
+AFGP DFUZ DEH -1000 0
+100 600 50d150+2500 33d119+2000 18d40+700 slice
+-57 -57 -57 -37
+FHIKPV ABLMQ D NSY
+stand stand male 6000
+ACIM ABCGHIJV medium unknown
+#6472
+kewen wraithmage~
+Kewen, the {DWraith{YMage{x~
+A robed wraith wanders around here.
+~
+She was killed by her sister because of jealousy over her magical gifts.  
+~
+heucuva~
+AFGP DFUZ DEH -1000 0
+100 600 50d150+2500 33d119+2000 18d40+700 claw
+-57 -57 -57 -37
+FHIKPV ABLMQ D NSY
+stand stand female 6000
+ACIM ABCGHIJV medium unknown
+#6473
+lesser zombie~
+a lesser zombie~
+A lesser zombie is giving a blank stare.
+~
+It spends the rest of eternity looking for a feast of human flesh.  
+~
+heucuva~
+AGP Z 0 -800 0
+76 456 38d114+1444 25d91+1140 13d30+532 bite
+-41 -41 -41 -25
+FHIKP LMQ 0 NSY
+stand stand none 3600
+ACIM ABCGHIJV medium unknown
+F res D
+#6474
+rotting zombie~
+a rotting zombie~
+A rotting zombie is here, still decaying.
+~
+Though his body is still animated, it still decomposes.  
+~
+heucuva~
+AGP Z 0 -800 0
+77 462 38d115+1463 25d92+1155 14d30+539 chomp
+-42 -42 -42 -26
+FHIKP LMQ 0 NSY
+stand stand none 3700
+ACIM ABCGHIJV medium unknown
+F res D
+#6475
+malodorous zombie~
+a malodorous zombie~
+A foul smelling zombie reaches out.
+~
+The flesh just keeps falling off of this rather pungent creature.  
+~
+heucuva~
+AGP Z 0 -800 0
+78 468 39d117+1482 26d93+1170 14d31+546 scratch
+-43 -43 -43 -26
+FHIKP LMQ 0 NSY
+stand stand none 3800
+ACIM ABCGHIJV medium unknown
+F res D
+#6476
+greater zombie~
+a greater zombie~
+A greater zombie is here looking for a meal.
+~
+Its appetite is flesh.  
+~
+heucuva~
+AGP Z 0 -800 0
+79 474 39d118+1501 26d94+1185 14d31+553 scratch
+-43 -43 -43 -27
+FHIKP LMQ 0 NSY
+stand stand none 3900
+ACIM ABCGHIJV medium unknown
+F res D
+#6477
+juju zombie~
+a juju zombie~
+A juju zombie is here.
+~
+Created by voodoo, this zombie now haunts and hunts.  
+~
+heucuva~
+AGP Z 0 -800 0
+80 480 40d120+1600 26d95+1280 14d32+560 claw
+-44 -44 -44 -28
+FHIKP LMQ 0 NSY
+stand stand none 4000
+ACIM ABCGHIJV medium unknown
+F res D
+#6478
+Ybush foulshroud~
+Ybush, the {yFoul{wShroud{x~
+A dastardly zombie is feasting on a head.
+~
+Once highly respected for is ability with a javelin, he perished when his
+smithy was purposely set ablaze.  
+~
+heucuva~
+AFGP DFUZ DEH -1000 0
+100 600 50d150+2500 33d119+2000 18d40+700 thrust
+-57 -57 -57 -37
+FHIKPV ABLMQ D NSY
+stand stand male 6000
+ACIM ABCGHIJV medium unknown
+#6479
+caleband shroudstench~
+Caleband, the {DShroud{gStench{x~
+A rather rancid zombie is here.
+~
+He lived as a con man, lying and stealing his way to a fortune until one
+of his victims caught up with him.  
+~
+heucuva~
+AFGP DFUZ DEH -1000 0
+100 600 50d150+2500 33d119+2000 18d40+700 claw
+-57 -57 -57 -37
+FHIKPV ABLMQ D NSY
+stand stand male 6000
+ACIM ABCGHIJV medium unknown
+#6480
+rheclya murkgloom~
+Rheclya, the {gMurk{DGloom{x~
+A dark zombie is looking for live flesh.
+~
+Once a concubine in the King's service, she tried to kill the queen.  A
+plan that eventually backfired.  
+~
+heucuva~
+AFGP DFUZ DEH -1000 0
+100 600 50d150+2500 33d119+2000 18d40+700 claw
+-57 -57 -57 -37
+FHIKPV ABLMQ D NSY
+stand stand female 6000
+ACIM ABCGHIJV medium unknown
+#6481
+Larille spectralshroud~
+Larille, the {CSpectral{DShroud{x~
+A mystical zombie bears her fangs.
+~
+She shared a bed with a man on the promise of marriage only to see his
+oath broken.  She lived for a short while inside a monastery, but died from
+the grief.  
+~
+heucuva~
+AFGP DFUZ DEH -1000 0
+100 600 50d150+2500 33d119+2000 18d40+700 claw
+-57 -57 -57 -37
+FHIKPV ABLMQ D NSY
+stand stand female 6000
+ACIM ABCGHIJV medium unknown
+#6482
+lethargic mummy~
+a lethargic mummy~
+A lethargic mummy is approaching...very slowly.
+~
+The mummy slowly approaches, wrapped head to toe in bandages.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+65 390 32d97+1040 21d77+845 11d26+455 stab
+-34 -34 -34 -20
+FGHIKPV LMQ D NSY
+stand stand none 3500
+ACIM ABCGHIJV medium unknown
+#6483
+cursed mummy~
+a cursed mummy~
+A cursed mummy is in the way.
+~
+After a doomed life, this soul now has to bear a cursed afterlife.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+66 396 33d99+1056 22d79+858 12d26+462 blast
+-34 -34 -34 -21
+FGHIKPV LMQ 0 NSY
+stand stand none 3600
+ACIM ABCGHIJV medium unknown
+F res D
+#6484
+staggering mummy~
+a staggering mummy~
+A mummy is staggering around.
+~
+Seeing as its brain was pulled out through its nose, the mummy lacks a
+little coordination.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+67 402 33d100+1072 22d80+871 12d26+469 chomp
+-35 -35 -35 -21
+FGHIKPV LMQ 0 NSY
+stand stand none 3700
+ACIM ABCGHIJV medium unknown
+F res D
+#6485
+fighter mummy~
+a fighter mummy~
+A large mummy is standing here.
+~
+This mummy, much larger than the others, has only the ability to fight.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+68 408 34d102+1156 22d81+884 12d27+476 bite
+-36 -36 -36 -21
+FGHIKPV LMQ 0 NSY
+stand stand none 3600
+ACIM ABCGHIJV medium unknown
+F res D
+#6486
+mummy mage~
+a mummy mage~
+A magical mummy moans something.
+~
+It still bears enough intelligence to be able to cast spells.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+70 420 35d105+1190 23d83+980 12d28+490 slash
+-37 -37 -37 -22
+FGHIKPV LMQ 0 NSY
+stand stand none 4000
+ACIM ABCGHIJV medium unknown
+F res D
+#6487
+Etharin CharnelSoul~
+Etharin, the {GCharnel{WSoul{x~
+A large mummy is looking for intruders.
+~
+The oldest son in a rich family, he was poisoned by his younger brother
+for position in the family heirarchy.  
+~
+heucuva~
+AFGP DFUZ DH -1000 0
+80 480 40d120+1600 26d95+1280 14d32+560 pound
+-44 -44 -44 -28
+FGHIKPV ABLMQ D NSY
+stand stand male 5000
+ACIM ABCGHIJV medium unknown
+#6488
+nydaejar spiritcraze~
+Nydaejar, the {WSpirit{YCraze{x~
+A mad spirit is here screaming.
+~
+Once employed in the clock tower, he went insane with repeated exposure
+to mercury and was left for dead when no longer employable.  
+~
+heucuva~
+AFGP DFUZ DH -1000 0
+80 480 40d120+1600 26d95+1280 14d32+560 claw
+-44 -44 -44 -28
+FGHIKPV ABLMQ D NSY
+stand stand male 5000
+ACIM ABCGHIJV medium unknown
+#6489
+nirassi angerspirit~
+Nirassi, {RAnger{WSpirit{x~
+A female mummy sheds tears of rage.
+~
+She was falsely accused of adultery and killed by her husband, looking
+for a way to avoid the scandal of divorce.  
+~
+heucuva~
+AFGP DFUZ DH -1000 0
+80 480 40d120+1600 26d95+1280 14d32+560 scratch
+-44 -44 -44 -28
+FGHIKPV ABLMQ D NSY
+stand stand female 5000
+ACIM ABCGHIJV medium unknown
+#6490
+mad ghoul~
+a mad ghoul~
+A mad ghoul is closing fast.
+~
+This ghoul is doesn't seem to want to talk about it.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+71 426 35d106+1207 23d85+994 12d28+497 slice
+-38 -38 -38 -23
+FGHIKPV LMQ 0 NSY
+stand stand none 4100
+ACIM ABCGHIJV medium unknown
+F res D
+#6491
+dark ghast~
+a dark ghast~
+A dark ghast is here.
+~
+Its form is black to match its soul.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+72 432 36d108+1296 24d86+1008 13d28+504 pierce
+-39 -39 -39 -23
+FGHIKPV LMQ 0 NSY
+stand stand none 4200
+ACIM ABCGHIJV medium unknown
+F res D
+#6492
+cinder ghoul~
+a cinder ghoul~
+A fiery ghoul is standing here.
+~
+This undead life form has been set ablaze by its internal rage.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+73 438 36d109+1314 24d87+1022 13d29+511 slice
+-39 -39 -39 -24
+FGHIKPV LMQ 0 NSY
+stand stand none 4300
+ACIM ABCGHIJV medium unknown
+F res D
+#6493
+black ghast~
+a black ghast~
+A black ghast is hiding here.
+~
+Its form is black to match its soul.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+74 444 37d111+1332 24d88+1036 13d29+518 bite
+-40 -40 -40 -24
+FGHIKPV LMQ 0 NSY
+stand stand none 4400
+ACIM ABCGHIJV medium unknown
+F res D
+#6494
+crimson ghast~
+a crimson ghast~
+A crimson ghast is haunting the room.
+~
+It has a red form matching its rage.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+75 450 37d112+1350 25d89+1125 13d30+525 slice
+-41 -41 -41 -25
+FGHIKPV LMQ 0 NSY
+stand stand none 4500
+ACIM ABCGHIJV medium unknown
+F res D
+#6495
+crimson ghoul~
+a crimson ghoul~
+A crimson ghoul is on the hunt.
+~
+It has a red form matching its rage.  
+~
+heucuva~
+AGNPT UZ 0 -600 0
+76 456 38d114+1444 25d91+1140 13d30+532 claw
+-41 -41 -41 -25
+FGHIKPV LMQ 0 NSY
+stand stand none 4600
+ACIM ABCGHIJV medium unknown
+F res D
+#6496
+rhardokith darkghast~
+Rhardokith, the {DDark{yGhast{x~
+A dark ghast is lurking here.
+~
+Once projected as the saviour to a small town freed from an oppressive
+regime, the power corrupted him as well and was assassinated by his own
+guards.  
+~
+heucuva~
+AFGP DFUZ EH -1000 0
+90 630 47d170+2700 45d135+1980 18d45+720 sting
+-55 -55 -55 -37
+FGHIKPV ABLMQ D NSY
+stand stand male 6000
+ACIM ABCGHIJV medium unknown
+#6497
+adelidan bloodghoul~
+Adelidan, the {DBlood{GGhoul{x~
+A hungry ghoul jumps out!
+~
+He gambled his life away so much that in the end the only thing he could
+pay with was his life.  
+~
+heucuva~
+AFGP DFUZ EH -1000 0
+90 630 47d170+2700 45d135+1980 18d45+720 claw
+-55 -55 -55 -37
+FGHIKPV ABLMQ D NSY
+stand stand male 6000
+ACIM ABCGHIJV medium unknown
+#6498
+calidda deathghoul~
+Calidda, the {RDeath{yGhoul{x~
+A moaning ghoul is closing in.
+~
+She lived life under false pretenses, claiming to be other people in
+order to gain favour until a man she took a small fortune from found out and
+killed her.  
+~
+heucuva~
+AFGP DFUZ EH -1000 0
+90 630 47d170+2700 45d135+1980 18d45+720 claw
+-55 -55 -55 -37
+FGHIKPV ABLMQ D NSY
+stand stand female 6000
+ACIM ABCGHIJV medium unknown
+#6499
+laralevia demonghast~
+Laralevia, the {RDemon{gGhast{x~
+A red ghast is searching for flesh.
+~
+She was a daughter born to an affair that should have never happened. 
+Scorned by her father as a sore reminder and never allowed much contact with
+her mother, she was left in the streets before falling to hunger.  
+~
+heucuva~
+AFGP DFUZ EH -1000 0
+90 630 47d170+2700 45d135+1980 18d45+720 claw
+-55 -55 -55 -37
+FGHIKPV ABLMQ D NSY
+stand stand female 6000
+ACIM ABCGHIJV medium unknown
+#0
+
+
+
+#OBJECTS
+#6400
+shadowslash~
+{BShadow{gSlash{x~
+A dark sword is on the ground.~
+unknown~
+weapon C AN
+sword 10 10 slash CD
+50 10 5000 P
+A
+20 -3
+A
+18 5
+A
+19 4
+#6401
+dusk banner~
+the {DDusk{x Banner~
+A dark banner-like robe is on the ground.~
+unknown~
+armor C AX
+14 14 14 10 0
+50 6 3000 P
+A
+5 2
+A
+19 3
+A
+13 50
+#6402
+gloom patch~
+{rGloom{x Patch~
+A dark patch has been discarded.~
+unknown~
+armor 0 AW
+14 14 14 10 0
+50 6 3000 P
+A
+19 4
+A
+13 40
+A
+17 -10
+#6403
+blackember~
+{DBlack{REmber{x~
+A dark light has been placed here.~
+unknown~
+light A A
+0 0 999 0 0
+50 5 3000 P
+A
+3 2
+A
+12 40
+#6404
+darkgloom~
+{DDark{rGloom{x~
+A dark patch has been left here.~
+unknown~
+armor C AV
+14 14 14 10 0
+50 6 3000 P
+A
+12 30
+A
+13 30
+#6405
+ring night fear~
+ring of {DNight{bFear{x~
+A dark ring is here.~
+unknown~
+armor C AB
+14 14 14 10 0
+50 6 3000 P
+A
+17 -20
+A
+1 3
+A
+13 25
+#6406
+Shadechain~
+{DShade{yChain{x~
+A dark chain is on the ground.~
+unknown~
+armor 0 AC
+14 14 14 10 0
+50 6 3000 P
+A
+19 2
+A
+13 30
+A
+12 40
+#6407
+blackterror anklet~
+the {DBlack{mTerror{x anklet~
+A dark anklet has been left here.~
+unknown~
+armor C AT
+14 14 14 10 0
+50 6 3000 P
+A
+20 -5
+A
+19 5
+#6408
+murkrobe~
+{yMurk{gRobe{x~
+A dark robe has been thrown away.~
+unknown~
+armor C AD
+14 14 14 10 0
+50 6 3000 P
+A
+19 4
+A
+17 -10
+#6409
+Reaverknife~
+{BReaver{CKnife{x~
+A dark dagger is in the dirt.~
+unknown~
+weapon C AN
+dagger 11 12 stab AC
+60 10 4000 P
+A
+18 8
+A
+19 4
+#6410
+ring fallen souls~
+a ring of {Dfallen{W souls{x~
+A dark ring has been left here.~
+unknown~
+armor C AB
+14 14 14 10 0
+60 6 3000 P
+A
+1 2
+A
+19 3
+A
+13 50
+#6411
+Circlet iron mind~
+circlet of the {DIron {cMind{x~
+A dark circlet is on the ground.~
+unknown~
+armor C AE
+14 14 14 10 0
+60 6 3000 P
+A
+4 2
+A
+18 4
+A
+12 60
+#6412
+hatred~
+{RHatred{x~
+Pure hatred burns here.~
+unknown~
+light AC A
+0 0 999 0 0
+60 6 3000 P
+A
+19 5
+A
+13 50
+A
+3 -2
+#6413
+ghostbracer~
+a {Wghost{ybracer{x~
+A translucent bracer is on the ground.~
+unknown~
+armor CF AM
+14 14 14 10 0
+60 6 3000 P
+A
+5 2
+A
+13 30
+A
+12 20
+#6414
+Vengeful Desire~
+{yVengeful {rDesire{x~
+A pulsing orb is here.~
+unknown~
+armor C AQ
+14 14 14 10 0
+60 6 3000 P
+A
+4 -2
+A
+13 60
+#6415
+cold hand~
+a {Ccold{x hand~
+A frigid hand has been left here.~
+unknown~
+weapon C AN
+flail 11 12 beating BC
+60 10 4000 P
+A
+13 20
+A
+19 6
+A
+18 5
+#6416
+blood stained hands~
+{rblood stained{x hands~
+A pair of bloodstained hands have been left here.~
+unknown~
+armor 0 AH
+14 14 14 10 0
+60 6 3000 P
+A
+5 2
+A
+13 40
+#6417
+thorn twined boots~
+thorn-twined boots~
+A pair of boots wrapped in thorns are on the ground.~
+unknown~
+armor 0 AG
+14 14 14 10 0
+60 6 3000 P
+A
+19 5
+A
+2 3
+#6418
+amulet false life~
+an amulet of {Dfalse {Ylife{x~
+A dark amulet has been tossed aside.~
+unknown~
+armor 0 AC
+14 14 14 10 0
+60 6 3000 P
+A
+5 2
+A
+13 50
+#6419
+shroud dead faith~
+shroud of {DDead {WFaith{x~
+A dark shroud has been left here.~
+unknown~
+armor C AK
+14 14 14 10 0
+60 6 3000 P
+A
+19 5
+A
+4 2
+A
+3 2
+#6420
+axe darkfather~
+{xAxe of the {DDark{gFather{x~
+A dark axe is sticking in the ground.~
+unknown~
+weapon C AN
+axe 10 10 chop ACE
+50 10 5000 P
+A
+19 6
+A
+18 5
+#6421
+tight cranium cap~
+a tight cranium cap~
+A tight skull cap has been left here.~
+unknown~
+armor 0 AE
+12 12 12 8 0
+50 6 2500 P
+A
+12 50
+A
+2 2
+#6422
+leggings vilest essence~
+leggings of the {rvilest {cessence{x~
+A pair of dark leggings are on the ground.~
+unknown~
+armor C AF
+12 12 12 8 0
+50 6 2500 P
+A
+13 20
+A
+19 5
+#6423
+gloomchain~
+{gGloom{mchain{x~
+A dark chain has been left here.~
+unknown~
+weapon C AN
+whip 10 10 blast CD
+50 10 5000 P
+A
+20 -2
+A
+19 6
+A
+18 3
+#6424
+boots demonic obedience~
+boots of {Rdemonic{x obedience~
+A pair of black boots have been thrown away.~
+unknown~
+armor 0 AG
+12 12 12 8 0
+50 6 2500 P
+A
+12 20
+A
+13 40
+#6425
+death's grip~
+{rDeath's{x Grip~
+A pair of pulsing hands are here.~
+unknown~
+armor C AH
+12 12 12 8 0
+50 6 2500 P
+A
+19 4
+A
+1 3
+#6426
+mirror soulstealing~
+{CMirror{x of {RSoulstealing{x~
+A glowing mirror reflects here.~
+unknown~
+armor A AJ
+12 12 12 8 0
+50 6 2500 P
+A
+12 50
+A
+3 2
+#6427
+arms nyr~
+arms of {GNyr{x~
+A dark pair of armbands are on the ground.~
+unknown~
+armor C AI
+12 12 12 8 0
+50 6 2500 P
+A
+4 2
+A
+12 35
+#6428
+cloak eternal darkness~
+cloak of {Weternal {Ddarkness{x~
+An unmoving shadow is on the ground.~
+unknown~
+armor 0 AK
+12 12 12 8 0
+50 6 2500 P
+A
+3 1
+A
+13 40
+A
+19 2
+#6429
+belt fallen king~
+belt of the {rfallen {Wking{x~
+A dark, blood stained belt is on the ground.~
+unknown~
+armor C AL
+12 12 12 8 0
+50 6 2500 P
+A
+19 3
+A
+13 40
+#6430
+book blood~
+the book of {rblood{x~
+A bleeding book is here.~
+unknown~
+armor 0 AO
+12 12 12 8 0
+50 6 2500 P
+A
+13 30
+A
+5 3
+#6431
+bone spear~
+a {Wbone{x spear~
+A spear made of bone is on the ground.~
+unknown~
+weapon 0 AN
+staff 10 10 thrust AC
+50 10 5000 P
+A
+13 20
+A
+18 4
+A
+19 6
+#6432
+coffin clamp~
+a coffin clamp~
+A coffin clamp has been left here.~
+unknown~
+armor C AM
+12 12 12 8 0
+50 6 2500 P
+A
+14 30
+A
+2 2
+#6433
+face dead~
+{BFace{x of the {DDead{x~
+A dark mask has been left here.~
+unknown~
+armor 0 AR
+12 12 12 8 0
+50 6 2500 P
+A
+13 40
+A
+5 2
+#6434
+earring black conjures~
+earring of {Dblack {yconjures{x~
+A dark earring has been left here.~
+unknown~
+armor C AS
+12 12 12 8 0
+50 6 2500 P
+A
+3 2
+A
+12 60
+#6435
+demonic presence~
+a {rdemonic {cpresence{x~
+A demonic presence hovers here.~
+unknown~
+armor C AQ
+12 12 12 8 0
+50 6 2500 P
+A
+19 6
+A
+1 3
+#6436
+spectral dagger~
+a {Cspectral{x dagger~
+A dark dagger emits an eerie glow.~
+unknown~
+weapon AC AN
+dagger 10 16 stab DEG
+80 10 6000 P
+A
+18 10
+A
+19 8
+#6437
+mark tomb~
+{xMark of the {yTomb{x~
+A dark chest patch rests here.~
+unknown~
+armor C AW
+20 20 20 16 0
+80 6 5000 P
+A
+13 70
+A
+19 3
+A
+5 3
+#6438
+everdark~
+{bEver{DDark{x~
+A dark light emanates from this torch.~
+unknown~
+light A A
+0 0 999 0 0
+80 6 5000 P
+A
+12 60
+A
+20 -5
+A
+1 2
+#6439
+amulet underworld~
+{xAmulet of the {RUn{rde{wrw{ror{Rld{x~
+A dark amulet has been left here.~
+unknown~
+armor 0 AC
+20 20 20 16 0
+80 6 5000 P
+A
+18 4
+A
+13 60
+#6440
+ethereal tapestry~
+an {DEt{wh{Wer{we{Dal{x tapestry~
+A dark tapestry has been left here.~
+unknown~
+armor 0 AD
+20 20 20 16 0
+80 6 5000 P
+A
+18 2
+A
+12 75
+A
+20 -5
+#6441
+helm darkchildren~
+{xHelm{x of the {DDark{WChildren{x~
+An evil helmet is here.~
+unknown~
+armor C AE
+20 20 20 16 0
+80 6 5000 P
+A
+17 -10
+A
+13 55
+A
+19 5
+#6442
+faith killer~
+{WFaith {RKiller{x~
+A dark mace hums here.~
+unknown~
+weapon BC AN
+mace 10 16 blast ACE
+80 10 6000 P
+A
+18 11
+A
+19 7
+#6443
+boots blackflame~
+{xBoots of the {DBlack{RFlame{x~
+A pair of dark boots have been left here.~
+unknown~
+armor C AG
+20 20 20 16 0
+80 6 5000 P
+A
+12 40
+A
+13 60
+#6444
+gauntlets of ghostly fury~
+{xGauntlets of {WGhostly {RFury{x~
+A pair of demonic gauntlets have been left here.~
+unknown~
+armor 0 AH
+20 20 20 16 0
+80 6 5000 P
+A
+19 5
+A
+17 -10
+#6445
+cown fallen tears~
+{xCowl of {CFa{cll{De{Wn {DT{cea{Crs{x~
+A glowing cowl has been left here.~
+unknown~
+armor 0 AK
+20 20 20 16 0
+80 6 5000 P
+A
+12 30
+A
+18 4
+A
+4 2
+A
+3 2
+#6446
+earring whispers~
+{xEarring of {BWh{bi{Wsp{be{Brs{x~
+A whispering earring is here.~
+unknown~
+armor 0 AS
+20 20 20 16 0
+80 6 5000 P
+A
+19 4
+A
+13 50
+#6447
+cup sorrow~
+{xLast {WCup {wof {DS{wo{Wrr{wo{Dw{x~
+Your last cup of sorrow.~
+unknown~
+armor 0 AO
+20 20 20 16 0
+80 6 5000 P
+A
+19 5
+A
+13 80
+#6448
+anklet darkhidden~
+anklet of the {Ddark{whidden{x~
+A dark anklet has been left here.~
+unknown~
+armor 0 AT
+14 14 14 10 0
+60 6 3000 P
+A
+19 2
+A
+13 30
+A
+2 3
+#6449
+robe silence~
+robe of {YSilence{x~
+A dark robe has been left here.~
+unknown~
+armor C AD
+14 14 14 10 0
+60 6 3000 P
+A
+12 10
+A
+13 35
+#6450
+gyrspike~
+a {Ggy{gr{ysp{gi{Gke{x~
+A sharp polearm hums ominously.~
+unknown~
+weapon B AN
+polearm 11 12 thrust BDH
+60 10 4000 P
+A
+18 6
+A
+19 5
+#6451
+blackrune sleeves~
+{Dblackrune{x sleeves~
+A pair of sleeves with black runes have been left here.~
+unknown~
+armor C AI
+14 14 14 10 0
+60 6 3000 P
+A
+20 -5
+A
+18 3
+#6452
+eclipse~
+{DEc{Yl{yi{Yp{Dse{x~
+A large shield is here, seemingly blocking out the sun.~
+unknown~
+armor C AJ
+14 14 14 10 0
+60 6 3000 P
+A
+19 4
+A
+13 40
+A
+1 2
+#6453
+corrosive axe~
+a {ycorrosive{x axe~
+An axe is here spreading rust.~
+unknown~
+weapon 0 AN
+axe 12 13 chop AEH
+70 10 5000 P
+A
+19 9
+A
+18 7
+A
+1 2
+#6454
+belt gazes~
+{xBelt of {MGazes{x~
+A belt with etchings of eyes around the circumference is here.~
+unknown~
+armor A AL
+14 14 14 10 0
+60 6 3000 P
+A
+12 30
+A
+4 2
+A
+3 2
+#6455
+sacrificial earring~
+{xSacrificial Earring~
+A bloody earring has been left here.~
+unknown~
+armor 0 AS
+14 14 14 10 0
+60 6 3000 P
+A
+13 35
+A
+5 2
+#6456
+wings pain~
+{WWings {wof {DPain{x~
+A set of pulsing wings are here.~
+unknown~
+armor BC AX
+17 17 17 14 0
+70 6 4000 P
+A
+13 55
+A
+19 5
+A
+1 2
+#6457
+mark damned~
+{xMark of the {RD{ra{wmn{re{Rd{x~
+A mark worn by the cursed lies here.~
+unknown~
+armor C AV
+17 17 17 14 0
+70 6 4000 P
+A
+5 2
+A
+13 50
+#6458
+oathbreaker bracelet~
+{YOa{yth{wbr{De{wak{yer{Y's{x Bracelet~
+A dark bracelet has been left here.~
+unknown~
+armor C AM
+17 17 17 14 0
+70 6 4000 P
+A
+3 2
+A
+20 -5
+A
+12 50
+#6459
+mask desire~
+{xMask of {RDesire{x~
+A pulsating mask has been left here.~
+unknown~
+armor B AR
+17 17 17 14 0
+70 6 4000 P
+A
+4 2
+A
+12 50
+A
+17 -10
+#6460
+ragelit sphere~
+a {Rrage{Ylit{x sphere~
+A sphere, alight with rage, glows.~
+unknown~
+light A A
+0 0 999 0 0
+70 5 4000 P
+A
+2 2
+A
+13 30
+A
+12 40
+#6461
+maul~
+{BM{bau{Bl{x~
+A large flail lies here.~
+unknown~
+weapon A AN
+flail 12 13 beating DEG
+70 10 5000 P
+A
+19 8
+A
+18 11
+#6462
+bloodstone ring~
+{Rbl{roo{wds{rto{Rne{x ring~
+A ring made of bloodstone is on the ground.~
+unknown~
+armor 0 AB
+17 17 17 14 0
+70 6 4000 P
+A
+19 3
+A
+3 2
+A
+12 50
+#6463
+glass skull~
+a {Cglass{x skull~
+A skull made of glass is here.~
+unknown~
+armor 0 AO
+17 17 17 14 0
+70 6 4000 P
+A
+4 2
+A
+12 55
+A
+19 5
+#6464
+shadowy pin~
+a {Dsh{wa{Wd{wo{Dwy{x pin~
+A dark pin has been left here.~
+unknown~
+armor C AW
+17 17 17 14 0
+70 6 4000 P
+A
+5 2
+A
+19 4
+A
+13 30
+#6465
+earring doombound~
+earring of the {Gdo{gom{Db{gou{Gnd{x~
+A dark earring has is in the dirt.~
+unknown~
+armor C AS
+17 17 17 14 0
+70 6 4000 P
+A
+1 2
+A
+19 5
+A
+13 60
+#6466
+tainted aura~
+a {Mta{mi{Dn{mt{Med{x aura~
+A tainted aura rests here.~
+unknown~
+armor CG AQ
+17 17 17 14 0
+70 6 4000 P
+A
+2 2
+A
+20 -5
+A
+17 -15
+#6467
+wormtongue~
+{YWo{yrm{Dto{yng{Yue{x~
+A piece of wormtongue has been left here.~
+unknown~
+weapon 0 AN
+whip 12 13 whip DGH
+70 10 5000 P
+A
+19 10
+A
+18 6
+#6468
+unfulfilled potential~
+{BUn{bfu{Wl{Df{Wi{bll{Bed {CPo{cte{Dn{cti{Cal{x~
+Unfulfilled potential is here to be worn as a shackle.~
+unknown~
+armor A AT
+17 17 17 14 0
+70 6 4000 P
+A
+2 4
+A
+13 60
+#6469
+broken dreams~
+{CBr{cok{We{Dn D{Wr{cea{Cms{x~
+Broken dreams worn on your mind are here.~
+unknown~
+armor 0 AE
+17 17 17 14 0
+70 6 4000 P
+A
+17 -10
+A
+19 4
+A
+12 40
+#6470
+ghostwalker's boots~
+{WGh{wos{Dtw{dal{Dk{wer{W's{x Boots~
+A pair of ghostly boots are here.~
+unknown~
+armor C AG
+17 17 17 14 0
+70 6 4000 P
+A
+2 2
+A
+17 -20
+A
+14 30
+#6471
+belt ghostly might~
+{xBelt of {DUn{dde{Wad M{dig{Dht{x~
+A dark belt is here.~
+unknown~
+armor C AL
+17 17 17 14 0
+70 6 4000 P
+A
+1 1
+A
+13 50
+A
+5 2
+#6472
+wraithblade~
+a {Gwr{gai{Wt{Dh{Wb{gla{Gde{x~
+A dark sword has been left here.~
+unknown~
+weapon C AN
+sword 10 16 slash BCD
+80 10 6000 P
+A
+18 10
+A
+19 12
+#6473
+legplates dark monarchs~
+legplates of the {DDark {YMonarchs{x~
+A pair of legplates has been left here.~
+unknown~
+armor 0 AF
+20 20 20 16 0
+80 6 5000 P
+A
+19 6
+A
+12 40
+A
+13 60
+#6474
+mask dark influence~
+{xMask of {DDark {RInfluence{x~
+A dark mask has been left in the dirt.~
+unknown~
+armor 0 AR
+20 20 20 16 0
+80 6 5000 P
+A
+5 3
+A
+13 70
+A
+19 5
+#6475
+anklet slayed angel~
+anklet of a {Rslayed{x {Wangel{x~
+A glowing anklet has been left here.~
+unknown~
+armor 0 AT
+20 20 20 16 0
+80 6 5000 P
+A
+12 60
+A
+13 20
+A
+4 3
+#6476
+false hopes~
+{CFa{cls{De H{cop{Ces{x~
+Some false hopes are floating here.~
+unknown~
+armor A AQ
+20 20 20 16 0
+80 6 5000 P
+A
+12 50
+A
+13 50
+A
+19 3
+#6477
+spinning javelin~
+a spinning javelin~
+A javelin has been left here.~
+unknown~
+weapon 0 AN
+staff 10 16 thrust DEG
+80 10 6000 P
+A
+19 12
+A
+18 8
+#6478
+mark accursed~
+{xMark of the {RAc{rc{Dur{rs{Red{x~
+A dark religion patch has been thrown away.~
+unknown~
+armor C AV
+20 20 20 16 0
+80 6 5000 P
+A
+13 60
+A
+12 40
+A
+4 2
+#6479
+1000 lies~
+{C1000 {DLies{x~
+One thousand lies is the burden on one's back.~
+unknown~
+armor C AX
+20 20 20 16 0
+80 6 5000 P
+A
+13 60
+A
+12 50
+A
+19 4
+#6480
+karmic shackles~
+{YK{ya{Drm{yi{Yc{x Shackles~
+The shackles of Karma offer a stern reminder.~
+unknown~
+armor 0 AM
+20 20 20 16 0
+80 6 5000 P
+A
+20 -5
+A
+13 50
+A
+18 5
+#6481
+vain ignorance~
+{CVain {BIgnorance{x~
+Vain ignorance is being used as a shield.~
+unknown~
+armor A AJ
+20 20 20 16 0
+80 6 5000 P
+A
+19 5
+A
+13 60
+A
+12 60
+#6482
+ring eternal slavery~
+ring of {DEternal {mSlavery{x~
+A dark ring has been thrown away.~
+unknown~
+armor C AB
+20 20 20 16 0
+80 6 5000 P
+A
+5 3
+A
+17 -20
+#6483
+links servitude~
+{xLinks of Servitude{x~
+A chain belt has been left to gather dust.~
+unknown~
+armor 0 AL
+20 20 20 16 0
+80 6 5000 P
+A
+1 2
+A
+13 60
+#6484
+gloves balanced hands~
+gloves of balanced hands~
+A set of gloves are here.~
+unknown~
+armor 0 AH
+20 20 20 16 0
+80 6 5000 P
+A
+13 70
+A
+12 60
+A
+19 6
+#6485
+skull plaque~
+a skull plaque~
+A plaque with a skull on it has been left here.~
+unknown~
+armor 0 AW
+14 14 14 10 0
+60 6 3000 P
+A
+13 45
+A
+19 2
+#6486
+leggings ghost armor~
+leggings of {DGh{Wos{wt A{Wrm{Dor{x~
+A set of ghostly leggings is here.~
+unknown~
+armor F AF
+14 14 14 10 0
+60 6 3000 P
+A
+13 70
+A
+19 3
+A
+2 2
+#6487
+runehammer~
+a {Gru{gne{Dha{gmm{Ger{x~
+A runehammer has been left in the dust.~
+unknown~
+weapon 0 AN
+mace 11 12 blast DGH
+60 10 4000 P
+A
+19 8
+A
+18 9
+#6488
+broken promises~
+{Cbr{cok{Den {wpr{Dom{cis{Ces{x~
+Someone is holding on to some broken promises.~
+unknown~
+armor A AO
+14 14 14 10 0
+60 6 3000 P
+A
+13 40
+A
+12 50
+A
+19 3
+#6489
+doomfire~
+{RDo{ro{Dmf{ri{Rre{x~
+A flaming patch has been left to burn.~
+unknown~
+armor A AV
+14 14 14 10 0
+60 6 3000 P
+A
+13 70
+A
+5 2
+A
+19 4
+#6490
+veil tears~
+a veil of {Ct{ce{Wa{cr{Cs{x~
+A crying face is being ignored.~
+unknown~
+armor G AR
+14 14 14 10 0
+60 6 3000 P
+A
+12 80
+A
+18 3
+A
+4 2
+#6491
+lesser unholy symbol~
+a lesser unholy symbol~
+A lesser unholy symbol has been left here.~
+unknown~
+armor 0 AX
+14 14 14 10 0
+60 6 3000 P
+A
+13 60
+A
+3 2
+#6492
+chaoslance~
+{MCh{mao{Ws{Dl{man{Mce{x~
+A chaotic lance is glowing here.~
+unknown~
+weapon AB AN
+polearm 12 13 charge ACD
+70 10 5000 P
+#6493
+hopes all people~
+{xThe {CHopes{w of all {BPeople{x~
+The hopes of all people is the burden on one's shoulders.~
+unknown~
+armor G AK
+17 17 17 14 0
+70 6 4000 P
+A
+13 85
+A
+12 40
+A
+19 3
+#6494
+vest false life~
+vest of false life~
+A vest of false life has been left here.~
+unknown~
+armor 0 AD
+17 17 17 14 0
+70 6 4000 P
+A
+13 60
+A
+19 5
+#6495
+shaking hands~
+shaking hands~
+A pair of shaking hands tremble here.~
+unknown~
+armor 0 AH
+17 17 17 14 0
+70 6 4000 P
+A
+2 2
+A
+12 70
+A
+18 4
+#6496
+necklace nature's teeth~
+a necklace of {GNature's{x teeth~
+A green necklace has been left here.~
+unknown~
+armor 0 AC
+17 17 17 14 0
+70 6 4000 P
+A
+13 80
+A
+12 40
+A
+4 2
+#6497
+facade circlets~
+{Yfacade{x circlets~
+A pair of deceptive armbands have been left here.~
+unknown~
+armor G AI
+17 17 17 14 0
+70 6 4000 P
+A
+12 90
+A
+3 2
+#6498
+legs defeated~
+legs of the {Ddefeated{x~
+A pair of dark leggings have been left here.~
+unknown~
+armor 0 AF
+17 17 17 14 0
+70 6 4000 P
+A
+17 -20
+A
+19 5
+#6499
+shield unaccountability~
+the Shield of {YUn{yac{Wco{wu{Dnt{wa{Wbi{yli{Yty{x~
+Unaccountability is here being used as a shield.~
+unknown~
+armor 0 AJ
+17 17 17 14 0
+70 6 4000 P
+A
+19 7
+A
+13 80
+#0
+
+
+
+#ROOMS
+#6400
+{WHall of {DShadows{x~
+{DThe stench of decay is overwhelming in this narrow corridor.  Faint
+movement can be seen with the aid of light as the shadows seem to have ideas
+of their own.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6401
+S
+#6401
+{WHall of {DShadows{x~
+{DThe stench of decay is overwhelming in this narrow corridor.  Faint
+movement can be seen with the aid of light as the shadows seem to have ideas
+of their own.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6400
+D2
+~
+~
+0 0 6402
+S
+#6402
+{WHall of {DShadows{x~
+{DThe stench of decay is overwhelming in this narrow corridor.  Faint
+movement can be seen with the aid of light as the shadows seem to have ideas
+of their own.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6401
+D2
+~
+~
+0 0 6403
+S
+#6403
+{WHall of {DShadows{x~
+{DThe stench of decay is overwhelming in this narrow corridor.  Faint
+movement can be seen with the aid of light as the shadows seem to have ideas
+of their own.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6402
+D2
+~
+~
+0 0 6404
+D3
+~
+~
+1 0 6410
+S
+#6404
+{WHall of {DShadows{x~
+{DThe stench of decay is overwhelming in this narrow corridor.  Faint
+movement can be seen with the aid of light as the shadows seem to have ideas
+of their own.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6403
+D2
+~
+~
+0 0 6405
+S
+#6405
+{WHall of {DShadows{x~
+{DThe stench of decay is overwhelming in this narrow corridor.  Faint
+movement can be seen with the aid of light as the shadows seem to have ideas
+of their own.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6404
+D2
+~
+~
+0 0 6406
+S
+#6406
+{WHall of {DShadows{x~
+{DThe stench of decay is overwhelming in this narrow corridor.  Faint
+movement can be seen with the aid of light as the shadows seem to have ideas
+of their own.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6405
+D1
+~
+~
+1 0 6420
+D2
+~
+~
+0 0 6407
+S
+#6407
+{WHall of {DShadows{x~
+{DThe stench of decay is overwhelming in this narrow corridor.  Faint
+movement can be seen with the aid of light as the shadows seem to have ideas
+of their own.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6406
+D2
+~
+~
+0 0 6408
+S
+#6408
+{WHall of {DShadows{x~
+{DThe stench of decay is overwhelming in this narrow corridor.  Faint
+movement can be seen with the aid of light as the shadows seem to have ideas
+of their own.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6407
+D2
+~
+~
+0 0 6409
+S
+#6409
+{WHall of {DShadows{x~
+{DThe stench of decay is overwhelming in this narrow corridor.  Faint
+movement can be seen with the aid of light as the shadows seem to have ideas
+of their own.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6408
+S
+#6410
+{YGhostly Corridor{x~
+{yThe odour of decay weighs heavily in the air as time only further angers
+the spirits within these walls.  A low moaning can be heard throughout this
+corridor coming from the restless ghosts.  {x 
+~
+0 9 0
+D1
+~
+~
+1 0 6403
+D3
+~
+~
+0 0 6411
+S
+#6411
+{YGhostly Corridor{x~
+{yThe odour of decay weighs heavily in the air as time only further angers
+the spirits within these walls.  A low moaning can be heard throughout this
+corridor coming from the restless ghosts.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6410
+D2
+~
+~
+1 0 6439
+D3
+~
+~
+0 0 6412
+S
+#6412
+{YGhostly Corridor{x~
+{yThe odour of decay weighs heavily in the air as time only further angers
+the spirits within these walls.  A low moaning can be heard throughout this
+corridor coming from the restless ghosts.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6411
+D3
+~
+~
+0 0 6413
+S
+#6413
+{YGhostly Corridor{x~
+{yThe odour of decay weighs heavily in the air as time only further angers
+the spirits within these walls.  A low moaning can be heard throughout this
+corridor coming from the restless ghosts.  {x 
+~
+0 9 0
+D0
+~
+~
+1 0 6457
+D1
+~
+~
+0 0 6412
+D3
+~
+~
+0 0 6414
+S
+#6414
+{YGhostly Corridor{x~
+{yThe odour of decay weighs heavily in the air as time only further angers
+the spirits within these walls.  A low moaning can be heard throughout this
+corridor coming from the restless ghosts.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6413
+D3
+~
+~
+0 0 6415
+S
+#6415
+{YGhostly Corridor{x~
+{yThe odour of decay weighs heavily in the air as time only further angers
+the spirits within these walls.  A low moaning can be heard throughout this
+corridor coming from the restless ghosts.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6414
+D3
+~
+~
+0 0 6416
+S
+#6416
+{YGhostly Corridor{x~
+{yThe odour of decay weighs heavily in the air as time only further angers
+the spirits within these walls.  A low moaning can be heard throughout this
+corridor coming from the restless ghosts.  {x 
+~
+0 9 0
+D0
+~
+~
+1 0 6448
+D1
+~
+~
+0 0 6415
+D3
+~
+~
+0 0 6417
+S
+#6417
+{YGhostly Corridor{x~
+{yThe odour of decay weighs heavily in the air as time only further angers
+the spirits within these walls.  A low moaning can be heard throughout this
+corridor coming from the restless ghosts.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6416
+D2
+~
+~
+1 0 6430
+D3
+~
+~
+0 0 6418
+S
+#6418
+{YGhostly Corridor{x~
+{yThe odour of decay weighs heavily in the air as time only further angers
+the spirits within these walls.  A low moaning can be heard throughout this
+corridor coming from the restless ghosts.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6417
+D3
+~
+~
+0 0 6419
+S
+#6419
+{YGhostly Corridor{x~
+{yThe odour of decay weighs heavily in the air as time only further angers
+the spirits within these walls.  A low moaning can be heard throughout this
+corridor coming from the restless ghosts.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6418
+D3
+~
+~
+1 0 1179
+S
+#6420
+{RBone Hallway{x~
+{rThe hallway is littered with bones of fallen warriors, wizards, kings and
+commoners.  Death plays no favorites and undead rulers are equal
+opportunists.  The smell of death seems inescapable.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6421
+D3
+~
+~
+1 0 6406
+S
+#6421
+{RBone Hallway{x~
+{rThe hallway is littered with bones of fallen warriors, wizards, kings and
+commoners.  Death plays no favorites and undead rulers are equal
+opportunists.  The smell of death seems inescapable.  {x 
+~
+0 9 0
+D0
+~
+~
+1 0 6466
+D1
+~
+~
+0 0 6422
+D3
+~
+~
+0 0 6420
+S
+#6422
+{RBone Hallway{x~
+{rThe hallway is littered with bones of fallen warriors, wizards, kings and
+commoners.  Death plays no favorites and undead rulers are equal
+opportunists.  The smell of death seems inescapable.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6423
+D2
+~
+~
+1 0 6475
+D3
+~
+~
+0 0 6421
+S
+#6423
+{RBone Hallway{x~
+{rThe hallway is littered with bones of fallen warriors, wizards, kings and
+commoners.  Death plays no favorites and undead rulers are equal
+opportunists.  The smell of death seems inescapable.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6424
+D3
+~
+~
+0 0 6422
+S
+#6424
+{RBone Hallway{x~
+{rThe hallway is littered with bones of fallen warriors, wizards, kings and
+commoners.  Death plays no favorites and undead rulers are equal
+opportunists.  The smell of death seems inescapable.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6425
+D3
+~
+~
+0 0 6423
+S
+#6425
+{RBone Hallway{x~
+{rThe hallway is littered with bones of fallen warriors, wizards, kings and
+commoners.  Death plays no favorites and undead rulers are equal
+opportunists.  The smell of death seems inescapable.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6426
+D3
+~
+~
+0 0 6424
+S
+#6426
+{RBone Hallway{x~
+{rThe hallway is littered with bones of fallen warriors, wizards, kings and
+commoners.  Death plays no favorites and undead rulers are equal
+opportunists.  The smell of death seems inescapable.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6427
+D2
+~
+~
+1 0 6492
+D3
+~
+~
+0 0 6425
+S
+#6427
+{RBone Hallway{x~
+{rThe hallway is littered with bones of fallen warriors, wizards, kings and
+commoners.  Death plays no favorites and undead rulers are equal
+opportunists.  The smell of death seems inescapable.  {x 
+~
+0 9 0
+D0
+~
+~
+1 0 6484
+D1
+~
+~
+0 0 6428
+D3
+~
+~
+0 0 6426
+S
+#6428
+{RBone Hallway{x~
+{rThe hallway is littered with bones of fallen warriors, wizards, kings and
+commoners.  Death plays no favorites and undead rulers are equal
+opportunists.  The smell of death seems inescapable.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6429
+D3
+~
+~
+0 0 6427
+S
+#6429
+{RBone Hallway{x~
+{rThe hallway is littered with bones of fallen warriors, wizards, kings and
+commoners.  Death plays no favorites and undead rulers are equal
+opportunists.  The smell of death seems inescapable.  {x 
+~
+0 9 0
+D3
+~
+~
+0 0 6428
+S
+#6430
+{BLiches Lair{x~
+{bCoffins are aligned neatly in this area, but there are some that have
+lids removed and missing occupants.  An unnerving hissing sound can be heard
+coming from every dark corner imaginable.  {x 
+~
+0 9 0
+D0
+~
+~
+1 0 6417
+D2
+~
+~
+0 0 6431
+S
+#6431
+{BLiches Lair{x~
+{bCoffins are aligned neatly in this area, but there are some that have
+lids removed and missing occupants.  An unnerving hissing sound can be heard
+coming from every dark corner imaginable.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6430
+D1
+~
+~
+0 0 6432
+S
+#6432
+{BLiches Lair{x~
+{bCoffins are aligned neatly in this area, but there are some that have
+lids removed and missing occupants.  An unnerving hissing sound can be heard
+coming from every dark corner imaginable.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6433
+D2
+~
+~
+0 0 6434
+D3
+~
+~
+0 0 6431
+S
+#6433
+{BLiches Lair{x~
+{bCoffins are aligned neatly in this area, but there are some that have
+lids removed and missing occupants.  An unnerving hissing sound can be heard
+coming from every dark corner imaginable.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6435
+D3
+~
+~
+0 0 6432
+S
+#6434
+{BLiches Lair{x~
+{bCoffins are aligned neatly in this area, but there are some that have
+lids removed and missing occupants.  An unnerving hissing sound can be heard
+coming from every dark corner imaginable.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6432
+D1
+~
+~
+0 0 6435
+S
+#6435
+{BLiches Lair{x~
+{bCoffins are aligned neatly in this area, but there are some that have
+lids removed and missing occupants.  An unnerving hissing sound can be heard
+coming from every dark corner imaginable.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6433
+D1
+~
+~
+0 0 6436
+D3
+~
+~
+0 0 6434
+S
+#6436
+{BLiches Lair{x~
+{bCoffins are aligned neatly in this area, but there are some that have
+lids removed and missing occupants.  An unnerving hissing sound can be heard
+coming from every dark corner imaginable.  {x 
+~
+0 9 0
+D3
+~
+~
+0 0 6435
+D5
+~
+~
+1 0 6437
+S
+#6437
+{BLiches Lair{x~
+{bCoffins are aligned neatly in this area, but there are some that have
+lids removed and missing occupants.  An unnerving hissing sound can be heard
+coming from every dark corner imaginable.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6438
+D4
+~
+~
+1 0 6436
+S
+#6438
+{BLiches Lair{x~
+{bCoffins are aligned neatly in this area, but there are some that have
+lids removed and missing occupants.  An unnerving hissing sound can be heard
+coming from every dark corner imaginable.  {x 
+~
+0 9 0
+D3
+~
+~
+0 0 6437
+S
+#6439
+{MVampire's Den{x~
+{mCoffins are scattered throughout the area, some occupied, some vacant. 
+Water drips from the cieling, and there is a damp chill in the air.  There
+is an unnerving stench lingering, as time eats away at the bodies laid to
+rest.  {x 
+~
+0 9 0
+D0
+~
+~
+1 0 6411
+D2
+~
+~
+0 0 6440
+S
+#6440
+{MVampire's Den{x~
+{mCoffins are scattered throughout the area, some occupied, some vacant. 
+Water drips from the cieling, and there is a damp chill in the air.  There
+is an unnerving stench lingering, as time eats away at the bodies laid to
+rest.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6439
+D2
+~
+~
+0 0 6441
+S
+#6441
+{MVampire's Den{x~
+{mCoffins are scattered throughout the area, some occupied, some vacant. 
+Water drips from the cieling, and there is a damp chill in the air.  There
+is an unnerving stench lingering, as time eats away at the bodies laid to
+rest.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6440
+D1
+~
+~
+0 0 6442
+S
+#6442
+{MVampire's Den{x~
+{mCoffins are scattered throughout the area, some occupied, some vacant. 
+Water drips from the cieling, and there is a damp chill in the air.  There
+is an unnerving stench lingering, as time eats away at the bodies laid to
+rest.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6443
+D3
+~
+~
+0 0 6441
+S
+#6443
+{MVampire's Den{x~
+{mCoffins are scattered throughout the area, some occupied, some vacant. 
+Water drips from the cieling, and there is a damp chill in the air.  There
+is an unnerving stench lingering, as time eats away at the bodies laid to
+rest.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6442
+D2
+~
+~
+0 0 6444
+S
+#6444
+{MVampire's Den{x~
+{mCoffins are scattered throughout the area, some occupied, some vacant. 
+Water drips from the cieling, and there is a damp chill in the air.  There
+is an unnerving stench lingering, as time eats away at the bodies laid to
+rest.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6443
+D5
+~
+~
+1 0 6445
+S
+#6445
+{MVampire's Den{x~
+{mCoffins are scattered throughout the area, some occupied, some vacant. 
+Water drips from the cieling, and there is a damp chill in the air.  There
+is an unnerving stench lingering, as time eats away at the bodies laid to
+rest.  {x 
+~
+0 9 0
+D3
+~
+~
+0 0 6446
+D4
+~
+~
+1 0 6444
+S
+#6446
+{MVampire's Den{x~
+{mCoffins are scattered throughout the area, some occupied, some vacant. 
+Water drips from the cieling, and there is a damp chill in the air.  There
+is an unnerving stench lingering, as time eats away at the bodies laid to
+rest.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6445
+D2
+~
+~
+0 0 6447
+S
+#6447
+{MVampire's Den{x~
+{mCoffins are scattered throughout the area, some occupied, some vacant. 
+Water drips from the cieling, and there is a damp chill in the air.  There
+is an unnerving stench lingering, as time eats away at the bodies laid to
+rest.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6446
+S
+#6448
+{CSpectral Grounds{x~
+{cTransparent, flying beings haunt the grounds here as they offer their
+bone chilling wails to visitors.  The smell of decay is overpowering as is
+the sorrow felt by its inhabitants.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6449
+D2
+~
+~
+1 0 6416
+S
+#6449
+{CSpectral Grounds{x~
+{cTransparent, flying beings haunt the grounds here as they offer their
+bone chilling wails to visitors.  The smell of decay is overpowering as is
+the sorrow felt by its inhabitants.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6450
+D2
+~
+~
+0 0 6448
+S
+#6450
+{CSpectral Grounds{x~
+{cTransparent, flying beings haunt the grounds here as they offer their
+bone chilling wails to visitors.  The smell of decay is overpowering as is
+the sorrow felt by its inhabitants.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6451
+D2
+~
+~
+0 0 6449
+D3
+~
+~
+0 0 6455
+S
+#6451
+{CSpectral Grounds{x~
+{cTransparent, flying beings haunt the grounds here as they offer their
+bone chilling wails to visitors.  The smell of decay is overpowering as is
+the sorrow felt by its inhabitants.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6452
+D2
+~
+~
+0 0 6450
+D3
+~
+~
+0 0 6454
+S
+#6452
+{CSpectral Grounds{x~
+{cTransparent, flying beings haunt the grounds here as they offer their
+bone chilling wails to visitors.  The smell of decay is overpowering as is
+the sorrow felt by its inhabitants.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6451
+D3
+~
+~
+0 0 6453
+S
+#6453
+{CSpectral Grounds{x~
+{cTransparent, flying beings haunt the grounds here as they offer their
+bone chilling wails to visitors.  The smell of decay is overpowering as is
+the sorrow felt by its inhabitants.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6452
+D2
+~
+~
+0 0 6454
+S
+#6454
+{CSpectral Grounds{x~
+{cTransparent, flying beings haunt the grounds here as they offer their
+bone chilling wails to visitors.  The smell of decay is overpowering as is
+the sorrow felt by its inhabitants.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6453
+D1
+~
+~
+0 0 6451
+D2
+~
+~
+0 0 6455
+D5
+~
+~
+1 0 6456
+S
+#6455
+{CSpectral Grounds{x~
+{cTransparent, flying beings haunt the grounds here as they offer their
+bone chilling wails to visitors.  The smell of decay is overpowering as is
+the sorrow felt by its inhabitants.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6454
+D1
+~
+~
+0 0 6450
+S
+#6456
+{CSpectral Grounds{x~
+{cTransparent, flying beings haunt the grounds here as they offer their
+bone chilling wails to visitors.  The smell of decay is overpowering as is
+the sorrow felt by its inhabitants.  {x 
+~
+0 9 0
+D4
+~
+~
+1 0 6454
+S
+#6457
+{GWight's Walk{x~
+{gThere is a cold, damp chill that sinks through every layer of clothing,
+reaching straight into bones.  Spirits that have found no rest haunt this
+area, trying to inflict pain on the world that offered it to them.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6458
+D2
+~
+~
+1 0 6413
+S
+#6458
+{GWight's Walk{x~
+{gThere is a cold, damp chill that sinks through every layer of clothing,
+reaching straight into bones.  Spirits that have found no rest haunt this
+area, trying to inflict pain on the world that offered it to them.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6459
+D2
+~
+~
+0 0 6457
+S
+#6459
+{GWight's Walk{x~
+{gThere is a cold, damp chill that sinks through every layer of clothing,
+reaching straight into bones.  Spirits that have found no rest haunt this
+area, trying to inflict pain on the world that offered it to them.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6460
+D2
+~
+~
+0 0 6458
+S
+#6460
+{GWight's Walk{x~
+{gThere is a cold, damp chill that sinks through every layer of clothing,
+reaching straight into bones.  Spirits that have found no rest haunt this
+area, trying to inflict pain on the world that offered it to them.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6461
+D2
+~
+~
+0 0 6459
+S
+#6461
+{GWight's Walk{x~
+{gThere is a cold, damp chill that sinks through every layer of clothing,
+reaching straight into bones.  Spirits that have found no rest haunt this
+area, trying to inflict pain on the world that offered it to them.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6462
+D2
+~
+~
+0 0 6460
+S
+#6462
+{GWight's Walk{x~
+{gThere is a cold, damp chill that sinks through every layer of clothing,
+reaching straight into bones.  Spirits that have found no rest haunt this
+area, trying to inflict pain on the world that offered it to them.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6463
+D3
+~
+~
+0 0 6461
+S
+#6463
+{GWight's Walk{x~
+{gThere is a cold, damp chill that sinks through every layer of clothing,
+reaching straight into bones.  Spirits that have found no rest haunt this
+area, trying to inflict pain on the world that offered it to them.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6464
+D3
+~
+~
+0 0 6462
+S
+#6464
+{GWight's Walk{x~
+{gThere is a cold, damp chill that sinks through every layer of clothing,
+reaching straight into bones.  Spirits that have found no rest haunt this
+area, trying to inflict pain on the world that offered it to them.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6463
+D2
+~
+~
+0 0 6465
+S
+#6465
+{GWight's Walk{x~
+{gThere is a cold, damp chill that sinks through every layer of clothing,
+reaching straight into bones.  Spirits that have found no rest haunt this
+area, trying to inflict pain on the world that offered it to them.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6464
+S
+#6466
+{YWraith's Haunt{x~
+{yTorchlight barely permeates the blackness in the area.  Dim lightforms
+can be seen flying through the air and be heard either moaning or screaming.
+Though the rotting bodies can not be seen, they can be smelled.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6467
+D2
+~
+~
+1 0 6421
+S
+#6467
+{YWraith's Haunt{x~
+{yTorchlight barely permeates the blackness in the area.  Dim lightforms
+can be seen flying through the air and be heard either moaning or screaming.
+Though the rotting bodies can not be seen, they can be smelled.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6468
+D2
+~
+~
+0 0 6466
+S
+#6468
+{YWraith's Haunt{x~
+{yTorchlight barely permeates the blackness in the area.  Dim lightforms
+can be seen flying through the air and be heard either moaning or screaming.
+Though the rotting bodies can not be seen, they can be smelled.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6469
+D2
+~
+~
+0 0 6467
+S
+#6469
+{YWraith's Haunt{x~
+{yTorchlight barely permeates the blackness in the area.  Dim lightforms
+can be seen flying through the air and be heard either moaning or screaming.
+Though the rotting bodies can not be seen, they can be smelled.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6468
+D5
+~
+~
+1 0 6470
+S
+#6470
+{YWraith's Haunt{x~
+{yTorchlight barely permeates the blackness in the area.  Dim lightforms
+can be seen flying through the air and be heard either moaning or screaming.
+Though the rotting bodies can not be seen, they can be smelled.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6471
+D4
+~
+~
+1 0 6469
+S
+#6471
+{YWraith's Haunt{x~
+{yTorchlight barely permeates the blackness in the area.  Dim lightforms
+can be seen flying through the air and be heard either moaning or screaming.
+Though the rotting bodies can not be seen, they can be smelled.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6472
+D2
+~
+~
+0 0 6470
+S
+#6472
+{YWraith's Haunt{x~
+{yTorchlight barely permeates the blackness in the area.  Dim lightforms
+can be seen flying through the air and be heard either moaning or screaming.
+Though the rotting bodies can not be seen, they can be smelled.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6471
+D4
+~
+~
+1 0 6473
+S
+#6473
+{YWraith's Haunt{x~
+{yTorchlight barely permeates the blackness in the area.  Dim lightforms
+can be seen flying through the air and be heard either moaning or screaming.
+Though the rotting bodies can not be seen, they can be smelled.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6474
+D5
+~
+~
+1 0 6472
+S
+#6474
+{YWraith's Haunt{x~
+{yTorchlight barely permeates the blackness in the area.  Dim lightforms
+can be seen flying through the air and be heard either moaning or screaming.
+Though the rotting bodies can not be seen, they can be smelled.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6473
+S
+#6475
+{MZombie Zone{x~
+{mThe stench in here is nearly vomit inducing.  There are half consumed
+bodies all over the place in addition to plenty of empty graves.  {x 
+~
+0 9 0
+D0
+~
+~
+1 0 6422
+D1
+~
+~
+0 0 6476
+D2
+~
+~
+0 0 6477
+S
+#6476
+{MZombie Zone{x~
+{mThe stench in here is nearly vomit inducing.  There are half consumed
+bodies all over the place in addition to plenty of empty graves.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6478
+D3
+~
+~
+0 0 6475
+S
+#6477
+{MZombie Zone{x~
+{mThe stench in here is nearly vomit inducing.  There are half consumed
+bodies all over the place in addition to plenty of empty graves.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6475
+D2
+~
+~
+0 0 6479
+S
+#6478
+{MZombie Zone{x~
+{mThe stench in here is nearly vomit inducing.  There are half consumed
+bodies all over the place in addition to plenty of empty graves.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6476
+D2
+~
+~
+0 0 6480
+D3
+~
+~
+0 0 6477
+S
+#6479
+{MZombie Zone{x~
+{mThe stench in here is nearly vomit inducing.  There are half consumed
+bodies all over the place in addition to plenty of empty graves.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6477
+D1
+~
+~
+0 0 6480
+D5
+~
+~
+1 0 6481
+S
+#6480
+{MZombie Zone{x~
+{mThe stench in here is nearly vomit inducing.  There are half consumed
+bodies all over the place in addition to plenty of empty graves.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6478
+D3
+~
+~
+0 0 6479
+S
+#6481
+{MZombie Zone{x~
+{mThe stench in here is nearly vomit inducing.  There are half consumed
+bodies all over the place in addition to plenty of empty graves.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6482
+D4
+~
+~
+1 0 6479
+S
+#6482
+{MZombie Zone{x~
+{mThe stench in here is nearly vomit inducing.  There are half consumed
+bodies all over the place in addition to plenty of empty graves.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6481
+D2
+~
+~
+0 0 6483
+S
+#6483
+{MZombie Zone{x~
+{mThe stench in here is nearly vomit inducing.  There are half consumed
+bodies all over the place in addition to plenty of empty graves.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6482
+S
+#6484
+{BMummy Room{x~
+{bThere is a tremendous stench lingering in the air.  Empty tombs are
+scattered around the area as well as pieces of bandages.  The undead rule
+this place, forever serving the darkness.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6485
+D2
+~
+~
+1 0 6427
+S
+#6485
+{BMummy Room{x~
+{bThere is a tremendous stench lingering in the air.  Empty tombs are
+scattered around the area as well as pieces of bandages.  The undead rule
+this place, forever serving the darkness.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6486
+D2
+~
+~
+0 0 6484
+S
+#6486
+{BMummy Room{x~
+{bThere is a tremendous stench lingering in the air.  Empty tombs are
+scattered around the area as well as pieces of bandages.  The undead rule
+this place, forever serving the darkness.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6485
+D5
+~
+~
+1 0 6487
+S
+#6487
+{BMummy Room{x~
+{bThere is a tremendous stench lingering in the air.  Empty tombs are
+scattered around the area as well as pieces of bandages.  The undead rule
+this place, forever serving the darkness.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6488
+D4
+~
+~
+1 0 6486
+S
+#6488
+{BMummy Room{x~
+{bThere is a tremendous stench lingering in the air.  Empty tombs are
+scattered around the area as well as pieces of bandages.  The undead rule
+this place, forever serving the darkness.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6489
+D2
+~
+~
+0 0 6487
+S
+#6489
+{BMummy Room{x~
+{bThere is a tremendous stench lingering in the air.  Empty tombs are
+scattered around the area as well as pieces of bandages.  The undead rule
+this place, forever serving the darkness.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6490
+D2
+~
+~
+0 0 6488
+S
+#6490
+{BMummy Room{x~
+{bThere is a tremendous stench lingering in the air.  Empty tombs are
+scattered around the area as well as pieces of bandages.  The undead rule
+this place, forever serving the darkness.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6489
+D3
+~
+~
+0 0 6491
+S
+#6491
+{BMummy Room{x~
+{bThere is a tremendous stench lingering in the air.  Empty tombs are
+scattered around the area as well as pieces of bandages.  The undead rule
+this place, forever serving the darkness.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6490
+S
+#6492
+{DGhastly Area{x~
+{dMoaning and shrieking can be heard from everywhere.  Just as unbearable
+is the smell of human decay that seems inescapable.  {x 
+~
+0 9 0
+D0
+~
+~
+1 0 6426
+D2
+~
+~
+0 0 6493
+S
+#6493
+{DGhastly Area{x~
+{dMoaning and shrieking can be heard from everywhere.  Just as unbearable
+is the smell of human decay that seems inescapable.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6492
+D2
+~
+~
+0 0 6494
+S
+#6494
+{DGhastly Area{x~
+{dMoaning and shrieking can be heard from everywhere.  Just as unbearable
+is the smell of human decay that seems inescapable.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6493
+D2
+~
+~
+0 0 6495
+D5
+~
+~
+1 0 6496
+S
+#6495
+{DGhastly Area{x~
+{dMoaning and shrieking can be heard from everywhere.  Just as unbearable
+is the smell of human decay that seems inescapable.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6494
+S
+#6496
+{DGhastly Area{x~
+{dMoaning and shrieking can be heard from everywhere.  Just as unbearable
+is the smell of human decay that seems inescapable.  {x 
+~
+0 9 0
+D1
+~
+~
+0 0 6497
+D4
+~
+~
+1 0 6494
+S
+#6497
+{DGhastly Area{x~
+{dMoaning and shrieking can be heard from everywhere.  Just as unbearable
+is the smell of human decay that seems inescapable.  {x 
+~
+0 9 0
+D3
+~
+~
+0 0 6496
+D5
+~
+~
+1 0 6498
+S
+#6498
+{DGhastly Area{x~
+{dMoaning and shrieking can be heard from everywhere.  Just as unbearable
+is the smell of human decay that seems inescapable.  {x 
+~
+0 9 0
+D2
+~
+~
+0 0 6499
+D4
+~
+~
+1 0 6497
+S
+#6499
+{DGhastly Area{x~
+{dMoaning and shrieking can be heard from everywhere.  Just as unbearable
+is the smell of human decay that seems inescapable.  {x 
+~
+0 9 0
+D0
+~
+~
+0 0 6498
+S
+#0
+
+
+
+#SPECIALS
+M 6408 spec_cast_cleric
+M 6409 spec_cast_mage
+M 6410 spec_nasty
+M 6411 spec_impale
+M 6413 spec_impale
+M 6426 spec_cast_mage
+M 6430 spec_cast_mage
+M 6434 spec_cast_mage
+M 6445 spec_circle
+M 6462 spec_cast_mage
+M 6472 spec_cast_mage
+M 6479 spec_cast_mage
+M 6480 spec_cast_mage
+M 6481 spec_cast_mage
+M 6482 spec_circle
+M 6486 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 6403 3 1
+D 0 6406 1 1
+D 0 6410 1 1
+D 0 6411 2 1
+D 0 6413 0 1
+D 0 6416 0 1
+D 0 6417 2 1
+D 0 6419 3 1
+D 0 6420 3 1
+D 0 6421 0 1
+D 0 6422 2 1
+D 0 6426 2 1
+D 0 6427 0 1
+D 0 6430 0 1
+D 0 6436 5 1
+D 0 6437 4 1
+D 0 6439 0 1
+D 0 6444 5 1
+D 0 6445 4 1
+D 0 6448 2 1
+D 0 6454 5 1
+D 0 6456 4 1
+D 0 6457 2 1
+D 0 6466 2 1
+D 0 6469 5 1
+D 0 6470 4 1
+D 0 6472 4 1
+D 0 6473 5 1
+D 0 6475 0 1
+D 0 6479 5 1
+D 0 6481 4 1
+D 0 6484 2 1
+D 0 6486 5 1
+D 0 6487 4 1
+D 0 6492 0 1
+D 0 6494 5 1
+D 0 6496 4 1
+D 0 6497 5 1
+D 0 6498 4 1
+M 0 6400 2 6400 2
+M 0 6400 2 6400 2
+M 0 6401 2 6401 2
+M 0 6401 2 6401 2
+M 0 6402 2 6402 2
+M 0 6402 2 6402 2
+M 0 6403 2 6403 2
+M 0 6403 2 6403 2
+M 0 6404 2 6404 2
+M 0 6404 2 6404 2
+M 0 6405 1 6405 1
+E 0 6402 0 27
+E 0 6401 0 28
+E 0 6400 0 16
+M 0 6406 1 6406 1
+E 0 6404 0 26
+E 0 6403 0 0
+M 0 6407 1 6407 1
+E 0 6406 0 3
+E 0 6405 0 1
+M 0 6408 1 6408 1
+E 0 6408 0 5
+E 0 6407 0 23
+M 0 6409 2 6410 2
+M 0 6409 2 6410 2
+M 0 6410 2 6411 2
+M 0 6410 2 6411 2
+M 0 6411 2 6412 2
+M 0 6411 2 6412 2
+M 0 6412 2 6413 2
+M 0 6412 2 6413 2
+M 0 6413 2 6414 2
+M 0 6413 2 6414 2
+M 0 6414 2 6415 2
+M 0 6414 2 6415 2
+M 0 6415 1 6416 1
+E 0 6411 0 6
+E 0 6410 0 1
+E 0 6409 0 16
+M 0 6416 1 6417 1
+E 0 6414 0 18
+E 0 6413 0 14
+E 0 6412 0 0
+M 0 6417 1 6418 1
+E 0 6417 0 8
+E 0 6416 0 9
+E 0 6415 0 16
+M 0 6418 1 6419 1
+E 0 6419 0 12
+E 0 6418 0 3
+M 0 6427 2 6420 2
+M 0 6427 2 6420 2
+M 0 6428 2 6421 2
+M 0 6428 2 6421 2
+M 0 6429 2 6422 2
+M 0 6429 2 6422 2
+M 0 6430 2 6423 2
+M 0 6430 2 6423 2
+M 0 6431 2 6424 2
+M 0 6431 2 6424 2
+M 0 6432 1 6425 1
+E 0 6430 0 17
+E 0 6429 0 13
+M 0 6433 1 6426 1
+E 0 6433 0 20
+E 0 6432 0 14
+E 0 6431 0 16
+M 0 6434 1 6427 1
+E 0 6434 0 21
+E 0 6435 0 18
+M 0 6435 2 6430 2
+M 0 6435 2 6430 2
+M 0 6436 2 6431 2
+M 0 6436 2 6431 2
+M 0 6437 2 6432 2
+M 0 6437 2 6432 2
+M 0 6438 2 6433 2
+M 0 6438 2 6433 2
+M 0 6440 2 6434 2
+M 0 6440 2 6434 2
+M 0 6439 2 6435 2
+M 0 6439 2 6435 2
+M 0 6441 1 6436 1
+E 0 6438 0 0
+E 0 6437 0 27
+E 0 6436 0 16
+M 0 6442 1 6436 1
+E 0 6441 0 6
+E 0 6440 0 5
+E 0 6439 0 3
+M 0 6443 1 6437 1
+E 0 6444 0 9
+E 0 6443 0 8
+E 0 6442 0 16
+M 0 6444 1 6438 1
+E 0 6447 0 17
+E 0 6446 0 21
+E 0 6445 0 12
+M 0 6445 2 6439 2
+M 0 6445 2 6439 2
+M 0 6446 2 6440 2
+M 0 6446 2 6440 2
+M 0 6447 2 6441 2
+M 0 6447 2 6441 2
+M 0 6448 2 6442 2
+M 0 6448 2 6442 2
+M 0 6449 2 6443 2
+M 0 6449 2 6443 2
+M 0 6450 2 6444 2
+M 0 6450 2 6444 2
+M 0 6451 1 6445 1
+E 0 6449 0 5
+E 0 6448 0 23
+M 0 6452 1 6446 1
+E 0 6452 0 11
+E 0 6451 0 10
+E 0 6450 0 16
+M 0 6453 1 6447 1
+E 0 6455 0 21
+E 0 6454 0 13
+M 0 6419 2 6448 2
+M 0 6419 2 6448 2
+M 0 6420 2 6449 2
+M 0 6420 2 6449 2
+M 0 6421 2 6450 2
+M 0 6421 2 6450 2
+M 0 6422 2 6451 2
+M 0 6422 2 6451 2
+M 0 6425 1 6453 1
+E 0 6425 0 9
+E 0 6424 0 8
+E 0 6423 0 16
+M 0 6423 2 6454 2
+M 0 6423 2 6454 2
+M 0 6424 1 6455 1
+E 0 6422 0 7
+E 0 6421 0 6
+E 0 6420 0 16
+M 0 6426 1 6456 1
+E 0 6428 0 12
+E 0 6427 0 10
+E 0 6426 0 11
+M 0 6454 2 6457 2
+M 0 6455 2 6458 2
+M 0 6455 2 6458 2
+M 0 6456 2 6459 2
+M 0 6456 2 6459 2
+M 0 6457 2 6460 2
+M 0 6457 2 6460 2
+M 0 6458 2 6461 2
+M 0 6458 2 6461 2
+M 0 6459 2 6462 2
+M 0 6459 2 6462 2
+M 0 6460 1 6463 1
+E 0 6457 0 26
+E 0 6456 0 28
+E 0 6453 0 16
+M 0 6461 1 6464 1
+E 0 6460 0 0
+E 0 6459 0 20
+E 0 6458 0 14
+M 0 6462 1 6465 1
+E 0 6463 0 17
+E 0 6462 0 1
+E 0 6461 0 16
+M 0 6463 1 6465 1
+E 0 6466 0 18
+E 0 6465 0 21
+E 0 6464 0 27
+M 0 6464 2 6466 2
+M 0 6465 2 6467 2
+M 0 6465 2 6467 2
+M 0 6466 2 6468 2
+M 0 6466 2 6468 2
+M 0 6467 2 6469 2
+M 0 6467 2 6469 2
+M 0 6468 2 6470 2
+M 0 6468 2 6470 2
+M 0 6469 1 6471 1
+E 0 6469 0 6
+E 0 6468 0 23
+E 0 6467 0 16
+M 0 6470 1 6472 1
+E 0 6471 0 13
+E 0 6470 0 8
+M 0 6471 1 6473 1
+E 0 6474 0 20
+E 0 6473 0 7
+E 0 6472 0 16
+M 0 6472 1 6474 1
+E 0 6476 0 18
+E 0 6475 0 23
+M 0 6473 2 6475 2
+M 0 6473 2 6475 2
+M 0 6474 2 6476 2
+M 0 6474 2 6476 2
+M 0 6476 2 6477 2
+M 0 6476 2 6477 2
+M 0 6475 2 6478 2
+M 0 6475 2 6478 2
+M 0 6478 1 6479 1
+E 0 6478 0 26
+E 0 6477 0 16
+M 0 6477 2 6480 2
+M 0 6477 2 6480 2
+M 0 6479 1 6481 1
+E 0 6480 0 14
+E 0 6479 0 28
+M 0 6480 1 6482 1
+E 0 6482 0 1
+E 0 6481 0 11
+M 0 6481 1 6483 1
+E 0 6484 0 9
+E 0 6483 0 13
+M 0 6482 2 6484 2
+M 0 6482 2 6484 2
+M 0 6483 2 6485 2
+M 0 6483 2 6485 2
+M 0 6484 2 6486 2
+M 0 6484 2 6486 2
+M 0 6485 2 6487 2
+M 0 6485 2 6487 2
+M 0 6486 2 6488 2
+M 0 6486 2 6488 2
+M 0 6487 1 6489 1
+E 0 6486 0 7
+E 0 6485 0 27
+M 0 6488 1 6490 1
+E 0 6489 0 26
+E 0 6488 0 17
+E 0 6487 0 16
+M 0 6489 1 6491 1
+E 0 6491 0 28
+E 0 6490 0 20
+M 0 6491 2 6492 2
+M 0 6491 2 6492 2
+M 0 6490 2 6492 2
+M 0 6490 2 6492 2
+M 0 6493 2 6493 2
+M 0 6493 2 6493 2
+M 0 6492 2 6493 2
+M 0 6492 2 6493 2
+M 0 6494 2 6494 2
+M 0 6494 2 6494 2
+M 0 6495 2 6495 2
+M 0 6495 2 6495 2
+M 0 6496 1 6496 1
+E 0 6493 0 12
+E 0 6492 0 16
+M 0 6497 1 6497 1
+E 0 6495 0 9
+E 0 6494 0 5
+M 0 6498 1 6498 1
+E 0 6497 0 10
+E 0 6496 0 3
+M 0 6499 1 6499 1
+E 0 6499 0 11
+E 0 6498 0 7
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

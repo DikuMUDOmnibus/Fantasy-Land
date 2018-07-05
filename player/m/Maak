@@ -1,0 +1,922 @@
+#PLAYER
+Name Maak~
+Race human~
+Levl 35
+Clas warrior~
+Pkpt 100
+TSex 1
+LogO 1353187412
+Sock S0106002511e9b741.vf.shawcable.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1353049912
+Plat 1
+Gold 3
+Silv 49
+Exp  59374
+Attr 20 18 18 18 18
+Prom (%e){1<{@%hh %mm %vv{1> {1[{@%q{1]{x ~
+Act  BCDEFGHJQRT
+AfBy CDEFGHLTUVZce
+ShBy BCDEFGIJKLR
+Comm N
+Pos  8
+Alig  -474
+Sk 1 'axe'
+Sk 75 'bash'
+Sk 1 'berserk'
+Sk 1 'dagger'
+Sk 1 'disarm'
+Sk 77 'enhanced damage'
+Sk 1 'flail'
+Sk 1 'fourth attack'
+Sk 80 'kick'
+Sk 1 'lore'
+Sk 1 'mace'
+Sk 1 'parry'
+Sk 1 'polearm'
+Sk 1 'quarterstaff'
+Sk 75 'recall'
+Sk 1 'rescue'
+Sk 77 'roundhouse'
+Sk 1 'scrolls'
+Sk 76 'second attack'
+Sk 1 'shield block'
+Sk 1 'spear'
+Sk 1 'staves'
+Sk 76 'sword'
+Sk 1 'third attack'
+Sk 1 'wands'
+Sk 1 'whip'
+MaxDam 75
+LLev 0
+Pass MaPsux2qyrbd.~
+Plyd 4963
+Note 0 0 0 0 0
+Room 3365
+HMVN 2475 2450 1460 1435 1178 1178
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 0 0
+Deviant 0 0
+Prac 155
+Trai 67
+Devote current 0
+Pnts 42
+Mkil 62
+TotalAttm 2
+TotalFail 2
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Gr 'weaponsmaster'
+Affc 'watershield'   1 110   0   4   0   0     131072
+Affc 'vampiricshield'   1 106   0   4   0   0        512
+Affc 'thornshield'   1 110   0   4   0   0        256
+Affc 'stone skin'   0 114   0  33 -115  17          0
+Affc 'shrapnelshield'   1 114   0   4   0   0         64
+Affc 'shockshield'   1 109   0   4   0   0         16
+Affc 'shield'   0 111   0   4 -38  17          0
+Affc 'rockshield'   1 110   0   4   0   0         32
+Affc 'regeneration'   0 109   0   4   0   0  268435456
+Affc 'pass door'   0 112   0   4   0   0    1048576
+Affc 'invisibility'   1 112   0  33   0   0          2
+Affc 'iceshield'   1 112   0   4   0   0          4
+Affc 'haste'   0 112   0  33   3   2    2097152
+Affc 'giant strength'   0 108   0  33   3   1 1073741824
+Affc 'frenzy'   0 109   0  14  90  17          0
+Affc 'frenzy'   0 110   0  14  38  19          0
+Affc 'frenzy'   0 109   0  14  38  18          0
+Affc 'fly'   0 113   0  94   0   0     524288
+Affc 'fireshield'   1 109   0   4   0   0          8
+Affc 'divine aura'   1 111   0  38   0   0       1024
+Affc 'detect neutral'   0 109   0  33   0   0        128
+Affc 'detect magic'   0 108   0  33   0   0         16
+Affc 'detect invis'   0 110   0  33   0   0          8
+Affc 'detect hidden'   0 108   0  33   0   0         32
+Affc 'detect good'   0 112   0  33   0   0         64
+Affc 'detect evil'   0 112   0  33   0   0          4
+Affc 'darkvision'   0 108   0   4   0   0   33554432
+Affc 'bless'   0 110   0  20 -14  20          0
+Affc 'bless'   0 113   0  20  14  18          0
+Affc 'acidshield'   1 112   0   4   0   0       2048
+Affc 'farsight'   0   1   0  -1   0   0       2048
+End
+
+#O
+Vnum 3162
+Nest 0
+Name map new midgaard~
+ShD  A map of New Midgaard~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3163
+Nest 0
+Name map thera~
+ShD  a map of Western Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3169
+Nest 0
+Name map thera~
+ShD  a map of Eastern Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3716
+Nest 0
+Name round oval sphere reddish orange~
+ShD  A Strange Reddish-Orange Sphere~
+Desc A round oval-like sphere glowing reddish-orange is settled here on the ground.~
+Cost 0
+Wear 0
+Valu 2 1 91
+End
+
+#O
+Vnum 3703
+Nest 0
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3702
+Nest 0
+Name sword thothian~
+ShD  A Thothian Sword~
+Desc A long curved sword made from Thoth lies here.~
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3707
+Nest 0
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+End
+
+#O
+Vnum 3707
+Nest 0
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+End
+
+#O
+Vnum 3707
+Nest 0
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+End
+
+#O
+Vnum 3725
+Nest 0
+Name ancient symbol thothian~
+ShD  The symbol of a Thothian Warrior~
+Desc An ancient symbol of a Thothian warrior has been disregarded here.~
+Wear 26
+End
+
+#O
+Vnum 3701
+Nest 0
+Name dagger thothian ~
+ShD  A Thothian Dagger~
+Desc A small dagger made from Thoth lies here.~
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+Wear 3
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+End
+
+#O
+Vnum 3720
+Nest 0
+Name blade thothian flail~
+ShD  A Thothian Flail~
+Desc A long blade with a slight curve at the end lies here.~
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+Wear 25
+End
+
+#O
+Vnum 3720
+Nest 0
+Name blade thothian flail~
+ShD  A Thothian Flail~
+Desc A long blade with a slight curve at the end lies here.~
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+Wear 24
+End
+
+#O
+Vnum 3720
+Nest 0
+Name blade thothian flail~
+ShD  A Thothian Flail~
+Desc A long blade with a slight curve at the end lies here.~
+End
+
+#O
+Vnum 3706
+Nest 0
+Name round thothian helmet~
+ShD  A Thothian Helmet~
+Desc A large round helmet made from Thoth is lying here.~
+Wear 6
+End
+
+#O
+Vnum 3711
+Nest 0
+Name thothian dark cape~
+ShD  A Thothian Cape~
+Desc A long dark cape finely made from Thoth lies here.~
+Wear 12
+End
+
+#O
+Vnum 3726
+Nest 0
+Name earring thothian~
+ShD  A Thothian Earring~
+Desc A crystallized earring shaped in a "T" lies here.~
+Wear 21
+End
+
+#O
+Vnum 3700
+Nest 0
+Name thothian mace~
+ShD  A Thothian Mace~
+Desc A large Thothian mace lies here waiting to crush someone's skull.~
+End
+
+#O
+Vnum 806
+Nest 0
+Name lash normal~
+ShD  lash~
+Desc A lash is here.~
+Loader MPOP: (02:14-11/16/2012) Maak~
+End
+
+#O
+Vnum 3708
+Nest 0
+Name pair leather thothian sandals~
+ShD  A pair of Thothian Sandals~
+Desc A pair of leather sandals made from Thoth lies here.~
+Wear 8
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+Wear 14
+End
+
+#O
+Vnum 3724
+Nest 0
+Name ring thothian ~
+ShD  A Thothian-made Ring~
+Desc A small ring with the engraving "T" is lying here.~
+Wear 1
+End
+
+#O
+Vnum 3719
+Nest 0
+Name thothian axe~
+ShD  A Thothian Axe~
+Desc A long Thothian axe lies here lavished with blood.~
+End
+
+#O
+Vnum 3727
+Nest 0
+Name abandoned mask~
+ShD  An abandoned mask~
+Desc An abandoned mask is lying here eyeless and mouthless.~
+Wear 20
+End
+
+#O
+Vnum 3728
+Nest 0
+Name thothian black eyepatch~
+ShD  A Thothian Eyepatch~
+Desc A thin but long black eyepatch of Thoth lies here.~
+Wear 27
+End
+
+#O
+Vnum 3709
+Nest 0
+Name leather thothian gloves~
+ShD  A pair of Thothian gloves~
+Desc Two leather gloves specially made from Thoth lie here.~
+Wear 9
+End
+
+#O
+Vnum 3710
+Nest 0
+Name pair leather sleeves thothian~
+ShD  A pair of Thothian arm braces~
+Desc A pair of fine-leathered sleeves made from Thoth lie here.~
+Wear 10
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+Wear 15
+End
+
+#O
+Vnum 3715
+Nest 0
+Name diploma school mud~
+ShD  a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x~
+Desc You see a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x here.~
+End
+
+#O
+Vnum 16009
+Nest 0
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+End
+
+#O
+Vnum 16014
+Nest 0
+Name baggy pants~
+ShD  a {rp{Rai{rr {Wo{Df {rb{Ragg{ry p{Rant{rs{x~
+Desc A pair of baggy pants hangs here.~
+End
+
+#O
+Vnum 798
+Nest 0
+Name shortsword normal~
+ShD  shortsword~
+Desc A shortsword is here.~
+Loader MPOP: (02:21-11/16/2012) Maak~
+End
+
+#O
+Vnum 16012
+Nest 0
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+End
+
+#O
+Vnum 16012
+Nest 0
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+End
+
+#O
+Vnum 3802
+Nest 0
+Name garden hoe~
+ShD  a Garden Hoe~
+Desc A small iron hoe is rusted slightly.~
+End
+
+#O
+Vnum 3802
+Nest 0
+Name garden hoe~
+ShD  a Garden Hoe~
+Desc A small iron hoe is rusted slightly.~
+End
+
+#O
+Vnum 2904
+Nest 0
+Name potion of flying~
+ShD  a {gpotion{x of {yflying{x~
+Desc A {gpotion{x of {yflying{x levitates in the air.~
+End
+
+#O
+Vnum 2904
+Nest 0
+Name potion of flying~
+ShD  a {gpotion{x of {yflying{x~
+Desc A {gpotion{x of {yflying{x levitates in the air.~
+End
+
+#O
+Vnum 2904
+Nest 0
+Name potion of flying~
+ShD  a {gpotion{x of {yflying{x~
+Desc A {gpotion{x of {yflying{x levitates in the air.~
+End
+
+#O
+Vnum 3807
+Nest 0
+Name dirk small dagger~
+ShD  a small dirk~
+Desc A small, worn dagger sits here.~
+End
+
+#O
+Vnum 721
+Nest 0
+Name veil normal~
+ShD  veil~
+Desc A veil lies here.~
+Loader MPOP: (02:33-11/16/2012) Maak~
+End
+
+#O
+Vnum 3805
+Nest 0
+Name royal long sword~
+ShD  a Royal Long Sword~
+Desc A long sword used by all the castle guards here in Camelot awaits your command.~
+End
+
+#O
+Vnum 3805
+Nest 0
+Name royal long sword~
+ShD  a Royal Long Sword~
+Desc A long sword used by all the castle guards here in Camelot awaits your command.~
+End
+
+#O
+Vnum 3817
+Nest 0
+Name key~
+ShD  A silver key.~
+Desc A silver key with the crest of King Arthur upon it gleams in the light.~
+End
+
+#O
+Vnum 3805
+Nest 0
+Name royal long sword~
+ShD  a Royal Long Sword~
+Desc A long sword used by all the castle guards here in Camelot awaits your command.~
+End
+
+#O
+Vnum 3805
+Nest 0
+Name royal long sword~
+ShD  a Royal Long Sword~
+Desc A long sword used by all the castle guards here in Camelot awaits your command.~
+End
+
+#O
+Vnum 3840
+Nest 0
+Name broad royal sword~
+ShD  a Royal Broad Sword~
+Desc A beautiful, gleaming steel sword sits here.  There's not even a speck of blood on it...yet.~
+End
+
+#O
+Vnum 3840
+Nest 0
+Name broad royal sword~
+ShD  a Royal Broad Sword~
+Desc A beautiful, gleaming steel sword sits here.  There's not even a speck of blood on it...yet.~
+End
+
+#O
+Vnum 3840
+Nest 0
+Name broad royal sword~
+ShD  a Royal Broad Sword~
+Desc A beautiful, gleaming steel sword sits here.  There's not even a speck of blood on it...yet.~
+End
+
+#O
+Vnum 3840
+Nest 0
+Name broad royal sword~
+ShD  a Royal Broad Sword~
+Desc A beautiful, gleaming steel sword sits here.  There's not even a speck of blood on it...yet.~
+End
+
+#O
+Vnum 3842
+Nest 0
+Name lance~
+ShD  Lancelot's Lance~
+Desc A large, finely crafted lance gleams here.  The weapon has the sharpest point imaginable, being created by the best blacksmiths in the land. 
+adamanite.~
+End
+
+#O
+Vnum 3841
+Nest 0
+Name holy grail~
+ShD  The Holy Grail~
+Desc A small wooden chalice sits here.~
+End
+
+#O
+Vnum 3860
+Nest 0
+Name bastard royal sword~
+ShD  a Royal Bastard Sword~
+Desc A large sword of the finest quality.  Only those who are prepared to die for their master are awarded this weapon.  There are two small gems imbedded in the hilt.  The symbol of King Arthur rests near the lower end of the blade.~
+End
+
+#O
+Vnum 3860
+Nest 0
+Name bastard royal sword~
+ShD  a Royal Bastard Sword~
+Desc A large sword of the finest quality.  Only those who are prepared to die for their master are awarded this weapon.  There are two small gems imbedded in the hilt.  The symbol of King Arthur rests near the lower end of the blade.~
+End
+
+#O
+Vnum 3860
+Nest 0
+Name bastard royal sword~
+ShD  a Royal Bastard Sword~
+Desc A large sword of the finest quality.  Only those who are prepared to die for their master are awarded this weapon.  There are two small gems imbedded in the hilt.  The symbol of King Arthur rests near the lower end of the blade.~
+End
+
+#O
+Vnum 3860
+Nest 0
+Name bastard royal sword~
+ShD  a Royal Bastard Sword~
+Desc A large sword of the finest quality.  Only those who are prepared to die for their master are awarded this weapon.  There are two small gems imbedded in the hilt.  The symbol of King Arthur rests near the lower end of the blade.~
+End
+
+#O
+Vnum 3860
+Nest 0
+Name bastard royal sword~
+ShD  a Royal Bastard Sword~
+Desc A large sword of the finest quality.  Only those who are prepared to die for their master are awarded this weapon.  There are two small gems imbedded in the hilt.  The symbol of King Arthur rests near the lower end of the blade.~
+End
+
+#O
+Vnum 3860
+Nest 0
+Name bastard royal sword~
+ShD  a Royal Bastard Sword~
+Desc A large sword of the finest quality.  Only those who are prepared to die for their master are awarded this weapon.  There are two small gems imbedded in the hilt.  The symbol of King Arthur rests near the lower end of the blade.~
+End
+
+#O
+Vnum 3860
+Nest 0
+Name bastard royal sword~
+ShD  a Royal Bastard Sword~
+Desc A large sword of the finest quality.  Only those who are prepared to die for their master are awarded this weapon.  There are two small gems imbedded in the hilt.  The symbol of King Arthur rests near the lower end of the blade.~
+End
+
+#O
+Vnum 3860
+Nest 0
+Name bastard royal sword~
+ShD  a Royal Bastard Sword~
+Desc A large sword of the finest quality.  Only those who are prepared to die for their master are awarded this weapon.  There are two small gems imbedded in the hilt.  The symbol of King Arthur rests near the lower end of the blade.~
+End
+
+#O
+Vnum 3860
+Nest 0
+Name bastard royal sword~
+ShD  a Royal Bastard Sword~
+Desc A large sword of the finest quality.  Only those who are prepared to die for their master are awarded this weapon.  There are two small gems imbedded in the hilt.  The symbol of King Arthur rests near the lower end of the blade.~
+End
+
+#O
+Vnum 3870
+Nest 0
+Name sword excalibur~
+ShD  {xExcalibur~
+Desc An ornate sword littered with beautiful gems sits here.~
+End
+
+#O
+Vnum 3871
+Nest 0
+Name plate chestplate justice~
+ShD  The Plate of Justice~
+Desc A shiny metal chestplate sits here.~
+End
+
+#O
+Vnum 3872
+Nest 0
+Name gloves veracity~
+ShD  The Gloves of Veracity~
+Desc A pair of sleek bronze gloves sits here.~
+End
+
+#O
+Vnum 16012
+Nest 0
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+End
+
+#O
+Vnum 16012
+Nest 0
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+End
+
+#O
+Vnum 16009
+Nest 0
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+End
+
+#O
+Vnum 16027
+Nest 0
+Name jug beer~
+ShD  a {yj{Yu{yg{x of {yb{Yee{yr{x~
+Desc A jug of beer has been carelessly dumped here.~
+End
+
+#O
+Vnum 310
+Nest 0
+Name template scroll~
+ShD  a strange template~
+Desc A strange template made of an exotic green metal is placed here~
+Time 2007
+End
+
+#O
+Vnum 311
+Nest 0
+Name potion clear~
+ShD  a clear potion~
+Desc A clear potion wrapped in leather is unnoticed placed here.~
+Time 904
+End
+
+#O
+Vnum 3013
+Nest 0
+Name beef taco~
+ShD  an overstuffed {rbeef{x, {mbean{x and {ycheese{x hard shell {yt{wac{yo{x~
+Desc A delicious, overstuffed {rbeef{x, {mbean{x and {ycheese{x hard shell {yt{wac{yo{x is here waiting to be gobbled up.~
+End
+
+#O
+Vnum 3013
+Nest 0
+Name beef taco~
+ShD  an overstuffed {rbeef{x, {mbean{x and {ycheese{x hard shell {yt{wac{yo{x~
+Desc A delicious, overstuffed {rbeef{x, {mbean{x and {ycheese{x hard shell {yt{wac{yo{x is here waiting to be gobbled up.~
+End
+
+#O
+Vnum 3013
+Nest 0
+Name beef taco~
+ShD  an overstuffed {rbeef{x, {mbean{x and {ycheese{x hard shell {yt{wac{yo{x~
+Desc A delicious, overstuffed {rbeef{x, {mbean{x and {ycheese{x hard shell {yt{wac{yo{x is here waiting to be gobbled up.~
+End
+
+#O
+Vnum 3013
+Nest 0
+Name beef taco~
+ShD  an overstuffed {rbeef{x, {mbean{x and {ycheese{x hard shell {yt{wac{yo{x~
+Desc A delicious, overstuffed {rbeef{x, {mbean{x and {ycheese{x hard shell {yt{wac{yo{x is here waiting to be gobbled up.~
+End
+
+#O
+Vnum 3013
+Nest 0
+Name beef taco~
+ShD  an overstuffed {rbeef{x, {mbean{x and {ycheese{x hard shell {yt{wac{yo{x~
+Desc A delicious, overstuffed {rbeef{x, {mbean{x and {ycheese{x hard shell {yt{wac{yo{x is here waiting to be gobbled up.~
+End
+
+#O
+Vnum 16012
+Nest 0
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+End
+
+#O
+Vnum 16009
+Nest 0
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+End
+
+#O
+Vnum 16014
+Nest 0
+Name baggy pants~
+ShD  a {rp{Rai{rr {Wo{Df {rb{Ragg{ry p{Rant{rs{x~
+Desc A pair of baggy pants hangs here.~
+End
+
+#O
+Vnum 16027
+Nest 0
+Name jug beer~
+ShD  a {yj{Yu{yg{x of {yb{Yee{yr{x~
+Desc A jug of beer has been carelessly dumped here.~
+End
+
+#O
+Vnum 16007
+Nest 0
+Name ring pearl~
+ShD  a {Dp{Wear{Dl {rr{Rin{rg{x~
+Desc A pearl ring is rolling around on the floor.~
+End
+
+#O
+Vnum 16013
+Nest 0
+Name pegleg peg~
+ShD  a {yp{Yegle{yg{x~
+Desc A short stick is leaning against the wall.~
+End
+
+#O
+Vnum 16044
+Nest 0
+Name mop~
+ShD  a {rb{Rlood{ry {rm{Ro{rp{x~
+Desc A mop has been left here.~
+End
+
+#O
+Vnum 16009
+Nest 0
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+End
+
+#O
+Vnum 16044
+Nest 0
+Name mop~
+ShD  a {rb{Rlood{ry {rm{Ro{rp{x~
+Desc A mop has been left here.~
+End
+
+#O
+Vnum 16009
+Nest 0
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+End
+

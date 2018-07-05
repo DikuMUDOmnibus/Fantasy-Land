@@ -1,0 +1,2135 @@
+#AOD_AREA
+Z: The Temple~
+6700 6799 0 9
+Levl 70 151
+Bldr Staff~
+Alig N
+End
+
+#MOBILES
+#6700
+student training monk~
+a monk student~
+A monk student stands here learning all he can
+~
+This monk is very young and training hard to be enlightened to his
+fullest.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+AB 0 N 0 0
+70 30 0 765 790 514 543 6 6 10 punch
+-200 -200 -200 -200
+STANDING STANDING male 40
+0 mage medium ABCDEFGHIJK
+P 32 0
+
+#6701
+pupil monk student~
+a monk student~
+A young student practices here
+~
+This young man believes with all his heart in the oath.  Every waking
+moment is spent in the pursuit of knowledge.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+AG 0 N 0 0
+70 30 0 812 843 91 113 6 6 10 crush
+-200 -200 -200 -200
+STANDING STANDING male 30
+0 mage medium ABCDEFGHIJK
+P 45 0
+
+#6702
+elder monk master teacher~
+a monk elder~
+An elder stands here training his students.
+~
+This man is middle-aged but very skilled.  He is an elder here and trains
+his students wisely.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+AB 0 N 0 0
+80 45 0 915 941 157 190 6 6 25 wrath
+-250 -250 -250 -250
+STANDING STANDING neutral 65
+0 mage medium ABCDEFGHIJK
+P 18 0
+
+#6703
+elder monk teacher~
+elder monk~
+An elder monk stands here watching over the students
+~
+This man is quite skilled and passes along all his knowledge to those
+that wish to learn.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+AG 0 N 0 0
+80 45 0 908 939 160 195 6 6 25 wrath
+-250 -250 -250 -250
+STANDING STANDING male 55
+0 mage medium ABCDEFGHIJK
+
+#6704
+meditating monk~
+a meditating monk~
+A monk kneels here meditating.
+~
+This monk prayers here trying to meditate and purge himself of evil
+thoughts and actions.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+AB 0 N 0 0
+85 45 0 1110 1140 516 540 7 7 20 none
+-250 -250 -250 -250
+STANDING STANDING male 55
+0 mage medium ABCDEFGHIJK
+P 9 0
+
+#6705
+monk teacher~
+A monk teacher~
+A monk teacher walks around here helping the students learn
+~
+This man is kind and benevolent and attempts to aid his charges in any
+way possible 
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 50 50 100 50 100 100 100 100 100 
+ABT 0 CN 0 0
+90 60 0 1214 1238 1159 1188 7 7 40 crush
+-250 -250 -250 -250
+STANDING STANDING male 98
+0 mage medium ABCDEFGHIJK
+P 23 0
+
+#6706
+elder monk~
+a monk elder~
+An elder monk walks around here checking on the teachers and pupils alike
+~
+An elder monk walks around here making sure everyone is doing as should
+be done.  Among the upper ranks of the church, this man is quite skilled and
+mentall skilled with the best.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 50 100 50 100 100 50 0 100 50 100 100 100 100 100 
+AGT Vc DN 0 0
+100 70 0 2017 2042 2012 2042 7 7 40 punch
+-300 -300 -300 -300
+STANDING STANDING male 103
+0 mage medium ABCDEFGHIJK
+P 16 0
+
+#6708
+crazy old man~
+a crazy old man~
+A crazy old man stands here talking to a bottle on the shelf.
+~
+This man is quite mad, he was put down here to hand out any needed
+supplies and perhaps you are in need..  
+~
+human~
+100 0 0 0 0 100 0 100 100 100 100 0 0 100 100 100 100 0 0 100 0 100 100 100 100 100 
+ABT DFJTc CDEHN 0 0
+100 100 0 5038 5074 531 581 4 4 4 crush
+-100 -100 -100 -100
+STANDING STANDING male 9000
+0 mage medium ABCDEFGHIJK
+M GRALL 6700 100~
+
+#6709
+elderly monk~
+an elderly monk~
+An elderly monk toils about the garden here
+~
+This man is the oldest man you have seen here so far.  His face is kind
+and full of sunlined wrinkles.  His eyes show a spark of deadly intelligence
+and he is most likely quite skilled.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 50 100 50 100 100 100 100 100 
+ABT c N 0 0
+105 85 0 2512 2542 2511 2541 7 7 50 smash
+-300 -300 -300 -300
+STANDING STANDING male 500
+0 mage medium ABCDEFGHIJK
+P 19 0
+
+#6710
+elderly monk~
+an elderly monk~
+An elderly monk putters around the garden here
+~
+This monk is quite old and still very skilled The young students always
+bow respectfully when he approaches and he mearly smiles.  Such kindness is
+unheard of in most places.  
+~
+human~
+100 50 0 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+AGT c EN 0 0
+110 85 0 2515 2540 2012 2043 7 7 50 smash
+-300 -300 -300 -300
+STANDING STANDING male 500
+0 mage medium ABCDEFGHIJK
+P 26 0
+
+#6711
+stern faced master~
+a stern master~
+A stern faced master is here scowling at your intrusion.
+~
+The years have not been kind to this man.  While most of the other
+students and master are kind and generous, this man is stern and
+unflinching.  The oath is all he lives for and you are breaking it by being
+in this closed area.  
+~
+human~
+100 50 0 50 100 100 100 100 100 100 100 100 50 100 150 100 100 50 50 100 50 100 100 100 100 100 
+ABT c DN 0 0
+115 100 0 4200 4897 3996 4949 7 7 80 wrath
+-400 -400 -400 -400
+STANDING STANDING male 450
+0 mage medium ABCDEFGHIJK
+P 19 0
+
+#6712
+stern faced master~
+a stern master~
+A stern master eyes your suspiciously.
+~
+This man is quite angry to see you on the upper floors.  Apparently not
+all of the temple is open to just anyone and he lets you know this quite
+forcefully.  
+~
+human~
+100 50 0 50 100 100 100 100 100 100 100 100 50 100 150 100 100 50 50 100 50 100 100 100 100 100 
+AGT Fc EN 0 0
+115 100 0 3981 4948 4142 4871 7 7 80 wrath
+-400 -400 -400 -400
+STANDING STANDING male 500
+0 mage medium ABCDEFGHIJK
+P 37 0
+
+#6713
+elderly master monk~
+the elderly master~
+One of the top ranked masters stands here meditating.
+~
+This elderly man has achieved great status in the church.  Kind yet firm,
+this man commands the most respect of any member.  This respect is not
+unearned and his skill and focus are intense.  
+~
+human~
+100 50 0 50 100 100 50 100 100 100 100 100 50 100 150 100 100 50 0 100 50 100 100 100 100 100 
+ABT DVc CDN 0 0
+120 135 0 4979 6101 1182 1619 7 7 110 crush
+-400 -400 -400 -400
+STANDING STANDING male 550
+0 mage medium ABCDEFGHIJK
+P 28 0
+
+#6714
+Gate guards~
+a gate guard~
+A guard stands here contemplating your intentions.
+~
+This guy wears a traditional knights armor and looks at you suspiciously.
+He wishes to know your business in the temple and protects against evil with
+his life.  
+~
+human~
+100 100 0 50 100 100 50 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABT DFc CN 0 0
+70 35 0 867 888 861 892 6 6 20 slash
+-150 -150 -150 -150
+STANDING STANDING male 90
+0 mage medium ABCDEFGHIJK
+P 7 0
+
+#6715
+gate guard~
+a gate guard~
+A guard stands here contemplating your intentions.
+~
+This guy wears a traditional knights armor and looks at you suspiciously.
+He wishes to know your business in the temple and protects against evil with
+his life.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABT DFc CN 0 0
+70 35 0 863 891 861 890 6 6 25 slash
+-150 -150 -150 -150
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+P 8 0
+
+#6716
+war dog~
+War dog~
+A growling war dog stands here.
+~
+~
+dog~
+100 50 0 0 100 0 50 100 50 100 100 0 50 0 0 100 100 50 0 100 50 100 100 100 100 100 
+ABFT DFV CDEHNO 0 0
+130 1100 0 30042 30083 20001 20001 10 10 1300 claw
+-2000 -2000 -2000 -2000
+STANDING STANDING neutral 5000
+0 mage huge ACDEFHJKUV
+
+#6717
+elderly monk~
+Elderly Monk~
+An elderly monk stands here smiling openly.
+~
+~
+human~
+100 50 0 0 0 150 100 100 50 100 100 100 50 0 150 100 100 50 0 100 50 100 100 100 100 100 
+ABT DFTc CHO 1000 0
+135 190 0 5030 5079 5032 5077 10 10 90 punch
+-400 -400 -400 -400
+STANDING STANDING male 0
+0 mage large ABCDEFGHIJK
+M GRALL 6701 100~
+M SPEECH 6702 note~
+M GIVE 6703 6733~
+M GIVE 6704 2288~
+
+#6718
+bandit leader~
+Bandit Leader~
+The leader of the bandits rests on his throne with an evil glint in his eyes.
+~
+~
+human~
+100 50 0 100 0 150 50 100 150 100 100 100 50 150 100 100 100 50 0 100 50 100 100 100 100 100 
+ABFT DFc BCDHO -1000 0
+120 350 0 10040 10080 11029 11074 10 10 130 pierce
+-350 -350 -350 -350
+STANDING STANDING male 300000
+0 mage medium ABCDEFGHIJK
+M DEATH 6719 100~
+M EXALL 6718 2~
+
+#6719
+Fairy~
+Fairy~
+A chained fairy looks up as you approach.
+~
+~
+pixie~
+100 100 50 50 100 100 100 100 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT DEFJTVc BN 1000 0
+15 50 0 116 151 107 148 1 1 10 thwack
+-50 -50 -50 -50
+STANDING STANDING female 0
+0 mage tiny ABCDEFGHIJKP
+M GRALL 6720 100~
+
+#6720
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+140 980 0 28442 29698 847 1003 47 5 741 none
+-910 -910 -910 -910
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6721
+death~
+{8Death{0~
+Death stands here beckoning you.
+~
+~
+human~
+100 50 0 0 0 50 150 100 150 100 100 50 50 0 0 100 100 50 0 100 50 100 100 100 100 100 
+ABFMN DFJV CHNO -1000 0
+150 301 0 10867 12143 11415 12342 42 37 273 drain
+-641 -441 -475 -644
+STANDING STANDING neutral 6270
+0 mage large ABCDEFGHIJK
+
+#6722
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+100 50 100 100 0 100 50 100 100 100 100 100 50 0 100 100 100 50 0 100 50 100 100 100 100 100 
+A DF H 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6723
+used for spellbk~
+Archmage~
+A hunched archmage travels the world.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 
+AT DFTVc CDEH 0 0
+140 160 0 3602 3977 455 582 26 3 45 wrath
+-280 -280 -280 -280
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#6724
+Fire Demon~
+{!A F{1ir{&ey D{1em{!on{0~
+A demon formed of roaring flames is here.
+~
+~
+human~
+0 50 0 150 0 100 0 100 150 100 0 0 50 0 0 100 100 50 0 100 50 100 150 100 100 100 
+ABFT DFTVc DEHNO -1000 0
+140 337 0 10528 11571 9821 10813 31 35 282 flame
+-589 -564 -438 -392
+STANDING STANDING random 6281
+0 mage giant ABCDEFGHIJK
+
+#6725
+Drow Priestess~
+Drow Priestess~
+A sinister drow female stands here with murder in her eyes.
+~
+~
+human~
+100 50 50 50 0 100 100 100 100 100 150 100 50 0 50 100 100 50 0 100 50 100 100 100 100 100 
+ABFT DFTVc BCDEHNO -1000 0
+109 252 0 7783 8736 7412 8254 25 22 233 wrath
+-327 -444 -417 -366
+STANDING STANDING male 4529
+0 mage medium ABCDEFGHIJK
+
+#6726
+Drow Guardian~
+Drow Guardian~
+A master drow warrior stands here protecting the family.
+~
+~
+human~
+0 50 0 50 0 100 50 100 100 150 150 50 50 0 0 100 100 50 0 50 50 100 0 100 100 100 
+ABFT DFTVc CDEHNO 0 0
+109 181 0 7436 8402 7229 8369 23 27 261 none
+-368 -366 -349 -345
+STANDING STANDING male 5301
+0 mage large ABCDEFGHIJK
+#0
+
+#OBJECTS
+#6700
+coarse wool cloak~
+a coarse wool cloak~
+A coarse wool cloak is crumpled on the ground here~
+armor X AD
+10 9 10 11 0
+40 20 54
+A 5 1
+A 18 5
+A 19 5
+A 1 2
+
+#6701
+dark blue crystal~
+{8A {4Sof{$t B{7lu{&e {7Cr{$ys{4tal{x~
+A blue crystal lies here glowing softly~
+light AIX A
+0 0 999 0 0
+45 10 145
+A 3 1
+A 12 50
+A 13 50
+A 4 1
+A 2 1
+
+#6702
+thin grey belt~
+a thin grey belt~
+A thin grey belt lies here forgotten~
+armor X AL
+7 6 6 7 0
+40 20 40
+A 2 2
+A 18 5
+A 19 5
+A 17 -5
+A 20 -5
+A 13 75
+
+#6703
+hard sandals~
+a pair of leather sandals~
+A pair of leather sandals look very broken in~
+armor X AG
+10 9 10 12 0
+35 10 25
+A 2 1
+A 1 2
+A 18 5
+A 12 25
+
+#6704
+gold handglyph power~
+{7A {#G{3ol{#d {&Ha{7nd{8g{7ly{&ph{x~
+A gold glyph lies here beckoning to you~
+armor AIXY AI
+13 14 15 14 0
+50 20 256
+A 12 50
+A 18 10
+A 19 10
+A 4 1
+
+#6705
+wool breeches~
+a pair of wool breeches~
+A warm pair of wool breeches lie here waiting to be picked up~
+armor X AF
+15 14 15 16 0
+50 30 35
+A 4 2
+A 2 1
+A 18 10
+A 13 50
+A 12 50
+A 20 -5
+
+#6706
+blue green swirled potion~
+{8A {4b{$l{4u{$e {8and {@g{2r{@e{2e{@n {4s{@w{$i{2r{$l{@e{4d {8potion{x~
+A colorfull potion lies here in the dirt.~
+potion BXY AO
+60 'refresh' 'cure critical' 'cure critical' 'heal'
+45 10 20000
+
+#6707
+grainy thick potion~
+{8A {6gr{3ai{6ny {&p{7ot{8io{6n{x~
+A thick potions rests here looking very disguscting~
+potion ABXY AO
+60 'sanctuary' 'haste' 'giant strength' 'stone skin'
+45 10 9000
+
+#6708
+bubbling waterfall~
+{8A {8bu{7b{&bl{7i{8ng {4wa{$ter{$fa{4ll{x~
+{8A {8bu{7b{&bl{7i{8ng {4wa{$ter{$fa{4ll{x~
+fountain X 0
+-1 -1 'water' 0 0
+101 5000 0
+
+#6709
+silver band~
+{7A {8si{7lv{&e{7r b{8and{x~
+A band forged of pure silver lies here~
+armor AX AB
+17 16 17 15 0
+60 10 234
+A 19 5
+A 18 10
+A 13 75
+A 2 1
+A 3 1
+A 4 2
+
+#6710
+steel lined gloves~
+steel lined gloves~
+Some gloves inset with steel ribs lie here~
+armor IX AH
+14 14 15 16 0
+57 30 438
+A 18 10
+A 13 50
+A 5 2
+A 19 10
+A 20 -8
+A 1 1
+
+#6711
+delicate silver bracelet~
+a delicate silver bracelet~
+A thin silver bracelet looks very valuable.~
+treasure BIX AM
+0 0 0 0 0
+63 10 9004
+A 4 2
+A 5 2
+A 1 2
+A 2 2
+A 12 100
+
+#6712
+glowing tiger tattoo~
+{#Gl{7ow{3in{#g T{!i{1g{#e{1r {7Ta{8tt{&oo{x~
+A tattoo of a tiger rests here.~
+armor AIX AS
+15 15 14 16 0
+55 10 5023
+A 2 3
+A 19 5
+A 18 5
+A 12 50
+A 13 50
+A 3 2
+A 4 2
+
+#6713
+shield forged defender~
+{4S{6hield {4F{6orged {7'{1De{!f{#en{!d{1er{7'{x~
+A light shield lies here waiting for an owner.~
+armor AIXY AJ
+40 40 40 40 0
+101 20 0
+A 18 30
+A 19 30
+A 2 5
+A 1 7
+A 17 -40
+A 13 350
+A 12 375
+A 20 -20
+
+#6714
+dagger dreamweaver~
+{4D{6agger {4F{6orged {7'{1Dr{!ea{#m{2W{#e{!av{1er{7'{x~
+A very sharp dagger lies here humming softly~
+weapon AGIX AN
+dagger 15 18 divine BCDEGH
+101 10 10
+A 17 -30
+A 23 -10
+A 18 35
+A 19 40
+A 2 5
+A 1 7
+A 13 300
+A 20 -20
+
+#6715
+plate gold emblazoned dragon~
+{1Pla{8te {7Embla{8zo{1ned {8with a {&'{#G{3o{7ld {#Dr{7ag{3o{#n{&'{x~
+A golden dragon plate lies here~
+armor GIXY AD
+45 45 45 45 0
+101 50 50245
+A 13 375
+A 19 30
+A 18 30
+A 20 -25
+A 12 375
+A 4 6
+A 3 6
+A 23 -15
+
+#6716
+mask deceit~
+{7Ma{4sk {8of De{4ce{7it{x~
+A shifting mask glows here.~
+armor BXY AR
+50 50 50 50 0
+101 10 60245
+A 13 450
+A 12 450
+A 18 50
+A 19 50
+A 20 -30
+
+#6717
+spark life~
+{7The {1Sp{!a{#rk {!o{1f L{7ife{x~
+The spark of all beginings lies here.~
+light ABGIXY A
+0 0 999 0 0
+101 10 5024
+A 12 450
+A 13 450
+A 14 450
+A 20 -25
+A 23 -20
+
+#6718
+breath life~
+{4Br{$ea{7th of {$Li{4fe{x~
+A wispy breath of life lies here~
+potion AXY A
+250 '' 'mass healing' 'cure poison' 'cure blindness'
+45 10 56024
+
+#6719
+dragonslayer spear lance~
+{4S{6pear {4F{6orged {7'{#D{!ra{1go{7n S{1la{!ye{#r{7'{x~
+A powerfull spear lies here collecting dust~
+weapon AGHMSXY AN
+exotic 15 18 divine ABDEGH
+101 20 50000
+A 13 250
+A 12 350
+A 20 -35
+A 2 9
+A 4 5
+A 18 25
+A 19 25
+A 23 -20
+
+#6720
+divine blessing potion~
+{$Di{4v{7ine {1Bl{7ess{4i{$ng{x~
+A potion of the gods blessings lie here~
+potion BX AO
+105 'sanctuary' 'iceshield' 'fireshield' 'shockshield'
+5 10 600
+
+#6721
+glowing heart star~
+{7Gl{&owi{7ng {1H{!ear{1t {6of a {#St{3ar{x~
+A brilliant light lies here pulsing with intense power.~
+light ABGXY A
+0 0 999 0 0
+131 50 50003
+A 17 -60
+A 1 10
+A 2 10
+A 18 75
+A 19 75
+A 14 500
+A 13 200
+A 23 -20
+
+#6722
+who stone~
+{0Who Stone{x~
+A precious stone lies here, better grab it.~
+treasure AXY AO
+0 0 0 0 0
+40 10 50002
+
+#6723
+sword righteousness~
+{3Ri{7gh{#te{&o{#us{7ne{3ss{x~
+A righteous blades lies here glowing.~
+weapon AGHIXYZ AN
+sword 17 17 wrath ACDEGH
+101 50 50023
+A 12 300
+A 13 300
+A 19 30
+A 18 30
+A 20 -15
+A 4 3
+A 1 5
+
+#6724
+runed etched scroll~
+{7Scroll {8et{7ch{6ed {7with {4po{$we{&r{$fu{4ll {6r{7un{8es{x~
+A strange scroll lies here~
+armor ABIMXYZ AC
+25 25 25 29 0
+50 50 40024
+A 23 -20
+A 20 -30
+A 17 -20
+A 12 400
+A 13 250
+A 3 5
+A 4 5
+
+#6725
+PILL~
+{YA Quest Pill{X~
+{YA {RQuest Pill{Y lies here.{X~
+trash ABGXY AO
+0 0 0 0 0
+1 50 0
+
+#6726
+test pill~
+test pill~
+(no description)~
+pill X AO
+0 '' 'reserved' 'reserved' 'reserved'
+0 0 0
+
+#6727
+wedding cake~
+wedding cake~
+A piece of wedding cake lies here, yummy~
+food X A
+22 30 0 0 0
+1 0 0
+
+#6728
+Large Ruby~
+{6La{8rg{7e {!Ru{1b{!y{x~
+A large ruby lies here partially covered by dust.~
+trash ATX A
+ADEFGJLM 0 0 0 0
+0 10 50000
+
+#6729
+silver sword ebony flame~
+{6Si{7l{8ve{7r {&Sw{8or{6d {7na{&me{8d {8E{7b{1on{!y F{1la{7m{8e{x~
+A long slender silver sword lies here pulsing~
+weapon AHIMXY AN
+sword 16 18 silver DEG
+101 50 0
+A 13 375
+A 17 -45
+A 18 45
+A 2 4
+A 1 5
+A 19 40
+
+#6730
+flickering diamond medallion~
+{&F{$l{&i{$c{&ke{7rin{$g {&Di{7am{8on{7d {3Me{7dalli{3on{x~
+A flickering medallion of hardened diamonds lies here.~
+armor AIXY AC
+40 40 40 40 0
+101 0 5590
+A 12 450
+A 13 450
+A 19 40
+A 18 35
+A 20 -30
+A 3 4
+A 4 5
+
+#6731
+Golden ring beauty~
+{#G{3o{7ld{3e{#n {8Ri{7n{&g o{6f {!Be{1au{7t{&y{x~
+A gold ring lies here humming.~
+armor ITXY AB
+45 45 45 45 0
+101 40 0
+A 17 -40
+A 19 55
+A 18 50
+A 20 -25
+A 1 -3
+A 4 -5
+A 12 325
+A 13 275
+
+#6732
+fairy wings~
+fairy Wings~
+A pair of fairy wings ripped form its back lie here.~
+armor ABIX A
+-5 -5 -5 -5 0
+0 0 0
+
+#6733
+Small note~
+small note~
+A small PRIVATE note rests here.~
+treasure XY A
+0 0 0 0 0
+10 1 0
+E
+small~
+As you try to read the note you are struck by a magical backlash, this
+note is truely private and protected.  
+~
+
+#6734
+Oaken Staff~
+{xOaken Staff~
+An Oaken Staff lies here waiting for delivery~
+treasure ABXY AO
+0 0 0 0 0
+50 30 600
+
+#6735
+Symbol of power~
+{xSymbol of Power~
+A tiny symbol rests here glowing with harsh runes.~
+treasure ABGIXY AO
+0 0 0 0 0
+65 10 7605
+A 2 5
+A 1 5
+A 19 15
+A 18 15
+
+#6736
+cell key~
+cell key~
+A key leading to a jail cell lies here~
+key ABHMXY AO
+0 0 0 0 0
+101 10 100
+
+#6737
+silver katana~
+{8Si{6lv{7er {&Ka{8ta{6na{x~
+A katana forged of pure silver lies here~
+weapon AX AN
+exotic 9 9 silver ADE
+45 10 10000
+A 18 7
+A 19 7
+A 2 2
+A 5 1
+A 12 25
+A 13 40
+
+#6738
+tempered bo staff~
+{&Te{7mp{6er{8ed {3B{2o{7-St{2a{3ff{x~
+A long staff rests here.~
+weapon BKMXY AN
+exotic 10 10 crush FG
+55 0 5681
+A 17 -10
+A 1 2
+A 2 2
+A 13 75
+A 20 -5
+
+#6739
+Deck of many things~
+{#De{3ck {!of {1Ma{7ny {&Th{6in{#gs{x~
+A glowing deck lies here.~
+trash ABGX AO
+0 0 0 0 0
+1 0 0
+
+#6740
+glowing feather~
+glowing feather~
+A tiny glowing feather rests on the ground.~
+pill AGX A
+101 '' 'fly' 'reserved' 'reserved'
+0 0 0
+
+#6741
+rose petal~
+{1r{!os{7e {&pe{7t{!a{1l{x~
+A soft rose petal lies here.~
+trash BX A
+0 0 0 0 0
+1 0 0
+
+#6742
+Golden charm~
+{3go{#ld{7en {&ch{#ar{3m{x~
+A delicate charm fashion of gold rests here.~
+treasure AXY AC
+0 0 0 0 0
+0 0 0
+A 20 -15
+A 13 125
+A 12 125
+
+#6743
+fused lightning~
+{#Fu{2se{8d {&l{7ig{&h{8t{2ni{#ng{x~
+A bolt of dead lightning lies here~
+light AX AO
+0 0 999 0 0
+0 20 0
+A 1 2
+A 13 125
+A 12 125
+A 20 -5
+
+#6744
+a smelly vial~
+a smelly vial~
+A vial full of noxious stenches lies here.~
+potion XY AO
+101 '' 'reserved' 'reserved' 'reserved'
+0 0 0
+
+#6745
+sword of dreams~
+{&S{8word of {WD{8reams{x~
+A glimmering sword lies here.~
+weapon AMX AN
+sword 14 14 wrath DE
+0 0 0
+A 18 10
+A 19 10
+
+#6746
+dagger of dreams~
+{&D{8agger of {&D{8reams{x~
+A glimmering dagger lies here~
+weapon AMX AN
+dagger 14 14 wrath DE
+0 0 0
+A 18 10
+A 19 10
+
+#6747
+no name~
+(no short description)~
+(no description)~
+weapon X 0
+exotic 2 10 none 0
+10 11 1010
+A 19 3
+A 18 3
+
+#6748
+handle~
+handle~
+A handle~
+trash X A
+ACDEGJLM 0 BCDEGJLM 0 0
+110 0 0
+
+#6749
+blade~
+blade~
+A blade~
+trash X A
+CDEGJLM 0 BCDEGJLM 0 0
+110 0 0
+
+#6750
+spear~
+a spear~
+A spear~
+weapon AHMX AN
+exotic 15 19 chill ADE
+110 111 8835
+A 19 23
+A 18 23
+
+#6751
+dragon slayer~
+{7Dragon Slayer{x~
+Dragon Slayer~
+weapon HMXY AN
+axe 17 17 wrath ADEFHI
+110 30 0
+
+#6752
+A platinum Broad Sword~
+{wA {DP{wl{Wa{Dt{wi{Wn{Du{wm {DB{Wroa{Dd {CS{cw{Co{cr{Cd{X~
+A long platinum broad sword lies here.~
+weapon ABHMXZ AN
+sword 17 17 magic ABCDEGH
+101 0 0
+A 13 350
+A 12 350
+A 18 45
+A 19 50
+A 20 -15
+A 17 -25
+E
+sword~
+This sword was crafted by master dwarven smiths from the finest quality
+platinum.  Given by Belmakor for defeating all combatants in the Heavyweight
+Tournament, the wielded of this sword is powerfull indeed.  
+~
+E
+platinum~
+This sword was crafted by master dwarven smiths from the finest quality
+platinum.  Given by Belmakor for defeating all combatants in the Heavyweight
+Tournament, the wielded of this sword is powerfull indeed.  
+~
+
+#6753
+fire wyrm leggings~
+{2A pair of {!F{#ir{!e {1W{#y{!r{1m {2Leggings{x~
+A long pair of leggings forged of firey scales lies here.~
+armor AHIOXZ AF
+45 45 45 45 0
+101 10 0
+A 19 40
+A 18 45
+A 17 -40
+A 20 -25
+A 13 325
+A 12 350
+A 23 -10
+
+#6754
+Spellbook Book~
+(no short description)~
+A heavy spellbook lies here holding secrets unknown.~
+trash AGX AO
+0 0 0 0 0
+110 0 0
+
+#6755
+card~
+card~
+Card~
+treasure AGX A
+0 0 0 0 0
+1 0 0
+
+#6756
+Enchanted Quiver~
+{6En{4ch{$an{7ted {$Qu{4iv{6er{x~
+An enchanted quiver may perhaps be usefull to you.~
+trash AGX AW
+ADE BCG AG 0 0
+1 0 0
+#0
+
+#ROOMS
+#6700
+Wide Dirt Path~
+This wide dirt path is lined by large wooden logs.  Very smooth and quite
+clean, this path looks to be well maintained regularly.  The sweet smell of
+pine and the chirp of the occasional bird surrounds you with a sence of
+peace.  To the north stands a large stone structure resembling a castle of
+sorts.  
+~
+4 0
+D0
+~
+~
+0 0 6701
+D2
+~
+~
+0 0 485
+S
+
+#6701
+Along the Dirt Path~
+Walking further towards the structure you can tell its not a castle but
+more of a temple or monastery.  On the wind an occasional grunt and various
+sounds of practice are heard.  Several pennats snap and twist in the wind. 
+Ahead you can see two guards making sure no trouble gets inside.  
+~
+4 0
+D0
+~
+~
+0 0 6702
+D2
+~
+~
+0 0 6700
+S
+
+#6702
+Outside the Gates~
+Nearing the gates you see two guards standing watch over all that arrive
+and leave.  They eye you suspiciously trying to decide what your intentions
+may be here.  The gate is a large split iron door that looks to weigh
+several tons.  Beyond the gate a coutyard full of all sorts of people is
+visible.  
+~
+4 0
+D0
+~
+~
+0 0 6703
+D2
+~
+~
+0 0 6701
+S
+
+#6703
+Open Courtyard~
+This is a large open air courtyard formed of tightly worked stone blocks
+covered with a thick layer of sand.  All around trainers move among the
+pupils guiding them and teaching them physical power.  The look of
+determination is strong on every face.  There is very little conversation as
+these people push themselves to learn and not speak foolishly.  
+~
+0 0
+D0
+~
+~
+0 0 6705
+D1
+~
+~
+0 0 6706
+D2
+~
+~
+0 0 6702
+D3
+~
+~
+0 0 6704
+S
+
+#6704
+Curved Hallway~
+This hallways curves to the north and is very well lighted.  On the walls
+are hanging rugs of exceptional quality and beauty.  Brilliant shades of
+reds and yellows catch your eyes and you marvel at the intricate designs. 
+To the north clanking and grunts of effort can be heard.  
+~
+8 0
+D0
+~
+~
+0 0 6712
+D1
+~
+~
+0 0 6703
+S
+
+#6705
+Lighted Hallway~
+This hallway is totally spotless and very well lighted.  Covering the
+floor is a large mural made of tiny colored tiles.  Depicted on the floor
+are all sorts of monks in positions of worship.  There is also runes of a
+strange sort.  Asking a passing monk he explains that these spell out there
+code of honor.  Discipline, power of the mind, and inner focus are the key
+ways.  
+~
+8 0
+D0
+~
+~
+0 0 6711
+D2
+~
+~
+0 0 6703
+S
+
+#6706
+Hallway to the Rooms~
+This hallways leads to the rooms where the monks sleep and meditate after
+a long day of training.  This hallway is whitewashed and very plain, almost
+spartan in appearance.  Soft ethereal music plays all around you, so quiet
+that you can almost not even hear it.  Its quite soothing and you smile as
+you continue onward.  
+~
+8 0
+D1
+~
+~
+0 0 6707
+D3
+~
+~
+0 0 6703
+S
+
+#6707
+Training Room~
+This room is large and filled with low wooden tables.  This room is very
+much like a schoolroom, here monks are taught to read and write not just one
+language but many.  Knowledge is another path to enlightenment, and these
+monks study and pore over huge tomes while teachers move among them giving
+pointers.  To the north start the bedrooms of the monks.  
+~
+8 0
+D0
+~
+~
+0 0 6708
+D3
+~
+~
+0 0 6706
+S
+
+#6708
+Hallway Outside the Rooms~
+This hallway is quite dim compared to the rest of the temple.  Soft music
+plays from unknown sources and the floor is covered with plush carpet.  To
+the east lies a closed wooden door to a private bedroom.  To the north the
+hallway continues.  
+~
+12 0
+D0
+~
+~
+0 0 6709
+D1
+~
+~
+AB 0 6717
+D2
+~
+~
+0 0 6707
+S
+
+#6709
+Hallway Outside the Rooms~
+This hallway is very clean yet dim.  All around the same music you have
+heard elsewhere in the hallways continues to play.  The walls here are
+completely plain and quite different than the rest of the temple.  To the
+west and east are closed wooden doors leading to the private rooms of the
+monks.  To the north the hallway continues.  
+~
+8 0
+D0
+~
+~
+0 0 6710
+D1
+~
+~
+AB 0 6715
+D2
+~
+~
+0 0 6708
+D3
+~
+~
+AB 0 6716
+S
+
+#6710
+End of the Hallway~
+The hallway ends here, on the northern wall is a large framed painting of
+a smiling benevolent being.  To the right and left of the main painting are
+smaller drawings with strange symbols painted on them.  This section of the
+hall is brighter lit than the rest and to the west you can see a set of
+spiral stone stairs leading to parts unknown.  To the east is another closed
+wooden door leading to a bedroom.  
+~
+8 0
+D1
+~
+~
+AB 0 6713
+D2
+~
+~
+0 0 6709
+D3
+~
+~
+0 0 6714
+S
+
+#6711
+The Room of Candles~
+This is the place where the monks and other members of the temple come to
+worship in silence.  There are many tables of differing levels pushed
+against the wall.  The tables are litteraly covered in with burning candles.
+The monks believe that for every sin no matter how small they must light a
+candle and meditate to purge themselves.  
+~
+8 0
+D2
+~
+~
+0 0 6705
+S
+
+#6712
+Training Room~
+This room is large with high ceilings.  Here students learn various
+defensive techniques of blocking and dodging an enemies attack.  On the
+walls are the oaths that every monk takes to enlightenment.  Some of these
+men are no more than children, yet them seem content to push themselves into
+the path of learning.  Not a complaint is heard and there effort is intense.
+~
+8 0
+D0
+~
+~
+0 0 6718
+D2
+~
+~
+0 0 6704
+S
+
+#6713
+Bedroom~
+This room is slightly bigger and is furnished with a chair and several
+strange tomes.  Clearly the room of a sort of floor master, he would be
+quite upset to find you rummaging through what is his.  
+~
+8 0
+D3
+~
+~
+AB 0 6710
+S
+
+#6714
+Spiral Stairs Leading Down~
+This room is filled with a large set of stone spiral stairs leading down
+into the darkness.  Curious what could be in the basement of such a holy
+place you start down the stairs to the unknown.  
+~
+12 0
+D1
+~
+~
+0 0 6710
+D5
+~
+~
+0 0 6720
+S
+
+#6715
+Bedroom~
+This room is identical to the other bedrooms you have seen here. 
+Completely spartan and very tiny, these rooms give a nights rest and not
+much else.  
+~
+8 0
+D3
+~
+~
+AB 0 6709
+S
+
+#6716
+Bedroom~
+This room is nearly the same as the rest of the bedrooms.  A small tome
+lies on the dresser, picking it up you see its written in a language
+unfamiliar to you.  These monks truely embrace the entire lifestyle and
+discipline themselves ruthlessly.  
+~
+8 0
+D1
+~
+~
+AB 0 6709
+S
+
+#6717
+Bedroom~
+This bedroom is very small, consisting of only a tiny bed and a small
+wooden dresser.  The bed is covered with a simple wool blanket and
+everything is very spartan in appearance.  On the walls hang the oathes of
+the monastery to reafirm the monks upon waking.  
+~
+8 0
+D3
+~
+~
+AB 0 6708
+S
+
+#6718
+Wide Hallway~
+This hallways is quite wide and well lit, all around walk monks and there
+teachers continually moving from place to place.  Everyone is very silent
+when walking along, speaking to an elder monk he speaks to you and seems
+quite friendly.  Because they dont speak doesnt mean they cant or wont he
+informs you.  He also informs you that guests are always welcome to move
+around the temple as long as there intentions are pure, they have nothing to
+hide from anyone.  
+~
+8 0
+D0
+~
+~
+0 0 6719
+D2
+~
+~
+0 0 6712
+S
+
+#6719
+Training Room~
+The walls of this room are lined with weapons of all sorts.  From plain
+wooden staves to ornate scimitars.  Here the students study the weapon and
+learn everything about every weapon.  The more they learn to anticipate the
+weapon, the easier it is to not get harmed by the weapon.  A students best
+weapon is his mind and body working as one, but sometimes a weapon is a
+nessesity and they are trained occordingly.  
+~
+8 0
+D1
+~
+~
+0 0 6722
+D2
+~
+~
+0 0 6718
+S
+
+#6720
+Spiral Stairs Leading Up~
+Ducking down to get under the low ceiling you can only see a short
+distance in this gloom.  Further to the north comes sound of a heated
+conversation.  The only way out is to the north or back up the stairs the
+way you came down.  
+~
+12 0
+D2
+~
+~
+0 0 6721
+D4
+~
+~
+0 0 6714
+S
+
+#6721
+Storage Cellar~
+This room is quite musty and filled with old wooden shelves.  Thankfully
+free of rats and other pests, there is an assortment of rice and other dried
+food items.  Standing here is a wild unkept toothless old man.  He seems to
+be having quite a conversation with that empty bottle..  
+~
+1032 0
+D0
+~
+~
+0 0 6720
+S
+
+#6722
+Wide Hallway~
+This hallway is brightly lit with sunlight streaming in from the north. 
+Listening carefully you can hear the sounds of birds and smell scents of
+wonderfull flowers from somewhere nearby.  To the north you can see a large
+room lined with a stairway and beyond that some sort of garden.  
+~
+8 0
+D0
+~
+~
+0 0 6723
+D3
+~
+~
+0 0 6719
+S
+
+#6723
+Wide Stairway Leading Up~
+This room is large with a high ceiling.  Around the room a large stairway
+flanks the entire room and a balcony looks down from atop the stairs. 
+Marble tiles adorn the floor and catch the sunlight streaming though the
+glass doors under that stairs.  North appears to be some sort of garden
+where men of all ages work.  
+~
+12 0
+D0
+~
+~
+0 0 6724
+D2
+~
+~
+0 0 6722
+D4
+~
+~
+0 0 6734
+S
+
+#6724
+Start of the Garden~
+Walking out the glass doors a whole world of strange colored flowers and
+chirps or birds surround you.  All around men of all ages push wheelbarrows
+full of weeds or empty.  The sun shines down illuminating the large variety
+of colors everywhere.  This garden extends as far as the eye can see and is
+well taken care of by the monks.  
+~
+0 0
+D0
+~
+~
+0 0 6725
+D2
+~
+~
+0 0 6723
+S
+
+#6725
+Into the Garden~
+Looking around, you see people working, flowers, and green bushes as far
+as the eye can see.  Looking up you are nearly struck by the biggest
+butterfly you have ever seen.  All sorts of butterflys move here and there
+attracted by the sweet scent of the flowers.  Bending down to sniff at a
+large rose bush is heavenly as you inhale deeply.  To the north is a
+fountain formed into the shape of a tiny waterfall that feeds the natural
+irigation of these plants.  
+~
+0 0
+D0
+~
+~
+0 0 6728
+D1
+~
+~
+0 0 6726
+D2
+~
+~
+0 0 6724
+D3
+~
+~
+0 0 6727
+S
+
+#6726
+Eastern Garden~
+This section of the garden is filled with large red bushes.  Looking
+closer you realize they are simply rose bushes filled with brilliant red
+blossoms and standing over five feet tall.  Buzzing around here are a
+multitude of bees moving lazily from bush to bush.  Many people bustle
+around here working, but many people also recline on the grass enjoying a
+the sunshine while they read.  
+~
+0 0
+D0
+~
+~
+0 0 6729
+D3
+~
+~
+0 0 6725
+S
+
+#6727
+Western Garden~
+This section of the garden is a layered up to about four feet high. 
+Small vine like flowers creep over the entire contruction and blossom with
+bright purple flowers.  The scent they give off is intoxicating and you
+contemplate stopping to relax and enjoy the the feel of the grass between
+your bare feet.  The work to keep the garden this nice is long and
+backbreaking but the effort is well worth every second.  
+~
+0 0
+D0
+~
+~
+0 0 6730
+D1
+~
+~
+0 0 6725
+S
+
+#6728
+A Small Waterfall~
+A small waterfall bubbles here taking water from a crystal clear spring
+to every plant in the garden.  The water is fresh and the sound of it
+flowing over the small rocks and hand fashioned cliffs is soothing.  Several
+large orange trees provide a sort of shade and assail your nose with the
+scent of fresh water and citrus.  
+~
+0 0
+D0
+~
+~
+0 0 6732
+D1
+~
+~
+0 0 6729
+D2
+~
+~
+0 0 6725
+D3
+~
+~
+0 0 6730
+S
+
+#6729
+Eastern Garden~
+This section of the garden is flanked on the east by an unbreakable hedge
+wall over twenty feet high.  The wall is home to whole families of birds
+nesting the the branches and you understand that everything here is made not
+for man but for nature.  All around are beautifull bushes blossoming with
+colorfull flowers.  
+~
+0 0
+D0
+~
+~
+0 0 6733
+D2
+~
+~
+0 0 6726
+D3
+~
+~
+0 0 6728
+S
+
+#6730
+Western Garden~
+This section of the garden is overflowing with many apple trees.  Apple
+blossoms cover the ground and blow around in the soft breeze.  Its quite
+shady and comfortable here and you can see many monks relaxing and reading a
+book or simply meditating with there eyes closed.  
+~
+0 0
+D0
+~
+~
+0 0 6731
+D1
+~
+~
+0 0 6728
+D2
+~
+~
+0 0 6727
+S
+
+#6731
+North-Western Corner of the Garden~
+This section of the garden has a large stone bench that benefits from the
+shade of the hedge wall.  Many small flowered vines entwine the base of the
+bench and various monks wander here and there.  
+~
+0 0
+D1
+~
+~
+0 0 6732
+D2
+~
+~
+0 0 6730
+S
+
+#6732
+Northern Edge of the Garden~
+This section of the wall is impassable to the north.  The northern
+section of hedge is infused with a sort of strange yellow flower that smells
+like a musky rose.  The grass is soft and the shade provided by the hedge
+makes you want to stay and lie down awhile.  The sky has never seemed so
+blue and the air so fresh.  
+~
+0 0
+D1
+~
+~
+0 0 6733
+D2
+~
+~
+0 0 6728
+D3
+~
+~
+0 0 6731
+S
+
+#6733
+North-East Corner of the Garden~
+This corner of the garden is blocked off by a giant hedge wall.  Standing
+in front of you is the largest patch of lilac you have ever seen.  The
+scents of lilac mixed with jasmine make you smile as you continue on your
+journey.  
+~
+0 0
+D2
+~
+~
+0 0 6729
+D3
+~
+~
+0 0 6732
+S
+
+#6734
+Second Floor Balcony~
+This balcony over looks the stairway leading down and the entire foyer
+below.  The carpet here is a plush dark blue steaked with strange designs. 
+Looking up the ceiling is a huge vaulted skylight painted in all sorts of
+colors.  To the east and west runs a hallway.  
+~
+8 0
+D1
+~
+~
+0 0 6735
+D3
+~
+~
+0 0 6736
+D5
+~
+~
+0 0 6723
+S
+
+#6735
+Second Floor Hallway~
+This hallway is filled with plush carpet and subdued lighting.  The walls
+are a deep rich chesnut.  There are not alot of people walking about here,
+and the ones who are eye you strangely as if you should not be here.  To the
+east is a closed wooden door and to the north is a large library.  
+~
+8 0
+D0
+~
+~
+0 0 6738
+D1
+~
+~
+0 0 6737
+D3
+~
+~
+0 0 6734
+S
+
+#6736
+Second Floor Hallway~
+Walking down the hall you are eyed strangely by serveral older monks. 
+The walls are lined with framed paintings of the many elders of the order. 
+To the north is a large room which could be a meeting room.  
+~
+8 0
+D0
+~
+~
+0 0 6739
+D1
+~
+~
+0 0 6734
+S
+
+#6737
+Guest Bedroom~
+This is a plush bedroom furnished and ready for any estemed guests that
+may visit the monastery from time to time.  The walls are painted to give
+the appearance of being in a lush forrest.  The bed is made with silk sheets
+and a thick down quilt.  The floor is covered with an exotic thick rug.  A
+window give a spectacular view of the entire garden.  
+~
+12 0
+D3
+~
+~
+0 0 6735
+S
+
+#6738
+Large Library~
+This room is filled floor to ceiling with books.  Tomes of all types and
+sizes fill the shelves and people of all ages recline in comfortable chairs
+reading.  The monks believe if you hone the mind the body wont be far
+behind.  
+~
+8 0
+D0
+~
+~
+ABG 0 6740
+D2
+~
+~
+0 0 6735
+S
+
+#6739
+Meeting Room~
+This room is a place where the monks, elders and initiates alike, come to
+discuss affairs that affect the entire temple.  Here is where work on the
+temple and grounds are passed out and where new members are reviewed.  This
+is an area only for members of the faith and they are quite angry to see
+you.  
+~
+8 0
+D2
+~
+~
+0 0 6736
+S
+
+#6740
+Elderly Masters Private Sanctum~
+This is the private sanctum for the master of this temple.  Aged and wise
+beyond his years, he has kept up on world shaking news and may be able to
+aid you.  The floor is covered with a plus shag carpet so thick you nearly
+have to swim across, hand crafted tile mosaics cover the walls with an
+awesome beauty 
+~
+134220808 0
+D2
+~
+~
+ABG 0 6738
+H 5000 5000
+S
+
+#6741
+Darkened Hallway~
+This hallway is damp, yet very clean, just shrouded in perpetual
+darkness, no light from the streets of New Thalos can seep down into this
+area.  The Bandits thrive and run a ring of terror through these sewers, now
+is the time to end this.  
+~
+532489 0
+D0
+~
+~
+0 0 6742
+S
+
+#6742
+Makeshift Throne Room~
+This room is lined with torches that flicker strange blue and green
+lights, casting odd shadows that seem to writhe on the floor and walls.  A
+throne is here carved out of dusty stones and seated on it is the leader and
+founder of the guild itself.  Once a powerful adventurer, he was driven mad
+and now lives and rules the underground like the king of rats.  
+~
+534537 0
+D0
+~
+~
+ABCFG 6736 6743
+D2
+~
+~
+0 0 6741
+S
+
+#6743
+Darkened Cell~
+This cell is dark and damp and the floor is covered with a strange slimey
+substance.  The only light cast beyond that of your torch is the flickering
+light of a tiny fairy, closed within chains and looking very pathetic.  Such
+a marvelous creature reduced to such a state makes your heart ache.  
+~
+134744077 0
+S
+
+#6777
+Magical Rip in Reality~
+This strange rip in reality is caused by the massive swell of energy
+Belmakor commands.  All around massive ribbons of color swirl and eddy in an
+endless dance.  Its amazing the control over the magical fabric this being
+holds, he is content to dwell in such chaos.  The magic dances to his
+delight and none of the magical backlash harms him.  Dont be fooled, such
+energy can spiral out of control and kill a lesser mortal.  
+~
+12 7
+S
+#0
+
+#RESETS
+D 100 6708 1 1
+D 100 6709 1 1
+D 100 6709 3 1
+D 100 6710 1 1
+D 100 6713 3 1
+D 100 6715 3 1
+D 100 6716 1 1
+D 100 6717 3 1
+D 100 6738 0 1
+D 100 6740 2 1
+D 100 6742 0 2
+M 100 6714 1 6702 1
+M 100 6715 1 6702 1
+M 100 6700 10 6703 3
+M 100 6702 3 6703 1
+E 100 6700 0 12
+M 100 6701 13 6703 2
+M 100 6705 4 6703 1
+M 100 6700 10 6707 3
+E 100 6702 0 13
+M 100 6701 13 6707 3
+M 100 6705 4 6707 1
+E 100 6701 0 0
+M 100 6704 2 6711 2
+E 100 6703 0 8
+M 100 6706 3 6711 1
+E 100 6701 0 0
+M 100 6701 13 6711 1
+M 100 6700 10 6712 2
+M 100 6702 3 6712 1
+E 100 6703 0 8
+M 100 6701 13 6712 3
+E 100 6700 0 12
+M 100 6702 3 6719 1
+M 100 6700 10 6719 2
+M 100 6706 3 6719 1
+E 100 6701 0 0
+M 100 6705 4 6719 1
+M 100 6708 1 6721 1
+G 100 6706 0
+G 100 6707 0
+M 100 6706 3 6724 1
+E 100 6704 0 10
+M 100 6701 13 6724 2
+M 100 6710 7 6725 1
+M 100 6709 5 6725 1
+E 100 6705 0 7
+M 100 6710 7 6726 1
+M 100 6709 5 6726 1
+E 100 6737 0 16
+M 100 6710 7 6727 1
+M 100 6709 5 6727 1
+M 100 6705 4 6728 1
+E 100 6703 0 8
+O 100 6708 0 6728
+M 100 6710 7 6728 1
+E 100 6737 0 16
+M 100 6709 5 6729 1
+M 100 6710 7 6730 1
+E 100 6705 0 7
+M 100 6710 7 6731 1
+E 100 6704 0 10
+M 100 6701 13 6732 2
+E 100 6700 0 12
+M 100 6709 5 6732 1
+E 100 6705 0 7
+M 100 6710 7 6733 1
+M 100 6711 3 6734 1
+M 100 6712 6 6734 1
+E 100 6710 0 9
+M 100 6712 6 6735 1
+M 100 6712 6 6736 1
+E 100 6709 0 1
+M 100 6712 6 6737 1
+E 100 6710 0 9
+M 100 6713 3 6737 1
+E 100 6712 0 21
+M 100 6711 3 6738 1
+E 100 6709 0 1
+M 100 6712 6 6738 1
+M 100 6713 3 6738 1
+E 100 6711 0 15
+E 100 6738 0 16
+M 100 6711 3 6739 1
+E 100 6709 0 2
+M 100 6712 6 6739 1
+M 100 6713 3 6739 1
+E 100 6711 0 14
+M 100 6717 1 6740 1
+M 100 6718 1 6742 1
+E 100 6736 0 17
+M 100 6719 1 6743 1
+S
+
+#SHOPS
+6708 0 0 0 0 0 100 100 0 23
+0
+
+#MOBPROGS
+#6700
+Unknown~
+Unknown~
+mob echo A crazy old man looks up as you approach.
+cough
+say Ahh if it is'nt $n!
+cackle
+say How ye doin' m'lad?
+say Yer lookin' quite fit, ah quite fit indeed.
+say What can i do for you t'day m'lad?
+~
+
+#6701
+Unknown~
+Unknown~
+say Good day $n, what can i do for you?
+beam $n
+~
+
+#6702
+Unknown~
+Unknown~
+ponder
+say Hmm a note, perhaps you better let me see this note $n.
+~
+
+#6703
+Unknown~
+Unknown~
+boggle
+say I have not heard from my old friend in quite some time.
+say This is quite a serious quest you take upon yourself $n, you truely have a big heart.
+mob echo $i sits back and begins to ponder on the task at hand.
+say I may be able to help you, i will need an orb that may still be carried by a Black Dragon residing at the Dragon's Tower.
+say I cannot garuntee he will still have it, but last i knew the beast had it clutched in its talons like a child clutching a favorite toy.
+spit
+say All i know is that the Dragon's Tower lies somewhere inside the dangerous Shadow Grove.
+say And this wyrm lies somewhere inside the vast tower, be carefull, all sorts of dangerous dragon kin reside in this forsaken tower.
+say Good luck my friend, and good journeys.
+smile $n
+~
+
+#6704
+Unknown~
+Unknown~
+cheer
+say $n you truely are a skilled adventurer!
+mob echo $i rolls the orb in his hands and chants in a language unknown to you.
+mob echo The orb flashes with a brilliant rainbow of light as the old monks eyes are filled with an orange hue.
+mob echo Suddenly the orb flashes bright white and shatters showering you with pieces of hot glass.
+mob echo {x
+say I am truely sorry $n, my magic is useless to you.
+sigh
+say Although, i have knowledge of a different type of magic that may yet be usefull to you in your journey.
+say Take this staff, and seek out the Nomad Shaman deep in the Desert of Nalfien, his magic may yet aid you.
+mob oload 6734
+give staff $n
+mob junk orb
+say Good journeys my friend, i am truely sorry i could not aid you more.
+~
+
+#6718
+Unknown~
+Unknown~
+say Where do you think you are going $n?
+say We have not yet begun to fight
+cackle
+mob damage 300 1500 lethal
+~
+
+#6719
+Unknown~
+Unknown~
+mob echo Showering the area with a great gout of blood the bandits leader lunges at you for a final strike before falling over dead.
+mob damage 1000 3000 lethal
+~
+
+#6720
+Unknown~
+Unknown~
+sigh
+say I know why you approach looking at me that way $n.
+say You are very brave to help me in my imprisonment, even with my wings i am dead.
+say No fairy is ment to be kept chained as such.
+say Here, take my wings as a token of my gratitude in my freedom, do what you must with them.
+mob echo As you watch in horror the little fairy pulls her wings from her back with a tearing sound.
+mob oload 6732
+drop wings
+mob echo Standing in awe, the fairy slumps to the ground and hitches a final breath.
+mob purge $i
+~
+#0
+
+#$

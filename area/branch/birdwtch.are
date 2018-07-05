@@ -1,0 +1,1093 @@
+#AREADATA
+Name Bird Watching~
+Builders None~
+VNUMs 2700 2799
+Credits [ 10  20] Ramoth   Bird Watching~
+Security 9
+End
+
+
+
+#MOBILES
+#2700
+Wrandy~
+Wrandy the Redemption~
+Wrandy the BirdWatching {GRedemption{} cleans his stock.
+~
+{wA tall {Ggreen{w phoenix is busy restocking his wares.  His main interest is
+in bringing a little bit of the birdlife to others.  
+~
+phoenix~
+ABCD DFJLTc 0 0 0
+1 10 10d10+100 0d0+0 0d0+0 none
+0 0 0 0
+FK ABCDEFGHIJKLMNOPQRSTXYZ LQ IN
+stand stand none 2300
+ACHMW ABCDEFGHIJKLPU medium flame
+#2701
+purple martin~
+a {mpurple martin{}~
+A {mpurple martin{} defends his nest.
+~
+~
+song bird~
+AFG DFJLTc 0 300 0
+16 10 2d7+96 4d9+100 1d7+2 peck
+3 3 3 9
+EFHKNU BH LQ IN
+stand stand male 25
+ACGHMVW ABCDEFGHIJKPU medium bird
+#2702
+blue jay bluejay~
+An angry {Bbluejay{}~
+An angry {Bbluejay{} swirls around.
+~
+Fending off her territory against others is this bluejay's concern.  
+~
+song bird~
+AGR DEJT 0 500 0
+9 9 2d7+46 5d9+100 1d5+0 peck
+6 6 6 8
+FHU 0 BEH FI
+stand stand female 1
+ACGHWZ ACDEFGHIJKPQU small bird
+#2703
+western scrubjay~
+A {8western scrub{bjay{}~
+A {8western scrub{bjay{} is searching for peanuts.
+~
+~
+song bird~
+AGR DEJT 0 500 0
+9 9 2d7+46 5d9+100 1d5+0 peck
+6 6 6 8
+FHU 0 BEH FI
+stand stand female 1
+ACGHWZ ACDEFGHIJKPQU small bird
+#2704
+wren~
+a {ywren{}~
+A {ywren{} sings his love song.
+~
+Ahh, the beautiful twiddle of a wren's lure to his potential mates.  
+~
+song bird~
+AFG DFJLTc 0 300 0
+16 10 2d7+96 4d9+100 1d7+2 peck
+3 3 3 9
+EFHKNU BH LQ IN
+stand stand male 25
+ACGHMVW ABCDEFGHIJKPU medium bird
+#2705
+meadowlark goldenbreasted chick~
+A {YGoldenbreasted {}Meadowlark~
+A {YGoldenbreasted {}Meadowlark chick waits for food.
+~
+~
+song bird~
+ABC DFJLTc 0 300 0
+16 10 2d7+96 4d9+100 1d7+2 peck
+3 3 3 9
+EFHKNU BH LQ IN
+stand stand male 25
+ACGHMVW ABCDEFGHIJKPU medium bird
+M KILL 2728 100~
+#2706
+mama bird ~
+mama meadowlark~
+The Meadowlark's mother is here and she looks pissed.
+~
+~
+song bird~
+ABFc T 0 0 0
+25 0 8d53+334 2d50+50 4d6+12 peck
+-5 -5 -5 -5
+FHRU 0 0 0
+stand stand female 15
+AGW ACDEFHKP medium unknown
+#2707
+robin~
+a {yro{8b{yin{}~
+A {yro{8b{yin{} preens her feathers.
+~
+Beauty is as beauty does.  She's preening her feathers to make them lay
+straight.  
+~
+song bird~
+AGR DEJT 0 500 0
+9 9 2d7+46 5d9+100 1d5+0 peck
+6 6 6 8
+FHU 0 BEH FI
+stand stand female 1
+ACGHWZ ACDEFGHIJKPQU small bird
+#2708
+woodpecker~
+{rwoo{8dpec{rker{}~
+A {rwoo{8dpec{rker{} searches for someone to annoy.
+~
+Hardheaded is the perfect way to describe this winged creature.  
+~
+song bird~
+ABC DFJLTc 0 300 0
+16 10 2d7+96 4d9+100 1d7+2 peck
+3 3 3 9
+EFHKNU BH LQ IN
+stand stand male 25
+ACGHMVW ABCDEFGHIJKPU medium bird
+#0
+
+
+
+#OBJECTS
+#2700
+birdseed~
+birdseed~
+Birdseed is scattered on the ground.~
+oldstyle~
+pill 0 A
+20 'fly' 'create food' 'reserved' 'reserved'
+1 1 10 P
+#2701
+binoculars~
+a pair of binoculars~
+A pair of binoculars lies discarded.~
+steel~
+armor 0 AR
+0 0 0 0 0
+10 10 30 P
+A
+13 25
+#2702
+birdbath~
+a birdbath~
+A beautiful {8birdbath{} attracts wildlife.~
+glass~
+drink 0 A
+5 5 'water' 0 0
+1 20 30 P
+#2703
+flute birdsong~
+{ca b{Cir{cds{Con{cg f{Clu{cte{}~
+A flute to attract the birds has been left lying in the dust.~
+acid~
+weapon BGI AN
+dagger 7 12 thwack 0
+20 3 2000 P
+A
+13 20
+A
+18 3
+A
+19 3
+#0
+
+
+
+#ROOMS
+#2700
+{CFresh Air{}~
+Tall {gfoliage{} covers the surrounding area.  A small platform is to the
+east.  The {Cclouds{} are so close they can almost be touched, and the bird
+population flits in and out of the treetops.  
+~
+0 0 9
+D0
+~
+~
+0 0 2703
+D1
+~
+~
+0 0 2701
+D5
+~
+~
+0 0 3057
+S
+#2701
+{yWrandy's Warbler's OutLook{}~
+Wrandy runs the small shop to the east and keeps this small outlook clean
+and ready for local birdwatchers.  Sturdy {8iron railings{} keep the populace
+safe from falling the hundreds of feet down to {WRedemption Midgaard{} to their
+deaths.  A few discarded price tags clutter the otherwise spotless {ywooden{}
+porch.  A small bit of {Rc{Bo{Yl{Go{Rr{Be{Yd{} light filters down from above.  
+~
+0 12 0
+D1
+~
+~
+0 0 2702
+D3
+~
+~
+0 0 2700
+D4
+~
+~
+0 0 7700
+S
+#2702
+{yWrandy's Warbler's OutLook{}~
+Tall shelves line the walls containing books of all the areas birds,
+flutes promising to play the local warbler's songs perfectly, binoculars
+claiming to get one RIGHT UP to the action.  Wrandy seems to be running a
+pretty solid show here!  
+~
+0 8 0
+D3
+~
+~
+0 0 2701
+S
+#2703
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2704
+D2
+~
+~
+0 0 2700
+S
+#2704
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2705
+D1
+~
+~
+0 0 2719
+D2
+~
+~
+0 0 2703
+D3
+~
+~
+0 0 2706
+S
+#2705
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2714
+D1
+~
+~
+0 0 2718
+D2
+~
+~
+0 0 2704
+D3
+~
+~
+0 0 2707
+S
+#2706
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2707
+D1
+~
+~
+0 0 2704
+D3
+~
+~
+0 0 2708
+S
+#2707
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D1
+~
+~
+0 0 2705
+D2
+~
+~
+0 0 2706
+D3
+~
+~
+0 0 2709
+S
+#2708
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2709
+D1
+~
+~
+0 0 2706
+D3
+~
+~
+0 0 2727
+S
+#2709
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2710
+D1
+~
+~
+0 0 2707
+D2
+~
+~
+0 0 2708
+D3
+~
+~
+0 0 2726
+S
+#2710
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2712
+D1
+~
+~
+0 0 2711
+D2
+~
+~
+0 0 2709
+D3
+~
+~
+0 0 2725
+S
+#2711
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2713
+D1
+~
+~
+0 0 2714
+D3
+~
+~
+0 0 2710
+S
+#2712
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2729
+D1
+~
+~
+0 0 2713
+D2
+~
+~
+0 0 2710
+D3
+~
+~
+0 0 2724
+S
+#2713
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2730
+D1
+~
+~
+0 0 2715
+D2
+~
+~
+0 0 2711
+D3
+~
+~
+0 0 2712
+S
+#2714
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2715
+D1
+~
+~
+0 0 2717
+D2
+~
+~
+0 0 2705
+D3
+~
+~
+0 0 2711
+S
+#2715
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2731
+D1
+~
+~
+0 0 2716
+D2
+~
+~
+0 0 2714
+D3
+~
+~
+0 0 2713
+S
+#2716
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2732
+D1
+~
+~
+0 0 2723
+D2
+~
+~
+0 0 2717
+D3
+~
+~
+0 0 2715
+S
+#2717
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2716
+D1
+~
+~
+0 0 2722
+D2
+~
+~
+0 0 2718
+D3
+~
+~
+0 0 2714
+S
+#2718
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2717
+D1
+~
+~
+0 0 2721
+D2
+~
+~
+0 0 2719
+D3
+~
+~
+0 0 2705
+S
+#2719
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2718
+D1
+~
+~
+0 0 2720
+D3
+~
+~
+0 0 2704
+S
+#2720
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2721
+D1
+~
+~
+0 0 2738
+D3
+~
+~
+0 0 2719
+S
+#2721
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2722
+D1
+~
+~
+0 0 2737
+D2
+~
+~
+0 0 2720
+D3
+~
+~
+0 0 2718
+S
+#2722
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2723
+D1
+~
+~
+0 0 2736
+D2
+~
+~
+0 0 2721
+D3
+~
+~
+0 0 2717
+S
+#2723
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2733
+D1
+~
+~
+0 0 2735
+D2
+~
+~
+0 0 2722
+D3
+~
+~
+0 0 2716
+S
+#2724
+{8Ro{yoft{8op{}~
+The very tiptops of {WRedemption Midgaard{} buildings provide a place to land
+for weary birds.  A few tattered old nests are reminders of the prior mating
+season.  
+~
+0 0 1
+D1
+~
+~
+0 0 2712
+D2
+~
+~
+0 0 2725
+S
+#2725
+{8Ro{yoft{8op{}~
+The very tiptops of {WRedemption Midgaard{} buildings provide a place to land
+for weary birds.  A few tattered old nests are reminders of the prior mating
+season.  
+~
+0 0 1
+D0
+~
+~
+0 0 2724
+D1
+~
+~
+0 0 2710
+D2
+~
+~
+0 0 2726
+S
+#2726
+{8Ro{yoft{8op{}~
+The very tiptops of {WRedemption Midgaard{} buildings provide a place to land
+for weary birds.  A few tattered old nests are reminders of the prior mating
+season.  
+~
+0 0 1
+D0
+~
+~
+0 0 2725
+D1
+~
+~
+0 0 2709
+D2
+~
+~
+0 0 2727
+S
+#2727
+{8Ro{yoft{8op{}~
+The very tiptops of {WRedemption Midgaard{} buildings provide a place to land
+for weary birds.  A few tattered old nests are reminders of the prior mating
+season.  
+~
+0 0 1
+D0
+~
+~
+0 0 2726
+D1
+~
+~
+0 0 2708
+D2
+~
+~
+0 0 2728
+S
+#2728
+{YMeadowlark {}Nest ~
+A small {ynest{} is filled with scraps of paper and bits of cloth gathered
+from the city below.  A few small egg fragments have been pushed to the
+side.  
+~
+0 0 1
+D0
+~
+~
+0 0 2727
+S
+#2729
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D1
+~
+~
+0 0 2730
+D2
+~
+~
+0 0 2712
+S
+#2730
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D1
+~
+~
+0 0 2731
+D2
+~
+~
+0 0 2713
+D3
+~
+~
+0 0 2729
+S
+#2731
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D1
+~
+~
+0 0 2732
+D2
+~
+~
+0 0 2715
+D3
+~
+~
+0 0 2730
+S
+#2732
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D1
+~
+~
+0 0 2733
+D2
+~
+~
+0 0 2716
+D3
+~
+~
+0 0 2731
+S
+#2733
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D1
+~
+~
+0 0 2734
+D2
+~
+~
+0 0 2723
+D3
+~
+~
+0 0 2732
+S
+#2734
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D2
+~
+~
+0 0 2735
+D3
+~
+~
+0 0 2733
+S
+#2735
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2734
+D2
+~
+~
+0 0 2736
+D3
+~
+~
+0 0 2723
+S
+#2736
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2735
+D2
+~
+~
+0 0 2737
+D3
+~
+~
+0 0 2722
+S
+#2737
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2736
+D2
+~
+~
+0 0 2738
+D3
+~
+~
+0 0 2721
+S
+#2738
+{gTops of the Trees{}~
+The very tips of the {Gtrees{} skim the very bottom of the {cclouds{}.  Birds fly
+free from harm back and forth, gathering food.  Small tweets are mixed with
+beautiful long mating songs, all blending together in a chorus for heavenly
+ears.  
+~
+0 0 9
+D0
+~
+~
+0 0 2737
+D3
+~
+~
+0 0 2720
+S
+#0
+
+
+
+#SPECIALS
+M 2702 spec_cast_mage
+M 2703 spec_cast_mage
+M 2707 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 2700 1 2702 1
+G 0 2700 0
+G 0 2701 0
+G 0 2702 0
+G 0 2703 0
+M 0 2701 20 2703 20
+M 0 2701 20 2704 20
+M 0 2702 10 2705 10
+M 0 2701 20 2707 20
+M 0 2702 10 2707 10
+M 0 2703 15 2709 15
+M 0 2703 15 2711 15
+M 0 2702 10 2712 10
+M 0 2701 20 2712 20
+M 0 2703 15 2713 15
+M 0 2704 10 2714 10
+M 0 2704 10 2715 10
+M 0 2702 10 2715 10
+M 0 2703 15 2716 15
+M 0 2704 10 2717 10
+M 0 2703 15 2718 15
+M 0 2704 10 2721 10
+M 0 2704 10 2722 10
+M 0 2707 5 2724 5
+M 0 2707 5 2725 5
+M 0 2707 5 2726 5
+M 0 2707 5 2727 5
+M 0 2705 5 2728 5
+M 0 2708 10 2729 10
+M 0 2708 10 2731 10
+M 0 2708 10 2733 10
+M 0 2708 10 2737 10
+S
+
+
+
+#SHOPS
+2700 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#2728
+if ispc $n
+mob mload 2706
+mob echo {YWit a shrill chirping scream, {x$I{Y summons his Mama.{x
+mob echo Mama {YMeadowlark{x screams with fury and attacks !!!!!!
+mob force mama kill $n
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

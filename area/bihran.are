@@ -1,0 +1,1456 @@
+#AOD_AREA
+Bihran's Castle~
+1800 1899 C 1
+Levl 30 50
+Bldr Fein~
+End
+
+#MOBILES
+#1804
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGMNV 0 BEO -900 1805
+65 0 0 0 0 0 0 0 0 2 punch
+0 0 0 0
+STANDING STANDING neutral 0
+0 warrior medium ABCDEFGHIJK
+W 1
+
+#1806
+guard quest_prize crusader Syrola~
+Syrola the Crusader~
+Syrola, one of many Crusaders, stands here wielding your quest prize.
+~
+Standing before you is a man who has seen it all, a man that commands 
+respect.  Trustworthy and loyal to the end, it has been Syrola that was 
+chosen to remain as a guard to the Legendary Sword of Sardinella.
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 0 100 50 100 100 50 100 100 50 100 100 100 100 100 
+ABRTV CDEFQVc DHO 1000 1806
+109 10 0 30000 30000 1000 1000 54 109 1 punch
+-10000 -10000 -10000 -10000
+STANDING STANDING male 2000
+0 mage medium ABCDEFGHIJK
+D gasps 'Your prize will be in my corpse....'~
+W 1
+
+#1807
+beast quest protector~
+A Protective Beast~
+There is a large beast in this room, and it looks hungry!
+~
+You stare at this huge creation, and wonder what on earth could have made 
+something like that, and for what it's worth, you better pray the quest 
+prize is worth running through this maze for!
+~
+human~
+100 50 0 100 100 100 100 100 150 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABFMTUVc CDFVc O 0 1807
+104 8 0 12000 12000 300 300 52 104 3 claw
+-2000 -2000 -2000 -2000
+STANDING STANDING neutral 2000
+0 mage huge ABCDEFGHIJK
+D grumbles, growls, and then disappears...~
+W 1
+
+#1808
+healer adept Syrola~
+An adept of Syrola~
+An adept of Syrola is here, willing to heal before the great battles ahead.~
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABCMQRZac 0 CDEHNO 1000 1808
+109 9 0 1001 1001 1001 1001 54 109 40 wrath
+-10000 -10000 -10000 -10000
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+D ponders how you killed him for a minute, then disappears...~
+W 1
+
+#1810
+peasant woman~
+Peasant woman~
+A tired peasant woman is toiling over chores.
+~
+This poor woman will never see the glimmer of jewelry unless its worn by
+a noble who passes through this village.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 0 0
+35 30 -10 1334 1373 1036 1076 17 35 11 none
+-160 -180 -170 -150
+STANDING STANDING female 0
+0 mage small ABCDEFGHIJK
+
+#1811
+peasant man~
+Peasant man~
+A weary peasant man rests for a moment.
+~
+This unfortunate man has been working in the fields for years with
+nothing to show for besides the small harvest.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 0 0
+35 35 -5 1329 1373 1038 1075 17 35 11 none
+-180 -170 -160 -130
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#1812
+shopkeeper~
+Old Shopkeeper~
+A tired old shopkeeper tends to his store.
+~
+This man was lucky to escape the hardships of common village farmwork but
+is destined to live out the rest of his life behind a counter.  Since
+everyone in the village is basically poor, he has no real money himself.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABG 0 H 0 0
+102 0 0 66 131 73 129 51 102 51 slash
+-730 -730 -730 -730
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#1813
+shopkeeper~
+Slade the shopkeeper~
+Slade sits behind the counter checking his potions.
+~
+Slade is a jolly man who uses his knowledge of potions to benefit
+travelers and the villagers.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABQR DEF H 0 0
+64 0 0 1000 1000 1000 1000 32 64 10 magic
+-150 -150 -150 -150
+STANDING STANDING male 5000
+0 mage medium ABCDEFGHIJK
+
+#1814
+shopkeeper young man~
+Young Shopkeeper~
+A dashing fellow stands here testing out the weapons.
+~
+He looks very dangerous.  I wouldn't try to rob him.  This shopkeeper may
+have a lot of weapons, but not alot of brains.  Oh yeah did he mention he
+has alot of weapons.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABQR DEF H 0 0
+64 0 0 1000 1000 1000 1000 32 64 10 magic
+-150 -150 -150 -150
+STANDING STANDING male 5000
+0 mage medium ABCDEFGHIJK
+
+#1817
+Shopkeeper~
+Slade the Shopkeeper~
+Slade sits behind the counter checking his inventory.
+~
+He looks very dangerous.  I wouldn't try to rob him.  This shopkeeper may
+have a lot of weapons, but not alot of brains.  Oh yeah did he mention he
+has alot of weapons.  Slade is a jolly man who uses his skill in potion
+making for the benefit of travelers and the villagers.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABQRV DEF 0 0 0
+64 0 0 1000 1000 1000 1000 32 64 10 magic
+-150 -150 -150 -150
+STANDING STANDING male 5000
+0 mage medium ABCDEFGHIJK
+
+#1840
+Bloodwolf swordancer~
+BloodWolf Swordancer~
+BloodWolf Swordancer is here, stretching his muscles.
+~
+BloodWolf Swordancer is a massive man, built tall and built well.  Cords
+of rock hard muscles and tendons stand out as he stretches from side to
+side, warming himself up before a match.  His cold grey eyes regard you
+coolly as he oils his weapon with a smile.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCT DFJVZc DH 0 0
+80 80 0 1908 1952 20000 20000 40 80 13 wrath
+-130 -130 -130 -130
+STANDING STANDING male 0
+0 mage giant ABCDEFGHIJK
+
+#1852
+castle guard~
+castle guard~
+A strong guard is here flexing his muscles.
+~
+This has the muscles of a beast but an intellect to match.  He wouldn't
+know if he was slashing an enemy or his own mother.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 HP 0 0
+50 70 -20 4743 4817 4436 4509 25 50 20 slice
+-300 -290 -310 -270
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJK
+
+#1853
+castle servant~
+{WCastle {wservant{x~
+A servant frantically runs about with his duties.
+~
+This frantic servant must fufill his given commands with great haste
+otherwise its the dungeon for him, or worse the fields.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 0 0
+20 15 -5 340 356 237 260 10 20 5 none
+-60 -50 -50 -50
+STANDING STANDING male 300
+0 mage medium ABCDEFGHIJK
+
+#1859
+Jester~
+{YJ{Weste{Yr{x~
+A jester dances wildly while juggling.
+~
+This jester is shackled for life in the lord's throne room, forever to
+entertain.  If he fails its either death or the fields and he would probably
+choose death.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG V HP 0 0
+60 60 0 7001 7001 8933 9010 30 60 27 slice
+-380 -350 -360 -380
+STANDING STANDING male 4000
+0 mage medium ABCDEFGHIJK
+
+#1862
+Lord Bihran~
+{DL{Ro{Dr{Rd {DB{Ri{Dhr{Ra{Dn{x~
+{DL{Ro{Dr{Rd {DB{Ri{Dhr{Ra{Dn{x sits on his throne waiting for more gold.
+~
+Bihran is the cruel and merciless lord of this poor village.  He just
+spends his days secluded in his castle counting his riches while he takes
+them away from the poverty-stricken peasants.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 
+ABF BDEFVc HP 0 0
+70 75 -30 11001 11001 10420 10604 35 70 33 slice
+-460 -430 -440 -430
+STANDING STANDING male 3000
+0 mage large ABCDEFGHIJK
+
+#1863
+Lalia~
+{BL{Wali{Ba{x~
+{BL{Wali{Ba{x sits by her vanity mirror.
+~
+Lalia is the daughter of a Feudal lord by the Teresh realm.  She has the
+ability to get what she wants when she wants it, and when she doesn't, her
+servants suffer the consequences.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 HP 0 0
+60 60 -20 7001 7001 8922 9021 30 60 27 none
+-380 -370 -370 -340
+STANDING STANDING female 4000
+0 mage medium ABCDEFGHIJK
+
+#1864
+vanias~
+{RV{Wania{Rs{x~
+{RV{Wania{Rs{x is practicing his dagger skills.
+~
+Vanias is heir to the kingdom of Chinak and is also master of the art of
+bladed combat.  Legend has it that this man once killed another by throwing
+a dagger over 100 yards away and hit him right in the eye.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 HP 0 0
+60 60 0 7001 7001 8933 9026 30 60 27 slice
+-380 -370 -370 -340
+STANDING STANDING male 4000
+0 mage medium ABCDEFGHIJK
+
+#1865
+Keshtin~
+{DK{Weshti{Dn{x~
+{DK{Weshti{Dn{x hovers the ground muttering magic words.
+~
+Keshtin, the powerful sage of Veleron, has been on an endless journey to
+retrieve the philospher's stone.  He believes it will grant him magical
+powers beyond anyone's comprehension.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG TV HP 0 0
+60 60 0 7001 7001 8929 9009 30 60 27 slice
+-380 -350 -360 -380
+STANDING STANDING male 4000
+0 mage medium ABCDEFGHIJK
+
+#1866
+Jahlena~
+{MJ{Wahlen{Ma{x~
+{MJ{Wahlen{Ma{x is deeply involved with her reading.
+~
+Jahlena is a scholar who is studying to be a priestess at the Vharin
+Magic Academy.  She is very adept at healing spells but can just as easily
+cast devastating attack spells.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG TV HP 0 0
+60 60 0 7001 7001 8936 9017 30 60 27 slice
+-380 -350 -360 -380
+STANDING STANDING male 4000
+0 mage medium ABCDEFGHIJK
+
+#1867
+Rederick~
+{GR{Wederic{Gk{x~
+{GR{Wederic{Gk{x is here playing his flute.
+~
+Rederick is master bard in the realm of Helinshire.  All who know his
+name know of his virtuoso talent at the flute that is capable of entrancing
+any listener.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG TV HP 0 0
+60 60 0 7001 7001 8940 9033 30 60 27 slice
+-380 -350 -360 -380
+STANDING STANDING male 4000
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#1800
+blade shadow~
+The Shadow Blade~
+A wicked looking blade created from absolute nothingness has been tossed here.~
+weapon CES AN
+sword 13 14 shadow BDHJ
+99 40 2000
+A 14 -350
+F A 0 0 CJL
+A 18 25
+A 19 25
+A 13 150
+A 17 -24
+E
+blade shadow~
+As you hold this transparent blade in your hands, you can't help but notice 
+that it is really quite light for such a huge weapon.  You test the edge of 
+blade with your finger and almost lose it, the blade is that sharp.
+~
+
+#1801
+sphere dark shadow~
+A dark sphere of the shadows~
+A translucent sphere has been carelessly left behind by a previous owner.~
+armor BCFUW AQ
+23 23 23 19 0
+100 100 40000
+A 2 3
+A 12 30
+A 13 60
+A 18 10
+F A 0 0 PT
+E
+sphere dark shadow~
+This invisible, dark sphere you are holding in your hands seems to be a work 
+of magic.  You gaze deep into the sphere and think you see a little electron
+buzzing all around inside it.
+~
+
+#1802
+gloves dark~
+A pair of dark gloves~
+A pair of heavy, dark gloves are laying crumpled here.~
+armor CFU AH
+22 23 22 16 3
+95 120 12000
+A 1 3
+A 2 -1
+A 18 5
+A 19 5
+E
+gloves dark~
+As you look at these gloves, you sense that they are an important part of the
+armor of the questors of the Crusades from long ago.  They are eternally etched
+with battle scratches from which the Knights who wore them blocked their opponents
+blows.
+~
+
+#1803
+sword~
+guard's shortsword~
+A small sharp blade lies on the ground.~
+weapon 0 AN
+sword 8 8 slash D
+30 10 100
+A 13 1
+A 19 1
+E
+key city entrance~
+This key appears to be old, due to the fact it has many chips out of it and
+is very rusty.
+~
+
+#1804
+sword justice~
+Sword of Ultimate Justice~
+A very powerful sword.~
+weapon AB AN
+sword 1000 1000 slash ABCDEG
+1 0 0
+A 5 10
+A 13 500
+A 13 500
+A 13 500
+A 13 500
+A 13 500
+A 13 500
+A 1 10
+
+#1805
+key quest oak door~
+A key with a large Q on it.~
+Here lies a key with a large Q on it.  Is the Q of any significance?~
+key 0 AO
+0 0 0 0 0
+1 10 100
+E
+key quest~
+As you peer at this key, you think you quickly see a vision of a Crusader 
+of long ago.  You pass it off as a figment of your imagination.
+~
+
+#1806
+sword legendary Sardinella sardinella~
+The Legendary Sword of Sardinella~
+A very powerful weapon is lying here, obviously not being cared for.~
+weapon ABGIKLOT AN
+sword 14 14 slash DGJ
+101 50 23582
+A 20 -2
+A 18 20
+A 19 20
+E
+sword legendary Sardinella sardinella~
+Etched into the blade of this exotic sword are the words ' You are the 
+chosen one ... the holy conquerer...'
+~
+
+#1807
+key quest door_1~
+The Key for Door #1~
+The key to open the first door is lying here on the ground.~
+key 0 AO
+0 0 0 0 0
+1 10 100
+E
+key quest door_1~
+You see a large '1' at the head of the key.  Probably means it's to open 
+door one.
+~
+
+#1808
+key quest door_2~
+The Key for Door #2~
+The key to open the second door is lying here, carelessly discarded.~
+key 0 AO
+0 0 0 0 0
+1 10 100
+E
+key quest door_2~
+You see a large '2' at the head of the key, and it's probably like the 
+key for door number '1' huh?
+~
+
+#1809
+key quest door_3 final~
+The Key for the Final Door~
+The mystical key to open the final door lies here.~
+key 0 AO
+0 0 0 0 0
+1 10 100
+E
+key quest door_3 final~
+You gaze at the key, and it begs you to stick it in the slot to open the 
+final door and face a fierce battle.
+~
+
+#1810
+potion restoration bottle~
+A potion of {mrestoration{x~
+An interesting little bottle lies here on the floor.~
+potion ABG AO
+105 'restore mana' 'restore mana' '' ''
+90 200 30000
+E
+potion restoration bottle~
+Woah, is this thing ever heavy!  I guess all the elements need to create 
+such a powerful potion need to be!  The liquid inside this plastic bottle 
+is multi-colored, and you can see little rainbows all throughout it.
+~
+
+#1811
+traveler pouch~
+{WT{wraveler's {yPouch{x~
+A traveler's pouch lies here.~
+container 0 AL
+500 0 0 100 25
+30 50 2000
+A 13 50
+A 14 40
+A 5 1
+
+#1812
+Beef Jerky~
+{yBeef Jerky{  ~
+A stick of processed meat lies here.~
+food 0 AO
+-1 3 0 0 0
+0 0 50
+
+#1813
+Peasant Lantern~
+{wPeasant {yLantern{x~
+A tiny lantern with a faint glow rests here.~
+light A A
+0 0 50 0 0
+30 3 900
+A 18 1
+A 19 1
+
+#1814
+Bag~
+peasant's Bag~
+A discarded dirty bag lies here.~
+container 0 AL
+20 0 0 25 5
+30 10 10000
+A 13 5
+
+#1815
+Travelers Sword~
+{WT{wraveler's Sword{x~
+A sword will a dull blade is here.~
+weapon 0 AN
+sword 8 9 slash E
+35 7 2500
+A 18 3
+
+#1816
+Travelers Armor~
+{WT{wraveler's Armor{x~
+Some old tarnished armor lies on the ground.~
+armor 0 AD
+13 10 12 10 0
+35 0 2800
+A 18 3
+A 19 3
+
+#1817
+strength potion~
+{WT{wraveler's {mPotion {wof Strength{  ~
+(null)~
+potion 0 AO
+50 'giant strength' '' '' ''
+35 1 2000
+
+#1818
+haste potion~
+{WT{wraveler's {mPotion {wof Haste{  ~
+(null)~
+potion 0 AO
+50 'haste' '' '' ''
+35 0 3000
+
+#1819
+protection potion~
+{WT{wraveler's {mPotion {wof Protection{  ~
+(null)~
+potion 0 AO
+50 'sanctuary' 'armor' '' ''
+50 0 4000
+
+#1820
+flight potion~
+{WT{wraveler's {mPotion {wof Flight{  ~
+(null)~
+potion 0 AO
+15 'fly' '' '' ''
+0 0 1000
+
+#1821
+mud boots~
+{yMud{x-{wcovered {yBoots{x~
+A pair of boots, covered in mud, lie here.~
+armor 0 AG
+12 12 12 12 0
+40 40 40
+A 13 50
+A 2 -2
+A 5 3
+
+#1822
+dirt gloves~
+{yD{wir{yt{w-covered Gloves{x~
+A pair of dirty gloves lie here.~
+armor 0 AH
+12 12 12 12 0
+40 40 40
+A 20 -1
+A 5 2
+A 2 -1
+A 13 50
+
+#1833
+dagger newbie~
+{DNewbie D{ragge{Dr{x~
+You see a dagger here.~
+weapon U AN
+dagger 5 5 pierce 0
+0 10 210
+A 18 0
+
+#1834
+Peasant shackles~
+{WP{weasant shackles{x~
+A pair of dirty shackles lies here.~
+armor 0 AT
+12 11 12 7 0
+30 7 400
+A 2 -2
+A 1 2
+A 18 5
+A 19 5
+
+#1847
+Peasant sleeves~
+{WP{weasant Sleeves{x~
+A pair of torn, dirty sleeves is here.~
+armor 0 AI
+11 12 12 7 0
+30 0 400
+A 2 1
+A 18 3
+A 19 3
+
+#1852
+guard sword~
+{WCastle {wguard's blade{  ~
+A sharp blade with a {Bblue {wemblem is here.~
+weapon 0 AN
+sword 9 10 slash D
+40 40 2000
+A 18 3
+A 19 3
+
+#1853
+guard cape~
+{WCastle {wguard's cape{x~
+A cape with a falcon emblem rests here.~
+armor 0 AC
+8 10 11 5 0
+40 5 2000
+A 18 1
+A 13 10
+
+#1859
+jester mask~
+{YJ{Weste{Yr{W's M{wask{x~
+A silly mask lies here.~
+armor 0 AR
+11 8 8 6 0
+60 1 2500
+A 2 1
+A 13 60
+A 19 9
+A 18 9
+
+#1861
+diamond anklet~
+{CDiamond {wanklet{x~
+An anklet made of glittering diamonds rests here.~
+armor A AT
+18 17 16 13 0
+70 9 13000
+A 13 50
+A 1 2
+A 19 13
+A 18 13
+
+#1862
+Sword of Bihran~
+{DS{ww{Do{wr{Dd {wof {DB{Ri{Dhr{Ra{Dn{x~
+The honed blade of a feudal lord rests on the ground.~
+weapon 0 AN
+sword 10 9 slash AD
+70 40 3000
+A 18 9
+A 19 9
+A 13 50
+
+#1863
+talon earrings~
+{BT{Wa{Bl{Wo{Bn {WE{warrings{x~
+A blue earring is glittering on the ground.~
+armor AGI AS
+10 14 14 14 0
+60 9 10000
+A 18 14
+A 19 14
+A 13 30
+
+#1864
+vanias dagger~
+{RV{Wania{Rs{W' D{wagger{x~
+A sharp dagger emitting a glow rests here.~
+weapon A AN
+dagger 9 9 pierce BD
+60 40 10000
+A 18 6
+A 19 6
+A 1 2
+
+#1865
+keshtin bracer~
+{DK{Weshti{Dn{W's B{wracer of Magic{x~
+A powerful sages' bracer lies here.~
+armor A AM
+14 15 14 20 0
+60 1 1000
+A 4 1
+A 18 15
+A 19 10
+
+#1866
+Jahlena cloak~
+{MJ{Wahlena{Ms{W's C{wloak of Power{x~
+{xA {*c{*o{*l{*o{*r{*f{*u{*l {xcloak lies here.~
+armor AY AC
+14 14 11 10 0
+60 0 1400
+A 13 50
+A 1 3
+A 18 14
+A 19 17
+
+#1867
+Rederick bard hat~
+{GR{Wederic{Gk{W's B{ward Hat{x~
+An old {Ggreen {wcap is here.{x~
+armor AG AE
+14 14 14 11 0
+60 1 2000
+A 3 2
+A 19 5
+A 18 12
+
+#1868
+schneider boots~
+{CS{Wchneide{Cr{W's T{wraveling Boots{x ~
+A pair of boots with a knife tear lie here.~
+armor AG AG
+14 14 14 11 0
+60 2 1000
+A 19 10
+A 18 10
+A 13 75
+
+#1869
+key to the treasure chamber~
+key to the treasure chamber~
+A gleeming steel key lies here waiting to unlock something.~
+key Y A
+0 0 0 0 0
+0 50 100
+
+#1870
+The lords treasure chest~
+the lords treasure chest~
+{x~
+container 0 0
+100000 ABCD 1869 100 1000
+0 0 0
+#0
+
+#ROOMS
+#1800
+{6Walking Through the Maples{0~
+{3A narrow dirt path winds its way eastward towards a very large,
+menacing-looking structure.  Majestic maple trees form a tight
+line on either side of the path.  Hundreds of green and brown acorns
+litter the ground here, as do some decomposing leaves.  Several
+odd footprints are visible in the loose dirt that kicks up at the
+slightest hint of a breeze.  The air is cold and damp which has
+drawn clouds of mosquitos and black flies.  {0 
+~
+0 2
+D1
+~
+~
+0 0 1801
+S
+
+#1801
+{6Mucky Trail to the Castle{0~
+{3Running from east to west is an ever widening pathway.  The tracks
+of several dozen people head off in each direction.  There is a
+large indentation along the trail here that has been filled up
+with dirty, foul-smelling water.  Slinking their way through the
+puddle are very large, black leeches.  Alongside the path are tall,
+imposing maple trees that seem to be full of life and spirit. 
+A little ways to the east is a massive, stone structure that towers
+over everything else.  Torches can be seen flickering in the wind
+from high up in its steeples.  {0 
+~
+0 2
+D1
+~
+~
+0 0 1802
+D3
+~
+~
+0 0 1800
+E
+door~
+As you look at the door, you realize the key that was in the guard's corpse
+would fit perfect into the keyhole.
+~
+S
+
+#1802
+{6Approaching the Castle{0~
+{3Ascending high up into the clouds is a massive, stone castle. 
+The drawbridge is down allowing entry to a smaller building at
+the very foot of the castle.  Running below the drawbridge and
+all along the perimeter is a shallow moat full of green, algae-ridden
+water.  Circling high above are several birds of prey in search
+of a fresh meal.  Several flickering torches are mounted in the
+bricks casting strange shadows as the wind blows.  It is very cold
+here with a lot of moisture in the air.  To the west is a dirt
+path that disappears into the shadows of maple trees.  {0 
+~
+0 2
+D1
+~
+~
+0 0 1803
+D3
+~
+~
+0 0 1801
+S
+
+#1803
+{6Small Brick Building{0~
+{3Several dozen tables line the walls of this small, brick building.
+In the far west corner is a large piece of marble.  Behind it are
+several bottles of various colors and sizes.  In the east corner
+of the building is a roaring fire with a large hog spinning on
+a rotisserie.  Small puddles are all over the floorboards, they
+reek of ale.  To the west is a doorway that leads out towards a
+wide drawbridge.  The east is far too dark to make out much of
+anything.  Along the south wall sits a window that looks out towards
+a vast forest of maples and other trees.  {0 
+~
+0 0
+D1
+~
+~
+0 0 1804
+D3
+~
+~
+0 0 1802
+S
+
+#1804
+{6Front Rotunda of the Castle{0~
+{3Opening up in every direction is a massive, round room.  The floor
+is constructed of solid, black marble and the walls are covered
+with intricately placed tiles.  Branching off to the north, south
+and east are dark hallways.  To the west, a large building can
+be seen.  Black smoke is billowing from a chimney that sits atop
+it.  Over every door are long, blood-red banners that rise to the
+very edge of the ceiling.  High above is a dome with murals depicting
+gruesome battles scenes and macabre scenes of torture and death.
+Hanging from grooves in the walls are torches of blue flame.  {0
+
+~
+0 0
+D0
+~
+~
+0 0 1805
+D1
+~
+~
+0 0 1810
+D2
+~
+~
+0 0 1819
+D3
+~
+~
+0 0 1803
+S
+
+#1805
+{6Hallway of Eternal Darkness{0~
+{3It is rather difficult to make out much of anything here.  There
+is little light, but strange shadows dance across the walls.  Not
+far to the south is a well lit room, but some unseen force is hindering
+it from coming here.  The ground here is hard and appears to be
+covered with strange, round pebbles.  There is a horrid stench
+here, an almost deathly smell.  The walls are covered with cobwebs
+and are moist to the touch.  The darkness continues to the north.
+{0 
+~
+1 0
+D0
+~
+~
+0 0 1806
+D2
+~
+~
+0 0 1804
+S
+
+#1806
+{6Hallway of Eternal Darkness{0~
+{3It is rather difficult to make out much of anything here.  There
+is little light, but strange shadows dance across the walls.  Not
+far to the south is a well lit room, but some unseen force is hindering
+it from coming here.  The ground here is hard and appears to be
+covered with strange, round pebbles.  There is a horrid stench
+here, an almost deathly smell.  The walls are covered with cobwebs
+and are moist to the touch.  The darkness continues to the north.
+{0 
+~
+1 0
+D0
+~
+~
+0 0 1807
+D2
+~
+~
+0 0 1805
+S
+
+#1807
+{6End of the Darkness{0~
+{3Extending to the south is a dark hallway.  It is impossible to
+make out anything, no light can penetrate the evil-induced darkness.
+To the north is a large steel door, and to the east is a small,
+thin-looking door.  Sitting along the ground are droplets of fresh
+blood, they lead north and disappear under the doorway.  The walls
+are home to droves of cockroaches and other insects affiliated
+with filth.  {0 
+~
+0 0
+D0
+~
+steel_door~
+AB 0 1808
+D1
+~
+wooden_door~
+AB 0 1809
+D2
+~
+~
+0 0 1806
+S
+
+#1808
+{6Chamber of Forbidden Persuasions{0~
+{3The smell of death permeates from this room.  Large puddles of
+blood sit all over the ground.  In the center of this mess is a
+three foot tall observation table with thick restraints hanging
+off of it.  Sitting in the corner is a large clump of torn clothing.
+There is a also a great deal of blood splattered all over the walls
+and even as far as the ceiling.  There is a large steel door to
+the south.  Bloody footprints are all over the room, but a concentration
+of them are around the table.  Sitting along the northeast corner
+of the room is a lit torch.  There is a small drain on the floor,
+a small stream of fresh blood slowly moves through it.  {0 
+~
+0 0
+D2
+~
+steel_door~
+AB 0 1807
+S
+
+#1809
+{6Implements of Persuasion{0~
+{3This is a room of pain.  Hanging all along the walls are instruments
+used for the sole purpose of inflicting agony on victims.  Most
+are stained with blood, some still have fresh drops falling to
+the ground.  A small pool of water is in the middle of the room,
+small blades have been left in the dark water.  To the west is
+a broken wooden door.  Most of these tools of torment are metal,
+but some are comprised of wood and a few are bone.  Metal chains
+hang from the ceiling with small clamps attached to the ends of
+them.  {0 
+~
+0 0
+D3
+~
+wooden_door~
+AB 0 1807
+S
+
+#1810
+{6Corridor of Damnation{0~
+{3Travelling eastward is a very extravagant-looking hallway.  Large
+glass vases sit along the ground holding magnificent specimens
+of rare flowers.  To the north is a solid pine door.  Inscribed
+in the wood is a single letter, S.  Hanging from the walls are
+oddly-shaped mirrors.  They give off a very strange light as peculiar
+swirls appear in the reflection.  There is a smell radiating from
+the east.  It smells as if someone is cooking.  To the west is
+a large, well-lit room.  {0 
+~
+0 0
+D0
+~
+pine_door~
+AB 0 1818
+D1
+~
+~
+0 0 1811
+D3
+~
+~
+0 0 1804
+S
+
+#1811
+{6Corridor of Damnation{0~
+{3Travelling east and west is a very extravagant-looking hallway.
+Large glass vases sit along the ground holding magnificent specimens
+of rare flowers.  To the north is a solid maple door.  Inscribed
+in the wood is a single letter, S.  Hanging from the walls are
+oddly-shaped mirrors.  They give off a very strange light as peculiar
+swirls appear in the reflection.  There is a smell radiating from
+the east.  It smells as if someone is cooking.  To the west is
+a large, well-lit room.  {0 
+~
+0 0
+D0
+~
+maple_door~
+AB 0 1817
+D1
+~
+~
+0 0 1812
+D3
+~
+~
+0 0 1810
+S
+
+#1812
+{6End of the Corridor{0~
+{3Running east is a very posh and rich-looking hallway.  Further
+down the hall are two doors that open to the north.  To the east
+is a very large door made of ash wood.  Along the north wall sits
+a massive glass vase that has been filled with water but there
+is nothing else in it.  A few bubbles appear on the surface of
+the water but then disappear.  {0 
+~
+0 0
+D1
+~
+ashen_door~
+AB 0 1813
+D3
+~
+~
+0 0 1811
+S
+
+#1813
+{6Cannibal's Dining Room{0~
+~
+0 0
+D1
+~
+~
+0 0 1814
+D3
+~
+ashen_door~
+AB 0 1812
+S
+
+#1814
+{6Cannibal's Dining Room{0~
+~
+0 0
+D0
+~
+~
+0 0 1815
+D3
+~
+~
+0 0 1813
+S
+
+#1815
+{6Food Preparation Room{0~
+~
+0 0
+D1
+~
+~
+0 0 1816
+D2
+~
+~
+0 0 1814
+S
+
+#1816
+{6Cadavre Cold Room{0~
+~
+0 0
+D3
+~
+~
+0 0 1815
+S
+
+#1817
+{6Servant's Living Quarters{0~
+{3 Cramped together with only a foot to spare between them are seven
+sets of three tier bunk beds.  Along the western wall is a large,
+wooden cabinet used to store clothing and footwear.  The beds are
+made up of a single blanket and a smelly pillow.  In the center
+is a table with four chairs tucked in under it.  There is a lit
+oil lamp sitting on a small desk in the southeast corner, with
+a piece of charcoal and papers on top.  There is a maple door to
+the south.  {0 
+~
+0 0
+D2
+~
+maple_door~
+AB 0 1811
+S
+
+#1818
+{6Servant's Living Quarters{0~
+{3Cramped together with only a foot to spare between them are seven
+sets of three tier bunk beds.  Along the western wall is a large,
+wooden cabinet used to store clothing and footwear.  The beds are
+made up of a single blanket and a smelly pillow.  In the center
+is a table with four chairs tucked in under it.  There is a lit
+oil lamp sitting on a small desk in the southeast corner, with
+a piece of charcoal and papers on top.  There is a pine door to
+the south.  {0 
+~
+0 0
+D2
+~
+pine_door~
+AB 0 1810
+S
+
+#1819
+{6Putrid Hall of Decay{0~
+{3This hallway's walls and floor are made up entirely of human skulls.
+They are locked together neatly so there isn't a single gap.  To
+the north is a large, well-lit room.  There is a faint, sweet-smelling
+aroma here.  The smell resembles the sweet scent of roses.  Some
+of the skulls have odd rocks placed in their eye sockets.  They
+are in there firmly and impossible to remove.  The hallway continues
+southward.  {0 
+~
+0 0
+D0
+~
+~
+0 0 1804
+D2
+~
+~
+0 0 1820
+S
+
+#1820
+{6Putrid Hall of Decay{0~
+{3This hallway's walls and floor are made up entirely of human skulls.
+They are locked together neatly so there isn't a single gap.  To
+the north is a large, well-lit room.  There is a faint, sweet-smelling
+aroma here.  The smell resembles the sweet scent of roses.  Some
+of the skulls have odd rocks placed in their eye sockets.  They
+are in there firmly and impossible to remove.  The hallway continues
+northward.  There is a black door to the south and a steel gate
+to the east.  {0 
+~
+0 0
+D0
+~
+~
+0 0 1819
+D1
+~
+steel_gate~
+AB 0 1822
+D2
+~
+black_door~
+AB 0 1821
+S
+
+#1821
+{6End of the Hall{0~
+{3The walls and floor here are made up of human skulls.  To the north
+is a large, black door with strange engravings carved into it.
+To the south is a set of double doors.  There is an odd thumping
+sound which seems to be coming from somewhere to the north.  Each
+skull along the wall has its mouth wide open revealing teeth in
+very poor condition.  A family of rats has built a nest in the
+northwest corner of the room.  It's comprised of straw and strands
+of string.  Littering the floor are small, black rat droppings.
+{0 
+~
+0 0
+D0
+~
+black_door~
+AB 0 1820
+D2
+~
+double_doors~
+AB 0 1828
+S
+
+#1822
+{6Jailkeep's Office{0~
+~
+0 0
+D3
+~
+steel_gate~
+AB 0 1820
+D5
+~
+~
+0 0 1823
+S
+
+#1823
+{6Catacombs of the Castle{0~
+~
+0 0
+D1
+~
+~
+0 0 1825
+D3
+~
+~
+0 0 1824
+D4
+~
+~
+0 0 1822
+S
+
+#1824
+{6Catacombs of the Castle{0~
+~
+0 0
+D1
+~
+~
+0 0 1823
+D2
+~
+~
+0 0 1827
+S
+
+#1825
+{6Catacombs of the Castle{0~
+~
+0 0
+D0
+~
+~
+0 0 1826
+D3
+~
+~
+0 0 1823
+S
+
+#1826
+{6Lair of the Forgotten{0~
+~
+0 0
+D2
+~
+~
+0 0 1825
+S
+
+#1827
+{6Slave Prison{0~
+~
+0 0
+D0
+~
+~
+0 0 1824
+S
+
+#1828
+{6Castle Athenaeum{0~
+{3A truly marvelous room of education.  Wall upon wall, row upon
+row of books extend fifty feet in every direction.  Ladders are
+set up on each wall, they are attached to metal bars that run horizontally
+below each shelf.  This allows the reader to reach books that are
+too far up.  Five small, wooden tables sit around the room, each
+one having an oil lamp sitting atop it.  A thick, brown carpet
+covers the floor.  There is a large painting sitting between two
+shelves along the eastern wall.  It depicts a very handsome man.
+His grey beard making him look very distinguished and mature. 
+The eyes on the other hand are black and lifeless.  There is a
+spiral staircase leading up.  {0 
+~
+0 0
+D0
+~
+double_doors~
+AB 0 1821
+D4
+~
+~
+0 0 1829
+S
+
+#1829
+{6Top of the Stairs{0~
+~
+0 0
+D3
+~
+~
+0 0 1830
+D5
+~
+~
+0 0 1828
+S
+
+#1830
+{6Faces of the Long Forgotten{0~
+~
+0 0
+D0
+~
+~
+0 0 1831
+D1
+~
+~
+0 0 1829
+S
+
+#1831
+{6Faces of the Long Forgotten{0~
+~
+0 0
+D0
+~
+~
+0 0 1832
+D2
+~
+~
+0 0 1830
+S
+
+#1832
+{6Intersection of Hallways{0~
+~
+0 0
+D2
+~
+~
+0 0 1831
+S
+#0
+
+#SPECIALS
+M 1804 spec_nasty
+M 1806 spec_breath_any
+M 1807 spec_breath_frost
+M 1808 spec_cast_mage
+M 1840 spec_cast_undead
+S
+
+#RESETS
+D 100 1807 0 1
+D 100 1807 1 1
+D 100 1808 2 1
+D 100 1809 3 1
+D 100 1810 0 1
+D 100 1811 0 1
+D 100 1812 1 1
+D 100 1813 3 1
+D 100 1817 2 1
+D 100 1818 2 1
+D 100 1820 1 1
+D 100 1820 2 1
+D 100 1821 0 1
+D 100 1821 2 1
+D 100 1822 3 1
+D 100 1828 0 1
+S
+
+#SHOPS
+1812 19 15 1 0 0 100 25 0 23
+1813 10 0 0 0 0 100 35 0 23
+1814 5 9 15 0 0 100 35 0 23
+1817 10 0 0 0 0 100 35 0 23
+0
+
+#$

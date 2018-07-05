@@ -1,0 +1,321 @@
+#PLAYER
+Name Devante~
+Race human~
+Levl 86
+Clas mage~
+Pkpt 100
+TSex 1
+LogO 1353183559
+Sock pool-108-38-80-3.lsanca.fios.verizon.net~
+Titl  Swing{x~
+
+#STAT_BREAK
+
+Id   1351049667
+Plat 19
+Gold 94
+Silv 9
+Exp  130076
+Attr 18 20 18 18 18
+Prom {x<{R%A{x/{r%H{xhp {B%B{x/{b%M{xm {G%Cmv {x<%X{Wxp{x>~
+Act  BCDEFGHJQT
+AfBy CDEFGHLTVe
+ShBy BK
+Comm NQ
+Config N
+Pos  8
+Alig  1000
+Sk 1 'angelfire'
+Sk 75 'armor'
+Sk 1 'awen'
+Sk 1 'barkskin'
+Sk 1 'cancellation'
+Sk 1 'channel'
+Sk 1 'cure critical'
+Sk 1 'cure light'
+Sk 1 'cure serious'
+Sk 1 'demonfire'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'dispel magic'
+Sk 1 'fireproof'
+Sk 1 'flamestrike'
+Sk 1 'golden armor'
+Sk 1 'groupheal'
+Sk 1 'heal'
+Sk 75 'heat metal'
+Sk 1 'mass healing'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'protection neutral'
+Sk 1 'protection voodoo'
+Sk 1 'ray of deceit'
+Sk 1 'ray of truth'
+Sk 1 'sanctuary'
+Sk 75 'shield'
+Sk 1 'steel skin'
+Sk 1 'stone skin'
+Sk 1 'vigorize'
+Sk 78 'dagger'
+Sk 75 'dodge'
+Sk 75 'haggle'
+Sk 76 'kick'
+Sk 75 'meditation'
+Sk 75 'phase'
+Sk 75 'quarterstaff'
+Sk 75 'recall'
+Sk 75 'rub'
+Sk 1 'scrolls'
+Sk 75 'second attack'
+Sk 75 'shield levitate'
+Sk 1 'staves'
+Sk 75 'third attack'
+Sk 1 'wands'
+Sk 75 'whip'
+MaxDam 350
+LLev 12
+Pass DeaTio31d8GdQ~
+Plyd 47213
+Note 1352416628 0 0 0 0
+Room 2362
+HMVN 3750 3740 8071 8071 2345 2415
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 0 0
+Deviant 0 0
+GRANT spellup~ Hezekiah~
+GRANT exp_mod~ Rzarecta~
+Prac 630
+Trai 308
+Devote current 0
+Pnts 38
+Mkil 316
+Mdea 5
+Alias 0 order~
+Alias 9 kick~
+Gr 'attack'
+Gr 'healing'
+Gr 'mage basics'
+Gr 'protective'
+Gr 'rom basics'
+Affc 'stone skin'   0 108   0  11 -115  17          0
+Affc 'invisibility'   1 104   0  11   0   0          2
+Affc 'haste'   0 109   0  11   3   2    2097152
+Affc 'giant strength'   0 103   0  11   3   1 1073741824
+Affc 'fly'   0 104   0  72   0   0     524288
+Affc 'farsight'   0  99   0  11   0   0       2048
+Affc 'divine aura'   1 105   0  16   0   0       1024
+Affc 'detect neutral'   0  98   0  11   0   0        128
+Affc 'detect magic'   0  99   0  11   0   0         16
+Affc 'detect invis'   0 108   0  11   0   0          8
+Affc 'detect hidden'   0 106   0  11   0   0         32
+Affc 'detect good'   0 100   0  11   0   0         64
+Affc 'detect evil'   0 103   0  11   0   0          4
+End
+
+#O
+Vnum 733
+Nest 0
+Name boots cracked~
+ShD  cracked boots~
+Desc Boots are here.~
+Loader MPOP: (13:11-11/11/2012) Devante~
+Cost 500
+Wear 8
+Valu 1 7 -2
+Valu 2 7 0
+Valu 3 7 -2
+Valu 4 7 -2
+End
+
+#O
+Vnum 31026
+Nest 0
+Name bronze necklace~
+ShD  a Bronze Necklace~
+Desc A bizarre necklace made of bronze lies here.~
+End
+
+#O
+Vnum 54040
+Nest 0
+Name golden ring~
+ShD  a golden ring~
+Desc A small golden ring glitters brightly here.~
+Wear 2
+End
+
+#O
+Vnum 2506
+Nest 0
+Name crystal crystallized ring~
+ShD  a small crystallized ring~
+Desc A small ring with a beautiful crystal lies here.~
+Wear 1
+End
+
+#O
+Vnum 2513
+Nest 0
+Name platinum earring~
+ShD  a platinum earring~
+Desc A beautiful earring made of platinum lies here!~
+Wear 21
+End
+
+#O
+Vnum 2513
+Nest 0
+Name platinum earring~
+ShD  a platinum earring~
+Desc A beautiful earring made of platinum lies here!~
+Wear 22
+End
+
+#O
+Vnum 710
+Nest 0
+Name choker exceptional~
+ShD  exceptional choker~
+Desc A neck choker lies here.~
+Loader MPOP: (11:52-11/17/2012) Devante~
+ExtF GW
+Cost 30000
+Wear 4
+Valu 1 7 14
+Valu 2 7 15
+Valu 4 7 2
+End
+
+#O
+Vnum 716
+Nest 0
+Name hood normal~
+ShD  hood~
+Desc A hood lies here.~
+Loader MPOP: (11:56-11/17/2012) Devante~
+Cost 20000
+Wear 6
+End
+
+#O
+Vnum 57
+Nest 0
+Name light~
+ShD  A large shiny light~
+Desc A large shiny light lies here.~
+Loader LOAD: (13:59-11/17/2012) Rzarecta~
+Wear 0
+Valu 2 1 999888
+End
+
+#O
+Vnum 31076
+Nest 0
+Name kratasian quarterstaff staff~
+ShD  a Kratasian Quarterstaff~
+Desc A long quarterstaff of Kratas is lying here.~
+Cost 4284
+End
+
+#O
+Vnum 31017
+Nest 0
+Name black sash pockets~
+ShD  a Black Sash of Holding~
+Desc A long black sash with several pockets lies here.~
+Wear 13
+End
+
+#O
+Vnum 31073
+Nest 0
+Name suit chain mail armor~
+ShD  a Suit of Chain Mail~
+Desc A large suit of armor made of chains lies here jingling.~
+End
+
+#O
+Vnum 31026
+Nest 0
+Name bronze necklace~
+ShD  a Bronze Necklace~
+Desc A bizarre necklace made of bronze lies here.~
+Wear 3
+End
+
+#O
+Vnum 31023
+Nest 0
+Name wooden leg~
+ShD  a Wooden Leg~
+Desc A small leg used to stick your leg in lies here.~
+Wear 7
+End
+
+#O
+Vnum 31022
+Nest 0
+Name black eyepatch~
+ShD  an Eyepatch~
+Desc A small black eyepatch lies here for you to wear.~
+Wear 20
+End
+
+#O
+Vnum 31021
+Nest 0
+Name golden bracer~
+ShD  a Golden Bracer~
+Desc A small sparkling bracer lies here with a golden aura about it.~
+Wear 14
+End
+
+#O
+Vnum 15716
+Nest 0
+Name bronze plate~
+ShD  a suit of bronze plate~
+Desc A suit of bronze plate has been piled up here.~
+Wear 5
+End
+
+#O
+Vnum 15717
+Nest 0
+Name bronze shield~
+ShD  a bronze shield~
+Desc A bronze shield lies here.~
+Wear 11
+End
+
+#O
+Vnum 15719
+Nest 0
+Name bronze sword~
+ShD  a bronze sword~
+Desc A bronze sword is buried in the ground here.~
+Wear 16
+End
+
+#PET
+Vnum 3225
+Name slave man~
+LogO 1353183559
+ShD  a ferocious slave~
+LnD  A strong-looking man sits here rubbing his knuckles awaiting orders.
+~
+Desc A neck tag says '{cI belong to Devante{x'.
+~
+Sex  1
+Levl 59
+HMV  5511 5511 5562 5562 100 100
+AfBy ST
+Pos  8
+Alig 1000
+ACs  -310 -296 -201 -202
+Attr 25 25 25 25 25
+AMod 0 0 0 0 0
+Affc 'fly'   0  95  30   0   0     524288
+End
+

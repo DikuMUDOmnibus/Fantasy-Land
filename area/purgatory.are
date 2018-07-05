@@ -1,0 +1,3180 @@
+#AOD_AREA
+Purgatory~
+35500 35599 C 9
+Levl 50 90
+Bldr Neka~
+End
+
+#MOBILES
+#35500
+librarian~
+the librarian~
+The libarian warns you to be quiet as soon as you come into the library.
+~
+The librarian has an itchy polyester dress and uncomfortable looking
+matron shoes.  It's no wonder she's grouchy.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 0 -3000 0
+70 70 0 14948 15107 76 124 35 70 33 none
+-460 -460 -460 -460
+STANDING STANDING female 1750
+0 mage medium ABCDEFGHIJK
+
+#35501
+deer~
+a deer~
+A deer wanders about grazing peacefully.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ADF DJ 0 3000 0
+115 0 0 7072 7522 200 246 57 115 50 none
+-60 -60 -60 20
+STANDING STANDING female 625
+0 mage medium ABCDEFGHIJK
+W 20
+
+#35502
+rabbit~
+a rabbit~
+A bad ass rabbit glares at you.
+~
+The rabbit has had a bad day.  He's not in the mood for a fool like you.  
+~
+rabbit~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 3000 0
+100 0 0 2023 2493 125 175 50 100 20 bite
+-10 -10 -10 -10
+STANDING STANDING male 1275
+0 mage medium ACDEFHJK
+W 20
+
+#35503
+snake~
+a snake~
+A snake lies coiled in the grass.
+~
+With beady yellow eyes fixed on you, the snake hisses and bares his fangs.  
+~
+snake~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+AG 0 0 -2000 0
+110 0 0 2581 3013 119 185 55 110 2000 none
+-10 -10 -10 -10
+STANDING STANDING male 1300
+0 mage medium ADEFKLQVX
+W 20
+
+#35504
+pixie~
+a pixie~
+A pixie cowers in fear.
+~
+The pixie has been kept here until the goblins need food.  He is more
+afraid of you than you are of him.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG JL P 3000 0
+105 0 0 2458 3002 35 64 52 105 24 bite
+-10 -10 -10 -10
+STANDING STANDING male 1500
+0 mage small ABCDEFGHIJK
+W 25
+
+#35505
+goblin woman~
+a goblin woman~
+A goblin woman grins wickedly as you pass by.
+~
+The goblin woman licks her lips in greedy anticipation.  You could be
+lunch.  
+~
+hobgoblin~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+AGT J 0 -2000 0
+58 58 -1 8736 8815 118 145 29 58 25 beating
+-360 -360 -360 -260
+STANDING STANDING female 1450
+0 mage medium ABCDEFGHIJKY
+W 30
+
+#35506
+goblin man~
+a goblin man~
+A goblin man stands here.
+~
+The goblin man nearly drools as he sees you.  It seems he's almost
+testing you.  Are you ready for dinner?  
+~
+hobgoblin~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+AG J 0 0 0
+60 60 -1 9739 9820 117 147 30 60 27 thrust
+-380 -380 -380 -280
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJKY
+W 30
+
+#35507
+goblin guard~
+the guard~
+A burly guard stands here watching for signs of trouble.
+~
+With a growl, the guard checks you over quickly.  "What is it you want?" 
+He hisses.  
+~
+hobgoblin~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABGOT J 0 0 0
+70 70 -1 14956 15086 36 58 35 70 33 slice
+-460 -460 -460 -400
+STANDING STANDING male 1750
+0 mage large ABCDEFGHIJKY
+W 15
+
+#35508
+concubine~
+a concubine~
+A concubine smiles as she thinks of afternoon delights.
+~
+"Let me slip into something more comfortable," the concubine murmers.  
+~
+hobgoblin~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABG J 0 -2000 0
+63 63 0 15309 15478 2 2 31 63 30 none
+-400 -400 -400 -400
+STANDING STANDING female 1575
+0 mage medium ABCDEFGHIJKY
+W 4
+
+#35509
+madame~
+the madame~
+The madame rests on a silken couch.
+~
+The madam smiles as you approach.  She tempts you with earthly delights. 
+The cost is more than reasonable.  
+~
+hobgoblin~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABG J 0 0 0
+65 65 0 12322 12472 35 64 32 65 30 beating
+-420 -420 -420 -320
+STANDING STANDING female 1625
+0 mage medium ABCDEFGHIJKY
+W 1
+
+#35510
+wraith~
+a wraith~
+A wraith searches for something that once was.
+~
+The wraith moans hauntingly as it searches for what once was.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 
+AGO U 0 -2000 0
+110 0 0 3036 3454 34 61 55 110 50 wrath
+-10 -10 -10 -10
+STANDING STANDING neutral 1750
+0 mage medium ABCDEFGHIJK
+W 10
+
+#35511
+lounge singer~
+the lounge singer~
+The lounge singer belts out an oldy but goody.
+~
+A few too many late nights along with a bit too much ruckus has made the
+lounge singer old before her time.  
+~
+human~
+100 50 100 100 100 100 50 100 150 100 100 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABGO Va D -2000 0
+72 72 0 16025 16235 37 59 36 72 34 acbite
+-470 -470 -470 -470
+STANDING STANDING female 1750
+0 mage medium ABCDEFGHIJK
+W 1
+
+#35512
+bartender~
+the bartender~
+The bartender stands behind the bar.
+~
+~
+human~
+100 50 100 100 100 100 50 100 150 100 100 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABG Va D -2000 0
+72 72 -1 16038 16251 34 58 36 72 34 flbite
+-470 -470 -470 -470
+STANDING STANDING male 1800
+0 mage medium ABCDEFGHIJK
+W 15
+
+#35513
+receptionist~
+the receptionist~
+The receptionist sits behind the desk.
+~
+With a grimace, she mutters something quietly under her breath.  A second
+later she shoves a metal ticket in your hand.  
+~
+human~
+100 50 100 100 100 100 50 100 150 100 100 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABGO Va D -2000 0
+70 70 0 14923 15102 36 62 35 70 33 shbite
+-460 -460 -460 -460
+STANDING STANDING male 1750
+0 mage medium ABCDEFGHIJK
+W 1
+
+#35514
+lost soul~
+a lost soul~
+A lost soul wanders through purgatory.
+~
+The lost soul searches for what could have been, what should have been.  
+~
+human~
+100 100 100 150 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG Va D -2250 0
+115 0 0 3035 3571 33 62 57 115 34 chill
+-10 -10 -10 -10
+STANDING STANDING male 1825
+0 mage medium ABCDEFGHIJK
+W 10
+
+#35515
+tormented soul~
+a tormented soul~
+A tormented soul sobs in misery.
+~
+The soul thinks only of what could have been done differently in the
+past.  "If only..."  , those haunting words echo from the formless lips of
+this soul.  
+~
+human~
+100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG Va D -3000 0
+110 0 0 3065 3472 32 61 55 110 35 acbite
+-10 -10 -10 -10
+STANDING STANDING male 1875
+0 mage medium ABCDEFGHIJK
+W 10
+
+#35516
+haunted soul~
+a haunted soul~
+A haunted soul moans strangely.
+~
+The haunted soul rattles chains as he floats by born on ethereal mists.  
+~
+human~
+100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG Va D -2250 0
+110 0 0 3497 4067 35 61 55 110 34 flbite
+-10 -10 -10 -10
+STANDING STANDING male 1850
+0 mage medium ABCDEFGHIJK
+W 10
+
+#35517
+demon~
+a demon~
+A demon keeps the lost souls in order.
+~
+Cattle prod held in one hand, the demon grins wickedly as you walk by. 
+With a loud cackle, he zaps a lost soul in the behind.  
+~
+human~
+100 100 100 100 100 100 50 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG Va D 0 0
+76 76 0 18132 18418 33 62 38 76 36 none
+-500 -500 -500 -500
+STANDING STANDING male 1900
+0 mage medium ABCDEFGHIJK
+
+#35518
+cherub~
+a cherub~
+A cherub darts by you as he keeps the lost souls in order.
+~
+A tiny cherub smiles as you pass by.  With innocent blue eyes he looks at
+you, then zaps a lost soul in the behind with an arrow.  
+~
+human~
+150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 
+AG T EH 2500 0
+76 76 0 18130 18449 35 61 38 76 36 frbite
+-500 -500 -500 -500
+STANDING STANDING male 1900
+0 mage medium ABCDEFGHIJK
+W 15
+
+#35519
+stripper~
+a stripper~
+A stripper tantalizes you with a slow show of flesh.
+~
+Silver pasties dangle tantalizingly before you.  With a wicked little
+grin, she teases you with a wild show of flesh.  
+~
+human~
+50 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 150 100 100 100 
+AG LT Q 3000 0
+110 0 0 3981 4468 30 58 55 110 36 chop
+-20 -20 -20 -20
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+W 20
+
+#35520
+school marm~
+a school marm~
+A school marm shoves education down your throat.
+~
+Ewww!  Those clunky matron type shoes, and that ugly polyester dress... 
+No wonder she's always so grouchy.  
+~
+human~
+50 100 100 150 100 100 50 100 100 100 100 150 100 100 100 100 100 100 100 100 100 150 100 100 100 100 
+AGR a I -2500 0
+80 80 0 20157 20383 35 62 40 80 36 cleave
+-540 -540 -540 -540
+STANDING STANDING male 2000
+0 mage medium ABCDEFGHIJK
+W 10
+
+#35521
+elf~
+a large jolly elf~
+A large jolly elf stands here holding a pair of angel wings.
+~
+What a surprising sight this is!  A round little elf with a pack on his
+back.  He smiles and shoves a pair of angel wings into your hands.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG JL HP -3000 0
+87 87 -1 23890 24266 34 60 43 87 39 slice
+-590 -590 -590 -590
+STANDING STANDING male 2175
+0 mage medium ABCDEFGHIJK
+W 1
+
+#35522
+lawyer~
+the lawyer~
+A lawyer assures you everything is legal and binding in the contract.
+~
+The lawyer hands you a sheaf of papers and says, "Sign on the dotted
+line, no need to read it!  It's all legal."  
+~
+human~
+100 100 100 100 0 100 100 100 100 100 100 150 100 50 100 100 100 100 0 100 50 100 100 100 100 100 
+ABGR 0 H -3000 0
+87 87 -1 23846 24176 31 64 43 87 39 none
+-590 -590 -590 -590
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#35523
+rabbit~
+a large white rabbit~
+A large white rabbit dances wildly about.
+~
+What a big grin this rabbit has.  With those whiskers and fluffy white
+tail, he looks quite harmless.  Or, could looks be deceiving you?  
+~
+rabbit~
+100 100 100 0 100 100 0 100 50 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 
+ABG 0 0 -2750 0
+85 85 -1 22766 23068 26 58 42 85 38 none
+100 100 100 100
+STANDING STANDING male 2500
+0 mage medium ACDEFHJK
+W 1
+
+#35524
+shiny white teeth~
+some shiny white teeth~
+How strange, someone smiles and all you can see are shiny white teeth.
+~
+It happens to be one of those smiles.  Some one smiles, they're whole
+face disappears.  All that are left are those glaring white teeth... 
+Blinding you to anything else.  
+~
+human~
+50 100 100 150 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGO Va 0 -3000 0
+150 300 -2 15001 15001 32 60 75 150 50 rend
+-660 -660 -660 -460
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#35525
+baker~
+the baker~
+The baker waits impatiently for you to buy something.
+~
+Type 'list' to see what may be purchased here.  
+~
+hobgoblin~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABG DFJ 0 0 0
+101 101 -5 65 138 29 62 50 101 1 none
+-730 -730 -730 -730
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJKY
+W 1
+
+#35526
+shop keeper~
+the shop keeper~
+The shop keeper hums quietly as he arranges things on a shelf.
+~
+Type 'list' to see what may be purchased here.  
+~
+hobgoblin~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABG DFJ 0 0 0
+101 101 -5 83 123 35 60 50 101 1 beating
+-730 -730 -730 -730
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJKY
+W 1
+
+#35527
+shop keeper~
+the shop keeper~
+The shop keeper waits patiently behind the counter.
+~
+Type list to see what may be purchased here.  
+~
+hobgoblin~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABG DFJ 0 0 0
+101 101 -5 4821 7577 32 62 50 101 50 beating
+-730 -730 -730 -730
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJKY
+W 1
+
+#35528
+vortex~
+the vortex~
+The vortex lies in the center of the floor.
+~
+The vortex swirls strangely.  Lost souls who fall into its depths never
+escape and are forever lost.  
+~
+human~
+50 50 100 100 0 100 50 100 100 100 50 100 100 100 100 150 100 50 0 100 50 100 100 100 100 100 
+ABCGT BFUVa Q 0 0
+110 110 -4 5186 8894 32 61 55 110 55 wrath
+-780 -780 -780 -780
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#35529
+mists nothing~
+the mists of nothingness~
+The mists of nothingness wait to envelope you for eternity.
+~
+Into the mists of nothing you are pulled.  There is no escape.  
+~
+human~
+50 100 100 100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 0 100 50 0 100 100 100 100 
+ABGO TVac P -3000 0
+150 500 0 20000 20000 33 58 75 150 200 none
+-700 -700 -700 -600
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 6
+
+#35530
+chaotic soul~
+a chaotic soul~
+A chaotic soul wanders aimlessly in the vortex.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFGT JL P -3000 0
+140 102 0 4999 5469 39 61 70 140 51 none
+-20 -20 -20 -20
+STANDING STANDING male 2500
+0 mage medium ABCDEFGHIJK
+W 10
+
+#35531
+zombie jujumai~
+the demonic {Wz{wombi{We{0 of {Gj{gu{Gj{gu{Mm{mai{0~
+A horrendous rack of bones paces relentlessly about the chamber!
+~
+Clad in a suit of shining platemail, Torin keeps a watchful eye out for
+trouble.  
+~
+human~
+50 100 0 100 100 100 100 100 150 100 100 100 100 150 100 0 100 150 100 100 100 100 100 100 100 100 
+ABGRT BFLTV EHNOQTU 0 0
+150 600 0 563 894 33 62 75 150 300 none
+-900 -900 -900 -700
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 3
+
+#35532
+demonic soul~
+a demonic soul~
+A demonic soul cackles gleefully.
+~
+The lost soul searches for what could have been, what should have been.  
+~
+human~
+100 100 100 150 100 100 50 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG Va D 0 0
+110 0 0 6099 6458 37 65 55 110 70 chill
+-30 -30 -30 -30
+STANDING STANDING male 1825
+0 mage medium ABCDEFGHIJK
+W 10
+
+#35533
+angelic soul~
+an angelic soul~
+An angelic soul smiles peacefully at all who pass.
+~
+The lost soul searches for what could have been, what should have been.  
+~
+human~
+100 100 100 150 100 100 50 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG Va D 0 0
+110 0 0 7091 7502 35 62 55 110 50 chill
+-30 -30 -30 -30
+STANDING STANDING male 1825
+0 mage medium ABCDEFGHIJK
+W 10
+
+#35534
+pixie~
+a pixie~
+A pixie has escaped!
+~
+The pixie has been kept here until the goblins need food.  He is more
+afraid of you than you are of him.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGc JL P 3000 0
+50 0 0 2573 3009 38 63 25 50 24 bite
+-10 -10 -10 -10
+STANDING STANDING male 1500
+0 mage small ABCDEFGHIJK
+
+#35535
+dark druid~
+The Dark Druid~
+A dark druid is here spreading havoc throughout the forest.
+~
+Before you stands a being of great evil.  All you can see is a dark
+figure masked in a grey robe.  Her eyes glow red in the dark.  
+~
+drow~
+100 50 0 100 0 0 100 100 100 100 150 0 50 100 100 100 100 50 150 50 50 100 100 100 50 100 
+ABF DJPTUVZc BGHNOU 0 0
+111 1000 -250 150001 150001 29317 107113 200 500 200 shbite
+-2500 -2500 -2500 -2500
+STANDING STANDING female 0
+0 mage giant ABCDEFGHIJK
+R 10
+#0
+
+#OBJECTS
+#35500
+wooden sign~
+a {yw{wo{yo{wd{ye{wn{0 sign~
+A {yw{wo{yo{wd{ye{wn{0 sign has been driven into the ground.~
+trash 0 0
+0 0 0 0 0
+0 200 0
+E
+sign~
+{RWelcome!{0
+All who come to Goblin Village.  We pride ourselves on having the strangest tastes for...flesh.
+ 
+          The Welcoming Committee
+~
+
+#35501
+book lightning mastery~
+book of {yL{Yig{yht{Yni{yng{x Mastery~
+A Book of {yL{Yig{yht{Yni{yng{x Mastery is here~
+wand AY AO
+95 13 11 '(null)' 0
+100 10 200
+A 13 200
+A 17 -20
+
+#35502
+pacifier~
+a {Rwhiner's {Gpacifier{0~
+A finely crafted {Gpacifier{0 has found its way to your hand.~
+weapon HMZ AO
+exotic 5 5 slash 0
+0 1 0
+A 17 100
+A 5 -5
+A 4 -5
+A 20 50
+A 12 -300
+A 14 -300
+A 13 -300
+A 1 -20
+F A 0 0 d
+A 6 1
+
+#35503
+marble fountain~
+a carved marble {cfountain{0~
+{0A carved marble {cfountain{0 is filled with water.~
+fountain O 0
+-1 -1 'water' 0 0
+0 400 0
+
+#35504
+toothbrush~
+a wooden toothbrush~
+A well used {yw{wo{yo{wd{ye{wn {yt{wo{yo{wt{yh{wb{yr{wu{ys{wh has been dropped here.~
+weapon HMS AN
+mace 13 13 crush B
+90 40 1500
+A 19 25
+A 18 25
+
+#35505
+bag~
+a {ybag{x~
+A small {ybag{x.~
+container 0 A
+50 0 0 5 0
+0 10 9
+
+#35506
+pink fuzzy slippers~
+some fuzzy pink slippers~
+A pair of fuzzy {mpink{w slippers lie here.{0~
+armor 0 AG
+32 32 32 35 0
+85 5 1500
+A 13 250
+A 5 2
+
+#35507
+demon horns~
+some demon horns~
+A pair of wicked looking demon horns lie here.~
+armor GI AE
+32 32 32 31 0
+85 10 1750
+A 13 250
+A 3 3
+
+#35508
+cattle prod~
+a cattle prod~
+A strange metal rod shimmers with strange energy.~
+weapon H AN
+mace 10 9 flbite G
+70 40 2000
+A 18 13
+A 19 13
+
+#35509
+cupids arrow~
+{RCupid's {garrow{0~
+{RCupid's {garrow{w aims straight for your heart!~
+weapon HIK AN
+dagger 10 9 pierce ADH
+70 40 2000
+A 19 13
+A 18 13
+
+#35510
+pixie pot pie~
+a pixie pot pie~
+A pixie pot pie tantalizes your taste buds.~
+food 0 A
+48 8 0 0 0
+0 1 35
+
+#35511
+toasted pixie~
+a toasted pixie on a stick~
+A delicious looking treat tempts you.~
+food 0 A
+36 6 0 0 0
+0 1 25
+
+#35512
+rye bread~
+a loaf of rye bread~
+A freshly baked loaf of rye bread lies here.~
+food 0 A
+46 6 0 0 0
+0 1 25
+
+#35513
+sticky bun~
+a sticky bun~
+A sticky bun steams tantalizingly.~
+food 0 A
+36 6 0 0 0
+0 1 20
+
+#35514
+sign~
+a sign~
+A sign hangs on one wall.~
+trash O 0
+0 0 0 0 0
+0 50 0
+E
+sign~
+We specialize in only the highest quality cuts of pixie.  
+~
+
+#35515
+storm globe~
+a storm globe~
+A strange shimmering globe floats strangely in the air.~
+light 0 AO
+0 0 999 0 0
+0 5 100
+
+#35516
+lantern~
+a brass lantern~
+A battered brass lantern has been dropped here.~
+light 0 AO
+0 0 48 0 0
+0 5 40
+
+#35517
+pack~
+a leather pack~
+A finely crafted leather pack has been carelessly dropped here.~
+container Y AK
+750 0 0 75 10
+0 40 250
+
+#35518
+earthen water jug~
+an earthen jug of water~
+An earthen jug of water sits on the ground.~
+drinkcontainer 0 A
+40 40 'water' 0 0
+0 20 50
+
+#35519
+birth control pill~
+a birth control pill~
+A birth control pill lies here.~
+pill 0 A
+85 'change sex' '' '' ''
+75 1 1000
+
+#35520
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness lies here.~
+potion 0 A
+85 'cure blindness' '' '' ''
+75 1 6000
+
+#35521
+potion cure disease~
+a potion of cure disease~
+A potion of cure disease lies here.~
+potion 0 A
+85 'cure disease' '' '' ''
+75 1 6000
+
+#35522
+potion cure poison~
+a potion of cure poison~
+A potion of cure poison lies here.~
+potion 0 A
+85 'cure poison' '' '' ''
+75 1 6000
+
+#35523
+potion true sight~
+a potion of true sight~
+A potion of true sight lies here.~
+potion 0 A
+85 'farsight' 'detect hidden' 'detect invis' ''
+75 1 16000
+
+#35524
+potion pass door~
+a potion of pass door~
+A potion of pass door lies here.~
+potion 0 A
+85 'pass door' '' '' ''
+75 1 6000
+
+#35525
+pill healing~
+a pill of healing~
+A pill of healing lies here.~
+pill 0 A
+85 'cure critical' '' '' ''
+75 1 16000
+
+#35526
+pill protection~
+a pill of divine protection~
+A pill of divine protection has been dropped here.~
+pill 0 A
+85 'sanctuary' '' '' ''
+75 1 24000
+
+#35527
+heavy leather belt~
+a heavy leather belt~
+A heavy leather belt lies here.~
+armor 0 AL
+32 32 30 31 0
+85 10 1500
+A 1 3
+A 13 255
+
+#35528
+skeleton key~
+a skeleton key~
+A strange looking piece of metal lies here.~
+key F A
+0 0 0 0 0
+0 1 0
+
+#35529
+heart vortex~
+the swirling heart of the vortex~
+The swirling heart of the vortex lies here.~
+container GIY AQ
+500 0 0 75 10
+90 20 2000
+A 17 -22
+A 20 -3
+
+#35530
+ring aquamarine~
+{wan {CAquamarine {wRing{x~
+A ring with a large aquamarine gem in its center lies here~
+armor 0 AB
+33 33 33 32 0
+95 1 2000
+A 13 200
+A 4 3
+A 20 -3
+F A 0 0 U
+A 18 15
+A 19 15
+
+#35531
+water bracers~
+{CW{ca{bt{Be{br {cBracers{x~
+Some bracers made of water lie here~
+armor 0 AM
+33 33 33 32 0
+101 10 2000
+A 1 3
+F A 0 0 V
+A 13 200
+A 19 25
+A 18 25
+
+#35532
+tsunami boots~
+{BT{bs{Wu{wn{Ca{cm{bi {wBoots{x~
+A pair of wet boots lie here.~
+armor 0 AG
+41 33 33 32 0
+95 10 2000
+A 13 200
+A 20 -3
+A 2 3
+F A 0 0 P
+A 18 15
+A 19 15
+
+#35533
+water leggings~
+{CW{ca{Bt{be{cr {wLeggings{x~
+Some water soaked leggings line here~
+armor 0 AF
+33 33 33 32 0
+95 20 2000
+A 13 200
+A 20 -3
+A 5 3
+F A 0 0 a
+
+#35534
+monsoon medallion~
+{CM{co{bn{Bs{co{Co{bn {BMedallion{x~
+A medallion made of swirling water lies here~
+armor 0 AC
+36 33 33 32 0
+95 5 2000
+A 13 200
+F A 0 0 D
+
+#35535
+steel shackle~
+a steel shackle~
+A steel shackle lies in the dirt.~
+armor I AT
+23 23 23 22 0
+90 15 500
+A 19 15
+A 18 15
+A 13 200
+F A 0 0 c
+
+#35536
+gold braided anklet~
+a gold braided anklet~
+A golden anklet lies here.~
+armor G AT
+25 25 25 24 0
+86 5 1000
+A 2 3
+A 13 258
+
+#35537
+embroidered sleeves~
+a pair of {me{wm{mb{wr{mo{wi{md{we{mr{we{md{0 sleeves~
+A piece of dark velvet lies here.~
+armor 0 AI
+30 30 28 31 0
+86 20 2000
+A 3 2
+A 5 2
+A 13 258
+
+#35538
+tiny silver earring~
+a tiny {wsilver {mearring{0~
+A tiny carved earring lies here.~
+armor GY AS
+35 35 34 34 0
+91 1 1500
+A 19 15
+A 4 2
+A 13 273
+
+#35539
+leather leggings~
+a heavy {rleather {gleggings{0~
+A dark piece of leather lies here.~
+armor 0 AF
+25 25 25 24 0
+66 20 2000
+A 13 198
+A 1 3
+
+#35540
+frozen mask tears~
+a frozen mask of {ct{we{ca{wr{cs{0~
+A thin sheet of {cice{0 lies here.~
+armor 0 AR
+33 33 41 32 0
+91 2 1500
+A 19 15
+A 1 2
+A 13 273
+
+#35541
+cobra tattoo~
+a {Gc{ro{wb{rr{Ga{0 tattoo~
+A tattered piece of flesh lies here.~
+armor 0 AW
+32 32 32 28 0
+86 1 200
+A 1 3
+A 13 258
+
+#35542
+chalk~
+a piece of {Wchalk{0~
+A broken piece of {Wchalk{0 lies here.~
+weapon H AN
+polearm 13 12 dust A
+90 50 2500
+A 18 19
+A 19 19
+
+#35543
+lawyers sharp tongue~
+a {glawyer's {rsharp {Yt{wo{yn{wg{yu{we{0~
+A rotting piece of flesh lies here.~
+weapon H AN
+whip 13 12 flbite AD
+90 40 2500
+A 19 19
+A 18 19
+
+#35544
+candy cane~
+a {rc{wa{rn{wd{ry {wc{ra{wn{re{0~
+A delicious piece of {rc{wa{rn{wd{ry{0 lies here.~
+weapon H AN
+axe 12 13 cleave AD
+90 40 2500
+A 19 19
+A 18 19
+
+#35545
+carrot~
+a juicy {Ycarrot{0~
+A delicious looking {Ycarrot{0 lies here.~
+weapon H AN
+exotic 12 13 shbite AD
+90 40 2500
+A 18 19
+A 19 19
+
+#35546
+fiery mist~
+a {rf{yi{re{yr{ry {wm{ri{ws{rt{0~
+A {rf{yi{re{yr{ry{0 blade has been thrust into the ground!~
+weapon H AN
+dagger 12 13 cleave AD
+95 45 2500
+A 18 27
+A 19 27
+
+#35547
+key~
+a rusted iron key~
+A rusted iron key has been dropped here.~
+key F A
+0 0 0 0 0
+0 5 0
+
+#35548
+skull jujumai~
+the {Ws{wkul{Wl {0of {Gj{gu{Gj{gu{Mm{mai{0~
+A bloody {Wskull{0 lies in a pile of gore.~
+armor HSTUYZ AE
+30 30 30 28 0
+101 5 5000
+A 19 25
+A 3 3
+A 13 303
+
+#35549
+ring bone~
+a ring of {Wb{won{We{0~
+A jagged piece of {Wbone{0 lies in a pile of gore.~
+armor FUY AB
+10 10 10 10 0
+101 10 5000
+A 19 30
+A 18 30
+F A 0 0 T
+A 17 -25
+A 2 3
+
+#35550
+jujumais moccasins~
+{Gj{gu{Gj{gu{Mm{mai's {Wm{woccasin's{0~
+A dried piece of leather lies here.~
+armor HSTUYZ AG
+30 30 30 28 0
+101 20 5000
+A 2 3
+A 19 25
+F A 0 0 P
+A 13 303
+
+#35551
+Contagion Lasher~
+{DC{mo{rn{Dt{ma{rg{Di{mo{rn {wLasher{x~
+A whip lies coiled on the ground.~
+weapon GY AN
+whip 14 14 disease BFHJN
+101 90 10000
+A 13 220
+A 1 3
+A 20 -4
+
+#35552
+book shadows~
+{wBook {Wof {DShadows{x~
+A tome bound in night black leather lies here~
+trash ABGHY AO
+0 0 0 0 0
+101 600 17032
+A 12 200
+A 13 200
+A 20 -4
+F S 0 0 S
+A 17 -25
+
+#35553
+bag~
+a {ybag{x~
+A small {ybag{x.~
+container 0 A
+50 0 0 5 0
+0 10 9
+
+#35554
+wall shadow~
+{Dwall of shadows{x~
+A {Dwall of shadows{x blocks your passage~
+armor CG AJ
+30 30 30 30 0
+101 10 1000
+A 20 -2
+A 13 303
+
+#35555
+divine wrath~
+{YD{yi{Wvi{yn{Ye W{yr{Wa{yt{Yh{x~
+{YD{yi{Wvi{yn{Ye W{yr{Wa{yt{Yh{x~
+weapon AHT AN
+dagger 13 13 holy GKL
+101 40 10
+A 18 15
+A 19 15
+A 20 -4
+
+#35599
+perky breast~
+a {Cp{cerky {Wl{wittle {Mb{mreast{0~
+A {Cp{cerky {Wl{Wittle {Mb{mreast{0 teases Delleb.~
+fountain 0 AO
+0 0 'beer' 0 0
+101 1 11998
+#0
+
+#ROOMS
+#35500
+Dark Forest Path~
+The forest is dark and strangely silent.  A bit of moon peeks through the
+heavy lining of dark clouds that covers the night sky.  The path continues
+to the north through the forest.  
+~
+5 3
+D0
+~
+~
+0 0 35501
+D4
+~
+~
+0 0 20529
+D5
+~
+~
+0 0 35598
+S
+
+#35501
+Dark Forest Path~
+The trees hover hover the path almost as if protecting you from harm. 
+Strange sounds can be heard coming from the east.  The path continues to the
+east and north.  
+~
+1 3
+D0
+~
+~
+0 0 35538
+D1
+~
+~
+0 0 35502
+D2
+~
+~
+0 0 35500
+S
+
+#35502
+The Haunted Glade~
+A small stream runs through the center of the clearing, gurgling almost
+peacefully it seems.  The darkness makes it impossible to see if any
+creatures linger in this clearing.  The clouds clear quite suddenly from the
+sky.  In the silver light of the moon you see what it is that lingers here. 
+Exits lead west and down.  
+~
+5 2
+D3
+~
+~
+0 0 35501
+D5
+~
+~
+0 0 35503
+S
+
+#35503
+Entrance to Purgatory~
+A rusted wrought iron gate hangs loosely from its mooring against the
+stone wall of this cave.  The gate is open as if beckoning for you to enter.
+Roughly carved stone steps lead down into the unknown.  The reddish glow
+that comes from below lights the interior of the cave.  
+~
+1 0
+D4
+~
+~
+0 0 35502
+D5
+~
+~
+0 0 35504
+S
+
+#35504
+Stone Stairway~
+The rough steps catch at your feet, nearly tripping you.  The stairway is
+so narrow the stone walls brush your clothing.  A piercing shriek echoes
+from below.  It is then a cold sweat begins to form on your brow.  
+~
+1 0
+D0
+~
+~
+0 0 35505
+D4
+~
+~
+0 0 35503
+S
+
+#35505
+Stone Corridor~
+A large dimly lit corridor made entirely of stone stretches before you. 
+Arched doorways lie to the east and west.  The air is hot and dry, seeming
+to leech the energy from your very soul.  A hazy smoke lingers in the air. 
+The corridor continues to the north.  
+~
+1 0
+D0
+~
+~
+0 0 35508
+D1
+~
+~
+0 0 35506
+D2
+~
+~
+0 0 35504
+D3
+~
+~
+0 0 35507
+S
+
+#35506
+The Reception Area~
+A large wooden desk sits near the doorway.  The top of the desk is
+littered with papers and file folders.  Several file cabinets sit in one
+corner.  Each is crammed full of folders.  An uncomfortable wooden bench
+sits against one wall.  Here is where processing begins.  
+~
+1 0
+D3
+~
+~
+0 0 35505
+S
+
+#35507
+Infernal Bar and Grill~
+The interior of the bar is dark and filled with smoke.  Tables and chairs
+sit about.  Lost souls come here to drown their sorrows as they await final
+processing.  
+~
+1 0
+D1
+~
+~
+0 0 35505
+S
+
+#35508
+Stone Corridor~
+A large dimly lit corridor made entirely of stone stretches before you. 
+The air is hot and dry, seeming to leech the energy from your very soul.  A
+hazy smoke lingers in the air.  The corridor leads down to a dark stairway..
+~
+1 0
+D2
+~
+~
+0 0 35505
+D5
+~
+~
+0 0 35509
+S
+
+#35509
+Rickety Metal Stairs~
+A narrow metal staircase leads down into darkness.  With each step you
+take you are certain it will collapse at any moment.  The silence is now
+broken by harsh moans, haunting howls as you enter the passage below.  
+~
+1 0
+D0
+~
+~
+0 0 35510
+D4
+~
+~
+0 0 35508
+S
+
+#35510
+Entrance to Limbo~
+A large, seemingly endless chamber stretches before you.  Swirling mists
+obscure the floor.  Time seems to hang endlessly, paused forever.  The
+haunting sounds echo about you.  Welcome to the Limbo, where lost souls come
+to await their fate.  
+~
+8193 0
+D0
+~
+~
+0 0 35512
+D1
+~
+~
+0 0 35511
+D2
+~
+~
+0 0 35509
+D3
+~
+~
+0 0 35513
+S
+
+#35511
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D0
+~
+~
+0 0 35521
+D3
+~
+~
+0 0 35510
+S
+
+#35512
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D0
+~
+~
+0 0 35514
+D1
+~
+~
+0 0 35521
+D2
+~
+~
+0 0 35510
+D3
+~
+~
+0 0 35517
+S
+
+#35513
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D0
+~
+~
+0 0 35517
+D1
+~
+~
+0 0 35510
+S
+
+#35514
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D0
+~
+~
+0 0 35515
+D1
+~
+~
+0 0 35522
+D2
+~
+~
+0 0 35512
+D3
+~
+~
+0 0 35518
+S
+
+#35515
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D0
+~
+~
+0 0 35516
+D2
+~
+~
+0 0 35514
+D3
+~
+~
+0 0 35519
+S
+
+#35516
+End of Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  A rickety metal
+staircase leads down into darkness.  
+~
+8193 0
+D1
+~
+~
+0 0 35524
+D2
+~
+~
+0 0 35515
+D3
+~
+~
+0 0 35520
+D5
+~
+~
+0 0 35525
+S
+
+#35517
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+1 0
+D0
+~
+~
+0 0 35518
+D1
+~
+~
+0 0 35512
+D2
+~
+~
+0 0 35513
+S
+
+#35518
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D0
+~
+~
+0 0 35519
+D1
+~
+~
+0 0 35514
+D2
+~
+~
+0 0 35517
+S
+
+#35519
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D0
+~
+~
+0 0 35520
+D1
+~
+~
+0 0 35515
+D2
+~
+~
+0 0 35518
+S
+
+#35520
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D1
+~
+~
+0 0 35516
+D2
+~
+~
+0 0 35519
+S
+
+#35521
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D0
+~
+~
+0 0 35522
+D2
+~
+~
+0 0 35511
+D3
+~
+~
+0 0 35512
+S
+
+#35522
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D0
+~
+~
+0 0 35523
+D2
+~
+~
+0 0 35521
+D3
+~
+~
+0 0 35514
+S
+
+#35523
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D0
+~
+~
+0 0 35524
+D2
+~
+~
+0 0 35522
+D3
+~
+~
+0 0 35515
+S
+
+#35524
+Limbo~
+An endless chamber stretches before you.  A red glow fills the air. 
+Swirling mists obscure a clear view of what lies beneath your feet.  The
+sounds the haunted souls make echo through the chamber.  
+~
+8193 0
+D2
+~
+~
+0 0 35523
+D3
+~
+~
+0 0 35516
+S
+
+#35525
+Rickety Metal Staircase~
+The narrow metal staircase leads down into darkness.  With each step you
+take you fear it may collapse beneath you.  A dark doorway lies to the
+north.  
+~
+1 0
+D0
+~
+~
+0 0 35526
+D4
+~
+~
+0 0 35516
+S
+
+#35526
+Final Processing Area~
+A large round chamber made entirely of gleaming grey marble stands before
+you.  Three hallways lead to the north, east, and west.  Each is a different
+color.  A strange vibration fills the air.  Confusion fills you as you think
+of which hallway to enter first.  A burly demon yanks the metal ticket from
+your hand, grins, and shoves you harshly down a hallway.  
+~
+0 0
+D0
+~
+~
+0 0 35531
+D1
+~
+~
+0 0 35527
+D2
+~
+~
+0 0 35525
+D3
+~
+~
+0 0 35534
+S
+
+#35527
+Shimmering White Hallway~
+A hallway made entirely of strange white stone stretches before you.  An
+exit leads west to the final processing area.  A shimmering white staircase
+leads up into the unknown.  
+~
+1 0
+D3
+~
+~
+0 0 35526
+D4
+~
+~
+0 0 35528
+S
+
+#35528
+Shimmering White Staircase~
+A wide staircase made entirely of white stone leads up into the unknown. 
+A strange feeling of peace overwhelms you.  
+~
+1 0
+D1
+~
+~
+0 0 35529
+D5
+~
+~
+0 0 35527
+S
+
+#35529
+The Pearly White Gates~
+Swirling mists obscure what lies beneath your feet.  Music sweeter than
+any you've known echoes through the air.  Two pearly white gates tower above
+you.  The gates stand open as if beckoning for you to enter.  Cherubs dart
+about, giggling as you pass by.  
+~
+1 0
+D1
+~
+~
+0 0 35530
+D3
+~
+~
+0 0 35528
+S
+
+#35530
+Welcome to ?Heaven?~
+Swirling mists surround you.  There is no sense of direction here, only a
+sense of peace.  Cherubs flit about, giggling as you enter this mysterious
+place.  Have you found heaven, or perhaps hell?  
+~
+1 0
+D3
+~
+~
+0 0 35529
+S
+
+#35531
+Shimmering Red Hallway~
+Every part of this hallway is made of a strange red stone.  It stretches
+endlessly before you.  Exits lead to the north and south.  
+~
+1 0
+D0
+~
+~
+0 0 35532
+D2
+~
+~
+0 0 35526
+S
+
+#35532
+Glowing Red Chamber~
+A circular chamber made of the same strange reddish stone surrounds you. 
+A vibration seems to fill the chamber, penetrating your bones even.  Exits
+lead to the north and south.  
+~
+0 0
+D0
+~
+~
+0 0 35533
+D2
+~
+~
+0 0 35531
+S
+
+#35533
+The Vortex~
+A swirling vortex filled with lost souls sits in the center of this
+chamber.  It seems bottomless, reaching forever downward into nothingness. 
+Souls who could be neither satanic or angelic come here.  Those souls who
+linger undecided are cast here as well.  The vortex seems to pull you
+forward, threatening to topple you into the midst of the lost souls.  
+~
+0 0
+D2
+~
+~
+0 0 35532
+D5
+~
+mists~
+0 35528 35592
+S
+
+#35534
+Shimmering Black Hallway~
+A hallway made of some strange shimmering black stone stretches before
+you.  The heat is intense here.  Sweat breaks out on your brow.  A stairway
+leads down.  The hallway leads back east to the final processing area.  
+~
+1 0
+D1
+~
+~
+0 0 35526
+D5
+~
+~
+0 0 35535
+S
+
+#35535
+Shimmering Black Staircase~
+A narrow staircase leads down into the unknown.  The darkness is
+oppressive, as is the heat.  
+~
+1 0
+D3
+~
+~
+0 0 35536
+D4
+~
+~
+0 0 35534
+S
+
+#35536
+The Firey Gates~
+Two blackened gates enshrouded in flames stand before you.  The air is
+acrid with the smell of smoke and sulfur.  A demonic cackling can be heard
+coming from the west.  The gates stand open, as if beckoning for you to
+enter.  
+~
+0 0
+D1
+~
+~
+0 0 35535
+D3
+~
+~
+0 0 35537
+S
+
+#35537
+Welcome to ?Hell?~
+Flames race about the walls and floor of this dark chamber.  The heat is
+oppressive.  Demons stalk about, cackling maniacally.  Have you found hell,
+or perhaps heaven?  
+~
+1 0
+D1
+~
+~
+0 0 35536
+S
+
+#35538
+Dusty Path~
+A narrow dusty path leads to the west and south of here.  The sky has
+become overcast.  A hot breeze stirs the dust in great whirlwinds about you.
+~
+0 2
+D2
+~
+~
+0 0 35501
+D3
+~
+~
+0 0 35539
+S
+
+#35539
+Outside the Village~
+A wide, well travelled path leads into the village.  The sounds of life
+echo through the air.  Perhaps the village would offer a tired traveller a
+soft bed to sleep in, perhaps a warm meal and a cup of ale.  The path leads
+west toward the village, or east into the unknown.  
+~
+4 0
+D1
+~
+~
+0 0 35538
+D3
+~
+~
+0 0 35540
+S
+
+#35540
+Village Path~
+A hard packed dirt path leads through the village.  The smell of freshly
+baked bread wafts through the warm air.  The path leads west into the
+village, or east into the unknown.  
+~
+262144 1
+D1
+~
+~
+0 0 35539
+D3
+~
+~
+0 0 35541
+S
+
+#35541
+Village Path~
+The dirt path continues to the east.  Sounds of village life echo about
+you.  Goblins crowd the path as they go about their daily duties.  The smell
+of freshly baked bread wafts through the air.  Cottages lie to the north and
+south of the path.  
+~
+262144 1
+D0
+~
+~
+0 0 35542
+D1
+~
+~
+0 0 35540
+D2
+~
+~
+0 0 35543
+D3
+~
+~
+0 0 35544
+S
+
+#35542
+A Cottage~
+The interior of this small cottage is simply furnished.  The floor is
+made of hard packed dirt.  A cheery blaze warms the interior of the cottage.
+The only exit leads to the south.  
+~
+262144 0
+D2
+~
+~
+0 0 35541
+S
+
+#35543
+A Cottage~
+The interior of this small cottage is clean and simply furnished.  A fire
+blazes in an open fireplace.  A large kettle simmers there.  With a grin you
+sneak over, waiting to take a taste of the stew that smells so good.  A
+sense of overwhelming horror seizes you as you remove the lid from the
+kettle.  A pixie's dismembered head floats to the top, surrounded by diced
+potatoes, peas, and carrots.  
+~
+262144 0
+D0
+~
+~
+0 0 35541
+S
+
+#35544
+Village Path~
+The dirt path continues to the east.  Sounds of village life echo about
+you.  Goblins crowd the path as they go about their daily duties.  The
+apothecary shop lies to the north, the tavern to the south.  
+~
+262144 1
+D0
+~
+~
+0 0 35545
+D1
+~
+~
+0 0 35541
+D2
+~
+~
+0 0 35546
+D3
+~
+~
+0 0 35547
+S
+
+#35545
+The Apothecary~
+The counter of the apothecary is filled with potions of all sorts.  An
+elderly mage brews some mystical concoction in a cauldron in the open
+fireplace.  Baskets filled with herbs and other ingredients for potions sit
+about the room.  
+~
+262144 0
+D2
+~
+~
+0 0 35544
+S
+
+#35546
+The Tavern~
+Roughly hewn tables sit about the interior of the tavern.  Sturdy wooden
+chairs sit about the tables.  A tall oak bar stands near one wall.  A rowdy
+drunk sings loudly from a dark corner of the room.  
+~
+262144 0
+D0
+~
+~
+0 0 35544
+S
+
+#35547
+Fountain Square~
+The path turns to the east from here.  Shops line the village street. 
+Goblins walk by you seemingly unconcerned by your presence here.  To the
+north lies the general store.  The path leads to the south to the far end of
+the village.  
+~
+262144 1
+D0
+~
+~
+0 0 35548
+D1
+~
+~
+0 0 35544
+D2
+~
+~
+0 0 35550
+S
+
+#35548
+General Store~
+Shelves line the walls of this small shop.  Each shelf is filled with
+neatly wrapped parcels.  The shop keeper's assistant goes about stocking the
+shelves.  Any item an adventurer may need could be found here.  
+~
+262144 0
+D2
+~
+~
+0 0 35547
+S
+
+#35549
+House of Pleasure~
+An overhead fan circles endlessly to cool the rather heated interior of
+this small room.  Silk covered chairs and sofas sit about.  Patrons sip
+drinks in an attempt to cool themselves off just a bit.  The sweet smell of
+sex and incense hangs heavily in the air.  
+~
+0 0
+D0
+~
+~
+0 0 35551
+D1
+~
+~
+0 0 35590
+D2
+~
+~
+0 0 35570
+D3
+~
+~
+0 0 35591
+S
+
+#35550
+Village Path~
+Sounds of village life echo about you.  Goblins go about their daily
+routine, seemingly oblivious to the stranger who has wandered into their
+midst.  A dark alley lies to the west.  A small shop lies to the east. 
+Fountain Square is just ahead to the north.  
+~
+262144 1
+D0
+~
+~
+0 0 35547
+D1
+~
+~
+0 0 35556
+D2
+~
+~
+0 0 35555
+D3
+~
+~
+0 0 35551
+S
+
+#35551
+The Alley~
+The darkness hangs heavily in the narrow alley.  Steam escapes from a
+nearby drain.  A foul stench comes from somewhere nearby.  The alley
+continues to the west.  A dark doorway lies to the south.  
+~
+1 0
+D1
+~
+~
+0 0 35550
+D2
+~
+~
+0 0 35549
+D3
+~
+~
+0 0 35552
+S
+
+#35552
+The Alley~
+The darkness is even heavier here.  A tiny bit of light can be seen
+shining from under a closed doorway to the west.  The alley leads back to
+the east and the village path.  
+~
+1 0
+D1
+~
+~
+0 0 35551
+D3
+~
+~
+0 0 35553
+S
+
+#35553
+Butcher Shop~
+A display case stands near one wall of the shop.  It is filled with
+various cuts of meat.  Looking closer you see a sign hanging on one wall.  A
+door leads north to the cold storeage area.  
+~
+0 0
+D0
+~
+~
+0 0 35554
+D1
+~
+~
+0 0 35552
+S
+
+#35554
+Cold Storage~
+A butcher stands near a wooden table slashing at a large piece of meat. 
+Blood pools on the floor.  You nearly slip in a puddle of it.  Your stomach
+turns as you see pixies hanging from the meat hooks on the ceiling.  
+~
+0 0
+D2
+~
+~
+0 0 35553
+S
+
+#35555
+Village Path~
+Sounds of village life echo about you.  Goblins go about their daily
+routine, seemingly oblivious to the stranger who has wandered into their
+midst.  The path continues to the north and south.  A cottage lies to the
+east.  
+~
+0 1
+D0
+~
+~
+0 0 35550
+D1
+~
+~
+0 0 35569
+D2
+~
+~
+0 0 35571
+S
+
+#35556
+Tasty Way~
+A narrow cobbled street leads east.  It is quiet in this section of the
+village.  Shops and cottages line the street.  
+~
+262144 1
+D0
+~
+~
+0 0 35558
+D1
+~
+~
+0 0 35557
+D2
+~
+~
+0 0 35568
+D3
+~
+~
+0 0 35550
+S
+
+#35557
+Tasty Way~
+A narrow cobbled street leads east.  It is quiet in this section of the
+village.  Shops and cottages line the street.  The village library lies to
+the east.  The Municipal building to the north.  
+~
+262144 1
+D0
+~
+~
+0 0 35559
+D1
+~
+~
+0 0 35589
+D2
+~
+~
+0 0 35567
+D3
+~
+~
+0 0 35556
+S
+
+#35558
+The Bakery~
+The smell of freshly baked bread and apple pies linger in the air.  The
+interior of the bakery is sparkling clean.  Goblins stand in line to buy
+baked goods.  
+~
+262144 0
+D2
+~
+~
+0 0 35556
+S
+
+#35559
+Municipal Building~
+The entry way of the building is strangely quiet.  It appears to be
+deserted.  Exits lead to the east and west.  The street lies south.  
+~
+262144 0
+D1
+~
+~
+0 0 35560
+D2
+~
+~
+0 0 35557
+D3
+~
+~
+0 0 35562
+S
+
+#35560
+Reception Area~
+The reception area is strangely empty.  A few scattered papers are all
+that occupy this room.  
+~
+262144 0
+D1
+~
+~
+0 0 35561
+D3
+~
+~
+0 0 35559
+S
+
+#35561
+Mayor's Office~
+The mayor's office is in shambles!  Blood and gore are splattered
+everywhere.  A goblin sits in one corner calmly chewing on a leg bone.  
+~
+262144 0
+D3
+~
+~
+0 0 35560
+S
+
+#35562
+Sheriff's Office~
+The sheriff's office is deserted as well.  Blood and gore splatter the
+walls and floor.  Something horrible has happened here it seems.  
+~
+262144 0
+D0
+~
+~
+0 0 35563
+D1
+~
+~
+0 0 35559
+S
+
+#35563
+The Jail~
+This room is the guard post.  It seems strangely deserted as well. 
+Muffled sounds come from the cells that lie to the east, west, and north.  
+~
+262144 0
+D0
+~
+~
+0 0 35566
+D1
+~
+~
+0 0 35564
+D2
+~
+~
+0 0 35562
+D3
+~
+~
+0 0 35565
+S
+
+#35564
+A Cell~
+The interior of the cell is grimed in filth.  A vermin ridden pile of
+straw lies in one corner.  The smell is overwhelming.  
+~
+262144 0
+D3
+~
+~
+0 0 35563
+S
+
+#35565
+A Cell~
+The interior of the cell is grimed in filth.  A vermin ridden pile of
+straw lies in one corner.  The smell is overwhelming.  
+~
+262144 0
+D1
+~
+~
+0 0 35563
+S
+
+#35566
+A Cell~
+The interior of the cell is grimed in filth.  A vermin ridden pile of
+straw lies in one corner.  The smell is overwhelming.  
+~
+262144 0
+D2
+~
+~
+0 0 35563
+S
+
+#35567
+A Cottage~
+The cottage is small and plainly furnished.  Loaves of freshly baked
+bread sit on the wooden table.  The cottage appears empty.  The village
+street lies to the north.  
+~
+262144 0
+D0
+~
+~
+0 0 35557
+S
+
+#35568
+A Cottage~
+The cottage is small and plainly furnished.  Loaves of freshly baked
+bread sit on the wooden table.  The cottage appears empty.  The village
+street lies to the north.  
+~
+262144 0
+D0
+~
+~
+0 0 35556
+S
+
+#35569
+A Cottage~
+The interior of this small cottage is plainly furnished.  The hard packed
+dirt floor is clean swept.  The smell of cookies baking wafts through the
+air.  
+~
+262144 0
+D3
+~
+~
+0 0 35555
+S
+
+#35570
+Private Room~
+Black satin draperies cover the one small window of the room.  A heart
+shaped bed is pushed against one wall.  The sheets are rumpled.  This bed
+has obviously been used well!  
+~
+0 0
+D0
+~
+~
+0 0 35549
+S
+
+#35571
+Village Path~
+A wide, well travelled path leads into the village.  The sounds of life
+echo through the air.  Perhaps the village would offer a tired traveller a
+soft bed to sleep in, perhaps a warm meal and a cup of ale.  The path
+continues to the north into the village.  
+~
+262148 1
+D0
+~
+~
+0 0 35555
+D1
+~
+~
+0 0 35572
+D3
+~
+~
+0 0 35573
+S
+
+#35572
+The Killing Fields~
+What a horrible sight!  Blood and gore are splattered everywhere. 
+Vultures circle endlessly overhead searching for carrion.  The stench of
+death hangs heavy in the air.  Flies buzz about, feeding from the gore that
+covers the field.  
+~
+0 2
+D1
+~
+~
+0 0 35578
+D3
+~
+~
+0 0 35571
+S
+
+#35573
+The Plains of Bharkhist~
+The great sea of grass surrounds you in all directions.  There is no
+obvious path.  All that you can see is grass.  
+~
+0 2
+D1
+~
+~
+0 0 35571
+D3
+~
+~
+0 0 35574
+S
+
+#35574
+The Plains of Bharkhist~
+The warmth of the sky shines down upon you.  The ocean of grass stretches
+in all directions.  Exits lead to the east, west and south.  
+~
+0 2
+D1
+~
+~
+0 0 35573
+D2
+~
+~
+0 0 35575
+D3
+~
+~
+0 0 35577
+S
+
+#35575
+The Plains of Bharkhist~
+Paths lead in the cardinal directions.  A feeling of confusion seems to
+settle over this place.  A lone buzzard circles endlessly overhead.  
+~
+0 2
+D0
+~
+~
+0 0 35574
+D1
+~
+~
+0 0 35575
+D2
+~
+~
+0 0 35576
+D3
+~
+~
+0 0 35575
+S
+
+#35576
+The Plains of Bharkhist~
+The field of waving grass seems to overwhelm everything.  Something runs
+across your foot!  There has to be a way out of here, if only you could find
+it.  
+~
+0 2
+D0
+~
+~
+0 0 35575
+S
+
+#35577
+The Plains of Bharkhist~
+Tall waving grass stretches in all directions as far as the eye can see. 
+The grass surrounds you almost as a if you are afloat at sea.  A small trail
+leads to the east.  
+~
+0 2
+D1
+~
+~
+0 0 35574
+S
+
+#35578
+The Killing Fields~
+Blood and gore are splattered everywhere.  Screams of anguish come from
+the east.  The vultures still circle overhead as they patiently await death.
+~
+0 2
+D0
+~
+~
+0 0 35579
+D1
+~
+~
+0 0 35581
+D2
+~
+~
+0 0 35580
+D3
+~
+~
+0 0 35572
+S
+
+#35579
+The Killing Fields~
+What a horrible sight!  Blood and gore are splattered everywhere. 
+Vultures circle endlessly overhead searching for carrion.  The stench of
+death hangs heavy in the air.  Flies buzz about, feeding from the gore that
+covers the field.  
+~
+0 2
+D1
+~
+~
+0 0 35582
+D2
+~
+~
+0 0 35578
+S
+
+#35580
+The Killing Fields~
+What a horrible sight!  Blood and gore are splattered everywhere. 
+Vultures circle endlessly overhead searching for carrion.  The stench of
+death hangs heavy in the air.  Flies buzz about, feeding from the gore that
+covers the field.  
+~
+0 2
+D0
+~
+~
+0 0 35578
+D1
+~
+~
+0 0 35583
+S
+
+#35581
+The Killing Fields~
+What a horrible sight!  Blood and gore are splattered everywhere. 
+Vultures circle endlessly overhead searching for carrion.  The stench of
+death hangs heavy in the air.  Flies buzz about, feeding from the gore that
+covers the field.  
+~
+0 2
+D0
+~
+~
+0 0 35582
+D1
+~
+~
+0 0 35584
+D2
+~
+~
+0 0 35583
+D3
+~
+~
+0 0 35578
+S
+
+#35582
+The Killing Fields~
+What a horrible sight!  Blood and gore are splattered everywhere. 
+Vultures circle endlessly overhead searching for carrion.  The stench of
+death hangs heavy in the air.  Flies buzz about, feeding from the gore that
+covers the field.  
+~
+0 2
+D2
+~
+~
+0 0 35581
+D3
+~
+~
+0 0 35579
+S
+
+#35583
+The Killing Fields~
+What a horrible sight!  Blood and gore are splattered everywhere. 
+Vultures circle endlessly overhead searching for carrion.  The stench of
+death hangs heavy in the air.  Flies buzz about, feeding from the gore that
+covers the field.  
+~
+0 2
+D0
+~
+~
+0 0 35581
+D3
+~
+~
+0 0 35580
+S
+
+#35584
+In the Barn~
+The interior of the barn is dark and cool.  Straw lightly covers the
+floor.  Strange noises come from the stalls on the bottom floor of the barn.
+A wooden ladder leads up to the hay loft.  
+~
+1 0
+D0
+~
+~
+0 0 35585
+D1
+~
+~
+0 0 35587
+D2
+~
+~
+0 0 35586
+D3
+~
+~
+0 0 35581
+D4
+~
+~
+0 0 35588
+S
+
+#35585
+A Stall~
+Straw covers the floor of the stall.  A wooden feed trough sits in one
+corner.  This is where the goblins imprison the pixies until they are fat
+enough to slaughter.  You shiver in revulsion as you realize what is being
+done in this place.  
+~
+1 0
+D2
+~
+~
+0 0 35584
+S
+
+#35586
+A Stall~
+Straw covers the floor of the stall.  A wooden feed trough sits in one
+corner.  This is where the goblins imprison the pixies until they are fat
+enough to slaughter.  You shiver in revulsion as you realize what is being
+done in this place.  
+~
+1 0
+D0
+~
+~
+0 0 35584
+S
+
+#35587
+A Stall~
+Straw covers the floor of the stall.  A wooden feed trough sits in one
+corner.  This is where the goblins imprison the pixies until they are fat
+enough to slaughter.  You shiver in revulsion as you realize what is being
+done in this place.  
+~
+1 0
+D3
+~
+~
+0 0 35584
+S
+
+#35588
+In the Hayloft~
+Bays of straw sit about the hayloft.  Bags of feed are stacked against
+one wall.  The goblins sure intend on taking good care of the pixies it
+seems.  
+~
+0 0
+D5
+~
+~
+0 0 35584
+S
+
+#35589
+The Library~
+Shelves stand in neat rows inside the library.  Each one is filled to
+capacity with books.  A few comfortable chairs sit about the room for those
+who come here to rest in while reading the latest best seller.  
+~
+262144 0
+D3
+~
+~
+0 0 35557
+S
+
+#35590
+Private Room~
+Black satin draperies cover the one small window of the room.  A heart
+shaped bed is pushed against one wall.  The sheets are rumpled.  This bed
+has obviously been used well!  
+~
+0 0
+D3
+~
+~
+0 0 35549
+S
+
+#35591
+Private Room~
+Black satin draperies cover the one small window of the room.  A heart
+shaped bed is pushed against one wall.  The sheets are rumpled.  This bed
+has obviously been used well!  
+~
+0 0
+D1
+~
+~
+0 0 35549
+S
+
+#35592
+In the Vortex~
+Souls swirl about, moaning strangely.  The haunting sounds echo in your
+ears.  There seems to be an exit to the north, but you can never be sure.  
+~
+5 0
+D0
+~
+~
+0 0 35593
+S
+
+#35593
+In the End...~
+There is no right or wrong, no heaven or hell.  You have found that which
+you seek, but shall never escape.  In the end it is all the same.  
+ 
+A haunting echo comes from somewhere:
+"The ancient ones are watching you.  Do not fail!"
+~
+8193 0
+D4
+~
+~
+0 0 35594
+D5
+~
+stone~
+0 35547 35595
+S
+
+#35594
+Hidden Chamber~
+This hidden chamber was carved into the heart of purgatory.  The most
+heinous criminal of all has been kept here.  He wanders about in search of
+blood.  He has no other purpose.  
+~
+402661377 0
+D0
+~
+~
+0 0 35597
+S
+
+#35595
+Hidden Stairway~
+Just when the end was sure to be near, this hidden stairway was found! 
+The walls are damp with moisture.  The steps slick with some mixture of
+water and slime.  The faint outline of a doorway can be seen to the north.  
+~
+1 0
+D0
+~
+~
+0 0 35596
+D4
+~
+~
+0 0 35593
+S
+
+#35596
+Hidden Chamber~
+This hidden chamber was carved into the heart of purgatory.  The most
+heinous criminal of all has been kept here.  He wanders about in search of
+blood.  He has no other purpose.  
+~
+402661377 0
+D0
+~
+~
+0 0 35594
+S
+
+#35597
+Hidden Chamber~
+This hidden chamber was carved into the heart of purgatory.  The most
+heinous criminal of all has been kept here.  He wanders about in search of
+blood.  He has no other purpose.  
+~
+402661377 0
+D0
+~
+~
+0 0 35500
+S
+
+#35598
+Cove of the Dark Druid~
+Here is where the Dark Druid of the forest reigns.  Be wary, he possesses
+great power and he is not afraid to use it if provoked.  
+~
+8192 0
+D4
+~
+~
+0 0 35500
+S
+#0
+
+#SPECIALS
+M 35503 spec_poison
+M 35507 spec_cast_undead
+M 35510 spec_cast_undead
+M 35511 spec_cast_undead
+M 35513 spec_cast_undead
+M 35520 spec_cast_mage
+M 35521 spec_breath_any
+M 35522 spec_cast_mage
+M 35524 spec_breath_any
+M 35528 spec_breath_any
+M 35529 spec_breath_fire
+M 35531 spec_breath_any
+S
+
+#RESETS
+M 100 35501 20 35501 2
+M 100 35502 20 35501 2
+M 100 35503 20 35501 2
+M 100 35510 10 35503 4
+E 100 35554 0 11
+M 100 35514 10 35506 2
+M 100 35515 10 35506 2
+M 100 35516 10 35506 2
+M 100 35513 1 35506 1
+M 100 35514 10 35507 2
+M 100 35515 10 35507 2
+M 100 35516 10 35507 2
+M 100 35512 15 35507 1
+M 100 35511 1 35507 1
+M 100 35514 10 35508 2
+M 100 35515 10 35508 2
+M 100 35516 10 35508 2
+M 100 35514 10 35510 2
+M 100 35515 10 35510 2
+M 100 35516 10 35510 2
+M 100 35532 10 35510 3
+M 100 35532 10 35510 3
+M 100 35532 10 35510 3
+M 100 35533 10 35510 3
+M 100 35533 10 35510 3
+M 100 35533 10 35510 3
+M 100 35514 10 35514 2
+M 100 35515 10 35514 2
+M 100 35516 10 35514 2
+M 100 35530 10 35516 2
+M 100 35532 10 35516 2
+M 100 35533 10 35516 2
+M 100 35514 10 35519 2
+M 100 35515 10 35519 2
+M 100 35516 10 35519 2
+M 100 35514 10 35520 2
+M 100 35515 10 35520 2
+M 100 35516 10 35520 2
+M 100 35530 10 35521 2
+M 100 35532 10 35521 2
+M 100 35533 10 35521 2
+E 100 35555 0 16
+M 100 35514 10 35522 2
+M 100 35515 10 35522 2
+M 100 35516 10 35522 2
+M 100 35530 10 35523 2
+M 100 35532 10 35523 2
+M 100 35533 10 35523 2
+M 100 35514 10 35524 2
+M 100 35515 10 35524 2
+M 100 35516 10 35524 2
+M 100 35524 0 35526 1
+E 100 35504 0 16
+M 100 35519 20 35526 4
+M 100 35520 10 35526 4
+E 100 35542 0 16
+M 100 35519 20 35527 2
+M 100 35520 10 35527 2
+M 100 35519 20 35529 2
+M 100 35520 10 35529 2
+M 100 35519 20 35530 2
+M 100 35520 10 35530 2
+M 100 35521 1 35530 2
+E 100 35544 0 16
+M 100 35519 20 35532 2
+M 100 35520 10 35532 2
+M 100 35519 20 35533 2
+M 100 35519 20 35533 2
+M 100 35520 10 35533 2
+M 100 35520 10 35533 2
+M 100 35528 1 35533 1
+G 100 35528 0
+G 100 35529 0
+M 100 35523 1 35533 1
+E 100 35545 0 16
+E 100 35506 0 8
+M 100 35519 20 35534 2
+M 100 35520 10 35534 2
+M 100 35522 1 35537 1
+E 100 35507 0 6
+E 100 35551 0 16
+O 100 35500 0 35539
+M 100 35506 30 35540 2
+M 100 35505 30 35540 2
+M 100 35507 15 35540 2
+M 100 35506 30 35542 2
+M 100 35505 30 35542 2
+M 100 35505 30 35543 2
+M 100 35506 30 35543 2
+M 100 35505 30 35544 2
+M 100 35506 30 35544 2
+M 100 35527 1 35545 1
+G 100 35526 0
+G 100 35525 0
+G 100 35524 0
+G 100 35523 0
+G 100 35522 0
+G 100 35521 0
+G 100 35520 0
+G 100 35519 0
+M 100 35505 30 35546 2
+M 100 35506 30 35546 2
+O 100 35503 0 35547
+M 100 35505 30 35547 2
+E 100 35537 0 10
+M 100 35505 30 35547 2
+E 100 35538 0 22
+E 100 35538 0 21
+M 100 35506 30 35547 2
+E 100 35539 0 7
+M 100 35506 30 35547 2
+M 100 35507 15 35547 2
+M 100 35507 15 35547 2
+M 100 35526 1 35548 1
+G 100 35518 0
+G 100 35517 0
+G 100 35516 0
+G 100 35515 0
+M 100 35509 1 35549 1
+M 100 35508 4 35549 1
+M 100 35506 30 35551 2
+E 100 35527 0 13
+M 100 35505 30 35552 2
+M 100 35506 30 35553 2
+M 100 35505 30 35553 2
+O 100 35514 0 35553
+M 100 35505 30 35555 2
+M 100 35506 30 35555 2
+M 100 35507 15 35555 2
+M 100 35506 30 35556 2
+M 100 35507 15 35556 2
+M 100 35505 30 35556 2
+M 100 35505 30 35556 2
+M 100 35506 30 35556 2
+M 100 35505 30 35557 2
+M 100 35506 30 35557 2
+M 100 35525 1 35558 1
+G 100 35513 0
+G 100 35512 0
+G 100 35511 0
+G 100 35510 0
+M 100 35506 30 35561 2
+M 100 35507 15 35561 2
+M 100 35507 15 35562 2
+M 100 35504 25 35564 1
+M 100 35504 25 35565 1
+M 100 35504 25 35566 1
+M 100 35506 30 35567 2
+M 100 35505 30 35567 2
+M 100 35508 4 35570 1
+E 100 35536 0 23
+O 100 35500 0 35571
+M 100 35507 15 35572 1
+M 100 35501 20 35573 2
+M 100 35502 20 35573 2
+M 100 35503 20 35573 2
+M 100 35501 20 35575 2
+M 100 35502 20 35575 2
+M 100 35503 20 35575 2
+M 100 35501 20 35575 2
+M 100 35502 20 35575 2
+M 100 35503 20 35575 2
+M 100 35501 20 35577 1
+M 100 35502 20 35577 1
+M 100 35503 20 35577 1
+M 100 35534 0 35581 1
+M 100 35507 15 35584 1
+M 100 35504 25 35585 6
+M 100 35504 25 35585 6
+M 100 35504 25 35585 6
+M 100 35504 25 35585 6
+M 100 35504 25 35585 6
+M 100 35504 25 35585 6
+M 100 35504 25 35586 6
+M 100 35504 25 35586 6
+M 100 35504 25 35586 6
+M 100 35504 25 35586 6
+M 100 35504 25 35586 6
+E 100 35535 0 23
+M 100 35504 25 35587 6
+M 100 35504 25 35587 6
+M 100 35504 25 35587 6
+M 100 35504 25 35587 6
+M 100 35504 25 35587 6
+M 100 35504 25 35587 6
+E 100 35535 0 23
+M 100 35500 0 35589 1
+G 100 35501 0
+O 100 35552 0 35589
+M 100 35508 4 35590 1
+E 100 35541 0 25
+M 100 35508 4 35591 1
+E 100 35540 0 20
+M 100 35530 10 35592 1
+E 100 35546 0 16
+M 100 35529 6 35593 6
+E 100 35530 0 1
+M 100 35529 6 35593 6
+E 100 35531 0 14
+M 100 35529 6 35593 6
+E 100 35532 0 8
+M 100 35529 6 35593 6
+E 100 35533 0 7
+M 100 35529 6 35593 1
+G 100 35547 0
+E 100 35534 0 3
+M 100 35531 3 35594 1
+E 100 35549 0 1
+M 100 35531 3 35596 1
+E 100 35550 0 8
+M 100 35531 3 35597 1
+E 100 35548 0 6
+M 100 35535 0 35598 1
+S
+
+#SHOPS
+35525 19 0 0 0 0 100 0 0 23
+35526 1 15 17 0 0 100 0 0 23
+35527 10 26 0 0 0 100 0 0 23
+0
+
+#$

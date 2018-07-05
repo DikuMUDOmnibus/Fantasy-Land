@@ -1,0 +1,3386 @@
+#AOD_AREA
+Z: Elven Forest~
+5800 5899 0 8
+Room 5800
+Levl 85 151
+Bldr RzA~
+Alig G
+End
+
+#MOBILES
+#5800
+demon lord~
+the {rD{Re{rm{Ro{rn{D Lord{x~
+The {rd{Re{rm{Ro{rn {Dlord{X cackles evilly at you and attacks.
+~
+Hes about fifteen feet tall with a huge scaley face.
+~
+human~
+0 0 0 200 0 0 0 0 200 0 200 0 0 0 0 0 0 0 0 0 0 0 0 100 100 100 
+ABDF CDFJTVc ADHJ -1000 0
+120 277 0 10514 10916 9623 10993 35 34 308 none
+-540 -377 -588 -522
+STANDING STANDING male 5141
+84 mage huge ABCDEFGHIJK
+P 71 3
+S 'roundhouse' 0
+M HPCNT 5801 3~
+M GREET 5800 100~
+M EXALL 5837 3~
+
+#5801
+deer~
+a {ydeer{x~
+A {ydeer{x darts across the path.
+~
+Its a nice healthy looking deer.  It runs from you in fear of its life.  
+~
+wolf~
+100 100 100 100 200 100 200 100 100 100 100 100 100 100 100 100 100 100 200 100 100 100 100 100 100 100 
+G VZb 0 50 0
+95 143 0 6253 6624 6085 6575 22 23 202 pound
+-264 -321 -230 -308
+STANDING STANDING female 3998
+72 warrior medium ACDEFJKQV
+P 27127 18
+S 'roundhouse' 0
+
+#5802
+bird~
+a {yb{Wir{yd{X~
+A {yb{Wir{yd{x flies above your head.
+~
+It has a white belly and brown feathers.  Its large yellow eyes peer at
+your for a second before it flys away.  
+~
+song bird~
+100 100 100 100 200 100 200 100 100 100 100 100 100 100 100 100 100 100 200 100 100 100 100 100 100 100 
+G TV 0 50 0
+90 65 0 2370 3361 63 143 5 13 32 scratch
+-340 -340 -340 -300
+STANDING STANDING neutral 6454
+73 warrior small ACDEFHKP
+P 19028 9
+S 'roundhouse' 0
+
+#5803
+elven warrior~
+a wild {ge{Gl{Wv{ge{gn {Wwarrior{x~
+An {ge{Gl{Wv{ge{gn {Wwarrior{x with a wooden spear stares at you and growls.
+~
+He wears all forest green. He looks like a human, except for he's about two feet smaller than the average man, and has two pointy ears.
+He growls at you and threatens you with a spear.
+~
+elf~
+100 125 50 100 100 100 100 100 100 150 75 100 100 75 125 100 100 100 100 100 100 100 100 100 100 100 
+BDF DFJPQVZb IN 1000 0
+120 70 0 6000 6000 65 139 5 14 35 punch
+-370 -370 -370 -340
+STANDING STANDING male 7345
+74 mage small ABCDEFGHIJK
+P 127 1
+S 'roundhouse' 0
+M GREET 5803 100~
+
+#5804
+wild elf~
+a wild elf~
+A wild elf walks around this village.
+~
+This is a normal wild elf. THey wear pure forest green and have pointy ears.
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+90 90 0 4319 5539 52 136 5 17 76 punch
+-490 -490 -490 -460
+STANDING STANDING male 600
+78 warrior small ABCDEFGHIJK
+P 2202 0
+S 'roundhouse' 0
+
+#5805
+elven priest~
+an elven priest~
+An elven priest searchs urgently for something
+~
+Hes dressed all in white robes and looks very old for an elf.
+~
+human~
+100 150 0 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DFJQVZb N 1000 0
+90 90 0 4406 6216 57 138 5 17 76 punch
+-490 -490 -490 -460
+STANDING STANDING female 6000
+78 warrior small ABCDEFGHIJK
+P 59 0
+S 'roundhouse' 0
+M GIVE 5806 5803~
+M GREET 5805 100~
+
+#5806
+demon~
+A huge demonic creature~
+A huge being created of hellfire stands here.
+~
+Its huge and made of fire!  
+~
+dragon~
+100 150 50 150 100 100 50 100 50 100 50 100 50 100 100 100 100 150 100 150 100 100 100 100 100 100 
+B DFJQTVZbc I 1000 0
+100 101 0 5091 7894 58 136 5 19 100 punch
+-580 -580 -580 -520
+STANDING STANDING female 6000
+80 warrior small ACDEFGHIJKPQUVX
+S 'roundhouse' 0
+M GREET 5807 100~
+
+#5807
+worried elven mother~
+a worried mother.~
+A mother stands over the bed of her sick child.
+~
+She has tears in her eyes and is standing over the edge of her sick son's
+bed.  She wears a forest green dress and has a beautiful face.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+90 90 0 4457 5905 67 143 5 17 76 punch
+-480 -480 -480 -460
+STANDING STANDING female 6000
+78 warrior small ABCDEFGHIJK
+P 7 0
+S 'roundhouse' 0
+
+#5808
+sick elven boy~
+a sick elven boy~
+A sick elven boy lies unconscious in his bed.
+~
+His face is totally pale, and hes slumped up against his bed.  Doctors
+try to attend him but their efforts are in vain.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+90 90 0 4578 5835 54 135 5 17 75 punch
+-490 -490 -490 -460
+STANDING STANDING female 6000
+78 warrior small ABCDEFGHIJK
+P 10 0
+S 'roundhouse' 0
+
+#5809
+an elven doctor~
+an elven doctor~
+A doctor attends to the boy with herbs and other methods of healing.
+~
+He looks like a regular elf, except for the herb pouch he carries attached to his belt.
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+90 90 0 4343 5830 66 138 5 17 75 punch
+-490 -490 -490 -460
+STANDING STANDING female 6000
+78 warrior small ABCDEFGHIJK
+P 17 0
+S 'roundhouse' 0
+
+#5810
+elven armorsmith~
+an elven armorsmith~
+An elven armorsmith waits to sell you something.
+~
+Hes all decked out in wooden armor and wields a wooden spear.
+He might look scary if he wasn't so fat.
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+90 90 0 7590 10139 527 653 5 20 100 punch
+-600 -600 -600 -600
+STANDING STANDING male 6000
+78 warrior small ABCDEFGHIJK
+S 'roundhouse' 0
+M SPEECH 5814 cake~
+
+#5811
+librarian~
+the Librarian~
+An old librarian stands behind the counter muttering.
+~
+He looks like an old geezer.  
+~
+human~
+100 150 0 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+90 90 0 4524 5995 56 126 5 17 75 punch
+-480 -480 -480 -430
+STANDING STANDING male 6000
+78 warrior small ABCDEFGHIJK
+P 3 0
+S 'roundhouse' 0
+M GIVE 5811 5810~
+M SPEECH 5808 quest~
+M GIVE 5815 5814~
+
+#5812
+fighter guildmaster~
+the fighter guildmaster~
+A huge fighter stands here, looking mad.
+~
+Hes a huge elf.  Hes even taller than you.  And you thought elves were
+short!  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+90 90 0 3973 5791 61 149 5 17 76 punch
+-500 -500 -500 -460
+STANDING STANDING male 6000
+78 warrior small ABCDEFGHIJK
+P 5 0
+S 'roundhouse' 0
+
+#5813
+healer guildmaster~
+the healer guildmaster~
+A wise old healer teachs the other clerics.
+~
+Hes incredibly old.  His face is even shrivelled up and his pointy ears
+are sagging.  
+~
+human~
+100 150 0 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+90 90 0 4193 6031 64 132 5 17 76 punch
+-500 -500 -500 -460
+STANDING STANDING male 6000
+78 warrior small ABCDEFGHIJK
+P 8 1
+S 'roundhouse' 0
+M GIVE 5813 5811~
+M GIVE 5817 5816~
+
+#5814
+mage guildmaster~
+the mage guildmaster~
+The mage guildmaster frowns at his pupils.
+~
+He looks very young.  But looks can be deceiving, he is actually more
+than five tousand years old, kept alive by his magic.  
+~
+human~
+100 150 0 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+90 90 0 4194 6093 76 122 5 17 76 punch
+-500 -500 -500 -460
+STANDING STANDING male 6000
+78 warrior small ABCDEFGHIJK
+P 6 0
+S 'roundhouse' 0
+M SPEECH 5810 from~
+M ACT 5809 whaps~
+M GIVE 5816 5815~
+
+#5815
+flora the florist~
+Flora the Florist~
+Flora the Florist stands here, waiting to serve you.
+~
+Shes a little old lady who sells flowers.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+110 90 0 4428 6214 74 139 5 17 76 punch
+-500 -500 -500 -460
+STANDING STANDING male 6000
+78 warrior small ABCDEFGHIJK
+S 'roundhouse' 0
+M SPEECH 5812 fire~
+
+#5816
+mad elf~
+a mad elf~
+A mad elf  foams at the mouth and attacks!
+~
+Hes foaming at the mouth and running all over the place screaming.
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+BF DJQVZb N 1000 0
+110 90 0 4313 5744 74 141 5 17 76 punch
+-500 -500 -500 -460
+STANDING STANDING male 6000
+78 warrior small ABCDEFGHIJK
+P 18 0
+S 'roundhouse' 0
+
+#5817
+elven lord~
+an elven lord~
+An elven lord runs the council meeting.
+~
+This is the lord that rules this village.  He set up this council to
+appease the people and keep himself in power.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+115 90 0 3833 5937 61 144 5 17 76 punch
+-500 -500 -500 -460
+STANDING STANDING male 6000
+78 warrior small ABCDEFGHIJK
+P 106 0
+S 'roundhouse' 0
+
+#5818
+rich elf~
+a rich elf~
+A rich elf wonders who you are.
+~
+This is a fat elf, wearing many costly rings and necklaces.  Hes a
+merchant who travels all over the place and sells things.  This business has
+made him very wealthy.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+111 90 0 3897 6290 71 143 5 18 80 punch
+-500 -500 -500 -460
+STANDING STANDING female 6000
+78 warrior small ABCDEFGHIJK
+P 13 0
+S 'roundhouse' 0
+
+#5819
+council member~
+A council Member~
+A council member listens to the lord.
+~
+Hes an elf of great poltical power, hes currently listening to the elven lord.
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+115 90 0 4457 5728 57 145 5 17 80 punch
+-500 -500 -500 -460
+STANDING STANDING male 6000
+78 warrior small ABCDEFGHIJK
+P 473 0
+S 'roundhouse' 0
+
+#5820
+elven weaponsmith~
+An elven weaponsmith~
+An elven weaponsmith waits to sell you something.
+~
+Hes a gaunt and hard looking young elf.  He stands here sharpening a
+weapon.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+B DJQVZb N 1000 0
+90 90 0 4412 4858 545 658 11 10 80 punch
+-680 -680 -680 -490
+STANDING STANDING male 6000
+78 warrior small ABCDEFGHIJK
+S 'roundhouse' 0
+
+#5821
+huge bear~
+a huge bear~
+A huge bear growls at you and attacks.
+~
+It's hard to see it in this dark cave, but from what you can make out
+it's huge and has claws.  
+~
+bear~
+100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+F DFQV 0 50 0
+111 95 0 4372 6681 65 130 5 18 80 claw
+-550 -550 -550 -490
+STANDING STANDING male 90
+79 warrior large ABCDEFHJKUV
+P 273 0
+S 'roundhouse' 0
+M FIGHT 5819 20~
+
+#5822
+small demon~
+a small {rd{Re{rm{Ro{rn{x~
+A {rd{Re{rm{Ro{rn{X runs about here in a fit of rage!
+~
+Hes a small little imp of a demon.  With fangs abd jaws.  He runs around
+killing people and destroying things.  
+~
+human~
+100 100 125 100 100 100 50 100 200 100 125 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 
+DFG CQTV ADO -3000 0
+121 101 0 3000 3000 56 144 5 19 122 claw
+-570 -570 -570 -530
+STANDING STANDING neutral 1010
+80 warrior small ABCDEFGHIJK
+P 18780 16
+S 'roundhouse' 0
+
+#5823
+a greater demon~
+a {rd{Re{rm{Ro{rn{x~
+A {rd{Re{rm{Ro{rn{x plays in the blood and kills more people.
+~
+Hes a large ugly creatures with wings.  Hes flying around the room
+killing people.  
+~
+human~
+100 100 125 100 100 100 50 100 200 100 125 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 
+DFG CJQTV ADO -3000 0
+123 101 0 3500 3500 60 129 5 20 100 claw
+-590 -590 -590 -530
+STANDING STANDING neutral 1100
+80 warrior medium ABCDEFGHIJK
+P 7208 6
+S 'roundhouse' 0
+
+#5824
+a greater demon~
+a {Dgreater {rd{Re{rm{Ro{rn{x~
+A {Dgreater {rd{Re{rm{Ro{rn{x flies around the room clawing at people.
+~
+Hes a large ugly creatures with wings.  Hes flying around the room
+killing people.  
+~
+human~
+100 100 125 100 100 100 50 100 200 100 125 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 
+DFG CJQTV ADO -3000 0
+144 101 0 4000 4000 62 139 5 20 100 claw
+-590 -590 -590 -530
+STANDING STANDING neutral 1200
+80 warrior large ABCDEFGHIJK
+P 12092 21
+S 'roundhouse' 0
+
+#5825
+a pious priest~
+a pious {Wpriest{x~
+A {Wpriest{x mutters prays to his god as the demons jump at him.
+~
+He sits on his mat meditating with his eyes closed.  The demons close in
+on him, but he is not afraid at all.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 150 100 100 100 100 150 100 100 100 100 100 100 
+BD JVZb N 3000 0
+133 101 0 3000 3000 55 117 5 19 100 punch
+-590 -590 -590 -520
+STANDING STANDING male 6000
+80 warrior small ABCDEFGHIJK
+P 105 0
+S 'roundhouse' 0
+
+#5826
+temple guardian~
+the {Yt{yempl{Ye{W guardian{x~
+The {Yt{yempl{Ye{W guardian{x trys to kick some sense into the demons.
+~
+He looks oriental.  His muscles bulge out of the few clothes he wears and
+he trys to kick the demons to death.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 150 100 100 100 100 150 100 100 100 100 100 100 
+BD JVZb N 1000 0
+133 101 0 3500 3500 76 143 5 20 100 punch
+-590 -590 -590 -530
+STANDING STANDING male 1100
+80 warrior small ABCDEFGHIJK
+P 84 0
+S 'roundhouse' 0
+
+#5827
+the high priest~
+the high {Wpriest{x~
+The high {Wpriest{x lies in bed hugging a woman beneath the covers.
+~
+Hes a young looking elf in his early thousands.  He lies in bed hugging a
+woman to him and screaming in terror.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 150 100 100 100 100 150 100 100 100 100 100 100 
+BD JVZb N 1000 0
+133 101 0 3500 3500 80 127 5 19 100 punch
+-590 -590 -590 -520
+STANDING STANDING male 1200
+80 warrior small ABCDEFGHIJK
+P 78 0
+S 'roundhouse' 0
+
+#5828
+young elf maid pretty young elf~
+a pretty young {Welf{x~
+A pretty young {Welf{x maid is in bed with the high {Wpriest{x.
+~
+Shes a young looking elf in her early thousands.  She peeks out from
+beneath the covers and screams at the demons.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 150 100 100 100 100 150 100 100 100 100 100 100 
+B JVZb N 1000 0
+121 101 0 3000 3000 65 130 5 20 100 punch
+-590 -590 -590 -520
+STANDING STANDING female 1010
+80 warrior small ABCDEFGHIJK
+P 75 0
+S 'roundhouse' 0
+
+#5829
+priest~
+a {Wpriest{x~
+A {Wpriest{x trys to save as many books as he can.
+~
+Hes an old bookish looking priest.  He grabs at the books and holds thme
+in his arms, hoping to save the precious knowledge within.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 150 100 100 100 100 150 100 100 100 100 100 100 
+B JVZb N 1000 0
+120 101 0 3000 3000 59 134 5 20 100 punch
+-590 -590 -590 -520
+STANDING STANDING male 1010
+80 warrior small ABCDEFGHIJK
+P 54 0
+S 'roundhouse' 0
+
+#5830
+a fat priest~
+a fat {Wpriest{x~
+A fat {Wpriest{x is being forced into a pot full of boiling water.
+~
+Hes a huge priest, with rolls of a fat everywhere on his body.  Hes being
+forced into a pot full of boiling water by demons.  
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 150 100 100 100 100 150 100 100 100 100 100 100 
+B JVZb N 1000 0
+118 101 0 3000 3000 66 136 5 20 100 punch
+-590 -590 -590 -530
+STANDING STANDING male 1100
+80 warrior small ABCDEFGHIJK
+P 55 0
+S 'roundhouse' 0
+
+#5831
+a greater demon~
+a {Dgreater {rd{Re{rm{Ro{rn{x~
+A {Dgreater {rd{Re{rm{Ro{rn{x runs rampantly around here!
+~
+Hes a large ugly creatures with wings.  Hes flying around the room
+killing people.  
+~
+human~
+100 100 125 100 100 100 50 100 200 100 125 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 
+DFG CJQTV ADO -1000 0
+134 101 0 3500 3500 70 128 5 20 100 claw
+-590 -590 -590 -520
+STANDING STANDING neutral 1200
+80 warrior large ABCDEFGHIJK
+P 1151 5
+S 'roundhouse' 0
+
+#5832
+huge demon~
+a huge {rd{Re{rm{Ro{rn{x~
+A huge {rd{Re{rm{Ro{rn{x orders the other demons around.
+~
+Hes a tremedous sized creature with large sclaey wings.  He laughs and
+orders the othe demons to boil a poor priest alive.  
+~
+human~
+100 100 125 100 100 100 50 100 200 100 125 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 
+DFG CJQTV ADO -1000 0
+155 101 0 3500 3500 59 145 5 20 100 claw
+-590 -590 -590 -530
+STANDING STANDING neutral 6000
+80 warrior giant ABCDEFGHIJK
+P 590 1
+S 'roundhouse' 0
+
+#5833
+demon guardian~
+a {rd{Re{rm{Ro{rn{D guardian{x~
+A {rd{Re{rm{Ro{rn{D guardian{x guards the way east.
+~
+Hes a huge demon holding a key to the door east.  
+~
+human~
+0 50 50 100 50 100 50 100 150 100 150 100 100 100 50 100 100 150 100 100 100 100 100 100 100 100 
+DFG JQTV O -3000 0
+156 231 0 9625 10212 9476 10343 28 34 241 claw
+-441 -530 -359 -532
+STANDING STANDING neutral 4447
+80 mage giant ABCDEFGHIJK
+P 132 0
+S 'roundhouse' 0
+
+#5835
+pure fire being~
+A {Dbeing{x of pure {rfire{x~
+A {Dbeing{x of pure {rfire{x attacks!
+~
+Hes made of pure fire.
+~
+dragon~
+150 0 0 150 100 100 50 100 150 100 100 0 0 100 100 100 100 150 100 100 0 100 200 100 100 100 
+BF DFJTVc I -1000 0
+160 294 0 10969 12503 11183 12124 36 43 368 claw
+-516 -556 -495 -421
+STANDING STANDING neutral 6209
+90 warrior huge ACDEFGHIJKPQUVX
+P 164 9
+S 'roundhouse' 0
+M EXALL 5835 3~
+M EXALL 5836 1~
+#0
+
+#OBJECTS
+#5800
+wooden elven spear~
+a {ywooden {ge{Gl{Wv{Ge{gn {yspear{x~
+A piece of wood with a point lies here.~
+weapon ABT AN
+spear 12 13 splintering BD
+90 91 22034
+A 19 20
+A 18 20
+
+#5802
+wooden staff~
+a wooden walking staff~
+A piece of wood lies here with a powerful aura.~
+wand A AO
+101 30 30 'heal' 0
+90 0 18505
+
+#5803
+gem healing~
+a {Rm{ryst{Rer{riou{Rs {Dgem{x~
+A sparkling gem makes you feel better by just being in the same room.~
+treasure ABTY AO
+0 0 0 0 0
+101 5 50
+F A 0 0 c
+A 20 -3
+A 19 30
+A 18 30
+A 4 3
+A 13 300
+
+#5804
+leather pouch~
+a leather herb pouch~
+A leather pouch has been spilled open here.~
+container A AL
+600 A 0 850 200
+90 10 6000
+A 19 5
+A 18 6
+
+#5805
+holy light of priestly gratitude~
+the holy light of priestly gratitude~
+A holy light encircles this spot.~
+weapon AM AN
+exotic 14 13 slash CDG
+100 102 5800
+A 19 9
+A 18 9
+A 4 3
+
+#5806
+forest green cloak~
+a forest green cloak~
+A cloak blends in with its surroundings.~
+armor 0 AK
+37 37 37 44 0
+90 102 1
+A 12 50
+A 13 150
+
+#5807
+light elven armor wood~
+a set of light elven armor~
+A piece of armor made of sturdy wood lies here.~
+armor 0 AD
+37 40 41 30 0
+90 102 10000
+A 18 12
+A 19 12
+A 13 270
+
+#5808
+a silver elven shield~
+a silver elven shield~
+A small silver shield gleams here.~
+armor A AJ
+34 37 37 36 0
+100 102 10000
+A 12 250
+A 13 250
+A 19 8
+A 18 8
+
+#5809
+a gold elven necklace~
+a gold elven necklace~
+A shiny piece of gold lies here~
+armor A AC
+37 40 38 36 0
+90 102 10000
+A 12 100
+A 13 100
+A 19 8
+A 18 10
+
+#5810
+frog~
+a frog~
+A cute little frog swims along here.~
+trash 0 A
+0 0 0 0 0
+0 0 0
+
+#5811
+fire flower~
+fire flower~
+A flower that looks like its on fire lies here~
+trash 0 A
+0 0 0 0 0
+0 0 0
+
+#5813
+frog guts~
+a steaming pile of frug guts.~
+A steaming pile of frog guts lay here.~
+trash 0 A
+0 0 0 0 0
+0 0 0
+
+#5814
+cake~
+a fudge cake~
+A huge fudge cake lies here.~
+trash 0 A
+0 0 0 0 0
+0 0 0
+
+#5815
+apology note~
+an apology note~
+A note lies on the ground.~
+trash 0 A
+0 0 0 0 0
+0 0 0
+
+#5816
+gold coin~
+a gold coin~
+A gold coin sparkles here.~
+trash 0 A
+0 0 0 0 0
+0 0 0
+
+#5817
+glowing elven ring of peace~
+a {@g{#l{@o{#w{@i{#n{@g {$elven {!r{%i{!n{%g{0 of peace~
+A glowing ring lies here.~
+armor A AB
+37 37 37 36 0
+100 102 6000
+A 13 55
+A 18 14
+A 19 13
+A 4 3
+A 12 100
+
+#5818
+green silk shirt~
+a green silk shirt~
+A piece of green silk lies here~
+armor B AD
+33 39 33 32 0
+90 91 9000
+A 13 75
+A 19 5
+A 18 6
+
+#5819
+wooden hammer~
+a huge wooden hammer~
+A large wooden hammer lies here.~
+weapon 0 AN
+exotic 12 12 pound G
+90 91 5260
+A 18 8
+A 19 8
+
+#5820
+spiked claws martial~
+spiked claws~
+Some spiked claws lie here.~
+weapon 0 AN
+exotic 13 12 claw BG
+90 91 5260
+A 19 8
+A 18 8
+
+#5821
+elven quarterstaff~
+an elven quarterstaff~
+A long piece of wood lies here.~
+weapon 0 AN
+exotic 12 13 thwack C
+90 91 5260
+A 19 8
+A 18 8
+
+#5822
+wooden elven spear~
+a wooden elven spear~
+A long pole with a sharp tip lies here.~
+weapon 0 AN
+exotic 13 12 pierce AD
+90 91 5535
+A 18 8
+A 19 8
+
+#5823
+small elven dagger~
+a small elven dagger~
+A small elven dagger lies here.~
+weapon A AN
+dagger 13 13 stab CG
+90 91 4710
+A 18 8
+A 19 8
+
+#5824
+small key silver~
+a small silver key~
+A small key made of silver lies here.'~
+key 0 A
+0 0 0 0 0
+0 0 0
+
+#5825
+key~
+a key to the altar hall~
+A key lies here.~
+key 0 A
+0 0 0 0 0
+0 5 100
+
+#5826
+dinner fork~
+a dinner fork~
+A dinner fork reminds you its dinner time!~
+weapon A AN
+sword 14 13 cleave CG
+100 102 5800
+A 13 50
+A 19 9
+A 18 9
+
+#5827
+aura od deet~
+an aura of death~
+An aura of death floats in the air.~
+armor AFJ AQ
+37 37 37 36 0
+101 102 10000
+A 13 200
+A 12 100
+A 18 7
+
+#5828
+huge sclaey demon wings~
+huge scaley {rd{Re{rm{Ro{rn{D wings{x~
+A pair of huge scaley demon wings lie here.~
+armor CEJL AT
+37 37 37 36 0
+101 102 700
+A 20 -1
+A 13 300
+A 18 35
+A 19 35
+F D 6 -5 0
+F D 14 -5 0
+
+#5829
+silk sheets~
+shilk sheets~
+A set of silk sheets lie here.~
+armor 0 AD
+37 37 37 36 0
+100 102 6000
+A 13 150
+A 12 100
+A 18 10
+
+#5830
+an aura of life~
+an aura of life~
+An aura of life floats in the air.~
+armor AFK AQ
+34 37 37 36 0
+100 102 10000
+A 13 200
+A 12 100
+A 18 7
+
+#5831
+hellfire flames~
+a {Dburst{x of {Rh{rel{Rlf{rir{Re{x~
+Flames hotter than hell float here.~
+armor ACEJL AK
+22 22 22 22 0
+101 102 15485
+F A 0 0 T
+A 20 -2
+A 19 35
+A 18 35
+A 2 3
+A 13 300
+F D 6 -5 0
+F D 14 -5 0
+
+#5835
+claws lord demon~
+the {Dclaws{x of the {rd{Re{rm{Ro{rn{D lord{x~
+A pair of monstrous claws lie here.~
+armor ACEJLT AH
+20 20 20 20 0
+101 102 10000
+A 20 -3
+A 19 35
+A 18 35
+A 1 3
+A 13 300
+F D 6 -5 0
+F D 14 -5 0
+#0
+
+#ROOMS
+#5800
+{gPath through a Forest{x~
+{gYou have started down a small forest path{G.{g  Its made of gravel{x
+{gand doesn{G'{gt look like it leads anywhere that you could find on{x
+{ga map{G.{g  The smell of pine trees is in the air{G,{g mostly because this{x
+{gis a pine forest{G.{g  The trees look majestic and very old{G,{g almost{x
+{gwise{G.{g  The light dims as you walk further along the path{G.{x
+~
+4 0
+D0
+~
+~
+0 0 5801
+D1
+~
+~
+0 0 5264
+S
+
+#5801
+{gPath through a Forest{x~
+{gYou have entered a forest{G.{g  The trees are mostly large majestic{x
+{gpines{G,{g they look almost as if they{G'{gre alive{G.{g  If these trees could{x
+{gtalk{G,{g they{G'{gd probably tell you the meaning of life{G.{g  As you walk{x
+{gfarther into the forest{G,{g the sounds of animals become more and{x
+{gmore prominent{G.{g  A high pierced shriek comes from the trees{G,{g a{x
+{gsong bird seems to be angry with something{G.{g  South is the entrance{x
+{gto the forest and the path continues north{G.{x
+~
+4 0
+D0
+~
+~
+0 0 5802
+D2
+~
+~
+0 0 5800
+S
+
+#5802
+{gPath through a Forest{x~
+{gYou are walking down a small path near the edge of a forest{G.{g  Animals{x
+{gshriek{G,{g and hiss{G,{g and growl{G,{g very rarely you can even catch a few{x
+{gof them peeking their heads out of a bush or running wildly across{x
+{gthe path{G.{g  The trees here look like they{G'{gve been stripped of their{X
+{gbark{G,{g the odd thing is they seem to be unharmed by it{G,{g there must{x
+{gbe a person who really knows nature living around here{G.{g  Weird{X
+{gchittering noises come from the west and the path leads north and{x
+{gsouth{G.{x
+~
+4 0
+D0
+~
+~
+0 0 5804
+D2
+~
+~
+0 0 5801
+D3
+~
+~
+0 0 5803
+S
+
+#5803
+{DYOU{W'{DVE FALLEN{W!!!!!{x~
+{DThe ground gives way beneath you and you FALL{W!{D  Looks like someone{x
+{Dplaced a trap here to catch something{W.{D  You sure hope it isn{W'{Dt{X
+{Dyou{W.{D  Little brownies dance up at the top of the pit and taunt{x
+{Dyou{W,{D that explains the chattering{W,{D but not the hole itself{W,{D they{X
+{Dare far too small to make it{W.{x
+~
+4 0
+S
+
+#5804
+{gPath through a Forest{x~
+{gYou are walking along a small path towards the edge of a forest{G.{x
+{gThe trees start to get tall here{G,{g and the foilage is starting to{x
+{gbecome more thick{G.{g  It{G'{gs starting to get dark as well as the shade{x
+{glooms to something seen at the east of here{G.{g  Tall trees block{x
+{gout the light as several birds chitter up in the trees{G.{g  The path{x
+{gcontinues north and south{G.{x
+~
+4 0
+D0
+~
+~
+0 0 5806
+D1
+~
+~
+AB 0 5805
+D2
+~
+~
+0 0 5802
+S
+
+#5805
+{gHoly Glade{x~
+{gYou pass through a large overgrowth of bushs into the most beautiful{x
+{gplace you{G'{gve ever seen{G.{g  The trees form a ring around a small crystal{x
+{gpool{G,{g they look young and healthy{G,{g in fact their the first things{x
+{gthat look young that you{G'{gve seen in this forest{G.{g  The small pool{x
+{gshines and you can see your relection clearly in it if you look{G.{x
+{gAnimals cluster around it{G,{g lapping up the cool water with their{x
+{gtongues{G,{g they don{G'{gt seem scared of you here{G,{g almost as if this{x
+{gplace has some mystical power{G.{g  Theres some sort of door the trees{x
+{gare forming to the north{G,{g you suddenly notice it as you stare at{x
+{gthe trees{G.{x
+~
+4 0
+D1
+~
+~
+AB 0 5815
+D3
+~
+~
+AB 0 5804
+S
+
+#5806
+{gPath through a Forest{x~
+{gYou are walking down a small forest path{G.{g  You can hear the sound{x
+{gof a large animal like a bear to your east{G.{g  Its starting to get{x
+{gvery dark{G,{g because the trees are blocking out the suns rays{G.{g  The{x
+{gtrees here also get taller{G,{g and overlap{G,{g creating odd clumps of{x
+{gpine needles{G,{g that look like they{G'{gve grown together{G.{g  The path{x
+{gcontinues north and south{G.{x
+~
+4 0
+D0
+~
+~
+0 0 5807
+D1
+~
+~
+0 0 5808
+D2
+~
+~
+0 0 5804
+S
+
+#5807
+{gPath through a Forest{x~
+{gYou are walking down a small path{G.{g  Its almost so dark you can{G'{gt{x
+{gsee your hands here{G.{g  The trees around you look very erie{G,{g they{x
+{gare gnarled and look almost like they have strange evil faces{x
+{gYou can hear the shrill cries of owls and a rustling sound as they{x
+{glift off into the air from their tree top perches{G.{g  East and west{x
+{gare two very odd looking trees{G.{g  Did you just see something scurry{x
+{gup them{G?{g  North and south{G,{g the path continues{G.{x
+~
+4 0
+D0
+~
+~
+0 0 5809
+D1
+~
+~
+0 0 5810
+D2
+~
+~
+0 0 5806
+D3
+~
+~
+0 0 5811
+S
+
+#5808
+{yCave{x~
+{yYou have entered a deep dark cave{D. {y There{D'{ys no light at all{D,{y you{x
+{ycan{D'{yt even see your hand in front of your face{D.{y  The growls you{X
+{yhear coming from before you{D,{y kind of explain who lives in this{x
+{ycave{D.{y  The owner of those growls doesn{D'{yt sound too happy{D.{y  The{x
+{yonly exit is west back onto the path{D.{X
+~
+4 0
+D3
+~
+~
+0 0 5806
+S
+
+#5809
+{gPath through a Forest{x~
+{gYou are walking down a forest path{G.{g  The light is starting to come{x
+{gthrough the trees{G,{g and you are able to see once again{G.{g  The trees{x
+{gthemselves look much less frightening and more peaceful{G,{g they are{x
+{gstill the wise looking pine trees you thought they were when you{x
+{gfirst entered this forest{G.{g  The calls of song birds can once again{x
+{gbe heard{G,{g and every once in awhile a deer walks into the path and{x
+{gruns away{G.{x
+~
+4 0
+D0
+~
+~
+0 0 5814
+D2
+~
+~
+0 0 5807
+S
+
+#5810
+{gBelow a Large Tree{x~
+{gYou are standing under a huge pine tree{G.{g  Its so high{G,{g it looks{x
+{glike its branches at the top{G,{g are touching the moon{G.{g  You can only{x
+{gbarely make out the leaves on the branches{G,{g so it looks like the{x
+{gtree is gnarled at the top{G.{g  Looking closer at the trunk{G,{g it looks{x
+{gas if someone has carved hand holds into it{G.{g  A rustling at the{x
+{gtop draws your attention{G,{g is someone up there{G?{g  You could go up{x
+{gthe tree or west back to the path{G.{x
+~
+4 0
+D3
+~
+~
+0 0 5807
+D4
+~
+~
+0 0 5813
+S
+
+#5811
+{gBelow a Large Tree{x~
+{gYou are standing under a huge pine tree{G.{g  Its so high{G,{g it looks{x
+{glike its branches at the top{G,{g are touching the moon{G.{g  You can only{x
+{gbarely make out the leaves on the branches{G,{g so it looks like the{x
+{gtree is gnarled at the top{G.{g  Looking closer at the trunk{G,{g it looks{x
+{gas if someone has carved hand holds into it{G.{g  A rustling at the{x
+{gtop draws your attention{G,{g is someone up there{G?{g  You could go up{x
+{gthe tree or east back to the path{G.{x
+~
+4 0
+D1
+~
+~
+0 0 5807
+D4
+~
+~
+0 0 5812
+S
+
+#5812
+{yOn a Branch{x~
+{yYou have climbed up a large pine tree{g,{y and you are standing on{x
+{ya branch at the top{g.{y  All you can see is the green tops of other{g,{x
+{ysmaller trees when you look forward{g,{y and the sun when you look{x
+{yup{g.{y  When you look down{g,{y everything looks very small and dark{g.{x
+{yIt also looks as if your very high up{g,{y so you better be careful{g.{x
+{yBehind you little muscular men are talking in strange languages{g,{x
+{ythey don{g'{yt seem happy to see you{g.{y  The only exit is down{g.{x
+~
+4 0
+D5
+~
+~
+0 0 5811
+S
+
+#5813
+{yOn a Branch{x~
+{yYou have climbed up a large pine tree{g,{y and you are standing on{x
+{ya branch at the top{g.{y  All you can see is the green tops of other{g,{x
+{ysmaller trees when you look forward{g,{y and the sun when you look{x
+{yup{g.{y  When you look down{g,{y everything looks very small and dark{g.{x
+{yIt also looks as if your very high up{g,{y so you better be careful{g.{x
+{yBehind you little muscular men are talking in strange languages{g,{x
+{ythey don{g'{yt seem happy to see you{g.{y  The only exit is down{g.{x
+~
+4 0
+D5
+~
+~
+0 0 5810
+S
+
+#5814
+{gEnd of the Path{x~
+{gYou have reached the end of the path{G.{g  Large bushes and undergrowth{x
+{gblock the way ahead{G.{g  The trees around here also seem to be blocking{x
+{gthe way ahead{G,{g it{G'{gs almost as if the plants are protecting something{x
+{gThere must be a way ahead though{G,{g mostly because you can hear the{x
+{gtrickle of running water{G.{g  The sound of a bird pierces the silence{x
+{ghere{G,{g and a deer runs in front of you{G.{g  The only obvious exit is{x
+{gsouth{G,{g back onto the path{G.{x
+~
+4 0
+D0
+~
+bushs~
+AB 0 5831
+D2
+~
+~
+0 0 5809
+S
+
+#5815
+{yBeyond the Forest Door{x~
+{yYou have passed through the weird door made out of trees{Y.{y  The{x
+{ywird thing about it is{Y,{y you are in a clearing with a temple in{x
+{ythe middle of it{Y.{y  This place cannot be found on any map{Y,{y and theres{X
+{yno forest to be seen except west{Y.{y  The forest should have miles{x
+{ymore trees towards the east{Y,{y but all their is{Y,{y is grass{Y.{y  The temple{x
+{ystands majestically{Y,{y made of pure white marble{Y.{y  East is toward{x
+{ythe odd temple and west is back into the holy glade{Y.{x
+~
+4 0
+D1
+~
+~
+0 0 5816
+D3
+~
+~
+AB 0 5805
+S
+
+#5816
+{yThe Steps of a {YT{yempl{Ye{x~
+{yYou are standing on the stesp to a beautiful temple{Y.{y  The walls{x
+{yare made of pure white marble{Y,{y and so are the gates{Y.{y  Its gates{x
+{ytower up before you{Y,{y it almost looks like heaven{Y.{y  No guards stand{x
+{yat the gates{Y,{y and no sounds come from within{Y.{y  It seems like a{x
+{yplace like this should have choirs of angels singing around it{Y,{x
+{ybut there seems like theres something wrong{Y.{y  West is beyond the{x
+{yforest door and east is inside the temple{Y.{x
+~
+4 0
+D1
+~
+~
+0 0 5817
+D3
+~
+~
+0 0 5815
+S
+
+#5817
+{yInside a {YT{yempl{Ye{x~
+{yYou have walked inside the temple{Y.{y  The peaceful silence is shattered{x
+{yas you hear screams of terror and pain{Y.{y  Blood spatters the walls{x
+{yof the once beautiful marble walls and gorgeous paintings{Y.{y  Little{x
+{ydemonic creatures run around killing the poor helpless priests{Y,{x
+{ythey have taken a vow of silence{Y.{y  Satanic laughter can be heard{x
+{ycoming from the halls{Y,{y as one by one the priests are killed{Y.{y  North{Y,{x
+{ychanting can be heard{Y,{y and south{Y,{y you can see the priest{Y'{ys rooms{Y.  {yWest{x
+{yis outside the temple{Y.{x
+~
+4 0
+D0
+~
+~
+0 0 5818
+D1
+~
+~
+ABCG 5824 5829
+D2
+~
+~
+0 0 5819
+D3
+~
+~
+0 0 5816
+S
+
+#5818
+{YM{yeditatio{Yn{y Room{x~
+{yYou have walked into a small room obviously made for meditation{x
+{yand prayer{Y.{y  Mats are stacked on the ground for priests to sit{x
+{yon when they meditate{Y,{y and incense can be smelled in the air{Y.{x
+{yOther prayer spices sting at your eyes{Y,{y you wonder how these monks{x
+{ystand it{Y.{y  The priests are lined up on mats{Y,{y mumbling chants and{x
+{yprayers to their god{Y,{y as they are brutally killed by little demonic{x
+{ycreatures{Y.{y  Blood splatters most of the mats{Y,{y and the once gorgeous{x
+{ymarble walls{Y.{y  The only exit is south{Y.{x
+~
+4 0
+D2
+~
+~
+0 0 5817
+S
+
+#5819
+{yA Narrow Hall{X~
+{yYou are walking down a narrow hall{Y.{y  The light is dim{Y,{y but theres{x
+{yobviously fighting going on{Y,{y since theres blood splattered on the{x
+{ycarpet and walls{Y.{y  Screams of terror can be heard as the demonic{x
+{ybeing slaughter more priests{Y.{y  A candle has been knocked over and{x
+{yis slowly burning the carpet up{Y.{y  East and west of here are the{x
+{ypriests rooms{Y.{y  South{Y,{y the hall continues and north is the beginning{x
+{yof the temple{Y.{x
+~
+4 0
+D0
+~
+~
+0 0 5817
+D1
+~
+~
+0 0 5821
+D2
+~
+~
+0 0 5820
+D3
+~
+~
+0 0 5822
+S
+
+#5820
+{yA Narrow Hall{X~
+You are walking down a narrow hall.  The monk's rooms are east and west. 
+Screams can be heard coming from them.  The lighting is dim here, but you
+can make out blood on the walls and the carpet, and the building itself
+gives out an aura of anger at its desecration.  Little demonic creatures run
+down the hall, chasing priests and stabbing them to death with knives, or
+just plain beating them to death.  North and south the hall continues.  
+~
+4 0
+D0
+~
+~
+0 0 5819
+D1
+~
+~
+0 0 5824
+D2
+~
+~
+0 0 5825
+D3
+~
+~
+0 0 5823
+S
+
+#5821
+{yA Priest{Y'{ys Room{x~
+{yYou have entered the room of a most pious priest{Y.{y  The walls are{x
+{ybare and the one window is devoid of a curtain{Y.{y  The only piece{x
+{yof furnature here is a small mat{Y,{y used for meditation{Y.{y  A book{x
+{yis lying on the floor{Y,{y open{Y,{y its the priests holy book{Y.{y  The priest{x
+{yis currently muttering prayers as the demonic creatures are trying{x
+{yto stick him with their knives and claw his eyes out{Y.{y  The only{x
+{yexit is east{Y.{x
+~
+4 0
+D3
+~
+~
+0 0 5819
+S
+
+#5822
+{yA Priest{Y'{ys Room{x~
+{yYou have entered the room of a most pious priest{Y.{y  The walls are{x
+{ybare and the one window is devoid of a curtain{Y.{y  The only piece{x
+{yof furnature here is a small mat{Y,{y used for meditation{Y.{y  A book{x
+{yis lying on the floor{Y,{y open{Y,{y its the priests holy book{Y.{y  The priest{x
+{yis currently muttering prayers as the demonic creatures are trying{x
+{yto stick him with their knives and claw his eyes out{Y.{y  The only{x
+{yexit is east{Y.{x
+~
+4 0
+D1
+~
+~
+0 0 5819
+S
+
+#5823
+{yA Priest{Y'{ys Room{x~
+{yYou have entered the room of a most pious priest{Y.{y  The walls are{x
+{ybare and the one window is devoid of a curtain{Y.{y  The only piece{x
+{yof furnature here is a small mat{Y,{y used for meditation{Y.{y  A book{x
+{yis lying on the floor{Y,{y open{Y,{y its the priests holy book{Y.{y  The priest{x
+{yis currently muttering prayers as the demonic creatures are trying{x
+{yto stick him with their knives and claw his eyes out{Y.{y  The only{x
+{yexit is east{Y.{x
+~
+4 0
+D1
+~
+~
+0 0 5820
+S
+
+#5824
+{yA Priest{Y'{ys Room{x~
+{yYou have entered the room of a most pious priest{Y.{y  The walls are{x
+{ybare and the one window is devoid of a curtain{Y.{y  The only piece{x
+{yof furnature here is a small mat{Y,{y used for meditation{Y.{y  A book{x
+{yis lying on the floor{Y,{y open{Y,{y its the priests holy book{Y.{y  The priest{x
+{yis currently muttering prayers as the demonic creatures are trying{x
+{yto stick him with their knives and claw his eyes out{Y.{y  The only{x
+{yexit is east{Y.{x
+~
+4 0
+D3
+~
+~
+0 0 5820
+S
+
+#5825
+{yA Narrow Hall{X~
+You are walking down a narrow hall.  Demons and priests run past you, the
+demons usually have knives and the priests usually have their faces
+contorted in a look of sheer terror.  Blood is everywhere, its almost as if
+your floating in a sea of the stuff.  This place is a good picture of waht
+hell might look like.  You have passed the priests room and are into the
+facilitys they have here.  South is the kitchen, and north is back into the
+hall.  West the library and east is the magic workshop.  
+~
+4 0
+D0
+~
+~
+0 0 5820
+D1
+~
+~
+0 0 5827
+D2
+~
+~
+0 0 5828
+D3
+~
+~
+0 0 5826
+S
+
+#5826
+Library~
+You have stepped into a small librabary.  Plain oak shelves are up
+against the walls, they are full of religious and magical books.  The demons
+seem to hate this place the most, they are destroying all the books and
+ripping them brutally apart.  Some priests that tried to save the precious
+reading material are now dead on the ground.  The only exit is east.  
+~
+4 0
+D1
+~
+~
+0 0 5825
+S
+
+#5827
+Magic Workshop~
+You have walked into the magic workshop of the temple.  Theres a plain
+wooden table which has smashed vials of various potions and powders smashed
+in it.  The rest of the room is bare.  The priests used to do magical
+experiments in here, with magic that whatever god they pray to gives them. 
+Demons have desecrated this place too and are sacrficing priests to their
+dark god here.  The only exit is west.  
+~
+4 0
+D3
+~
+~
+0 0 5825
+S
+
+#5828
+{yThe Kitchen{x~
+You have entered the kitchen of the priests.  Everything is destroyed,
+including the food which is crushed on the floor.  There are more demons
+here than anywhere else you've seen here yet.  Theres a scene that looks
+like something straight out of a story by the pot.  One of the head demons
+is ordering the other demons to stab a fat priest in the butt until he jumps
+into a pot full of boiling water.  It looks like the demons would like to
+eat well tonight.  The only exit is north.  
+~
+4 0
+D0
+~
+~
+0 0 5825
+S
+
+#5829
+Path to the Altar~
+Demonic laughter echoes through your mind as you walk into the hall to
+the altar room.  All your greatest fears plague your mind , and you are left
+screaming in agony.  A voice booms, "I DARE YOU TO GO ANY FURTHER FOOLISH
+MORTAL!"  The head demon has apparently found you, you better be careful. 
+There are doors east and west.  
+~
+4 0
+D1
+~
+~
+ABCG 5825 5830
+D3
+~
+~
+ABCG 0 5817
+S
+
+#5830
+Path to the Altar~
+You are walking down a dimly lit hall.  You can hear the laughter of the
+head demon plague you still.  He sends images of temptation and terror,
+which repectaively give you pleasure and pain.  THe walls are practically
+bathed in blood and little demons constantly run by your feet.  A sign is
+hanging in the door to the east.  The only obvious exit is west.  
+~
+4 0
+D1
+~
+~
+AG 0 5869
+D3
+~
+~
+ABCG 0 5829
+E
+sign~
+EAST IS A LARGE MAZE TO TEST YOU. IT HAS LOTS OF TRAPS AND PITFALLS SO BE CAREFUL.
+~
+S
+
+#5831
+Clearing in the Forest~
+You have walked through the bushes and find yourself in a large clearing.
+A small spring runs through the middle .  Animals sit by the spring, lapping
+up the cool water, seemingly unafraid of you.  Large trees are scattered
+thrgh out the clearing, and they each have houses in them!  Rope bridges run
+between some houses and people dressed in forest green tribal clothes walk
+along them.  You have stumbled upon a wild elven village.  North is a path
+through the village and south is through the bushes.  West and east lead to
+Tree homes.  
+~
+4 0
+D0
+~
+~
+0 0 5834
+D1
+~
+~
+0 0 5832
+D2
+~
+~
+AB 0 5814
+D3
+~
+~
+0 0 5833
+S
+
+#5832
+Below a Tree House~
+You are standing below a large tree.  A rope ladder is attached to the
+large trunk, which is even bigger than the large trees in the actual forest.
+The ladder leads up to a small house at the top of the trees, its made out
+of wood but yet looks very sturdy.  A rope ladder connects it with its
+neighbor across the way.  UP is the tree house, and west is the clearing.  
+~
+4 0
+D3
+~
+~
+0 0 5831
+D4
+~
+~
+0 0 5835
+S
+
+#5833
+Below a Tree House~
+You are standing below a majestic oak tree, which rises so high it looks
+as if its branches reach the sky.  The rope ladder which is attached to the
+trunk kind of spoils the affect, but its there for good reason.  A small
+tree house is attached to the tree on a huge top branch.  The house is made
+of wood, yet looks very sturdy.  A rope ladder connects it with its neighbor
+to the east.  Animals obviously share the tree with its elven occupants,
+because you can hear rustling and bird songs coming from the leaves.  Up is
+the tree house and east is the clearing.  
+~
+4 0
+D1
+~
+~
+0 0 5831
+D4
+~
+~
+0 0 5836
+S
+
+#5834
+Wild Elven Village~
+You are standing in a clearing in the middle of a forest, which happens
+to house a wild elf village.  The houses are all up in trees and connected
+with rope bridges.  Some elven people dressed in forest green tribal clothes
+stare at you oddly and speak in a foreign language.  They aren't trying to
+kill you, so they're probably friendly.  East and west are trees which have
+houses in them, and north is a bridge of the spring.  
+~
+4 0
+D0
+~
+~
+0 0 5840
+D1
+~
+~
+0 0 5838
+D2
+~
+~
+0 0 5831
+D3
+~
+~
+0 0 5839
+S
+
+#5835
+In a Tree House~
+You have entered a small tree house.  It has a book shelf in the corner
+with lots of religious books in it, which probably means the inhabitant is a
+priest of some sort.  Theres a mat in the edge of the room where the man
+probably sleeps and a small fire pit with a makeshift chimney over it.  A
+proverb hangs over by the window.  Down leads to below the tree and west is
+to the rope bridge which connects the houses.  
+~
+4 0
+D3
+~
+~
+0 0 5837
+D5
+~
+~
+0 0 5832
+S
+
+#5836
+In a Tree House~
+You have entered a small tree house.  It's pretty plain how houses go. 
+The walls are painted white, over the wood they were originally made of.  A
+picture painted of the elven family which lives here, is on the wall by the
+one window they have.  From the window you can see the depths of the forest,
+which you had to have been in to get here.  East is a rope bridge that
+connected the houses and down is below the tree.  
+~
+4 0
+D1
+~
+~
+0 0 5837
+D5
+~
+~
+0 0 5833
+S
+
+#5837
+Rope Bridge~
+You are walking along a rope bridge between two elven houses.  The
+clearing down below looks very peaceful up here.  In fact your a long way up
+so you better be careful not to fall.  The rope bridge is made of very high
+quality rope and has a wooden bottom which looks well taken care of.  This
+bridge connected all the houses together.  East and west are houses, north
+is more rope bridge.  
+~
+4 0
+D0
+~
+~
+0 0 5843
+D1
+~
+~
+0 0 5835
+D3
+~
+~
+0 0 5836
+S
+
+#5838
+Below a Tree House~
+You are standing beneath a large oak tree.  The tree towers over you.  It
+looks like, that if it could talk, it would tell you a great many wise
+things.  The tree has probably been around even longer than the elves living
+in the wooden house up on its branches, and thats something, elves live for
+thousands of years.  A rope ladder leads up to the house and west is the
+center of the clearing.  
+~
+4 0
+D3
+~
+~
+0 0 5834
+D4
+~
+~
+0 0 5842
+S
+
+#5839
+Below a Tree House~
+You are standing beneath a tall pine tree.  Its needles prick you as you
+get under it, but it provides mighty good shade from the sun.  Beyond the
+needles you can see up at the top of the tree, and house cut into its side. 
+A rope ladder hangs down from it, unlike the other houses where the ladders
+are hanging from the trunk.  Up is the house and east is the elven village
+clearing.  
+~
+4 0
+D1
+~
+~
+0 0 5834
+D4
+~
+~
+0 0 5841
+S
+
+#5840
+Bridge Over Thri'Khan Spring~
+You are walking across a bridge, over a peaceful spring.  The animals
+don't move from drinking it as you approach, but keep on lapping up water. 
+The bridge is beautiful worksmanship, its made entirely of pine, which still
+has its smell to it.  Busy elves scurry across the bridge, staring at you
+for a second, but then shrugging it off and moving on.  You can see the rope
+bridge and houses above you, some elves are staring at you from up there. 
+North continues through the wild elf village and south does too.  
+~
+4 0
+D0
+~
+~
+0 0 5844
+D1
+~
+~
+0 0 5887
+D2
+~
+~
+0 0 5834
+S
+
+#5841
+An Elven Grocery~
+This isn't a house at all but an elven grocery store.  Dried meat and
+fruits hang from hooks behind the shelf and nuts are in jars on shelves. 
+Theres a mat on the floor where the shop keeper sleeps, so this is a house
+in a way.  The shop keeper smiles at you until he notices how tall you are
+and then your ears, after that he looks puzzled.  Hem ay not understand your
+language, but he sure understands your coins.  Down is beneath this tree and
+east is the rope bridge.  
+~
+4 0
+D1
+~
+~
+0 0 5843
+D5
+~
+~
+0 0 5839
+S
+
+#5842
+An Elven Armor Shop~
+Standing in an elven armor shop, you notice two things about it.  It
+doesn't have a forge like most of the weapon shops you've seen, and all the
+weapons are wooden.  Bows and poison tipped arrows hang from hooks behind
+the shelf, and wooden spears sit against the walls.  The shop keeper has a
+bed behind his counter, so this shop is his house as well as his work place.
+West is a rope bridge and down is beneath the tree.  Theres an oven in the
+corner, and the smell of fudge wafts out of it.  
+~
+262148 0
+D3
+~
+~
+0 0 5843
+D5
+~
+~
+0 0 5838
+S
+
+#5843
+Rope Bridge~
+You are standing on a well-made rope bridge, which connects all the tree
+houses together.  You can see the whole village and some of the forest from
+up here.  The spring below and alittle north looks as clear as glass even
+from this height.  A few elves stare at you from below as they notice your
+heighth and that your ears aren't pointy, but they decide not to pry.  Two
+shops are east and west, and south is more of the rope bridge.  North also
+goes to more rope bridge.  
+~
+4 0
+D0
+~
+~
+0 0 5845
+D1
+~
+~
+0 0 5842
+D2
+~
+~
+0 0 5837
+D3
+~
+~
+0 0 5841
+S
+
+#5844
+Below A Huge Tree~
+You are below a tree in the center of the village.  The tree is a large
+redwood, its trunk is about the width of five titan standing together.  It
+houses the biggest building in the village, which is the town hall.  The
+town hall is connected by ropes to all the buildings in the city, and its an
+honor for elves to serve as councilman in it.  A rope ladder about one
+hundred feet long goes up their humoungus tree to the hall.  More houses are
+east and west, and south is a bridge over the spring.  
+~
+4 0
+D0
+~
+~
+0 0 5853
+D1
+~
+~
+0 0 5846
+D2
+~
+~
+0 0 5840
+D3
+~
+~
+0 0 5847
+D4
+~
+~
+0 0 5845
+S
+
+#5845
+Entrance to the Town Hall~
+You are standing at the entrance to the town hall of this village.  You
+can hear loud talking, even shouting coming from it, and its in a language
+you don't quite understand.  This is the highest point in the whole forest
+so you can see all the trees tops and even to the plains outside the forest.
+The elves down below look like ants almost, and you can't even see the
+animals.  A bird flys past your head, you are really high up!  North is
+inside the town hall and south is the rope bridge.  West and east are rope
+bridges to the houses east and west.  
+~
+4 0
+D0
+~
+~
+0 0 5852
+D1
+~
+~
+0 0 5851
+D2
+~
+~
+0 0 5843
+D3
+~
+~
+0 0 5850
+D5
+~
+~
+0 0 5844
+S
+
+#5846
+Underneath a Tree~
+You are standing underneath a large oak tree, which suddenly seems
+dwarfed by the huge redwood you see off to the east.  It still looks
+majestic and beautiful though.  The house above in the tree is carved out of
+the very wood from the tree its in.  A rope bridge going from this tree
+house rises all the way up to that huge redwood to the east.  A sign hangs
+from the edge of the trunk, near the rope bridge which leads up to the
+house.  Up is the house and west is the center of this village.  
+~
+4 0
+D3
+~
+~
+0 0 5844
+D4
+~
+~
+0 0 5848
+E
+sign~
+Er'drugus Mer'gungra
+~
+S
+
+#5847
+Underneath a Tree~
+You are standing below a enormous oak tree.  It seems it is the second
+largest tree in this village.  How ironic that one of the smallest houses in
+the village is at the top.  The house looks very dishevelled and old.  From
+what you can see of it, it seems even the bridge is falling apart.  You can
+hear screaming coming from the house, the language isn't yours, but you can
+sure understand a mad person's crys.  Up is the house and east is the
+humoungous redwood.  
+~
+4 0
+D1
+~
+~
+0 0 5844
+D4
+~
+~
+0 0 5849
+S
+
+#5848
+A Huge Tree House~
+You are standing in a luxurious tree house.  A large oaken bed with soft
+sheets made of an unknown faber is on the edge of the room, and the curtains
+are made of the same.  A shelf filled with the finest conversation pieces
+and gold statues is on the opposite side.  Theres an impoirted rug on the
+ground too.  This house must definitely belong to an important elf here.  
+~
+4 0
+D3
+~
+~
+0 0 5851
+D5
+~
+~
+0 0 5846
+S
+
+#5849
+A Tree House~
+You are standing in the house of a mad man.  What little furniture that
+was in here is demolished, and the whole house is practically destroyed. 
+The house's only occupant moshes around the room insanely, yelling
+incoherently and lashing out at anything that moves.  Every once in awhile
+he gains a moment of lucidity and talks to you in the elven language but
+then goes back to running around wildly.  Down is below the tree and east is
+the Rope Bridge.  
+~
+4 0
+D1
+~
+~
+0 0 5850
+D5
+~
+~
+0 0 5847
+S
+
+#5850
+Rope Bridge~
+You are walking up a rope bridge to the town hall.  As you get farther up
+everyone on the ground looks like ants , and you can't even see any of the
+other features in the village except for the trees.  You can see the emerald
+canopy of pine and oak trees thatm akes up the rest of the forest as well. 
+West is a house and east is the town hall.  
+~
+4 0
+D1
+~
+~
+0 0 5845
+D3
+~
+~
+0 0 5849
+S
+
+#5851
+Rope Bridge~
+You are walking on a well-made rope bridge leading to the Town Hall. 
+This part of the bridge is made of the finest wood available and the rope
+looks almost new.  The An incredibly well made house is to the east.  Even
+though its made of wood, it practically shines with beauty.  An important
+person must livei n that house.  An even bigger building is to the west, its
+the Town hall.  
+~
+4 0
+D1
+~
+~
+0 0 5848
+D3
+~
+~
+0 0 5845
+S
+
+#5852
+Council Room~
+People all sit in wooden chairs here.  They seem to be arguing in an
+elven language about something.  One of them sits on a higher chair and
+holds a hammer of some sort.  He bangs it whenever theres too much shouting
+He seems to be the lord of this town and has an air of royalty about him,
+even if he wears to same forest green clothes as the rest of the elves.  The
+only exit is south.  
+~
+4 0
+D2
+~
+~
+0 0 5845
+S
+
+#5853
+Wild Elven Village~
+You are standing in the part of this village where the elves keep their
+public facilitys.  Instead of having them up in the tree houses, they put
+them in hollowed out trees accessable from ground level.  You can spot more
+elves walking around here, going into the facilitys to use whatever
+materials they can get from them.  Theres still no visible path and animals
+still run free in the village, afterall elves are very close with nature. 
+East and west are hollowed out trees.  North is the end part of the village
+and south is a huge redwood.  
+~
+4 0
+D0
+~
+~
+0 0 5856
+D1
+~
+~
+0 0 5854
+D2
+~
+~
+0 0 5844
+D3
+~
+~
+0 0 5855
+S
+
+#5854
+By a Tree~
+You are standing outside a hollowed out tree with a door.  The trees
+another tall oak, looks very old and wise.  Maybe it soaked up the wisdom
+inside its trunk, because from what you can make out of the wild elven
+language a sign on the door says, Library.  The door is oddly enough, made
+of metal, the actual houses in this village are made of wood.  Maybe the
+elves prize knowledge over their own lives.  East is inside the tree and
+west is in the middle of the village.  
+~
+4 0
+D1
+~
+~
+0 0 5859
+D3
+~
+~
+0 0 5853
+S
+
+#5855
+By a Tree~
+You are by a hollowed out tree used to house some elven public facilitys.
+The tree looks dead, but not rotting yet, it looks liek this one couldn't
+take being hollowed out in the middle.  You can hear fighting inside to the
+west, and loud crys of battle.  A sign depicting a bow and a spear stands on
+the door.  East is back to the center of the village and west is the tree
+inside.  
+~
+4 0
+D1
+~
+~
+0 0 5853
+D3
+~
+~
+0 0 5860
+S
+
+#5856
+Wild Elven Village~
+You have reached the end part of the village.  Some elven facilitys are
+still east and west, but they are the last ones before the end.  A group of
+hunters, wearing bows and arrow across their backs, are getting ready to go
+on a hunt here.  They sharpen their spears and poison their arrows, your
+sure glad its not you their hunting.  North leads into the forest, while
+east and west are hollowed out trees.  
+~
+4 0
+D0
+~
+~
+0 0 5863
+D1
+~
+~
+0 0 5857
+D2
+~
+~
+0 0 5853
+D3
+~
+~
+0 0 5858
+S
+
+#5857
+By a Tree~
+You are almost burned to a crisp as a lightning bolt shoots from the door
+on the side of this tree and barely misses your head.  The tree is glowing
+and its leaves are a strange purple color.  In fact out of the corner of
+your eye you seem to see one of its branches move on its own!  A sign
+depicting a mage's staff is hanging above the door, you think you cna guess
+what this place is.  East is inside the tree and west is the center of the
+village.  
+~
+4 0
+D1
+~
+~
+0 0 5861
+D3
+~
+~
+0 0 5856
+S
+
+#5858
+By a Tree~
+You are standing by a large hollowed out tree.  Even though its hollow
+inside it looks as alive as the day it finally made six feet.  You can hear
+chanting inside and smell incense and other spices.  Theres a large sign on
+the top of the door which depicts an old man laying his hands on a crippled
+person.  East in back to the center of the village and west is inside the
+tree.  
+~
+4 0
+D1
+~
+~
+0 0 5856
+D3
+~
+~
+0 0 5862
+S
+
+#5859
+Library~
+Books line a tremendous ammount of shelves, all standing up against the
+walls, or in some cases up against each other.  Chairs and cushions sit up
+against some shelves, for people that would want to sit and read a book they
+found.  A counter stands in the corner, with a small elderly man behind it
+checking out books for people.  The only exit is west.  A sign is hanging
+above a shelf.  
+~
+4 0
+D3
+~
+~
+0 0 5854
+E
+sign~
+Say "quest" to get a quest here.  
+~
+S
+
+#5860
+Fighter's Guild~
+You are standing in a large hollowed out tree.  The walls are covered
+with bows and spears hanging from hooks.  There are mats made of straw on
+the floor and elves in tribal outfits are practicing spear fighting.  Theres
+a large target on the wall, which beginner elven warriors are practicing
+shooting arrows at.  The master watchs with approval and teachs them how its
+done.  The only exit is east.  
+~
+4 0
+D1
+~
+~
+0 0 5855
+S
+
+#5861
+Mage's Guild~
+You are standing in a hollowed out tree.  Vials and potions and beakers
+are all set out on a huge table in the center of the room.  The walls glow a
+weird pinkish color.  Mages in long flowing green robes are teaching their
+students how to cast spells, with sometimes disatrous results.  Lightning
+bolts fly from one students staff and injure another student, while one of
+the teahcers is turned into a frog.  The only exit is west.  
+~
+4 0
+D3
+~
+~
+0 0 5857
+S
+
+#5862
+Healer's Guild~
+You stand inside a hollow tree.  The walls are painted white and theres a
+silky white carpet on the floor.  Trainee elven clerics sit on the floor in
+white robes chanting to some god and learning to heal.  Some crippled elves
+come in sometimes and receive their health at the hands of the master
+priest, whos an old shrivelled man.  The only exit is east.  
+~
+4 0
+D1
+~
+~
+0 0 5858
+S
+
+#5863
+Into the Forest~
+You are walking down a forest path.  Animals scurry through the trees and
+bushs as the path gets lighter here.  In fact you can hear trickling water
+through some bushes to the south.  The trees start to get farther apart to
+the south, probably breaking into some kind of clearing.  North leads deeper
+into the forest.  
+~
+4 0
+D0
+~
+~
+0 0 5864
+D2
+~
+~
+0 0 5856
+S
+
+#5864
+Path through a Forest~
+You are walking down a forest path.  You can barely make it out but you
+sort of know its a path.  The trees are so dense here you almost can't see
+in front of you, the sun seems to be trying to get in through the leaves
+though.  You can hear the sounds of an owl who's awake usually because of the
+darkness here, it feels like this area is in perpetual night.  The path
+continues south and north.  
+~
+4 0
+D0
+~
+~
+0 0 5865
+D2
+~
+~
+0 0 5863
+S
+
+#5865
+Path through a Forest~
+You are walking down a forest path.  You are in a deep part of the forest
+here.  Its getting very dark as the trees become denser, letting less and
+less sunlight come through.  It seems that the night animals are always up
+here.  They like the darkness, so they can hunt almost all the time.  The
+path continues north and south.  You heat rustling behind a tree to the
+west.  
+~
+4 0
+D0
+~
+~
+0 0 5866
+D2
+~
+~
+0 0 5864
+D3
+~
+~
+0 0 5868
+S
+
+#5866
+Path through a Forest~
+You are walking down a forest path.  This part of the forest is almost
+peaceful.  Animals run across the path or can be heard running through the
+bushes every once in awhile, and the songs of birds can be heard in the
+trees.  Sunlight splashes through the trees and creates a pleasant
+atmosphere.  South the forest gets darker and north is the end of the
+forest.  
+~
+4 0
+D0
+~
+~
+0 0 5867
+D2
+~
+~
+0 0 5865
+S
+
+#5867
+Beginning of a Forest~
+You have entered a forest.  Sunlight splashes through the trees, bathing
+the undergrowth in a pleasant light.  Chirps and growls of animals can be
+heard in the bushes and trees, and so can the songs of birds.  Not a person
+in sight, just you and nature, this would probably make a great vacation
+spot.  The forest continues south.  
+~
+4 0
+D2
+~
+~
+0 0 5866
+S
+
+#5868
+AMBUSH!!!~
+You walk between two bushes and suddenly you find two large troll
+warriors in front of you.  They grumble and swear as they draw their weapons
+and motion for you to drop your money.  They've probably been waiting here
+the whole day for a weary traveller to kill and rob.  The only exit is east.
+~
+4 0
+D1
+~
+~
+0 0 5865
+S
+
+#5869
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5869
+D1
+~
+~
+0 0 5870
+D2
+~
+~
+0 0 5869
+D3
+~
+~
+0 0 5871
+S
+
+#5870
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5873
+D1
+~
+~
+0 0 5873
+D2
+~
+~
+0 0 5876
+D3
+~
+~
+0 0 5869
+S
+
+#5871
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5871
+D1
+~
+~
+0 0 5869
+D2
+~
+~
+0 0 5871
+D3
+~
+~
+0 0 5872
+S
+
+#5872
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5876
+D1
+~
+~
+0 0 5871
+D2
+~
+~
+0 0 5877
+D3
+~
+~
+0 0 5876
+S
+
+#5873
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5875
+D1
+~
+~
+0 0 5874
+D2
+~
+~
+0 0 5870
+D3
+~
+~
+0 0 5870
+S
+
+#5874
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5874
+D1
+~
+~
+0 0 5876
+D2
+~
+~
+0 0 5874
+D3
+~
+~
+0 0 5873
+S
+
+#5875
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5877
+D1
+~
+~
+0 0 5875
+D2
+~
+~
+0 0 5873
+D3
+~
+~
+0 0 5875
+S
+
+#5876
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5870
+D1
+~
+~
+0 0 5872
+D2
+~
+~
+0 0 5872
+D3
+~
+~
+0 0 5874
+S
+
+#5877
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5872
+D1
+~
+~
+0 0 5879
+D2
+~
+~
+0 0 5875
+D3
+~
+~
+0 0 5878
+S
+
+#5878
+FREE FALLING!!~
+You fell into some kind of pit and impaled youself!  As death closes in
+you begin to hope your afterlife will be good!  
+~
+4 0
+S
+
+#5879
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5880
+D1
+~
+~
+0 0 5882
+D2
+~
+~
+0 0 5880
+D3
+~
+~
+0 0 5877
+S
+
+#5880
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5882
+D1
+~
+~
+0 0 5881
+D2
+~
+~
+0 0 5879
+D3
+~
+~
+0 0 5881
+S
+
+#5881
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5884
+D1
+~
+~
+0 0 5880
+D2
+~
+~
+0 0 5883
+D3
+~
+~
+0 0 5880
+S
+
+#5882
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5883
+D1
+~
+~
+0 0 5883
+D2
+~
+~
+0 0 5880
+D3
+~
+~
+0 0 5879
+S
+
+#5883
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5881
+D1
+~
+~
+0 0 5884
+D2
+~
+~
+0 0 5882
+D3
+~
+~
+0 0 5882
+S
+
+#5884
+Path to the Altar~
+Your walking down a path to the temple altar.  The light is very dim and
+theres blood splattered on every part of the carpet and walls.  As you walk
+along you realize the hall has an intersection here, and everything is
+starting to look the same.  You've become lost in the temple!  
+~
+4 0
+D0
+~
+~
+0 0 5885
+D1
+~
+~
+0 0 5886
+D2
+~
+~
+0 0 5881
+D3
+~
+~
+0 0 5883
+S
+
+#5885
+Hellfire~
+A large explosion rocks you as you enter this room.  Fire and blood are
+everywhere covering the whole room.  Most of the furniture has been broke or
+burned to a crisp and theres a huge fiery shape in the middle of the room. 
+You think you've probably met a demonic guardian.  
+~
+4 0
+S
+
+#5886
+The Altar Room~
+You are standing in the altar room.  The white marble walls are burnt and
+covered with the blood of priests.  Pews are overturned and destroyed, where
+people once sat in worship.  The altar is overturned as well and its also
+broken in two.  Another altar to a dark god has been erected and demons
+stand around it with bloody knives ready to sacrifice a priest when the head
+demon gives the order.  The only exit is west.  
+~
+4 0
+D3
+~
+~
+0 0 5884
+S
+
+#5887
+The Spring~
+You wade inside the cool spring.  The water is so clear you can see your
+toes at the bottom and the mud is very soothing to your feet.  Other
+animals, such as frogs and fish swim around you, seemingly unafraid, they
+must be used to elves.  The only exit is west, onto the bridge.  
+~
+4 0
+D3
+~
+~
+0 0 5840
+S
+
+#5888
+Flower Shop~
+You are standing in a small flower shop.  The scent of perfume and roses
+wafts into your nose as you stand here.  Flowers, both cut and uncut are
+lined out in pots behind the counter.  The little old lady runs the shop
+here, she gets flowers from all over the place, including the rare fire
+flower.  The only exit is west.  
+~
+1028 0
+S
+
+#5889
+~
+~
+4 0
+S
+
+#5890
+~
+~
+4 0
+S
+
+#5891
+~
+~
+4 0
+S
+
+#5892
+~
+~
+4 0
+S
+
+#5893
+~
+~
+4 0
+S
+
+#5894
+~
+~
+4 0
+S
+
+#5895
+~
+~
+4 0
+S
+
+#5896
+~
+~
+4 0
+S
+
+#5897
+~
+~
+4 0
+S
+
+#5898
+~
+~
+4 0
+S
+
+#5899
+~
+~
+4 0
+S
+#0
+
+#SPECIALS
+M 5809 spec_cast_mage
+M 5810 spec_cast_mage
+M 5811 spec_cast_mage
+M 5813 spec_cast_cleric
+M 5814 spec_cast_mage
+M 5815 spec_cast_mage
+M 5820 spec_cast_mage
+M 5835 spec_breath_fire
+S
+
+#RESETS
+D 100 5804 1 1
+D 100 5805 1 1
+D 100 5805 3 1
+D 100 5814 0 1
+D 100 5815 3 1
+D 100 5817 1 2
+D 100 5829 1 2
+D 100 5829 3 2
+D 100 5830 3 2
+D 100 5831 2 1
+M 100 5801 20 5801 4
+M 100 5801 20 5801 4
+M 100 5801 20 5801 4
+M 100 5801 20 5801 4
+M 100 5802 20 5801 2
+M 100 5802 20 5801 2
+M 100 5801 20 5802 4
+M 100 5801 20 5802 4
+M 100 5801 20 5802 4
+M 100 5801 20 5802 4
+M 100 5802 20 5802 2
+M 100 5802 20 5802 2
+M 100 5802 20 5804 2
+M 100 5802 20 5804 2
+M 100 5801 20 5806 4
+M 100 5801 20 5806 4
+M 100 5801 20 5806 4
+M 100 5801 20 5806 4
+M 100 5802 20 5806 2
+M 100 5802 20 5806 2
+M 100 5821 1 5808 1
+M 100 5803 4 5812 2
+E 100 5800 0 16
+M 100 5803 4 5812 2
+E 100 5800 0 16
+M 100 5803 4 5813 2
+E 100 5800 0 16
+M 100 5803 4 5813 2
+E 100 5800 0 16
+M 100 5824 20 5817 5
+M 100 5822 40 5817 5
+M 100 5824 20 5818 5
+M 100 5822 40 5818 5
+M 100 5824 20 5819 5
+M 100 5822 40 5819 5
+M 100 5824 20 5820 5
+M 100 5822 40 5820 5
+M 100 5824 20 5821 5
+M 100 5822 40 5821 5
+M 100 5823 20 5821 2
+M 100 5823 20 5821 2
+M 100 5824 20 5822 5
+M 100 5822 40 5822 5
+M 100 5823 20 5822 2
+M 100 5823 20 5822 2
+M 100 5825 1 5822 1
+E 100 5830 0 18
+M 100 5824 20 5823 5
+M 100 5822 40 5823 5
+M 100 5823 20 5823 2
+M 100 5823 20 5823 2
+M 100 5826 1 5823 1
+E 100 5807 0 5
+E 100 5808 0 11
+E 100 5809 0 24
+M 100 5824 20 5824 5
+M 100 5822 40 5824 5
+M 100 5823 20 5824 2
+M 100 5823 20 5824 2
+M 100 5827 1 5824 1
+M 100 5828 1 5824 1
+E 100 5829 0 5
+M 100 5824 20 5825 5
+M 100 5822 40 5825 5
+M 100 5824 20 5826 5
+M 100 5822 40 5826 5
+M 100 5823 20 5826 2
+M 100 5823 20 5826 2
+M 100 5829 1 5826 1
+M 100 5824 20 5827 5
+M 100 5822 40 5827 5
+M 100 5823 20 5827 2
+M 100 5823 20 5827 2
+M 100 5824 20 5828 5
+M 100 5822 40 5828 5
+M 100 5830 1 5828 1
+M 100 5831 2 5828 2
+E 100 5826 0 16
+M 100 5831 2 5828 2
+E 100 5826 0 16
+M 100 5832 1 5828 1
+G 100 5824 0
+E 100 5827 0 18
+M 100 5833 1 5829 1
+G 100 5825 0
+E 100 5828 0 23
+M 100 5804 30 5834 4
+M 100 5804 30 5834 4
+M 100 5804 30 5834 4
+M 100 5804 30 5834 4
+M 100 5807 1 5836 1
+M 100 5808 1 5836 1
+M 100 5809 1 5836 1
+E 100 5804 0 23
+M 100 5805 1 5840 1
+E 100 5802 0 17
+M 100 5820 1 5841 1
+G 100 5820 0
+G 100 5822 0
+G 100 5821 0
+G 100 5823 0
+M 100 5810 1 5842 1
+G 100 5806 0
+M 100 5804 30 5844 5
+M 100 5804 30 5844 5
+M 100 5804 30 5844 5
+M 100 5804 30 5844 5
+M 100 5804 30 5844 5
+M 100 5818 1 5848 1
+E 100 5818 0 5
+M 100 5816 1 5849 1
+M 100 5817 1 5852 1
+E 100 5819 0 16
+M 100 5819 5 5852 5
+M 100 5819 5 5852 5
+M 100 5819 5 5852 5
+M 100 5819 5 5852 5
+M 100 5819 5 5852 5
+M 100 5804 30 5853 5
+M 100 5804 30 5853 5
+M 100 5804 30 5853 5
+M 100 5804 30 5853 5
+M 100 5804 30 5853 5
+M 100 5804 30 5856 5
+M 100 5804 30 5856 5
+M 100 5804 30 5856 5
+M 100 5804 30 5856 5
+M 100 5804 30 5856 5
+M 100 5811 1 5859 1
+M 100 5812 1 5860 1
+M 100 5814 1 5861 1
+M 100 5813 1 5862 1
+M 100 5802 20 5864 2
+M 100 5802 20 5864 2
+M 100 5801 20 5865 4
+M 100 5801 20 5865 4
+M 100 5801 20 5865 4
+M 100 5801 20 5865 4
+M 100 5802 20 5865 2
+M 100 5802 20 5865 2
+M 100 5801 20 5866 4
+M 100 5801 20 5866 4
+M 100 5801 20 5866 4
+M 100 5801 20 5866 4
+M 100 5802 20 5866 2
+M 100 5802 20 5866 2
+M 100 5806 1 5885 1
+M 100 5800 1 5886 1
+E 20 5835 0 9
+E 20 5803 0 17
+E 20 5831 0 12
+O 100 5810 0 5887
+M 100 5815 1 5888 1
+S
+
+#SHOPS
+5810 9 0 0 0 0 100 100 0 24
+5820 5 0 0 0 0 100 100 0 24
+0
+
+#MOBPROGS
+#5800
+~
+~
+say HAHAHAHA! I see you've come!
+say You'll never be able to stop me!
+say The head priest's wickedness has led to his destruction!
+say And the destruction of his minions!
+say You will die foolish mortal!!
+mob echo The demon throws back his ugly head and cackles.
+mob cast sanctuary $i
+~
+
+#5801
+~
+~
+say AAARRGGHH 
+mob echo Flames rise up around you, searing your flesh and destroying your inner being. As they clear, you find yourself at the beginning of the maze. As you stand there, two flame elementals leap up from beneath the ground and attack!
+mob transfer $n 5830
+mob at $n mob mload 5835
+mob at $n mob mload 5835
+mob at $n say HAHAHA
+~
+
+#5803
+~
+~
+say Gregara Mesh'thren Gargary!!!!
+say Canceen sheena yers CHAH!!!!
+~
+
+#5805
+~
+~
+say Oh my where did i put that...?
+mob echo the priest looks up at you and adjusts his spectacles.
+say Oh hello there. Who might you be?
+say Surprised i speak your language?
+say Well don't be, Most of the learned folk around here do.
+say Say, you look like a hardy young feller, think you'd mind getting me something?
+say Its called the Gem of Healing.
+say i think i left it in the temple to the southeast...
+say might of been in the altar room......
+mob echo the priest smiles happily but then quickly goes back to searching.
+~
+
+#5806
+~
+~
+say you've found it!
+smile
+hop
+say Thank you so much $n!
+mob echo the Priest rummages around in his pack.
+mob oload 5805 
+say Ahh heres something!
+give holy $n
+say Use it well my son!
+mob junk gem
+~
+
+#5807
+~
+~
+mob echo A huge fire beings growls at you.
+say YOU DARE DEFY MY MASTER???
+mob echo A huge ball of fire envelops you and you find yourself back where you started.
+mob gtransfer $n 5830
+~
+
+#5808
+~
+~
+mutter
+say damn that mage, making me look bad.
+emote looks up with a start and peers at you from under his spectacles.
+say Hey there sonny.
+say think you could help me out?
+say The mage guildmaster, just abit north, made me look bad awhile back.
+say i'd appreciate it if you'd go over there and give him a good old whap.
+say Tell him "Thats from Octavious."
+emote goes back to muttering and reading his books.
+~
+
+#5809
+~
+~
+say HEY!! what the hell was that for????
+~
+
+#5810
+~
+~
+growl
+say that dumb ass.
+say  hes been asking for it for a long time.
+say  go over there and pound him for me!
+ponder
+say actually btter yet, find a frog in the nearby pond and give it to him.
+say Man he will freak out!!!
+~
+
+#5811
+~
+~
+say AAAAAAAAARRRGGGHHHHH
+aargh
+scream
+emote drops the frog and quickly squashes it to death with his foot.
+emote sighs with relief.
+say the mage did this to me didn't he???
+say he was probably plotting with that cleric...
+say go over to him and  tell him to stuff it.
+say Naah. i have a better idea. The cleric is allegic to a certain flower.
+say Go to New Thalos.
+say Then go to the Floral Shop there.
+say say "fire' to the florist and he should give one to you.
+say then go back and give the flower to that awful old geezer of a cleric.
+cackle
+mob junk frog
+mob oload 5812
+mob otransfer guts 5859
+~
+
+#5812
+~
+~
+say ah so you want a fire flower?
+say here it is.
+emote rummages around in the back and returns with a huge red flower.
+mob oload 5811
+give flower $n
+say isn't it pretty?
+~
+
+#5813
+~
+~
+say Whats this??
+emote sneezes
+say oh NOO its a fire flower!
+mob echo Hives grow on the clerics face and he scratches them madly.
+mob junk flower
+emote drops the flower and scratches wildly.
+emote utters the words, 'aruba conscious'
+emote sighs in relief as his sores vanish.
+say Octavious did this didn't he?
+say thought asm uch.
+say he thinks everyones plotting against him.
+say ok i'm trusting you here.
+say we need to help him and them age make up.
+say Ok we need his favorite cake.
+say I don't know who makes it, but its called a fudge cake.
+say  I've smelled in baking in one of the tree houses..
+say why don't you ask some of the people about cake...???
+~
+
+#5814
+~
+~
+blush
+say you know i make cakes?
+say Please don't tell anyone.
+mob oload 5814
+mob echo The oven in the corner dings and the armorsmith gets a cake out.
+say maybe this will keep you quiet.
+give cake $n
+say now please don't tell anybody.
+smile
+~
+
+#5815
+~
+~
+say for me?
+emote looks at the tag on  the cake.
+say From the mage guildmaster?
+say he must want to make up!
+smile
+say give him this apology note!
+mob oload 5815 
+give note $n
+mob junk cake
+~
+
+#5816
+~
+~
+emote reads the note.
+smile
+say Great! Octavious finally apologizes! I feel so happy!
+dance $n
+say  Here, $n, Please give this to the cleric, and tell him to give it as an offering to his church.
+say I feel the gods have finally smiled upon me!
+mob oload 5816
+give coin $n
+hop
+mob junk note
+~
+
+#5817
+~
+~
+say ah. I heard you were successful.
+say those two are now acting like they've been best friends forever.
+say  To show my thanks i would like to give you something.
+emote rummages around in the back and returns with a ring of some sort.
+say here it is. IT will serve as a token of my thanks.
+mob oload 5817
+give ring $n
+bow $n
+say go in peace my son.
+mob junk coin
+~
+
+#5819
+~
+~
+mob echo The bear rakes its claw across your chest!!!
+mob damage 50 500 lethal
+~
+
+#5835
+~
+~
+mob echo Flames rise up before you and you cannot pass.
+~
+
+#5836
+~
+~
+mob echo Flames rise up before you and you cannot pass.
+~
+
+#5837
+~
+~
+say Haha! You cannot leave!!!
+say You must kill me or die to leave!!!
+~
+#0
+
+#$

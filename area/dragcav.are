@@ -1,0 +1,789 @@
+#AOD_AREA
+Dragon Caves~
+12900 12999 C 8
+Levl 0 0
+Bldr Shryp~
+End
+
+#MOBILES
+#12900
+A Mystical Dragon~
+a {^Mystical {1Dragon{x~
+A {^Mystical {1Dragon {xchases you around the room.
+~
+A large, scaley creature chases you about the room.
+~
+human~
+100 50 100 50 100 100 100 50 100 100 100 100 100 100 100 50 100 100 50 100 100 200 100 100 0 0 
+A DJZ DN -500 0
+215 8 0 12187 12577 11987 12403 8 7 41 pound
+-13600 -13590 -13610 -13560
+STANDING STANDING neutral 400
+0 mage giant ABCDEFGHIJK
+
+#12901
+An Elderly Dragon~
+The {3Elderly {1Dragon{x~
+An {3Elderly {1Dragon {xsits here hiding from invaders.
+~
+A frail old man sits here thinking constructively.  Perhaps you might
+want to spare his life, and perhaps you are just greedy enough to kill him
+for his head and money.  
+~
+human~
+200 100 0 100 50 100 100 100 50 100 100 100 100 50 100 100 50 50 50 0 100 100 100 100 0 0 
+AB FJVa BD -550 0
+220 8 0 12453 12876 12713 13055 8 7 42 none
+-13810 -13820 -13790 -13760
+STANDING STANDING neutral 1000
+0 mage giant ABCDEFGHIJK
+
+#12902
+Cursed Mummy of the Dragons~
+The {3Cursed {7Mummy {xof the {@Dragons{x~
+A {3Cursed {7Mummy {xsits here rotting away in the corner.
+~
+This Cursed Mummy Of the Ancient Dragons sits here half rotted away.  He
+is half deteriorated and boy does he stink.  
+~
+human~
+50 100 0 200 100 100 100 50 50 100 200 100 200 50 100 100 50 50 50 100 100 50 100 100 0 0 
+AB CDEFGJVac CDE -1000 0
+225 10 0 12533 13028 12901 13381 8 7 43 beating
+-13990 -13990 -14010 -13950
+STANDING STANDING neutral 1500
+0 mage medium ABCDEFGHIJK
+
+#12903
+The Dragon Teacher~
+The {!Dragon {4Teacher{x~
+The {!Dragon {4Teacher {xis here waiting to teach you a lesson.
+~
+This mean looking fellow looks like he is well trained in the martial
+arts.  You see a black belt around his waist and an evil grin on his face.  
+~
+human~
+200 100 0 100 100 100 100 100 50 100 100 100 100 50 100 100 50 50 50 100 100 200 100 100 0 0 
+AB DJV D -500 0
+220 8 0 12411 12709 12391 12912 8 7 41 crush
+-13790 -13800 -13770 -13740
+STANDING STANDING neutral 1500
+0 mage large ABCDEFGHIJK
+
+#12904
+older dragon~
+An {6Older {8Dragon{x~
+An {6Older {8Dragon {xstares at you {!angrily{x.
+~
+This dragon looks older than the others, he also looks wiser so watch
+out.  
+~
+human~
+100 100 0 100 100 100 100 100 50 100 100 100 100 50 100 100 50 50 200 100 100 50 100 100 0 0 
+AG DQV BE -350 0
+220 9 0 12572 12942 12719 13132 8 7 41 beating
+-13780 -13780 -13780 -13760
+STANDING STANDING neutral 1300
+0 mage huge ABCDEFGHIJK
+
+#12905
+the dragons mummy~
+The {2Dragons {&Mummy{x~
+The {&Mummy {xof a {2Dragon{x chases you from its hiding place.
+~
+Before you stands an ugly looking mummy wrapped in lint cloth.  His face
+appears to be scarred.  
+~
+human~
+100 100 0 100 100 100 100 100 50 100 100 100 100 50 100 100 50 50 200 100 100 50 100 100 0 0 
+AB FQV C -300 0
+230 9 0 13478 13922 13296 13677 8 8 46 slash
+-13990 -14010 -13990 -13980
+STANDING STANDING neutral 1600
+0 mage large ABCDEFGHIJK
+
+#12906
+a book~
+{&The Book{x~
+A {&book {xsits innoccently on the {3shelf{x.
+~
+You see an ancient book that belongs to the dragons.  The cover is a bit
+dusty and the pages are torn.  
+~
+human~
+200 100 0 100 100 100 100 100 50 100 100 100 100 50 100 100 50 50 200 100 100 50 100 100 0 0 
+AB FJV 0 0 0
+224 9 0 12943 13399 12609 12964 8 7 43 pound
+-13980 -14010 -13980 -13960
+STANDING STANDING neutral 1330
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#12900
+DragonSkin Cap~
+{2Dragon{*Skin{2 Cap{)~
+The Head of a mighty dragon sits here.~
+armor ABEM AE
+65 65 68 63 0
+180 1 10000
+A 19 15
+A 18 15
+A 12 150
+A 13 130
+A 2 2
+
+#12901
+dragonscale anklet~
+{@D{1ragon{*S{1cale {2Anklet{)~
+A large DragonScale sits here.~
+armor ABCFMY AT
+64 67 66 62 0
+175 1 10000
+A 5 1
+A 17 -5
+A 13 120
+A 14 200
+A 18 13
+A 19 10
+
+#12902
+curses of te mummy key~
+curses of the Mummy~
+The Curses of the Mummy sits here.~
+key PQSUV AO
+0 0 0 0 0
+210 0 100
+
+#12903
+glitering gold earring~
+{#G{3o{#l{3d{#e{3n {#E{3a{#r{3r{#i{3n{#g{)~
+Something sits glittering in the sun.~
+armor ACEJY AS
+64 66 67 62 0
+170 0 12000
+A 4 2
+A 19 15
+A 18 14
+A 14 100
+A 12 100
+A 13 100
+
+#12904
+a bookbag~
+a Bookbag~
+An odd looking bag sits here.~
+container Y AX
+750 0 0 300 150
+170 3 15000
+A 13 100
+A 18 20
+A 19 20
+A 12 230
+A 14 25
+A 4 1
+A 5 1
+A 2 1
+A 3 1
+A 1 3
+#0
+
+#ROOMS
+#12900
+The Start of a Winding Cave~
+You are entering the caves of the magical dragons, but enter at your own
+risk because these dragons are not toys.  To all those mortals who venture
+these caves be for warned that the gods of Ashen Dust can not help you so
+you better have a couple friends come with you.  
+~
+9 0
+D2
+~
+~
+0 0 12901
+S
+
+#12901
+A Bit Deeper Into the Cave~
+As you venture further into this dark cave you notice the cobwebs
+everywhere.  You hear the squeek of bats flying past your ears followed by
+the roar of a great dragon.  It is getting darker.  
+~
+8201 0
+D0
+~
+~
+0 0 12900
+D2
+~
+~
+0 0 12902
+S
+
+#12902
+Farther Into the Darkness~
+In the total darkness you cant see anything and stumble over your own two
+feet hitting the ground.  You are completely lost in the total darkness. 
+You jump to your feet as hear a roar comming from the distance.  
+~
+8201 0
+D0
+~
+~
+0 0 12901
+D2
+~
+~
+0 0 12903
+S
+
+#12903
+Approaching a Winding Corner~
+Your heart begins to thump as your venture yet further into the darkness.
+You light your trusty lantern only to find yourself surrounded by huge
+dragons.  You run for your life.  
+~
+9 0
+D0
+~
+~
+0 0 12902
+D3
+~
+~
+0 0 12904
+S
+
+#12904
+More Winding Caves~
+As you venture further into this dark cave you notice the cobwebs
+everywhere.  You hear the squeak of bats flying past your ears followed by
+the roar of a great dragon.  It is getting darker.  
+~
+9 0
+D1
+~
+~
+0 0 12903
+D3
+~
+~
+0 0 12905
+S
+
+#12905
+The Cave Narrows~
+In the total darkness you cant see anything and stumble over your own two
+feet hitting the ground.  You are completely lost in the total darkness. 
+You jump to your feet as hear a roar comming from the distance.  
+~
+9 0
+D1
+~
+~
+0 0 12904
+D2
+~
+~
+0 0 12906
+S
+
+#12906
+An Opening in the Cave~
+You see light coming from the distance.  You run toward the light looking
+for an exit.  Suddenly the light goes out...  It could only have been the
+flaming breath of a fire breathing dragon.  
+~
+9 0
+D0
+~
+~
+0 0 12905
+D2
+~
+~
+0 0 12907
+S
+
+#12907
+A Corner in the Caves~
+In the total darkness you cant see anything and stumble over your own two
+feet hitting the ground.  You are completely lost in the total darkness. 
+You jump to your feet as hear a roar comming from the distance.  
+~
+9 0
+D0
+~
+~
+0 0 12906
+D1
+~
+~
+0 0 12908
+S
+
+#12908
+Descending Into the Earth~
+You are approaching a mine shaft that leads down into darkness.  You hear
+screams comming from down in the Earth.  Suddenly you feel the Earth shake. 
+You trip and fall downward into the black abyss.  
+~
+9 0
+D3
+~
+~
+0 0 12907
+D5
+~
+~
+0 0 12910
+S
+
+#12909
+Dead End in the Cave~
+You have reached a dead end in the caves.  You must turn back now... 
+That is if you can remember the way back.  Everything looks the same to you
+as you frantically try to find the correct direction.  You hear more roars
+in the background.  You run face-first into a staircase that appears to lead
+uppward in your haste to leave.  
+~
+9 0
+D0
+~
+~
+0 0 12910
+D4
+~
+~
+ABC 12902 12911
+S
+
+#12910
+The Bottom of the Cave~
+In the total darkness you cant see anything and stumble over your own two
+feet hitting the ground.  You are completely lost in the total darkness. 
+You jump to your feet as hear a roar comming from the distance.  In the
+background you here squeels coming from the near north and west.  
+~
+9 0
+D0
+~
+~
+AB 0 12922
+D2
+~
+~
+0 0 12909
+D3
+~
+~
+AB 0 12921
+D4
+~
+~
+0 0 12908
+S
+
+#12911
+A Secret Passage~
+You are entering the Secret Passage of the Mystical Caves.  You are very
+brave if you venture in this direction...  Maybe a little stupid.  You feel
+something tugging at your pants leg.  Looking down you notice spiders
+crawling up your legs.  They are everywhere.  
+~
+8201 0
+D4
+~
+~
+0 0 12912
+D5
+~
+~
+ABC 0 12909
+S
+
+#12912
+A Secret Passage in the Caves~
+You are further into the Secret Passage of te Mystical Caves.  You are
+very brave if you venture in this direction...  Maybe a little stupid.  You
+feel something tugging at your pants leg.  Looking down you notice spiders
+crawling up your legs.  They are everywhere.  
+
+~
+8201 0
+D0
+~
+~
+0 0 12913
+D5
+~
+~
+0 0 12911
+S
+
+#12913
+A Long PassageWay~
+You are further into the Secret Passage of te Mystical Caves.  You are
+very brave if you venture in this direction...  Maybe a little stupid.  You
+feel something tugging at your pants leg.  Looking down you notice spiders
+crawling up your legs.  They are everywhere.  
+~
+8201 0
+D0
+~
+~
+0 0 12914
+D2
+~
+~
+0 0 12912
+S
+
+#12914
+A Long PassageWay~
+You are further into the Secret Passage of te Mystical Caves.  You are
+very brave if you venture in this direction...  Maybe a little stupid.  You
+feel something tugging at your pants leg.  Looking down you notice spiders
+crawling up your legs.  They are everywhere.  
+~
+8201 0
+D2
+~
+~
+0 0 12913
+D3
+~
+~
+0 0 12915
+S
+
+#12915
+Curves in the Passage~
+The passage curves around treacherous corners.  One slip and you might
+end up at the bottom of the caves.  Or even worse...  DragonBait.  
+~
+8201 0
+D0
+~
+~
+0 0 12916
+D1
+~
+~
+0 0 12914
+S
+
+#12916
+Secret Passage~
+You are further into the Secret Passage of te Mystical Caves.  You are
+very brave if you venture in this direction...  Maybe a little stupid.  You
+feel something tugging at your pants leg.  Looking down you notice spiders
+crawling up your legs.  They are everywhere.  
+~
+8201 0
+D0
+~
+~
+0 0 12917
+D2
+~
+~
+0 0 12915
+S
+
+#12917
+Corners in the Caves~
+The passage curves around treacherous corners.  One slip and you might
+end up at the bottom of the caves.  Or even worse...  DragonBait.  
+~
+8201 0
+D1
+~
+~
+0 0 12918
+D2
+~
+~
+0 0 12916
+S
+
+#12918
+The Start of the Descent~
+You are beginning the descent into total darkness.  It is to dark to even
+see your hand in front of your face.  Turn back now before it is to late.  
+~
+8201 0
+D3
+~
+~
+0 0 12917
+D5
+~
+~
+0 0 12920
+S
+
+#12919
+Dragon Guildmasters Room~
+This room is where the mighty dragons train.  On the walls you see the
+many trophies the Dragon Teacher has won in fight to the death combat.  I
+think you better leave before he chases you downward to your grave.  
+~
+8201 0
+D4
+~
+~
+AB 0 12920
+D5
+~
+~
+AB 0 12931
+S
+
+#12920
+Descending Into Darkness~
+You have ventured into the total darkness of the final descent.  Once
+again i warn you to turn back before it is to late.  This is your final
+warning brave, extinct traveler.  Turn back before you fall into the black
+hole and sink further down into the Earth.  
+~
+8201 0
+D4
+~
+~
+0 0 12918
+D5
+~
+~
+AB 0 12919
+S
+
+#12921
+Hidden Room~
+You have found a hidden room brave traveller.  Beware of the curse on
+this room and its contents.  
+~
+8201 0
+D1
+~
+~
+AB 0 12910
+S
+
+#12922
+A Hallway~
+You are standing in a hallway.  You see doors to the east and to the
+west.  You hear noises coming from the west and east.  The hallway continues
+to the north and south.  
+~
+9 0
+D0
+~
+~
+0 0 12923
+D1
+~
+~
+AB 0 12927
+D2
+~
+~
+AB 0 12910
+D3
+~
+~
+AB 0 12926
+S
+
+#12923
+A Hallway~
+You are standing in a hallway.  You see doors to the east and to the
+west.  You hear noises coming from the west and east.  The hallway continues
+to the north and south.  
+~
+9 0
+D0
+~
+~
+0 0 12924
+D1
+~
+~
+AB 0 12928
+D2
+~
+~
+0 0 12922
+D3
+~
+~
+AB 0 12929
+S
+
+#12924
+A Hallway~
+You are standing in a hallway.  You see doors to the east and to the
+west.  You hear noises coming from the west and east.  The hallway continues
+to the south.  
+~
+9 0
+D1
+~
+~
+AB 0 12925
+D2
+~
+~
+0 0 12923
+D3
+~
+~
+AB 0 12930
+S
+
+#12925
+In a Closet~
+You are standing in a very tiny room.  All you see is darkness so you
+reach for a lantern, light it, and run in terror from the room full of
+mummys.  
+~
+9 0
+D3
+~
+~
+AB 0 12924
+S
+
+#12926
+In a Closet~
+You are standing in a very tiny room.  All you see is darkness so you
+reach for a lantern, light it, and run in terror from the room full of
+mummys.  
+~
+9 0
+D1
+~
+~
+AB 0 12922
+S
+
+#12927
+In a Closet~
+You are standing in a very tiny room.  All you see is darkness so you
+reach for a lantern, light it, and run in terror from the room full of
+mummys.  
+~
+9 0
+D3
+~
+~
+AB 0 12922
+S
+
+#12928
+In a Closet~
+You are standing in a very tiny room.  All you see is darkness so you
+reach for a lantern, light it, and run in terror from the room full of
+mummys.  
+~
+9 0
+D3
+~
+~
+AB 0 12923
+S
+
+#12929
+In a Closet~
+You are standing in a very tiny room.  All you see is darkness so you
+reach for a lantern, light it, and run in terror from the room full of
+mummys.  
+~
+9 0
+D1
+~
+~
+AB 0 12923
+S
+
+#12930
+In a Closet~
+You are standing in a very tiny room.  All you see is darkness so you
+reach for a lantern, light it, and run in terror from the room full of
+mummys.  
+~
+9 0
+D1
+~
+~
+AB 0 12924
+S
+
+#12931
+The Dragons Library~
+This appears to be the dragon's library.  You see shelves all around the
+room covered in rows and rows of books.  Grab a book and stay awhile for you
+have reached the end of your journey.  
+~
+8 0
+D4
+~
+~
+AB 0 12919
+S
+#0
+
+#RESETS
+D 100 12909 4 2
+D 100 12910 0 1
+D 100 12910 3 1
+D 100 12911 5 2
+D 100 12919 4 1
+D 100 12919 5 1
+D 100 12920 5 1
+D 100 12921 1 1
+D 100 12922 1 1
+D 100 12922 2 1
+D 100 12922 3 1
+D 100 12923 1 1
+D 100 12923 3 1
+D 100 12924 1 1
+D 100 12924 3 1
+D 100 12925 3 1
+D 100 12926 1 1
+D 100 12927 3 1
+D 100 12928 3 1
+D 100 12929 1 1
+D 100 12930 1 1
+D 100 12931 4 1
+M 100 12900 10 12900 10
+M 100 12900 10 12903 10
+M 100 12900 10 12905 10
+M 100 12900 10 12908 10
+M 100 12900 10 12908 10
+M 100 12901 1 12909 1
+E 100 12900 0 6
+E 100 12901 0 24
+M 100 12904 10 12911 10
+M 100 12904 10 12914 10
+M 100 12904 10 12915 10
+M 100 12904 10 12916 10
+M 100 12904 10 12918 10
+M 100 12903 1 12919 1
+E 100 12903 0 21
+M 100 12903 1 12920 1
+E 100 12903 0 21
+M 100 12903 1 12920 1
+M 100 12902 1 12921 1
+E 100 12902 0 17
+M 100 12905 12 12925 2
+M 100 12905 12 12926 2
+M 100 12905 12 12927 2
+M 100 12905 12 12928 2
+M 100 12905 12 12929 2
+M 100 12905 12 12930 2
+M 100 12906 1 12931 1
+E 100 12904 0 28
+S
+
+#$

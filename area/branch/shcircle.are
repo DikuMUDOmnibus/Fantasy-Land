@@ -1,0 +1,1060 @@
+#AREADATA
+Name Shattered Circle~
+Builders Darkenyte Zap~
+VNUMs 54300 54599
+Credits [*DELETE] Darken  Shattered Circle~
+Security 1
+End
+
+
+
+#MOBILES
+#54300
+A clueless mob~
+(no short description)~
+(no long description)
+~
+~
+pixie~
+A EJT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 BP Z
+stand stand male 0
+AHMV ABCDEFGHIJKP medium unknown
+#0
+
+
+
+#OBJECTS
+#54300
+potpie pot pie~
+a big pot pie~
+A big pot pie has been left here.~
+food~
+food 0 A
+20 40 0 0 0
+0 20 22 P
+#54301
+potpie pot pie~
+a big pot pie~
+A big pot pie has been left here.~
+food~
+food 0 A
+20 40 0 0 0
+0 20 22 P
+#0
+
+
+
+#ROOMS
+#54300
+The Circle of Cahervaniel~
+White shafts of stone thrust up from the earth, decayed and broken. 
+Their circular arrangement at the top of a grassy hill suggests the last
+oral remnant of some long-rotted giant in the earth.  Though some columns
+are bent, and others lean against their companion stones, in the thirty-foot
+diameter circle, only one stone has truly fallen over.  
+ 
+A sign has been firmly planted in the ground here.
+Some graffiti was carelessly scrawled on a stone.
+
+~
+0 4 0
+E
+sign~
+*******************************
+*                             *
+* Based on the AD&D Adventure *
+*      Shattered Circle       *
+*    (c) 1989 by TSR, Inc.    *
+*                             *
+*     Ported to ROT 1999      *
+*         by DarkeNyte        *
+*                             *
+*******************************
+             |   |
+             |   |
+             |   |
+             |   |
+             |   |
+             |   |
+             |   |
+             |   |
+~
+E
+graffiti~
+Kilroy was here!
+~
+D5
+A gap measuring five feet on a side remains where an ancient dolmen
+recently fell.  The cavity is utterly dark, however, rounded steps are
+visible within the gap, plunging into the earth at a steep angle.  Cobwebs,
+thick with stone dust, smooth sharp corners, and the smell of earth,
+moisture, and rot is strong in your nostrils.  
+~
+~
+0 0 54301
+S
+#54301
+Hall of Mists~
+A blue haze fills this chamber, making it impossible to see more than a
+few feet in any direction.  The haze smells of strange spices, smoke, and
+dank copper.  
+~
+0 9 0
+D0
+~
+~
+1 0 54310
+D1
+A sculpture of a dragon's head frames this door, it's nostrils spewing
+the blue mist that fills the room.  
+~
+~
+4 0 54302
+D2
+A wooden door.
+~
+~
+1 0 54309
+D3
+A battered wooden door.  
+~
+~
+1 0 54307
+D4
+Rounded, cracked steps are vaguely visible, heading upwards into a dark
+cavity.  
+~
+~
+0 0 54300
+D5
+The floor seems to give slightly here.
+~
+~
+0 0 54304
+S
+#54302
+Rune Message~
+A glimmering blue light lines the stone tiles covering this chamber.  The
+chamber is empty, but narrows into a ten-foot wide aperature to the east,
+beyond which is darkness.  Bold runes are inscribed above this opening.  
+~
+0 12 0
+E
+rune~
+Let the Respectful Enter Here
+~
+D1
+~
+~
+0 0 54303
+D3
+~
+~
+4 0 54301
+S
+#54303
+Reliquary~
+A rusted iron tripod is bolted to the floor in the center of a circular,
+domed chamber.  The stone of the chamber appears worn, but the faint
+suggestion of ancient runes and crude figures is visible.  Grasped in the
+tripod's iron claw is an aquamarine sphere measuring about one foot in
+diameter.  Vapor, like warm breath streaming in the cold air, rolls gently
+off the sphere but dissipates before reaching the stone floor.  
+~
+0 13 0
+D3
+~
+~
+0 0 54302
+S
+#54304
+Falling~
+You are falling!
+~
+0 8205 0
+D4
+~
+~
+0 0 54301
+D5
+~
+~
+0 0 54305
+S
+#54305
+Falling~
+You are falling!
+~
+0 8205 0
+D4
+~
+~
+0 0 54304
+D5
+~
+~
+0 0 54306
+S
+#54306
+Bottom of the Pit~
+With a heavy thud, you hit the bottom of the pit.  A magical field has
+prevented any use of flying or levitation so it seems you are stuck here
+unless a god takes mercy on your soul.  
+~
+0 9 0
+D4
+~
+~
+0 0 54305
+S
+#54307
+Abandoned Guard Post~
+A tumble of dust and debris cover a toppled stone table and bench.  What
+might be shattered pottery shares the floor with the skeletal remains of
+several humanoids.  
+~
+0 9 0
+D1
+~
+~
+1 0 54301
+D2
+~
+~
+1 0 54308
+S
+#54308
+Weapon Stores~
+This ten square foot room once held shelves and racks on every wall,
+though now the shelves on the eastern and southern walls have collapsed into
+a tumble of debris and dust on the floor.  The racks on the west wall remain
+intact and hold several rotted wooden spears with rusted iron tips.  
+~
+0 9 0
+D0
+~
+~
+1 0 54307
+S
+#54309
+Hallway~
+A stone corridor running through the shrine.  
+~
+0 9 0
+D0
+~
+~
+1 0 54301
+D1
+~
+~
+0 0 54317
+D2
+~
+~
+1 0 54318
+D3
+~
+~
+0 0 54330
+S
+#54310
+Restricted Hallway~
+The hallway to the east seems completely blocked by thick strands of
+pearl gray webbing.  There is something moving just beyond the webs and
+strange chittering sounds can be heard.  
+~
+0 9 0
+D0
+~
+~
+0 0 54311
+D1
+~
+~
+0 0 54315
+D2
+~
+~
+1 0 54301
+S
+#54311
+Restricted Hallway~
+This hallway continues north to a door at the far end on the eastern wall.  
+~
+0 9 0
+D0
+~
+~
+0 0 54323
+D1
+~
+~
+1 0 54313
+D2
+~
+~
+0 0 54310
+D3
+~
+~
+1 0 54312
+S
+#54312
+Chitine Warrior Barracks~
+This large room is lit with a guttering, pale green light that flickers
+from lamps in each corner.  The floor of the stone chamber is littered with
+small bones, shreds of leather, and garbage, though a central ring of stones
+remains clear, save for ashes of fires past.  Ten human sized web cocoons
+hang down from the high ceiling, in no particualr arrangement, though none
+hang over the fire pit.  A larger cocoon, measuring some ten feet in
+diameter, hangs from the ceiling near the center of the west wall.  
+~
+0 8 0
+D1
+~
+~
+1 0 54311
+S
+#54313
+Renegade Community Center~
+The floor, walls, and ceiling of this chamber are completely cloaked in
+pearl gray webbing.  Several glass lamps hang by web strands, shedding an
+appalling green light over the common area of a community of at least twenty
+spiderlike humanoids.  The figures crawl like insects over the floor, walls,
+and ceiling of the chamber.  
+~
+0 8 0
+D0
+~
+~
+0 0 54314
+D3
+~
+~
+1 0 54311
+S
+#54314
+Larder~
+This small chamber echos with the bleating of ten scared sheep and the
+stench is overpowering.  Several braces of hare are hanging on a crude rack
+and a five foot long, dead lag monster is lying against the northern wall.  
+~
+0 8 0
+D2
+~
+~
+0 0 54313
+S
+#54315
+Blasted Area~
+The rusted iron door to this chamber lies crumpled and off its hinges
+near the open entry.  Inside, the room is blackened and cracked as if some
+massive explosion occured long ago.  Despite the great heat damage, a
+strange circle filled with an inscription of blurred and broken runes is
+partially visible over the entire floor.  
+~
+0 9 0
+D0
+~
+~
+1 0 54316
+D2
+~
+~
+1 0 54317
+D3
+~
+~
+0 0 54310
+S
+#54316
+Secret Chamber~
+This cold stone room is bare of all adornment.  A rusted iron chest sits
+against the far north wall.  
+~
+0 9 0
+D2
+~
+~
+1 0 54315
+S
+#54317
+Hallway~
+A stone corridor running through the shrine.  
+~
+0 9 0
+D0
+~
+~
+1 0 54315
+D2
+~
+~
+0 0 54350
+D3
+~
+~
+0 0 54309
+S
+#54318
+Supported Hall~
+Several sets of paired alcoves bracket the long corridor ahead.  Small
+pieces of stone rubble spill out on the floor from each cavity, apparently
+having broken from the sculptures that sit nestled within each space.  
+~
+0 9 0
+D0
+~
+~
+1 0 54309
+D1
+~
+~
+1 0 54319
+D2
+~
+~
+1 0 54320
+S
+#54319
+Sealed Studio~
+Blocks of stone of all types and sizes squat in this chamber under a
+patina of undisturbed dust.  Some of the blocks are completely square, but
+many of them show evidence of a sculpter's chisel.  Rough heads, arms,
+faces, and other forms are half-carved into many of the blocks.  On the
+other hand, perhaps the forms are half-freed from imprisoning stone? 
+Besides the unfinished sculptures, a stone work bench sits against the north
+wall of the chamber.  Many stone-working implements are visible upon this
+bench.  
+~
+0 9 0
+D3
+~
+~
+1 0 54318
+S
+#54320
+Altar of Recollection~
+This six-sided chamber is tiled with alternating obsidian and red stone
+slabs.  The ceiling slowly rises to a point twenty feet high, froma height
+of eight feet at the walls.  Directly below the point, a pitted globe hangs,
+drizzling a wan, faded light.  An altar carved of black marble sits directly
+across from the main entrance, and subtle runes are inscribed upon its
+smooth surface.  
+~
+0 8 0
+E
+runes~
+Who seeks to recall life's past light
+Walks with sufferance to the right.
+Who seeks a test from those bereft
+Walks with reticence to the left.
+~
+D0
+~
+~
+1 0 54318
+S
+#54321
+Alcove~
+This is a long, low alcove with a dirt covered floor and a subtle glow at
+the far end.  The glow is coming from a small harp.  A shriveled hand can be
+seen clutching the harp tightly.  
+~
+0 9 0
+D3
+~
+~
+0 0 54320
+S
+#54322
+Tests of the Dead~
+You appear in a twenty-foot by twenty-foot square chamber of stone.  The
+depth of the floor is difficult to determine because of the thick layer of
+loose soil that covers it.  The ceiling here is low and hangs only seven
+feet above the dark earth.  A darkened skull inscribed with runes sits in a
+tiny alcove in the center of the west wall.
+ 
+A silver door inscribed with the word STRIFE is to the east and
+another silver door inscribed with the word WIT is to the west.
+~
+0 9 0
+E
+rune~
+Your presence here constitutes your agreement to the test.
+Choose your measure: Test by Strife, or Test by Wit?
+~
+E
+runes~
+Your presence here constitutes your agreement to the test.
+Choose your measure: Test by Strife, or Test by Wit?
+~
+D1
+~
+~
+1 0 54326
+D3
+~
+~
+1 0 54328
+S
+#54323
+Restricted Hallway~
+The hallway ends here with a sturdy oak door to the west.
+~
+0 9 0
+D2
+~
+~
+0 0 54311
+D3
+~
+~
+1 0 54324
+S
+#54324
+Deliberation Pod~
+This chamber contains a single glass lamp set in the center of a low,
+stone table.  The sickly olive light silhouettes several stone benches.  If
+the grooves in the floor are any indication, the benches look as if they
+have been dragged into this chamber from other areas.  A bundle of hide
+parchment, a bone needle, and a small stoppered clay pot sit upon the table,
+throwing long shadows on the wall.  
+~
+0 8 0
+D1
+~
+~
+1 0 54323
+D3
+~
+~
+1 0 54325
+S
+#54325
+Uelwen's Private Chamber~
+This room is completely webbed; however, the webbing here is almost
+translucent, and it faintly glimmers with silver.  An elegant human-sized
+cocoon hangs from the ceiling in the southwest corner of the chamber, while
+drawers and concavities are deftly woven into the webbing covering the rest
+of the room.  
+~
+0 8 0
+D1
+~
+~
+1 0 54324
+S
+#54326
+Test of Strife~
+You appear in a twenty-foot by twenty-foot square chamber of stone.  The
+depth of the floor is difficult to determine because of the thick layer of
+loose soil that covers it.  The ceiling here is low and hangs only seven
+feet above the dark earth.
+~
+0 8201 0
+D0
+~
+~
+4 0 54327
+D3
+~
+~
+1 0 54322
+S
+#54327
+You've Won!~
+Now all you have to do is take your prize and leave.
+~
+0 9 0
+D0
+~
+~
+4 0 54328
+D2
+~
+~
+4 0 54326
+S
+#54328
+House of Pain~
+In this mall stone room is a small bronze plaque on a red marble
+pedastal.  There is a silver door to the north inscribed with the word FIVE
+and another silver door to the south inscribed with the word THREE.  
+~
+0 9 0
+E
+plaque~
+You seek to escape from the House of Pain but you are not privy to the
+password.  A man walks in and the door-wight hisses "twelve."  The man
+answers, "six," and exits through a door.  A lady walks in and the
+door-wight spits, "six," she answers "three," and walks out through a door. 
+The door-wight turns to you and coughs, "ten."  Find the pattern and you
+shall go free.  Fail and you die.  Choose the correct door to enter.  
+~
+D0
+~
+~
+4 0 54329
+D1
+~
+~
+1 0 54322
+D2
+~
+~
+4 0 54327
+S
+#54329
+Death~
+~
+0 9 0
+D2
+~
+~
+4 0 54328
+S
+#54330
+Hallway~
+A stone corridor running through the shrine.
+~
+0 9 0
+D0
+~
+~
+0 0 54333
+D1
+~
+~
+0 0 54309
+D2
+~
+~
+0 0 54340
+D3
+~
+~
+0 0 54331
+S
+#54331
+Empty Room~
+Rotting and stained plaster has long ago peeled and flaked away from the
+walls and ceiling of this room to reveal rude stone.  Broken masonry,
+statuary, and other oddments are visible beneath the layer of undisturbed
+dust.  
+~
+0 9 0
+D1
+~
+~
+0 0 54330
+D2
+~
+~
+0 0 54332
+S
+#54332
+History On The Wall~
+Though much of the plaster that once covered the walls and ceiling of
+this room has flaked away, a section of yellowing and sagging plaster
+remains on the southern wall.  The damage is almost total; however, a faded
+design remains visible on the plaster: a skull with an eight-on-its side
+symbol of eternity tightly clutched in its teeth.  
+~
+0 9 0
+D0
+~
+~
+0 0 54331
+S
+#54333
+Hallway~
+A stone corridor running through the shrine.
+~
+0 9 0
+D0
+~
+~
+0 0 54336
+D1
+~
+~
+0 0 54334
+D2
+~
+~
+0 0 54330
+D3
+~
+~
+0 0 54335
+S
+#54334
+Freestanding Sculpture~
+Though slightly eroded and cracked, the sculpture standing in this large
+alcove is still impressive: a unicorn rears, its head held high. 
+Unfortunately, time and vandalism have apparently robbed the unicorn of its
+horn and its left front leg.  
+~
+0 0 0
+D3
+~
+~
+0 0 54333
+S
+#54335
+Glowing Webs~
+This empty chamber would be completely dark but for tattered remnants of
+luminescent green webs hanging in the corner of the room.  
+~
+0 9 0
+D1
+~
+~
+0 0 54333
+S
+#54336
+Hallway~
+A stone corridor running through the shrine.
+~
+0 9 0
+D0
+~
+~
+0 0 54337
+D2
+~
+~
+0 0 54333
+S
+#54337
+Another Sculpture~
+The sculpture of a rearing unicorn faces the corridor from the depths of
+a large alcove.  Though cracked and somewhat pitted, the statue is
+essentially intact.  
+~
+0 13 0
+D1
+~
+~
+1 0 54338
+D2
+~
+~
+0 0 54336
+S
+#54338
+Dreaming~
+Flashes of purple-green light emanate from a glowing skull-shaped stone
+set in the wall of a domed chamber.  Never before seen creatures appear with
+each flash and move to attack a magnificent white unicorn.  The beautiful
+creature rears, but a strobe of light from the skull pierces its horn, and
+the unicorn lets out a cry of despair before falling to the ground.  
+~
+0 1 0
+D1
+~
+~
+1 0 54339
+D3
+~
+~
+1 0 54337
+S
+#54339
+Hidden Reserve~
+Though time has had its way with this small chamber and its contents, it
+seems that some spell of preservation must be on the wooden casks that line
+the stone shelves covering this chamber.  
+~
+0 9 0
+D3
+~
+~
+1 0 54338
+S
+#54340
+Hallway~
+A stone corridor running through the shrine.
+~
+0 9 0
+D0
+~
+~
+0 0 54330
+D1
+~
+~
+1 0 54341
+D2
+~
+~
+1 0 54342
+S
+#54341
+Minor Infestation~
+This room contains several stone benches and a toppled and broken book
+shelf, all covered in dust.  The four corners of the room contain thick
+swaths of webbing, measuring at least five feet in diameter.  Lying in the
+center of the room are a few long-rotted humanoid forms.  
+~
+0 9 0
+D3
+~
+~
+1 0 54340
+S
+#54342
+Hallway~
+A stone corridor running through the shrine.
+~
+0 9 0
+D0
+~
+~
+1 0 54340
+D1
+~
+~
+1 0 54343
+D3
+~
+~
+0 0 54344
+S
+#54343
+Creatures Out of Time~
+The dust of this room is much disturbed.  Stone fragments and debris have
+been crudely formed into a rocky nest in the southwest corner of the
+chamber.  
+~
+0 9 0
+D3
+~
+~
+1 0 54342
+S
+#54344
+Hallway~
+A stone corridor running through the shrine.
+~
+0 9 0
+D0
+~
+~
+1 0 54345
+D1
+~
+~
+0 0 54342
+D3
+~
+~
+0 0 54346
+S
+#54345
+Spider, Spider, Burning Bright!~
+The bown-strewn floor of this chamber is lighted by a net of glowing webs
+hanging from the ceiling.  Although the room is lighted, there is a blot of
+predatory darkness behind the green mesh.  
+~
+0 8 0
+D2
+~
+~
+1 0 54344
+S
+#54346
+Hallway~
+A stone corridor running through the shrine.
+~
+0 9 0
+D0
+~
+~
+0 0 54347
+D1
+~
+~
+0 0 54344
+D3
+~
+~
+0 0 54348
+S
+#54347
+Stairwell~
+This spiral stair is cracked and dusty, although there are signs of
+recent traffic.  
+~
+0 1 0
+D2
+~
+~
+0 0 54346
+S
+#54348
+Empty Room~
+Rotting and stained plaster has long ago peeled and flaked away from the
+walls and ceiling of this room to reveal rude stone.  Broken masonry,
+statuary, and other oddments are visible beneath the layer of undisturbed
+dust.  
+~
+0 9 0
+D0
+~
+~
+1 0 54349
+D1
+~
+~
+0 0 54346
+S
+#54349
+Secret Room~
+The air here is dry and stale, but strangely cold.  Dust coats every
+surface, including a rough block of some crystalline substance.  The
+dust-covered block stands several feet tall and measures a few feet to a
+side.  A large blot of darkness mars the center of the translucent, dust
+shrouded object.  
+~
+0 9 0
+D2
+~
+~
+1 0 54348
+S
+#54350
+Grand Staircase~
+~
+0 9 0
+D0
+~
+~
+0 0 54317
+D5
+~
+~
+0 0 54351
+S
+#54351
+Grand Staircase~
+This standard stone stair descends some twenty feet toward the east
+before breaking into the ceiling of a large cavern.  The stair is carved
+into the side of the cavern, though there is no railing along the side to
+protect against a fall.  
+~
+0 9 0
+D4
+~
+~
+0 0 54350
+D5
+~
+~
+0 0 54352
+S
+#54352
+Grand Staircase~
+This cavern's feature of note appears to be the unnatural smoothness of
+the northern wall, along which a narrow stiar ascends.  At least one
+switchback is visible above.  
+~
+0 9 0
+D1
+~
+~
+0 0 54353
+D4
+~
+~
+0 0 54351
+S
+#54353
+Chitine City~
+~
+0 0 0
+D3
+~
+~
+0 0 54352
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 54301 0 1
+D 0 54301 1 2
+D 0 54301 2 1
+D 0 54301 3 2
+D 0 54302 3 2
+D 0 54307 1 2
+D 0 54307 2 2
+D 0 54308 0 2
+D 0 54309 0 1
+D 0 54309 2 1
+D 0 54310 2 1
+D 0 54311 1 1
+D 0 54311 3 1
+D 0 54312 1 1
+D 0 54313 3 1
+D 0 54315 0 1
+D 0 54315 2 1
+D 0 54316 2 1
+D 0 54317 0 1
+D 0 54318 0 1
+D 0 54318 1 1
+D 0 54318 2 1
+D 0 54319 3 1
+D 0 54320 0 1
+D 0 54322 1 1
+D 0 54322 3 1
+D 0 54323 3 1
+D 0 54324 1 1
+D 0 54324 3 2
+D 0 54325 1 2
+D 0 54326 0 2
+D 0 54326 3 1
+D 0 54327 0 1
+D 0 54327 2 2
+D 0 54328 0 1
+D 0 54328 1 1
+D 0 54328 2 1
+D 0 54329 2 1
+D 0 54337 1 1
+D 0 54338 1 1
+D 0 54338 3 1
+D 0 54339 3 1
+D 0 54340 1 1
+D 0 54340 2 1
+D 0 54341 3 1
+D 0 54342 0 1
+D 0 54342 1 1
+D 0 54343 3 1
+D 0 54344 0 1
+D 0 54345 2 1
+D 0 54348 0 1
+D 0 54349 2 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

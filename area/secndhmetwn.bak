@@ -1,0 +1,489 @@
+#AOD_AREA
+Hometown Continent~
+60300 60399 C 5
+Levl 0 30
+Bldr Tiamat~
+End
+
+#MOBILES
+#60397
+Sunflower sentinel~
+{0A {#Su{7n{8flo{7w{#er {#Se{7n{8ti{7n{#el{0 ~
+{0A {#Su{7n{8flo{7w{#er {#Se{7n{8ti{7n{#el{0 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BG DFJVZ E 0 0
+90 65 0 15001 15001 500 500 1 1 100 none
+0 0 0 0
+STANDING STANDING male 199
+0 mage medium 0
+
+#60398
+Rose The Healer.~
+{!R{1o{7s{1i{!e{0~
+{!R{1o{7s{1i{!e {0the town healer.
+~
+Rosie is such a beautiful woman one glance at her and you forget
+where you are.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BDTa DEFJ ACDEFIRS 0 0
+294 1032 0 100000 100000 100000 100000 0 0 0 none
+0 0 0 0
+STANDING STANDING female 0
+0 mage medium 0
+G 500
+#0
+
+#OBJECTS
+#60399
+A Bed of roses~
+{0A {2B{@e{2d {8of {!r{1o{7s{1e{!s{0~
+{0A {2B{@e{2d {8of {!r{1o{7s{1e{!s{0 is here healing wounds.~
+furniture BIMOXY 0
+50 50000 DGJ 700 700
+0 0 0
+#0
+
+#ROOMS
+#60300
+Sanctuary Of Roses.~
+This Place may have many thorns but the sweet sent of roses is
+so alluring you cant help but sit and recover your wounds.  
+~
+1032 0
+D1
+~
+~
+0 0 60301
+S
+
+#60301
+Before The Sanctuary Of Roses.~
+To the west is a very sweet sent pulling you towards that general
+direction.  To The east lies the trading district.  
+~
+0 0
+D1
+~
+~
+0 0 60302
+D3
+~
+~
+0 0 60300
+S
+
+#60302
+Garden Market Intersection~
+You have entered the trading market to the west is the town healer,
+north shops and town exit, south shops and town exit and to the
+east Guild row.  
+~
+0 0
+D0
+~
+~
+0 0 60303
+D1
+~
+~
+0 0 60315
+D2
+~
+~
+0 0 60305
+D3
+~
+~
+0 0 60301
+S
+
+#60303
+Garden Path~
+Flowers of all kinds can be seen along this path.  To the west
+we have the General Store and east is the Map shop.  
+~
+0 0
+D0
+~
+~
+0 0 60304
+D1
+~
+~
+0 0 60311
+D2
+~
+~
+0 0 60302
+D3
+~
+~
+0 0 60312
+S
+
+#60304
+Garden Path~
+Flowers of all kinds can be seen along this path.  To the west
+we have the Weapons store and east Armor store.  
+~
+0 0
+D1
+~
+~
+0 0 60314
+D2
+~
+~
+0 0 60303
+D3
+~
+~
+0 0 60313
+S
+
+#60305
+Garden Path~
+Flowers of all kinds can be seen along this path.  To the west
+is the Potion shop and east is the Bakery.  
+~
+0 0
+D0
+~
+~
+0 0 60302
+D1
+~
+~
+0 0 60310
+D2
+~
+~
+0 0 60306
+D3
+~
+~
+0 0 60309
+S
+
+#60306
+Garden Path~
+Flowers of all kinds can be seen along this path.  To the west
+is the Blacksmith and east is the Seed shop.  
+~
+0 0
+D0
+~
+~
+0 0 60305
+D1
+~
+~
+0 0 60307
+D3
+~
+~
+0 0 60308
+S
+
+#60307
+Nandina's seed shop~
+The seed shop is actually your every day run of the mill pet shop
+but with a twist you can adopt a plant instead of a animal and
+there just as cute or vicious.  
+~
+0 0
+D3
+~
+~
+0 0 60306
+S
+
+#60308
+Passion flower Blacksmith~
+The name says it all this Fellow is so passionate about her work
+its how she got her name.  
+~
+0 0
+D1
+~
+~
+0 0 60306
+S
+
+#60309
+Yellow Tulip Potions.~
+Have you ever wanted that extra protection from bee's or wanted
+to repel those pesky Titans then this is the place to shop you
+want it we have it!  
+~
+0 0
+D1
+~
+~
+0 0 60305
+S
+
+#60310
+Red Tulip Bakery.~
+Forget meat pies and anything with meat this is all organic food.
+petals and there delicious they come in all ranges of tastes and
+smells.  
+~
+0 0
+D3
+~
+~
+0 0 60305
+S
+
+#60311
+Cineraria's Map Shop~
+Cineraria is always one to get lost on those long travails to other
+cities, Finaly she has had enough and has started her own map shop
+Vowing to never get lost again.  
+~
+0 0
+D3
+~
+~
+0 0 60303
+S
+
+#60312
+Daisy's General Store~
+The store is much like the rest of the town it smells so nice,
+so bright and alive but daisy has give it her own special twist.
+
+~
+0 0
+D1
+~
+~
+0 0 60303
+S
+
+#60313
+Edelweis's Weapons store~
+Edelweis is Daring with noble courage!  he has had enough of being
+steped on by titans and is now trying to fight back by offering
+weapons to all those who wish to fight back.  
+~
+0 0
+D1
+~
+~
+0 0 60304
+S
+
+#60314
+Cactus's Armory~
+Cactus has always been one on survival no matter where he goes
+he will survive all due thanks to his protective armor.  Now on
+sale!.  
+~
+0 0
+D3
+~
+~
+0 0 60304
+S
+
+#60315
+~
+~
+0 0
+D0
+~
+~
+0 0 60316
+D1
+~
+~
+0 0 60328
+D2
+~
+~
+0 0 60318
+D3
+~
+~
+0 0 60302
+S
+
+#60316
+~
+~
+0 0
+D0
+~
+~
+0 0 60317
+D1
+~
+~
+0 0 60327
+D2
+~
+~
+0 0 60315
+D3
+~
+~
+0 0 60326
+S
+
+#60317
+~
+~
+0 0
+D1
+~
+~
+0 0 60324
+D2
+~
+~
+0 0 60316
+D3
+~
+~
+0 0 60325
+S
+
+#60318
+~
+~
+0 0
+D0
+~
+~
+0 0 60315
+D1
+~
+~
+0 0 60320
+D2
+~
+~
+0 0 60319
+D3
+~
+~
+0 0 60321
+S
+
+#60319
+~
+~
+0 0
+D0
+~
+~
+0 0 60318
+D1
+~
+~
+0 0 60323
+D3
+~
+~
+0 0 60322
+S
+
+#60320
+~
+~
+0 0
+D3
+~
+~
+0 0 60318
+S
+
+#60321
+~
+~
+0 0
+D1
+~
+~
+0 0 60318
+S
+
+#60322
+~
+~
+0 0
+D1
+~
+~
+0 0 60319
+S
+
+#60323
+~
+~
+0 0
+D3
+~
+~
+0 0 60319
+S
+
+#60324
+~
+~
+0 0
+D3
+~
+~
+0 0 60317
+S
+
+#60325
+~
+~
+0 0
+D1
+~
+~
+0 0 60317
+S
+
+#60326
+~
+~
+0 0
+D1
+~
+~
+0 0 60316
+S
+
+#60327
+~
+~
+0 0
+D3
+~
+~
+0 0 60316
+S
+
+#60328
+~
+~
+0 0
+D3
+~
+~
+0 0 60315
+S
+#0
+
+#$

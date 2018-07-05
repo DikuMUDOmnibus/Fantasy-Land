@@ -1,0 +1,1710 @@
+#AREADATA
+Name Elemental Caverns~
+Builders None~
+VNUMs 57700 57799
+Credits [140 151] Defari   Elemental Caverns~
+Security 9
+End
+
+
+
+#MOBILES
+#57700
+earth giant elemental~
+The earth elemental~
+A giant earth elemental stands here motionless watching you.
+~
+He controls the forces of the earth.
+~
+unique~
+AB JLVZ Q 250 0
+200 200 13d2000+7500 2d50+50 12d55+200 blast
+-17 -18 -20 -22
+FHJK Aa HJ PUWbc
+stand stand none 13232
+AHMV ABCDEFGHIJK large unknown
+M GREET 57700 how~
+#57701
+air elemental giant~
+The air elemental~
+A giant air elemental stands here sucking up the air in the room!
+~
+He controls the forces of the air.
+~
+unique~
+AB JLTVZ EN 250 0
+200 130 13d2000+8000 2d50+50 12d60+200 suction
+-20 -21 -22 -23
+0 AVa EGHJXc COPTZ
+stand stand none 12222
+AHMV ABCDEFGHIJK medium unknown
+#57702
+water giant elemental~
+The water elemental~
+A giant water elemental roars as splashes of water rush at you!
+~
+He controls the forces of the water elements.
+~
+unique~
+AB JLVZb BCN -400 0
+200 170 13d2000+8000 2d50+50 30d10+200 chill
+-20 -21 -22 -23
+0 RWb HIJXZ HQUc
+stand stand none 10324
+AHMV ABCDEFGHIJK medium unknown
+#57703
+fire elemental giant~
+A fire elemental~
+A giant fire elemental blinds you with its scorching flame!
+~
+He controls the elements of the fire.
+~
+unique~
+AB JLTVZ D 250 0
+200 145 13d2000+7200 2d50+50 12d60+200 flame
+-17 -18 -19 -20
+0 H HXc IRWb
+stand stand none 13232
+AHMV ABCDEFGHIJK medium unknown
+#57704
+skriaxit elemental dust devil~
+The skriaxit elemental~
+A swirling dust devil of some kind lets off a raging storm!
+~
+Skriaxits, also called blackstorms or living sandstorms, are the most
+feared creatures in many deserts.  Spirits of retribution summoned millennia
+ago by ancient gods, blackstorms combine the elements of earth and air to
+dangerous effect.  They speak the tongue of air elementals and their own
+language, a howling, shrieking tongue that frightens most humans who hear
+it.
+~
+unique~
+ABF JLVZ BQ -300 0
+150 50 13d1300+7000 2d100+100 12d55+200 blast
+-15 -15 -15 -18
+EFJK a HJ PUWbc
+stand stand none 5353
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 57704 100~
+#57705
+pech~
+A Pech~
+A strange monstrous pech stands here picking the wall.
+~
+The pech are creatures of the plane of elemental Earth, though some have
+extensive mines in the deepest regions of the Prime Material plane.  They
+dwell in dark places and work stone.  Pech are thin and have long arms and
+legs Their broad hands and feet are excellent for bracing and employing
+tools to work stone.  They have pale, yellowish skin and red or reddish
+brown hair.  Their flesh is nearly as hard as granite.  Their eyes are large
+and have no pupils.  Pech have infravision to 120 feet.
+~
+unique~
+AB JLVZ EQ 300 0
+151 200 13d1500+7200 2d100+100 12d55+180 beating
+-15 -15 -15 -18
+CDFHK a HJ PUWbc
+stand stand none 6333
+AHMV ABCDEFGHIJK medium unknown
+#57706
+sidewinder sandling~
+A sidewinder sandling~
+A small swirling sandling rises in size spinning furiously here.
+~
+These creatures are composed of silicates and originated on the elemental
+plane of Earth.  They look like piles of sand and can vary color to blend
+with backgrounds.  Sandlings have the same temperature as their
+surroundings, They claim territories with boundaries recognizable only by
+them.
+~
+unique~
+AB JLVZ HQ 100 0
+151 200 13d250+6000 2d100+100 30d10+250 blast
+-90 -90 -90 -85
+J Ba HJ PUWbc
+stand stand none 5333
+AHMV ABCDEFGHIJK medium unknown
+#57707
+ruler warrior earth elemental~
+The ruler of the earth~
+A warrior of the earth elementals stands here meditating.
+~
+This colorful warrior comes from the mysterious plains of the Astral
+realms created in human lifeform to guard the manifestations of the earth.
+Standing at 6'0" and massive in brawn, he relies on brute strength and
+warrior skills in defending himself.
+~
+unique~
+ABF JLVZ Q -300 0
+150 200 13d1500+7200 2d100+100 12d55+180 wrath
+-15 -15 -15 -15
+0 a HJ PUWbc
+stand stand none 6333
+AHMV ABCDEFGHIJK medium unknown
+#57708
+fire salamander amphibian~
+A chaotic fire salamander~
+A huge fire amphibian lashes its tongue at you in anger!
+~
+Salamanders are natives of the elemental plane of Fire, and thus they
+thrive in hot places.  These cruel, evil creatures come to the Prime
+Material plane for reasons known only to them.  The head and torso of a
+salamander is copper-colored and has a human-like appearance.  Most of the
+time (80%), this aspect is a male, with flaming beard and moustache.  The
+female version has flowing, fiery red hair.  Both aspects have glowing
+yellow eyes that sometimes switch to fluorescent green.  The lower torso is
+that of a large snake, with orange coloring shading to dull red at the tail
+end.  The entire body is covered with wispy appendages that appear to burn
+but are never consumed.
+~
+lizard~
+ABF JLTVZ BDHO -855 0
+175 200 13d1820+7400 2d100+100 12d64+200 bite
+-20 -20 -20 -20
+0 0 HLX I
+stand stand none 8244
+ACGHMVXc ABCDEFGHIJKQV medium unknown
+#57709
+fire snake viper~
+A fire snake~
+A coiling viper flashes his tongue at you!
+~
+Some say that fire snakes are larval salamanders.  Fire snakes, colored
+in shades from blood-red to orange, are always found in fires.
+~
+snake~
+AB 0 D 5 0
+175 200 13d2000+7100 2d50+50 12d65+200 bite
+-20 -20 -20 -20
+FKMN H L I
+stand stand none 9232
+AGXYc ADEFKLQVX medium unknown
+#57710
+fiery sphere light fireball flame~
+A flame of hell~
+A bright fiery sphere of light rushes at you!
+~
+This huge spherical fireball blinds your eyes and is filled with
+scorching rage!
+~
+unique~
+ABF JLTVZ BD -400 0
+175 200 13d1800+7400 2d100+100 12d65+200 flbite
+-20 -20 -20 -20
+0 H HXc IRWb
+stand stand none 6444
+AHMV ABCDEFGHIJK medium unknown
+#57711
+hellhound dog~
+A notorious hellhound~
+A ferocious hellhound snarls fire from its nostrils at you!
+~
+Hellhounds are highly agile and ferociously swift in combat.  Theyre
+razor sharp claws and teeth emit a painful burning sensation on any contact
+brought upon it.  The well- built canine comes from the fiery plains of hell
+spawned by the elements to aid in defending the fire.
+~
+dog~
+ABF JLTVZ BD -400 0
+175 200 13d1850+7500 2d100+100 12d70+199 flbite
+-20 -20 -20 -20
+H 0 HX I
+stand stand none 6333
+AGHMV ABCDEFGHIJKUV medium unknown
+#57712
+tempest elemental cloud~
+The tempest elemental~
+A dark mysterious cloud floats about here motionless.
+~
+The tempest is a living storm which appears as a dark storm cloud of
+comparatively small size.  Human or bestial features can often be seen in
+the roiling vapors of the tempest.  Silver veins extend across the creature
+and carry the electrical impulses that maintain the storm's energy.
+~
+unique~
+AB JLTVZ EN -200 0
+160 105 13d1790+7200 2d100+100 12d60+180 blast
+-18 -18 -18 -18
+0 IRVa EGHIJOXc COPTZ
+stand stand none 5353
+AHMV ABCDEFGHIJK medium unknown
+#57713
+black cloud fire~
+the black cloud of vengeance~
+A black cloud floats high above you spitting fire from it!
+~
+This living storm, usually found in deserts, combines the elements of
+fire and air.  It unleashes a fiery rain .  It then fans the flames, and
+will they continue to burn as long as there is fuel.
+~
+unique~
+ABF JLTVZ EN -300 0
+160 200 13d1800+7200 2d100+100 12d60+200 flame
+-18 -18 -18 -18
+FK Va EGHJXc COPTZ
+stand stand none 5434
+AHMV ABCDEFGHIJK medium unknown
+#57714
+sylph woman~
+A flying sylph~
+A beautiful sylph levitates in the air winking at you.
+~
+Sylphs are beautiful, humanoid women with wings like dragonflies.  Their
+wings are 4-5 feet long and translucent, clear, or spotted with iridescent
+color.  Their long, bright, hair may be any "normal" color, or blue, purple,
+or green.  They wear flowing, diaphanous robes which accent their wings or
+hair.  Sylphs are related to air elementals and to nymphs, perhaps
+originating as a cross-breed between nymphs and aerial servants They speak
+Common and their own musical language.  Sylphs are friendly and may (20%)
+befriend adventurers and give them aid in exchange for a favor.
+~
+unique~
+AB EJLTVZb N 200 0
+160 200 13d2400+7200 2d50+50 12d70+190 wrath
+-20 -20 -20 -20
+0 0 BCEGIJPX EHJPZ
+stand stand none 5235
+AHMV ABCDEFGHIJKP medium unknown
+#57715
+humanoid aerial servant~
+An aerial servant~
+A legless humanoid blows a whiff of air at you as you arrive.
+~
+This creature is a form of air elemental native to the plane of elemental
+Air, as well as the Ethereal and Astral planes, and can be summoned to the
+Prime Material plane by clerics.  Normally invisible, if seen on their home
+plane, they resemble legless humanoids of sparkling blue smoke, with empty
+eyes, a slash for a mouth, and long, four-fingered hands.
+~
+unique~
+AB JLTVZ EN 0 0
+160 200 13d1800+7200 2d100+100 12d62+190 none
+-18 -18 -18 -18
+0 Va EGHJXc COPTZ
+stand stand none 5353
+AHMV ABCDEFGHIJK medium unknown
+#57716
+cloud arctic tempest~
+The arctic tempest~
+A raging cloud suddenly approaches you spraying ice!
+~
+This is a variety of tempest found only in arctic regions and some of the
+colder temperate lands The arctic tempest usually uses a hail form of ice
+storm, but may use sleet instead.
+~
+unique~
+ABF JLVZb BCN -340 0
+189 300 13d1900+7500 2d100+100 12d70+200 chill
+-20 -20 -20 -20
+DFK RWb HIJXZ HQUc
+stand stand none 6324
+AHMV ABCDEFGHIJK medium unknown
+#57717
+nereid~
+A voluptuous nereid~
+A stunning beautiful nereid pinches you and grins evilly.
+~
+These creatures from the elemental plane of Water, sometimes called
+"honeyed ones," are unpredictable and playful; half are chaotic neutral, and
+others tend toward good or evil.  Nereids are transparent in water, 95%
+undetectable except as froth and golden seaweed.  Upon contact with air,
+they assume human form, usually as voluptuous young females with long,
+golden hair, pearly white skin, and sparkling green eyes.
+~
+unique~
+ABF JLVZb BCN -200 0
+190 300 13d2200+8000 2d100+100 12d70+200 smash
+-20 -20 -20 -20
+0 RWb HIJXZ HQUc
+stand stand none 6432
+AHMV ABCDEFGHIJK medium unknown
+#57718
+water weird creature~
+A water weird~
+A strange creature made of water roars at you!
+~
+These strange creatures from the plane of Water are hostile when
+encountered on the Prime Material plane, as they are usually magically kept
+from going home.  If communication is achieved, a bargain can sometimes be
+struck with the creature.
+
+~
+unique~
+ABF DJLVZb BCN -204 0
+190 300 13d2200+8000 2d100+100 12d70+200 crush
+-80 -80 -80 -72
+0 RWb HIJXZ HQUc
+stand stand none 6233
+AHMV ABCDEFGHIJK medium unknown
+#57719
+black snowflake~
+A black snowflake~
+A sparkling snowflake in black outlines flies about here.
+~
+This mysterious form of snowflake sparkles mystseriously with strange
+silver textures but is outlined with a blackness about it.  The snowflake is
+designed in a strange evilness about it making you wonder where it might've
+orignated from.
+~
+unique~
+AB JLVZb BCN 4 0
+189 200 13d2200+7000 2d100+100 12d70+200 chill
+-20 -20 -20 -20
+FK RWb HIJXZ HQUc
+stand stand none 6323
+AHMV ABCDEFGHIJK medium unknown
+#57720
+giant cyclops~
+A giant cyclops~
+A large 7 foot one-eyed giant roars at you!
+~
+This huge clumsy one eyed giant stands at about 7 feet and is somewhat
+unfocused in battle.  He sprays horrifying body odor and is hairy all over
+himself.
+~
+cyclops~
+ABF ab CDE -435 0
+200 350 10d50000+1000 2d50+50 10d14+800 crush
+-90 -90 -90 -88
+0 0 HI IJP
+stand stand none 10324
+AHMV ABCDEFGHIJK medium unknown
+#57721
+ettin thing~
+A two-headed ettin~
+A gigantic two-headed thing hangs high above you chasing you!
+~
+This huge giant with two heads are chaotic evil in alignment and take
+nothing from nobody.  Their huge size makes them hover over enemies and
+allow easy damage to inflict when in battle.
+~
+human~
+ABF b BCDE -1000 0
+200 350 10d58000+1000 2d50+50 10d17+1100 crush
+-100 -100 -100 -90
+0 0 0 I
+stand stand none 10432
+AHMV ABCDEFGHIJK medium unknown
+#57722
+eyewing body eyeball wings~
+The Eyewing~
+A huge body of an eyeball with wings flies about here!
+~
+Eyewings are loathsome inhabitants of the Abyss.  They are obedient,
+loyal, and dumb - perfect servitors for the dark gods and their more
+powerful minions.  An eyewing's body is a fat, egg-shaped ball covered with
+matted black fur.  The 5- foot-wide body is supported by a pair of
+five-foot-long leathery bat wings.  Each wing is tipped with a set of three
+razor-sharp talons.  An 8-foot-long rat's tail dangles from the back of the
+body.  The tail ends in a small, sharp spur.  It has no feet and has never
+been known to land.
+
+~
+bat~
+ABF TZ CDE -1000 0
+200 180 10d70000+800 2d50+50 10d18+800 divine
+-90 -90 -90 -80
+FH 0 0 S
+stand stand none 13234
+AGV ACDEFHJKP medium unknown
+#0
+
+
+
+#OBJECTS
+#57700
+blue portal~
+a Bright Blue Portal~
+Your eyes squint as a bright blue portal stands here.~
+unknown~
+portal O 0
+0 0 0 57763 0
+0 0 0 P
+#57701
+fiery red portal~
+a Fiery Red Portal~
+Your eyes squint as a fiery red portal stands here.~
+unknown~
+portal O 0
+0 0 0 57770 0
+0 0 0 P
+#57702
+bright gray portal~
+a Bright Gray Portal~
+Your eyes squint as a fading gray portal stands here.~
+unknown~
+portal O 0
+0 0 0 57752 0
+0 0 0 P
+#57703
+brown portal~
+a Strange Brown Portal~
+Your eyes squint as a shimmering brown portal stands here.~
+unknown~
+portal O 0
+0 0 0 57710 0
+0 0 0 P
+#57704
+set white wings~
+the Flying Wings of the Sylph~
+A giant set of white wings lies here for you to wear.~
+unknown~
+armor AB AX
+23 23 22 20 0
+151 51 5343 P
+A
+14 -100
+A
+5 -3
+A
+13 200
+A
+12 250
+A
+19 80
+A
+18 75
+F
+A 0 0 T
+#57705
+peat hammer~
+a Peat Hammer~
+A humongous peat hammer lies here for you to use.~
+unknown~
+weapon 0 AN
+mace 25 20 crush G
+145 45 9232 P
+A
+19 90
+A
+18 75
+#57706
+white shawl~
+a Long White Shawl~
+A long flowing white shawl lies here unworn and partially dirty.~
+unknown~
+armor B AE
+35 35 35 32 0
+151 61 6433 P
+A
+2 -2
+A
+14 -350
+A
+12 140
+A
+4 4
+A
+18 40
+A
+19 40
+#57707
+iron spiked collar~
+an Iron-Spiked Collar~
+A huge canine collar with sharp spikes is lying here.~
+unknown~
+armor 0 AC
+17 17 17 20 0
+151 40 13233 P
+A
+17 15
+A
+4 -3
+A
+13 55
+A
+19 40
+A
+1 3
+A
+20 -7
+#57708
+battered shield~
+a Battered-Up Shield~
+A large steel shield lies here all battered up.~
+unknown~
+armor 0 AJ
+65 65 65 60 0
+151 96 9923 P
+A
+18 35
+A
+24 -10
+A
+20 -14
+A
+23 -10
+A
+24 -10
+#57709
+club spiked giant ettin mace~
+the Mighty Club of the Ettin~
+A gigantic spiked club from a giant lies here blocking your path.~
+wood~
+weapon ACGMY AN
+mace 12 49 crush EG
+151 70 5400 P
+A
+19 70
+A
+4 -2
+A
+20 -8
+A
+18 80
+A
+13 250
+A
+2 -2
+#57710
+floating eyeball ~
+a Floating Eyeball~
+A huge eyeball floats here watching your every move.~
+unknown~
+armor 0 AQ
+55 55 55 40 0
+151 100 10402 P
+A
+14 -250
+A
+3 4
+A
+9 4
+A
+4 4
+A
+13 -250
+A
+12 400
+A
+24 -10
+A
+20 -10
+A
+19 60
+A
+18 55
+#57711
+escape platinum key~
+an Escape Key~
+A platinum key in leaving this hideous place is lying here.~
+unknown~
+portal 0 A
+0 0 0 0 0
+1 1 0 P
+#57712
+black portal~
+the Black Portal~
+A mysterious black portal stands here humming taking you to...~
+unknown~
+portal O 0
+0 0 0 57706 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#57700
+The Planning Room~
+This is the planning room of the Elemental Caverns area.  For the
+beginning of this area, move to room 57701.  
+~
+0 4 0
+S
+#57701
+Nearing the Mouth of the Cavern~
+A huge hollow cave circles around you as the echoing noises begins to
+carry deeper to the north.  Not much can be seen here but stone walls
+layered around.  The exit lies to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 57702
+S
+#57702
+Entrance of the Cave~
+As you stand here, the disappearance of the light outside suddenly
+darkens a bit as you enter a wide cavern filled with many spiked stalagtites
+and drips of water.  A path starts here and veers here and there headed
+westward while the outside of the cave leaves to the south.  An old SIGN has
+been posted here.
+~
+0 0 0
+E
+sign~
+* * * * * * * * * * * * * * * * * * *
+*                                   *
+* All Rights Reserved. Copyright    *
+* 2000. Elemental Caverns is a      *
+* Rzarecta/Opio/Defari creation.    *
+*                                   *
+* * * * * * * * * * * * * * * * * * *
+              *     *          
+              *     *
+                *   *
+              *******
+~
+D0
+~
+~
+0 0 57703
+D2
+~
+~
+0 0 57701
+S
+#57703
+Inside a Strange Cavern~
+Stalagtites hang from above you as droplets of water began to drip on the
+wet soil here.  Many crusted stones lay along this cavern as you move here
+and there trying to get further in this huge place.  Several small insects
+and creatures scurry about.  An entrance to the cavern can be seen far to
+the south.
+~
+0 8 0
+D0
+~
+~
+0 0 57704
+D2
+~
+~
+0 0 57702
+S
+#57704
+The Cavern's End~
+As you move along the many scattered stones about the cavern, a dead end
+interrupts your passage to move further in.  A huge steel door prevents
+passage to move further north.  The huge door stands about 9-10 feet high
+with the rocky walls layered around you.  The walls are made of ancient hard
+brown chunks of volcanic rock.  The cavern continues back to the south while
+a SIGN is seen beside the door.
+~
+0 8 0
+E
+sign~
+* * * * * * * * * * * * * * *
+*                           *
+* WELCOME TO..              *
+*                           *
+*    YOUR FUTURE            *
+*                           *
+*         RESTING PLACE     *
+*                           *
+* MUAHAHAHAHAHAHAHAHHAHAAH! *
+*                           *
+* * * * * * * * * * * * * * *
+~
+D0
+~
+~
+3 0 57705
+D2
+~
+~
+0 0 57703
+S
+#57705
+A Tightly Fit Room~
+The monstrous steel door to your south suddenly seals SHUT!  The air
+around you suddenly feels shiverishly cold..  Like silent death.  A small
+white misty cloud begins to surround you..  Almost like a stench of fog. 
+The walls around you are stone-layered and sealed close almost squishing
+you.  The only form of light provided in here is the gray skies high high
+above you where a hole in the cavern is seen about 50 feet up.  A small
+shaft lies in the southwestern corner of the room with a dangling rope
+tightly hanging on a huge steel ring sealed to the floor.  This provides the
+only exit other than the locked door to your south.  
+~
+0 8 0
+D5
+~
+~
+0 0 57706
+S
+#57706
+You Fall!!!!!!~
+As you head down...
+ 
+    You suddenly lose grip...
+ 
+ 
+             OHHHH NOOOOOOOOOO!!!!
+ 
+                       YOU ARE FALLINGGGGGG!!!!
+ 
+ 
+CRRRRRRRRASSSSSHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!
+ 
+You find yourself at the bottom of this strange dark place of sorts where
+blood and shattered skeleton bones lie about all over.  A rope hangs high
+above you.. too high to raise you back up where you came from.  There are
+no visible exits seen around but your foot trips over something in the ground.
+~
+0 12 0
+D5
+~
+~
+3 0 57779
+S
+#57707
+Inside A Dungeon~
+This creepy-looking place is filled with strange misty insects swarming
+around you.  Eerie noises from adjacent rooms can be heard as the stench in
+the air shakes you somewhat.  An aging door to the south takes you out of
+here.
+~
+0 8200 0
+D2
+~
+~
+1 0 57783
+S
+#57708
+Inside A Dungeon~
+The walls around this chamber are layered with ancient rocks as a
+cobweb-filled torch perches on each side of you.  AN iron chandelier with
+candles set on each slot hangs high above you in the center of the chamber
+while several shackles attaches itself in the western wall with an old
+skeleton hanging almost shattered in pieces.  An iron door leads out to the
+east.
+~
+0 8200 0
+D1
+~
+~
+1 0 57709
+S
+#57709
+A Passage~
+This is a small dark passage leading west and east here.  An iron door
+with two brown flames hang alongside it to thee west.  From a distance you
+make out a choice of directions to the east.
+~
+0 8200 0
+D1
+~
+~
+0 0 57710
+D3
+~
+~
+1 0 57708
+S
+#57710
+The Dungeons of the Northern Cross (Earth)~
+The magma-made stones separate themselves in patterns to allow passage in
+all four directions.  Several bats scurry above you here and there with no
+notice.  It is deathly quiet all around you as cautiously you scan for any
+signs of trouble.  You almost trip over something in the center of the room.
+ 
+Suddenly a monstrous voice yells, 'WELCOME TO EARTH REALM!'
+ 
+MUAHAHAHAHAHAHAHAHAAHH!
+~
+0 8200 0
+D0
+~
+~
+0 0 57783
+D1
+~
+~
+0 0 57711
+D2
+~
+~
+0 0 57715
+D3
+~
+~
+0 0 57709
+D5
+~
+~
+3 0 57713
+S
+#57711
+A Passage~
+This is a small dark passage leading west and east.  An iron door with
+two strange brown torches hang beside it to the east.  You make out a choice
+of directions to the west.
+~
+0 8200 0
+D1
+~
+~
+1 0 57712
+D3
+~
+~
+0 0 57710
+S
+#57712
+Inside A Dungeon~
+You shudder in horror as blotches of blood splatter about in here.
+Several decapitated heads lie around almost making you vomit in fear.
+Broken weapons and pieces of armor lies battered and torn.  An iron door to
+the west allows you to leave here.  Several green blobs of slime smother an
+old aging barricaded door to the east preventing you to exit that way.
+~
+0 8200 0
+D3
+~
+~
+1 0 57711
+S
+#57713
+The Lair of the Earth Elemental~
+A strong breeze flies about you as dry soil begins to flutter your face
+allowing no visibility in here.  Yours eye vaguely make out dungeon walls as
+the strong blowing winds swirl from a large shaft that goes to the darkness
+below.  The room is dark and somewhat small to have you move around in ease.
+~
+0 12 0
+D5
+~
+~
+0 0 57706
+S
+#57715
+A Passage~
+You lurk in a dark small passage leading north and south here.  An iron
+door with two brown torches hang beside it to the south.  From a distance,
+you make out a choice of directions to the north.
+~
+0 8200 0
+D0
+~
+~
+0 0 57710
+D2
+~
+~
+1 0 57717
+S
+#57717
+Inside A Dungeon~
+Not much is seen around here but several skulls and skeleton bones lying
+in the southeastern corner of the chamber.  A huge vampire bat of sort hangs
+high above you somewhat making you hesitant of being in here.
+~
+0 8200 0
+D0
+~
+~
+1 0 57715
+S
+#57722
+Inside A Fiery Chamber~
+Be weary adventurer!  Flames have consumed the entire chamber here!
+Everything that once was is now charred and scorched into smoldering ashes
+as it seems someone has set this chamber ablaze!  Doors awaay from here can
+be seen all around..  Where will you go?  A door to the east takes out of
+here.
+~
+0 8200 0
+D1
+~
+~
+1 0 57769
+S
+#57727
+Inside A Dungeon~
+A sudden rush of air blows about you from the ceiling way above in the
+darkness as your eyes fade from the debris that comes with the wind.
+Strange torches covered with a crystal-glass hangs on the western and
+eastern wall here.  Nothing else is visible but strange scratchmarks all
+along the walls.  A door to the south exits here.
+~
+0 8 0
+D2
+~
+~
+1 0 57747
+S
+#57732
+Inside A Chamber~
+A trail of blood flows from the western door to the eastern wall here.
+Strange unknown markings are written along the walls here as ice-torches
+hang across the side walls.  Several icicle-crystals stick amongs the icy
+walls here catching your eye as you make a glimpse of your surroundings.
+~
+0 8200 0
+D3
+~
+~
+1 0 57764
+S
+#57740
+A Quiet Passage~
+The western walls seals itself shut mysteriously as a dark passage moves
+eastward here.  A small candle on a small chandlier hangs high above
+illuminating a dim glow in this trail.
+~
+0 8192 0
+D1
+~
+~
+0 0 57741
+S
+#57741
+A Quiet Passage~
+The dark passage leads west and east here with not much light glowing in
+the room.  Several bats fly across into the darkness as a strange grate
+seals shut on the ground here..
+~
+0 8192 0
+D1
+~
+~
+0 0 57742
+D3
+~
+~
+0 0 57740
+D5
+~
+grate~
+1 0 57779
+S
+#57742
+A Quiet Passage~
+The eastern wall seals itself shut mysteriously as a dark passage moves
+westward here.  A small torch on a small chandlier hangs high above
+illuminating a dim glow in this trail.
+~
+0 8192 0
+D3
+~
+~
+0 0 57741
+S
+#57747
+A Passage~
+You walk along a small dark passage leading north and south here.  An
+iron door with two "clear" torches hang beside it to the north.  A slight
+breeze beings to flow about here as you make out a choice of directions
+visible to the south.
+~
+0 8 0
+D0
+~
+~
+1 0 57727
+D2
+~
+~
+0 0 57752
+S
+#57749
+The Lair of the Air Elemental~
+A huge whirlpool-shaped sidewinder spins here forcing your eyes to fade
+in trouble.  Strong whistles of the wind begin to blow as the lair is
+completely empty but a pair of chain linked shackles at the eastern wall.  A
+steel ringknob seals in the center of the lair here.
+~
+0 12 0
+D5
+~
+~
+0 0 57706
+S
+#57750
+Inside A Dungeon~
+The gentle breeze shivers your spine as you find utter silence in here.
+Not much is visible in the dungeon but dust flying about.  An iron door
+exits you to the east.
+~
+0 8 0
+D1
+~
+~
+1 0 57751
+S
+#57751
+A Passage~
+This is a small dark passage leading west and east ehre.  An iron door
+with clear torches hang beside it to the west.  A warm breeze flows from the
+east where a choice of directions is also detected.
+~
+0 8 0
+D1
+~
+~
+0 0 57752
+D3
+~
+~
+1 0 57750
+S
+#57752
+The Dungeons of the Southern Cross (Air)~
+Ancient crusty stones furnish the layerings of the walls around you as
+directions head off every which way into the darkness.  A whistling breeze
+flows about everywhere with dust carrying as well.
+
+A dead body is seen in the corner with a note attached to it.
+Maybe you should read it.
+~
+0 8200 0
+E
+note~
+DIE... VERMIN!
+
+
+YOU CANNOT DEFEAT THE FORCES OF THE AIR ELEMENTS!
+
+
+MUAHAHAHAHAHHAAHHAHAHA!
+~
+D0
+~
+~
+0 0 57747
+D1
+~
+~
+0 0 57753
+D2
+~
+~
+0 0 57755
+D3
+~
+~
+0 0 57751
+D5
+~
+~
+3 0 57749
+S
+#57753
+A Passage~
+This is a small dark passage leading west and east.  AN iron door with
+two 'clear' torches hang beside it to the east.  A strange hot breeze is
+felt to the west where a choice of directions is seen.
+~
+0 8 0
+D1
+~
+~
+1 0 57754
+D3
+~
+~
+0 0 57752
+S
+#57754
+Inside A Dungeon~
+The infestation of bugs and pests is horrifying as you notice many snake
+holes of sorts from the walls around you.  An ambush from these little
+critters is possible though the breeze is the only comfort provided for you
+in here.  Strange unknown markings is seen all over here in scribbles while
+rotting pieces of wood lie scattered here.  An exit is visible to the west.
+~
+0 8 0
+D3
+~
+~
+1 0 57753
+S
+#57755
+A Passage~
+You walk along a small dark passage leading north and south here.  An iron
+door with clear torches hang beside it to the west.  A warm breeze flows
+about in the north where a choice of directions is seen.
+~
+0 8 0
+D0
+~
+~
+0 0 57752
+D2
+~
+~
+1 0 57756
+S
+#57756
+Inside A Dungeon~
+Sickening pieces of meat and body parts lie all over the dungeon as blood
+is splattered all over the walls here.  Chained cuffs are attached on the
+walls for those who need discipline.  The odor in here is so nauseating that
+you want to leave here.  An iron door leaves to the north.
+~
+0 8 0
+D0
+~
+~
+1 0 57755
+S
+#57758
+The Lair of the Water Elemental~
+Drips of water from above begin to fall as this partially flooded lair
+forces you to wade about here.  Iced stalactites loom above you as your
+breath exhales hot steam.  Several snake holes leak of contaminated water as
+you find yourself trapped and wondering where the exit is.  Your feet
+accidentally kicks something as your feet treads the waters.  A drenched
+barred-up door to the east prevents you in trying to move that direction.
+~
+0 8 6
+D1
+~
+~
+1 0 57740
+D5
+~
+~
+0 0 57706
+S
+#57759
+Inside A Chamber~
+THe interesting display of decapitated heads hang around te walls of the
+chamber.  The heads of the human, orc, gnoll, ogre, dwarf, hobgoblin, elf,
+bugbear and bullybug hang on wall-sealed boards as an exhibit to those who
+enter.  A table is seated at the western wall where several candles stand
+beside each end.  A portrait of a human in full-clad uniform is laid in the
+center.  A bloody axe is sliced on the table to prevent anybody from taking
+it.  A huge cloth of some sort hangs on the northern wall as well, while an
+exit to the south takes you out of here.
+~
+0 8200 0
+D2
+~
+~
+1 0 57760
+S
+#57760
+A Passage~
+You walk along a small dark passage headed north and south here.  An iron
+door with two strange blue torches hang beside it to the north.  A choice of
+directions can be visible as you look to the south.  A huge tentacle
+suddenly disappears behind you!
+~
+0 8200 0
+D0
+~
+~
+1 0 57759
+D2
+~
+~
+0 0 57763
+S
+#57761
+Inside A Chamber~
+Strangely, the ceiling above opens up here as the whole western wall is
+layered with rocks.  A huge waterfall from above falls and creates a small
+pond of sorts that flows into a dark cave at the bottom of the western wall.
+The color of the water is somewhat dark and eerie.  The capacity of the room
+is somewhat limited for any physical combat to occur in here.  An exit goes
+to the east.
+~
+0 8200 0
+D1
+~
+~
+1 0 57762
+S
+#57762
+A Passage~
+YOu are walking along a small dark passage leading west and east here.  A
+huge door with two blue torches hang beside it to the west.  You make out a
+choice of directions somewhat visible to the east.
+~
+0 8200 0
+D1
+~
+~
+0 0 57763
+D3
+~
+~
+1 0 57761
+S
+#57763
+The Dungeons of the Western Cross (Water)~
+Sounds of rushing waters are heard in the passages that lead off in all
+four directions.  Several droplets of water leak from the ceiling high above
+you as it reaches into the darkness above.  The echoes of what seems to be
+the sound of the ocean can be heard in all four passages..  Either that or
+you could be hearing things.  Your feet kicks over something as you wade the
+puddles below your feet.
+~
+0 8192 0
+D0
+~
+~
+0 0 57760
+D1
+~
+~
+0 0 57764
+D2
+~
+~
+0 0 57765
+D3
+~
+~
+0 0 57762
+D5
+~
+~
+3 0 57758
+S
+#57764
+A Passage~
+A small dark passage leads west and east here.  An old door with two
+strange blue torches hang beside it to the east.  From a distance, you make
+out a choice of directions to the west.
+~
+0 8200 0
+D1
+~
+~
+1 0 57732
+D3
+~
+~
+0 0 57763
+S
+#57765
+A Passage~
+The dark passage moves north and south here as an icy door with two
+strange blue torches hang beside it to the south.  A choice of directions is
+visible to the north.
+~
+0 8200 0
+D0
+~
+~
+0 0 57763
+D2
+~
+~
+1 0 57766
+S
+#57766
+Inside A Chamber~
+Rocky walls layer the northern portion of the chamber while strange
+glossy windows are seen on the western and southern walls.  The cracks
+around these weak-layered bricks spill of water droplets dampening the
+ground beneath your feet.  A door to the north gets you out of here.
+~
+0 8200 0
+D0
+~
+~
+1 0 57765
+S
+#57767
+Inside A Chamber~
+A huge circular window stands high atop the northern wall where dark
+skies are looming.  Strange clanking noises are heard behind the walls
+around you.  The ground is somewhat hot as drips of fire leak from the
+darkness above making you wonder how something like that could happen.  The
+exit out of here lies to the south.
+~
+0 8200 0
+D2
+~
+~
+1 0 57768
+S
+#57768
+A Passage~
+You creep along a small dark passage leading north and south here.  An
+iron door with two strange orangish-red torches hang beside it to the north.
+A choice of directions can be seen to the south.
+~
+0 8200 0
+D0
+~
+~
+1 0 57767
+D2
+~
+~
+0 0 57770
+S
+#57769
+A Passage~
+A dark passage allows you to move west or east here.  An iron door with
+two reddish-orange torches hang beside it to the west.  A choice of
+directions can be seen to the east.  Several flames burn around you but none
+to threaten or disable movement through here.
+~
+0 8200 0
+D1
+~
+~
+0 0 57770
+D3
+~
+~
+1 0 57722
+S
+#57770
+The Dungeons of the Eastern Cross (Fire)~
+The rocky walls lead into here where exits are possible in all
+directions.  Strange fireflies or sparkles of light slowly fly around you as
+total silence is felt in here.  A somewhat warm breeze fills your body as
+the ceiling looms into the blackness high above where a faint glimpse of the
+gray skies can be seen.  Several small fires blaze along the walls here
+slowly burning the rocks like hot coals.  As you hop somewhat from the
+burning ground..  Your feet almost trips over something.  A fiery SIGN has
+been posted on one of the walls here.
+~
+0 8200 0
+E
+sign~
+FEEL THE FIERY WRATH OF THE
+
+                     CREATURES OF FURY!!!!!
+
+
+MUAHAHAHAHAHAHAHAHAHAHAHAHAHAHH!
+~
+D0
+~
+~
+0 0 57768
+D1
+~
+~
+0 0 57771
+D2
+~
+~
+0 0 57773
+D3
+~
+~
+0 0 57769
+D5
+~
+~
+3 0 57775
+S
+#57771
+A Passage~
+You walk along a dark passage heading west and east.  An iron door with
+two strange reddish-orange torches hang beside it to the east.  A choice of
+directions is foreseeable to the west.
+~
+0 8200 0
+D1
+~
+~
+1 0 57772
+D3
+~
+~
+0 0 57770
+S
+#57772
+Inside A Chamber~
+The entire eastern wall is layered with mountainous rocks as the chamber
+ends here.  Strange blurred portraits are hung on the northern and southern
+walls each too unfocused to see.  An exit out of here is to the west.
+~
+0 8200 0
+D3
+~
+~
+1 0 57771
+S
+#57773
+A Passage~
+This is a small passage that leads north and south here.  An iron door
+with two strange orangish-red torches hang beside it to the south.  From a
+distance, a choice of directions is visible to the north.
+~
+0 8200 0
+D0
+~
+~
+0 0 57770
+D2
+~
+~
+1 0 57774
+S
+#57774
+Inside A Chamber~
+Gibberish howls can be heard around you as your eyes tend to hallucinate
+weird faces of critters surrounding you laughing evilly.  The room is
+covered with blood and spots suddenly making you feel dizzy.  Several
+torches are hung above to fill some light in the room.  An exit takes you
+out to the north while strange markings are encrypted on the southern wall..
+Or is it a door?
+~
+0 8200 0
+D0
+~
+~
+1 0 57773
+S
+#57775
+The Lair of the Fire Elemental~
+Hot flames consume the ground here as the scorching temperatures begins
+to dehydrate you with intensity.  Several broken pieces of wood pile in the
+middle of the room here as a close shaft at the northeastern corner allows
+some sort of passage downward.  Hallucinations of demonic spirits cackle
+above you flying and mocking every move you make.  A barred up door to the
+west prevents any way in that direction.
+~
+0 8 0
+D3
+~
+~
+3 0 57742
+D5
+~
+~
+0 0 57706
+S
+#57777
+Above the Abyssal Grate~
+As you stagger to recover yourself, you notice a strange whirring noise
+around the walls here as a thunderous voice yells,
+
+THERE IS NO ESCAPE MY FRIEND..
+
+              THE WAY DOWN IS YOUR ONLY POSSIBLE DIRECTION!
+
+                          I LOOK FORWARD IN SEEING YOU SLAIN.....
+
+MUAHAHAHAHAHAHAHAHAHAHAHAHAHAAH!
+
+Your grip on the weapon you hold just got tighter.
+~
+0 8201 0
+D5
+~
+grate~
+3 0 57778
+S
+#57778
+The Realms of the Abyss!~
+A gigantic pile of skulls pile up on the southwestern part of this abyss
+as the stone walls begin to cave in closer to disallow much space in
+fighting.  Several black rats scurry across the abyss behind you.  A spark
+of fire lights up on the upper left and right of you as a huge black gate
+leading into the north shoots a bright light almost blinding you.  Several
+cloaked guards stand behind these gates as you wonder where in the world you
+are.
+~
+0 13 0
+E
+sign~
+A FUTURE AREA PROJECT WILL BE MADE
+
+LATER BY DEFARI .. CALLED THE ABYSS.
+~
+S
+#57779
+A Lair~
+The lair turns suddenly cold as you notice a strange ray of light come
+from up above where you came from.  As you scan around the darkness, you
+realize that your voice carries across the dungeon as if the room goes on
+for miles and miles around you.  A small shaft allows you to descend down
+into the mysterious unknown below.  
+~
+0 8200 0
+D4
+~
+~
+3 0 57741
+D5
+~
+~
+0 0 57780
+S
+#57780
+Standing Atop Another Grate~
+This seems like a good place for you to rest as this empty room allows
+you to ease a bit from all that you've gone through.  Not much is special to
+see in this room.  Several squeaking noises like bats are heard flying about
+you in the darkness.  A steel-made grate of sort lies below allowing you to
+descend once again.
+~
+0 8 0
+D5
+~
+grate~
+3 0 57781
+S
+#57781
+A Lair~
+Crusted rocks outline the walls around this deserted lair as a horrible
+smell of burning flesh seems to odorize in here immensely making you almost
+nauseated.  A warm sensation, like someone breathing in here suddenly makes
+this room a bit humid as your curiousity suddenly makes you cautious of what
+could be around you.  A small shaft is here to allow you to flee downward.
+
+~
+0 8200 0
+D4
+~
+~
+3 0 57780
+D5
+~
+~
+0 0 57777
+S
+#57783
+A Passage~
+You walk along a dark passage leading north and south here.  An iron door
+with two strange brown torches hang beside it to the north.  From a
+distance, you make out a choice of directions to the south.
+~
+0 8200 0
+D0
+~
+~
+1 0 57707
+D2
+~
+~
+0 0 57710
+S
+#0
+
+
+
+#SPECIALS
+M 57700 spec_breath_acid
+M 57701 spec_breath_gas
+M 57702 spec_breath_frost
+M 57703 spec_breath_fire
+M 57707 spec_cast_cleric
+M 57708 spec_impale
+M 57709 spec_breath_fire
+M 57710 spec_breath_fire
+M 57711 spec_breath_fire
+M 57712 spec_breath_lightning
+M 57713 spec_breath_fire
+M 57714 spec_cast_cleric
+M 57716 spec_breath_frost
+M 57717 spec_breath_frost
+M 57720 spec_impale
+M 57721 spec_impale
+M 57722 spec_prog2
+S
+
+
+
+#RESETS
+D 0 57704 0 1
+D 0 57706 5 1
+D 0 57707 2 1
+D 0 57708 1 1
+D 0 57709 3 1
+D 0 57710 5 1
+D 0 57711 1 1
+D 0 57712 3 1
+D 0 57715 2 1
+D 0 57717 0 1
+D 0 57722 1 1
+D 0 57727 2 1
+D 0 57732 3 1
+D 0 57741 5 1
+D 0 57747 0 1
+D 0 57750 1 1
+D 0 57751 3 1
+D 0 57752 5 1
+D 0 57753 1 1
+D 0 57754 3 1
+D 0 57755 2 1
+D 0 57756 0 1
+D 0 57758 1 1
+D 0 57759 2 1
+D 0 57760 0 1
+D 0 57761 1 1
+D 0 57762 3 1
+D 0 57763 5 1
+D 0 57764 1 1
+D 0 57765 2 1
+D 0 57766 0 1
+D 0 57767 2 1
+D 0 57768 0 1
+D 0 57769 3 1
+D 0 57770 5 1
+D 0 57771 1 1
+D 0 57772 3 1
+D 0 57773 2 1
+D 0 57774 0 1
+D 0 57775 3 1
+D 0 57777 5 1
+D 0 57779 4 1
+D 0 57780 5 1
+D 0 57781 4 1
+D 0 57783 0 1
+O 0 57700 0 57706
+O 0 57701 0 57706
+O 0 57702 0 57706
+O 0 57703 0 57706
+M 0 57705 2 57707 2
+E 0 57705 0 16
+M 0 57704 2 57708 2
+M 0 57706 2 57712 2
+M 0 57700 1 57713 1
+M 0 57707 2 57717 2
+M 0 57708 2 57722 2
+M 0 57713 2 57727 2
+M 0 57718 2 57732 2
+M 0 57701 1 57749 1
+M 0 57712 2 57750 2
+M 0 57714 2 57754 2
+E 0 57704 0 23
+M 0 57715 2 57756 2
+M 0 57702 1 57758 1
+M 0 57717 2 57759 2
+E 0 57706 0 6
+M 0 57716 2 57761 2
+M 0 57719 2 57766 2
+M 0 57709 2 57767 2
+M 0 57710 2 57772 2
+M 0 57711 2 57774 2
+E 0 57707 0 3
+M 0 57703 1 57775 1
+M 0 57722 1 57778 1
+E 0 57710 0 18
+O 0 57712 0 57778
+M 0 57720 1 57779 1
+E 0 57708 0 20
+M 0 57721 1 57781 1
+E 0 57709 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#57700
+'Enter my domain and die to see your doom!
+emote attacks!!
+~
+#57704
+'The Skriaxits rule this realm!
+'You are a trespasser!!
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

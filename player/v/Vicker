@@ -1,0 +1,967 @@
+#PLAYER
+Name Vicker~
+Race human~
+Levl 42
+Clas ranger~
+Pkpt 100
+TSex 1
+LogO 1353290531
+Sock localhost~
+Titl  at 6 point font{x~
+
+#STAT_BREAK
+
+Id   1352846351
+Plat 21
+Gold 55
+Silv 74
+Exp  866123
+Attr 20 18 18 18 18
+Prom (%e){1<{@%hh %mm %vv{1> {1[{@%q{1]{x ~
+Act  BCDEFGHJQT
+AfBy CDEFGHLTVe
+ShBy BK
+Comm NQ
+Config N
+Pos  8
+Alig  934
+Sk 1 'channel'
+Sk 1 'constitution'
+Sk 1 'cure blindness'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 76 'cure light'
+Sk 75 'cure poison'
+Sk 1 'cure serious'
+Sk 1 'cure weaken'
+Sk 1 'darkvision'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 75 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect neutral'
+Sk 1 'detect poison'
+Sk 75 'detect terrain'
+Sk 1 'farsight'
+Sk 1 'giant strength'
+Sk 1 'glacier'
+Sk 1 'groupheal'
+Sk 1 'growth'
+Sk 1 'haste'
+Sk 1 'heal'
+Sk 1 'identify'
+Sk 1 'incinerate'
+Sk 1 'infravision'
+Sk 1 'intellect'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass healing'
+Sk 75 'refresh'
+Sk 1 'regeneration'
+Sk 1 'thunderbolt'
+Sk 1 'wisdom'
+Sk 1 'wizard eye'
+Sk 76 'axe'
+Sk 1 'berserk'
+Sk 1 'cross slash'
+Sk 15 'dagger'
+Sk 1 'dual wield'
+Sk 1 'engage'
+Sk 1 'fast healing'
+Sk 26 'flail'
+Sk 1 'fourth attack'
+Sk 1 'gash'
+Sk 75 'hand to hand'
+Sk 78 'kick'
+Sk 11 'mace'
+Sk 75 'meditation'
+Sk 1 'parry'
+Sk 75 'polearm'
+Sk 1 'quarterstaff'
+Sk 75 'recall'
+Sk 1 'repair'
+Sk 73 'rescue'
+Sk 1 'rub'
+Sk 75 'scrolls'
+Sk 78 'second attack'
+Sk 1 'shield block'
+Sk 75 'spear'
+Sk 75 'staves'
+Sk 76 'sword'
+Sk 1 'third attack'
+Sk 75 'track'
+Sk 27 'trip'
+Sk 75 'wands'
+Sk 75 'whip'
+MaxDam 124
+LLev 13
+Pass VidoTG86wuvuA~
+Plyd 54355
+Note 0 0 0 0 0
+Room 10350
+HMVN 2759 2759 2151 2151 1312 1312
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 0 0
+Deviant 0 0
+Prac 92
+Trai 46
+Devote current 0
+Pnts 138
+Mkil 130
+Mdea 2
+Gr 'curative'
+Gr 'detection'
+Gr 'elemental'
+Gr 'enhancement'
+Gr 'healing'
+Gr 'ranger basics'
+Gr 'rom basics'
+Gr 'weaponsmaster'
+Affc 'stone skin'   0 106   0   3 -115  17          0
+Affc 'invisibility'   1 100   0   3   0   0          2
+Affc 'haste'   0 103   0   3   3   2    2097152
+Affc 'giant strength'   0 104   0   3   3   1 1073741824
+Affc 'fly'   0 103   0  64   0   0     524288
+Affc 'farsight'   0 107   0   3   0   0       2048
+Affc 'divine aura'   1 100   0   8   0   0       1024
+Affc 'detect neutral'   0 105   0   3   0   0        128
+Affc 'detect magic'   0 107   0   3   0   0         16
+Affc 'detect invis'   0 102   0   3   0   0          8
+Affc 'detect hidden'   0 106   0   3   0   0         32
+Affc 'detect good'   0 101   0   3   0   0         64
+Affc 'detect evil'   0 103   0   3   0   0          4
+End
+
+#O
+Vnum 3703
+Nest 0
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+End
+
+#O
+Vnum 3719
+Nest 0
+Name thothian axe~
+ShD  A Thothian Axe~
+Desc A long Thothian axe lies here lavished with blood.~
+End
+
+#O
+Vnum 3704
+Nest 0
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+End
+
+#O
+Vnum 47003
+Nest 0
+Name sabre sword~
+ShD  {YSabre {bSword{x~
+Desc A shiny sword lies here~
+Loader LOAD: (19:24-10/29/2012) Blaise~
+Cost 0
+End
+
+#O
+Vnum 47003
+Nest 0
+Name sabre sword~
+ShD  {YSabre {bSword{x~
+Desc A shiny sword lies here~
+Loader LOAD: (19:24-10/29/2012) Blaise~
+Cost 0
+End
+
+#O
+Vnum 63903
+Nest 0
+Name sapphire pendant~
+ShD  a {Wsapphire{x pendant~
+Desc A sapphire pendant has been thrown away~
+End
+
+#O
+Vnum 54131
+Nest 0
+Name gnarled spear~
+ShD  a gnarled spear~
+Desc A long gnarled tree branch lies here.~
+End
+
+#O
+Vnum 46006
+Nest 0
+Name {CFlowing Robe{}~
+ShD  {CFlowing Robe{}~
+Desc A {CFlowing robe{} covered in ornate symbols lays here.~
+End
+
+#O
+Vnum 1804
+Nest 0
+Name a black onyx ring~
+ShD  a black onyx ring~
+Desc A black onyx ring brings out the worst in you.~
+End
+
+#O
+Vnum 57826
+Nest 0
+Name ring victory~
+ShD  the Ring of Victory~
+Desc A ring with a huge 'V' layered on top of the ruby shines here.~
+End
+
+#O
+Vnum 57825
+Nest 0
+Name leggings golden shinguards~
+ShD  a pair of golden shinguards~
+Desc A shiny pair of hard-solid golden leggings lie here.~
+End
+
+#O
+Vnum 57824
+Nest 0
+Name dagger jeweled~
+ShD  a Jeweled Dagger~
+Desc A huge dagger with a jewel on the holster lies here gleaming!~
+End
+
+#O
+Vnum 57818
+Nest 0
+Name polearm banzai~
+ShD  the Banzai~
+Desc A notorious shining black polearm lies here.~
+End
+
+#O
+Vnum 1804
+Nest 0
+Name a black onyx ring~
+ShD  a black onyx ring~
+Desc A black onyx ring brings out the worst in you.~
+End
+
+#O
+Vnum 746
+Nest 0
+Name cape normal~
+ShD  cape~
+Desc A cape is here.~
+Loader MPOP: (10:50-11/14/2012) Vicker~
+End
+
+#O
+Vnum 792
+Nest 0
+Name javelin exceptional~
+ShD  exceptional javelin~
+Desc A javelin is here.~
+Loader MPOP: (10:52-11/14/2012) Vicker~
+Cost 1500
+Affc 'reserved' 2 1 -1 1 5 0
+End
+
+#O
+Vnum 723
+Nest 0
+Name veil normal~
+ShD  veil~
+Desc A veil is here.~
+Loader MPOP: (11:06-11/14/2012) Vicker~
+Wear 20
+End
+
+#O
+Vnum 70065
+Nest 0
+Name water pail~
+ShD  a water pail~
+Desc Someone has left a pail of water here.~
+Valu 1 13 4
+End
+
+#O
+Vnum 3500
+Nest 0
+Name sword short~
+ShD  a goblin's short sword~
+Desc A rusted sword lies on the ground.~
+End
+
+#O
+Vnum 3500
+Nest 0
+Name sword short~
+ShD  a goblin's short sword~
+Desc A rusted sword lies on the ground.~
+End
+
+#O
+Vnum 3504
+Nest 0
+Name bracer leather enchanted~
+ShD  an enchanted leather bracer~
+Desc A leather bracer with mystic symbols sits here.~
+Wear 14
+End
+
+#O
+Vnum 3022
+Nest 0
+Name sword long~
+ShD  a {rm{ma{Mg{Ri{Mc{ma{rl {mq{Mu{ma{rr{Rt{Mer{Rs{rt{ma{Mf{mf{x~
+Desc A {rm{ma{Mg{Ri{Mc{ma{rl {mq{Mu{ma{rr{Rt{Mer{Rs{rt{ma{Mf{mf{x hums with power.~
+End
+
+#O
+Vnum 705
+Nest 0
+Name leather armor normal~
+ShD  leather armor~
+Desc Leather armor is here.~
+Loader MPOP: (08:42-11/15/2012) Vicker~
+Wear 5
+End
+
+#O
+Vnum 733
+Nest 0
+Name boots exceptional~
+ShD  exceptional boots~
+Desc Boots are here.~
+Loader MPOP: (08:43-11/15/2012) Vicker~
+Cost 1500
+Wear 8
+Valu 1 7 8
+Valu 4 7 10
+Affc 'reserved' 2 1 -1 1 2 0
+End
+
+#O
+Vnum 3074
+Nest 0
+Name skirt scale mail~
+ShD  a long scale mail skirt~
+Desc A long scale mail skirt is lying on the ground.~
+Wear 7
+End
+
+#O
+Vnum 809
+Nest 0
+Name Drake's strap the Fool special~
+ShD  Drake's strap of the Fool~
+Desc A strap is here.~
+Loader MPOP: (11:25-11/17/2012) Vicker~
+Lev  47
+Cost 1500
+Affc 'reserved' 2 20 -1 50 12 0
+Affc 'reserved' 2 20 -1 -2 3 0
+End
+
+#O
+Vnum 17228
+Nest 0
+Name metal sword~
+ShD  a {7M{0e{8t{0a{7l S{0w{8o{0r{7d{0~
+Desc A small metal sword rests on the ground.~
+End
+
+#O
+Vnum 3072
+Nest 0
+Name jerkin scale mail~
+ShD  a scale mail jerkin~
+Desc A scale mail jerkin is lying on the ground.~
+End
+
+#O
+Vnum 9504
+Nest 0
+Name awl pike awl-pike~
+ShD  an {8awl-pike{x~
+Desc An awl pike lies here.~
+End
+
+#O
+Vnum 9521
+Nest 0
+Name splinted shield~
+ShD  a {3splinted {7shield{x~
+Desc A splinted shield lies here.~
+Wear 11
+End
+
+#O
+Vnum 812
+Nest 0
+Name staff exceptional~
+ShD  exceptional staff~
+Desc A staff is here.~
+Loader MPOP: (10:46-11/18/2012) Vicker~
+Cost 1500
+Valu 3 5 pyre
+Affc 'reserved' 2 1 -1 2 3 0
+End
+
+#O
+Vnum 9536
+Nest 0
+Name backpack back pack~
+ShD  a {3backpack{x~
+Desc A backpack lies here~
+Wear 12
+End
+
+#O
+Vnum 9543
+Nest 1
+Name iron rations~
+ShD  some {^iron rations{x~
+Desc A tin of iron rations lies here.~
+End
+
+#O
+Vnum 9543
+Nest 1
+Name iron rations~
+ShD  some {^iron rations{x~
+Desc A tin of iron rations lies here.~
+End
+
+#O
+Vnum 9543
+Nest 1
+Name iron rations~
+ShD  some {^iron rations{x~
+Desc A tin of iron rations lies here.~
+End
+
+#O
+Vnum 3165
+Nest 1
+Name map dwarven kingdom dwarf~
+ShD  a map of the Dwarven Kingdom~
+Desc A rolled up map is here.~
+Cost 630
+End
+
+#O
+Vnum 3166
+Nest 1
+Name map moria first~
+ShD  a map of the first level of Moria~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3164
+Nest 1
+Name map southern abandoned city~
+ShD  a map of the southern part of the abandoned city~
+Desc A rolled up map is here.~
+Cost 675
+End
+
+#O
+Vnum 3169
+Nest 1
+Name map thera~
+ShD  a map of Eastern Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3163
+Nest 1
+Name map thera~
+ShD  a map of Western Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3162
+Nest 1
+Name map new midgaard~
+ShD  A map of New Midgaard~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3011
+Nest 1
+Name bubble gum ice cream~
+ShD  {Mbu{mbb{Mle {mg{Mu{mm {Mi{mc{Me {mcr{Me{mam{x~
+Desc A triple scoop of {Mbu{mbb{Mle {mg{Mu{mm {Mi{mc{Me {mcr{Me{mam{x is in a huge bowl.~
+End
+
+#O
+Vnum 3011
+Nest 1
+Name bubble gum ice cream~
+ShD  {Mbu{mbb{Mle {mg{Mu{mm {Mi{mc{Me {mcr{Me{mam{x~
+Desc A triple scoop of {Mbu{mbb{Mle {mg{Mu{mm {Mi{mc{Me {mcr{Me{mam{x is in a huge bowl.~
+End
+
+#O
+Vnum 3011
+Nest 1
+Name bubble gum ice cream~
+ShD  {Mbu{mbb{Mle {mg{Mu{mm {Mi{mc{Me {mcr{Me{mam{x~
+Desc A triple scoop of {Mbu{mbb{Mle {mg{Mu{mm {Mi{mc{Me {mcr{Me{mam{x is in a huge bowl.~
+End
+
+#O
+Vnum 3011
+Nest 1
+Name bubble gum ice cream~
+ShD  {Mbu{mbb{Mle {mg{Mu{mm {Mi{mc{Me {mcr{Me{mam{x~
+Desc A triple scoop of {Mbu{mbb{Mle {mg{Mu{mm {Mi{mc{Me {mcr{Me{mam{x is in a huge bowl.~
+End
+
+#O
+Vnum 3011
+Nest 1
+Name bubble gum ice cream~
+ShD  {Mbu{mbb{Mle {mg{Mu{mm {Mi{mc{Me {mcr{Me{mam{x~
+Desc A triple scoop of {Mbu{mbb{Mle {mg{Mu{mm {Mi{mc{Me {mcr{Me{mam{x is in a huge bowl.~
+End
+
+#O
+Vnum 4609
+Nest 1
+Name grey skeleton key~
+ShD  a long thin grey key~
+Desc A long, thin, grey skeleton key has been lost.~
+End
+
+#O
+Vnum 9586
+Nest 0
+Name sledge hammer~
+ShD  a {3sledge hammer{x~
+Desc A sledge hammer lies here.~
+End
+
+#O
+Vnum 9513
+Nest 0
+Name scimitar~
+ShD  a {&scimitar{x~
+Desc A scimitar lies here.~
+End
+
+#O
+Vnum 1514
+Nest 0
+Name skiff~
+ShD  a skiff~
+Desc A small skiff is here.~
+Loader LOAD: (10:50-11/18/2012) Locke~
+End
+
+#O
+Vnum 4612
+Nest 0
+Name bent rusty helm~
+ShD  bent rusty helm~
+Desc A bent rusty helm has fallen to the wayside.~
+End
+
+#O
+Vnum 4612
+Nest 0
+Name bent rusty helm~
+ShD  bent rusty helm~
+Desc A bent rusty helm has fallen to the wayside.~
+End
+
+#O
+Vnum 47
+Nest 0
+Name bag~
+ShD  a paper bag~
+Desc A small paper bag.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 70034
+Nest 0
+Name blood-filled tooth blood~
+ShD  a blood-filled tooth of a beastly fido~
+Desc A blood-filled tooth of a beasty fido is here.~
+Loader LOAD: (11:40-11/18/2012) Locke~
+End
+
+#O
+Vnum 6745
+Nest 0
+Name sword of dreams~
+ShD  {&S{8word of {WD{8reams{x~
+Desc A glimmering sword lies here.~
+Loader CLON: (22:46-11/15/2012) Blaise~
+ExtF AX
+Wear 16
+End
+
+#PET
+Vnum 62083
+Name falcon~
+LogO 1353290531
+ShD  A giant falcon~
+LnD  A giant falcon cicles the skies here.
+~
+Desc Shining lustre, this falcon makes a worth companion.
+A neck tag says '{cI belong to Locke{x'.
+~
+Sex  1
+Levl 128
+HMV  9943 9943 9347 9347 100 100
+Gold 40
+Silv 67
+Pos  8
+Alig -1
+ACs  -457 -494 -435 -520
+Attr 35 35 35 35 35
+AMod 0 0 0 0 0
+Affc 'detect invis'   0 117  -1   0   0          8
+Affc 'detect hidden'   0 117  -1   0   0         32
+Affc 'infravision'   0 117  -1   0   0        512
+Affc 'farsight'   0 117  -1   0   0       2048
+Affc 'fly'   0 117  -1   0   0     524288
+Affc 'regeneration'   0 117  -1   0   0  268435456
+Affc 'fireshield'   1 117  -1   0   0          8
+Affc 'detect invis'   0 128  -1   0   0          8
+Affc 'detect hidden'   0 128  -1   0   0         32
+Affc 'infravision'   0 128  -1   0   0        512
+Affc 'farsight'   0 128  -1   0   0       2048
+Affc 'fly'   0 128  -1   0   0     524288
+Affc 'regeneration'   0 128  -1   0   0  268435456
+Affc 'fireshield'   1 128  -1   0   0          8
+Affc 'detect invis'   0 125  -1   0   0          8
+Affc 'detect hidden'   0 125  -1   0   0         32
+Affc 'infravision'   0 125  -1   0   0        512
+Affc 'farsight'   0 125  -1   0   0       2048
+Affc 'fly'   0 125  -1   0   0     524288
+Affc 'regeneration'   0 125  -1   0   0  268435456
+Affc 'fireshield'   1 125  -1   0   0          8
+Affc 'detect invis'   0 126  -1   0   0          8
+Affc 'detect hidden'   0 126  -1   0   0         32
+Affc 'infravision'   0 126  -1   0   0        512
+Affc 'farsight'   0 126  -1   0   0       2048
+Affc 'fly'   0 126  -1   0   0     524288
+Affc 'regeneration'   0 126  -1   0   0  268435456
+Affc 'fireshield'   1 126  -1   0   0          8
+Affc 'detect invis'   0 130  -1   0   0          8
+Affc 'detect hidden'   0 130  -1   0   0         32
+Affc 'infravision'   0 130  -1   0   0        512
+Affc 'farsight'   0 130  -1   0   0       2048
+Affc 'fly'   0 130  -1   0   0     524288
+Affc 'regeneration'   0 130  -1   0   0  268435456
+Affc 'fireshield'   1 130  -1   0   0          8
+Affc 'detect invis'   0 131  -1   0   0          8
+Affc 'detect hidden'   0 131  -1   0   0         32
+Affc 'infravision'   0 131  -1   0   0        512
+Affc 'farsight'   0 131  -1   0   0       2048
+Affc 'fly'   0 131  -1   0   0     524288
+Affc 'regeneration'   0 131  -1   0   0  268435456
+Affc 'fireshield'   1 131  -1   0   0          8
+Affc 'detect invis'   0 117  -1   0   0          8
+Affc 'detect hidden'   0 117  -1   0   0         32
+Affc 'infravision'   0 117  -1   0   0        512
+Affc 'farsight'   0 117  -1   0   0       2048
+Affc 'fly'   0 117  -1   0   0     524288
+Affc 'regeneration'   0 117  -1   0   0  268435456
+Affc 'fireshield'   1 117  -1   0   0          8
+Affc 'detect invis'   0 124  -1   0   0          8
+Affc 'detect hidden'   0 124  -1   0   0         32
+Affc 'infravision'   0 124  -1   0   0        512
+Affc 'farsight'   0 124  -1   0   0       2048
+Affc 'fly'   0 124  -1   0   0     524288
+Affc 'regeneration'   0 124  -1   0   0  268435456
+Affc 'fireshield'   1 124  -1   0   0          8
+Affc 'detect invis'   0 118  -1   0   0          8
+Affc 'detect hidden'   0 118  -1   0   0         32
+Affc 'infravision'   0 118  -1   0   0        512
+Affc 'farsight'   0 118  -1   0   0       2048
+Affc 'fly'   0 118  -1   0   0     524288
+Affc 'regeneration'   0 118  -1   0   0  268435456
+Affc 'fireshield'   1 118  -1   0   0          8
+Affc 'detect invis'   0 140  -1   0   0          8
+Affc 'detect hidden'   0 140  -1   0   0         32
+Affc 'infravision'   0 140  -1   0   0        512
+Affc 'farsight'   0 140  -1   0   0       2048
+Affc 'fly'   0 140  -1   0   0     524288
+Affc 'regeneration'   0 140  -1   0   0  268435456
+Affc 'fireshield'   1 140  -1   0   0          8
+Affc 'fireshield'   1 128  -1   0   0          8
+Affc 'regeneration'   0 128  -1   0   0  268435456
+Affc 'fly'   0 128  -1   0   0     524288
+Affc 'farsight'   0 128  -1   0   0       2048
+Affc 'infravision'   0 128  -1   0   0        512
+Affc 'detect hidden'   0 128  -1   0   0         32
+Affc 'detect invis'   0 128  -1   0   0          8
+Affc 'fireshield'   1 128  -1   0   0          8
+Affc 'regeneration'   0 128  -1   0   0  268435456
+Affc 'fly'   0 128  -1   0   0     524288
+Affc 'farsight'   0 128  -1   0   0       2048
+Affc 'infravision'   0 128  -1   0   0        512
+Affc 'detect hidden'   0 128  -1   0   0         32
+Affc 'detect invis'   0 128  -1   0   0          8
+Affc 'fireshield'   1 129  -1   0   0          8
+Affc 'regeneration'   0 129  -1   0   0  268435456
+Affc 'fly'   0 129  -1   0   0     524288
+Affc 'farsight'   0 129  -1   0   0       2048
+Affc 'infravision'   0 129  -1   0   0        512
+Affc 'detect hidden'   0 129  -1   0   0         32
+Affc 'detect invis'   0 129  -1   0   0          8
+Affc 'fireshield'   1 121  -1   0   0          8
+Affc 'regeneration'   0 121  -1   0   0  268435456
+Affc 'fly'   0 121  -1   0   0     524288
+Affc 'farsight'   0 121  -1   0   0       2048
+Affc 'infravision'   0 121  -1   0   0        512
+Affc 'detect hidden'   0 121  -1   0   0         32
+Affc 'detect invis'   0 121  -1   0   0          8
+Affc 'fireshield'   1 121  -1   0   0          8
+Affc 'regeneration'   0 121  -1   0   0  268435456
+Affc 'fly'   0 121  -1   0   0     524288
+Affc 'farsight'   0 121  -1   0   0       2048
+Affc 'infravision'   0 121  -1   0   0        512
+Affc 'detect hidden'   0 121  -1   0   0         32
+Affc 'detect invis'   0 121  -1   0   0          8
+Affc 'fireshield'   1 141  -1   0   0          8
+Affc 'regeneration'   0 141  -1   0   0  268435456
+Affc 'fly'   0 141  -1   0   0     524288
+Affc 'farsight'   0 141  -1   0   0       2048
+Affc 'infravision'   0 141  -1   0   0        512
+Affc 'detect hidden'   0 141  -1   0   0         32
+Affc 'detect invis'   0 141  -1   0   0          8
+Affc 'fireshield'   1 138  -1   0   0          8
+Affc 'regeneration'   0 138  -1   0   0  268435456
+Affc 'fly'   0 138  -1   0   0     524288
+Affc 'farsight'   0 138  -1   0   0       2048
+Affc 'infravision'   0 138  -1   0   0        512
+Affc 'detect hidden'   0 138  -1   0   0         32
+Affc 'detect invis'   0 138  -1   0   0          8
+Affc 'fireshield'   1 119  -1   0   0          8
+Affc 'regeneration'   0 119  -1   0   0  268435456
+Affc 'fly'   0 119  -1   0   0     524288
+Affc 'farsight'   0 119  -1   0   0       2048
+Affc 'infravision'   0 119  -1   0   0        512
+Affc 'detect hidden'   0 119  -1   0   0         32
+Affc 'detect invis'   0 119  -1   0   0          8
+Affc 'fireshield'   1 138  -1   0   0          8
+Affc 'regeneration'   0 138  -1   0   0  268435456
+Affc 'fly'   0 138  -1   0   0     524288
+Affc 'farsight'   0 138  -1   0   0       2048
+Affc 'infravision'   0 138  -1   0   0        512
+Affc 'detect hidden'   0 138  -1   0   0         32
+Affc 'detect invis'   0 138  -1   0   0          8
+Affc 'fireshield'   1 138  -1   0   0          8
+Affc 'regeneration'   0 138  -1   0   0  268435456
+Affc 'fly'   0 138  -1   0   0     524288
+Affc 'farsight'   0 138  -1   0   0       2048
+Affc 'infravision'   0 138  -1   0   0        512
+Affc 'detect hidden'   0 138  -1   0   0         32
+Affc 'detect invis'   0 138  -1   0   0          8
+Affc 'fireshield'   1 136  -1   0   0          8
+Affc 'regeneration'   0 136  -1   0   0  268435456
+Affc 'fly'   0 136  -1   0   0     524288
+Affc 'farsight'   0 136  -1   0   0       2048
+Affc 'infravision'   0 136  -1   0   0        512
+Affc 'detect hidden'   0 136  -1   0   0         32
+Affc 'detect invis'   0 136  -1   0   0          8
+End
+

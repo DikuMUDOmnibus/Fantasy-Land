@@ -1,0 +1,1911 @@
+#AOD_AREA
+Z: Great Glacier~
+30550 30699 C 9
+Levl 99 151
+Bldr Belmkr~
+End
+
+#MOBILES
+#30550
+green slime~
+{@Gr{2ee{8n S{2li{@me{x~
+{6A large {@gr{2ee{8n s{8li{@me {6slides along the floor{x
+~
+Slithering along the floor this is often unmistakable from a normal
+puddle of water.  In fact in near total darkness it is often not even seen
+untill the hapless victim steps on it and its true horrific nature is
+revealed.  These slimes where left down here to breed and run rampant to not
+only deter invaders, but to also clean up any waste products that may have
+accumulated.  
+~
+human~
+0 50 0 150 0 150 100 100 100 100 100 100 50 0 100 100 100 50 0 100 50 100 100 100 100 100 
+AFGMNT DF BDE 0 0
+120 224 0 8471 9153 8957 9166 26 29 293 acbite
+-358 -306 -394 -352
+STANDING STANDING neutral 4048
+0 mage medium ABCDEFGHIJK
+
+#30551
+Crystal statue golem~
+{6Cr{7ys{&tal G{7ol{6em{x~
+{6A {&cr{7ys{8tal st{7at{&ue {6towers above you.{x
+~
+Nearly indistinguishable from a normal crystal statue, this is instead an
+artificially animated construct known as a golem.  Formed of powerfull
+magics and ancient formulas, these golems are often assigned nearly any sort
+of task and will carry them out untill death or destruction even long after
+their masters have perished.  Totally mindless and with extreme strength
+make these perfect guardians.  
+~
+human~
+50 50 0 0 0 150 150 100 100 100 100 150 50 0 50 100 100 50 0 100 50 100 100 100 100 100 
+ABT DFZc CH 0 0
+115 450 0 9035 9079 9035 9068 10 10 250 chill
+-250 -250 -250 -250
+STANDING STANDING neutral 0
+0 mage large ABCDEFGHIJK
+M FIGHT 30552 30~
+M FIGHT 30553 5~
+M GRALL 30551 65~
+
+#30552
+glass golem~
+{4G{$l{8as{7s G{8ol{$e{4m{x~
+{6A {4g{$l{7as{8s st{7at{$u{4e {6towers above you.{x
+~
+This is a magical construct formed of what looks like etched and delicate
+glass.  Shaped into a large masculine figure wielding a glass sword this is
+a marvel of magical prowess and artistic development.  A mindless guardian
+that moves silently and swiftly, it moves to strike at you without sound.  
+~
+human~
+50 50 0 0 0 100 150 100 150 100 100 50 50 0 100 100 100 50 0 100 50 100 100 100 100 100 
+AGT DFc CH 0 0
+120 238 0 8206 9796 8925 9396 30 30 225 shock
+-474 -462 -431 -400
+STANDING STANDING neutral 5442
+0 mage large ABCDEFGHIJK
+M GRALL 30554 75~
+
+#30553
+Steel Golem~
+{6St{7ee{6l G{7ol{6em{x~
+{6An enormous {6st{7ee{6l g{7ol{6em towers above you{x
+~
+This huge monstrosity looks fashioned from a single sheet of solid steel
+etched and formed into the shape of an armored warrior.  Bearing a silver
+sword of enormous size and covered with glowing runes of power, this beast
+fills you with a sense of terror to the core of your being.  
+~
+human~
+50 50 0 0 0 100 150 100 0 100 0 100 50 0 100 100 100 50 0 100 50 100 100 100 100 100 
+ABFT DFTc BCH 0 0
+130 296 0 9752 10645 9853 10853 27 36 275 acbite
+-523 -514 -436 -525
+STANDING STANDING neutral 5551
+0 mage large ABCDEFGHIJK
+
+#30554
+guardian warrior~
+guardian warrior~
+{8The most elite of the guardians stands here blocking your path{x
+~
+Bound by magic and fate, this warrior has survived in a perpetual state
+of living, not quite alive, yet not undead, this warrior blocks your path
+forward.  Skilled in all forms of combat, it is protected by many forms of
+intricate and ancient magic making his death that much further away.  
+~
+human~
+0 50 0 0 0 50 0 100 0 100 0 150 50 0 100 100 100 50 0 100 50 100 100 100 100 100 
+ABFT DFTc BCEH 0 0
+135 266 0 9628 11305 10267 11257 34 34 240 flame
+-444 -550 -574 -482
+STANDING STANDING neutral 5365
+0 mage large ABCDEFGHIJK
+
+#30555
+phantasmal image~
+{5Ph{6an{7ta{&sma{7l I{6ma{5ge{x~
+{6A {5sw{6ir{7li{&ng {7ph{6an{5ta{8sm{7al {6image floats before you{x
+~
+This looks vaguely like a ethereal human, formed of the essence of the
+different outer planes and bound as a guardian it is not happy.  Moving with
+liquid grace and heart wrenching beauty and wielding a magical whip of
+snakes, this being will not let you by untill defeated.  
+~
+human~
+0 50 0 0 0 0 0 100 0 100 0 150 50 0 100 100 100 50 0 50 50 0 0 100 100 100 
+ABMNT DFTVc CDEHNO 0 0
+140 273 0 9871 11851 9798 11783 40 32 321 divine
+-506 -413 -402 -518
+STANDING STANDING neutral 5949
+0 mage huge ABCDEFGHIJK
+M EXALL 30558 3~
+M GRALL 30557 100~
+
+#30556
+Ulutiu the Wanderer~
+{8Ul{7ut{&iu {6the {8Wan{7de{&rer{x~
+{8Ul{7ut{&iu {6the {8Wan{7der{&er {6stands here fixed in an undying gaze.{x
+~
+Ulutiu was once a tall and proud being, bearing the facial tattoo's of a
+long ancient race that roamed the different worlds searching for their
+homes.  Blessed with an inate magical talent that far exceeded the sorcerers
+of today he could shape the world to suit him, but was content to ride this
+ancient barge through the frijid waters.  Now in a strange sort of magical
+sleep his body continues to move as if alive, controlled by the intense
+magical currents and desire to live that flowed through his veins eons ago. 
+~
+human~
+0 0 0 0 0 0 0 100 0 100 100 150 100 0 100 100 100 150 0 0 0 0 0 100 100 100 
+ABFT DFTVc CDEHNO 0 0
+155 346 0 10440 11871 11007 12754 39 32 335 wrath
+-441 -553 -533 -571
+STANDING STANDING male 5897
+0 mage large ABCDEFGHIJK
+M FIGHT 30556 10~
+M FIGHT 30555 10~
+M DEATH 30559 50~
+M EXALL 30560 2~
+
+#30557
+chained warrior~
+{5Ch{6ai{7ne{&d W{7ar{6ri{5or{x~
+{8A large warrior stands here in chains{x
+~
+Once this warrior was a guardian of the barge, protecting against
+intruders who have gotten past the golems.  Now this feeble warrior stands
+in a perpetual state of undeath continuing his duties untill released by
+death.  
+~
+human~
+50 50 0 0 0 0 50 100 0 100 100 50 50 0 100 100 100 50 0 100 50 100 100 100 100 100 
+ABFT DFPTVc BCDEHNO 0 0
+130 269 0 9795 10984 9717 9949 36 34 225 wrath
+-401 -386 -393 -436
+STANDING STANDING neutral 4491
+0 mage large ABCDEFGHIJK
+#0
+
+#OBJECTS
+#30550
+crystal pile~
+crystal Pile~
+A pile of crystal scales lies here.~
+trash AX A
+0 0 0 0 0
+1 0 50670
+
+#30551
+glowing lever~
+glowing lever~
+A large glowing lever is inset into the wall.~
+trash AX 0
+ABDFGIJKMNO 0 0 0 0
+101 0 0
+E
+lever~
+This lever is an odd shaft of metal inset into the frozen wall, yet seems
+to pivot and move easily.  Unsure of how to operate this strange device,
+perhaps actually pulling on the lever might open a secret chamber, or
+release some knowledge that could be usefull.  
+~
+
+#30552
+A glowing mirror~
+a glowing mirror~
+A silver lined mirror is set into the frozen wall here.~
+trash X 0
+BCFGIJKMNO 0 0 0 0
+0 0 0
+E
+mirror~
+Rubbing away the frost you gaze into the mirror.  Staring back at you is
+a twisted and horribly distored version of yourself.  Your image seems to
+twist and grin at you as you turn away horrified.  
+~
+E
+silver~
+Rubbing away the frost you gaze into the mirror.  Staring back at you is
+a twisted and horribly distored version of yourself.  Your image seems to
+twist and grin at you as you turn away horrified.  
+~
+
+#30553
+petrified table~
+{xPetrified Table{x~
+A long ago petrified table rests here.~
+trash X 0
+BFGIJKMNO 0 0 0 0
+101 0 0
+E
+table~
+Once a large oaken table, time has taken its toll on everything turning
+the hard wood into stone.  
+~
+
+#30554
+gnarled wand~
+{2Gn{8ar{7le{&d w{2an{7d{x~
+A knotted wooden wand lies here.~
+wand AXY AO
+200 5 3 '(null)' 0
+50 10 5060
+
+#30555
+staff of the arch magi~
+{3St{#a{3ff{& of the {#Ar{3ch{6-{3Ma{#gi{0~
+A large staff glowing with powerfull runes lies here.~
+weapon ABGHMSXY AN
+exotic 17 19 magic AB
+140 20 15405
+A 13 150
+A 12 400
+A 20 -5
+A 3 3
+
+#30556
+wand of frost~
+{7Wa{&nd {$o{4f {$F{&ro{7st{x~
+A frost covered wand lies here humming.~
+wand AGSXY AO
+150 10 5 '(null)' 0
+90 10 70023
+A 4 2
+A 13 100
+A 12 100
+
+#30557
+glowing white potion~
+{#Gl{3ow{#in{3g {7Wh{&it{8e P{7ot{&ion{x~
+A glowing white potion sits here~
+potion XY AO
+110 '' 'bless' 'reserved' 'reserved'
+101 10 0
+
+#30558
+silver broadsword~
+{&A s{7ilv{*e{&r b{6r{&oa{*d{7swo{&rd{0~
+A long silver sword lies here.~
+weapon AGXY AN
+sword 15 16 silver ABDE
+101 20 0
+A 12 150
+A 13 150
+A 19 20
+A 18 20
+E
+silver~
+Forged of pure silver and honed by the finest smiths in all the realms. 
+These swords where created, and lost, centuries ago and even though lost,
+their power is the stuff legends are created of.  
+~
+
+#30559
+silver scroll~
+{6Si{8l{7ve{&r S{7cr{8ol{6l{x~
+A scroll etched into silver lies here.~
+scroll GXY A
+150 'remove curse' 'reserved' 'reserved' 'reserved'
+90 0 0
+E
+scroll~
+Formed from a sheet of beaten silver, flexible as paper, but strong
+enough to withstand centuries in icy conditions.  Etched with runes of power
+and ancient magic, this scroll has fallen to disuse over time.  
+~
+
+#30560
+etched scroll~
+{#Et{3ch{#ed {2Sc{#ro{3ll{x~
+An etched scroll of ancient magics lies here.~
+scroll AXY A
+110 '' '' '' 'reserved'
+101 10 90870
+
+#30562
+Vial of the Elements~
+{2Vi{@a{7l o{&f t{$h{4e{$ E{&le{7me{@n{2ts{x~
+A tiny vial containing all the elements lies here.~
+potion ABXY AO
+200 '' '' '' ''
+101 10 0
+
+#30563
+healing salve~
+{6He{8a{7li{&ng {7Sa{8l{6ve{x~
+A vial of strange healing balm lies here~
+pill ABXY AO
+250 'cure disease' 'cure blindness' 'cure poison' 'cure critical'
+101 10 0
+
+#30564
+Mystical whip of snakes~
+{$M{&ys{*ti{&ca{$l {*whi{&p of {7li{*vi{7ng {&sna{*kes{0~
+A magical whip of writhing snakes slithers along the ground here.~
+weapon CESXY AN
+whip 16 17 thwack ABCDGH
+101 10 500
+A 19 25
+A 18 15
+A 20 -25
+A 12 300
+A 13 175
+A 17 -25
+
+#30565
+mystical doorway~
+{$My{4st{7ic{&al D{7oo{4rw{$ay{x~
+{6A {7sh{&im{8me{7ri{&ng {$Mys{4ti{7ca{&l{7 Do{4or{$way {6stands here{x~
+portal X 0
+9999 0 0 30571 0
+110 0 0
+E
+doorway~
+Staring into the magical doorway the fog gradually parts allowing a view
+of what lies beyond.  More of the magical flux can be seen in the halls
+beyond as well as a sense of forboding dread as the magic becomes more
+focused and intense.  
+~
+E
+mystical~
+Staring into the magical doorway the fog gradually parts allowing a view
+of what lies beyond.  More of the magical flux can be seen in the halls
+beyond as well as a sense of forboding dread as the magic becomes more
+focused and intense.  
+~
+
+#30566
+Sliding Switch~
+{6Sliding Switch{x~
+{6A large sliding switch is imbedded into the wall here.{x~
+trash GX 0
+CEFGIJKMNO 0 0 0 0
+110 0 0
+
+#30567
+runed key~
+{$R{!u{&n{$e{!d {&k{$e{!y{x~
+A runed key lies here leading deeper into the bowels of the barge.~
+key CXY AO
+0 0 0 0 0
+110 10 0
+
+#30568
+blue lever~
+blue lever~
+{6A {3g{#l{7o{&w{7i{#n{3g {$b{4lu{$e {6lever is set into the wall here{x~
+trash AX 0
+ACDEFGIJKMNO 0 0 0 0
+0 0 0
+
+#30569
+red lever~
+glowing red lever~
+{6A {3g{#l{7o{&w{7i{#n{3g {!r{1e{!d {6lever is set into the wall here{x~
+trash AX 0
+BFGIJKMNO 0 0 0 0
+110 0 0
+
+#30570
+white lever~
+glowing white lever~
+{6A {3g{#l{7o{&w{7i{#n{3g {7w{&hit{7e {6lever is set into the wall here{x~
+trash AX 0
+ABCDEFGIJKMNO 0 0 0 0
+110 0 0
+
+#30571
+shifting grey doorway~
+shifting grey doorway~
+{6A {2ma{@g{7i{&c{7a{@l{2ly {6sh{8ift{7in{&g {8g{6re{8y {6doorway stands here{x~
+portal CX 0
+9999 0 0 30550 0
+110 0 0
+
+#30572
+black hole~
+black hole~
+{8A roaring {6bl{8ac{7k h{8ol{6e s{8hi{&ft{7s a{8nd writhes here{x~
+portal CFX 0
+9999 0 0 30590 0
+110 0 0
+
+#30573
+glowing rip~
+glowing rip in reality~
+{6A {2g{@l{7o{&w{7i{#n{2g {6rip in the fabric of reality moves about the room{x~
+portal AX 0
+9999 0 0 30564 0
+110 0 0
+
+#30574
+glowing yellow lever~
+glowing yellow lever~
+{6A {2g{@l{7o{&w{7i{@n{2g {#y{3e{#ll{3o{#w {6lever is set into the wall here{x~
+trash AX 0
+ABCDEFGIJKMNO 0 0 0 0
+110 0 0
+
+#30575
+glowing green lever~
+glowing green lever~
+{6A {2g{@l{7o{&w{7i{@n{2g {@g{2re{@en {6lever is set into the wall here{x~
+trash AX 0
+BCEGIJKMNO 0 0 0 0
+110 0 0
+
+#30576
+glowing white lever~
+glowing white lever~
+{6A {2g{@l{7o{&w{7i{@n{2g {&wh{7i{&te {6lever is set into the wall here{x~
+trash AX 0
+ACFGIJKMNO 0 0 0 0
+110 0 0
+
+#30577
+silver chest~
+{6Si{8l{7ve{&r {7Ch{8e{6st{x~
+{6A si{8l{7ve{&r {7ch{8e{6st lies here{x~
+container CX 0
+50000 AC 0 5000 5000
+110 0 0
+
+#30578
+unknown reality rip~
+unknown reality~
+{x~
+portal X 0
+9999 0 0 30598 0
+110 0 0
+E
+unknown~
+Gazing into the unknown reality causes your head to spin with the endless
+possiblities that lie before you.  From alternate worlds to magic that has
+never been glimpsed by mortal eyes, the sheer weight of the entire nexus of
+worlds is something that cannot be looked into for long you realize as you
+look away quickly.  
+
+Such difficult descisions, to chance the unknow, or backtrack into something
+familiar, the choice is yours alone to decide.  
+~
+E
+reality~
+Gazing into the unknown reality causes your head to spin with the endless
+possiblities that lie before you.  From alternate worlds to magic that has
+never been glimpsed by mortal eyes, the sheer weight of the entire nexus of
+worlds is something that cannot be looked into for long you realize as you
+look away quickly.  
+
+Such difficult descisions, to chance the unknow, or backtrack into something
+familiar, the choice is yours alone to decide.  
+~
+E
+rip~
+Gazing into the unknown reality causes your head to spin with the endless
+possiblities that lie before you.  From alternate worlds to magic that has
+never been glimpsed by mortal eyes, the sheer weight of the entire nexus of
+worlds is something that cannot be looked into for long you realize as you
+look away quickly.  
+
+Such difficult descisions, to chance the unknown, or backtrack into
+something familiar, the choice is yours alone to decide.  
+~
+
+#30579
+ethereal portal~
+ethereal Portal~
+{6An {8e{6the{8re{6al do{8orwa{6y fad{7es i{&n a{8nd {6out of view{x~
+portal CFX 0
+9999 0 0 3014 0
+110 0 0
+E
+ethereal~
+Staring into the grey fog that leads into the ethereal plane you are
+struck with an intense revelation.  The way forward is not through the known
+paths, but through the taking of chances and the launching of onself into
+the unknown blackness.  
+
+To enter the ethereal plane will mean to abandon the exploration of such a
+grand treasure, a way out for cowards and fools.  
+~
+E
+doorway~
+Staring into the grey fog that leads into the ethereal plane you are
+struck with an intense revelation.  The way forward is not through the known
+paths, but through the taking of chances and the launching of onself into
+the unknown blackness.  
+
+To enter the ethereal plane will mean to abandon the exploration of such a
+grand treasure, a way out for cowards and fools.  
+~
+
+#30580
+Arcane Stone~
+{6A{8r{7ca{&ne S{7to{8n{6e{x~
+A stone that holds ancient arcane powers lies here.~
+treasure ABGX AO
+0 0 0 0 0
+1 0 0
+E
+stone~
+Holding the stone seems unremarkable, its a perfectly rounded and
+polished smooth grey stone.  Peering into it the grey seems to clear and
+shimmering facets of the rainbow assail your eyes.  Untold magical powers
+have been bound into this unremarkable stone causing it to be the catalyst
+for world shaking magic.  Magic of the gods is not for mortal usage and
+insanity or worse soon results.  Ages past Ulutiu crafted this stone
+centuries ago to harness the godly power and take some of the strain off of
+a mortals shoulders.  Use it wisely for the magic it contains is all
+powerfull.  
+~
+E
+arcane~
+Holding the stone seems unremarkable, its a perfectly rounded and
+polished smooth grey stone.  Peering into it the grey seems to clear and
+shimmering facets of the rainbow assail your eyes.  Untold magical powers
+have been bound into this unremarkable stone causing it to be the catalyst
+for world shaking magic.  Magic of the gods is not for mortal usage and
+insanity or worse soon results.  Ages past Ulutiu crafted this stone
+centuries ago to harness the godly power and take some of the strain off of
+a mortals shoulders.  Use it wisely for the magic it contains is all
+powerfull.  
+~
+#0
+
+#ROOMS
+#30550
+{4-{$+{4- {8Entr{7anc{&e to an Ancie{7nt B{8arge {4-{$+{4-{x~
+Once an ancient barg floating that sailed endlessly in the great southern
+ocean.  Many eons ago a powerfull sorcerer commanded vast powers to shape
+the very existence of the earth.  Centuries ago this powerful being neared
+his death and sought to die on the barg he had lived centuries upon.  His
+magic flowed from his dying breath and coated the barg in ice where it came
+to rest on the floor of the great ocean.  Unfortunetly his magic worked to
+well as the great ocean began to freeze and become an enormous glacier. 
+Just recently due to cataclysmic weather paterns the entrance to this long
+forgoten barg and its secret treasures has come into view of the world. 
+What wonders exist beyond this point, surely more than one man can behold,
+but noone has been able to best the timeless guardians that lie within.  
+~
+524297 0
+D0
+~
+~
+0 0 30551
+D4
+~
+~
+0 0 2357
+S
+
+#30551
+{4-{$+{4- {8Bef{7ore {&the Froze{7n Do{8ors {4-{$+{4-{x~
+To the north is blocked by a massive set of iron doors long since frozen
+shut.  Nearly fifty feet high, these doors are nearly impasable to normal
+means and only exceptional strength can pry these monstrosities open.  A
+soft humming more felt in your mind than heard aloud comes from beyond and a
+thick sheen of ice coats everything with its icy grip.  
+~
+9 0
+D0
+~
+~
+ABG 0 30552
+D2
+~
+~
+0 0 30550
+S
+
+#30552
+{4-{$+{4- {8Fr{7oz{&en Hal{7lw{8ay {4-{$+{4-{x~
+This hallway was once a wide hallway leading carrying guests and members
+of the crew to various places on the barg.  Now nothing remains but a
+hallway coated in uniform white snow, piles of frost blown in from your
+entrance eddy in the frozen air.  Your breath comes in harsh gasps that
+cloud the air in front of your face, the air seems to suck the very warmth
+from each pore of your body.  Truely this is the coldest you have ever been,
+and one cannot fathom that there is anything alive on this desolate place.  
+~
+524300 0
+D1
+~
+~
+0 0 30558
+D2
+~
+~
+ABG 0 30551
+D3
+~
+~
+0 0 30553
+S
+
+#30553
+{4-{$+{4- {8Fr{7oz{&en Hal{7lw{8ay {4-{$+{4-{x~
+This hallway was once a wide hallway leading carrying guests and members
+of the crew to various places on the barg.  Now nothing remains but a
+hallway coated in uniform white snow, piles of frost blown in from your
+entrance eddy in the frozen air.  Your breath comes in harsh gasps that
+cloud the air in front of your face, the air seems to suck the very warmth
+from each pore of your body.  Truely this is the coldest you have ever been,
+and one cannot fathom that there is anything alive on this desolate place.  
+~
+524297 0
+D0
+~
+~
+0 0 30555
+D1
+~
+~
+0 0 30552
+D3
+~
+~
+0 0 30554
+S
+
+#30554
+{4-{$+{4- {8Cir{7cu{7lar Ch{7am{8ber {4-{$+{4-{x~
+This chamber seems to be a perfect circle and lined with ridges that
+extend from the floor to the ceiling.  Brief and flickering pulses of light
+run around the room in a clockwise motion and pulse with all the colors of
+the rainbow.  An exquisite silver ringed mirror sits flush into the wall and
+seems to be where the pulsing lights originate from.  
+~
+13 0
+D1
+~
+~
+0 0 30553
+S
+
+#30555
+{4-{$+{4- {8Fr{7oz{&en Hal{7lw{8ay {4-{$+{4-{x~
+This hallway was once a wide hallway leading carrying guests and members
+of the crew to various places on the barg.  Now nothing remains but a
+hallway coated in uniform white snow, piles of frost blown in from your
+entrance eddy in the frozen air.  Your breath comes in harsh gasps that
+cloud the air in front of your face, the air seems to suck the very warmth
+from each pore of your body.  Truely this is the coldest you have ever been,
+and one cannot fathom that there is anything alive on this desolate place.  
+~
+524297 0
+D0
+~
+~
+0 0 30556
+D2
+~
+~
+0 0 30553
+S
+
+#30556
+{4-{$+{4- {8Bef{7ore {&a Lighted C{7ham{8ber {4-{$+{4-{x~
+This chamber is well lighted and barely covered with a frozen blue sheen
+making the floor and walls shimmer with the light of your torch.  The air
+humms and shifts around you with a strange warbling noise that makes your
+eyes water and head pound.  
+~
+524297 0
+D2
+~
+~
+0 0 30555
+D3
+~
+~
+0 0 30557
+S
+
+#30557
+{4-{$+{4- {8Li{7gh{&ted Cha{7mb{8er {4-{$+{4-{x~
+This chamber its a huge vaulted monstrosity that towers fifty feet or
+more over your head.  Strange, you only shouldn't be far underground,
+distances seem to be distorted as if the lines of magical reality are
+breaking down over the long centuries.  A long petrified table stands before
+you and is the only feature of note here in this dead end chamber.  
+~
+524333 0
+D1
+~
+~
+0 0 30556
+S
+
+#30558
+{4-{$+{4- {8Fr{7oz{&en Hal{7lw{8ay {4-{$+{4-{x~
+This hallway was once a wide hallway leading carrying guests and members
+of the crew to various places on the barg.  Now nothing remains but a
+hallway coated in uniform white snow, piles of frost blown in from your
+entrance eddy in the frozen air.  Your breath comes in harsh gasps that
+cloud the air in front of your face, the air seems to suck the very warmth
+from each pore of your body.  Truely this is the coldest you have ever been,
+and one cannot fathom that there is anything alive on this desolate place.  
+~
+526345 0
+D0
+~
+~
+0 0 30559
+D1
+~
+~
+0 0 30561
+D3
+~
+~
+0 0 30552
+S
+
+#30559
+{4-{$+{4- {8Fr{7oz{&en Hal{7lw{8ay {4-{$+{4-{x~
+This hallway was once a wide hallway leading carrying guests and members
+of the crew to various places on the barg.  Now nothing remains but a
+hallway coated in uniform white snow, piles of frost blown in from your
+entrance eddy in the frozen air.  Your breath comes in harsh gasps that
+cloud the air in front of your face, the air seems to suck the very warmth
+from each pore of your body.  Truely this is the coldest you have ever been,
+and one cannot fathom that there is anything alive on this desolate place.  
+~
+526345 0
+D1
+~
+~
+0 0 30560
+D2
+~
+~
+0 0 30558
+S
+
+#30560
+{4-{$+{4- {8Fr{7oz{&en Hal{7lw{8ay {4-{$+{4-{x~
+This hallway was once a wide hallway leading carrying guests and members
+of the crew to various places on the barg.  Now nothing remains but a
+hallway coated in uniform white snow, piles of frost blown in from your
+entrance eddy in the frozen air.  Your breath comes in harsh gasps that
+cloud the air in front of your face, the air seems to suck the very warmth
+from each pore of your body.  Truely this is the coldest you have ever been,
+and one cannot fathom that there is anything alive on this desolate place.  
+~
+526345 0
+D2
+~
+~
+0 0 30561
+D3
+~
+~
+0 0 30559
+S
+
+#30561
+{4-{$+{4- {8Fr{7oz{&en Hal{7lw{8ay {4-{$+{4-{x~
+This hallway was once a wide hallway leading carrying guests and members
+of the crew to various places on the barg.  Now nothing remains but a
+hallway coated in uniform white snow, piles of frost blown in from your
+entrance eddy in the frozen air.  Your breath comes in harsh gasps that
+cloud the air in front of your face, the air seems to suck the very warmth
+from each pore of your body.  Truely this is the coldest you have ever been,
+and one cannot fathom that there is anything alive on this desolate place.  
+~
+526345 0
+D0
+~
+~
+0 0 30560
+D3
+~
+~
+0 0 30558
+S
+
+#30562
+{4-{$+{4- {8Tra{7pp{&ed in th{7e D{8ark {4-{$+{4-{x~
+{8Alone in the darkness that seems to penetrate the core of your being
+causes your breath to quicken and heart to race faster and faster.  All
+around comes a strange and unatural slithering noise.  The air is so cold
+that very quickly your skin is covered in a layer of frost and the harsh
+gasping of your breath comes in white plumes.  Along the floor slithers
+green slimes that deal with intruders and garbage in the same way, by
+digesting them.  {x 
+~
+41 0
+D2
+~
+~
+0 0 30565
+D3
+~
+~
+0 0 30563
+S
+
+#30563
+{4-{$+{4- {8Tra{7pp{&ed in th{7e D{8ark {4-{$+{4-{x~
+{8Alone in the darkness that seems to penetrate the core of your being
+causes your breath to quicken and heart to race faster and faster.  All
+around comes a strange and unatural slithering noise.  The air is so cold
+that very quickly your skin is covered in a layer of frost and the harsh
+gasping of your breath comes in white plumes.  Along the floor slithers
+green slimes that deal with intruders and garbage in the same way, by
+digesting them.  {x 
+~
+41 0
+D1
+~
+~
+0 0 30562
+D2
+~
+~
+0 0 30564
+S
+
+#30564
+{4-{$+{4- {8Tra{7pp{&ed in th{7e D{8ark {4-{$+{4-{x~
+{8Alone in the darkness that seems to penetrate the core of your being
+causes your breath to quicken and heart to race faster and faster.  All
+around comes a strange and unatural slithering noise.  The air is so cold
+that very quickly your skin is covered in a layer of frost and the harsh
+gasping of your breath comes in white plumes.  Along the floor slithers
+green slimes that deal with intruders and garbage in the same way, by
+digesting them.  {x 
+~
+41 0
+D0
+~
+~
+0 0 30563
+D1
+~
+~
+0 0 30565
+S
+
+#30565
+{4-{$+{4- {8Tra{7pp{&ed in th{7e D{8ark {4-{$+{4-{x~
+{8Alone in the darkness that seems to penetrate the core of your being
+causes your breath to quicken and heart to race faster and faster.  All
+around comes a strange and unatural slithering noise.  The air is so cold
+that very quickly your skin is covered in a layer of frost and the harsh
+gasping of your breath comes in white plumes.  Along the floor slithers
+green slimes that deal with intruders and garbage in the same way, by
+digesting them.  {x 
+~
+41 0
+D0
+~
+~
+0 0 30562
+D3
+~
+~
+0 0 30564
+S
+
+#30566
+{4-{$+{4- {8Col{7la{&psed Ha{7ll{8way {4-{$+{4-{x~
+This was a wide hallway leading to places unknown in the ship, now its
+mostly collapsed from the weight of the frozen metal and distruption of the
+magical flow.  The ship seems more a living creature that breathes and
+consumes the magical flow of energy than an inanimate object.  The golems
+that guard this hallway seem to be in tune with the very structure of the
+ship and move to intercept you wherever one goes.  
+~
+525368 0
+D2
+~
+~
+0 0 30567
+S
+
+#30567
+{4-{$+{4- {8Lig{7ht{&ed Ha{7ll{8way {4-{$+{4-{x~
+Walking carefully down the hallway magical lighting illuminates every
+step with a brilliant shine.  The frozen metal creaks and crackles at every
+step and the ship itself seems to hum with a magical essense.  The golem
+guardians of this area grow gradually stronger, yet even they are not immune
+to the ravages of time and some stand frozen and unable to move.  The only
+exits are back from where you came, or further into the depths of the barge
+itself.  
+~
+524296 0
+D0
+~
+~
+0 0 30566
+D2
+~
+~
+0 0 30568
+S
+
+#30568
+{4-{$+{4- {8Cu{7rv{&ed Hal{7lw{8ay {4-{$+{4-{x~
+Walking along this narrow hallway you become aware of the gradual
+downward slope that is present.  A strange whining noise penetrates your
+brain and makes your eyes water.  Is the noise an alarm of sorts, or mearly
+the breakdown on the magical current that flows through the entire ship? 
+One thing is for certain, the guardians are very much standing at the ready
+to repel any intruders.  
+~
+524296 0
+D0
+~
+~
+0 0 30567
+D1
+~
+~
+0 0 30569
+S
+
+#30569
+{4-{$+{4- {8Bef{7ore{& a Plush C{7ham{8ber {4-{$+{4-{x~
+This chamber at one time held the waiting guests entertained before
+Ulutiu could speak with them.  Although infrequent, visitors where often
+extremely powerfull beings that travelled the planes of existance by the
+sheer power of their minds.  Many times those guests came to beg forgiveness
+for a wrong, or to get advice from the Ulutiu himself.  Much power has
+passed through these walls and the residual energy is enough to make even
+the most world shaking sorcerer quake with fear.  
+~
+525352 0
+D2
+~
+~
+0 0 30570
+D3
+~
+~
+0 0 30568
+S
+
+#30570
+{4-{$+{4- {8Pl{7us{&h Cha{7mb{8er {4-{$+{4-{x~
+This room was once a plush chamber where the infrequent visitors where
+entertained by Ulutiu directly.  Not only deeply frozen, now the room is
+ripped and twisted by strange magical currents that seem to pull together in
+a magical doorway.  The door seems to flex and bend with a rythyn very
+similiar to breathing, a strong tearing sensation overcomes you as the rip
+threatens to pull you into the unknown.  
+~
+524296 0
+D0
+~
+~
+0 0 30569
+S
+
+#30571
+{4-{$+{4- {8Shi{7mm{&ering Ha{7ll{8way {4-{$+{4-{x~
+Standing before an enormous crystaline walkway that seems to be suspended
+over nothingness is unnerving.  Your breath comes in frozen plumes and the
+sounds of the frozen barge warming to your precense fills the air There is
+no exits except to walk out onto the catwalk, either exit this ship or
+continue, hesitation allows mistakes and mistakes bring death in an unknown
+environment.  
+~
+524300 0
+D1
+~
+~
+0 0 30572
+S
+
+#30572
+{4-{$+{4- {8Cry{7st{&aline Pa{7th{8way {4-{$+{4-{x~
+Peering over the edge of the suspended walkway no discernable bottom can
+be seen.  Formed of a solid steel mesh and covered with a thick layer of ice
+makes walking hazardous.  The weight of your footfalls cause the metal to
+sway gently and creak alarmingly.  The age of the metal is uncertain, and
+the centuries of being frozen makes walking an uncertain descision. 
+Occasionally you can hear the whisper soft movements of the mindless glass
+golems that guard the walkway.  
+~
+524296 0
+D2
+~
+~
+0 0 30573
+D3
+~
+~
+0 0 30571
+S
+
+#30573
+{4-{$+{4- {8Cry{7st{&aline Pa{7th{8way {4-{$+{4-{x~
+Peering over the edge of the suspended walkway no discernable bottom can
+be seen.  Formed of a solid steel mesh and covered with a thick layer of ice
+makes walking hazardous.  The weight of your footfalls cause the metal to
+sway gently and creak alarmingly.  The age of the metal is uncertain, and
+the centuries of being frozen makes walking an uncertain descision. 
+Occasionally you can hear the whisper soft movements of the mindless glass
+golems that guard the walkway.  
+~
+524297 0
+D0
+~
+~
+0 0 30572
+D2
+~
+~
+0 0 30574
+S
+
+#30574
+{4-{$+{4- {8Cry{7st{&aline Pa{7th{8way {4-{$+{4-{x~
+Peering over the edge of the suspended walkway no discernable bottom can
+be seen.  Formed of a solid steel mesh and covered with a thick layer of ice
+makes walking hazardous.  The weight of your footfalls cause the metal to
+sway gently and creak alarmingly.  The age of the metal is uncertain, and
+the centuries of being frozen makes walking an uncertain descision. 
+Occasionally you can hear the whisper soft movements of the mindless glass
+golems that guard the walkway.  
+~
+524297 0
+D0
+~
+~
+0 0 30573
+D1
+~
+~
+0 0 30575
+S
+
+#30575
+{4-{$+{4- {8Cry{7st{&aline Pa{7th{8way {4-{$+{4-{x~
+Peering over the edge of the suspended walkway no discernable bottom can
+be seen.  Formed of a solid steel mesh and covered with a thick layer of ice
+makes walking hazardous.  The weight of your footfalls cause the metal to
+sway gently and creak alarmingly.  The age of the metal is uncertain, and
+the centuries of being frozen makes walking an uncertain descision. 
+Occasionally you can hear the whisper soft movements of the mindless glass
+golems that guard the walkway.  
+~
+524297 0
+D0
+~
+~
+0 0 30576
+D3
+~
+~
+0 0 30574
+S
+
+#30576
+{4-{$+{4- {8To{7we{&r o{7f I{8ce {4-{$+{4-{x~
+Walking through the frozen hallways you suddenly come to what might have
+once been an enormous chamber but looks to have been collapsed by a gigantic
+tower of ice.  Upon closer examination this was not a tower constructed of
+ice, more a huge metal cylindar that extends from deep into the depths of
+the barge to above the surface that has become frozen by the intense cold
+that has filled the entire ship for centuries.  The only exits are to
+squeeze around the tower on either side.  
+~
+526345 0
+D0
+~
+~
+0 0 30579
+D1
+~
+~
+0 0 30577
+D2
+~
+~
+0 0 30575
+S
+
+#30577
+{4-{$+{4- {8To{7we{&r o{7f I{8ce {4-{$+{4-{x~
+Walking through the frozen hallways you suddenly come to what might have
+once been an enormous chamber but looks to have been collapsed by a gigantic
+tower of ice.  Upon closer examination this was not a tower constructed of
+ice, more a huge metal cylindar that extends from deep into the depths of
+the barge to above the surface that has become frozen by the intense cold
+that has filled the entire ship for centuries.  The only exits are to
+squeeze around the tower on either side.  
+~
+526345 0
+D0
+~
+~
+0 0 30578
+D3
+~
+~
+0 0 30576
+S
+
+#30578
+{4-{$+{4- {8Rip{7 in t{&he Ic{7y To{8wer {4-{$+{4-{x~
+Squeezing around the frozen tower it suddenly opens into a jagged rip in
+the metal itself.  Magically constructed and enhanced golems mindlessly
+protect the ship from any intruders throughout the eons.  A large sliding
+switch is imbedded into the wall, yet looks as if it will move easily, if
+you can deal with the guardians that will attempt to destroy any intruders. 
+So far none of the vast treasures that could be in here have been located,
+perhaps they are deeper within the ship, or hidden.  
+~
+526344 0
+D2
+~
+~
+0 0 30577
+D3
+~
+~
+0 0 30579
+S
+
+#30579
+{4-{$+{4- {8To{7we{&r o{7f I{8ce {4-{$+{4-{x~
+Walking through the frozen hallways you suddenly come to what might have
+once been an enormous chamber but looks to have been collapsed by a gigantic
+tower of ice.  Upon closer examination this was not a tower constructed of
+ice, more a huge metal cylindar that extends from deep into the depths of
+the barge to above the surface that has become frozen by the intense cold
+that has filled the entire ship for centuries.  The only exits are to
+squeeze around the tower on either side.  
+~
+526345 0
+D1
+~
+~
+0 0 30578
+D2
+~
+~
+0 0 30576
+S
+
+#30580
+{4-{$+{4- {8Dee{7p Wit{&hin t{7he B{8arge {4-{$+{4-{x~
+Travelling through this darkened hallway deep within the barge you become
+aware of a strange humming noise that seems to get louder the deeper in you
+move.  Magical energy runs through the walls making your skin prickle and
+your head hurt.  Flashing pulsating lights seem to lead you deeper into the
+ship.  Large steel golems wielding enormous broadswords guard the area with
+magical speed and stealth.  The air seems to be warmer as well and glancing
+down the floor is strangely free of ice as are the walls.  
+~
+524297 0
+D0
+~
+~
+0 0 30581
+S
+
+#30581
+{4-{$+{4- {8Dee{7p Wit{&hin t{7he B{8arge {4-{$+{4-{x~
+Travelling through this darkened hallway deep within the barge you become
+aware of a strange humming noise that seems to get louder the deeper in you
+move.  Magical energy runs through the walls making your skin prickle and
+your head hurt.  Flashing pulsating lights seem to lead you deeper into the
+ship.  Large steel golems wielding enormous broadswords guard the area with
+magical speed and stealth.  The air seems to be warmer as well and glancing
+down the floor is strangely free of ice as are the walls.  
+~
+524297 0
+D0
+~
+~
+0 0 30582
+D2
+~
+~
+0 0 30580
+S
+
+#30582
+{4-{$+{4- {8Dee{7p Wit{&hin t{7he B{8arge {4-{$+{4-{x~
+Travelling through this darkened hallway deep within the barge you become
+aware of a strange humming noise that seems to get louder the deeper in you
+move.  Magical energy runs through the walls making your skin prickle and
+your head hurt.  Flashing pulsating lights seem to lead you deeper into the
+ship.  Large steel golems wielding enormous broadswords guard the area with
+magical speed and stealth.  The air seems to be warmer as well and glancing
+down the floor is strangely free of ice as are the walls.  
+~
+524297 0
+D1
+~
+~
+0 0 30583
+D2
+~
+~
+0 0 30581
+S
+
+#30583
+{4-{$+{4- {8Dee{7p Wit{&hin t{7he B{8arge {4-{$+{4-{x~
+Travelling through this darkened hallway deep within the barge you become
+aware of a strange humming noise that seems to get louder the deeper in you
+move.  Magical energy runs through the walls making your skin prickle and
+your head hurt.  Flashing pulsating lights seem to lead you deeper into the
+ship.  Large steel golems wielding enormous broadswords guard the area with
+magical speed and stealth.  The air seems to be warmer as well and glancing
+down the floor is strangely free of ice as are the walls.  
+~
+524297 0
+D1
+~
+~
+0 0 30584
+D3
+~
+~
+0 0 30582
+S
+
+#30584
+{4-{$+{4- {8Dee{7p Wit{&hin t{7he B{8arge {4-{$+{4-{x~
+Travelling through this darkened hallway deep within the barge you become
+aware of a strange humming noise that seems to get louder the deeper in you
+move.  Magical energy runs through the walls making your skin prickle and
+your head hurt.  Flashing pulsating lights seem to lead you deeper into the
+ship.  Large steel golems wielding enormous broadswords guard the area with
+magical speed and stealth.  The air seems to be warmer as well and glancing
+down the floor is strangely free of ice as are the walls.  
+~
+524297 0
+D2
+~
+~
+0 0 30585
+D3
+~
+~
+0 0 30583
+S
+
+#30585
+{4-{$+{4- {8Befo{7re t{&he Seal{7ed G{8ates {4-{$+{4-{x~
+Standing before you blocking the way forward are a set of enormous gates
+completely crafted of intricately carved obsidian and reinforced with steel.
+The way can barely be seen through the pillars of obsidian due to the
+magical aura that is visible around the gate itself.  A huge warrior dressed
+in decorated platemail tries to rush to attack you and is restrained by the
+chain attaching it to the enormous gate.  Make no mistake, if you get within
+his range he will attack and make every attempt to kill you out of sheer
+insanity due to centuries of the gradual decay of its mind.  This is the
+only way forward so its a dilemma, to fight or leave..  
+~
+526344 0
+D0
+~
+~
+0 0 30584
+D2
+~
+~
+ABCFG 30567 30586
+E
+gates~
+Standing before you is a marvel of ancient construction.  Crafted of
+polished and gleaming obsidian in the shape of thirteen pitch black pillars
+that rise from the floor to ceiling.  Intertwinned steel runs between the
+obsidian creating intricate loops and designs unlike any that has been seen
+before.  Magical power seems to run through every inch of this gate securing
+it and forcing the need for a key of sorts.  
+~
+E
+sealed~
+Standing before you is a marvel of ancient construction.  Crafted of
+polished and gleaming obsidian in the shape of thirteen pitch black pillars
+that rise from the floor to ceiling.  Intertwinned steel runs between the
+obsidian creating intricate loops and designs unlike any that has been seen
+before.  Magical power seems to run through every inch of this gate securing
+it and forcing the need for a key of sorts.  
+~
+S
+
+#30586
+{4-{$+{4- {8Shi{7fti{&ng En{7try{8way {4-{$+{4-{x~
+Once past the obsidian gates the entire ship seems to be different.  The
+air, while still cold, seems to be heated enough where your breath cannot be
+seen.  No ice coats the floor and hangs from the ceiling, the golems and
+guardians seem to be quicker and stronger.  The reality of the ship itself
+seems to be twisted in some odd way.  The air shimmers as if one was in a
+desert, the walls seem to bend and sway, even strangely colored lights blink
+on and off with no apparent patern.  
+~
+526344 0
+D0
+~
+~
+ABCFG 0 30585
+D1
+~
+~
+0 0 30587
+S
+
+#30587
+{4-{$+{4- {8Pul{7si{&ng Ha{7ll{8way {4-{$+{4-{x~
+This hallway curves to the south, yet the walls seem to press and fold
+inward before swaying back out giving a naueseating sense of vertigo.  The
+floor seems to buck and sway, yet bending down to steady yourself its
+obvious there is no motion in the floor.  The magical talent used in this
+construction of these hallucinations is quite well constructed to fool each
+of your senses as they have.  
+~
+526345 0
+D2
+~
+~
+0 0 30588
+D3
+~
+~
+0 0 30586
+S
+
+#30588
+{4-{$+{4- {8Desc{7end{&ing into th{7e De{8pths {4-{$+{4-{x~
+A dead end, nowhere else to turn except back from whence you came.  The
+only distinguishing feature in this room is three levers of three different
+colors that are inset into the wall.  Touching one it seems to thrum and
+vibrate against your hand, and they look as if they will pull smoothly.  Now
+comes the descision, do you turn back to relative safety, or do you pull a
+lever and take your chances at a vast treasure.  If you pull a lever then
+which one, such choices, only the most intelligent and brave adventurers
+will pass these challenges and escape unscathed, be warned.  
+~
+526376 0
+D0
+~
+~
+0 0 30587
+S
+
+#30589
+{4-{$+{4- {8Cons{7tan{&tly Shift{7ing {8Room {4-{$+{4-{x~
+{6This place is not a real place in the sense of reality.  It was created
+from the sheer will of Ulutiu who commanded vast magical powers beyond even
+the wildest speculations.  From forming rips in reality to move about as he
+wished, to creating vast extradimensional areas as he saw fit was a tiny
+measure of his talent.  Rips and cracks in the fabric of reality shift
+around you, even the walls and ceilings of the room seem to be nothing more
+than a mist substance.  Perhaps one of these rips will lead further down, or
+perhaps one will lead to death..  {x 
+~
+134742060 0
+S
+
+#30590
+{4-{$+{4- {8Cons{7tan{&tly Shift{7ing {8Room {4-{$+{4-{x~
+{6This place is not a real place in the sense of reality.  It was created
+from the sheer will of Ulutiu who commanded vast magical powers beyond even
+the wildest speculations.  From forming rips in reality to move about as he
+wished, to creating vast extradimensional areas as he saw fit was a tiny
+measure of his talent.  Rips and cracks in the fabric of reality shift
+around you, even the walls and ceilings of the room seem to be nothing more
+than a mist substance.  Perhaps one of these rips will lead further down, or
+perhaps one will lead to death..  {x 
+~
+134742061 0
+S
+
+#30591
+{4-{$+{4- {8Deep {7Wit{&hin t{7he b{8arge {4-{$+{4-{x~
+Walking through the intensely dark chambers so deep within the bowels of
+the ship one cant help but be reminded of the pressure of the ice on all
+sides of the ship, pressing down with bone-cracking pressure you shiver
+slightly and thank the great gods above for the strong magical construction
+and pray its enough to withstand long after the treasures have been
+plundered.  The silence is so deep that even the tiniest noise is amplified
+a hundred time, even the occasional insane guardian is magically silenced to
+throw off an enemies prescise battle preperations in combat and unnerve the
+enemy.  
+~
+134742025 0
+D1
+~
+~
+0 0 30592
+S
+
+#30592
+{4-{$+{4- {8Deep {7Wit{&hin t{7he b{8arge {4-{$+{4-{x~
+Walking through the intensely dark chambers so deep within the bowels of
+the ship one cant help but be reminded of the pressure of the ice on all
+sides of the ship, pressing down with bone-cracking pressure you shiver
+slightly and thank the great gods above for the strong magical construction
+and pray its enough to withstand long after the treasures have been
+plundered.  The silence is so deep that even the tiniest noise is amplified
+a hundred time, even the occasional insane guardian is magically silenced to
+throw off an enemies prescise battle preperations in combat and unnerve the
+enemy.  
+~
+134742025 0
+D1
+~
+~
+0 0 30593
+D3
+~
+~
+0 0 30591
+S
+
+#30593
+{4-{$+{4- {8Deep {7Wit{&hin t{7he b{8arge {4-{$+{4-{x~
+Walking through the intensely dark chambers so deep within the bowels of
+the ship one cant help but be reminded of the pressure of the ice on all
+sides of the ship, pressing down with bone-cracking pressure you shiver
+slightly and thank the great gods above for the strong magical construction
+and pray its enough to withstand long after the treasures have been
+plundered.  The silence is so deep that even the tiniest noise is amplified
+a hundred time, even the occasional insane guardian is magically silenced to
+throw off an enemies prescise battle preperations in combat and unnerve the
+enemy.  
+~
+134744073 0
+D0
+~
+~
+0 0 30594
+D3
+~
+~
+0 0 30592
+S
+
+#30594
+{4-{$+{4- {8Deep {7Wit{&hin t{7he b{8arge {4-{$+{4-{x~
+Walking through the intensely dark chambers so deep within the bowels of
+the ship one cant help but be reminded of the pressure of the ice on all
+sides of the ship, pressing down with bone-cracking pressure you shiver
+slightly and thank the great gods above for the strong magical construction
+and pray its enough to withstand long after the treasures have been
+plundered.  The silence is so deep that even the tiniest noise is amplified
+a hundred time, even the occasional insane guardian is magically silenced to
+throw off an enemies prescise battle preperations in combat and unnerve the
+enemy.  
+~
+134742025 0
+D1
+~
+~
+0 0 30595
+D2
+~
+~
+0 0 30593
+S
+
+#30595
+{4-{$+{4- {8Deep {7Wit{&hin t{7he b{8arge {4-{$+{4-{x~
+Walking through the intensely dark chambers so deep within the bowels of
+the ship one cant help but be reminded of the pressure of the ice on all
+sides of the ship, pressing down with bone-cracking pressure you shiver
+slightly and thank the great gods above for the strong magical construction
+and pray its enough to withstand long after the treasures have been
+plundered.  The silence is so deep that even the tiniest noise is amplified
+a hundred time, even the occasional insane guardian is magically silenced to
+throw off an enemies prescise battle preperations in combat and unnerve the
+enemy.  
+~
+134744073 0
+D2
+~
+~
+0 0 30596
+D3
+~
+~
+0 0 30594
+S
+
+#30596
+{4-{$+{4- {8Deep {7Wit{&hin t{7he b{8arge {4-{$+{4-{x~
+Standing deep within the barges bowels you are confronted by a group of
+guardians that have been enhanced to withstand unlimited lengths of time
+physically.  Mentally unstable after a multitude of generations these
+fanatical warriors fight everything that moves out of insanity more than
+loyalty.  The grand ship seems to be warmer down here, and sounds of water
+dripping can be heard within the silent confines.  
+~
+134744073 0
+D0
+~
+~
+0 0 30595
+D2
+~
+~
+0 0 30597
+S
+
+#30597
+{4-{$+{4- {8Gl{7ow{&ing Cha{7mb{8er {4-{$+{4-{x~
+Standing in a chamber that glows with intense flashes of white and
+yellow, several distortions waver in the air in front of you.  A
+grey-silvery doorway that seems to grow and shrink opens up into the
+ethereal plane and leads to places that are either unknown, or uncharted.  A
+rip in the air seems to twist the very reality into something strange and
+wonderous.  What is this reality if it is not your reality, how complex the
+possibilities, how far do the implications lead?  Perhaps this is a question
+best answered by the adventurers who enter the rip either foolishly, or
+bravely..  
+~
+134744073 0
+D0
+~
+~
+0 0 30596
+S
+
+#30598
+{4-{$+{4- {8Na{7rr{&ow Hal{7lw{8ay {4-{$+{4-{x~
+Behold, this is more than the bowels of the ship, in fact this place does
+not even exist in the reality that is familiar to you.  This place was
+created for by will of Ulutiu and at one time would bend and shift as he saw
+fit either to expand or shrink to his will.  Guardians that are of no
+familiar race wander the halls protecting this area while Ulutiu is in his
+long death slumber.  One can only hope the rumors of his vast treasure and
+powerfull magic are not mearly myth for this area is a dangerous one to even
+the most powerfull mortals.  If one wishes to turn back now would be the
+ideal place to declare oneself a coward.  
+~
+134742025 0
+D2
+~
+~
+0 0 30599
+S
+
+#30599
+{4-{$+{4- {8Inne{7rmo{&st Bowels of t{7he B{8arge {4-{$+{4-{x~
+Walking through the innermost bowels of the ship a chill settles into
+your blood making your heart race and your breath come in sharp gasps. 
+Truely your adventure within this place is almost complete, yet the hardest
+tasks lie ahead for sure.  The most powerfull guardians stand at ever ready
+for any intruders.  These guardians are protected by the most intricate
+workings of magic and are untouched by many things that would kill a normal
+mortal.  Also a strange moaning seems to echo around you making it
+immpossible to tell where its coming from but, it raises the hair on your
+neck and makes your skin crawl in sheer terror.  Is the chance brush with
+death worth the treasures that may or may not be found within?  Each
+adventurer will have to decide for themselves.  
+~
+134742025 0
+D0
+~
+~
+0 0 30598
+D2
+~
+~
+0 0 30600
+S
+
+#30600
+{4-{$+{4- {8Inne{7rmo{&st Bowels of t{7he B{8arge {4-{$+{4-{x~
+Walking through the innermost bowels of the ship a chill settles into
+your blood making your heart race and your breath come in sharp gasps. 
+Truely your adventure within this place is almost complete, yet the hardest
+tasks lie ahead for sure.  The most powerfull guardians stand at ever ready
+for any intruders.  These guardians are protected by the most intricate
+workings of magic and are untouched by many things that would kill a normal
+mortal.  Also a strange moaning seems to echo around you making it
+immpossible to tell where its coming from but, it raises the hair on your
+neck and makes your skin crawl in sheer terror.  Is the chance brush with
+death worth the treasures that may or may not be found within?  Each
+adventurer will have to decide for themselves.  
+~
+524297 0
+D0
+~
+~
+0 0 30599
+D1
+~
+~
+0 0 30601
+S
+
+#30601
+{4-{$+{4- {8Inne{7rmo{&st Bowels of t{7he B{8arge {4-{$+{4-{x~
+Walking through the innermost bowels of the ship a chill settles into
+your blood making your heart race and your breath come in sharp gasps. 
+Truely your adventure within this place is almost complete, yet the hardest
+tasks lie ahead for sure.  The most powerfull guardians stand at ever ready
+for any intruders.  These guardians are protected by the most intricate
+workings of magic and are untouched by many things that would kill a normal
+mortal.  Also a strange moaning seems to echo around you making it
+immpossible to tell where its coming from but, it raises the hair on your
+neck and makes your skin crawl in sheer terror.  Is the chance brush with
+death worth the treasures that may or may not be found within?  Each
+adventurer will have to decide for themselves.  
+~
+134744073 0
+D2
+~
+~
+0 0 30602
+D3
+~
+~
+0 0 30600
+S
+
+#30602
+{4-{$+{4- {8Inne{7rmo{&st Bowels of t{7he B{8arge {4-{$+{4-{x~
+Walking through the innermost bowels of the ship a chill settles into
+your blood making your heart race and your breath come in sharp gasps. 
+Truely your adventure within this place is almost complete, yet the hardest
+tasks lie ahead for sure.  The most powerfull guardians stand at ever ready
+for any intruders.  These guardians are protected by the most intricate
+workings of magic and are untouched by many things that would kill a normal
+mortal.  Also a strange moaning seems to echo around you making it
+immpossible to tell where its coming from but, it raises the hair on your
+neck and makes your skin crawl in sheer terror.  Is the chance brush with
+death worth the treasures that may or may not be found within?  Each
+adventurer will have to decide for themselves.  
+~
+134744073 0
+D0
+~
+~
+0 0 30601
+D2
+~
+~
+0 0 30603
+S
+
+#30603
+{4-{$+{4- {8Befo{7re t{&he Private C{7ham{8bers {4-{$+{4-{x~
+Standing outside the private chambers of Ulutiu the air seems warm and no
+sign of age seems to have affected any of the barge here.  The powerfull
+magic contained in the place seems to have seeped slowly out over the years
+protecting the ship from decay and the affects of age.  A ghostly aparition
+fades in and out of view and seems to be the guardian bound to protect the
+lower layers of the barge for eternity.  To the west lies the private
+chambers of Ulutiu himself, though the phantasmal image moves to block your
+entrance to the western chambers...  
+~
+134742057 0
+D0
+~
+~
+0 0 30602
+D3
+~
+~
+0 0 30604
+S
+
+#30604
+{4-{$+{4- {8Priv{7ate {&Chamber o{7f Ul{8utiu {4-{$+{4-{x~
+Standing in the private chambers of Ulutiu is an awe inspiring event. 
+Large maps of the glacier untouched by time cover the walls of this enormous
+chamber.  Upon closer inspection the paper is not paper at all, but beaten
+lead that flexs and bends as paper and is magically enhanced to be as
+lightweight as paper.  The floor is covered with a carpet so plush that the
+gods themselves would find it comfortable, it seems to swallow your boots
+and cushion your every movement.  The furniture is of strange design, yet
+exquisite obsidian so polished and gleaming its painfull to look at.  A
+large figure stands before you with its eyes closed as if in a deep slumber,
+yet its skin pulses with energy and its movements are that of a gracefull
+feline.  This is Ulutiu, the once all powerfull sorcerer, now controlled by
+the sheer magical residue he commanded in life.  
+~
+134744077 0
+D2
+~
+~
+0 0 30605
+S
+
+#30605
+{4-{$+{4- {8Ulut{7iu's{& Private {7Sto{8rage {4-{$+{4-{x~
+This private chamber is filled from the floor to the ceiling with various
+implements used by Ulutiu and his allies.  Various spell components litter
+the floor and large odd looking machines seem place about the room in random
+places.  For a sorcerer of such power its hard to believe one could find
+anything desired quickly in this clutter.  A large chest formed of solid
+silver rests on the ground in the center of the room.  Cloaked by an aura of
+mystical shadows, one cannot help but hope its mearly for looks and not a
+deadly trap placed here to deter thieves.  
+~
+134743100 0
+D2
+~
+~
+0 0 30606
+S
+
+#30606
+{4-{$+{4- {8Brea{7kin{&g Throug{7h th{8e Ice {4-{$+{4-{x~
+Standing before you is a wide ladder leading up through a narrow passage
+in the ship.  A steady breeze blows down over you carrying with it small
+bits of snow and ice, as well as fresh air.  This apparently leads to an
+alternative exit to the upper decks that was sealed from above.  One can
+only hope that the snow doesnt come crashing down and smother you with its
+icy embrace.  
+~
+134743040 0
+D0
+~
+~
+0 0 30605
+D4
+~
+~
+0 0 2359
+S
+#0
+
+#SPECIALS
+M 30552 spec_breath_fire
+S
+
+#RESETS
+D 100 30551 0 1
+D 100 30552 2 1
+D 100 30585 2 2
+D 100 30586 0 2
+M 100 30551 8 30552 2
+M 100 30551 8 30553 1
+O 100 30552 0 30554
+M 100 30551 8 30555 2
+O 100 30553 0 30557
+M 100 30551 8 30558 1
+M 100 30551 8 30560 2
+O 100 30551 0 30560
+M 100 30550 12 30562 3
+M 100 30550 12 30563 3
+M 100 30550 12 30564 3
+M 100 30550 12 30565 3
+M 100 30552 10 30567 2
+M 100 30552 10 30569 1
+O 100 30565 0 30570
+M 100 30552 10 30573 2
+M 100 30552 10 30574 1
+M 100 30552 10 30575 1
+M 100 30552 10 30576 1
+M 100 30552 10 30578 2
+O 100 30566 0 30578
+M 100 30553 3 30581 1
+E 100 30558 0 16
+M 100 30553 3 30583 1
+E 100 30558 0 16
+M 100 30553 3 30585 1
+E 100 30558 0 16
+G 100 30567 0
+M 100 30557 1 30585 1
+O 100 30568 0 30588
+O 100 30569 0 30588
+O 100 30570 0 30588
+O 100 30571 0 30589
+O 100 30572 0 30589
+O 100 30573 0 30589
+O 100 30574 0 30590
+O 100 30575 0 30590
+O 100 30576 0 30590
+M 100 30554 10 30592 2
+M 100 30554 10 30594 2
+M 100 30554 10 30596 3
+O 100 30579 0 30597
+O 100 30578 0 30597
+M 100 30554 10 30601 2
+M 100 30555 1 30603 1
+E 100 30564 0 16
+G 100 30560 0
+M 100 30556 1 30604 1
+E 100 30555 0 16
+E 100 30580 0 17
+O 100 30577 0 30605
+P 100 30562 1 30577 1
+P 100 30563 1 30577 1
+P 100 30556 1 30577 1
+P 100 30559 1 30577 1
+P 100 30554 1 30577 1
+P 100 30557 1 30577 1
+S
+
+#MOBPROGS
+#30551
+Unknown~
+Unknown~
+mob echo Suddenly the crystal statue grinds to life and attacks.
+mob zecho The ground shakes and rolls under your feet.
+say Intruders are not welcome!
+mob cast 'ice storm'
+~
+
+#30552
+Unknown~
+Unknown~
+mob echo {6The crystal golem breaths out a cloud of ice shards.{x
+mob cast 'ice storm'
+~
+
+#30553
+Unknown~
+Unknown~
+mob echo {6Before your eyes the golem collapses into a useless heap.{x
+mob oload 30550
+drop crystal
+mob purge $i
+~
+
+#30554
+Unknown~
+Unknown~
+mob echo {8A glass golem comes to life and moves to strike at you.{x
+mob damage $n 500 750 lethal
+mob cast 'blindness' $n
+mob kill $n
+~
+
+#30555
+Unknown~
+Unknown~
+mob echo Ulutiu begins to move in the rapid motions of
+mob echo a devastating Arcane Spell.
+mob damage all 9000 11000 lethal
+mob echo {!Fiery{0 gases fill the room and seer your flesh.
+~
+
+#30556
+Unknown~
+Unknown~
+mob echo Ulutiu blasts you with a freezing spell of utter destruction.
+mob echo Ulutiu utters the words 'nyimxos xsukwrtyb'
+mob damage $n 5000 10000 lethal
+cackle
+~
+
+#30557
+Unknown~
+Unknown~
+mob zecho {8A load moaning chills your blood.{x
+say Turn back $n, this place of death is not for the likes of you.
+say I will not let you pass untill you release me from my bonds, and only death can release me.
+~
+
+#30558
+Unknown~
+Unknown~
+mob echo The phantasmal force knocks you back with a blast of pure energy.
+mob damage $n 4000 10000 lethal
+say Stay back $n! You are not allowed there.
+~
+
+#30559
+Unknown~
+Unknown~
+say After centuries of ancient power i will not be defeated now!
+mob echo {8Ulutiu grips his staff and snaps it in both hands.{x
+mob zecho A {#brilliant light{0 envelops you.{x
+mob damage all 6000 20000 lethal
+mob junk staff
+~
+
+#30560
+Unknown~
+Unknown~
+say Where do you think you are going fool.
+mob damage $n 2000 5000
+~
+#0
+
+#$

@@ -1,0 +1,220 @@
+#AREADATA
+Name Apocalypse~
+Builders Laniessa~
+VNUMs 81100 81149
+Credits [Clan Hall] Laniessa Apocalypse~
+Security 10
+End
+
+
+
+#MOBILES
+#81102
+floating hand of death~
+{Dh{Wa{wnd {wo{Df {Wd{De{wa{Wt{Dh{x~
+{DT{Wh{we {Df{Wl{wo{Da{Wt{wi{Dn{Wg {Dh{Wa{wnd {wo{Df {Wd{De{wa{Wt{Dh{x
+~
+A shadowy hand floats here.
+~
+demon~
+ABJKZab JU 0 0 0
+200 1200 10d300+100000 300d300+10000 300d300+10000 none
+120 120 120 120
+BFK CDHJKN M 0
+stand stand none 100000
+ACEM ABCDEFGHIJKPUVW medium unknown
+F res C
+F vul NS
+#81103
+necromancer of death~
+{Dn{We{wc{Dr{Wo{wm{Da{Wn{wc{De{Wr {wo{Df {Wd{we{Da{Wt{wh{x~
+The {Dn{We{wc{Dr{Wo{wm{Da{Wn{wc{De{Wr {wo{Df {Wd{we{Da{Wt{wh{x hovers here.
+~
+~
+human~
+AB 0 0 0 0
+200 1200 300d300+1000000 300d300+10000 300d300+10000 pierce
+120 120 120 120
+BFGK CDJKNQ 0 0
+stand stand male 100000
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+M GREET 81103 100~
+#0
+
+
+
+#OBJECTS
+#81100
+wooden table~
+a {ywooden{x table~
+A {ywooden{x table rests against the wall.{x~
+wood~
+furniture AB 0
+0 0 B 500 500
+156 10000 0 P
+#81101
+wooden bench~
+a {ywooden{x bench~
+A {ywooden{x bench rests near the table.~
+unknown~
+furniture AB 0
+8 10000 EHK 700 700
+156 10000 0 P
+#81103
+grim reaper apocalypse~
+the Grim Reaper's Scythe of Death~
+A dark shadowy blade with a skull and hand lays here.~
+bones~
+armor AB AU
+41 41 41 39 0
+1 10 20000 P
+A
+20 -60
+A
+19 90
+A
+18 90
+A
+13 250
+#81104
+reaping renewal~
+{DR{We{wa{Dp{Wi{wn{Dg {WR{we{Dn{We{ww{Da{Wl{x~
+A potion of {DR{We{wa{Dp{Wi{wn{Dg {WR{we{Dn{We{ww{Da{Wl{x~
+unknown~
+potion ABXYef AO
+151 'cheal' 'cheal' '' ''
+1 0 10000 P
+#81105
+Reaping cleanse~
+{DR{We{wa{Dp{Wi{wn{Dg {WC{wl{De{Wa{wn{Ds{We{x~
+A potion of {DR{We{wa{Dp{Wi{wn{Dg {WC{wl{De{Wa{wn{Ds{We{x.~
+unknown~
+potion ABXYef AO
+151 'cure blindness' 'cure blindness' 'cancellation' 'cancellation'
+1 0 10000 P
+#81106
+reaping power~
+{DR{We{wa{Dp{Wi{wn{Dg {WP{wo{Dw{We{wr{x~
+A potion of {DR{We{wa{Dp{Wi{wn{Dg {WP{wo{Dw{We{wr{x~
+unknown~
+potion ABXYef AO
+151 'haste' 'giant strength' 'sanctuary' 'protection good'
+1 0 10000 P
+#0
+
+
+
+#ROOMS
+#81100
+{WG{wa{Dt{Wh{we{Dr{Wi{wn{Dg {wA{Wr{De{wn{Wa{x~
+The simplicity of the room stands out: multiple sets of wooden tables
+accompanied by wooden benches litter the room.  A closer look reveals
+cobwebs and and skulls decorate the walls and ceilings.  Torches and flames
+on the walls provide light allowing you to see in this room.  The shadows
+start to move and seem to close in.  Scared yet?  
+
+~
+0 0 0
+D4
+~
+~
+0 0 81101
+S
+#81101
+{DP{Wa{wt{Dh {Wt{wo {Dt{Wh{we {Yl{yi{Yg{yh{Yt{x~
+The obvious observation about this room is its darkness.
+There is one small flame that seems to float in the middle of the room.
+The shadows come together to form a black hole to a distant realm.
+This dark gateway leads to the unknown although the destination will allow
+the Sons of Apocalypse to find its target.
+~
+0 0 0
+D4
+~
+~
+0 0 81102
+D5
+~
+~
+0 0 81100
+S
+#81102
+{DR{We{wc{Do{Wv{we{Dr{Wy {wR{Do{Wo{wm{x~
+Ironically, damage done to the Sons of Apocalypse seem to be healed here
+as the floating hand of death touches you.  The shadows envelop wounds as
+they become undone.  Miracles occur here as other ailments such as
+blindness, disgusting sores from the plague, and venomous poisons.  
+
+~
+0 0 0
+D4
+~
+~
+0 0 81103
+D5
+~
+~
+0 0 81101
+S
+#81103
+{DA{Wl{wt{Da{Wr {wo{Df {WD{wa{Dr{Wk {wG{Di{Wf{wt{Ds{x~
+A small altar covered in blood stands out the most about this room.
+Demonic symbols appear to cover this room.  the sorcerer of death stands
+at the altar praying to the Grim Reaper. As you look around, the symbols
+appear to glow red with blood allowing you to see the bloodied heads of victims
+sacrificed to death.
+~
+0 0 0
+D4
+~
+~
+0 0 3014
+D5
+~
+~
+0 0 81102
+S
+#0
+
+
+
+#SPECIALS
+M 81102 spec_cast_darla
+S
+
+
+
+#RESETS
+O 0 81100 0 81100
+O 0 81101 0 81100
+M 0 81102 1 81102 1
+M 0 81103 1 81103 1
+G 0 81103 0
+G 0 81104 0
+G 0 81105 0
+G 0 81106 0
+S
+
+
+
+#SHOPS
+81103 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#81103
+say $n what do you need to serve the reaper?
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

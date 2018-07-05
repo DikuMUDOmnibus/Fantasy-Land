@@ -1,0 +1,157 @@
+#AOD_AREA
+The Darkness~
+80000 80099 0 1
+Levl 99 151
+Bldr Rzarecta~
+Alig N
+End
+
+#MOBILES
+#80003
+zombie undead~
+a zombie~
+A zombie charges for you!
+~
+The animated corpses of the long dead, zombies are loyal servants. 
+Albeit, they are a tad slow, and rather dumb, but they can be relied upon to
+blindly follow orders.  
+~
+human~
+100 100 0 100 0 100 150 100 100 100 100 100 50 0 0 100 100 100 0 100 100 100 100 100 100 100 
+ABFGO FZ HO -1000 0
+170 164 0 6724 7516 7027 7573 21 25 165 bite
+-370 -286 -312 -312
+STANDING STANDING female 3294
+0 warrior medium ABCDEFGHIJK
+P 7 0
+
+#80004
+wolf beast man~
+A wolf beast~
+A ferocious dark gray wolf man growls thirsty for your blood here!
+~
+~
+wolf~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFGO FZ HO -1000 0
+170 164 0 6724 7516 7027 7573 21 25 165 bite
+-370 -286 -312 -312
+STANDING STANDING male 3294
+0 warrior medium ACDEFJKQV
+P 4 0
+
+#80005
+half man~
+A half-eaten man~
+A half bloodied man hobbles toward you as a feast for his hunger!
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFGO FZ HO -1000 0
+170 164 0 6724 7516 7027 7573 21 25 165 bite
+-370 -286 -312 -312
+STANDING STANDING male 3294
+0 warrior medium ABCDEFGHIJK
+P 4 0
+
+#80006
+demon apparition demonic~
+A demonic apparition~
+A demonic apparition appears and laughs evilly at your arrival!
+~
+~
+ghost~
+100 0 150 100 100 100 100 100 150 100 150 100 200 150 100 100 100 0 100 100 0 150 100 100 100 100 
+ABFGO FTUZ BHO -1000 0
+170 164 0 6724 7516 7027 7573 21 25 165 insanity
+-370 -286 -312 -312
+STANDING STANDING male 3294
+0 warrior medium 0
+P 4 0
+
+#80007
+man sorcerer~
+A cobra-eyed sorcerer~
+A strange purple-haired old man with cobra eyes hums a strange chant at you!
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFGO FZ HO -1000 0
+170 164 0 6724 7516 7027 7573 21 25 165 bite
+-370 -286 -312 -312
+STANDING STANDING male 3294
+0 mage medium ABCDEFGHIJK
+P 4 0
+#0
+
+#ROOMS
+#80000
+The Planning Room~
+~
+0 1
+S
+
+#80001
+Above a shaft~
+The hilly path ends here. The ground is heavily filled with lush thick
+grass all around. The air is fresh around here with the open skies seen
+around you.
+~
+0 0
+D5
+~
+shaft~
+ABV 0 80002
+S
+
+#80002
+Inside a dark shaft~
+Old pieces of wood are boarded up all around.  The walls are blinded
+with pitch black darkness.  The feeling is chilly--an evil chill.
+The light above from the outside is giving a faint brightness as
+everything is succumbed to the darkness.  Several pieces of wood
+are hung along the wall.  The wood beneath your feet is somewhat
+damp as the creaking sound of every step made seems to weaken the
+stand.  A larger opening below is dominant here.  
+~
+0 0
+D4
+~
+~
+0 0 80001
+D5
+~
+~
+0 0 80003
+S
+
+#80003
+Trapped in the dark!~
+It is completely black!  The light source you carry cannot reveal
+what lies around this darkness!  A large shaft opening can be seen
+before you.  
+~
+0 0
+S
+#0
+
+#SPECIALS
+M 80003 spec_nasty
+M 80004 spec_nasty
+M 80005 spec_nasty
+M 80006 spec_nasty
+M 80007 spec_cast_mage
+S
+
+#RESETS
+D 100 80001 5 1
+M 100 80007 1 80003 1
+M 100 80006 1 80003 1
+M 100 80005 1 80003 1
+M 100 80004 1 80003 1
+M 100 80003 2 80003 2
+S
+
+#$

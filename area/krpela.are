@@ -1,0 +1,646 @@
+#AOD_AREA
+Korpela Forest*~
+6500 6549 0 1
+Levl 1 15
+Bldr Xante~
+Alig E
+End
+
+#ROOMS
+#6500
+Korpela Forest~
+Darkened trees loom overhead blocking all sunlight from penetraing
+the forest floor.  Strange noises can be heard coming from all directions,
+making this forest seem quite uncomforting.  A small, barely worn path
+leads northward.
+~
+0 0
+D0
+~
+~
+0 0 6501
+D2
+~
+~
+0 0 6171
+S
+
+#6501
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+Tree limbs reach out into the path, almost as if they were alive
+and looking for something...  Or someone.  The howls of wolves
+can be heard to the north, exactly where the path leads.  A break
+in the treeline can be seen to the east.  
+~
+0 0
+D0
+~
+~
+0 0 6502
+D1
+~
+~
+0 0 6509
+D2
+~
+~
+0 0 6500
+S
+
+#6502
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+Shadows dance along the pathway, making it hard to see what direction
+the path leads.  It also seems to be growing darker and darker with each
+passing step.   
+~
+0 0
+D2
+~
+~
+0 0 6501
+D3
+~
+~
+0 0 6503
+S
+
+#6503
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+A dank fog slowly creeps along the pathway, emanating from the west. 
+The only way to make out where the path leads is by the lack of trees to
+the north.   
+~
+0 0
+D0
+~
+~
+0 0 6504
+D1
+~
+~
+0 0 6502
+D3
+~
+~
+0 0 6510
+S
+
+#6504
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+Several sets of red and yellow eyes can be seen peering through the
+darkness.  The obtrusive fog slowly begins to dissapate, uncovering paths
+to the north and east.  The path to the north appears much safer than the
+one to the east.  
+~
+0 0
+D0
+~
+~
+0 0 6505
+D1
+~
+~
+0 0 6511
+D2
+~
+~
+0 0 6503
+S
+
+#6505
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+Not even the wind can be heard moving as the forest is overcome by an
+eerie silence.  Not even the path leading east has been touched with
+footprint of any kind. 
+~
+0 0
+D1
+~
+~
+0 0 6506
+D2
+~
+~
+0 0 6504
+S
+
+#6506
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+The silence continues deeper into the forest and an odd smell wafts
+from the north.  The gloomy path leads to the north.
+~
+0 0
+D0
+~
+~
+0 0 6507
+D3
+~
+~
+0 0 6505
+S
+
+#6507
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+The pungent odor of dead carcasses overwhelmes the senses.  A large
+pile to the west seems to be where the odor is emanating from.  A safer,
+more pleasant smelling trail leads to the north.   
+~
+0 0
+D0
+~
+~
+0 0 6508
+D2
+~
+~
+0 0 6506
+D3
+~
+~
+0 0 6512
+S
+
+#6508
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+An opening to this dreary forest can finally be seen to the north. 
+The first rays of sunshine slowly begin to descend upon the forest floor
+as it slowly disperses into normalness.   A strange odor of something
+rather horrific can be sensed to the east where a small little path is
+seen.
+~
+0 0
+D0
+~
+~
+0 0 6515
+D1
+~
+~
+0 0 6539
+D2
+~
+~
+0 0 6507
+S
+
+#6509
+Korpela Forest~
+Twisted branches and thorned bushes cut across the path in a mazelike
+pattern.  A small path narrows from the bushes and branches and makes to
+the north where some form of life can be detected. 
+~
+0 0
+D3
+~
+~
+0 0 6501
+S
+
+#6510
+Before a dead end outside a cave~
+Rabid animals chase each other hungrily among the dead greenery. 
+Fallen trees block the path to the east.   A dark black opening to the
+west reveals a small cave as the dead end is blocked by a huge mountainous
+rocks here.
+~
+0 0
+D1
+~
+~
+0 0 6503
+S
+
+#6511
+A quiet area~
+Dead leaves and branches litter the ground, making more than enough
+sound to warn whatever may be ahead.  To the north a large clearing
+can be seen and to the south a dead end.  
+~
+0 0
+D0
+~
+~
+0 0 6513
+D2
+~
+~
+0 0 6514
+D3
+~
+~
+0 0 6504
+S
+
+#6512
+A darker realm~
+The nauseating aroma of rotting flesh fills the stale air.  Flies
+can be seen swarming over the carcasses strewn about the forest
+floor.  The path circles the exterior of the pile before returning
+to the forest.  To the northwest lies a humongous keep of some
+kind.  The walls are layered in strange black stone ..  aged and
+weakened.  A small path aside some trees takes you there to the
+west.  
+~
+0 0
+D1
+~
+~
+0 0 6507
+D3
+~
+~
+0 0 57800
+S
+
+#6513
+At the end of dead grass~
+Black, dead grass covers this small clearing.  In the northeast
+corner is a pond, bubbling with green and black ichor.   
+ 
+~
+0 0
+D2
+~
+~
+0 0 6511
+S
+
+#6514
+At a dead end~
+The same fog that covered the path rolls to and fro within the cave,
+making it difficult to see.   
+~
+0 0
+D0
+~
+~
+0 0 6511
+S
+
+#6515
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+Dead trees begin to give way to ones full of life.  The black
+dreariness disappears and is replaced with lush greenery.  Even the
+critters begin to frolic and scurry about.  
+~
+0 0
+D0
+~
+~
+0 0 6516
+D2
+~
+~
+0 0 6508
+S
+
+#6516
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+Lush blossoms of red and gold fill the trees, accomanied by a fresh,
+fragrant smell.  Sunlight tickles the forest floor where more flowers
+begin to grow and bloom.  Far into the northern distance is a large open
+field.   
+~
+0 0
+D0
+~
+~
+0 0 6517
+D2
+~
+~
+0 0 6515
+S
+
+#6517
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+Sweet melodies of robins and larks dance through the air as the
+animals bask in the warm sunlight.  
+~
+0 0
+D1
+~
+~
+0 0 6518
+D2
+~
+~
+0 0 6516
+S
+
+#6518
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+The sun shines brightly down as trees break away into a field of
+flowers.  Soft grass gathers at your feet replacing the path to the south.
+Deer can be seen grazing in the distance. 
+~
+0 0
+D0
+~
+~
+0 0 6519
+D3
+~
+~
+0 0 6517
+S
+
+#6519
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+Lush green grass covers the field in every direction.  Wildflowers of
+all colors and varieties grow every which way, leaving a single path
+northward.   
+~
+0 0
+D0
+~
+~
+0 0 6520
+D2
+~
+~
+0 0 6518
+S
+
+#6520
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+Lush green grass covers the field in every direction.  Wildflowers
+of all colors and varieties grow every which way, leaving a single
+path northward.  Light shadows from the trees aside the path loom
+across the trail.  A strange off-trail heads east where from a
+distance a sudden huge castle arises from nowhere.  Funny how the
+structure is so well hidden from this thick forest.  
+~
+0 0
+D1
+~
+~
+0 0 62000
+D2
+~
+~
+0 0 6519
+D3
+~
+~
+0 0 6521
+S
+
+#6521
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+The wildflowers give way to a large stretch of grass, obviously the
+grazing grounds of the deer as they can be seen to the west.   In the
+northern distance a clear, blue pond can be seen. 
+~
+0 0
+D0
+~
+~
+0 0 6522
+D1
+~
+~
+0 0 6520
+S
+
+#6522
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+A lake of fair blue can be seen shortly to the west.  Several of the
+deer can be seen laying about the edge, resting lazily in the sun.  To the
+north the field slowly starts rolling into hills
+~
+0 0
+D0
+~
+~
+0 0 6523
+D2
+~
+~
+0 0 6521
+D3
+~
+~
+0 0 6524
+S
+
+#6523
+{@Ko{2rpe{@la{) {@Fo{2re{@st{)~
+Slight hills gradually begin to form, marking the end of the field.  A
+new path takes shape and continues on to the north with a large gigantic
+keep is seen northeast.  
+~
+0 0
+D0
+~
+~
+0 0 6536
+D2
+~
+~
+0 0 6522
+S
+
+#6524
+Aside a lake~
+The lake here is huge and gets much more larger in size as you
+take waters' spreading to the northwest where more of this water
+steadily flows.  
+~
+0 0
+D1
+~
+~
+0 0 6522
+D3
+~
+~
+0 0 6525
+S
+
+#6525
+Near a lake~
+The lake stretches and ends towards the west, a green hill inclines
+towards that direction.  The lake then enlarges around the hill to the
+west and forms a larger body of water to the north, where currents flow as
+far as the eye can see.   
+~
+0 0
+D0
+~
+~
+0 0 6526
+D1
+~
+~
+0 0 6524
+S
+
+#6526
+Out on the lake atop a small walking plank~
+The currents around are rather calm, however the flow of the water
+seems to hover slowly up and down making you a slight bit dizzy.
+The skies are in a decent condition and stretch deeper out around
+with land forseeable in the south.  To the west, the body of water
+thins out where beginnings of an extended riverbank veers off in
+an unknown direction.  A small pier is also seen that way curving
+to the north out into the sea.  
+~
+0 0
+D0
+~
+~
+0 0 6528
+D2
+~
+~
+0 0 6525
+D3
+~
+~
+0 0 6527
+S
+
+#6527
+A pier~
+A long aged wooden pier that goes further out west curves to the
+north where a large immobile ship can be seen.  Beyond the mast
+lies the waters that stretch far beyond to the north.  The walkway
+goes to the east into shallow waters.  
+~
+0 6
+D0
+~
+~
+0 0 16000
+D1
+~
+~
+0 0 6526
+S
+
+#6528
+Shallow waters~
+The dark waters are all about you.  The skies are fair and several
+gulls fly along the surface.  A small wooden plank of some sort
+can be seen to the south.  
+~
+0 6
+D0
+~
+~
+0 0 6529
+D2
+~
+~
+0 0 6526
+S
+
+#6529
+In deeper waters~
+The water is darker than before and murkier.  There is nothing
+but the sea everywhere.  A faint sight of land can be seen to the
+far south.  
+~
+0 0
+D0
+~
+~
+0 0 6530
+D1
+~
+~
+0 0 6529
+D2
+~
+~
+0 0 6528
+D3
+~
+~
+0 0 6529
+S
+
+#6530
+Lost in the sea~
+Everywhere about you is water.  There is no land visible around.
+The calm winds allow the surface of the water to be almost still.
+
+~
+0 0
+D0
+~
+~
+0 0 8101
+D1
+~
+~
+0 0 6530
+D2
+~
+~
+0 0 6529
+D3
+~
+~
+0 0 6530
+S
+
+#6536
+Leaving the forest~
+The hill slightly carries upward and straightens here northward where the
+fields have now transformed into thicker greeneries.  A dirt trail carries
+northward into the valleys seen afar while another trail well-made veers
+eastward as a giant keep of some sort loom high above. 
+~
+0 0
+D1
+~
+~
+0 0 6537
+D2
+~
+~
+0 0 6523
+S
+
+#6537
+At the end of Korpela~
+The fields of Korpela hang far beneath the plateaus down south
+where the distant lands of Thoth can be seen.  To the northwest
+across the plains lies the valleys where more of the undiscovered
+lands lie.  A cave lies to the north where the stone walls linger
+off to the northeast where the rocks layering extend further out
+in that direction.  
+~
+0 0
+D0
+~
+~
+0 0 2401
+D3
+~
+~
+0 0 6536
+S
+
+#6539
+A muddy darkness~
+A horrific smell is emitted terribly here as the ground is extremely
+damp almost mushy to the surface.  Treading around this little
+spot has made blotches of mud and other slimy substances glop about
+beside a huge circular shaft that leads somewhere down.  A strange
+echoish noise is heard as a bubbly goo surfaces along the openings
+of the hole.  Dead shrubs are layered around here as dead plants
+are furnished about.  A path leads away here to the west.  
+~
+0 0
+D3
+~
+~
+0 0 6508
+S
+#0
+
+#$

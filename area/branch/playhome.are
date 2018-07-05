@@ -1,0 +1,1745 @@
+#AREADATA
+Name Player Homes~
+Builders None~
+VNUMs 64900 64999
+Credits [ -ALL- ] Imm      Player Homes~
+Security 9
+End
+
+
+
+#MOBILES
+#64900
+sweetum golem~
+{DSweetums{x~
+{DA {Wstone {Dgolem outfitted in an {rArmani{D tuxedo waves dutifully as you enter.{x
+~
+{DSweetums was forged from {Wstone{D by Mufti and Santeria and imbued with a
+limited intelligence by Johndalf.  Upon closer inspection, the {rtuxedo{D you
+noticed appears quite silly as it seems to have been merely painted on
+rather hastily.  Not noticing the stares, Sweetums continues to wave as long
+as someone is visible.  {x 
+~
+modron~
+ABG J 0 0 0
+1 1 1d1+1 1d1+1 1d1+1 slice
+0 0 0 0
+QR ACDLP 0 0
+stand stand none 1
+AGHV ABCDEFGHJKQU large none
+F imm BMNQ
+F res HIK
+#64901
+dr light~
+Dr. Light~
+{DDr. {xLight {Dis here smiling at you.{x
+~
+{DThis is a hologram of the famous Dr.  Light.  He seems to have died
+many years {Dago and he left this hologram as a reminder.  Standing
+constantly in this {Dprison he waits for another reploid to emerge so his
+knowledge can be used.  {x 
+~
+human~
+AGIT DF 0 0 0
+151 151 13d11682+5245 2d50+50 30d5+200 sting
+-84 -84 -84 -84
+CFK ABCDLQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium hologram
+#64902
+grue~
+a {8grue{0~
+{8It is very dark...  You are likely to be eaten by a grue.{0
+~
+{8You can see nothing of this creature except its eyes glowing out of the
+darkness.  {0 
+~
+heucuva~
+AB Z 0 0 0
+0 1000 100d100+100 100d100+100 100d100+100 bite
+-100 -100 -100 -100
+CDFIKN ABLMQ D SY
+stand stand female 0
+ACHIMV ABCGHIJKV medium unknown
+F vul N
+#64904
+f4tcat~
+{WFatcat{x~
+A beautiful {Wpersian{x cat pretends to ignore the {Rf{Yis{Rh{x.
+~
+{xThis beautiful {Wpersian{x cat sleeps alternately on each of the cane
+sofas, leaving an equal amount of fur behind, so that when its owners sit
+there, they too inherit some fur.  
+~
+cat~
+AGT Z 0 0 0
+170 400 10d10+2000 10d10+2000 10d10+2000 claw
+-90 -90 -90 -90
+FH ABCDLQ 0 0
+stand stand female 0
+AGV ACDEFHJKQUV small unknown
+M RANDOM 64905 3~
+M RANDOM 64901 3~
+M GRALL 64904 100~
+#64905
+zlzXENAzlz~
+a beautiful {DBlack Cat{x~
+A beautiful {DBlack Cat{x is curled up in front of the fireplace.
+~
+A beautiful {DBlack Cat{x is curled up in front of the fireplace.  Her
+long fur is freshly groomed, every strand licked just so.  She is purring
+loudly and seems quite content.  
+~
+feline~
+ABDG DFJLZ P 1000 0
+99 500 100d100+100 50d50+50 500d500+500 claw
+-90 -90 -90 -90
+FK ABCDLQ I H
+stand stand female 0
+ACGHMV ABCDEFGHIJKQUV small unknown
+F res B
+M RANDOM 64905 2~
+#64906
+ck8~
+{Ca {CR{cabid {CS{cquirrel{x~
+{CA {CR{cabid {CS{cquirrel{x is here frothing wildly.
+~
+{xYou see nothing special about {Ca {CR{cabid {CS{cquirrel{x.
+~
+cat~
+AGU DFZ 0 0 0
+5 5 5d5+5000 2d50+50 5d5+500 claw
+-10 -10 -10 -10
+FHK ABCDLQ 0 0
+stand stand female 0
+AGMV ABCDEFHJKQUV medium unknown
+#64907
+mjmjlf~
+a tiny {Dblack{x kitten~
+A tiny {Dblack{x kitten with {ggreen{x eyes plays on the rug.
+~
+Long, beautiful fur covers the tiny kitten.  He is batting around a ball
+of {Ryarn{x.  
+~
+feline~
+ADG DFJLZ 0 0 0
+100 60 50d50+500 2d50+50 50d50+500 claw
+-10 -10 -10 -10
+0 ABCDLQ I H
+sleep sleep female 0
+ACGHMV ABCDEFGHIJKQUV medium fur
+F off FK
+F res B
+#64908
+c4hrista~
+a cute kitten~
+A soft cuddly kitten lies here purring.
+~
+Short fur covers the beautiful kitten.  She has large brown eyes and soft
+black fur with white patches.  
+~
+feline~
+ABDG DFJLZ 0 0 0
+1 60 5d5+500 2d50+50 5d5+500 claw
+-80 -80 -80 -80
+FK ABCDLQ BI H
+sleep sleep female 0
+ACGHMV ABCDEFGHIJKQUV medium unknown
+#64909
+&@*^!*~
+{Da t{Wi{wn{Dy house {Cfa{Mer{Wy{x~
+{DA t{Wi{wn{Dy house {Cfa{Mer{Wy{D flits about making sure nothing is disturbed.{x
+~
+{xBefore you stands a tiny {Cfa{Mer{Wy{x.  There is a soft hum in the air
+made by her soft wings as she flits around the house.  Her eyes are a shiny
+{Ggreen {x- no, wait!  They're {Clight blue{x!  Wait again!  They're
+{mviolet{x!  What's going on here?  It looks like the magic of the Fey is
+afoot!  She looks at you and winks conspiratorially before she turns to fly
+off in a different direction.  There is a {Wbright white {xaura surrounding
+her - a sign of strength, love and friendship.  A soft tinkling of music can
+be heard coming from seemingly everywhere.  As she turns back to look at you
+one last time, it is apparent that the music is coming from her.  She is
+singing!  {mBail o Bandhia ort!  Me gra tu!  Thit siad i ngra le cheile sna
+bolai seo!  {x 
+~
+pixie~
+AGJKV DFJLSTVZ ACDEHNP 1000 0
+150 0 100d100+10000 100d100+10000 100d100+10000 bite
+0 0 0 0
+FHJN DLQ B R
+rest rest female 0
+ACGVW EV tiny Love
+F res P
+F vul Z
+F for HM
+F par ABCDFGHIJKP
+#64910
+9aet1d~
+A beautiful {WWhite{* Wolf{x~
+A beautiful {WWhite{* Wolf{x is here.
+~
+This beautiful creature can do deadly damage to those who cross her. Her 
+jaws can take you out with one bite, removing your life completely.
+ 
+The beauty of this wolf is something that is rarely seen. She can charm 
+almost anyone or anything with her looks and skills. 
+~
+wolf~
+A DJLTVZ ACDEP -1000 0
+100 0 100d100+10000 100d100+10000 100d100+10000 bite
+0 0 0 0
+CDEGIKMNO D D 0
+sit sit female 0
+AGV ACDEFJKQV medium unknown
+F off FH
+F par U
+#64911
+Smuckers gelatinous cube~
+{mSmuckers{x~
+{DA {wgelatinous cube{D moves slowly towards you.{x
+~
+{mSmuckers{D, a gelatinous cube, is the AbraKa family pet.  He prowls the
+basement, albeit rather slowly, in search of prey.  {mSmuckers{D once single
+handedly destroyed a {Ddisplacer beast that was tricked into running into the
+translucent cube.  He moves {Dtoward you at a painstakingly low rate of speed.
+{x 
+~
+school monster~
+ABG 0 0 0 0
+0 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDLQ 0 0
+stand stand none 0
+CESc DEFJKM medium unknown
+F vul C
+F for MV
+F par ABCHQU
+#0
+
+
+
+#OBJECTS
+#64900
+couch~
+a comfortable couch~
+{DA comfortable looking couch sits near the fireplace.{x~
+cloth~
+furniture 0 0
+5 10000 EHK 0 0
+1 0 0 P
+#64901
+fountain vodka~
+a vodka fountain~
+{DA fountain spews forth {Wvodka{D to ease the weary traveler.{x~
+marble~
+fountain 0 0
+-2 -2 'vodka' 0 0
+1 100 0 P
+#64902
+sofa seat cane~
+a {ycane sofa{x~
+{yCane furniture {xwith {Rbri{Yght{Gly col{Bour{Ced {Ycushions{x.~
+cane~
+furniture R P
+4 400000 EHK 100 100
+0 100 0 P
+#64903
+fountain~
+the {Cm{Warble {Cf{Wountain{x~
+A {Cm{Winiature {Ci{Wndoor {Cpond {xstands here.~
+marble~
+fountain R P
+-1 -1 'water' 0 0
+0 1000 0 P
+#64904
+key fishbone~
+a {Wfish{Dbone {xkey~
+A {Wskeletal {Dfish {xlies here.~
+fishbone~
+trash PSTUY A
+0 0 0 0 0
+0 1 0 P
+#64905
+collar tag~
+a {Bsatin {Wcollar{x ~
+A {Bsatin {Wcollar{x to fit a cat.~
+satin~
+jewelry ASY AC
+0 0 0 0 0
+160 0 0 P
+#64906
+suede leather couch~
+a Soft {ySuede Leather Couch{x~
+A Soft {ySuede Leather Couch{x almost invites you to sit on it.~
+leather~
+furniture ABR P
+25 500000 EHK 100 100
+0 0 0 P
+#64907
+fireplace~
+a fireplace~
+A fireplace made from stone stands against the east wall.~
+stone~
+container R P
+200 0 0 200 50
+0 2000 0 P
+E
+fireplace~
+It is fashioned from rough stones of various sizes which have been
+stacked on top of each other and a rough mortar holds them in place.  The
+chimney is constructed likewise and allows the smoke to filter out through
+the low cottage ceiling.  
+~
+#64908
+crystal bowl milk~
+the {WCrystal {CBowl{x~
+A {WCrystal {CBowl {xof {WMilk {xstands near the fireplace.~
+crystal~
+fountain R P
+100000 100000 'milk' 0 0
+0 400 0 P
+#64909
+wrought iron key wrought-iron~
+a {Dwrought-iron {xkey~
+An important looking {Dwrought-iron {xkey lies here.~
+iron~
+trash PSTUY A
+0 0 0 0 0
+0 1 0 P
+#64910
+hot tub hotub~
+a {Rs{rteaming {Rh{rot {Bt{bub{x~
+A {Rs{rteaming {Rh{rot {Bt{bub{x in in the center of the dance floor.~
+marble~
+furniture ABR P
+20 20000 FIL 100 100
+0 400 0 P
+#64911
+fridge refrigerator~
+{DTi{Cbe{Dri{Cus{D's {YRefrigerator{x~
+A large {Dmetal {Yrefrigerator {xstands in the corner.~
+metal~
+fountain AR P
+100000 100000 'beer' 0 0
+0 200 0 G
+#64912
+krystania bed hurin~
+{GK{grystania's {CB{ced{x~
+{GK{grystania's {CB{ced{x lies to the west side of the room.~
+wood~
+furniture R P
+20 30000 EHL 100 100
+0 200 0 P
+#64913
+action bed horza~
+the {RA{rction {BB{bed{x~
+The {RA{rction {BB{bed{x lies to the east side of the room.~
+wood~
+furniture R P
+20 30000 EHL 100 100
+0 200 0 P
+#64914
+OE olde english 800 beer~
+an {YOE {B40{x~
+A case of {YOlde English '800' {B40's{x is sitting next to {GK{grystania's {CB{ced{x.~
+glass~
+fountain R P
+10000 10000 'beer' 0 0
+0 400 0 P
+#64915
+remote control~
+a {Cr{ce{Cm{co{Ct{ce {Bc{bo{Bn{bt{Br{bo{Bl{x~
+A {Cr{ce{Cm{co{Ct{ce {Bc{bo{Bn{bt{Br{bo{Bl{x sits here.  It operates the door.~
+electronic~
+trash PSTUY A
+0 0 0 0 0
+0 2 0 P
+#64916
+couch leather tv~
+{Wa {Cl{cu{Cx{cu{Cr{ci{Co{cu{Cs {Wsoft {Dleather {Bcouch{x~
+{gA {CVoice {WControl {BTV{x dominates the room.~
+electronic~
+furniture A 0
+5 100000 BEHK 0 0
+1 400 0 P
+#64917
+bottle opener~
+a {Ybottle {Bopener{x~
+A {Ybottle {Bopener{x lies here.~
+metal~
+trash PSTUY A
+0 0 0 0 0
+0 1 0 P
+#64918
+handcuff steel~
+a {Dsteel handcuff{x~
+A {Dsteel handcuff{x lies here.~
+steel~
+trash PSTUY A
+0 0 0 0 0
+0 1 0 P
+#64919
+antique couch~
+an antique couch~
+An antique couch is here waiting to be sat on.~
+wood~
+furniture R P
+4 100000 EH 100 100
+0 200 0 P
+#64920
+fountain milk~
+a marble fountain~
+A marble fountain is here, spouting fresh milk.~
+marble~
+fountain GR P
+100000 100000 'milk' 0 0
+0 200 0 P
+#64921
+small table~
+a small table~
+A small table with a vase of {Wwhite{x roses on it sits here.~
+wood~
+trash R P
+0 0 0 0 0
+0 100 0 P
+#64922
+waterbed~
+a king-sized waterbed~
+A king-sized waterbed with black satin sheets is here.~
+water~
+furniture R P
+4 100000 EHL 100 100
+0 200 0 P
+#64923
+canopy bed~
+a canopy bed~
+A beautiful canopy bed sits in the middle of the room.~
+wood~
+furniture R P
+2 50000 EHL 100 100
+0 200 0 P
+#64924
+kitchen table~
+a kitchen table~
+A kitchen table is here.~
+wood~
+furniture R P
+4 100000 DG 0 0
+0 200 0 P
+#64925
+ornate key~
+an {Co{crnate {Mk{mey{x~
+An {Co{crnate {Mk{mey{x lies here.~
+unknown~
+trash PSTUY A
+0 0 0 0 0
+0 1 0 P
+#64926
+leather couch~
+a {cso{Df{xt {mlea{Dth{cer {xco{mu{cch{x~
+A {cso{Df{xt {mlea{Dth{cer {xco{mu{cch{x looks inviting.~
+leather~
+furniture AR P
+4 10000 BEHK 100 100
+0 200 0 P
+#64927
+faery faeries marble fountain~
+a {Wma{Drb{Wle {mfo{xun{cta{min{x~
+A {Wma{Drb{Wle {mfo{xun{cta{min{x displays {Mfa{Cer{Wi{Ce{Ms{x spouting a {Wwhite frothy{x liquid.~
+marble~
+fountain AR P
+10000 10000 'milk' 0 0
+1 200 0 P
+#64928
+nessa adranas bed~
+an {mext{cra{D-so{mft {Wki{cn{mg-{Dsiz{ce{md{x bed~
+A bed covered with a {mcol{cor{Dful {chan{md-{wma{cde {mq{Dui{clt{x stands here perfectly made.~
+Down~
+furniture GI 0
+2 0 BEHK 1000 1000
+0 0 0 P
+#64929
+tiny musical note~
+a {cti{Dny {xmu{msi{cca{Dl n{xote~
+A {cti{Dny {xmu{msi{cca{Dl n{xote {yhums{x here.~
+music~
+trash BPSTUY A
+0 0 0 0 0
+0 1 0 P
+#64930
+electronic card keycard key~
+an {Welectronic{x keycard~
+An {Welectronic{x keycard lies here.~
+plastic~
+trash PSTUY A
+0 0 0 0 0
+0 1 0 P
+#64931
+adranas wedding ring~
+{cSy{dm{mbol {wo{Df {rNessa's {mL{cov{De a{cnd {mDev{cot{Wi{Don{x~
+A {cSy{dm{mbol {wo{Df {rNessa's {mL{cov{De a{cnd {mDev{cot{Wi{Don{x belongs to {BAdranas{x.~
+Diamond~
+armor ABGHISYZ AB
+20 20 20 20 0
+151 0 1500000 P
+A
+4 5
+A
+3 5
+A
+19 40
+A
+18 40
+#64932
+plasma stream fountain~
+{Da {Bplasma {Dstream{x~
+{DA drinking fountain sprouts up a {Bblue {Dliquid here.{x~
+plasma~
+fountain R P
+100000 100000 'cider' 0 0
+0 200 0 P
+#64933
+capsule bed~
+{Da {GCapsule{x~
+{DA {bblue {Dtube with {rred {Dbolts and a {Ggreen {Dscreen is standing here.{x~
+capsule~
+furniture R P
+2 1000000 CFIL 100 100
+0 200 0 P
+#64934
+ID chip~
+{DID {cchip{x~
+An {DID {cchip{x lies here.~
+chip~
+trash PSTUY A
+0 0 0 0 0
+0 2 0 P
+#64935
+bed~
+{Da soft bed{x~
+{DA soft bed lies beneath the eastern window.{x~
+wood~
+furniture SY 0
+2 4000 EHL 0 0
+0 50 0 P
+#64936
+spoon bent key~
+a strangely-bent spoon~
+A strangely bent spoon contiuously bends and unbends.~
+metal~
+trash PSTUY A
+0 0 0 0 0
+0 10 0 P
+#64937
+book tattered~
+a tattered book~
+A tattered book has been left here.~
+paper~
+trash PSTUY A
+0 0 0 0 0
+0 10 0 P
+#64938
+shard4 soul token <<qsv>>~
+{7a {8shadowy {#s{3h{#a{3r{#d{7 of your {8soul{x~
+A {8shadowy{0 object lies on the ground {&p{#u{&l{#s{&i{#n{&g{0 faintly.~
+ethreal mist~
+trash STY A
+0 0 0 0 0
+0 10 0 P
+E
+token~
+Staring into the shard, three choices on what to do with the shard are
+apparent: Trade it to Saphyre; Sell it to the highest bidder; or Sacrifice
+to the god of your choice.  
+~
+E
+shard~
+Staring into the shard, three choices on what to do with the shard are
+apparent: Trade it to Saphyre; Sell it to the highest bidder; or Sacrifice
+to the god of your choice.  
+~
+E
+soul~
+Staring into the shard, three choices on what to do with the shard are
+apparent: Trade it to Saphyre; Sell it to the highest bidder; or Sacrifice
+to the god of your choice.  
+~
+#64939
+mushrooms ring~
+a {^co{#lo{!rf{%ul {$mu{%sh{!ro{#om{0~
+{5A ring of {%co{#lo{!rf{%ul {$mu{%sh{!ro{#om{%s{5 grows here.{0~
+fungus~
+furniture 0 0
+20 20000 EH 0 0
+0 0 0 P
+E
+ring~
+A ring of colorful mushrooms grows here, inviting you to sit and stay
+awhile.  
+~
+E
+colorful~
+A ring of colorful mushrooms grows here, inviting you to sit and stay
+awhile.  
+~
+E
+mushrooms~
+A ring of colorful mushrooms grows here, inviting you to sit and stay
+awhile.  
+~
+#64940
+spring fountain~
+{5the {^spring{0~
+{5A small {^spring{5 of refreshing {4water{5 bubbles forth from the ground.{0~
+unknown~
+fountain 0 0
+-2 -2 'mineral water' 0 0
+0 0 0 P
+E
+spring~
+The water of this spring reflects a myriad of colors from the surrounding
+forest.  
+~
+#64941
+hammock~
+{5a dragon-sized hammock{0~
+{5A dragon-sized hammock is strung between the two tallest trees of the forest.{0~
+canvas~
+furniture 0 0
+1 10000 FIL 0 0
+0 0 0 P
+E
+hammock~
+This hammock is HUGE!  Could this be where Svrellia spends her time when
+she needs to escape the grime and pessimism of city life?  
+~
+#64942
+crystal sphere~
+{5a {^c{@r{^y{@s{^t{@a{^l{5 sphere{0~
+{5A {^c{@r{^y{@s{^t{@a{^l{5 sphere sits in the dirt.{0~
+water~
+trash PSTUY A
+0 0 0 0 0
+0 0 0 P
+#64943
+jacuzzi~
+a Magical Jacuzzi~
+A big, Magical Jacuzzi is inset into the floor.~
+marble~
+furniture ABO 0
+5 1000 CFIL 100 100
+0 0 0 P
+#64944
+pillows silk~
+a {%silk {0pillow~
+Comfortable {%silk{0 pillows are scattered across the floor.~
+silk~
+furniture O 0
+5 20000 EHK 100 100
+0 0 0 P
+#64945
+key neon light~
+a {!n{@e{#o{$n{%-{&light{0 key~
+A {!n{@e{#o{$n{%-{&light{0 key {6glows{0 softly.~
+glass~
+trash PSTUY A
+0 0 0 0 0
+0 0 0 P
+#64946
+fountain neon~
+a {%n{#e{!o{^n {7fountain{0~
+A {%n{#e{!o{^n {7fountain{0 brightens the room.~
+glass~
+fountain AO 0
+-1 -1 'iced tea' 0 0
+0 0 0 P
+#64947
+leather chair~
+a comfortable leather chair~
+A comfortable leather chair is here.~
+leather~
+furniture R P
+2 20000 EHK 100 100
+0 500 0 P
+E
+chair~
+It has seen better days.  The leather is creased, but not cracked.  The
+wood is polished, but marred by chips and gouges gathered over time. 
+Despite its appearance, it seems to be quite comfortable.  
+~
+E
+leather~
+It has seen better days.  The leather is creased, but not cracked.  The
+wood is polished, but marred by chips and gouges gathered over time. 
+Despite its appearance, it seems to be quite comfortable.  
+~
+#64948
+fountain~
+a fountain fashioned from a decanter of endless water~
+A fountain fashioned from a decanter of endless water gurgles here.~
+decanter~
+fountain R P
+-1 -1 'water' 0 0
+0 500 0 P
+#64949
+beanbag red~
+{Da {Rred{D beanbag{x~
+{DA {Rred{D beanbag{D sits near the {rfireplace{D.{x~
+vinyl~
+furniture 0 0
+1 2000 EHK 0 0
+0 0 0 P
+#64950
+beanbag blue~
+{Da {Bblue{D beanbag{x~
+{DA {Bblue{D beanbag{D sits near the {rfireplace{D.{x~
+vinyl~
+furniture 0 0
+1 2000 EHK 0 0
+0 0 0 P
+#64951
+beanbag multicolored~
+{Da {rm{Ru{yl{Yt{gi{Gc{co{Cl{Bo{br{me{Md{D beanbag{x~
+{DA {rm{Ru{yl{Yt{gi{Gc{co{Cl{Bo{br{me{Md{D beanbag sits near the {rfireplace{D.{x~
+vinyl~
+furniture 0 0
+1 2000 EHK 0 0
+0 0 0 P
+#64952
+couch sofa hides~
+{ma couch of many hides{x~
+{WA couch made of many different hides sits across from the fireplace.{x~
+flesh~
+furniture 0 0
+10 10000 EHK 100 100
+0 0 0 P
+E
+couch~
+The couch is made of hides from all over Redemption.  Some you are not sure
+are safe to sit on.  
+~
+E
+sofa~
+The couch is made of hides from all over Redemption.  Some you are not sure
+are safe to sit on.  
+~
+E
+hides~
+Looking closely at the couch, you can identify some of the hides: snails,
+orcs, dragons, and some other very scary and beautiful creatures.  
+~
+#64953
+ice fountain mead~
+{ba solid ice fountain{x~
+{WIced Mead pours forth from a solid ice fountain that refuses to melt.{x~
+water~
+fountain 0 0
+-2 -2 'mead' 0 0
+0 0 0 P
+#64954
+brook~
+a brook~
+{x~
+unknown~
+fountain 0 0
+-1 -1 'mineral water' 0 0
+0 0 0 P
+#64955
+hammock~
+a hammock~
+A hammock rocks gently in the breeze.~
+unknown~
+furniture 0 0
+2 10000 FIL 100 100
+0 0 0 P
+#64956
+star key~
+a {ystar{x key~
+A shining star has been dropped here.~
+unknown~
+trash S AO
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#64900
+{DAbraKa Keep Foyer{x~
+{RA{rbra{RK{ra{D keep was forged from {Wstone years ago by the family to be used as a
+fortress in times{D of {rwar{D.  Though the {rwar{D feared never occured, the keep is
+still used as a haven for the {RA{rbra{RK{ra{D kin and their friends.  The foyer is a
+large room, pleasantly warmed by a {rfireplace{D against one wall.  The head of
+a {RX{ra{Rn{rt{Rh{
+ru{Rr{ro{Rk{ru{Rs{D beast {Dhas been proudly put on display above the {rfireplace{D and
+the wall is further adorned with pictures of various family members on
+special occasions.  To the west a {Wtunnel appears to have been purposefully
+caved in and then sealed.  A faint {wlight{D to the east shines through {Dan
+entrance to another room, while to the north a thin layer of {Wcobwebs{D arch
+across an opening into a dark area.  {x 
+~
+0 795656 0
+E
+tunnel~
+{DThe tunnel was used for various games when Santeria and Svrellia were
+toddlers, but had to be caved in when trolls and goblins began to gain
+entrance to the keep through it.  It was carefully sealed and there is no
+hope of passing through it.  {x 
+~
+E
+xanthurokus~
+{DA large {RX{ra{Rn{rt{Rh{ru{Rr{ro{Rk{ru{Rs{D skull sits above the fireplace.{x
+~
+E
+fireplace~
+{DThe {rfireplace{D warms the entire keep and creates an amiable atmosphere.  {x 
+~
+D0
+{DCobwebs arch over the opening that leads to Johndalf's old lab.  The room
+is rarely used anymore since the other AbraKas understand very little of
+alchemical magicks.  {x 
+~
+~
+0 0 64903
+D1
+{DA faint light shines through the entrance to Lyvianna and Mufti's bedroom. 
+{x 
+~
+~
+0 0 64902
+D2
+~
+stone_door~
+4 64936 3399
+S
+#64901
+{CAtromar's{c and {BRianna's{x Home~
+{cThis is the home of {CAtromar{c and {BRianna{c.  It is a largish room with a
+floor-to-ceiling picture window which overlooks a {Gverdant {cforest garden. 
+Gaily coloured birds flit around from tree to tree and the scent of {Mtropical
+{cflowers is omnipresent in the room.  Cane furniture with brightly coloured
+cushions stand around a miniature indoor pond complete with fountain.  A
+beautiful persian cat eyes up the fish in the pond.  {x 
+~
+0 795656 0
+E
+window~
+{gThe picture window covers the expanse of one entire wall.  It is so
+clean that it could almost not be a window at all.  Vents in the top let in
+the perfume from the garden below.  {x 
+~
+E
+garden~
+{gThe lush garden below the window is very similar to that of a
+rainforest, without the rain.  Bright {Ggreen{g foliage nestles between
+leafy trees and the ground is amass with tendrils and vines and other
+groundcover plants.  {x 
+~
+E
+birds~
+{gStunning, vibrant coloured birds fly around the garden, enjoying the
+lush forest as if it were their home.  {x 
+~
+E
+trees~
+{gThe trees soar into the sky in an everpresent mass of different shades
+of green.  They house homes for the birds and creatures of the forest below.
+{x 
+~
+E
+flowers~
+{gThe {Mtropical{g flowers which grow in the garden below are brightly
+coloured and have a delightful perfume.  Different shades of fuschias, reds
+and oranges combine with violets and yellows, making the view a startling
+display.  {x 
+~
+E
+fish~
+{RF{Yis{Rh{c swim happily around in the pond.  They are canny little
+things and quite used to dodging the mean ole cat.  {x 
+~
+D3
+Peering through the peep hole you see the Redemption Plaza.
+~
+glass-door~
+4 64904 3381
+S
+#64902
+{DLyvianna and Mufti's Bedroom{x~
+{DThe bedroom features floor to floor carpeting to cover the hard {Wstone{D
+floors.  The grey carpet accents the {Wmarble stone{D of the walls and ceiling. 
+{wLight{D spills through the eastern window which provides a view of the plaza. 
+Beneath the window, a bed is covered in silk sheets and roc-feather pillows.
+A dresser stands against the western wall near the entrance, locked firmly
+against curious intruders.  Atop the dresser, a {yvanilla incense{D burns,
+spreading an intoxicating and relaxing aroma around the room.  A faint
+{cmelody{D drifts from a music box sitting adjacent to the incense.  {x 
+~
+0 795648 0
+E
+pillows~
+{DThe pillows are filled with feathers of rocs.  Jealously guarded by the
+gods of Olympus, roc feathers are a precious commodity.  {x 
+~
+E
+window~
+{DNatives citizens of Midgaard often pass by and occasionally an adventurer
+will enter their home.  {x 
+~
+D3
+~
+~
+0 0 64900
+S
+#64903
+{DJohndalf's Lab{x~
+{DThe only {wlight{D that enters this room comes from the foyer and the
+basement.  Dark shapes sit in shadows, which upon closer inspection appear
+to be various equipment used in the study of {galchemical magicks{D.  Some
+potions are still sitting out, untouched since {rJohndalf's{D last visit to the
+keep.  A half-inch lair of dust covers the floor, leaving your footprints
+unsettingly visible.  A hole appears to have been blasted in the floor by
+some {Bexperiment{D gone awry and a set of makeshift stairs leads down to the
+basement.  {x 
+~
+0 795648 0
+E
+basement~
+{DA hole in the floor leads down to the basement.  {x 
+~
+E
+footprints~
+{DYour footprints track along the floor, making your visit here easily
+noticeable.  {x 
+~
+E
+dust~
+{DThe layer of dust on the floor serves as testimony to the disuse of the
+lab.  {x 
+~
+E
+potions~
+{DThe potions are old and could be a danger to your health.  {x 
+~
+D2
+~
+~
+0 0 64900
+D5
+{DA hole in the floor leads down to the basement.  {x 
+~
+~
+0 0 64904
+S
+#64904
+{DBasement of AbraKa Keep{x~
+{DYears ago, when Johndalf still roamed the keep, this room was oftentimes
+used as a nursery.  Santeria {Dand Svrellia would play with their uncle's
+newest creation while he performed his experiments above.  {DVarious objects
+are strewn around the room, most broken or in a state of {gdecay{D.  {x 
+~
+0 795648 0
+D4
+~
+~
+0 0 64903
+S
+#64905
+{CZ{co{Cm{ca{Ck{c'{Cs {BH{bo{Bu{bs{Be{x~
+A spacious room with a large television greets you as you enter.  Looking
+around you notice that there are no windows in this room.  So this must be
+the house of Zomak the lich.  Since you are here, you might as well sit on
+the couch and enjoy some TV.  As you look for the remote control you see a
+sign which says this is voice activated television.  You can stay here until
+you are bored.  Zomak reminds you that when you leave, don't forget to get a
+cold beer from the refrigerator.  
+~
+0 795656 0
+D0
+Peering through the peep hole you see the Redemption Plaza.
+~
+oak-door~
+4 64915 3388
+S
+#64906
+{BK{belcyron's {xand {YL{yo{Yr{ye{Yl{ye{Yi{y'{Ys{x House~
+A beautifully appointed room, this olde-worlde style cottage has genuine
+oak beams on the ceiling and water colour paintings hanging on the wall,
+each one lovingly painted of a cat.  A large stone fireplace stands against
+the east wall, with a burning fire within.  Logs are stacked up against the
+hearth and a fire-guard prevents any damage to the rug in front of it.  Two
+leaded windows overlook a picturesque cottage garden complete with
+old-fashioned roses climbing up the pergola in front.  
+~
+0 795660 0
+D3
+Peering through the peep hole you see the Redemption Plaza.
+~
+oldfashioned-door~
+4 64909 3387
+S
+#64907
+{DTi{Cbe{Dri{Cus{D's {CS{cpi{Cff{cy {BP{blace{x~
+Welcome to Tiberius's Spiffy Place!  It's totally shagadelic, man!  It's
+filled with high-tech and groovy stuff.  It's pretty large, with one huge
+window on the left side of the room that shows the beautiful scenery of
+Redemption.  On the right side there is a huge bookcase, filled with books
+about sci-fi and legal thrillers, a bunch of alternative rock CDs, and
+baseball and football memorabilia.  From the room hangs a disco ball. 
+There's a large desk and a hot tub in the middle of the room, placed on the
+dance floor.  On the desk is a blazing-fast G10 Macintosh and a control
+panel.  You find out that control panel is for the huge 200" big screen TV
+and the strobe lights.  You spot a refrigerator in the corner of the room. 
+It is filled with all sorts of booze!  Tiberius invites you to take a drink
+or twenty.  
+~
+0 795660 0
+D3
+Peering through the peep hole you see the Redemption Plaza.
+~
+door-panel~
+4 64930 3388
+S
+#64908
+{GK{grystania's {CB{cedroom{x~
+As you enter {GK{grystania's {CB{cedroom{x you notice clothes strewn
+about and bottles and cans scattered.  Obviously very unkept, you notice a
+sense of order to the chaos.  On the bed to the east lies {BH{borza{x and on
+the bed to the west lies Krystania's brother {RH{rurin{x.  
+~
+0 795660 0
+D1
+Peering through the peep hole you see the Redemption Plaza.
+~
+black-door~
+4 64917 3383
+S
+#64909
+{GBolaar{x and {MMelmar{x's Living Room~
+This large room has all the comforts you can imagine.  There are racks of
+books and maps along the walls.  A large couch is on the north side of the
+room, and a cozy love seat on the south side.  The east door leads to the
+bedroom, and to the west is a locked {Dblack{x door, which gives guests an
+uneasy feeling as they look at it.  
+~
+0 795660 0
+D1
+~
+~
+0 0 64911
+D2
+Peering through the peep hole you see the Redemption Plaza.
+~
+padded-door~
+4 64918 3387
+D3
+~
+black-door~
+1 0 64910
+S
+#64910
+The {DPlay{x Room~
+This is where {MMelmar{x comes to 'play' with her favorite toy,
+{GBolaar{x.  A large table with restraints dominates the center of the room.
+Manacles hang from the ceiling and the walls.  Racks of whips and other
+devices are placed in easy reach.  
+~
+0 796168 0
+D1
+~
+black-door~
+1 0 64909
+S
+#64911
+The Bedroom~
+This peaceful room is almost completely filled by a huge circular bed. 
+Around the bed are closets and dressers, filled with both adventuring gear
+and personal items.  Around the room are pictures of the children, Ulrik,
+Mira, Sutra, Baator, Bryadon, and Zoya.  The sense of pure love permeates
+the air here.  
+~
+0 796168 0
+D3
+~
+~
+0 0 64909
+S
+#64912
+{CH{cugh{x & {MA{mlexis{x' House~
+Lace curtains hang delicately from the windows while blowing gently in
+the breeze.  Pictures of {CH{cugh{x & {MA{mlexis{x can be seen all around
+the room of their many outings together.  {WWhite{x rabbit fur carpet covers
+the entire living room.  Looking down the hallway to the west you can see
+the doors leading to the Master bedroom and baby {WAngel's{x room.  The
+kitchen is to the east.  
+~
+0 795656 0
+D1
+~
+~
+0 0 64916
+D2
+Peering through the peep hole you see the Redemption Plaza.
+~
+ivory-door~
+4 64925 3382
+D3
+~
+~
+0 0 64913
+S
+#64913
+{YH{yallway{x~
+Standing in the hallway more picture's of the happy couple and their baby
+can be seen.  A small table at the end of the hallway holds a vase of fresh
+cut {Wwhite{x roses.  To the north is the Master bedroom and to the south is
+{WAngel{x's room.  
+~
+0 795656 0
+D0
+~
+~
+0 0 64914
+D1
+~
+~
+0 0 64912
+D2
+~
+~
+0 0 64915
+S
+#64914
+{CH{cugh{x & {MA{mlexis{x' Bedroom~
+Black fur carpet covers the bedroom floor.  Satin black drapes hang from
+the windows.  A huge walk-in closet with mirrors for doors takes up one side
+of the wall.  A beautiful wicker chest sits at the end of the bed holding
+some of their personal belongings.  
+~
+0 795656 0
+D2
+~
+~
+0 0 64913
+S
+#64915
+{WAngel{x's {BR{boom{x~
+This is {WAngel{x's bedroom, it is painted light pink.  White drapes hang
+from the windows.  Her toys are put up neatly in her toy chest in the
+corner.  Beautiful fur carpet covers her bedroom.  Her bed sits in the
+center of the room.  
+~
+0 795656 0
+D0
+~
+~
+0 0 64913
+S
+#64916
+{GK{gitchen{x~
+Cabinets can be seen from wall to wall in the kitchen.  A huge island bar
+can be seen in the middle of the room.  The floor is done in black and white
+checkers.  A table for the three of them sits way over in the corner.  
+~
+0 795656 0
+D3
+~
+~
+0 0 64912
+S
+#64917
+{rNessa's {DSoul{x~
+Welcome to {rNessa's {DSoul{x.  Life fades in and out of consciousness
+like the slippings of a coma patient.  So much emanates from this room -
+{rlove {xand {Ddespair{x as well as {Chappiness{x and {msadness{x.  There is
+a beautiful hand-crafted Drow rug on the floor in multiple colors.  Along
+the west wall there is a window looking out onto Tir Na nOg providing a
+soothing westerly breeze.  A music box is on the table in the corner,
+occasionally letting a few notes escape.  
+~
+0 795656 0
+E
+rug~
+{W            .+i+;I:
+{W            :=..    t:           
+{W           =;+;:..   ii.     {r{rMichelle {Dand {B{BTony{x
+{W           =;+;:..   ii.       {CTwo {MHearts - {mOne {cLove
+{W          +I::;=:;;+t=i;=.      {D"{GI have known you before
+{W          +;;;+;i.;;:It++i;       {GI will know you again
+{W        ;X  t+=+=;;i;=iItt+V      {G  Our bond is eternal...{D"{x
+{W        :t  =ii+.=.;:=+ii++iIY
+{W        :R   i=ti+=+;i+i=t=++:+Ii+==
+{W        :R  .+iii==;;itt=++i=i::=YRBBBMRRVY+;
+{W         ;+    +i+;+;+itiiitii+i+i .=iYVIi+iitI=;=
+{W +. ::.X:.;   .:=;+=i=ii++YYIIiiiIt.  ;YI::+:;=iit===;
+{WI;:. .  :+:YI;R..=;;=i+titIVItIYVYYYXVX=+:.....;;+t=+::=
+{W+i;.::......:;:=;;;;;=+iii=+=++ii++tttVI===;;;;::;;+;tti=
+{W tI+.::::.;::;:=+++i=+;i++ititttItIItt=;=t+==;:;::;:;=+IY=:
+{W  :=i;::.::::;=:;++=i===;iiittitttttItt=;=;:;;...::;::;.;+ii:;
+{W    :=+::.;+i+t++itiIIY=RRRXXV+VYi===:::;;:.:.........::;;;:;;;;:;;;;
+{W        :tYti=;=+;+;=+++=;iIVRRRRVVRXRYYYV=;=::::..........:.:==+i==;;==;;:
+{W          ;Xti;=;+i;+ti++=+tRBBBYBVRYXIVtYY++=..:........:.;;::==;::;.;;;
+{W            YVi==;++:I;;ii+IRXIYIY=:;i;i;=;;;;;.........;:::;:;=;..;;::
+{W            :=XI=+iItIiit=:IXRRIItiXiIYiIt;I==:.......:..:....;:........
+{W           :BWRRV;YRIXY...+YRRVYVR+XIRItitI++=:.....;:.........:....:.::..
+{W           ==+RWBXtIRRV+.+IiYRBYBRRYYIRI;VitI;=;..........:::.::;::::...;;;:.
+~
+E
+window~
+There is a soft breeze coming from the window, cooling the room off.
+Outside the {Rsu{yn {Yis {Mse{rtt{Min{cg; {mcolors {Dfading into n{Wi{Dght{x.
+A feeling of security is present just by standing by this window.
+~
+D0
+Peering through the peep hole you see the Redemption Plaza.
+~
+sandalwood-door~
+4 64929 3383
+D1
+~
+~
+0 0 64918
+S
+#64918
+{rNessa's {DBedroom{x~
+Somehow you have entered Nessa's bedroom.  There are lit candles on every
+wall as well as on the table at the far end of the room.  The flickering
+light from the flames casts strange shadows along the ivy-covered walls. 
+There is a sweet, musky scent coming from unseen incense.  There is a window
+on the far wall encased by dark purple window-coverings, making the room
+feel darker than it really is.  The warmth and coziness of this room offers
+sanctuary to any and all that have the pleasure of entering it.  
+~
+0 796172 0
+E
+window~
+{mDark purple{x drapes frame this large window.  A sense of tranquility
+overcomes you as you stand before it, gazing out into the uncertain sky. 
+The candles' flames dance playfully in the glassy reflection, giving an
+almost eerie feeling to the room.  Despite the eeriness of the candles, the
+window provides an outlet to the world - a world of love, of new beginnings
+and of life at its fullest.  
+~
+D3
+~
+~
+0 0 64917
+S
+#64919
+{xDr. Light's Lab~
+{DThe room {Cgleams {Dwith a bright light, created by the shimmering tiles above.
+{DThe {Wsilver {Dfloor glistens and changes {Gcolor{D, responding to touch. Strange
+{Dinventions are scattered about the room, many containing a {ggreen{D bubbling
+{Dliquid. Other devices sit on a desk, made of a {Cspace aged metal{D, making
+{Dmechanical whirs and ticks. {yR{ru{ys{rt{ye{rd{D reploid parts are set up against the
+{Dside wall along with storage disks containing defeated enemies' weapon data.
+{DA pulsating noise can be heard in the back ground, fading in and out. Well
+{Dmaintained pieces of metal lie in a crate, these are the remains of {RR{rush{D,
+{BM{begaman {Dand {yZero {Dwho were recently put into retirement.
+{D  In the center of the room there is a large tube with {bblue{D caps eminating a
+{Ggreen{D light; an image of a man in a {xwhite{D coat with {xwhite{D hair and a {xwhite
+{Dbeard is flickering inside, the tube.{x
+~
+0 795656 0
+E
+capsule~
+It fills with {Bplasma{x when you sleep in it.  {YCould be harmful to
+non-artificial life{x.  
+~
+E
+protoman~
+He was supposed to replace megaman, who seemed to be defective,
+unfortunately he was quickly detered from his original purpose.  
+~
+E
+zero~
+Maverick hunter extrordinaire.
+~
+E
+x~
+Upgrade parts of megaman specifically for hunting down reploids who
+strayed from the path of peace.  
+~
+E
+megaman~
+The first reploid created to help the world.
+~
+E
+rush~
+The parts from Dr. Lights first successful counter-part for megaman.
+~
+E
+disks~
+These disks no longer have any use.
+~
+E
+parts~
+Unidentified reploid parts from cities destroyed by {RP{rrotoman{x, Dr. 
+Wily and Sigma, lie here waiting to be sorted or discarded.  
+~
+E
+device~
+An attachment that allows reploids to dash has been ripped out and left here.
+~
+E
+invention~
+An item synthesiser is here waiting for P-Chips.
+~
+D2
+Peering through the peep hole you see the Redemption Plaza.
+~
+{dscan-activated-door{x~
+4 64934 3385
+S
+#64920
+{%S{5amodivska{^ P{6oliyana{0~
+{5You are standing in a {6clearing{5, surrounded by the beautiful {2forest{5 of
+some long forgotten {%f{5airy {%t{5ale.  {6Nymphs{5, {6faeries{5 and other creatures flit
+amongst the tall {2trees{5, allowing only {!fleeting{5 glances to pass over them. 
+The sounds of {^birds{5 chirping and forests nymphs singing mingles with the
+{$laughter{5 and {$gaiety{5 of the creatures who inhabit this beautiful place.  Two
+{#spheres{5 of {^magically{5 enchanted {$water{5, one {@green{5 and the other {^blue{5, hang
+suspended in the air inviting closer inspection.  The surrounding {2forest{5
+seems totally peaceful except to the west, where the trees are {8misshapen and
+{8grotesque{5.  These same trees seem to block out all {#light{5 from the area, and
+none of the {^d{6enizens{5 of this {%p{5eaceful {%g{5lade{5 dare venture toward that
+{8accursed darkness{5.{0
+~
+0 533512 0
+E
+darkness~
+The trees block out all sunlight.  A chilling wind reaches out, seeming
+to want to pull you into the darkness leading you to whatever dread creature
+might inhabit such a place.  
+~
+E
+blue~
+One of Svrellia's dearest memories seems to be forever imbued into this
+sphere.  It is an image of Svrellia and her husband Bergendy on their
+wedding day.  Their {&silver scales{0 glitter in the sunlight as they stand
+together here forever.  
+~
+E
+green~
+One of Svrellia's dearest memories seems to be forever imbued into this
+sphere.  It is a picture of her family.  Her mother Lyvianna, father Mufti,
+uncle Dominick and her cousin Johndalf are all gathered around each other.  
+~
+E
+sphere~
+Two spheres of {4water{0 are magically suspended in the air.  One is {2green{0,
+the other is {$blue{0.  Into which do you intend to gaze?  
+~
+D0
+Peering through the peep hole you see the Redemption Plaza.
+~
+shadowy-door~
+4 64942 3386
+D3
+The trees block out all sunlight.  A chilling wind reaches out, seeming
+to want to pull you into the darkness leading you to whatever dread creature
+might inhabit such a place.  
+~
+darkness~
+0 0 64921
+S
+#64921
+{8Accursed Darkness{0~
+{8The darkness closing around you is so impenetrable that nothing is
+visible.{0  
+~
+0 533512 0
+D1
+A ray of sunlight breaks through the darkness pulling you on.
+~
+light~
+0 0 64920
+S
+#64922
+A Quiet Room~
+You have entered the peaceful, relaxing sanctuary of Aethwor.  All
+around, papers are strewn, showing obvious signs of work being done,
+projects yet to be completed.  This is obviously where he goes to relax and
+get away from everything.  
+~
+0 795656 0
+D2
+A party seems to be happening beyond this door.
+~
+office door~
+1 0 64923
+S
+#64923
+Aethwor's {!P{@A{!R{$T{%Y {!Room{0~
+The room is wall to wall food and fountains full of drink.  Hide and
+Seekers come here to rest up and converse before heading back out.  The aura
+in this room is a light friendly one and a broad smile plays on the faces of
+everyone in it.  So come in, relax, and get your party on, because come Hide
+and Seek time, YOU WILL BE HUNTED.  
+~
+0 795656 0
+D0
+An office door seems to lead to a quieter place.
+~
+office door~
+1 0 64922
+D1
+Peering through the peep hole you see the Redemption Plaza.
+~
+~
+4 64945 3382
+S
+#64924
+Tykal's House~
+Rows upon rows of various books and texts line the bookcases that cover
+the walls of this modest home.  Many of the books appear dog-eared and
+well-worn, likely from age and use.  Several tables are barely visible under
+stacks of documents.  Organizing and cataloging the documents has been on
+Tykal's to-do list for quite some time now.  A old leather chair sits to one
+side, surprisingly free of papers.  It serves as a make-shift bed on the
+infrequent times that Tykal is actually home.  A few windows, strategically
+placed, light the room during the day.  Continual light spells suffice for
+illumination during the evening hours, as the owner does not trust oil lamps
+in a house filled with dry, flammable paper.  Various objects gathered from
+travels across the world of Redemption have been set on top of bookcases and
+stacks of documents.  A skull of the Xanthurokus seems to serve as a
+paperweight.  Despite the cluttered appearance, there is a semblance of
+order in the messes.  
+~
+0 795660 0
+D2
+~
+bookcase~
+4 64937 3392
+S
+#64925
+Sernone's Log Cabin~
+A {Rf{Yi{Rr{Ye{x roars in the fireplace keeping the {bc{ch{bi{cl{bl{x at bay.  The wooden floor
+is covered by the skin of a {WVery Large {YXanthurokus{x.  Out the window, a {Dstorm{x
+rages furiously, but in this humble abode the {Yw{ya{Yr{ym{Yt{yh{x and {Gp{ge{Ga{gc{Ge{gf{Gu{gl{Gn{ge{Gs{gs{x soothe
+the soul.  
+~
+0 533516 0
+E
+xanthurokus~
+Only a Strider of outstanding skill could skin and make a rug of this type.
+~
+E
+skin~
+Only a Strider of outstanding skill could skin and make a rug of this type.
+~
+E
+rug~
+Only a Strider of outstanding skill could skin and make a rug of this type.
+~
+S
+#64926
+{GH{gappysun's and {YK{yriez's home{x~
+A {rcozy{x log home made from {yoak{x over a natural {Cflow{cing{x {Bb{br{Bo{bo{Bk{x.  {YPicture's{x of
+{YK{yriez{x fighting {Gdragon's{x and {rdemon's{x line the wall along with former {Dweapons{x
+and war {Ytrophies{x.  Looking out towards the {dcourtyard{x you can see the
+wonderful {ggardens{x of {Rroses{x and fruits that {GH{gappysun{x has cultivated.  On the
+north wall is a {Ybrightly{x {Yg{yl{Yo{yw{Yi{yn{Yg{x {rfireplace{x ready to warm your weary {wbones{x.  
+~
+0 532484 0
+D1
+~
+~
+4 64956 3397
+D2
+~
+~
+0 0 64927
+D4
+~
+~
+0 0 64928
+S
+#64927
+Jacuzzi Room~
+{MG{mracing{x this room is a enormous warm {Bb{bu{Cb{cb{Bl{bi{Cn{cg{x jacuzzi fit for a {RK{ring{x. 
+{GV{gines{x of {Rr{roses{x are entwined on the {yoaken{x pillars, their smell relaxing you
+after a long journey.  Various {Dweapons{x and {darmor{x litter the ground where
+{YK{yriez{x left them before charging off on another mission.  
+~
+0 4 0
+D0
+~
+~
+0 0 64926
+S
+#64928
+{RK{ratamoto's {x& {GN{gecrite's {RMosh{x Pit~
+You have entered {RK{ratamoto's{x & {GN{gecrite's{x {RMosh{x pit for the wickedly insane
+{ggasmatic{x people..  Lining the walls are strange {Dorcish{x {Yartifacts{x and {ggreen{x
+slimey things of unknown nature...  {CF{wl{co{ww{ci{wn{Cg{x in the center of the room is a
+endless supply of {YOrange{x juice that people are splashing in and drinking
+from.  
+~
+0 0 0
+D5
+~
+~
+0 0 64926
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 64900 2 2
+D 0 64901 3 2
+D 0 64905 0 2
+D 0 64906 3 2
+D 0 64907 3 2
+D 0 64908 1 2
+D 0 64909 2 2
+D 0 64909 3 1
+D 0 64910 1 1
+D 0 64912 2 2
+D 0 64917 0 2
+D 0 64919 2 2
+D 0 64920 0 2
+D 0 64922 2 1
+D 0 64923 0 1
+D 0 64923 1 2
+D 0 64924 2 2
+D 0 64926 1 2
+M 0 64900 1 64900 1
+O 0 64951 0 64900
+O 0 64950 0 64900
+O 0 64949 0 64900
+O 0 64901 0 64900
+O 0 64900 0 64900
+O 0 64902 0 64901
+O 0 64903 0 64901
+M 0 64904 1 64901 1
+E 0 64905 0 3
+O 0 64935 0 64902
+M 0 64911 1 64904 1
+O 0 64916 0 64905
+M 0 64905 1 64906 1
+O 0 64906 0 64906
+O 0 64907 0 64906
+O 0 64908 0 64906
+O 0 64910 0 64907
+O 0 64911 0 64907
+M 0 64906 1 64908 1
+O 0 64912 0 64908
+O 0 64913 0 64908
+O 0 64914 0 64908
+M 0 64907 1 64909 1
+O 0 64919 0 64912
+O 0 64920 0 64912
+M 0 64908 1 64912 1
+O 0 64921 0 64913
+O 0 64922 0 64914
+O 0 64923 0 64915
+O 0 64924 0 64916
+O 0 64926 0 64917
+O 0 64927 0 64917
+M 0 64909 1 64917 1
+O 0 64928 0 64918
+O 0 64932 0 64919
+O 0 64933 0 64919
+M 0 64901 1 64919 1
+O 0 64940 0 64920
+O 0 64939 0 64920
+O 0 64941 0 64920
+M 0 64902 1 64921 1
+O 0 64944 0 64922
+O 0 64946 0 64923
+O 0 64943 0 64923
+M 0 64910 1 64923 1
+O 0 64947 0 64924
+O 0 64948 0 64924
+O 0 64953 0 64925
+O 0 64952 0 64925
+O 0 64955 0 64926
+O 0 64954 0 64926
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#64900
+if name $n 'saphyre'
+or name $n 'vartan'
+or name $n 'laniessa'
+  say Why certainly, $N.
+  give holder $n
+else
+  if isimmort $n
+    say Sorry, better ask Saphyre to get that for you.
+  else
+    say I don't think so, $N.
+    mob kill $n
+  endif
+endif
+~
+#64901
+if rand 50
+  if rand 50
+    mob echo The {&{&persian{0{0 pads around the room looking for {&mice{0.
+  else
+    mob echo The {&persian{0 catches a {!f{#is{!h{0 and eats it surrepticiously under the sofa.
+  endif
+else
+  if rand 50
+    mob echo The {&persian{0 casually dips a paw into the pond, trying to hook a {!f{#is{!h{0.
+  else
+    mob echo The {&persian{0 rubs itself up against your legs.
+  endif
+endif
+~
+#64902
+mob echo The {Wpersian{x catches a {Rf{Yis{Rh{x and eats it surrepticiously under the sofa.
+~
+#64903
+dhcp163-14.njit.edu~
+#64904
+mob echo The {Wpersian{x rubs itself up against your legs.
+~
+#64905
+if hour >= 20
+or hour <= 4
+  if rand 50
+    mob echo $I {Mpu{mrr{rrs{x softly in $l sleep.
+  else
+    mob echo $I opens an {Ge{gye{x and looks around {wlazily{x.
+  endif
+endif
+if hour >= 5
+and hour <= 8
+  if rand 50
+    mob echo $I slowly wakes up and {Gstr{xeee{Getc{xhes languidly.
+  else
+    mob echo $I curls up in front of the {wfireplace{x.
+  endif
+endif
+if hour >= 9
+and hour <= 11
+  if rand 50
+    mob echo $I {Dpads{x around the room, looking for {yfood{x.
+  else
+    mob echo $I {Mmewls{x at the fact there is no {yfood{x here.
+  endif
+endif
+if hour >= 12
+and hour <= 13
+  if rand 50
+    mob echo $I leaps up onto the {ycouch{x looking smug with $kself.
+  else
+    mob echo $I {Mmeows{x and leaps up onto the {ywindowsill{x for some afternoon {Ysun{x.
+  endif
+endif
+if hour >= 14
+and hour <= 17
+  if rand 50
+    mob echo $I snoozes in the afternoon {Ysun{x.
+  else
+    mob echo $I {Ypounces{x on a {Dmouse{x!
+  endif
+endif
+if hour >= 18
+and hour <= 19
+  if rand 50
+    mob echo $I chases a bit of {Wstring{x around the room, {Dtail{x twitching.
+  else
+    mob echo $I sits on the {ygarden {Dwall{x and watches the {Yfireflies{x blink past.
+  endif
+endif 
+~
+#64906
+if has $i 'trash'
+ mob cast 'teleport' $i
+ if mobs > 1
+  mob remember $r
+  if ispc $q
+  or carries $q 'shard1'
+   mob forget
+   mob call 64906
+  else
+   give shard1 $q
+   mob forget
+   mob goto 64900
+  endif
+ else
+  mob call 64906
+ endif
+else
+ mob oload 64936
+endif
+~
+#64907
+if hour >= 20
+or hour <= 5
+  if rand 50
+    mob echo $I {5murmurs{0 in $l sleep.
+  else
+    mob echo $I {6opens{0 an {4e{8y{4e{0 and looks around.
+  endif
+endif
+if hour >= 6
+and hour <= 8
+  if rand 10
+    mob echo $I {^slips{0 out the hatch to get breakfeast.
+  else
+    mob echo $I pulls out her {1w{8e{1a{8p{1o{8n{1s{0 and goes through $k {#morn{&ing{0 exercises.
+  endif
+endif
+if hour >= 9
+and hour <= 11
+  if rand 50
+    mob echo $I pulls a {1curtain{0 open and {3curls{0 up in a spot of {#sun{&light{0.
+  else
+    mob echo $I {5walks{0 around {5straightening{0 up the room.
+  endif
+endif
+if hour == 12
+  mob echo $I {^slips{0 out the hatch and brings back a {&f{7i{&s{7h{0.
+  mob oload 16050
+  eat fish
+endif
+if hour >= 13
+and hour <= 16
+  if rand 10
+    mob echo $I {3curls{0 up for a nap.
+  else
+    mob echo $I goes out for a quick {4swim{0.
+  endif
+endif
+if hour >= 17
+and hour <= 19
+  if rand 10
+    mob echo $I {^slips{0 out the hatch and brings back a {&f{7i{&s{7h{0.
+    mob oload 16050
+    eat fish
+  else
+    mob echo $I {5opens{0 a {1curtain{0 and watches the {#sun{%set{0.
+  endif
+endif
+~
+#64908
+mob gtransfer $n 14401
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

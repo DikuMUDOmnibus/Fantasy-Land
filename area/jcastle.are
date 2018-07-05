@@ -1,0 +1,1247 @@
+#AOD_AREA
+Jeoshat's Castle~
+1100 1199 C 8
+Levl 0 0
+Bldr Raider~
+End
+
+#MOBILES
+#1101
+castle guard~
+{7the castle {8guard{x~
+{7The castle {8guard {7stands {!alert {7before the gates{x.
+~
+~
+human~
+100 100 0 100 100 100 100 100 200 100 100 100 100 200 100 100 200 200 100 100 100 100 100 100 0 0 
+ABST 0 0 0 0
+165 20 0 7883 8333 7688 8095 7 7 35 slash
+-10700 -10690 -10710 -10660
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#1102
+snake~
+{@a snake{x~
+{7A {@snake {2slithers {7around in the {^water{x.
+~
+~
+snake~
+100 100 0 200 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 0 0 
+AHU b 0 0 0
+100 -1 0 4638 4808 4780 4921 6 7 31 bite
+-4710 -4720 -4690 -4660
+STANDING STANDING random 0
+0 mage small ADEFKLQVX
+
+#1103
+slave jeoshat~
+{3a slave{x~
+{7One of {$Jeoshat's {3slaves {7scurries around{x.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+AH 0 0 0 0
+150 10 0 6672 7114 6857 7348 7 6 32 beating
+-9490 -9490 -9510 -9450
+STANDING STANDING random 0
+0 mage medium ABCDEFGHIJK
+
+#1104
+cook~
+{7the {&cook{x~
+{7The castle {&cook {7stirs a {3stew{X.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+ABH 0 0 0 0
+155 15 0 7107 7618 7316 7745 7 6 34 charge
+-9890 -9900 -9870 -9840
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+
+#1105
+soldier~
+{7a {2s{@o{2l{@d{2i{@e{2r{x~
+{7A {2s{@o{2l{@d{2i{@e{2r {7stands at attention{x.
+~
+~
+human~
+100 100 0 200 100 100 100 200 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+A 0 0 0 0
+165 15 0 7651 8146 7664 8273 7 6 35 slash
+-10380 -10380 -10380 -10360
+STANDING STANDING random 0
+0 mage medium ABCDEFGHIJK
+
+#1106
+king jeoshat~
+{$Jeoshat{x~
+{$Jeoshat {7sits on his {#golden {!throne{x.
+~
+~
+human~
+100 100 0 100 100 100 100 100 200 100 100 100 100 200 100 100 200 200 100 100 100 100 100 100 0 0 
+ABH 0 0 0 0
+170 0 0 8449 8870 8285 8645 7 7 35 pierce
+-11190 -11210 -11190 -11180
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#1107
+dungeon guard~
+{7the {8dungeon {2guard{x~
+{7A {2guard {7stands here, watching over the {8dungeon{x.
+~
+~
+human~
+100 100 0 100 100 100 100 100 200 100 100 100 100 200 100 100 200 200 100 100 100 100 100 100 0 0 
+ABH 0 0 0 0
+160 20 0 7610 8077 7381 7869 7 6 35 slash
+-10380 -10410 -10380 -10360
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#1108
+prisoner~
+{7a {3prisoner{X~
+{7A {3prisoner {7sits here, all {8shackled {7up{x.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+ABH 0 0 0 0
+150 10 0 6936 7268 6978 7404 7 6 32 beating
+-9510 -9490 -9520 -9480
+STANDING STANDING random 0
+0 mage medium ABCDEFGHIJK
+
+#1109
+fahlar~
+{%Fahlar{x~
+{%Fahlar{7 sits here, mixing {^chemicals{X.
+~
+~
+human~
+100 100 0 100 100 100 100 100 0 100 100 100 100 0 100 100 0 0 100 100 100 100 100 100 0 0 
+ABH 0 0 0 0
+140 0 0 6350 6790 6344 6780 7 5 29 beating
+-8510 -8490 -8480 -8440
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+
+#1110
+jehtar~
+{!Jehtar{x~
+{!Jehtar {7sits here, bending a piece of{8 platinum{x.
+~
+~
+human~
+100 100 0 100 100 100 100 100 0 100 100 100 100 0 100 100 0 0 100 100 100 100 100 100 0 0 
+ABH 0 0 0 0
+140 0 0 6386 6862 6260 6737 7 5 29 beating
+-8510 -8490 -8480 -8470
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#1111
+shaltan~
+{8Shaltan{x~
+{8Shaltan {7skillfully beats a {!sword {7into shape{X.
+~
+~
+human~
+100 100 0 100 100 100 100 100 0 100 100 100 100 0 100 100 0 0 100 100 100 100 100 100 0 0 
+ABH 0 0 0 0
+140 0 0 6404 6784 6282 6829 7 5 30 beating
+-8510 -8480 -8500 -8440
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#1100
+castle guard sword~
+{7A castle {2guard {8sword{x~
+A long sword with the mark of Jeoshat lies here.~
+weapon 0 AN
+sword 14 15 slash D
+99 20 30000
+A 19 35
+A 18 35
+
+#1101
+bowl stew~
+{3bowl of stew{x~
+A bowl of steaming hot beef stew lies here.~
+food 0 A
+25 20 0 0 0
+0 10 5
+
+#1102
+shield fortune~
+{&Shield of {#Fortune{x~
+A huge shield with inlaid gems lies here.~
+armor 0 AJ
+45 46 46 40 0
+99 50 36000
+A 19 15
+A 18 15
+A 13 100
+A 12 100
+
+#1103
+safe~
+the {&safe{x~
+{7A huge painting of {$Jeoshat {7hangs on the wall{x.~
+container 0 0
+500 ACD 1104 50 1
+0 0 0
+
+#1104
+combination~
+{3combination to the {&safe{x~
+A piece of paper with a series of number and letters lies here.~
+key P A
+0 0 0 0 0
+0 0 0
+
+#1105
+bar gold~
+{7a bar of {#gold{x~
+A bar of gold lies here.~
+treasure 0 A
+0 0 0 0 0
+0 0 1000
+
+#1106
+bar platinum~
+{7a bar of {8platinum{X~
+A bar of platinum lies here.~
+treasure 0 A
+0 0 0 0 0
+0 0 100000
+
+#1107
+sceptre~
+{$Jeoshat's {5Sceptre{X~
+A huge sceptre lies on the ground.~
+staff G AO
+120 50 50 'call lightning' 0
+80 0 10
+A 19 35
+A 18 35
+A 17 -50
+A 13 100
+A 12 100
+
+#1108
+vial acid~
+{5vial of {@acid{x~
+A vial filled with a bubbling green substance lies here.~
+potion G A
+100 'acid blast' 'acid breath' 'acid blast' 'acid breath'
+99 0 50000
+
+#1109
+cabinet potions~
+the potions cabinet~
+A huge glass cabinet full of small bottles sits here.~
+container 0 0
+500 AC 0 5 1
+0 0 0
+
+#1110
+potion strength~
+{7Potion of {^Strength{X~
+A potion lies here in the dirt.~
+potion GN A
+120 'giant strength' '' '' ''
+90 0 50000
+
+#1111
+potion shields~
+{7Potion of {!Shields{x~
+A potion lies here in the dirt.~
+potion GN A
+100 'iceshield' 'fireshield' 'shockshield' 'shield'
+99 0 50000
+
+#1112
+potion fighting~
+{7Potion of {!F{1i{!g{1h{!t{1i{!n{1g{x~
+A potion lies here in the dirt.~
+potion GN A
+100 'haste' 'frenzy' 'bless' 'giant strength'
+99 0 50000
+R 2
+S 85
+
+#1113
+potion cures~
+{7Potion of {2Cures{x~
+A potion lies here in the dirt.~
+potion GN A
+120 'cure blindness' 'cure poison' 'cure disease' 'remove curse'
+99 0 50000
+
+#1114
+potion healing~
+{7Potion of {&Healing{x~
+A potion lies here in the dirt.~
+potion GN A
+120 'heal' 'heal' 'heal' 'heal'
+99 0 50000
+R 2
+
+#1115
+dead sea scrolls~
+{7the {8Dead {^Sea {7Scrolls{x~
+A tattered scroll lies here.~
+scroll GN A
+120 'bless' 'armor' 'frenzy' 'protection evil'
+99 0 50000
+
+#1116
+platinum helmet~
+{8platinum helmet{x~
+A platinum helmet lies here.~
+armor N AE
+46 48 47 44 0
+99 0 10000
+A 19 20
+A 18 20
+A 13 50
+A 12 50
+
+#1117
+platinum visor~
+{8platinum visor{x~
+A platinum visor lies here.~
+armor N AR
+47 45 47 41 0
+95 0 10000
+A 19 20
+A 18 20
+A 13 50
+A 12 50
+
+#1118
+platinum armplates~
+{8platinum armplates{x~
+A pair of platinum armplates lie here.~
+armor N AI
+48 48 47 43 0
+99 0 10000
+A 19 20
+A 18 20
+A 13 50
+A 12 50
+
+#1119
+platinum legplates~
+{8platinum legplates{x~
+A pair of platinum legplates lie here.~
+armor N AF
+44 47 45 43 0
+99 0 10000
+A 19 20
+A 18 20
+A 13 50
+A 12 50
+
+#1120
+platinum bracers~
+{8platinum bracers{x~
+A platinum bracer lies here.~
+armor N AM
+44 45 49 41 0
+99 0 10000
+A 19 20
+A 18 20
+A 13 50
+A 12 50
+
+#1121
+platinum neckguard~
+{8platinum neckguard{x~
+A platinum neckguard lies here.~
+armor N AC
+46 45 48 44 0
+99 0 5000
+A 19 20
+A 18 20
+A 13 50
+A 12 50
+
+#1122
+platinum breastplate~
+{8platinum breastplate{x~
+A platinum breastplate lies here.~
+armor N AD
+44 48 47 41 0
+99 0 10000
+A 19 20
+A 18 20
+A 13 50
+A 12 50
+
+#1123
+purple velvet cape~
+{5a {%purple {5cape{x~
+A purple velvet cape lies crumpled in a ball.~
+armor N AK
+44 45 44 43 0
+99 0 10000
+A 19 20
+A 18 20
+A 13 50
+A 12 50
+
+#1125
+shackles~
+{8shackles{x~
+A pair of iron shackles lies here.~
+armor 0 AT
+40 43 40 39 0
+80 0 200
+A 19 10
+A 18 10
+A 13 50
+A 12 50
+
+#1126
+dungeon key~
+{8the dungeon key{x~
+An iron key lies here covered in dirt.~
+key 0 A
+0 0 0 0 0
+0 0 0
+
+#1127
+sword devastation~
+{!Sword {7of {8Devastation{x~
+A very destructive sword lies here.~
+weapon N AN
+sword 14 15 slash D
+99 10 24000
+A 19 35
+A 18 35
+
+#1128
+dagger paralysis~
+{!Dagger {7of {8Paralysis{x~
+A devastating dagger is stuck in the ground.~
+weapon N AN
+dagger 14 15 pierce DH
+99 10 23000
+A 19 35
+A 18 35
+
+#1129
+battle axe~
+{7A battle {8axe{x~
+A huge battle axe leans against a wall.~
+weapon N AN
+axe 14 15 cleave D
+99 10 25000
+A 19 40
+A 18 40
+
+#1130
+Mace of Destruction~
+{!Mace {7of {8Destruction{x~
+A huge mace lies on the ground.~
+weapon N AN
+mace 14 15 crush DG
+99 10 23000
+A 19 45
+A 18 45
+A 13 100
+A 12 100
+#0
+
+#ROOMS
+#1100
+Deep in the forest~
+You are standing in a dark forest. Legend says that this area
+was once inhabited by a man of the name of Jeoshat. His castle,
+and his power were destroyed. Some have claimed to have seen
+the castle of Jeoshat recently, but many scholars have rebutted
+their claims.
+~
+5 0
+D0
+~
+~
+0 -1 1101
+D1
+~
+~
+0 0 2400
+D2
+~
+~
+0 -1 6102
+S
+
+#1101
+Lost in the forest of Shel-Tar~
+You are standing in the forest of Shel-Tar. The shadows
+have surrounded you, and you have lost your bearings.
+No light seeps throught the trees, and you feel completely
+lost.
+~
+1 0
+D0
+~
+~
+0 -1 1102
+D1
+~
+~
+0 -1 1101
+D2
+~
+~
+0 -1 1101
+D3
+~
+~
+0 -1 1101
+S
+
+#1102
+Lost in the forest of Shel-Tar~
+You are standing in the forest of Shel-Tar. The shadows
+have surrounded you, and you have lost your bearings.
+No light seeps throught the trees, and you feel completely
+lost.
+~
+1 0
+D0
+~
+~
+0 -1 1101
+D1
+~
+~
+0 -1 1101
+D2
+~
+~
+0 -1 1103
+D3
+~
+~
+0 -1 1101
+S
+
+#1103
+Lost in the forest of Shel-Tar~
+You are standing in the forest of Shel-Tar. The shadows
+have surrounded you, and you have lost your bearings.
+No light seeps throught the trees, and you feel completely
+lost.
+~
+1 0
+D0
+~
+~
+0 -1 1101
+D1
+~
+~
+0 -1 1104
+D2
+~
+~
+0 -1 1101
+D3
+~
+~
+0 -1 1101
+S
+
+#1104
+Lost in the forest of Shel-Tar~
+You are standing in the forest of Shel-Tar. The shadows
+have surrounded you, and you have lost your bearings.
+No light seeps throught the trees, and you feel completely
+lost.
+~
+1 0
+D0
+~
+~
+0 -1 1101
+D1
+~
+~
+0 -1 1101
+D2
+~
+~
+0 -1 1105
+D3
+~
+~
+0 -1 1101
+S
+
+#1105
+A meadow~
+You are standing at the edge of a meadow in the forest
+of Shel-Tar. The confusing maze-like forest is back to
+the south, and the meadow continues north.
+~
+0 0
+D0
+~
+~
+0 -1 1106
+D2
+~
+~
+0 -1 1101
+S
+
+#1106
+Center of the meadow~
+You have reached the center of the meadow. Flowers sprout
+up everywhere, and greatly contrast the dark forest to
+your south. A dense fog creeps in from the north.
+~
+0 0
+D0
+~
+~
+0 -1 1107
+D2
+~
+~
+0 -1 1105
+S
+
+#1107
+Within the fog bank~
+You are standing in a thick blanket of fog. You barely see
+the path in front of you, and the pah behind you has all
+but disappeared. A feeling of desolation overcomes you.
+~
+0 0
+D0
+~
+~
+0 -1 1108
+S
+
+#1108
+Deeper in the fog bank~
+You are still standing in the blanket of fog. Occasionally,
+the fog appears to clear slightly, and something seem to be
+to your north. Again, the path behind you has disappeared
+from view.
+~
+0 0
+D0
+~
+~
+0 -1 1109
+S
+
+#1109
+Edge of the fog bank~
+You are standing at the edge of the fog bank. The path from
+which you came has disappeared into the cloud. A castle
+lies to the north. It appears to be the castle of Jeoshat,
+but it was destroyed 50 years ago. Maybe the people who reported
+seeing the castle weren't insane after all.
+~
+0 0
+D0
+~
+~
+0 -1 1110
+S
+
+#1110
+South of the moat~
+You are standing south of the moat surrounding this castle.
+Back to your south is a huge fog bank, and to the north is the
+castle moat. On the other side of the moat is the drawbridge,
+which appears to be up. Wonder how you get in..Better yet,
+how do you get out?
+~
+0 0
+D0
+~
+~
+0 -1 1111
+D2
+~
+~
+0 -1 1109
+S
+
+#1111
+On the moat~
+You are above the moat surrounding the castle. In disbelief
+that this castle is actually here, you reach down to touch
+the water. You jerk your hand back as a snake jumps out of
+the water, and snaps it's jaws where your finger was just
+seconds ago. The moat leads east and west, but you can't
+find a way into the castle.
+~
+0 7
+D1
+~
+~
+0 -1 1112
+D2
+~
+~
+0 -1 1110
+D3
+~
+~
+0 -1 1113
+D4
+~
+~
+0 -1 1114
+S
+
+#1112
+On the moat~
+You are floating above the moat surrounding this castle.
+You still can't seem to find a way in. It might be possible
+to scale the walls, but It doesn't look like it would do very
+much good.
+~
+0 7
+D3
+~
+~
+0 -1 1111
+D4
+~
+~
+0 -1 1115
+S
+
+#1113
+On the moat~
+You are floating above the moat surrounding this castle.
+You still can't seem to find a way in. It might be possible
+to scale the walls, but it doesn't look like it would do very
+much good.
+~
+0 0
+D1
+~
+~
+0 -1 1111
+D4
+~
+~
+0 -1 1116
+S
+
+#1114
+Climbing up the wall~
+You are climbing up the wall of this castle. You find a small
+crack to get a good grip so you can survey the area. This wall
+seems pretty solid. Maybe there is an opening somwhere else
+along this wall.
+~
+0 0
+D1
+~
+~
+0 -1 1115
+D3
+~
+~
+0 -1 1116
+D5
+~
+~
+0 -1 1111
+S
+
+#1115
+Climbing up the wall~
+You are climbing up the wall of this huge castle. You managed
+to find a large crack to place your foot. The crack seems to
+run in a large square in the wall. The moat is back down,
+and more of the wall is to the west.
+~
+0 0
+D0
+~
+wall~
+AB -1 1117
+D3
+~
+~
+0 -1 1114
+D5
+~
+~
+0 -1 1112
+S
+
+#1116
+Climbing up the wall~
+You are climbing up the wall of this castle. You are hanging
+on by the skin of your fingers, since you could not find any
+place to get a good hold. You can try to get a better hold
+to your east, or you can go back down to the moat before you
+fall.
+~
+0 0
+D1
+~
+~
+0 -1 1114
+D5
+~
+~
+0 -1 1113
+S
+
+#1117
+Inside the castle wall~
+You are standing inside the castle wall. You are surprised
+to find that this wall is actually hollow, and not solid
+rock. A little bit of light peeps in from the crack in the
+wall, and there appears to be a hole in the floor to your
+west.
+~
+0 0
+D3
+~
+~
+0 -1 1118
+S
+
+#1118
+Above the foyer~
+You are standing above the main foyer of this castle. Light
+shines in from above, and you try to keep from casting a
+shadow on the floor below. You can head back into the wall to
+the east, or drop to the floor below.
+~
+0 0
+D1
+~
+~
+0 -1 1117
+D5
+~
+~
+0 -1 1119
+S
+
+#1119
+Castle foyer~
+You are standing in the castle foyer. Light shines in from above,
+and the drawbridge is to your south. A long hallway stretches to
+the north. Torches light the way along the hallway, and the smell
+of them burning irritates your nostrils due to the lack of
+ventilation.
+~
+0 0
+D0
+~
+~
+0 -1 1120
+D2
+~
+drawbridge~
+AB -1 1110
+S
+
+#1120
+Hall intersection~
+You are standing in a four-way intersection of the halls
+in this massive castle. The drawbridge is to the south, and
+the smell of food wafts in from the east. All is quiet to the
+west, and voices appear to be bartering to the north.
+~
+0 0
+D0
+~
+~
+0 -1 1129
+D1
+~
+~
+0 -1 1127
+D2
+~
+~
+0 -1 1119
+D3
+~
+~
+0 -1 1121
+S
+
+#1121
+Hallway~
+You are walking along a dark hallway in the castle.
+The soldier's barracks are to the north, and the hallway
+continues on to the west. A large bathroom is to the south.
+~
+0 0
+D0
+~
+~
+0 -1 1122
+D1
+~
+~
+0 -1 1120
+D2
+~
+~
+0 -1 1123
+D3
+~
+~
+0 -1 1124
+S
+
+#1122
+Barracks~
+You are standing in the soldier barracks. It's pretty nice
+for Jeoshat to allow his soldiers to live in his castle.
+Bunk beds line the walls, and other than a few posters,
+this room is bare. The hallway is back south.
+~
+0 0
+D2
+~
+~
+0 -1 1121
+S
+
+#1123
+Bathroom~
+You are standing in a luxurious bathroom. A large marble tub sits
+against the wall,  and a small window gives a view of the huge
+forest surrounding the castle. A small toilet leans against the
+south wall, and next to it sits the sink. A mirror is set into
+the west wall, and the hallway is back to the north.
+~
+0 0
+D0
+~
+~
+0 -1 1121
+S
+
+#1124
+End of the hallway~
+You are standing at the end of the long hallway. To your east
+lies the intersection, and a large wooden door lies to your
+west. A tunnel leads down into the darkness to your north.
+~
+0 0
+D0
+~
+~
+0 -1 1133
+D1
+~
+~
+0 -1 1121
+D3
+~
+~
+ABC -1 1125
+S
+
+#1125
+Jeoshat's bedroom~
+You are standing in one of the most lavishly decorated
+bedrooms in the entire realms. The bed is made of solid
+gold, the curtains are made of velvet with pure gold thread,
+even the picture frames are gold. There is an amazing lack
+of common materials, since this bedroom shimmers with all the
+glory of precious metals and stones. The hallway is back
+to the east.
+~
+0 0
+D0
+~
+~
+ABC -1 1126
+D1
+~
+~
+AB -1 1124
+S
+
+#1126
+The vault~
+You are standing inside a huge vault that is connected to
+Jeoshat's bedroom. The walls are made of steel-reinforced
+stone, which makes this vault unpenetrable. The vault
+door is back to the south.
+~
+0 0
+D2
+~
+~
+0 -1 1125
+S
+
+#1127
+Dining room~
+You are standing in a huge dining room. A table
+fills up most of this room, and each place is set
+with silver plates and gold cups. Since Jeoshat has
+no family, the other places must be where his servants
+and his army sits. A kitchen lies to the north, and
+the intersecting halls are back to the west.
+~
+0 0
+D0
+~
+~
+0 -1 1128
+D3
+~
+~
+0 -1 1120
+S
+
+#1128
+Kitchen~
+You are standing in a massive kitchen. Since the rest
+of the house is huge, why shouldn't the kitchen be too?
+A large fireplace crackles and burns in the north wall,
+and a large countertop runs along the east wall. The
+dining room is back to the south.
+~
+0 0
+D2
+~
+~
+0 -1 1127
+S
+
+#1129
+A long hallway~
+You are walking along the section of the hallway
+just north of the intersection. Amazingly, this
+section appears to be almost like an indoor
+marketplace. Small shops lie to the east, west,
+and north, and the hallway continues back to the
+south.
+~
+0 0
+D0
+~
+~
+0 -1 1132
+D1
+~
+~
+0 -1 1130
+D2
+~
+~
+0 -1 1120
+D3
+~
+~
+0 -1 1131
+S
+
+#1130
+Fahlar's apothecary~
+You are standing in a small apothecary inside the
+castle. A shelf sits behind the counter, up against
+the wall. Sitting in front of the shelf is a small
+woman, carefully mixing chemicals to produce helpful,
+or harmful, potions.
+~
+0 0
+D3
+~
+~
+0 -1 1129
+S
+
+#1131
+Jehtar's armoury~
+You are standing in a small armoury that is
+stationed inside the castle. Complete suits of
+armor stand motionless along the walls, and a
+very well built man slowly bends a piece of
+platinum into a bracer.
+~
+0 0
+D1
+~
+~
+0 -1 1129
+S
+
+#1132
+Shaltan's weaponry~
+You are standing in another small shop inside
+the great walls of this castle. Many weapons
+line the walls, ranging from swords to battle
+axes to morningstars. A huge man wipes sweat
+from his brow as he beats a piece of metal into
+a sword.
+~
+0 0
+D2
+~
+~
+0 -1 1129
+S
+
+#1133
+Dark staircase~
+You are walking down a dark staircase. The
+torches on the walls flicker and almost
+swamp you in total darkness. Tortured screams
+echo up the staircase. The hallway is back south,
+or you can continue down.
+~
+0 0
+D2
+~
+~
+0 -1 1124
+D5
+~
+~
+0 -1 1134
+S
+
+#1134
+Bottom of the staircase~
+You have reached the bottom of the staircase.
+You appear to be standing in a large dungeon.
+Ok, so maybe Jeoshat isn't a goodie-two-shoes,
+but he is kind. Maybe. A prison cell lies to the
+north.
+~
+0 0
+D0
+~
+~
+ABC 1126 1135
+D4
+~
+~
+0 -1 1133
+S
+
+#1135
+A prison cell~
+You are standing in a huge prison cell. This
+could even be considered a torture chamber.
+Prisoners are shackled up, hanging from the
+walls. Others are tied up on stretchers. The
+staircase to safety is back south.
+~
+0 0
+D2
+~
+~
+AB -1 1134
+S
+#0
+
+#RESETS
+D 100 1115 0 1
+D 100 1119 2 1
+D 100 1124 3 2
+D 100 1125 0 2
+D 100 1125 1 1
+D 100 1134 0 2
+D 100 1135 2 1
+M 100 1101 1 1110 1
+E 100 1100 0 16
+M 100 1102 9 1112 2
+M 100 1102 9 1113 2
+M 100 1103 9 1119 9
+M 100 1103 9 1120 9
+M 100 1103 9 1120 9
+M 100 1103 9 1121 9
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1105 20 1122 20
+M 100 1103 9 1123 9
+M 100 1103 9 1123 9
+O 100 1103 0 1125
+P 100 1105 1 1103 1
+P 100 1106 1 1103 1
+M 100 1103 9 1125 9
+M 100 1103 9 1125 9
+M 100 1106 1 1125 1
+E 100 1102 0 11
+E 100 1107 0 17
+G 100 1104 0
+G 100 1108 0
+M 100 1103 9 1127 9
+M 100 1104 1 1128 1
+G 100 1101 0
+O 100 1109 0 1130
+M 100 1109 1 1130 1
+G 100 1110 0
+G 100 1111 0
+G 100 1112 0
+G 100 1113 0
+G 100 1114 0
+M 100 1110 1 1131 1
+G 100 1116 0
+G 100 1117 0
+G 100 1118 0
+G 100 1119 0
+G 100 1120 0
+G 100 1121 0
+G 100 1122 0
+G 100 1123 0
+M 100 1111 1 1132 1
+G 100 1127 0
+G 100 1128 0
+G 100 1129 0
+G 100 1130 0
+M 100 1107 1 1134 1
+E 100 1100 0 16
+E 100 1126 0 17
+M 100 1108 5 1135 5
+E 100 1125 0 23
+S
+
+#SHOPS
+1109 2 3 4 10 0 100 75 5 22
+1110 9 11 33 0 0 100 75 5 22
+1111 5 0 0 0 0 100 75 5 22
+0
+
+#$

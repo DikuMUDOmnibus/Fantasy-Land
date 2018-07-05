@@ -1,0 +1,18 @@
+#!/bin/csh
+
+if ( -e shutdown.txt ) then
+    rm -f shutdown.txt
+endif
+
+while ( 1 )
+    set logfile = ../log/logs
+
+    ./rot 1111 >&! $logfile
+
+    if ( -e shutdown.txt ) then
+	rm -f shutdown.txt
+	exit 0
+    endif
+    sleep 10
+end
+

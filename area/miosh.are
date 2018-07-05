@@ -1,0 +1,7046 @@
+#AOD_AREA
+Miosh Kralda Waters*~
+18600 18799 0 8
+Levl 50 99
+Bldr Neka~
+Alig N
+End
+
+#MOBILES
+#18600
+sea nymph~
+a sea nymph~
+A sea nymph floats about in the clear blue water.
+~
+The sea nymph is a lovely creature.  A strand of pearls hangs about her
+neck.  She is so peaceful.  
+~
+human~
+100 100 0 50 150 0 50 100 0 100 100 100 0 0 100 100 100 100 100 50 100 100 0 100 100 100 
+BG Tb 0 3000 0
+101 189 0 6654 8078 7168 7459 24 22 210 drain
+-396 -267 -331 -374
+STANDING STANDING female 3608
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+M GREET 18600 100~
+
+#18601
+sea nymph~
+a sea nymph~
+A sea nymph floats about in the clear blue water.
+~
+With a smile, the sea nymph embraces you.  Those deep blue eyes look into
+your very soul.  
+~
+human~
+100 100 0 50 150 0 50 100 0 100 100 100 0 0 100 100 100 100 100 50 100 100 0 100 100 100 
+BGL Tb 0 3000 0
+101 165 0 6498 7524 6956 7952 22 27 230 drain
+-303 -312 -254 -253
+STANDING STANDING female 4263
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+M SPEECH 18604 no~
+M SPEECH 18603 yes~
+M GREET 18601 100~
+
+#18602
+crab~
+a {rc{rra{rb{x~
+A {rcrab{x scampers across the ocean floor.
+~
+The crab scampers quickly across the sand in search of food.  
+~
+human~
+100 50 0 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 50 0 100 100 100 
+G Tb 0 1000 0
+50 60 0 2472 2893 2604 2712 7 8 63 claw
+-91 -112 -133 -140
+STANDING STANDING neutral 1550
+64 warrior medium ABCDEFGHIJK
+P 795 0
+S 'roundhouse' 0
+
+#18603
+sea bass~
+a {Cs{ce{Ca{c bass{x~
+A {Cs{ce{Ca {cbass{x swims idly by.
+~
+A huge sea bass swims past you swirling water with his fins.  
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 0 100 100 0 100 100 100 
+G Tb 0 1000 0
+50 61 0 2446 2700 2641 2787 10 9 63 bite
+-103 -95 -127 -105
+STANDING STANDING neutral 1408
+64 warrior medium ABCDEFGHIJK
+P 959 0
+S 'roundhouse' 0
+
+#18604
+octopus~
+an {Co{cct{Co{cpu{Cs{x~
+A huge {Co{cct{Co{cpu{Cs{x attacks you!
+~
+With tentacles lined in huge suckers, the octopus lashes at you!  It
+doesn't look pleased you are here.  
+~
+human~
+100 100 0 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 0 0 100 100 100 
+BG DFJZ 0 1000 0
+50 61 0 2570 2972 2533 2717 8 8 77 suction
+-99 -91 -141 -127
+STANDING STANDING neutral 1662
+64 warrior medium ABCDEFGHIJK
+P 261 1
+S 'roundhouse' 0
+
+#18605
+moray eel~
+a moray {Ye{ye{Yl{x~
+A moray {Ye{ye{Yl{x snaps its teeth at you.
+~
+The huge sharp teeth of the moray eel can slice you to shreds.  
+~
+human~
+100 100 0 150 100 0 50 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+G Tb 0 1000 0
+50 65 0 2500 2961 2513 2995 9 9 87 bite
+-98 -150 -117 -147
+STANDING STANDING neutral 1508
+64 warrior medium ABCDEFGHIJK
+P 919 1
+S 'roundhouse' 0
+
+#18606
+stingray~
+a {Ds{xti{Dng{xra{Dy{x~
+A {Ds{xti{Dng{xra{Dy{x lashes its tail angrily
+~
+The stingray is a huge creature that resembles a bat in a way.  It swims
+by, lashing its tail at you.  
+~
+human~
+100 100 100 150 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 0 0 100 100 100 
+G Tb 0 1000 0
+50 62 0 2499 2829 2492 2915 9 7 89 sting
+-123 -110 -116 -128
+STANDING STANDING neutral 1365
+64 warrior medium ABCDEFGHIJK
+P 803 0
+S 'roundhouse' 0
+
+#18607
+the captain~
+the {Dc{wa{Wpta{wi{Dn{x~
+The {Dc{wa{Wpta{wi{Dn{x has gone down with the ship.
+~
+The captain sailed his last voyage with this ship.  
+~
+human~
+100 50 0 50 150 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+BGO Tb O -1000 0
+60 107 0 3374 3626 3440 3609 11 12 117 drain
+-159 -174 -174 -162
+STANDING STANDING male 1801
+69 warrior medium ABCDEFGHIJK
+P 42 1
+S 'roundhouse' 0
+
+#18608
+sailor~
+a bloated {Ds{wa{Wil{wo{Dr{x~
+A bloated {Ds{wa{Wil{wo{Dr{x drifts by you.
+~
+The sailor's face has no eyes, the fish picked those out long ago.  His
+bloated body drifts by you in the water.  
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 150 150 0 100 100 100 50 100 150 100 100 100 100 100 
+G JTVbcd 0 -1000 0
+50 84 0 2457 2991 2418 2810 10 10 90 pierce
+-103 -119 -92 -132
+STANDING STANDING male 1667
+65 warrior medium ABCDEFGHIJK
+P 253 1
+S 'roundhouse' 0
+
+#18609
+buccaneer~
+a {Db{wuc{Wcan{wee{Dr{x~
+This {Db{wuc{Wcan{wee{Dr{x has found his final resting place.
+~
+The buccaneer is ghastly white and bloated with water.  
+~
+human~
+50 50 100 100 100 100 100 100 150 100 100 100 100 100 0 100 100 100 0 100 150 100 100 100 100 100 
+G Tb 0 -1000 0
+50 84 0 2679 2750 2449 2921 10 7 70 cleave
+-126 -110 -142 -106
+STANDING STANDING male 1468
+65 warrior medium ABCDEFGHIJK
+P 124 0
+S 'roundhouse' 0
+
+#18610
+swashbuckler~
+the {Dcorpse{x of a {Ds{wwas{Whbuc{wkle{Dr{x~
+The {Dcorpse{x of a {Ds{wwas{Whbuc{wkle{Dr{x lies here.
+~
+The swashbuckler's corpse is bloated and hideous to look at.  What a
+horrible fate he has suffered!  
+~
+human~
+150 50 100 100 100 100 0 100 0 100 100 100 150 100 100 100 100 100 100 100 150 100 100 100 100 100 
+G bd 0 -1000 0
+50 82 0 2699 2979 2690 2787 9 10 68 smash
+-143 -105 -110 -98
+STANDING STANDING neutral 1719
+65 warrior medium ABCDEFGHIJK
+P 125 0
+S 'roundhouse' 0
+
+#18611
+pirate~
+a {Dp{wi{Wra{wt{De{x~
+A {Dp{wi{Wra{wt{De{x floats by with sightless eyes.
+~
+The pirate's soul has long since left his body.  
+~
+satyr~
+100 100 0 100 100 100 0 100 150 100 150 100 100 100 150 100 100 100 100 150 150 100 0 100 100 100 
+FG CEFGTVb DO -1000 0
+50 70 0 2477 2776 2535 2876 7 9 66 punch
+-101 -95 -92 -91
+STANDING STANDING male 1223
+66 warrior medium ABCDEFGHIJK
+P 162 4
+S 'roundhouse' 0
+
+#18612
+shark great white~
+a great {Wwhite s{whar{Wk{x~
+A great {Wwhite s{whar{Wk{x is trapped here.
+~
+The great white has been trapped here for a long time.  The only thought
+on its mind is food.  
+~
+human~
+100 100 100 150 100 150 0 100 100 100 100 100 100 100 100 100 100 0 100 50 100 100 0 100 100 100 
+BG Tb 0 -1000 0
+60 104 0 3348 3711 3470 3788 13 11 93 chomp
+-191 -143 -142 -139
+STANDING STANDING neutral 2205
+68 warrior medium ABCDEFGHIJK
+P 40 0
+S 'roundhouse' 0
+
+#18613
+puffer fish~
+a puffer fish~
+A cute little puffer fish hides behind you.
+~
+The puffer fish expands its body.  Fear affects it this way.  
+~
+human~
+100 150 0 150 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+IUV 0 0 0 0
+40 155 0 5370 5890 4837 5912 20 15 137 sting
+-293 -288 -287 -265
+STANDING STANDING random 2898
+61 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18614
+sarah ~
+{WSarah{x~
+{WSarah{X hums softly as bubbles dance in her hair.
+~
+Type list to see what pets are for sale here.  
+~
+human~
+100 100 0 50 150 0 50 100 0 100 100 100 0 0 100 100 100 100 100 100 100 100 0 100 100 100 
+BG Tb 0 3000 0
+101 181 0 6739 7305 6906 7332 25 27 170 drain
+-324 -362 -262 -404
+STANDING STANDING female 4428
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18615
+seahorse~
+a tiny sea horse~
+A tiny sea horse prances about.
+~
+The sea horse prances nervously.  
+~
+human~
+100 100 0 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+IUV Tb 0 0 0
+10 80 0 2636 2923 2619 2945 7 10 84 charge
+-115 -145 -107 -117
+STANDING STANDING random 1735
+62 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18616
+otter~
+a sea otter~
+A sea otter frolicks 
+~
+The sea otter is a friendly little creature with large brown eyes.  It
+blinks at you, then goes off to search for fish.  
+~
+human~
+100 100 0 150 100 100 0 100 50 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 
+IUV b 0 0 0
+65 225 0 7500 8320 7637 8390 24 21 244 bite
+-269 -372 -361 -312
+STANDING STANDING random 4204
+64 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18617
+starfish~
+a starfish~
+A starfish bows as you pass by.
+~
+What a cute little starfish!  And so friendly too.  
+~
+human~
+100 100 0 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 0 100 100 100 
+IUV Tb 0 0 0
+20 2 0 85 94 88 98 0 0 2 sting
+-3 -3 -3 -4
+STANDING STANDING random 41
+63 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+M RANDOM 18617 10~
+
+#18618
+seaweed~
+some {gs{Ge{ga{Gw{ge{Ge{gd{x~
+Some {gs{Ge{ga{Gw{ge{Ge{gd{x floats about in the water.
+~
+Delicate tendrils of seaweed sway about in the water's current.  
+~
+human~
+100 100 100 150 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+G Tb 0 1000 0
+50 64 0 2464 2700 2485 2898 9 8 88 waterwall
+-133 -132 -137 -104
+STANDING STANDING neutral 1522
+66 warrior medium ABCDEFGHIJK
+P 1663 0
+S 'roundhouse' 0
+
+#18619
+faeza~
+{WFaeza{x~
+{WFaeza{x rests in a bed of seaweed.
+~
+Faeza is a strange sea creature, the likes of which you have never seen
+before.  Her hair swirls about in the water.  Huge blue eyes inspect you
+intently.  She is ageless, timeless, as are all who live in Miosh'Kralda.  
+~
+human~
+100 100 0 50 150 100 50 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 0 100 100 100 
+BGJKb TVb 0 3000 0
+101 189 0 6714 7844 6678 7858 20 23 167 drain
+-393 -394 -292 -284
+STANDING STANDING female 4711
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+M GREET 18619 100~
+
+#18620
+sea witch angelic~
+the good {Cs{ce{Ca {Wwitch{x~
+The good {Cs{ce{Ca {Wwitch{x rests on a bed of seaweed.
+~
+The good sea witch has come to Miosh'Kralda to escape the wicked influence of her sister.  
+Type list to see a list of spells.
+~
+human~
+0 0 0 50 150 0 50 100 0 100 100 100 0 0 100 100 100 0 100 100 0 100 0 100 100 100 
+BGa b 0 0 0
+101 241 0 6659 7649 7244 7453 27 24 162 drain
+-318 -318 -313 -305
+STANDING STANDING female 3913
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+M GREET 18620 100~
+M RANDOM 18602 5~
+
+#18621
+lobster gentle~
+a gentle {rlobster{x~
+A gentle {rlobster{X rests here.
+~
+This old lobster has lived for many years in Miosh'Kralda.  He has 
+story to tell.  Perhaps if you say hello to him he will share something with
+you.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G 0 0 100 0
+50 88 0 2534 2785 2629 2854 10 10 61 sting
+-97 -119 -90 -140
+STANDING STANDING male 1499
+70 warrior medium ABCDEFGHIJK
+P 209 0
+S 'roundhouse' 0
+M SPEECH 18621 hello~
+M GIVE 18624 sandwich~
+M RANDOM 18622 5~
+
+#18622
+secretary~
+the {Wsecretary{x~
+The {Wsecretary{x sits behind a desk.
+~
+The secretary is another of the many strange creatures that inhabits this
+city.  She attends to the daily business of the mayor.  
+~
+human~
+100 100 0 50 150 100 50 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 0 100 100 100 
+BG Tb 0 1000 0
+50 69 0 2556 2746 2417 2758 8 10 86 slap
+-132 -106 -138 -120
+STANDING STANDING female 1704
+66 warrior medium ABCDEFGHIJK
+P 65 0
+S 'roundhouse' 0
+
+#18623
+mayor~
+the {Wmayor{x~
+The {Wmayor{x leads the city with great efficiency.
+~
+The mayor has been elected to term each year since the beginning.  No one
+really knows how old he is.  Some say he has lived forever.  
+~
+human~
+100 100 0 50 150 100 50 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 0 100 100 100 
+G Tb 0 1000 0
+80 163 0 5384 5788 5035 5696 17 15 159 cleave
+-220 -284 -217 -248
+STANDING STANDING male 3144
+73 warrior medium ABCDEFGHIJK
+P 94 0
+S 'roundhouse' 0
+M ENTRY 18623 100~
+
+#18624
+clam janitor~
+a {Wjanitor{x~
+The {Wjanitor{x rushes about tidying up the city.
+~
+The janitor is a huge clam that cleans up the city.  He is always
+vigilent, trying to find litter.  
+~
+human~
+100 100 0 50 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+CG Tb 0 3000 0
+25 11 0 444 466 434 497 1 1 12 crush
+-19 -24 -22 -17
+STANDING STANDING male 234
+65 warrior medium ABCDEFGHIJK
+P 133 0
+S 'roundhouse' 0
+
+#18625
+city guardian chief~
+the city guardian {Wchief{x~
+The city guardian {Wchief{x sips ambrosia while he does paperwork.
+~
+The chief is a pompous man with a bulging belly.  He snacks a bit more
+than perhaps he should while he is at work.  His wife admonishes him often
+for gaining weight.  
+~
+human~
+100 100 0 50 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 50 0 100 0 100 100 100 
+BG Tb 0 1000 0
+80 141 0 5000 5510 4963 5978 15 16 146 none
+-284 -201 -259 -261
+STANDING STANDING male 3237
+70 warrior huge ABCDEFGHIJK
+P 72 0
+S 'roundhouse' 0
+
+#18626
+city guardian~
+a {Wcity{x {Cg{cua{Crd{cia{Cn{x~
+A {Wcity{x {Cg{cua{Crd{cia{Cn{x watches for signs of trouble.
+~
+The guardian wears a neat uniform and a badge made of seashell.
+~
+human~
+100 100 0 50 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 0 50 100 0 100 100 100 
+DG DE 0 1000 0
+80 143 0 5045 5755 5180 5673 16 20 138 chop
+-255 -263 -272 -252
+STANDING STANDING random 2675
+68 warrior medium ABCDEFGHIJK
+P 2633 30
+S 'roundhouse' 0
+
+#18627
+beggar~
+a {Wbeggar{x~
+A {Wbeggar{x is sleeping here.
+~
+The beggar wears tattered clothing and wishes only for a little warmth
+and some good food.  
+~
+human~
+100 100 100 0 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 0 100 100 100 
+G RTb 0 3000 0
+25 13 0 414 465 411 491 1 1 13 punch
+-22 -16 -15 -21
+STANDING STANDING random 276
+65 cleric medium ABCDEFGHIJK
+P 156 0
+S 'roundhouse' 0
+M RANDOM 18628 10~
+M BRIBE 18627 10~
+
+#18645
+the banker~
+the {Wbanker{x~
+The {Wbanker{x rests on a bed of seaweed.
+~
+The banker is a tired man.  He sees much wealth, but is not interested in
+that.  
+~
+human~
+0 100 0 0 150 0 0 100 100 0 100 0 0 0 100 100 100 100 100 0 100 100 0 100 100 100 
+BG b 0 0 0
+101 168 0 6765 7425 6724 7806 24 22 212 drain
+-316 -362 -338 -297
+STANDING STANDING male 4076
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18646
+a tiny mermaid~
+a tiny {Cm{cer{Cm{cai{Cd{x~
+A tiny {Cm{cer{Cm{cai{Cd{x arranges items on a shelf.
+~
+This tiny mermaid loves the potion shop.  She is here every day selling
+magical items.  
+~
+human~
+0 0 0 50 150 0 0 100 0 0 100 0 0 0 100 100 100 0 100 100 0 100 0 100 100 100 
+BG Tb 0 3000 0
+101 184 0 6964 7508 7013 7604 24 21 200 drain
+-256 -361 -372 -361
+STANDING STANDING female 3442
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18647
+seahorse~
+a {Cs{ce{Ca {Whorse{x~
+A {Cs{ce{Ca {Whorse{x swims by you.
+~
+What a delicate creature the sea horse is!  
+~
+human~
+100 100 50 50 150 100 50 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 0 100 100 100 
+G b 0 3000 0
+50 77 0 2696 2827 2408 2802 10 10 79 bite
+-139 -135 -138 -138
+STANDING STANDING random 1637
+64 warrior medium ABCDEFGHIJK
+P 1973 1
+S 'roundhouse' 0
+
+#18648
+sea anemone~
+a sea anemone~
+A sea anemone tickles you and giggles.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G 0 0 3000 0
+25 11 0 433 452 448 481 1 1 14 sting
+-22 -23 -19 -15
+STANDING STANDING random 207
+65 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18649
+crab~
+a {rcrab{x~
+A {rcrab{x scampers through the streets.
+~
+A tiny crab scampers about the city, exploring this glorious place.  
+~
+human~
+100 150 100 150 100 0 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G 0 0 1000 0
+50 90 0 2659 2769 2565 2971 9 7 76 claw
+-94 -105 -144 -94
+STANDING STANDING random 1631
+63 warrior medium ABCDEFGHIJK
+P 1154 0
+S 'roundhouse' 0
+
+#18650
+octopus~
+an {Woctopus{x~
+An {Woctopus{x sleeps on a bed of seaweed.
+~
+This lazy octopus lies sleeping quietly in the middle of this busy street.  
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 50 100 100 100 100 100 0 100 100 150 100 0 100 100 100 
+G 0 0 1000 0
+50 76 0 2489 2775 2401 2780 8 7 66 suction
+-145 -97 -107 -147
+STANDING STANDING neutral 1511
+63 warrior medium ABCDEFGHIJK
+P 917 0
+S 'roundhouse' 0
+
+#18651
+sea bass~
+a {Cs{ce{Ca{c bass{x~
+A {Cs{ce{Ca{c bass{x swims idly by.
+~
+This huge sea bass would certainly make a good meal.  
+~
+human~
+100 100 100 150 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+G Tb 0 1000 0
+50 82 0 2659 2802 2419 2943 10 9 63 bite
+-127 -115 -101 -133
+STANDING STANDING random 1648
+63 warrior medium ABCDEFGHIJK
+P 1092 0
+S 'roundhouse' 0
+
+#18652
+waitress~
+a {Wwaitress{x~
+The {Wwaitress{x smiles as you enter the restaurant.
+~
+The waitress loves her job.  She treats each customer as a guest into her
+home.  
+2
+~
+human~
+100 100 100 0 150 100 0 100 0 0 100 100 0 0 100 100 100 100 100 0 100 100 0 100 100 100 
+BG Tb 0 3000 0
+101 219 0 6557 7324 7158 7826 25 27 242 drain
+-280 -281 -327 -296
+STANDING STANDING female 3488
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18653
+beggar~
+a {Wbeggar{x~
+A {Wbeggar{x is resting here.
+~
+The beggar is tired and cold.  Sleeping in the streets is not the best
+way to start a day.  
+~
+human~
+100 100 100 50 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+G Tb 0 3000 0
+21 3 0 84 96 88 99 0 0 3 punch
+-5 -5 -4 -5
+STANDING STANDING random 56
+64 warrior medium ABCDEFGHIJK
+P 152 0
+S 'roundhouse' 0
+
+#18654
+oyster~
+an {Woyster{x~
+An {Woyster{x peeks out at you from its shell.
+~
+The oyster has burrowed itself in the sand.  Good luck at getting it out.  
+~
+human~
+100 50 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 100 100 100 
+G b 0 1000 0
+50 78 0 2677 2875 2436 2956 9 9 64 crush
+-103 -106 -147 -93
+STANDING STANDING random 1400
+64 warrior medium ABCDEFGHIJK
+P 1355 0
+S 'roundhouse' 0
+
+#18655
+tarpon~
+a mighty {Ct{carpo{Cn{x~
+A mighty {Ct{carpo{Cn{x swims idly about.
+~
+The mighty tarpon is a fierce opponent.  One pierce of that huge spike
+could mean death.  
+~
+human~
+100 100 150 150 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 0 100 100 100 
+G Tb 0 1000 0
+50 73 0 2661 2875 2697 2827 10 8 68 pierce
+-96 -138 -133 -142
+STANDING STANDING random 1584
+65 warrior large ABCDEFGHIJK
+P 1402 1
+S 'roundhouse' 0
+
+#18656
+shop keeper~
+a {Wshopkeeper{x~
+The {Wshopkeeper{x greets you with a smile.
+~
+The shopkeeper is a pleasant man who always seems to smile.  
+Type list to see what may be purchased.
+~
+human~
+0 0 0 50 150 100 0 100 0 0 100 0 0 0 100 100 100 0 0 0 0 100 0 100 100 100 
+BG Tb 0 3000 0
+101 176 0 6543 7984 6879 7603 23 27 192 drain
+-368 -337 -264 -270
+STANDING STANDING male 4630
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18657
+armorer~
+a {Warmorer{x~
+The {Warmorer{x polishes a blade to razor sharpness.
+~
+The armorer is a huge man with bulging muscles. 
+Type list to see what may be purchased.
+~
+human~
+100 100 0 50 150 0 50 100 0 100 100 100 0 0 100 100 100 100 100 100 100 100 0 100 100 100 
+BG b 0 3000 0
+101 190 0 7279 7954 6950 7704 23 23 243 drain
+-349 -286 -290 -354
+STANDING STANDING male 3607
+80 warrior large ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18658
+bartender~
+a {Wbartender{x~
+The {Wbartender{x stands behind the ba
+~
+The bartender is a stout looking man with a patch on one eye.  
+Type list to see what is for sale.
+~
+human~
+0 0 0 0 150 100 0 100 0 0 100 0 0 0 100 100 100 0 100 0 0 0 0 100 100 100 
+BG b 0 3000 0
+101 194 0 6749 7688 6690 7872 21 21 209 drain
+-387 -313 -355 -340
+STANDING STANDING male 3838
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18659
+jeweler~
+a {Wjeweler{x~
+The {Wjeweler{x arranges some rings in the crystal display case.
+~
+Type list to see what is for sale.
+~
+human~
+0 0 0 0 150 0 0 100 0 0 100 100 0 0 100 100 100 0 0 0 0 100 0 100 100 100 
+BG Tb 0 3000 0
+101 228 0 7288 8013 7144 7489 27 23 209 drain
+-402 -396 -280 -252
+STANDING STANDING female 4322
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18660
+Design~
+{WDesign{X~
+{WDesign{x waits to sell you one of her creations.
+~
+Type list to see what is for sale.
+~
+human~
+0 0 100 50 150 0 50 100 0 100 100 0 0 0 100 100 100 0 0 100 0 100 0 100 100 100 
+BG Tb 0 3000 0
+101 205 0 6982 7859 7192 7852 22 22 170 drain
+-404 -303 -380 -329
+STANDING STANDING female 3975
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#18661
+bellhop~
+a {ybellhop{x~
+The {ybellhop{x bows as you enter the lobby.
+~
+The bellhop is dressed in a tidy uniform.  
+
+~
+human~
+100 150 100 100 100 0 100 100 100 100 100 0 100 100 100 100 100 100 100 100 150 100 0 100 100 100 
+BG Tb 0 -1000 0
+50 74 0 2537 2704 2452 2855 9 8 77 beating
+-150 -127 -136 -95
+STANDING STANDING male 1696
+66 warrior medium ABCDEFGHIJK
+P 57 0
+S 'roundhouse' 0
+
+#18662
+debutante~
+a {ydebutant{x~
+A {ydebutante{x waits for a suitor
+~
+The debutante sneers and looks away.  
+~
+dwarf~
+100 100 100 100 0 100 100 100 100 100 100 100 50 150 100 100 100 100 0 100 100 100 150 100 100 100 
+G JZb 0 -1000 0
+50 64 0 2680 2905 2592 2912 8 10 84 slap
+-104 -99 -130 -148
+STANDING STANDING female 1645
+66 warrior medium ABCDEFGHIJK
+P 411 0
+S 'roundhouse' 0
+
+#18663
+Snob~
+a {ysnob{x~
+A {ysnob{x sneers as you walk by.
+~
+The snob covers his mouth with a silk hankie and coughs disdainfully.  
+~
+halfling~
+100 150 100 50 50 100 50 100 0 100 150 100 100 100 100 100 100 100 50 100 100 100 150 100 100 100 
+0 EFPUZb 0 -1000 0
+50 85 0 2659 2910 2581 2706 10 9 64 punch
+-132 -118 -117 -146
+STANDING STANDING male 1372
+66 warrior medium ABCDEFGHIJK
+P 490 0
+S 'roundhouse' 0
+
+#18664
+biff~
+{WBiff{x~
+{WBiff{x adjusts his silk cravat and sighs.
+~
+How superb he thinks he is!
+~
+heucuva~
+150 100 100 50 0 100 150 100 150 100 150 100 100 100 0 100 100 100 0 150 100 50 0 100 100 100 
+0 b AJO -1000 0
+50 76 0 2543 2953 2542 2707 9 8 64 bite
+-97 -139 -118 -110
+STANDING STANDING male 1738
+67 warrior medium ABCGHIJ
+P 55 0
+S 'roundhouse' 0
+
+#18665
+buffy~
+{WBuffy{x~
+{WBuffy{x inspects her new manicure.{x
+~
+Wouldn't you just like to slap her?  
+~
+gnoll~
+100 100 100 150 100 100 50 100 150 100 100 150 100 100 50 100 100 100 100 150 100 100 0 100 100 100 
+0 FZb 0 -1000 0
+50 65 0 2475 2724 2656 2855 9 7 63 slap
+-126 -147 -118 -106
+STANDING STANDING female 1315
+66 warrior medium ABCDEFGHIJKUV
+P 51 0
+S 'roundhouse' 0
+
+#18666
+sea witch~
+the {Cs{ce{Ca {cwitch{x~
+The {Cs{ce{Ca {cwitch{x practices her spells.
+~
+With a face more hideous than any you've seen, the sea witch turns and
+cackles.  Even in this watery cave you can hear the echo of her evil.  
+~
+human~
+150 50 100 100 100 100 0 100 0 100 100 100 150 100 100 100 100 100 100 100 150 100 0 100 100 100 
+BGO b 0 -10000 0
+80 128 0 5317 5776 5286 5805 19 17 134 magic
+-264 -208 -299 -262
+STANDING STANDING neutral 2455
+72 warrior medium ABCDEFGHIJK
+P 72 0
+S 'roundhouse' 0
+
+#18667
+grand wizard~
+the grand {Dwizard{x~
+The grand {Dwizard{x bows before you.
+~
+The wizard is clad in long flowing robes.  He carries a wand that
+shimmers with a strange light.  His beard is white, his face wise.  His
+powers are great.  
+~
+human~
+100 100 0 150 100 50 100 100 50 0 100 100 50 50 0 100 100 150 0 0 100 100 100 100 100 100 
+G P 0 3000 0
+101 214 0 7233 7939 6596 7759 26 21 238 drain
+-334 -308 -305 -329
+STANDING STANDING male 3663
+80 warrior medium ABCDEFGHIJK
+P 85 1
+S 'roundhouse' 0
+M SPEECH 18663 tomorrow~
+M SPEECH 18661 no~
+M SPEECH 18662 yes~
+M GREET 18660 100~
+
+#18668
+electric eel~
+an {yelectric {Ye{ye{Yl{x~
+An {yelectric {Ye{ye{Yl{x shocks you!
+~
+The eel swims about slowly, electric sparks fly from its body.
+~
+human~
+100 100 0 150 100 0 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+G Tb 0 -1000 0
+65 116 0 3923 4365 3682 4173 13 11 135 shbite
+-183 -208 -220 -152
+STANDING STANDING random 2499
+71 warrior medium ABCDEFGHIJK
+P 1101 0
+S 'roundhouse' 0
+
+#18669
+loch monster~
+the {Dmonster{X of the {cloch{x~
+The {Dmonster{X of the {cloch{x swims silently by.
+~
+The monster of the loch is a huge lizard like creature with flippers
+instead of legs.  It lives in this loch, forever searching for food.  
+~
+lizard~
+100 100 100 150 100 100 50 100 100 100 100 100 100 100 100 100 100 50 0 100 50 100 0 100 100 100 
+GO Tb 0 3000 0
+100 183 0 6432 7308 7166 7689 21 26 211 waterwall
+-256 -312 -319 -390
+STANDING STANDING neutral 3940
+74 warrior huge ACDEFHKQV
+P 80 0
+S 'roundhouse' 0
+
+#18670
+sturgeon~
+a {csturgeon{x~
+A massive {csturgeon{x swims slowly past you.
+~
+The sturgeon is a massive fish.  It has lived in the locke for a very
+long time.  
+~
+human~
+100 100 0 50 150 50 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 0 100 100 100 
+G b 0 3000 0
+65 101 0 3634 4328 3784 4089 12 12 90 charge
+-149 -198 -137 -176
+STANDING STANDING random 2371
+73 warrior medium ABCDEFGHIJK
+P 1455 1
+S 'dirt kicking' 66
+S 'roundhouse' 0
+
+#18671
+highlander~
+a {Gh{gigh{Gla{gnde{Gr{x~
+A {Gh{gigh{Gla{gnde{Gr{x observes you with somber eyes.
+~
+The highlander watches over the ruins of the castle.  
+~
+dwarf~
+100 100 100 100 0 100 100 100 100 100 100 50 50 150 100 100 100 100 0 100 50 100 150 100 100 100 
+G Z 0 3000 0
+85 150 0 5537 6257 5314 5912 20 16 193 cleave
+-223 -295 -227 -285
+STANDING STANDING male 3068
+74 warrior medium ABCDEFGHIJK
+P 1559 3
+S 'roundhouse' 0
+
+#18672
+castle guard~
+a castle {Dguard{x~
+A castle {Dguard{x mans his post.
+~
+The guard mans his post watching over the castle.
+~
+minotaur~
+100 150 100 0 100 50 100 100 100 0 100 100 100 100 0 100 100 150 0 100 100 100 100 100 100 100 
+G L 0 3000 0
+101 201 0 6679 7603 7212 7758 27 23 163 none
+-269 -267 -302 -392
+STANDING STANDING male 3387
+74 warrior medium ABCDEFGHIJKW
+P 2686 2
+S 'roundhouse' 0
+
+#18673
+lass~
+a {Wbonnie {Cl{ca{cs{Cs{X~
+A {Wbonnie {Cl{ca{cs{Cs{X walks by with a smile.
+~
+The bonnie lass has a smile on her face, a song in her heart, and
+everything is right with the world.  
+~
+gnoll~
+100 100 100 150 100 100 100 100 200 100 100 100 100 100 50 100 100 100 100 0 100 100 100 100 100 100 
+G FVZ 0 3000 0
+109 209 0 7712 8082 7893 8715 29 22 267 none
+-377 -287 -351 -369
+STANDING STANDING female 4438
+75 warrior medium ABCDEFGHIJKUV
+P 2604 11
+S 'roundhouse' 0
+
+#18674
+wraith~
+a {Dspectral w{wr{Wai{wt{Dh{x~
+A {Dspectral w{wr{Wai{wt{Dh{x floats here.
+~
+The wraith floats about the deserted chamber, moaning strangely.  
+~
+human~
+100 100 0 150 100 0 100 100 150 50 100 100 50 100 50 100 100 100 100 0 100 100 100 100 100 100 
+BG T 0 3000 0
+85 192 0 5474 5889 5226 6265 16 21 189 wrath
+-286 -235 -238 -233
+STANDING STANDING neutral 3067
+75 warrior medium ABCDEFGHIJK
+P 382 0
+S 'roundhouse' 0
+
+#18675
+haunting spectre~
+a {Dhaunting s{wp{Wect{wr{De{X~
+A {Dhaunting s{wp{Wect{wr{De{X roams through the castle.
+~
+~
+human~
+100 50 50 0 100 0 100 100 100 50 100 100 150 100 100 100 100 100 100 50 150 100 0 100 100 100 
+BGO FJTcd 0 3000 0
+85 132 0 5326 6328 5622 6312 20 21 191 none
+-236 -287 -309 -293
+STANDING STANDING neutral 3245
+75 warrior medium ABCDEFGHIJK
+P 289 1
+S 'roundhouse' 0
+
+#18676
+daemon~
+a {rd{Raemo{rn{x~
+A {rd{Raemo{rn{X howls with insane glee.
+~
+~
+human~
+100 75 125 100 100 100 100 100 200 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 
+BGO CJTd ADJO 3000 0
+85 133 0 5362 6222 5476 6440 18 21 142 none
+-218 -324 -285 -316
+STANDING STANDING neutral 3391
+76 warrior medium ABCDEFGHIJK
+P 363 0
+S 'roundhouse' 0
+
+#18677
+blob~
+a {gb{Glo{gb{x~
+A hideous {gb{Glo{gb{x leaves a trail of slime in its wake.
+~
+~
+human~
+0 0 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 50 100 100 100 100 100 100 100 100 
+BGO 0 0 3000 0
+85 155 0 5471 5899 5634 6271 18 21 145 digestion
+-246 -202 -195 -226
+STANDING STANDING neutral 2750
+77 warrior medium ABCDEFGHIJK
+P 250 1
+S 'roundhouse' 0
+
+#18678
+duergar~
+a {rd{Du{we{Wr{wg{Da{rr{x~
+A {rd{Du{we{Wr{wg{Da{rr{x howls and attacks!
+~
+The duergar guards the most prized part of the castle.  
+~
+dwarf~
+0 0 100 50 0 100 150 100 100 100 100 150 100 100 125 100 100 75 0 100 75 100 200 100 100 100 
+BDGO DFZ FHNO 3000 0
+101 177 0 6492 7370 7182 7573 21 20 240 drain
+-325 -400 -362 -361
+STANDING STANDING neutral 4062
+90 warrior medium ABCDEFGHIJK
+P 142 4
+S 'roundhouse' 0
+M GRALL 18678 100~
+
+#18679
+drow warrior~
+a {Ddrow w{wa{Wrri{wo{Dr{X~
+A stout {Ddrow w{wa{Wrri{wo{Dr{X challenges you!
+~
+The drow warrior is a foul creature who loves the taste of blood.  
+~
+drow~
+100 150 25 75 100 100 100 100 200 125 155 100 100 50 0 100 100 110 100 100 110 100 100 100 100 100 
+DFG DEFPUV BGHO -1000 0
+165 337 0 10685 12547 11571 12033 38 43 348 none
+-514 -596 -641 -517
+STANDING STANDING neutral 6184
+100 mage medium ABCDEFGHIJK
+P 34 1
+S 'roundhouse' 0
+
+#18680
+elven mage~
+an {ge{Gl{Wv{Ge{gn mage{X~
+An {ge{Gl{Wv{Ge{gn mage{X waits patiently to test you.
+~
+The elven mage tests all who come here.  Most fail miserably.  
+~
+elf~
+100 140 10 100 100 100 100 100 100 150 100 100 100 50 130 100 100 110 100 100 110 100 100 100 100 100 
+DFG DEFPQV HIN 3000 0
+165 339 0 11685 12064 10626 12535 40 33 323 magic
+-550 -478 -434 -529
+STANDING STANDING neutral 5644
+100 archmage medium ABCDEFGHIJK
+P 27 7
+S 'roundhouse' 0
+
+#18681
+undead warrior~
+an {Dundead w{wa{Wrri{wo{Dr{x~
+An {Dundead w{wa{Wrri{wo{Dr{x waits to destroy you.
+~
+The undead warrior is more fierce than any opponent you have ever faced.  
+~
+skeleton~
+0 0 0 100 0 100 100 100 200 100 200 150 100 100 0 0 0 0 0 100 0 100 100 100 100 100 
+FGO VZ GHJO 3000 0
+165 270 0 11073 12173 10953 12907 37 41 262 none
+-546 -480 -617 -648
+STANDING STANDING neutral 6123
+100 mage medium 0
+P 33 3
+S 'roundhouse' 0
+
+#18682
+image past~
+an {Dimage{x of the {Dpast{x~
+An {Dimage{x of the {Dpast{x floats before you.
+~
+The past haunts you with its very prescence.  
+~
+human~
+100 100 0 100 100 50 50 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G T 0 -3000 0
+109 199 0 7968 8656 7871 8639 22 22 223 none
+-381 -373 -383 -313
+STANDING STANDING neutral 3827
+78 acolyte medium ABCDEFGHIJK
+P 402 0
+S 'roundhouse' 0
+
+#18683
+image present~
+an {Dimage{X of the {Wpresent{x~
+An {Dimage{X of the {Wpresent{x floats before you.
+~
+The present is now.  
+~
+human~
+100 50 100 50 100 100 150 100 100 50 100 0 100 100 50 100 100 100 100 100 100 100 100 100 100 100 
+BG TV 0 -3000 0
+109 183 0 7603 8730 7240 8479 25 26 181 none
+-334 -288 -386 -277
+STANDING STANDING neutral 5326
+79 warrior medium ABCDEFGHIJK
+P 163 3
+S 'roundhouse' 0
+
+#18684
+image future~
+an {Dimage{x of the {Yfuture{x~
+An {Dimage{x of the {Yfuture{x taunts you.
+~
+The future waits before you.  
+~
+human~
+100 100 100 100 100 100 50 100 150 100 100 50 100 100 150 100 100 100 100 100 50 100 100 100 100 100 
+GO T 0 -3000 0
+109 207 0 7800 8634 7269 8352 25 28 217 wrath
+-286 -324 -311 -293
+STANDING STANDING neutral 5216
+79 warrior medium ABCDEFGHIJK
+P 128 2
+S 'roundhouse' 0
+
+#18685
+maggot~
+a maggot~
+A slimy maggot crawls through the slime.
+~
+The maggot is bloated with its last meal of dead flesh.  
+~
+human~
+100 100 100 150 100 100 50 100 100 50 100 0 100 100 100 100 100 100 0 0 100 100 100 100 100 100 
+O V 0 3000 0
+109 251 0 7311 8428 7440 8803 28 27 260 digestion
+-286 -374 -365 -378
+STANDING STANDING neutral 4491
+79 warrior medium ABCDEFGHIJK
+P 376 0
+S 'roundhouse' 0
+
+#18686
+blob~
+a blob~
+A blob crawls through the filth.
+~
+The blob leaves a trail of slime over the filth of the pit.  
+~
+human~
+0 0 100 50 50 50 50 100 100 100 100 100 100 50 100 100 100 100 150 100 100 100 100 100 100 100 
+GO V CH 3000 0
+98 168 0 6772 7307 6886 7138 25 24 182 none
+-271 -384 -346 -366
+STANDING STANDING neutral 3613
+79 warrior medium ABCDEFGHIJK
+P 21 0
+S 'roundhouse' 0
+
+#18687
+bat~
+a bat ~
+A huge bat swoops down from the ceiling of the pit.
+~
+The bat shrieks and glares at you with beady red eyes.  
+~
+bat~
+50 0 100 50 100 100 50 100 50 100 150 0 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+GO TVZ HN 3000 0
+99 213 0 6751 7264 6322 7219 22 19 230 acbite
+-248 -352 -258 -273
+STANDING STANDING neutral 3876
+79 mage medium ACDEFHJKP
+P 25 0
+S 'roundhouse' 0
+
+#18788
+werewolf~
+a werewolf~
+A werewolf howls at the moon!
+~
+The werewolf stops for a moment, then looks skyward and howls.  It is
+feeding time again.  
+~
+human~
+50 0 100 50 0 100 0 100 50 50 100 100 100 100 100 100 100 50 50 150 50 100 100 100 100 100 
+G Z HN 3000 0
+100 232 0 6525 7453 6970 7701 24 20 185 none
+-362 -310 -316 -399
+STANDING STANDING neutral 4692
+80 acolyte medium ABCDEFGHIJK
+P 33 0
+S 'roundhouse' 0
+
+#18789
+something~
+{MSomething{0~
+{mSomething{0 has found you.
+~
+~
+human~
+50 0 100 0 0 100 50 100 150 50 100 50 50 100 0 100 100 150 100 50 50 100 100 100 100 100 
+BFG PT BCHN 3000 0
+101 179 0 6706 7714 6632 7598 27 24 165 drain
+-362 -329 -393 -337
+STANDING STANDING neutral 4721
+80 mage medium ABCDEFGHIJK
+P 25 2
+S 'roundhouse' 0
+
+#18799
+cow~
+a cow~
+A large female cow eats the grass slowly.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B 0 0 0 0
+0 1 0 54 84 49 82 10 10 10 none
+-10 -10 -10 -10
+STANDING STANDING female 10
+60 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+M GREET 18796 100~
+M GREET 18797 100~
+M SPEECH 18798 yes~
+M SPEECH 18799 no~
+#0
+
+#OBJECTS
+#18600
+coral~
+a piece of {Cc{co{Cr{ca{Cl{x~
+A piece of {Cc{co{Cr{ca{Cl{x lies on the ocean floor.~
+armor T AQ
+6 6 6 6 0
+20 21 750
+A 19 5
+A 18 5
+A 5 2
+A 2 2
+A 4 2
+A 3 2
+A 1 2
+A 13 20
+
+#18601
+pearl golden~
+a {Ygolden {Wpearl{0~
+A {Ygolden {wpearl{0 has been dropped here.~
+trash A A
+0 0 0 0 0
+0 1 200
+
+#18602
+necklace diamond~
+a {Wdiamond{0 necklace~
+The prized {Wdiamond{0 necklace lies in an open velvet box.~
+armor T AC
+16 14 15 12 0
+37 41 9175
+A 13 50
+A 12 50
+A 4 2
+A 3 2
+A 5 2
+A 19 10
+A 18 10
+A 20 -1
+
+#18603
+cap sailor~
+a {Ds{wa{Wil{wo{Dr{W'{Ds cap{x~
+A {Ds{wa{Wil{wo{Dr{W'{Ds cap{x lies here.~
+armor T AE
+6 8 9 9 0
+20 21 4676
+A 19 5
+A 18 5
+A 12 25
+
+#18604
+sash buccaneer~
+a {Db{wuc{Wcan{wee{Dr{W'{Ds {Dsash{x~
+A piece of silk lies here.~
+armor 0 AL
+6 6 7 7 0
+20 21 4936
+A 18 8
+A 2 1
+A 13 25
+A 12 25
+A 19 8
+
+#18605
+sword sai rusted~
+a {yrusted{x {Dsai{x~
+A rust covered {Dsai{x has been dropped here.~
+weapon IT AN
+sword 7 7 frbite B
+20 21 2529
+A 18 7
+A 19 7
+
+#18606
+whip soggy~
+a {Wsoggy {Dw{wh{Wi{Dp{x~
+A water soaked {Dw{wh{Wi{Dp{x lies here.~
+weapon 0 AN
+whip 7 8 sting GH
+25 50 2886
+A 19 5
+A 18 5
+
+#18607
+ring pearl~
+a {Wpearl {Dring{x~
+A delicate {Wpearl{D ring{X has been dropped here.~
+armor T AB
+8 7 7 7 0
+22 23 2496
+A 20 0
+A 19 8
+A 18 8
+A 4 1
+A 3 1
+A 5 1
+A 13 20
+
+#18608
+pearl bracelet~
+a {Wpearl{D bracelet{x~
+A broken strand of {Wpearls{x lie here.~
+armor 0 AM
+10 8 8 7 0
+20 21 4508
+A 19 8
+A 18 8
+A 1 1
+A 5 1
+A 13 20
+A 12 20
+
+#18609
+jug rum~
+a {yjug{X of {rrum{x~
+A {yjug{x of {rrum{x waits to quench your thirst.~
+drinkcontainer 0 A
+10 10 'rum' 0 0
+1 1 195
+
+#18610
+dead fish~
+a {Ddead fish{x~
+A {Ddead fish{x lies on the deck.~
+light 0 AO
+0 0 999 0 0
+1 1 100
+A 5 2
+A 2 2
+A 4 2
+A 3 2
+A 1 2
+
+#18611
+hat captain's~
+the {Dc{wa{Wpta{wi{Dn{W'{Ds hat{x~
+The {Dc{wa{Wpta{wi{Dn{W'{Ds hat{x lies here.~
+armor T AE
+15 12 15 12 0
+37 41 6214
+A 12 100
+A 4 3
+A 3 2
+A 5 2
+A 19 10
+A 18 10
+A 20 -1
+
+#18612
+boots captain~
+the {Dc{wa{Wpta{wi{Dn{W'{Ds boots{x~
+The {Dc{wa{Wpta{wi{Dn{W'{Ds boots{x lies here.~
+armor T AG
+14 16 15 14 0
+37 41 1500
+F A 0 0 P
+A 19 10
+A 18 10
+A 13 50
+A 2 3
+
+#18613
+necklace pearl~
+a {Wpearl {Dn{wec{Wkl{wac{De{x~
+A {Wpearl {Dn{wec{Wkl{wac{De{x lies here.~
+armor T AC
+9 11 11 8 0
+25 26 2875
+A 20 -1
+A 4 2
+A 3 2
+A 19 8
+A 18 8
+A 5 2
+A 13 25
+
+#18614
+martial pirate's pegleg~
+the {Dp{wi{Wra{wt{De{W'{Ds {ypegleg{x~
+The {Dp{wi{Wra{wt{De{W'{Ds{x wooden {ypegleg{x has fallen to the ground.~
+weapon HMT AN
+mace 7 7 crush G
+25 26 5588
+A 19 10
+A 18 10
+
+#18615
+key~
+a barnacle encrusted {Wk{Wey{x~
+A barnacle encrusted key has been dropped here.~
+key 0 A
+0 0 0 0 0
+1 1 200
+
+#18616
+armor sharkskin~
+a piece of {Ws{whar{Wk's s{wki{Wn{x~
+A bloody piece of {Ws{whar{Wk's s{wki{Wn{x lies here.~
+armor T AD
+10 14 13 14 0
+30 36 6402
+A 20 -1
+A 19 10
+A 18 10
+A 1 3
+A 2 3
+A 13 50
+A 12 25
+
+#18617
+crate wooden~
+a {ywooden {Dcrate{x~
+A {ywooden {Dcrate{x sits here.~
+container 0 0
+100000 AC 0 100 10
+0 200 200
+
+#18618
+bottle champagne~
+a {ybottle{x of {Yc{yha{Ympa{ygn{Ye{x~
+A {ybottle{x of rare {Yc{yha{Ympa{ygn{Ye{x has been placed here.~
+drinkcontainer 0 A
+20 20 'champagne' 0 0
+1 5 124
+
+#18619
+vial silver~
+a {Ws{wilve{Wr vial{x~
+A {Ws{wilve{Wr vial{x lies inside the crate.~
+potion T A
+16 'sanctuary' 'bless' 'frenzy' 'reserved'
+1 1 189
+
+#18620
+treasure sunken ship~
+the {Yt{yre{Yas{yur{Ye{x of the sunken {Ds{wh{Wi{Dp{x~
+The {Yt{yre{Yas{yur{Ye{x of the sunken {Ds{wh{Wi{Dp{x lies inside the crate.~
+money 0 A
+100000 0 0 0 0
+1 200 166
+
+#18621
+chest seashells~
+a {ychest{x made of {Cs{ce{Ca s{chell{Cs{x~
+A {ychest{x made entirely of {Cs{ce{Ca s{chell{Cs{x sits here.~
+container 0 0
+100000 0 0 200 10
+0 5000 2000
+
+#18622
+finger sandwich kelp~
+a tiny finger {ysandwich{x~
+A tiny finger {ysandwich{x made of kelp tempts you.~
+food 0 A
+12 6 0 0 0
+1 1 146
+
+#18623
+vial fresh water~
+a {Wvial{x of fresh {Bw{Ca{Wt{Ce{Br{x~
+A {Wvial{x of fresh {Bw{Ca{Wt{Ce{Br{x waits to quench your thirst.~
+drinkcontainer 0 A
+10 10 'water' 0 0
+1 1 119
+
+#18624
+bed seaweed~
+a {Wbed{x of {gs{Ge{ga{Gw{ge{Ge{gd{x~
+A large {Wbed{x of {gs{Ge{ga{Gw{ge{Ge{gd{x sits against one wall of the cave.~
+furniture 0 0
+2 20000 EHK 50 50
+0 500 5000
+
+#18625
+sand dollar ~
+a sand dollar~
+A sand dollar lies on the ocean floor.~
+pill 0 A
+15 'haste' 'giant strength' 'stone skin' 'invisibility'
+0 1 0
+
+#18626
+parchment torn~
+a torn piece of parchment~
+A torn piece of parchment has been dropped here.~
+treasure 0 AO
+0 0 0 0 0
+0 1 0
+E
+parchment~
+The evil sea witch lives near the Chaotic Caves.  Please help us save our
+fair city!  
+~
+
+#18627
+a twisted walking stick~
+a twisted walking {ystick{x~
+A twisted walking stick has been dropped in the sand.~
+weapon HT AN
+exotic 10 10 beating BGH
+69 50 12156
+A 19 25
+A 18 25
+
+#18628
+key tiny~
+a tiny {Ws{wilve{Wr{x key{x~
+A tiny silver key is half covered by sand.~
+key 0 A
+0 0 0 0 0
+1 1 124
+
+#18629
+portal stone~
+a {Wportal{y stone{x~
+A large black pearl lies in the sand.~
+portal T A
+1 0 0 18657 0
+1 1 200
+
+#18630
+red potion~
+a {Rred{0 potion~
+A {Rred{0 potion has been dropped here.~
+potion ABY A
+60 'heal' 'heal' 'reserved' 'reserved'
+50 1 5000
+
+#18631
+blue potion~
+a {Bblue{0 potion~
+A {Bblue{0 potion has been dropped here.~
+potion ABY A
+65 'cure blindness' 'cure blindness' 'reserved' 'reserved'
+50 1 2500
+
+#18632
+green potion~
+a {Ggreen{0 potion~
+A {Ggreen{0 potion~
+potion ABY A
+65 'cure disease' 'cure disease' 'cure poison' 'cure poison'
+50 1 2500
+
+#18633
+golden potion~
+a {Ygolden{0 potion~
+A {Ygolden{0 potion has been dropped here.~
+potion ABY A
+100 'sanctuary' 'bless' 'reserved' 'reserved'
+85 1 7500
+
+#18634
+purple potion~
+a {Mpurple{0 potion~
+A {Mpurple{0 potion lies here.~
+potion ABY A
+16 'detect hidden' 'detect invis' 'detect evil' 'detect good'
+1 1 164
+
+#18635
+white potion~
+a {Wwhite{0 potion~
+A {Wwhite{0 potion has been dropped here.~
+potion ABY A
+65 'remove curse' 'remove curse' 'reserved' 'reserved'
+50 1 2500
+
+#18636
+silvery wand~
+a {Wsilvery{0 wand~
+A {Wsilvery{0 wand has been dropped here.~
+wand 0 AO
+35 20 20 'earthquake' 0
+20 1 5000
+
+#18637
+golden wand~
+a {Ygolden{0 wand~
+A {Ygolden{0 wand has been dropped here.~
+wand 0 O
+35 20 20 'harm' 0
+20 1 5000
+
+#18638
+guardian badge~
+a {Wbadge{x made of {Cs{cea{Csh{cel{Cl{x~
+A badge made of seashell has been dropped in the sand.~
+armor T AV
+17 13 13 12 0
+35 36 5067
+A 19 10
+A 18 10
+A 4 3
+A 3 3
+A 13 50
+A 12 50
+
+#18639
+sword city guardian~
+a city guardian {Wsword{x~
+a city guardian {Wsword{x~
+weapon T AN
+sword 7 8 slash ADG
+53 50 11947
+A 19 20
+A 18 20
+
+#18640
+glove leather~
+a heavy {yleather glove{x~
+A finely crafted leather glove has been carelessly dropped here.~
+weapon T AN
+exotic 9 9 crush ABD
+35 36 2240
+
+#18641
+shield polished~
+a polished {Wshield{x~
+A shield bearing a strange insignia lies here.~
+armor 0 AJ
+18 13 13 12 0
+37 36 7655
+A 20 -1
+A 19 10
+A 18 10
+A 13 100
+A 12 100
+
+#18642
+belt sash~
+a silk {rsash{0~
+A silk of {Rsilk{0 has been dropped on the floor.~
+armor 0 AL
+12 12 16 11 0
+35 36 300
+A 20 -1
+A 5 1
+
+#18643
+flail iron~
+a heavy {yiron {Wflail{x~
+A piece of warped metal lies on the ground.~
+weapon 0 AN
+flail 9 8 crush BGH
+35 60 8317
+A 19 10
+A 18 10
+
+#18644
+sleeves chain mail~
+some {Wc{whai{Wn{x mail {Wsleeves{x~
+A pair of chain mail sleeves lie crumpled on the ground.~
+armor T AI
+11 14 17 11 0
+35 36 3520
+A 20 -1
+A 19 10
+A 18 10
+A 1 3
+A 13 50
+
+#18645
+leggings chain mail~
+some {Wc{whai{Wn{x mail {Wleggings{x~
+Some finely crafted chain mail leggings have been dropped here.~
+armor 0 AF
+14 12 15 12 0
+35 36 7811
+A 20 -1
+A 19 10
+A 18 10
+A 2 3
+A 13 50
+A 14 50
+
+#18646
+whip leather~
+a {yleather {Wwhip{x~
+A long {yleather {Wwhip{ waits to sting you.~
+weapon T AN
+whip 8 8 sting BCD
+35 50 7306
+A 19 10
+A 18 10
+
+#18647
+heavy leather boots~
+a pair of heavy {yleather {Wboots{x~
+A pair of heavy {yleather {Wboots{x lie here.~
+armor 0 AG
+15 15 15 14 0
+69 41 13315
+A 20 -2
+A 19 15
+A 18 15
+A 2 3
+A 13 150
+F A 0 0 V
+A 14 100
+
+#18648
+mace black~
+a heavy {Dblack mace{x~
+A strange black stick lies in the sand.~
+weapon 0 AN
+mace 8 8 pound CFG
+35 36 5598
+A 19 10
+A 18 10
+
+#18649
+heavy iron hammer~
+a heavy {yiron hammer{x~
+A hammer waits for a carpenter's hand.~
+weapon T AN
+exotic 8 9 crush BGH
+35 70 5278
+A 19 10
+A 18 10
+
+#18650
+dark quarterstaff~
+a {Ddark quarterstaff{x~
+A blackened piece of wood lies covered in sand.~
+weapon T AN
+exotic 9 9 smash CDFG
+35 70 7473
+A 19 10
+A 18 10
+
+#18651
+spear dark~
+a {Ddark spear{x~
+A huge splinter lies here.~
+weapon T AN
+spear 9 9 pierce BDG
+35 50 8671
+A 19 10
+A 18 10
+
+#18652
+crested helm~
+a {Wcrested {Ch{cel{Cm{x~
+A {Wcrested {Ch{cel{cm{x lies in the sand.~
+armor 0 AE
+13 13 13 12 0
+53 36 7199
+A 20 -2
+A 19 15
+A 13 75
+A 12 30
+
+#18653
+sushi~
+some {Cs{cu{Cs{ch{Ci{x~
+A bowl of delicious {Cs{cu{Cs{ch{Ci{x sits here.~
+food 0 A
+36 24 0 0 0
+1 1 20
+
+#18654
+clam chowder~
+a {ybowl{x of {Wclam chowder{x~
+A {ybowl{x of {Wclam chowder{x lies here.~
+food 0 A
+36 24 0 0 0
+1 1 30
+
+#18655
+bottle water~
+a {Wbottle{x of {Bw{Ca{Wt{Ce{Br{x~
+A {Wbottle{x of {Bw{Ca{Wt{Ce{Br{x lies here in the sand.~
+drinkcontainer 0 A
+5 5 'water' 0 0
+1 1 20
+
+#18656
+vial tea~
+a {Wvial{x of {gh{Ge{grb{Ga{gl {yt{Ye{ya{x~
+A {Wvial{x of {gh{Ge{grb{Ga{gl {yt{Ye{ya{x is here.~
+drinkcontainer 0 A
+4 4 'tea' 0 0
+1 1 10
+
+#18657
+golden orb~
+a {Ygolden{0 orb~
+A {Ygolden{0 orb gives off a warm light.~
+light 0 AO
+0 0 999 0 0
+1 5 25
+
+#18658
+earthen jug water~
+an earthen jug of {Bw{Ca{Wt{Ce{Br{x~
+An earthen jug of water sits here.~
+drinkcontainer 0 A
+25 25 'water' 0 0
+1 20 25
+
+#18659
+jerky ~
+a piece of {rjerky{x~
+A piece of jerky has been dropped here.~
+food 0 A
+48 18 0 0 0
+1 2 20
+
+#18660
+woven pouch~
+a woven {yb{Yac{ykp{Yac{yk{x~
+A delicate woven pouch has been dropped here.~
+container SY AT
+1000 0 0 50 20
+1 20 200
+A 17 0
+
+#18661
+bottle ale~
+a {ybottle{x of {Yale{x~
+A bottle of ale sits on a table.~
+drinkcontainer 0 A
+4 4 'ale' 0 0
+1 2 20
+
+#18662
+jug rum~
+a jug of rum~
+A jug of rum has been dropped here.~
+drinkcontainer 0 A
+10 10 'rum' 0 0
+0 5 40
+
+#18663
+shot whiskey~
+a {Wshot{x of {ywhiskey{x~
+A shot of whiskey tempts you.~
+drinkcontainer 0 A
+1 1 'whisky' 0 0
+1 1 5
+
+#18664
+pearl ring~
+a {Wpearl {Dring{x~
+A beautiful pearl ring spins wildly about.~
+jewelry T AB
+0 0 0 0 0
+1 1 237
+A 5 1
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 19 0
+A 18 0
+A 13 3
+
+#18665
+pearl necklace~
+a {Wpearl{D necklace{x~
+A pearl necklace is nestled in a black velvet box.~
+jewelry 0 AC
+0 0 0 0 0
+1 2 193
+A 5 1
+A 2 1
+A 3 1
+A 4 1
+A 1 1
+A 19 0
+A 18 0
+A 13 3
+
+#18666
+pearl bracelet~
+a {Wpearl{D bracelet{x~
+A pearl bracelet lies nestled in a black velvet box.~
+jewelry 0 AM
+0 0 0 0 0
+1 2 200
+A 5 1
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 19 0
+A 18 0
+A 13 3
+
+#18667
+silk dressing gown~
+a {Wsilk{x dressing {Wgown{x~
+A piece of shimmering cloth lies here.~
+trash 0 AK
+0 0 0 0 0
+1 1 124
+A 4 1
+A 3 1
+A 1 1
+A 2 1
+A 5 1
+A 13 3
+A 19 0
+A 18 0
+
+#18668
+silk cravat~
+a {Wsilk cravat{x~
+A silk cravat waits to be worn.~
+trash 0 AC
+0 0 0 0 0
+1 1 207
+A 5 1
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 19 0
+A 18 0
+A 13 3
+
+#18669
+wedding gown~
+a beaded {Wsatin{x wedding {Wgown{x~
+A beaded satin wedding gown waits to be worn.~
+trash 0 AD
+0 0 0 0 0
+1 10 192
+A 5 1
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 19 0
+A 13 3
+A 18 0
+
+#18670
+tuxedo~
+a {Dt{wu{Wxe{wd{Do{x~
+A tuxedo waits to be worn.~
+trash 0 AD
+0 0 0 0 0
+1 5 168
+A 5 1
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 19 0
+A 18 0
+A 13 3
+
+#18671
+buffet~
+the buffet~
+This buffet was made for boffing.~
+furniture 0 0
+2 100000 EHK 50 50
+0 200 0
+
+#18672
+wizard's potion~
+the {Dwizard{W'{Ds{x mystical {Wpotion{x~
+The wizard's mystical potion is here.~
+potion ABY A
+75 'sanctuary' 'bless' 'frenzy' 'remove curse'
+60 1 7208
+
+#18673
+light~
+a {M*>light<*{0~
+A {m*>light<*{0 lies here.~
+light GITU A
+0 0 999 0 0
+85 1 500
+F A 0 0 L
+A 20 -3
+A 19 25
+A 18 25
+A 4 3
+A 3 3
+A 13 200
+A 12 150
+
+#18674
+foul potion~
+a {cfoul {Dpotion{x~
+A {cfoul {Dpotion{x lies here.~
+potion AB A
+16 'heal' 'cure critical' 'cure serious' 'cure light'
+1 1 114
+
+#18675
+bony claw~
+the bony claw of the {Cs{ce{Ca{D witch{x~
+A skeletal hand lies in the sand.~
+weapon 0 AN
+flail 8 7 epidemic BH
+53 51 12816
+A 19 20
+A 18 20
+
+#18676
+highlander's kilt~
+a {Gh{gigh{Gla{gnde{Gr's{x kilt~
+A highlander's kilt lies here.~
+armor GIT AL
+25 26 22 21 0
+65 66 1200
+A 13 195
+A 19 20
+A 18 20
+A 20 -2
+F A 0 0 U
+
+#18677
+klaive~
+a {Dblack klaive{x~
+A heavy black klaive lies here.~
+weapon T AN
+sword 9 9 splintering BCG
+65 66 14087
+A 19 26
+A 18 26
+
+#18678
+shield crest~
+a {Wcrested {gshield{x~
+A crested shield lies here.~
+armor T AJ
+22 28 22 21 0
+65 61 15412
+A 13 195
+A 19 20
+A 18 20
+A 20 -2
+A 1 3
+
+#18679
+shroud~
+a {R+{Cs{Whrou{Cd{R+{0~
+A piece of sheer cloth lies on the floor.~
+armor GIT AK
+23 24 27 23 0
+69 66 11221
+F A 0 0 U
+A 20 -1
+A 19 20
+A 18 20
+A 2 3
+A 13 200
+A 12 100
+
+#18680
+boots~
+some {R+{Cb{Woot{Cs{R+{0~
+A strange pair of {R+{Cb{Woot{Cs{R+{0 lie here.~
+armor GIT AG
+24 24 24 23 0
+69 66 10672
+F A 0 0 T
+A 20 -1
+A 19 20
+A 18 20
+A 2 3
+A 13 200
+A 14 100
+
+#18681
+ring~
+a {R+{Cr{Win{Cg{R+{0~
+A jewel encrusted {R+{Cr{Win{Cg{R+{0 lies here.~
+jewelry GITY AB
+0 0 0 0 0
+69 2 6974
+A 20 -2
+A 19 20
+A 18 20
+A 3 3
+A 4 3
+A 13 150
+A 12 100
+
+#18682
+bracer~
+a {R+{Cb{Wrace{Cr{R+{0~
+A stiff piece of leather has been dropped here.~
+armor GI AM
+27 23 27 26 0
+69 76 10262
+A 20 -2
+A 19 20
+A 18 20
+A 1 3
+A 5 3
+A 13 200
+A 12 100
+
+#18683
+dagger silver dirk~
+a {Ws{wilve{Wr d{wir{Wk{x~
+A tiny silver dirk lies here.~
+weapon GT AN
+dagger 10 9 silvery BDG
+69 76 14520
+A 19 25
+A 18 25
+A 2 3
+A 12 50
+A 13 50
+A 20 -1
+
+#18684
+leggings~
+some {R*{Cl{Wegging{Cs{R*{0~
+A pair of warm wool socks lie here.~
+armor 0 AF
+29 27 26 26 0
+69 76 13299
+F A 0 0 V
+A 19 20
+A 18 20
+A 2 3
+A 1 3
+A 13 200
+A 14 100
+
+#18685
+key~
+an engraved key~
+A key with intricate engravings lies here.~
+key FPU A
+0 0 0 0 0
+0 1 0
+
+#18686
+shield ~
+a {M*>shield<*{0~
+A {M*>shield<*{0 lies propped against a wall.~
+armor GIT AJ
+36 31 34 32 0
+85 92 1200
+A 5 2
+A 1 3
+A 13 200
+A 18 20
+A 19 20
+A 20 -2
+
+#18687
+potion~
+a {M*>potion<*{0~
+A strange {M*>potion<*{0 sits on a shelf.~
+potion ABTUY A
+100 'cure blindness' 'cure blindness' 'cure poison' 'cure disease'
+85 1 1500
+
+#18688
+pack~
+a {M*>pack<*{0~
+An elven {M*>pack<*{0 has been discarded here.~
+container GIUY AK
+5000 0 0 75 10
+1 20 190
+
+#18689
+globe~
+a {M*>globe<*{0 of shielding~
+A {M*>globe<*{0 of shielding floats before you.~
+armor GIU AQ
+30 33 30 32 0
+85 93 1000
+F S 0 0 E
+
+#18690
+bracers~
+some {M*>bracers<*{0~
+A bracer lies here.~
+armor GITU AM
+34 28 28 38 0
+85 95 1200
+A 2 2
+A 1 3
+A 13 200
+A 18 20
+A 19 20
+A 20 -2
+
+#18691
+ring~
+a {M*>ring<*{0~
+A {M*>ring<*{0 rolls about the floor.~
+jewelry GITUY AB
+0 0 0 0 0
+85 2 1200
+A 4 3
+A 3 3
+A 13 200
+A 18 20
+A 19 20
+A 20 -2
+
+#18692
+sleeves~
+a pair of {M*>sleeves<*{0~
+A pair of {M*>sleeves<*{0 lie here.~
+armor GIU AI
+35 41 35 34 0
+97 98 1200
+A 2 2
+A 5 1
+A 1 2
+A 13 200
+A 18 20
+A 19 20
+A 20 -2
+
+#18693
+leggings~
+a pair of {M*>leggings<*{0~
+A pair of {M*>leggings<*{0 lie here.~
+armor GIU AF
+28 37 29 35 0
+85 99 1300
+A 1 2
+A 2 3
+A 13 200
+A 18 20
+A 19 20
+F A 0 0 V
+
+#18694
+belt~
+a {M*>belt<*{0~
+A {M*>belt<*{0 has been dropped on the ground.~
+armor GIU AL
+40 33 37 37 0
+85 10 1500
+A 5 2
+A 2 3
+A 13 200
+A 18 20
+A 19 20
+F A 0 0 U
+
+#18695
+boots~
+a pair of {M*>boots<*{0~
+A shiny pair of {M*>boots<*{0 wait for an owner.~
+armor GIU AG
+38 35 32 39 0
+85 101 1500
+A 1 2
+A 2 3
+A 13 200
+A 18 20
+A 19 20
+F A 0 0 T
+
+#18696
+dagger~
+{M*>dagger<*{0~
+A little {M*>dagger<*{x lies here.~
+weapon FGHIMSU AN
+dagger 11 12 thrust CDG
+85 101 16859
+A 18 3
+A 19 3
+
+#18697
+gauntlets~
+some {M*>gauntlets<*{0~
+Some {M*>gauntlets<*{0 wait to be worn.~
+armor FGIU AH
+29 33 30 32 0
+85 102 1500
+A 13 200
+A 5 2
+A 1 3
+A 18 20
+A 19 20
+A 20 -2
+
+#18698
+potion vial~
+a vial~
+A strange silver vial lies here.~
+potion ABF A
+100 'haste' 'frenzy' 'giant strength' 'fly'
+85 1 8000
+
+#18699
+helm~
+a {M*>helm<*{0~
+A {M*>helm<*{0 sits near one wall.~
+armor FGIU AE
+36 30 37 31 0
+85 102 1500
+A 13 200
+A 3 2
+A 4 3
+A 18 20
+A 19 20
+A 20 -2
+
+#18700
+box condoms~
+a box of condoms~
+A box of condoms waits for an owner.~
+treasure 0 A
+0 0 0 0 0
+0 2 10
+
+#18701
+condom~
+a condom~
+A condom waits to protect you.~
+treasure 0 AL
+0 0 0 0 0
+0 1 1
+
+#18702
+letter opener~
+a {Wletter{x opener{x~
+A {Wletter{x opener has been dropped here.~
+weapon T AN
+dagger 8 7 stab D
+25 50 5965
+A 19 5
+A 18 5
+
+#18703
+kraldian dagger~
+a Kraldian dagger~
+A Kraldian dagger lies here.~
+weapon 0 AN
+dagger 8 7 sting D
+25 11 4573
+A 19 5
+A 18 5
+
+#18704
+kraldian mace~
+a Kraldian mace~
+A Kraldian mace has been dropped here.~
+weapon 0 AN
+mace 8 7 sting 0
+25 11 3980
+A 19 5
+A 18 5
+
+#18705
+kraldian spear~
+a Kraldian spear~
+A Kraldian spear lies here.~
+weapon 0 AN
+exotic 7 8 sting 0
+25 11 3874
+A 19 5
+A 18 5
+
+#18706
+kraldian sword~
+a Kraldian sword~
+A Kraldian sword lies here.~
+weapon 0 AN
+sword 7 8 slice D
+25 11 3399
+A 19 5
+A 18 5
+
+#18707
+kraldian flail~
+a Kraldian flail~
+A Kraldian flail lies here.~
+weapon 0 AN
+flail 7 7 sting 0
+25 11 4079
+A 19 5
+A 18 5
+
+#18708
+krladian axe~
+a Kraldian axe~
+A Kraldian axe lies here.~
+weapon 0 AN
+axe 7 8 sting 0
+25 11 2515
+A 19 5
+A 18 5
+
+#18709
+kraldian whip~
+a Kraldian whip~
+A Kraldian whip lies here.~
+weapon 0 AN
+whip 8 7 sting 0
+25 11 3418
+A 19 5
+A 18 5
+
+#18710
+kraldian chiunyuk~
+a Kraldian chiunyuk~
+A Kraldian chiunyuk lies here.~
+weapon 0 AN
+exotic 8 7 sting 0
+25 11 4857
+A 19 5
+A 18 5
+
+#18711
+kraldian hammer~
+a Kraldian hammer~
+A Kraldian hammer lies here.~
+weapon 0 AN
+exotic 7 7 sting 0
+25 11 4638
+A 19 5
+A 18 5
+
+#18712
+kraldian polearm~
+a Kraldian polearm~
+A Kraldian polearm lies here.~
+weapon 0 AN
+polearm 7 8 sting 0
+25 11 3283
+A 19 5
+A 18 5
+
+#18713
+dragon stomach~
+a {rd{Yr{Wag{Yo{rns{Yt{Woma{Yc{rh{x~
+The stomach of a dragon lies here.~
+container STY AL
+10000 A 0 10000 5
+101 10 10625
+F D 6 -8 0
+A 20 -3
+A 19 30
+A 18 30
+A 2 3
+A 1 3
+A 13 300
+
+#18714
+cape black~
+a {Dblack hood c{wa{Wp{De{x~
+A hooded cape lies here.~
+armor CJLTY AT
+42 47 33 44 0
+101 10 11107
+A 20 -3
+A 19 30
+A 18 30
+A 2 3
+A 13 300
+F A 0 0 U
+A 12 150
+
+#18715
+Claymore~
+{rC{Rla{Wym{Ror{re{x~
+A {Wglowing {Rred {rsword{x lies here.~
+weapon JLTY AN
+sword 13 14 drain ACG
+101 50 13172
+A 20 -1
+A 19 30
+A 18 30
+A 2 3
+A 1 3
+A 13 300
+
+#18716
+elven dagger~
+an {ge{Gl{Wv{Ge{gn {Wdagger{x~
+A dagger lies here.~
+weapon ABIKLTY AN
+dagger 13 14 beauty DG
+101 10 11458
+A 18 35
+A 19 35
+
+#18717
+green hood cape~
+a {ggreen hood c{Ga{Wp{ge{x~
+A hooded cape lies here.~
+armor ABKLTY AT
+39 33 42 39 0
+101 10 11107
+A 12 150
+F A 0 0 U
+A 13 300
+A 2 3
+A 18 30
+A 19 30
+A 20 -3
+
+#18718
+arc beacon~
+an {ra{Rr{Yc {rb{Re{Yac{Ro{rn{x~
+An orb is here pulsating on the ground.~
+light ATY A
+0 0 999 0 0
+101 10 13926
+F A 0 0 D
+A 20 -3
+A 19 30
+A 18 30
+A 3 3
+A 4 3
+A 13 250
+
+#18719
+Styx Scythe~
+a {mS{Mt{Dy{mx S{Mc{Dyt{Mh{me{x~
+A long scythe lies here on the ground.~
+weapon ACJLTY AN
+sword 14 14 epidemic BDG
+101 50 17425
+A 20 -1
+A 19 30
+A 18 30
+A 1 3
+A 2 3
+A 13 300
+
+#18720
+spiked armlets~
+a {ms{Mp{Dik{Me{md a{Mr{Dml{Me{mt{x~
+A pair of pointy armlets lies here.~
+armor ACJLTY AI
+50 46 43 37 0
+101 0 11240
+F A 0 0 c
+A 20 -2
+A 19 30
+A 18 30
+A 1 3
+A 2 3
+A 13 300
+A 12 100
+
+#18721
+shroud undead~
+the {Dshroud{x of the {Du{wn{Wde{wa{Dd{x~
+A shroud lies here.~
+armor ACGT AT
+40 33 38 40 0
+101 10 11107
+A 20 -2
+A 19 30
+A 18 30
+A 13 300
+A 12 100
+
+#18722
+pill rejuvenation~
+a {gpill{x of {Gr{gejuvenatio{Gn{x~
+A green pill lies here.~
+pill AGTUY AO
+101 'heal' 'heal' 'heal' 'heal'
+101 10 16896
+
+#18723
+spellbinding potion~
+a {Gs{gpellbindin{Gg p{gotio{Gn{x~
+A green potion lies here.~
+potion ABGTU AO
+116 'sanctuary' 'bless' 'haste' 'remove curse'
+101 10 10540
+#0
+
+#ROOMS
+#18600
+On the Sea~
+The waves splash about you, threatening to pull you under for the final
+time.  Floating about on the surface of the ocean has made you sick.  Your
+head aches, the sun beats down relentlessly.  A drink of cool water would
+taste good right about now.  Just to the north there is a part of the ocean
+surface that boils and writhes.  With horror you realize you are being drawn
+toward it, slowly but surely.  There is no hope of escape.  Time to die.  
+~
+4 6
+D0
+~
+~
+0 0 18778
+S
+
+#18601
+The Whirlpool~
+The whirlpool swirls slowly at first, giving you a false sense of hope. 
+Perhaps if you paddle desperately you could get out.  Thoughts of escape are
+dashed quickly.  Horror fills you as the whirlpool sucks everything into it.
+Icy water begins to fill your lungs as a final scream bursts free of your
+lips!!!!!!  
+~
+0 6
+D5
+~
+~
+0 0 18602
+S
+
+#18602
+Inside the Whirlpool~
+Icy water encompasses your body.  Death is only moments away, of that you
+are certain.  A deafening pulse pounds inside your head.  Now would be the
+time to repent if ever there was one!!  
+~
+0 6
+D5
+~
+~
+0 0 18603
+S
+
+#18603
+Beneath the Whirlpool~
+The whirlpool swirls above you, sucking everything under that falls into
+its grasp.  The light of day is barely visibile, muted as it is through the
+water's surface.  A strange sense of peace fills you.  This must be how
+death feels you think to yourself.  Maybe it isn't so bad after all?  
+~
+1024 6
+D0
+~
+~
+0 0 18604
+S
+
+#18604
+The Preparation Chamber~
+A small cave has formed here.  Strands of seaweed tickle you as you float
+by.  A sense of peace fills you.  Surely these lovely nymphs would not harm
+you?  
+~
+1024 6
+D2
+~
+~
+0 0 18603
+S
+
+#18605
+{cBeneath the {CS{ce{Ca{x~
+{cSand the color of blanched bone covers the ocean floor{C.{c  Creatures of the{x
+{csea dart about you, playing and frolicking peacefully{C.{c  Tendrils of seaweed{x
+{cfloat strangely about in the water{C.{c  What a beautiful place this is{C!{x
+~
+0 6
+D0
+~
+~
+0 0 18606
+S
+
+#18606
+{cUnder the {CS{ce{Ca{x~
+{cSand the color of blanched bone covers the ocean floor{C.{c  Creatures of{x
+{cthe sea dart about you{C,{c playing and frolicking peacefully{C.{c  Tendrils of{x
+{cseaweed float strangely about in the water{C.{c  What a beautiful place this is{C!{x
+~
+0 6
+D0
+~
+~
+0 0 18607
+D1
+~
+~
+0 0 18608
+D2
+~
+~
+0 0 18605
+S
+
+#18607
+{cUnder the {CS{ce{Ca{x~
+{cSand the color of blanched bone covers the ocean floor{C.{c  Creatures of{x
+{cthe sea dart about you{C,{c playing and frolicking peacefully{C.{c  Tendrils of{x
+{cseaweed float strangely about in the water{C.{c  What a beautiful place this is{C!{x
+~
+0 6
+D2
+~
+~
+0 0 18606
+D3
+~
+~
+0 0 18637
+S
+
+#18608
+{cDeeper in the {CS{ce{Ca{x~
+{cHow it is to be walking slowly through this watery paradise{C.{c  Seaweed{x
+{cwaves hypnotically in the current{C.{c  Sea creatures of all kinds swim about{C,{x
+{cnot in the least concerned that you are here{C.{c  Exits lead to the east and{x
+{cwest{C.{x
+~
+0 6
+D1
+~
+~
+0 0 18609
+D3
+~
+~
+0 0 18606
+S
+
+#18609
+{cNear the Reef{x~
+{cA huge reef lies just to the east of here{C.{c  The razor sharp reef has torn{x
+{cmany things to shreds{C.{c  Even touching it slices the most innocent open{C.{c  A{x
+{csea turtle is one of the few that can hide safely in the reef{C.{c  It peers at{x
+{cyou with large sleepy eyes and swims off in search of food{C.{x
+~
+0 6
+D1
+~
+~
+0 0 18610
+D3
+~
+~
+0 0 18608
+S
+
+#18610
+{cThe Reef{x~
+{cThe reef is a huge formation that rises up from the ocean floor much as a{x
+{cmountain would{C.{c  It breaks the surface of the ocean{C,{c but that is too far{x
+{cabove you to see{C.{c  Why would you want to leave the peaceful depths of this{x
+{cocean{C?{c  The sea nymphs have done their jobs well and you are able to survive{x
+{chere without breathing air{C.{c  Exits lead to the north and west{C.{x
+~
+0 6
+D0
+~
+~
+0 0 18611
+D3
+~
+~
+0 0 18609
+S
+
+#18611
+{DThe Sunken Pirate Ship{x~
+{DA huge gash has been torn in the side of the pirate ship by the reef{W.{x
+{DThe cargo the ship carried lies scattered across the ocean floor{W.{D  In one{x
+{Dbrief instant the ship was torn apart by forces greater than any we could{x
+{Dknow{W.{x
+~
+4 6
+D1
+~
+~
+0 0 18612
+D2
+~
+~
+0 0 18610
+S
+
+#18612
+{DOn Deck{x~
+{DJust to the south the deck has broken in half{W.{D  The second half of the{x
+{Dpirate ship is nowhere to be seen{W.{D  The great barrier reef has claimed yet{x
+{Danother victim{W.{D  From here the ocean floor is clearly visible{W.{D  It is{x
+{Dlittered with bits and pieces of strewn wreckage as well as human bones{W.{D  It{x
+{Dis a sobering sight{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18613
+D1
+~
+~
+0 0 18635
+D3
+~
+~
+0 0 18611
+S
+
+#18613
+{DOn Deck{x~
+{DBlanched bones lie about the surface of the deck{W.{D  Those who sailed this{x
+{Dship died almost instantly when it sank{W.{D  Perhaps the captain still walks{x
+{Dthese decks{W,{D his vow to go down with the ship held faithful{W.{x
+~
+0 0
+D0
+~
+~
+0 0 18614
+D1
+~
+~
+0 0 18628
+D2
+~
+~
+0 0 18612
+S
+
+#18614
+{DOn Deck{x~
+{DThe deck slants slightly making it harder to keep your footing{W.{D  The{x
+{Dgreat ship has come to rest partially on one side{W.{D  It appears at one time{x
+{Dthis was a finely equipped ship{W.{D  Once it ruled the seas{W,{D now it lies{x
+{Dhelplessly here{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18615
+D1
+~
+~
+0 0 18627
+D2
+~
+~
+0 0 18613
+S
+
+#18615
+{DOn Deck{x~
+{DBlanched bones lie about the surface of the deck.  Those who sailed this{x
+{Dship died almost instantly when it sank{W.{D  Perhaps the captain still walk{x
+{Dthese decks{W,{D his vow to go down with the ship held faithful{W.{x
+~
+0 6
+D1
+~
+~
+0 0 18616
+D2
+~
+~
+0 0 18614
+S
+
+#18616
+{DOn Deck{x~
+{DThe deck slants slightly making it harder to keep your footing{W.{D  The{x
+{Dgreat ship has come to rest partially on one side{W.{D  It appears at one time{x
+{Dthis was a finely equipped ship{W.{D  Once it ruled the seas{W,{D now it li{x
+{Dhelplessly at the bottom of this sea{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18619
+D1
+~
+~
+0 0 18617
+D2
+~
+~
+0 0 18627
+D3
+~
+~
+0 0 18615
+S
+
+#18617
+{DOn Deck{x~
+{DThe deck slants slightly making it harder to keep your footing{W.{D  The{x
+{Dgreat ship has come to rest partially on one side{W.{D  It appears at one time{x
+{Dthis was a finely equipped ship{W.{D  Once it ruled the seas{W,{D now it li{x
+{Dhelplessly at the bottom of this sea{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18618
+D1
+~
+~
+0 0 18622
+D2
+~
+~
+0 0 18626
+D3
+~
+~
+0 0 18616
+S
+
+#18618
+{DOn Deck{x~
+{DThe deck is slick with algae and a thin layer of sand{W.{D  Sea creatures{x
+{Ddart about you{W,{D unconcerned that you are here{W.{D  Since this is a pirate ship{x
+{Dperhaps there would be hidden treasure here{W?{D  It is not every day a land{x
+{Ddweller can roam the sea at will{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18620
+D1
+~
+~
+0 0 18621
+D2
+~
+~
+0 0 18617
+D3
+~
+~
+0 0 18619
+S
+
+#18619
+{DOn Deck{x~
+{DThe deck slants slightly making it harder to keep your footing{W.{D  The{x
+{Dgreat ship has come to rest partially on one side{W.{D  It appears at one time{x
+{Dthis was a finely equipped ship{W.{D  Once it ruled the seas{W,{D now it li{x
+{Dhelplessly at the bottom of this sea{W.{x
+~
+0 6
+D1
+~
+~
+0 0 18618
+D2
+~
+~
+0 0 18616
+S
+
+#18620
+{DThe Bow{X~
+{DThe bow looks out over this part of the ocean floor{W.{D  There are many{X
+{Dplaces here that have yet to be explored{W.{D  The only obvious exit lies to the{x
+{Dsouth{W.{x
+~
+0 6
+D2
+~
+~
+0 0 18618
+S
+
+#18621
+{DOn Deck{x~
+{DBlanched bones lie about the surface of the deck{W.{D  Those who sailed this{x
+{Dship died almost instantly when it sank{W.{D  Perhaps the captain still walks{x
+{Dthese decks{W,{D his vow to go down with the ship held faithful{W.{x
+~
+0 6
+D2
+~
+~
+0 0 18622
+D3
+~
+~
+0 0 18618
+S
+
+#18622
+{DOn Deck{x~
+{DThe deck slants slightly making it harder to keep your footing{W.{D  The{x
+{Dgreat ship has come to rest partially on one side{W.{D  It appears at one time{x
+{Dthis was a finely equipped ship{W.{D  Once it ruled the seas{W,{D now it li{x
+{Dhelplessly at the bottom of this sea{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18621
+D1
+~
+~
+0 0 18623
+D2
+~
+~
+0 0 18625
+D3
+~
+~
+0 0 18617
+S
+
+#18623
+{DOn Deck{x~
+{DThe deck tilts under your feet as the ship shifts a bit in the loose sand{x
+{Dof the ocean floor{W.{D  With a creaking groan the ship settles a bit deepe{x
+{Dinto the sand{W.{D  Seaweed drifts by in the ocean current{W.{x
+~
+0 6
+D2
+~
+~
+0 0 18624
+D3
+~
+~
+0 0 18622
+S
+
+#18624
+{DOn Deck{x~
+{DThe deck tilts under your feet as the ship shifts a bit in the loose sand{x
+{Dof the ocean floor{W.{D  With a creaking groan the ship settles a bit deeper{x
+{Dinto the sand{W.{D  Seaweed drifts by in the ocean current{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18623
+D2
+~
+~
+0 0 18631
+D3
+~
+~
+0 0 18625
+S
+
+#18625
+{DOn Deck{x~
+{DThe deck is slick with algae and a thin layer of sand{W.{D  Sea creatures{x
+{Ddart about you{W,{D unconcerned that you are here{W.{D  Since this is a pirate ship{x
+{Dperhaps there would be hidden treasure here{W?{D  It is not every day a land{x
+{Ddweller can roam the sea at will{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18622
+D1
+~
+~
+0 0 18624
+D2
+~
+~
+0 0 18630
+D3
+~
+~
+0 0 18626
+S
+
+#18626
+{DOn Deck{x~
+{DBlanched bones lie about the surface of the deck{W.{D  Those who sailed this{x
+{Dship died almost instantly when it sank{W.{D  Perhaps the captain still walks{x
+{Dthese decks{W,{D his vow to go down with the ship held faithful{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18617
+D1
+~
+~
+0 0 18625
+D2
+~
+~
+0 0 18629
+D3
+~
+~
+0 0 18627
+S
+
+#18627
+{DOn Deck{x~
+{DThe deck is slick with algae and a thin layer of sand{W.{D  Sea creatures{x
+{Ddart about you{W,{D unconcerned that you are here{W.{D  Since this is a pirate ship{x
+{Dperhaps there would be hidden treasure here{W?{D  It is not every day a land{x
+{Ddweller can roam the sea at will{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18616
+D1
+~
+~
+0 0 18626
+D2
+~
+~
+0 0 18628
+D3
+~
+~
+0 0 18614
+S
+
+#18628
+{DOn Deck{x~
+{DThe deck slants slightly making it harder to keep your footing{W.{D  The{x
+{Dgreat ship has come to rest partially on one side{W.{D  It appears at one time{x
+{Dthis was a finely equipped ship{W.{D  Once it ruled the seas{W,{D now it lies{x
+{Dhelplessly at the bottom of this sea{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18627
+D1
+~
+~
+0 0 18629
+D2
+~
+~
+0 0 18635
+D3
+~
+~
+0 0 18613
+S
+
+#18629
+{DOn Deck{x~
+{DThe deck slants slightly making it harder to keep your footing{W.{D  The{x
+{Dgreat ship has come to rest partially on one side{W.{D  It appears at one time{x
+{Dthis was a finely equipped ship{W.{D  Once it ruled the seas{W,{D now it lies{x
+{Dhelplessly at the bottom of this sea{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18626
+D1
+~
+~
+0 0 18630
+D2
+~
+~
+0 0 18634
+D3
+~
+~
+0 0 18628
+S
+
+#18630
+{DOn Deck{x~
+{DThe deck slants slightly making it harder to keep your footing{W.{D  The{x
+{Dgreat ship has come to rest partially on one side{W.{D  It appears at one time{x
+{Dthis was a finely equipped ship{W.{D  Once it ruled the seas{W,{D now it lies{x
+{Dhelplessly at the bottom of this sea{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18625
+D1
+~
+~
+0 0 18631
+D2
+~
+~
+0 0 18633
+D3
+~
+~
+0 0 18629
+S
+
+#18631
+{DOn Deck{x~
+{DThe deck is slick with algae and a thin layer of sand{W.{D  Sea creatures{x
+{Ddart about you{W,{D unconcerned that you are here{W.{D  Since this is a pirate ship{x
+{Dperhaps there would be hidden treasure here{W?{D  It is not every day a land{x
+{Ddweller can roam the sea at will{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18624
+D2
+~
+~
+0 0 18632
+D3
+~
+~
+0 0 18630
+S
+
+#18632
+{DOn Deck{x~
+{DJust to the south the deck has broken in half{W.{D  The second half of the{x
+{Dpirate ship is nowhere to be seen{W.{D  The great barrier reef has claimed yet{x
+{Danother victim{W.{D  From here the ocean floor is clearly visible{W.{D  It is{x
+{Dlittered with bits and pieces of strewn wreckage as well as human bones{W.{D  It{x
+{Dis a sobering sight{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18631
+D3
+~
+~
+0 0 18633
+S
+
+#18633
+{DOn Deck{x~
+{DJust to the south the deck has broken in half{W.{D  The second half of the{x
+{Dpirate ship is nowhere to be seen{W.{D  The great barrier reef has claimed yet{x
+{Danother victim{W.{D  From here the ocean floor is clearly visible{W.{D  It is{x
+{Dlittered with bits and pieces of strewn wreckage as well as human bones{W.{D  It{x
+{Dis a sobering sight{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18630
+D1
+~
+~
+0 0 18632
+D3
+~
+~
+0 0 18634
+S
+
+#18634
+{DOn Deck{x~
+{DJust to the south the deck has broken in half{W.{D  The second half of the{x
+{Dpirate ship is nowhere to be seen{W.{D  The great barrier reef has claimed yet{x
+{Danother victim{W.{D  From here the ocean floor is clearly visible{W.{D  It is{x
+{Dlittered with bits and pieces of strewn wreckage as well as human bones{W.{D  It{x
+{Dis a sobering sight{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18629
+D1
+~
+~
+0 0 18633
+D3
+~
+~
+0 0 18635
+D5
+~
+~
+ABC 18615 18636
+S
+
+#18635
+{DOn Deck{x~
+{DJust to the south the deck has broken in half{W.{D  The second half of the{x
+{Dpirate ship is nowhere to be seen{W.{D  The great barrier reef has claimed yet{x
+{Danother victim{W.{D  From here the ocean floor is clearly visible{W.{D  It is{x
+{Dlittered with bits and pieces of strewn wreckage as well as human bones{W.{D  It{x
+{Dis a sobering sight{W.{x
+~
+0 6
+D0
+~
+~
+0 0 18628
+D1
+~
+~
+0 0 18634
+D3
+~
+~
+0 0 18612
+S
+
+#18636
+{DThe Cargo Hold{x~
+{DGreat timbers have fallen blocking further exploration of this part of{x
+{Dthe hold{W.{D  Several crates sit about{W,{D seemingly undisturbed by the collision{x
+{Dof the ship with the reef{W.{D  The reef blocks your escape from the cargo hold{W.{x
+{DThe only exit leads up to the deck{W.{x
+~
+524417 6
+D4
+~
+~
+ABC 0 18634
+S
+
+#18637
+{cNear {CM{cios{Ch K{crald{Ca{x~
+{cWarm water caresses your body as you near the fabled city of Miosh{x
+{cKralda{C.{c  Sea creatures lurk about{C,{c not the least bit afraid of seeing you{x
+{chere in this watery paradise{C.{c  The city lies nearby to the west{C.{x
+~
+0 6
+D1
+~
+~
+0 0 18607
+D3
+~
+~
+0 0 18638
+S
+
+#18638
+{cOutside the Western Gates{x~
+{cThe city of Miosh Kralda stands before you{C.{c  A great barrier reef forms{x
+{cthe wall that surrounds the entire city{C.{c  Tendrils of seaweed caress your{x
+{cbody as you walk toward the city{C.{c  Stirrings of life can be seen just inside{x
+{cthe gates{C.{x
+~
+4 6
+D1
+~
+~
+0 0 18637
+D3
+~
+~
+0 0 18639
+S
+
+#18639
+{cInside the Western Gates{x~
+{cThe mythical city of Miosh{C'{cKralda stands before you{C.{c  Citizens go about{x
+{ctheir daily routines just to the west{C.{c  The hustle and bustle of activity is{x
+{ceverywhere{C.{c  Oddly enough{C,{c the streets are not paved{C,{c but covered in{x
+{cshimmering white sand{C.{c  Exotic sea creatures swim calmly about{C.{x
+~
+262144 1
+D1
+~
+gate~
+0 0 18638
+D3
+~
+~
+0 0 18640
+S
+
+#18640
+{cAbalone Way{x~
+{cShimmering sand cushions your footsteps as you travel through Abalone{x
+{cWay{C.{c  The main area of commerce is on this one street{C.{c  Shops lie to the{x
+{cnorth and south{C.{c  The street continues to the east and west{C.{c  It is strange{x
+{cto not smell anything{C,{c the water prevents that{C.{c  This is indeed a strange{x
+{cunderwater place{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18641
+D1
+~
+~
+0 0 18639
+D2
+~
+~
+0 0 18643
+D3
+~
+~
+0 0 18644
+S
+
+#18641
+{cThe Pet Bazaar{x~
+{cWater swirls mystically about this tiny cave{C.{c  It is neat and well kept{x
+{cTendrils of seaweed tickle your body as you enter the shop{C.{c  Tiny fish swim{x
+{cidly by{C,{c darting into the sea weed to hide{C.{c  Faint sounds can be hear{x
+{ccoming from a back room{C.{c  Perhaps those are the pets that may be purchased{x
+{cfrom this place{C.{x
+~
+266244 1
+D2
+~
+~
+0 0 18640
+S
+
+#18642
+Pet Storage Room~
+~
+4 0
+S
+
+#18643
+{cTaste of the {CS{ce{Ca{x~
+{cTables and chairs sit about this quaint little restaurant{C.{c  A cook stands{x
+{cbehind the counter waiting for the next order{C.{c  It is a quiet{C,{c peaceful{x
+{cplace where one can come to rest and relax{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18640
+S
+
+#18644
+{cAbalone Way{x~
+{cShimmering sand cushions your footsteps as you travel through Abalone{x
+{cWay{C.{c  The main area of commerce is on this one street{C.{c  Shops lie to the{x
+{cnorth and south{C.{c  The street continues to the east and west{C.{c  It is strange{x
+{cto not smell anything{C,{c the water prevents that{C.{c  This is indeed a strange{x
+{cunderwater place{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18645
+D1
+~
+~
+0 0 18640
+D2
+~
+~
+0 0 18646
+D3
+~
+~
+0 0 18647
+S
+
+#18645
+{cBank{x~
+{cThe bank is yet another of the marvelous caves that comprises the whole{x
+{cof this city{C.{c  It is a small room{C,{c yet neatly kept{C.{c  Just to the north a{x
+{cguarded safe can be seen{C.{c  The floor is covered in shimmering white sand{C.{x
+{cSeaweed waves about in the ocean current{C.{x
+~
+1310720 1
+D2
+~
+~
+0 0 18644
+S
+
+#18646
+{cCuriousity Shop{x~
+{cTiny shelves of seashells decorate the walls of this cave{C.{c  Potions of{x
+{cevery kinda line the shelves{C.{c  Neatly wrapped parcels are arranged behind{x
+{cthe counter{C.{c  This is the mysterious place of magic that many come to{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18644
+S
+
+#18647
+{cTiarla Square{x~
+{cThe square is the hub of activity for the city{C.{c  Bubbles swirl through{x
+{cthe water as inhabitants of this place pass by you{C.{c  The floor of the square{x
+{cis covered in pure white sand{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18649
+D1
+~
+~
+0 0 18644
+D2
+~
+~
+0 0 18648
+S
+
+#18648
+{cTiarla Street{x~
+{cShimmering sand swirls under your feet as you traverse this famous{x
+{cstreet{C.{c  City life continues without fail around you{C.{c  The inhabitants of{x
+{cthis underwater paradise go about their daily duties as if unaware that you{x
+{care here{C.{c  This street continues to the north and south{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18647
+D2
+~
+~
+0 0 18654
+S
+
+#18649
+{cTiarla Street{x~
+{cThis street is a wide{C,{c well travelled one{C.{c  There are markings in the{x
+{csand where many have passed through this place{C.{c  The street ends quite{x
+{csuddenly here{C.{c  Great signs of activity come from the south{C.{c  Exits lead in{x
+{cthe cardinal directions{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18655
+D1
+~
+~
+0 0 18650
+D2
+~
+~
+0 0 18647
+D3
+~
+~
+0 0 18652
+S
+
+#18650
+{cCity Hall{x~
+{cThe entry of City Hall is rather small{C.{c  Few come here as the mayor is{x
+{coften out and rushing about the city greeting visitors{C.{c  It is a neatly{x
+{cfurnished room{C,{c with a desk and several chairs sitting about{C.{c  The mayor{C'{cs{x
+{coffice lies directly to the west{C.{x
+~
+262144 0
+D1
+~
+~
+0 0 18651
+D3
+~
+~
+0 0 18649
+S
+
+#18651
+{cMayor{C'{cs Office{x~
+{cA desk and chair of sea shells sits near one wall of this small cave that{x
+{cforms the mayor{C'{cs office{C.{c  A paper weight made of polished abalone holds{x
+{cdown a stack of important looking papers{C.{c  The interior of the office is{x
+{ctidy and very neat{C.{c  Near the small window a sea anemone rests{C,{c humming a{x
+{cgentle tune{C.{x
+~
+262144 0
+D3
+~
+~
+0 0 18650
+S
+
+#18652
+{cCity Guardian Headquarters{x~
+{cThe headquarters office is a neatly furnished little room with a door{x
+{cleading to the west{C.{c  The barracks lie in that direction{C.{c  A small{C,{c plain{x
+{cdesk of seashells sits near the main entrance{C.{c  There is nothing of interes{x
+{chere{C.{x
+~
+262144 0
+D1
+~
+~
+0 0 18649
+D3
+~
+~
+0 0 18653
+S
+
+#18653
+{cHQ Barracks{x~
+{cThe barracks are nothing more than a large plain room{C.{c  Simple cots sit{x
+{cabout the room for the guardians of the city to rest on{C.{c  There is nothing{x
+{chere save for the most menial things necessary to support the guardians{C.{x
+~
+262144 0
+D1
+~
+~
+0 0 18652
+S
+
+#18654
+{cTiarla Street{x~
+{care here{C.{c  This street continues to the north and south{C.{c  Another street{x
+{cstreet{C.{c  City life continues without fail around you{C.{c  The inhabitants of{x
+{cthis underwater paradise go about their daily duties as if unaware that you{x
+{care here{C.{c  This street continues to the north and south{C.{x
+{cleads to the east{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18648
+D1
+~
+~
+0 0 18662
+D2
+~
+~
+0 0 18659
+D3
+~
+~
+0 0 18690
+S
+
+#18655
+{cSchool of {CM{cios{Ch K{crald{Ca{x~
+{cThe school has resided in Miosh Kralda for as long as any can remember{C.{x
+{cThe most wise residents of the city still come here to learn{C.{c  It is a place{x
+{cof peace and knowledge{C.{c  A huge cavern was used to construct the school{x
+{cfrom{C.{c  The walls shimmer with a strange inner light{C.{c  The floors are made of{x
+{cpure white sand{C.{x
+~
+263172 0
+D0
+~
+~
+0 0 18656
+D1
+~
+~
+0 0 18657
+D2
+~
+~
+0 0 18649
+D3
+~
+~
+0 0 18658
+S
+
+#18656
+{cTraining Field{x~
+{cThe training field is nothing more than a massive area filled with{x
+{cseaweed and kelp{C.{c  Peaceful sea creatures swim about{C.{c  Strange objects float{x
+{cin the water{C,{c perhaps for use as training devices{C.{x
+~
+263168 0
+D2
+~
+~
+0 0 18655
+S
+
+#18657
+{cResting Room{x~
+{cThis small cave has been placed here for the many weary travellers who{x
+{cpass through{C.{c  A tiny sea nymph murmurs a peaceful song{C.{c  In no time you are{x
+{crelaxed enough to lie down and sleep for a bit{C.{x
+~
+263168 0
+D3
+~
+~
+0 0 18655
+S
+
+#18658
+{cTemple of the {CS{ce{Ca{c Witch{x~
+{cSeaweed flutters and waves in the ocean current{C.{c  The temple is a huge{x
+{cstructure dedicated to the healing arts{C.{c  The sea witch resides here{C,{x
+{clearning more of the healing arts in this mystic city{C.{x
+~
+263168 0
+D1
+~
+~
+0 0 18655
+S
+
+#18659
+{cTiarla Street{x~
+{cShimmering sand swirls under your feet as you traverse this famous{x
+{cstreet{C.{c  City life continues without fail around you{C.{c  The inhabitants of{x
+{cthis underwater paradise go about their daily duties as if unaware that you{x
+{care here{C.{c  This street continues to the north and south{C.{c  Another street{x
+{cleads to the east{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18654
+D1
+~
+~
+0 0 18670
+D2
+~
+~
+0 0 18660
+D3
+~
+reef~
+A 18628 18669
+S
+
+#18660
+{cInside South Gates{x~
+{cThe mythical city of Miosh'Kralda stands before you{C.{c  Citizens go about{x
+{ctheir daily routines just to the north{C.{c  The hustle and bustle of activity{x
+{cis everywhere{C.{c  Oddly enough{C,{c the streets are not paved{C,{c but covered in{x
+{cshimmering white sand{C.{c  Exotic sea creatures swim calmly about{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18659
+D2
+~
+gate~
+0 0 18661
+S
+
+#18661
+{cOutside South Gates{x~
+{cThe city of Miosh Kralda stands before you{C.{c  A great barrier reef forms{x
+{cthe wall that surrounds the entire city{C.{c  Tendrils of seaweed caress your{x
+{cbody as you walk toward the city{C.{c  Stirrings of life can be seen just inside{x
+{cthe gates{C.{x
+~
+4 6
+D0
+~
+~
+0 0 18660
+D3
+~
+~
+0 0 18680
+S
+
+#18662
+{cMarket Street{x~
+{cThis street is the hub of commerce for Maosh Kralda{C.{c  Shops line the{x
+{cstreets{C.{c  Passers by go about their business in a hurry{C,{c but never fail to{x
+{csmile{C.{c  The street continues to the east{C.{x
+~
+0 0
+D0
+~
+~
+0 0 18663
+D1
+~
+~
+0 0 18665
+D2
+~
+~
+0 0 18664
+D3
+~
+~
+0 0 18654
+S
+
+#18663
+{cAdventurer{C'{cs Shop{x~
+{cThis tiny shop is filled with all sorts of things an adventurer might{x
+{cneed{C.{c  Behind the counter a small storage room is well stocked with items{x
+{cwaiting to be purchased{C.{c  The shop keeper{C'{cs assistant busies himself tidying{x
+{cup the place{C.{x
+~
+262144 1
+D2
+~
+~
+0 0 18662
+S
+
+#18664
+{cCity Weapon Shop{x~
+{cThe armorer is less than concerned about the neatness of his shop{C.{c  A{x
+{cdoor leads to the back room where crates sit about{C.{c  Each is filled wit{x
+{cweapons or armor{C.{c  Items that are for sale have been neatly arranged on the{x
+{cwalls{C,{c hanging from a peg board{C.{c  A whetstone lies on the countertop{C,{x
+{cevidence that the armorer sharpens each weapon before it is sold{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18662
+S
+
+#18665
+{cMarket Street{x~
+{cThis street is the hub of commerce for Maosh Kralda{C.{c  Shops line the{x
+{cstreets{C.{c  Passers by go about their business in a hurry{C,{c but never fail to{x
+{csmile{C.{x
+~
+0 0
+D0
+~
+~
+0 0 18666
+D1
+~
+~
+0 0 18668
+D2
+~
+~
+0 0 18667
+D3
+~
+~
+0 0 18662
+S
+
+#18666
+{cHouse of Treasures{x~
+{cA shimmering crystal display case stands in the center of the room{C.{x
+{cWithin it are contained many beautiful pieces of jewelry{C.{c  Another display{x
+{ccase is contained within the counter that sits near one wall{C.{c  The light{x
+{creflects from the display case in rainbow prisms of light{C.{x
+~
+262144 1
+D2
+~
+~
+0 0 18665
+S
+
+#18667
+{cMarket Street Tavern{x~
+{cThe interior of the tavern has a welcoming atmosphere{C.{c  Almost at once{x
+{cyou want to pull up a chair and sit at a table{C.{c  The bartender stands behi{x
+{cthe bar polishing glasses{C.{c  A waitress sits at a nearby table chatting with{x
+{cone of the patrons{C.{c  Time to sit back and relax for a bit{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18665
+S
+
+#18668
+{cHouse of Style{x~
+{cExotic clothing seems to be the main item stocked in this tiny shoppe{C.{x
+{cRacks stand about full of the most tempting attire{C.{c  Take a moment and{x
+{cbrowse through the selection{C.{c  There may be a treasure in store for you{x
+~
+262144 1
+D3
+~
+~
+0 0 18665
+S
+
+#18669
+{DDark Tunnel{x~
+{DThe tunnel is dark and treacherous{W.{D  Slime covers the sand underfoot{W.{x
+{DOops{W!{D  One slip and you would be torn to bits on the razor sharp rocks of{x
+{Dthe tunnel walls{W.{x
+~
+524421 6
+D1
+~
+~
+A 0 18659
+D3
+~
+~
+0 0 18678
+S
+
+#18670
+{cPotern Street{x~
+{cThis street leads to the east through the commoner{C'{cs section of the city{C.{x
+{cIt is just as beautiful as the rest if Miosh Kralda{C.{c  Quaint cottages line{x
+{cthe street{C.{c  Citizens go about their business with a smile{C.{x
+~
+262144 1
+D0
+~
+~
+0 0 18676
+D1
+~
+~
+0 0 18671
+D2
+~
+~
+0 0 18675
+D3
+~
+~
+0 0 18659
+S
+
+#18671
+{cPotern Street{x~
+{cThe street ends quite suddenly here{C.{c  A quaint cottage lies to the north{C,{x
+{cas well as the south{C.{c  To the east lies a deserted warehouse{C.{x
+~
+0 0
+D0
+~
+~
+0 0 18677
+D1
+~
+~
+0 0 18672
+D2
+~
+~
+0 0 18674
+D3
+~
+~
+0 0 18670
+S
+
+#18672
+{cDeserted Warehouse{x~
+{cCrates sit about the warehouse{C.{c  It appears to be deserted{C.{c  Even though{x
+{cit is quite dark{C,{c you are not afraid{C.{c  There seems to be nothing to fear in{x
+{cthis place{C.{c  An exit leads up{C.{x
+~
+1 0
+D3
+~
+~
+0 0 18671
+D4
+~
+~
+0 0 18673
+S
+
+#18673
+{cThe Loft{x~
+{cA few crates sit about the floor of the loft{C.{c  Beds of seaweed lie in{x
+{cseveral places{C.{c  This is where the homeless of Miosh Kralda lay their heads{x
+{cat night to rest{C.{c  Even in a place of such beauty{C,{c Miosh Kralda has a{x
+{cseedier element few ever see{C.{x
+~
+0 0
+D5
+~
+~
+0 0 18672
+S
+
+#18674
+{cA Commoner{C'{cs Cottage{x~
+{cThe interior of this commoner{C'{cs cottage is quite simple{C.{c  A table with{x
+{ctwo chairs sits near one window{C.{c  A screen partially blocks the view of a{x
+{csturdy wooden bed{C.{c  There is an opening made of stone in one wall that{x
+{cresembles a fireplace{C.{c  Inside is a strange round ball that glows and{x
+{cradiates warmth into the room{C.{x
+~
+0 0
+D0
+~
+~
+0 0 18671
+S
+
+#18675
+{cA Commoner{C'{cs Cottage{x~
+{cThe interior of this commoner{C'{cs cottage is quite simple{C.{c  A table with{x
+{ctwo chairs sits near one window{C.{c  A screen partially blocks the view of a{x
+{csturdy wooden bed{C.{c  There is an opening made of stone in one wall that{x
+{cresembles a fireplace{C.{c  Inside is a strange round ball that glows and{x
+{cradiates warmth into the room{C.{x
+~
+0 0
+D0
+~
+~
+0 0 18670
+S
+
+#18676
+{cA Commoner{C'{cs Cottage{x~
+{cThe interior of this commoner{C'{cs cottage is quite simple{C.{c  A table with{x
+{ctwo chairs sits near one window{C.{c  A screen partially blocks the view of a{x
+{csturdy wooden bed{C.{c  There is an opening made of stone in one wall that{x
+{cresembles a fireplace{C.{c  Inside is a strange round ball that glows and{x
+{cradiates warmth into the room{C.{x
+~
+0 0
+D2
+~
+~
+0 0 18670
+S
+
+#18677
+{cA Commoner{C'{cs Cottage{x~
+{cThe interior of this commoner{C'{cs cottage is quite simple{C.{c  A table with{x
+{ctwo chairs sits near one window{C.{c  A screen partially blocks the view of a{x
+{csturdy wooden bed{C.{c  There is an opening made of stone in one wall that{x
+{cresembles a fireplace{C.{c  Inside is a strange round ball that glows and{x
+{cradiates warmth into the room{C.{x
+~
+0 0
+D2
+~
+~
+0 0 18671
+S
+
+#18678
+{DDark Tunnel{x~
+{DThe tunnel is dark and treacherous{W.{D  Slime covers the sand underfoot{W.{x
+{DOops{W!{D  One slip and you would be torn to bits on the razor sharp rocks of{x
+{Dthe tunnel walls{W.  {DThe friendly atmosphere of the city has faded behind you{D.{x
+{DExits lead east and down{W.{x
+~
+524417 0
+D1
+~
+~
+0 0 18669
+D5
+~
+~
+0 0 18679
+S
+
+#18679
+{DDark Tunnel{x~
+{DThe tunnel narrows quite suddenly{W.{D  Jagged rocks tear at your clothing{W.{x
+{DThe slime underfoot makes walking very treacherous{W.{D  Exits lead north and{x
+{Dup{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18685
+D4
+~
+~
+0 0 18678
+S
+
+#18680
+{cPath to {CM{cios{Ch K{crald{Ca{x~
+{cThe sounds of city life can be heard from somewhere up ahead{C.{c  The{x
+{cmassive reef that surrounds the city is clearly visible from here{C.{c  The path{x
+{cleads to the east and west{C.{x
+~
+0 6
+D1
+~
+~
+0 0 18661
+D3
+~
+~
+0 0 18681
+S
+
+#18681
+{cSandy Path{x~
+{cThis part of the sea is strangely deserted{C.{c  There is no sign of life{x
+{canywhere{C.{c  The pristine sand that covers the path is untouched{C.{c  The only{x
+{cobvious exit leads east{C.{x
+~
+0 6
+D1
+~
+~
+0 0 18680
+D2
+~
+~
+0 0 18682
+S
+
+#18682
+{cSandy Path{x~
+{cThis part of the sea is strangely deserted{C.{c  There is no sign of life{x
+{canywhere{C.{c  The pristine sand that covers the path is untouched{C.{c  The only{x
+{cobvious exit leads north{C.{x
+~
+0 6
+D0
+~
+~
+0 0 18681
+S
+
+#18683
+{DThe Caves of Chaos{x~
+{DWater swirls chaotically about{W.{D  Strands of slimy seaweed wrap around{x
+{Dyour body{W.{D  The layer of slime on the floor is even thicker here{W.{D  Exit{x
+{Dlead to the north and south{W.{X
+~
+524417 6
+D0
+~
+~
+0 0 18699
+D2
+~
+~
+0 0 18684
+S
+
+#18684
+{DBefore the Caves{x~
+{DThe cave is dark and foreboding{W.{D  Slime covers the floor as well{W,{D making{x
+{Dthe footing very treacherous{W.{D  Faint stirrings of life can be sensed nearby{W.{x
+{DWhat manner of beasts inhabit these undersea caves{W?{D  Exits lead north a{X
+{Ddown{W.{x
+~
+524417 6
+D0
+~
+~
+0 0 18683
+D5
+~
+~
+0 0 18686
+S
+
+#18685
+{DDark Tunnel{x~
+{DThe tunnel winds in different directions{W.{D  It is hard to remember from{x
+{Dwhich direction you just came{W.{D  It feels as if the walls are slowly closing{x
+{Din on you{W.{D  Exits lead to the south and west{W.{X
+~
+524417 6
+D2
+~
+~
+0 0 18679
+D3
+~
+~
+0 0 18686
+S
+
+#18686
+{DDark Tunnel{x~
+{DThe tunnel is dark and treacherous{W.{D  Slime covers the sand underfoot{W.{x
+{DOops{W!{D  One slip and you would be torn to bits on the razor sharp rocks of{x
+{Dthe tunnel walls{W.{D  Exits lead east and up{W.{x
+~
+524417 0
+D1
+~
+~
+0 0 18685
+D4
+~
+grate~
+0 0 18684
+S
+
+#18687
+{yThe Stairs{x~
+{yThe stairway is wide and well lit{Y.{y  The same strange globes light the way{x
+{yhere as well{Y.{y  The very essence of wealth is almost tangible in this place{Y.{x
+~
+262144 0
+D1
+~
+~
+0 0 18691
+D5
+~
+~
+0 0 18688
+S
+
+#18688
+{yA Hallway{x~
+{yEven the hallway is elegantly decorated{Y.{y  The floor is of highly polished{x
+{ywood{Y,{y with a narrow strip of carpet running down the center{Y.{y  Two strange{x
+{yglobes hang from the wall{Y,{y shedding light into the surrounding area{Y.{y  A{x
+{ystairway leads up{Y.{x
+~
+262144 0
+D1
+~
+~
+0 0 18689
+D4
+~
+~
+0 0 18687
+S
+
+#18689
+{yThe Lobby{x~
+{yA wide mahogany counter sits near one wall{Y.{y  Elegant furnishings are{x
+{yarranged about the room{Y.{y  The upper crust of the city must reside here{Y.{y  It{x
+{yis by far the most fancy place you have seen in the city{Y.{x
+~
+262144 0
+D1
+~
+~
+0 0 18690
+D3
+~
+~
+0 0 18688
+S
+
+#18690
+{YT{yarlto{Yn{y Suites{x~
+{yThe entry of Tarlton Suites is lavishly decorated{Y.{y  The floor is of{x
+{yhighly polished wood{Y,{y with a narrow runner of carpet extending through the{x
+{ycenter{Y.{y  Strange crystal globes hang from the walls{Y,{y lighting the way into{x
+{ythis richly appointed place{Y.{y  An exit to the west leads to the lobby of the{x
+{ybuilding{Y.{x
+~
+262148 1
+D1
+~
+~
+0 0 18654
+D3
+~
+~
+0 0 18689
+S
+
+#18691
+{ySecond Floor Hallway{x~
+{yThe hallway leads to the elegant suites that occupy this floor{Y.{y  The same{x
+{ystrange globes light the way{Y.{y  Paintings decorate the length of the hallway{Y.{x
+{yExits lead in the cardinal directions{Y.{x
+~
+262144 0
+D0
+~
+~
+0 0 18692
+D1
+~
+~
+0 0 18694
+D2
+~
+~
+0 0 18693
+D3
+~
+~
+0 0 18687
+S
+
+#18692
+{YS{yuit{Ye {Y1{x~
+{yThe look of chic is everywhere in this well appointed suite{Y.{y  Every{x
+{yfurnishing is the finest that can be had{Y.{y  How could anyone live in such{x
+{yfinery{Y?{x
+~
+262144 0
+D2
+~
+~
+0 0 18691
+S
+
+#18693
+{YS{yuit{Ye {Y2{x~
+{yThe look of chic is everywhere in this well appointed suite{Y.{y  Every{x
+{yfurnishing is the finest that can be had{Y.{y  How could anyone live in such{x
+{yfinery{Y?{x
+~
+262144 0
+D0
+~
+~
+0 0 18691
+S
+
+#18694
+{ySecond Floor Hallway{x~
+{yThe hallway leads to the elegant suites that occupy this floor{Y.{y  The same{x
+{ystrange globes light the way{Y.{y  Paintings decorate the length of the hallway{Y.{x
+{yExits lead in the cardinal directions{Y.{x
+~
+262144 0
+D0
+~
+~
+0 0 18695
+D1
+~
+~
+0 0 18697
+D2
+~
+~
+0 0 18696
+D3
+~
+~
+0 0 18691
+S
+
+#18695
+{YS{yuit{Ye {Y3{x~
+{yThe look of chic is everywhere in this well appointed suite{Y.{y  Every{x
+{yfurnishing is the finest that can be had{Y.{y  How could anyone live in such{x
+{yfinery{Y?{x
+~
+262144 0
+D2
+~
+~
+0 0 18694
+S
+
+#18696
+{YS{yuit{Ye {Y4{x~
+{yThe look of chic is everywhere in this well appointed suite{Y.{y  Every{x
+{yfurnishing is the finest that can be had{Y.{y  How could anyone live in such{x
+{yfinery{Y?{x
+~
+262144 0
+D0
+~
+~
+0 0 18694
+S
+
+#18697
+{yThe Penthouse{x~
+{yThe walls of the penthouse are decorated with rare paintings and other{x
+{ydecorations{Y.{y  Strange globes hang from the high domed ceiling{Y,{y casting a{x
+{ywarm golden light about the suite{Y.{y  Richly appointed furnishings wait to be{x
+{yenjoyed by the occupants of the penthouse{Y.{x
+~
+262144 0
+D1
+~
+~
+0 0 18698
+D3
+~
+~
+0 0 18694
+S
+
+#18698
+{yThe Penthouse{x~
+{yThe walls of the penthouse are decorated with rare paintings and other{x
+{ydecorations{Y.{y  Strange globes hang from the high domed ceiling{Y,{y casting a{x
+{ywarm golden light about the suite{Y.{y  Richly appointed furnishings wait to be{x
+{yenjoyed by the occupants of the penthouse{Y.{x
+~
+262144 0
+D3
+~
+~
+0 0 18697
+S
+
+#18699
+{DThe Caves of Chaos{x~
+{DA half rotted corpse floats just inside the entrance to the cave{W.{x
+{DScavenger fish dart about the corpse in a feeding frenzy{W.{D  You sense a{x
+{Dmovement nearby{W,{D but can not tell what it is{W.{D  The darkness is almost{x
+{Dimpenetrable with the naked eye{W.{D  Exits lead to the north and south{W.{x
+~
+524417 6
+D0
+~
+~
+0 0 18700
+D2
+~
+~
+0 0 18683
+S
+
+#18700
+{DThe Caves of Chaos{x~
+{DThe walls of the caves shimmer with an eerie light{W.{D  Strangely colored{x
+{Dstrands of seaweed wave in the chaotic ocean current{W.{D  The layer of slime is{x
+{Deven thicker here{W,{D rising almost to your ankles{W.{D  Wading through the{x
+{Ddisgusting stuff is almost enough to make you sick{W.{x
+~
+524417 6
+D0
+~
+~
+0 0 18703
+D1
+~
+~
+0 0 18701
+D2
+~
+~
+0 0 18699
+S
+
+#18701
+{DThe Caves of Chaos{x~
+{DThe cave narrows here{W.{D  Jagged rocks tear at your skin and clothing{W.{x
+{DLong strands of seaweed entangles your feet{W,{D almost tripping you{W.{D  The slime{x
+{Dis even thicker here{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18702
+D3
+~
+~
+0 0 18700
+S
+
+#18702
+{DThe Caves of Chaos{x~
+{DThe walls of the caves shimmer with an eerie light{W.{D  Strangely colored{x
+{Dstrands of seaweed wave in the chaotic ocean current{W.{D  The layer of slime is{x
+{Deven thicker here{W,{D rising almost to your ankles{W.{D  Wading through the{x
+{Ddisgusting stuff is almost enough to make you sick{W.{x
+~
+524417 6
+D0
+~
+~
+0 0 18705
+D2
+~
+~
+0 0 18701
+D3
+~
+~
+0 0 18703
+S
+
+#18703
+{DThe Caves of Chaos{x~
+{DThe walls of the caves shimmer with an eerie light{W.{D  Strangely colored{x
+{Dstrands of seaweed wave in the chaotic ocean current{W.{D  The layer of slime is{x
+{Deven thicker here{W,{D rising almost to your ankles{W.{D  Wading through the{x
+{Ddisgusting stuff is almost enough to make you sick{W.{x
+~
+524417 6
+D0
+~
+~
+0 0 18704
+D1
+~
+~
+0 0 18702
+D2
+~
+~
+0 0 18700
+S
+
+#18704
+{DThe Caves of Chaos{x~
+{DThe cave narrows here{W.{D  Jagged rocks tear at your skin and clothing{W.{x
+{DLong strands of seaweed entangles your feet{W,{D almost tripping you{W.{D  The slime{x
+{Dis even thicker here{W.{x
+~
+524416 0
+D1
+~
+~
+0 0 18705
+D2
+~
+~
+0 0 18703
+S
+
+#18705
+{DThe Caves of Chaos{x~
+{DThe walls of the caves shimmer with an eerie light{W.{D  Strangely colored{x
+{Dstrands of seaweed wave in the chaotic ocean current{W.{D  The layer of slime is{x
+{Deven thicker here{W,{D rising almost to your ankles{W.{D  Wading through the{x
+{Ddisgusting stuff is almost enough to make you sick{W.{x
+~
+524417 6
+D2
+~
+~
+0 0 18702
+D3
+~
+~
+0 0 18704
+D4
+~
+~
+0 0 18706
+S
+
+#18706
+{cLair of the {CS{ce{Ca{c Witch{x~
+{cThis cave is a bit larger than the others{C.{c  The seaweed that grows{x
+{cprofusely here is the color of blood{C.{c  Slime rises past your ankles{C,{c sucking{x
+{cincessantly at your feet{C.{c  It almost feels like a living thing has{x
+{cinsinuated itself around your feet{C.{c  Strange sea creatures swim quickly{x
+{cthrough the chaotic current of the sea{C.{x
+~
+524416 0
+D4
+~
+~
+0 0 18707
+D5
+~
+~
+0 0 18705
+S
+
+#18707
+{cNarrow Tunnel{X~
+{cThe tunnel is barely wide enough for you to squeeze through{c.  Sharp rocks{x
+{cdig into your flesh{C.{c  Thick layers of sediment cover the floor of the{x
+{ctunnel{C.{c  Exits lead up and down{C.{x
+~
+524421 6
+D4
+~
+~
+0 0 18708
+D5
+~
+~
+0 0 18706
+S
+
+#18708
+{cNarrow Tunnel{X~
+{cThe tunnel is barely wide enough for you to squeeze through{c.  Sharp rocks{x
+{cdig into your flesh{C.{c  Thick layers of sediment cover the floor of the{x
+{ctunnel{C.{c  Exits lead north and down{C.{x
+~
+524421 6
+D0
+~
+~
+0 0 18709
+D5
+~
+~
+0 0 18707
+S
+
+#18709
+{cThe Loch{x~
+{cThe water swirling around you is frigid{C,{c chilling your very soul{C!{c  The{x
+{cfloor of the loch is covered in a thick layer of slime and silt{C.{c  No light{x
+{cmanages to penetrate the thick darkness of the water{C.{c  Seeing what lies{x
+{cahead is nearly impossible{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18712
+D1
+~
+~
+0 0 18710
+D2
+~
+~
+0 0 18708
+D3
+~
+~
+0 0 18711
+S
+
+#18710
+{cThe Loch{x~
+{cThe water swirling around you is frigid{C,{c chilling your very soul{C!{c  The{x
+{cfloor of the loch is covered in a thick layer of slime and silt{C.{c  No light{x
+{cmanages to penetrate the thick darkness of the water{C.{c  Seeing what lies{x
+{cahead is nearly impossible{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18713
+D3
+~
+~
+0 0 18709
+S
+
+#18711
+{cThe Loch{x~
+{cThe water swirling around you is frigid{C,{c chilling your very soul{C!{c  The{x
+{cfloor of the loch is covered in a thick layer of slime and silt{C.{c  No light{x
+{cmanages to penetrate the thick darkness of the water{C.{c  Seeing what lies{x
+{cahead is nearly impossible{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18714
+D1
+~
+~
+0 0 18709
+S
+
+#18712
+{cThe Loch{x~
+{cThe water swirling around you is frigid{C,{c chilling your very soul{C!{c  The{x
+{cfloor of the loch is covered in a thick layer of slime and silt{C.{c  No light{x
+{cmanages to penetrate the thick darkness of the water{C.{c  Seeing what lies{x
+{cahead is nearly impossible{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18716
+D1
+~
+~
+0 0 18713
+D2
+~
+~
+0 0 18709
+D3
+~
+~
+0 0 18714
+D4
+~
+~
+0 0 18718
+S
+
+#18713
+{cThe Loch{x~
+{cThe water swirling around you is frigid{C,{c chilling your very soul{C!{c  The{x
+{cfloor of the loch is covered in a thick layer of slime and silt{C.{c  No light{x
+{cmanages to penetrate the thick darkness of the water{C.{c  Seeing what lies{x
+{cahead is nearly impossible{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18717
+D2
+~
+~
+0 0 18710
+D3
+~
+~
+0 0 18712
+S
+
+#18714
+{cThe Loch{x~
+{cThe water swirling around you is frigid{C,{c chilling your very soul{C!{c  The{x
+{cfloor of the loch is covered in a thick layer of slime and silt{C.{c  No light{x
+{cmanages to penetrate the thick darkness of the water{C.{c  Seeing what lies{x
+{cahead is nearly impossible{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18715
+D1
+~
+~
+0 0 18712
+D2
+~
+~
+0 0 18711
+S
+
+#18715
+{cThe Loch{x~
+{cThe water swirling around you is frigid{C,{c chilling your very soul{C!{c  The{x
+{cfloor of the loch is covered in a thick layer of slime and silt{C.{c  No light{x
+{cmanages to penetrate the thick darkness of the water{C.{c  Seeing what lies{x
+{cahead is nearly impossible{C.{x
+~
+524417 6
+D1
+~
+~
+0 0 18716
+D2
+~
+~
+0 0 18714
+S
+
+#18716
+{cThe Loch{x~
+{cThe water swirling around you is frigid{C,{c chilling your very soul{C!{c  The{x
+{cfloor of the loch is covered in a thick layer of slime and silt{C.{c  No light{x
+{cmanages to penetrate the thick darkness of the water{C.{c  Seeing what lies{x
+{cahead is nearly impossible{C.{x
+~
+524417 6
+D1
+~
+~
+0 0 18717
+D2
+~
+~
+0 0 18712
+D3
+~
+~
+0 0 18715
+S
+
+#18717
+{cThe Loch{x~
+{cThe water swirling around you is frigid{C,{c chilling your very soul{C!{c  The{x
+{cfloor of the loch is covered in a thick layer of slime and silt{C.{c  No light{x
+{cmanages to penetrate the thick darkness of the water{C.{c  Seeing what lies{x
+{cahead is nearly impossible{C.{x
+~
+524417 6
+D2
+~
+~
+0 0 18713
+D3
+~
+~
+0 0 18716
+S
+
+#18718
+{cThe Loch{x~
+{cIt seems the darkness has lessened some{C,{c but the light is still{x
+{cnonexistent{C.{c  The cold still chills you to the bone{C.{c  The strong current{x
+{cnearly knocks you off your feet{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18721
+D1
+~
+~
+0 0 18719
+D3
+~
+~
+0 0 18720
+D5
+~
+~
+0 0 18712
+S
+
+#18719
+{cThe Loch{x~
+{cIt seems the darkness has lessened some{C,{c but the light is still{x
+{cnonexistent{C.{c  The cold still chills you to the bone{C.{c  The strong current{x
+{cnearly knocks you off your feet{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18722
+D3
+~
+~
+0 0 18718
+S
+
+#18720
+{cThe Loch{x~
+{cIt seems the darkness has lessened some{C,{c but the light is still{x
+{cnonexistent{C.{c  The cold still chills you to the bone{C.{c  The strong current{x
+{cnearly knocks you off your feet{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18723
+D1
+~
+~
+0 0 18718
+S
+
+#18721
+{cThe Loch{x~
+{cIt seems the darkness has lessened some{C,{c but the light is still{x
+{cnonexistent{C.{c  The cold still chills you to the bone{C.{c  The strong current{x
+{cnearly knocks you off your feet{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18725
+D1
+~
+~
+0 0 18722
+D2
+~
+~
+0 0 18718
+D3
+~
+~
+0 0 18723
+S
+
+#18722
+{cThe Loch{x~
+{cIt seems the darkness has lessened some{C,{c but the light is still{x
+{cnonexistent{C.{c  The cold still chills you to the bone{C.{c  The strong current{x
+{cnearly knocks you off your feet{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18726
+D2
+~
+~
+0 0 18719
+D3
+~
+~
+0 0 18721
+S
+
+#18723
+{cThe Loch{x~
+{cIt seems the darkness has lessened some{C,{c but the light is still{x
+{cnonexistent{C.{c  The cold still chills you to the bone{C.{c  The strong current{x
+{cnearly knocks you off your feet{C.{x
+~
+524417 6
+D0
+~
+~
+0 0 18724
+D1
+~
+~
+0 0 18721
+D2
+~
+~
+0 0 18720
+S
+
+#18724
+{cThe Loch{x~
+{cIt seems the darkness has lessened some{C,{c but the light is still{x
+{cnonexistent{C.{c  The cold still chills you to the bone{C.{c  The strong current{x
+{cnearly knocks you off your feet{C.{x
+~
+524417 6
+D1
+~
+~
+0 0 18725
+D2
+~
+~
+0 0 18723
+S
+
+#18725
+{cThe Loch{x~
+{cIt seems the darkness has lessened some{C,{c but the light is still{x
+{cnonexistent{C.{c  The cold still chills you to the bone{C.{c  The strong current{x
+{cnearly knocks you off your feet{C.{x
+~
+524417 6
+D1
+~
+~
+0 0 18726
+D2
+~
+~
+0 0 18721
+D3
+~
+~
+0 0 18724
+S
+
+#18726
+{cThe Loch{x~
+{cIt seems the darkness has lessened some{C,{c but the light is still{x
+{cnonexistent{C.{c  The cold still chills you to the bone{C.{c  The strong current{x
+{cnearly knocks you off your feet{C.{x
+~
+524417 6
+D2
+~
+~
+0 0 18722
+D3
+~
+~
+0 0 18725
+D4
+~
+~
+0 0 18727
+S
+
+#18727
+{gA Grassy Field{x~
+{gA grassy field surrounds the loch{G.{g  Rolling hills stretch as far as the{x
+{geye can see{G.{g  The sky above is a clear azure blue{G.{g  The ruins of a once fine{x
+{gcastle can be seen standing atop a distant hill{G.{g  Exits lead north and down{G.{x
+~
+524420 2
+D0
+~
+~
+0 0 18728
+D5
+~
+~
+0 0 18726
+S
+
+#18728
+{gA Grassy Field{x~
+{gThe waving grass of the field is marked by a single path{G.{g  The wind blows{x
+{galmost constantly now{G.{g  Dark clouds seem to have taken over the sky{G.{g  A{x
+{gstorm is brewing it seems{G.{g  Exits lead north and south{G.{x
+~
+524416 2
+D0
+~
+~
+0 0 18729
+D2
+~
+~
+0 0 18727
+S
+
+#18729
+{gA Grassy Field{x~
+{gThe waving grass of the field is marked by a single path{G.{g  The wind blows{x
+{galmost constantly now{G.{g  Dark clouds seem to have taken over the sky{G.{g  A{x
+{gstorm is brewing it seems{G.{g  A small dusty path leads to the north{G,{g south{G,{x
+{gand east{G.{x
+~
+524416 2
+D1
+~
+~
+0 0 18730
+D2
+~
+~
+0 0 18728
+S
+
+#18730
+{gA Path to the Castle{x~
+{gA wide path leads to the nearby castle{G.{g  It is nearly overgrown with{x
+{ggrass from the field{G.{g  The wind has picked up a bit{G,{g whipping your cloak{x
+{gabout you{G.{g  A flash of lightning splits the now dark sky{G.{g  Droplets of rain{x
+{gbegin to fall{G.{g  The waiting shelter of the castle seems most welcome now{G.{x
+~
+524416 2
+D2
+~
+~
+0 0 18731
+D3
+~
+~
+0 0 18729
+S
+
+#18731
+{gA Path to the Castle{x~
+{gA wide path leads to the nearby castle{G.{g  It is nearly overgrown with{x
+{ggrass from the field{G.{g  The wind has picked up a bit{G,{g whipping your cloak{x
+{gabout you{G.{g  A flash of lightning splits the now dark sky{G.{g  Droplets of rain{x
+{gbegin to fall{G.{g  The waiting shelter of the castle seems most welcome now{G.{x
+~
+524420 2
+D0
+~
+~
+0 0 18730
+D1
+~
+~
+0 0 18732
+S
+
+#18732
+{DCastle Courtyard{x~
+{DThe courtyard of the castle is surrounded by a high stone wall{W.{D  The{x
+{Druins of the stables lie to the northwest{W.{D  A great battle between the{x
+{Dwarring highlanders has nearly destroyed the castle{W.{D  Exits lead to the east{x
+{Dand west{W.{x
+~
+524416 2
+D1
+~
+~
+0 0 18733
+D3
+~
+~
+0 0 18731
+S
+
+#18733
+{DCastle Courtyard{x~
+{DThe cobbled stones of the courtyard echo the sound of your footsteps{W.{x
+{DThere are few signs of life here{W.{D  Everything is strangely deserted{W.{D  A{x
+{Dgreat crash of thunder breaks your perusal of the area{W.{D  Time to seek{x
+{Dshelter in the castle{D.{x
+~
+524416 0
+D1
+~
+~
+0 0 18734
+D3
+~
+~
+0 0 18732
+S
+
+#18734
+{DCastle Courtyard{x~
+{DThe cobbled stones of the courtyard echo the sound of your footsteps{W.{x
+{DThere are few signs of life here{W.{D  Everything is strangely deserted{W.{D  A{x
+{Dgreat crash of thunder breaks your perusal of the area{W.{D  Time to seek{x
+{Dshelter in the castle{D.{x
+~
+524416 0
+D0
+~
+~
+0 0 18736
+D1
+~
+~
+0 0 18735
+D3
+~
+~
+0 0 18733
+S
+
+#18735
+{DCastle Courtyard{x~
+{DThe cobbled stones of the courtyard echo the sound of your footsteps{W.{x
+{DThere are few signs of life here{W.{D  Everything is strangely deserted{W.{D  A{x
+{Dgreat crash of thunder breaks your perusal of the area{W.{D  Time to seek{x
+{Dshelter in the castle{D.{x
+~
+524416 0
+D3
+~
+~
+0 0 18734
+S
+
+#18736
+{DCastle Entryway{x~
+{DIt is dark and damp in the entry{W.{D  The stone floor is cold and solid{W.{x
+{DThere is nothing special here{W.{D  Exits lead to the north and south{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18737
+D2
+~
+~
+0 0 18734
+S
+
+#18737
+{DThe Great Hall{x~
+{DA vaulted ceiling rises high above your head{W.{D  The interior of the castle{x
+{Dis quite sturdy and well made{W.{D  Heavy stone and rough hewn wood are main{x
+{Delements of construction{W.{D  A huge fireplace sits in one wall{W.{D  The warmth of{x
+{Dthe fire is welcome after the chill of the storm outside{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18740
+D1
+~
+~
+0 0 18738
+D2
+~
+~
+0 0 18736
+D3
+~
+~
+0 0 18739
+S
+
+#18738
+{DA Study{x~
+{DThe once grand study has been dismantled{W.{D  The desk lies broken on the{x
+{Dfloor{W,{D perhaps even used as firewood{W.{D  Makeshift cots lie on the floor{W.{x
+~
+524416 0
+D3
+~
+~
+0 0 18737
+S
+
+#18739
+{DThe Sitting Room{x~
+{DThe sitting room has been turned into sleeping quarters for the castle{x
+{Dguards{W.{D  The only furnishings are makeshift cots that sit about the room{W.{x
+{DThere is nothing special here{W.{x
+~
+524416 0
+D1
+~
+~
+0 0 18737
+S
+
+#18740
+{DA Hallway{X~
+{DThe hallway connects the great room to other areas of the castle{W.{D  It is{x
+{Dnarrow and dark{W.{D  There are no decorations here either{W.{D  The castle seems to{x
+{Dhave been constructed for functionality only{W.{x
+~
+524416 0
+D0
+~
+~
+ABG 0 18750
+D1
+~
+~
+0 0 18742
+D2
+~
+~
+0 0 18737
+D3
+~
+~
+0 0 18743
+D4
+~
+~
+0 0 18741
+S
+
+#18741
+{DThe Stairway{x~
+{DThe stairway has crumpled and fallen into ruin just above you{W.{D  The{x
+{Dsecond floor is high above your head{W.{D  There is no possible hope of finding{x
+{Da way to explore that part of the castle{W.{x
+~
+524416 0
+D5
+~
+~
+0 0 18740
+S
+
+#18742
+{DThe Dining Hall{x~
+{DThe interior of the dining hall is enormous{W.{D  A stone fireplace stands at{x
+{Dthe northern end of the room{W.{D  A long table sits in the middle of the room{x
+{Dsurrounded by chairs{W.{D  The smell of freshly cooked food wafts through the{x
+{Dair{W.{D  The only obvious exit leads to the west{W.{x
+~
+524416 0
+D3
+~
+~
+0 0 18740
+S
+
+#18743
+{DThe West Wing{x~
+{DThe west wing contains the living quarters{W.{D  It is bare of any{x
+{Ddecoration{W.{D  The air is chill and damp in this part of the castle{W.{D  Exits{x
+{Dlead in the cardinal directions{W.{x
+~
+524420 0
+D0
+~
+~
+0 0 18744
+D1
+~
+~
+0 0 18740
+D2
+~
+~
+0 0 18745
+D3
+~
+~
+0 0 18746
+S
+
+#18744
+{DA Guest Chamber{x~
+{DBlood and gore grime the floor of the guest chamber{W.{D  The smell of deat{x
+{Dhangs heavy in the air{W.{D  Now you see why the inhabitants of this castle{x
+{Dmoved the sleeping quarters elsewhere{W.{D  The only exit lies to the south{W.{x
+~
+524416 0
+D2
+~
+~
+0 0 18743
+S
+
+#18745
+{DA Guest Chamber{x~
+{DBlood and gore grime the floor of the guest chamber{W.{D  The smell of deat{x
+{Dhangs heavy in the air{W.{D  Now you see why the inhabitants of this castle{x
+{Dmoved the sleeping quarters elsewhere{W.{D  The only exit lies to the north{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18743
+S
+
+#18746
+{DThe West Wing{x~
+{DThe west wing contains the living quarters{W.{D  It is bare of any{x
+{Ddecoration{W.{D  The air is chill and damp in this part of the castle{W.{D  Exits{x
+{Dlead in the cardinal directions{W.{x
+~
+4 0
+D0
+~
+~
+0 0 18747
+D1
+~
+~
+0 0 18743
+D2
+~
+~
+0 0 18748
+D3
+~
+~
+0 0 18749
+S
+
+#18747
+{DA Guest Chamber{x~
+{DBlood and gore grime the floor of the guest chamber{W.{D  The smell of deat{x
+{Dhangs heavy in the air{W.{D  The shrill howling of the daemon consumes you{W,{x
+{Dnearly driving you mad{W.{D  Now you understand why the inhabitants of this{x
+{Dplace have moved the sleeping quarters to other parts of the castle{W.{X
+~
+524416 0
+D2
+~
+~
+0 0 18746
+S
+
+#18748
+{DA Guest Chamber{x~
+{DSlime drips from the walls and ceiling of the room{W.{D  Blood and gore grime{x
+{Dthe floor of the guest chamber{W.{D  The smell of death hangs heavy in the air{W.{x
+{DThe skeletal remains of something lie in one corner{W.{D  The only exit lies to{x
+{Dthe north{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18746
+S
+
+#18749
+{DThe West Wing{x~
+{DThis part of the castle has fallen into ruin as well{W.{D  The massive stone{x
+{Dwalls have collapsed leaving great gaping holes open to the elements{W.{D  The{x
+{Donly exit leads back to the east{W.{x
+~
+524420 0
+D1
+~
+~
+0 0 18746
+S
+
+#18750
+{DA Circular Chamber{x~
+{DThis strange circular room is made entirely of stone{W.{D  The ceiling is{x
+{Donly inches above your head{W.{D  The walls seem to close in slowly{W,{D an inch at{x
+{Da time as if determined to squeeze the very life out of your body{W.{D  There{x
+{Dare no obvious exits to this room{W.{x
+~
+524420 0
+D0
+~
+wall~
+ABCG 18685 18751
+D1
+~
+wall~
+ABG 18685 18752
+D2
+~
+~
+ABG 0 18740
+D3
+~
+wall~
+ABG 18685 18753
+S
+
+#18751
+{gEntrance to the {GP{grovin{Gg G{ground{Gs{x~
+{gThe bravest of brave come here from time to time to test their abilities{x
+{gagainst the creatures that live here{G.{g  Many fail miserably{G.{g  The stench of{x
+{gdeath hangs heavy in the air{G.{g  Haunting shrieks and moans echo through the{x
+{gstill air{G.{g  The only obvious exit leads north{G.{x
+~
+598020 0
+D0
+~
+~
+0 0 18754
+D2
+~
+~
+A 0 18750
+S
+
+#18752
+{rHallway of Fate{x~
+{rThe hall is well lit and made completely of stone{R.{r  Strange rustling{x
+{rnoises come from the east{R.{r  The air is quite cold causing a shiver to run up{x
+{ryour spine{R.{r  There are no obvious exits{R.{x
+~
+524420 0
+D1
+~
+~
+A 0 18763
+D3
+~
+~
+AB 0 18750
+S
+
+#18753
+{DEntrance to the Pit{x~
+{DThe most dank{W,{D foul place you could imagine lies to the west{W.{D  The pits{x
+{Dare awash in filth{W,{D the smell is unbearable{W.{D  Flies swarm through the air{W.{x
+{DMaggots squirm through the sludge that lies thick on the floor of the pit{W.{x
+~
+524420 0
+D1
+~
+~
+AB 0 18750
+D5
+~
+~
+0 0 18770
+S
+
+#18754
+{gThe {GP{grovin{Gg G{ground{Gs{x~
+{gThe grass of the field is covered in blood and gore{G.{g  Flies have gathered{x
+{gfor a disgusting feast{G.{g  Buzzards circle overhead waiting for the next body{x
+{gto fall{G.{g  The stench of death is almost overpowering{G.{x
+~
+598144 2
+D0
+~
+~
+0 0 18755
+D1
+~
+~
+0 0 18760
+D2
+~
+~
+0 0 18751
+D3
+~
+~
+0 0 18759
+S
+
+#18755
+{gThe {GP{grovin{Gg G{ground{Gs{x~
+{gThe grass of the field is covered in blood and gore{G.{g  Flies have gathered{x
+{gfor a disgusting feast{G.{g  Buzzards circle overhead waiting for the next body{x
+{gto fall{G.{g  The stench of death is almost overpowering{G.{x
+~
+598144 2
+D0
+~
+~
+0 0 18756
+D1
+~
+~
+0 0 18761
+D2
+~
+~
+0 0 18754
+D3
+~
+~
+0 0 18758
+S
+
+#18756
+{gThe {GP{grovin{Gg G{ground{Gs{x~
+{gThe grass of the field is covered in blood and gore{G.{g  Flies have gathered{x
+{gfor a disgusting feast{G.{g  Buzzards circle overhead waiting for the next body{x
+{gto fall{G.{g  The stench of death is almost overpowering{G.{x
+~
+598144 2
+D1
+~
+~
+0 0 18762
+D2
+~
+~
+0 0 18755
+D3
+~
+~
+0 0 18757
+S
+
+#18757
+{gThe {GP{grovin{Gg G{ground{Gs{x~
+{gThe grass of the field is covered in blood and gore{G.{g  Flies have gathered{x
+{gfor a disgusting feast{G.{g  Buzzards circle overhead waiting for the next body{x
+{gto fall{G.{g  The stench of death is almost overpowering{G.{x
+~
+598144 2
+D1
+~
+~
+0 0 18756
+D2
+~
+~
+0 0 18758
+S
+
+#18758
+{gThe {GP{grovin{Gg G{ground{Gs{x~
+{gThe grass of the field is covered in blood and gore{G.{g  Flies have gathered{x
+{gfor a disgusting feast{G.{g  Buzzards circle overhead waiting for the next body{x
+{gto fall{G.{g  The stench of death is almost overpowering{G.{x
+~
+598144 2
+D0
+~
+~
+0 0 18757
+D1
+~
+~
+0 0 18755
+D2
+~
+~
+0 0 18759
+S
+
+#18759
+{gThe {GP{grovin{Gg G{ground{Gs{x~
+{gThe grass of the field is covered in blood and gore{G.{g  Flies have gathered{x
+{gfor a disgusting feast{G.{g  Buzzards circle overhead waiting for the next body{x
+{gto fall{G.{g  The stench of death is almost overpowering{G.{x
+~
+598144 2
+D0
+~
+~
+0 0 18758
+D1
+~
+~
+0 0 18754
+S
+
+#18760
+{gThe {GP{grovin{Gg G{ground{Gs{x~
+{gThe grass of the field is covered in blood and gore{G.{g  Flies have gathered{x
+{gfor a disgusting feast{G.{g  Buzzards circle overhead waiting for the next body{x
+{gto fall{G.{g  The stench of death is almost overpowering{G.{x
+~
+598144 2
+D0
+~
+~
+0 0 18761
+D3
+~
+~
+0 0 18754
+S
+
+#18761
+{gThe {GP{grovin{Gg G{ground{Gs{x~
+{gThe grass of the field is covered in blood and gore{G.{g  Flies have gathered{x
+{gfor a disgusting feast{G.{g  Buzzards circle overhead waiting for the next body{x
+{gto fall{G.{g  The stench of death is almost overpowering{G.{x
+~
+598144 2
+D0
+~
+~
+0 0 18762
+D2
+~
+~
+0 0 18760
+D3
+~
+~
+0 0 18755
+S
+
+#18762
+{gThe {GP{grovin{Gg G{ground{Gs{x~
+{gThe grass of the field is covered in blood and gore{G.{g  Flies have gathered{x
+{gfor a disgusting feast{G.{g  Buzzards circle overhead waiting for the next body{x
+{gto fall{G.{g  The stench of death is almost overpowering{G.{x
+~
+598144 2
+D2
+~
+~
+0 0 18761
+D3
+~
+~
+0 0 18756
+S
+
+#18763
+{rHallway of Fate{x~
+{rIt lingers always behind us{R,{r pushing us forward into the present{R.{r  We may{x
+{rnever change it{R.{r  It will always be part of us and often brings the demons{x
+{rof nightmares to disturb our sleep{R.{r  Few may say it has been good{R,{r fewer{x
+{rstill may dwell upon it{R.{r  Which are you my friend{R?{x
+~
+524416 0
+D1
+~
+~
+0 0 18764
+D3
+~
+~
+A 0 18752
+S
+
+#18764
+{rHallway of Fate{x~
+{rIt lingers always behind us{R,{r pushing us forward into the present{R.{r  We may{x
+{rnever change it{R.{r  It will always be part of us and often brings the demons{x
+{rof nightmares to disturb our sleep{R.{r  Few may say it has been good{R,{r fewer{x
+{rstill may dwell upon it{R.{r  Which are you my friend{R?{x
+~
+524416 0
+D1
+~
+~
+0 0 18765
+D3
+~
+~
+0 0 18763
+S
+
+#18765
+{rHallway of Fate{x~
+{rIt lingers always behind us{R,{r pushing us forward into the present{R.{r  We may{x
+{rnever change it{R.{r  It will always be part of us and often brings the demons{x
+{rof nightmares to disturb our sleep{R.{r  Few may say it has been good{R,{r fewer{x
+{rstill may dwell upon it{R.{r  Which are you my friend{R?{x
+~
+524416 0
+D2
+~
+~
+AB 0 18766
+D3
+~
+~
+0 0 18764
+S
+
+#18766
+{rHallway of Fate{x~
+{rLingering in front of you{R,{r it is always here{R.{r  It never leaves{R,{r only{x
+{rfades a bit then flickers until it renews itself yet again{R.{r  Make of it what{x
+{ryou will for it shall become the past{R.{x
+~
+524416 0
+D0
+~
+~
+AB 0 18765
+D2
+~
+~
+0 0 18767
+S
+
+#18767
+{rHallway of Fate{x~
+{rLingering in front of you{R,{r it is always here{R.{r  It never leaves{R,{r only{x
+{rfades a bit then flickers until it renews itself yet again{R.{r  Make of it what{x
+{ryou will for it shall become the past{R.{x
+~
+524416 0
+D0
+~
+~
+0 0 18766
+D1
+~
+~
+AB 0 18768
+S
+
+#18768
+{rHallway of Fate{x~
+{rThe future wavers at times{R,{r but never fades{R.{r  It is what we make of it{x
+{rwhen it becomes our present{R.{r  The future always glides past us{R,{r never to be{x
+{rnoticed unless we call upon it{R.{x
+~
+524416 0
+D1
+~
+~
+0 0 18769
+D3
+~
+~
+AB 0 18767
+S
+
+#18769
+{rHallway of Fate{x~
+{rThe future wavers at times{R,{r but never fades{R.{r  It is what we make of it{x
+{rwhen it becomes our present{R.{r  The future always glides past us{R,{r never to be{x
+{rnoticed unless we call upon it{R.{x
+~
+524416 0
+D3
+~
+~
+0 0 18768
+S
+
+#18770
+{DThe Pits{x~
+{DThe floor of the pit is covered in a thick ooze of slime{W.{D  The stench is{x
+{Doverwhelming{W.{D  Water drips from somewhere above your head{W,{D but it is hard to{x
+{Dtell where it comes from{W.{D  Exits lead up and down{W.{x
+~
+524420 0
+D4
+~
+~
+0 0 18753
+D5
+~
+~
+0 0 18771
+S
+
+#18771
+{DThe Pits{x~
+{DThe slime oozes up around your ankles{W.{D  Swarms of flies buzz about your{x
+{Dface{W.{D  The stench is almost overwhelming{W.{D  There seems to be no easy way out{x
+{Dof this confusing maze{W.{D  Exits lead east and up{W.{x
+~
+524420 0
+D1
+~
+~
+0 0 18772
+D4
+~
+~
+0 0 18770
+S
+
+#18772
+{DThe Pits{x~
+{DThe pits are awash in filth{W,{D the smell is unbearable{W.{D  Flies swarm{x
+{Dthrough the air{W.{D  Maggots squirm through the sludge that lies thick on the{x
+{Dfloor of the pit{W.{D  Exits lead to the north{W,{D south{W,{D and west{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18773
+D2
+~
+~
+0 0 18774
+D3
+~
+~
+0 0 18771
+S
+
+#18773
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18775
+D1
+~
+~
+0 0 18779
+D2
+~
+~
+0 0 18772
+S
+
+#18774
+{DThe Pits{x~
+{DThe pits are awash in filth{W,{D the smell is unbearable{W.{D  Flies swarm{x
+{Dthrough the air{W.{D  Maggots squirm through the sludge that lies thick on the{x
+{Dfloor of the pit{W.{D  Exits lead to north and down{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18772
+D5
+~
+~
+0 0 18798
+S
+
+#18775
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18785
+D1
+~
+~
+0 0 18776
+D2
+~
+~
+0 0 18773
+S
+
+#18776
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D1
+~
+~
+0 0 18777
+D3
+~
+~
+0 0 18775
+S
+
+#18777
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D2
+~
+~
+0 0 18779
+D3
+~
+~
+0 0 18776
+S
+
+#18778
+Approaching the watery whirlpool~
+The rushing waters are now all around you.  The ship you once were
+in is a distant memory as it cannot be seen anywhere.  The only
+thing foreseeable is the huge whirlpool disappearing to the north.
+A large vortex sinking to the unknown is visible and unavoidable!!!!
+
+~
+4 6
+D0
+~
+~
+0 0 18601
+S
+
+#18779
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18777
+D2
+~
+~
+0 0 18780
+D3
+~
+~
+0 0 18773
+S
+
+#18780
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18779
+D1
+~
+~
+0 0 18781
+D4
+~
+~
+0 0 18798
+S
+
+#18781
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D1
+~
+~
+0 0 18782
+D3
+~
+~
+0 0 18780
+S
+
+#18782
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D2
+~
+~
+0 0 18783
+D3
+~
+~
+0 0 18781
+S
+
+#18783
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18782
+D2
+~
+~
+0 0 18784
+S
+
+#18784
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18783
+D3
+~
+~
+0 0 18785
+S
+
+#18785
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18786
+D1
+~
+~
+0 0 18784
+D2
+~
+~
+0 0 18775
+D3
+~
+~
+0 0 18790
+S
+
+#18786
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18787
+D2
+~
+~
+0 0 18785
+D3
+~
+~
+0 0 18796
+S
+
+#18787
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D1
+~
+~
+0 0 18789
+D2
+~
+~
+0 0 18786
+S
+
+#18789
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D2
+~
+~
+0 0 18790
+D3
+~
+~
+0 0 18787
+S
+
+#18790
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18789
+D1
+~
+~
+0 0 18785
+D2
+~
+~
+0 0 18791
+S
+
+#18791
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18790
+D2
+~
+~
+0 0 18792
+S
+
+#18792
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18791
+D1
+~
+~
+0 0 18793
+S
+
+#18793
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D1
+~
+~
+0 0 18794
+D3
+~
+~
+0 0 18792
+S
+
+#18794
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18795
+D3
+~
+~
+0 0 18793
+S
+
+#18795
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D0
+~
+~
+0 0 18796
+D2
+~
+~
+0 0 18794
+S
+
+#18796
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D1
+~
+~
+0 0 18786
+D2
+~
+~
+0 0 18795
+D3
+~
+~
+0 0 18797
+S
+
+#18797
+{DThe Pits{x~
+{DSlime oozes over the tops of your boots{W.{D  It gets more difficult to walk{x
+{Dthrough all of this mess{W.{D  Rotting rubbish only adds to the stench that{x
+{Dpermeates the air{W.{D  It is enough to make you sick{W.{x
+~
+524416 0
+D1
+~
+~
+0 0 18796
+D3
+~
+~
+0 0 18798
+S
+
+#18798
+{DThe Pits{x~
+{DThe slime is almost knee deep here{W.{D  You can feel something moving{x
+{Dagainst your flesh in the slime{W.{D  It takes every bit of energy you have to{x
+{Dmove forward{W.{D  The smell of death has combined with the stench{W.{D  A breath of{x
+{Dfresh air would be more than welcome right now{W.{D  Exits lead east{W,{D up and{x
+{Ddown{W.{x
+~
+524416 0
+D1
+~
+~
+0 0 18797
+D4
+~
+~
+0 0 18774
+D5
+~
+~
+0 0 18780
+S
+
+#18799
+Top of Wizard's Tower~
+wizard's goto room only
+~
+4 0
+D5
+~
+~
+0 0 18733
+S
+#0
+
+#SPECIALS
+M 18620 spec_cast_adept
+M 18666 spec_cast_undead
+M 18678 spec_guard
+M 18679 spec_poison
+M 18680 spec_cast_mage
+M 18681 spec_cast_undead
+M 18687 spec_breath_gas
+M 18789 spec_cast_mage
+S
+
+#RESETS
+D 100 18634 5 2
+D 100 18636 4 2
+D 100 18740 0 1
+D 100 18750 0 2
+D 100 18750 1 1
+D 100 18750 2 1
+D 100 18750 3 1
+D 100 18752 3 1
+D 100 18753 1 1
+D 100 18765 2 1
+D 100 18766 0 1
+D 100 18767 1 1
+D 100 18768 3 1
+M 100 18600 1 18603 1
+M 100 18601 1 18604 1
+M 100 18603 3 18605 1
+M 100 18602 3 18605 1
+M 100 18605 3 18606 3
+M 100 18605 3 18606 3
+M 100 18605 3 18606 3
+M 100 18603 3 18606 1
+M 100 18603 3 18607 1
+M 100 18602 3 18607 1
+M 100 18604 1 18609 1
+E 100 18600 0 5
+M 100 18606 3 18610 3
+M 100 18606 3 18610 3
+M 100 18606 3 18610 3
+M 100 18608 6 18612 2
+E 100 18603 0 5
+M 100 18608 6 18612 2
+M 100 18608 6 18613 2
+E 100 18603 0 5
+M 100 18608 6 18613 2
+M 100 18608 6 18614 2
+M 100 18608 6 18614 2
+M 100 18608 6 18615 2
+M 100 18608 6 18615 2
+M 100 18608 6 18616 2
+M 100 18608 6 18616 2
+M 100 18610 4 18617 1
+E 100 18609 0 5
+M 100 18608 6 18619 2
+M 100 18608 6 18619 2
+M 100 18611 3 18621 1
+E 100 18615 0 5
+M 100 18607 1 18621 1
+E 100 18612 0 8
+E 100 18611 0 6
+E 100 18602 0 3
+M 100 18611 3 18625 1
+M 100 18610 4 18626 1
+E 100 18608 0 15
+M 100 18609 3 18627 1
+E 100 18605 0 16
+E 100 18604 0 13
+M 100 18609 3 18628 1
+M 100 18610 4 18629 1
+E 100 18607 0 2
+M 100 18611 3 18630 1
+E 100 18614 0 16
+E 100 18613 0 3
+O 100 18610 0 18633
+M 100 18610 4 18634 1
+E 100 18606 0 16
+M 100 18609 3 18635 1
+O 100 18617 0 18636
+P 10 18620 1 18617 1
+P 100 18619 1 18617 1
+P 100 18618 1 18617 1
+M 100 18612 1 18636 1
+E 100 18616 0 5
+M 100 18618 6 18637 3
+M 100 18618 6 18637 3
+M 100 18618 6 18637 3
+M 100 18626 20 18639 5
+E 100 18652 0 6
+M 100 18626 20 18639 5
+M 100 18626 20 18639 5
+M 100 18626 20 18639 5
+M 100 18626 20 18639 5
+M 100 18647 9 18640 2
+M 100 18647 9 18640 2
+M 100 18618 6 18640 3
+M 100 18618 6 18640 3
+M 100 18618 6 18640 3
+M 100 18614 1 18641 1
+M 100 18617 1 18642 1
+M 100 18616 1 18642 1
+M 100 18615 1 18642 1
+M 100 18613 1 18642 1
+M 100 18652 1 18643 1
+G 100 18656 0
+G 100 18655 0
+G 100 18654 0
+G 100 18653 0
+M 100 18647 9 18644 2
+M 100 18647 9 18644 2
+M 100 18626 20 18644 5
+E 100 18646 0 16
+M 100 18626 20 18644 5
+M 100 18626 20 18644 5
+E 100 18645 0 7
+M 100 18626 20 18644 5
+E 100 18644 0 10
+M 100 18626 20 18644 5
+E 100 18643 0 16
+M 100 18645 1 18645 1
+M 100 18646 1 18646 1
+G 100 18637 0
+G 100 18636 0
+G 100 18635 0
+G 100 18634 0
+G 100 18633 0
+G 100 18632 0
+G 100 18631 0
+G 100 18630 0
+G 100 18629 0
+M 100 18651 6 18647 2
+M 100 18649 6 18647 1
+M 100 18647 9 18647 1
+M 100 18651 6 18648 2
+M 100 18649 6 18648 1
+M 100 18621 1 18648 1
+M 100 18624 1 18649 1
+M 100 18622 1 18650 1
+E 100 18702 0 16
+M 100 18623 1 18651 1
+M 100 18625 1 18652 1
+E 100 18647 0 8
+E 100 18627 0 16
+M 100 18626 20 18653 5
+E 100 18648 0 16
+M 100 18626 20 18653 5
+E 100 18649 0 16
+M 100 18626 20 18653 5
+E 100 18651 0 16
+M 100 18626 20 18653 5
+M 100 18626 20 18653 5
+E 100 18650 0 16
+M 100 18654 8 18654 2
+M 100 18654 8 18654 2
+M 100 18651 6 18654 2
+M 100 18649 6 18654 1
+M 100 18619 1 18656 1
+O 100 18624 0 18657
+M 100 18620 1 18658 1
+O 100 18621 0 18658
+P 100 18622 1 18621 1
+P 100 18623 1 18621 1
+M 100 18655 8 18659 2
+M 100 18655 8 18659 2
+M 100 18626 20 18659 5
+E 100 18638 0 26
+M 100 18626 20 18659 5
+E 100 18639 0 16
+M 100 18626 20 18659 5
+E 100 18642 0 13
+M 100 18626 20 18659 5
+E 100 18641 0 16
+M 100 18626 20 18659 5
+E 100 18640 0 16
+M 100 18650 6 18660 1
+M 100 18654 8 18662 2
+M 100 18654 8 18662 2
+M 100 18649 6 18662 1
+M 100 18647 9 18662 2
+M 100 18647 9 18662 2
+M 100 18656 1 18663 1
+G 100 18660 0
+G 100 18659 0
+G 100 18658 0
+G 100 18657 0
+M 100 18657 1 18664 1
+G 100 18712 0
+G 100 18711 0
+G 100 18710 0
+G 100 18709 0
+G 100 18708 0
+G 100 18707 0
+G 100 18706 0
+G 100 18705 0
+G 100 18704 0
+G 100 18703 0
+M 100 18654 8 18665 2
+M 100 18654 8 18665 2
+M 100 18649 6 18665 1
+M 100 18647 9 18665 1
+M 100 18659 1 18666 1
+G 100 18666 0
+G 100 18665 0
+G 100 18664 0
+M 100 18658 1 18667 1
+G 100 18663 0
+G 100 18661 0
+M 100 18660 1 18668 1
+G 100 18670 0
+G 100 18669 0
+G 100 18668 0
+G 100 18667 0
+M 100 18647 9 18668 1
+M 100 18655 8 18670 2
+M 100 18655 8 18670 2
+M 100 18650 6 18670 1
+M 100 18649 6 18670 1
+M 100 18655 8 18671 2
+M 100 18655 8 18671 2
+M 100 18654 6 18671 2
+M 100 18650 6 18671 1
+M 100 18655 8 18672 2
+M 100 18655 8 18672 2
+M 100 18653 1 18672 1
+E 100 18628 0 5
+M 100 18650 6 18672 1
+M 100 18650 6 18673 1
+M 100 18627 1 18673 1
+M 100 18668 15 18679 3
+M 100 18668 15 18679 3
+M 100 18668 15 18679 3
+M 100 18668 15 18683 3
+M 100 18668 15 18683 3
+M 100 18668 15 18683 3
+M 100 18668 15 18684 3
+M 100 18668 15 18684 3
+M 100 18668 15 18684 3
+M 100 18668 15 18685 3
+M 100 18668 15 18685 3
+M 100 18668 15 18685 3
+M 100 18668 15 18686 3
+M 100 18668 15 18686 3
+M 100 18668 15 18686 3
+M 100 18662 8 18688 2
+M 100 18662 8 18688 2
+M 100 18661 1 18688 1
+M 100 18663 10 18691 1
+M 100 18662 8 18691 2
+M 100 18662 8 18691 2
+M 100 18663 10 18692 2
+M 100 18663 10 18692 2
+M 100 18662 8 18692 2
+M 100 18662 8 18692 2
+M 100 18663 10 18693 2
+M 100 18663 10 18693 2
+M 100 18662 8 18693 2
+M 100 18662 8 18693 2
+M 100 18663 10 18694 1
+M 100 18663 10 18695 2
+M 100 18663 10 18695 2
+M 100 18663 10 18696 2
+M 100 18663 10 18696 2
+M 100 18665 1 18697 1
+M 100 18664 1 18697 1
+O 100 18671 0 18697
+M 100 18666 1 18706 1
+E 100 18674 0 5
+E 100 18675 0 16
+M 100 18670 20 18712 2
+M 100 18670 20 18712 2
+M 100 18670 20 18715 1
+M 100 18670 20 18716 2
+M 100 18670 20 18716 2
+M 100 18670 20 18717 2
+M 100 18670 20 18717 2
+M 100 18670 20 18718 2
+M 100 18670 20 18718 2
+M 100 18670 20 18719 2
+M 100 18670 20 18719 2
+M 100 18670 20 18720 2
+M 100 18670 20 18720 2
+M 100 18670 20 18721 2
+M 100 18670 20 18721 2
+M 100 18670 20 18722 2
+M 100 18670 20 18722 2
+M 100 18670 20 18723 2
+M 100 18670 20 18723 2
+M 100 18669 1 18723 1
+M 100 18670 20 18724 2
+M 100 18670 20 18724 2
+M 100 18670 20 18725 2
+M 100 18670 20 18725 2
+M 100 18670 20 18726 2
+M 100 18670 20 18726 2
+M 100 18671 9 18728 3
+M 100 18671 9 18728 3
+M 100 18671 9 18728 3
+M 100 18671 9 18729 3
+M 100 18671 9 18729 3
+M 100 18671 9 18729 3
+M 100 18671 9 18730 3
+E 100 18676 0 13
+M 100 18671 9 18730 3
+M 100 18671 9 18730 3
+E 100 18678 0 11
+M 100 18672 12 18732 3
+M 100 18672 12 18732 3
+M 100 18672 12 18732 3
+M 100 18672 12 18733 3
+M 100 18672 12 18733 3
+M 100 18672 12 18733 3
+M 100 18672 12 18734 3
+M 100 18672 12 18734 3
+M 100 18672 12 18734 3
+M 100 18667 1 18734 1
+M 100 18672 12 18735 3
+M 100 18672 12 18735 3
+M 100 18672 12 18735 3
+M 100 18673 12 18737 3
+E 100 18683 0 16
+M 100 18673 12 18737 3
+M 100 18673 12 18737 3
+E 100 18684 0 7
+M 100 18673 12 18738 3
+M 100 18673 12 18738 3
+M 100 18673 12 18738 3
+M 100 18673 12 18739 3
+M 100 18673 12 18739 3
+M 100 18673 12 18739 3
+M 100 18673 12 18740 3
+M 100 18673 12 18740 3
+M 100 18673 12 18740 3
+M 100 18674 3 18744 3
+E 100 18679 0 5
+M 100 18674 3 18744 3
+M 100 18674 3 18744 3
+M 100 18675 3 18745 3
+E 100 18680 0 8
+M 100 18675 3 18745 3
+M 100 18675 3 18745 3
+M 100 18676 3 18747 3
+E 100 18681 0 2
+M 100 18676 3 18747 3
+M 100 18676 3 18747 3
+M 100 18677 3 18748 3
+E 100 18682 0 15
+M 100 18677 3 18748 3
+M 100 18677 3 18748 3
+M 100 18678 1 18750 1
+E 100 18685 0 5
+M 20 18680 1 18757 1
+G 20 18723 0
+G 20 18722 0
+E 20 18718 0 18
+E 20 18717 0 23
+E 20 18716 0 17
+M 20 18679 1 18759 1
+G 20 18723 0
+G 20 18722 0
+E 20 18715 0 16
+E 20 18714 0 23
+E 20 18713 0 13
+M 20 18681 1 18762 1
+G 20 18723 0
+G 20 18722 0
+E 20 18721 0 23
+E 20 18720 0 10
+E 20 18719 0 16
+M 100 18682 6 18763 2
+E 100 18686 0 11
+M 100 18682 6 18763 2
+M 100 18682 6 18764 2
+E 100 18690 0 15
+M 100 18682 6 18764 2
+E 100 18690 0 2
+M 100 18682 6 18765 2
+M 100 18682 6 18765 2
+M 100 18683 4 18766 2
+G 100 18687 0
+M 100 18683 4 18766 2
+M 100 18683 4 18767 2
+E 100 18673 0 5
+M 100 18683 4 18767 2
+M 100 18684 4 18768 2
+E 100 18691 0 2
+M 100 18684 4 18768 2
+M 100 18684 4 18769 2
+E 100 18688 0 12
+M 100 18684 4 18769 2
+M 100 18685 6 18770 1
+M 100 18685 6 18771 1
+M 100 18685 6 18772 1
+M 100 18685 6 18773 1
+M 100 18687 6 18775 2
+E 100 18694 0 5
+M 100 18687 6 18775 2
+M 100 18685 6 18779 1
+M 100 18685 6 18780 1
+E 100 18692 0 5
+M 100 18686 3 18781 1
+M 100 18686 3 18782 1
+M 100 18686 3 18783 1
+E 100 18693 0 5
+M 100 18687 6 18784 2
+M 100 18687 6 18784 2
+M 100 18687 6 18785 2
+M 100 18687 6 18785 2
+M 100 18788 6 18790 2
+M 100 18788 6 18790 2
+M 100 18788 6 18791 2
+M 100 18788 6 18791 2
+M 100 18788 6 18792 2
+E 100 18695 0 5
+M 100 18788 6 18792 2
+M 100 18789 1 18798 1
+E 100 18699 0 6
+E 100 18698 0 17
+E 100 18697 0 9
+E 100 18696 0 16
+S
+
+#SHOPS
+18614 0 0 0 0 0 150 0 0 23
+18645 0 0 0 0 0 100 100 0 23
+18646 10 3 29 0 0 100 50 0 23
+18652 17 19 0 0 0 100 0 0 23
+18656 15 1 19 17 0 100 0 0 23
+18657 5 0 9 0 0 150 40 0 23
+18658 17 0 0 0 0 100 0 0 23
+18659 33 32 8 0 0 150 40 0 23
+18660 13 0 0 0 0 100 0 0 23
+0
+
+#MOBPROGS
+#18600
+~
+~
+smile
+say Don't be afraid, I'll help you.
+say Just go north and one of my sisters will help you.
+~
+
+#18601
+~
+~
+smile 
+say Hello $n, are you ready to continue?
+~
+
+#18602
+~
+~
+say There are some treats inside the chest.
+say Try one if you like.  
+~
+
+#18603
+~
+~
+mob echoat $n A sea urchin appears and carries you away!
+mob echoaround $n A sea urchin appears and carries $n away!
+mob transfer $n 18605
+~
+
+#18604
+~
+~
+frown
+say I'm sorry to see you are not ready to continue.
+mob echoat $n A blinding flash of light envelopes you.
+mob echoaround $n A blinding flash of light envelopes $n
+mob transfer $n 3014
+~
+
+#18613
+~
+~
+blush 
+~
+
+#18615
+~
+~
+emote nickers softly and nuzzles your hand.
+~
+
+#18616
+~
+~
+blink $n
+~
+
+#18617
+~
+~
+smile $n
+~
+
+#18619
+~
+~
+say Hello $n
+say What shall you learn this day?
+~
+
+#18620
+~
+~
+say Hello there $n, come right in and rest.
+say I can heal you if you are in need of it.
+~
+
+#18621
+~
+~
+say If only the evil sea witch were gone...then our kingdom would be safe.
+~
+
+#18622
+~
+~
+say I do so love those tiny finger sandwiches...
+~
+
+#18623
+~
+~
+shake $n
+say Welcome to Miosh Kralda!
+~
+
+#18624
+~
+~
+say Here, these things may help you on your way $n.
+mob oload 18625
+mob oload 18626
+give dollar $n
+give parchment $n
+wave
+mob echo A blinding flash of light envelopes the lobster and he is gone.
+mob goto 18610
+~
+
+#18625
+~
+~
+say Trash! Always trash, find some other place to be so untidy.
+get all
+~
+
+#18627
+~
+~
+worship $n
+say $n is a fine person!
+mpcast sanctuary $n
+~
+
+#18628
+~
+~
+say Alms for the poor!
+~
+
+#18660
+~
+~
+say If you can solve my riddle I shall reward you.  Are you willing to try?
+~
+
+#18661
+~
+~
+frown $n
+say I'm very disappointed $n.
+mob gtransfer $n 3014
+~
+
+#18662
+~
+~
+say I never was, am always to be, no one ever saw me, nor ever will.  And yet I am the confidence of all to live and breathe on this terrestrial ball.
+~
+
+#18663
+~
+~
+smile $n
+say You have done well $n.
+mob oload 18672
+give potion $n
+mob echoat $n A blinding flash of light envelopes the wizard and he is gone!
+mob goto 18799
+~
+
+#18678
+Thorvild~
+Duergar attacks heros~
+if level $n == 101
+    mob kill $n
+endif
+~
+
+#18796
+~
+~
+say Hello, Im am Berniece the cow.
+smile
+say Who are you?
+peer $n
+say My, what a lovely name!
+moo $n
+~
+
+#18797
+~
+~
+moo
+say Would you like to Change names with me?
+say Moo $n
+~
+
+#18798
+~
+~
+say You do?
+moo
+say That's wonderful!
+moo $n
+smile
+~
+
+#18799
+~
+~
+say You don't?
+sniff $n
+moo
+say I hate you!
+moo
+cry
+~
+#0
+
+#$

@@ -1,0 +1,685 @@
+Wed Nov 14 12:28:56 2012 :: Init data space.
+Wed Nov 14 12:28:56 2012 :: Setting time and weather.
+Wed Nov 14 12:28:56 2012 :: Loading Scripts.
+Wed Nov 14 12:28:56 2012 :: Loading Skills.
+Wed Nov 14 12:28:56 2012 :: Loading Classes.
+Wed Nov 14 12:28:56 2012 :: Loading Races.
+Wed Nov 14 12:28:56 2012 :: Loading Clans.
+Wed Nov 14 12:28:56 2012 :: Loading Notes.
+Wed Nov 14 12:28:56 2012 :: Loading Bans.
+Wed Nov 14 12:28:56 2012 :: Loading Wizlist.
+Wed Nov 14 12:28:56 2012 :: Loading Socials.
+Wed Nov 14 12:28:56 2012 :: Loading Disabled.
+Wed Nov 14 12:28:56 2012 :: Loading Game Variables.
+Wed Nov 14 12:28:56 2012 :: Loading Charts.
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Could not open file ../data/charts/assists in order to read.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: Loading Helps.
+Wed Nov 14 12:28:56 2012 :: Reading Area List.
+Wed Nov 14 12:28:56 2012 :: reading limbo.are
+Wed Nov 14 12:28:56 2012 :: reading plains.are
+Wed Nov 14 12:28:56 2012 :: reading vendors.are
+Wed Nov 14 12:28:56 2012 :: reading random.are
+Wed Nov 14 12:28:56 2012 :: reading hitower.are
+Wed Nov 14 12:28:56 2012 :: reading gnome.are
+Wed Nov 14 12:28:56 2012 :: reading wyvern.are
+Wed Nov 14 12:28:56 2012 :: reading grvstenw.are
+Wed Nov 14 12:28:56 2012 :: reading mahntor.are
+Wed Nov 14 12:28:56 2012 :: reading grndgn.are
+Wed Nov 14 12:28:56 2012 :: reading undrtnl.are
+Wed Nov 14 12:28:56 2012 :: reading secosa.are
+Wed Nov 14 12:28:56 2012 :: reading midgaard.are
+Wed Nov 14 12:28:56 2012 :: reading midennir.are
+Wed Nov 14 12:28:56 2012 :: reading school.are
+Wed Nov 14 12:28:56 2012 :: reading camelot.are
+Wed Nov 14 12:28:56 2012 :: reading moria.are
+Wed Nov 14 12:28:56 2012 :: reading zahadum.are
+Wed Nov 14 12:28:56 2012 :: reading tralfin.are
+Wed Nov 14 12:28:56 2012 :: reading havceris.are
+Wed Nov 14 12:28:56 2012 :: reading thalos.are
+Wed Nov 14 12:28:56 2012 :: reading misery.are
+Wed Nov 14 12:28:56 2012 :: reading elven.are
+Wed Nov 14 12:28:56 2012 :: reading haon.are
+Wed Nov 14 12:28:56 2012 :: reading krpela.are
+Wed Nov 14 12:28:56 2012 :: reading nasdesert.are
+Wed Nov 14 12:28:56 2012 :: reading temple.are
+Wed Nov 14 12:28:56 2012 :: reading valley.are
+Wed Nov 14 12:28:56 2012 :: reading atlantis.are
+Wed Nov 14 12:28:56 2012 :: reading misty.are
+Wed Nov 14 12:28:56 2012 :: reading marsh.are
+Wed Nov 14 12:28:56 2012 :: reading enoch.are
+Wed Nov 14 12:28:56 2012 :: reading fifprtals.are
+Wed Nov 14 12:28:56 2012 :: reading mirkwood.are
+Wed Nov 14 12:28:56 2012 :: reading canyon.are
+Wed Nov 14 12:28:56 2012 :: reading newthalos.are
+Wed Nov 14 12:28:56 2012 :: reading circus.are
+Wed Nov 14 12:28:56 2012 :: reading wynterhaven.are
+Wed Nov 14 12:28:56 2012 :: reading pilgri.are
+Wed Nov 14 12:28:56 2012 :: reading tohell.are
+Wed Nov 14 12:28:56 2012 :: reading haven.are
+Wed Nov 14 12:28:56 2012 :: reading chess2.are
+Wed Nov 14 12:28:56 2012 :: reading cloudymt.are
+Wed Nov 14 12:28:56 2012 :: reading drakyri.are
+Wed Nov 14 12:28:56 2012 :: reading museum.are
+Wed Nov 14 12:28:56 2012 :: reading freeport.are
+Wed Nov 14 12:28:56 2012 :: reading vampire.are
+Wed Nov 14 12:28:56 2012 :: reading creation.are
+Wed Nov 14 12:28:56 2012 :: reading swordncr.are
+Wed Nov 14 12:28:56 2012 :: reading warkeep.are
+Wed Nov 14 12:28:56 2012 :: reading pirate.are
+Wed Nov 14 12:28:56 2012 :: reading clock.are
+Wed Nov 14 12:28:56 2012 :: reading titan.are
+Wed Nov 14 12:28:56 2012 :: reading khintar.are
+Wed Nov 14 12:28:56 2012 :: reading miosh.are
+Wed Nov 14 12:28:56 2012 :: reading trillium.are
+Wed Nov 14 12:28:56 2012 :: reading eros.are
+Wed Nov 14 12:28:56 2012 :: reading witches.are
+Wed Nov 14 12:28:56 2012 :: reading fanatics.are
+Wed Nov 14 12:28:56 2012 :: reading golem.are
+Wed Nov 14 12:28:56 2012 :: reading tralcast.are
+Wed Nov 14 12:28:56 2012 :: reading bhendal.are
+Wed Nov 14 12:28:56 2012 :: reading bangzui.are
+Wed Nov 14 12:28:56 2012 :: reading iceworld.are
+Wed Nov 14 12:28:56 2012 :: reading nvillage.are
+Wed Nov 14 12:28:56 2012 :: reading humfrey.are
+Wed Nov 14 12:28:56 2012 :: reading roogna.are
+Wed Nov 14 12:28:56 2012 :: reading myst24hi.are
+Wed Nov 14 12:28:56 2012 :: reading shrehros.are
+Wed Nov 14 12:28:56 2012 :: reading mystmoon.are
+Wed Nov 14 12:28:56 2012 :: reading glacier.are
+Wed Nov 14 12:28:56 2012 :: reading kratas.are
+Wed Nov 14 12:28:56 2012 :: reading tundra.are
+Wed Nov 14 12:28:56 2012 :: reading quendor.are
+Wed Nov 14 12:28:56 2012 :: reading specials.are
+Wed Nov 14 12:28:56 2012 :: reading archvill.are
+Wed Nov 14 12:28:56 2012 :: reading jurassis.are
+Wed Nov 14 12:28:56 2012 :: reading harcdon.are
+Wed Nov 14 12:28:56 2012 :: reading olean.are
+Wed Nov 14 12:28:56 2012 :: reading cargan.are
+Wed Nov 14 12:28:56 2012 :: reading lierknay.are
+Wed Nov 14 12:28:56 2012 :: reading oceansy.are
+Wed Nov 14 12:28:56 2012 :: reading arena1.are
+Wed Nov 14 12:28:56 2012 :: reading elmtcrn.are
+Wed Nov 14 12:28:56 2012 :: reading 36cham.are
+Wed Nov 14 12:28:56 2012 :: reading testors.cln
+Wed Nov 14 12:28:56 2012 :: reading tlchalla.are
+Wed Nov 14 12:28:56 2012 :: reading gate.are
+Wed Nov 14 12:28:56 2012 :: reading crystpal.are
+Wed Nov 14 12:28:56 2012 :: reading skrpela.are
+Wed Nov 14 12:28:56 2012 :: reading palnkeep.are
+Wed Nov 14 12:28:56 2012 :: reading lockes.are
+Wed Nov 14 12:28:56 2012 :: reading orcout.are
+Wed Nov 14 12:28:56 2012 :: reading plyrhses.are
+Wed Nov 14 12:28:56 2012 :: reading shanasa.are
+Wed Nov 14 12:28:56 2012 :: Fixing Exits.
+Wed Nov 14 12:28:56 2012 :: Loading Special Items.
+Wed Nov 14 12:28:56 2012 :: Loading Random Item Tables.
+Wed Nov 14 12:28:56 2012 :: Area Update.
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: beast: unknown location 23.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: juggernaut: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: banshee death: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: banshee death: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: kejie swordancer: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: blacksmith georn: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: swordancer lenna: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: apprentice: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: apprentice: unknown location 25.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 23.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 25.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: woman witch alara: unknown location 25.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: dagar assassin: unknown location 25.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: gorgon: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: gorgon: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: magician good humfrey: unknown location 23.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: magician good humfrey: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: old woman harvest : unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: tezcatlipoca lord death: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: anubis god: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: kuan yin goddess: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: grainne lass: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: saraswati patroness goddess: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: brahma god: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: ziggy olethros: unknown location 23.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: ziggy olethros: unknown location 24.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: [*****] BUG: Affect_modify: betrayed man: unknown location 23.
+Wed Nov 14 12:28:56 2012 :: [*****] COM: 
+Wed Nov 14 12:28:56 2012 :: Load room contents.
+Wed Nov 14 12:28:56 2012 :: RoT is ready to rock on port 5333.
+Wed Nov 14 12:28:57 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 12:28:57 2012 :: Log man shepherd: emote wonders.
+Wed Nov 14 12:29:03 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 12:29:09 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 12:29:09 2012 :: Log starfish: smile someone
+Wed Nov 14 12:29:15 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 12:29:15 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 12:29:15 2012 :: Log sentinel kratas: scan
+Wed Nov 14 12:29:15 2012 :: Log cat: purr
+Wed Nov 14 12:29:21 2012 :: Log cat: purr
+Wed Nov 14 12:29:27 2012 :: Log sentinel kratas: scan
+Wed Nov 14 12:29:33 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 12:29:33 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 12:29:39 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 12:29:39 2012 :: Log starfish: smile someone
+Wed Nov 14 12:29:45 2012 :: Log hungry wolf: emote moves here and there in search for food.
+Wed Nov 14 12:29:45 2012 :: Log sentinel kratas: scan
+Wed Nov 14 12:29:45 2012 :: Log man shepherd: emote wonders.
+Wed Nov 14 12:29:45 2012 :: Log cat: purr
+Wed Nov 14 12:29:51 2012 :: Log shepherd man: say Where's my sheep?
+Wed Nov 14 12:29:51 2012 :: Log portal guardian: say Only those who wish to exit the city should enter this portal!
+Wed Nov 14 12:29:51 2012 :: Log sentinel kratas: scan
+Wed Nov 14 12:29:51 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:01:12 2012 :: Init data space.
+Wed Nov 14 13:01:12 2012 :: Setting time and weather.
+Wed Nov 14 13:01:12 2012 :: Loading Scripts.
+Wed Nov 14 13:01:12 2012 :: Loading Skills.
+Wed Nov 14 13:01:12 2012 :: Loading Classes.
+Wed Nov 14 13:01:12 2012 :: Loading Races.
+Wed Nov 14 13:01:12 2012 :: Loading Clans.
+Wed Nov 14 13:01:12 2012 :: Loading Notes.
+Wed Nov 14 13:01:12 2012 :: Loading Bans.
+Wed Nov 14 13:01:12 2012 :: Loading Wizlist.
+Wed Nov 14 13:01:12 2012 :: Loading Socials.
+Wed Nov 14 13:01:12 2012 :: Loading Disabled.
+Wed Nov 14 13:01:12 2012 :: Loading Game Variables.
+Wed Nov 14 13:01:12 2012 :: Loading Charts.
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Could not open file ../data/charts/assists in order to read.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: Loading Helps.
+Wed Nov 14 13:01:12 2012 :: Reading Area List.
+Wed Nov 14 13:01:12 2012 :: reading limbo.are
+Wed Nov 14 13:01:12 2012 :: reading plains.are
+Wed Nov 14 13:01:12 2012 :: reading vendors.are
+Wed Nov 14 13:01:12 2012 :: reading random.are
+Wed Nov 14 13:01:12 2012 :: reading hitower.are
+Wed Nov 14 13:01:12 2012 :: reading gnome.are
+Wed Nov 14 13:01:12 2012 :: reading wyvern.are
+Wed Nov 14 13:01:12 2012 :: reading grvstenw.are
+Wed Nov 14 13:01:12 2012 :: reading mahntor.are
+Wed Nov 14 13:01:12 2012 :: reading grndgn.are
+Wed Nov 14 13:01:12 2012 :: reading undrtnl.are
+Wed Nov 14 13:01:12 2012 :: reading secosa.are
+Wed Nov 14 13:01:12 2012 :: reading midgaard.are
+Wed Nov 14 13:01:12 2012 :: reading midennir.are
+Wed Nov 14 13:01:12 2012 :: reading school.are
+Wed Nov 14 13:01:12 2012 :: reading camelot.are
+Wed Nov 14 13:01:12 2012 :: reading moria.are
+Wed Nov 14 13:01:12 2012 :: reading zahadum.are
+Wed Nov 14 13:01:12 2012 :: reading tralfin.are
+Wed Nov 14 13:01:12 2012 :: reading havceris.are
+Wed Nov 14 13:01:12 2012 :: reading thalos.are
+Wed Nov 14 13:01:12 2012 :: reading misery.are
+Wed Nov 14 13:01:12 2012 :: reading elven.are
+Wed Nov 14 13:01:12 2012 :: reading haon.are
+Wed Nov 14 13:01:12 2012 :: reading krpela.are
+Wed Nov 14 13:01:12 2012 :: reading nasdesert.are
+Wed Nov 14 13:01:12 2012 :: reading temple.are
+Wed Nov 14 13:01:12 2012 :: reading valley.are
+Wed Nov 14 13:01:12 2012 :: reading atlantis.are
+Wed Nov 14 13:01:12 2012 :: reading misty.are
+Wed Nov 14 13:01:12 2012 :: reading marsh.are
+Wed Nov 14 13:01:12 2012 :: reading enoch.are
+Wed Nov 14 13:01:12 2012 :: reading fifprtals.are
+Wed Nov 14 13:01:12 2012 :: reading mirkwood.are
+Wed Nov 14 13:01:12 2012 :: reading canyon.are
+Wed Nov 14 13:01:12 2012 :: reading newthalos.are
+Wed Nov 14 13:01:12 2012 :: reading circus.are
+Wed Nov 14 13:01:12 2012 :: reading wynterhaven.are
+Wed Nov 14 13:01:12 2012 :: reading pilgri.are
+Wed Nov 14 13:01:12 2012 :: reading tohell.are
+Wed Nov 14 13:01:12 2012 :: reading haven.are
+Wed Nov 14 13:01:12 2012 :: reading chess2.are
+Wed Nov 14 13:01:12 2012 :: reading cloudymt.are
+Wed Nov 14 13:01:12 2012 :: reading drakyri.are
+Wed Nov 14 13:01:12 2012 :: reading museum.are
+Wed Nov 14 13:01:12 2012 :: reading freeport.are
+Wed Nov 14 13:01:12 2012 :: reading vampire.are
+Wed Nov 14 13:01:12 2012 :: reading creation.are
+Wed Nov 14 13:01:12 2012 :: reading swordncr.are
+Wed Nov 14 13:01:12 2012 :: reading warkeep.are
+Wed Nov 14 13:01:12 2012 :: reading pirate.are
+Wed Nov 14 13:01:12 2012 :: reading clock.are
+Wed Nov 14 13:01:12 2012 :: reading titan.are
+Wed Nov 14 13:01:12 2012 :: reading khintar.are
+Wed Nov 14 13:01:12 2012 :: reading miosh.are
+Wed Nov 14 13:01:12 2012 :: reading trillium.are
+Wed Nov 14 13:01:12 2012 :: reading eros.are
+Wed Nov 14 13:01:12 2012 :: reading witches.are
+Wed Nov 14 13:01:12 2012 :: reading fanatics.are
+Wed Nov 14 13:01:12 2012 :: reading golem.are
+Wed Nov 14 13:01:12 2012 :: reading tralcast.are
+Wed Nov 14 13:01:12 2012 :: reading bhendal.are
+Wed Nov 14 13:01:12 2012 :: reading bangzui.are
+Wed Nov 14 13:01:12 2012 :: reading iceworld.are
+Wed Nov 14 13:01:12 2012 :: reading nvillage.are
+Wed Nov 14 13:01:12 2012 :: reading humfrey.are
+Wed Nov 14 13:01:12 2012 :: reading roogna.are
+Wed Nov 14 13:01:12 2012 :: reading myst24hi.are
+Wed Nov 14 13:01:12 2012 :: reading shrehros.are
+Wed Nov 14 13:01:12 2012 :: reading mystmoon.are
+Wed Nov 14 13:01:12 2012 :: reading glacier.are
+Wed Nov 14 13:01:12 2012 :: reading kratas.are
+Wed Nov 14 13:01:12 2012 :: reading tundra.are
+Wed Nov 14 13:01:12 2012 :: reading quendor.are
+Wed Nov 14 13:01:12 2012 :: reading specials.are
+Wed Nov 14 13:01:12 2012 :: reading archvill.are
+Wed Nov 14 13:01:12 2012 :: reading jurassis.are
+Wed Nov 14 13:01:12 2012 :: reading harcdon.are
+Wed Nov 14 13:01:12 2012 :: reading olean.are
+Wed Nov 14 13:01:12 2012 :: reading cargan.are
+Wed Nov 14 13:01:12 2012 :: reading lierknay.are
+Wed Nov 14 13:01:12 2012 :: reading oceansy.are
+Wed Nov 14 13:01:12 2012 :: reading arena1.are
+Wed Nov 14 13:01:12 2012 :: reading elmtcrn.are
+Wed Nov 14 13:01:12 2012 :: reading 36cham.are
+Wed Nov 14 13:01:12 2012 :: reading testors.cln
+Wed Nov 14 13:01:12 2012 :: reading tlchalla.are
+Wed Nov 14 13:01:12 2012 :: reading gate.are
+Wed Nov 14 13:01:12 2012 :: reading crystpal.are
+Wed Nov 14 13:01:12 2012 :: reading skrpela.are
+Wed Nov 14 13:01:12 2012 :: reading palnkeep.are
+Wed Nov 14 13:01:12 2012 :: reading lockes.are
+Wed Nov 14 13:01:12 2012 :: reading orcout.are
+Wed Nov 14 13:01:12 2012 :: reading plyrhses.are
+Wed Nov 14 13:01:12 2012 :: reading shanasa.are
+Wed Nov 14 13:01:12 2012 :: Fixing Exits.
+Wed Nov 14 13:01:12 2012 :: Loading Special Items.
+Wed Nov 14 13:01:12 2012 :: Loading Random Item Tables.
+Wed Nov 14 13:01:12 2012 :: Area Update.
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: beast: unknown location 23.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: juggernaut: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: banshee death: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: banshee death: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: kejie swordancer: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: blacksmith georn: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: swordancer lenna: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: apprentice: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: apprentice: unknown location 25.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 23.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 25.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: woman witch alara: unknown location 25.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: dagar assassin: unknown location 25.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: gorgon: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: gorgon: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: magician good humfrey: unknown location 23.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: magician good humfrey: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: old woman harvest : unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: tezcatlipoca lord death: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: anubis god: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: kuan yin goddess: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: grainne lass: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: saraswati patroness goddess: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: brahma god: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: ziggy olethros: unknown location 23.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: ziggy olethros: unknown location 24.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: [*****] BUG: Affect_modify: betrayed man: unknown location 23.
+Wed Nov 14 13:01:12 2012 :: [*****] COM: 
+Wed Nov 14 13:01:12 2012 :: Load room contents.
+Wed Nov 14 13:01:12 2012 :: RoT is ready to rock on port 5333.
+Wed Nov 14 13:01:12 2012 :: Log half bred human beast healer: grin
+Wed Nov 14 13:01:12 2012 :: Log half bred human beast healer: Emote roars, 'Let me heal you... Trust me!'
+Wed Nov 14 13:01:12 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:01:18 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 13:01:18 2012 :: Log starfish: smile someone
+Wed Nov 14 13:01:18 2012 :: Log cat: purr
+Wed Nov 14 13:01:24 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:01:24 2012 :: Log starfish: smile someone
+Wed Nov 14 13:01:24 2012 :: Log cat: purr
+Wed Nov 14 13:01:36 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:01:45 2012 :: Init data space.
+Wed Nov 14 13:01:45 2012 :: Setting time and weather.
+Wed Nov 14 13:01:45 2012 :: Loading Scripts.
+Wed Nov 14 13:01:45 2012 :: Loading Skills.
+Wed Nov 14 13:01:45 2012 :: Loading Classes.
+Wed Nov 14 13:01:45 2012 :: Loading Races.
+Wed Nov 14 13:01:45 2012 :: Loading Clans.
+Wed Nov 14 13:01:45 2012 :: Loading Notes.
+Wed Nov 14 13:01:45 2012 :: Loading Bans.
+Wed Nov 14 13:01:45 2012 :: Loading Wizlist.
+Wed Nov 14 13:01:45 2012 :: Loading Socials.
+Wed Nov 14 13:01:45 2012 :: Loading Disabled.
+Wed Nov 14 13:01:45 2012 :: Loading Game Variables.
+Wed Nov 14 13:01:45 2012 :: Loading Charts.
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Could not open file ../data/charts/assists in order to read.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: Loading Helps.
+Wed Nov 14 13:01:45 2012 :: Reading Area List.
+Wed Nov 14 13:01:45 2012 :: reading limbo.are
+Wed Nov 14 13:01:45 2012 :: reading plains.are
+Wed Nov 14 13:01:45 2012 :: reading vendors.are
+Wed Nov 14 13:01:45 2012 :: reading random.are
+Wed Nov 14 13:01:45 2012 :: reading hitower.are
+Wed Nov 14 13:01:45 2012 :: reading gnome.are
+Wed Nov 14 13:01:45 2012 :: reading wyvern.are
+Wed Nov 14 13:01:45 2012 :: reading grvstenw.are
+Wed Nov 14 13:01:45 2012 :: reading mahntor.are
+Wed Nov 14 13:01:45 2012 :: reading grndgn.are
+Wed Nov 14 13:01:45 2012 :: reading undrtnl.are
+Wed Nov 14 13:01:45 2012 :: reading secosa.are
+Wed Nov 14 13:01:45 2012 :: reading midgaard.are
+Wed Nov 14 13:01:45 2012 :: reading midennir.are
+Wed Nov 14 13:01:45 2012 :: reading school.are
+Wed Nov 14 13:01:45 2012 :: reading camelot.are
+Wed Nov 14 13:01:45 2012 :: reading moria.are
+Wed Nov 14 13:01:45 2012 :: reading zahadum.are
+Wed Nov 14 13:01:45 2012 :: reading tralfin.are
+Wed Nov 14 13:01:45 2012 :: reading havceris.are
+Wed Nov 14 13:01:45 2012 :: reading thalos.are
+Wed Nov 14 13:01:45 2012 :: reading misery.are
+Wed Nov 14 13:01:45 2012 :: reading elven.are
+Wed Nov 14 13:01:45 2012 :: reading haon.are
+Wed Nov 14 13:01:45 2012 :: reading krpela.are
+Wed Nov 14 13:01:45 2012 :: reading nasdesert.are
+Wed Nov 14 13:01:45 2012 :: reading temple.are
+Wed Nov 14 13:01:45 2012 :: reading valley.are
+Wed Nov 14 13:01:45 2012 :: reading atlantis.are
+Wed Nov 14 13:01:45 2012 :: reading misty.are
+Wed Nov 14 13:01:45 2012 :: reading marsh.are
+Wed Nov 14 13:01:45 2012 :: reading enoch.are
+Wed Nov 14 13:01:45 2012 :: reading fifprtals.are
+Wed Nov 14 13:01:45 2012 :: reading mirkwood.are
+Wed Nov 14 13:01:45 2012 :: reading canyon.are
+Wed Nov 14 13:01:45 2012 :: reading newthalos.are
+Wed Nov 14 13:01:45 2012 :: reading circus.are
+Wed Nov 14 13:01:45 2012 :: reading wynterhaven.are
+Wed Nov 14 13:01:45 2012 :: reading pilgri.are
+Wed Nov 14 13:01:45 2012 :: reading tohell.are
+Wed Nov 14 13:01:45 2012 :: reading haven.are
+Wed Nov 14 13:01:45 2012 :: reading chess2.are
+Wed Nov 14 13:01:45 2012 :: reading cloudymt.are
+Wed Nov 14 13:01:45 2012 :: reading drakyri.are
+Wed Nov 14 13:01:45 2012 :: reading museum.are
+Wed Nov 14 13:01:45 2012 :: reading freeport.are
+Wed Nov 14 13:01:45 2012 :: reading vampire.are
+Wed Nov 14 13:01:45 2012 :: reading creation.are
+Wed Nov 14 13:01:45 2012 :: reading swordncr.are
+Wed Nov 14 13:01:45 2012 :: reading warkeep.are
+Wed Nov 14 13:01:45 2012 :: reading pirate.are
+Wed Nov 14 13:01:45 2012 :: reading clock.are
+Wed Nov 14 13:01:45 2012 :: reading titan.are
+Wed Nov 14 13:01:45 2012 :: reading khintar.are
+Wed Nov 14 13:01:45 2012 :: reading miosh.are
+Wed Nov 14 13:01:45 2012 :: reading trillium.are
+Wed Nov 14 13:01:45 2012 :: reading eros.are
+Wed Nov 14 13:01:45 2012 :: reading witches.are
+Wed Nov 14 13:01:45 2012 :: reading fanatics.are
+Wed Nov 14 13:01:45 2012 :: reading golem.are
+Wed Nov 14 13:01:45 2012 :: reading tralcast.are
+Wed Nov 14 13:01:45 2012 :: reading bhendal.are
+Wed Nov 14 13:01:45 2012 :: reading bangzui.are
+Wed Nov 14 13:01:45 2012 :: reading iceworld.are
+Wed Nov 14 13:01:45 2012 :: reading nvillage.are
+Wed Nov 14 13:01:45 2012 :: reading humfrey.are
+Wed Nov 14 13:01:45 2012 :: reading roogna.are
+Wed Nov 14 13:01:45 2012 :: reading myst24hi.are
+Wed Nov 14 13:01:45 2012 :: reading shrehros.are
+Wed Nov 14 13:01:45 2012 :: reading mystmoon.are
+Wed Nov 14 13:01:45 2012 :: reading glacier.are
+Wed Nov 14 13:01:45 2012 :: reading kratas.are
+Wed Nov 14 13:01:45 2012 :: reading tundra.are
+Wed Nov 14 13:01:45 2012 :: reading quendor.are
+Wed Nov 14 13:01:45 2012 :: reading specials.are
+Wed Nov 14 13:01:45 2012 :: reading archvill.are
+Wed Nov 14 13:01:45 2012 :: reading jurassis.are
+Wed Nov 14 13:01:45 2012 :: reading harcdon.are
+Wed Nov 14 13:01:45 2012 :: reading olean.are
+Wed Nov 14 13:01:45 2012 :: reading cargan.are
+Wed Nov 14 13:01:45 2012 :: reading lierknay.are
+Wed Nov 14 13:01:45 2012 :: reading oceansy.are
+Wed Nov 14 13:01:45 2012 :: reading arena1.are
+Wed Nov 14 13:01:45 2012 :: reading elmtcrn.are
+Wed Nov 14 13:01:45 2012 :: reading 36cham.are
+Wed Nov 14 13:01:45 2012 :: reading testors.cln
+Wed Nov 14 13:01:45 2012 :: reading tlchalla.are
+Wed Nov 14 13:01:45 2012 :: reading gate.are
+Wed Nov 14 13:01:45 2012 :: reading crystpal.are
+Wed Nov 14 13:01:45 2012 :: reading skrpela.are
+Wed Nov 14 13:01:45 2012 :: reading palnkeep.are
+Wed Nov 14 13:01:45 2012 :: reading lockes.are
+Wed Nov 14 13:01:45 2012 :: reading orcout.are
+Wed Nov 14 13:01:45 2012 :: reading plyrhses.are
+Wed Nov 14 13:01:45 2012 :: reading shanasa.are
+Wed Nov 14 13:01:45 2012 :: Fixing Exits.
+Wed Nov 14 13:01:45 2012 :: Loading Special Items.
+Wed Nov 14 13:01:45 2012 :: Loading Random Item Tables.
+Wed Nov 14 13:01:45 2012 :: Area Update.
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: beast: unknown location 23.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: juggernaut: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: banshee death: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: banshee death: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: kejie swordancer: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: blacksmith georn: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: swordancer lenna: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: apprentice: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: apprentice: unknown location 25.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 23.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 25.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: woman witch alara: unknown location 25.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: dagar assassin: unknown location 25.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: gorgon: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: gorgon: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: magician good humfrey: unknown location 23.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: magician good humfrey: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: old woman harvest : unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: tezcatlipoca lord death: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: anubis god: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: kuan yin goddess: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: grainne lass: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: saraswati patroness goddess: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: brahma god: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: ziggy olethros: unknown location 23.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: ziggy olethros: unknown location 24.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: [*****] BUG: Affect_modify: betrayed man: unknown location 23.
+Wed Nov 14 13:01:45 2012 :: [*****] COM: 
+Wed Nov 14 13:01:45 2012 :: Load room contents.
+Wed Nov 14 13:01:45 2012 :: RoT is ready to rock on port 5333.
+Wed Nov 14 13:01:45 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 13:01:45 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:01:45 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:01:51 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 13:01:51 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 13:01:51 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:01:51 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:01:51 2012 :: Log cat: purr
+Wed Nov 14 13:01:57 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 13:02:03 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:02:03 2012 :: Log beggar: say Alms for the poor!
+Wed Nov 14 13:02:03 2012 :: Log shepherd man: say Where's my sheep?
+Wed Nov 14 13:02:03 2012 :: Log cat: purr
+Wed Nov 14 13:02:09 2012 :: Log hungry wolf: emote moves here and there in search for food.
+Wed Nov 14 13:02:09 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 13:02:09 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 13:02:09 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 13:02:09 2012 :: Log hungry wolf: emote moves here and there in search for food.
+Wed Nov 14 13:02:21 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 13:02:27 2012 :: Log beggar: say Alms for the poor!
+Wed Nov 14 13:02:33 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 13:02:39 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 13:02:39 2012 :: Log man shepherd: emote wonders.
+Wed Nov 14 13:02:45 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 13:02:45 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 13:02:45 2012 :: Log sea witch angelic: say There are some treats inside the chest.
+Wed Nov 14 13:02:45 2012 :: Log sea witch angelic: say Try one if you like.  
+Wed Nov 14 13:02:45 2012 :: Log man shepherd: emote wonders.
+Wed Nov 14 13:02:51 2012 :: Log hungry wolf: emote moves here and there in search for food.
+Wed Nov 14 13:02:51 2012 :: Log hungry wolf: emote moves here and there in search for food.
+Wed Nov 14 13:02:51 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:02:51 2012 :: Log cat: purr
+Wed Nov 14 13:02:57 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 13:03:03 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Wed Nov 14 13:03:03 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 13:03:03 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 13:03:03 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:03:03 2012 :: Log sea witch angelic: say There are some treats inside the chest.
+Wed Nov 14 13:03:03 2012 :: Log sea witch angelic: say Try one if you like.  
+Wed Nov 14 13:03:09 2012 :: Log dwarf: emote starts to sing "GOLD! GOLD GOLD! GOLD!
+Wed Nov 14 13:03:09 2012 :: Log sentinel kratas: scan
+Wed Nov 14 13:03:09 2012 :: Log beggar: say Alms for the poor!
+Wed Nov 14 13:03:09 2012 :: Log cat: purr

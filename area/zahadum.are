@@ -1,0 +1,2046 @@
+#AOD_AREA
+Kor'Zahadum*~
+4400 4499 0 8
+Levl 55 75
+Bldr Tziru~
+Alig G
+End
+
+#MOBILES
+#4401
+The Warden~
+The Warden~
+The cell warden is here, guarding the cells.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B 0 H -1000 0
+80 136 0 5036 5798 5247 5850 16 19 135 bite
+-252 -250 -248 -227
+STANDING STANDING neutral 3098
+76 warrior medium ABCDEFGHIJK
+P 12 0
+S 'roundhouse' 0
+
+#4402
+Prisoner~
+a prisoner~
+A prisoner stands here, sobbing to himself.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B d H 1000 0
+65 132 0 3986 4445 3609 4493 12 12 106 none
+-150 -199 -203 -201
+STANDING STANDING neutral 1878
+78 warrior medium ABCDEFGHIJK
+P 15 0
+S 'roundhouse' 0
+
+#4403
+Item Holder~
+an item holder~
+An item holder is glaring at you.
+~
+Tired guest is here just waiting to get some sleep.
+~
+human~
+0 100 0 150 50 100 50 100 100 100 150 150 150 100 0 100 100 50 150 100 100 100 100 100 100 100 
+BO 0 0 0 0
+70 111 0 4223 4804 4093 4554 15 16 150 beating
+-173 -166 -173 -161
+STANDING STANDING male 2867
+74 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#4404
+Undead Courtier~
+Undead Courtier~
+A courtier of the King is here.
+~
+An undead courtier looks at you with dismay.
+~
+human~
+100 100 0 150 100 100 50 100 50 100 100 150 100 100 100 100 100 100 100 100 150 100 100 100 100 100 
+B V 0 -1000 0
+70 105 0 3396 3866 3548 3716 12 13 110 none
+-146 -165 -151 -159
+RESTING STANDING neutral 1979
+72 warrior medium ABCDEFGHIJK
+P 51 1
+S 'roundhouse' 0
+
+#4405
+Kings Slave~
+A kings slave~
+One of the kings slaves is standing here.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B 0 0 0 0
+56 61 0 2445 2986 2500 2783 9 8 66 beating
+-92 -138 -143 -104
+STANDING STANDING neutral 1220
+70 warrior medium ABCDEFGHIJK
+P 56 0
+S 'roundhouse' 0
+
+#4406
+Undead Shopkeeper keeper~
+Undead Shopkeeper~
+An undead shopkeeper stands here, glaring at you.
+~
+He shows you his fangs.
+~
+human~
+100 50 0 150 100 150 100 100 0 150 100 100 150 100 100 100 100 100 100 0 100 100 100 100 100 100 
+BO DEFG H -1000 0
+50 63 0 2692 2755 2430 2775 10 10 76 flbite
+-101 -126 -129 -112
+STANDING STANDING neutral 1441
+70 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#4407
+Guardian Necrolisk~
+A Guardian Necrolisk~
+A guardian undead creature is here, guarding the castle.
+~
+A scary huge undead lurker is guarding the castle.
+~
+human~
+100 100 50 150 100 100 150 100 50 100 150 100 150 100 100 100 100 50 100 100 100 100 100 100 100 100 
+B V HJN 1000 0
+84 126 0 4821 5971 5276 5663 18 20 136 flbite
+-188 -196 -229 -238
+STANDING STANDING female 3252
+76 warrior medium ABCDEFGHIJK
+P 31 2
+S 'roundhouse' 0
+
+#4408
+Wandering Zombie~
+A wandering zombie~
+A wandering zombie roams around here, grunting noises.
+~
+~
+human~
+100 100 100 150 100 100 50 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+O d 0 -700 0
+58 79 0 2834 3376 2979 3117 11 11 74 acbite
+-120 -162 -110 -145
+STANDING STANDING neutral 1896
+70 warrior medium ABCDEFGHIJK
+P 87 1
+S 'roundhouse' 0
+
+#4409
+Vampire~
+A vampire~
+A vampire stands here, drink his blood.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B 0 HJ 0 0
+69 85 0 3321 3936 3313 3727 10 13 94 acbite
+-160 -183 -196 -182
+STANDING STANDING neutral 1640
+72 warrior medium ABCDEFGHIJK
+P 26 0
+S 'roundhouse' 0
+
+#4410
+undead ghoul~
+A ghoul~
+A ghoul stands here, waiting for someone to eat.
+~
+A large transculent figure stands here.
+~
+human~
+100 100 100 150 100 100 50 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+F TUV 0 -1000 0
+55 25 0 990 1136 968 1143 3 3 36 wrath
+-58 -44 -45 -40
+STANDING STANDING male 717
+66 warrior medium ABCDEFGHIJK
+P 31 0
+S 'roundhouse' 0
+
+#4411
+Waiter~
+A waiter~
+An undead waiter is serving people here.
+~
+Lonely soul sits here waiting to be rescued by a special god.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B DEFKQ 0 -1000 0
+55 20 0 701 737 667 747 2 2 20 wrath
+-27 -28 -29 -29
+STANDING STANDING neutral 372
+65 warrior medium ABCDEFGHIJK
+P 27 0
+S 'roundhouse' 0
+
+#4412
+The Undead Cook~
+The undead Cook~
+A cook screams "Get the hell out of my Kitchen!"
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BF V 0 -1000 0
+60 35 0 1242 1494 1342 1396 4 4 30 drain
+-66 -75 -62 -68
+STANDING STANDING neutral 647
+67 warrior medium ABCDEFGHIJK
+P 14 0
+S 'roundhouse' 0
+
+#4413
+security guard creature zombie~
+A security guard~
+A zombie creature stands here, securing the area.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B Jc 0 -1000 0
+65 38 0 1121 1261 1125 1312 4 4 29 wrath
+-50 -52 -64 -43
+STANDING STANDING male 755
+66 warrior medium ABCDEFGHIJK
+P 17 0
+S 'roundhouse' 0
+
+#4414
+Grueling Zombie~
+A grueling zombie~
+A Grueling zombie screams and attacks!
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BF QV 0 -1000 0
+60 26 0 1076 1225 1093 1172 3 3 39 bite
+-48 -44 -43 -63
+STANDING STANDING male 670
+66 warrior medium ABCDEFGHIJK
+P 39 0
+S 'roundhouse' 0
+
+#4415
+Giant Zombie Dragon~
+A giant zombie dragon~
+A huge undead dragon is here, flaming through his nostrils.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BF TV 0 0 0
+70 56 0 1647 1800 1717 1883 6 5 42 flbite
+-87 -99 -78 -71
+STANDING STANDING neutral 913
+68 warrior huge ABCDEFGHIJK
+P 15 0
+S 'roundhouse' 0
+
+#4416
+Royal Servant~
+Royal Servant~
+A royal servant of the undead is here, charmed.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+C S 0 -1000 0
+58 21 0 719 733 709 739 2 2 19 none
+-33 -38 -36 -29
+STANDING STANDING neutral 353
+65 warrior medium ABCDEFGHIJK
+P 56 0
+S 'roundhouse' 0
+
+#4417
+Undead Cleric~
+An undead cleric~
+An undead cleric is here, granting spells to all who dwell.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+Za JU 0 0 0
+67 41 0 1661 1847 1628 1807 5 5 56 none
+-75 -85 -67 -71
+STANDING STANDING neutral 1122
+68 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#4418
+Guardian of the Throne~
+The Guardian 0f The Throne~
+A guardian of the throne stands proud and erect.
+~
+6"8in 250pounds and all solid muslce.
+Huge body guard for the princess that is just beyond the door.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BF Vc 0 -1000 0
+78 44 0 1574 1795 1461 1692 5 5 47 crush
+-89 -71 -75 -76
+STANDING STANDING male 987
+67 warrior medium ABCDEFGHIJK
+P 41 0
+S 'roundhouse' 0
+
+#4419
+Royal Advisor~
+A royal advisor~
+A royal advisor stands here 'advising'.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B JU 0 -1000 0
+64 61 0 1722 2097 1789 1898 7 6 63 none
+-99 -84 -97 -76
+STANDING STANDING neutral 1111
+68 warrior medium ABCDEFGHIJK
+P 37 0
+S 'roundhouse' 0
+
+#4420
+small mucky blob~
+a small mucky blob~
+A small blob is sliding around here.
+~
+~
+human~
+100 100 100 150 100 150 100 100 150 100 150 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B V 0 -1000 0
+60 37 0 1288 1460 1238 1351 3 3 31 typo
+-72 -61 -71 -70
+STANDING STANDING neutral 766
+67 warrior medium ABCDEFGHIJK
+P 14 0
+S 'roundhouse' 0
+
+#4421
+Undead Knight~
+Undead Knight~
+An Undead Knight protects the undead.
+~
+Tired guest is here just waiting to get some sleep.
+~
+human~
+100 100 100 150 50 100 50 100 100 100 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100 100 
+B 0 0 -1000 0
+58 49 0 1880 2172 1861 2074 5 6 55 wrath
+-77 -73 -101 -102
+STANDING STANDING male 1059
+68 warrior medium ABCDEFGHIJK
+P 51 0
+S 'roundhouse' 0
+
+#4422
+Undead mage~
+undead mage~
+A mage stands here, practicing his spells.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 150 150 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B UV 0 -1000 0
+59 43 0 1566 1691 1568 1758 4 4 49 none
+-57 -79 -57 -59
+STANDING STANDING neutral 750
+67 warrior medium ABCDEFGHIJK
+P 16 0
+S 'roundhouse' 0
+
+#4423
+Queen Necrolisk~
+Queen Necrolisk~
+The queen of the undead is here.
+~
+~
+human~
+100 100 100 150 100 100 50 100 100 100 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B JV 0 -1000 0
+70 62 0 2027 2422 2133 2461 8 8 55 wrath
+-85 -114 -113 -107
+STANDING STANDING neutral 1425
+69 warrior medium ABCDEFGHIJK
+P 19 0
+S 'roundhouse' 0
+
+#4424
+King Necrolisk~
+King Necrolisk~
+King Necrolisk stands by his throne.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B U 0 -1500 0
+80 68 0 2464 2535 2498 2744 8 9 63 none
+-137 -96 -87 -113
+STANDING STANDING neutral 1604
+69 warrior medium ABCDEFGHIJK
+P 21 0
+S 'roundhouse' 0
+
+#4425
+Commander ZarDan~
+Commander ZarDan~
+Commander ZarDan stands here, fishing out orders.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B V 0 -1000 0
+80 48 0 1616 1801 1797 1828 5 5 48 slash
+-69 -89 -88 -63
+STANDING STANDING neutral 1181
+68 warrior medium ABCDEFGHIJK
+P 6 0
+S 'roundhouse' 0
+#0
+
+#OBJECTS
+#4401
+Dungeon Light~
+a dungeon light~
+A small flare is glaring here.~
+light A AQ
+0 0 999 0 0
+40 3 2375
+A 19 4
+A 18 4
+
+#4403
+dragon wing~
+{rA Delicate {GDragon {BWing{x~
+A delicate dragon wing lies here~
+furniture I AQ
+1 1000 EHKN 53 53
+1 13 50
+
+#4404
+Magic Hover Pack~
+{rMagic {bHover {gPack {m:){x~
+A magic pack is hovering here.~
+container ABIMY AQ
+5000 A 0 5000 10
+10 60 50
+
+#4406
+fangs vampire~
+a set of bloody fangs~
+A set of bloody fangs lie here.~
+armor JM AR
+8 9 7 7 0
+22 23 3500
+A 19 2
+A 1 1
+
+#4407
+Vampire Cape~
+a vampire cape~
+A vampire cape is lieing here, phasing in and out, from light and dark.~
+armor A AKL
+11 11 10 10 0
+30 31 4000
+A 1 1
+A 2 1
+A 19 2
+
+#4408
+fountain~
+a fountain of blood~
+A fountain of blood is here, feeding the vampire.~
+fountain X P
+-1 -1 'blood' 0 0
+0 400 1
+
+#4410
+Rigged Off White Sword~
+a rigged off white sword~
+A cream like sword is here, glowing darkly.~
+weapon AC AN
+sword 8 7 slash 0
+25 26 1720
+A 18 2
+A 19 1
+
+#4411
+blood in a champagne glass.~
+blood in a champagne glass~
+A champagne glass is here and it holds red liquid.~
+drinkcontainer 0 AO
+4 4 'blood' 0 0
+30 10 1200
+A 3 2
+A 5 1
+
+#4412
+Floating Transculent Ball~
+a floating transculent ball~
+A small ball is here, waiting to spark at something.~
+weapon C AN
+exotic 9 9 crush CG
+37 38 2405
+A 3 -1
+A 19 4
+A 18 2
+
+#4413
+serving tray~
+a serving tray~
+A tray is here, with some dirty food stuck to it.~
+treasure ABF AO
+0 0 0 0 0
+29 50 5000
+A 1 -2
+A 19 1
+A 5 1
+
+#4414
+Cooking Band~
+a cooking band~
+A cooking band is here, protecting someones wrists from burning~
+armor B AM
+8 8 7 7 0
+21 22 2423
+A 19 3
+A 18 2
+
+#4415
+Security specticals~
+some security specticals~
+A pair of old glasses are here.~
+armor B AE
+14 14 13 11 0
+32 33 400
+A 3 1
+A 18 3
+A 19 2
+A 4 1
+
+#4416
+Undead Dragon Hide~
+an undead dragon's hide~
+The great hide of the undead dragon is here.~
+armor EJY AD
+13 15 15 14 0
+40 41 3534
+A 18 4
+A 19 4
+A 13 25
+
+#4417
+a long table dining~
+a long table~
+A dining table is here, filled with food.~
+furniture ABI 0
+2 -1 0 50 50
+0 500 0
+
+#4418
+Undead Cloak of Guarding~
+undead Cloak of Guarding~
+A cloak is here, with an odd symbol on it.~
+armor E AC
+13 20 13 18 0
+40 41 3725
+A 2 -1
+A 1 1
+A 19 4
+A 18 3
+
+#4419
+Wise Sceptre~
+a wise sceptre~
+A sceptre of wisdom hums.~
+armor B AO
+20 17 21 15 0
+45 46 700
+A 13 -25
+A 4 3
+A 19 4
+A 18 4
+
+#4420
+Mask of Magic~
+a Mask of Magic~
+A mask of magic glows softly~
+armor B AR
+13 12 13 12 0
+35 36 6000
+A 12 40
+A 13 -20
+A 18 5
+A 19 3
+
+#4421
+Queens Crown~
+the queens crown~
+A crown is here with an odd symbol on it.~
+armor 0 AE
+17 17 18 16 0
+45 46 3442
+A 12 10
+A 19 3
+A 18 4
+
+#4422
+Ring of the King~
+ring of the King~
+A ring is humming here, looks very rare.~
+armor 0 AB
+17 16 20 16 0
+45 46 11041
+A 1 -2
+A 4 2
+A 3 1
+A 19 3
+A 18 3
+
+#4423
+Sword of ZarDan~
+the Sword of ZarDan~
+The Sword of ZarDan hums here, silently.~
+weapon B AN
+sword 9 9 cleave C
+40 41 2510
+A 19 3
+A 18 3
+
+#4426
+The Finger Trap~
+{r-{R={GT{gh{Ge{g F{Gi{gn{Gg{ge{Gr{g T{Gr{ga{Gp{R={r-{x~
+AHHHHH!!! You have the finger trap, NOOOOO!!~
+treasure NU A
+0 0 0 0 0
+1 0 5
+
+#4427
+a rqp roleqp quest point~
+{Wa RoleQp{x~
+RoleQp: Wear me, Remove me, Eat me.~
+pill U AO
+1 '' '' '' ''
+1 0 5
+
+#4428
+Portal Ready Room Freeze Tag~
+a portal~
+A portal to the freeze tag ready room is here.~
+portal AB 0
+900 A A 4450 0
+1 10 10
+
+#4429
+Portal freeze tag ready room~
+a portal~
+A portal to the freeze tag ready room is here.~
+portal 0 0
+900 0 0 4450 0
+1 1 1
+
+#4430
+Vampire eyes~
+vampire Eyes~
+Vampire eyes are here.~
+armor B AR
+6 5 5 5 0
+15 16 2021
+A 18 1
+A 4 2
+A 19 -1
+A 5 2
+A 3 2
+
+#4431
+A Sweet Tart Heart~
+{rA Sweet Tart Heart!{x~
+A Sweet Tart Heart is here.~
+pill 0 A
+15 'shockshield' 'iceshield' 'fireshield' 'sanctuary'
+0 0 1
+
+#4434
+Big Comfy Couch~
+a big comfy couch~
+A big comfy couch is here.~
+furniture A 0
+2 10000 EHK 53 53
+1 1 228
+
+#4450
+Portal Ready Room Freeze Tag~
+a portal~
+A portal out of freeze tag is here.~
+portal AB 0
+500000 A A 3700 0
+1 10 10
+
+#4497
+Token of Restore~
+(no short description)~
+(no description)~
+trash 0 A
+0 0 0 0 0
+0 0 0
+
+#4498
+Small Black Box~
+{WSmall Black Box{x~
+A small {Wblack {xbox is here screaming "pick me up!"~
+trash 0 AO
+0 0 0 0 0
+0 0 5
+
+#4499
+Token of spell up~
+a {YToken {Wof {GSpell {WUp{x~
+A wandering zombe roams around here, grunting noises.~
+pill ABCEG AO
+16 'iceshield' 'fireshield' 'sanctuary' 'haste'
+1 0 50
+#0
+
+#ROOMS
+#4400
+Entrance to Kor'Zahadum~
+As you stand watching the castle a shock of fear runs down your
+back.  You feel as if you have just entered a realm with an aura
+darker than death.  Next to the door, you see a small sign.  It
+reads "Welcome to Zor'ZahaDum, the castle of King Necrolisk, a..."
+.  The rest of the sign is ripped off.  Wonder what it says?  The
+Eastern road is to the south out of this mysterious place.  
+~
+4 5
+D0
+~
+~
+0 0 4402
+D2
+~
+~
+0 0 3528
+S
+
+#4401
+Hall Of Heroes~
+On the walls all through these halls there is paintings of great heroes.
+You notice a few of the great people painted in the portrait...
+Obvious exits are Down, North.
+~
+32772 0
+S
+
+#4402
+A dark hallway.~
+{xAs you walk through the dark hallway you can see pictures on the
+walls, that look like their staring at you.  There is a small flickering
+light above you.  There is a door to the east and west, the entrance is
+south of you.
+~
+0 0
+D0
+~
+~
+0 0 4405
+D1
+~
+~
+0 0 4407
+D2
+~
+~
+0 0 4400
+D3
+~
+~
+A 0 4404
+S
+
+#4404
+Dimly lit room.~
+{xYou have entered a small room.  There is a small table, a little candle
+and a wooden bed.  A plaque is on the wall that states "Undead Courtiers". 
+{x 
+~
+0 0
+D1
+~
+~
+A 0 4402
+S
+
+#4405
+A dark hallway.~
+{x{x {x {xAs you walk through the dark hallway you can see pictures on
+the walls, that look like their staring at you.  There is a small flickering
+light above you.  There is a door to the west, the entrance is way south. 
+~
+1 0
+D0
+~
+~
+0 0 4408
+D2
+~
+~
+0 0 4402
+D3
+~
+~
+A 0 4406
+S
+
+#4406
+A small shop.~
+This odd room contains many books and shelves filled with things that the
+undead love to use.  There are fangs, books, glasses, kegs of blood... 
+Practically everything an undead person needs.  The shopkeeper peers at you.
+~
+0 0
+D1
+~
+~
+A 0 4405
+S
+
+#4407
+Slaves room~
+Looks like this is the room of the slaves, the conditions are very poor
+in here, as there is a small candle on a desk.  
+~
+0 0
+D3
+~
+~
+0 0 4402
+S
+
+#4408
+An intersection in the hallway.~
+{xAs you walk through the hallway you come to an intersection, there is a
+wierd symbol on the floor of the intersection.  You can hear sounds all
+through the walls from here.  {x 
+~
+0 0
+D0
+~
+~
+A 0 4416
+D1
+~
+~
+0 0 4419
+D2
+~
+~
+0 0 4405
+D3
+~
+~
+0 0 4417
+S
+
+#4409
+Tag Arena~
+~
+8196 0
+D0
+~
+~
+0 0 4449
+D2
+~
+~
+0 0 4473
+S
+
+#4410
+Blood Room.~
+As you walk into this room you see buckets of blood all over, many undead
+lurkers seem to be drinking out of them...  You barely can see the end of
+this huge room of blood.  
+~
+4 0
+D1
+~
+~
+0 0 4462
+S
+
+#4411
+Reviving Room~
+This room is filled with a golden aura, a very strange place for a castle
+with a dark heart, seems like a undead cleric is healing you here.  
+~
+1024 0
+D3
+~
+~
+0 0 4461
+S
+
+#4412
+Winners Circle!~
+Congrats, you have entered the Winners Circle, prepare to recieve you
+prize!  
+~
+4 0
+S
+
+#4413
+Tag Arena~
+~
+8196 0
+D1
+~
+~
+0 0 4414
+D2
+~
+~
+0 0 4451
+S
+
+#4414
+Tag Arena~
+~
+4 0
+D1
+~
+~
+0 0 4455
+D3
+~
+~
+0 0 4413
+S
+
+#4415
+Tag Arena~
+~
+8196 0
+D3
+~
+~
+0 0 4474
+S
+
+#4416
+Entrance to the Northern Wing.~
+{xAs you pass the intersection to the south, you see a sign at the
+ceiling that says northern wing on it.  You feel a darker aura surrounding
+you now.  {x 
+~
+4 0
+D0
+~
+~
+0 0 4418
+D2
+~
+~
+A 0 4408
+S
+
+#4417
+Western hallway.~
+{xAs you walk around here you see many undead soldiers roaming around the
+castle.  They all glare at you like your an outsider.  A feeling of fear
+rides down your spine.  {x 
+~
+4 0
+D1
+~
+~
+0 0 4408
+D3
+~
+~
+0 0 4435
+S
+
+#4418
+The Northern Wing~
+As you enter the northern wing you see much more royalty along the walls
+and many more jewels around the lights above you...  Seems like you've
+reached the royalty wing of the undead.  
+~
+4 0
+D0
+~
+~
+0 0 4420
+D2
+~
+~
+0 0 4416
+S
+
+#4419
+Eastern Hallway.~
+You have entered the eastern part of the castle.  You see many more
+pictures along the wall that seem to be staring at you...  You start to get
+very nervous.  
+~
+4 0
+D1
+~
+~
+0 0 4421
+D3
+~
+~
+0 0 4408
+S
+
+#4420
+End of the Northern Wing~
+As you enter walk more through the hall you see a giant door to the north
+of you, it seems as though this is the door to the throne rooms...  To the
+east is another hallway and to the west is a small room.  
+~
+4 0
+D0
+~
+~
+0 0 4445
+D1
+~
+~
+0 0 4439
+D2
+~
+~
+0 0 4418
+D3
+~
+~
+A 0 4438
+S
+
+#4421
+Eastern Hallway.~
+You keep on walking through the eastern hallway.  To the east you see a
+grand hall with loud noise coming from it.  Maybe this castle isn't as
+haunted as you think it is.  
+~
+4 0
+D1
+~
+~
+0 0 4422
+D3
+~
+~
+0 0 4419
+S
+
+#4422
+Ballroom~
+You feel a more cheerfulness in this ballroom, the lights are on and you
+can actually see where your walking.  The undead creatures glare at you. 
+Looks like their gonna eat you.  
+~
+4 0
+D0
+~
+~
+0 0 4423
+D1
+~
+~
+0 0 4426
+D2
+~
+~
+0 0 4424
+D3
+~
+~
+0 0 4421
+S
+
+#4423
+Ballroom~
+You feel a more cheerfulness in this ballroom, the lights are on and you
+can actually see where your walking.  The undead creatures glare at you. 
+Looks like their gonna eat you.  
+~
+4 0
+D1
+~
+~
+0 0 4425
+D2
+~
+~
+0 0 4422
+S
+
+#4424
+Ballroom~
+You feel a more cheerfulness in this ballroom, the lights are on and you
+can actually see where your walking.  The undead creatures glare at you. 
+Looks like their gonna eat you.  
+~
+4 0
+D0
+~
+~
+0 0 4422
+D1
+~
+~
+0 0 4427
+S
+
+#4425
+Ballroom~
+You feel a more cheerfulness in this ballroom, the lights are on and you
+can actually see where your walking.  The undead creatures glare at you. 
+Looks like their gonna eat you.  
+~
+4 0
+D1
+~
+~
+0 0 4430
+D2
+~
+~
+0 0 4426
+D3
+~
+~
+0 0 4423
+S
+
+#4426
+Center of the Ballroom~
+You seem to be in the center of the undead ballroom.  All the undead
+glare at you with disrespect.  Some look like their about to eat you.  I
+would watch out.  
+~
+4 0
+D0
+~
+~
+0 0 4425
+D1
+~
+~
+0 0 4429
+D2
+~
+~
+0 0 4427
+D3
+~
+~
+0 0 4422
+D4
+~
+~
+0 0 4431
+S
+
+#4427
+Ballroom~
+You feel a more cheerfulness in this ballroom, the lights are on and you
+can actually see where your walking.  The undead creatures glare at you. 
+Looks like their gonna eat you.  
+~
+4 0
+D0
+~
+~
+0 0 4426
+D1
+~
+~
+0 0 4428
+D3
+~
+~
+0 0 4424
+S
+
+#4428
+Ballroom~
+You feel a more cheerfulness in this ballroom, the lights are on and you
+can actually see where your walking.  The undead creatures glare at you. 
+Looks like their gonna eat you.  
+~
+4 0
+D0
+~
+~
+0 0 4429
+D3
+~
+~
+0 0 4427
+S
+
+#4429
+Ballroom~
+You feel a more cheerfulness in this ballroom, the lights are on and you
+can actually see where your walking.  The undead creatures glare at you. 
+Looks like their gonna eat you.  
+~
+4 0
+D0
+~
+~
+0 0 4430
+D2
+~
+~
+0 0 4428
+D3
+~
+~
+0 0 4426
+S
+
+#4430
+Ballroom~
+You feel a more cheerfulness in this ballroom, the lights are on and you
+can actually see where your walking.  The undead creatures glare at you. 
+Looks like their gonna eat you.  
+~
+4 0
+D2
+~
+~
+0 0 4429
+D3
+~
+~
+0 0 4425
+S
+
+#4431
+The second floor of the Knights Tower~
+As you walk up the stairs you see 2 rooms to the west and the east.  The
+stairway continues to the up.  
+~
+4 0
+D1
+~
+~
+0 0 4433
+D3
+~
+~
+0 0 4434
+D4
+~
+~
+A 0 4432
+D5
+~
+~
+0 0 4426
+S
+
+#4432
+Commander ZarDan's Room~
+As you enter the room you feel an aura of darkness.  The room is filled
+with many blades and different types of armors.  The commanders bed has nice
+silk lining on it.  
+~
+4 0
+D5
+~
+~
+A 0 4431
+S
+
+#4433
+Knights Room~
+As you enter this room, you see that there are many undead warriors
+roaming the room, there are about 4 beds in the corners and a few cabinets. 
+A lamp floats above you.  
+~
+4 0
+D3
+~
+~
+0 0 4431
+S
+
+#4434
+Knights Room~
+As you enter this room, you see that there are many undead warriors
+roaming the room, there are about 4 beds in the corners and a few cabinets. 
+A lamp floats above you.  
+~
+4 0
+D1
+~
+~
+0 0 4431
+S
+
+#4435
+End of the western hallway.~
+As you walk more to the west of the hallway you see that many undead
+soldiers are roaming around, it seems as though there is a stairway to the
+south, and some steaming noise to the north.  
+~
+4 0
+D0
+~
+~
+0 0 4436
+D1
+~
+~
+0 0 4417
+D2
+~
+~
+0 0 4446
+S
+
+#4436
+Kitchen~
+As you enter the kitchen you see many blood pot pies being made here in
+the ovens.  The cooks and waiters give you a wierd look.  
+~
+4 0
+D0
+~
+~
+0 0 4437
+D2
+~
+~
+0 0 4435
+S
+
+#4437
+Kitchen~
+As you walk deeper into the kitchen, you see more stoves and grills to
+make more blood pot pies in...  What a wierd kitchen.  
+~
+4 0
+D2
+~
+~
+0 0 4436
+S
+
+#4438
+Security Guard room~
+This room is filled with many magic mirrors showing place all around the
+castle, so that the security guard can watch for intruders, and catch where
+they are.  
+~
+4 0
+D1
+~
+~
+A 0 4420
+S
+
+#4439
+Hallway to the catacombs~
+You enter the catacombs with great fear of an attacking zombie.  There
+are many coffins to the sides of the catacombs.  The room has a small light
+above it, the walls are a dark shade of grey.  
+~
+4 0
+D1
+~
+~
+0 0 4440
+D3
+~
+~
+0 0 4420
+S
+
+#4440
+Through the catacombs~
+As you walk through the catacombs you see more graves to the north an d
+the south...  Seems like you hear moaning noise around there.  The room has
+a small light above it, the walls are a dark shade of grey.  
+~
+4 0
+D0
+~
+~
+0 0 4441
+D1
+~
+~
+0 0 4443
+D2
+~
+~
+0 0 4442
+D3
+~
+~
+0 0 4439
+S
+
+#4441
+A dark grave~
+As you enter the grave you see that there are many skulls and skeletons
+lying on the floor, like someone devoured a corpse and left the remains.  
+~
+4 0
+D2
+~
+~
+0 0 4440
+S
+
+#4442
+A dark grave~
+As you enter the grave you see that there are many skulls and skeletons
+lying on the floor, like someone devoured a corpse and left the remains.  
+~
+4 0
+D0
+~
+~
+0 0 4440
+S
+
+#4443
+Through the catacombs~
+You continue through the catacombs, you see a dark gloomy door to the
+east the door is surrounded by a fiery aura, something dangerous must be
+behind that door.  The room has a small light above it, the walls are a dark
+shade of grey.  
+~
+4 0
+D1
+~
+~
+0 0 4444
+D3
+~
+~
+0 0 4440
+S
+
+#4444
+Zombie Dragon's Domain~
+You enter the fiery room as you see nothing but red and bright orange. 
+The room smells very bad and you want to flee right away.  Something tells
+you this isn't a very safe room.  
+~
+4 0
+D3
+~
+~
+0 0 4443
+S
+
+#4445
+The Tower of the Undead Throne~
+As you enter this room, you find that there are many servants and slaves
+awaiting the kings arrival.  There are also many guards glaring at you
+making sure that you are not an intruder.  
+~
+4 0
+D0
+~
+~
+0 0 4456
+D1
+~
+~
+0 0 4457
+D2
+~
+~
+0 0 4420
+D3
+~
+~
+0 0 4458
+S
+
+#4446
+A small stairway~
+~
+4 0
+D0
+~
+~
+0 0 4435
+D5
+~
+~
+0 0 4447
+S
+
+#4447
+Entrance to the Dungeons~
+Welcome to the Dungeons.  There is a small table for the guard to sit in,
+and to the east is the dungeons.  
+~
+4 0
+D1
+~
+~
+0 0 4448
+D4
+~
+~
+0 0 4446
+S
+
+#4448
+In the Dungeons~
+As you enter the dungeons you hear the cries of the prisoners, seems as
+though they treat them real bad down here.  
+~
+4 0
+D0
+~
+~
+A 0 4452
+D1
+~
+~
+0 0 4454
+D2
+~
+~
+A 0 4453
+D3
+~
+~
+0 0 4447
+S
+
+#4449
+Tag Arena~
+~
+4 0
+D2
+~
+~
+0 0 4409
+D5
+~
+~
+0 0 4455
+S
+
+#4450
+|+|~
+Welcome to the Ready Room.  
+~
+1028 0
+S
+
+#4451
+Tag Arena~
+~
+8196 0
+D0
+~
+~
+0 0 4413
+D4
+~
+~
+0 0 4499
+S
+
+#4452
+Dungeon~
+You enter the prison cell and see a small ledge for the prisoner to sit
+in, barely any light is in the room 
+~
+4 0
+D2
+~
+~
+A 0 4448
+S
+
+#4453
+Dungeon~
+You enter the prison cell and see a small ledge for the prisoner to sit
+in, barely any light is in the room 
+~
+4 0
+D0
+~
+~
+A 0 4448
+S
+
+#4454
+Dungeon~
+You enter the prison cell and see a small ledge for the prisoner to sit
+in, barely any light is in the room 
+~
+4 0
+D3
+~
+~
+0 0 4448
+S
+
+#4455
+Tag Arena~
+~
+4 0
+D3
+~
+~
+0 0 4414
+D4
+~
+~
+0 0 4449
+S
+
+#4456
+The stairs~
+As you come to the north end of the grand lobby, you see a giant
+stairway.  The stairway is guarded by small necrolisks.  
+~
+4 0
+D1
+~
+~
+0 0 4460
+D2
+~
+~
+0 0 4445
+D3
+~
+~
+0 0 4459
+D4
+~
+~
+0 0 4461
+S
+
+#4457
+Royal Lobby~
+You seem to be under the tower of the royal undead rulers, seems as
+though you are being watched from the looks of the other undead creatures
+who lurk around 
+~
+4 0
+D0
+~
+~
+0 0 4460
+D3
+~
+~
+0 0 4445
+S
+
+#4458
+Royal Lobby~
+You seem to be under the tower of the royal undead rulers, seems as
+though you are being watched from the looks of the other undead creatures
+who lurk around 
+~
+4 0
+D0
+~
+~
+0 0 4459
+D1
+~
+~
+0 0 4445
+S
+
+#4459
+Royal Lobby~
+You seem to be under the tower of the royal undead rulers, seems as
+though you are being watched from the looks of the other undead creatures
+who lurk around 
+~
+4 0
+D1
+~
+~
+0 0 4456
+D2
+~
+~
+0 0 4458
+S
+
+#4460
+Royal Lobby~
+You seem to be under the tower of the royal undead rulers, seems as
+though you are being watched from the looks of the other undead creatures
+who lurk around 
+~
+4 0
+D2
+~
+~
+0 0 4457
+D3
+~
+~
+0 0 4456
+S
+
+#4461
+In the Royal Tower~
+~
+4 0
+D1
+~
+~
+0 0 4411
+D4
+~
+~
+0 0 4462
+D5
+~
+~
+0 0 4456
+S
+
+#4462
+In the Royal Tower~
+~
+4 0
+D3
+~
+~
+0 0 4410
+D4
+~
+~
+0 0 4463
+D5
+~
+~
+0 0 4461
+S
+
+#4463
+In the Royal Tower~
+~
+4 0
+D1
+~
+~
+A 0 4471
+D3
+~
+~
+A 0 4472
+D4
+~
+~
+0 0 4464
+D5
+~
+~
+0 0 4462
+S
+
+#4464
+In the Royal Tower~
+~
+4 0
+D1
+~
+~
+0 0 4469
+D3
+~
+~
+A 0 4470
+D4
+~
+~
+0 0 4465
+D5
+~
+~
+0 0 4463
+S
+
+#4465
+In the Royal Tower~
+~
+4 0
+D1
+~
+~
+A 0 4467
+D3
+~
+~
+A 0 4468
+D4
+~
+~
+0 0 4466
+D5
+~
+~
+0 0 4464
+S
+
+#4466
+Throne Room~
+You have entered the room of pure evil.  The throne room of the King of
+The Undead.  An earthquake of fear trembles inside of you.  The throne of
+the king makes you even more afraid.  
+~
+4 0
+D5
+~
+~
+0 0 4465
+S
+
+#4467
+Kings Quarters~
+As you walk into this room you see guards guarding the room, a royal bed
+lined with silk is to the side, there is a mirror and a small hot tub in the
+room.  
+~
+4 0
+D3
+~
+~
+A 0 4465
+S
+
+#4468
+Queens Quarters~
+As you enter the room, the guards give you an odd look, it looks like
+they don't want you here, there is a bed to towards the center of the room
+and a few cabinets on the walls.  Fit for a queen.  
+~
+4 0
+D1
+~
+~
+A 0 4465
+S
+
+#4469
+Royal Advisor's Quarters~
+The room is filled with hundreds of books of forgotten lore, and many
+types of equipment that the king may use.  There are three nice beds in the
+room and a few cabinets with a mirror.  
+~
+4 0
+D3
+~
+~
+0 0 4464
+S
+
+#4470
+Mage's Quarters~
+The room is filled with many potions and staffs that the mage must use
+when he is in need by the king.  This place is real wierd.  
+~
+4 0
+D1
+~
+~
+A 0 4464
+S
+
+#4471
+Royal Servants Quarters~
+This room has four beds in it, and a few cabinets, a small stove is to
+the center of the room, and there are a few fans and luxorious tools that
+the servants use to luxorize the king with.  
+~
+4 0
+D3
+~
+~
+A 0 4463
+S
+
+#4472
+Storage Room~
+You enter a small room that has many items stored in it, the room is very
+small and dark, not much to say about it.  
+~
+4 0
+D1
+~
+~
+A 0 4463
+S
+
+#4473
+Tag Arena~
+~
+8192 0
+D0
+~
+~
+0 0 4409
+D1
+~
+~
+0 0 4474
+D2
+~
+~
+0 0 4499
+S
+
+#4474
+Tag Arena~
+~
+8196 0
+D1
+~
+~
+0 0 4415
+D3
+~
+~
+0 0 4473
+S
+
+#4475
+Winners Circle!~
+Welcome to the Winners Circle, you must have won something really great. 
+Prepare to revieve your prize!!  
+~
+4 0
+S
+
+#4499
+Tag Arena~
+~
+8196 0
+D0
+~
+~
+0 0 4473
+D5
+~
+~
+0 0 4451
+S
+#0
+
+#RESETS
+M 100 4407 2 4400 2
+E 100 4410 0 16
+M 100 4408 6 4402 1
+M 100 4404 20 4404 4
+M 100 4406 2 4406 1
+G 100 4407 0
+G 100 4406 0
+G 100 4430 0
+M 100 4405 20 4407 5
+M 100 4408 6 4408 2
+M 100 4410 2 4410 1
+E 100 4410 0 8
+M 100 4417 1 4411 1
+M 100 4408 6 4418 1
+M 100 4408 6 4421 1
+M 100 4410 2 4422 1
+E 100 4412 0 16
+M 100 4409 4 4424 1
+E 100 4411 0 17
+M 100 4409 6 4425 1
+E 100 4411 0 17
+M 100 4409 4 4426 2
+E 100 4411 0 17
+M 100 4411 4 4426 1
+E 100 4413 0 17
+M 100 4409 4 4428 1
+E 100 4411 0 17
+M 100 4411 4 4428 1
+E 100 4413 0 17
+M 100 4410 2 4430 1
+E 100 4412 0 16
+M 100 4425 1 4432 1
+E 100 4423 0 16
+M 100 4421 7 4433 2
+M 100 4421 7 4434 3
+M 100 4408 6 4435 1
+M 100 4411 4 4436 2
+E 100 4413 0 17
+M 100 4412 1 4437 1
+E 100 4414 0 15
+M 100 4413 2 4438 2
+E 100 4415 0 6
+M 100 4414 4 4441 2
+M 100 4414 4 4442 2
+M 100 4415 1 4444 1
+E 100 4416 0 5
+M 100 4421 7 4445 1
+M 100 4401 1 4447 1
+E 100 4401 0 17
+M 100 4402 4 4448 1
+O 100 4434 0 4450
+O 100 4408 0 4450
+M 100 4402 4 4452 1
+M 100 4402 4 4453 1
+M 100 4402 4 4454 1
+M 100 4419 4 4456 1
+E 100 4419 0 17
+M 100 4421 7 4456 1
+M 100 4416 8 4457 1
+M 100 4416 8 4458 1
+M 100 4416 8 4459 1
+M 100 4416 8 4460 1
+M 100 4424 1 4466 1
+E 100 4422 0 1
+M 100 4418 2 4466 2
+E 100 4418 0 3
+M 100 4423 1 4468 1
+E 100 4421 0 6
+M 100 4419 4 4469 3
+E 100 4419 0 17
+M 100 4422 1 4470 1
+E 100 4420 0 20
+M 100 4416 8 4471 4
+M 100 4420 1 4472 1
+O 100 4434 0 4475
+S
+
+#SHOPS
+4406 5 9 0 0 0 85 100 0 24
+0
+
+#$

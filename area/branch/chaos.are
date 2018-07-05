@@ -1,0 +1,184 @@
+#AREADATA
+Name Chaos ~
+Builders Laniessa~
+VNUMs 29351 29400
+Credits [Clan Hall] Laniessa Chaos~
+Security 1
+End
+
+
+
+#MOBILES
+#29352
+Lazera~
+{DLa{Wze{wra {DS{Wi{wl{Dv{We{wr{DW{Wo{wl{Df{we{x~
+Lazera stands before you, an evil grin on his face as usual.
+~
+~
+human~
+AB 0 0 500 0
+160 1200 5d1000+1000000 1d1000+10000 2d800+10000 bite
+100 100 100 100
+FGK CDHJK 0 0
+stand stand male 100000
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#29353
+Manx~
+{DM{Wa{wn{Dx{x~
+{DM{Wa{wn{Dx{x is here ready to heal you.
+~
+Hired by Chaos to heal the diseases and plagues,
+that befall members of Chaos. Manx lives his life
+to heal the wounds and diseases of all those who enter.
+~
+human~
+ABZa DEFTV 0 500 0
+160 1200 10d1000+100000 10d1000+10000 10d1000+10000 bite
+110 110 110 110
+FGK CDHJNQ 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#29351
+Couch~
+a leather couch~
+At the far end of the wall, you see a black leather couch.~
+unknown~
+furniture AB 0
+10 10000 EHK 800 800
+160 100000 0 P
+#29352
+Chaotic Healing~
+{DC{Wh{wa{Do{Wt{wi{Dc H{We{wa{Dl{Wi{wn{Dg{x~
+{DA {Dc{Wh{wa{Do{Wt{wi{Dc {wp{Wi{Dl{wl {Dof {chealing {Yv{yi{wb{Yr{ya{Wt{ye{Ys{x {Dhere.{x~
+chaotic energy~
+pill ABef AO
+151 'cheal' 'cheal' '' ''
+1 0 10000 P
+#29353
+chaotic strength~
+{DC{Wh{wa{Do{Wt{wi{Dc S{Wt{wr{De{Wn{wg{Dt{Wh{x~
+{DA {Dc{Wh{wa{Do{Wt{wi{Dc {wp{Wi{Dl{wl {Dof {cStrength {Yv{yi{wb{Yr{ya{Wt{ye{Ys{x {Dhere.{x~
+unknown~
+pill ABYef AO
+151 'sanctuary' 'giant strength' 'haste' 'bless'
+1 0 10000 P
+#29354
+Chaotic Cure~
+{DC{Wh{wa{Do{Wt{wi{Dc {DC{Wu{wr{De{x~
+{DA {Dc{Wh{wa{Do{Wt{wi{Dc {wp{Wi{Dl{wl {Dof {ccures {Yv{yi{wb{Yr{ya{Wt{ye{Ys{x {Dhere.{x~
+unknown~
+pill ABYef AO
+151 'cure blindness' 'cure blindness' 'cancellation' 'cure disease'
+1 0 10000 P
+#29355
+Chaos patch~
+{DP{Wa{wt{Dc{Wh of {DC{Wh{wa{Wo{Ds{x~
+{DC{Wh{wa{Do{wt{Wi{Dc {Ye{yn{Ye{yr{Yg{yy{x {wv{Yi{Cb{wr{Ya{Ct{we{Ys{x {Df{Wr{wo{Dm {Dt{Wh{wi{Ds {Dp{Wa{wt{Dc{Wh.{x~
+unknown~
+armor ABef AU
+14 14 14 14 0
+1 0 20000 P
+A
+13 250
+A
+18 90
+A
+19 90
+A
+20 -80
+#0
+
+
+
+#ROOMS
+#29351
+{DP{Wl{wa{Dn{Wn{wi{Dn{Wg {wR{Do{Wo{wm{x~
+{DS{Wo{wu{Dn{Wd{ws {Do{Wf {wc{Dl{Wi{wn{Dk{Wi{wn{Dg {Darmor {Wa{wn{Dd {yrustling {Dof {ws{Wc{Cr{Do{wl{Wl{Cs{x {Dc{Wa{wn {Db{We {wh{De{Wa{wr{Dd {Wa{wl{Dl {Wa{wr{Do{Wu{wn{Dd.  {x
+{WT{wh{De {Wb{wu{Ds{Wy {ws{Do{Wu{wn{Dd{Ws {wo{Df {RM{ra{Wr{wk{re{Rt S{rq{Wu{wa{rr{Re {Dc{Wa{wn {Db{We {wh{De{Wa{wr{Dd {Wt{wo {Dt{Wh{we {Bw{best.  {x {DTh{Wis {wis {Dwh{Wer{we
+m{Dem{Wbe{wrs {Do{Wf {DC{Wh{wa{Do{ws {Wpl{Dan {Wth{wei{Dr s{Wtr{wat{Deg{Wy a{Wnd {Dta{Wct{Wic{Ds a{Wga{win{Dst {Wth{wei{Dr f{Woe{ws.  {x 
+~
+0 4 0
+D3
+~
+~
+0 0 3014
+D4
+~
+~
+0 0 29352
+C CHAOS~
+S
+#29352
+{DS{Wh{wo{Dp {Wo{wf {DC{Wh{wa{Do{Ws{x~
+{DRe{Wti{wre{Dd f{Wro{wm t{Dhe {War{wt {Dof {Rk{ri{Rl{rl{Ri{rn{Rg{x {DL{Wa{wz{De{Wr{wa {Dno{Ww s{wpe{Dnd{Ws h{wis {Dti{Wme {wcr{Dea{Wti{wng {Dpi{Wll{ws
+a{Dnd {Wot{whe{Dr w{War{wes {Dof {Wch{wao{Dti{Wc e{wne{Drg{Wie{ws.  {x {DBo{Wtt{wle{Ds, {Wba{wgs{D, s{Wcr{wol{Dls {Wan{wd m{Dap{Ws l{win{De
+t{Whe {wsh{Del{Wv{wes {Dof {Wth{wis {Dro{Wom {win {Da c{Wha{wot{Dic {Wma{wnn{Der.  {x 
+~
+0 0 0
+D4
+~
+~
+0 0 29353
+D5
+~
+~
+0 0 29351
+C CHAOS~
+S
+#29353
+{DHe{Wal{win{Dg C{Wha{wmb{Der{x~
+{DHe{Wal{win{Dg e{Wne{wrg{Die{Ws f{wil{Dl t{Whi{ws r{Doo{Wm g{wiv{Din{Wg a {wsl{Dig{Wht{wly {Dbu{Wzz{wed {Dfe{Wel{win{Dg.{x
+~
+0 0 0
+D5
+~
+~
+0 0 29352
+C CHAOS~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 29351 0 29351
+M 0 29352 1 29352 1
+G 0 29352 0
+G 0 29353 0
+G 0 29354 0
+G 0 29355 0
+M 0 29353 1 29353 1
+S
+
+
+
+#SHOPS
+29352 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

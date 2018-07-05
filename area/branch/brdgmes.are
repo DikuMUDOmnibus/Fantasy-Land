@@ -1,0 +1,3078 @@
+#AREADATA
+Name Board Games~
+Builders None~
+VNUMs 60100 60299
+Credits [100 130] Ramoth   Board Games~
+Security 9
+End
+
+
+
+#MOBILES
+#60100
+Red Poker Chip~
+{RPoker {8Chip{}~
+A funny looking {Rred{} round chip stands before you.
+~
+It's just a {Rred{} chip.
+~
+human~
+A DFT 0 -500 0
+140 55 15d1300+5000 20d50+50 19d10+250 pound
+-90 -90 -90 -87
+E G 0 0
+stand stand none 5000
+AHMV ABCDEFGHIJKP medium plastic
+#60101
+Blue Poker Chip~
+{BPoker {8Chip{}~
+A funny looking {Bblue{} round chip stands before you.
+~
+It's just a {Bblue{} chip.
+~
+human~
+A DFT 0 500 0
+140 55 15d1300+5000 25d50+50 19d10+250 pound
+-90 -90 -90 -87
+E G 0 0
+stand stand none 0
+AHMV ABCDEFGHIJKP medium plastic
+#60102
+White Poker Chip~
+Poker {8Chip{}~
+A funny looking white round chip stands before you.
+~
+It's just a {wwhite{} chip.
+~
+human~
+A DFT 0 0 0
+140 55 15d1300+5000 20d50+50 19d10+250 pound
+-90 -90 -90 -87
+E G 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJKP medium plastic
+#60103
+goldfish fish~
+{YGoldfish{}~
+A shimmering little {Yfish{} swims by.
+~
+Based on the marking, this looks to be a Japanese {YGoldfish{}.  
+~
+sea-elf~
+ABC Fb 0 250 0
+135 130 13d1300+4500 4d50+50 6d28+100 suction
+-80 -80 -80 -81
+0 0 IR HZ
+stand stand none 10
+AHMabc ABCDEFGHIJKQX medium glass
+#60104
+Colonel Mustard~
+{YColonel Mustard{}~
+{YColonel Mustard{} stands here looking for a book.
+~
+{YColonel Mustard{} fought in the Enlglish Royal Army in India.  He is a
+powerful commander who left his command under mysterious circumstances.  
+~
+human~
+ABT DFV 0 500 0
+142 300 15d1125+5200 10d50+50 19d9+252 blast
+-82 -80 -83 -82
+EFK AI P 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium glass
+#60105
+Mrs. Peacock~
+{BMrs. Peacock{}~
+{BMrs. Peacock{} stands at the window, staring into the woods.
+~
+{BMrs.  Peacock{} is here to "convince" Mr.  Boddy to sell the portions
+of his land that house some rare birds.  
+~
+human~
+ABQ DFV 0 500 0
+142 300 15d1125+5200 10d50+50 19d9+252 blast
+-82 -80 -83 -82
+EFK ABE P 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium glass
+#60106
+Monsieur Brunette~
+{yMonsieur Brunette{}~
+{yMonsieur Brunette{} is going through the Art History books.
+~
+The {yMonsieur{} is an established arts dealer who is here on "business"
+trying to sell some "art" to Mr.  Boddy.  
+~
+human~
+ABS DFV 0 500 0
+142 300 15d1125+5200 10d50+50 19d9+252 blast
+-82 -80 -83 -82
+EFK ABN P 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium glass
+#60107
+Madame Rose~
+{rMadame Rose{}~
+{rMadame Rose{} stands here examining the flowers.
+~
+The eccentric former secretary of Mr.  Boddy has become a medium of
+spirits.  Last week she "saw" Mr.  Boddy dying and is here to "save" him.  
+~
+human~
+ABR DFV 0 500 0
+142 300 15d1125+5200 10d50+50 19d9+252 blast
+-82 -80 -83 -82
+EFK ABH P F
+stand stand female 1000
+AHMV ABCDEFGHIJK medium glass
+#60108
+Professor Plum~
+{mProfessor Plum{}~
+{mProfessor Plum{} is studying one of the trophies.
+~
+Taking a break from heading the Archeology Department at the local
+university, {mProfessor Plum{} is here to convince Mr.  Boddy to fund his
+next bone-digging expedition.  He claims he knows just where to find a
+skeleton to rival the Piltdown Man.  
+~
+human~
+ABT DFV 0 500 0
+142 300 15d1125+5200 10d50+50 19d9+252 blast
+-82 -80 -83 -82
+EFK ABF P 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium glass
+#60109
+Miss Peach~
+Miss Peach~
+Miss Peach scratches a horse behind his ear.
+~
+Miss Peach is Mr.  Boddy's niece who came to visit him for her vacation. 
+No one knows if she is in the will or not.  
+~
+human~
+ABQ DFV 0 500 0
+142 300 15d1125+5200 10d50+50 19d9+252 blast
+-82 -80 -83 -82
+EFK ABM P 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium glass
+#60110
+Mrs. White~
+Mrs. White~
+Mrs. White is preparing dinner for the guests.
+~
+{wMrs.  White{} is the maid here and has worked for MR.  Boddy for as
+long as he can remember.  
+~
+human~
+AB DFV 0 500 0
+142 300 15d1125+5200 10d50+50 19d9+252 blast
+-82 -80 -83 -82
+EFK ABJ P 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium glass
+#60111
+Sgt. Grey~
+{8Sgt. Grey{}~
+{8Sgt. Grey{} is toying with a horseshoe he found on the coffee table.
+~
+This is one of the local town's law enforcement officers.  Because of Mr.
+Boddy's wealth and influence he travels out here every week just to check on
+things.  Maybe he didn't keep his eyes open on purpose.  
+~
+human~
+ABT DFV 0 500 0
+142 300 15d1125+5200 10d50+50 19d9+252 blast
+-82 -80 -83 -82
+EFK ABD P 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium glass
+#60112
+Mr. Green~
+{GMr. Green{}~
+{GMr. Green{} is hanging up his new coat.
+~
+{GMr.  Green{} is a wiz at numbers.  Rising quickly through the ranks, he
+is now a bank president and rumor has it runs a little "family" business on
+the side.  He has run into a small problem with another "family" and has
+come to Mr.  Boddy for some help.  
+~
+human~
+ABS DFV 0 500 0
+142 300 15d1125+5200 10d50+50 19d9+252 blast
+-82 -80 -83 -82
+EFK ABN P 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium glass
+#60113
+Miss Scarlet~
+{RMiss Scarlet{}~
+{RMiss Scarlet{} is sniffing the roses.
+~
+{RMiss Scarlet{} is a tiny asian woman.  Called the Mercenary of Macao
+(but never to her face) she will do anything to make a fast buck.  She's
+currently trying her hand at {yg{Yo{yl{Yd{}-digging.  
+~
+human~
+AB DFV 0 -500 0
+145 300 16d1200+5300 10d50+50 20d10+275 slash
+-82 -80 -83 -82
+EFK ABJ P 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium glass
+#60114
+Mr. Boddy~
+Mr. Boddy~
+Mr. Boddy's body seems to be hanging around.
+~
+A body is hanging around here, it seems to be bloody and nasty.  Yep, he
+is dead.  But he just won't let go!  
+~
+human~
+ABNOT TV 0 1000 0
+160 90 200d150+100 400d500+1000 5d55+10 wrath
+-170 -175 -169 -210
+FK ABP HI T
+stand stand male 1000
+AHMV ABCDEFGHIJK medium twinkle
+#60115
+Plastic House~
+a {GPlastic House{}~
+A {GPlastic House{} sits on the edge of the street.
+~
+A {GPlastic House{} sits on the edge of the street.  It doesn't seem very
+sturdy, or very well connected to anything.  
+~
+human~
+ABNT V 0 0 0
+150 150 15d1260+6500 200d200+5000 35d7+210 thwack
+-93 -98 -92 -87
+I G I H
+stand stand none 500
+AHMV 0 medium plastic
+F par ABCDEFGHIJK
+#60116
+Choo-Choo Train~
+A {8Choo-Choo{}~
+A {8Choo-Choo{} train blows its whistle at the sight of you.
+~
+If you could find the door, maybe you would get on.  This train might
+just give you a ride.  
+~
+human~
+ABNR cd 0 500 0
+160 200 15d1540+6300 200d200+500 32d9+151 thrust
+-101 -101 -101 -99
+FIK 0 EGH CI
+stand stand none 400
+AHMV 0 medium steel
+F par ABCDEFGHIJK
+#60117
+A Hotel~
+A {RHotel{}~
+A giant {RHotel{} is here waitng for you to get a room.
+~
+We'll keep the light on for you.  
+~
+titan~
+ABNT DVac 0 0 0
+165 235 15d1506+6800 50d200+5000 34d9+210 cleave
+-115 -114 -120 -98
+CFHIK B DG H
+stand stand none 5000
+AHMV 0 giant plastic
+F par ABCDEFGHIJK
+#60118
+a yellow card~
+A {YYellow{} Card~
+A {YYellow{} Card stands here giving you a chance to run.
+~
+Big...{YYellow{}...Different.
+~
+titan~
+ABNQT Va 0 -500 0
+165 235 15d1506+6800 50d200+5000 34d9+210 slash
+-115 -114 -120 -98
+CFHK BI 0 H
+stand stand none 1000
+AHMV 0 medium papers
+F aff D
+F res D
+F par ABCDEFGHIJK
+#60119
+an orange card~
+An Orange Card~
+An Orange Card is here giving favors.
+~
+It's big...It's flat...It's Orange.
+~
+titan~
+ABNQT Va 0 -500 0
+165 235 15d1506+6800 50d200+5000 34d9+210 slash
+-115 -114 -120 -98
+CFHK BI N H
+stand stand none 1000
+AHMV 0 medium papers
+F aff D
+F res D
+F par ABCDEFGHIJK
+#60120
+A water pipe~
+A water pipe~
+A water pipe is here spewing water everywhere.
+~
+This long rusty water pipe needs to be replaced with a more modern
+version.  
+~
+human~
+ABNT V 0 0 0
+160 200 15d1540+6300 200d200+500 32d9+151 crush
+-101 -101 -101 -99
+FIK G HI C
+stand stand none 400
+AHMV 0 medium steel
+F par ABCDEFGHIJK
+#60121
+a lightbulb~
+A lightbulb~
+A lightbulb is burning brightly.
+~
+The Lightbulb is burning brightly and doesn't appear to need replacing. 
+Maybe it's one of the new funky ones that can last four years.  
+~
+human~
+ABNR V E 0 0
+160 200 15d1540+6300 200d200+500 32d9+151 shock
+-101 -101 -101 -99
+FIK 0 H CDEI
+stand stand none 400
+AHMV 0 medium glass
+F par ABCDEFGHIJK
+#60122
+Dog Piece~
+A Dog Piece~
+A Dog Piece is here waiting to jump ahead.
+~
+His metal body confuses you for a second.  But you do come to the
+conclusion that he is indeed a dog.  You wonder if his nose is wet.  
+~
+dog~
+ABNS V 0 500 0
+170 250 15d1500+7000 50d50+5000 32d11+200 chomp
+-100 -100 -100 -100
+FHIK 0 GHI 0
+stand stand male 6000
+AGV ACDEFHJKUV medium iron
+#60123
+A Wheelbarrow Piece~
+A Wheelbarrow Piece~
+A Wheelbarrow Piece is filled with plastic gardening supplies.
+~
+A silverish looking wheelbarrow sits here with a sign that reads "{gPush
+Me, Push Me, I love to be pushed!  {}" taped on its side.  
+ 
+~
+orc~
+ABNT JV 0 500 0
+170 250 16d1550+7300 50d50+5000 31d15+201 charge
+-100 -100 -100 -100
+FHIK 0 GHIQ S
+stand stand none 6000
+ACGHMV 0 medium iron
+F par ABCDEFGHIJK
+#60124
+A Moneybag Piece~
+A Moneybag Piece~
+A Moneybag Piece really wants to land on {BBoardwalk{}.
+~
+Brand new, this piece was introduced in the summer of 1999.  
+~
+orc~
+ABNR JV 0 500 0
+170 250 16d1550+7300 50d50+5000 31d15+201 pound
+-100 -100 -100 -100
+FHIK 0 GHIQ 0
+stand stand none 6000
+ACGHMV 0 medium iron
+F vul S
+F par ABCDEFGHIJK
+#60125
+A Battleship Piece~
+A Battleship Piece~
+A Battleship Piece would rather be floating on the ocean.
+~
+A boat looks kinda awkward sitting on a game board.  
+~
+orc~
+ABNT JV 0 500 0
+170 250 16d1550+7300 50d50+5000 31d15+201 blast
+-100 -100 -100 -100
+FHIK R GHIQ 0
+stand stand none 6000
+ACGHMV 0 medium iron
+F vul S
+F par ABCDEFGHIJK
+#60126
+A Thimble Piece~
+A Thimble Piece~
+A Thimble Piece is here protecting fingers from harm.
+~
+The danty little thimble is engraved on one side with "{bWIN WIN WIN{}".  
+~
+orc~
+ABNS JV 0 500 0
+170 250 16d1550+7300 50d50+5000 31d15+201 grep
+-100 -100 -100 -100
+FHIK F GHIQ 0
+stand stand female 6000
+ACGHMV 0 medium iron
+F vul S
+F par ABCDEFGHIJK
+#60127
+A Top Hat Piece~
+A Top Hat Piece~
+A Top Hat Piece sits here on noones head.
+~
+The Top Hat Piece enjoys being one of the more famous and most used
+pieces.  
+~
+orc~
+ABNQ JV 0 500 0
+170 250 16d1550+7300 50d50+5000 31d15+201 thrust
+-100 -100 -100 -100
+FHIK 0 GHIQ 0
+sit stand none 6000
+ACGHMV 0 medium iron
+F vul S
+F par ABCDEFGHIJK
+#60128
+A Boot Piece~
+A Boot Piece~
+A Boot Piece is ready to kick some butt at this game.
+~
+Your shoes are untied.
+ 
+ 
+ 
+ 
+ 
+ 
+Made you look!
+~
+orc~
+ABNT JV 0 500 0
+170 250 16d1550+7300 50d50+5000 31d15+201 pound
+-100 -100 -100 -100
+FHIK 0 GHIQ 0
+stand stand none 6000
+ACGHMV 0 medium iron
+F vul S
+F par ABCDEFGHIJK
+#60129
+Beetle~
+The Little Beetle~
+It's a Little Beetle.
+~
+HEY!  I'm a Little Beetle!  
+~
+lizard~
+ABQ d 0 0 0
+10 0 10d100+100 2d50+50 1d10+2 none
+-1 -1 -1 -1
+0 0 L CDEFGHKLMNSZ
+stand stand none 50
+ACGXc ACDEFHKQV tiny unknown
+F vul I
+#60130
+Plumpy~
+{GPlumpy{}~
+A chubby green horned creature stands here munching on plums.
+~
+The last of the Plumpa Trolls shoves a juicy gingerbread plum into his
+mouth.  Plumpy is the caretaker of the gingerbread plum trees and his job is
+to gather all the ripe plums from the trees.  Lately he has done more eating
+than gathering.  
+~
+titan~
+AB Da 0 1000 0
+190 650 16d2200+8500 50d20+9000 55d13+145 thwack
+-120 -125 -133 -129
+FHK B D 0
+stand stand none 1000
+AHMV K medium wood
+F par ABCDEFGHIJ
+#60131
+Mr. Mint~
+{RM{wr{R. {wM{Ri{wn{Rt{}~
+A giant {Rc{wa{Rn{wd{Ry{w c{Ra{wn{Re{} stands here looking sweet.
+~
+Mr.  Mint, the peppermint lumber-jack and keeper of the Royal Peppermint
+Forest, cuts down peppermint trees into bite-sized whistles and flutes,
+creating sweet music for you.  
+~
+tiegre~
+ABT DFJVac 0 1000 0
+190 650 16d2200+8500 50d20+9000 55d13+145 crush
+-120 -125 -133 -129
+CEFHKO B DLQS 0
+stand stand none 1000
+AGHMV ABCDEFGHIJK medium wood
+F par QUV
+#60132
+Jolly~
+{MJolly{}~
+A A massive but jolly looking creature stands here greeting you.
+~
+Jolly is the offical Gumdrop Mountain Greeter.  He is always ready to
+welcome you.  
+~
+tiegre~
+ABS DFJVac 0 1000 0
+195 650 17d2350+8700 50d20+9000 60d14+191 beating
+-142 -138 -141 -139
+CEFHKO B DLQS 0
+stand stand none 1000
+AGHMV ABCDEFGHIJK medium wood
+F par QUV
+#60133
+Lord Licorice~
+{mLord Licorice{}~
+An evil looking man stands here with a silly grin on his face.
+~
+Lord Licorice wants all the candy for himself.  He is not willing to
+share with you or anyone else.  That is why he has stolen King Kandy and his
+castle.  
+~
+human~
+AB DFJVac 0 -1000 0
+205 800 16d3500+9000 50d100+8000 70d23+210 pierce
+-144 -155 -166 -177
+FHK B DLQS 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium wood
+#60134
+Gramma Nutt~
+{CGramma Nutt{}~
+A cheerful adorable little lady stands here trying to make you happy.
+~
+Gramma Nutt lives in the peanut brittle house.  Gramma believes you can
+find the King because you are special.  
+~
+human~
+ABS DFJVac 0 1000 0
+195 650 17d2350+8700 50d20+9000 60d14+191 pound
+-142 -138 -141 -139
+FHK B LQ 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium wood
+#60135
+Queen Frostine~
+{BQueen Frostine{}~
+A beautiful woman stands here adrift an ice cream float.
+~
+This peaceful lady has complete and utter confidence in you ability to
+find the King.  She has no worries for she knows that, in the end, good
+always winds.  
+~
+human~
+AB DFJVac C 1000 0
+190 650 16d2200+8500 50d20+9000 55d13+145 frbite
+-120 -125 -133 -129
+FHK B LQ 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium wood
+#60136
+Gloppy~
+{yGloppy{}~
+A giant puddle of molasses is here.
+~
+Gloppy is 100% sweet and 100% molasses.  He looks gruesome but is really
+just a bit messy.  You could say that the kindly molasses monster was
+"goosome".  
+~
+titan~
+ABST DFJVac 0 1000 0
+195 650 17d2350+8700 50d20+9000 60d14+191 slime
+-142 -138 -141 -139
+FHK B LQ H
+stand stand none 1000
+AHMV ABCDEFGHIJK medium wood
+F res D
+#60137
+King Kandy~
+{RK{Bi{Gn{Yg {wK{Ca{Mn{Rd{By{}~
+A smiling man dressed in the most equisite treats you ever did see.
+~
+King Kandy is the Imperial Head BonBon and Grand Jujube of Candy Land. 
+He is all the children's favorite ruler and all the dentists least favorite.
+~
+human~
+AB DFJVac 0 1000 0
+205 800 16d3500+9000 50d100+8000 70d23+210 divine
+-144 -155 -166 -177
+FHK B DLQS 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium wood
+#60138
+Pricess Lolly~
+{YPrincess Lolly{}~
+A very airy girl stands here.
+~
+Pricess Lolly is King Kandy's daughter and is very concerned for him. 
+However, she has faith that you can find her father.  
+~
+human~
+ABR DFJVac 0 1000 0
+195 650 17d2350+8700 50d20+9000 60d14+191 chop
+-142 -138 -141 -139
+FHK B LQ 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium wood
+#60139
+bishop ivory~
+an {wi{yv{wo{yr{wy{x bishop~
+An {wi{yv{wo{yr{wy{0 bishop creates potions for the wild game pieces.
+~
+Clad in gleaming {wi{yv{wo{yr{wy{^ robes, this piece has somehow gotten lost.  How
+could a piece wander this far?  Maybe it was a portal?  Or perhaps the royal
+pieces simply kicked him out when that {Debony{^ rook took over the space.
+~
+human~
+ABV DEF 0 1000 0
+64 0 1d1+999 1d1+999 10d10+10 magic
+-15 -15 -15 -15
+FGH ABCDLQ 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#60100
+Swing~
+a {Rcherrywood swing{}~
+A handcarved {Rcherrywood{} swing hangs from the center.~
+cherrywood~
+furniture HMSY 0
+2 10000 EFHK 50 50
+1 100 10000 P
+#60101
+Revolver~
+revolver~
+A revolver lies here, missing it's holster.~
+glass~
+weapon IY AN
+exotic 16 15 blast 0
+142 5 1000 P
+#60102
+Lead Pipe~
+a {8lead{} pipe~
+A {8lead{} pipe lays here discarded from someones use.~
+lead~
+weapon Y AN
+mace 17 24 crush 0
+142 60 3600 P
+#60103
+Flower fertilizer~
+a fertilizer tablet~
+A poisonous flower tablet lies here.~
+bark~
+pill Y AO
+160 'poison' 'poison' 'poison' 'curse'
+140 1 30 P
+#60104
+Rope~
+a braided rope~
+A coiled braided rope lays here.~
+rope~
+weapon LS AO
+exotic 3 20 slash 0
+140 1 50 P
+#60105
+Wrench~
+a wrench~
+A wrench seems to have been taken out of a toolbox.~
+metal~
+wand HY AO
+50 5 5 'heat metal' 0
+140 20 100 P
+#60106
+Knife~
+a slicing knife~
+A kitchen knife has been left here.~
+metal~
+weapon Y ANO
+dagger 10 35 slice 0
+140 10 3000 P
+#60107
+horseshoe  discarded~
+a discarded {yhorseshoe{}~
+An old {yhorseshoe{} is {rrusted{} and nasty.~
+metal~
+armor LY AG
+10 10 10 10 0
+140 15 1900 P
+A
+3 -2
+A
+13 25
+#60108
+Candlestick~
+candlestick~
+A beautiful candlestick has a dent in the side.~
+iron~
+weapon IY AN
+exotic 10 15 thwack E
+140 10 4000 P
+#60109
+Mr. Boddy's Hands~
+hands of Mr. Boddy~
+Mr. Boddy's hands seem to have fallen off his body.~
+bone~
+weapon I AN
+exotic 15 15 slap 0
+140 2 0 P
+#60110
+potion divine ~
+a potion of Divine Sanctuary~
+A potion of Divine Sanctuary lies here.~
+glass~
+potion G AO
+95 'sanctuary' 'haste' 'detect invis' 'detect hidden'
+95 10 12000 P
+#0
+
+
+
+#ROOMS
+#60100
+{BE{Gn{Rt{Yr{Ma{Wn{Cc{Be{} {Gt{Ro{Y t{Mh{We{C G{Ba{Gm{Re{Ys{}~
+You are entering a place of {Bf{Gu{Rn{} and {Ym{My{Ws{Ct{Be{Gr{Ry{}.  The
+joy you feel from being in this place reminds you of the simple joy of
+childhood.  
+~
+0 1028 2
+D4
+~
+~
+0 0 60101
+D5
+~
+~
+0 0 903
+S
+#60101
+{BP{Ga{Rt{Yh {Mt{Wo {Ct{Bh{Ge{R G{Ya{Mm{We{Cs{}~
+You are following a path that leads to a very
+{BM{Gy{Rs{Yt{Me{Wr{Ci{Bo{Gu{Rs{} place.  Your anticipation of things to come
+overwhelms you with joy and excitement.  
+~
+0 0 9
+D0
+~
+~
+0 0 60102
+D5
+~
+~
+0 0 60100
+S
+#60102
+{BP{Ga{Rt{Yh {Mt{Wo {Ct{Bh{Ge{R G{Ya{Mm{We{Cs{}~
+You are following a path that leads to a very
+{BM{Gy{Rs{Yt{Me{Wr{Ci{Bo{Gu{Rs{} place.  Your anticipation of things to come
+overwhelms you with joy and excitement.  
+~
+0 0 9
+D0
+~
+~
+0 0 60103
+D2
+~
+~
+0 0 60101
+S
+#60103
+{BP{Ga{Rt{Yh {Mt{Wo {Ct{Bh{Ge{R G{Ya{Mm{We{Cs{}~
+You are following a path that leads to a very
+{BM{Gy{Rs{Yt{Me{Wr{Ci{Bo{Gu{Rs{} place.  Your anticipation of things to come
+overwhelms you with joy and excitement.  
+~
+0 0 9
+D0
+~
+~
+0 0 60104
+D2
+~
+~
+0 0 60102
+S
+#60104
+{BP{Ga{Rt{Yh {Mt{Wo {Ct{Bh{Ge{R G{Ya{Mm{We{Cs{}~
+You are following a path that leads to a very
+{BM{Gy{Rs{Yt{Me{Wr{Ci{Bo{Gu{Rs{} place.  Your anticipation of things to come
+overwhelms you with joy and excitement.  
+~
+0 0 9
+D0
+~
+~
+0 0 60105
+D2
+~
+~
+0 0 60103
+S
+#60105
+{BP{Ga{Rt{Yh {Mt{Wo {Ct{Bh{Ge{R G{Ya{Mm{We{Cs{}~
+You are following a path that leads to a very
+{BM{Gy{Rs{Yt{Me{Wr{Ci{Bo{Gu{Rs{} place.  Your anticipation of things to come
+overwhelms you with joy and excitement.  
+~
+0 0 9
+D0
+~
+~
+0 0 60106
+D2
+~
+~
+0 0 60104
+S
+#60106
+Beginning of the Games~
+A firm piece of land materializes to the north, or is that a game board? 
+Either way, it's a place to stand.  Looking eastward is a large, decorated
+cardboard box on its side.  
+~
+0 4 9
+D0
+~
+~
+0 0 60107
+D1
+~
+~
+0 0 60245
+D2
+~
+~
+0 0 60105
+S
+#60107
+{yClue: Master Detective{}~
+Welcome to Mr.  Boddy's Manor, his little country place.  Unlike his
+Mansion this house is much bigger.  But, like his Mansion, he still manages
+to die.  
+~
+0 4 0
+D0
+~
+~
+0 0 60108
+D2
+~
+~
+0 0 60106
+S
+#60108
+{gLower Courtyard{}~
+This is the {gLower Courtyard{} of the Boddy Manor.  The {Ggrass{} looks
+like someone has trimmed it with scissors it is so finely manicured.  But
+then, Mr.  Boddy does have {Gmoney{}.  A beautiful {Ygoldfish{} fountain
+lies to the west.  A {Wwhite{} wooden gazebo lies to the east.  Straight to
+the north lies the {gUpper Courtyard{}.  
+~
+0 0 2
+D0
+~
+~
+0 0 60111
+D1
+~
+~
+0 0 60110
+D2
+~
+~
+0 0 60107
+D3
+~
+~
+0 0 60109
+S
+#60109
+{YGoldfish{} Fountain~
+You see before you beautiful {y{Ygold{Yfish{}{}{} swimming in a marble
+fountain.  There is no sign of any human life, but by the looks of their
+size, someone must be feeding these {Yfish{}.  
+~
+0 0 6
+D1
+~
+~
+0 0 60108
+S
+#60110
+{7White Wooden Gazebo{}~
+You are standing in a beautiful gazebo that appears to be carved out of a
+solid block of wood.  There is a {Rcherrywood{} swing hanging in the center
+that invites you to sit.  
+~
+0 0 0
+D3
+~
+~
+0 0 60108
+S
+#60111
+{gUpper Courtyard{}~
+This is the {gUpper Courtyard{} of the Boddy Manor.  The {Ggrass{} looks
+like someone has trimmed it with scissors it is so finely manicured.  But
+then, Mr.  Boddy does have {Gmoney{}.  There are swinging french doors
+leading into the inside of the Boddy Manor.  
+~
+0 0 2
+D0
+~
+~
+1 0 60112
+D2
+~
+~
+0 0 60108
+S
+#60112
+Boddy Manor Foyer~
+Welcome to the Boddy Manor.  A quaint country home, it boasts of nine
+decorated rooms, not including a authentic carriage house and marble
+fountain.  Everything here is state of the art, and yet is full of simple
+elegance.  Each room has been lovingly decorated by Mr.  Boddy himself, to
+reflect his personal tastes and desires.  To the north lies the {8Cloak
+Room{}, to the east and west lie hallways.  
+~
+0 8 0
+D0
+~
+~
+0 0 60115
+D1
+~
+~
+0 0 60114
+D2
+~
+~
+1 0 60111
+D3
+~
+~
+0 0 60113
+S
+#60113
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+
+To the west is the {GB{gillard {GR{goom{}.
+~
+0 8 0
+D0
+~
+~
+0 0 60116
+D1
+~
+~
+0 0 60112
+D2
+~
+~
+0 0 60119
+D3
+~
+~
+0 0 60118
+S
+#60114
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+~
+0 8 0
+D0
+~
+~
+0 0 60117
+D1
+~
+~
+0 0 60121
+D3
+~
+~
+0 0 60112
+S
+#60115
+{*Cloak Room{}~
+Wood paneling lines both the floor and the walls.  This is the small room
+where guests can hang their coats and hats, and leave their umbrellas if it
+is raining.  On one wall hangs a mirror, for guests who need to check their
+looks.  Bright scones hang next to all three doors lighting the room.  
+~
+0 8 0
+D1
+~
+~
+0 0 60117
+D2
+~
+~
+0 0 60112
+D3
+~
+~
+0 0 60116
+S
+#60116
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+~
+0 8 0
+D0
+~
+~
+0 0 60136
+D1
+~
+~
+0 0 60115
+D2
+~
+~
+0 0 60113
+S
+#60117
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+To the east lies the {8Cloak Room{}, to the west the Dining Room.
+~
+0 8 0
+D0
+~
+~
+0 0 60124
+D1
+~
+~
+0 0 60123
+D2
+~
+~
+0 0 60114
+D3
+~
+~
+0 0 60115
+S
+#60118
+{GB{gillard {GR{goom{}~
+Windows line the west wall shedding light into a green room.  Sitting in
+the center is a {ggreen velvet{} billard table.  Hanging on the wall is a
+cue rack, with a wide selection of {ypool cues{} and {bchalk{}.  A leather
+sofa fills up another wall in this small, but well-laid out, room.  
+~
+0 8 0
+D1
+~
+~
+0 0 60113
+S
+#60119
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+To the west is the Library.
+~
+0 8 0
+D0
+~
+~
+0 0 60113
+D3
+~
+~
+0 0 60120
+S
+#60120
+{RL{ri{Rb{rr{Ra{rr{Ry{}~
+The library is done in shades of red and mauve.  Tall wooden bookshelves
+line the walls, filled capacity with books on all sorts of subjects.  A
+large bay window completly covers the south wall.  Tucked in the corner is a
+comfortable Queen Anne chair and a small wooden table.  A writing desk
+topped with {ggreen {}leather sits in the other corner.  An oval rug covers
+the wooden floor.  
+~
+0 8 0
+D1
+~
+~
+0 0 60119
+D5
+~
+~
+0 0 60128
+S
+#60121
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+To the north lies the Dining Room, to the south the Drawing Room.
+~
+0 8 0
+D0
+~
+~
+0 0 60123
+D2
+~
+~
+0 0 60122
+D3
+~
+~
+0 0 60114
+S
+#60122
+Drawing Room~
+This room has a bay window on the southern wall that matches the one in
+the Library.  A large sofa sits across from two armchairs.  A large oval
+coffee table sits under the eastern windows and holds a selection of Mr. 
+Boddy's favorite magazines.  Tall floor lamps light up each corner.  A
+{8black cat{} sits behind the sofa, staring at a little hole in the
+baseboard.  
+~
+0 8 0
+D0
+~
+~
+0 0 60121
+D5
+~
+~
+0 0 60135
+S
+#60123
+{BDining Room{}~
+A long dark oak table takes up the center of the room.  12 chairs line
+the edges and 2 more sit at the ends.  Fresh {rroses{} sit in
+{bc{wh{bi{wn{ba{} {wv{ba{ws{be{ws{}.  Underneath the table runs a {rdeep
+plush rug{}.  
+~
+0 0 0
+D0
+~
+~
+0 0 60126
+D2
+~
+~
+0 0 60121
+D3
+~
+~
+0 0 60117
+S
+#60124
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+~
+0 8 0
+D0
+~
+~
+0 0 60125
+D2
+~
+~
+0 0 60117
+S
+#60125
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+~
+0 8 0
+D1
+~
+~
+0 0 60126
+D2
+~
+~
+0 0 60124
+D3
+~
+~
+0 0 60127
+S
+#60126
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+To the north lies the Kitchen, to the south the Dining Room.
+~
+0 8 0
+D0
+~
+~
+0 0 60128
+D2
+~
+~
+0 0 60123
+D3
+~
+~
+0 0 60125
+S
+#60127
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+To the north is the Trophy Room.
+~
+0 8 0
+D0
+~
+~
+0 0 60130
+D1
+~
+~
+0 0 60125
+D3
+~
+~
+0 0 60131
+D5
+~
+~
+0 0 60138
+S
+#60128
+{8K{0i{8t{0c{8h{0e{8n{}~
+A {8black{0 and {Wwhite{0 marble floor checkers the kitchen.  Boddy has
+all the newest appliances.  There is a small wooden table in the corner,
+with two chairs.  Along the north and east walls run the matching {8black{0
+marble countertop.  A butcher's block stands next to the door.  
+~
+0 8 0
+D2
+~
+~
+0 0 60126
+D5
+~
+~
+0 0 60120
+S
+#60130
+Trophy Room~
+Large shelves line the walls of this room done in blue.  A wall to wall
+{Bblue{} rug covers the floor and trophies sit on the shelves.  Not a speck
+of dust has had a chance to land on the well shined Statuettes and Cups. 
+Mr.  Boddy enjoys riding his horses in competitions around the world.  There
+are trophies from all over, most of them first or second place.  Hanging on
+the wall next to the north door is a picture painted of his favorite horse. 
+To the north lies his carriage house, where his horses stay.  
+~
+0 8 0
+D0
+~
+~
+0 0 60132
+D2
+~
+~
+0 0 60127
+S
+#60131
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+To the west is Mr. Boddy's {GConservatory{}.
+~
+0 8 0
+D1
+~
+~
+0 0 60127
+D2
+~
+~
+0 0 60134
+D3
+~
+~
+0 0 60135
+S
+#60132
+Pathway to Carriage House~
+A {rbrick{} path leads from the {BTrophy Room{} to the {yCarriage
+House{}.  Planters line the walk and have small {gbushes{} growing in them. 
+~
+0 0 2
+D0
+~
+~
+0 0 60133
+D2
+~
+~
+0 0 60130
+S
+#60133
+{yCarriage House{}~
+Once used for carriages, this building now houses Mr.  Boddy's prize
+mare, {8Falcon{}, and his classic car.  The building smells of leather, from
+the car interior and the engraved saddle that is hanging on the wall.  A bin
+of fresh hay sits to the left.  Large locked double doors are to the east to
+allow for getting the car and horse out.  
+~
+0 8 0
+D0
+~
+~
+0 0 60139
+D2
+~
+~
+0 0 60132
+S
+#60134
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+~
+0 8 0
+D0
+~
+~
+0 0 60131
+D2
+~
+~
+0 0 60136
+S
+#60135
+{GConservatory{}~
+The glass ceiling allows natural sunlight to permeate every corner of the
+{GConservatory{}, reaching to even the smallest plant.  The back half of the
+room is oval-shaped, with planters all along the windows.  A large {Ylemon{}
+tree grows in the center of the room.  Rose bushes and pansies grow along
+the edge.  Mr. Boddy enjoys colorful plants.  
+~
+0 8 0
+D1
+~
+~
+0 0 60131
+D5
+~
+~
+0 0 60122
+S
+#60136
+Boddy Manor Hallway~
+The hallway is lined with paintings and mirrors.  Bright scones light
+either side of every door.  The mirrors reflect the light, as does the white
+marble flooring.  Tall {ggreen{} plants sit in the corners.  There is not a
+speck of dust or dirt to be seen anywhere.  
+To the west is the Studio.
+~
+0 8 0
+D0
+~
+~
+0 0 60134
+D2
+~
+~
+0 0 60116
+D3
+~
+~
+0 0 60137
+S
+#60137
+Studio~
+The studio is lit by natural light let in through the floor to ceiling
+windows on the west wall.  An easel stands close to the window, next to a
+stool and a small table.  The table is covered in oil paint tubes of
+{Ggreen{}, {Bblue{}, {Yyellow{}, {Rred{}, and {8smokey grey{}.  A jar of wooden handled
+brushes sits next to the tubes, ranging from thin to very thick.  There
+isn't a painting on the easel right now, but it is obvious by the stains on
+the floor and table that the studio is used quite regularly.  Next to the
+door is a small bookcase, holding Mr.  Boddy's collection of Art History
+Books.  Extra canvases lie behind the door.  
+~
+0 8 0
+D1
+~
+~
+0 0 60136
+S
+#60138
+{8Basement{}~
+This is the little used basement of the Country Manor.  There seems to be
+{Rblood{} everywhere.  UG!  HOW NASTY!  
+~
+0 8 0
+D4
+~
+~
+0 0 60127
+S
+#60139
+{BP{Ga{Rt{Yh {Mt{Wo {Ct{Bh{Ge{R G{Ya{Mm{We{Cs{}~
+You are back on a path that leads to a very
+{BM{Gy{Rs{Yt{Me{Wr{Ci{Bo{Gu{Rs{} place.  Your anticipation of things to come
+overwhelms you with joy and excitement.  
+To the west you can see a tiny {RGO!{} space.  To the south a {yCarriage House{}.
+~
+0 0 9
+D2
+~
+~
+0 0 60133
+D3
+~
+~
+0 0 60140
+S
+#60140
+Entrance to Monopoly: {RGO! Space{}~
+Here we go on a trip around the world (or at least a trip around the
+board)!  To the west lies streets and avenues of every shape and size.  But
+be warned, once you begin this game you have to finish!  
+~
+0 8 0
+D1
+~
+~
+0 0 60139
+D3
+~
+~
+0 0 60141
+S
+#60141
+{mMediteranean Avenue{}~
+Three little houses line the street.  Upon closer inspection they seem to
+be made of plastic.  Hrm...  How odd...  
+~
+0 8200 0
+D3
+~
+~
+0 0 60142
+S
+#60142
+{wCommunity Chest{}~
+You feel an overwhelming urge to give something back to the place you
+live in.  Large orange cards sit in a pile.  
+~
+0 8200 0
+D3
+~
+~
+0 0 60143
+S
+#60143
+{mBaltic Avenue{}~
+Two tiny houses sit on this street.  And a little dog is running back and
+forth.  
+~
+0 8200 0
+D3
+~
+~
+0 0 60144
+S
+#60144
+{wIncome Tax{}~
+If the IRS were here you would have to pay 10% or $200.  Thank goodness
+they are out to lunch.  
+~
+0 8200 0
+D3
+~
+~
+0 0 60145
+S
+#60145
+{8Reading Railroad{}~
+You are in a small trainyard, enclosed by a fence.  There is a station to
+the left, with a sign reading "{8Reading Railroad{}" and a schedule of train
+stops.  
+~
+0 8200 0
+D3
+~
+~
+0 0 60146
+S
+#60146
+{cOriental Avenue{}~
+One small, lonesome, green house sits on the street.  There isn't even a
+flower or a bush.  
+~
+0 8200 0
+D3
+~
+~
+0 0 60147
+S
+#60147
+{wChance{}~
+HEY!  Let's take a chance on life!  And a chance on that large yellow
+card!  
+~
+0 8200 0
+D3
+~
+~
+0 0 60148
+S
+#60148
+{cVermont Avenue{}~
+Two tiny houses sit on this street.  There is a large thimble in the
+middle of the road.  
+~
+0 8200 0
+D3
+~
+~
+0 0 60149
+S
+#60149
+{cConnecticut Avenue{}~
+Two tiny houses sit on this street.  
+~
+0 8200 0
+D3
+~
+~
+0 0 60150
+S
+#60150
+{RJAIL!{}~
+Just YOUR luck, you happen to have a get out of jail free card.  Good
+thing to, it would be a shame to be stuck here forever.  Who knows what kind
+of food they serve in a 2-demensional institution!  
+~
+0 8200 0
+D0
+~
+~
+0 0 60151
+S
+#60151
+{MSt. Charles Place{}~
+Three little houses line the street.  Upon closer inspection they seem to
+be made of plastic.  Hrm...  How odd...  
+~
+0 8200 0
+D0
+~
+~
+0 0 60152
+S
+#60152
+{YElectric Company{}~
+It's the {YElectric Company{}!  Did you pay your bill this month?  
+~
+0 8200 0
+D0
+~
+~
+0 0 60153
+S
+#60153
+{MStates Avenue{}~
+One tiny little plastic house is on this street.  It's front yard is
+clean and wellkept, maybe that is the gardener's wheelbarrow.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60154
+S
+#60154
+{MVirginia Avenue{}~
+ONE GIANT HOTEL stands here, taking up the entire block.  Upon closer
+inspection you see that it is made of a red plastic material.  And there
+isn't a doorman to take your bags.  And wait, the door doesn't even open. 
+WELL!  Guess they didn't want YOUR business, eh?  
+~
+0 8204 0
+D0
+~
+~
+0 0 60155
+S
+#60155
+{8Pennsylvania Railroad{}~
+You are in a small trainyard, enclosed by a fence.  There is a station to
+the left, with a sign reading "{8Pennsylvania Railroad{}" and a schedule of
+train stops.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60156
+S
+#60156
+{ySt. James Place{}~
+A hotel stands here waiting for you to check in.  By the looks of it you
+could find a better place to stay.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60157
+S
+#60157
+{wCommunity Chest{}~
+You feel an overwhelming urge to give something back to the place you
+live in.  Large orange cards sit in a pile.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60158
+S
+#60158
+{yTennessee Avenue{}~
+A plastic ranch home sits far off the road here.  The plastic grass needs
+cutting.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60159
+S
+#60159
+{yNew York Avenue{}~
+A bunch of abandoned lots sit here with "{rFor Sale{}" signs.  Not quite
+the New York you were thinking of eh?  
+~
+0 8200 0
+D0
+~
+~
+0 0 60160
+S
+#60160
+{RF{8ree {RP{8arking{}~
+For a free parking lot, this place sure is empty.  Maybe it is because
+there isn't a parking lot person to watch out for theives.  
+~
+0 8192 0
+D1
+~
+~
+0 0 60161
+S
+#60161
+{RKentucky Avenue{}~
+A bluegrass band plays on the front porch of a plastic house.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60162
+S
+#60162
+{wChance{}~
+HEY!  Let's take a chance on life!  And a chance on that large yellow
+card!  
+~
+0 8200 0
+D1
+~
+~
+0 0 60163
+S
+#60163
+{RIndiana Avenue{}~
+Two plastic farm houses sit in the distance behind a corn field.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60164
+S
+#60164
+{RIllinois Avenue{}~
+Two tiny plastic houses line the little street.  One even has a little
+plastic hedge.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60165
+S
+#60165
+{8B&O Railroad{}~
+You are in a small trainyard, enclosed by a fence.  There is a station to
+the left, with a sign reading "{8B&O Railroad{}" and a schedule of train
+stops.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60166
+S
+#60166
+{YAtlantic Avenue{}~
+A plastic house on stilts sits on this ocean front property.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60167
+S
+#60167
+{YVentnor Avenue{}~
+One lonely house sits here.  The other lots are undeveloped and full of
+rubish.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60168
+S
+#60168
+{CW{cater {CW{corks{}~
+{CW{cater {CW{corks{} is responsible for providing all of this little
+board town with water.  Seems like one of the pipes got a little rusty....  
+~
+0 8200 0
+D1
+~
+~
+0 0 60169
+S
+#60169
+{YMarvin Gardens{}~
+A single family dwelling unit sits in the center of this street.  You
+think you see a little plastic swimming pool behind it...  Must be rich
+folks.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60170
+S
+#60170
+{8GO TO {RJAIL!{}~
+Please don't go down.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60171
+D5
+~
+~
+0 0 60150
+S
+#60171
+{GPacific Avenue{}~
+The houses are beginning to look a little ritzy here.  The two houses on
+this street are top notch.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60172
+S
+#60172
+{GNorth Carolina Avenue{}~
+You see one more of those upper classy type living places.  This place is
+borderline snooty.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60173
+S
+#60173
+{wCommunity Chest{}~
+You feel an overwhelming urge to give something back to the place you
+live in.  Large orange cards sit in a pile.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60174
+S
+#60174
+{GPennsylviana Avenue{}~
+Now it's just getting ridiculous.  You see a plastic fountain out front
+with plastic water.  How silly can these people get?  
+~
+0 8200 0
+D2
+~
+~
+0 0 60175
+S
+#60175
+{8Short Line Railroad{}~
+You are in a small trainyard, enclosed by a fence.  There is a station to
+the left, with a sign reading "{8Short Line Railroad{}" and a schedule of
+train stops.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60176
+S
+#60176
+{wChance{}~
+HEY!  Let's take a chance on life!  And a chance on that large yellow
+card!  
+~
+0 8200 0
+D2
+~
+~
+0 0 60177
+S
+#60177
+{BPark Place{}~
+A hotel towers over you here.  The building is so elaborate and so tall
+you can't even see the top.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60178
+S
+#60178
+Luxury Tax~
+Since when was paying tax a luxury?  
+~
+0 8200 0
+D2
+~
+~
+0 0 60179
+S
+#60179
+{BBoardwalk{}~
+Here on {BBoardwalk{}, you can find the richest, most glamourous, and
+most snobish people you can imagine.  The hotel here is so restricted they
+must have access to your bank records just to get in the door.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60180
+S
+#60180
+Exit to Monopoly: {RGO! Space{}~
+You've done it.  Now kill the little beetle to reap your reward.  
+~
+0 8 0
+D1
+~
+~
+0 0 60181
+S
+#60181
+{BP{Ga{Rt{Yh {Mt{Wo {Ct{Bh{Ge{R G{Ya{Mm{We{Cs{}~
+You are back on a path that leads to a very
+{BM{Gy{Rs{Yt{Me{Wr{Ci{Bo{Gu{Rs{} place.  Your anticipation of things to come
+overwhelms you with joy and excitement.   
+~
+0 4 2
+D0
+~
+~
+0 0 60182
+S
+#60182
+{BP{Ga{Rt{Yh {Mt{Wo {Ct{Bh{Ge{R G{Ya{Mm{We{Cs{}~
+You are back on a path that leads to a very
+{BM{Gy{Rs{Yt{Me{Wr{Ci{Bo{Gu{Rs{} place.  Your anticipation of things to come
+overwhelms you with joy and excitement.  To the north you see a strange
+little red box.  
+~
+0 4 2
+D0
+~
+~
+0 0 60183
+D2
+~
+~
+0 0 60181
+S
+#60183
+{RC{MA{YN{BD{GY {RL{MA{YN{BD{}~
+Welcome to {RC{MA{YN{BD{GY {RL{MA{YN{BD{}!  This space is a {Rred{}
+space.  Floor, ceiling, all the walls, just {Rred, red, red{} as far as the
+eye can see.  On the east wall you see a hole, and through it a {Mpurple
+glow{}.  
+~
+0 0 0
+D1
+~
+~
+0 0 60184
+D2
+~
+~
+0 0 60182
+S
+#60184
+{MPurple Space{}~
+{MPurple, purple, purple{}, everything purple.  Empty little {Mpurple
+space{}!  
+~
+0 0 0
+D1
+~
+~
+0 0 60185
+D3
+~
+~
+0 0 60183
+S
+#60185
+{YYellow Space{}~
+{YYellow walls, yellow ceiling, yellow floor{}.  It doesn't take a genius
+to figure out the pattern here!  
+~
+0 0 0
+D1
+~
+~
+0 0 60186
+D3
+~
+~
+0 0 60184
+S
+#60186
+{BBlue Space{}~
+Before opening your eyes, you take a wild guess that there is going to be
+a {Bblue ceiling,{} {Ba blue floor, {}and{B blue walls{}.  Yep, you're
+right!  There is a small sign sitting on a post.  
+~
+0 0 0
+E
+sign~
+{yGingerbread {mPlum{gtrees{}
+{y    East ===========>
+~
+D1
+~
+~
+0 0 60187
+D3
+~
+~
+0 0 60185
+S
+#60187
+{GGreen Space{}~
+{GGREEN, GREEN, GREEN{}!  When will this madness end?  
+~
+0 0 0
+D1
+~
+~
+0 0 60188
+D3
+~
+~
+0 0 60186
+S
+#60188
+{RRed Space{}~
+Um...  The madness isn't ending, it's REPEATING!  {RRed floors, red
+ceiling, red walls{}, all looking freshly painted.  
+~
+0 0 0
+D1
+~
+~
+0 0 60189
+D3
+~
+~
+0 0 60187
+S
+#60189
+{MPurple Space{}~
+You smell a faint whift of warm, freshbaked {ygingerbread{}.  It wafts
+into this {Mpurple{} room through the east wall hole.  
+~
+0 0 0
+D1
+~
+~
+0 0 60190
+D3
+~
+~
+0 0 60188
+S
+#60190
+{yGingerbread {mPlum{gtrees{}~
+Wow!  A forest of {gtrees{} fill your vision.  Each tree has the look and
+smell of {ygingerbread{}, but up in the branches hang ripe, plump,
+{mplums{}, just ready for picking.  There is grass growing under your feet,
+and a sky above your head.  It's like a whole different game!  
+~
+0 0 0
+D1
+~
+~
+0 0 60191
+D3
+~
+~
+0 0 60189
+S
+#60191
+{YYellow Space{}~
+~
+0 0 0
+D2
+~
+~
+0 0 60192
+D3
+~
+~
+0 0 60190
+S
+#60192
+{BBlue Space{}~
+I'm {BBlue{} bop bah be dah bow bop bah be dah.  I live in a {BBlue{}
+house with a {BBlue{} window.  I play on {BBlue{} spaces with my {BBlue{}
+friends because I'm {BBlue{}.  
+~
+0 0 0
+D0
+~
+~
+0 0 60191
+D1
+~
+~
+0 0 60193
+S
+#60193
+{GGreen Space{}~
+"I'm looking over a four leaf clover".  Or maybe you're just sitting in a
+big {GGreen{} box.  
+~
+0 0 0
+D1
+~
+~
+0 0 60194
+D3
+~
+~
+0 0 60192
+S
+#60194
+{RRed Space{}~
+Either you are bleeding from your eyeballs or we snuck some {RRed{}
+contact lenses into your eyes.  This is Candy Land so my guess is the
+{RRed{} contacts.  
+~
+0 0 0
+D1
+~
+~
+0 0 60195
+D3
+~
+~
+0 0 60193
+S
+#60195
+{MPurple Space{}~
+This space doesn't look so much like a {MPurple{} box as a {MPurple{}
+pyramid.  Hmm, someone is getting creative with {MPurple{} here.  
+~
+0 0 0
+D0
+~
+~
+0 0 60196
+D3
+~
+~
+0 0 60194
+S
+#60196
+{RP{we{Rp{wp{Re{wr{Rm{wi{Rn{wt{R F{wo{Rr{we{Rs{wt{}~
+Giant {RP{we{Rp{wp{Re{wr{Rm{wi{Rn{wt{} trees surround you on all sides. 
+You hear a chopping sounds and sweet music.  No one will mind if you get a
+taste before you go.  
+~
+0 0 0
+D0
+~
+~
+0 0 60197
+D2
+~
+~
+0 0 60195
+S
+#60197
+{YYellow Space{}~
+~
+0 0 0
+D0
+~
+~
+0 0 60198
+D2
+~
+~
+0 0 60196
+S
+#60198
+{BBlue Space{}~
+I'm {BBlue{} bop bah be dah bow bop bah be dah.  I live in a {BBlue{}
+house with a {BBlue{} window.  I play on {BBlue{} spaces with my {BBlue{}
+friends because I'm {BBlue{}.  
+~
+0 0 0
+D0
+~
+~
+0 0 60199
+D2
+~
+~
+0 0 60197
+S
+#60199
+{GGreen Space{}~
+"I'm looking over a four leaf clover".  Or maybe you're just sitting in a
+big {GGreen{} box.  
+~
+0 0 0
+D2
+~
+~
+0 0 60198
+D3
+~
+~
+0 0 60200
+S
+#60200
+{RRed Space{}~
+Either you are bleeding from your eyeballs or we snuck some {RRed{}
+contact lenses into your eyes.  This is Candy Land so my guess is the
+{RRed{} contacts.  
+~
+0 0 0
+D0
+~
+~
+0 0 60201
+D1
+~
+~
+0 0 60199
+S
+#60201
+{MPurple Space{}~
+This space doesn't look so much like a {MPurple{} box as a {MPurple{}
+pyramid.  Hmm, someone is getting creative with {MPurple{} here.  
+~
+0 0 0
+D0
+~
+~
+0 0 60202
+D2
+~
+~
+0 0 60200
+S
+#60202
+{w*{gG{yu{rm{bd{Wr{co{rp{w*{} Mountain~
+This colorful sugar crested range is so beautiful you don't know if you
+could eat it or not.  But, then again, it looks as if it could spare a few
+{gG{yu{rm{bd{Wr{co{rp{*s{}.  
+~
+0 0 0
+D0
+~
+~
+0 0 60203
+D2
+~
+~
+0 0 60201
+S
+#60203
+{GGreen Space{}~
+"I'm looking over a four leaf clover".  Or maybe you're just sitting in a
+big {GGreen{} box.  
+~
+0 0 0
+D2
+~
+~
+0 0 60202
+D3
+~
+~
+0 0 60205
+S
+#60204
+{MPurple Space{}~
+This space doesn't look so much like a {MPurple{} box as a {MPurple{}
+pyramid.  Hmm, someone is getting creative with {MPurple{} here.  
+~
+0 0 0
+D1
+~
+~
+0 0 60205
+D3
+~
+~
+0 0 60206
+S
+#60205
+{RRed Space{}~
+Either you are bleeding from your eyeballs or we snuck some {RRed{}
+contact lenses into your eyes.  This is Candy Land so my guess is the
+{RRed{} contacts.  
+~
+0 0 0
+D1
+~
+~
+0 0 60203
+D3
+~
+~
+0 0 60204
+S
+#60206
+{rGooey{} {bGumdrops{}~
+Your feet sink into the gooeyness and you get stuck.  Not to mention, you
+just ruined you best pair of shoes.  
+~
+0 0 0
+D1
+~
+~
+0 0 60207
+D3
+~
+~
+0 0 60206
+S
+#60207
+{YYellow Space{}~
+~
+0 0 0
+D1
+~
+~
+0 0 60206
+D3
+~
+~
+0 0 60208
+S
+#60208
+{BBlue Space{}~
+I'm {BBlue{} bop bah be dah bow bop bah be dah.  I live in a {BBlue{}
+house with a {BBlue{} window.  I play on {BBlue{} spaces with my {BBlue{}
+friends because I'm {BBlue{}.  
+~
+0 0 0
+D1
+~
+~
+0 0 60207
+D3
+~
+~
+0 0 60209
+S
+#60209
+{GGreen Space{}~
+"I'm looking over a four leaf clover".  Or maybe you're just sitting in a
+big {GGreen{} box.  
+~
+0 0 0
+D0
+~
+~
+0 0 60210
+D1
+~
+~
+0 0 60208
+S
+#60210
+{RRed Space{}~
+Either you are bleeding from your eyeballs or we snuck some {RRed{}
+contact lenses into your eyes.  This is Candy Land so my guess is the
+{RRed{} contacts.  
+~
+0 0 0
+D2
+~
+~
+0 0 60209
+D3
+~
+~
+0 0 60211
+S
+#60211
+{MPurple Space{}~
+This space doesn't look so much like a {MPurple{} box as a {MPurple{}
+pyramid.  Hmm, someone is getting creative with {MPurple{} here.  
+~
+0 0 0
+D1
+~
+~
+0 0 60210
+D3
+~
+~
+0 0 60212
+S
+#60212
+{*Licorice Castle{}~
+Evilness eminates from this square.  It is the only place you have been
+that you get this bad feeling from.  The castle probably doesn't even taste
+good either.  
+~
+0 0 0
+D1
+~
+~
+0 0 60211
+D3
+~
+~
+0 0 60213
+S
+#60213
+{YYellow Space{}~
+~
+0 0 0
+D1
+~
+~
+0 0 60212
+D3
+~
+~
+0 0 60214
+S
+#60214
+{BBlue Space{}~
+I'm {BBlue{} bop bah be dah bow bop bah be dah.  I live in a {BBlue{}
+house with a {BBlue{} window.  I play on {BBlue{} spaces with my {BBlue{}
+friends because I'm {BBlue{}.  
+~
+0 0 0
+D0
+~
+~
+0 0 60215
+D1
+~
+~
+0 0 60213
+S
+#60215
+{GGreen Space{}~
+"I'm looking over a four leaf clover".  Or maybe you're just sitting in a
+big {GGreen{} box.  
+~
+0 0 0
+D0
+~
+~
+0 0 60216
+D2
+~
+~
+0 0 60214
+S
+#60216
+{RRed Space{}~
+Either you are bleeding from your eyeballs or we snuck some {RRed{}
+contact lenses into your eyes.  This is Candy Land so my guess is the
+{RRed{} contacts.  
+~
+0 0 0
+D0
+~
+~
+0 0 60217
+D2
+~
+~
+0 0 60215
+S
+#60217
+{MPurple Space{}~
+This space doesn't look so much like a {MPurple{} box as a {MPurple{}
+pyramid.  Hmm, someone is getting creative with {MPurple{} here.  
+~
+0 0 0
+D0
+~
+~
+0 0 60218
+D2
+~
+~
+0 0 60216
+S
+#60218
+{cPeanut Brittle House{}~
+You can smell the sweet goodness of {cPeanut Brittle{}.  Peanuts grow in
+the front yard for Gramma Nutt to pick and use for her delicious brittle.  
+~
+0 8 0
+D0
+~
+~
+0 0 60219
+D2
+~
+~
+0 0 60217
+S
+#60219
+{YYellow Space{}~
+~
+0 0 0
+D1
+~
+~
+0 0 60220
+D2
+~
+~
+0 0 60218
+S
+#60220
+{BBlue Space{}~
+I'm {BBlue{} bop bah be dah bow bop bah be dah.  I live in a {BBlue{}
+house with a {BBlue{} window.  I play on {BBlue{} spaces with my {BBlue{}
+friends because I'm {BBlue{}.  
+~
+0 0 0
+D1
+~
+~
+0 0 60221
+D3
+~
+~
+0 0 60219
+S
+#60221
+{GGreen Space{}~
+"I'm looking over a four leaf clover".  Or maybe you're just sitting in a
+big {GGreen{} box.  
+~
+0 0 0
+D1
+~
+~
+0 0 60222
+D3
+~
+~
+0 0 60220
+S
+#60222
+{MLollipop Woods{}~
+Different colored {YLollipops{} sprout from the ground all around you. 
+These {GLollipops{} look sweet and scrumtious.  You know, there are no signs
+saying not to eat the {RLollipops{}.  
+~
+0 0 0
+D1
+~
+~
+0 0 60223
+D3
+~
+~
+0 0 60221
+S
+#60223
+{YYellow Space{}~
+~
+0 0 0
+D1
+~
+~
+0 0 60224
+D3
+~
+~
+0 0 60222
+S
+#60224
+{BBlue Space{}~
+I'm {BBlue{} bop bah be dah bow bop bah be dah.  I live in a {BBlue{}
+house with a {BBlue{} window.  I play on {BBlue{} spaces with my {BBlue{}
+friends because I'm {BBlue{}.  
+~
+0 0 0
+D0
+~
+~
+0 0 60225
+D3
+~
+~
+0 0 60223
+S
+#60225
+{GGreen Space{}~
+"I'm looking over a four leaf clover".  Or maybe you're just sitting in a
+big {GGreen{} box.  
+~
+0 0 0
+D0
+~
+~
+0 0 60226
+D2
+~
+~
+0 0 60224
+S
+#60226
+{RRed Space{}~
+Either you are bleeding from your eyeballs or we snuck some {RRed{}
+contact lenses into your eyes.  This is Candy Land so my guess is the
+{RRed{} contacts.  
+~
+0 0 0
+D2
+~
+~
+0 0 60225
+D3
+~
+~
+0 0 60227
+S
+#60227
+{CI{wc{Ce {wC{Cr{we{Ca{wm {CS{we{Ca{}~
+You are staring over a sea that seem to be an {CI{wc{Ce {wC{Cr{we{Ca{wm{}
+float.  Hope you brought your own straw and spoon.  There doesn't seem to be
+any extras.  
+~
+0 0 0
+D1
+~
+~
+0 0 60226
+D3
+~
+~
+0 0 60228
+S
+#60228
+{YYellow Space{}~
+~
+0 0 0
+D1
+~
+~
+0 0 60227
+D3
+~
+~
+0 0 60229
+S
+#60229
+{BBlue Space{}~
+I'm {BBlue{} bop bah be dah bow bop bah be dah.  I live in a {BBlue{}
+house with a {BBlue{} window.  I play on {BBlue{} spaces with my {BBlue{}
+friends because I'm {BBlue{}.  
+~
+0 0 0
+D1
+~
+~
+0 0 60228
+D3
+~
+~
+0 0 60230
+S
+#60230
+{GGreen Space{}~
+"I'm looking over a four leaf clover".  Or maybe you're just sitting in a
+big {GGreen{} box.  
+~
+0 0 0
+D1
+~
+~
+0 0 60229
+D2
+~
+~
+0 0 60231
+S
+#60231
+{RRed Space{}~
+Either you are bleeding from your eyeballs or we snuck some {RRed{}
+contact lenses into your eyes.  This is Candy Land so my guess is the
+{RRed{} contacts.  
+~
+0 0 0
+D0
+~
+~
+0 0 60230
+D3
+~
+~
+0 0 60232
+S
+#60232
+{MPurple Space{}~
+This space doesn't look so much like a {MPurple{} box as a {MPurple{}
+pyramid.  Hmm, someone is getting creative with {MPurple{} here.  
+~
+0 0 0
+D1
+~
+~
+0 0 60231
+D3
+~
+~
+0 0 60233
+S
+#60233
+{yMolasses Swamp{}~
+This here is a boggy but sweet swamp.  You wish you had a piece of bread
+to sop up some of the molasses with.  The {yMolasses Swamp{} seems to be
+pulsating with life.  
+~
+0 0 0
+D1
+~
+~
+0 0 60232
+D3
+~
+~
+0 0 60234
+S
+#60234
+{YYellow Space{}~
+~
+0 0 0
+D1
+~
+~
+0 0 60233
+D3
+~
+~
+0 0 60235
+S
+#60235
+{BBlue Space{}~
+I'm {BBlue{} bop bah be dah bow bop bah be dah.  I live in a {BBlue{}
+house with a {BBlue{} window.  I play on {BBlue{} spaces with my {BBlue{}
+friends because I'm {BBlue{}.  
+~
+0 0 0
+D0
+~
+~
+0 0 60236
+D1
+~
+~
+0 0 60234
+S
+#60236
+{GGreen Space{}~
+"I'm looking over a four leaf clover".  Or maybe you're just sitting in a
+big {GGreen{} box.  
+~
+0 0 0
+D0
+~
+~
+0 0 60237
+D2
+~
+~
+0 0 60235
+S
+#60237
+{RRed Space{}~
+Either you are bleeding from your eyeballs or we snuck some {RRed{}
+contact lenses into your eyes.  This is Candy Land so my guess is the
+{RRed{} contacts.  
+~
+0 0 0
+D0
+~
+~
+0 0 60238
+D2
+~
+~
+0 0 60236
+S
+#60238
+{MPurple Space{}~
+This space doesn't look so much like a {MPurple{} box as a {MPurple{}
+pyramid.  Hmm, someone is getting creative with {MPurple{} here.  
+~
+0 0 0
+D1
+~
+~
+0 0 60239
+D2
+~
+~
+0 0 60237
+S
+#60239
+{wStanding on a {RRed{w Candy{}~
+{RBelow your feet is a giant tart candy that is shaped like a stepping
+stone.  {} 
+~
+0 0 0
+D1
+~
+~
+0 0 60240
+D3
+~
+~
+0 0 60238
+S
+#60240
+{wStanding on a {BBlue{w Candy{}~
+{BBelow your feet is a giant gummi candy that is shaped like a stepping
+stone.  {} 
+~
+0 0 0
+D0
+~
+~
+0 0 60241
+D3
+~
+~
+0 0 60239
+S
+#60241
+{wStanding on a {MPurple{} Candy{}~
+{MBelow your feet is a giant rock candy that is shaped like a stepping
+stone.  {} 
+~
+0 0 0
+D1
+~
+~
+0 0 60242
+D2
+~
+~
+0 0 60240
+S
+#60242
+{wStanding on a {GGreen{w Candy{}~
+{GBelow your feet is a giant sour candy that is shaped like a stepping
+stone.  {} 
+~
+0 0 0
+D1
+~
+~
+0 0 60243
+D3
+~
+~
+0 0 60241
+S
+#60243
+{wStanding on a {YYellow{w Candy{}~
+{YBelow your feet is a giant chewy candy that is shaped like a stepping
+stone.  {} 
+~
+0 0 0
+D0
+~
+~
+0 0 60244
+D3
+~
+~
+0 0 60242
+S
+#60244
+{RC{MA{YN{BD{GY {RC{MA{YS{BT{GL{RE{}~
+This is the most magnificent structure you have ever seen.  The
+{RC{MA{YN{BD{GY {RC{MA{YS{BT{GL{RE{} is covered from ground to rooftop with
+every candy known to the World of {RP{rh{Ro{re{Rn{ri{Rx{}.  It is the most
+delicious thing you have ever laid your eyes on.  Watch your feet, you are
+standing in your drool.  
+~
+0 0 0
+D2
+~
+~
+0 0 60243
+S
+#60245
+Game Storage~
+Here, one is ankle-deep in the center of a vast collection of leftover
+game pieces.  {GMoney{x covers the walls.  {$C{!h{Wi{!p{$s{x cover the floor.  Little
+{wplastic{x and {wm{We{wt{Wa{wl{x pieces march around the room.  
+~
+0 8 9
+D3
+~
+~
+0 0 60106
+S
+#0
+
+
+
+#SPECIALS
+M 60110 spec_prog2
+M 60113 spec_prog2
+M 60114 spec_prog2
+M 60118 spec_high_cleric
+M 60119 spec_high_cleric
+M 60120 spec_circle
+M 60121 spec_breath_lightning
+M 60130 spec_high_mage
+M 60131 spec_circle
+M 60132 spec_circle
+M 60133 spec_high_cleric
+M 60134 spec_high_cleric
+M 60135 spec_high_mage
+M 60136 spec_circle
+M 60137 spec_breath_any
+M 60138 spec_circle
+S
+
+
+
+#RESETS
+D 0 60111 0 1
+D 0 60112 2 1
+M 0 60100 5 60101 1
+M 0 60101 5 60101 1
+M 0 60102 5 60101 1
+M 0 60100 5 60102 1
+M 0 60101 5 60102 1
+M 0 60102 5 60102 1
+M 0 60100 5 60103 1
+M 0 60101 5 60103 1
+M 0 60102 5 60103 1
+M 0 60100 5 60104 1
+M 0 60101 5 60104 1
+M 0 60102 5 60104 1
+M 0 60100 5 60105 1
+M 0 60101 5 60105 1
+M 0 60102 5 60105 1
+M 0 60103 3 60109 3
+M 0 60103 3 60109 3
+M 0 60103 3 60109 3
+M 0 60112 1 60115 1
+M 0 60105 1 60118 1
+M 0 60104 1 60120 1
+E 0 60101 0 16
+M 0 60111 1 60122 1
+G 0 60107 0
+M 0 60113 1 60123 1
+E 0 60108 0 16
+M 0 60110 1 60128 1
+E 0 60106 0 16
+M 0 60108 1 60130 1
+E 0 60104 0 16
+M 0 60109 1 60133 1
+E 0 60105 0 17
+M 0 60107 1 60135 1
+E 0 60103 0 17
+M 0 60106 1 60137 1
+E 0 60102 0 16
+M 0 60114 1 60138 1
+E 0 60109 0 16
+M 0 60115 27 60141 3
+M 0 60115 27 60141 3
+M 0 60115 27 60141 3
+M 0 60119 3 60142 1
+M 0 60115 27 60143 2
+M 0 60115 27 60143 2
+M 0 60122 1 60143 1
+M 0 60116 4 60145 1
+M 0 60115 27 60146 1
+M 0 60118 3 60147 1
+M 0 60115 27 60148 2
+M 0 60115 27 60148 2
+M 0 60126 1 60148 1
+M 0 60115 27 60149 2
+M 0 60115 27 60149 2
+M 0 60115 27 60151 3
+M 0 60115 27 60151 3
+M 0 60115 27 60151 3
+M 0 60121 1 60152 1
+M 0 60115 27 60153 1
+M 0 60123 1 60153 1
+M 0 60117 4 60154 1
+M 0 60116 4 60155 1
+M 0 60117 4 60156 1
+M 0 60119 3 60157 1
+M 0 60115 27 60158 1
+M 0 60115 27 60161 1
+M 0 60125 1 60161 1
+M 0 60118 3 60162 1
+M 0 60115 27 60163 2
+M 0 60115 27 60163 2
+M 0 60115 27 60164 2
+M 0 60115 27 60164 2
+M 0 60116 4 60165 1
+M 0 60115 27 60166 1
+M 0 60115 27 60167 1
+M 0 60120 1 60168 1
+M 0 60115 27 60169 1
+M 0 60127 1 60169 1
+M 0 60115 27 60171 2
+M 0 60115 27 60171 2
+M 0 60128 1 60171 1
+M 0 60115 27 60172 1
+M 0 60119 3 60173 1
+M 0 60115 27 60174 1
+M 0 60116 4 60175 1
+M 0 60118 3 60176 1
+M 0 60124 1 60176 1
+M 0 60117 4 60177 1
+M 0 60117 4 60179 1
+M 0 60129 1 60180 1
+M 0 60130 1 60190 1
+M 0 60131 1 60196 1
+M 0 60132 1 60202 1
+M 0 60133 1 60212 1
+M 0 60134 1 60218 1
+M 0 60138 1 60222 1
+M 0 60135 1 60227 1
+M 0 60136 1 60233 1
+M 0 60137 1 60244 1
+M 0 60139 1 60245 1
+G 0 60110 0
+S
+
+
+
+#SHOPS
+60139 0 0 0 0 0 110 90 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

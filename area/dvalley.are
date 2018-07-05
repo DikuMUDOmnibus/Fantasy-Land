@@ -1,0 +1,649 @@
+#AREADATA
+Name Death Valley~
+Builders Unlinked~
+VNUMs 50300 50350
+Continent 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#50300
+shadow demon~
+{8S{7h{8a{7d{8o{7w {8D{7e{8m{7o{8n{0~
+A {8S{7h{8a{7d{8o{7w {8D{7e{8m{7o{8n{0 stands here.
+~
+~
+dragon~
+ABGOPWc JPTUVZce CDE -1000 0
+150 200 20d100+10000 150d150+999 20d20+75 claw
+70 70 70 70
+CDFIJKMNO 0 JQ ABFHNS
+stand stand male 5000
+AHZ ACDEFGHIJKPQUVX huge unknown
+F res BEH
+F vul I
+#50301
+gila monster~
+{3G{1i{3l{1a {8M{7o{8n{7s{8t{7e{8r{0~
+A {3G{1i{3l{1a {8M{7o{8n{7s{8t{7e{8r{0 is standing here.
+~
+~
+human~
+Ac VZ 0 -1000 0
+160 100 200d200+999 150d10+100 15d15+150 bite
+-50 -50 -50 -50
+0 AB 0 HNS
+stand stand none 60000
+AX ABCDEFGHIJKLMNOPQUVWXY medium unknown
+F for HMV
+#50302
+Sand Dracolich~
+{&S{8a{#n{7d {8D{&r{3a{7c{3o{8l{7i{3c{7h{0~
+A {&S{8a{#n{7d {8D{&r{3a{7c{3o{8l{7i{3c{7h{0 is standing here.
+~
+~
+human~
+A 0 0 -1000 0
+160 250 350d350+999 200d10+100 15d15+150 psias
+-45 -45 -45 -45
+CDFIJKMNO 0 JQ HNS
+stand stand none 60000
+AE ABCDEFGHIJKLMNOPQUVWXY huge unknown
+F for HMV
+#50304
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50321
+pill pop popper~
+{WPill P{coppe{WR{x~
+Strung out on pills, the Popper rises to save his stash.
+~
+~
+storm-giant~
+AF DFPQTVa CDEH 0 0
+180 0 1d1+65000 0d0+0 250d5+1 none
+10 10 10 10
+0 J EG P
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#50322
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50344
+genie mystical~
+Mystical Genie~
+Beware of the {BMy{bs{Wti{bc{Bal G{be{Wn{bi{Be{x
+~
+~
+kenku~
+ABFGS FLPQT 0 1000 0
+145 200 1d1+50000 250d5+1 250d5+1 none
+-25 -25 -25 -20
+BDFHJKN ABX 0 EQ
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+#50345
+Leveler~
+leveler~
+Here stands leveler, kill me
+~
+~
+human~
+AB 0 0 0 0
+2000 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#50300
+sign~
+sign~
+A sign is stuck in the ground.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+_
+This area is for LGD's only. IF you  are not
+a LGD and want to travel on into the area I
+say that you have been Warned that these mobs
+are no day in the park and Death walks this
+Lands destruction is what these mob are great at.
+_
+Thank you
+Area creator
+Raziel
+~
+#50301
+sword fire~
+{7sw{8o{7rd{0 of {1f{3i{1r{3e{0~
+A {7sw{8o{7rd{0 of {1f{3i{1r{3e{0 lies here.~
+fire~
+weapon ARTY AN
+sword 10 19 slice AF
+101 30 50000 P
+A
+14 50
+A
+18 5
+A
+13 100
+A
+19 10
+#50321
+scar poppers~
+{WP{coppe{WR's {RS{rc{Ra{rr{x~
+A scar from a pillhead who could not stand up~
+clot~
+armor ABFT AL
+BCD E E BD 0
+101 1 25000 P
+A
+13 30
+A
+1 1
+A
+19 10
+#50322
+key untold treasures~
+key to untold {YTreasures{x~
+A key of bone, unlocking a treasure room of miracles~
+bone~
+key NOST AO
+0 0 0 0 0
+1 0 0 P
+#50333
+Turkey~
+a {YT{yu{wrk{ye{Yy {xGobbles here~
+A {YT{yu{wrk{ye{Yy {xGobbles here~
+unknown~
+trash OTYa A
+0 0 0 0 0
+1 0 0 P
+#50334
+calamirs anger~
+{WC{xalamir{Ws A{xnge{Wr{x~
+Here lies Calamirs pissy mood~
+unknown~
+armor A AW
+0 0 0 0 0
+101 0 0 P
+A
+19 20
+#50342
+pool cave cavern~
+{cA {CG{Wl{ci{wm{Cm{We{cr{wi{Cn{Wg {CP{coo{Cl{x~
+A {CG{Wl{ci{wm{Cm{We{cr{wi{Cn{Wg {CP{coo{Cl{x gurgles here.~
+unknown~
+portal OR 0
+0 0 ABC BDGHKOP 0
+0 0 0 P
+#50344
+Mystical genie armband~
+{BM{by{Wstic{ba{Bl G{be{Wni{be{Bs {YG{yo{Yl{yd{Ye{yn {WArmband{x~
+Here lies the golden armband of a mystical genie.~
+gold~
+armor AB AM
+ACE CE AE AE 0
+101 10 101000 P
+A
+19 15
+A
+1 -2
+A
+13 -150
+A
+18 10
+#0
+
+
+
+#ROOMS
+#50300
+Death Valley~
+You have entered Death Valley. There are {!r{1e{!d {1e{!y{1e{!s{0 looking at you. It
+seems like there are thousands of creatures here looking to eat you alive.
+In the center of these {1e{!y{1e{!s{0 a dark shadow begins to form and a
+Creature the size of a mountain steps forward to take you into the abyss.
+~
+0 65537 4
+D1
+~
+~
+0 0 50301
+M 25 H 25
+S
+#50301
+Death Valley~
+Travling farther into Death Valley, carnage is every.
+There is a strong feeling that you should leave before
+it is to late.
+~
+0 65537 4
+D1
+~
+~
+0 0 50302
+D3
+~
+~
+0 0 50300
+M 25 H 25
+S
+#50302
+Death Valley~
+Traveling further into Death Valley knowing that anytime
+now it could be your last breath. In the distances the
+path is starting to turn towards the north.
+~
+0 65537 4
+D1
+~
+~
+0 0 50303
+D3
+~
+~
+0 0 50301
+M 25 H 25
+S
+#50303
+Death Valley~
+Traveling further into Death Valley and you can see {1blood{0 everywhere.
+There is a trail of {1blood{0, almost like drag marks leading to the north.
+There is a  Sound comming from the north almost sounds like someone is screaming.
+~
+0 65537 4
+D0
+~
+~
+0 0 50304
+D3
+~
+~
+0 0 50302
+M 25 H 25
+S
+#50304
+Death Valley~
+As you enter the room you see some type of creature finshing off it
+victim. With his last dying breath Aegir says '{6leave this area before
+it is to late.{0' then he dies. The beast turns around and come towards
+you.
+~
+0 1 4
+D0
+~
+~
+0 0 50305
+D2
+~
+~
+0 0 50303
+M 25 H 25
+S
+#50305
+~
+~
+0 0 0
+D2
+~
+~
+0 0 50304
+S
+#50321
+~
+~
+0 8455168 0
+D3
+~
+~
+0 50322 50322
+S
+#50322
+Room of untold {YTreasures{x~
+Treasure litters the floor, no doubt the spoils of the thefts commited by
+the pill popper and his gang.  It is here for the taking, and not a thank
+you is expected.  Steal and steal alike I always say....  
+~
+0 9220 0
+S
+#50333
+{GF{go{Gr{ge{Gs{gt {yTrail{x~
+A small dirt trail leads upward through the pines, starting its assent up
+the mountain.  The wind blows softly through the trees, making this almost a
+serene place to be , the sound of birds, and the noises of other animals
+echo through the trees as well.
+~
+0 0 0
+D4
+~
+~
+0 0 50334
+S
+#50334
+{GF{go{Gr{ge{Gs{gt {yTrail{x~
+A small dirt trail leads upward through the pines, starting its assent up
+the mountain.  The wind blows softly through the trees, making this almost a
+serene place to be , the sound of birds, and the noises of other animals
+echo through the trees as well.
+~
+0 0 0
+D4
+~
+~
+0 0 50335
+D5
+~
+~
+0 0 50333
+S
+#50335
+{DC{ya{Dv{ye {xEntrance~
+The trail ends here at the base of the mountain.  Sheer cliffs rise up
+thousands of feet beyond mortal sight.  A slight crack in the wall of the
+mountain looks like a good place to explore.  Or is it?  
+~
+0 0 0
+D0
+~
+~
+0 0 50336
+D5
+~
+~
+0 0 50334
+S
+#50336
+{DA {DT{yi{Dg{yh{Dt {DSqueeze{x~
+This is one skinny little area with hardly enough room for a person to
+fit through.  Beyond it in the dim light can be seen a larger opening, but
+the fit seems to get tighter before the opening.  
+~
+0 0 0
+D0
+~
+~
+0 0 50337
+D2
+~
+~
+0 0 50335
+S
+#50337
+{yA {DT{yi{Dg{yh{Dt{ye{Dr {ySqueeze{x~
+This is even tighter then the last few yards, but a cavern can be seem
+just ahead.  The light here is dim, but upwards way up there is a stream of
+light shining through what looks to be a man made hole.  The light seems to
+shine right on through to the cavern then onto some rocks on the far side.  
+~
+0 0 0
+D0
+~
+~
+0 0 50338
+D2
+~
+~
+0 0 50336
+S
+#50338
+Entrance to the {yC{Da{yv{De{yr{Dn{x~
+Water droplets can be seen and heard falling from the stalagmites and
+stalagtites that adorn this whole cavern.  The only light that illuminates
+this room comes from the light through the hole above head.  Ahead a few
+steps the light hits the wall, to the nothwest lays a pool of refreshing
+looking water.  Other non-distinguishable sounds can be heard in echos.  
+~
+0 0 0
+D0
+~
+~
+0 0 50341
+D1
+~
+~
+0 0 50340
+D2
+~
+~
+0 0 50337
+D3
+~
+~
+0 0 50339
+S
+#50339
+{yC{Da{yv{De{yr{Dn{x~
+The ground is smooth from all of the years of water falling or running
+over it.  The only obstacles are the sharp stalagmites protruding from the
+ground.  There are glimmers from the rocks, that lay about, but sadly it's
+only pirite, a flaky, shiny rock.  
+~
+0 0 0
+D0
+~
+~
+0 0 50342
+D1
+~
+~
+0 0 50338
+S
+#50340
+{yC{Da{yv{De{yr{Dn{x~
+The ground is smooth from all of the years of water falling or running
+over it.  The only obstacles are the sharp stalagmites protruding from the
+ground.  There are glimmers from the rocks, that lay about, but sadly it's
+only pirite, a flaky, shiny rock.  
+~
+0 0 0
+D0
+~
+~
+0 0 50343
+D3
+~
+~
+0 0 50338
+S
+#50341
+Center of the {yC{Da{yv{De{yr{Dn{x~
+This is the middle of the cavern, where all can be seen..  And heard? 
+The sound seem to be amplified here, and this is where most people figure
+out that they are not alone in this cavern.  It must be animals of some sort
+that got in, and live here.  
+~
+0 0 0
+D0
+~
+~
+0 0 50344
+D1
+~
+~
+0 0 50343
+D2
+~
+~
+0 0 50338
+D3
+~
+~
+0 0 50342
+S
+#50342
+{yC{Da{yv{De {CP{coo{Cl{x~
+Not a very big pool, but a pool none the less.  The water looks
+refreshing, so clear it looks very deep.  Something at the bottom of the
+pool looks shiny, but it's hard to tell because there is a rush of water
+over the top as the springs pour into the pool 
+~
+0 0 0
+D1
+~
+~
+0 0 50341
+D2
+~
+~
+0 0 50339
+S
+#50343
+{yC{Da{yv{De{yr{Dn {yCor{Dn{yer{x~
+This really looks like the corner of any wall.  There is a corner edge
+just as seen in a house, perfectly straight, and the walls are smooth. 
+There seems to be less stalagmites protruding from the floor, and the rock
+seems polished.  Looks almost like the 
+~
+0 0 0
+D2
+~
+~
+0 0 50340
+D3
+~
+~
+0 0 50341
+S
+#50344
+{YG{Wl{Yy{Wp{Yh{Ws {xof {WL{Yi{Wg{Yh{Wt{x~
+The light seen in the tight sqeeze to the cavern shines right on this
+wall.  Drawn on this wall are ancient glyphs, so old that they do not even
+show up in any records an adventurer may have.  The light shines right in
+the middle of the glyph, and it shows upon a hole in the wall of this caven.
+But of what use is this hole if you cannot make out the writting.  This is
+where the adventure begins.  
+~
+0 0 0
+D2
+~
+~
+0 0 50341
+S
+#50345
+~
+~
+0 0 0
+D0
+~
+~
+0 0 50346
+S
+#50346
+~
+~
+0 0 0
+D0
+~
+~
+0 0 50347
+D2
+~
+~
+0 0 50345
+S
+#50347
+~
+~
+0 0 0
+D2
+~
+~
+0 0 50346
+D4
+~
+~
+0 0 50349
+D5
+~
+~
+0 0 50348
+S
+#50348
+~
+~
+0 0 0
+D4
+~
+~
+0 0 50347
+S
+#50349
+~
+~
+0 0 0
+D5
+~
+~
+0 0 50347
+S
+#50350
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 50300 1 50300 1 *Load {8S{7h{8a{7d{8o{7w {8D{7e{8m{7o{8n{0
+O 0 50300 0 50300 *Sign loaded to Death Valley
+M 0 50301 1 50301 1 *Load {3G{1i{3l{1a {8M{7o{8n{7s{8t{7e{8r{0
+M 0 50302 6 50302 3 *Load {&S{8a{#n{7d {8D{&r{3a{7c{3o{8l{7i{3c{7h{0
+E 0 50301 0 16 *{7sw{8o{7rd{0 of {1f{3i{1r{3e{0 is loaded wielded of {&S{8a{#n{7d {8D{&r{3a{7c{3o{8l{7i{3c{7h{0
+O 0 50342 0 50342 *{ca {cg{wl{ci{wm{cm{we{cr{wi{cn{wg {cp{coo{cl{x loaded to {yC{Da{yv{De {CP{coo{Cl{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

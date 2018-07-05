@@ -1,0 +1,2611 @@
+#AOD_AREA
+Knight Dreams~
+1000 1099 C 9
+Levl 51 80
+Bldr Orb~
+End
+
+#MOBILES
+#1000
+archangel angel guardian gatekeeper keeper~
+the Gatekeeper~
+The Archangel of the gates stands here protecting it from defilers.
+~
+The guardian of the Realmsgate floats here, protecting it from any that dare
+defile its sacredness. He is an archangel, one of those who fought the dark
+lord for his god and lived to tell about it.
+~
+human~
+100 50 0 100 0 100 100 100 0 100 100 100 50 100 150 100 100 50 0 100 50 100 100 100 100 100 
+ABGQ DFT 0 1000 0
+99 100 0 4473 4577 1470 1529 49 99 19 wrath
+-200 -200 -200 -200
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+W 1
+
+#1001
+angel death~
+the Angel of Death~
+The Angel of Death wanders about looking for souls to harvest. 
+~
+The angel's evil grin is enough to slay any mortal where he stands, and his
+massive power rivals that of his lord. His sole purpose in reality is to
+lead the souls of the dead willingly, or unwillingly to the gates of
+heaven, then let them in.
+~
+human~
+100 50 0 100 100 100 100 100 0 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABFGQ DFPTU 0 0 0
+100 100 0 5230 5310 0 0 50 100 0 divine
+-200 -200 -200 -200
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+W 1
+
+#1002
+realms living energy power~
+the Living Realms~
+A mass of energy swirls within the rooms center.
+~
+A mass of energy and power congeal within the center of the gate!
+~
+human~
+50 50 0 50 0 100 100 100 50 50 100 0 50 50 100 100 100 50 0 100 50 100 100 100 100 100 
+ABFGRT BDFVZc HNOTU -1000 0
+150 2000 -120 364970 475921 50001 50001 600 850 20 wrath
+-1500 -1500 -1500 -1500
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+W 1
+R 35
+
+#1003
+lordion knight roses~
+Lordion, the Knight of Roses~
+A man dressed in elegant plate mail guards the path.
+~
+The man is dressed in shining silver platemail which glints in the
+unholy light of the heavens. He turns towards you and speaks:
+
+   "Hello there young one, I see you have found your way into the
+   realms of the gods. I have a quiz for thee young one. Something
+   special about the realms will allow you access to the most
+   powerful of all statuettes. It is a copy of the Oracle south
+   of where we now stand, its powers immense. With its holy
+   light it can guide you to anyplace within the realms, but be 
+   careful if you die it loses faith and returns to its current
+   home. Good luck adventurer."
+
+With that he returns to his vigil of guarding the paths.
+~
+human~
+100 0 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABGT DFT N 1000 0
+101 200 0 5729 5828 0 0 50 101 50 smash
+0 0 0 0
+STANDING STANDING male 2000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1004
+northern oracle~
+The Northern Oracle~
+A writhing essence of some sort sits within the head of the Oracle.
+~
+The Northern Oracle looks like an apparition of some sort, floating in
+the center of the statue's head chamber. Its mass is immense and its
+power exquisite.
+~
+dog~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFGR DFT H 0 0
+102 102 0 6228 6317 0 0 51 102 15 drain
+-250 -250 -250 -250
+STANDING STANDING female 0
+0 mage medium ACDEFHJKUV
+W 1
+
+#1005
+rosebush vampiric deadly bush~
+A vampiric rosebush~
+A deadly bush of roses writhes along the path!
+~
+A large rosebush runs the length of the garden walls, it's vines writhing
+to your heartbeat. It lusts for blood and will attack anything it sees as
+inferior to it's own power.
+~
+bat~
+100 100 0 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFGR FJTZ 0 0 0
+92 0 0 3351 3407 2 2 46 92 19 whip
+-120 -200 -150 0
+STANDING STANDING neutral 0
+0 mage medium ACDEFHJKP
+W 1
+
+#1006
+vole deadly~
+A vole~
+A deadly vole searches through the garden for food.
+~
+The tiny vole looks ravished and ready to eat anything in sight!
+~
+dog~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AFGT DF 0 0 0
+80 0 0 1912 1950 0 0 40 80 18 bite
+-300 -200 -200 -50
+STANDING STANDING male 0
+0 mage small ACDEFHJKUV
+W 1
+
+#1007
+mad man hermit~
+the mad man~
+A mad hermit sits in the corner drooling profusely. 
+~
+The hermit is dressed in rags and has unkempt hair. His beard is straggly and
+looks ready to fall out. He leers at you and speaks:
+
+   "LOOK OUT! The flowers are attacking! They will kill you, they're
+    dangerous, be careful of them. I just came up here to smell the
+    knights roses, he has beautiful roses you know. He said there was
+    a secret somewhere so I looked. But the flowers, oh the flower, 
+    that one flower kept confusing me. It's vines were sharp and its
+    bloodlust unending! Good luck young one, I hope you return from
+    your quest better than I ever did!"
+
+He returns to screaming at a small dustbunny in the corner.
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABGR DF 0 0 0
+64 60 0 1031 1080 0 0 32 64 15 none
+-200 -250 -240 -600
+STANDING STANDING male 500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1008
+king nightmare tall dark man~
+the King of Nightmare~
+A tall dark man sits upon a tall dark throne.
+~
+A massive man, the size of a mountain sits upon his throne. He looks
+sated, though ready for combat at a moments notice. He grins as he 
+notices you, then speaks:
+
+   "Why hello there, I have not received visitors in quite some time.
+    They are always off searching the knights garden for his little
+    secret. Let me tell you though, its quite easy to figure out 
+    when you think about it. Oh how I miss the days my knights here
+    would visit, now all I have left are my legions of doom, the
+    rest have been slain by the fool dreamking and his doglike pet.
+    If you wish to stay and chat you're welcome, my knights here 
+    can be interesting conversationalists."
+
+With a laugh he just begins to watch your actions.
+~
+dog~
+100 50 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABGR DF 0 -1000 0
+100 100 0 4729 4810 3001 3001 50 100 10 punch
+-200 -200 -200 -200
+STANDING STANDING male 3000
+0 mage medium ACDEFHJKUV
+W 1
+
+#1009
+tortured prisoner man small~
+a tortured prisoner~
+A small man thats been whipped nearly to death lies here. 
+~
+This poor man sits in the center of the cell beaten and maimed. He has
+no hope in life but to die quickly.
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG DF 0 0 0
+1 0 0 1 1 0 0 1 20 0 pound
+10 0 0 0
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1010
+dying prisoner large man~
+A dying prisoner~
+A large man lies here in shock.
+~
+This man is next to death.
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG DF 0 0 0
+1 0 0 1 1 0 0 1 20 0 pound
+0 0 0 0
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1011
+headless corpse decapitated~
+A decapitated corpse~
+A headless corpse is walking into the cell walls.
+~
+For some unseen reason this corpse is walking about the cell without
+it's head!
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGO DF 0 0 0
+85 0 0 5286 5570 0 0 42 85 8 scratch
+-150 -150 -130 -170
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1012
+young woman female prisoner~
+A young female prisoner~
+A beautiful young woman lies within the cells center.
+~
+The poor woman lies in the center of the cell. The guards have beaten her
+to excess and left her for dead. She quietly turns towards you and speaks:
+
+   "Oh how beautiful the flower was!"
+
+Her head drops and she ceases to pay attention to you, her body drained
+nearly dry by a great force.
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFG DF 0 0 0
+1 0 0 1 1 0 0 1 20 0 pound
+0 0 0 0
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1013
+judge dream monstrous woman~
+The Judge of Dream~
+A monstrous woman sits upon the dark altar.
+~
+A tall woman dressed in black robes presides over the court of Nightmare, 
+she condemns souls for no reason other than the sheer joy of it.
+~
+fox~
+100 50 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABFGQ DFJZa 0 -1000 0
+95 95 0 4244 4327 5001 5001 47 95 18 none
+-250 -250 -250 -50
+STANDING STANDING female 2000
+0 mage medium ACDEFHJKQV
+W 1
+
+#1014
+ethereal bailiff appirition~
+An ethereal bailiff~
+An appirition floats here.
+~
+This fellow does not even exist, his is simply an astral projection of a long
+dead guard of the king of nightmare.
+~
+fox~
+100 50 0 100 100 100 100 100 100 100 100 100 150 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABFGT DFJZ H 0 0
+101 100 0 5735 5816 0 0 50 101 19 slash
+-210 -210 -210 -210
+STANDING STANDING male 0
+0 mage medium ACDEFHJKQV
+W 1
+
+#1015
+doomed prisoner little gnome~
+A doomed prisoner~
+A twitching little gnome sits in the blood.
+~
+This small gnomish thief looks around at the cell, trying to plan his escape
+from death. He snickers and says:
+
+   "Oh, I figured out the secret, that's why I'm here, that bastard Lordion
+    said I attacked him, but all I really did was find the emerald statuette!"
+
+He chuckles quietly and begins to rub his hands together.
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCGR DFPQZ 0 0 0
+101 102 0 5978 6069 0 0 50 101 30 pierce
+-150 -150 -150 -200
+STANDING STANDING male 2000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1016
+executioner man~
+The Executioner~
+A mountain of a man stands here, wielding his axe.
+~
+He grins and says, "Hello, prepare to die."
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABCFGR DFTa H -1000 0
+103 200 0 6733 6819 1001 1001 51 103 100 cleave
+-500 -500 -500 0
+STANDING STANDING male 7000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1017
+doom knight metallic statue~
+the Doom Knight~
+A metallic statue stands near the throne.
+~
+This is nothing but a statue of armor that stands motionless within the throne
+room.
+~
+dog~
+100 100 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGQ DFa H 1000 0
+101 100 0 5235 5310 2001 2001 50 101 20 pound
+-210 -210 -210 -210
+STANDING STANDING male 5000
+0 mage medium ACDEFHJKUV
+W 1
+
+#1018
+doom knight metallic statue~
+the Doom Knight~
+A metallic statue stands near the throne.
+~
+This is nothing but a statue of armor that stands motionless within the throne
+room.
+~
+dog~
+100 100 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGQ DFa H 1000 0
+101 100 0 5229 5312 2001 2001 50 101 0 pound
+-210 -180 -230 -210
+STANDING STANDING male 5000
+0 mage medium ACDEFHJKUV
+W 1
+
+#1020
+wandering guard man armor~
+A wandering guard~
+A man in armor walks about the tower.
+~
+A tall man in armor patrols the tower of nightmares.
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AFGT 0 0 0 0
+85 85 0 2603 2670 0 0 42 85 25 shbite
+-150 -150 -150 -150
+STANDING STANDING male 500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1021
+officer man~
+the Officer~
+A man in dull metal armor looks over paperwork.
+~
+A tall man dressed in dull metal armor looks over a batch of paperwork, not
+even noticing your presence. He mumbles as he does his work:
+     "What the hell... A Harpsichord? Why was that added to my
+      inventory..."
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGR DF 0 0 0
+95 95 0 3815 3863 0 0 47 95 18 slice
+-150 -160 -180 -180
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1022
+king dreams jester crazy~
+the King of Dreams~
+A crazy jester bounces about the throneroom.
+~
+A little gaudy gnome dressed in filmy satin and purple scarves bounces about
+on his throne. He begins to juggle balls of light as he speaks:
+
+   "HELLO! It's SOOoooooo nice to have someone here in the WORLD of DREAMS!
+    Of.... course...    it is MY world, so   I think    I will letyou 
+    Stay here with me!  Yes, yesyesyes, that is soo nice don't you 
+                  think?   I think it's
+      nice, of course I am the king
+                                    anything I say that's nice is nice!"
+
+He seems a bit erratic and slightly confused.
+~
+dog~
+100 50 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABGR DFT H 0 0
+101 101 0 5223 5327 10001 10001 50 101 0 wrath
+-200 -200 -200 -900
+STANDING STANDING male 0
+0 mage medium ACDEFHJKUV
+W 1
+
+#1023
+kiru dog hairless~
+A Kiru~
+A large hairless dog sits near the throne.
+~
+This beast is some sort of dog, standing twelve feet high at the shoulder
+he protects his master from all harm.
+~
+dog~
+100 50 0 100 100 100 100 100 100 100 100 100 150 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABGR DF 0 0 0
+101 200 0 5236 5327 5001 5001 50 101 20 slash
+-230 -210 -210 -210
+STANDING STANDING male 0
+0 mage medium ACDEFHJKUV
+W 1
+
+#1024
+chef dream thin man~
+the Chef of Dream~
+A thin little man is setting the table.
+~
+He quickly speaks, 
+
+   "OH shit, another one huh? guess I have to cook some
+    more damn food."
+
+He grumbles and begins planning the menu.
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGR DF 0 0 0
+99 100 0 4584 4667 1001 1001 49 99 20 pound
+0 0 0 0
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1025
+fish energyfish~
+the Energyfish~
+A fish swims about the pond, happy as can be.
+~
+The sleek fish swims about the inside of the energy field.
+~
+human~
+100 100 100 100 100 100 50 100 150 100 100 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 
+ABG Qb 0 0 0
+85 100 0 2600 2669 10001 10001 42 85 15 shbite
+-140 -140 -140 -140
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1026
+losstruz hairy fuzzbal big~
+the Losstruz~
+A big hairy fuzzball sits here.
+~
+This massive mound of fuzz sits in the center of the floor, burping
+and gurgling.
+~
+human~
+100 50 50 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFGT FJc H -1000 0
+95 95 0 3351 3415 0 0 47 95 17 drain
+-170 -170 -170 -170
+STANDING STANDING male 1000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#1027
+zaffer huss tall evil wyvern~
+Zaffer'huss~
+A tall, evil looking wyvern is coiled about the center of the floor.
+~
+The large wyvern seams content to coil about his nest, though his sharp
+talons and deadly razorsharp claws are enough to eviscerate anything
+that gets too close.
+~
+human~
+100 100 0 50 100 100 50 100 100 100 150 50 100 100 100 100 100 0 0 100 100 100 100 100 100 100 
+ABFGR DFLT 0 0 0
+100 100 0 4714 4811 4006 7462 50 100 19 whip
+-200 -150 -200 -200
+STANDING STANDING male 580
+0 mage giant ABCDEFGHIJK
+W 1
+
+#1028
+jail guard burly~
+the Jail Guard~
+A burly looking guard rests in the prison walk.
+~
+The burly guard looks over the cellwalk, nodding off to sleep as he does.
+His bulging muscles look ready to rip anything apart that attacks, and his
+leather armor is studded with spikes for that added jail guarding 
+protection.
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGT DF 0 -1000 0
+70 75 0 1338 1373 0 0 35 70 11 slash
+-250 -250 -250 -250
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#1029
+elistania great wyrm dragon massive~
+Elistania, the Great Wyrm~
+A massive dragon is coiled about in the void.
+~
+Her massive body is covered in purple scales, each razor sharp and vibrant
+in their color. Two great horns curve down from her face, spiraling to 
+their points inches from her eyes. Her razor sharp tooth lined maw grins
+and speaks,
+
+   "Hello there, you won't get the pretty flower, no one will."
+
+With a cackling laugh she returns to stroking the huge blue orb in the
+center of the void.
+~
+human~
+100 100 100 50 100 100 50 100 100 100 150 50 100 100 100 100 100 0 0 100 100 100 100 100 100 100 
+ABGT DFLQT H 0 0
+101 102 0 6231 6324 10001 10001 50 101 40 flbite
+-300 -300 -300 -300
+STANDING STANDING female 8000
+0 mage medium ABCDEFGHIJK
+W 1
+#0
+
+#OBJECTS
+#1000
+angels wings torn set ~
+torn wings of an angel~
+a torn off set of wings lies here, twitching violently.~
+armor ABGKLMSTY AI
+21 20 22 17 0
+90 5 16194
+A 14 200
+A 13 100
+A 18 8
+A 19 11
+E
+angels wings torn set~
+The set of bloody wings looks ready to mold into its wearers arms, becoming 
+a permanent attachment of their own body. The long glistening feathers on 
+the wing reflect in the light, and give off an aura of holiness and 
+perfection.~
+
+#1001
+rose platemail suit studded~
+Rose Platemail~
+A suit of platemail studded with rose thorns lies upon the ground. ~
+armor ABMTY AD
+22 22 22 18 0
+100 5 15816
+A 13 300
+A 19 40
+A 18 40
+A 20 -1
+
+#1002
+statuette green emerald~
+An emerald green statuette~
+A tiny emerald statuette glows with immense power. ~
+light APTY A
+0 0 999 0 0
+90 5 17115
+A 14 100
+A 12 100
+A 13 100
+
+#1003
+chest thorn~
+A chest of thorns~
+A thorn lined chest sits in the corner of the room. ~
+container 0 0
+100 ABCD 1004 100 100
+0 5 0
+E
+chest thorn~
+The chest of thorns holds the ultimate prize the Southern Oracle can offer. ~
+
+#1004
+key thorn~
+A tiny rose thorn key~
+A small key made of a rose thorn lies here. ~
+key T A
+0 0 0 0 0
+0 1 0
+
+#1005
+whip thorns long thin coil rose~
+A whip of thorns~
+A long thin coil of rose vine lies here. ~
+weapon STY AN
+whip 10 10 whip B
+80 60 19209
+A 19 5
+A 13 50
+
+#1006
+Scurge of the Realm~
+{xScurge of the Realm~
+A massive amount of energy levitates here.~
+weapon AHZ AN
+exotic 14 13 divine GIJ
+101 50 15000
+
+#1007
+shroud thorns~
+the Shroud of Thorns~
+A shroud of interwoven thorns lies here.~
+armor AMPYZ AK
+25 25 19 15 2
+90 5 17731
+A 19 20
+A 13 270
+A 18 20
+A 12 100
+A 20 -3
+
+#1008
+spiked crown nightmarish~
+a nightmarish crown~
+a spiked crown sits upon the ground~
+armor ABFJLTY AE
+19 20 24 23 9
+95 10 14650
+A 18 10
+A 19 10
+A 12 200
+
+#1009
+gauntlets doom set black~
+the Gauntlets of Doom~
+a set of black gauntlets lies here. ~
+armor AB AH
+20 21 25 25 0
+101 5 23258
+A 20 -3
+A 19 40
+A 18 40
+A 13 100
+
+#1010
+crown life tiny~
+a crown of life~
+a tiny crown rests upon the ground.~
+armor ABTY AE
+15 15 15 15 5
+70 5 7876
+A 4 3
+A 3 3
+
+#1011
+flower~
+A pedestal stands here~
+A pedestal sits within the head of the statue~
+container 0 0
+100 ABCD 1017 100 1
+0 1 0
+
+#1012
+nest large~
+A large nest~
+A large nest filled with trash lies in the corner of the room.~
+container 0 0
+100 FG 0 100 100
+0 5 0
+
+#1013
+a pile of bodies~
+a pile of bodies~
+...~
+trash T 0
+0 0 0 0 0
+0 5 0
+
+#1014
+small mithril key chain~
+A small mithril key on a chain~
+A tiny key of mithril attached to a chain sits here.~
+key 0 AC
+0 0 0 0 0
+0 1 0
+
+#1015
+small electrical key~
+A small electrical key~
+A tiny glowing key rests upon the floor.~
+key 0 A
+0 0 0 0 0
+0 5 0
+
+#1016
+blackened cell key~
+A blackened cell key~
+a small black key sits on the ground.~
+key 0 AO
+0 0 0 0 0
+0 5 0
+
+#1017
+key emerald large chain~
+A key of emerald~
+A long thin chain rests here, upon it is attached a key of emerald.~
+key 0 AC
+0 0 0 0 0
+0 5 0
+
+#1018
+note small leaflet~
+A small note~
+A tiny leaflet lies on the ground.~
+trash 0 A
+0 0 0 0 0
+0 5 0
+E
+note small leaflet~
+Adventurer! I see you have found the mystic amulet of the southern
+oracle. It would be best if you kept its location a secret, so it is
+only available to those who have proved themselves by finding such an
+item of power.
+    -Lordion, the Knight of Roses
+~
+
+#1019
+blue sphere pulsating~
+a blue sphere~
+A pulsating blue sphere spins in the void.~
+light 0 0
+0 0 999 0 0
+0 5 0
+E
+sphere blue pulsating~
+The blue sphere rotates slowly, spinning off a dark unearthly light.
+It's surface has been polished to perfection through eons of handling.
+Deep within the slightly translucent bauble a tiny face contorts and
+screams the scream of unending torment.~
+
+#1020
+rose engraved sleeves set~
+A set of rose engraved sleeves~
+A beautiful set of sleeves rests upon the ground.~
+armor ALTY AI
+12 19 18 18 0
+76 10 15163
+A 19 4
+A 18 2
+A 13 57
+
+#1021
+thorn studded boots spikey~
+a pair of thorn studded boots~
+A spikey set of boots sits upon the floor.~
+armor BLTY AG
+19 19 19 15 0
+83 5 15189
+A 19 6
+
+#1022
+rose engraved greaves~
+rose engraved greaves~
+Strange greaves rest upon the ground.~
+armor EL AF
+20 20 20 16 0
+87 7 10578
+A 13 57
+A 14 60
+A 18 6
+
+#1023
+wreath roses yellow~
+a wreath of yellow roses~
+A wreath of yellow roses sits crumpled on the ground.~
+armor ABMTY AC
+15 15 15 15 0
+74 2 17697
+A 19 5
+A 18 5
+A 5 -2
+
+#1024
+wreath red roses~
+a wreath of red roses~
+a wreath of beautiful red roses sits here.~
+armor ABTY AC
+15 15 15 15 2
+75 2 8122
+A 12 225
+
+#1025
+bracelet rose vine circlet thin~
+a bracelet of rose vine~
+A thin circlet of rose vine rests here.~
+armor ABTUY AI
+20 20 20 14 0
+101 5 11648
+A 13 303
+A 20 -4
+A 18 33
+A 19 33
+
+#1026
+seed rose tiny~
+A rose bush seed~
+A tiny rose seed tries desperately to grow.~
+pill Y A
+101 'cure poison' '' '' ''
+90 1 600000
+
+#1027
+silver coil~
+A silver coil~
+A thin coil of silver sits here.~
+weapon BI AN
+whip 8 8 slash 0
+60 50 7075
+
+#1028
+divine katana~
+{YD{Wi{wv{Yi{Wn{we {YK{Wa{wt{Wa{Yn{Wa{x~
+A katana made of pure holy energy lies here.~
+weapon GHST AN
+dagger 13 14 slash BDG
+101 50 12000
+A 19 20
+A 18 40
+F A 0 0 L
+
+#1087
+deceit lash whip~
+{CL{gas{Ch {gof {CD{ge{Cce{gi{Ct{x~
+The {CL{gas{Ch {gof {CD{ge{Cce{gi{Ct{x sits coiled on the ground.~
+weapon G AN
+whip 13 14 drain DH
+101 40 10000
+A 13 200
+#0
+
+#ROOMS
+#1024
+In front of a tiny hut in the forest~
+A small hut sits nestled in the forest to the north, a tiny door leads within.
+In front of the house is a wildly growing garden of flowers and weeds, clashing
+with the well-kept garden to the west.
+~
+8192 1
+D0
+~
+tiny ~
+0 -1 1025
+D2
+~
+~
+0 -1 1023
+S
+
+#1025
+Within the hut~
+The inside of the hut resembles that of the small garden outside, it is 
+disheveled and looks ready to collapse. A tiny worn bed sits in the corner
+of the room, falling apart from disuse. To the south a door leads out
+into the garden, to the west a door leads into the forest.
+~
+8192 1
+D2
+~
+tiny ~
+0 -1 1024
+D3
+~
+door~
+0 -1 1026
+S
+
+#1026
+Behind the hut, near the forest~
+To the east a tiny hut sits nestled in the forest. To the north massive
+trees sway gently in the nonexistent wind. The northern path curls around 
+the hut to the west.
+~
+8192 1
+D0
+~
+~
+0 -1 1027
+D1
+~
+door~
+0 -1 1025
+S
+
+#1027
+Near the forests of Gluttony~
+Heavyset trees cackle and grin at the newcomer. Their limbs brush out
+against your face as if they were trying to draw you in and eat you. 
+The path continues to the east as well as the south.
+~
+8192 1
+D1
+~
+~
+0 -1 1028
+D2
+~
+~
+0 -1 1026
+S
+
+#1028
+Behind a small hut in the forest~
+Directly south lies the back wall of the hut near the forest. To the north
+the crazed heavy trees cackle madly and attempt to devour anything that comes
+near. To the west the trees are thick, and the path continues straight into
+them.
+~
+8192 1
+D1
+~
+~
+0 -1 1029
+D3
+~
+~
+0 -1 1027
+S
+
+#1029
+Within the forest of Gluttony~
+The wild trees grin and howl as you approach, but even for all their 
+showmanship they don't attack. To the south a path approaches a large
+statue, the Northern Oracle.
+~
+8192 1
+D2
+~
+~
+0 -1 1030
+D3
+~
+~
+0 -1 1028
+S
+
+#1030
+Behind a hut in the forest, beneath a statue~
+A massive statue looms over the hut and towers high into the dark trees. A
+set of marble steps lead up into the statue itself, as a path leads back
+into the wicked forest.
+~
+8192 1
+D0
+~
+~
+0 -1 1029
+D4
+~
+~
+0 -1 1039
+S
+
+#1031
+a small path of stone~
+To the west the crossroads branch off in all directions, this particular
+path leading towards a strange lake of sorts...
+~
+8192 1
+D0
+~
+~
+0 -1 1032
+D3
+~
+~
+0 -1 1012
+S
+
+#1032
+A small path near a lake of energy~
+The small path leads straight to a dock upon a lake of crackling
+energy. The lake itself is blue like water, but fields of power shoot across
+it's surface.
+~
+8192 1
+D1
+~
+~
+0 -1 1033
+D2
+~
+~
+0 -1 1031
+S
+
+#1033
+Upon a dock on the lake~
+A small smoking wooden dock lies upon the lake, it has withstood years of
+current and still stands. To the west a tiny path leads back towards the
+crossroads, and to the north and west one can step onto the lake itself.
+~
+8192 1
+D0
+~
+~
+0 -1 1034
+D1
+~
+~
+0 -1 1036
+D3
+~
+~
+0 -1 1032
+S
+
+#1034
+Upon the lake of pure energy~
+Crackling blue energy coats the top of the lake, spreading in all directions.
+To the south sits a dock. Far to the east stands a massive dark tower, 
+encircled by demons and fiends.
+~
+8192 7
+D1
+~
+~
+0 -1 1035
+D2
+~
+~
+0 -1 1033
+D5
+~
+~
+0 -1 1038
+S
+
+#1035
+Upon the lake of pure energy~
+Crackling blue energy coats the top of the lake, spreading in all directions.
+To the north and east a large embankment keeps the water in place. Far to
+the east stands a massive dark tower, encircled by demons and fiends.
+~
+8192 7
+D2
+~
+~
+0 -1 1036
+D3
+~
+~
+0 -1 1034
+D5
+~
+~
+0 -1 1038
+S
+
+#1036
+Upon the lake of pure energy~
+Crackling blue energy coats the top of the lake, spreading in all directions.
+Far to the east stands a massive dark tower, encircled by demons and fiends.
+To the west is a dock.
+~
+8192 7
+D0
+~
+~
+0 -1 1035
+D2
+~
+~
+0 -1 1037
+D3
+~
+~
+0 -1 1033
+D5
+~
+~
+0 -1 1038
+S
+
+#1037
+Upon the lake of pure energy~
+Crackling blue energy coats the top of the lake, spreading in all directions.
+Far to the east stands a massive dark tower, encircled by demons and fiends.
+A tiny path leads towards that tower off to the east.
+~
+8192 7
+D0
+~
+~
+0 -1 1036
+D1
+~
+~
+0 -1 1051
+D5
+~
+~
+0 -1 1038
+S
+
+#1038
+Within the crackling energy field~
+Beneath the waters in the lake also exists a field of energy, powerful
+energy. Deadly energy. To the east a small iron grate sits in the rock
+of the lake, leading to an underwater cavern.
+~
+8196 6
+D1
+~
+grate iron~
+0 1015 1085
+S
+
+#1039
+On the steps of a marble statue~
+The steps of the statue lead down to the forest. A tiny marble arch leads
+north into the bowels of the Northern Oracle itself. Far to the south the
+gleam of energy magnifies a lake before a large dark tower.
+~
+0 1
+D0
+~
+~
+0 -1 1040
+D5
+~
+~
+0 -1 1030
+S
+
+#1040
+Within the Northern Oracle~
+The inside of the Oracle is extremely quaint and comforting. Posh cushions
+and leather couches line the floor. A massive spiraling staircase leads up
+into the heart of the oracle, towards its head.
+~
+0 1
+D2
+~
+~
+0 -1 1039
+D4
+~
+~
+0 -1 1041
+S
+
+#1041
+Halfway up the spiral staircase of the Northern Oracle~
+The stairway continues to spiral upwards, towards the top of the statue. Far
+above a soft whispering music is easily heard as it drifts down through the
+stair well.
+~
+0 1
+D4
+~
+~
+0 -1 1042
+D5
+~
+~
+0 -1 1040
+S
+
+#1042
+At the top of the spiral staircase~
+A large room sits at the shoulders of the oracle. Two passages lead to the
+east and to the west out towards the arms. A small trapdoor sits high above,
+leading towards the oracle's head. A large comforting couch lies along the 
+walls of the oracle, beckoning the weary to rest in comfort.
+~
+0 1
+D1
+~
+~
+0 -1 1044
+D3
+~
+~
+0 -1 1043
+D4
+~
+trapdoor~
+0 -1 1045
+D5
+~
+~
+0 -1 1041
+S
+
+#1043
+The left shoulder of the Northern Oracle~
+The passage deadends in a large messy room. To the east a calm quiet scene
+looms. A large destroyed desk sits in the center of the room, filled with
+a mound of papers.
+~
+0 1
+D1
+~
+~
+0 -1 1042
+S
+
+#1044
+The right shoulder of the Northern Oracle~
+The right shoulder of the Oracle is completely devoid of everything,
+simply stated nothing exists in this void. There is an archway to the 
+west.
+~
+0 1
+D3
+~
+~
+0 -1 1042
+S
+
+#1045
+Within the head of the Northern Oracle~
+A large pedestal sits in the center of the room. All around windows look
+out into the mists of dream, displaying the realms for all to see. A 
+small sign sits near the pedestal, it says:
+           +-------------------------------------+
+           |               WELCOME               |
+           |       to the Northern Oracle        |
+           | All donations accepted and expected |
+           |      None rejected or dejected      |
+           |     All you'd ever want to view     |
+           |               is HERE!             /
+           +-----------------------------------+
+                           |   \ |
+                           |    0|
+                           |     |
+~
+0 1
+D5
+~
+trapdoor~
+0 -1 1042
+S
+
+#1046
+Halfway up the spiral staircase of the Southern Oracle~
+Below the small stairwell leads down into a posh comfortable room that
+radiates goodness. Above a harsh noise can be heard flowing down the
+old rusty iron stairwell.
+~
+0 1
+D4
+~
+~
+0 -1 1047
+D5
+~
+~
+0 -1 1011
+S
+
+#1047
+Atop the staircase of the southern tier~
+Above a sucking sound can be heard, as if all the air within the statue
+were being drawn up into the head of the statue itself.
+~
+0 1
+D1
+~
+~
+0 -1 1049
+D3
+~
+~
+0 -1 1050
+D4
+~
+~
+0 -1 1048
+D5
+~
+~
+0 -1 1046
+S
+
+#1048
+The head of the southern Oracle~
+A massive void sits within the center of the statues head, a chest sits in
+the center of the void, drawing everything into its very being. A harsh
+whimsical clammor can be heard from the chest, much like a drunken piano
+player going at an untuned instrument.
+~
+0 1
+D5
+~
+~
+0 -1 1047
+S
+
+#1049
+The right shoulder of the Southern Oracle~
+The shoulder is strewn with debris and junk. All the air in the room is 
+being drawn to the west, slowly sucked out of the shoulder.
+~
+0 1
+D3
+~
+~
+0 -1 1047
+S
+
+#1050
+The left shoulder of the Southern Oracle~
+There seams to be a natural void within the shoulder of the oracle. There
+are no walls, there is no floor. Light is non-existent save for that
+generated by a small arch off to the east. There is simply nothing here.
+~
+0 1
+D1
+~
+~
+0 -1 1047
+S
+
+#1051
+A small path leading away from the lake~
+To the west a path leads down towards a lake of some sorts, covered with
+energy. To the east the path leads into a monstrous dark tower, black as
+night and covered in shadow.
+~
+0 1
+D1
+~
+~
+0 -1 1052
+D3
+~
+~
+0 -1 1037
+S
+
+#1052
+Before a mighty tower~
+Deadly spiked gates lead into the tower, bushes and shrubs all around have
+died and are decaying before the vile evil that inhabits this pit of doom.
+High above demons and death flies about the tower.
+~
+0 1
+D1
+~
+gate~
+0 -1 1053
+D3
+~
+~
+0 -1 1051
+S
+
+#1053
+At the gates of the Tower of Nightmare~
+The massive iron gates of the tower open into this small causeway. To the
+north lies the foyer of the tower, a place of unwelcome. Back to the west
+there is a path that leads somewhere...
+~
+0 1
+D0
+~
+~
+0 -1 1054
+D3
+~
+gate~
+0 -1 1052
+S
+
+#1054
+The Foyer of Nightmares~
+Death. Destruction. Pink Bunnies. They are all here. This is the tower of
+nightmares. Any nightmare that has ever been exists within these walls and
+is eager to escape. On the walls of the foyer are several pictures of 
+previous residents. One picture shows that of a happy face, floating 
+ethereally down a hall eating cakes and children. The pictures continue
+along the hall.
+~
+4 1
+D0
+~
+~
+0 -1 1055
+D2
+~
+~
+0 -1 1053
+S
+
+#1055
+A hall of nightmarish images~
+The picture lined hall comes to an abrupt stop. Above a spiral staircase
+leads into the dark upper reaches of the tower itself. To the north a 
+small room lies in ruin. There are several pictures of hellish fiends
+and blobs of slime and refuse attacking people in their dreams lining the
+wall.
+~
+0 1
+D0
+~
+~
+0 -1 1056
+D2
+~
+~
+0 -1 1054
+D4
+~
+~
+0 -1 1057
+S
+
+#1056
+A small black room~
+This tiny room has been destroyed somehow. A great force has wrecked it
+and destroyed the supports in the center of the room. There is a small 
+mound of wood in the rooms center, what was once a desk or table. A large
+nest of some sort sits near one of the rooms corners, within it lie
+several dead bodies and garbage.
+~
+0 1
+D2
+~
+~
+0 -1 1055
+S
+
+#1057
+A stairwell leading to darkness~
+The spiral stairwell leads upwards into the dark reaches of the tower.
+Below a picture lined hall stretches towards the south.
+~
+0 1
+D4
+~
+~
+0 -1 1058
+D5
+~
+~
+0 -1 1055
+S
+
+#1058
+The second story of the Nightmarish Tower~
+To the east a small iron grate is set in the wall, meant to hold a
+prisoner of some sorts within a cell. To the west a fine wooden door 
+is set into the wall. Above it is a small sign that says,
+                          OFFICE
+~
+0 1
+D1
+~
+cell grate~
+0 1016 1059
+D3
+~
+door~
+0 -1 1060
+D4
+~
+~
+0 -1 1061
+D5
+~
+~
+0 -1 1057
+S
+
+#1059
+A tiny cell~
+The cell is dark, damp and unused. A small pot sits in the corner and
+a recently made bed of hay sits in the center of the floor. An iron
+grate is the only way out, it leads to the west.
+~
+0 1
+D3
+~
+cell grate~
+0 1016 1058
+S
+
+#1060
+A dark office~
+A well kept office sits upon the second story of the tower. Within the
+center of the room is a small desk, lined with gold. To the north an arch
+leads into a book filled room of sorts. To the east a door leads back
+into the stairwell of the tower.
+~
+0 1
+D0
+~
+~
+0 -1 1083
+D1
+~
+door~
+0 -1 1058
+S
+
+#1061
+Third story of the Nightmarish Tower~
+The stairwell continues to ascend the dark tower. Moans can be heard
+from above, while tortuous screams come from the south. A white arch
+leads into a well kept hallway to the south.
+~
+0 1
+D2
+~
+~
+0 -1 1062
+D4
+~
+~
+0 -1 1066
+D5
+~
+~
+0 -1 1058
+S
+
+#1062
+the Path of Judgement~
+Posh bloodstained carpets and purple wallpaper line the hall. To the south
+a large altar stands, behind it a crest of a skull. To the north the 
+stairwell continues.
+~
+0 1
+D0
+~
+~
+0 -1 1061
+D2
+~
+~
+0 -1 1063
+S
+
+#1063
+the Path of Judgement~
+Posh bloodstained carpets and purple wallpaper line the hall. To the south
+a large altar stands, behind it a crest of a skull. To the north the 
+path continues.
+~
+0 1
+D0
+~
+~
+0 -1 1062
+D2
+~
+~
+0 -1 1064
+S
+
+#1064
+The Court of Nightmare~
+Death and devestation are the only things to describe the court. In the
+center of the room a massive sacrificial altar stands, covered in blood
+and ichor. On the wall to the south a massive blindfolded skull is
+engraved in gold and set high, as if in a place of honor. A grate in the
+floor carries blood and entrails out of the room.
+~
+0 1
+D0
+~
+~
+0 -1 1063
+D5
+~
+grate~
+0 -1 1065
+S
+
+#1065
+A holding cell~
+This cell is nothing more than a cesspool for the blood of the altars
+victims. Several feet of blood are currently in the cell, giving off
+a putried odor. Above a small grate leaks more of the stuff into the 
+cell.
+~
+0 1
+D4
+~
+grate~
+0 -1 1064
+S
+
+#1066
+the Fourth story of the Darkened Tower~
+To the north a jail walk lengthens, above the top of the tower is in
+sight. Cries and screams of the doomed can be heard from the
+north, the howl of the wind from above, and silence from below.
+~
+0 1
+D0
+~
+~
+0 -1 1067
+D4
+~
+~
+0 -1 1073
+D5
+~
+~
+0 -1 1061
+S
+
+#1067
+the Walk of Prisoners~
+A large room has cells leading off in every direction. To the south the
+stairwell continues. The bricks of the room have not been cleaned in 
+generations, inches of grime cover them.
+~
+0 1
+D0
+~
+cell~
+0 1016 1070
+D1
+~
+cell~
+0 1016 1069
+D2
+~
+~
+0 -1 1066
+D3
+~
+cell~
+0 1016 1068
+D4
+~
+cell~
+0 1016 1072
+D5
+~
+cell~
+0 1016 1071
+S
+
+#1068
+A cell~
+To the east a grate of sorts lies in the wall, there to keep the prisoners
+from escaping the wrath of Nightmare. The floor is covered in waste
+and smells horrible.
+~
+0 1
+D1
+~
+cell~
+0 1016 1067
+S
+
+#1069
+A cell~
+To the west a grate of sorts lies in the wall, there to keep the prisoners
+from escaping the wrath of Nightmare. The floor is covered in waste
+and smells horrible.
+~
+0 1
+D3
+~
+cell~
+0 1016 1067
+S
+
+#1070
+A cell~
+To the south a grate of sorts lies in the wall, there to keep the prisoners
+from escaping the wrath of Nightmare. The floor is covered in waste
+and smells horrible.
+~
+0 1
+D2
+~
+cell~
+0 1016 1067
+S
+
+#1071
+A cell~
+Above, a grate of sorts lies in the wall, there to keep the prisoners
+from escaping the wrath of Nightmare. The floor is covered in waste
+and smells horrible.
+~
+0 1
+D4
+~
+cell~
+0 1016 1067
+S
+
+#1072
+An odd cell~
+This is the strangest of all the cells. The grate is set in the floor,
+or actually the grate is the floor. Here prisoners are chained to the
+ceiling and forced to spent the rest of their days hanging belly down.
+~
+0 1
+D5
+~
+cell~
+0 1016 1067
+S
+
+#1073
+The top floor of the Tower~
+The tower opens up to a magnificent view of the surrounding area. The
+gardens lie far to the west and the fiends circle overhead. A dark heavy
+mist lies to the north and east, obscuring all views of the surrounding
+countryside. Off to the northwest stands a tower of brilliant white. 
+Directly to the north a small temple sits atop the tower, an arch leads
+within. The stairwell leads back down into the depths of the tower.
+~
+0 1
+D0
+~
+~
+0 -1 1074
+D5
+~
+~
+0 -1 1066
+S
+
+#1074
+The Throneroom of Nightmares~
+Blackened mists and howling visions inhabit the throneroom. A massive
+ethereal throne stands in the center of the room, lined on either
+side by massive statues of iron. A set of stairs leads down into the
+unknown.
+~
+0 1
+D2
+~
+~
+0 -1 1073
+D5
+~
+~
+0 -1 1075
+S
+
+#1075
+the Cell of Final Resting~
+The walls are lined with rough adamantite, making escape impossible. 
+To the south a door of wrought mithril stands firm, engraved with
+markings of power and elder magiks. The stairwell from above has
+disappeared, making the only exit to the room the door to the south.
+~
+4 1
+D2
+~
+mithril door~
+0 1014 1084
+S
+
+#1076
+Under a tower of rose quartz~
+The tower is made of a beautiful lustrous quartz. Above a set of stairs 
+leads into the base of the tower. On either side of the garden path lie
+statues of dragonlings and fairy.
+~
+0 1
+D3
+~
+~
+0 -1 1022
+D4
+~
+~
+0 -1 1077
+S
+
+#1077
+the first level of the Dream Tower~
+A fine dreamlike land of chocolate and flowers is the first level of the
+dream tower. Lollipops line the stairwell and candycanes are the
+banister. The walls are made of chocolate and the steps are cookie wafer.
+~
+0 1
+D4
+~
+~
+0 -1 1078
+D5
+~
+~
+0 -1 1076
+S
+
+#1078
+the second level of the Dream tower~
+The second story of the tower is much like a calm countryside. Its stairs
+are flowing water and the walls are moist earth. Grass covers nearly
+everything and a warm mist wafts off the waterfall in the very center
+of the tower. A small set of golden arches leads down a walkway to the
+east.
+~
+0 1
+D1
+~
+~
+0 -1 1081
+D4
+~
+~
+0 -1 1079
+D5
+~
+~
+0 -1 1077
+S
+
+#1079
+the third level of the tower of Dream~
+The third level of the tower is slightly more scandalous, it contains
+what you'd call, "mature" fantasies. A door between two statues of
+scantly clad nymphs leads north. A fountain of beer pours down the
+source of the waterfall below. What a strange place.
+~
+0 1
+D0
+~
+~
+0 -1 1080
+D5
+~
+~
+0 -1 1078
+S
+
+#1080
+The Court of Dreams~
+Happiness and joy abound here in the court. Nothing but love and care
+exist here, sorrow and pestilence is simply non-existent. Statues of
+candy and food line the west wall, where more of those scantly clad
+nymphs cover up the majority of the rest of the room. A pathway of
+chocolate leads towards a massive onyx throne.
+~
+0 1
+D2
+~
+~
+0 -1 1079
+S
+
+#1081
+a small white hallway~
+The small white hallway is devoid of decoration, but leads further
+to the east towards a room that smells of divine flavors. Back to the
+west lies the stairwell of the tower.
+~
+0 1
+D1
+~
+~
+0 -1 1082
+D3
+~
+~
+0 -1 1078
+S
+
+#1082
+the Hall of feasting~
+A massive table filled over with fine foods sits in the center of a 
+chocolate room. A window of sugar looks out over the landscapes and
+chairs of gold sit about the table.
+~
+0 1
+D3
+~
+~
+0 -1 1081
+S
+
+#1083
+A small library~
+This room is filled to the brim with books and shelves. In the center of
+the room a large table holds a massive map of sorts. To the south a 
+small office sits.
+~
+0 1
+D2
+~
+~
+0 -1 1060
+E
+map~
+This is the map~
+S
+
+#1084
+A bastion of peace~
+Massive golden pillars stand intermittently in a harsh purple haze. The walls
+of this chamber are nearly non-existent, shimmering in an ethereal light.
+~
+0 1
+D0
+~
+mithril door~
+0 1014 1075
+S
+
+#1085
+An underwater Cavern~
+The water here in this area of the cavern is not charged like the water 
+outside of the cave. A small set of stairs lead up towards a rock cliff, 
+out of the water. To the west a grate leads back into the water of the
+lake.
+~
+0 1
+D3
+~
+iron grate~
+0 1015 1038
+D4
+~
+~
+0 -1 1086
+S
+
+#1086
+A cliff overlooking the underground lake~
+A massive cliff rests above the lake, upon it is supported a temple of some
+sort. Massive golden doors to the north lead into the temple's being.
+~
+0 1
+D0
+~
+~
+0 -1 1087
+D5
+~
+~
+0 -1 1085
+S
+
+#1087
+Within the temple~
+The large doors open into this extremely unadorned temple. All around
+are pillars, blocking the view of the silvery mithril walls. To the north an
+altar stands upon a pedestal of granite.  To the east an archway leads into
+a tiny library.
+~
+0 1
+D0
+~
+~
+0 -1 1089
+D1
+~
+~
+0 -1 1088
+D2
+~
+~
+0 -1 1086
+S
+
+#1088
+A small library~
+The small library rests off the main corridor of the temple hall. Within it
+are a great many shelves lined with books of all sorts. A large table sits
+in the center of the room, covered by a map of some sorts. There are
+several volumes scattered about the floor as well.
+~
+0 1
+D3
+~
+~
+0 -1 1087
+S
+
+#1089
+A hall nearing an altar~
+The hallway continues, the altar is nearby to the north. To the south the
+doors entering the temple can be seen glistening in the light.
+~
+0 1
+D0
+~
+~
+0 -1 1090
+D2
+~
+~
+0 -1 1087
+S
+
+#1090
+A large room, of sorts~
+The massive altar room sits near the center of a strange room. The floor
+and walls nearest the hallway are marble, like the rest of the temple. 
+Though as the chamber progresses towards the altar everything begins to
+fade into transparency. Eventually There is nothing but a swirling
+chaotic void, reaching down into the unknown.
+~
+0 1
+D2
+~
+~
+0 -1 1089
+D5
+~
+~
+0 -1 1091
+S
+
+#1091
+Nearing the void.~
+A stairwell is slightly visible here, leading up towards an altar of
+sorts. To the north the void continues, ever growing and changing. An
+unearthly light shines within the void, pulsating and changing like
+a heartbeat of sorts.
+~
+0 1
+D0
+~
+~
+0 -1 1092
+D4
+~
+~
+0 -1 1090
+S
+
+#1092
+Within a great void.~
+Lightning and ether swirl about in chaotic eddies through the nothing.
+Above a light shines down from a distant sun, illuminating the void with
+a heavenly glow. In the center of the void a small spherical object floats,
+suspended by nothing and affecting nothing. The blue-ish sphere twirls
+slightly in the void, giving off a faint radiance of power.
+~
+0 1
+D2
+~
+~
+0 -1 1091
+S
+
+#1000
+The Gates of Dreams~
+The magnificent golden gates of Dreams lead into the world of pleasure and
+perfection that is ruled over by the gods. Many souls have passed these
+gates, most have not returned, yet all have found peace and happiness 
+one way or another.
+~
+8196 1
+D0
+~
+golden gate~
+0 -1 1001
+S
+
+#1001
+Within the realm of the Dream~
+Golden pathways lead off into all directions, some deeper into the realms
+of Dream, others out into the realms of man. To the north a massive golden 
+temple looms forth from the mists, to the West and North stand massive 
+statues rising up forth from the shady mists of Dream. A small sign
+sits within the mist.
+~
+8192 1
+D0
+~
+~
+0 -1 1005
+D1
+~
+~
+0 -1 1002
+D2
+~
+golden gate~
+0 -1 1000
+D3
+~
+~
+0 -1 1003
+E
+sign~
+Travelling far and wide I stumbled upon this strange realm and claimed
+it in the name of Darhoth, Alecca, and Elsbeth.
+       Orb, the Spherical.
+
+~
+S
+
+#1002
+Along the golden pathway~
+The mists of the realm cover a slim golden pathway that leads through the 
+clouds. Far below a city can be seen obscured by the mist.
+~
+8192 1
+D3
+~
+~
+0 -1 1001
+S
+
+#1003
+Along the golden pathway~
+The mists of the realm cover a slim golden pathway that leads through the 
+clouds. Far below a city can be seen obscured by the mist.
+~
+8192 1
+D0
+~
+~
+0 -1 1004
+D1
+~
+~
+0 -1 1001
+S
+
+#1004
+Under a marble statue~
+A massive marble statue looms high above the heavenly plane. Its 
+monstrous base rests on a pillar of stone much larger than the 
+city of Thalos. The statue is of a robed woman, gilded in bronze 
+and carrying a book of silver.
+~
+0 1
+D2
+~
+~
+0 -1 1003
+D3
+~
+~
+0 -1 1011
+S
+
+#1005
+Along the golden pathway~
+The mists of the realm cover a slim golden pathway that leads through 
+the clouds. Far below a city can be seen obscured by the mist.
+~
+8192 1
+D0
+~
+~
+0 -1 1006
+D2
+~
+~
+0 -1 1001
+S
+
+#1006
+Before the steps of ascension~
+Massive marble steps loom above. At their pinacle stands a shimmering 
+vortex of some sort, great in its size and dubious in its meaning. To 
+the south a shimmering pathway of mist leads into the hereafter.
+~
+8192 1
+D0
+~
+~
+0 -1 1010
+D2
+~
+~
+0 -1 1005
+D4
+~
+~
+0 -1 1007
+S
+
+#1007
+Before the Realmsgate~
+A massive shimmering void looms to the north of the top of the marble 
+stairs. Far below path's of mist circle outwards from the base of the 
+marble. To the west and north massive statues can be seen rising from 
+the mists.
+~
+8192 1
+D0
+~
+~
+0 -1 1008
+D5
+~
+~
+0 -1 1006
+S
+
+#1008
+The Realmsgate~
+A massive void of energy and chaos pulsates with the power of the eternal.
+Here is a link to all parts of the world, and a vortex to destruction and 
+doom. To the south a small opening in the gate leads to the top of a marble
+stairwell.
+~
+8192 1
+D0
+~
+~
+0 -1 1009
+D2
+~
+~
+0 -1 1007
+S
+
+#1009
+The Realmsgate~
+Utter Oblivion hath encased thee, the Realmsgate has found you unworthy of 
+its passage and will hold your soul here until the end of eternity.
+~
+5 0
+S
+
+#1010
+Along the golden pathway~
+The mists of the realm cover a slim golden pathway that leads through the 
+clouds. Far below a city can be seen obscured by the mist.
+~
+8192 1
+D0
+~
+~
+0 -1 1012
+D2
+~
+~
+0 -1 1006
+S
+
+#1011
+Within the Southern Oracle~
+The base of the statue is quite roomy and a bastion of peace and 
+tranquility for all who enter. The magics here seam to work correctly, 
+unlike the rest of the land that has been plagued with the whim of the 
+gods.
+~
+1032 1
+D1
+~
+~
+0 -1 1004
+D4
+~
+~
+0 -1 1046
+S
+
+#1012
+A small path of stone~
+The small path leads into a crossroads. Mists lie to the south, a garden
+path leads into the rose bushes to the west. To the east a small dirt path
+leads towards a lake, and to the north a cottage sits nestled within the
+forest.
+~
+8196 1
+D0
+~
+~
+0 -1 1023
+D1
+~
+~
+0 -1 1031
+D2
+~
+~
+0 -1 1010
+D3
+~
+~
+0 -1 1013
+S
+
+#1013
+A path in the garden of temptation~
+Massive rose bushes tower high on either side of the garden path, blocking
+all view of the surrounding area. The tiny path continues to wind through
+the garden.
+~
+8192 1
+D0
+~
+~
+0 -1 1014
+D1
+~
+~
+0 -1 1012
+D3
+~
+~
+0 -1 1017
+S
+
+#1014
+A path in the garden of temptation~
+Massive rose bushes tower high on either side of the garden path, blocking
+all view of the surrounding area. The tiny path continues to wind through
+the garden.
+~
+8192 1
+D0
+~
+~
+0 -1 1015
+D2
+~
+~
+0 -1 1013
+S
+
+#1015
+A path in the garden of temptation~
+Massive rose bushes tower high on either side of the garden path, blocking
+all view of the surrounding area. The tiny path continues to wind through
+the garden.
+~
+8192 1
+D2
+~
+~
+0 -1 1014
+D3
+~
+~
+0 -1 1016
+S
+
+#1016
+A path in the garden of temptation~
+Massive rose bushes tower high on either side of the garden path, blocking
+all view of the surrounding area. The tiny path continues to wind through
+the garden.
+~
+8192 1
+D1
+~
+~
+0 -1 1015
+D3
+~
+~
+0 -1 1021
+S
+
+#1017
+A path in the garden of temptation~
+Massive rose bushes tower high on either side of the garden path, blocking
+all view of the surrounding area. The tiny path continues to wind through
+the garden.
+~
+8192 1
+D1
+~
+~
+0 -1 1013
+D3
+~
+~
+0 -1 1018
+S
+
+#1018
+A small path in the garden of temptation~
+Massive rose bushes tower high on either side of the garden path, blocking
+all view of the surrounding area. The tiny path continues to wind through
+the garden.
+~
+8192 1
+D1
+~
+~
+0 -1 1017
+D3
+~
+~
+0 -1 1019
+S
+
+#1019
+Before the rows of Sin~
+Row upon row of flowers line the path between the rose bush walls. Several
+different types of flowers are within the garden, mostly vivid flowers but
+roses are dominant.
+~
+8192 1
+D0
+~
+~
+0 -1 1020
+D1
+~
+~
+0 -1 1018
+S
+
+#1020
+A garden of Sin~
+Row upon row of flowers line the path between the rose bush walls. Several
+different types of flowers are within the garden, mostly vivid flowers but
+roses are dominant.
+~
+8192 1
+D1
+~
+~
+0 -1 1022
+D2
+~
+~
+0 -1 1019
+S
+
+#1021
+Before the rows of Sin~
+Row upon row of flowers line the path between the rose bush walls. Several
+different types of flowers are within the garden, mostly vivid flowers but
+roses are dominant.
+~
+8192 1
+D1
+~
+~
+0 -1 1016
+D2
+~
+~
+0 -1 1022
+S
+
+#1022
+A garden of Sin~
+Row upon row of flowers line the path between the rose bush walls. Several
+different types of flowers are within the garden, mostly vivid flowers but
+roses are dominant.
+~
+8192 1
+D0
+~
+~
+0 -1 1021
+D1
+~
+~
+0 -1 1076
+D3
+~
+~
+0 -1 1020
+S
+
+#1023
+A small wooded path~
+A tiny wooded path leads north into the forest, towards a tiny hut. To the 
+south a crossroads rests, it's paths leading in all directions. To either
+side of the path the tree's and shrubs grow up, slowly obscuring ones 
+view of the surrounding countryside.
+~
+8192 1
+D0
+~
+~
+0 -1 1024
+D2
+~
+~
+0 -1 1012
+S
+#0
+
+#SPECIALS
+M 1024 spec_cast_mage
+M 1025 spec_breath_lightning
+M 1026 spec_fido
+M 1027 spec_breath_frost
+M 1029 spec_breath_any
+M 1000 spec_cast_cleric
+M 1001 spec_breath_any
+M 1002 spec_breath_acid
+M 1005 spec_cast_mage
+M 1008 spec_breath_gas
+M 1013 spec_fido
+M 1015 spec_thief
+M 1016 spec_breath_acid
+M 1017 spec_breath_fire
+M 1018 spec_breath_acid
+M 1020 spec_janitor
+M 1022 spec_cast_mage
+M 1023 spec_cast_mage
+S
+
+#RESETS
+M 100 1007 1 1025 1
+M 100 1025 1 1038 1
+G 100 1015 0
+O 100 1011 0 1045
+P 100 1004 100 1011 0
+M 100 1004 1 1045 1
+G 100 1017 0
+O 100 1003 0 1048
+P 100 1002 1 1003 0
+M 100 1027 1 1056 1
+G 100 1020 0
+O 100 1012 0 1056
+P 100 1013 10 1012 0
+M 100 1021 1 1060 1
+M 100 1013 1 1064 1
+M 100 1014 1 1064 1
+M 100 1015 1 1065 1
+M 100 1020 1 1066 1
+M 100 1009 1 1068 1
+M 100 1010 1 1069 1
+M 100 1011 1 1070 1
+M 100 1012 1 1071 1
+M 100 1017 1 1074 1
+E 100 1009 0 9
+M 100 1009 1 1074 1
+E 100 1008 0 6
+M 100 1018 1 1074 1
+E 100 1009 0 9
+M 100 1008 1 1074 1
+M 100 1016 1 1075 1
+E 100 1014 0 3
+M 100 1023 1 1080 1
+E 100 1021 0 8
+M 100 1022 1 1080 1
+E 100 1010 0 6
+M 100 1024 1 1082 1
+E 100 1022 0 7
+G 100 1023 0
+M 100 1026 1 1083 1
+G 100 1024 0
+M 100 1029 1 1092 1
+G 100 1026 0
+G 100 1026 0
+G 100 1026 0
+G 100 1026 0
+E 100 1025 0 10
+E 100 1027 0 16
+O 100 1019 0 1092
+M 100 1001 1 1006 1
+E 100 1028 0 16
+E 100 1000 0 10
+M 100 1000 1 1007 1
+E 100 1000 0 12
+M 100 1002 1 1009 1
+G 100 1006 0
+M 100 1003 1 1012 1
+E 100 1001 0 5
+E 100 1007 0 12
+M 100 1006 1 1013 1
+M 100 1006 1 1017 2
+M 100 1005 1 1018 1
+E 100 1005 0 16
+M 100 1006 1 1019 1
+S
+
+#$

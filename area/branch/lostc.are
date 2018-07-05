@@ -1,0 +1,3715 @@
+#AREADATA
+Name The Lost Cavern~
+Builders Cyric~
+VNUMs 700 899
+Credits [60 100]  Cyric  The Lost Cavern~
+Security 9
+End
+
+
+
+#MOBILES
+#700
+hook horror clacker~
+{!Cla{7cker{0~
+A {!Hook Horror{0 stands before confused by your presence.
+~
+A creature covered in the strongest shell and claws that could crush
+boulders stands before you.  His name is Clacker and he was polymorphed from
+a Pech to this horrifying creature.  Once he was one with the stone now he
+is nothing but a scavanger.  
+~
+titan~
+ACT DJVZac 0 600 0
+120 24 20d200+7000 1d1+99 20d20+200 crush
+-150 -175 -150 -225
+CDFHIJKNO ABHP CDFGJQ I
+stand stand male 0
+HMV ABCDEFGHIJK huge unknown
+F for A
+#701
+illithid mindflayer~
+an illithid~
+A {2mindflayer{0 spots you and floats from the ceiling.
+~
+The creature before you has the body of a human yet it's head is that of
+an octipus.  Legends state that Illithid's lock their tenticals to the head
+of its victom and suck the brains through the skull.  
+~
+human~
+ABHQ DFJQTVZ BEO -1000 0
+78 3 10d100+1500 1d1+999 4d8+10 thwack
+-10 -15 -14 -100
+EGIU AB CJ E
+stand stand none 3500
+AHMV ABCDEFGHIJK medium unknown
+#702
+illithid mindflayer~
+an illithid~
+A {6mindflayer{0 grabs his whip and prepares for a fight.
+~
+This mindflayer is dressed in a rather plain black robe that conseals
+many pockets.  You feel an icy chill as you look at the mindflayer's white
+eyes that have no pupils.  A powerful blast of mental energy slams you
+back...  
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#703
+illithid mindflayer~
+an illithid~
+A {6mindflayer{0 grabs his whip and prepares for a fight.
+~
+This mindflayer is dressed in a rather plain black robe that conseals
+many pockets.  You feel an icy chill as you look at the mindflayer's white
+eyes that have no pupils.  A powerful blast of mental energy slams you
+back...  
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#704
+illithid mindflayer~
+an illithid~
+A {6mindflayer{0 grabs his whip and prepares for a fight.
+~
+This mindflayer is dressed in a rather plain black robe that conseals
+many pockets.  You feel an icy chill as you look at the mindflayer's white
+eyes that have no pupils.  A powerful blast of mental energy slams you
+back...  
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#705
+illithid mindflayer~
+an illithid~
+A {6mindflayer{0 grabs his whip and prepares for a fight.
+~
+This mindflayer is dressed in a rather plain black robe that conseals
+many pockets.  You feel an icy chill as you look at the mindflayer's white
+eyes that have no pupils.  A powerful blast of mental energy slams you
+back...  
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#706
+rothe~
+A rothe~
+A large {2rothe{0 moves out of your path.
+~
+The mindflayers leave the rothe herd on this island to keep them within
+thier cavern.  
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#707
+duergar slave~
+a duergar slave~
+A {2gray dwarf{0 is stares lifelessly past you.
+~
+Your presence hasn't even affected what the duergar seems to be looking
+at.  The gray dwarf obviously has spent too long under the Illithids'
+mind-melting influences.  
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#708
+goblin slave~
+a goblin slave~
+A {2goblin{0 works hard to please his masters.
+~
+This goblin like most of the slaves in the control of the mindflayers
+doesn't even notice your presence.  
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#709
+ogre slave~
+an ogre slave~
+An ogre is here, hard at work.
+~
+Never before have you seen an ogre work this hard, truely the illithids'
+have things thier way here.  
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#710
+drow slave~
+A drow slave~
+A captured drow is here, working for the mindflayers.
+~
+Never before have you seen a drow so hard at work.  Again you are amazed
+at the power of the mindflayers control over all the races.  
+~
+drow~
+A J 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B SZ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#700
+light portal~
+a {8dim {3light{0~
+A descending {8spectrum {0of {3light{0.~
+light~
+portal AO 0
+0 0 0 3014 0
+0 0 0 P
+#701
+strange vortex~
+a {8strange {3vortex{0~
+There is a {8strange {3vortex {0that has gathered in this room.~
+light~
+portal AO 0
+0 0 0 3014 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#700
+You are falling...~
+There is nothing but darkness and the feeling that you are descending
+towards your death.  A dim light catches your eye and looks to be some type
+of portal that falls at the same speed as you.  
+~
+0 533517 0
+S
+#701
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 706
+D3
+~
+~
+0 0 899
+S
+#702
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 708
+D1
+~
+~
+0 0 703
+S
+#703
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 704
+D2
+~
+~
+0 0 895
+D3
+~
+~
+0 0 702
+S
+#704
+The cavern floor ~
+~
+0 8201 0
+D2
+~
+~
+0 0 896
+D3
+~
+~
+0 0 703
+S
+#705
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 706
+D2
+~
+~
+0 0 899
+S
+#706
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 707
+D2
+~
+~
+0 0 701
+D3
+~
+~
+0 0 705
+S
+#707
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 709
+D3
+~
+~
+0 0 706
+S
+#708
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 711
+D2
+~
+~
+0 0 702
+S
+#709
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 712
+D2
+~
+~
+0 0 707
+S
+#710
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 713
+D1
+~
+~
+0 0 711
+S
+#711
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 714
+D2
+~
+~
+0 0 708
+D3
+~
+~
+0 0 710
+S
+#712
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 715
+D2
+~
+~
+0 0 709
+S
+#713
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 718
+D1
+~
+~
+0 0 714
+D2
+~
+~
+0 0 710
+S
+#714
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 719
+D2
+~
+~
+0 0 711
+D3
+~
+~
+0 0 713
+S
+#715
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 724
+D2
+~
+~
+0 0 712
+S
+#716
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 726
+D1
+~
+~
+0 0 717
+S
+#717
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 727
+D1
+~
+~
+0 0 718
+D3
+~
+~
+0 0 716
+S
+#718
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 719
+D2
+~
+~
+0 0 713
+D3
+~
+~
+0 0 717
+S
+#719
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 720
+D2
+~
+~
+0 0 714
+D3
+~
+~
+0 0 718
+S
+#720
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 721
+D3
+~
+~
+0 0 719
+S
+#721
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 728
+D3
+~
+~
+0 0 720
+S
+#722
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 731
+D1
+~
+~
+0 0 723
+S
+#723
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 732
+D1
+~
+~
+0 0 724
+D3
+~
+~
+0 0 722
+S
+#724
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 733
+D2
+~
+~
+0 0 715
+D3
+~
+~
+0 0 723
+S
+#725
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 734
+D1
+~
+~
+0 0 726
+S
+#726
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 735
+D1
+~
+~
+0 0 727
+D2
+~
+~
+0 0 716
+D3
+~
+~
+0 0 725
+S
+#727
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 736
+D2
+~
+~
+0 0 717
+D3
+~
+~
+0 0 726
+S
+#728
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 729
+D2
+~
+~
+0 0 721
+S
+#729
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 730
+D3
+~
+~
+0 0 728
+S
+#730
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 731
+D3
+~
+~
+0 0 729
+S
+#731
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 732
+D2
+~
+~
+0 0 722
+D3
+~
+~
+0 0 730
+S
+#732
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 733
+D2
+~
+~
+0 0 723
+D3
+~
+~
+0 0 731
+S
+#733
+The cavern floor ~
+~
+0 8201 0
+D2
+~
+~
+0 0 724
+D3
+~
+~
+0 0 732
+S
+#734
+~
+~
+0 0 0
+D2
+~
+~
+0 0 725
+S
+#735
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 737
+D1
+~
+~
+0 0 736
+D2
+~
+~
+0 0 726
+S
+#736
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 738
+D2
+~
+~
+0 0 727
+D3
+~
+~
+0 0 735
+S
+#737
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 738
+D2
+~
+~
+0 0 735
+S
+#738
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 740
+D2
+~
+~
+0 0 736
+D3
+~
+~
+0 0 737
+S
+#739
+~
+~
+0 0 0
+D2
+~
+~
+0 0 738
+S
+#740
+Entrance to a large cavern ~
+~
+0 8205 0
+D0
+~
+~
+1 0 741
+D2
+~
+~
+0 0 738
+S
+#741
+Entrance to a large cavern ~
+~
+0 8205 0
+D0
+~
+~
+0 0 742
+D2
+~
+~
+1 0 740
+S
+#742
+A small tunnel ~
+~
+0 8205 0
+D1
+~
+~
+0 0 743
+D2
+~
+~
+0 0 741
+S
+#743
+A small tunnel ~
+~
+0 8205 0
+D1
+~
+~
+0 0 744
+D3
+~
+~
+0 0 742
+S
+#744
+A small tunnel ~
+~
+0 8205 0
+D1
+~
+~
+0 0 745
+D3
+~
+~
+0 0 743
+S
+#745
+End of the tunnel~
+~
+0 8205 0
+D3
+~
+~
+0 0 744
+S
+#750
+The Lost Cavern~
+This is the Underdark, the secret world beneath the bustling surface,
+whose sky is a ceiling of heartless stone and whose walls show the gray of
+blandness of death in the torchlight of the foolish surface-dwellers that
+stumble here.  The silence alone un-nerves even the veteren of fighters and
+the terror of what lurks behind every turn alone could drive one mad. 
+Welcome to the Underdark.  
+~
+0 13 0
+D0
+~
+~
+0 0 751
+S
+#751
+A small tunnel~
+Not even the brightest of lights could fight off the eternal darkness
+that you are being comsumed by at the moment.  The shadows leap and dance
+around you, teasing you with the mock terror that rules the tunnels you have
+trespassed into.  
+~
+0 13 0
+D0
+~
+~
+0 0 752
+D2
+~
+~
+0 0 750
+S
+#752
+Entrance to a large cavern~
+You have come to the end of the small tunnel, two double doors block your
+path.  A strong feeling warns you to run from this place as fast as your
+feet will take you.  Yet, part of you feels pulled beyond these double doors
+to face the evil within this place.  
+~
+0 13 0
+D0
+~
+~
+1 0 753
+D2
+~
+~
+0 0 751
+S
+#753
+Entrance to a large cavern~
+You have come upon a guard post of the illithids' cavern.  There are
+hundreds of different kinds of races working the inside of this cavern.  In
+addition, there are just as many mindflayers watching over the slaves as
+they work.  
+~
+0 8201 0
+D0
+~
+~
+0 0 761
+D1
+~
+~
+0 0 755
+D2
+~
+~
+1 0 752
+D3
+~
+~
+0 0 754
+S
+#754
+The cavern floor~
+You are in the southern part of the cavern where there is less commotion
+at this time.  All the groups of slaves seem gathered to the north.  
+~
+0 8201 0
+D0
+~
+~
+0 0 760
+D1
+~
+~
+0 0 753
+S
+#755
+A side tunnel~
+There is a huge stalagmite that blocks your vision of the northern part
+of the cavern.  You can see a couple gathered mindflayers to the west and
+the tunnel leads further to the east.  
+~
+0 8201 0
+D1
+~
+~
+0 0 756
+D3
+~
+~
+0 0 753
+S
+#756
+A side tunnel~
+There is a huge stalagmite that blocks your vision of the northern part
+of the cavern.  You can see a couple gathered mindflayers to the west and
+the tunnel leads further to the east.  
+~
+0 8201 0
+D1
+~
+~
+0 0 757
+D3
+~
+~
+0 0 755
+S
+#757
+The cavern floor~
+You are in the southern part of the cavern where there is less commotion
+at this time.  All the groups of slaves seem gathered to the north.  To the
+south you see a small alcove with a few set of red eyes looking at you from
+within.  
+~
+0 8201 0
+D0
+~
+~
+0 0 762
+D2
+~
+~
+0 0 758
+D3
+~
+~
+0 0 756
+S
+#758
+A small alcove~
+~
+0 8201 0
+D0
+~
+~
+0 0 757
+S
+#759
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 764
+D1
+~
+~
+0 0 760
+S
+#760
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 765
+D1
+~
+~
+0 0 761
+D2
+~
+~
+0 0 754
+D3
+~
+~
+0 0 759
+S
+#761
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 766
+D2
+~
+~
+0 0 753
+D3
+~
+~
+0 0 760
+S
+#762
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 769
+D1
+~
+~
+0 0 763
+D2
+~
+~
+0 0 757
+S
+#763
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 770
+D3
+~
+~
+0 0 762
+S
+#764
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 773
+D1
+~
+~
+0 0 765
+D2
+~
+~
+0 0 759
+S
+#765
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 774
+D1
+~
+~
+0 0 766
+D2
+~
+~
+0 0 760
+D3
+~
+~
+0 0 764
+S
+#766
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 771
+D1
+~
+~
+0 0 767
+D2
+~
+~
+0 0 761
+D3
+~
+~
+0 0 765
+S
+#767
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 772
+D1
+~
+~
+0 0 768
+D3
+~
+~
+0 0 766
+S
+#768
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 775
+D1
+~
+~
+0 0 769
+D3
+~
+~
+0 0 767
+S
+#769
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 776
+D1
+~
+~
+0 0 770
+D2
+~
+~
+0 0 762
+D3
+~
+~
+0 0 768
+S
+#770
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 777
+D2
+~
+~
+0 0 763
+D3
+~
+~
+0 0 769
+S
+#771
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 780
+D1
+~
+~
+0 0 772
+D2
+~
+~
+0 0 766
+D3
+~
+~
+0 0 774
+S
+#772
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 781
+D1
+~
+~
+0 0 775
+D2
+~
+~
+0 0 767
+D3
+~
+~
+0 0 771
+S
+#773
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 778
+D1
+~
+~
+0 0 774
+D2
+~
+~
+0 0 764
+D3
+~
+~
+0 0 777
+D5
+~
+~
+0 0 700
+S
+#774
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 779
+D1
+~
+~
+0 0 771
+D2
+~
+~
+0 0 765
+D3
+~
+~
+0 0 773
+D5
+~
+~
+0 0 700
+S
+#775
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 782
+D1
+~
+~
+0 0 776
+D2
+~
+~
+0 0 768
+D3
+~
+~
+0 0 772
+D5
+~
+~
+0 0 700
+S
+#776
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 783
+D1
+~
+~
+0 0 777
+D2
+~
+~
+0 0 769
+D3
+~
+~
+0 0 775
+D5
+~
+~
+0 0 700
+S
+#777
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 784
+D1
+~
+~
+0 0 773
+D2
+~
+~
+0 0 770
+D3
+~
+~
+0 0 776
+D5
+~
+~
+0 0 700
+S
+#778
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 786
+D1
+~
+~
+0 0 779
+D2
+~
+~
+0 0 773
+D3
+~
+~
+0 0 784
+D5
+~
+~
+0 0 700
+S
+#779
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 787
+D1
+~
+~
+0 0 780
+D2
+~
+~
+0 0 774
+D3
+~
+~
+0 0 778
+D5
+~
+~
+0 0 700
+S
+#780
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 788
+D1
+~
+~
+0 0 781
+D2
+~
+~
+0 0 771
+D3
+~
+~
+0 0 779
+D5
+~
+~
+0 0 700
+S
+#781
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 789
+D1
+~
+~
+0 0 782
+D2
+~
+~
+0 0 772
+D3
+~
+~
+0 0 780
+D5
+~
+~
+0 0 700
+S
+#782
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 790
+D1
+~
+~
+0 0 783
+D2
+~
+~
+0 0 775
+D3
+~
+~
+0 0 781
+D5
+~
+~
+0 0 700
+S
+#783
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 791
+D1
+~
+~
+0 0 784
+D2
+~
+~
+0 0 776
+D3
+~
+~
+0 0 782
+D5
+~
+~
+0 0 700
+S
+#784
+Edge of a crevasse~
+~
+0 0 0
+D0
+~
+~
+0 0 792
+D1
+~
+~
+0 0 778
+D2
+~
+~
+0 0 777
+D3
+~
+~
+0 0 783
+S
+#785
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 793
+D3
+~
+~
+0 0 784
+D5
+~
+~
+0 0 700
+S
+#786
+Floating above the crevasse~
+~
+0 8201 9
+D0
+~
+~
+0 0 799
+D1
+~
+~
+0 0 787
+D2
+~
+~
+0 0 778
+D3
+~
+~
+0 0 784
+D5
+~
+~
+0 0 700
+S
+#787
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 800
+D1
+~
+~
+0 0 788
+D2
+~
+~
+0 0 779
+D3
+~
+~
+0 0 786
+S
+#788
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 801
+D1
+~
+~
+0 0 789
+D2
+~
+~
+0 0 780
+D3
+~
+~
+0 0 787
+S
+#789
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 802
+D1
+~
+~
+0 0 790
+D2
+~
+~
+0 0 781
+D3
+~
+~
+0 0 788
+S
+#790
+Edge of a crevasse~
+~
+0 8201 0
+D1
+~
+~
+0 0 791
+D2
+~
+~
+0 0 782
+D3
+~
+~
+0 0 789
+S
+#791
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 803
+D1
+~
+~
+0 0 792
+D2
+~
+~
+0 0 783
+D3
+~
+~
+0 0 790
+S
+#792
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 804
+D1
+~
+~
+0 0 793
+D2
+~
+~
+0 0 784
+D3
+~
+~
+0 0 791
+S
+#793
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 805
+D1
+~
+~
+0 0 794
+D2
+~
+~
+0 0 785
+D3
+~
+~
+0 0 792
+S
+#794
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 806
+D1
+~
+~
+0 0 795
+D3
+~
+~
+0 0 793
+S
+#795
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 807
+D1
+~
+~
+0 0 796
+D3
+~
+~
+0 0 794
+S
+#796
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 808
+D1
+~
+~
+0 0 797
+D3
+~
+~
+0 0 795
+S
+#797
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 809
+D1
+~
+~
+0 0 798
+D3
+~
+~
+0 0 796
+S
+#798
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 810
+D3
+~
+~
+0 0 797
+S
+#799
+Edge of a crevasse~
+~
+0 8201 0
+D0
+~
+~
+0 0 812
+D1
+~
+~
+0 0 800
+D2
+~
+~
+0 0 786
+S
+#800
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 813
+D1
+~
+~
+0 0 801
+D2
+~
+~
+0 0 787
+D3
+~
+~
+0 0 799
+S
+#801
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 814
+D1
+~
+~
+0 0 802
+D2
+~
+~
+0 0 788
+D3
+~
+~
+0 0 800
+S
+#802
+The cavern floor~
+~
+0 8201 0
+D2
+~
+~
+0 0 789
+D3
+~
+~
+0 0 801
+S
+#803
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 815
+D1
+~
+~
+0 0 804
+D2
+~
+~
+0 0 791
+S
+#804
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 816
+D1
+~
+~
+0 0 805
+D2
+~
+~
+0 0 792
+D3
+~
+~
+0 0 803
+S
+#805
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 817
+D1
+~
+~
+0 0 806
+D2
+~
+~
+0 0 793
+D3
+~
+~
+0 0 804
+S
+#806
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 818
+D1
+~
+~
+0 0 807
+D2
+~
+~
+0 0 794
+D3
+~
+~
+0 0 805
+S
+#807
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 819
+D1
+~
+~
+0 0 808
+D2
+~
+~
+0 0 795
+D3
+~
+~
+0 0 806
+S
+#808
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 820
+D1
+~
+~
+0 0 809
+D2
+~
+~
+0 0 796
+D3
+~
+~
+0 0 807
+S
+#809
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 821
+D1
+~
+~
+0 0 810
+D2
+~
+~
+0 0 797
+D3
+~
+~
+0 0 808
+S
+#810
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 822
+D1
+~
+~
+0 0 811
+D2
+~
+~
+0 0 798
+D3
+~
+~
+0 0 809
+S
+#811
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 823
+D3
+~
+~
+0 0 810
+S
+#812
+The cavern floor~
+~
+0 8201 0
+D1
+~
+~
+0 0 813
+D2
+~
+~
+0 0 799
+S
+#813
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 824
+D1
+~
+~
+0 0 814
+D2
+~
+~
+0 0 800
+D3
+~
+~
+0 0 812
+S
+#814
+The cavern floor~
+~
+0 8201 0
+D2
+~
+~
+0 0 801
+D3
+~
+~
+0 0 813
+S
+#815
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 825
+D1
+~
+~
+0 0 816
+D2
+~
+~
+0 0 803
+S
+#816
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 826
+D1
+~
+~
+0 0 817
+D2
+~
+~
+0 0 804
+D3
+~
+~
+0 0 815
+S
+#817
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 827
+D1
+~
+~
+0 0 818
+D2
+~
+~
+0 0 805
+D3
+~
+~
+0 0 816
+S
+#818
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 828
+D1
+~
+~
+0 0 819
+D2
+~
+~
+0 0 806
+D3
+~
+~
+0 0 817
+S
+#819
+Herd Island~
+~
+0 8201 0
+D0
+~
+~
+0 0 829
+D1
+~
+~
+0 0 820
+D2
+~
+~
+0 0 807
+D3
+~
+~
+0 0 818
+S
+#820
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 830
+D1
+~
+~
+0 0 821
+D2
+~
+~
+0 0 808
+D3
+~
+~
+0 0 819
+S
+#821
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 831
+D1
+~
+~
+0 0 822
+D2
+~
+~
+0 0 809
+D3
+~
+~
+0 0 820
+S
+#822
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 832
+D1
+~
+~
+0 0 823
+D2
+~
+~
+0 0 810
+D3
+~
+~
+0 0 821
+S
+#823
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 833
+D2
+~
+~
+0 0 811
+D3
+~
+~
+0 0 822
+S
+#824
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 835
+D2
+~
+~
+0 0 813
+S
+#825
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 836
+D1
+~
+~
+0 0 826
+D2
+~
+~
+0 0 815
+D3
+~
+~
+0 0 834
+S
+#826
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 837
+D1
+~
+~
+0 0 827
+D2
+~
+~
+0 0 816
+D3
+~
+~
+0 0 825
+S
+#827
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 838
+D1
+~
+~
+0 0 828
+D2
+~
+~
+0 0 817
+D3
+~
+~
+0 0 826
+S
+#828
+Herd Island~
+~
+0 8201 0
+D0
+~
+~
+0 0 839
+D1
+~
+~
+0 0 829
+D2
+~
+~
+0 0 818
+D3
+~
+~
+0 0 827
+S
+#829
+Herd Island~
+~
+0 8201 0
+D0
+~
+~
+0 0 840
+D1
+~
+~
+0 0 830
+D2
+~
+~
+0 0 819
+D3
+~
+~
+0 0 828
+S
+#830
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 841
+D1
+~
+~
+0 0 831
+D2
+~
+~
+0 0 820
+D3
+~
+~
+0 0 829
+S
+#831
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 842
+D1
+~
+~
+0 0 832
+D2
+~
+~
+0 0 821
+D3
+~
+~
+0 0 830
+S
+#832
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 843
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 822
+D3
+~
+~
+0 0 831
+S
+#833
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 844
+D2
+~
+~
+0 0 823
+D3
+~
+~
+0 0 832
+S
+#834
+The cavern floor~
+~
+0 8201 0
+D1
+~
+~
+0 0 825
+S
+#835
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 845
+D2
+~
+~
+0 0 824
+S
+#836
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 849
+D1
+~
+~
+0 0 837
+D2
+~
+~
+0 0 825
+S
+#837
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 850
+D1
+~
+~
+0 0 838
+D2
+~
+~
+0 0 826
+D3
+~
+~
+0 0 836
+S
+#838
+Herd Island~
+~
+0 8201 0
+D0
+~
+~
+0 0 851
+D1
+~
+~
+0 0 839
+D2
+~
+~
+0 0 827
+D3
+~
+~
+0 0 837
+S
+#839
+Herd Island~
+~
+0 8201 0
+D0
+~
+~
+0 0 852
+D1
+~
+~
+0 0 840
+D2
+~
+~
+0 0 828
+D3
+~
+~
+0 0 838
+S
+#840
+Herd Island~
+~
+0 8201 0
+D0
+~
+~
+0 0 853
+D1
+~
+~
+0 0 841
+D2
+~
+~
+0 0 829
+D3
+~
+~
+0 0 839
+S
+#841
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 854
+D1
+~
+~
+0 0 842
+D2
+~
+~
+0 0 830
+D3
+~
+~
+0 0 840
+S
+#842
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 855
+D1
+~
+~
+0 0 843
+D2
+~
+~
+0 0 831
+D3
+~
+~
+0 0 841
+S
+#843
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 856
+D1
+~
+~
+0 0 844
+D2
+~
+~
+0 0 832
+D3
+~
+~
+0 0 842
+S
+#844
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 857
+D2
+~
+~
+0 0 833
+D3
+~
+~
+0 0 843
+S
+#845
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 858
+D1
+~
+~
+0 0 846
+D2
+~
+~
+0 0 835
+S
+#846
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 859
+D1
+~
+~
+0 0 847
+D3
+~
+~
+0 0 845
+S
+#847
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 860
+D1
+~
+~
+0 0 848
+D3
+~
+~
+0 0 846
+S
+#848
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 861
+D1
+~
+~
+0 0 849
+D3
+~
+~
+0 0 847
+S
+#849
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 862
+D1
+~
+~
+0 0 850
+D2
+~
+~
+0 0 836
+D3
+~
+~
+0 0 848
+S
+#850
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 863
+D1
+~
+~
+0 0 851
+D2
+~
+~
+0 0 837
+D3
+~
+~
+0 0 849
+S
+#851
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 864
+D1
+~
+~
+0 0 852
+D2
+~
+~
+0 0 838
+D3
+~
+~
+0 0 850
+S
+#852
+Herd Island~
+~
+0 8201 0
+D0
+~
+~
+0 0 865
+D1
+~
+~
+0 0 853
+D2
+~
+~
+0 0 839
+D3
+~
+~
+0 0 851
+S
+#853
+Herd Island~
+~
+0 8201 0
+D0
+~
+~
+0 0 866
+D1
+~
+~
+0 0 854
+D2
+~
+~
+0 0 840
+D3
+~
+~
+0 0 852
+S
+#854
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 867
+D1
+~
+~
+0 0 855
+D2
+~
+~
+0 0 841
+D3
+~
+~
+0 0 853
+S
+#855
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 868
+D1
+~
+~
+0 0 856
+D2
+~
+~
+0 0 842
+D3
+~
+~
+0 0 854
+S
+#856
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 869
+D1
+~
+~
+0 0 857
+D2
+~
+~
+0 0 843
+D3
+~
+~
+0 0 855
+S
+#857
+The cavern floor~
+~
+0 8201 0
+D2
+~
+~
+0 0 844
+D3
+~
+~
+0 0 856
+S
+#858
+The cavern floor~
+~
+0 8201 0
+D1
+~
+~
+0 0 859
+D2
+~
+~
+0 0 845
+S
+#859
+The cavern floor~
+~
+0 8201 0
+D1
+~
+~
+0 0 860
+D2
+~
+~
+0 0 846
+D3
+~
+~
+0 0 858
+S
+#860
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 870
+D1
+~
+~
+0 0 861
+D2
+~
+~
+0 0 847
+D3
+~
+~
+0 0 859
+S
+#861
+The cavern floor~
+~
+0 8201 0
+D1
+~
+~
+0 0 862
+D2
+~
+~
+0 0 848
+D3
+~
+~
+0 0 860
+S
+#862
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 871
+D1
+~
+~
+0 0 863
+D2
+~
+~
+0 0 849
+D3
+~
+~
+0 0 861
+S
+#863
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 872
+D1
+~
+~
+0 0 864
+D2
+~
+~
+0 0 850
+D3
+~
+~
+0 0 862
+S
+#864
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 873
+D1
+~
+~
+0 0 865
+D2
+~
+~
+0 0 851
+D3
+~
+~
+0 0 863
+S
+#865
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 874
+D1
+~
+~
+0 0 866
+D2
+~
+~
+0 0 852
+D3
+~
+~
+0 0 864
+S
+#866
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 875
+D1
+~
+~
+0 0 867
+D2
+~
+~
+0 0 853
+D3
+~
+~
+0 0 865
+S
+#867
+Chasm~
+~
+0 8201 9
+D0
+~
+~
+0 0 876
+D1
+~
+~
+0 0 868
+D2
+~
+~
+0 0 854
+D3
+~
+~
+0 0 866
+S
+#868
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 877
+D1
+~
+~
+0 0 869
+D2
+~
+~
+0 0 855
+D3
+~
+~
+0 0 867
+S
+#869
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 878
+D2
+~
+~
+0 0 856
+D3
+~
+~
+0 0 868
+S
+#870
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 879
+D2
+~
+~
+0 0 860
+S
+#871
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 881
+D1
+~
+~
+0 0 872
+D2
+~
+~
+0 0 862
+S
+#872
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 882
+D1
+~
+~
+0 0 873
+D2
+~
+~
+0 0 863
+D3
+~
+~
+0 0 871
+S
+#873
+The cavern floor~
+~
+0 8201 0
+D1
+~
+~
+0 0 874
+D2
+~
+~
+0 0 864
+D3
+~
+~
+0 0 872
+S
+#874
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 883
+D1
+~
+~
+0 0 875
+D2
+~
+~
+0 0 865
+D3
+~
+~
+0 0 873
+S
+#875
+The cavern floor~
+~
+0 8201 0
+D1
+~
+~
+0 0 876
+D2
+~
+~
+0 0 866
+D3
+~
+~
+0 0 874
+S
+#876
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 884
+D1
+~
+~
+0 0 877
+D2
+~
+~
+0 0 867
+D3
+~
+~
+0 0 875
+S
+#877
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 885
+D1
+~
+~
+0 0 878
+D2
+~
+~
+0 0 868
+D3
+~
+~
+0 0 876
+S
+#878
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 886
+D2
+~
+~
+0 0 869
+D3
+~
+~
+0 0 877
+S
+#879
+The cavern floor~
+~
+0 8201 0
+D1
+~
+~
+0 0 880
+D2
+~
+~
+0 0 870
+S
+#880
+The cavern floor~
+~
+0 8201 0
+D1
+~
+~
+0 0 881
+D3
+~
+~
+0 0 879
+S
+#881
+The cavern floor~
+~
+0 8201 0
+D1
+~
+~
+0 0 882
+D2
+~
+~
+0 0 871
+D3
+~
+~
+0 0 880
+S
+#882
+The cavern floor~
+~
+0 8201 0
+D2
+~
+~
+0 0 872
+D3
+~
+~
+0 0 881
+S
+#883
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 887
+D2
+~
+~
+0 0 874
+S
+#884
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 889
+D1
+~
+~
+0 0 885
+D2
+~
+~
+0 0 876
+S
+#885
+The cavern floor~
+~
+0 8201 0
+D1
+~
+~
+0 0 886
+D2
+~
+~
+0 0 877
+D3
+~
+~
+0 0 884
+S
+#886
+The cavern floor~
+~
+0 8201 0
+D2
+~
+~
+0 0 878
+D3
+~
+~
+0 0 885
+S
+#887
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 893
+D1
+~
+~
+0 0 888
+D2
+~
+~
+0 0 883
+S
+#888
+The cavern floor~
+~
+0 8201 0
+D0
+~
+~
+0 0 894
+D1
+~
+~
+0 0 889
+D3
+~
+~
+0 0 887
+S
+#889
+The cavern floor~
+~
+0 8201 0
+D2
+~
+~
+0 0 884
+D3
+~
+~
+0 0 888
+S
+#890
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 895
+D1
+~
+~
+0 0 891
+S
+#891
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 892
+D3
+~
+~
+0 0 890
+S
+#892
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 893
+D3
+~
+~
+0 0 891
+S
+#893
+The cavern floor ~
+~
+0 8201 0
+D1
+~
+~
+0 0 894
+D2
+~
+~
+0 0 887
+D3
+~
+~
+0 0 892
+S
+#894
+The cavern floor ~
+~
+0 8201 0
+D2
+~
+~
+0 0 888
+D3
+~
+~
+0 0 893
+S
+#895
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 703
+D1
+~
+~
+0 0 896
+D2
+~
+~
+0 0 890
+S
+#896
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 704
+D1
+~
+~
+0 0 897
+D3
+~
+~
+0 0 895
+S
+#897
+Before a set of double doors~
+~
+0 8201 0
+D1
+~
+~
+0 0 898
+D3
+~
+~
+0 0 896
+S
+#898
+Before a set of double doors~
+~
+0 8201 0
+D1
+~
+~
+0 0 899
+D3
+~
+~
+0 0 897
+S
+#899
+The cavern floor ~
+~
+0 8201 0
+D0
+~
+~
+0 0 705
+D1
+~
+~
+0 0 701
+D3
+~
+~
+0 0 898
+S
+#0
+
+
+
+#SPECIALS
+M 701 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 740 0 1
+D 0 741 2 1
+D 0 752 0 1
+D 0 753 2 1
+O 0 700 0 700
+O 0 701 0 745
+M 0 702 2 753 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

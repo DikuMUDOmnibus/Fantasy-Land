@@ -1,0 +1,304 @@
+#AOD_AREA
+The Main Hometown~
+60400 60499 C 1
+Levl 0 20
+Bldr Dravan~
+Alig G
+End
+
+#MOBILES
+#60400
+fyramor fyramorian cityguard city guard~
+{WA {BF{Wyrmoria{Bn C{Wity{BG{Wuar{Bd{x~
+{WA {BF{Wyrmoria{Bn C{Wity{BG{Wuar{Bd{X stands here vigilantly.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+GT 0 0 100 0
+12 1 -1 200 270 100 150 4 5 7 crush
+-30 -30 -30 -10
+STANDING STANDING neutral 900
+0 cleric large ABCDEFGHIJK
+P 64 0
+#0
+
+#OBJECTS
+#60400
+Fyramor City Guard Sword~
+{WA {BF{Wyramo{Br {BC{Wity{BG{Wuar{Bd {BS{Wwor{Bd{x~
+{WA {BF{Wyramo{Br {BC{Wity{BG{Wuar{Bd {BS{Wwor{Bd{W lies here.{x~
+weapon PU AN
+sword 4 10 slash D
+10 4 390
+A 18 2
+A 19 2
+A 1 1
+
+#60401
+central fountain~
+{WThe {BC{Wentra{Bl F{Wountai{Bn{X~
+{WThe {BC{Wentra{Bl F{Wountai{Bn{X spirts out water from the statues mouth.~
+fountain 0 0
+90 90 'water' 0 0
+1 9999 0
+A 13 33
+
+#60412
+adorned stone benches~
+An adorned stone bench~
+There are twelve adorned stone benches at the feet of the pillars.~
+furniture 0 0
+12 2000 EHK 125 125
+1 25000 0
+#0
+
+#ROOMS
+#60400
+Central Square~
+Central avenue and Fyramor street intersect here at this large
+plaza.  Sitting proudly, in the center of the plaza, is a large
+three level fountain made entirely from marble.  Some weeds can
+be noticed growing out between the heavily used beat-up cobblestones.
+A loud metal clanking noise can be heard to the east nearby.  The
+smell of fresh pastry blows in from the west occasionally.  
+~
+0 0
+D1
+~
+~
+0 0 60401
+D3
+~
+~
+0 0 60404
+S
+
+#60401
+Central Fountain~
+Water spirts out from the mouth of a marble statue of the legendary
+knight Rzata sitting on the top platform.  A warm blue imbues the
+water in the lower basin.  Vines and moss enrobe the ledge of the
+base of the fountain that provides seating.  A loud metal clanking
+noise can be heard to the east nearby.  The smell of fresh pastry
+blows in from the west occasionally.  A large variety of pleasant
+chirps and twirps can be heard as a multitude of birds fly about.
+~
+0 0
+D0
+~
+~
+0 0 60405
+D1
+~
+~
+0 0 60402
+D2
+~
+~
+0 0 60406
+D3
+~
+~
+0 0 60400
+S
+
+#60402
+Central Square~
+Central avenue and Fyramor street intersect here at this large
+plaza.  Sitting proudly, in the center of the plaza, is a large
+three level fountain made entirely from marble.  Some weeds can
+be noticed growing out between the heavily used beat-up cobblestones.
+A loud metal clanking noise can be heard to the east nearby.  The
+smell of fresh pastry blows in from the west occasionally.  
+~
+0 0
+D1
+~
+~
+0 0 60403
+D3
+~
+~
+0 0 60401
+S
+
+#60403
+Central Avenue~
+Heavily used, beat-up cobblestone is the make up of central avenue.
+Many developped commercial brick structures stand on both sides
+of this crowded path.  The smell of fresh pastry blows in from
+the north.  The hissing sound of fast cooling metal can be heard
+from the nearby south.  
+~
+0 0
+D1
+~
+~
+0 0 60408
+D3
+~
+~
+0 0 60402
+S
+
+#60404
+Central Avenue~
+Heavily used, beat-up cobblestone is the make up of central avenue.
+Many developped commercial brick structures stand on both sides
+of this crowded path.  The smell of fresh pastry blows in from
+the north.  The hissing sound of fast cooling metal can be heard
+from the nearby south.  
+~
+0 0
+D1
+~
+~
+0 0 60400
+S
+
+#60405
+Central Square~
+Central avenue and Fyramor street intersect here at this large
+plaza.  Sitting proudly, in the center of the plaza, is a large
+three level fountain made entirely from marble.  Some weeds can
+be noticed growing out between the heavily used beat-up cobblestones.
+A loud metal clanking noise can be heard to the east nearby.  The
+smell of fresh pastry blows in from the west occasionally.  
+~
+0 0
+D0
+~
+~
+0 0 60411
+D2
+~
+~
+0 0 60401
+S
+
+#60406
+Central Square~
+Central avenue and Fyramor street intersect here at this large
+plaza.  Sitting proudly, in the center of the plaza, is a large
+three level fountain made entirely from marble.  Some weeds can
+be noticed growing out between the heavily used beat-up cobblestones.
+A loud metal clanking noise can be heard to the east nearby.  The
+smell of fresh pastry blows in from the west occasionally.  
+~
+0 0
+D0
+~
+~
+0 0 60401
+D2
+~
+~
+0 0 60407
+S
+
+#60407
+Fyramor Street and Tullos Avenue Intersection~
+A large marble fountain can be seen glowing lightly a warm blue
+north of here.  Tullos avenue is made from large bricks and stretches
+west and east for the entire length of the town.  The intersection
+has some holes which have been filled with some cobblestone.  Along
+Tullos there are both commercial and residential buildings.  A
+faint smell of mixed chemicals can be detected from the east. 
+~
+0 0
+D0
+~
+~
+0 0 60406
+S
+
+#60408
+Central Avenue~
+Heavily used, beat-up cobblestone is the make up of central avenue.
+Many developped commercial brick structures stand on both sides
+of this crowded path.  Leather hides can be seen drying on the
+grass south of here.  Every now and then a metal grinding sound
+can be heard from the north nearby.  
+~
+0 0
+D0
+~
+~
+0 0 60409
+D2
+~
+~
+0 0 60410
+D3
+~
+~
+0 0 60403
+S
+
+#60409
+Julians Jewelry~
+~
+0 0
+D2
+~
+~
+0 0 60408
+S
+
+#60410
+Leos Tavern~
+~
+0 0
+D0
+~
+~
+0 0 60408
+S
+
+#60411
+Fyramor Street~
+A large marble fountain can be seen glowing lightly a warm blue
+south of here.  Buildings surround the fountain, while Fyramor
+street has only tall grass on its sides.  To the north a large
+stone tablet stands upright in the middle of a santuary supported
+by twelve stone pillars.  A minor, although constant dissonance
+emits from the south.  Fyramor is simple, narrow dirt road thats
+joins the Central Plaza with the Sanctuary of Rzata.  
+~
+0 0
+D0
+~
+~
+0 0 60412
+D2
+~
+~
+0 0 60405
+S
+
+#60412
+Sanctuary of Rzata~
+In the center there is a large stone tablet standing seven feet
+tall.  Upon it are written the many won battles and honorable deeds
+of the Legendary Knight Rzata.  An enormous flat, and round stone
+is supported by twelve adorned stone pillars providing some shelter
+from the occasionally rough weather.  The ceiling of the structure
+is ornamented by beautiful carvings of Rzata in battle.  At the
+foot of each pillar are large adorned stone benches.  
+~
+0 0
+D2
+~
+~
+0 0 60411
+S
+#0
+
+#RESETS
+O 100 60401 0 60401
+M 1 60400 1 60401 5
+O 100 60412 0 60412
+S
+
+#$

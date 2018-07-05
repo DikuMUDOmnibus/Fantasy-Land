@@ -1,0 +1,91 @@
+#AOD_AREA
+Geldar's area~
+60500 60599 C 1
+Levl 0 0
+Bldr Geldar~
+End
+
+#OBJECTS
+#60598
+bud~
+{GBud{x~
+{GJuicy, stick bud!~
+food I 0
+0 0 0 0 0
+0 0 0
+H small~
+
+#60599
+{GA tall marijuana plant{x~
+{GA tall marijuana plant{x~
+{GA tall marijuana plant.~
+container 0 0
+0 0 0 0 0
+1 100 0
+H giant~
+#0
+
+#ROOMS
+#60500
+Prakus~
+{RPrakus's House{x
+You come across a house in the forest.  Built into the side of the mountain
+a chiminey rises from the ground as smoke billows out.
+~
+65536 3
+D0
+~
+~
+A 0 60501
+S
+
+#60501
+~
+{GFoyer of Prakus's house.
+{xAs you walk in you notice sunlight beaming down.  You look out to notice
+that the main room is dug right out to the top of the hillside.  All the
+way up to the sky is lined with shiny marble.  Sunlight radiates onto some
+plants and a fountain in this room.
+~
+0 0
+D2
+~
+~
+A 0 60500
+D3
+~
+~
+0 0 60502
+S
+
+#60502
+~
+{bA dark Hallway
+{xA dark hallway leads west.  Torches light your path down the dusky hall.
+~
+0 0
+D1
+~
+~
+0 0 60501
+D3
+~
+~
+0 0 60503
+S
+
+#60503
+~
+{rThe end of the dark hallway
+{xThere are two heavy doors on either side of the hallway.  Iron bars in the
+door allow you to get a glimpse of what is in the dark rooms.
+~
+8 0
+D1
+~
+~
+0 0 60502
+S
+#0
+
+#$

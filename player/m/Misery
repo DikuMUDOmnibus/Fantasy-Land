@@ -1,0 +1,361 @@
+#PLAYER
+Name Misery~
+Race human~
+Levl 9
+Clas warrior~
+Pkpt 100
+TSex 1
+LogO 1352394138
+Sock 184-15-34-116.dr01.chtn.wv.frontiernet.net~
+Titl  the Lazy{x~
+
+#STAT_BREAK
+
+Id   1352393370
+Plat 0
+Gold 13
+Silv 38
+Exp  15274
+Attr 20 18 18 18 18
+Prom {x<{R%A{x/{r%H{xhp {B%B{x/{b%M{xm {G%Cmv {x<%X{Wxp{x>%c~
+Act  BCDEFGHJQRT
+AfBy L
+ShBy EH
+Comm N
+Pos  8
+Sk 1 'axe'
+Sk 1 'bash'
+Sk 1 'berserk'
+Sk 1 'dagger'
+Sk 1 'disarm'
+Sk 1 'enhanced damage'
+Sk 1 'flail'
+Sk 1 'fourth attack'
+Sk 1 'lore'
+Sk 1 'mace'
+Sk 1 'parry'
+Sk 1 'polearm'
+Sk 1 'quarterstaff'
+Sk 75 'recall'
+Sk 1 'rescue'
+Sk 1 'scrolls'
+Sk 1 'second attack'
+Sk 1 'shield block'
+Sk 1 'spear'
+Sk 1 'staves'
+Sk 76 'sword'
+Sk 1 'third attack'
+Sk 1 'wands'
+Sk 1 'whip'
+MaxDam 80
+LLev 0
+Pass MicNdRcCbITus~
+Plyd 768
+Note 0 0 0 0 0
+Room 3736
+HMVN 429 591 480 353 342 237
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 20 34 34
+Deviant 0 0
+Prac 56
+Trai 16
+Devote current 0
+Pnts 42
+Mkil 25
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Gr 'weaponsmaster'
+Affc 'sanctuary'   1 106   0  15   0   0        128
+Affc 'farsight'   0   1   0  -1   0   0       2048
+Affc 'intellect'   0  98   0   2   3   3          0
+Affc 'shockshield'   1  98   0  16   0   0         16
+End
+
+#O
+Vnum 3162
+Nest 0
+Name map new midgaard~
+ShD  A map of New Midgaard~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3163
+Nest 0
+Name map thera~
+ShD  a map of Western Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3169
+Nest 0
+Name map thera~
+ShD  a map of Eastern Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3716
+Nest 0
+Name round oval sphere reddish orange~
+ShD  A Strange Reddish-Orange Sphere~
+Desc A round oval-like sphere glowing reddish-orange is settled here on the ground.~
+Cost 0
+Wear 0
+Valu 2 1 186
+End
+
+#O
+Vnum 3703
+Nest 0
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3702
+Nest 0
+Name sword thothian~
+ShD  A Thothian Sword~
+Desc A long curved sword made from Thoth lies here.~
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3708
+Nest 0
+Name pair leather thothian sandals~
+ShD  A pair of Thothian Sandals~
+Desc A pair of leather sandals made from Thoth lies here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 41
+Wear 8
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 41
+Wear 14
+End
+
+#O
+Vnum 3706
+Nest 0
+Name round thothian helmet~
+ShD  A Thothian Helmet~
+Desc A large round helmet made from Thoth is lying here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 41
+Wear 6
+End
+
+#O
+Vnum 3711
+Nest 0
+Name thothian dark cape~
+ShD  A Thothian Cape~
+Desc A long dark cape finely made from Thoth lies here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 41
+Wear 12
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 42
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 42
+Wear 3
+End
+
+#O
+Vnum 806
+Nest 0
+Name lash the Dazed special~
+ShD  lash of the Dazed~
+Desc A lash is here.~
+Loader MPOP: (11:56-11/08/2012) Misery~
+Cost 75
+Affc 'reserved' 2 1 -1 -2 4 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 44
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 44
+Wear 13
+End
+
+#O
+Vnum 3726
+Nest 0
+Name earring thothian~
+ShD  A Thothian Earring~
+Desc A crystallized earring shaped in a "T" lies here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 45
+Wear 21
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 45
+Wear 25
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 45
+Wear 24
+End
+
+#O
+Vnum 3724
+Nest 0
+Name ring thothian ~
+ShD  A Thothian-made Ring~
+Desc A small ring with the engraving "T" is lying here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 46
+Wear 1
+End
+
+#O
+Vnum 3725
+Nest 0
+Name ancient symbol thothian~
+ShD  The symbol of a Thothian Warrior~
+Desc An ancient symbol of a Thothian warrior has been disregarded here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 47
+Wear 26
+End
+
+#O
+Vnum 3701
+Nest 0
+Name dagger thothian ~
+ShD  A Thothian Dagger~
+Desc A small dagger made from Thoth lies here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 47
+End
+
+#O
+Vnum 3727
+Nest 0
+Name abandoned mask~
+ShD  An abandoned mask~
+Desc An abandoned mask is lying here eyeless and mouthless.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 48
+Wear 20
+End
+
+#O
+Vnum 3728
+Nest 0
+Name thothian black eyepatch~
+ShD  A Thothian Eyepatch~
+Desc A thin but long black eyepatch of Thoth lies here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 48
+Wear 27
+End
+
+#O
+Vnum 3709
+Nest 0
+Name leather thothian gloves~
+ShD  A pair of Thothian gloves~
+Desc Two leather gloves specially made from Thoth lie here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 48
+Wear 9
+End
+
+#O
+Vnum 3710
+Nest 0
+Name pair leather sleeves thothian~
+ShD  A pair of Thothian arm braces~
+Desc A pair of fine-leathered sleeves made from Thoth lie here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 48
+Wear 10
+End
+
+#O
+Vnum 3714
+Nest 0
+Name key~
+ShD  a {Dk{we{Dy{x~
+Desc You see a very important key here!~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 48
+ExtF 0
+Time 5
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 48
+Wear 15
+End
+
+#O
+Vnum 3715
+Nest 0
+Name diploma school mud~
+ShD  a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x~
+Desc You see a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x here.~
+MULTI Misery~ 184-15-34-116.dr01.chtn.wv.frontiernet.net~ 48
+Wear 17
+End
+
+#END

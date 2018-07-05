@@ -1,0 +1,484 @@
+#PLAYER
+Name Marton~
+Race dwarf~
+Levl 30
+Clas acolyte~
+Pkpt 100
+TSex 1
+LogO 1250920835
+Sock 123.100.63.181~
+Titl  Acolyte{x~
+
+#STAT_BREAK
+
+Id   1250834300
+Plat 201
+Gold 87
+Silv 70
+Exp  44209
+Attr 23 19 25 15 27
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+AfBy VZ
+ShBy H
+Comm N
+Pos  8
+Alig  659
+Sk 1 'acid blast'
+Sk 1 'acidshield'
+Sk 1 'angelfire'
+Sk 1 'animate'
+Sk 1 'backdraft'
+Sk 1 'bless'
+Sk 1 'blindness'
+Sk 1 'blink'
+Sk 1 'blizzard'
+Sk 1 'bloodbath'
+Sk 1 'burning hands'
+Sk 1 'calm'
+Sk 1 'cause critical'
+Sk 1 'cause light'
+Sk 1 'cause serious'
+Sk 1 'chain lightning'
+Sk 1 'change sex'
+Sk 1 'charm person'
+Sk 75 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'constitution'
+Sk 1 'curse'
+Sk 1 'darkvision'
+Sk 1 'decrement'
+Sk 1 'demonfire'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 59 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect neutral'
+Sk 1 'detect poison'
+Sk 1 'diminish'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'electrify'
+Sk 1 'enchant armor'
+Sk 1 'enchant weapon'
+Sk 75 'energy drain'
+Sk 1 'faith'
+Sk 75 'farsight'
+Sk 1 'fireball'
+Sk 1 'fireproof'
+Sk 1 'fireshield'
+Sk 1 'flamestrike'
+Sk 75 'fly'
+Sk 1 'frenzy'
+Sk 1 'gate'
+Sk 1 'giant strength'
+Sk 1 'glacial aura'
+Sk 1 'growth'
+Sk 1 'harm'
+Sk 1 'haste'
+Sk 1 'heat metal'
+Sk 1 'heresy'
+Sk 1 'iceshield'
+Sk 1 'icicle'
+Sk 1 'identify'
+Sk 1 'infernal offering'
+Sk 59 'infravision'
+Sk 1 'intellect'
+Sk 1 'know alignment'
+Sk 1 'leech'
+Sk 1 'lightning bolt'
+Sk 1 'locate object'
+Sk 1 'locust swarm'
+Sk 1 'luminrati'
+Sk 1 'magic missile'
+Sk 1 'mana shield'
+Sk 1 'mana tap'
+Sk 1 'nexus'
+Sk 1 'nightmare'
+Sk 65 'pass door'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'portal'
+Sk 1 'ray of deceit'
+Sk 1 'ray of truth'
+Sk 1 'recharge'
+Sk 1 'refresh'
+Sk 1 'regeneration'
+Sk 1 'remove curse'
+Sk 1 'resurrect'
+Sk 1 'rockshield'
+Sk 1 'shocking grasp'
+Sk 1 'shockshield'
+Sk 1 'shrapnelshield'
+Sk 1 'shrink'
+Sk 75 'sleep'
+Sk 1 'slow'
+Sk 1 'summon'
+Sk 1 'swarm'
+Sk 1 'teleport'
+Sk 1 'thornshield'
+Sk 1 'transport'
+Sk 1 'vampiricshield'
+Sk 1 'voodoo'
+Sk 1 'watershield'
+Sk 1 'weaken'
+Sk 1 'wisdom'
+Sk 1 'wizard eye'
+Sk 1 'word of recall'
+Sk 76 'axe'
+Sk 74 'axe mastery'
+Sk 1 'enhanced damage'
+Sk 73 'fast healing'
+Sk 1 'hand to hand'
+Sk 51 'recall'
+Sk 59 'scrolls'
+Sk 73 'second attack'
+Sk 1 'staves'
+Sk 1 'third attack'
+Sk 1 'wands'
+MaxDam 96
+LLev 3
+Pass MaeWcRbqQNL1Y~
+Plyd 13924
+Note 0 0 0 0 0
+Room 3376
+HMVN 1638 1613 2644 2634 950 945
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 800 0 0 0 0 0 0 0 0
+Cnd  0 0 24 0
+Deviant 1 1
+Prac 121
+Devote current 0
+Pnts 40
+Mkil 220
+TotalCmpl 1
+TotalPnts 12
+TotalAttm 3
+TotalExpr 1
+TotalFail 1
+QuestPnts 12
+Gr 'acolyte basics'
+Gr 'attack'
+Gr 'beguiling'
+Gr 'benedictions'
+Gr 'combat'
+Gr 'detection'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'harmful'
+Gr 'maladictions'
+Gr 'rom basics'
+Gr 'shielding'
+Gr 'transportation'
+Affc 'darkvision'   0  30   0  -1   0   0   33554432
+Affc 'haste'   0 277   0  10   9   2    2097152
+Affc 'bless'   0 278   0  41  36  18          0
+Affc 'bless'   0 274   0  41 -36  20          0
+Affc 'shield'   0 283   0  17 -96  17          0
+Affc 'sanctuary'   1 287   0  23   0   0        128
+End
+
+#O
+Vnum 3163
+Nest 0
+End
+
+#O
+Vnum 3169
+Nest 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3719
+Nest 0
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3707
+Nest 0
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+Wear 13
+End
+
+#O
+Vnum 3708
+Nest 0
+Wear 8
+End
+
+#O
+Vnum 3713
+Nest 0
+Wear 14
+End
+
+#O
+Vnum 3705
+Nest 0
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+Wear 3
+End
+
+#O
+Vnum 769
+Nest 0
+Name dagger normal~
+Loader MPOP: (02:17-08/21/2009) Marton~
+End
+
+#O
+Vnum 3706
+Nest 0
+Wear 6
+End
+
+#O
+Vnum 3711
+Nest 0
+Wear 12
+End
+
+#O
+Vnum 3727
+Nest 0
+Wear 20
+End
+
+#O
+Vnum 3728
+Nest 0
+Wear 27
+End
+
+#O
+Vnum 3715
+Nest 0
+Wear 17
+End
+
+#O
+Vnum 756
+Nest 0
+Name Iron wristguard guard special~
+ShD  Iron wristguard~
+Loader MPOP: (02:25-08/21/2009) Marton~
+Lev  8
+Cost 75
+Wear 15
+Affc 'reserved' 2 1 -1 10 18 0
+End
+
+#O
+Vnum 1607
+Nest 0
+Cost 0
+End
+
+#O
+Vnum 1616
+Nest 0
+End
+
+#O
+Vnum 812
+Nest 0
+Name Gold staff Quintalis special~
+ShD  Gold staff of Quintalis~
+Loader MPOP: (02:28-08/21/2009) Marton~
+Lev  35
+Cost 75
+Valu 3 5 hellfire
+Affc 'reserved' 2 1 -1 10 19 0
+Affc 'reserved' 2 1 -1 162 12 0
+Affc 'reserved' 2 1 -1 9 18 0
+End
+
+#O
+Vnum 1614
+Nest 0
+End
+
+#O
+Vnum 717
+Nest 0
+Name Lord's cap special~
+ShD  Lord's cap~
+Loader MPOP: (02:29-08/21/2009) Marton~
+Lev  66
+Cost 75
+Affc 'reserved' 2 1 -1 11 19 0
+Affc 'reserved' 2 1 -1 16 18 0
+End
+
+#O
+Vnum 1615
+Nest 0
+End
+
+#O
+Vnum 16012
+Nest 0
+End
+
+#O
+Vnum 16012
+Nest 0
+End
+
+#O
+Vnum 16012
+Nest 0
+End
+
+#O
+Vnum 16012
+Nest 0
+End
+
+#O
+Vnum 16012
+Nest 0
+End
+
+#O
+Vnum 16006
+Nest 0
+End
+
+#O
+Vnum 9585
+Nest 0
+End
+
+#O
+Vnum 16012
+Nest 0
+End
+
+#O
+Vnum 16044
+Nest 0
+End
+
+#O
+Vnum 16009
+Nest 0
+End
+
+#O
+Vnum 16009
+Nest 0
+End
+
+#O
+Vnum 16006
+Nest 0
+End
+
+#O
+Vnum 16009
+Nest 0
+End
+
+#O
+Vnum 16012
+Nest 0
+End
+
+#O
+Vnum 16053
+Nest 0
+End
+
+#O
+Vnum 16003
+Nest 0
+End
+
+#O
+Vnum 16024
+Nest 0
+End
+
+#O
+Vnum 3162
+Nest 0
+End
+
+#O
+Vnum 5100
+Nest 0
+End
+
+#O
+Vnum 9220
+Nest 0
+End
+
+#O
+Vnum 3114
+Nest 0
+Wear 9
+End
+
+#O
+Vnum 774
+Nest 0
+Name flail normal~
+Loader MPOP: (04:45-08/21/2009) Marton~
+End
+
+#O
+Vnum 806
+Nest 0
+Name lash Might special~
+ShD  lash of Might~
+Loader MPOP: (04:57-08/21/2009) Marton~
+Lev  16
+Cost 75
+Affc 'reserved' 2 1 -1 4 1 0
+End
+
+#O
+Vnum 5100
+Nest 0
+End
+
+#O
+Vnum 773
+Nest 0
+Name knife throwing Brilliance special~
+ShD  throwing knife of Brilliance~
+Loader MPOP: (05:15-08/21/2009) Marton~
+Lev  33
+Cost 1875
+Affc 'reserved' 2 25 -1 4 3 0
+End
+
+#END

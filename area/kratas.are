@@ -1,0 +1,4080 @@
+#AOD_AREA
+Kratas*~
+31000 31312 0 6
+Levl 20 50
+Bldr RzA~
+Alig G
+End
+
+#MOBILES
+#31000
+kratas cityguard~
+the Kratas cityguard~
+A huge burly cityguard moves about here.
+~
+He is 6'5" and about 245 pounds of pure muscle.  He is also well-built,
+clean in appearance and handsome as well.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 350 0
+55 51 0 2229 2390 2076 2293 7 8 51 beating
+-105 -101 -105 -95
+STANDING STANDING neutral 1318
+86 warrior medium ABCDEFGHIJK
+P 121 5
+S 'roundhouse' 0
+
+#31001
+sentinel kratas~
+a sentinel of Kratas~
+A sentinel of the city streets watches for trouble makers.
+~
+He stands at about 6'0" even..  220 pounds, and is strong in stature.  He
+watches for troublemakers that roam about here.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 400 0
+60 88 0 2560 2746 2417 2835 7 9 72 beating
+-128 -137 -129 -110
+STANDING STANDING neutral 1675
+86 warrior medium ABCDEFGHIJK
+P 110 0
+S 'roundhouse' 0
+M RANDOM 31001 5~
+
+#31002
+man towerguard guard~
+a Towerguard~
+A huge man stands here watching the tower for enemies.
+~
+He is somewhat slim but physically fit.  He stands about 5'11" and is 200
+pounds even.  His job is to watch out for any signs of suspicion while
+serving Kratas.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B b 0 400 0
+60 87 0 2517 2766 2651 2720 9 10 85 punch
+-136 -106 -137 -90
+STANDING STANDING neutral 1322
+88 warrior medium ABCDEFGHIJK
+P 20 0
+S 'roundhouse' 0
+
+#31003
+shopkeeper~
+the Potions Shopkeeper~
+A shopkeeper stands here, mixing different potions.
+~
+A rather skinny fellow with glasses and a robe.  
+~
+human~
+0 0 0 150 0 0 0 100 0 0 0 0 0 0 0 100 100 0 0 0 0 0 0 100 100 100 
+B DF 0 0 0
+160 509 0 14932 16475 15319 17769 54 53 458 none
+-778 -837 -575 -772
+STANDING STANDING neutral 9209
+82 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#31004
+petkeeper owner~
+The Owner of the Pets~
+A Petkeeper is here waiting for your purchase while holding a rat.
+~
+He owns and sells strange creatures in Kratas.
+~
+human~
+0 0 0 150 0 0 0 100 0 0 0 0 0 0 0 100 100 0 0 0 0 0 0 100 100 100 
+B DFb 0 0 0
+160 384 0 15472 17798 15855 17437 51 52 435 none
+-570 -837 -674 -838
+STANDING STANDING neutral 9908
+82 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#31005
+sleepy innkeeper~
+The Innkeeper~
+An innkeeper is here filing paperwork looking rather dizzy.
+~
+He is the head of the Inn where those who need sleep can pay here.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B b 0 0 0
+160 482 0 15614 16930 14540 17372 52 59 372 none
+-842 -589 -623 -747
+STANDING STANDING neutral 7519
+82 warrior medium ABCDEFGHIJK
+P 7 1
+S 'roundhouse' 0
+
+#31006
+bartender~
+The Bartender~
+A bartender is here wiping the table waiting for your order.
+~
+He sells the finest in alcoholic and non-alcoholic drinks.
+~
+human~
+0 0 0 150 0 0 0 100 0 0 0 0 0 0 0 100 100 0 0 0 0 0 0 100 100 100 
+B 0 0 0 0
+160 422 0 15275 16490 14930 17721 59 58 515 none
+-766 -868 -681 -654
+STANDING STANDING neutral 7614
+82 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#31007
+cook pastry~
+A Cook~
+A pastry cook is here seemingly busy making delicious goodies.
+~
+He sells the finest baked breads in the land.
+~
+human~
+0 0 0 150 0 0 0 100 0 0 0 0 0 0 0 100 100 0 0 0 0 0 0 100 100 100 
+B 0 0 0 0
+160 453 0 15689 17681 14786 16329 54 49 480 none
+-855 -851 -607 -653
+STANDING STANDING neutral 8432
+90 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#31008
+shopkeeper armor~
+The Shopkeeper of Armor~
+A shopkeeper is here polishing a dirty shield.
+~
+He sells the finest in armor.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B DF 0 0 0
+160 423 0 15461 16461 14945 17085 51 53 419 none
+-786 -879 -683 -612
+STANDING STANDING neutral 7490
+82 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#31009
+grocer man shopkeeper~
+The Grocer~
+A grocer stands here smiling ready to serve you.
+~
+He sells groceries for all those who come by to shop at his store.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B DFb 0 0 0
+160 382 0 15302 17294 15214 17965 51 50 514 none
+-847 -617 -574 -561
+STANDING STANDING neutral 10492
+90 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#31010
+shopkeeper man~
+The Shopkeeper of Weapons~
+A man stands here smiling welcoming you to his shop.
+~
+He sells the finest weapons of Kratas.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B DFb 0 0 0
+160 467 0 15751 16402 15149 17823 52 60 427 none
+-612 -661 -820 -551
+STANDING STANDING male 7282
+90 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#31011
+shopkeeper jeweller~
+A Strange Shopkeeper~
+A gypsy shopkeeper grins evilly as you enter the shop.
+~
+She's weird in behavior but has the nicest jewels in all of Kratas.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B DFb 0 0 0
+160 438 0 16008 17914 15558 17347 46 56 474 none
+-879 -815 -705 -751
+STANDING STANDING female 7446
+90 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#31012
+man auctioneer~
+An auctioneer~
+A man is here ready to buy back whatever you have.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B DF 0 0 0
+160 472 0 15336 16658 16111 17674 50 52 394 none
+-899 -800 -782 -566
+STANDING STANDING neutral 9749
+82 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#31013
+shepherd tall~
+A tall shepherd~
+A tall shepherd is here enjoying the scenery in the city.
+~
+He's somewhat tall for a shepherd but middle-aged and very rugged in
+appearance.  He's hairy but has a sense of peace about him for some reason.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 150 0
+38 20 0 653 799 715 757 2 2 17 beating
+-29 -39 -32 -30
+STANDING STANDING neutral 327
+85 warrior medium ABCDEFGHIJK
+P 38 0
+S 'roundhouse' 0
+
+#31014
+merchant man~
+A talkative merchant~
+A blabbering merchant stands here talking to himself.
+~
+He talks about money, trading, selling and is utterly irritating.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 100 0
+33 6 0 244 293 266 271 0 0 9 punch
+-11 -12 -11 -9
+STANDING STANDING neutral 163
+85 warrior medium ABCDEFGHIJK
+P 32 1
+S 'roundhouse' 0
+
+#31015
+barbarian fighter man~
+A rugged barbarian~
+A barbarian wanders about here looking confused.
+~
+A huge specimen with broad shoulders and chest and muscular to the
+maximum.  He seems somewhat clumsy in appearance however.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 50 0
+54 69 0 2144 2260 1972 2253 7 7 53 crush
+-111 -106 -102 -118
+STANDING STANDING neutral 1151
+88 warrior medium ABCDEFGHIJK
+P 15 0
+S 'roundhouse' 0
+
+#31016
+knight royal man~
+A full-armored knight~
+A royal knight bows to you as he proceeds along his way.
+~
+He must be from distant parts because of his difference in appearance in
+comparison to the common-folk.  He is well groomed and well armored and
+takes a liking in this place.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 400 0
+60 73 0 2497 2985 2452 2705 8 10 63 slash
+-97 -113 -92 -133
+STANDING STANDING neutral 1550
+90 warrior medium ABCDEFGHIJK
+P 12 0
+S 'roundhouse' 0
+
+#31017
+elven man drow mercenary~
+A drow mercenary~
+An elven man rubs his chin here eyeing your valuables.
+~
+This elven fiend takes no pride in being nice but only to steal the booty
+of anyone that passes by him.  Although he is short, he moves quickly and is
+not to be taken lightly.
+~
+human~
+150 150 0 100 100 150 100 100 150 150 150 100 50 100 50 100 100 100 50 100 100 150 100 100 100 100 
+0 JZb 0 -455 0
+60 81 0 2636 2842 2674 2890 7 7 65 pierce
+-130 -93 -135 -144
+STANDING STANDING neutral 1708
+91 warrior medium ABCDEFGHIJK
+P 38 1
+S 'roundhouse' 0
+
+#31018
+dwarf dwarven ice hermit~
+A dwarven ice hermit~
+A hermit is here avoiding eye contact with you.
+~
+This aging dwarven is hunched a bit over and is emitting a heavy beard
+and mustache.  He breathes loudly but cares nothing about the society and
+what they pereceive him.  From seeing you, he avoids you.
+~
+dwarf~
+100 50 100 100 0 100 100 100 100 100 100 100 150 150 100 100 100 50 0 100 100 100 150 100 100 100 
+C JZ 0 135 0
+50 135 0 8777 12691 54 143 5 25 80 cleave
+-750 -750 -750 -720
+STANDING STANDING neutral 3777
+87 warrior medium ABCDEFGHIJK
+P 9 0
+S 'roundhouse' 0
+
+#31019
+highwayman~
+A highwayman~
+A highwayman rests here looking at you as you pass by.
+~
+This man seems puzzling in character as he passively eyes on you.  He
+stands only 5'8" and seems wimpy in appearance.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 -135 0
+55 75 0 2159 2355 2145 2284 6 8 53 stab
+-116 -79 -111 -116
+STANDING STANDING neutral 1419
+86 warrior medium ABCDEFGHIJK
+P 21 1
+S 'roundhouse' 0
+
+#31020
+young sailor man~
+A young sailor~
+A youthful sailor is here enjoying himself.
+~
+He is slim but spirited and in a happy mood.  He's about 5'11" and is
+light in skin.  He seems to be coming from faraway.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 250 0
+45 35 0 1286 1406 1215 1386 3 5 44 beating
+-67 -62 -60 -68
+STANDING STANDING neutral 865
+85 warrior medium ABCDEFGHIJK
+P 15 1
+S 'roundhouse' 0
+
+#31021
+mean pirate~
+A mean pirate~
+A mean pirate walks here snarling at you.
+~
+He's very mean and is rugged and rough in features.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 -800 0
+55 56 0 2130 2329 2173 2453 8 6 51 stab
+-121 -93 -94 -112
+STANDING STANDING neutral 1441
+90 warrior medium ABCDEFGHIJK
+P 28 0
+S 'roundhouse' 0
+
+#31022
+elven mage~
+An elven mage~
+An elven mage bows to you as he walks by.
+~
+This elf has a grim look about his middle-aged features.  He must be
+coming from lands afar.
+~
+human~
+100 150 50 100 100 100 100 100 50 150 50 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 
+0 JZb N 0 0
+50 47 0 1676 2000 1702 1918 5 6 54 punch
+-67 -74 -80 -68
+STANDING STANDING neutral 846
+94 warrior medium ABCDEFGHIJK
+P 17 0
+S 'roundhouse' 0
+
+#31023
+elder old dwarf dwarven man~
+An elder dwarf~
+An old dwarf bows to you and proceeds about his daily business.
+~
+This bearded dwarf is short and stocky in height.  He looks labored as if
+in many past adventures.
+~
+dwarf~
+100 50 100 100 0 100 100 100 100 100 100 100 150 150 100 100 100 50 0 100 100 100 150 100 100 100 
+0 JZ 0 0 0
+48 47 0 1538 1719 1448 1700 4 5 45 cleave
+-66 -61 -89 -83
+STANDING STANDING neutral 920
+92 warrior medium ABCDEFGHIJK
+P 11 0
+S 'roundhouse' 0
+
+#31024
+lost gnome~
+A lost gnome~
+A gnome stands here looking puzzled as he looks at you walk by.
+~
+He's short, and somewhat husky but is dangerous when in combat.
+~
+gnome~
+100 100 50 100 100 100 150 100 100 150 100 150 50 50 100 100 100 100 150 100 150 100 150 100 100 100 
+0 JZb N 100 0
+45 33 0 1332 1361 1305 1474 5 5 43 slash
+-54 -64 -57 -64
+STANDING STANDING neutral 704
+85 warrior medium ABCDEFGHIJK
+P 21 0
+S 'roundhouse' 0
+
+#31025
+boy kratasian~
+A small Kratasian boy~
+A boy gaily laughs and runs around the streets here.
+~
+He so little, so cute and so happy.. please dont kill him.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 800 0
+30 2 0 86 91 90 93 0 0 2 beating
+-5 -3 -5 -4
+STANDING STANDING neutral 41
+85 warrior medium ABCDEFGHIJK
+P 84 0
+S 'roundhouse' 0
+
+#31026
+woman kratasian common~
+A Kratasian woman~
+A hefty common woman looks around shopping for necessities.
+~
+She is hefty and somewhat wide but has a sense of sternness about her.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 355 0
+30 3 0 88 93 84 92 0 0 2 charge
+-4 -3 -3 -5
+STANDING STANDING female 57
+87 warrior medium ABCDEFGHIJK
+P 74 0
+S 'roundhouse' 0
+
+#31027
+kratasian man commoner~
+A Kratasian man~
+A Kratasian commoner is here happily walking along.
+~
+He is a commoner in Kratas and is your average everyday person.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 355 0
+32 5 0 178 187 179 200 0 0 6 punch
+-9 -10 -6 -10
+STANDING STANDING neutral 81
+88 warrior medium ABCDEFGHIJK
+P 103 0
+S 'roundhouse' 0
+
+#31028
+kratasian girl~
+A pretty Kratasian girl~
+A cute girl is standing here happily smiling.
+~
+She so cute, and so adorable dont kill her please.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 600 0
+28 3 0 80 99 81 93 0 0 2 beating
+-3 -5 -4 -3
+STANDING STANDING female 59
+88 warrior medium ABCDEFGHIJK
+P 102 0
+S 'roundhouse' 0
+
+#31029
+shaggy canine~
+A shaggy canine~
+A rugged-looking canine trots about searching for food here.
+~
+This poor dog is old, shabby, rugged and smelly.  It seems deprived of
+food because of the skinny body he has.
+~
+dog~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 DF 0 -100 0
+28 3 0 90 96 87 92 0 0 3 bite
+-5 -4 -3 -5
+STANDING STANDING neutral 45
+84 warrior medium ACDEFHJKUV
+P 77 0
+S 'roundhouse' 0
+
+#31030
+traveller man mage~
+A weary traveller~
+A traveller walks along the streets here lost in thought.
+~
+He looks sweaty and weary and seems a bit tired.  He is middle-aged and
+looks rather thin in stature.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+C b 0 200 0
+33 7 0 268 283 242 291 0 0 7 punch
+-11 -10 -15 -12
+STANDING STANDING neutral 141
+84 warrior medium ABCDEFGHIJK
+P 33 0
+S 'roundhouse' 0
+
+#31031
+tall paladin~
+A huge paladin~
+A tall paladin walks here radiant in appearance.
+~
+He is huge in height and muscular in stature, but shines raidantly at his
+features.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 b 0 250 0
+48 45 0 1549 1655 1492 1654 4 6 39 crush
+-70 -54 -68 -56
+STANDING STANDING neutral 739
+93 warrior medium ABCDEFGHIJK
+P 23 0
+S 'roundhouse' 0
+
+#31032
+julia tinker girl~
+Julia~
+A tinker walks by sternly eyeing the people.
+~
+She is might in fighting and has been known to be a ferocious fighter to
+opposers.  She is about 5'5" and is well-figured.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B 0 H 400 0
+60 34 0 1404 1694 1498 1532 4 4 50 cleave
+-71 -53 -77 -65
+STANDING STANDING female 724
+89 warrior medium ABCDEFGHIJK
+P 8 0
+S 'roundhouse' 0
+
+#31039
+janitor man~
+A Kratasian janitor~
+A janitor is here cleaning up the streets.
+~
+He is the custodian of Kratas.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+C 0 0 500 0
+42 26 0 1058 1081 1031 1173 4 4 33 punch
+-50 -46 -54 -39
+STANDING STANDING neutral 579
+84 warrior medium ABCDEFGHIJK
+P 28 1
+S 'roundhouse' 0
+
+#31040
+King Kratas man~
+King Kratas~
+King Kratas, head of this town, bows deeply to you.
+~
+The head of the kratasian castle..  King Kratas is evidently the
+top-notch man of the town and is probably the strongest I bet.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B b 0 1000 0
+70 41 0 1615 1887 1663 1963 5 5 51 crush
+-75 -80 -90 -77
+STANDING STANDING neutral 848
+93 warrior medium ABCDEFGHIJK
+P 6 0
+S 'roundhouse' 0
+M GRALL 31040 100~
+
+#31044
+kratasian healer~
+The Kratasian Healer~
+A healer is here to care for your wounds.
+~
+He is the healer.
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BVa 0 0 1000 0
+160 477 0 14592 16805 14903 17266 47 56 433 none
+-885 -563 -738 -885
+STANDING STANDING neutral 10595
+86 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#31100
+furry husky wolf~
+A Furry Husky~
+A menacing wolf stands on guard here weary of foes.
+~
+He scampers around with vigor and energy only protecting his master.
+~
+wolf~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+IU Z 0 0 0
+20 117 0 3401 3920 3536 3652 10 10 115 none
+-133 -153 -197 -121
+STANDING STANDING neutral 2322
+74 warrior medium ACDEFJKQV
+S 'roundhouse' 0
+
+#31101
+man traveller~
+A freezing man~
+A half-clothed man screams, 'Gimme your clothes!'
+~
+He's half naked and is losing control of himself!
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 -100 0
+50 63 0 2651 2920 2434 2777 8 8 87 beating
+-141 -114 -109 -127
+STANDING STANDING neutral 1276
+82 warrior medium ABCDEFGHIJK
+P 19 0
+S 'roundhouse' 0
+
+#31102
+stray cat feline~
+A stray cat~
+A stray feline slowly creeps along the path here.
+~
+~
+cat~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 Z 0 -4 0
+40 42 0 1780 1958 1717 1987 5 5 51 claw
+-68 -70 -69 -89
+STANDING STANDING female 979
+80 warrior medium ACDEFHJKQUV
+P 47 1
+S 'roundhouse' 0
+
+#31103
+demonic entity demon~
+A Hypnotized Demon~
+A demonic entity is here in a crouched position standing guard.
+~
+Evil and strong.. gruesome and wild.. the demon looks well for a ugly-thing.
+~
+human~
+100 100 100 100 100 100 100 100 150 100 150 100 50 100 0 100 100 100 100 100 100 100 100 100 100 100 
+BI CJTU ADJO 1000 0
+35 140 0 4507 5278 4843 5396 13 17 111 none
+-245 -173 -223 -214
+STANDING STANDING neutral 2851
+77 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#31300
+banker man changer moneychanger~
+The Kratasian Banker~
+A man sits behind the counter offering monetary services.
+~
+He is the Kratasian banker here to handle any sort of problems with
+monetary affairs.
+~
+human~
+0 0 0 150 0 100 0 100 100 0 0 0 0 100 100 100 100 0 0 0 0 0 0 100 100 100 
+B 0 0 0 0
+170 553 0 15809 18512 16862 17961 51 56 514 none
+-864 -869 -843 -829
+STANDING STANDING neutral 8863
+82 warrior medium ABCDEFGHIJK
+P 5 1
+S 'roundhouse' 0
+
+#31301
+polar bear~
+a Polar Bear~
+A furry but gigantic polar bear roars!
+~
+White and furry and usually content but I dont think he seems to calm right now.
+~
+bear~
+100 50 50 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+F J 0 0 0
+45 59 0 2214 2420 2068 2294 7 6 69 bite
+-121 -106 -123 -121
+STANDING STANDING neutral 1330
+83 warrior medium ABCDEFHJKUV
+P 53 0
+S 'roundhouse' 0
+
+#31302
+man eskimo~
+an angry eskimo~
+An eskimo glares coldly then looks away.
+~
+He's a small lad but has dark pigmented skin.  You can see that he's not
+from around these parts.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 100 0
+40 55 0 1651 1900 1649 1963 5 6 45 beating
+-69 -83 -61 -86
+STANDING STANDING male 882
+85 warrior medium ABCDEFGHIJK
+P 14 1
+S 'roundhouse' 0
+
+#31303
+owl bird~
+An Owl~
+An owl sits on a branch here from a dead tree aside the road.
+~
+Dont touch the owl.  he's very quiet and content.. he can't possibly do any hurt to you!
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 T 0 130 0
+40 57 0 1783 1869 1771 1906 6 5 47 claw
+-61 -65 -63 -93
+STANDING STANDING neutral 1001
+81 warrior medium ACDEFHKP
+P 18 0
+S 'roundhouse' 0
+M RANDOM 31303 2~
+
+#31304
+man ice soldier~
+An Ice Soldier~
+A man stands here walking slowly the thick snow here.
+~
+As muscular as he seems to look in all his clothing, ice and snow covers
+the majority of his body as his face seems hidden from your sight.  He
+stands about 6 feet and from his frame seems very well-built.  However, he
+is very quiet and does not want to be bothered.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+C 0 0 -140 0
+40 53 0 1613 1985 1769 1938 6 6 55 crush
+-96 -67 -67 -72
+STANDING STANDING neutral 971
+91 warrior medium ABCDEFGHIJK
+P 14 2
+S 'roundhouse' 0
+
+#31305
+hungry wolf~
+A Hungry Wolf~
+A wolf wanders about here not noticing you... yet.
+~
+Labored in breathing, thin fur, but hungry and possibly malicious!
+~
+wolf~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 Z 0 -300 0
+40 47 0 1787 1998 1649 1818 6 6 51 bite
+-64 -77 -80 -66
+STANDING STANDING neutral 988
+82 warrior medium ACDEFJKQV
+P 26 0
+S 'roundhouse' 0
+M RANDOM 31305 10~
+
+#31306
+old man mage~
+An Elderly Mage~
+An old man stands here contently staring at the ground smiling somewhat.
+~
+He is about 60 years of age, 5'7 and is frail and thin.  But he seems to
+have an aura of happiness and content in his inner being.  His old gray hair
+sinks along his shoulders but he just seems relaxed.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 300 0
+40 54 0 1792 1977 1695 1899 6 6 54 wrath
+-97 -60 -93 -75
+STANDING STANDING neutral 945
+86 warrior medium ABCDEFGHIJK
+P 8 0
+S 'roundhouse' 0
+
+#31307
+lookout guard man ~
+The Kratasian Lookout Guard~
+A man is here checking the lands across the snow.
+~
+A hired guard to lookout for any signs of trouble in the Kratasian territory.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 300 0
+65 99 0 3747 4179 3897 4236 14 12 131 beating
+-160 -224 -149 -205
+STANDING STANDING neutral 1837
+85 warrior medium ABCDEFGHIJK
+P 28 0
+S 'roundhouse' 0
+M GREET 31307 100~
+
+#31310
+silver fish~
+A Silver Fish~
+Your eyes detect a large fish swimming beneath the waters.
+~
+Silvery and delicious to fry and eat!  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 
+0 b 0 300 0
+65 74 0 2901 3421 3016 3313 10 10 102 suction
+-152 -161 -116 -115
+STANDING STANDING neutral 1605
+83 warrior medium ABCDEFGHIJK
+P 26 2
+S 'roundhouse' 0
+
+#31311
+duck~
+A Duck~
+A happy duck quacks and swims along the pond here.
+~
+Oh the duck is too cute to slay..  Please dont fight this cute golden
+billed, brown feathered, webby foot duckie!  
+~
+water fowl~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 
+0 Tb 0 300 0
+65 105 0 3103 3289 3036 3486 10 9 79 none
+-129 -149 -171 -145
+STANDING STANDING neutral 2040
+83 warrior medium ACDEFHKP
+P 21 5
+S 'roundhouse' 0
+
+#31312
+green frog~
+A Green Frog~
+A huge frog stands on a lilypad here as you swim by.
+~
+So cute and green but huge and has big red eyes! 
+~
+water fowl~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 
+0 b 0 230 0
+40 30 0 836 934 899 905 3 2 23 suction
+-45 -49 -36 -44
+STANDING STANDING neutral 410
+78 warrior medium ACDEFHKP
+P 38 1
+S 'roundhouse' 0
+#0
+
+#OBJECTS
+#31000
+potion battle~
+a Potion of Battle~
+A strange scented potion lies here bubbling furiously.~
+potion ABY AO
+65 'giant strength' 'haste' 'armor' 'shield'
+15 3 1355
+
+#31001
+bottle wine~
+a Bottle of Wine~
+A long bottle of a grape-scented wine is here blocking your way.~
+drinkcontainer 0 AO
+5 5 'red wine' 0 0
+15 2 55
+
+#31002
+piece bread~
+a Huge Piece of Bread~
+A tasty-looking piece of bread is here watering your lips.~
+food 0 AO
+20 40 0 0 0
+15 2 40
+
+#31003
+steel breastplate~
+a Strong Steel Breastplate~
+A huge breastplate made of fine steel is lying here.~
+armor 0 AD
+8 8 8 6 0
+20 21 1748
+A 20 0
+A 5 1
+
+#31004
+pack sack rations~
+a Pack of Rations~
+A small sack of rations used for journeys lie here.~
+food 0 A
+20 40 0 0 0
+1 2 45
+
+#31005
+huge steel mallet sledgehammer~
+a Giant Sledgehammer~
+A thick stick with a huge steel mallet lies here waiting to be wielded.~
+weapon 0 AN
+exotic 14 13 crush F
+100 26 5000
+A 18 25
+
+#31006
+silver ankle bracelet~
+a Silver Ankle Bracelet~
+A small silvery bracelet worn around the ankles lies here glimmering.~
+jewelry 0 AU
+0 0 0 0 0
+10 3 1453
+A 19 12
+
+#31010
+long staff quarterstaff~
+a Long Staff~
+A long curved staff lies here almost cracked in two.~
+weapon 0 AN
+quarterstaff 8 8 beating 0
+25 12 2555
+
+#31011
+brown robe~
+a Dirty Brown Robe~
+An old shaggy brown robe lies here wrinkled up.~
+armor 0 AD
+12 11 11 11 0
+25 26 2877
+A 4 2
+A 20 -1
+
+#31012
+long cloth clothed turban~
+a Long-Clothed Turban~
+A huge piece of cloth wrapped into a turban lies here.~
+armor 0 AE
+8 6 9 6 0
+20 11 1742
+A 4 2
+A 18 5
+
+#31014
+silver lance chrome~
+a Long Silver Lance~
+A long sharp lance with a chrome layering lies here.~
+weapon 0 AN
+exotic 10 12 stab D
+49 23 3280
+A 19 19
+
+#31015
+emblemed shield~
+an Emblemed Shield~
+A huge shield with a strange diamond emblem lies here.~
+armor 0 AJ
+24 18 17 22 0
+48 24 5873
+A 13 35
+A 18 5
+
+#31016
+knight helmet~
+a Knight's Helmet~
+A helmet of a royal knight lies here.~
+armor B AE
+18 18 18 18 0
+48 20 5122
+A 18 14
+A 5 -2
+
+#31017
+black sash pockets~
+a Black Sash of Holding~
+A long black sash with several pockets lies here.~
+container BY AL
+700 0 0 10 25
+45 21 4888
+A 17 -14
+A 2 1
+
+#31018
+pair ice boots~
+a Pair of Ice-Filled Boots~
+A soggy wet pair of ice-filled boots lies here.~
+armor 0 AG
+13 14 13 12 0
+35 36 3857
+A 20 -1
+A 19 2
+
+#31019
+gold coins~
+a Hoard of Gold Coins~
+Lying here is a humongous amount of gold coins... get it!~
+money 0 A
+10000 0 0 0 0
+1 1 230
+
+#31020
+pair white shoes~
+a Pair of White Shoes~
+A pair of bright white shoes lies here.~
+armor 0 AG
+5 5 5 4 0
+35 17 3884
+A 2 2
+
+#31021
+golden bracer~
+a Golden Bracer~
+A small sparkling bracer lies here with a golden aura about it.~
+armor A AM
+15 22 15 17 0
+45 71 6845
+A 18 8
+A 19 7
+
+#31022
+black eyepatch~
+an Eyepatch~
+A small black eyepatch lies here for you to wear.~
+armor 0 AR
+15 22 20 18 0
+45 2 4777
+A 14 -20
+A 5 2
+A 19 5
+
+#31023
+wooden leg~
+a Wooden Leg~
+A small leg used to stick your leg in lies here.~
+armor M AF
+19 15 16 17 0
+45 10 4888
+A 14 -50
+A 18 10
+
+#31024
+elven ring~
+a Small Elven Ring~
+A strange shiny ring made of elven lore lies here.~
+armor AY AB
+14 13 14 13 0
+40 4 4854
+A 13 30
+A 14 50
+
+#31025
+dwarven axe~
+a Dwarven Axe~
+A strangely familiar axe is lying here for you to try.~
+weapon 0 AN
+axe 8 11 cleave D
+35 15 3755
+
+#31026
+bronze necklace~
+a Bronze Necklace~
+A bizarre necklace made of bronze lies here.~
+armor 0 AC
+8 10 8 12 0
+20 4 2877
+A 18 9
+
+#31029
+magical axe~
+the Magical Axe of Julia~
+A strange magical axe of Julia lies here.~
+weapon BG AN
+axe 7 12 slice DE
+50 24 5245
+
+#31030
+potion restoration fiery~
+a Potion of Restoration~
+A fiery potion lies here vibrant and radiant.~
+potion 0 A
+55 'heal' 'cure critical' '' ''
+22 2 1500
+
+#31031
+jug ale~
+a Jug of Ale~
+A huge jug of Ale is lying here for you to drink.~
+drinkcontainer 0 AO
+10 10 'ale' 0 0
+5 15 255
+
+#31032
+skin wineskin elvish wine~
+a Big Skin of Elvish Wine~
+A big wineskin of elvish liquor lies here.~
+drinkcontainer 0 AO
+15 15 'elvish wine' 0 0
+10 4 555
+
+#31033
+wheat brown cake~
+a Wheat Cake~
+A strange brown cake made of wheat lies here for you to eat.~
+food 0 A
+10 15 0 0 0
+1 1 25
+
+#31034
+small cupcake~
+a Small Cupcake~
+A delicious little cupcake is here for you to taste.~
+food 0 A
+5 9 0 0 0
+1 1 15
+
+#31035
+pair rawhide boots~
+a Pair of Rawhide Boots~
+A long pair of tough rawhide boots lies here leaving someone footless.~
+armor 0 AG
+8 7 8 9 0
+20 21 2344
+A 18 2
+
+#31036
+pair sandals ankle~
+a Pair of Ankle-Strapped Sandals~
+A pair of sandals with ankle-strapped laces lies here.~
+armor 0 AG
+15 15 15 14 0
+40 41 4444
+A 14 30
+A 5 1
+
+#31037
+pair steel gauntlets~
+a Pair of Steel-Made Gauntlets~
+A large pair of steel gauntlets lies here.~
+armor 0 AH
+15 15 15 13 0
+40 41 4245
+A 20 -1
+A 2 1
+
+#31038
+pair chained gauntlets~
+a Pair of Chained Gauntlets~
+A huge pair of chained gauntlets lies here.~
+armor 0 AH
+23 16 18 17 0
+50 51 5243
+A 19 2
+A 18 1
+
+#31039
+belt golden buckle~
+a Golden Buckled Belt~
+A large belt with a golden buckle lies here.~
+armor 0 AL
+22 22 25 21 0
+60 61 6444
+A 18 4
+A 19 4
+
+#31040
+leather uniform vest~
+a Leather Vest~
+A long leather uniform lies here unworn and partially torn.~
+armor 0 AD
+22 30 22 20 0
+60 61 6343
+A 18 4
+A 19 2
+A 13 45
+
+#31041
+plastic pair hands~
+a Plastic Pair of Hands~
+An unused pair of plastic hands lies here for you to wield.~
+weapon 0 AN
+exotic 10 11 smash 0
+75 36 2240
+A 19 2
+A 18 2
+
+#31042
+long staff beating quarterstaff~
+a Long Staff of Beating~
+A huge well-carved staff is lying here.~
+weapon 0 AN
+exotic 8 8 beating 0
+55 56 3280
+A 20 -2
+A 1 2
+A 19 4
+A 18 4
+
+#31044
+golden machete~
+a Golden Machete~
+A huge golden machete is lying here glowing.~
+weapon 0 AN
+flail 10 11 cleave 0
+75 76 4220
+A 19 6
+A 18 6
+
+#31045
+silver chain medallion~
+a Silver Medallion~
+A long silver chain with a round medallion lies here.~
+jewelry 0 AC
+0 0 0 0 0
+20 5 1545
+A 18 13
+
+#31046
+opal ring~
+an Opal Ring~
+An illuminating opal ring lies here shimmering brightly.~
+jewelry A AB
+0 0 0 0 0
+30 17 2122
+A 20 -1
+A 14 110
+
+#31047
+golden wristlet~
+a Thick Golden Wristlet~
+A shiny golden wristlet lies here.~
+jewelry 0 AM
+0 0 0 0 0
+50 25 2555
+A 19 20
+A 12 100
+
+#31048
+pool water~
+a Huge Circular Pool of Glowing Water~
+A large round circular pool of water lies in the center here.~
+furniture GOY 0
+2 1000 EFHIKL 50 50
+0 0 0
+
+#31070
+ceremonial axe~
+a Ceremonial Axe~
+A magnificently brandished axe lies here.~
+weapon BMY AN
+axe 10 14 cleave DF
+45 22 4888
+
+#31071
+Kratasian Plate Mail~
+a Kratasian Plate Mail~
+A heavy suit of plate armor lies here.~
+armor AY AK
+8 8 8 7 0
+45 20 4888
+A 18 4
+A 19 5
+
+#31072
+metallic skirt~
+a Metallic Skirt~
+A wide double-layered skirt of silver lies here.~
+armor Y AF
+8 8 8 7 0
+45 21 4877
+A 20 -1
+A 1 1
+
+#31073
+suit chain mail armor~
+a Suit of Chain Mail~
+A large suit of armor made of chains lies here jingling.~
+armor 0 AD
+12 12 12 11 0
+50 23 5823
+A 20 -1
+A 13 25
+
+#31074
+crystal crystalized portal~
+a crystalized portal~
+A shiny crystalized portal appears suddenly for you to enter!~
+portal O 0
+0 0 0 450 0
+0 0 0
+
+#31075
+red cubic zirconium~
+a Red Cubic Zirconium~
+A small precious red cubic zirconium is lying here.~
+gem NWY AO
+0 0 0 0 0
+0 0 5000
+
+#31076
+kratasian quarterstaff staff~
+a Kratasian Quarterstaff~
+A long quarterstaff of Kratas is lying here.~
+weapon 0 AN
+exotic 8 8 beating 0
+55 10 5750
+
+#31077
+flail kratasian~
+the Kratasian Flail~
+A flail made from Kratas is lying here.~
+weapon 0 AN
+flail 6 10 slice DF
+15 10 1888
+
+#31078
+kratasian claymore curved blade~
+a Curved Kratasian Claymore~
+A long curved claymore made from Kratasian hands lies here.~
+weapon 0 AN
+exotic 5 5 slash 0
+1 2 140
+A 18 0
+A 13 3
+A 19 0
+
+#31079
+kratasian halberd polearm~
+a Kratasian Halberd~
+A Kratasian made halberd is lying here.~
+weapon 0 AN
+polearm 8 10 cleave DF
+25 10 2788
+
+#31080
+double bladed axe kratasian~
+a Kratasian Double-Bladed Axe~
+A long double-bladed axe filled with blood is lying here.~
+weapon 0 AN
+axe 8 13 cleave DF
+35 10 3888
+
+#31081
+mace kratasian~
+a Kratasian Mace~
+A huge mace lies here unused.~
+weapon 0 AN
+mace 6 6 crush F
+15 10 1777
+A 13 25
+A 18 1
+A 19 1
+
+#31082
+kratasian dagger~
+a Kratasian Dagger~
+A long lethal Kratasian dagger is lying here.~
+weapon 0 AN
+dagger 6 8 stab D
+15 6 2122
+
+#31083
+longsword sword kratasian~
+a Kratasian Longsword~
+A huge longsword made by Kratasian hands is lying here.~
+weapon 0 AN
+sword 8 7 shadow D
+25 12 2666
+
+#31084
+kratasian leather whip~
+a Kratasian Whip~
+A long leather whip of Kratas is lying here coiled up.~
+weapon 0 AN
+whip 10 10 sting G
+45 10 5000
+
+#31085
+pair kratasian fist hands fists hand~
+the Kratasian Fists~
+A pair of plastic fists made by Kratasians lie here untouched.~
+weapon 0 AN
+exotic 5 5 beating 0
+1 2 140
+A 19 0
+A 18 0
+
+#31086
+piece bread~
+a Long Piece of Bread~
+A delicious piece of bread is lying here.~
+food 0 AO
+18 12 0 0 0
+1 1 15
+
+#31087
+potion invisibility~
+a Potion of Invisibility~
+A strange potion of invisibility is lying here.~
+potion ABY AO
+10 'invisibility' 'reserved' 'reserved' 'reserved'
+1 1 230
+
+#31088
+scroll identification~
+a Scroll of Identification~
+A tattered scroll of identification is lying here.~
+scroll 0 AO
+25 'identify' 'reserved' 'reserved' 'reserved'
+15 2 935
+
+#31089
+scroll cancellation~
+a Scroll of Cancellation~
+A glowing scroll of cancellation is lying here.~
+scroll 0 AO
+25 'cancellation' 'reserved' 'reserved' 'reserved'
+15 2 1250
+
+#31090
+scroll recall~
+a Scroll of Recall~
+A long scroll of recall is lying here.~
+scroll 0 AO
+40 'recall' 'reserved' 'reserved' 'reserved'
+33 2 3000
+
+#31091
+silk gem pouch~
+a Silk Gem Pouch~
+A pouch to hold gems is lying here made of silk.~
+container GN AO
+2 0 0 1 100
+1 5 1
+
+#31092
+leather gem pouch~
+a Leather Gem Pouch~
+A leather gem pouch is lying here.~
+container GY AO
+2 0 0 1 100
+1 2 1
+
+#31093
+long lantern light~
+a Long Lantern~
+A long piece of lantern gives off light here.~
+light 0 AO
+0 0 500 0 0
+1 2 112
+
+#31094
+large canteen water~
+a Large Canteen~
+A circular canteen is here for you to have.~
+drinkcontainer 0 AO
+150 150 'water' 0 0
+1 3 35
+
+#31095
+spear poison slime~
+a Poison-Filled Spear~
+A spear with a strange slime on its sharp tip lies here.~
+weapon M AN
+spear 14 14 injection DH
+101 75 3500
+A 18 30
+A 19 32
+E
+map nix humus~
+MAP OF Nix Humus
+
+			  DARK CONTINENT
+			  	|
+		    NEWBIE TOWN |  IN THE CLOUDS  VILLAGE OF ANON
+		               \|/                 |
+	ARCTIC TRAILS -------HUDJANA-------ICY LANDS OF GLACEIA
+	     |	   |		|		   |
+	     |     |            |          NEWBIE    NURSERY
+	     |     |            |               \  | /
+	BOLDTHART  |	    MAHN'TOR	  PARADISE CITY OF KRATAS
+	        AMBER PALACE
+~
+
+#31096
+pair snow boots~
+a Pair of Worn Snow Boots~
+A long pair of boots worn over the ankles lies here covered with snow.~
+armor 0 AG
+27 26 27 24 0
+80 80 16545
+A 18 25
+A 14 200
+A 12 175
+A 13 -35
+A 19 20
+A 2 3
+E
+map hospitus tellus~
+MAP OF HOSPITUS TELLUS
+There is no actual map, for all the areas are linked together
+by portals, leading from 1 area to the next.
+However, here is the list of areas on the continent.
+CITY OF RIFTS
+NEWBIE ZONE
+FAIRGROUNDS
+DIVIDED SOULS
+GRAVEYARD
+AABBANON RIFTS
+HELL
+MUSEUM
+ARACHONIAN CHESS
+KOR'ZAHADUM
+OBSIDIAN MONASTARY
+SHAH'S PALACE
+ARACHNOS
+STILTZ FEN
+DREAMSCAPE
+NIRVANA
+DRAKYRI
+MADNESS OF ANON
+36 CHAMBERS OF DEATH
+NEWBIE TREE
+AERIAL CITY
+~
+
+#31097
+Map of silva lustrum~
+a map of Silva Lustrum~
+a rolled up map is here~
+map 0 A
+A 0 0 0 0
+0 10 1500
+E
+map silva lustrum~
+MAP OF SILVA LUSTRUM
+			 CITY OF KEROFK
+			      |
+                              |
+		IN THE AIR    |		MUDSCHOOL
+			\     |		/
+	MARSH ---------- CITY OF ARGOVEA ----------TUULAMAN
+	  |		      |\
+    FELAR VILLAGE             | CATACOMBS
+    			      |
+    			 RIVER OF LORN
+THE TOWER                     |
+OF TRAINING                   |
+\                             |
+JARETH - KENDERHAVEN ------ TAALONI
+    			      |
+ELVEN FOREST		      |		        THALOS
+    |         		      |		       /     \
+HIGH TOWER ---- HAON DOR      |		DAY CARE    DWARVEN KINGDOM
+    |			      |		|
+    |			      |	GALAXY  |    PIRATE SHIP   CITY OF DAWN
+    |			      |/       /	    |     /
+MIRKWOOD ------------- FOREST OF HORYNT --------- NEW THALOS
+              |        |     |        |
+         SILVERTHORNE  |     |        |
+		       |     |	      |
+		       |      \	      |	   ELEMENTAL CANYON
+		       | DARK CAVERNS |    |
+		       |	      |	   |
+		THE LOST VALE	  OLD THALOS ----- WYVERN TOWER
+		      |		      |
+	      LAND OF CENTURIONS  LIERKNAY FOREST    THE AURORIX
+	                              |         |       /
+	                              |      MCGINTEY COVE
+	      			      |
+	      			   KOR'XALAN
+	      			      |
+	      		     KINGDOM OF MAOR'HALAI
+~
+
+#31098
+Map of Oppidum Terra~
+a map of oppidum terra~
+a rolled up map is here~
+map 0 A
+A 0 0 0 0
+0 10 1500
+E
+map oppidum terra~
+MAP OF OPPIDUM TERRA
+
+		    			  ZIFONIS
+		    			     |
+		    			     | NEWBIE HOUSE
+		    			     |  /
+		    		       CITY OF ANON
+		    		             |     \
+		    		   	     |      SEWERS
+        CHAOTIC LANDS 			     |
+            |				TROLL DEN -----  MORIA
+            |				    |
+       MIST LAIR  WARKEEP  CAMELOT   ASTRAL | PLANE                 GNOME
+           |		|    |              |	 NEWBIE ASYLUM	   VILLAGE
+           |	        |    |		  \    /   			|
+REDFERNE - NEW -- HOLY GROVE --------- STORMHAVEN ---------- TRAIL OF 
+VENDORS
+|        SALAAN  |                 |     |\               |
+|		  |	      MOB FACTORY | DROW CITY     DRAGON TOWER
+CARGAN  	T'CCHALLA		  |
+VILLAGE		  |	      		  |
+                VALLEY OF     		  |
+		THE KINGS     AERIAL CITY |
+					 \|
+      SCHOOL OF NECARIAS ------------- PLAINS -- AMBER PALACE -- DWORKIN 
+KEEP
+      					  |\
+      					  | GABRIEL'S CASTLE
+      					  |
+TOMB OF THE - GAMBELVILLE - MIDEN'NIR - SANDS OF SORROW ----- GOBLIN VILLAGE
+EXTINCT            |  			      \
+                 PYRAMID --- STRIP MINE      MAZE
+                    |
+                 HYDEURGA DESERT
+                    \
+                    UNDERGROUND ELEMENTS
+~
+
+#31099
+Map of World~
+a map of World~
+a rolled up map is here~
+map 0 A
+A 0 0 0 0
+0 10 1500
+E
+map world~
+MAP OF THE WORLD
+
+                              NIX HUMUS
+                                  |
+                             AQUALIS URINA
+                                  |
+                             OPPIDUM TERRA
+                                  |
+                             MIOSH KRALDA
+                                  |
+                             SILVA LUSTRUM
+~
+
+#31100
+potion shielding purple bottle~
+The potion of shielding~
+A strange bubbly purple potion in a small bottle lies here.~
+potion 0 A
+20 'fireshield' 'shockshield' 'iceshield' 'sanctuary'
+15 10 1000
+#0
+
+#ROOMS
+#31002
+A Road Headed East~
+A freezing chill whips through the snowed covered landscape.  The
+snowy covered path suddenly heads east as huge ridged mountains
+are visible, covered with the whitest of powdered snow.  Another
+path heads north as well.  A freshly made snowy path curves toward
+a wide icy trail to the south.  
+~
+0 5
+D0
+~
+~
+0 0 31003
+D1
+~
+~
+0 0 31103
+S
+
+#31003
+A Snowy 3-Way Path~
+The trail leads into a sideways T-path.  The trail westward winds to the
+north while another path southwards disappears and turns ahead in that
+direction.  A city of sorts can be seen more clearly to the north shining
+magnificently.  
+~
+0 5
+D0
+~
+~
+0 0 31004
+D2
+~
+~
+0 0 31002
+D3
+~
+~
+0 0 31095
+S
+
+#31004
+Snow Covered Road~
+Kratas cannot be this way.  Surely the people in the last town were
+mistaken.  Nothing and no one could live in this climate.  Your hands begin
+to feel numb.  
+~
+0 5
+D0
+~
+~
+0 0 31005
+D2
+~
+~
+0 0 31003
+S
+
+#31005
+Snow Covered Road~
+The cold air ceases to calm as snow stretches far to the south across the
+plains.  The path southward leads in that direction with several paths
+veering off ahead.  Several leafless branches scatter alongside the trail
+here as several clouds hang above the skies.  
+~
+0 5
+D0
+~
+~
+0 0 31006
+D2
+~
+~
+0 0 31004
+S
+
+#31006
+Snow Covered Path~
+Huge pockets of snow loom high on the east and west.  Cracks of ice begin
+to form beneath your feet as you notice a strange droning noise being heard
+to the north as the city begins to loom high above you now.  The snow is
+seen to the south.  
+~
+4 5
+D0
+~
+~
+0 0 31007
+D2
+~
+~
+0 0 31005
+S
+
+#31007
+A Tropical Paradise~
+A mysterious droning sound whirls about here but only to see that the
+climate has unusually increased!  Green grass, lush trees and reflecting
+water are present about.  A strange sense of comfort begins to set in as the
+brick path below your feet continues on to the south where distant noises
+are heard.  
+~
+0 2
+D0
+~
+~
+0 0 31008
+D2
+~
+~
+0 0 31006
+S
+
+#31008
+Near City Gates~
+The path here extends further southward into the huge city.  A steady
+warming trend brews the closer you approach the city.  A strange essence of
+spring season conditions surprisingly uplifts the scenery here.  
+~
+4 1
+D0
+~
+~
+0 0 31009
+D2
+~
+~
+0 0 31007
+S
+
+#31009
+Outside City Gates~
+You stand just outside the city.  The flow of traffic is alarming as
+people move about back and forth.  The comfort of seeing lush green trees
+and grass however, makes you feel a bit more relaxed and at ease.  A brick
+road now turns into stone as it leads itself further into the town.  
+~
+0 1
+D0
+~
+~
+0 0 31010
+D2
+~
+~
+0 0 31008
+S
+
+#31010
+The South Gates of Kratas~
+You stand at the north city gates of Kratas.  Two guards stand here
+watching the people come and go.  There is a guard tower to your left.  A
+sign is posted here, it reads, "Welcome To Kratas."  You feel at ease now
+that your journey is at a end.
+~
+0 1
+D0
+~
+~
+0 0 31013
+D2
+~
+~
+0 0 31009
+D3
+~
+~
+0 0 31011
+S
+
+#31011
+Inside Guard Tower~
+You enter into the guard tower.  There is steps leading up to the main
+tower.  There is very little light-in here.
+~
+8 0
+D1
+~
+~
+0 0 31010
+D4
+~
+~
+0 0 31012
+S
+
+#31012
+High Up in the Tower~
+You stand high above the Southern towers of Kratas.  Even up here there
+is no escape from the freezing weath as snow downpours here.  The tower here
+is circular in diameter but magnificent in tis layers and designs.  A flight
+of stairs is here descending into the guardhouse.
+~
+8 0
+D5
+~
+~
+0 0 31011
+S
+
+#31013
+Inside the Southern Gates~
+You are inside the city now.  There is a man here trying to move his cow
+out of the road.  The crowd moves here all around you.  As you look about,
+you hardly notice the magnificent layerings of this grand city.  Golden
+layered bricks furnish the barricades from the outside and the inside of the
+castle.
+~
+0 1
+D0
+~
+~
+0 0 31014
+D2
+~
+~
+0 0 31010
+S
+
+#31014
+The Southern Street~
+There seems to be what looks like a palace to the west.  It has been said
+that King Kratas lives here in the city.  The crowd moves slowly through
+this part of the city.
+~
+0 1
+D0
+~
+~
+0 0 31015
+D2
+~
+~
+0 0 31013
+D3
+~
+~
+0 0 31047
+S
+
+#31015
+The Southern Street~
+Not much activity can be seen around here but the irritating sounds of
+metal clanking as you spot an armory to the east of you.  Your eyes peer up
+to see a sign that says 'ARMOR and CLOTHING'.  The street continues north
+and south here.
+~
+0 1
+D0
+~
+~
+0 0 31016
+D1
+~
+~
+0 0 31017
+D2
+~
+~
+0 0 31014
+S
+
+#31016
+The Southern Street~
+The smell of fresh bread and other savoring delights lures you around
+here as you spot a bakery to the west.  The crowd moves about here in stop
+and go motion as you make your way past this street.
+~
+0 1
+D0
+~
+~
+0 0 31018
+D2
+~
+~
+0 0 31015
+D3
+~
+~
+0 0 31019
+S
+
+#31017
+Armor Shop~
+The armorer is here waiting to sell you something.  He may have just what
+you are looking for.  Strange battered armors perch on the west wall while
+on the east wall, a strange glasscase full of shiny gold-plated armor hangs
+shining magnificently.  A SIGN is perched above you..  You might want to
+read it.  
+~
+8 0
+D3
+~
+~
+0 0 31015
+E
+sign~
+Due to the extreme shortage of inventory, Our King Kratas has disallowed us
+to sell any of our finest armors to you.
+ 
+We apologize greatly for this mishap.
+ 
+ 
+- The armorer of Kratas.
+~
+S
+
+#31018
+Market Square~
+A magnificent statue of a mighty patriotic man perches itself in the
+center part of town here.  Many onlookers walk by and momentarily look to
+see this grand work.  The roads lead in all directions here as a flight of
+stairs in the corner lead up to what looks like a sacred but deserted temple
+of sort.  Maybe you should go check.
+~
+0 1
+D0
+~
+~
+0 0 31020
+D1
+~
+~
+0 0 31052
+D2
+~
+~
+0 0 31016
+D3
+~
+~
+0 0 31075
+D4
+~
+~
+0 0 31041
+S
+
+#31019
+Baker's Shop~
+The baker is here ready to sell his baked goods.  There are all types
+here.  What is your desire?
+~
+8 0
+D1
+~
+~
+0 0 31016
+S
+
+#31020
+The Northern Street~
+It has become extremely busy as you near the center part of town.  A
+grocer shop can be visible to the east.
+~
+0 1
+D0
+~
+~
+0 0 31022
+D1
+~
+~
+0 0 31021
+D2
+~
+~
+0 0 31018
+S
+
+#31021
+The Shop of Groceries~
+This special shop is for those in search of buying meat, produce and other
+different foods for travels and other uses.  A sign is posted here.  Maybe
+you should read it.
+~
+8 0
+D3
+~
+~
+0 0 31020
+E
+sign~
+"I am very sorry to only provide you with
+what we have listed right now.  Our inventory
+is low on stock, but we promise to have more
+shipped in to Kratas as soon as possible.
+
+We're very sorry for the inconvenience."
+
+- The Grocer
+~
+S
+
+#31022
+The Northern Street~
+The crowd is much populated here as you smell something mouth-watering
+and tasty as a noise of cooking can be heard to the west.  The flow of
+traffic seems a lot more active as you walk along.  
+~
+0 1
+D0
+~
+~
+0 0 31024
+D2
+~
+~
+0 0 31020
+D3
+~
+~
+0 0 31023
+S
+
+#31023
+Weapon Shop~
+Several teenage blacksmiths work hard on the fiery alcoves creating what
+seems to be a strange sort of weapon that you never seen from these lands.
+Many antique weapons are hung across the walls with the stench of iron
+wiffering about the shop.  An exit leaves to the east here.
+~
+8 0
+D1
+~
+~
+0 0 31022
+S
+
+#31024
+The Northern Street~
+The flow of traffic seems to be a bit light along the streets here. 
+Several folks wander here and there moving about into and out of shops. 
+Directions lead in all ways as the excitement of this populated city livens
+the atmosphere.  
+~
+0 1
+D0
+~
+~
+0 0 31026
+D1
+~
+~
+0 0 31025
+D2
+~
+~
+0 0 31022
+S
+
+#31025
+Jewellery Shop~
+Strange circular crystals are decorated on the walls here as you enter
+this strange incense-odored jewelry shop.  Several glowing lights travel
+around the room almost mystifying you in hesitance.  An exit takes out back
+to the streets over to the west.  A strange SIGN is posted here for you to
+read.  
+~
+8 0
+D3
+~
+~
+0 0 31024
+E
+sign~
+The items purchased here are very very powerful in its advantage and is
+very scarce in the world.  Many archaeologists went about in the world in
+finding these very special artifacts in many numbers and are now sellable to
+all!  
+~
+S
+
+#31026
+Inside the Northern Gates~
+You are now inside the city of Kratas where much activity is about here.
+Plenty of things that you been wanting may be found in this splendid city..
+So explore and look about this huge establishment.  Tall brick walls line
+the way inside here as you look in awe at the city's magnificence.
+~
+0 1
+D0
+~
+~
+AB 0 31027
+D2
+~
+~
+0 0 31024
+S
+
+#31027
+The North Gates of Kratas~
+You stand at the south city gates of Kratas.  Two guards stand here
+watching the people come and go.  There is a guard tower to your right.
+There is a sign posted here, it reads, " Welcome To Kratas."  You feel at
+ease now that you journey is at a end.
+~
+0 1
+D0
+~
+~
+0 0 31030
+D1
+~
+~
+0 0 31028
+D2
+~
+gate~
+AB 0 31026
+S
+
+#31028
+Inside Guard Tower~
+You enter in the guard tower.  There are steps leading to the tower.
+There is very little light-in here.
+~
+8 0
+D3
+~
+~
+0 0 31027
+D4
+~
+~
+0 0 31029
+S
+
+#31029
+High Up in the Tower~
+You stand high above the tower of Kratas.  Even up here there is no
+escape from the freezing weather as snow downpours in large amounts.  The
+tower here is circular but magnificent in its symmetric layers of designs. 
+A temple in the center of town can be made out in the distance while stairs
+lead back down in the guardhouse.  
+~
+8 0
+D5
+~
+~
+0 0 31028
+S
+
+#31030
+Outside City Gates~
+You stand just outside the city.  The flow of traffic is alarming as
+people move about back and forth.  The comfort of seeing lush green trees
+and grass however, makes you feel a bit more relaxed and at ease.  A brick
+road now turns into stone as it leads itself further into the town.  
+~
+0 1
+D0
+~
+~
+0 0 31031
+D2
+~
+~
+0 0 31027
+S
+
+#31031
+Near City Gates~
+The path here extends further southward into the huge city.  A steady
+warming trend brews the closer you approach the city.  A strange essence of
+spring season conditions surprisingly uplifts the scenery here.  
+~
+4 1
+D0
+~
+~
+0 0 31032
+D2
+~
+~
+0 0 31030
+S
+
+#31032
+A Tropical Paradise~
+A mysterious droning sound whirls about here but only to see that the
+climate has unusually increased!  Green grass, lush trees and reflecting
+water are present about.  A strange sense of comfort begins to set in as the
+brick path below your feet continues on to the south where distant noises
+are heard.  
+~
+0 2
+D0
+~
+~
+0 0 31033
+D2
+~
+~
+0 0 31031
+S
+
+#31033
+The Ice-Covered Road~
+A strange sensation of sorts brews from the south.  In the view, a
+strange invisble aura forms headed in that direction.  The cold chill out in
+the open plains here stretch across the lands beyond providing no sense of
+relief detectable anywhere towards the west or east.  
+~
+4 2
+D0
+~
+~
+0 0 31034
+D2
+~
+~
+0 0 31032
+S
+
+#31034
+The Ice-Covered Road~
+Heavier packs of fresh snow begin to falter into the path travelling
+north and south here.  New forms of ice begin to dampen and slicken the
+footsteps as the cold unbearably overwhelms.  A magnificent castle hangs
+high to the south above you.  
+~
+0 2
+D0
+~
+~
+0 0 31035
+D2
+~
+~
+0 0 31033
+S
+
+#31035
+The Shivering Chills~
+Shivery chills begin to seem more violent and unbearable as you find
+yourself wandering about the snow.  Not much life of sorts can be seen as
+the horrendous cold completely dominates the air here.  
+~
+0 2
+D0
+~
+~
+0 0 31036
+D2
+~
+~
+0 0 31034
+S
+
+#31036
+The Heavy Snowy Road~
+The frigid air has now hit these realms with a pounding wack as ice
+begins to form on your weapon and armor.  Your waterskin has frozen solid
+and now you begin to stagger about here.  The tall castle looms but seems so
+close as you near it more and more.
+~
+0 2
+D0
+~
+~
+0 0 31037
+D2
+~
+~
+0 0 31035
+S
+
+#31037
+The Heavy Snowy Road~
+The rampant winds and the downpour of snow is drenching the road you walk
+on.  Your footwear has been covered with the height of massive snow as the
+wind picks up freezing you to the bone.  Your heart begins to shiver in a
+strange way as you embrace yourself in this horrid weather.
+~
+0 2
+D0
+~
+~
+0 0 31038
+D2
+~
+~
+0 0 31036
+S
+
+#31038
+A Snow Covered Road~
+The gray skies begin to darken as the famishing cold weather has made
+visibility difficult.  The freezing climate has made this deserted snowy
+land an unsafe place to travel as you move about in this north-south snowy
+road.  The huge castle looms high above you as you near it to the south.
+~
+0 2
+D0
+~
+~
+0 0 31039
+D2
+~
+~
+0 0 31037
+S
+
+#31039
+A Snow Covered Road~
+As the grand Glacier Temple stands along the eastern territory, the
+amount of snow grounded around is fresh and white as clouds.  Not much can
+be seen as you scan across the northern and western portions.  A sign stands
+on the western offside of the trail as it turns and heads southward.  A
+small rabbit suddenly scampers by you disappearing in the thick snow.  
+~
+0 2
+D1
+~
+~
+0 0 2353
+D2
+~
+~
+0 0 31038
+E
+sign~
+Done by Rzarecta
+ 
+Kratas
+~
+S
+
+#31040
+A Long Hallway~
+You walk along a long hallway that goes to the south.  The light is very
+dim and very quiet.  Doors to the west and east go into the lodging rooms.  
+~
+12 0
+D0
+~
+~
+0 0 31057
+D1
+~
+~
+0 0 31159
+D2
+~
+~
+0 0 31109
+D3
+~
+~
+0 0 31158
+S
+
+#31041
+The Temple of Kratas~
+Marbled stones that hang along here have been in ruins as some of the
+walls here have cracked from age.  Although people take no notice of it, the
+temple is in need of serious construction.  A strange altar lies to the
+south while a room to the north is seen as well.
+~
+8 0
+D0
+~
+~
+0 0 31151
+D2
+~
+~
+0 0 31102
+D5
+~
+~
+0 0 31018
+S
+
+#31042
+A Torn Entrance into A Guild~
+The hallway is made of red granite and candles perch along side of the
+walls here.  There were many statues here, but have been torn down.  King
+Kratas made an order to have this guild removed in replacement of a shrine
+for lost warriors of Kratas.  
+~
+12 0
+D0
+~
+~
+ABG 0 31102
+S
+
+#31043
+Hallway~
+There is white marble on the floors, walls and ceilings.  Footsteps echo
+off the floor as you take each step.  Rooms to the west and south are
+visible.  The entrance lies to the north.
+~
+12 0
+S
+
+#31044
+Temple Priestess~
+A priestess is here cleaning up the mess.  She is ready to assume here
+duties here in the temple.  A desk and chair sit in the middle of the room.
+~
+12 0
+S
+
+#31045
+Temple Priest Office~
+A priest is here sitting up his office.  There are shelves that line the
+walls.  There are books and scrolls here.  There is a desk and a chair never
+the back wall.  From the large amount of dust buildup, it seems that this
+place has been deserted for quite a time.
+~
+12 0
+S
+
+#31046
+The Guild Room of the Clerics~
+Magnificent statues of clerics from the ancient times stand around this
+room.  Marble-stoned barriers furnish the outlines of the walls here as a
+strange glow seems to fill about here.  A surge of positive energy begins to
+uplift your inner being as all who follow the path of the cleric are
+welcomed to practice and train here.  The exit lies to the north.
+~
+12 0
+S
+
+#31047
+Palace Gate~
+Two guards stand here guarding the entrance to the palace.  The gates
+are made of strong iron, but are open.  You have heard this is the palace of
+King Kratas.
+~
+8 0
+D0
+~
+~
+0 0 31048
+D1
+~
+~
+0 0 31014
+S
+
+#31048
+Palace~
+This is the entrance to the palace.  There seems to be no one around.
+And the courtyard is almost destroyed. You are unable to make your way
+there.
+~
+8 0
+D0
+~
+~
+0 0 31049
+D2
+~
+~
+0 0 31047
+S
+
+#31049
+Hallway~
+You stand in a marble and granite hallway.  You can go in all directions.
+The palace is in need of repair.
+~
+8 0
+D0
+~
+~
+0 0 31098
+D1
+~
+~
+0 0 31101
+D2
+~
+~
+0 0 31048
+D3
+~
+~
+0 0 31097
+S
+
+#31050
+The Pet Shop~
+Many cages filled with exotic animals and creatures of Phoenix are
+hanging around the shop here as a display.  Several more caws and roars can
+be heard in the back room as tremors of roaring continue to make this shop
+irritating and loud.  A counter stands before you with a list of many
+animals coming in stock.
+~
+4108 0
+D0
+~
+~
+ABCFGH 0 31051
+D2
+~
+~
+0 0 31060
+S
+
+#31051
+The Pet Shop~
+This is the inventory room.
+~
+262156 0
+D2
+~
+~
+ABCFGH 0 31050
+S
+
+#31052
+The Eastern Street~
+The street here is a bit quiet but still populated with people moving
+about here and there.  Several laughs and jeerings can be heard from a
+distance to the north where arousal heightens to your favor.  
+~
+0 1
+D0
+~
+~
+0 0 31053
+D1
+~
+~
+0 0 31054
+D3
+~
+~
+0 0 31018
+S
+
+#31053
+Kratas Pub~
+Unique sets of different mugs and beer glasses are furnished around this
+pub as this huge place smells of pipesmoke and other herbal smells.  It
+seems as though much activity seems to be happening in this animated pub.
+An exit leads out to the south of here.
+~
+8 0
+D2
+~
+~
+0 0 31052
+S
+
+#31054
+The Eastern Street~
+The crowd has thinned a little here.  You seem a bit in need of a rest.
+To the south is the town inn.
+~
+0 1
+D1
+~
+~
+0 0 31060
+D2
+~
+~
+0 0 31055
+D3
+~
+~
+0 0 31052
+S
+
+#31055
+Kratas Inn~
+This is the foyer of the town inn.  You come here to rent rooms here to
+rest yourself from your adventures.  Candles provide a way in.
+~
+12 0
+D0
+~
+~
+0 0 31054
+D2
+~
+~
+0 0 31056
+S
+
+#31056
+Inn Desk~
+A large desk seats close to the southern wall as a small board with many
+keys and scattered papers are lying around.  A small passage leads into the
+rooms as you look further south.
+~
+8 0
+D0
+~
+~
+0 0 31055
+D2
+~
+~
+0 0 31057
+S
+
+#31057
+A Long Hallway~
+You walk along a long hallway that goes to the south.  The light is very
+dim and very quiet.  Doors to the west and east go into the lodging rooms.
+~
+8 0
+D0
+~
+~
+0 0 31056
+D1
+~
+~
+0 0 31058
+D2
+~
+~
+0 0 31040
+D3
+~
+~
+0 0 31059
+S
+
+#31058
+Room One~
+There is a small bed here and a fireplace to keep you warm.  The bed is
+small, but comfortable.
+~
+8 0
+D3
+~
+~
+0 0 31057
+S
+
+#31059
+Room Two~
+There is a bed here and a fireplace to keep you warm.  The bed is small
+but comfortable.
+~
+8 0
+D1
+~
+~
+0 0 31057
+S
+
+#31060
+The Eastern Street~
+Here a crowd has gathered.  There is something going on to the north.
+You can here animals yelling screaming loudly.  The pet shop is to the north.
+~
+8 0
+D0
+~
+~
+0 0 31050
+D1
+~
+~
+0 0 31061
+D3
+~
+~
+0 0 31054
+S
+
+#31061
+Inside the Eastern Gates~
+You are inside the city gates of Kratas.  People are seen moving about
+everywhere slowing traffic.  The road continues east and west here.  To the
+east takes you to the outer gates while more of the town can be seen to the
+west.
+~
+0 0
+D1
+~
+~
+0 0 31062
+D3
+~
+~
+0 0 31060
+S
+
+#31062
+The East Gates of Kratas~
+You stand at the west gates of the city Kratas.  Two guards stand here
+watching people come and go.  There is a guard tower to the left of you.  A
+sign is posted here, it reads, " Welcome To Kratas."  You feel at ease now
+that your journey is at a end.
+~
+8 0
+D0
+~
+~
+0 0 31064
+D1
+~
+~
+0 0 31063
+D3
+~
+~
+0 0 31061
+S
+
+#31063
+Outside City Gates~
+You stand just outside the city.  The flow of traffic is alarming as
+people move about back and forth.  The comfort of seeing lush green trees
+and grass however, makes you feel a bit more relaxed and at ease.  A brick
+road now turns into stone as it leads itself further into the town.  
+~
+0 1
+D1
+~
+~
+0 0 31066
+D3
+~
+~
+0 0 31062
+S
+
+#31064
+Guard Tower~
+You enter into the guard tower.  There are steps leading into the tower.
+There is very little lighten here.
+~
+8 0
+D2
+~
+~
+0 0 31062
+D4
+~
+~
+0 0 31065
+S
+
+#31065
+Tower~
+There is a guard here looking around the inside and the outside of the
+city.  You are amazed that you can see so much of the city from here.  You
+can just make out the temple in the center of town.
+~
+8 0
+D5
+~
+~
+0 0 31064
+S
+
+#31066
+Near City Gates~
+The path here extends further southward into the huge city.  A steady
+warming trend brews the closer you approach the city.  A strange essence of
+spring season conditions surprisingly uplifts the scenery here.  
+~
+0 1
+D1
+~
+~
+0 0 31067
+D3
+~
+~
+0 0 31063
+S
+
+#31067
+A Three-way trail~
+The trail here begins to lighten as the open wide allows the sun
+to come down in this area.  To the west lies the huge castle while
+the distant hills to the north make out a desert of some kind. 
+
+~
+0 1
+D0
+~
+~
+0 0 5700
+D3
+~
+~
+0 0 31066
+E
+sign~
+THIS PATH IS STOPPED FOR FUTURE AREA PROJECTS!
+
+PLEASE RETURN BACK TO KRATAS UNTIL FURTHER NOTICE.
+
+THANK YOU.
+
+
+Opio/Rzarecta.
+~
+S
+
+#31068
+Snow Covered Road~
+You feel you can not continue on much longer.  Your feet and hands are
+endanger of frost bite.  You beg all of those above you for rest.  You are
+thirsty and in need of a drink.
+~
+4 2
+D1
+~
+~
+0 0 31069
+S
+
+#31069
+Snow Covered Road~
+The snow and the wind stings your face.  Your face is chapped from the
+wind, and your lips are blue from the cold.  You reach for you water but it
+is frozen.  Much longer and you will be as well.
+~
+0 1
+D1
+~
+~
+0 0 31070
+D3
+~
+~
+0 0 31068
+S
+
+#31070
+Snow Covered Road~
+Surely the people in the last town was mistaken, Kratas can not be this
+way.  No one or nothing can live in this frozen waste land.  Your hands
+begin to feel numb.
+~
+0 2
+D1
+~
+~
+0 0 31071
+D3
+~
+~
+0 0 31069
+S
+
+#31071
+Snow Covered Road~
+The only heat you are getting is from your movement.  You know if you
+stop you will freeze to death, so you keep going.
+~
+0 2
+D1
+~
+~
+0 0 31072
+D3
+~
+~
+0 0 31070
+S
+
+#31072
+Snow Covered Road~
+The snow has picked up some, you are walking in about eight inches of it.
+The chill factor has drop fast.  You put on more clothes to keep warm.
+~
+0 2
+D1
+~
+~
+0 0 31073
+D3
+~
+~
+0 0 31071
+S
+
+#31073
+Snow Covered Road~
+The snow is falling slowly and the wind is picking up.  Clouds has almost
+blocked the view of the sun.  Careful not to freeze to death in this land.
+~
+0 2
+D1
+~
+~
+0 0 31074
+D3
+~
+~
+0 0 31072
+S
+
+#31074
+Snow Covered Road~
+You start out on your journey just as the sun is peeking over the
+horizion.  There is four inches of snow here.  The air is chilly and damp,
+but you are prepared for the journey.  A road sign is posted here, it reads,
+"Kratas This Way."
+~
+0 2
+D3
+~
+~
+0 0 31073
+S
+
+#31075
+The Western Street~
+Here the crowd seems to gather.  You can hear a mans voice calling from
+the north.  You wish to find a inn, but the voice peeks your interest.  The
+auction house is to the north.
+~
+0 2
+D0
+~
+~
+0 0 31076
+D1
+~
+~
+0 0 31018
+D3
+~
+~
+0 0 31077
+S
+
+#31076
+Kratas Auction House~
+A lot of old items like armor, weapons and other types are scattered
+along the back walls here as you come to a place where items of any kind can
+be bought back here.  An exit to the south takes you back into the Kratas
+streets.
+~
+8 0
+D2
+~
+~
+0 0 31075
+S
+
+#31077
+The Western Street~
+The people here come and go as if they are in their own little
+world.  The laughter of children echos from Kratas Park which is
+to the south.  
+~
+0 1
+D1
+~
+~
+0 0 31075
+D2
+~
+~
+0 0 31078
+D3
+~
+~
+0 0 31081
+S
+
+#31078
+Kratas Park~
+This is the main entrance into the park.  A hedge looks as though it goes
+all the way around the park.  The sound of laughter is closer.  The stone
+path continues south.
+~
+0 1
+D0
+~
+~
+0 0 31077
+D2
+~
+~
+0 0 31079
+S
+
+#31079
+Inside Park~
+Inside the park there are mothers with the children.  The children are
+playing in a sandbox.  There is a bench under a tree to keep the sun off.
+The stone path continues south.
+~
+0 1
+D0
+~
+~
+0 0 31078
+D2
+~
+~
+0 0 31080
+S
+
+#31080
+The Pond of Kratas~
+Huge boarded gates surround a small pond here.  Small greeneries float
+about the surfaces of the water as you notice several small insects
+scurrying here and there across the waters.  A swim in here would not be
+such a wonderful idea.  The only way to exit is north back into the town
+streets.  Wading in the pond to the south is allowable but do you really
+want to do that?  
+~
+4 6
+D0
+~
+~
+0 0 31079
+D2
+~
+~
+0 0 31152
+S
+
+#31081
+The Western Street~
+The street is deserted.  The apothecary shop is to the north. 
+A bank is visible to the south.  
+~
+4 1
+D0
+~
+~
+0 0 31082
+D1
+~
+~
+0 0 31077
+D2
+~
+~
+0 0 31150
+D3
+~
+~
+0 0 31083
+S
+
+#31082
+The Apothecary~
+Strange sounds of bubbling liquids fill the shop.  A strange and
+ill-smelling fragrance stenches the room making you frown in disgust.  A
+counter stands here as you ponder of what to purchase.
+~
+8 0
+D2
+~
+~
+0 0 31081
+S
+
+#31083
+Inside the Western Gates~
+Inside the city gates, the people are coming and going.  They stop
+periodically to talk to each other.  There is a man trying to get
+his lazy donkey to move.  
+~
+0 1
+D1
+~
+~
+0 0 31081
+D3
+~
+~
+0 0 31084
+S
+
+#31084
+The West Gates of Kratas~
+You stand at the west city gates of Kratas.  Two guards stand here
+watching people come and go.  There is a guard tower to the right of you.  A
+sign is posted here, it reads, "Welcome To Kratas."  You feel at ease now
+that your journey is at a end.
+~
+0 1
+D1
+~
+~
+0 0 31083
+D2
+~
+~
+0 0 31085
+D3
+~
+~
+0 0 31087
+S
+
+#31085
+Inside Guard Tower~
+You enter in the guard tower.  Steps lead upward as they disappear above.
+The dimness begins to illuminate around you.  Walls around you are closely
+fit as it leads upward.  
+~
+8 0
+D0
+~
+~
+0 0 31084
+D4
+~
+~
+0 0 31086
+S
+
+#31086
+Tower~
+There is a guard here looking around the inside and the outside of the
+city.  You are amazed that you can see so much of the city from here.  You
+can just make out the temple in the center of town.
+~
+8 0
+D5
+~
+~
+0 0 31085
+S
+
+#31087
+Outside City Gates~
+You stand just outside the city.  The flow of traffic is alarming as
+people move about back and forth.  The comfort of seeing lush green trees
+and grass however, makes you feel a bit more relaxed and at ease.  A brick
+road now turns into stone as it leads itself further into the town.  
+~
+0 1
+D1
+~
+~
+0 0 31084
+D3
+~
+~
+0 0 31088
+S
+
+#31088
+The City Entrance to the East~
+The path here extends further southward into the huge city.  A steady
+warming trend brews the closer you approach the city.  A strange essence of
+spring season conditions surprisingly uplifts the scenery here.  
+~
+4 1
+D1
+~
+~
+0 0 31087
+D3
+~
+~
+0 0 3587
+S
+
+#31089
+A Tropical Paradise~
+A mysterious droning sound whirls about here but only to see that the
+climate has unusually increased!  Green grass, lush trees and reflecting
+water are present about.  A strange sense of comfort begins to set in as the
+brick path below your feet continues on to the south where distant noises
+are heard.  
+~
+0 2
+D2
+~
+~
+0 0 31090
+S
+
+#31090
+Snow Covered Road~
+The trail curves from the north headed south this way beside Kratas to
+your east.  You cant help noticing the well-made layering of the outer walls
+of this fine castle and wonder if you should enter this huge place.
+~
+4 2
+D0
+~
+~
+0 0 31089
+D2
+~
+~
+0 0 31091
+S
+
+#31091
+Snow Covered Road~
+The snowy trail continues north and south here.  Several towerguards walk
+back and forth high atop the second floors of the Kratas castle.  A huge
+cliff blocks any more passage westward where from a distance..  You see the
+dark icy waters.
+~
+0 2
+D0
+~
+~
+0 0 31090
+D2
+~
+~
+0 0 31092
+S
+
+#31092
+Snow Covered Road~
+The amount of snow begins to diminish somewhat the further you move
+southward here.  Much snow beings to develop to the north while the large
+castle walls continue to stand high to your east.  You've come close to the
+western edges of the cliffs that hover over the icy waters.
+~
+0 2
+D0
+~
+~
+0 0 31091
+D2
+~
+~
+0 0 31093
+S
+
+#31093
+A Squiggly Somewhat Snowy Path~
+The path you are walking on begins to veer left and right in a strange
+way.  Much activity can be heard inside Kratas to your east while to the
+farther south lies hills to far to travel to.
+~
+0 2
+D0
+~
+~
+0 0 31092
+D2
+~
+~
+0 0 31094
+S
+
+#31094
+A Path North and South~
+Strange enough, the amount of snow around here has almost disappeared as
+the temperature begins to feel a bit mild but you cant make sure because of
+the dominant cold breeze that's been blowing here and there in random
+directions.  The path continues south and north here.
+~
+0 2
+D0
+~
+~
+0 0 31093
+D2
+~
+~
+0 0 31095
+S
+
+#31095
+A Turn in the Path~
+A steady breeze blows as a huge blotch of snow prevents any way further
+south.  The slippery trail moves east and north here.  Farther down to the
+southeast lies much snow along the distant fields where life seems to be
+diminished greatly.
+~
+0 2
+D0
+~
+~
+0 0 31094
+D1
+~
+~
+0 0 31003
+S
+
+#31096
+Snow Covered Road~
+You start out on your journey just as the sun is peeking over the
+horizion.  There is four inches of snow here.  The air is chilly and damp,
+but you are prepared for the journey.  A road sign is posted here, it reads,
+"Kratas This Way."
+~
+4 2
+S
+
+#31097
+Kratas' Library~
+The are shelves all along the walls and books and scrolls fill each one.
+This is were the children of the palace are taught.  There are two large
+chairs sitting close to a fireplace.
+~
+8 0
+D1
+~
+~
+0 0 31049
+S
+
+#31098
+Hallway~
+There are rooms blocked from this hallway.  and workman moving around.
+Kratas has order that the palace be repaired first.  You can here a noises
+coming from the north.
+~
+8 0
+D0
+~
+~
+0 0 31099
+D2
+~
+~
+0 0 31049
+S
+
+#31099
+Throne Room~
+There is a massive throne in the center of the room.  Two guards stand on
+either side.  King Kratas himself is here yelling orders to those around
+him.  There is a statue of Lord Abbadon in the corner of the room.
+~
+8 0
+D2
+~
+~
+0 0 31098
+S
+
+#31100
+The Inventory of Pets~
+~
+4108 0
+S
+
+#31101
+Kratas' Office~
+This is where Kratas handles state business.  You wonder by the looks of
+the temple and the palace, just how well matters are handled.  There is a
+large desk and a chair in the center of the room.
+~
+8 0
+D3
+~
+~
+0 0 31049
+S
+
+#31102
+The Altar of Healing~
+Holy candles fill the outer portions of this room as the smell of incense
+odorizes the altar here.  Mists of smoke float above you as a huge marble
+table stands at the center part of this room for those to offer sacrifices
+and to restore themselves here in resting.  The outer units of the temple
+lies to the north.  A huge unknown statue stands against the southern wall
+here preventing anyone to exit the altar in that direction.
+~
+263180 0
+D0
+~
+~
+0 0 31041
+D2
+~
+~
+ABG 0 31042
+S
+
+#31103
+Walking Along A Snowy Road~
+The long snowy path moves from the west and south here.  Nothing
+but white snow can seen from miles around.  A huge curiously structured
+castle can be seen from the far north while huge snow-layers begin
+to grow the more towards the south.  
+~
+0 2
+D2
+~
+~
+0 0 31104
+D3
+~
+~
+0 0 31002
+S
+
+#31104
+On a icy/snowy path~
+The snowy trail is mixed with ice while headed to the south.  A
+large castle can faintly be seen to the north.  The cold filtering
+wind has brought the wind chill down to a much freezing sensation
+as you move about.  
+~
+0 5
+D0
+~
+~
+0 0 31103
+D1
+~
+~
+0 0 31105
+S
+
+#31105
+In a snowy path~
+The snowy path takes a turn to the north where more snow is around.
+A strange icy realm is seen far to the northeast where caverns
+and high icy mountains are visible from here.  
+~
+0 5
+D0
+~
+~
+0 0 32400
+D3
+~
+~
+0 0 31104
+E
+sign~
+* * * * * * * * * * * * * * *
+*                           *
+*   THE SNOWY MOUNTAINS     *
+*                           *
+*                           *
+*       ELEVATION           *
+*                           *
+*        1533 FT.           *
+*                           *
+* * * * * * * * * * * * * * *
+              * *
+              * *
+              * *
+              * *
+              * *
+              * *
+~
+S
+
+#31106
+The Entrance of the Fighter's Guild~
+Golden-plaqued portraits of fighters who once ruled Aadaria are hung along 
+the
+walls east and west of you.  The large number of those that became names of
+remembrance are hung along here all the way to the south of here where the
+hallway continues.
+~
+12 0
+S
+
+#31107
+Inside the Fighter's Guild~
+The many portraits and ancient artifacts used by the past fighters hang
+about here to show future adventurers what many heroic fighters achieved in
+the early days of Aadaria.  Most of the objects are cased up to prevent
+anyone to steal it.  The room goes here to the east while it exits out to
+the north.
+~
+12 0
+S
+
+#31108
+The Fighter's Room of Training~
+This is the room where many untrained and novice fighters come to
+practice and train their skills.  A lot of tradition has come and gone in
+here making you feel somewhat belonged and honored.  Many interesting
+decorations furnish the room to proudly show its rich history in fighter's
+doings and exploits.  An exit takes you out to the west.
+~
+12 0
+S
+
+#31109
+A Dead End~
+The hallway ends here as strange scratch markings clash on the southern
+wall making you wonder if there was any opening or passage through
+southward.  Room doors lead west and east here.  
+~
+8 0
+D0
+~
+~
+0 0 31040
+D1
+~
+~
+0 0 31111
+D3
+~
+~
+0 0 31110
+S
+
+#31110
+Room Six~
+This is a long hallway that leads north to south here.  Rooms for
+lodging are seen to the west and east of you.
+~
+8 0
+D1
+~
+~
+0 0 31109
+S
+
+#31111
+Room Five~
+This is a long hallway that leads north to south here.  Rooms for
+lodging are seen to the west and east of you.
+~
+8 0
+D3
+~
+~
+0 0 31109
+S
+
+#31150
+The Bank of Kratas~
+A huge door used as a vault is seen at the southern wall here as you
+enter this bank.  This place is primarily used to monitor the control of
+platinum, gold and silver.  Several people walk about making sure nothing
+happens to your money.  An exit takes you out north.
+~
+1048584 0
+D0
+~
+~
+0 0 31081
+S
+
+#31151
+The Room of Donated Items~
+You have come upon a room where fighters and sorcerers come to drop
+unnecessary items and things as they travel the lands.  The room is
+furnished with stone walled designs and several statues on each corners.  A
+SIGN is visible here.
+~
+12 0
+D2
+~
+~
+0 0 31041
+E
+sign~
+THE ROOM OF DONATIONS
+
+ALL DONATED ITEMS WILL BE BROUGHT INTO THIS ROOM.
+~
+S
+
+#31152
+In the Shallow Pond~
+You find yourself wading in the shallow waters of the pond.  As stupid as
+this may seem, many onlookers eye you and wonder why in the world would you
+be in the pond.  Several green algae float around here as several critters
+fly across the surfaces of the water.  
+~
+0 6
+D0
+~
+~
+0 0 31080
+D2
+~
+~
+0 0 31153
+D3
+~
+~
+0 0 31154
+S
+
+#31153
+In the Southeastern End of Pond~
+A lot of algae and wild plants begin to grow on this end of the waters. 
+Many thick bushes begin to hang along this end of the pond inviting many
+bugs and little mosquitoes to wander about.  From the path back into the
+streets of Kratas, you almost find yourself hidden from the people who are
+roaming about nearby.  
+~
+0 6
+D0
+~
+~
+0 0 31152
+D3
+~
+~
+0 0 31155
+S
+
+#31154
+In the Pond~
+The streets of Kratas can be seen to the distant northeast, while the
+water itself surrounds you everywhere.  The clear waters here allow you to
+scan below the surfaces to detect any signs of water life swimming about.  
+~
+0 6
+D1
+~
+~
+0 0 31152
+D2
+~
+~
+0 0 31155
+D3
+~
+~
+0 0 31156
+S
+
+#31155
+In the Pond~
+Not much to be seen but the waters all around you.  As you momentarily
+stop to float about, you wonder if any signs of wild animals may lurk within
+the deep bottoms of this sizeable pond.  
+~
+0 6
+D0
+~
+~
+0 0 31154
+D1
+~
+~
+0 0 31153
+D3
+~
+~
+0 0 31157
+S
+
+#31156
+The Northwestern Part of the Pond~
+The waters are somewhat darkened and murky here as the calmness seems a
+bit mysterious in this part.  Not much life of any sort can be found in this
+part of the pond.  More water leads east and southwards.  
+~
+0 6
+D1
+~
+~
+0 0 31154
+D2
+~
+~
+0 0 31157
+S
+
+#31157
+The Southwestern Part of the Pond~
+High trees hang across the corner of the waters as high as the sky can
+touch it.  Many land animals hang about there settling nearby to gaze the
+wildlife seen in the waters.  Swimming is allowable north and east of here. 
+~
+0 6
+D0
+~
+~
+0 0 31156
+D1
+~
+~
+0 0 31155
+S
+
+#31158
+Room Three~
+This is a long hallway that leads north to south here.  Rooms for lodging
+are seen to the west and east of you.  
+~
+8 0
+D1
+~
+~
+0 0 31040
+S
+
+#31159
+Room Four~
+This is a long hallway that leads north to south here.  Rooms for lodging
+are seen to the west and east of you.  
+~
+8 0
+D3
+~
+~
+0 0 31040
+S
+
+#31160
+~
+~
+0 0
+S
+#0
+
+#SPECIALS
+M 31000 spec_guard
+M 31002 spec_guard
+M 31013 spec_cast_cleric
+M 31017 spec_thief
+M 31019 spec_thief
+M 31021 spec_thief
+M 31022 spec_cast_mage
+M 31026 spec_cast_cleric
+M 31028 spec_cast_cleric
+M 31030 spec_cast_mage
+M 31031 spec_cast_cleric
+M 31039 spec_janitor
+M 31040 spec_cast_mage
+M 31044 spec_cast_adept
+M 31304 spec_breath_frost
+M 31305 spec_dog_pee
+M 31306 spec_breath_frost
+S
+
+#RESETS
+D 100 31026 0 1
+D 100 31027 2 1
+D 100 31042 0 1
+D 100 31050 0 2
+D 100 31051 2 2
+D 100 31102 2 1
+M 100 31303 1 31003 1
+M 100 31304 1 31005 1
+E 100 31096 0 8
+M 100 31000 8 31010 2
+E 100 31071 0 12
+E 100 31070 0 16
+M 100 31002 4 31012 1
+M 100 31102 4 31013 1
+M 100 31016 1 31013 1
+E 100 31016 0 6
+E 100 31015 0 11
+E 100 31014 0 16
+M 100 31024 2 31013 1
+M 100 31030 2 31014 1
+E 100 31026 0 3
+M 100 31029 6 31014 1
+M 100 31026 6 31014 1
+M 100 31025 6 31014 1
+M 100 31028 8 31015 2
+M 100 31023 1 31016 1
+E 100 31025 0 16
+M 100 31001 9 31016 1
+E 100 31073 0 5
+E 100 31072 0 7
+M 100 31008 1 31017 1
+G 100 31037 0
+G 100 31040 0
+G 100 31039 0
+G 100 31038 0
+G 100 31003 0
+G 100 31036 0
+G 100 31035 0
+M 100 31027 7 31017 1
+M 100 31001 9 31017 1
+E 100 31073 0 5
+E 100 31072 0 7
+M 100 31039 2 31018 2
+M 100 31027 7 31018 1
+M 100 31025 6 31018 1
+M 100 31029 6 31019 1
+M 100 31007 1 31019 1
+G 100 31034 0
+G 100 31033 0
+G 100 31002 0
+M 100 31018 1 31019 1
+E 100 31018 0 8
+M 100 31001 9 31020 1
+E 100 31072 0 7
+E 100 31073 0 5
+M 100 31009 1 31021 1
+G 100 31086 0
+G 100 31004 0
+M 100 31025 6 31021 1
+M 100 31017 1 31021 1
+E 100 31017 0 13
+M 100 31029 6 31022 1
+M 100 31028 8 31022 2
+M 100 31001 9 31022 1
+E 100 31073 0 5
+E 100 31072 0 7
+M 100 31010 1 31023 1
+G 100 31084 0
+G 100 31083 0
+G 100 31082 0
+G 100 31081 0
+G 100 31080 0
+G 100 31079 0
+G 100 31077 0
+G 100 31076 0
+M 100 31027 7 31023 1
+M 100 31030 2 31024 1
+E 100 31026 0 3
+M 100 31022 1 31024 1
+E 100 31024 0 1
+M 100 31021 2 31024 1
+E 100 31023 0 7
+E 100 31022 0 20
+E 100 31021 0 24
+M 100 31001 9 31024 1
+E 100 31073 0 5
+E 100 31072 0 7
+M 100 31011 1 31025 1
+G 100 31075 0
+G 100 31047 0
+G 100 31046 0
+G 100 31045 0
+G 100 31006 0
+M 100 31013 2 31026 1
+E 100 31010 0 16
+E 100 31011 0 5
+M 100 31000 8 31027 2
+E 100 31070 0 16
+E 100 31071 0 12
+M 100 31002 4 31029 1
+M 100 31307 1 31035 1
+M 100 31101 1 31037 1
+M 100 31027 7 31041 1
+M 100 31029 6 31048 1
+M 100 31021 2 31049 1
+E 100 31021 0 24
+E 100 31023 0 7
+E 100 31022 0 20
+M 100 31004 1 31050 1
+M 100 31020 1 31050 1
+E 100 31020 0 8
+M 100 31027 7 31050 1
+M 100 31100 1 31051 1
+M 100 31103 1 31051 1
+M 100 31014 2 31052 1
+E 100 31012 0 6
+M 100 31001 9 31052 1
+M 100 31006 1 31053 1
+G 100 31032 0
+G 100 31031 0
+G 100 31001 0
+M 100 31026 6 31053 1
+M 100 31102 4 31054 2
+M 100 31031 2 31054 1
+M 100 31028 8 31054 2
+M 100 31001 9 31054 1
+E 100 31073 0 5
+E 100 31072 0 7
+M 100 31005 1 31056 1
+M 100 31029 6 31060 1
+M 100 31026 6 31060 1
+M 100 31024 2 31060 1
+M 100 31001 9 31060 1
+M 100 31026 6 31061 1
+M 100 31015 1 31061 1
+M 100 31000 8 31062 2
+E 100 31071 0 12
+E 100 31070 0 16
+M 100 31002 4 31065 1
+M 100 31014 2 31075 1
+E 100 31012 0 6
+M 100 31012 1 31076 1
+G 100 31094 0
+G 100 31093 0
+G 100 31092 0
+G 100 31091 0
+M 100 31102 4 31077 1
+M 100 31031 2 31077 1
+M 100 31028 8 31077 2
+M 100 31025 6 31079 1
+M 100 31026 6 31079 1
+M 100 31027 7 31079 1
+M 100 31029 6 31081 1
+M 100 31026 6 31081 1
+M 100 31001 9 31081 1
+E 100 31073 0 5
+E 100 31072 0 7
+M 100 31003 1 31082 1
+G 100 31100 0
+G 100 31089 0
+G 100 31088 0
+G 100 31087 0
+G 100 31000 0
+G 100 31030 0
+M 100 31027 7 31082 1
+M 100 31019 1 31082 1
+G 100 31019 0
+M 100 31013 2 31083 1
+E 100 31010 0 16
+E 100 31011 0 5
+M 100 31000 8 31084 2
+E 100 31071 0 12
+E 100 31070 0 16
+M 100 31002 4 31086 1
+M 100 31306 1 31090 1
+M 100 31305 2 31093 2
+M 100 31032 1 31097 1
+E 100 31029 0 16
+M 100 31040 1 31099 1
+M 100 31100 1 31100 1
+M 100 31044 1 31102 1
+O 100 31048 0 31102
+M 100 31302 1 31103 1
+E 100 31095 0 16
+M 100 31301 1 31105 1
+M 100 31300 1 31150 1
+M 100 31312 4 31153 2
+M 100 31311 7 31153 3
+M 100 31310 8 31153 2
+M 100 31311 7 31154 2
+M 100 31312 4 31155 2
+M 100 31310 8 31155 2
+M 100 31311 7 31156 2
+M 100 31310 8 31156 2
+M 100 31310 8 31157 2
+S
+
+#SHOPS
+31003 10 0 0 0 0 100 100 0 23
+31004 0 0 0 0 0 100 100 0 23
+31006 19 0 0 0 0 100 100 0 23
+31007 19 0 0 0 0 100 100 0 23
+31008 9 0 0 0 0 100 100 0 23
+31009 19 0 0 0 0 100 100 0 23
+31010 5 0 0 0 0 100 100 0 23
+31011 33 0 0 0 0 100 100 0 23
+31012 5 9 33 10 2 100 100 0 23
+0
+
+#MOBPROGS
+#31001
+~
+~
+scan
+~
+
+#31040
+~
+~
+say Welcome to the city of Kratas!
+say Come look at the many sightly things we have for you!
+~
+
+#31102
+~
+~
+emote licks her paws and purrs delightfully.
+~
+
+#31303
+~
+~
+'WHOO!
+~
+
+#31305
+~
+~
+emote moves here and there in search for food.
+~
+
+#31307
+~
+~
+emote smiles and bows.
+say Welcome to the Kratasian Territory!
+'The city is further south... enjoy!'
+wave
+~
+#0
+
+#$

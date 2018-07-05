@@ -1,0 +1,2192 @@
+#AREADATA
+Name Sacred Glade~
+Builders None~
+VNUMs 5421 5499
+Credits [ 10  50] Ronni    The Sacred Glade~
+Security 9
+End
+
+
+
+#MOBILES
+#5421
+platinum stag~
+a {Wplatinum{x stag~
+A male deer with a platinum coloured pelt roams the glade.
+~
+A majestic stag stands here bearing a pelt with a platinum colour and
+large antlers.  
+~
+school monster~
+AG DF 0 600 0
+30 0 9d61+416 1d1+499 12d12+15 beating
+-9 -9 -9 0
+FIK AB 0 C
+stand stand male 400
+V ACDEFHJKW medium unknown
+F for M
+F par BQU
+M GIVE 5421 5425~
+#5422
+bard~
+a bard~
+A bard is here seeking inspiration.
+~
+He stares dreamily at his surroundings trying to equal the musicianship
+and poetry of the birds.  
+~
+human~
+AG DF 0 800 0
+40 0 10d108+662 1d1+499 16d16+20 punch
+-15 -15 -15 -2
+FHK AB 0 0
+stand stand male 800
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+M ENTRY 5422 100~
+M GRALL 5422 100~
+#5423
+platinum doe~
+a {Wplatinum{x doe~
+A doe with a platinum pelt is grazing.
+~
+She wanders the glade in bliss, feeding on its lush grass and crystalline
+pools.  
+~
+doll~
+AG 0 0 600 0
+25 0 8d53+334 1d1+499 8d12+13 charge
+-5 -5 -5 2
+FIK 0 0 0
+stand stand female 500
+GV ABCHK medium unknown
+F imm ILMNPQR
+F res ES
+F vul GHJKO
+F for CJMc
+#5424
+prism fish~
+a {Wp{Rr{Yi{Ms{Cm {Gf{Bi{ms{ch{x~
+A prismatic fish swims happily here.
+~
+A large fish swims happily in the cool waters of the brook.  Its scales
+reflect all the colours of the rainbow.  
+~
+sea-elf~
+ABG Fb 0 0 0
+15 0 5d30+161 1d1+499 6d8+8 slap
+0 0 0 5
+0 0 IR HZ
+stand stand female 300
+Ab ADEFKQX medium unknown
+F for HM
+F par BCGHIJ
+#5425
+Kaessi glade maiden~
+Kaessi, the {GGl{gad{We {DM{Wa{gid{Gen{x~
+A woman in earthly garb glows here.
+~
+She stands watch over all of the creatures of the glade attempting to
+assure peace and tranquility in the area.  
+~
+elf~
+ABGMNQ DFJ DHN 1000 0
+60 0 11d221+1225 1d1+499 24d24+250 scratch
+-27 -27 -27 -9
+FHIKP AB B Z
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+M FIGHT 5424 10~
+M GREET 5425 100~
+M DEATH 5423 100~
+#5426
+glade guardian~
+the {GGl{gad{We G{Du{War{gdi{Gan{x~
+The Glade Guardian has awakened from its slumber.
+~
+A titanic being bearing a striking resemblace to a tree, only moving,
+stands here very perturbed at the intrustion.  
+~
+drow~
+AFGMNT DFJ CDHN 1000 0
+80 0 12d360+1920 1d1+499 35d35+300 thwack
+-40 -40 -40 -15
+FHIK AB B SZ
+stand stand none 5000
+AHV ABCDEFGHIJK medium unknown
+M FIGHT 5444 13~
+M DEATH 5426 100~
+M ENTRY 5427 100~
+#5427
+lark~
+a lark~
+A lark is singing its song.
+~
+This small songbird offers the vocals on the soundtrack of the glade.  
+~
+song bird~
+AG T 0 500 0
+20 0 6d45+244 1d1+499 8d8+10 peck
+-2 -2 -2 4
+FHP 0 0 0
+stand stand female 500
+GW ACDEFHKP medium unknown
+#5428
+dove~
+a {Wdove{x~
+A dove brings peace.
+~
+The snow white bird offers peace to all those that enter the glade.  
+~
+song bird~
+A T 0 0 0
+22 0 7d47+278 1d1+499 8d8+11 peckb
+-3 -3 -3 3
+FH 0 0 0
+stand stand female 500
+GW ACDEFHKP medium unknown
+#5429
+silver fox~
+a {wsilver{x fox~
+A fox with a silver coat rustles through the grass.
+~
+This fox bears a silver coat and feeds upon the flowers and berries of
+the glade.  
+~
+fox~
+A Z 0 0 0
+28 0 8d66+393 1d1+499 8d12+14 bite
+-7 -7 -7 1
+FH 0 0 0
+stand stand male 600
+GV ACDEFHJKQV medium unknown
+#5430
+unicorn~
+a {Wunicorn{x~
+A unicorn gallops around.
+~
+The unicorn proudly shows off its majesty in to all those watching.  
+~
+human~
+AG 0 0 800 0
+35 0 9d92+541 1d1+499 12d16+18 charge
+-12 -12 -12 -1
+FHIK 0 0 0
+stand stand female 1000
+V ACDEFJKQW medium unknown
+F for AM
+F par BGHI
+#5431
+white rabbit~
+a {Wwhite{x rabbit~
+A white rabbit is here foraging.
+~
+A cute little rabbit hops around looking for a snack.  
+~
+rabbit~
+AG 0 0 800 0
+20 0 6d45+244 1d1+499 8d8+10 bite
+-2 -2 -2 4
+FH 0 0 0
+stand stand male 400
+GV ACDEFHJK medium unknown
+#5432
+white stallion~
+a {Wwhite{x stallion~
+A white stallion stands here.
+~
+A proud white stallion runs through the thick grass.  
+~
+human~
+AG 0 0 0 0
+26 0 8d57+353 1d1+499 8d12+13 beating
+-6 -6 -6 1
+FHI 0 0 0
+stand stand male 700
+V ACDEFK medium unknown
+F for AM
+F par BGHIJ
+M GIVE 5432 5425~
+#0
+
+
+
+#OBJECTS
+#5421
+sparkling waterfall~
+a {Csp{car{Wkl{win{cg w{Wat{Cer{wfa{Cll{x~
+A {Csp{car{Wkl{win{cg w{Wat{Cer{wfa{Cll{x emits a prism.~
+unknown~
+trash AO 0
+0 0 0 0 0
+0 0 0 P
+E
+waterfall~
+Torrential crystalline water crashes down into the pool below uttering
+it's soothing roar.  The mist that surrounds it, clashes with the sunlight
+producing a rainbow for the spectators to behold.  
+~
+#5422
+pool water~
+a {Wcr{wys{Dt{Wa{Dl{wli{Wne{x pool of water~
+A pool with crystal clear water invites company.~
+unknown~
+furniture AO 0
+5 10000 DFGI 200 200
+0 0 0 P
+E
+pool~
+See the warm reflection...  Your's the water, mine's direction.  A river
+too deep to die.  
+~
+#5423
+flat round stone~
+a flat, round stone~
+A flat, round stone is here is embedded in the ground.~
+unknown~
+furniture 0 0
+4 10000 DG 120 120
+0 0 0 P
+E
+stone~
+Its shape makes it the perfect substitute for a table.  
+~
+#5424
+wooden bench~
+a wooden bench~
+A wooden bench made for two is here.~
+unknown~
+furniture 0 0
+2 1200 E 120 120
+0 0 0 P
+#5425
+tuft grass~
+a tuft of {Ggreen{x grass~
+A tuft of {Ggreen{x grass blows in the warm breeze.~
+unknown~
+food A A
+10 10 0 0 0
+0 0 0 P
+#5426
+iris flower~
+an {mI{Wri{ms{x~
+A white and purple flower blooms here.~
+unknown~
+trash A A
+0 0 0 0 0
+0 0 0 P
+#5427
+rock~
+a {Bblue{x rock~
+A {Bblue{x rock faces out towards the great city.~
+unknown~
+furniture 0 0
+2 10000 EH 150 150
+0 0 0 P
+#5428
+giant statue~
+a statue of a giant warrior~
+A statue of a giant warrior watches the city below.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#5429
+wild blue rose~
+a wild {Bblue{x rose~
+A wild {Bblue{x rose is in full bloom.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#5430
+white lily~
+a {Wwhite{x lily~
+A {Wwhite{x lily dances in the breeze.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#5431
+daffodil~
+a {Ydaffodil{x~
+A {Ydaffodil{x sits still.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#5432
+sunflower~
+a {YSu{yn{Dflo{yw{Yer{x~
+A large sunflower basks in the light.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#5433
+midnight orchid~
+a {Dmi{mdn{wig{Mht {wor{mch{Did{x~
+A midnight orchid flourishes here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#5434
+red tulip~
+a {Rfiery red{x tulip~
+A {Rfiery red{x tulip opens up.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#5435
+magnolia tree~
+a magnolia tree~
+A magnolia tree blooms an abundance of flowers here.~
+unknown~
+container 0 0
+10 0 0 1 0
+0 0 0 P
+#5436
+magnolia flower~
+an {Cic{cy c{Wo{Dl{Wo{cur{Ced{x magnolia flower~
+A magnolia, coloured like ice, has been taken from its tree.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#5437
+strawberry bush~
+a {Rstrawberry{x bush~
+A bush bearing strawberries is firmly rooted here.~
+unknown~
+container 0 0
+10 0 0 1 0
+0 0 0 P
+#5438
+strawberry~
+a {Rstrawberry{x~
+A juicy strawberry has been left here.~
+unknown~
+food 0 A
+4 4 0 0 0
+0 0 0 P
+#5439
+starflower amulet~
+a {Yst{gar{Wfl{gow{Yer{x amulet~
+A starflower amulet has been left on the ground.~
+unknown~
+armor AG AC
+10 10 10 6 0
+45 6 2000 P
+A
+13 30
+A
+3 2
+A
+18 4
+#5440
+earthen robe~
+an {yearthen{x robe~
+An earthly robe has been left on the ground.~
+unknown~
+armor A AK
+10 10 10 6 0
+45 6 2000 P
+A
+19 3
+A
+13 40
+#5441
+blue rock ring~
+a {Bblue{x rock ring~
+A ring with a magical blue rock has been tossed aside.~
+unknown~
+armor G AB
+10 10 10 6 0
+45 6 2000 P
+A
+5 2
+A
+3 2
+A
+2 2
+A
+4 2
+A
+1 2
+#5442
+jade anklet~
+a {Gjade{x anklet~
+A sturdy anklet made of jade glows here.~
+unknown~
+armor A AT
+10 10 10 6 0
+45 6 2000 P
+A
+19 2
+A
+12 55
+#5443
+laurel wreath~
+a {Glaurel{x wreath~
+A flowery wreath has been left in the dirt.~
+unknown~
+armor G AE
+10 10 10 6 0
+45 6 2000 P
+A
+12 50
+A
+18 2
+#5444
+kaessi orb~
+{xKaessi's Orb~
+An orb once belonging to Kaessi has been left here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+E
+orb~
+Say my name...  
+~
+O SPEECH 5444 kaessi~
+#5445
+spirit glade~
+the {WSpirit{x of the {GGlade{x~
+The spirit of the glade hovers here.~
+unknown~
+armor AB AQ
+22 22 22 18 0
+80 6 4500 P
+A
+12 80
+A
+13 80
+A
+19 6
+#5446
+thorn vine~
+a {ythorn {gvine{x~
+A vine bearing thorns has been left here.~
+unknown~
+weapon 0 AN
+whip 8 12 whip DH
+45 10 3500 P
+A
+19 6
+A
+18 4
+#5447
+prismatic scales~
+{Yp{Br{Mi{Cs{Rm{Ga{Wt{mi{bc{x scales~
+A colourful pair of scales are here.~
+unknown~
+armor 0 AD
+6 6 6 4 0
+15 6 500 P
+A
+13 15
+A
+3 1
+#5448
+musical bracer~
+a musical bracer~
+A bracer engraved with a clef is here.~
+unknown~
+armor 0 AM
+7 7 7 5 0
+25 6 1000 P
+A
+4 2
+A
+12 20
+#0
+
+
+
+#ROOMS
+#5421
+{GA Lush, Green Path{x~
+{gLush green grass cushions every step along this path.  The warm breeze
+ruffles the foliage all around providing a song for the march, accompanied
+by the vocal stylings of dueting doves and larks.  The Sacred Glade awaits
+to the west.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 1128
+D3
+~
+~
+0 0 5422
+S
+#5422
+{GAn Endless Sea of Green{x~
+{gGreen grass extends as far as vision allows.  Four senses are stimulated
+here, the smell of wildflowers, the songs of birds, the sight of nature's
+greatest offerings, and the embrace of a warm breeze all welcome visitors to
+the glade.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 5421
+D3
+~
+~
+0 0 5423
+S
+#5423
+{GA Soft Grassy Path{x~
+{gThick grass can be heard making a dull crunch with every step along the
+path.  Songbirds sing their melodies high above in the multi coloured canopy
+provided by the various species of trees.  A vast green sea can be seen just
+a short distance to the west.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 5422
+D3
+~
+~
+0 0 5424
+S
+#5424
+{GMouth of a Vast, Green Sea{x~
+{gA large ocean of green, just a short distance to the west, beckons
+adventurers into its loving embrace.  This glade is home to many beautiful
+creatures, living harmoniously in their unique ecosystem, that serve as
+nature's gracious hosts to visitors.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 5423
+D3
+~
+~
+0 0 5427
+S
+#5425
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D2
+~
+~
+0 0 5426
+D3
+~
+~
+0 0 5431
+S
+#5426
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5425
+D2
+~
+~
+0 0 5427
+D3
+~
+~
+0 0 5432
+S
+#5427
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5426
+D1
+~
+~
+0 0 5424
+D2
+~
+~
+0 0 5428
+D3
+~
+~
+0 0 5433
+S
+#5428
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5427
+D2
+~
+~
+0 0 5429
+D3
+~
+~
+0 0 5434
+S
+#5429
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5428
+D3
+~
+~
+0 0 5435
+S
+#5430
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D2
+~
+~
+0 0 5431
+D3
+~
+~
+0 0 5437
+S
+#5431
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5430
+D1
+~
+~
+0 0 5425
+D2
+~
+~
+0 0 5432
+S
+#5432
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5431
+D1
+~
+~
+0 0 5426
+D2
+~
+~
+0 0 5433
+S
+#5433
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5432
+D1
+~
+~
+0 0 5427
+D2
+~
+~
+0 0 5434
+S
+#5434
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5433
+D1
+~
+~
+0 0 5428
+D2
+~
+~
+0 0 5435
+D3
+~
+~
+0 0 5463
+S
+#5435
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5434
+D1
+~
+~
+0 0 5429
+D2
+~
+~
+0 0 5436
+D3
+~
+~
+0 0 5464
+S
+#5436
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5435
+D3
+~
+~
+0 0 5465
+S
+#5437
+{GA Rolling Hill{x~
+{gThe path takes alters itself into a steep, but manageable, hill.  At the
+bottom of the hill lies a small basin where the wildlife flourishes and up
+at the top wildflowers bloom in abundance.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 5430
+D5
+~
+~
+0 0 5438
+S
+#5438
+{GA Rolling Hill{x~
+{gThe path takes alters itself into a steep, but manageable, hill.  At the
+bottom of the hill lies a small basin where the wildlife flourishes and up
+at the top wildflowers bloom in abundance.  {x 
+~
+0 0 2
+D4
+~
+~
+0 0 5437
+D5
+~
+~
+0 0 5439
+S
+#5439
+{GA Rolling Hill{x~
+{gThe path takes alters itself into a steep, but manageable, hill.  At the
+bottom of the hill lies a small basin where the wildlife flourishes and up
+at the top wildflowers bloom in abundance.  {x 
+~
+0 0 2
+D4
+~
+~
+0 0 5438
+D5
+~
+~
+0 0 5440
+S
+#5440
+{GA Rolling Hill{x~
+{gThe path takes alters itself into a steep, but manageable, hill.  At the
+bottom of the hill lies a small basin where the wildlife flourishes and up
+at the top wildflowers bloom in abundance.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 5441
+D4
+~
+~
+0 0 5439
+S
+#5441
+{GA Rolling Hill{x~
+{gThe path takes alters itself into a steep, but manageable, hill.  At the
+bottom of the hill lies a small basin where the wildlife flourishes and up
+at the top wildflowers bloom in abundance.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 5442
+D3
+~
+~
+0 0 5440
+S
+#5442
+{GA Rolling Hill{x~
+{gThe path takes alters itself into a steep, but manageable, hill.  At the
+bottom of the hill lies a small basin where the wildlife flourishes and up
+at the top wildflowers bloom in abundance.  {x 
+~
+0 0 2
+D3
+~
+~
+0 0 5441
+D5
+~
+~
+0 0 5443
+S
+#5443
+{GA Rolling Hill{x~
+{gThe path takes alters itself into a steep, but manageable, hill.  At the
+bottom of the hill lies a small basin where the wildlife flourishes and up
+at the top wildflowers bloom in abundance.  {x 
+~
+0 0 2
+D4
+~
+~
+0 0 5442
+D5
+~
+~
+0 0 5444
+S
+#5444
+{GA Rolling Hill{x~
+{gThe path takes alters itself into a steep, but manageable, hill.  At the
+bottom of the hill lies a small basin where the wildlife flourishes and up
+at the top wildflowers bloom in abundance.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5456
+D4
+~
+~
+0 0 5443
+S
+#5445
+{MInside a Cave{x~
+{mThe floor is damp and the walls trickle with water, but there is no musty
+smell here, just the odour of plants in bloom.  Small crystals on the floor
+provide some illumination for those that venture here.  {x 
+~
+0 8 0
+D1
+~
+~
+0 0 5493
+S
+#5446
+{MInside a Cave{x~
+{mThe floor is damp and the walls trickle with water, but there is no musty
+smell here, just the odour of plants in bloom.  Small crystals on the floor
+provide some illumination for those that venture here.  {x 
+~
+0 8 0
+D2
+~
+moss~
+1 0 5497
+S
+#5447
+{BA Blue Mountain Path{x~
+{bThe mountain path seems vertical here, but ascending and descending are
+made much simpler by the outcroppings of shimmering blue rock that seems to
+construct the entire mountain.  {x 
+~
+0 0 5
+D4
+~
+~
+0 0 5448
+D5
+~
+~
+0 0 5494
+S
+#5448
+{BA Blue Mountain Path{x~
+{bThe mountain path seems vertical here, but ascending and descending are
+made much simpler by the outcroppings of shimmering blue rock that seems to
+construct the entire mountain.  {x 
+~
+0 0 5
+D3
+~
+~
+0 0 5449
+D5
+~
+~
+0 0 5447
+S
+#5449
+{BA Blue Mountain Path{x~
+{bThe mountain path seems vertical here, but ascending and descending are
+made much simpler by the outcroppings of shimmering blue rock that seems to
+construct the entire mountain.  {x 
+~
+0 0 5
+D1
+~
+~
+0 0 5448
+D3
+~
+~
+0 0 5450
+D4
+~
+~
+0 0 5453
+S
+#5450
+{BA Blue Mountain Path{x~
+{bThe mountain path seems vertical here, but ascending and descending are
+made much simpler by the outcroppings of shimmering blue rock that seems to
+construct the entire mountain.  {x 
+~
+0 0 5
+D1
+~
+~
+0 0 5449
+D4
+~
+~
+0 0 5452
+S
+#5451
+{BA Blue Mountain Path{x~
+{bThe mountain path seems vertical here, but ascending and descending are
+made much simpler by the outcroppings of shimmering blue rock that seems to
+construct the entire mountain.  {x 
+~
+0 0 5
+D1
+~
+~
+0 0 5452
+S
+#5452
+{BA Blue Mountain Path{x~
+{bThe mountain path seems vertical here, but ascending and descending are
+made much simpler by the outcroppings of shimmering blue rock that seems to
+construct the entire mountain.  {x 
+~
+0 0 5
+D1
+~
+~
+0 0 5453
+D3
+~
+~
+0 0 5451
+D5
+~
+~
+0 0 5450
+S
+#5453
+{BA Blue Mountain Path{x~
+{bThe mountain path seems vertical here, but ascending and descending are
+made much simpler by the outcroppings of shimmering blue rock that seems to
+construct the entire mountain.  {x 
+~
+0 0 5
+D3
+~
+~
+0 0 5452
+D4
+~
+~
+0 0 5454
+D5
+~
+~
+0 0 5449
+S
+#5454
+{BOn {bth{We {wSu{bmm{Bit{x~
+{BThis is the {bmountain's sum{Wmit, home to{w a stone s{Wtatue of {ba mighty {Bwarrior
+{Bthat looks d{bown on the Rea{Wlm of the Mo{wuntain Kin{Wg as it h{bas stoica{Blly done
+{Bsince its er{bection.  Despi{Wte the great{w heights, {Wthe breez{be is stil{Bl warm and
+{Bcomforting.  {x 
+~
+0 512 5
+D5
+~
+~
+0 0 5453
+S
+#5455
+{CA Small Basin{x~
+{cThe Glade's more diminutive wildlife flourishes here as the waterfall
+provides nourishment for all of its kin.  The soothing flow of the falls
+offers travellers a relaxing place to rest their bodies.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5459
+D1
+~
+~
+0 0 5456
+S
+#5456
+{CA Small Basin{x~
+{cThe Glade's more diminutive wildlife flourishes here as the waterfall
+provides nourishment for all of its kin.  The soothing flow of the falls
+offers travellers a relaxing place to rest their bodies.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5460
+D1
+~
+~
+0 0 5457
+D2
+~
+~
+0 0 5444
+D3
+~
+~
+0 0 5455
+S
+#5457
+{CA Small Basin{x~
+{cThe Glade's more diminutive wildlife flourishes here as the waterfall
+provides nourishment for all of its kin.  The soothing flow of the falls
+offers travellers a relaxing place to rest their bodies.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5461
+D3
+~
+~
+0 0 5456
+S
+#5458
+{CA Small Basin{x~
+{cThe Glade's more diminutive wildlife flourishes here as the waterfall
+provides nourishment for all of its kin.  The soothing flow of the falls
+offers travellers a relaxing place to rest their bodies.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 5459
+S
+#5459
+{CA Small Basin{x~
+{cThe Glade's more diminutive wildlife flourishes here as the waterfall
+provides nourishment for all of its kin.  The soothing flow of the falls
+offers travellers a relaxing place to rest their bodies.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 5460
+D2
+~
+~
+0 0 5455
+D3
+~
+~
+0 0 5458
+S
+#5460
+{CThe {CWa{ct{We{wr{Wf{ca{Cll{x~
+{CThe sun peek{cs over the cl{Wiff face, {Dstaring dow{Wn at the gl{cade bel{Cow as it
+{Chas done sin{cce the dawn o{Wf time.  W{Dater from a{W stream abo{cve take{Cs a leap
+{Cdown countle{css feet to re{Wst in the {Dpool below.  {W Ancient t{crees lo{Cok down
+from {Cabove, watch{cing the glade{W creatures{D, bards and{W lovers tha{ct find
+{Csanctuary {Chere.  If on{cly the trees {Wcould shar{De these sto{Wries, So mu{cch to
+s{Cay, so much {Cto give away.  {x 
+~
+0 4 2
+D1
+~
+~
+0 0 5461
+D2
+~
+~
+0 0 5456
+D3
+~
+~
+0 0 5459
+S
+#5461
+{CA Small Basin{x~
+{cThe Glade's more diminutive wildlife flourishes here as the waterfall
+provides nourishment for all of its kin.  The soothing flow of the falls
+offers travellers a relaxing place to rest their bodies.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 5462
+D2
+~
+~
+0 0 5457
+D3
+~
+~
+0 0 5460
+S
+#5462
+{WA White Gazebo{x~
+{WThis humble, white gazebo stands as a monument to love.  The wooden
+supports bear initials carved by lovers wishing to share their stories with
+those that carved before and ones that will write future chapters.  The
+glorious waterfall can be seen in the distance to the west.  {x 
+~
+0 1028 0
+E
+carving~
+To Elizabeth,
+ 
+I love you with all that I have.
+ 
+John
+~
+D3
+~
+~
+0 0 5461
+S
+#5463
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 5434
+D2
+~
+~
+0 0 5464
+S
+#5464
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5463
+D1
+~
+~
+0 0 5435
+D2
+~
+~
+0 0 5465
+S
+#5465
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5464
+D1
+~
+~
+0 0 5436
+D2
+~
+~
+0 0 5466
+D3
+~
+~
+0 0 5499
+S
+#5466
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5465
+D3
+~
+~
+0 0 5494
+S
+#5467
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D2
+~
+~
+0 0 5468
+D3
+~
+~
+0 0 5469
+S
+#5468
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5467
+D1
+~
+~
+0 0 5494
+S
+#5469
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5470
+D1
+~
+~
+0 0 5467
+S
+#5470
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5471
+D2
+~
+~
+0 0 5469
+S
+#5471
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5473
+D2
+~
+~
+0 0 5470
+S
+#5472
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5475
+D1
+~
+~
+0 0 5473
+S
+#5473
+{YInside a Canyon{x~
+{yLarge cliffs reach into the sky on both sides and the sound of a rushing
+brook can be heard a short distance away.  The brook provides a source of
+nourishment for the creatures and vegitation that dwell within the canyon.  {x
+~
+0 0 2
+D0
+~
+~
+0 0 5479
+D1
+~
+~
+0 0 5474
+D2
+~
+~
+0 0 5471
+D3
+~
+~
+0 0 5472
+S
+#5474
+{YInside a Canyon{x~
+{yLarge cliffs reach into the sky on both sides and the sound of a rushing
+brook can be heard a short distance away.  The brook provides a source of
+nourishment for the creatures and vegitation that dwell within the canyon.  {x
+~
+0 0 2
+D0
+~
+~
+0 0 5477
+D3
+~
+~
+0 0 5473
+S
+#5475
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5478
+D1
+~
+~
+0 0 5476
+D2
+~
+~
+0 0 5472
+S
+#5476
+{YInside a Canyon{x~
+{yLarge cliffs reach into the sky on both sides and the sound of a rushing
+brook can be heard a short distance away.  The brook provides a source of
+nourishment for the creatures and vegitation that dwell within the canyon.  {x
+~
+0 0 2
+D1
+~
+~
+0 0 5477
+D3
+~
+~
+0 0 5475
+S
+#5477
+{YInside a Canyon{x~
+{yLarge cliffs reach into the sky on both sides and the sound of a rushing
+brook can be heard a short distance away.  The brook provides a source of
+nourishment for the creatures and vegitation that dwell within the canyon.  {x
+~
+0 0 2
+D2
+~
+~
+0 0 5474
+D3
+~
+~
+0 0 5476
+S
+#5478
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5481
+D1
+~
+~
+0 0 5479
+D2
+~
+~
+0 0 5475
+S
+#5479
+{YInside a Canyon{x~
+{yLarge cliffs reach into the sky on both sides and the sound of a rushing
+brook can be heard a short distance away.  The brook provides a source of
+nourishment for the creatures and vegitation that dwell within the canyon.  {x
+~
+0 0 2
+D0
+~
+~
+0 0 5482
+D1
+~
+~
+0 0 5480
+D2
+~
+~
+0 0 5473
+D3
+~
+~
+0 0 5478
+S
+#5480
+{YInside a Canyon{x~
+{yLarge cliffs reach into the sky on both sides and the sound of a rushing
+brook can be heard a short distance away.  The brook provides a source of
+nourishment for the creatures and vegitation that dwell within the canyon.  {x
+~
+0 0 2
+D0
+~
+~
+0 0 5483
+D3
+~
+~
+0 0 5479
+S
+#5481
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5484
+D1
+~
+~
+0 0 5482
+D2
+~
+~
+0 0 5478
+S
+#5482
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5485
+D1
+~
+~
+0 0 5483
+D2
+~
+~
+0 0 5479
+D3
+~
+~
+0 0 5481
+S
+#5483
+{YInside a Canyon{x~
+{yLarge cliffs reach into the sky on both sides and the sound of a rushing
+brook can be heard a short distance away.  The brook provides a source of
+nourishment for the creatures and vegitation that dwell within the canyon.  {x
+~
+0 0 2
+D0
+~
+~
+0 0 5486
+D2
+~
+~
+0 0 5480
+D3
+~
+~
+0 0 5482
+S
+#5484
+{YInside a Canyon{x~
+{yLarge cliffs reach into the sky on both sides and the sound of a rushing
+brook can be heard a short distance away.  The brook provides a source of
+nourishment for the creatures and vegitation that dwell within the canyon.  {x
+~
+0 0 2
+D0
+~
+~
+0 0 5487
+D1
+~
+~
+0 0 5485
+D2
+~
+~
+0 0 5481
+S
+#5485
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5488
+D1
+~
+~
+0 0 5486
+D2
+~
+~
+0 0 5482
+D3
+~
+~
+0 0 5484
+S
+#5486
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5489
+D2
+~
+~
+0 0 5483
+D3
+~
+~
+0 0 5485
+S
+#5487
+{YInside a Canyon{x~
+{yLarge cliffs reach into the sky on both sides and the sound of a rushing
+brook can be heard a short distance away.  The brook provides a source of
+nourishment for the creatures and vegitation that dwell within the canyon.  {x
+~
+0 0 2
+D1
+~
+~
+0 0 5488
+D2
+~
+~
+0 0 5484
+S
+#5488
+{YInside a Canyon{x~
+{yLarge cliffs reach into the sky on both sides and the sound of a rushing
+brook can be heard a short distance away.  The brook provides a source of
+nourishment for the creatures and vegitation that dwell within the canyon.  {x
+~
+0 0 2
+D1
+~
+~
+0 0 5489
+D2
+~
+~
+0 0 5485
+D3
+~
+~
+0 0 5487
+S
+#5489
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5490
+D2
+~
+~
+0 0 5486
+D3
+~
+~
+0 0 5488
+S
+#5490
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5491
+D2
+~
+~
+0 0 5489
+S
+#5491
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5492
+D2
+~
+~
+0 0 5490
+S
+#5492
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5495
+D2
+~
+~
+0 0 5491
+D3
+~
+boulder~
+1 0 5493
+S
+#5493
+{MInside a Cave{x~
+{mThe floor is damp and the walls trickle with water, but there is no musty
+smell here, just the odour of plants in bloom.  Small crystals on the floor
+provide some illumination for those that venture here.  {x 
+~
+0 8 0
+D1
+~
+boulder~
+1 0 5492
+D3
+~
+~
+0 0 5445
+S
+#5494
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 5499
+D1
+~
+~
+0 0 5466
+D3
+~
+~
+0 0 5468
+D4
+~
+~
+0 0 5447
+S
+#5495
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D0
+~
+~
+0 0 5496
+D2
+~
+~
+0 0 5492
+S
+#5496
+{BA Babbling Brook{x~
+{bThis small brook moves rapidly between two high mountains.  The water is
+crystal clear and the footing consists of flat rocks smoothed out by the
+filing provided by the constant stream of water over the ages.  {x 
+~
+0 0 6
+D2
+~
+~
+0 0 5495
+D3
+~
+boulder~
+1 0 5497
+S
+#5497
+{MInside a Cave{x~
+{mThe floor is damp and the walls trickle with water, but there is no musty
+smell here, just the odour of plants in bloom.  Small crystals on the floor
+provide some illumination for those that venture here.  {x 
+~
+0 8 0
+D0
+~
+moss~
+1 0 5446
+D1
+~
+boulder~
+1 0 5496
+D3
+~
+~
+0 0 5498
+S
+#5498
+{MInside a Cave{x~
+{mThe floor is damp and the walls trickle with water, but there is no musty
+smell here, just the odour of plants in bloom.  Small crystals on the floor
+provide some illumination for those that venture here.  {x 
+~
+0 8 0
+D1
+~
+~
+0 0 5497
+S
+#5499
+{GThe Sacred Glade{x~
+{gLush green grass cushions the trek and the vast greenery is broken by the
+periodic prisms provided by the colourful wildflowers.  The scent of
+blooming horticulture appeals to the nose and beauty is inescapable.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 5465
+D2
+~
+~
+0 0 5494
+S
+#0
+
+
+
+#SPECIALS
+M 5425 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 5446 2 1
+D 0 5492 3 1
+D 0 5493 1 1
+D 0 5496 3 1
+D 0 5497 0 1
+D 0 5497 1 1
+O 0 5426 0 5421
+O 0 5425 0 5421
+O 0 5431 0 5422
+O 0 5430 0 5422
+O 0 5433 0 5423
+O 0 5432 0 5423
+O 0 5431 0 5424
+O 0 5434 0 5424
+M 0 5421 7 5425 7
+O 0 5435 0 5425
+P 0 5436 12 5435 12
+P 0 5436 12 5435 12
+P 0 5436 12 5435 12
+M 0 5423 7 5426 7
+O 0 5429 0 5426
+O 0 5432 0 5426
+M 0 5427 7 5427 7
+O 0 5437 0 5427
+P 0 5438 12 5437 12
+P 0 5438 12 5437 12
+P 0 5438 12 5437 12
+M 0 5428 7 5428 7
+O 0 5430 0 5428
+O 0 5433 0 5428
+M 0 5429 7 5429 7
+O 0 5430 0 5429
+O 0 5425 0 5429
+M 0 5430 7 5430 7
+O 0 5434 0 5430
+O 0 5426 0 5430
+M 0 5431 7 5431 7
+O 0 5435 0 5431
+P 0 5436 12 5435 12
+P 0 5436 12 5435 12
+P 0 5436 12 5435 12
+M 0 5432 7 5432 7
+M 0 5421 7 5432 7
+O 0 5432 0 5432
+O 0 5425 0 5432
+M 0 5423 7 5433 7
+O 0 5429 0 5433
+O 0 5433 0 5433
+M 0 5427 7 5434 7
+O 0 5437 0 5434
+P 0 5438 1 5437 1
+P 0 5438 1 5437 1
+P 0 5438 1 5437 1
+M 0 5428 7 5435 7
+O 0 5426 0 5435
+O 0 5430 0 5435
+M 0 5429 7 5436 7
+M 0 5430 7 5437 7
+M 0 5431 7 5438 7
+O 0 5430 0 5438
+O 0 5425 0 5438
+M 0 5432 7 5439 7
+M 0 5421 7 5439 7
+O 0 5429 0 5439
+O 0 5426 0 5439
+M 0 5423 7 5440 7
+O 0 5429 0 5440
+O 0 5433 0 5440
+M 0 5427 7 5441 7
+O 0 5432 0 5441
+O 0 5434 0 5441
+M 0 5428 7 5442 7
+O 0 5430 0 5442
+O 0 5425 0 5442
+M 0 5429 7 5443 7
+O 0 5430 0 5443
+O 0 5426 0 5443
+M 0 5430 7 5444 7
+O 0 5433 0 5444
+O 0 5434 0 5444
+M 0 5425 1 5446 1
+E 0 5439 0 3
+E 0 5440 0 12
+E 0 5442 0 23
+E 0 5441 0 1
+E 0 5443 0 6
+E 0 5446 0 16
+M 0 5423 7 5447 7
+M 0 5427 7 5448 7
+M 0 5428 7 5449 7
+M 0 5429 7 5450 7
+M 0 5430 7 5451 7
+M 0 5431 7 5452 7
+M 0 5432 7 5453 7
+M 0 5421 7 5453 7
+M 0 5422 3 5453 3
+E 0 5448 0 14
+O 0 5428 0 5454
+O 0 5427 0 5454
+M 0 5427 7 5455 7
+O 0 5435 0 5455
+P 0 5436 12 5435 12
+P 0 5436 12 5435 12
+P 0 5436 12 5435 12
+M 0 5422 3 5455 3
+E 0 5448 0 14
+M 0 5428 7 5456 7
+M 0 5429 7 5457 7
+M 0 5430 7 5458 7
+M 0 5431 7 5459 7
+M 0 5432 7 5460 7
+M 0 5421 7 5460 7
+O 0 5422 0 5460
+O 0 5421 0 5460
+O 0 5423 0 5460
+M 0 5423 7 5461 7
+O 0 5437 0 5461
+P 0 5438 12 5437 12
+P 0 5438 12 5437 12
+P 0 5438 12 5437 12
+M 0 5422 3 5461 3
+E 0 5448 0 14
+O 0 5424 0 5462
+M 0 5428 7 5463 7
+O 0 5426 0 5463
+O 0 5425 0 5463
+M 0 5429 7 5464 7
+M 0 5423 7 5464 7
+O 0 5431 0 5464
+O 0 5430 0 5464
+M 0 5430 7 5465 7
+O 0 5433 0 5465
+O 0 5432 0 5465
+M 0 5431 7 5466 7
+O 0 5426 0 5466
+O 0 5434 0 5466
+M 0 5432 7 5467 7
+M 0 5421 7 5467 7
+O 0 5431 0 5467
+O 0 5430 0 5467
+O 0 5425 0 5467
+M 0 5423 7 5468 7
+O 0 5433 0 5468
+O 0 5432 0 5468
+M 0 5427 7 5469 7
+O 0 5431 0 5469
+O 0 5434 0 5469
+M 0 5428 7 5470 7
+O 0 5434 0 5470
+O 0 5425 0 5470
+M 0 5429 7 5471 7
+O 0 5433 0 5471
+O 0 5431 0 5471
+M 0 5424 5 5472 5
+E 0 5447 0 5
+M 0 5431 7 5473 7
+M 0 5431 7 5473 7
+M 0 5432 7 5474 7
+M 0 5421 7 5474 7
+M 0 5424 5 5475 5
+E 0 5447 0 5
+M 0 5427 7 5476 7
+M 0 5424 5 5478 5
+E 0 5447 0 5
+M 0 5430 7 5479 7
+M 0 5424 5 5481 5
+E 0 5447 0 5
+M 0 5432 7 5488 7
+M 0 5424 5 5492 5
+E 0 5447 0 5
+M 0 5430 7 5494 7
+O 0 5434 0 5494
+O 0 5425 0 5494
+O 0 5430 0 5499
+O 0 5426 0 5499
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#5421
+eat grass
+nuzzle $n
+~
+#5422
+if sex $n < 2
+     tip $n
+     say Good day, Sir.
+else
+     say Greetings, Milady.
+     mob oload 5426
+     give iris $n
+     say I believe I have found my inspiration.
+     beam $n
+endif
+~
+#5423
+mob oload 5444
+mob echo $I swirls and morphs into a orb.
+drop orb
+~
+#5424
+mob cast 'ray of truth' $n
+~
+#5425
+if align $n > 0
+     say Welcome to my glade, $n.
+     say I hope this place feels like home.
+else
+     say Go back to whence to came, heathen!
+     mob kill $n
+endif
+~
+#5426
+mob oload 5445
+drop spirit
+mob echo $I hits the ground with a heavy thud and the body fades away.
+~
+#5427
+say You dare to disturb my creatures?
+mob kill $n
+~
+#5432
+eat grass
+mob echo $I licks $n's face.
+~
+#5444
+mob echo $I picks you up by the feet and slams you hard to the ground!
+mob damage all 300 500
+~
+#0
+
+#OBJPROGS
+#5444
+obj echo The orb rumbles violently...
+obj echo You have summoned the {GGl{gad{We G{Du{War{gdi{Gan{x!
+obj mload 5426
+obj force $n trash kaessi
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,626 @@
+#AREADATA
+Name Twilight~
+Builders Melmar Inferno~
+VNUMs 81100 81199
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#81107
+wood key wooden~
+a small Wooden Key~
+A small key lays in the dust.~
+wood~
+key T A
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#81100
+The Center of Twilight~
+A beautiful expanse of green grass streetches out in all directions. 
+Stone pilliars and benches surrounded by trees and blooming flowers.  A
+tower above invites all to see the Museum of Warriors.  To the south a
+temple can be seen rising magestically above the city.  Sounds of battle can
+be heard from the west.  A dark road winds off to the north.  The sound of
+happy people drifts in from the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 81109
+D1
+~
+~
+0 0 81114
+D2
+~
+~
+0 0 81101
+D3
+~
+~
+0 0 81105
+D4
+~
+~
+0 0 81150
+S
+#81101
+Healing Gardens~
+~
+0 0 0
+D0
+~
+~
+0 0 81100
+D2
+~
+~
+0 0 81102
+S
+#81102
+Fountian Square~
+~
+0 0 0
+D0
+~
+~
+0 0 81101
+D1
+~
+~
+0 0 81149
+D2
+~
+~
+0 0 81103
+D3
+~
+~
+0 0 81134
+S
+#81103
+Healing Waters~
+~
+0 0 0
+D0
+~
+~
+0 0 81102
+D1
+~
+~
+0 0 81148
+D2
+~
+~
+0 0 81104
+S
+#81104
+Inner Sanctum~
+~
+0 0 0
+D0
+~
+~
+0 0 81103
+S
+#81105
+Practice Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 81119
+D1
+~
+~
+0 0 81100
+D3
+~
+~
+0 0 81106
+S
+#81106
+Practice Grounds~
+~
+0 0 0
+D1
+~
+~
+0 0 81105
+D3
+~
+~
+0 0 81107
+S
+#81107
+open Air Market~
+~
+0 0 0
+D1
+~
+~
+0 0 81106
+D5
+~
+~
+4 81107 81108
+S
+#81108
+Hidden Archives~
+~
+0 1024 0
+D4
+A piece of wooden flooring.
+~
+wooden~
+4 81107 81107
+S
+#81109
+A dark dirty alley~
+~
+0 0 0
+D0
+~
+~
+0 0 81110
+D2
+~
+~
+0 0 81100
+S
+#81110
+a Dark dirty alley~
+~
+0 0 0
+D0
+~
+~
+0 0 81111
+D2
+~
+~
+0 0 81109
+S
+#81111
+enterance to the Defiled Bar.~
+~
+0 0 0
+D0
+~
+~
+0 0 81112
+D2
+~
+~
+0 0 81110
+S
+#81112
+The Delifed Bar~
+~
+0 0 0
+D1
+~
+~
+0 0 81141
+D2
+~
+~
+0 0 81111
+D5
+~
+~
+0 0 81113
+S
+#81113
+The Liquor hoard.~
+~
+0 0 0
+D4
+~
+~
+0 0 81112
+S
+#81114
+A Buisy Street~
+People rush to and from their daily errands.  Children play happily in
+the street.  To the west you can see an expanse of green grass and a tower
+rising above.  
+~
+0 0 0
+D1
+~
+~
+0 0 81115
+D3
+~
+~
+0 0 81100
+S
+#81115
+A Buisy Street.~
+People rush to and from their daily errands.  Children play happily in
+the street.  To the north an Apothicary sign hangs from the face of a
+building.  
+~
+0 0 0
+D0
+~
+~
+0 0 81132
+D1
+~
+~
+0 0 81116
+D3
+~
+~
+0 0 81114
+S
+#81116
+The Gate~
+A large black gate lays open to the east.  Beyond it the valley stretches
+for what seems like eternity.  A small path leads eastward into the valley. 
+~
+0 0 0
+D3
+~
+~
+0 0 81115
+S
+#81119
+Practice Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 81120
+D2
+~
+~
+0 0 81105
+D3
+~
+~
+0 0 81124
+S
+#81120
+edge of the garden~
+~
+0 0 0
+D0
+~
+~
+0 0 81121
+D2
+~
+~
+0 0 81119
+D3
+~
+~
+0 0 81123
+S
+#81121
+A Magnificant Rose Garden.~
+~
+0 0 0
+D2
+~
+~
+0 0 81120
+D3
+A large rose bush.
+~
+rose~
+1 0 81122
+S
+#81122
+An alcove filled with Roses.~
+~
+0 512 0
+D1
+a large rose bush.
+~
+rose~
+1 0 81121
+S
+#81123
+A small Cafe.~
+~
+0 0 0
+D1
+~
+~
+0 0 81120
+D2
+~
+~
+0 0 81124
+S
+#81124
+Battle Ground Observation stand~
+~
+0 0 0
+D0
+~
+~
+0 0 81123
+D1
+~
+~
+0 0 81119
+D5
+~
+~
+0 0 81125
+S
+#81125
+Gladiator's Domaine~
+~
+0 0 0
+D4
+~
+~
+0 0 81124
+S
+#81132
+Asuran's Apothicary~
+Potions of every color line the shelves.  A yound apperentice stands
+behind the counter nodding to himself as he adds herbs to a large cauldron. 
+A small wooden stairway leads up in the northwest corner of the room.  
+~
+0 0 0
+D2
+~
+~
+0 0 81115
+D4
+An ornate silver door.
+~
+ornate silver door~
+1 0 81133
+S
+#81133
+Asuran's Study~
+The walls are covered in acient maps from across the realm.  In the
+corner there is a desk piled high with scrolls and magic text.  Along the
+east wall is a cabinate of ingredents used to create the potions sold
+downstairs.  Along the west wall is a large fireplace with two beautiful
+couches resting before it.  A large bed along the south wall is neatly made
+covers turned back awaiting and inviting.  
+~
+0 512 0
+D5
+An ornate Silver door.
+~
+door ornate silver~
+1 0 81132
+S
+#81134
+Morduval's Armory.~
+Beautiful armor hangs from the walls each piece decorated with intricate
+patterens delicatly engraved in the gleaming metal.  Cynthia stands behind
+the desk ready to help with fittings.  A small sign tacked to the wall read
+{YRooms{x.  An oak staircase leads up from the left of the counter.  
+~
+0 0 0
+D1
+~
+~
+0 0 81102
+D4
+~
+~
+0 0 81135
+S
+#81135
+Top of the Stairs~
+A dimly lit hallway streches south.  There is a door to the north and
+another to the west.  
+~
+0 0 0
+D0
+An oak Door.
+~
+~
+1 0 81136
+D2
+~
+~
+0 0 81139
+D3
+A Oak Door.
+~
+~
+1 0 81137
+D5
+~
+~
+0 0 81134
+S
+#81136
+A Small Comfortable Room.~
+A small bed rests aginst the west wall.  A pitcher of water and an ink
+well rest on a small desk under the only window.  
+~
+0 0 0
+D2
+An Oak Door.
+~
+oak door~
+1 0 81135
+S
+#81137
+A dimmly light room.~
+A small bed rests aginst the west wall.  A pitcher of water and an ink
+well rest on a small desk under the only window.  
+~
+0 0 0
+D1
+An Oak Door.
+~
+oak door~
+1 0 81135
+S
+#81138
+a softly lit Room.~
+~
+0 0 0
+D1
+A heavy oak door.
+~
+door oak~
+1 0 81139
+S
+#81139
+A drkened Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 81135
+D2
+A reinforced oaken door leads to the south.  
+~
+oak door dragons~
+1 0 81140
+D3
+A heavy oak door.
+~
+~
+1 0 81138
+S
+#81140
+Morduval's Master Bedroom.~
+The walls of this room have been darkened by age.  A large bed occupies
+the center of the room, clothing drapped over the sides.  The windows facing
+west allow for a view of the pristine mountians of Twilight.  A large Oaken
+door adorned with many carvings of Dragons leads to the North.  
+~
+0 525828 0
+D0
+A heavy oaken door decorated with carvings of dragons leads North.  
+~
+oak door dragons~
+1 0 81139
+S
+#81141
+A dimly lit bar.~
+~
+0 0 0
+D3
+~
+~
+0 0 81112
+D4
+~
+~
+0 0 81142
+S
+#81142
+Out Look~
+~
+0 0 0
+D4
+~
+~
+0 0 81143
+D5
+~
+~
+0 0 81141
+S
+#81143
+A Velvet Room~
+~
+0 0 0
+D5
+~
+~
+0 0 81142
+S
+#81148
+Meditation Hall~
+~
+0 0 0
+D3
+~
+~
+0 0 81103
+S
+#81149
+Mindiva apothicary.~
+~
+0 0 0
+D3
+~
+~
+0 0 81102
+S
+#81150
+Musem of Warriors.~
+Marble collums stand proudly holding the statues of the acient warriors
+high into the air.  The view from the tower is breathtaking.  Mountians and
+valleys meeting at the banks of the great Redemption river, as it slowly flows
+into the city.  The statues of the great warriors stand as reminders of the
+troubled past and the power it takes to protect the innocent.  
+~
+0 0 0
+D5
+~
+~
+0 0 81100
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 81107 5 2
+D 0 81108 4 2
+D 0 81135 0 1
+D 0 81136 2 1
+D 0 81138 1 1
+D 0 81139 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

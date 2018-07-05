@@ -1,0 +1,2229 @@
+#AOD_AREA
+Castle of Madness~
+32100 32199 C 9
+Levl 50 101
+Bldr Krystona~
+End
+
+#MOBILES
+#32100
+statue~
+a statue~
+A large statue appears to be looking at you.
+~
+The statue appears to be some kind of animal.  It seems to be part cat and
+bird.
+~
+human~
+150 150 100 50 0 100 0 100 100 100 0 100 100 0 100 100 100 0 0 100 50 100 0 100 100 100 
+ABFGT FJTZ 0 0 1000
+30 0 0 215 234 1200 1200 15 30 3 pound
+-20 -20 -20 -20
+STANDING STANDING neutral 0
+0 mage large ABCDEFGHIJK
+W 2
+
+#32101
+pot-bellied stove~
+a pot-bellied stove~
+A roaring pot-bellied stove breathes fire at you!
+~
+This is one mean looking stove!
+~
+human~
+150 0 100 150 100 100 0 100 100 100 100 150 150 0 100 100 100 0 100 100 0 100 150 100 100 100 
+ABFGTV DFJLTZa 0 0 500
+32 0 0 238 257 1500 1500 16 32 6 flame
+-20 -20 -20 -10
+STANDING STANDING neutral 0
+0 mage huge ABCDEFGHIJK
+W 1
+
+#32102
+chair~
+A chair~
+A large chair is here, baring it's stuffing at you and looking altogether, unfriendly.
+~
+It looks just like a chair, minus the fact that it is moving towards you of
+it's own volition...
+~
+human~
+150 150 100 100 0 0 150 100 100 100 0 100 100 100 100 100 100 50 100 100 150 100 100 100 100 100 
+ABFGTV DFJTZa 0 0 1000
+34 0 0 267 285 1500 1500 17 34 5 smash
+-30 -30 -30 -10
+STANDING STANDING neutral 0
+0 mage large ABCDEFGHIJK
+W 2
+
+#32103
+alter~
+An alter~
+An alter begins moving slowly towards you...
+~
+It is a very nice looking alter, engraved with gold inlay, and silver
+trim...but, should it really move like that?
+~
+human~
+150 150 0 0 0 0 0 100 150 100 0 150 100 0 150 100 100 50 0 100 150 100 0 100 100 100 
+ABFGQTV DFJTZa 0 0 5000
+36 0 0 290 307 1700 1700 18 36 5 magic
+-30 -30 -30 -20
+STANDING STANDING neutral 2000
+0 mage large ABCDEFGHIJK
+W 1
+
+#32104
+wax monstrosity~
+a wax monstosity~
+A wax monstrisity is shuffling towards you!
+~
+These wax statues are all arms, legs, heads, mouths, eyes, tentacles, and
+thousands of nameless
+things...
+~
+human~
+0 150 0 0 0 50 150 100 50 100 0 150 50 0 50 100 100 50 0 100 150 100 0 100 100 100 
+ABFGRTV DFJTZa NO 0 5000
+37 0 0 289 312 2000 2000 18 37 8 slime
+-40 -40 -40 -20
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+W 2
+
+#32105
+bath towel~
+a bath towel~
+A bath towel begins to float in the air and twists while it is doing so!
+~
+These definately aren't normal bath towels!
+~
+human~
+150 50 0 0 0 50 150 100 0 100 0 150 100 0 0 100 100 50 0 100 150 100 0 100 100 100 
+ABFGTV DFJTZa 0 0 5000
+31 0 0 216 233 1200 1200 15 31 4 sting
+-20 -20 -20 -20
+STANDING STANDING neutral 0
+0 mage small ABCDEFGHIJK
+W 4
+
+#32106
+holding cell~
+A shrinking holding cell~
+The holding cell is all around you, shrinking, and CRUSHING you!
+~
+The bars are pressed in to your face and it is SQUEEZING!
+~
+human~
+100 50 0 50 0 0 50 100 0 100 0 100 50 0 0 100 100 50 0 100 50 100 0 100 100 100 
+ABCFGOQRSTUV DFJLPQTUZa BHNO 0 0
+110 0 0 9721 9815 20001 20001 55 110 28 smash
+-300 -300 -300 -100
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+W 1
+
+#32107
+woman adventurer~
+a woman~
+A woman adventurer has just broken free from her silky bonds and screams a
+warning!
+~
+She is still covered in webs, but she does her best to aid you.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGJKRTVbcd DFJZa 0 750 0
+15 0 0 93 102 400 400 1 20 8 punch
+-30 -30 -30 -30
+STANDING STANDING female 1000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#32108
+giant black widow~
+a giant black widow spider~
+A giant spider with a red hour glass on it's abdominum charges you!
+~
+This is the largest spider you have ever seen!
+~
+human~
+150 50 100 0 0 100 150 100 0 100 0 100 100 100 0 100 100 150 0 100 150 100 0 100 100 100 
+ACFGT DFJPQTZa 0 -500 0
+45 0 0 435 467 4000 4000 22 45 6 suction
+-50 -50 -50 -50
+STANDING STANDING female 2000
+0 mage giant ABCDEFGHIJK
+W 2
+
+#32109
+outcropping of rock~
+an outcropping of rock~
+You land against the outcropping of rock HARD and bounce of to hit another and
+another...
+~
+The outcropping of rock is VERY sharp...you doubt that you will live through
+the multiple impacts.
+~
+human~
+50 100 0 0 0 50 0 100 0 100 0 0 50 0 0 100 100 100 0 100 100 100 150 100 100 100 
+ABCFGOQRSTU DFJPQTZa BHNO 0 0
+110 0 0 9747 9834 30000 30000 55 110 28 thwack
+-300 -300 -300 -300
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+W 1
+
+#32110
+horde rats~
+a horde of rats~
+A horde of rats swarms forward to attack you!
+~
+Hundreds of thousands of rats swarm forward, towards you!
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFGTU DFJPQTZa BHNO 0 0
+50 0 0 569 588 6000 6000 25 50 7 bite
+-70 -70 -70 -70
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+W 1
+
+#32111
+butler~
+the butler~
+A butler stand here crying fiercly.
+~
+He looks VERY sad and distressed.
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGTVa Z 0 750 0
+20 0 0 124 133 450 450 10 20 2 punch
+10 10 10 10
+STANDING STANDING male 500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#32112
+tornado swords~
+the sword tornado~
+A huge whirlwind of spinning blades lowers towards you!
+~
+It is a huge whirlwind of spinning blades...Didn't you figure it out through
+the first two descriptions????
+~
+human~
+150 150 100 0 0 150 0 100 150 100 0 150 100 0 150 100 100 0 0 100 50 100 0 100 100 100 
+ABCFGTV DFJPQTZa BHNO 0 0
+52 0 0 617 640 7500 7500 26 52 8 slash
+-70 -70 -70 -70
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+W 1
+
+#32113
+automaton~
+an automaton~
+A humanoid figure has been stitched together and is now attacking.
+~
+He grins evilly at you.
+~
+human~
+0 50 100 100 0 100 150 100 150 100 0 100 100 0 0 100 100 50 0 100 150 100 0 100 100 100 
+ABCFGOT DFJPQTZa BHNO -750 0
+44 0 0 412 442 5000 5000 22 44 6 slime
+-50 -50 -50 -50
+STANDING STANDING male 2000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#32114
+book destruction~
+the book of untold destruction~
+A large tome begins rising into the air!
+~
+What is it with inanimate objects around here???  Don't they realize that they
+are supposed to be INANIMATE????!
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFGTV DFJTZa HNO -1000 0
+101 0 0 643 663 14000 14000 50 101 7 thwack
+-80 -80 -80 -80
+STANDING STANDING neutral 0
+0 mage small ABCDEFGHIJK
+W 1
+
+#32115
+mad alchemist~
+the mad alchemist~
+A man stands here in a labcoat muttering while mixing some liquids.
+~
+He seems quite unaware of you.
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFGOQTV DFJTZa HNO -750 0
+101 0 0 766 797 17000 17000 50 101 8 shbite
+-90 -90 -90 -90
+STANDING STANDING male 3000
+0 mage large ABCDEFGHIJK
+W 1
+
+#32116
+air elemental~
+an air elemental~
+An air elemental whirls toward you!
+~
+It is really hard to see, but it looks like a dustdevil with eyes.
+~
+human~
+100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ACFGT DFJPQTUZa BNO 0 5000
+38 0 0 316 333 2100 2100 19 38 5 sound
+-40 -40 -40 -40
+STANDING STANDING neutral 2000
+0 mage large ABCDEFGHIJK
+W 3
+
+#32117
+earth elemental~
+an earth elemental~
+An earth elemental makes a sound like stone grinding against stone and attacks!
+~
+It is a animate humanoid form made of dirt.
+~
+human~
+100 150 100 100 100 100 100 100 100 100 0 50 100 100 100 100 100 150 0 100 100 100 150 100 100 100 
+ACFGT DFJTZa NO 0 5000
+37 0 0 331 351 1700 1700 18 37 5 punch
+-40 -40 -40 -40
+STANDING STANDING neutral 2000
+0 mage large ABCDEFGHIJK
+W 3
+
+#32118
+stone golem~
+a stone golem~
+A stone golem sees you and shuffles forward to attack!
+~
+It is a humanoid construct made of solid stone and animated by fell magicks.
+~
+human~
+0 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 0 100 100 100 
+AFGT DFJTZa U 0 5000
+36 0 0 287 308 1600 1600 18 36 4 blast
+-30 -30 -30 -30
+STANDING STANDING neutral 0
+0 mage huge ABCDEFGHIJK
+W 3
+
+#32119
+imp~
+an imp~
+An imp hovers here grinning at you.
+~
+The imp is a small humanoid creature with a barbed tail and sharp horns.
+~
+modron~
+100 150 0 50 100 100 150 100 100 100 100 50 100 100 0 100 100 150 100 100 150 100 100 100 100 100 
+AFSTV DFJTUZa NO -750 5000
+35 0 0 274 294 1500 1500 17 35 4 sting
+-30 -30 -30 -30
+STANDING STANDING male 5000
+0 mage small ABCGHJK
+W 3
+
+#32120
+couatl~
+the couatl~
+A feathered serpent is hovering here.
+~
+It is small with a serpentine body and rainbow wings.
+~
+modron~
+100 100 50 50 100 100 50 100 0 100 100 100 100 100 0 100 100 150 100 100 150 100 100 100 100 100 
+AFST DFJTUZ NO 0 5000
+39 0 0 331 348 2500 2500 19 39 0 flbite
+-40 -40 -40 -40
+STANDING STANDING female 5000
+0 mage small ABCGHJK
+W 3
+#0
+
+#OBJECTS
+#32100
+steel claws~
+a pair of steel claws~
+A pair of steel claws rests here.~
+weapon ABY AN
+exotic 8 8 claw DG
+30 40 2000
+F A 0 0 LV
+A 19 5
+A 18 5
+
+#32101
+key~
+a key~
+A key lays here.~
+key SY A
+0 0 0 0 0
+30 5 4149
+
+#32102
+drawer~
+a drawer~
+A drawer in the chest-a-drawers.~
+container ST 0
+3000 AC 0 200 1
+30 5 4060
+
+#32103
+drawer~
+a drawer~
+A drawer in the chest-a-drawers.~
+container STY 0
+300 AC 0 100 1
+30 5 6176
+
+#32104
+drawer~
+a drawer~
+A drawer in the chest-a-drawers is here.~
+container STY 0
+1000 AC 0 100 1
+30 5 6012
+
+#32105
+nightie~
+a silk nightie~
+A beautiful silk nightie is neatly folded here.~
+armor AGHMOSTY AD
+7 8 8 4 0
+30 5 1000
+A 19 4
+A 18 5
+
+#32106
+bra~
+a silk bra~
+A beautiful silk bra is neatly folded here.~
+armor AGHMOSTY AK
+7 8 8 4 0
+30 5 1000
+A 12 75
+A 13 50
+
+#32107
+spiked heel shoes~
+a pair of spiked highheel shoes~
+A pair of spiked highheel shoes is here.~
+armor AGHMOSTY AG
+7 7 7 7 1
+30 5 1000
+F A 0 0 V
+A 19 4
+A 4 3
+
+#32108
+fireplace poker~
+a fireplace poker~
+A fireplace poker lies here.~
+weapon ABGTY AN
+sword 9 8 pierce A
+32 5 1200
+A 19 7
+
+#32109
+chest~
+a chest~
+A small chest sits here.~
+container TY 0
+200 ACD 0 200 1
+30 5 6302
+
+#32110
+ring~
+a small ring~
+A small ring lies here gleaming dully.~
+armor BGLMSTYZ AB
+8 8 8 8 0
+34 5 1000
+F A 0 0 BPQ
+
+#32111
+wax tentacle~
+a wax tentacle~
+A small tentacle made of wax lies here.~
+weapon GQSTY AN
+whip 9 9 poison H
+37 5 1000
+A 19 6
+A 18 6
+
+#32112
+bath towel~
+a bath towel~
+A small towel lies here.~
+weapon GQSTY AN
+exotic 9 9 sting CDE
+36 5 1200
+F A 0 0 T
+A 19 7
+
+#32113
+sword wind~
+The {WSword{x of the {wWind{0~
+A translucent blade lies here.~
+weapon BFGHOQSTYZ AN
+sword 7 8 slash BDE
+52 40 3000
+A 19 9
+A 18 4
+
+#32114
+stitches~
+magical stitches~
+Some small stitches lie here.~
+armor ABGHMOSTYZ AM
+12 12 12 8 0
+49 5 2000
+A 4 -6
+A 5 3
+A 19 9
+A 18 8
+
+#32115
+crate~
+a crate~
+A crate lies open here.~
+container STY 0
+300 0 0 50 1
+30 5 3519
+
+#32116
+beaker~
+a beaker of {ygold{x liquid~
+A beaker filled with gold liquid lies here.~
+potion BSTY AO
+60 'blindness' '' '' ''
+45 5 5000
+
+#32117
+potion blue~
+a {bblue{x potion~
+A blue potion lies here.~
+potion ASTY AO
+60 'calm' '' '' ''
+45 5 5000
+
+#32118
+green potion~
+a {ggreen{x potion~
+A green potion lies here.~
+potion G AO
+70 'earthquake' '' '' ''
+55 5 5000
+
+#32119
+the end~
+The End~
+The final page of a book lies here.~
+weapon BGSTY AN
+exotic 8 9 slash CE
+58 50 5000
+A 19 7
+A 18 6
+
+#32120
+potion attack~
+The mad alchemist's potion of attack~
+A animated potion flies through the air here attacking anything it is close to.~
+weapon STY AN
+exotic 8 8 crush BG
+62 60 3000
+F A 0 0 Vac
+A 12 150
+A 13 125
+A 19 12
+A 18 10
+
+#32121
+glowing white light~
+a {Yg{ylowin{Yg {Ww{whit{We {wlight{x~
+A {Yg{ylowin{Yg {Ww{whit{We {wlight{x~
+armor ABG AQ
+30 30 30 30 0
+101 1 100000
+A 19 30
+A 18 30
+A 13 303
+A 12 303
+A 20 -3
+
+#32122
+a brainstorm~
+a {DB{Wr{wa{DinS{Wt{wo{Drm{X~
+A {DB{Wr{wa{DinS{Wt{wo{Drm{X sits here.~
+armor CGT AE
+30 30 30 30 0
+101 20 4599
+A 13 303
+A 19 35
+A 18 35
+A 20 -3
+#0
+
+#ROOMS
+#32100
+An Entrance~
+You are standing at the entrance to a castle.  It seems to be deserted, but,
+something inside you tells you that it's not.  The walls are covered in vines
+and ivy.  The vines seem to be covering an aged worn door.
+~
+0 1
+D0
+The door is old and worn, and covered in ivy and vines.~
+door~
+0 -1 32101
+S
+
+#32101
+entry way~
+As you enter the castle you see dust and cobweb covered statues, throughout
+this large room.  As you begin to look around, you can feel eyes following your
+every move.  While looking at one of the statues, it looks like it begins to
+move.
+~
+8201 0
+D0
+~
+~
+0 -1 32102
+D2
+The door is old and worn.  You see scratch marks as if something has tried to
+claw it's way out.  You notice human bones at the foot of the door.~
+door~
+0 32101 32100
+S
+
+#32102
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32103
+D1
+~
+~
+0 -1 32123
+D2
+~
+~
+0 -1 32101
+D3
+~
+~
+0 -1 32124
+S
+
+#32103
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32104
+D1
+~
+~
+0 -1 32125
+D2
+The door is old and worn.  You see scratch marks as if something has tried to
+claw it's way out.  You notice human bones at the foot of the door.~
+door~
+0 32101 32102
+D3
+~
+~
+0 -1 32126
+S
+
+#32104
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32105
+D1
+~
+~
+0 -1 32127
+D2
+~
+~
+0 -1 32103
+D3
+~
+~
+0 -1 32128
+S
+
+#32105
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32106
+D1
+~
+~
+0 -1 32129
+D2
+The door is old and worn.  You see scratch marks as if something has tried to
+claw it's way out.  You notice human bones at the foot of the door.~
+door~
+0 32101 32104
+D3
+~
+~
+0 -1 32130
+S
+
+#32106
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32107
+D1
+~
+~
+0 -1 32131
+D2
+~
+~
+0 -1 32105
+D3
+~
+~
+0 -1 32132
+S
+
+#32107
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32108
+D1
+~
+~
+0 -1 32133
+D2
+The door is old and worn.  You see scratch marks as if something has tried to
+claw it's way out.  You notice human bones at the foot of the door.~
+door~
+0 32101 32106
+D3
+~
+~
+0 -1 32134
+S
+
+#32108
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32109
+D1
+~
+~
+0 -1 32135
+D2
+~
+~
+0 -1 32107
+D3
+~
+~
+0 -1 32136
+S
+
+#32109
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32110
+D1
+~
+~
+0 -1 32137
+D2
+The door is old and worn.  You see scratch marks as if something has tried to
+claw it's way out.  You notice human bones at the foot of the door.~
+door~
+0 32101 32108
+D3
+~
+~
+0 -1 32138
+S
+
+#32110
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32111
+D1
+~
+~
+0 -1 32139
+D2
+~
+~
+0 -1 32109
+D3
+~
+~
+0 -1 32140
+S
+
+#32111
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32112
+D1
+~
+~
+0 -1 32141
+D2
+The door is old and worn.  You see scratch marks as if something has tried to
+claw it's way out.  You notice human bones at the foot of the door.~
+door~
+0 32101 32110
+D3
+~
+~
+0 -1 32142
+S
+
+#32112
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32113
+D1
+~
+~
+0 -1 32143
+D2
+~
+~
+0 -1 32111
+D3
+~
+~
+0 -1 32144
+S
+
+#32113
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32114
+D1
+~
+~
+0 -1 32145
+D2
+The door is old and worn.  You see scratch marks as if something has tried to
+claw it's way out.  You notice human bones at the foot of the door.~
+door~
+0 32101 32112
+D3
+~
+~
+0 -1 32146
+S
+
+#32114
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32115
+D1
+~
+~
+0 -1 32147
+D2
+~
+~
+0 -1 32113
+D3
+~
+~
+0 -1 32148
+S
+
+#32115
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32116
+D1
+~
+~
+0 -1 32149
+D2
+The door is old and worn.  You see scratch marks as if something has tried to
+claw it's way out.  You notice human bones at the foot of the door.~
+door~
+0 32101 32114
+D3
+~
+~
+0 -1 32150
+S
+
+#32116
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32117
+D1
+~
+~
+0 -1 32151
+D2
+~
+~
+0 -1 32115
+D3
+~
+~
+0 -1 32152
+S
+
+#32117
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32118
+D1
+~
+~
+0 -1 32153
+D2
+The door is old and worn.  You see scratch marks as if something has tried to
+claw it's way out.  You notice human bones at the foot of the door.~
+door~
+0 32101 32116
+D3
+~
+~
+0 -1 32154
+S
+
+#32118
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32119
+D1
+~
+~
+0 -1 32155
+D2
+~
+~
+0 -1 32117
+D3
+~
+~
+0 -1 32156
+S
+
+#32119
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32120
+D1
+~
+~
+0 -1 32157
+D2
+The door is old and worn.  You see scratch marks as if something has tried to
+claw it's way out.  You notice human bones at the foot of the door.~
+door~
+0 32101 32118
+D3
+~
+~
+0 -1 32158
+S
+
+#32120
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32121
+D1
+~
+~
+0 -1 32159
+D2
+~
+~
+0 -1 32119
+D3
+~
+~
+0 -1 32160
+S
+
+#32121
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32122
+D1
+~
+~
+0 -1 32161
+D2
+The door is old and worn.  You see scratch marks as if something has tried to
+claw it's way out.  You notice human bones at the foot of the door.~
+door~
+0 32101 32120
+D3
+~
+~
+0 -1 32162
+S
+
+#32122
+a hallway~
+As you continue on, you see a hallway that looks as if it never ends.  The
+walls are lined with doors as far as the eye can see.
+~
+8201 0
+D0
+~
+~
+0 -1 32102
+D1
+~
+~
+0 -1 32163
+D2
+~
+~
+0 -1 32121
+D3
+~
+~
+0 -1 32164
+S
+
+#32123
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32102
+S
+
+#32124
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32102
+S
+
+#32125
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32103
+S
+
+#32126
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32103
+S
+
+#32127
+A bedroom ~
+This is a clean, immaculate bedroom.  A huge bed graces the room and a set of
+chest-a-drawers are set along side it.  A large mirror graces a wall.
+~
+8201 0
+D3
+~
+~
+0 -1 32104
+S
+
+#32128
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32104
+S
+
+#32129
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32105
+S
+
+#32130
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32105
+S
+
+#32131
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32106
+S
+
+#32132
+A kitchen~
+An elaborate kitchen space is here.  A large, pot-bellied, black stove is
+spouting flames towards you!  It seems to be moving towards you of it's own
+volition...
+~
+8201 0
+D1
+~
+~
+0 -1 32106
+S
+
+#32133
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32107
+S
+
+#32134
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32107
+S
+
+#32135
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32108
+S
+
+#32136
+A dining hall~
+A large table graces this room.  Dinnerware is layed out on the table and a
+scrumptious side of roast boar lays decorated with vegetables and other
+trimmings on it.  The whole place looks perfect, but then you see the
+chairs...they look less than hospitable.
+~
+8201 0
+D1
+~
+~
+0 -1 32108
+S
+
+#32137
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32109
+S
+
+#32138
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32109
+S
+
+#32139
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32110
+S
+
+#32140
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32110
+S
+
+#32141
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32111
+S
+
+#32142
+A small bedroom~
+A small bed and a chest are the only thing of notice in this room.
+~
+8201 0
+D1
+~
+~
+0 -1 32111
+S
+
+#32143
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32112
+S
+
+#32144
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32112
+S
+
+#32145
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32113
+S
+
+#32146
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32113
+S
+
+#32147
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32114
+S
+
+#32148
+A small temple~
+This is a small temple of some sort.  There are three rows of small pews and an
+altar towards where the pews are facing.  The altar is immaculately engraved
+with soft glowing runes.  They make the alter seem like it is moving....
+~
+8201 0
+D1
+~
+~
+0 -1 32114
+S
+
+#32149
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32115
+S
+
+#32150
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32115
+S
+
+#32151
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32116
+S
+
+#32152
+A museum~
+Many objects of odd and intricate design adorn this room, encased in glass
+cases.  The main thing to catch your eye is the exquisitly crafted wax statues
+of some wierd looking mostrosities.  The detail of the sculptor was such that
+they almost appear lifelike...
+~
+8201 0
+D1
+~
+~
+0 -1 32116
+S
+
+#32153
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32117
+S
+
+#32154
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32117
+S
+
+#32155
+A washroom~
+A large man-made hole filled with slimy water is in the floor of this room.
+Several bath towels lay here and there on the floor.  Out of the corner of your
+eye, you see one begin to twitch, then another, and another...something is
+definately not right in this washroom!
+~
+8201 0
+D3
+~
+~
+0 -1 32118
+S
+
+#32156
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32118
+S
+
+#32157
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32119
+S
+
+#32158
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32119
+S
+
+#32159
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32120
+S
+
+#32160
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D1
+~
+~
+0 -1 32120
+S
+
+#32161
+An empty room~
+As you enter the room you feel eyes upon you, but, you do not see anything but
+shadow.  This room appears to have been ransacked and looted.
+~
+8201 0
+D3
+~
+~
+0 -1 32121
+S
+
+#32162
+Holding cell~
+As you walk into this room, the door slams shut behind you!  Instantly, you
+realize it's dark purpose, the room begins to shrink in size with you in it!
+It's nothing but a giant death trap!!!!
+~
+13 0
+S
+
+#32163
+Stairs leading down~
+Stairs spiral down into unfathomable depths.
+~
+8201 0
+D3
+~
+~
+0 -1 32122
+D5
+~
+~
+0 -1 32165
+S
+
+#32164
+Stairs leading up~
+Stairs spiral up to the heights of the castle.
+~
+8201 0
+D1
+~
+~
+0 -1 32122
+D4
+~
+~
+0 -1 32180
+S
+
+#32165
+A wine cellar~
+You are standing admidst shelves of bottled wine, there is dust and cobwebs
+covering everything, and a faint smell of death taints the air.  You feel you
+are not alone.
+~
+8201 0
+D0
+~
+~
+0 -1 32166
+D1
+~
+~
+0 -1 32171
+D3
+~
+~
+0 -1 32170
+D4
+~
+~
+0 -1 32163
+S
+
+#32166
+Between shelves~
+You are in a narrow passage between shelves.  Bottles of wine seem to point
+accusingly at you from both sides.  There is a quick sound of movement, then it
+is gone.
+~
+8201 0
+D0
+~
+~
+0 -1 32167
+D2
+~
+~
+0 -1 32165
+S
+
+#32167
+Standing before an old iron door~
+Inset in the northern wall of the wine cellar, there is an old, rusted iron
+door.  Several large cobwebs are on either side of it and the smell of death
+seems thicker here.  A faint breeze blows by and seems to whisper your name.
+~
+8201 0
+D0
+~
+~
+0 -1 32174
+D1
+~
+~
+0 -1 32173
+D2
+~
+~
+0 -1 32166
+D3
+~
+~
+0 -1 32168
+S
+
+#32168
+The large cobweb~
+A large cobweb has been spun here in the corner of the cellar.  If it had any
+inhabitants, they are no longer around, at least you hope not...  A spider that
+would make a web like this would have to be very large.  You here another quick
+scuttle of movement behind you, but when you turn to look there is nothing
+there and it is quiet again.
+~
+8201 0
+D1
+~
+~
+0 -1 32167
+D2
+~
+~
+0 -1 32169
+S
+
+#32169
+Between shelves~
+You are in a narrow passage between shelves.  Bottles of wine seem to point
+accusingly at you from both sides.  There is a quick sound of movement, then it
+is gone.
+~
+8201 0
+D0
+~
+~
+0 -1 32168
+D2
+~
+~
+0 -1 32170
+S
+
+#32170
+An intersection of shelves~
+Several shelves meet here, each stretching into the darkness.  Several inch-
+thick strands of cobwebs dangle down from the rafters above.  You mutter a
+silent prayer that you don't have to meet the spiders that created these.
+~
+8201 0
+D0
+~
+~
+0 -1 32169
+D1
+~
+~
+0 -1 32165
+S
+
+#32171
+An intersection of shelves~
+Several shelves meet here, each stretching into the darkness.  As you begin to
+investigate the area, your toe catches on something and you trip and land face
+to face with a shriveled corpse!  It has two fang marks in it's abdominum that
+are about five inches apart and it looks as if it had it's insides sucked out!
+You begin to wonder why you are here...
+~
+8201 0
+D2
+~
+~
+0 -1 32172
+D3
+~
+~
+0 -1 32165
+S
+
+#32172
+Between shelves~
+You are in a narrow passage between shelves.  Bottles of wine seem to point
+accusingly at you from both sides.  There is a quick sound of movement, then it
+is gone.
+~
+8201 0
+D0
+~
+~
+0 -1 32171
+D2
+~
+~
+0 -1 32173
+S
+
+#32173
+A dark corner~
+Several man-sized shapes are cacooned here, a few are moving...suddenly, one
+breaks free of the cacoon, pulls the strands from around her face, and yells,
+"Lookout behind you!"  You spin around in time to see the biggest black widow
+spider that you have ever seen in your life!
+~
+8201 0
+D0
+~
+~
+0 -1 32172
+D3
+~
+~
+0 -1 32167
+S
+
+#32174
+Old stone stairs~
+Old stone stairs lead downwards into blackness.  Even your light seems to
+struggle against the oppression that seems to hang in the air.  The place reeks
+of death and decay.
+~
+8201 0
+D2
+~
+~
+0 -1 32167
+D5
+~
+~
+0 -1 32175
+S
+
+#32175
+Stairs leading down~
+The stairs continue down.  A crack in the wall catches your eye, you shine your
+light in it, but can't see anything at all... It is just wide enough for a
+large human to squeeze into..
+~
+8201 0
+D1
+~
+~
+0 -1 32176
+D4
+~
+~
+0 -1 32174
+D5
+~
+~
+0 -1 32177
+S
+
+#32176
+The bottomless pit~
+You manage to squeeze through the crack, but as you turn to shine your light
+around this place, you loose your footing and fail to catch yourself...you
+begin falling..
+
+
+                 and falling......
+
+
+                  you hit a rock cropping.....
+
+
+                    you continue falling.....
+
+             You hit another....
+
+        and continue falling....
+~
+13 0
+S
+
+#32177
+Castle Catacombs~
+The stairs finally end in a huge burial place.  The walls are lined with small
+holes filled with bodies of presumably, dead nobles.  Suddenly, rats begin
+pouring out of the burial chambers, and rush to attack you, their teeth
+gleaming in the dull light that you are producing!
+~
+8201 0
+D1
+~
+~
+0 -1 32178
+D4
+~
+~
+0 -1 32175
+S
+
+#32178
+A small, narrow hallway~
+The hallway you are in now, seems to be made of loose bricks.  You hope that
+after all these years, it still hold up, and doesn't fall in on you.
+~
+8201 0
+D1
+~
+~
+0 -1 32179
+D3
+~
+~
+0 -1 32177
+S
+
+#32179
+A mortuary~
+The narrow hallway finally ends and opens up into what appears to be an ancient
+mortuary.  A lone, huddled figure is in the corner of the room.  As you
+approach him, he seems to shrink into himself.  You reach into your travel pack
+and find an extra pie, which you offer to him...  Seeing the offering, and
+seeing no threat, he grabs the pie from you eagerly and begins devouring it.
+Between mouthfuls, he begins to tell you a sorrowful tale.  "'twas just ten
+years ago when I came to work for the alchemist."  He pauses for another bite
+of the pie and continues, "He was a kind and generous man, people came from
+miles around to purchase his magicks and his potions."  He takes the final bite
+of his pie and continues, "One day I heard a loud explosion in his laboratory,
+and I raced to see what happened.  As I entered the laboratory, I found him
+laying face down on the floor.  I turned him over and found him bleeding
+profusely from where a piece of glass was sticking out of his side.  The wound
+looked odd somehow.  It was almost, almost, glowing."  He stops speaking and
+looks at you pleadingly.  You dig around in your pack and find another pie,
+which he takes a little slower than before.  "I rushed him to his room and got
+clean water and a cloth.  I removed what glass I could find from his wound and
+cleaned it best I could.  He seemed to recover quickly, but since the accident,
+he didn't seem much like himself.  He seemed, mean."  He pauses for another
+bite of pie and continues, "One day, I entered his laboratory and found him
+cutting open our gardner.  He had all kinds of curious devices poking into her
+in just about every place you could imagine.  Days later, most of the staff was
+gone, and there were just a tiny handful of us left.  Those of us that were
+left, left the castle and warned neighboring towns.  Gradually people stopped
+coming and that just left the master and I.  I guess I was hoping that he would
+somehow become his normal self with time, but it hasn't happened.  He tried to
+capture me a couple times, but I escaped and hid down here.  I still sneak up
+to his laboratory long enough to leave some tea for him, and an occasional meal
+as I always have.  I care for the master dearly, but one day he will catch me,
+then who will bring him his meals and his tea?"  He breaks down into sobs and
+gibberish.
+~
+8201 0
+D3
+~
+~
+0 -1 32178
+S
+
+#32180
+A brightly lit corridor~
+The stairs end in a brightly lit corridor, stretching to the east and west.
+~
+8200 0
+D1
+~
+~
+0 -1 32181
+D3
+~
+~
+0 -1 32185
+D5
+~
+~
+0 -1 32164
+S
+
+#32181
+Along the brightly lit corridor~
+The corridor stretches further east.  To the north , there is an archway
+leading to a sturdy oak door.  It has an oak bar barring it closed, as if
+someone was trying to keep something in that room...
+~
+8200 0
+D0
+Thia strong, oaken door seems to be reinforced with steel crossbeams.~
+door~
+0 -1 32182
+D1
+~
+~
+0 -1 32183
+D3
+~
+~
+0 -1 32180
+E
+bar~
+This sturdy, oaken bar is about a foot thick.  As you examine it closer, you
+notice it is cracked in the center.  Whatever was hammering on this door must
+have been VERY big and VERY strong!~
+S
+
+#32182
+Slaughterhouse~
+At one time, this was the servant's quarters.  Now, it is a gruesome scene.
+There are piles of shattered bones, cleaved skulls, and bits of hair and dried
+skin everywhere.  Ages old, blood has dried on the walls, where it was
+splattered by some unseen force.  A loud whine begins to stir the air, and you
+look up just in time to see hundreds of swords, propelled by wind, moving with
+tornado-force, spinning downwards toward you.  You think you hear laughter, but
+it could just be the force of the wind in the room...or is it?
+~
+8200 0
+D2
+The door is severely cut and chipped, as if someone hacked at it with a sword
+for hours.~
+door~
+0 -1 32181
+S
+
+#32183
+End of the Hallway~
+There is a pair of steel reinforced doors here, they stand open, revealing a
+lavish bedroom.  Through the doors you see a lone figure, asleep on the bed.
+Could this be the master of the castle?
+~
+8200 0
+D0
+~
+~
+0 -1 32184
+D3
+~
+~
+0 -1 32181
+S
+
+#32184
+A lavish bedroom~
+As you enter the bedroom, a loud gong sounds, the man jumps up from the bed,
+and yells "Ah-ha!  Gotcha!"  Seeing you, he seems a bit taken back.  Then an
+evil smile crosses his face and he says, "You'll do very nicely."  Before he
+attacks, you notice that he is stitched together, and you realize you are
+fighting an automaton of some sort!
+~
+8200 0
+D2
+~
+~
+0 -1 32183
+S
+
+#32185
+A brightly lit corridor~
+The corridor continues westward.  To the south you see an archway leading into
+a darkened room, no movement is visible, and there seems to be no threat.
+~
+8200 0
+D1
+~
+~
+0 -1 32180
+D2
+~
+~
+0 -1 32186
+D3
+~
+~
+0 -1 32187
+S
+
+#32186
+A storage room~
+Crates, crates, and more crates line this room.  There is a single crate that
+lies open in the center of the room.
+~
+8201 0
+D0
+~
+~
+0 -1 32185
+S
+
+#32187
+End of the corridor~
+The corridor ends at a solid adamantine door.  It is locked and it seems barred
+from the inside.  Someone or something doesn't want anybody in here.
+~
+8200 0
+D1
+~
+~
+0 -1 32185
+D3
+This door seems impregnatable to mundane forces.~
+door~
+0 -1 32188
+S
+
+#32188
+A huge library~
+Shelves of books stretch from wall to wall in this room.  A single book lies
+twitching on the floor.  Oh no!  Not again!!!  It attacks!
+~
+8200 0
+D0
+A large bookshelf lined with books stands here...you nervously glance around at
+all the other books to see if they are moving...~
+bookshelf~
+0 -1 32189
+D1
+A steel bar stretched across the door, barring entry.~
+door~
+0 -1 32187
+S
+
+#32189
+Secret room~
+The place where the bookshelf was, is now just a plain wall with a lever
+protruding from it.  Stairs lead up to the tower of the castle.
+~
+8200 0
+D2
+This seems to be a fairly solid wall with a lever protruding from it.~
+wall~
+0 -1 32188
+D4
+~
+~
+0 -1 32190
+S
+
+#32190
+The alchemist's lab~
+Tables lined with flasks of strange liquids, empty beakers, and testtubes are
+the main sights in this room.  Books with many wonderous and dangerous
+incantations line the walls on their shelves.  A large man stands in this room,
+his brow furrowed in concentration, while he mixes some glowing liquids
+together has not yet noticed you.
+~
+8200 0
+D5
+~
+~
+0 -1 32189
+S
+#0
+
+#SPECIALS
+M 32100 spec_breath_any
+M 32101 spec_breath_fire
+M 32102 spec_cast_undead
+M 32103 spec_cast_cleric
+M 32104 spec_cast_mage
+M 32105 spec_cast_judge
+M 32106 spec_fido
+M 32107 spec_cast_mage
+M 32108 spec_poison
+M 32109 spec_fido
+M 32110 spec_fido
+M 32112 spec_executioner
+M 32113 spec_breath_acid
+M 32114 spec_breath_any
+M 32115 spec_cast_cleric
+M 32116 spec_breath_gas
+M 32117 spec_breath_acid
+M 32118 spec_breath_frost
+M 32119 spec_cast_mage
+M 32120 spec_breath_lightning
+S
+
+#RESETS
+M 100 32100 2 32101 2
+M 100 32100 2 32101 2
+E 100 32100 0 16
+M 100 32119 3 32113 3
+M 100 32119 3 32113 3
+M 100 32118 3 32115 3
+M 100 32118 3 32115 3
+M 100 32119 3 32117 3
+M 100 32117 3 32123 3
+M 100 32117 3 32123 3
+M 100 32117 3 32125 3
+O 100 32102 0 32127
+P 100 32105 4 32102 0
+P 100 32105 1 32102 0
+O 100 32103 0 32127
+P 100 32107 5 32103 0
+M 100 32116 3 32130 3
+M 100 32116 3 32130 3
+M 100 32116 3 32130 3
+M 100 32101 1 32132 1
+E 100 32108 0 16
+M 100 32120 3 32135 3
+M 100 32120 3 32135 3
+M 100 32102 2 32136 2
+M 100 32102 2 32136 2
+O 100 32109 0 32142
+P 100 32105 100 32109 0
+P 100 32106 100 32109 0
+P 100 32107 100 32109 0
+P 100 32110 100 32109 0
+P 100 32117 100 32109 0
+P 100 32118 100 32109 0
+M 100 32120 3 32144 3
+M 100 32103 1 32148 1
+M 100 32104 2 32152 2
+E 100 32111 0 16
+M 100 32104 2 32152 2
+M 100 32105 4 32155 4
+E 100 32112 0 16
+M 100 32105 4 32155 4
+M 100 32105 4 32155 4
+M 100 32105 4 32155 4
+M 100 32106 1 32162 1
+M 100 32108 2 32168 2
+M 100 32107 1 32173 1
+M 100 32108 2 32173 2
+M 100 32109 1 32176 1
+M 100 32110 1 32177 1
+M 100 32111 1 32179 1
+M 100 32112 1 32182 1
+E 100 32113 0 16
+M 100 32113 1 32184 1
+E 100 32114 0 14
+O 100 32116 0 32186
+O 100 32115 0 32186
+M 100 32114 1 32188 1
+E 100 32122 0 6
+E 100 32119 0 16
+M 100 32115 1 32190 1
+E 100 32121 0 18
+E 100 32120 0 16
+S
+
+#$

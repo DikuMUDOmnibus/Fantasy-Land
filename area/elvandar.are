@@ -1,0 +1,2182 @@
+#AREA
+ROT v2.0 format~
+elvandar.are~
+Elvandar~
+{35 45} Tomas   Elvandar~
+6700 6799
+
+#MOBILES
+#6700
+Kheinsa Queen~
+Kheinsa~
+Kheinsa, the Elven Queen, sits before you.....
+~
+Kheinsa, the Elven Queen, is dressed in smoothly flowing sapphire robes,
+accenting her crystal pale blue eyes, her glowing golden hair cascades
+lightly over her elegant facial features and rests upon her shoulders. The
+only distinction of her rank, aside from her unsurpassable beauty is a
+slender golden circlet around her ageless brow.  Centuries have come and
+passed however Kheinsa is as beautiful as when your grandfather's
+grandfather first laid eyes upon her.
+~
+elf~
+ABGQ CDJQ H 750 9800
+50 2 14d26+769 16d24+835 6d8+31 pound
+-14 -13 -15 -13
+FK ABMNPQabc B Z
+sit sit female 1000
+AHMV ABCDEFGHIJK medium 0
+#6701
+Khoteth War Leader~
+Khoteth~
+Khoteth, the Elven War Leader, stands before you.....
+~
+Khoteth, the Elven War Leader, stands before you dressed in a suit of
+pure white armor and hooded crimson cloak.  From the scabbard at his
+side hangs one of the most feared Elven Swords in the history of the
+long lived.  Khoteth has sent many of his peoples' foes to their doom.
+He stands to the rear and right of the Queen's throne, prepared to defend
+her and his peoples honor.
+~
+elf~
+ABGT CJQ 0 500 9801
+50 4 15d25+802 11d38+904 7d7+31 slash
+-16 -14 -14 -11
+CEFKR ABMNPQabc B Z
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0
+#6702
+Tagor Spell Weaver Mage~
+Tagor~
+Tagor, the Elven Spell Weaver, stands before you.....
+~
+Tagor, the ancient Elven Spell Weaver, stands before you dressed in a
+white robe with an hooded emerald cloak.  In his right hand, Tagor hold
+an ancient gnarled staff.  From the Staff you can sense an aura of wisdom
+and knowledge flowing small runes carved down its length.  Tagor, the
+oldest of the Elven Elders, serves as the Elven Court Counselor.
+~
+elf~
+ABGR CDJQ 0 500 9802
+45 3 10d36+737 7d44+589 4d12+28 pierce
+-10 -12 -12 -9
+FK ABMNPQabc B Z
+sit sit male 100
+AHMV ABCDEFGHIJK medium 0
+#6703
+Zarog High Priest~
+Zarog~
+Zarog, the Elven High Priest of Tomas, stands before you.....
+~
+Zarog, the Elven High Priest of Tomas, stands before you dressed in a
+pure white robe, black rope belt, and hooded black cloak.  From his neck
+hangs a small golden holy emblem, the symbol of his service and devotion
+to the ancient one, Tomas.  While you can feel the aura of goodness
+radiating from Zarog, you also sense that the calluses on his hands are a
+reminded of harsher times when he pledged his service with the shield
+and mace, rather than prayer.
+~
+elf~
+ABGQa CJQ N 500 9803
+45 3 5d65+687 10d35+705 4d11+27 pound
+-13 -13 -12 -9
+FK ABMNPQabc B Z
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#6704
+S'Talon Captain Guard~
+S'Talon~
+S'Talon, Captain of the Elven Guards, stands before you.....
+~
+S'Talon, Captain of the Elven Guards, stands before you in a highly
+polished steel suit of armor, hanging loosely from the scabbard is a four
+foot long Elven long sword.  S'Talon's tabard is that of a golden oak tree
+on a field of emerald.  From the look in S'Talon's eyes you can tell he is
+either a valuable friend or a fierce opponent.
+~
+elf~
+AGT JQ N 500 9804
+40 2 15d18+534 15d18+534 5d8+25 pound
+-7 -10 -11 -6
+CEFKQ ABMNPQ B Z
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0
+#6705
+Elf Guard~
+The Guard~
+One of the Elven Guards stands before you.....
+~
+The Elven Guard is dressed in the uniform of the Elven Court, an emerald
+tunic, with a golden oak tree embroidered in the upper left portion, worn
+over a suit of Elven plate mail armor, in their scabbard is a four foot long
+Elven swords which radiates a softly glowing light.  In the upper right
+portion of their white shields is a small golden oak tree, while a golden
+crown is located in the lower left field.
+~
+elf~
+ABGT J N 350 9805
+35 0 4d51+347 8d30+434 5d6+21 slash
+-8 -7 -8 -3
+EFKU ABMNPQ B Z
+stand stand either 50
+AHMV ABCDEFGHIJK medium 0
+#6706
+Warrior Elf~
+The Warrior~
+The Elven Warrior stands before you.....
+~
+The Elven Warrior is dressed in a forest green tunic, worn over a
+enameled hardwood breast plate, dark brown wool leggings, and a green
+shield with a golden oak tree painted on.  Hanging from the Warrior's
+waist is a scabbard with a four foot Elven long sword which radiates
+a golden aura.
+~
+elf~
+AGTY J 0 350 9806
+35 0 7d27+327 8d30+434 2d21+23 slash
+-6 -6 -5 -3
+EFKR AMNPQ B Z
+stand stand either 50
+AHMV ABCDEFGHIJK medium 0
+#6707
+Noble Elf~
+The Noble~
+The Elven Noble stands before you.....
+~
+The Elven Nobles are dressed in beautiful flowing emerald, crimson, and
+sapphire robes.  They appear to walk along the golden tree top paths with
+great ease despite their great height above the forest floor.
+~
+elf~
+AGT J N 350 9807
+35 0 4d51+347 13d16+389 5d7+23 slash
+-5 -5 -10 -3
+EFKU AMNPQ B Z
+stand stand either 50
+AHMV ABCDEFGHIJK medium 0
+#6708
+Tracker Elf~
+The Tracker~
+The Elven Tracker stands before you.....
+~
+The Elven Tracker is dressed in a forest green tunic, dark brown leggings,
+they carry a quiver of cloth fletched arrows with smooth wooden shafts
+over their right shoulder, and the Elven long bow in their hands radiates
+an golden aura.
+~
+elf~
+AEGTY FJ N 250 9808
+32 0 4d51+347 13d16+389 4d7+19 sting
+-6 -4 -8 1
+EFKU AMNPQ B Z
+stand stand either 50
+AHMV ABCDEFGHIJK medium 0
+#6709
+Scout~
+The Scout~
+The Elven Scout stands before you.....
+~
+The Elven Scout is dressed in a forest green tunic, and dark brown
+leggings, from their waist hangs a scabbard with a four foot long Elven
+long sword which radiates a golden aura.
+~
+elf~
+AGTY FJ N 250 9809
+37 0 13d16+389 14d17+458 2d21+24 slash
+-9 -8 -9 -2
+EFKU AMNPQ B Z
+stand stand either 50
+AHMV ABCDEFGHIJK medium 0
+#6710
+Commoner Elf~
+The Commoner~
+The Elven Commoner stands before you.....
+~
+The Elven Commoners are dressed in darker colored robes than the
+Nobles, however their robes are still elegant and finely crafted.
+~
+elf~
+AGT J N 150 9810
+32 0 12d14+307 4d51+347 3d11+19 slash
+-7 -6 -6 -2
+FK AMNPQ B Z
+stand stand either 50
+AHMV ABCDEFGHIJK medium 0
+#6711
+Dwarf Y'Aarg~
+Y'Aarg~
+Y'Aarg, Clan Chief of the Mountain Dwarves, sits before you.....
+~
+Y'Aarg is dressed in a suit of mithril silver plate armor, engraved into
+the breast plate on the upper left portion are two Dwarven hammers,
+crossed to form an 'X'.  Hanging from his belt is a War Hammer, which
+radiates a golden light.  His grey beard covers most of his facial features,
+however you detect a hint of mirth in his eyes.
+~
+dwarf~
+ABGT CJQ 0 350 9811
+43 2 13d22+561 14d21+623 4d11+27 pound
+-11 -12 -13 -6
+EFKR ABMNPQ LQYZ R
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#6712
+Jajlo' Dwarf ~
+Jajlo'~
+Jajlo', Wife of Y'Aarg, sits before you.....
+~
+Jajlo' stands before you dressed in the black flowing robes of the
+Dwarven Chief Priestess of Tomas, the Ancient One.  Hanging from the
+woven sash are the holy symbols of her Order and a Dwarven War
+Hammer.  Her auburn hair plays upon the mirth of her emerald eyes
+giving her a youthful look, despite her many centuries of age.
+~
+dwarf~
+ABGQ CJQ 0 500 9812
+41 1 14d21+623 7d44+589 5d8+25 pound
+-12 -10 -10 -6
+EFK ABMNPQ LQYZ R
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0
+#6713
+Clove Dwarf~
+Clove~
+Clove, Clan Leader of the Hill Dwarves, sits before you.....
+~
+Clove, Clan Leader of the Hill Dwarves, stands before you dressed in a
+green tunic over silver breast plate, in the upper left corner of the tunic
+is a wolves' head embroidered in golden thread.  Hanging from the
+scabbard at her side is a Dwarven short sword which radiates a golden
+aura.
+~
+dwarf~
+ABGT CJQ N 250 9813
+40 2 15d18+534 8d30+434 4d11+27 pound
+-11 -9 -8 -7
+EFK ABMNPQ LQ R
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0
+#6714
+Elf~
+The Dark Elf~
+The Dark Elf stands before you.....
+~
+The Dark Elf is dressed in their traditional garb of forest green tunic,
+dark brown leggings, and long swords.  They appear to differ from
+normal Elves due to their darker skin hue and dull look in their eyes of
+cold rage and hate.
+~
+unique~
+ABGT 0 0 -500 9814
+35 0 8d30+434 7d33+411 2d21+24 slash
+-8 -8 -9 -4
+EFKR ABM 0 NZ
+stand stand either 100
+0 0 medium 0
+#6715
+Goblin~
+The Goblin~
+The Goblin sits before you.....
+~
+The Goblin stands before you dressed in a green tunic and dark brown
+leggings.  Goblins, servants of the Dark Elves, have a green tint to their
+skin and large protruding teeth.  While capable of speech and thought,
+they are not known for their thinking abilities but rather their fierce
+fighting abilities.
+~
+goblin~
+ABCT J 0 -350 9815
+35 -1 8d30+434 13d16+389 3d12+22 pound
+-8 -7 -9 -2
+FKV AMPQ PQ CNSXY
+sit sit either 50
+AHMV ABCDEFGHIJK small 0
+#6716
+Troll~
+The Troll~
+The Troll stands before you.....
+~
+The Troll, servant of the Dark Elves, is covered with dark hair and has
+a foul odor around them.  The Trolls are neither sentient or agile enough
+to be good warriors for the Dark Elves and therefore are utilized as
+beasts of burden.
+~
+troll~
+ABGT FJc 0 -350 9816
+30 -2 11d13+254 12d14+307 5d5+18 pound
+-4 -4 -5 -2
+CDFKV AEPQ BEM HKN
+stand stand either 0
+ABHMV ABCDEFGHIJKUV medium 0
+#6717
+Bear~
+The Bear~
+The Bear stands before you.....
+~
+Dark black fur obscures all but the facial features of this massive bear,
+glowing red eyes pierce your soul as you prepare to defend your life.
+The only other feature on the bear you can see are the razor sharp
+claws reaching out towards you to tear your soul from your body.
+~
+bear~
+ABFG D 0 0 9817
+35 0 14d14+367 14d14+367 5d6+21 claw
+-7 -7 -5 -2
+CDEO ABE EI C
+rest rest male 0
+AGV ABCDEFHJKUV large 0
+#6718
+Geoffrey Stable Boy~
+Geoffrey~
+Geoffrey, the Elven Stable Boy, stands before you.....
+~
+Geoffrey the Elven Stable Boy stands before you dressed in a forest
+green tunic, dark brown leggings and leather boots.  In his right hand
+Geoffrey holds a wooden hay rake as he prepares to feed the Queen's
+Elven steeds their daily diet of hay, barley, and oats.
+~
+elf~
+ABGT J N 250 9818
+35 0 7d33+411 13d16+389 3d12+21 slash
+-6 -7 -9 -1
+EFK AMNPQ B Z
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#6719
+Stallion Horse~
+The Stallion~
+The Elven Stallion stands before you.....
+~
+You are awestruck by the sure magnificence of the Stallion, which
+traces its ancestry to the winged horses of myth and legend.  The
+Stallion appears to be encircled by a radiant aura of golden light, a
+sign of its magical and mystical origin.  On the Elven Queen or Noble
+have ever been observed mounted upon on of these great beast.
+~
+unique~
+ABG C N 350 9819
+35 0 13d16+389 7d33+411 5d7+23 charge
+-6 -6 -5 -3
+IW ABEMNPQ a 0
+stand stand male 0
+0 0 medium 0
+#6720
+Justin Merchant~
+Justin~
+Justin, the Elven Merchant stands before you.....
+~
+Justin, the Elven Merchant, is dressed in bright and colorful tunic of
+Elven weave, while he is dressed better than the Commoner, Justin's
+attire is not as regal as the Nobles.  Over his left shoulder Justin carries
+a wicker pack basket which holds the wares he is peddling through out
+Elvandar.  Type 'List' to see a sample of the wares the Merchant is
+peddling.
+~
+elf~
+AGTV DJQ 0 350 9820
+86 0 26d33+2992 25d37+3384 4d25+54 pound
+-31 -34 -34 -29
+EFK ABCD B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+#OBJECTS
+#6700
+green tunic~
+Elven Tunic~
+The Forest Green Elven Tunic rests upon the ground.....~
+cloth~
+armor U AD
+7 7 7 6 0
+35 10 0 P
+E
+elven green tunic~
+Finely crafted by the Elven Weavers, this Tunic was woven for strength
+and flexibility for the Elven Warriors and Guards, who's duty it is to
+protect Elvandar.
+~
+#6701
+elven plate~
+Elven Light Plate~
+The Elven Light Plate Armor rests upon the ground.....~
+gold~
+armor IK AD
+9 8 7 3 4
+35 200 500 P
+A
+1 1
+A
+17 -5
+E
+elven light plate~
+Finely crafted by Elven Smiths, this armor has been forged from holy fire
+to give the gold additional strength.  In the upper portion of the left side
+of the armor is engraved an oak tree, Crest of the Elven Court.
+~
+#6702
+crown~
+Golden Crown~
+The Elven Golden Crown rests upon the ground.....~
+gold~
+armor AIK AE
+10 13 9 6 0
+50 20 0 P
+A
+12 15
+A
+4 1
+A
+3 1
+E
+crown~
+The Elven Crown has graced the brow of the King and Queens of
+Elvandar since the dawn of time, forged from the purest gold and holy
+fire, the Crown is inset with precious gems and jewels.
+~
+#6703
+breast plate~
+Elven Breast Plate~
+The Golden Elven Breast Plate rest upon the ground.....~
+gold~
+armor IKL AD
+11 12 11 5 4
+50 250 1500 P
+A
+17 -10
+A
+13 15
+E
+breast plate~
+Finely crafted by Elven Smiths, the War Leader's Breast Plate has been
+forged from holy fire to give the gold additional strength.  Only the
+purest of hearts may wear the Breast Plate, and only after making an
+Oath to Tomas to protect the 'Those of the Long Life.'
+~
+#6704
+gauntlets~
+Elven Gauntlets~
+The Elven Gauntlets rest upon the ground.....~
+gold~
+armor I AH
+10 10 12 8 4
+50 20 250 P
+A
+19 1
+A
+18 1
+A
+1 1
+E
+gauntlets~
+Finely crafted by Elven Smiths, the War Leader's Gauntlets have been
+forged from holy fire to give the gold additional strength.  Only the
+purest of hearts may wear the Gauntlets, and only after making an Oath
+to Tomas to protect 'Those of the Long Life.'
+~
+#6705
+protector sword~
+The Protector~
+The Elven Protector rests upon the ground.....~
+gold~
+weapon AIK ANR
+sword 5 13 slash AI
+50 50 0 P
+A
+19 1
+A
+18 1
+E
+protector sword~
+Finely crafted by the Elven Weapons Master, the Sword of the Protector
+was forged in holy fire to give the gold additional strength.  Only the
+purest of hearts may wield the 'Protector,' and only after making an Oath
+to Tomas to protect 'Those of the Long Life.'
+~
+#6706
+oracle~
+Elven Oracle~
+The Elven Oracle floats in the air.....~
+gold~
+armor KLU AQ
+9 12 12 5 0
+45 10 0 P
+A
+12 20
+E
+oracle~
+The origin of the Oracle has been lost through the centuries of the Elven
+folk, however legend states that the Oracle was created by the first Elven
+Smith, forged in holy fire, an offering to Tomas, the Ancient One.
+~
+#6707
+hammer faith~
+Hammer of Faith~
+The Elven Hammer of Faith rests upon the ground.....~
+stone~
+weapon AIK ANR
+mace 5 11 pound I
+41 50 250 P
+A
+19 2
+A
+18 2
+E
+hammer faith~
+Finely crafted by Elven Weapon Masters, the Hammers of Faith were
+created for the Priest of Tomas to defend their faith against the heretics
+of the world.
+~
+#6708
+guard sword~
+Elven Guard's Sword~
+The Elven Guard's Sword rests upon the ground.....~
+mithril~
+weapon B ANR
+sword 5 8 slash 0
+35 50 150 P
+A
+19 1
+E
+guard sword~
+Finely crafted by the Elven Weapons Master, the Elven Guards Swords
+are forged from mithril from the mines of the Stone Dwarfs, who live in
+the mountains near Elvandar.
+~
+#6709
+noble dagger~
+Noble's Dagger~
+The Elven Noble's Dagger rests upon the ground.....~
+silver~
+armor 0 AL
+5 8 11 2 0
+35 10 0 P
+A
+13 5
+A
+12 5
+E
+noble dagger~
+Finely crafted by the Elven Smith, the Noble's Dagger fits well into the
+jeweled sheath which is attached to your belt.
+~
+#6710
+holy aura~
+Holy Aura~
+You sense a Holy Aura.....~
+nothingness~
+armor AIKLU AK
+8 8 8 6 0
+41 20 0 P
+A
+1 1
+#6711
+elven boots~
+Elven Boots~
+The Elven Boots rest upon the ground.....~
+soft leather~
+armor 0 AG
+8 8 11 4 0
+35 20 100 P
+A
+14 50
+E
+boots~
+Finely crafted by the Elven Cobblers, the Elven Boots are designed for
+stealth to be used by the Trackers searching the forests for the enemies
+of Elvandar.
+~
+#6712
+forest cloak~
+Forest Cloak~
+The Elven Forest Cloak rests upon the ground.....~
+cloth~
+armor 0 AC
+6 9 8 6 0
+37 20 0 P
+A
+0 0
+E
+forest cloak~
+Finely crafted by the Elven Weavers, the Forest Cloak serves to
+camouflage the Elven Scouts so they can observe the movements of
+their enemies within the forests.
+~
+#6713
+dwarven battle axe~
+Dwarven Battle Axe~
+The Dwarven Axe rests upon the ground.....~
+mithril~
+weapon 0 ANR
+axe 5 10 cleave D
+40 50 150 P
+A
+19 2
+E
+dwarven axe~
+Finely crafted by the Dwarven Smiths, the Clan Leader's Battle Axe is
+engraved with the Crest of each of the Clans, Stone or Hill.  There is a
+leather thong in the handle of the Battle Axe which can be used to hang
+it from your belt.
+~
+#6714
+dark sword~
+Dark Sword~
+The Dark Sword rests upon the ground.....~
+mithril~
+weapon E ANR
+sword 4 9 slash D
+30 50 100 P
+E
+dark sword~
+Finely crafted by the Dark Elves Weapon Master, the Dark Sword is the
+preferred weapon of the Dark Elves, not quite as effective as the Elven
+Swords, the Dark Sword still does a considerable amount of damage.
+~
+#6715
+wings~
+Wings~
+The Elven Wings rest upon the ground.....~
+feather~
+armor AKL AKU
+7 6 8 3 0
+35 10 250 P
+A
+2 1
+E
+wings~
+The Wings, from the Elven Stallion, are made from pure snow
+white feathers.
+~
+#6716
+bread~
+Elven Bread~
+The Elven Bread rests upon the ground.....~
+food~
+food N A
+15 25 0 0 0
+20 10 15 P
+E
+bread~
+You can feel the warmth coming from the freshly baked Elven Bread,
+made from the wild wheat which grows in the forests fields.
+~
+#6717
+elder berry wine~
+Elder Berry Wine~
+The Bottle of Elder Berry Wine rests upon the ground.....~
+glass~
+drink N A
+50 50 'elvish wine' 0 0
+20 20 35 P
+E
+elder berry wine~
+The green Elder Berry Wine sloshes from side to side in the
+clear glass bottle.
+~
+#6718
+parchment~
+Elven Parchment~
+The Elven Parchment rests upon the ground.....~
+Parchment~
+scroll GN A
+70 'invisibility' '' '' ''
+45 0 1000 P
+E
+parchment~
+The Elven Parchment has several words written on it in an ancient
+tongue, to activate the Scroll recite the words.
+~
+#6719
+vellum~
+Elven Vellum~
+The Elven Vellum Scroll rests upon the ground.....~
+vellum~
+scroll GN A
+70 'word of recall' '' '' ''
+40 0 750 P
+E
+vellum~
+The Elven Vellum has several words written on it in an ancient tongue,
+to activate the Scroll recite the words.
+~
+#6720
+throne~
+Throne~
+The Elven Throne fills the Chamber with a sense of power.....~
+gold~
+container A 0
+0 A 0 0 0
+20 10000 0 P
+E
+elven throne~
+On the forward wall of the Royal Court, the Elven Throne has been
+specifically designed by the finest artisans and craftsman of Elvandar.
+The Throne has been in the Court for thousands of years and the first
+Kings and Queens ruled from its seat of power.  Ornate carvings in the
+back and front of the Throne appear to center upon a small opening in
+the Throne's back in which a dagger can be inserted to trip a secret
+compartment.
+~
+#6721
+belt pouch~
+Elven Belt Pouch~
+The Elven Pouch rests upon the ground.....~
+cloth~
+container 0 AL
+150 0 0 50 50
+25 20 0 P
+E
+pouch~
+Crafted by the finest of Elven Weavers and Spellweavers, the Elven
+Pouch fits neatly on you belt.
+~
+#6722
+scroll elvandar map~
+Scroll Of Elvandar~
+Someone has dropped a Scroll of Elvandar.....~
+parchment~
+treasure 0 A
+0 0 0 0 0
+21 20 500 P
+E
+Tree City~
+----------}o       Tree City      o{{----------
+
+	                         Part I
+                                                            
+        Stall --- Stable --- Stall                   N
+                    |                                |
+               Spiral Stairs                     W - 0 - E
+                                                     |
+                                 Part II             S
+
+               Spiral Stairs
+                     |
+                Elven Square --- Elven Square --- Elven Square
+                     |                                 |
+                  Square -- House           House -- Square
+                     |                                 |
+                Elven Square --- Elven Square --- Elven Square
+                                     |
+                               Spiral Stairs
+
+                                 Part III
+
+                               Throne Room
+                                    |
+                               Great Hall         Temple Of Tomas
+                                    |                    |
+             Spellweavers --- Queen's Square --- Temple Atrium
+                    |               |
+              Spellweavers       Spiral Stairs
+
+----------}o                      o{{----------
+~
+E
+Scroll~
+----------}o  Scroll Of Elvandar  o{{----------
+
+              Mouth Of River
+                     |
+                Elven River
+                     |
+                Elven River
+                     |
+                River Fork
+		  /     \
+      Western Fork       Eastern Fork
+       	  |                   |
+      Elven River        Elven River
+          |                   |
+       Waterfall         Elven River
+                              |
+                         Elven River
+                              |
+                         Elven Stream
+                              |
+                         River Ford
+                              |
+                 Forest --- Forest --- Forest
+                   |          |          |
+                 Forest --- Glade ---- Forest
+                   |          |         |
+                 Forest --- Forest --- Forest
+		              |
+                           Oak Tree
+
+----------}o  Look At Tree City   o{{----------
+~
+#0
+
+#ROOMS
+#6700
+Mouth Of The River~
+This is where the Elven River flows into the Midgaard River, which
+surrounds Thera's Capital City of Midgaard.  In the distance to the
+Northeast you can see Midgaard's Wharves and Levee which extend
+out in the middle of the River.  Fishing vessels, ships of war, and 
+merchant ships can be seen just off the port side of the Levee, waiting
+their turn to unload their precious cargoes and depart upon their next
+voyage.  To the South the Elven River continues to flow on into the
+distance, towards the Tree City of Elvandar.
+~
+0 C 7
+D0
+To the North the Elven River joins the River Midgaard.
+~
+~
+0 -1 9775
+D2
+To the South the Elven River flows towards Elvandar.
+~
+~
+0 -1 6701
+S
+#6701
+Elven River~
+The crystal clear waters of the Elven River allow you to see the fish and
+various other aquatic life forms as they go about their business in the
+water's depths.  Stone ledges and out croppings on either side of the
+River prevent you from beaching your canoe and exploring the wonders
+of the Elven Forests.  Beautiful trees with leaves of gold, crimson, silver,
+and emerald appear to sway from side to side in the warm breeze, almost
+if they were alive and dancing to the forests beautiful music.  To the
+Northeast you can see the City of Midgaard, getting smaller and smaller
+in the distance as you travel to the South, to Elvandar.
+~
+0 0 7
+D0
+To the North the Elven River flows towards Midgaard.
+~
+~
+0 -1 6700
+D2
+To the South the Elven River flows towards Elvandar.
+~
+~
+0 -1 6702
+S
+#6702
+Elven River~
+The crystal clear waters of the Elven River allow you to see the fish and
+various other aquatic life forms as they go about their business in the
+water's depths.  Stone ledges and out croppings on either side of the
+River prevent you from beaching your canoe and exploring the wonders
+of the Elven Forests.  Beautiful trees with leaves of gold, crimson, silver,
+and emerald appear to sway from side to side in the warm breeze, almost
+if they were alive and dancing to the forests beautiful music.  To the
+North the you can see the City of Midgaard, getting smaller and smaller
+in the distance as you travel to the South, to Elvandar.
+~
+0 0 7
+D0
+To the North the Elven River flows towards Midgaard.
+~
+~
+0 -1 6701
+D2
+To the South the Elven River flows towards Elvandar.
+~
+~
+0 -1 6703
+S
+#6703
+Fork Of The Elven River~
+The crystal clear waters of the Elven River appear to be moving a little
+quicker at the Fork, to the West you can hear what you believe to be the
+roar of thunder, perhaps there is a storm brewing in the distance, while
+to the East the river slowly makes its winding way to the ancient City,
+and to the North the horizon of the City of Midgaard is slowly being
+consumed by the beautiful sights of the Elven Forests.  Due to the
+magical nature of the Elven Forest you are either basked in the glow of
+the warm sunshine or pale moon light, there only appears to be one
+season in the forest, that of spring.
+~
+0 0 7
+D0
+To the North the Elven River flows towards Midgaard.
+~
+~
+0 -1 6702
+D1
+~
+~
+0 0 6706
+D3
+~
+~
+0 0 6704
+S
+#6704
+Western Fork Of The Elven River~
+Having decided to take the Western Fork of the Elven River you
+maneuver your canoe towards the source of the storm, in the distance
+you can see mists rising up from rocks along the sandy beach.  The water
+appears to be moving quite quickly almost as if something was reaching
+out and pulling it from the River and taking it someplace.  You decide
+to beach your canoe on the banks of the River while you decide which
+way you shall proceed, towards the source of thunder, into the path of
+danger, or back towards the East, towards the calm quiet of the River.
+~
+0 0 7
+D1
+~
+~
+0 0 6703
+D2
+To the South the Elven River flows towards into the unknown.
+~
+~
+0 -1 6705
+S
+#6705
+Elven River~
+Finally you have reached the source of the thunderous noise, which
+sounded like a storm in the distance but in reality is the rush of crystal
+clear water cascading over a stone ledge, down hundreds of feet, to
+crash upon the rocks below creating the legendary Elven mists.  The
+waters of the River begin pulling your canoe quickly towards your
+impending fate.  With all your strength you put your back into the paddle
+and push off towards the East and calmer waters.  On the shores
+you can see the crafts of more unfortunate adventurers littering the
+banks, several appear to have large holes tore into the keel by the jagged
+edges of rocks just below the surface.
+~
+0 0 7
+D0
+To the North the Elven River flows into the unknown.
+~
+~
+0 -1 6704
+D2
+To the South the Elven River flows into the unknown.
+~
+~
+0 -1 6711
+S
+#6706
+Eastern Fork Of The Elven River~
+The crystal clear waters of the Elven River allow you to see the fish and
+other aquatic life forms as they go about their business in the water's
+depths.  To the West you can see the Fork of the Elven River, at which
+point the two halves of the River join together and continue to flow
+North towards the City of Midgaard.  To the South the River continues
+to flow in a peaceful fashion, taking you slowly but surely to the
+Elven City.
+~
+0 0 7
+D2
+To the South the Elven River flows towards Elvandar.
+~
+~
+0 -1 6707
+D3
+To the West the Elven River flows towards Midgaard.
+~
+~
+0 -1 6703
+S
+#6707
+Elven River~
+The crystal clear waters of the Elven River allow you to see the fish and
+other aquatic life forms as they go about their business in the water's
+depths.  To the North the River fills your vision in a beautiful horizon
+of glittering golden, silver, and crimson leaves dancing in the warm
+breezes.  To the East, the River continues to flow on towards the Elven
+City, as you squint into the bright sunlight you think you can make out the
+shapes and images of the Elven Forests, sacred land of the 'Long Lived.'
+~
+0 0 7
+D0
+To the North the Elven River flows towards Midgaard.
+~
+~
+0 -1 6706
+D1
+To the East the Elven River flows towards Elvandar.
+~
+~
+0 -1 6708
+S
+#6708
+Elven River~
+The crystal clear waters of the Elven River allow you to see the fish and
+other aquatic life forms as they go about their business in the water's
+depths.  To the West the River fills your vision in a beautiful horizon of
+glittering golden, silver, and crimson leaves dancing in the warm breezes.
+To the South, the River continues to flow on towards the Elven City, as
+you squint into the bright sunlight you can make out the shapes and
+images of the Elven Forests, sacred land of the 'Long Lived.'
+~
+0 0 7
+D2
+To the South the Elven River flows towards Elvandar.
+~
+~
+0 -1 6709
+D3
+~
+~
+0 0 6707
+S
+#6709
+Elven Stream~
+The Elven River appears to dwindle in its volume of water as the banks
+of the Forests slowly begin to creep back in and take control of the
+scenery.  The crystal clear waters are getting shallow, however you can
+still see the fish and various other life forms going about their business
+in the water's depths.  To the North, the Elven River appears to expand
+and fill your vision in a beautiful horizon of glittering golden, silver, and
+crimson leaves dancing in the warm breezes.  To the South, the Stream
+continues towards a stone ledge which extends over and above the
+Stream, the entrance to the Elven Forest, and gateway to the City beyond.
+~
+0 0 7
+D0
+To the North the Elven River flows towards Midgaard.
+~
+~
+0 -1 6708
+D2
+To the South the Elven River flows towards Elvandar.
+~
+~
+0 -1 6710
+S
+#6710
+Ford Of The Stream~
+The Elven River appears to dwindle in its volume of water, yet again, as
+the banks of the Forests creep back in and take control of the scenery.
+The crystal clear waters are extremely shallow, however you can still see
+the smooth pebbles and colorful rocks on the water's bottom.  From
+this point on you must abandon the River and set forth on foot, through
+the Elven Forests to the City of Elvandar.  Next to the Elven Brook,
+which continues on towards the South, there are several small animal
+paths, barely noticeable, on the soft carpet of green.  To the North, the
+Elven River appears to expand and flow towards the Capital City of
+Midgaard.
+~
+0 C 7
+D0
+To the North the Elven River flows towards Midgaard.
+~
+~
+0 -1 6709
+D2
+To the South the Elven River flows towards the Elven Forest.
+~
+~
+0 -1 6713
+S
+#6711
+Elven Waterfall~
+The sounds of the crystal clear waters of the Elven River cascading over
+the ledge are almost deafening, you being to wonder if this journey will
+mark your final upon the lands. In the distance, at the base of the Water
+Fall you can see your impending doom, the sharp and jagged rocks which
+break the waters and casts up the mists. Perhaps now you should not
+have chosen the road not traveled, and proceeded to the East, towards
+the City of Elvandar, since you can not fight the rushing waters and your
+demise appears inevitable.  You let out one last shout of courage as you
+sink below the waters cold embrace.
+~
+0 CW 7
+S
+#6712
+Elven Forest~
+Massive and ancient oak trees tower above you as you stand on the lush
+green carpet of the Elven Forest, leaves of gold, silver, crimson, and
+emerald sway to and fro in the warm breezes, dancing to a music you
+can not hear. You have never seen such an assortment of trees, beasts,
+birds, and all sorts of creatures in a forest, that's because the Elven
+Forest is alive with the power of magic.  Centuries upon centuries, the
+Elven Spellweavers have fashioned the Elven Forest to what you see
+before you, a vision of beauty and delight.  From this point you may
+continue on to the South and West, deeper into the Forest.
+~
+0 0 3
+D2
+The Elven Forest extends to the South.
+~
+~
+0 -1 6715
+D3
+The Elven Forest extends to the West.
+~
+~
+0 -1 6713
+S
+#6713
+Elven Forest~
+Two ancient and massive oak trees appear to bend over the path, their
+branches and leaves inter-twining above your heads, forming an arch
+signifying the entrance to the Elven Forest.  You have never seen such
+an assortment of trees, beasts, birds, and all sorts of creatures in a forest,
+that's because the Elven Forest is alive with the power of magic.
+Centuries upon centuries, the Elven Spellweavers have fashioned the
+Elven Forest to what you see before you, a vision of beauty and delight.
+>From this point you may continue South, to the Elven River, North, East,
+or West, deeper into the Forest.
+~
+0 0 2
+D0
+To the North the Elven River flows towards Midgaard.
+~
+~
+0 -1 6710
+D1
+The Elven Forest extends to the East.
+~
+~
+0 -1 6712
+D2
+~
+~
+0 0 6716
+D3
+The Elven Forest extends to the West.
+~
+~
+0 -1 6714
+S
+#6714
+Elven Forest~
+Massive and ancient oak trees tower above you as you stand on the lush
+green carpet of the Elven Forest, leaves of gold, silver, crimson, and
+emerald sway to and fro in the warm breezes, dancing to a music you
+can not hear.  You have never seen such an assortment of trees, beasts,
+birds, and all sorts of creatures in a forest, that's because the Elven
+Forest is alive with the power of magic.  Centuries upon centuries, the
+Elven Spellweavers have fashioned the Elven Forest to what you see
+before you, a vision of beauty and delight.  From this point you may
+continue on to the South and East, deeper into the Forest.
+~
+0 0 3
+D1
+The Elven Forest extends to the East.
+~
+~
+0 -1 6713
+D2
+The Elven Forest extends to the South.
+~
+~
+0 -1 6717
+S
+#6715
+Elven Forest~
+Massive and ancient oak trees tower above you as you stand on the lush
+green carpet of the Elven Forest, leaves of gold, silver, crimson, and
+emerald sway to and fro in the warm breezes, dancing to a music you can
+not hear.  You have never seen such an assortment of trees, beasts, birds,
+and all sorts of creatures in a forest, that's because the Elven Forest is
+alive with the power of magic.  Centuries upon centuries, the Elven
+Spellweavers have fashioned the Elven Forest into what you see before you,
+a vision of delight.  From this point you may continue on to the North,
+East, South, or West, deeper into the Forest.
+~
+0 0 3
+D0
+The Elven Forest extends to the North.
+~
+~
+0 -1 6712
+D1
+The Elven Forest extends on into the unknown.
+~
+~
+0 -1 6721
+D2
+The Elven Forest extends to the South.
+~
+~
+0 -1 6718
+D3
+The Elven Forest extends to the West.
+~
+~
+0 -1 6716
+S
+#6716
+Sacred Elven Glade~
+Special attention has been placed upon the Sacred Glade by the
+Spellweavers, this is the nexus of magic which keeps the Forest alive and
+healthy.  In the center of the Sacred Glade there are seven ancient oak
+trees representing Truth, Justice, Honor, Loyalty, Courage, Reverence,
+and Knowledge which form the Circle of Light.  Protective wards have
+been put into place to make sure that no one may defile the sanctity of
+this place with violence.  The Elven Brook flows from a small spring in
+the center of the Circle.  From this point you may continue North, East,
+South, West, deeper into the Elven Forest.
+~
+0 CK 3
+D0
+~
+~
+0 0 6713
+D1
+The Elven Forest extends to the East.
+~
+~
+0 -1 6715
+D2
+The Elven Forest extends to the South.
+~
+~
+0 -1 6719
+D3
+The Elven Forest extends to the West.
+~
+~
+0 -1 6717
+S
+#6717
+Elven Forest~
+Massive and ancient oak trees tower above you as you stand on the lush
+green carpet of the Elven Forest, leaves of gold, silver, crimson, and
+emerald sway to and fro in the warm breezes, dancing to a music you can
+not hear.  You have never seen such an assortment of trees, beasts, birds,
+and all sorts of creatures in a forest, that's because the Elven Forest is
+alive with the power of magic.  Centuries upon centuries, the Elven
+Spellweavers have fashioned the Elven Forest to what you see before you,
+a vision of beauty and delight.  From this point you may continue on
+North, East, South, or West, deeper into the Forest.
+~
+0 CK 3
+D0
+The Elven Forest extends to the North.
+~
+~
+0 -1 6714
+D1
+The Elven Forest extends to the East.
+~
+~
+0 -1 6716
+D2
+The Elven Forest extends to the South.
+~
+~
+0 -1 6720
+D3
+The Elven Forest extends on into the unknown.
+~
+~
+0 -1 6722
+S
+#6718
+Elven Forest~
+Massive and ancient oak trees tower above you as you stand on the lush
+green carpet of the Elven Forest, leaves of gold, silver, crimson, and
+emerald sway to and fro in the warm breezes, dancing to a music you
+can not hear.  You have never seen such an assortment of trees, beasts,
+birds, and all sorts of creatures in a forest, that's because the Elven
+Forest is alive with the power of magic.  Centuries upon centuries, the
+Elven Spellweavers have fashioned the Elven Forest to what you see
+before you, a vision of beauty and delight.  From this point you may
+continue on to the North and West, deeper into the Forest.
+~
+0 0 3
+D0
+The Elven Forest extends to the North.
+~
+~
+0 -1 6715
+D3
+The Elven Forest extends to the West.
+~
+~
+0 -1 6719
+S
+#6719
+Elven Forest~
+Two ancient and massive oak trees appear to bend over the path, the
+branches and leaves inter-twining above your heads, forming an arch
+signifying the entrance to the City of Elvandar.  You have never seen
+such an assortment of trees, beasts, birds, and all sorts of creatures in
+a forest, that's because the Elven Forest is alive with the power of magic.
+Centuries upon centuries, the Elven Spellweavers have fashioned the
+Elven Forest to what you see before you a vision of beauty and
+delight.  From this point you may continue on to the North and the City
+of Elvandar, East, South, or West, deeper into the Forest.
+~
+0 0 3
+D0
+The Elven Forest extends to the North.
+~
+~
+0 -1 6716
+D1
+The Elven Forest extends to the East.
+~
+~
+0 -1 6718
+D2
+~
+~
+0 0 6723
+D3
+The Elven Forest extends to the West.
+~
+~
+0 -1 6720
+S
+#6720
+Elven Forest~
+Massive and ancient oak trees tower above you as you stand on the lush
+green carpet of the Elven Forest, leaves of gold, silver, crimson, and
+emerald sway to and fro in the warm breezes, dancing to a music you
+can not hear.  You have never seen such an assortment of trees, beasts,
+birds, and all sorts of creatures in a forest, that's because the Elven
+Forest is alive with the power of magic.  Centuries upon centuries, the
+Elven Spellweavers have fashioned the Elven Forest to what you see
+before you, a vision of beauty and delight.  From this point you may
+continue on to the North and East, deeper into the Forest.
+~
+0 0 3
+D0
+The Elven Forest extends to the North.
+~
+~
+0 -1 6717
+D1
+The Elven Forest extends to the East.
+~
+~
+0 -1 6719
+S
+#6721
+Cave In The Elven Forest~
+The rough surface walls of the Cave appear to have been more man-made
+quality rather than a natural one, in fact this cave and the extending
+tunnels are all that are left of what once used to be prosperous Dwarven
+silver, gold, and iron ore mines.  You laugh to yourself as you ponder the
+ironic subtleties of the mine, namely the fact that you have to crouch to
+stand, after all the Dwarven folk are not as tall as the average Elf,
+therefore why would they make the mine taller than necessary.  The other
+tunnels which extend from the main Cave are too small for you to navigate
+freely and the support beams have weakened with age and rot, therefore
+you return to the Forest to the East.
+~
+0 0 3
+D3
+The Elven Forest extends to the West.
+~
+~
+0 -1 6715
+S
+#6722
+Dark Elf's Camp~
+The small fire in the center of the Camp casts evil little shadows upon
+the rock out cropping, which partially conceals the Dark Elf war party.
+Distant Cousins of the Forest Elves, they possess some of the same
+qualities of the Forest Elves.  However to confuse them would be an
+insult you might not survive to regret.  You can make out at least two
+tents, which means there are probably at least three Dark Elves or their
+minions.  While you are at an advantage due to being on higher ground
+you can not see into the camp clearly due to the glowing embers of the
+fire.  From this point you may continue East, deeper into the Forest.
+~
+0 A 0
+D1
+The Elven Forest extends to the East.
+~
+~
+0 -1 6717
+S
+#6723
+Massive Oak~
+The lush green carpet of the Elven Forest is adorned with golden, silver,
+crimson, and emerald leaves from the Massive Oak, you think to
+yourself that it is odd that one tree can have such an assortment of
+colours on its leaves, however you realize that this is no ordinary Oak,
+rather the entrance to the mythical City of Elvandar, heart of the Elven
+Forest.  Upon closer examination of the Oak, you can make out small
+steps carved into its girth, winding their way to the West, just as the sun,
+towards the Tree Top City.  From this point you may go North, towards
+Elvandar, or South, deeper into the Elven Forest.
+~
+0 0 3
+D0
+~
+~
+0 0 6719
+D2
+~
+~
+0 0 6724
+S
+#6724
+Spiral Stairs~
+From East to West, just as the rising and setting motion of the sun, the
+Spiral Stairs wind to and fro the Tree Top City of Elvandar and the
+Elven Forest.  While you attempt to suppress the urge to look down,
+you feel your heart rising higher in higher in your throat with pure
+exhilaration.  In the distance you can barely make out the features of
+the City above or the Forest beneath. The steps of the Spiral Stairs
+have been carefully carved into the side of the massive oak, with a
+great deal of care and detail to make sure the Oak is not harmed.
+From this point you may continue to the East, to the Tree Top City,
+or North, to the Elven Forest.
+~
+0 CD 0
+D0
+~
+~
+0 0 6723
+D1
+The Spiral Stairs ascend to the East.
+~
+~
+0 -1 6725
+S
+#6725
+Spiral Stairs~
+From East to West, just as the rising and setting motion of the sun, the
+Spiral Stairs wind to and fro the Tree Top City of Elvandar and the
+Elven Forest.  While you attempt to suppress the urge to look down,
+you feel your heart rising higher and higher in your throat with pure
+exhilaration.  In the distance you can barely make out the features of
+the City above or the Forest beneath.  The steps of the Spiral Stairs
+have been carefully carved into the side of the massive oak, with a
+great deal of care and detail to make sure the Oak is not harmed.
+From this point you may continue to the East, to the Tree Top City,
+or West, to the Elven Forest.
+~
+0 D 0
+D1
+The Spiral Stairs ascend to the East.
+~
+~
+0 -1 6726
+D3
+The Spiral Stairs descend to the West.
+~
+~
+0 -1 6724
+S
+#6726
+Spiral Stairs~
+From East to West, just as the rising and setting motion of the sun, the
+Spiral Stairs wind to and fro the Tree Top City of Elvandar and the
+Elven Forest.  While you attempt to suppress the urge to look down,
+you feel your heart rising higher and higher in your throat with pure
+exhilaration.  In the distance you can barely make out the features of
+the City above or the Forest beneath. The steps of the Spiral Stairs
+have been carefully carved into the side of the massive oak, with a
+great deal of care and detail to make sure the Oak is not harmed.
+From this point you may enter the Stables, continue to the East,
+to the Tree Top City, or West, to the Elven Forest.
+~
+0 D 0
+D0
+~
+stable~
+A 0 6732
+D1
+The Spiral Stairs ascend to the East.
+~
+~
+0 -1 6727
+D3
+The Spiral Stairs descend to the West.
+~
+~
+0 -1 6725
+S
+#6727
+Spiral Stairs~
+From East to West, just as the rising and setting motion of the sun, the
+Spiral Stairs wind to and from the Tree Top City of Elvandar and the
+Elven Forest.  While you attempt to suppress the urge to look down,
+you feel your heart rising higher and higher in your throat with pure
+exhilaration.  In the distance you can barely make out the features of the
+City above or the Forest beneath.  The steps of the Spiral Staircase have
+been carefully carved into the side of the massive oak, with a great deal
+of care and detail to make sure the Oak is not harmed.  From this point
+you may continue to the East, to the Tree Top City, or West, to the
+Elven Forest.
+~
+0 D 0
+D1
+The Spiral Stairs ascend to the East.
+~
+~
+0 -1 6728
+D3
+The Spiral Stairs descend to the West.
+~
+~
+0 -1 6726
+S
+#6728
+Spiral Stairs~
+From East to West, just as the rising and setting motion of the sun, the
+Spiral Stairs wind to and fro the Tree Top City of Elvandar and the
+Elven Forest.  While you attempt to suppress the urge to look down,
+you feel your heart rising higher and higher in your throat with pure
+exhilaration.  In the distance you can barely make out the features of
+the City above or the Forest beneath.  The steps of the Spiral Stairs
+have been carefully carved into the side of the massive oak, with a
+great deal of care and detail to make sure the Oak is not harmed.
+From this point you may continue to the East, to the Tree Top City, or
+West, to the Elven Forest.
+~
+0 D 0
+D1
+The Spiral Stairs ascend to the East.
+~
+~
+0 -1 6729
+D3
+The Spiral Stairs descend to the West.
+~
+~
+0 -1 6727
+S
+#6729
+Spiral Stairs~
+From East to West, just as the rising and setting motion of the sun, the
+Spiral Stairs wind to and fro the Tree Top City of Elvandar and the
+Elven Forest.  While you attempt to suppress the urge to look down, you
+feel your heart rising higher and higher in your throat with pure
+exhilaration.  In the distance you can barely make out the features of the
+City above or the Forest beneath.  The steps of the Spiral Stairs have been
+carefully carved into the side of the massive Oak, with a great deal of
+care and detail to make sure the Oak is not harmed.  From this point you
+may continue North, to the Tree Top City, or West, to the
+Elven Forest.
+~
+0 CD 0
+D0
+The Spiral Stairs lead into the Elven Square.
+~
+~
+0 -1 6735
+D3
+The Spiral Stairs descend to the West.
+~
+~
+0 -1 6728
+S
+#6730
+Spiral Stairs~
+From East to West, just as the rising and setting motion of the sun, the
+Spiral Stairs wind to and fro the Tree Top City of Elvandar and the Elven
+Forest.  While you attempt to suppress the urge to look down, you feel
+your heart rising higher and higher in your throat with pure exhilaration.
+In the distance you can barely make out the features of the City above or
+the Forest beneath.  The steps of the Spiral Stairs have been carefully
+carved into the side of the massive oak, with a great deal of care and
+detail to make sure the Oak is not harmed.  From this point you may
+continue North, East, to the Tree Tops, or South to the Elven Forest.
+~
+0 D 0
+D0
+~
+~
+0 0 6745
+D1
+The Spiral Stairs ascend to the East.
+~
+Wooden Door~
+0 -1 6731
+D2
+~
+~
+0 0 6741
+S
+#6731
+Heights Of Elvandar~
+To the West are the Spiral Stairs, winding from East to West, just as the
+rising and setting motion of the sun, which connect the Tree Top City of
+Elvandar and the Elven Forest.  While you suppress the urge to look
+down, you feel your heart rising higher and higher in your throat with pure
+exhilaration.  From the Heights of Elvandar you can barely make out the
+features of the Tree Top City and Elven Forest beneath.  You may look
+out upon the magical lands and see dragons engaged in mortal combat
+in the skies to the North.  From this point you may continue to the West,
+to the City of Elvandar and the Elven Forest below.
+~
+0 C 1
+D3
+The Spiral Stairs descend to the West.
+~
+Wooden Door~
+A -1 6730
+S
+#6732
+Elven Stables~
+The walls of the Elven Stables have been carved directly into the middle
+of the ancient Oak and sealed with healing energies to make sure that the
+Oak remains alive and healthy.  There are several wooden pegs on the
+Northern wall for the Stable Boy to hang up the Elven Stallion's golden
+bit and bridle.  The Stallions are rare indeed, not only do they possess the
+ability to fly, but only a dozen or more are known to be in existence to
+this day  Only one of the Royal Court may command the Stallions and
+as such they are rarely seen outside of Elvandar.  From this point you
+may go to the South to the Spiral Stairs, or East and West into the Stalls.
+~
+0 D 0
+D1
+The Gate lies to the East.
+~
+gate~
+A -1 6733
+D2
+~
+stable~
+A 0 6726
+D3
+The Gate lies to the West.
+~
+~
+0 -1 6734
+S
+#6733
+Elven Stallion's Stall~
+The walls of the Elven Stallions Stall have been carved directly into the
+middle of the ancient Oak and sealed with healing energies to make sure
+that the Oak remains alive and healthy.  On the Eastern wall there are
+several sacks of Elven Wheat for the Stallions to eat and fresh sweet hay
+or them to rest upon.  The Stallions are looked after with the greatest
+of detail since they are free beasts and choose to remain in the magical
+forest and serve the Royal Court by their own choice.  From this point
+you may go to the West, into the Stables.
+~
+0 D 0
+D3
+The Gate lies to the West.
+~
+Gate~
+A -1 6732
+S
+#6734
+Elven Mare's Stall~
+The walls of the Elven Mare's Stall have been carved directly into the
+middle of the ancient Oak and sealed with healing energies to make sure
+that the Oak remains alive and healthy.  On the Western wall there are
+several sacks of Elven Oats for the Mares to eat and fresh sweet hay
+for them to rest upon.  The Mares are looked after with the greatest
+of detail since they are free beasts and choose to remain in the magical
+forest and serve the Royal Court by their own choice.  From this point
+you may go to the West, into the Stables.
+~
+0 D 0
+D1
+The Gate lies to the East.
+~
+Gate~
+A -1 6732
+S
+#6735
+Elven Square~
+The paths of the Elven Square are made from Oak branches which
+inter-twine together to form wide paths that are easily navigated by the
+Elven folk, however people who are Guests of the Elves are often
+quite terrified of the heights they have negotiated.  In the center of the
+Square, which commonly occupied by a magnificent fountain in a Human
+city, the Elves have bound several branches to form a canopy from the
+sun's warmth, however you can look through the center of the Square
+and barely make out the features of the Forest beneath.  From this point
+you may go East or West, upon the Elven Paths, or South, onto the
+Spiral Stairs.
+~
+0 D 0
+D1
+~
+~
+0 0 6737
+D2
+To the South leads to the Spiral Stairs.
+~
+~
+0 -1 6729
+D3
+~
+~
+0 0 6736
+S
+#6736
+Elven Square~
+The paths of the Elven Square are made from Oak branches which
+inter-twine together to form wide paths that are easily navigated by the
+Elven folk, however people who are the Guests of the Elves are often
+quite terrified of the heights they have negotiated.  In the center of the
+Square, which is commonly occupied by a magnificent fountain in a
+Human city, the Elves have bound several branches to form a canopy
+from the sun's warmth, however you can look through the center of the
+Square and barely make out the features of the Forest beneath.  From
+this point you may go North or East, upon the Elven Paths.
+~
+0 D 0
+D0
+The Elven Square continues to the North.
+~
+~
+0 -1 6738
+D1
+~
+~
+0 0 6735
+S
+#6737
+Elven Square~
+The paths of the Elven Square are made from Oak branches which
+inter-twine together to form wide paths that are easily navigated by the
+Elven folk, however people who are the Guests of the Elves are often
+quite terrified of the heights they have negotiated.  In the center of the
+Square, which is commonly occupied by a magnificent fountain in a
+Human city, the Elves have bound several branches to form a canopy
+from the sun's warmth, however you can look through the center of the
+Square and barely make out the features of the Forest beneath.  From
+this point you may go North or West, upon the Elven Paths.
+~
+0 D 0
+D0
+The Elven Square continues to the North.
+~
+~
+0 -1 6739
+D3
+~
+~
+0 0 6735
+S
+#6738
+Elven Square~
+The paths of the Elven Square are made from Oak branches which
+inter-twine together to form wide paths that are easily navigated by the
+Elven folk, however people who are the Guests of the Elves are often
+quite terrified of the heights they have negotiated.  In the center of the
+Square, which is commonly occupied by a magnificent fountain in a
+Human city, the Elves have bound several branches to form a canopy
+from the sun's warmth, however you can look through the center of the
+Square and barely make out the features of the Forest beneath.  From
+this point you may go West, or North and South upon the Elven Paths.
+~
+0 D 0
+D0
+The Elven Square continues to the North.
+~
+~
+0 -1 6740
+D2
+The Elven Square continues to the South.
+~
+~
+0 -1 6736
+D3
+The doors to the Commoner's House lies to the West.
+~
+Commoner's Door~
+A -1 6743
+S
+#6739
+Elven Square~
+The paths of the Elven Square are made from Oak branches which
+inter-twine together to form wide paths that are easily navigated by the
+Elven folk, however people who are the Guests of the Elves are often
+quite terrified of the heights they have negotiated.  In the center of the
+Square, which is commonly occupied by a magnificent fountain in a
+Human city, the Elves have bound several branches to form a canopy
+from the sun's warmth, however you can look through the center of the
+Square and barely make out the features of the Forest beneath.  From
+this point you may go East, or North and South upon the Elven Paths.
+~
+0 D 0
+D0
+The Elven Square continues to the North.
+~
+~
+0 -1 6742
+D1
+The doors to the Noble's Mansion lies to the East.
+~
+Noble's Door~
+A -1 6744
+D2
+The Elven Square continues to the South.
+~
+~
+0 -1 6737
+S
+#6740
+Elven Square~
+The paths of the Elven Square are made from Oak branches which
+inter-twine together to form wide paths that are easily navigated by the
+Elven folk, however people who are the Guests of the Elves are often
+quite terrified of the heights they have negotiated.  In the center of the
+Square, which is commonly occupied by a magnificent fountain in a
+Human city, the Elves have bound several branches to form a canopy
+from the sun's warmth, however you can look through the center of the
+Square and barely make out the features of the Forest beneath.  From
+this point you may go South or East on the Elven Paths.
+~
+0 D 0
+D1
+~
+~
+0 0 6741
+D2
+The Elven Square continues to the South.
+~
+~
+0 -1 6738
+S
+#6741
+Elven Square~
+The paths of the Elven Square are made from Oak branches which
+inter-twine together to form wide paths that are easily navigated by
+the Elven folk, however people who are the Guests of the Elves are
+often quite terrified of the heights they have negotiated.  In the center
+of the Square, which is commonly occupied by a magnificent fountain
+in a Human city, the Elves have bound several branches to form a
+canopy from the sun's warmth, however you can look through the
+center of the Square and barely make out the features of the Forest
+beneath.  From this point you may go North, or East and West on the
+Elven Paths.
+~
+0 D 0
+D0
+~
+~
+0 0 6730
+D1
+The Elven Square continues to the East.
+~
+~
+0 -1 6742
+D3
+~
+~
+0 0 6740
+S
+#6742
+Elven Square~
+The paths of the Elven Square are made from Oak branches which
+inter-twine together to form wide paths that are easily navigated by
+the Elven folk, however people who are the Guests of the Elves are
+often quite terrified of the heights they have negotiated.  In the center
+of the Square, which is commonly occupied by a magnificent fountain
+in a Human city, the Elves have bound several branches to form a
+canopy from the sun's warmth, however you can look through the
+center of the Square and barely make out the features of the Forest
+beneath.  From this point you may go South or West, upon the Elven
+Paths.
+~
+0 D 0
+D2
+The Elven Square continues to the South.
+~
+~
+0 -1 6739
+D3
+The Elven Square continues to the West.
+~
+~
+0 -1 6741
+S
+#6743
+Commoner's House~
+The walls of the Commoner's House have been carved directly into the
+middle the ancient Oak and sealed with healing energies to make sure
+that the Oak remains alive and healthy.  On the Eastern walls there are
+several beautiful paintings of ancient Warriors, forgotten wars, and
+ancestors who have passed on to the 'Blessed Isles.' The House, while
+warm and comfortable, lacks the elaborate decor that you would have
+expected of an Elf.  To the North there is a wooden door which leads
+to the sleeping chambers.  From this point you may go East, upon
+the Elven Paths.
+~
+0 D 0
+D1
+The doors to the Commoner's House lies to the East.
+~
+Commoner's House~
+A -1 6738
+S
+#6744
+Noble's Mansion~
+The walls of the Noble's Mansion have been carved directly into the
+middle of the ancient Oak and sealed with healing energies to make
+sure that the Oak remains alive and healthy.  On the Northern and 
+Southern walls of the Mansion there are ornately and delicately woven
+tapestries depicting the Royal Court and honor's that this Clan has
+achieved through out the centuries.  While warm and comfortable,
+the Mansion is more elaborate than the Commoner's House, but not
+as splendid as you have expected.  From this point you may go West,
+upon the Elven Paths.
+~
+0 D 0
+D3
+The doors to the Noble's Mansion lies to the West.
+~
+noble~
+A -1 6739
+S
+#6745
+Elven Queen's Square~
+The paths of the Queen's Square are made from Oak branches which
+inter-twine together to form wide paths which are easily navigated by
+the Elven folk, however people who are the Guests of the Elves are
+often quite terrified by the heights they have negotiated.  From the
+center of the Square you see three ornately carved wooden doors
+embossed with the golden scripts of the Elven language.  The two doors
+to the North appear to be the largest and depict the most elaborate
+carvings, hence you determine that they lead to the Elven Court.
+However you are unable to determine the purpose of the Chambers to
+the East and West.  From this point you may go to the North, 
+South, or West.
+~
+0 CDS 0
+D0
+Two massive wooden doors are before you.....
+~
+Court's Doors~
+A -1 6751
+D1
+Two small wooden doors are before you.....
+~
+Temple's Doors~
+A -1 6748
+D2
+~
+~
+0 0 6730
+D3
+Two small wooden doors are before you.....
+~
+Spellweaver's Doors~
+A -1 6746
+S
+#6746
+Spellweaver's Chambers~
+The walls of the Spellweavers Chambers have been carved directly in
+the middle of the ancient Oak and sealed with healing energies to make
+sure that the Oak remains alive and healthy.  The Spellweavers serve
+as the Counselors to the Queen's Court and have thousands and
+thousands of volumes and tomes of ancient lore and history in order to
+assist the Queen in making her decisions.  Not many of the Elven folk
+have the knowledge or skills required to under go the rigorous training
+of an Spellweaver and hence their words are heeded much attention
+when they make their voice known on a matter.  From this point you
+may go South, or East, into the Queen's Court.
+~
+0 DS 0
+D1
+Two small wooden doors are before you.....
+~
+Spellweaver's Doors~
+A -1 6745
+D2
+The South leads into the Spellweaver's Sanctum.
+~
+~
+0 -1 6747
+S
+#6747
+Spellweaver's Sanctum~
+The walls of the Spellweaver's Sanctum have been carved directly in
+the middle of the ancient Oak and sealed with healing energies to make
+sure that the Oak remains alive and healthy.  The walls of the
+Sanctum are lined with wooden book shelves with glass doors which
+contain the collective whole of the Elven knowledge, from the time that
+the first words were placed upon a Vellum Scroll, to the current events
+of the Goblin's War, the Spellweavers are constantly collecting, collating
+ and cataloguing all the information they can get with in their grasp.
+>From this point you may go to the North, into the Spellweaver's
+Chambers.
+~
+0 DS 0
+D0
+The North leads into the Spellweaver's Chambers.
+~
+~
+0 -1 6746
+S
+#6748
+Atrium Of The Temple~
+The walls of the Atrium of the Temple have been carved directly into
+the middle of the ancient Oak and sealed with healing energies to make
+sure that the Oak remains alive and healthy.  The walls of the Atrium
+are adorned with elegant tapestries which depict Tomas' victories
+against the vile, corruptible, and evil inhabitants of Primula.  Elven
+globes, magical lights, line the walls of the Temple and cast playful
+shadows upon the smooth wooden floor.  You ponder the mysteries
+and meaning of life as you approach the Inner Sanctum of the Temple.
+>From this point you may go to the North, or West, back into the
+Queen's Square.
+~
+0 DS 0
+D0
+The North leads into the Temple.
+~
+~
+0 -1 6749
+D3
+Two small wooden doors are before you.....
+~
+~
+A -1 6745
+S
+#6749
+Temple Of Tomas~
+The walls of the Temple have been carved directly into the middle of
+the ancient Oak and sealed with healing energies to make sure that the
+Oak remains alive and healthy.  Elegant tapestries adorn the walls of
+the Temple, depicting the history of the Elven folk, from the time of
+the Great Beginning to the Blessed Isles, every aspect of Elven life has
+been represented in the Temple.  Wooden benches line the Northern
+and Southern walls of the Temple so that the devoted may have a place
+to rest, meditate, and contemplate the lessons of their ancestors.  From
+this point you may go South, into the Temple's Atrium.
+~
+0 DS 0
+D2
+The South leads into the Atrium.
+~
+~
+0 -1 6748
+S
+#6751
+Great Chambers~
+The walls of the Great Chambers have been formed from the branches
+of the ancient Oak, centuries upon centuries, the Spellweavers have 
+applied their magics to shape and mold the branches as the Oak matured
+into what it is this day.  In the tradition and custom of the Elven people, 
+there are no benches in the Great Chamber, since it would be
+considered an insult to the monarch dare anyone sit in their presence
+without their permission.  The walls of the Chambers are adorned with
+magnificent tapestries of golden oak leaves, the tabard of the Royal Court.
+>From this point, you may go to the North, or South, into the
+Queen's Square.
+~
+0 D 0
+D0
+The North leads into the Elven Throne Chamber.
+~
+~
+0 -1 6752
+D2
+Two massive wooden doors are before you.....
+~
+Court's Doors~
+A -1 6745
+S
+#6752
+Elven Throne Chamber~
+The walls of the Throne Chamber had been formed from the branches
+of the ancient Oak, centuries upon centuries, the Spellweavers have
+applied their magics to shape and mold the branches as the Oak matured
+into what it is this day.  On the Northern wall there are two golden
+thrones, the largest of which has been positioned in the center of the
+Chamber and clearly is occupied by the Ruling Lord or Lady of 
+Elvandar.  From this Chamber the Queen makes the decisions which
+will affect her people for decades and centuries, long after the mortal
+men have traveled to the Bless Isles and been forgotten. From this
+point, you may go to the South, into the Great Chamber.
+~
+0 D 0
+D2
+The South leads into the Great Chamber.
+~
+~
+0 -1 6751
+S
+#0
+
+#RESETS
+D 0  6732   1 1            * Elven Stables
+D 0  6733   3 1            * Elven Stallion's Stall
+D 0  6738   3 1            * Elven Square
+D 0  6739   1 1            * Elven Square
+D 0  6743   1 1            * Commoner's House
+D 0  6744   3 1            * Noble's Mansion
+D 0  6745   0 1            * Elven Queen's Square
+D 0  6745   1 1            * Elven Queen's Square
+D 0  6745   3 1            * Elven Queen's Square
+D 0  6746   1 1            * Spellweaver's Chambers
+D 0  6748   3 1            * Atrium Of The Temple
+D 0  6751   2 1            * Great Chambers
+
+O 0  6720   0  6752        * Throne
+P 0  6721  -1  6720   1    *   Elven Belt Pouch
+
+M 0  6714   3  6709   1    * The Dark Elf
+E 0  6714   0 16           *   Dark Sword
+M 0  6716   1  6709   1    * The Troll
+M 0  6708   4  6712   1    * The Tracker
+E 0  6711   0  8           *   Elven Boots
+M 0  6709   2  6715   1    * The Scout
+E 0  6712   0  3           *   Forest Cloak
+M 0  6709   2  6717   1    * The Scout
+E 0  6712   0  3           *   Forest Cloak
+M 0  6708   1  6718   4    * The Tracker
+E 0  6708   0  8           *   Elven Guard's Sword
+M 0  6708   1  6720   4    * The Tracker
+E 0  6711   0 10           *   Elven Boots
+M 0  6717   1  6721   1    * The Bear
+M 0  6715   2  6722   2    * The Goblin
+M 0  6705   5  6724   2    * The Guard
+E 0  6708   0 16           *   Elven Guard's Sword
+M 0  6705   5  6724   2    * The Guard
+E 0  6708   0 16           *   Elven Guard's Sword
+M 0  6706   2  6725   1    * The Warrior
+E 0  6700   0  5           *   Elven Tunic
+M 0  6718   1  6732   1    * Geoffrey
+E 0  6700   0  5           *   Elven Tunic
+M 0  6719   1  6733   1    * The Stallion
+E 0  6715   0 12           *   Wings
+M 0  6704   1  6735   1    * S'Talon
+E 0  6701   0  5           *   Elven Light Plate
+E 0  6708   0 16           *   Elven Guard's Sword
+M 0  6706   5  6735   1    * The Warrior
+M 0  6710   3  6736   1    * The Commoner
+M 0  6720   1  6737   1    * Justin
+G 0  6716   0              *   Elven Bread
+G 0  6717   0              *   Elder Berry Wine
+G 0  6718   0              *   Elven Parchment
+G 0  6719   0              *   Elven Vellum
+M 0  6707   2  6742   1    * The Noble
+E 0  6709   0 13           *   Noble's Dagger
+M 0  6710   3  6743   1    * The Commoner
+M 0  6707   2  6744   1    * The Noble
+E 0  6709   0 13           *   Noble's Dagger
+M 0  6712   1  6745   1    * Jajlo'
+E 0  6710   0 12           *   Holy Aura
+E 0  6707   0 16           *   Hammer of Faith
+M 0  6711   1  6745   1    * Y'Aarg
+E 0  6713   0 16           *   Dwarven Battle Axe
+M 0  6713   1  6746   1    * Clove
+E 0  6713   0 16           *   Dwarven Battle Axe
+M 0  6702   1  6747   1    * Tagor
+E 0  6706   0 18           *   Elven Oracle
+M 0  6703   1  6749   1    * Zarog
+M 0  6705   5  6751   2    * The Guard
+E 0  6708   0 16           *   Elven Guard's Sword
+M 0  6705   5  6751   2    * The Guard
+E 0  6708   0 16           *   Elven Guard's Sword
+M 0  6700   1  6752   1    * Kheinsa
+E 0  6702   0  6           *   Golden Crown
+M 0  6701   1  6752   1    * Khoteth
+E 0  6703   0  5           *   Elven Breast Plate
+E 0  6704   0  9           *   Elven Gauntlets
+E 0  6705   0 16           *   The Protector
+
+S
+
+#SHOPS
+6720      2   6   8  27  28    125   75    0 23    * Justin
+0
+
+#SPECIALS
+M  6700 spec_cast_cleric               * Kheinsa
+M  6702 spec_cast_mage                 * Tagor
+M  6703 spec_cast_cleric               * Zarog
+M  6712 spec_cast_cleric               * Jajlo'
+S
+
+#$
+

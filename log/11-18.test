@@ -1,0 +1,853 @@
+Sun Nov 18 20:51:34 2012 :: Init data space.
+Sun Nov 18 20:51:34 2012 :: Setting time and weather.
+Sun Nov 18 20:51:34 2012 :: Loading Scripts.
+Sun Nov 18 20:51:34 2012 :: Loading Skills.
+Sun Nov 18 20:51:34 2012 :: Loading Classes.
+Sun Nov 18 20:51:34 2012 :: Loading Races.
+Sun Nov 18 20:51:34 2012 :: Loading Clans.
+Sun Nov 18 20:51:34 2012 :: Loading Notes.
+Sun Nov 18 20:51:34 2012 :: Loading Bans.
+Sun Nov 18 20:51:34 2012 :: Loading Wizlist.
+Sun Nov 18 20:51:34 2012 :: Loading Socials.
+Sun Nov 18 20:51:34 2012 :: Loading Disabled.
+Sun Nov 18 20:51:34 2012 :: Loading Game Variables.
+Sun Nov 18 20:51:34 2012 :: Loading Charts.
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Could not open file ../data/charts/assists in order to read.
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: Loading Helps.
+Sun Nov 18 20:51:34 2012 :: Reading Area List.
+Sun Nov 18 20:51:34 2012 :: reading limbo.are
+Sun Nov 18 20:51:34 2012 :: reading plains.are
+Sun Nov 18 20:51:34 2012 :: reading vendors.are
+Sun Nov 18 20:51:34 2012 :: reading random.are
+Sun Nov 18 20:51:34 2012 :: reading hitower.are
+Sun Nov 18 20:51:34 2012 :: reading gnome.are
+Sun Nov 18 20:51:34 2012 :: reading wyvern.are
+Sun Nov 18 20:51:34 2012 :: reading grvstenw.are
+Sun Nov 18 20:51:34 2012 :: reading mahntor.are
+Sun Nov 18 20:51:34 2012 :: reading grndgn.are
+Sun Nov 18 20:51:34 2012 :: reading undrtnl.are
+Sun Nov 18 20:51:34 2012 :: reading secosa.are
+Sun Nov 18 20:51:34 2012 :: reading midgaard.are
+Sun Nov 18 20:51:34 2012 :: reading midennir.are
+Sun Nov 18 20:51:34 2012 :: reading school.are
+Sun Nov 18 20:51:34 2012 :: reading camelot.are
+Sun Nov 18 20:51:34 2012 :: reading moria.are
+Sun Nov 18 20:51:34 2012 :: reading zahadum.are
+Sun Nov 18 20:51:34 2012 :: reading tralfin.are
+Sun Nov 18 20:51:34 2012 :: reading havceris.are
+Sun Nov 18 20:51:34 2012 :: reading thalos.are
+Sun Nov 18 20:51:34 2012 :: reading misery.are
+Sun Nov 18 20:51:34 2012 :: reading elven.are
+Sun Nov 18 20:51:34 2012 :: reading haon.are
+Sun Nov 18 20:51:34 2012 :: reading krpela.are
+Sun Nov 18 20:51:34 2012 :: reading nasdesert.are
+Sun Nov 18 20:51:34 2012 :: reading temple.are
+Sun Nov 18 20:51:34 2012 :: reading valley.are
+Sun Nov 18 20:51:34 2012 :: reading atlantis.are
+Sun Nov 18 20:51:34 2012 :: reading misty.are
+Sun Nov 18 20:51:34 2012 :: reading marsh.are
+Sun Nov 18 20:51:34 2012 :: reading enoch.are
+Sun Nov 18 20:51:34 2012 :: reading fifprtals.are
+Sun Nov 18 20:51:34 2012 :: reading mirkwood.are
+Sun Nov 18 20:51:34 2012 :: reading canyon.are
+Sun Nov 18 20:51:34 2012 :: reading newthalos.are
+Sun Nov 18 20:51:34 2012 :: reading circus.are
+Sun Nov 18 20:51:34 2012 :: reading wynterhaven.are
+Sun Nov 18 20:51:34 2012 :: reading pilgri.are
+Sun Nov 18 20:51:34 2012 :: reading tohell.are
+Sun Nov 18 20:51:34 2012 :: reading haven.are
+Sun Nov 18 20:51:34 2012 :: reading chess2.are
+Sun Nov 18 20:51:34 2012 :: reading cloudymt.are
+Sun Nov 18 20:51:34 2012 :: reading drakyri.are
+Sun Nov 18 20:51:34 2012 :: reading museum.are
+Sun Nov 18 20:51:34 2012 :: reading freeport.are
+Sun Nov 18 20:51:34 2012 :: reading vampire.are
+Sun Nov 18 20:51:34 2012 :: reading creation.are
+Sun Nov 18 20:51:34 2012 :: reading swordncr.are
+Sun Nov 18 20:51:34 2012 :: reading warkeep.are
+Sun Nov 18 20:51:34 2012 :: reading pirate.are
+Sun Nov 18 20:51:34 2012 :: reading clock.are
+Sun Nov 18 20:51:34 2012 :: reading titan.are
+Sun Nov 18 20:51:34 2012 :: reading khintar.are
+Sun Nov 18 20:51:34 2012 :: reading miosh.are
+Sun Nov 18 20:51:34 2012 :: reading trillium.are
+Sun Nov 18 20:51:34 2012 :: reading eros.are
+Sun Nov 18 20:51:34 2012 :: reading witches.are
+Sun Nov 18 20:51:34 2012 :: reading fanatics.are
+Sun Nov 18 20:51:34 2012 :: reading golem.are
+Sun Nov 18 20:51:34 2012 :: reading tralcast.are
+Sun Nov 18 20:51:34 2012 :: reading bhendal.are
+Sun Nov 18 20:51:34 2012 :: reading bangzui.are
+Sun Nov 18 20:51:34 2012 :: reading iceworld.are
+Sun Nov 18 20:51:34 2012 :: reading nvillage.are
+Sun Nov 18 20:51:34 2012 :: reading humfrey.are
+Sun Nov 18 20:51:34 2012 :: reading roogna.are
+Sun Nov 18 20:51:34 2012 :: reading myst24hi.are
+Sun Nov 18 20:51:34 2012 :: reading shrehros.are
+Sun Nov 18 20:51:34 2012 :: reading mystmoon.are
+Sun Nov 18 20:51:34 2012 :: reading glacier.are
+Sun Nov 18 20:51:34 2012 :: reading kratas.are
+Sun Nov 18 20:51:34 2012 :: reading tundra.are
+Sun Nov 18 20:51:34 2012 :: reading quendor.are
+Sun Nov 18 20:51:34 2012 :: reading specials.are
+Sun Nov 18 20:51:34 2012 :: reading archvill.are
+Sun Nov 18 20:51:34 2012 :: reading jurassis.are
+Sun Nov 18 20:51:34 2012 :: reading harcdon.are
+Sun Nov 18 20:51:34 2012 :: reading olean.are
+Sun Nov 18 20:51:34 2012 :: reading cargan.are
+Sun Nov 18 20:51:34 2012 :: reading lierknay.are
+Sun Nov 18 20:51:34 2012 :: reading oceansy.are
+Sun Nov 18 20:51:34 2012 :: reading arena1.are
+Sun Nov 18 20:51:34 2012 :: reading elmtcrn.are
+Sun Nov 18 20:51:34 2012 :: reading 36cham.are
+Sun Nov 18 20:51:34 2012 :: reading testors.cln
+Sun Nov 18 20:51:34 2012 :: reading tlchalla.are
+Sun Nov 18 20:51:34 2012 :: reading gate.are
+Sun Nov 18 20:51:34 2012 :: reading crystpal.are
+Sun Nov 18 20:51:34 2012 :: reading skrpela.are
+Sun Nov 18 20:51:34 2012 :: reading palnkeep.are
+Sun Nov 18 20:51:34 2012 :: reading lockes.are
+Sun Nov 18 20:51:34 2012 :: reading orcout.are
+Sun Nov 18 20:51:34 2012 :: reading plyrhses.are
+Sun Nov 18 20:51:34 2012 :: reading drknss.are
+Sun Nov 18 20:51:34 2012 :: Reading Import List.
+Sun Nov 18 20:51:34 2012 :: Fixing Exits.
+Sun Nov 18 20:51:34 2012 :: Loading Special Items.
+Sun Nov 18 20:51:34 2012 :: Loading Random Item Tables.
+Sun Nov 18 20:51:34 2012 :: Area Update.
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 20:51:34 2012 :: [*****] BUG: Mobile_spells called on PC character!
+Sun Nov 18 20:51:34 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: Init data space.
+Sun Nov 18 21:00:40 2012 :: Setting time and weather.
+Sun Nov 18 21:00:40 2012 :: Loading Scripts.
+Sun Nov 18 21:00:40 2012 :: Loading Skills.
+Sun Nov 18 21:00:40 2012 :: Loading Classes.
+Sun Nov 18 21:00:40 2012 :: Loading Races.
+Sun Nov 18 21:00:40 2012 :: Loading Clans.
+Sun Nov 18 21:00:40 2012 :: Loading Notes.
+Sun Nov 18 21:00:40 2012 :: Loading Bans.
+Sun Nov 18 21:00:40 2012 :: Loading Wizlist.
+Sun Nov 18 21:00:40 2012 :: Loading Socials.
+Sun Nov 18 21:00:40 2012 :: Loading Disabled.
+Sun Nov 18 21:00:40 2012 :: Loading Game Variables.
+Sun Nov 18 21:00:40 2012 :: Loading Charts.
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Could not open file ../data/charts/assists in order to read.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: Loading Helps.
+Sun Nov 18 21:00:40 2012 :: Reading Area List.
+Sun Nov 18 21:00:40 2012 :: reading limbo.are
+Sun Nov 18 21:00:40 2012 :: reading plains.are
+Sun Nov 18 21:00:40 2012 :: reading vendors.are
+Sun Nov 18 21:00:40 2012 :: reading random.are
+Sun Nov 18 21:00:40 2012 :: reading hitower.are
+Sun Nov 18 21:00:40 2012 :: reading gnome.are
+Sun Nov 18 21:00:40 2012 :: reading wyvern.are
+Sun Nov 18 21:00:40 2012 :: reading grvstenw.are
+Sun Nov 18 21:00:40 2012 :: reading mahntor.are
+Sun Nov 18 21:00:40 2012 :: reading grndgn.are
+Sun Nov 18 21:00:40 2012 :: reading undrtnl.are
+Sun Nov 18 21:00:40 2012 :: reading secosa.are
+Sun Nov 18 21:00:40 2012 :: reading midgaard.are
+Sun Nov 18 21:00:40 2012 :: reading midennir.are
+Sun Nov 18 21:00:40 2012 :: reading school.are
+Sun Nov 18 21:00:40 2012 :: reading camelot.are
+Sun Nov 18 21:00:40 2012 :: reading moria.are
+Sun Nov 18 21:00:40 2012 :: reading zahadum.are
+Sun Nov 18 21:00:40 2012 :: reading tralfin.are
+Sun Nov 18 21:00:40 2012 :: reading havceris.are
+Sun Nov 18 21:00:40 2012 :: reading thalos.are
+Sun Nov 18 21:00:40 2012 :: reading misery.are
+Sun Nov 18 21:00:40 2012 :: reading elven.are
+Sun Nov 18 21:00:40 2012 :: reading haon.are
+Sun Nov 18 21:00:40 2012 :: reading krpela.are
+Sun Nov 18 21:00:40 2012 :: reading nasdesert.are
+Sun Nov 18 21:00:40 2012 :: reading temple.are
+Sun Nov 18 21:00:40 2012 :: reading valley.are
+Sun Nov 18 21:00:40 2012 :: reading atlantis.are
+Sun Nov 18 21:00:40 2012 :: reading misty.are
+Sun Nov 18 21:00:40 2012 :: reading marsh.are
+Sun Nov 18 21:00:40 2012 :: reading enoch.are
+Sun Nov 18 21:00:40 2012 :: reading fifprtals.are
+Sun Nov 18 21:00:40 2012 :: reading mirkwood.are
+Sun Nov 18 21:00:40 2012 :: reading canyon.are
+Sun Nov 18 21:00:40 2012 :: reading newthalos.are
+Sun Nov 18 21:00:40 2012 :: reading circus.are
+Sun Nov 18 21:00:40 2012 :: reading wynterhaven.are
+Sun Nov 18 21:00:40 2012 :: reading pilgri.are
+Sun Nov 18 21:00:40 2012 :: reading tohell.are
+Sun Nov 18 21:00:40 2012 :: reading haven.are
+Sun Nov 18 21:00:40 2012 :: reading chess2.are
+Sun Nov 18 21:00:40 2012 :: reading cloudymt.are
+Sun Nov 18 21:00:40 2012 :: reading drakyri.are
+Sun Nov 18 21:00:40 2012 :: reading museum.are
+Sun Nov 18 21:00:40 2012 :: reading freeport.are
+Sun Nov 18 21:00:40 2012 :: reading vampire.are
+Sun Nov 18 21:00:40 2012 :: reading creation.are
+Sun Nov 18 21:00:40 2012 :: reading swordncr.are
+Sun Nov 18 21:00:40 2012 :: reading warkeep.are
+Sun Nov 18 21:00:40 2012 :: reading pirate.are
+Sun Nov 18 21:00:40 2012 :: reading clock.are
+Sun Nov 18 21:00:40 2012 :: reading titan.are
+Sun Nov 18 21:00:40 2012 :: reading khintar.are
+Sun Nov 18 21:00:40 2012 :: reading miosh.are
+Sun Nov 18 21:00:40 2012 :: reading trillium.are
+Sun Nov 18 21:00:40 2012 :: reading eros.are
+Sun Nov 18 21:00:40 2012 :: reading witches.are
+Sun Nov 18 21:00:40 2012 :: reading fanatics.are
+Sun Nov 18 21:00:40 2012 :: reading golem.are
+Sun Nov 18 21:00:40 2012 :: reading tralcast.are
+Sun Nov 18 21:00:40 2012 :: reading bhendal.are
+Sun Nov 18 21:00:40 2012 :: reading bangzui.are
+Sun Nov 18 21:00:40 2012 :: reading iceworld.are
+Sun Nov 18 21:00:40 2012 :: reading nvillage.are
+Sun Nov 18 21:00:40 2012 :: reading humfrey.are
+Sun Nov 18 21:00:40 2012 :: reading roogna.are
+Sun Nov 18 21:00:40 2012 :: reading myst24hi.are
+Sun Nov 18 21:00:40 2012 :: reading shrehros.are
+Sun Nov 18 21:00:40 2012 :: reading mystmoon.are
+Sun Nov 18 21:00:40 2012 :: reading glacier.are
+Sun Nov 18 21:00:40 2012 :: reading kratas.are
+Sun Nov 18 21:00:40 2012 :: reading tundra.are
+Sun Nov 18 21:00:40 2012 :: reading quendor.are
+Sun Nov 18 21:00:40 2012 :: reading specials.are
+Sun Nov 18 21:00:40 2012 :: reading archvill.are
+Sun Nov 18 21:00:40 2012 :: reading jurassis.are
+Sun Nov 18 21:00:40 2012 :: reading harcdon.are
+Sun Nov 18 21:00:40 2012 :: reading olean.are
+Sun Nov 18 21:00:40 2012 :: reading cargan.are
+Sun Nov 18 21:00:40 2012 :: reading lierknay.are
+Sun Nov 18 21:00:40 2012 :: reading oceansy.are
+Sun Nov 18 21:00:40 2012 :: reading arena1.are
+Sun Nov 18 21:00:40 2012 :: reading elmtcrn.are
+Sun Nov 18 21:00:40 2012 :: reading 36cham.are
+Sun Nov 18 21:00:40 2012 :: reading testors.cln
+Sun Nov 18 21:00:40 2012 :: reading tlchalla.are
+Sun Nov 18 21:00:40 2012 :: reading gate.are
+Sun Nov 18 21:00:40 2012 :: reading crystpal.are
+Sun Nov 18 21:00:40 2012 :: reading skrpela.are
+Sun Nov 18 21:00:40 2012 :: reading palnkeep.are
+Sun Nov 18 21:00:40 2012 :: reading lockes.are
+Sun Nov 18 21:00:40 2012 :: reading orcout.are
+Sun Nov 18 21:00:40 2012 :: reading plyrhses.are
+Sun Nov 18 21:00:40 2012 :: reading drknss.are
+Sun Nov 18 21:00:40 2012 :: Reading Import List.
+Sun Nov 18 21:00:40 2012 :: Fixing Exits.
+Sun Nov 18 21:00:40 2012 :: Loading Special Items.
+Sun Nov 18 21:00:40 2012 :: Loading Random Item Tables.
+Sun Nov 18 21:00:40 2012 :: Area Update.
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: beast: unknown location 23.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: juggernaut: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: banshee death: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: banshee death: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: kejie swordancer: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: blacksmith georn: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: swordancer lenna: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: apprentice: unknown location 25.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: apprentice: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 25.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 23.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: woman witch alara: unknown location 25.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: dagar assassin: unknown location 25.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: gorgon: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: gorgon: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: magician good humfrey: unknown location 23.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: magician good humfrey: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: old woman harvest : unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: tezcatlipoca lord death: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: anubis god: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: kuan yin goddess: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: grainne lass: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: saraswati patroness goddess: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: brahma god: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: ziggy olethros: unknown location 24.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: ziggy olethros: unknown location 23.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Affect_modify: betrayed man: unknown location 23.
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: Load room contents.
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10015. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10015. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10057. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10011. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10010. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10014. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10011. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10013. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10054. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10010. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10012. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10014. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10045. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10061. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10045. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10014. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10012. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10010. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10054. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10013. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10011. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10045. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10015. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10061. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10015. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10061. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 30557. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10014. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10012. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10010. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 8596. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10054. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10013. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10011. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 8448. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10015. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 30557. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10014. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10012. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 8596. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10054. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10013. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10011. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 8448. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10015. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 30560. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 30559. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10057. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 10045. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: [*****] BUG: Fread_obj: Unlinked vnum 30553. (what the fuck does this mean)
+Sun Nov 18 21:00:40 2012 :: [*****] COM: 
+Sun Nov 18 21:00:40 2012 :: RoT is ready to rock on port 1112.
+Sun Nov 18 21:00:40 2012 :: Log lobster gentle: say I do so love those tiny finger sandwiches...
+Sun Nov 18 21:00:46 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Sun Nov 18 21:02:38 2012 :: Init data space.
+Sun Nov 18 21:02:38 2012 :: Setting time and weather.
+Sun Nov 18 21:02:38 2012 :: Loading Scripts.
+Sun Nov 18 21:02:38 2012 :: Loading Skills.
+Sun Nov 18 21:02:38 2012 :: Loading Classes.
+Sun Nov 18 21:02:38 2012 :: Loading Races.
+Sun Nov 18 21:02:38 2012 :: Loading Clans.
+Sun Nov 18 21:02:38 2012 :: Loading Notes.
+Sun Nov 18 21:02:38 2012 :: Loading Bans.
+Sun Nov 18 21:02:38 2012 :: Loading Wizlist.
+Sun Nov 18 21:02:38 2012 :: Loading Socials.
+Sun Nov 18 21:02:38 2012 :: Loading Disabled.
+Sun Nov 18 21:02:38 2012 :: Loading Game Variables.
+Sun Nov 18 21:02:38 2012 :: Loading Charts.
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Could not open file ../data/charts/assists in order to read.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: Loading Helps.
+Sun Nov 18 21:02:38 2012 :: Reading Area List.
+Sun Nov 18 21:02:38 2012 :: reading limbo.are
+Sun Nov 18 21:02:38 2012 :: reading plains.are
+Sun Nov 18 21:02:38 2012 :: reading vendors.are
+Sun Nov 18 21:02:38 2012 :: reading random.are
+Sun Nov 18 21:02:38 2012 :: reading hitower.are
+Sun Nov 18 21:02:38 2012 :: reading gnome.are
+Sun Nov 18 21:02:38 2012 :: reading wyvern.are
+Sun Nov 18 21:02:38 2012 :: reading grvstenw.are
+Sun Nov 18 21:02:38 2012 :: reading mahntor.are
+Sun Nov 18 21:02:38 2012 :: reading grndgn.are
+Sun Nov 18 21:02:38 2012 :: reading undrtnl.are
+Sun Nov 18 21:02:38 2012 :: reading secosa.are
+Sun Nov 18 21:02:38 2012 :: reading midgaard.are
+Sun Nov 18 21:02:38 2012 :: reading midennir.are
+Sun Nov 18 21:02:38 2012 :: reading school.are
+Sun Nov 18 21:02:38 2012 :: reading camelot.are
+Sun Nov 18 21:02:38 2012 :: reading moria.are
+Sun Nov 18 21:02:38 2012 :: reading zahadum.are
+Sun Nov 18 21:02:38 2012 :: reading tralfin.are
+Sun Nov 18 21:02:38 2012 :: reading havceris.are
+Sun Nov 18 21:02:38 2012 :: reading thalos.are
+Sun Nov 18 21:02:38 2012 :: reading misery.are
+Sun Nov 18 21:02:38 2012 :: reading elven.are
+Sun Nov 18 21:02:38 2012 :: reading haon.are
+Sun Nov 18 21:02:38 2012 :: reading krpela.are
+Sun Nov 18 21:02:38 2012 :: reading nasdesert.are
+Sun Nov 18 21:02:38 2012 :: reading temple.are
+Sun Nov 18 21:02:38 2012 :: reading valley.are
+Sun Nov 18 21:02:38 2012 :: reading atlantis.are
+Sun Nov 18 21:02:38 2012 :: reading misty.are
+Sun Nov 18 21:02:38 2012 :: reading marsh.are
+Sun Nov 18 21:02:38 2012 :: reading enoch.are
+Sun Nov 18 21:02:38 2012 :: reading fifprtals.are
+Sun Nov 18 21:02:38 2012 :: reading mirkwood.are
+Sun Nov 18 21:02:38 2012 :: reading canyon.are
+Sun Nov 18 21:02:38 2012 :: reading newthalos.are
+Sun Nov 18 21:02:38 2012 :: reading circus.are
+Sun Nov 18 21:02:38 2012 :: reading wynterhaven.are
+Sun Nov 18 21:02:38 2012 :: reading pilgri.are
+Sun Nov 18 21:02:38 2012 :: reading tohell.are
+Sun Nov 18 21:02:38 2012 :: reading haven.are
+Sun Nov 18 21:02:38 2012 :: reading chess2.are
+Sun Nov 18 21:02:38 2012 :: reading cloudymt.are
+Sun Nov 18 21:02:38 2012 :: reading drakyri.are
+Sun Nov 18 21:02:38 2012 :: reading museum.are
+Sun Nov 18 21:02:38 2012 :: reading freeport.are
+Sun Nov 18 21:02:38 2012 :: reading vampire.are
+Sun Nov 18 21:02:38 2012 :: reading creation.are
+Sun Nov 18 21:02:38 2012 :: reading swordncr.are
+Sun Nov 18 21:02:38 2012 :: reading warkeep.are
+Sun Nov 18 21:02:38 2012 :: reading pirate.are
+Sun Nov 18 21:02:38 2012 :: reading clock.are
+Sun Nov 18 21:02:38 2012 :: reading titan.are
+Sun Nov 18 21:02:38 2012 :: reading khintar.are
+Sun Nov 18 21:02:38 2012 :: reading miosh.are
+Sun Nov 18 21:02:38 2012 :: reading trillium.are
+Sun Nov 18 21:02:38 2012 :: reading eros.are
+Sun Nov 18 21:02:38 2012 :: reading witches.are
+Sun Nov 18 21:02:38 2012 :: reading fanatics.are
+Sun Nov 18 21:02:38 2012 :: reading golem.are
+Sun Nov 18 21:02:38 2012 :: reading tralcast.are
+Sun Nov 18 21:02:38 2012 :: reading bhendal.are
+Sun Nov 18 21:02:38 2012 :: reading bangzui.are
+Sun Nov 18 21:02:38 2012 :: reading iceworld.are
+Sun Nov 18 21:02:38 2012 :: reading nvillage.are
+Sun Nov 18 21:02:38 2012 :: reading humfrey.are
+Sun Nov 18 21:02:38 2012 :: reading roogna.are
+Sun Nov 18 21:02:38 2012 :: reading myst24hi.are
+Sun Nov 18 21:02:38 2012 :: reading shrehros.are
+Sun Nov 18 21:02:38 2012 :: reading mystmoon.are
+Sun Nov 18 21:02:38 2012 :: reading glacier.are
+Sun Nov 18 21:02:38 2012 :: reading kratas.are
+Sun Nov 18 21:02:38 2012 :: reading tundra.are
+Sun Nov 18 21:02:38 2012 :: reading quendor.are
+Sun Nov 18 21:02:38 2012 :: reading specials.are
+Sun Nov 18 21:02:38 2012 :: reading archvill.are
+Sun Nov 18 21:02:38 2012 :: reading jurassis.are
+Sun Nov 18 21:02:38 2012 :: reading harcdon.are
+Sun Nov 18 21:02:38 2012 :: reading olean.are
+Sun Nov 18 21:02:38 2012 :: reading cargan.are
+Sun Nov 18 21:02:38 2012 :: reading lierknay.are
+Sun Nov 18 21:02:38 2012 :: reading oceansy.are
+Sun Nov 18 21:02:38 2012 :: reading arena1.are
+Sun Nov 18 21:02:38 2012 :: reading elmtcrn.are
+Sun Nov 18 21:02:38 2012 :: reading 36cham.are
+Sun Nov 18 21:02:38 2012 :: reading testors.cln
+Sun Nov 18 21:02:38 2012 :: reading tlchalla.are
+Sun Nov 18 21:02:38 2012 :: reading gate.are
+Sun Nov 18 21:02:38 2012 :: reading crystpal.are
+Sun Nov 18 21:02:38 2012 :: reading skrpela.are
+Sun Nov 18 21:02:38 2012 :: reading palnkeep.are
+Sun Nov 18 21:02:38 2012 :: reading lockes.are
+Sun Nov 18 21:02:38 2012 :: reading orcout.are
+Sun Nov 18 21:02:38 2012 :: reading plyrhses.are
+Sun Nov 18 21:02:38 2012 :: reading drknss.are
+Sun Nov 18 21:02:38 2012 :: Reading Import List.
+Sun Nov 18 21:02:38 2012 :: Fixing Exits.
+Sun Nov 18 21:02:38 2012 :: Loading Special Items.
+Sun Nov 18 21:02:38 2012 :: Loading Random Item Tables.
+Sun Nov 18 21:02:38 2012 :: Area Update.
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: beast: unknown location 23.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: guardian knight : unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: juggernaut: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: goblin: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: banshee death: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: banshee death: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: kejie swordancer: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: blacksmith georn: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: swordancer lenna: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: apprentice: unknown location 25.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: apprentice: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 25.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: warlock baragar: unknown location 23.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: woman witch alara: unknown location 25.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: dagar assassin: unknown location 25.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: gorgon: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: gorgon: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: magician good humfrey: unknown location 23.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: magician good humfrey: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: old woman harvest : unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: tezcatlipoca lord death: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: anubis god: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: kuan yin goddess: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: grainne lass: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: saraswati patroness goddess: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: brahma god: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: ziggy olethros: unknown location 24.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: ziggy olethros: unknown location 23.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: [*****] BUG: Affect_modify: betrayed man: unknown location 23.
+Sun Nov 18 21:02:38 2012 :: [*****] COM: 
+Sun Nov 18 21:02:38 2012 :: Load room contents.
+Sun Nov 18 21:02:38 2012 :: RoT is ready to rock on port 1112.
+Sun Nov 18 21:02:38 2012 :: Log shepherd man: say Where's my sheep?
+Sun Nov 18 21:02:38 2012 :: Log sentinel kratas: scan
+Sun Nov 18 21:02:38 2012 :: Log sentinel kratas: scan
+Sun Nov 18 21:02:38 2012 :: Log shepherd man: say Where's my sheep?
+Sun Nov 18 21:02:38 2012 :: Log man shepherd: emote wonders.
+Sun Nov 18 21:02:38 2012 :: Log cat: purr
+Sun Nov 18 21:02:44 2012 :: Log drunken sailor: emote starts to sing "oooooooohhh Maria! She was my gal......."
+Sun Nov 18 21:02:44 2012 :: Log starfish: smile someone
+Sun Nov 18 21:02:50 2012 :: Log cat: purr
+Sun Nov 18 21:02:50 2012 :: Log sea witch angelic: say There are some treats inside the chest.
+Sun Nov 18 21:02:50 2012 :: Log sea witch angelic: say Try one if you like.  

@@ -1,0 +1,4194 @@
+#AOD_AREA
+Seahome~
+10251 10399 C 9
+Levl 1 60
+Bldr Monomach~
+End
+
+#MOBILES
+#10251
+banker money lender~
+A darhothian moneylender~
+A Darhothian Moneylender tends to his business.
+~
+These men are dressed in the formal blue robes common to followers of
+Darhoth.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABVd DF 0 0 0
+50 0 0 1000 1000 200 200 25 50 20 none
+-150 -150 -150 -150
+STANDING STANDING male 1000
+0 mage medium ABCDEFGHIJK
+
+#10252
+morenas~
+Morenas~
+A retired adventurer by the name of Morenas lives here.
+~
+This large elf used to be a great adventurer but has since retired to his
+home city.  He has seen many a tale though and is an excellent person to see
+if you want a quest.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+1 0 0 100 100 2 2 1 20 1 none
+100 100 100 100
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#10255
+silver dragon~
+a silver dragon~
+A silver dragon rests upon the huge pile of silver coins.
+~
+This large dragon shines as only silver can.  He receives so few visitors
+and is naturally wary of all who find his out-of-the-way lair.  However, he
+thoroughly enjoys a good conversation and is willing to chat if you behave
+yourself.  
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 0 100 100 100 100 100 150 100 100 100 100 150 100 100 100 
+ABCR DFJTVc H 0 0
+45 0 0 443 463 0 0 22 45 6 shbite
+-60 -60 -60 -60
+STANDING STANDING male 0
+0 mage huge ACDEFGHIJKPQUVX
+
+#10256
+ranger~
+a ranger~
+A ranger hides in the foliage watching you warily.
+~
+This ranger is protector of his forest and does not appreciate visitors. 
+His long blonde hair cascades down his back and his blue eyes have the
+shaded look of those who trust few.  He wears a light studded leather jacket
+and carries a strong bow across his back.  
+~
+human~
+100 50 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+AQT JLPQV HP 0 0
+40 3 0 338 358 277 350 20 40 5 pierce
+-40 -40 -40 -40
+STANDING STANDING male 3000
+0 mage medium ABCDEFGHIJK
+
+#10257
+rabbit~
+a rabbit~
+A small rabbit hops among the trees.
+~
+~
+rabbit~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AH 0 0 0 0
+20 0 0 123 134 183 243 10 20 2 bite
+10 10 10 10
+STANDING STANDING neutral 0
+0 mage medium ACDEFHJK
+
+#10258
+squirrel~
+a squirrel~
+A squirrel runs up the side of a tree
+~
+~
+rabbit~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AH 0 0 0 0
+20 0 0 123 135 174 242 10 20 2 bite
+10 10 10 10
+STANDING STANDING neutral 0
+0 mage medium ACDEFHJK
+
+#10259
+squid giant~
+a giant squid~
+A giant squid reaches towards you with a tentacle.
+~
+~
+snake~
+100 100 0 150 100 100 50 100 100 100 100 150 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ACT DFPQTVb O 0 0
+50 4 0 562 590 312 419 25 50 7 bite
+-70 -70 -70 -70
+STANDING STANDING neutral 3000
+0 mage large ADEFKLQVX
+
+#10300
+royal guard~
+the royal guard~
+A royal guard scans the area for trouble.
+~
+A rather LARGE sea elf is here protecting innocent citizens from
+outsiders like you.  In fact he seems to have quite a bit of intrest in what
+you are doing.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABT J 0 1000 0
+45 0 0 1098 1186 3352 3420 22 45 16 punch
+-260 -260 -260 -260
+STANDING STANDING male 300
+0 mage medium ABCDEFGHIJK
+W 9
+
+#10301
+elf citizen~
+the citizen~
+A citizen of Seahome goes about their business.
+~
+He seems to be doing some shopping as his hands are full of packages. 
+They hurry away as they see you looking at them.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ACGH J 0 1000 0
+8 0 0 49 59 124 161 1 20 1 none
+60 60 60 60
+STANDING STANDING random 100
+0 mage medium ABCDEFGHIJK
+W 10
+
+#10302
+beastly fidofish~
+the fidofish~
+A beastly fidofish is here drooling on your shoe.
+~
+The fidofish is a small dogfish that has a foul smell and peices of
+rotting meat hanging around his teeth.  You could swear you've seen him
+somewhere before.......  
+~
+fido~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGH 0 0 -700 0
+6 0 0 37 47 120 149 1 20 0 pound
+70 70 70 70
+STANDING STANDING neutral 0
+0 mage medium ACDEFHJKQV
+W 4
+
+#10303
+acolyte elf~
+the alcolyte~
+An acolyte of Darhoth is here.
+~
+An elf dressed in aqua robes goes about his business of worshipping
+Darhoth.  (It's tough but someone has to do it.)  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 H 1000 0
+20 0 0 124 135 183 236 10 20 2 wrath
+10 10 10 10
+STANDING STANDING male 600
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10304
+corellia elf~
+Corellia~
+Corellia waits to take your order.
+~
+Corellia is a pretty elf who someday wants to become an actress or maybe
+a model.  
+~
+human~
+100 0 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 50 100 0 100 100 100 150 100 
+AB DFJ 0 1000 0
+50 0 0 562 594 308 423 25 50 7 punch
+-70 -70 -70 -70
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10305
+bartender elf~
+The bartender~
+The bartender is here to take your order.
+~
+He is a big elf who has seen much better days.  One arm is missing and
+there is a patch over one eye.  Not to mention, he smells bad.  I still
+wouldn't attack him though if I were you.  
+~
+human~
+100 0 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 50 100 0 100 100 100 150 100 
+AB DFJ 0 1000 0
+50 0 0 564 591 307 412 25 50 7 punch
+-70 -70 -70 -70
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10306
+algiar elf~
+Algiar~
+Algiar pulls a bunny out of his hat.
+~
+Algiar is dressed up in what is known as the stereotypical magicians
+outfit, complete with pointy hat and a big robe with stars.  He is a
+friendly, albeit clumsy, elf and not a very good spellcaster.  However, he
+does make one heck of a potion.  
+~
+human~
+100 0 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 50 100 0 100 100 100 150 100 
+AB DFJ 0 1000 0
+50 0 0 564 597 315 410 25 50 7 punch
+-70 -70 -70 -70
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10307
+bill elf~
+bill ~
+Bill wants to know what you want.
+~
+Bill doesn't appear to be happy.  Apparently, he was passed over for a
+promotion to the New Thalos shop.  "How can I help you?"  He sneers at you
+through clenched teeth.  
+~
+human~
+100 0 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 150 100 
+AB DFJ 0 1000 0
+50 0 0 563 589 310 415 25 50 7 punch
+-70 -70 -70 -70
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10308
+tovar elf~
+Tovar~
+Tovar waits too serve you.
+~
+Tovar seems rather plump for an elf, but it goes well with his jovial
+personality.  He probably can tell you all kinds of interesting stories.  
+~
+human~
+100 0 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 50 100 0 100 100 100 150 100 
+AB DFJ 0 1000 0
+50 0 0 563 591 336 411 25 50 7 punch
+-70 -70 -70 -70
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10309
+kyprios elf~
+Kyprios~
+Kyprios prays for your soul.
+~
+Kyprios holds great favor with Darhoth and hopes to show the error in
+your ways for not following the one and true path.  
+~
+human~
+100 0 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 50 100 0 100 100 100 150 100 
+ABQa DFJ 0 1000 0
+50 0 0 564 591 339 421 25 50 7 none
+-70 -70 -70 -70
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10310
+llwynn elf~
+Llwynn~
+Llwynn stands behind the counter.
+~
+Llwynn learned his craft from the dwarves and is able to combine dwarven
+sturdiness with elven craftsmanship in all his armor.  
+~
+human~
+100 0 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 50 100 0 100 100 100 150 100 
+AB DFJ 0 1000 0
+50 0 0 564 590 337 414 25 50 7 punch
+-70 -70 -70 -70
+STANDING STANDING male 200000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10311
+shop owner elf~
+The shop owner~
+A wild looking elf stands here.
+~
+It would appear that this elf went out and caught all the pets himself. 
+He seems a little bit odd and insists on telling everyone he meets the names
+he has given to each animal.  
+~
+human~
+100 0 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 50 100 0 100 100 100 150 100 
+AB DFJ 0 1000 0
+50 0 0 612 640 332 411 25 50 7 punch
+-70 -70 -70 -70
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10312
+charis elf~
+Charis~
+Charis sharpens a blade on his whetstone.
+~
+~
+human~
+100 0 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 50 100 0 100 100 100 150 100 
+AB DFJ 0 1000 0
+50 0 0 565 590 331 405 25 50 7 punch
+-70 -70 -70 -70
+STANDING STANDING male 400000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10313
+pearl elf~
+Pearl~
+A very well dressed elf stands here.
+~
+She is a very beautiful elf who knows the value of a good jem.  
+~
+human~
+100 0 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 50 100 0 100 100 100 150 100 
+AB DFJ 0 1000 0
+50 0 0 559 594 329 419 25 50 7 punch
+-70 -70 -70 -70
+STANDING STANDING female 300000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10314
+crab pet~
+The crab~
+A small hermit crab skitters about.
+~
+A small red crab runs about looking for someone to pinch.  
+~
+fox~
+100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABI FJZ 0 0 0
+5 0 0 37 47 116 145 1 20 0 claw
+70 70 70 70
+STANDING STANDING random 0
+0 mage small ACDEFHJKQV
+W 1
+
+#10315
+otter pet~
+The otter~
+A small sea otter stands here.
+~
+This otter is a small furry animal known for its mishchief.  In fact
+right now it is going through your pack looking for something shiny to play
+with.  
+~
+cat~
+100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABI FJZ 0 0 0
+15 1 0 104 113 159 213 1 20 2 pound
+30 30 30 30
+STANDING STANDING random 0
+0 mage medium ACDEFHJKQUV
+W 1
+
+#10316
+seal pet~
+The seal~
+A small seal looks at you with big round brown eyes.
+~
+A small black seal hops about you in a vain attempt to impress you enough
+to feed him some fish.  
+~
+wolf~
+100 100 0 100 50 100 100 100 100 100 100 100 50 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABI DFJZ 0 0 0
+25 2 0 152 170 207 261 12 25 3 none
+0 0 0 0
+STANDING STANDING random 0
+0 mage medium ACDEFJKQV
+W 1
+
+#10317
+walrus pet~
+The walrus~
+A large walrus is floundering about.
+~
+This large animal looks like a bull with flippers.  Also, he has a set of
+very sharp teeth at least a foot long.  He awaits your orders grinding his
+teeth to a razor sharp point.  
+~
+bear~
+100 50 0 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABI DF 0 0 0
+35 2 0 287 305 230 324 17 35 4 frbite
+-30 -30 -30 -30
+STANDING STANDING random 0
+0 mage large ABCDEFHJKUV
+W 1
+
+#10318
+sea lion pet~
+The sea lion~
+The sea lion lazily basks in the warm sun.
+~
+He is HUGE!  Currently he is just lazily laying about in the sun, but
+when he gets mad, watch out!!  
+~
+human~
+100 100 0 50 50 100 150 100 100 100 150 50 50 100 100 100 100 150 50 100 100 100 100 100 100 100 
+ABI DFLT H 0 0
+45 2 0 463 490 284 386 22 45 6 charge
+-60 -60 -60 -60
+STANDING STANDING neutral 0
+0 mage large ABCDEFGHIJK
+W 1
+
+#10319
+guppy doom pet~
+The guppy of DOOM!~
+An innocent looking guppy floats in a bubble of water.
+~
+A small, gold guppy swims about.  However, this is no ordinary guppy,
+this is a guppy of DOOM!!  He will hit you so hard your unborn grandchildren
+will flinch.  
+~
+snake~
+100 100 0 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 0 100 100 100 
+ABI DFJT H 0 0
+50 5 0 613 643 318 412 25 50 7 frbite
+-70 -70 -70 -70
+STANDING STANDING neutral 0
+0 mage small ADEFKLQVX
+W 1
+
+#10320
+statue merman~
+A statue of a merman~
+A marble statue of a merman flanks the gate to Seahome.
+~
+The statue appears to be quite well made with intricate preciseness
+evident along its surface.  In fact it seems so lifelike you could almost
+believe it moved.  
+~
+modron~
+50 100 0 50 0 100 50 100 0 100 100 100 100 0 0 100 100 100 100 100 100 100 100 100 100 100 
+AB JV 0 1000 0
+25 1 0 173 190 186 266 12 25 3 beating
+-10 -10 -10 -10
+STANDING STANDING neutral 500
+0 mage large ABCGHJK
+W 2
+
+#10321
+silverfish fish~
+A silverfish~
+A small silverfish swims by.
+~
+It seems harmless enough but there are so many of them.  In fact they are
+everywhere.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGH 0 0 0 0
+1 0 0 2 2 2 2 1 20 0 none
+90 90 90 90
+STANDING STANDING neutral 1
+0 mage small ABCDEFGHIJK
+W 15
+
+#10322
+captain guard elf~
+the captain~
+The captain of the guard sits here sharpening his sword.
+~
+One of the largest elves you've ever seen sits here on the bed sharpening
+his sword to a fine razor sharp edge.  He is not happy you've enter his
+private quarters.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+AB DJ H 1000 0
+33 0 0 262 284 264 323 16 33 4 slash
+-30 -30 -30 -30
+STANDING STANDING male 500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10323
+eel~
+the eel~
+The eel floats along nearby.
+~
+An electric eel swims about looking for a way to stay away from you. 
+Little sparks of electricity run along the eels body.  That would probably
+hurt.  
+~
+snake~
+100 100 100 150 100 100 100 100 100 100 100 0 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+AF V 0 0 0
+30 0 0 213 233 232 316 15 30 3 shbite
+-20 -20 -20 -20
+STANDING STANDING neutral 0
+0 mage medium ADEFKLQVX
+W 2
+
+#10324
+school fish pirahna~
+the school~
+A school of fish swims by.
+~
+The school seems to be made up of over a hundred fish swimming about in
+perfect unison.  You can't quite make out what kind but.....  Wait, now you
+now.  Its PIRAHNA!!!!  
+~
+snake~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 0 50 100 150 100 100 100 100 100 
+AF Va 0 0 0
+30 0 0 213 231 230 304 15 30 5 bite
+-20 -20 -20 -20
+STANDING STANDING neutral 0
+0 mage medium ADEFKLQVX
+W 2
+
+#10325
+sea snake~
+the snake~
+From out of nowhere the snake springs to attack.
+~
+It is over 10 ft long and striped with blue, red, green, and black bands
+along its length.  It looks big enough to swallow a cow...  Or maybe even
+you!  
+~
+snake~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+A DFV 0 0 0
+30 0 0 305 326 221 302 15 30 3 bite
+-20 -20 -20 -20
+STANDING STANDING neutral 0
+0 mage medium ADEFKLQVX
+W 2
+
+#10326
+sea dragon~
+the dragon~
+The sea dragon protects its lair.
+~
+It appears to be a large green dragon who somehow adapted itself to life
+under the sea.  However, she doesn't appear to like the fact that she is
+stuck here in the sea elf kings on private park.  She sees you and says "Ah,
+lunch is here."  And proceeds to attack you.  
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+ABR DFJTV H -500 0
+55 8 0 726 763 1225 1302 27 55 8 claw
+-80 -80 -80 -80
+STANDING STANDING male 2000
+0 mage huge ACDEFGHIJKPQUVX
+W 1
+
+#10327
+royal wizard elf rwiz~
+the wizard~
+The wizard watches his pets play.
+~
+He is a normal, if not tall, elf wearing everyday clothing.  You wouldn't
+expect him to be a wizard except for the lightning bolt he just sent at your
+head.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABR DJPQ BH 1000 0
+57 10 0 802 843 500 500 28 57 8 magic
+-90 -90 -90 -90
+STANDING STANDING neutral 1300
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10328
+queen elf~
+the queen~
+The queen sits on her bed chatting.
+~
+This is obviously the queen of the elves for her beauty is the sort that
+songs are written of and that wars are started over.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABGQ DFJTV HO 1000 0
+56 4 0 758 796 353 476 28 56 8 magic
+-80 -80 -80 -80
+STANDING STANDING female 1000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10329
+lady elf~
+the lady~
+The lady in waiting attends to the queen.
+~
+She is a lovely maiden herself (though not so much so as the queen) and
+is dressed, obviously , to get a man.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABC DFJT H 500 0
+35 0 0 287 308 257 320 17 35 5 none
+-40 -40 -40 -40
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+W 3
+
+#10330
+guardian octopus~
+the guardian~
+A large octopus blocks your path.
+~
+It is the largest Octopus you have ever seen.  "You are not on the guest
+list, I'll have to ask you to leave."  He says and then proceeds to attack
+you.  
+~
+human~
+100 100 0 100 50 100 100 100 100 100 100 100 50 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABT 0 0 750 0
+54 8 0 710 742 334 420 27 54 7 whip
+-80 -80 -80 -80
+STANDING STANDING male 1000
+0 mage huge ABCDEFGHIJK
+W 1
+
+#10331
+king elf~
+the sea elf king~
+The king sits here passing judgment and dispencing justice.
+~
+This elf wears the look of royalty in every feature about him.  He sits
+regally here, ready to rule as is neccessary for the betterment of his
+people.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABR DJPQ BH 1000 0
+55 10 0 726 767 10000 10000 27 55 8 pierce
+-80 -80 -80 -80
+STANDING STANDING male 2000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10332
+horseshoe crab~
+the crab~
+The little horseshoe crab is running amok.
+~
+The crab is running helter skelter around the room with his companions,
+getting into and climbing all over everything.  
+~
+centipede~
+100 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 
+AB JVZ 0 0 0
+25 0 0 174 190 205 265 12 25 3 claw
+-10 -10 -10 -10
+STANDING STANDING neutral 0
+0 mage small ACK
+W 5
+
+#10333
+royal guard~
+the royal guard~
+A royal guard is playing cards at a table.
+~
+A big elf is here taking it easy, playing cards with his buddies.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 
+ABT J 0 400 0
+15 0 0 99 110 101 101 1 20 2 slash
+30 30 30 30
+STANDING STANDING neutral 300
+0 mage medium ABCDEFGHIJK
+W 3
+
+#10334
+yeti~
+a yeti~
+A large yeti rears up and attacks.
+~
+Standing at 8ft tall and over 800 pounds of fur, teeth and claws, this
+humanoid is not a creature to mess with.  Its white fur helps it hide from
+intruders though it shows no evidence of wanting to hide now.  
+~
+human~
+100 100 50 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 H 0 0
+50 3 0 613 641 2204 3152 25 50 7 claw
+-70 -70 -70 -70
+STANDING STANDING male 1200
+0 mage medium ABCDEFGHIJK
+W 1
+
+#10335
+stampeding horse~
+a stampeding horse~
+A stampeding horse bears down apon you.
+~
+~
+human~
+150 100 100 100 100 50 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 
+AB a 0 0 0
+20 0 0 124 134 179 239 10 20 2 charge
+10 10 10 10
+STANDING STANDING neutral 1000
+0 mage large ABCDEFGHIJK
+W 6
+
+#10336
+mantis praying~
+a praying mantis~
+A large praying mantis contemplates its next meal.
+~
+~
+centipede~
+100 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 
+AQ JTVZ 0 0 0
+30 0 0 329 349 220 292 15 30 3 claw
+-20 -20 -20 -20
+STANDING STANDING neutral 2000
+0 mage medium ACK
+W 1
+
+#10337
+brontosaurus dinosaur~
+a brontosaurus~
+A huge beast towers over the jungle landscape.
+~
+~
+bear~
+100 50 100 50 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 
+ABT Jc 0 0 0
+50 3 0 811 844 329 418 25 50 7 chomp
+-70 -70 -70 -70
+STANDING STANDING neutral 0
+0 mage large ABCDEFHJKUV
+W 1
+
+#10338
+sand golem~
+a sand golem~
+The sand coallesces into the rough shape of a man.
+~
+~
+doll~
+150 50 100 0 0 150 150 100 0 100 50 150 100 0 0 100 100 100 0 100 150 100 0 100 100 100 
+ACT V H 0 0
+40 1 0 339 357 287 356 20 40 5 pound
+-40 -40 -40 -40
+STANDING STANDING neutral 0
+0 mage medium ABCGHK
+W 2
+#0
+
+#OBJECTS
+#10251
+potion heal healing~
+a potion of {&healing{0~
+A potion of {&healing{0 is here.~
+potion G AO
+45 'heal' '' '' ''
+30 10 200
+
+#10252
+potion sanct sanctuary~
+a potion of {&s{8anctuar{&y{0~
+A potion of {&s{8anctuar{&y{0 is here.~
+potion G AO
+45 'sanctuary' '' '' ''
+30 10 9000
+
+#10253
+potion divine~
+a potion of {&divine {4p{8rotectio{4n{0~
+A potion of {&divine {4p{8rotectio{4n{0 is here.~
+potion ABGI AO
+101 'sanctuary' 'stone skin' '' ''
+101 10 190
+
+#10254
+potion cure light~
+a potion of cure {#light {1wounds{0~
+A potion of cure {#light {1wounds{0 is here.~
+potion G AO
+25 'cure light' '' '' ''
+10 10 60
+
+#10255
+potion cure serious~
+a potion of cure {8serious {1wounds{0~
+A potion of cure {8serious {1wounds{0 is here.~
+potion G AO
+25 '' '' '' ''
+10 10 100
+
+#10256
+potion antidote bottle~
+a bottle of {2a{@ntidot{2e{0~
+A bottle of {2a{@ntidot{2e {0is here.~
+potion G AO
+25 'cure poison' '' '' ''
+10 10 20
+
+#10257
+potion antidote bottle~
+a bottle of {2a{@ntidot{2e{0~
+A bottle of {2a{@ntidot{2e {0is here.~
+potion G AO
+25 'cure poison' '' '' ''
+10 10 20
+
+#10258
+potion cure blindness~
+a potion of cure {8blindness{0~
+A potion of cure {8blindness{0 is here.~
+potion G AO
+25 'cure blindness' '' '' ''
+10 10 50
+
+#10259
+vial holy water~
+a vial of {Wholy {bwater{x~
+A vial of {Wholy {bwater{x is here.~
+potion AGI AO
+25 'bless' '' '' ''
+10 10 50
+
+#10260
+potion armor~
+a potion of {3armor{0~
+A potion of {3armor{0 is here.~
+potion G AO
+15 'armor' '' '' ''
+0 10 50
+
+#10261
+potion negation~
+a potion of {6n{&egatio{6n{0~
+A potion of {6n{&egatio{6n {0is here.~
+potion BG AO
+35 'cancellation' '' '' ''
+20 10 230
+
+#10262
+potion fly flying~
+a potion of {&flying{0~
+A potion of {&flying {0is here.~
+potion G AO
+16 'fly' '' '' ''
+1 10 45
+
+#10263
+potion true sight~
+a potion of {8true {#sight{0~
+A potion of {8true {#sight {0is here.~
+potion G AO
+15 '' '' '' ''
+0 10 120
+
+#10264
+potion mana~
+A {Rb{rloo{Rd{0 red potion of heal mana~
+A {Rb{rloo{Rd{0 red potion of heal mana is here.~
+potion AN AO
+50 'restore mana' 'restore mana' 'restore mana' ''
+35 10 150
+
+#10265
+green portal midgaard~
+a {Ggreen{0 portal to Midgaard~
+A {Ggreen{0 portal to Midgaard stands here.~
+portal O 0
+0 0 A 3014 0
+0 500 0
+
+#10266
+yellow portal new thalos~
+a {yyellow{0 portal to New Thalos~
+A {yyellow{0 portal to New Thalos stands here.~
+portal O 0
+0 0 A 9506 0
+0 500 0
+
+#10267
+cubic quest net stars~
+a {bN{Be{bt{n made of {WS{ntar{Ws{x~
+A {bN{Be{bt{n made of {WS{ntar{Ws{x lies on the ground.~
+gem W AO
+0 0 0 0 0
+0 1 500000
+
+#10275
+treasue silver~
+a treasure trove of silver~
+A sea of coins spreads across the floor in a wave of silver.~
+money 0 A
+723 0 0 0 0
+0 0 0
+
+#10276
+silver dragon leggings~
+a set of silver dragon leggings~
+A set of silver leggings gleam in the sun.~
+armor AGIKQ AF
+11 6 11 11 0
+45 200 2000
+A 2 -2
+A 1 2
+A 18 2
+A 19 2
+
+#10277
+silver dragon helm~
+a silver dragon helm~
+A gleaming silver helmet rests on the ground.~
+armor AGIKQ AE
+11 11 7 11 0
+45 200 2000
+A 2 -2
+A 1 2
+A 19 2
+A 18 2
+
+#10278
+silver dragon arm guards~
+a set of silver dragon arm guards~
+A set of silver plates gleam in the sun.~
+armor AGIKQ AI
+7 11 11 11 0
+45 200 2000
+A 2 -2
+A 1 2
+A 19 2
+A 18 2
+
+#10279
+ranger studded leather jacket~
+a  ranger's studded leather jacket~
+A jacket made of soft leather with metallic studds has been dropped here.~
+armor GK AD
+11 7 11 8 0
+40 100 1000
+A 18 2
+A 1 -1
+A 17 -3
+
+#10280
+hummingbird~
+a hummingbird~
+A small hummingbird flits about.~
+armor GK AQ
+9 10 12 7 0
+60 1 2000
+A 19 7
+A 18 7
+
+#10281
+sapling spear~
+{gS{ya{Yp{gl{Yi{yn{gg S{yp{Ye{ya{gr{x~
+{gS{ya{Yp{gl{Yi{yn{gg S{yp{Ye{ya{gr{x is here.~
+weapon GH AN
+exotic 13 14 sliver DEHJ
+101 40 3000
+A 18 25
+A 19 25
+A 13 303
+A 20 -2
+
+#10282
+squid beak~
+a squid beak~
+A wickedly curved shard of bone has been dropped here.~
+weapon BGJ AN
+dagger 8 8 bite 0
+50 80 2000
+A 19 3
+A 18 1
+
+#10300
+marble collar~
+a marble collar~
+A thin collar made of marble rests here.~
+armor ABKY AC
+6 6 6 5 0
+25 10 2000
+A 19 2
+A 18 2
+
+#10301
+table chair~
+a small table with 2 chairs~
+A small table with two chairs sits by the window.~
+furniture 0 0
+2 600 ABEHKN 50 50
+0 0 0
+
+#10302
+lobster~
+a lobster~
+A boiled 2 lb lobster covered in melted butter is here.~
+food 0 A
+20 40 0 0 0
+0 1 20
+
+#10303
+oysters~
+some oysters~
+A plate of oysters on the half shell is here.~
+food 0 A
+4 8 0 0 0
+0 1 10
+
+#10304
+steak flounder~
+a flounder steak~
+A boiled steak of flounder is here.~
+food 0 A
+18 12 0 0 0
+0 1 10
+
+#10305
+scallops~
+scallops~
+A plate of scallops (priced daily) is here.~
+food 0 A
+8 10 0 0 0
+0 1 8
+
+#10306
+crabcakes~
+crabcakes~
+Some crabcakes wait to be eaten.~
+food 0 A
+8 6 0 0 0
+0 1 15
+
+#10307
+fish net bag~
+a fish net bag~
+A bag made of a fishing net lies here.~
+container 0 AO
+75 0 0 10 100
+1 5 75
+
+#10308
+treasure chest~
+a treasure chest~
+A strong looking chest lies here.~
+container 0 AO
+100 0 0 50 100
+5 10 100
+
+#10309
+gem light~
+a gem of light~
+A brightly shining gem catches your eye.~
+light 0 AO
+0 0 999 0 0
+1 1 500
+
+#10310
+fountain marble~
+a marble fountain~
+A large marble fountain stands in the center of the square.~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0
+E
+fountain~
+A large statue of Poseidon stands in the middle spewing out water.  
+~
+
+#10311
+blue robes~
+blue robes~
+A pile of blue cloth rests on the ground.~
+armor AGK AK
+6 6 6 5 0
+25 100 2000
+A 2 2
+
+#10312
+fishing net~
+a fishing net~
+A large pile of twine lies here.~
+staff BG AO
+20 5 5 'haste' 0
+20 10 2200
+
+#10313
+harpoon~
+a harpoon~
+A haft of wood with a rope tied to the end lies here.~
+weapon 0 AN
+exotic 5 5 pierce 0
+4 8 310
+
+#10314
+water bolo~
+a water bolo~
+A bolo rests on the ground~
+weapon 0 AN
+exotic 5 5 water 0
+4 2 440
+
+#10315
+fishing knife~
+a fishing knife~
+A knife with serated edges is here.~
+weapon 0 AN
+dagger 5 5 slice 0
+2 2 180
+
+#10316
+pearl~
+a pearl~
+A small but well formed pearl lies here.~
+gem 0 A
+0 0 0 0 0
+1 1 1000
+
+#10317
+diamond~
+a diamond~
+A diamond catches and reflects the lighting.~
+gem 0 A
+0 0 0 0 0
+1 1 10000
+
+#10318
+aquamarine~
+an aquamarine~
+An aquamarine stone swirls with the color of the sea.~
+gem 0 A
+0 0 0 0 0
+1 1 2500
+
+#10319
+ambergris~
+some ambergris~
+A clump of whale spit sits here.~
+treasure 0 A
+0 0 0 0 0
+1 1 7500
+
+#10320
+tortoise shell shield~
+a tortoise shell shield~
+A plate covered in green and yellow streaks lays here.~
+armor 0 AJ
+3 3 3 0 0
+10 10 1500
+
+#10321
+tortoise shell gauntlets~
+a pair of tortoise shell gauntlets~
+Some gauntlets covered in green and yellow streaks lays here.~
+armor 0 AH
+3 3 3 0 0
+10 30 1500
+
+#10322
+tortoise skin boots~
+a pair of tortoise skin boots~
+Some boots covered in green and yellow streaks lays here.~
+armor 0 AG
+3 3 3 0 0
+10 20 1200
+
+#10323
+tortoise shell leg plates~
+a set of tortoise shell leg plates~
+Some plates covered in green and yellow streaks lays here.~
+armor 0 AF
+3 3 3 1 0
+10 20 1500
+
+#10324
+tortoise shell arm plates~
+a set of tortoise shell arm plates~
+Some plates covered in green and yellow streaks lays here.~
+armor 0 AI
+3 0 3 3 0
+10 20 1500
+
+#10325
+tortoise shell girth~
+a tortoise shell girth~
+A plate covered in green and yellow streaks lays here.~
+armor 0 AL
+0 3 3 3 0
+10 30 1200
+
+#10326
+tortoise shell plate~
+a tortoise shell plate~
+A plate covered in green and yellow streaks lays here.~
+armor 0 AD
+3 3 3 0 0
+10 60 2000
+
+#10327
+tortoise shell helm~
+a tortoise shell helm~
+A helm covered in green and yellow streaks lays here.~
+armor 0 AE
+3 3 3 0 0
+10 30 1200
+
+#10328
+seaweed bracelet~
+a seaweed bracelet~
+A bracelet made of seaweed rests on the ground.~
+armor AG AM
+3 3 3 0 0
+10 10 2500
+A 5 1
+A 4 1
+
+#10329
+a black pearl necklace~
+a black pearl necklace~
+A black pearl necklace glows with an inner brilliance.~
+armor 0 AC
+3 3 0 0 0
+10 10 2500
+A 1 1
+
+#10330
+trident coral~
+a coral trident~
+A three pronged trident made of coral lies here.~
+weapon 0 AN
+polearm 10 10 drowning E
+75 100 3000
+
+#10331
+shield coral~
+a coral shield~
+You see a finely wrought shield with elven runes along its edge.~
+armor 0 AJ
+15 15 15 15 0
+75 200 2500
+A 13 10
+A 17 -2
+
+#10332
+coral girth~
+a coral girth~
+You see a finely wrought girth with elven runes along its edge.~
+armor 0 AL
+13 13 13 13 0
+76 0 2500
+A 12 10
+A 20 -2
+A 13 60
+
+#10333
+coral sleeves~
+a set of coral sleeves~
+You see a finely wrought pair of sleeves with elven runes along its edinv~
+armor 0 AI
+14 14 14 14 0
+75 20 2000
+A 12 10
+A 20 -3
+A 1 2
+
+#10334
+coral gauntlets~
+a pair of coral gauntlets~
+You see a finely wrought pair of gauntlets with elven runes along its edge.~
+armor 0 AH
+13 13 13 13 0
+75 200 3200
+A 5 1
+A 12 60
+
+#10335
+coral boots~
+a pair of coral boots~
+You see a finely wrought pair of boots with elven runes along its edge.~
+armor 0 AG
+13 13 13 13 0
+75 200 3300
+A 4 1
+A 20 -3
+A 3 2
+
+#10336
+coral leggings~
+a pair of coral leggings~
+You see a finely wrought pair of leggings with elven runes along its edge.~
+armor 0 AF
+12 12 12 12 0
+75 200 1500
+A 14 -10
+A 3 1
+A 12 10
+
+#10337
+coral helm~
+a coral helm ~
+A winged helmet made of coral lies here.~
+armor 0 AE
+14 14 14 14 0
+75 200 3500
+A 12 10
+A 2 1
+A 20 -3
+A 13 60
+
+#10338
+coral plate~
+coral plate~
+A large plate made of coral lies here.~
+armor 0 AD
+15 15 15 15 0
+76 300 5000
+A 12 10
+A 1 1
+A 13 30
+
+#10339
+alter white marble~
+a white marble alter~
+A marble alter is here used to pray to Poseidon for mercy.~
+furniture 0 0
+1 300 ABEHKN 50 50
+0 0 0
+
+#10340
+bed canopy~
+a canopy bed~
+A large mahogany bed sits in the corner of the room.~
+furniture 0 0
+2 500 ABEHKN 50 50
+0 0 0
+E
+bed~
+It looks like a very comfortable bed with down pillows, silken sheets and
+a puffy comforter.  It sure would be comfortable to sleep on.  
+~
+
+#10341
+corner table~
+a table~
+A beat up wooden table is open in the corner.~
+furniture 0 0
+2 500 ABEHKN 50 50
+0 0 0
+E
+table~
+It has markings on it surface where someone has carved with a knife.  It
+says: 'FOR A GOOD TIME CALL 1-800-IMP-LOVE' 
+~
+
+#10342
+wall table~
+a table~
+There is a free table along the wall.~
+furniture 0 0
+2 500 ABEHKN 50 50
+0 0 0
+E
+table~
+~
+E
+wall~
+~
+E
+wall~
+It has markings on it surface where someone has carved with a knife.  It
+says: "Dischord wears womens underwear!!"  
+~
+
+#10343
+center table~
+a table~
+A beat up table available in the center of the room.~
+furniture 0 0
+2 500 ABEHKN 50 50
+0 0 0
+E
+table~
+It has markings on it surface where someone has carved with a knife.  It
+says: 'War coming and you are short a few men?  Need an assasin to take out
+your mother-in-law?  Call us.  Crazy Akbars Mercenaries.  We are located on
+East Main St.  In New Thalos.  Mention this ad for a discount.  
+~
+E
+center~
+It has markings on it surface where someone has carved with a knife.  It
+says: 'War coming and you are short a few men?  Need an assasin to take out
+your mother-in-law?  Call us.  Crazy Akbars Mercenaries.  We are located on
+East Main St.  In New Thalos.  Mention this ad for a discount.  
+~
+
+#10344
+barrel grog~
+a barrel of grog~
+A barrel of grog has been left here.~
+drinkcontainer 0 A
+150 150 'dark ale' 0 0
+1 100 160
+
+#10345
+mug grog~
+a mug of grog.~
+A mug of grog is sitting here.~
+drinkcontainer 0 A
+16 16 'dark ale' 0 0
+1 50 20
+
+#10346
+port wine~
+a bottle of port wine~
+A large bottle of wine waits to be opened.~
+drinkcontainer 0 A
+50 50 'rose wine' 0 0
+1 50 100
+
+#10347
+cloak elven~
+an elven cloak~
+A cloak of delicatly woven fabric lies here.~
+armor G AC
+3 3 3 1 0
+10 50 1500
+A 17 -1
+
+#10348
+scroll identify~
+a scroll of identify~
+A scroll has been carelessly left here.~
+scroll G AO
+12 'identify' '' '' ''
+1 1 890
+E
+scroll~
+This scroll has a magic formula drawn upon it:
+                   ???
+                 ?      ?
+                       ?
+                     ?
+                     ?
+                     *
+~
+
+#10349
+wand colour spray rainbow~
+a wand of rainbows~
+A stick made of crystal lies here.~
+wand AG AO
+20 10 10 'faerie fire' 0
+20 10 6000
+
+#10350
+staff shocking storms~
+a staff of storms~
+A wooden staff with lighting bolts etched along its length lies here.~
+staff BG AO
+20 10 10 'lightning bolt' 0
+20 100 3500
+
+#10351
+potion blessing poseideon~
+a potion of Poseidon's blessing~
+A potion of Poseidon's blessing is here.~
+potion G AO
+25 'sanctuary' 'bless' '' ''
+25 10 8000
+
+#10352
+potion turtle shell~
+a potion of turtle shells~
+A potion of turtle shells is here.~
+potion G AO
+25 'stone skin' '' '' ''
+25 10 4000
+
+#10353
+elixir whale~
+an elixir of whale strength~
+An elixir of whale strength is here.~
+potion G AO
+25 'giant strength' '' '' ''
+25 10 2000
+
+#10354
+phial manta essence~
+a phial of essence of Manta Ray~
+A phial of essence of Manta Ray is here.~
+potion G AO
+25 'cure light' '' '' ''
+25 1 1500
+
+#10355
+kelp tree~
+a kelp tree~
+Beautiful kelp trees line the walk way.~
+trash 0 0
+0 0 0 0 0
+0 0 0
+E
+kelp~
+These beautiful trees have been cultivated by the sea elves to help add a
+natural touch to their wonderous city.  They are a pale blue-green of the
+ocean and wave as though still affected by an ocean current.  
+~
+E
+tree~
+These beautiful trees have been cultivated by the sea elves to help add a
+natural touch to their wonderous city.  They are a pale blue-green of the
+ocean and wave as though still affectedby an ocean current.  
+~
+
+#10356
+bench~
+a bench~
+A wooden bench leans against the wall.~
+trash 0 0
+B DEGJ ABEHKN CFG CFG
+0 0 0
+
+#10357
+sharkbane sword~
+sharkbane~
+A very sharp blade with serated edges lies here.~
+weapon AB AN
+sword 9 9 slice D
+35 300 2000
+A 19 5
+A 18 1
+E
+sword~
+You see a very sharp blade of coral.  Its pommel is made of bone and its
+blade of coral.  Along its entire length is small serated edges.  It would
+appear to do ALOT of damage.  
+~
+
+#10358
+seaweed belt~
+a seaweed belt~
+A thin belt made of seaweed lies here.~
+trash 0 0
+0 0 0 0 0
+0 0 0
+E
+belt~
+This belt is made from a thin but tough material made from braided
+seaweed.  It is very strong.  
+~
+
+#10359
+sea dragon plate~
+sea dragon plate~
+A big plate made of dragonskin is here.~
+armor BGLQ AD
+12 12 12 9 0
+50 400 2000
+A 19 2
+A 2 2
+A 13 50
+A 12 -20
+E
+plate~
+This armor is made of the skin from the rare sea dragon.  
+~
+
+#10360
+sea dragon sleeves~
+sea dragon sleeves~
+Sleeves made from the soft underbelly of a dragon is here.~
+armor AGLQ AI
+9 12 12 12 0
+50 200 2000
+A 18 2
+A 13 30
+A 12 -15
+E
+sleeves~
+These sleeves are made from the skin of the rare sea dragon.  
+~
+
+#10361
+sea dragon boots~
+sea dragon boots~
+Boots made from the skin of A dragon lay here.~
+armor AGLQ AG
+12 12 12 8 0
+75 200 2000
+A 2 1
+E
+boots~
+These boots are made of the skin from the rare sea dragon.  
+~
+
+#10362
+sea dragon scale shield~
+a sea dragon scale ~
+A flat plate from a dragon lies here.~
+armor AGLQ AJ
+12 8 13 12 0
+50 200 2000
+A 19 2
+A 13 50
+A 12 -20
+A 2 2
+E
+scale~
+This scale seems to come from the rare sea dragon.  
+~
+
+#10363
+dark ring ~
+a dark ring~
+Something catches a tiny flash of light.~
+armor BFKLM AB
+12 8 12 12 0
+50 10 1000
+A 19 2
+A 18 2
+E
+ring~
+This ring seems to fade in and out of existance.  
+~
+
+#10364
+cloak~
+a Cloak of Armor~
+A shiny grey cloak sits here.~
+armor ABG AK
+12 13 12 9 0
+50 30 2000
+A 12 20
+A 3 2
+A 18 1
+E
+cloak~
+It is a finely made cloak with swirls of gold and silver along its hem.  
+~
+
+#10365
+dolphin statue~
+a dolphin statue~
+A small statue of a dolphin sits here.~
+treasure AG AO
+0 0 0 0 0
+40 200 5000
+A 3 2
+A 4 2
+A 13 20
+A 12 100
+E
+statue~
+A small stutue of a dolphin riding a cresting wave.  Oddly enough its
+eyes seem to follow you and you could swear the dolphin is smiling at you.  
+~
+
+#10366
+Nightstand~
+a nightstand~
+A finely wrought nightstand sits beside the bed.~
+container 0 0
+10000 0 0 1000 0
+0 0 0
+E
+nightstand~
+A beatiful nightstand sits beside the bed.  It holds many of the
+possessions the Queen cherishes most.  
+~
+
+#10367
+coral tiara~
+a coral tiara~
+A small tiara rests on the ground.~
+armor ABG AE
+12 13 12 18 0
+50 10 3000
+A 19 3
+A 18 3
+A 1 -2
+A 13 50
+A 12 50
+E
+tiara~
+This is a small coral tiara set with aquamarine gems.  It is the crown of
+the Queen of the Sea Elves.  
+~
+
+#10368
+conch shell~
+a conch shell~
+A shell waits to be picked up.~
+portal BG AO
+3 0 C 10300 0
+1 10 231
+E
+conch~
+This soft pink shell is warm to the touch.  If you listen closely you can
+hear the ocean in your ear.  
+~
+E
+shell~
+~
+
+#10369
+tentacle whip~
+a tentacle~
+A rubbery tentacle of an octopus waits to be picked up.~
+weapon BIM AN
+whip 7 7 suction 0
+50 200 5000
+A 18 2
+A 19 2
+E
+temtacle~
+~
+
+#10370
+air bubble~
+an air bubble~
+A large bubble of air bounces along.~
+armor AG AK
+12 12 11 7 0
+50 0 2000
+A 17 -4
+A 2 3
+E
+bubble~
+A shimmering bubble of air forms an impervious shield.
+~
+
+#10371
+trident ice~
+an ice trident~
+A crystaline trident humms with immesurable power.~
+weapon ABGIKL AN
+exotic 8 8 frbite BE
+50 250 3000
+A 2 -2
+A 18 4
+A 19 4
+
+#10372
+water bed~
+a water bed~
+A waterbed rests against the wall.~
+furniture 0 0
+2 600 ABEHKN 50 50
+0 0 0
+
+#10373
+chair~
+a chair~
+A comfortable chair sits here.~
+furniture 0 0
+1 300 ABEHKN 50 50
+0 0 0
+
+#10374
+Book shelf~
+a book shelf~
+A bookshelf is filled to overflowing with books.~
+trash 0 0
+0 0 0 0 0
+0 0 0
+
+#10375
+tapestry~
+a tapestry~
+{0~
+portal 0 0
+0 0 A 10392 0
+1 0 113
+E
+tapestry~
+A beautifully crafted tapestry hangs on the wall.  It's surface ripples
+with an unseen magic and the scene pictured almost seems real.  It appears
+to show a cold, white landscape, with snow being whipped about in a wild
+torrent.  
+~
+
+#10376
+window~
+a window~
+A window seems to float above the ground.~
+portal AG 0
+0 0 A 10375 0
+0 0 0
+E
+window~
+This window if you want to call it that seems to lead to a hallway in
+some unknown palace.  Despite walking all around it a back cannot be seen as
+this 'window' seems to be only 2 dimensional.  
+~
+
+#10377
+tapestry~
+a tapestry~
+{0~
+portal 0 0
+0 0 A 10393 0
+0 0 0
+E
+tapestry~
+A beautifully crafted tapestry hangs on the wall.  It's surface ripples
+with an unseen magic and the scene pictured almost seems real.  It appears
+to show a large group of wild horses charging in a pack through a dusty
+canyon.  
+~
+
+#10378
+window~
+the window~
+A window seems to float above the ground.~
+portal AG 0
+0 0 A 10376 0
+0 0 0
+E
+window~
+This window if you want to call it that seems to lead to a hallway in
+some unknown palace.  Despite walking all around it a back cannot be seen as
+this 'window' seems to be only 2 dimensional.  
+ 
+~
+
+#10379
+tapestry~
+a tapestry~
+{0~
+portal 0 0
+0 0 A 10394 0
+0 0 0
+E
+tapestry~
+A beautifully crafted tapestry hangs on the wall.  It's surface ripples
+with an unseen magic and the scene pictured almost seems real.  It appears
+to show the shifting sands of a desert landscape, with dunes rising and
+falling like the waves of an ocean.  
+~
+
+#10380
+window~
+a window~
+A window seems to float above the ground.~
+portal AG 0
+0 0 A 10377 0
+0 0 0
+
+#10381
+bleached skull~
+a smashed skull~
+A cracked skull is half covered by sand.~
+trash 0 0
+0 0 0 0 0
+0 2 0
+E
+skull~
+This skull seems to have been delivered a crushing blow to the left side
+leaving a gaping hole ranging from the eye socket to the middle back. 
+Whatever did this had the strength of a giant.  
+~
+
+#10382
+tapestry~
+a tapestry~
+{0~
+portal 0 0
+0 0 A 10395 0
+1 0 140
+E
+tapestry~
+A beautifully crafted tapestry hangs on the wall.  It's surface ripples
+with an unseen magic and the scene pictured almost seems real.  It appears
+to show a steamy forest with large ferns and trees standing below a bubbling
+volcano.  
+~
+
+#10383
+window~
+a window~
+A window seems to float above the ground.~
+portal AG 0
+0 0 A 10378 0
+1 0 114
+
+#10384
+tapestry~
+a tapestry~
+{0~
+portal 0 0
+0 0 A 10396 0
+0 0 0
+E
+tapestry~
+A beautifully crafted tapestry hangs on the wall.  It's surface ripples
+with an unseen magic and the scene pictured almost seems real.  It appears
+to show an underwater landscape with a dark cave.  
+~
+
+#10385
+window~
+a window~
+A small window floats several feet above the ground.~
+portal AG 0
+0 0 A 10379 0
+0 0 0
+
+#10386
+tapestry~
+a tapestry~
+{0~
+portal 0 0
+0 0 A 10397 0
+0 0 0
+E
+tapestry~
+A beautifully crafted tapestry hangs on the wall.  It's surface ripples
+with an unseen magic and the scene pictured almost seems real.  It appears
+to show a close up of a leaf on a large palm like tree.  
+~
+
+#10387
+window~
+a window~
+A window floats several feet over the ground.~
+portal AG 0
+0 0 A 10380 0
+0 0 0
+
+#10388
+tapestry ~
+a tapestry~
+{0~
+portal 0 0
+0 0 A 10398 0
+0 0 0
+E
+tapestry~
+A beautifully crafted tapestry hangs on the wall.  It's surface ripples
+with an unseen magic and the scene pictured almost seems real.  It appears
+to show a warm oak forest with small animals scampering about.  
+~
+
+#10389
+window ~
+a window~
+A window hovers several feet above the ground.~
+portal AG 0
+0 0 A 10381 0
+0 0 0
+
+#10390
+tapestry~
+a tapestry~
+{0~
+portal 0 0
+0 0 A 10399 0
+0 0 0
+E
+tapestry~
+A beautifully crafted tapestry hangs on the wall.  It's surface ripples
+with an unseen magic and the scene pictured almost seems real.  It appears
+to show a mountain top high above the clouds with a cave mouth blocked by
+gleaming silver doors.  
+~
+
+#10391
+window~
+a window~
+A window hovers several feet above the ground.~
+portal AG 0
+0 0 A 10382 0
+0 0 0
+
+#10392
+scholar's dirk~
+a scholar's dirk~
+A thin, sharp dagger rests point down in the ground.~
+weapon GKL AN
+dagger 8 7 pierce DE
+50 30 2000
+A 19 4
+A 18 4
+
+#10393
+royal key~
+the royal key~
+A mother of pearl key rests on the ground~
+key 0 A
+0 0 0 0 0
+50 10 10446
+
+#10394
+torque ivory~
+an ivory torque~
+A large neckpiece made entirely of ivory shines brightly.~
+armor ABGIK AC
+13 13 13 6 0
+50 100 1000
+A 12 30
+A 19 4
+A 18 4
+
+#10395
+shovel~
+a shovel~
+A small shovel rests on the ground.~
+key 0 A
+0 0 0 0 0
+1 1 212
+
+#10396
+brontoburger burger~
+a brontoburger~
+A delicious hunk of meat between to chunks of bread is on the ground.~
+food 0 A
+100 50 0 0 0
+1 10 40
+
+#10397
+boots yeti~
+boots of the yeti~
+A pair of warm furry boots sits here.~
+armor 0 AG
+12 13 12 8 0
+50 70 3000
+A 19 2
+A 1 2
+
+#10398
+throne~
+a throne~
+The throne of the sea elf king sits on the dais.~
+furniture 0 0
+1 300 ABEHKN 50 50
+0 0 0
+E
+throne~
+Rather simple by royal standards, this throne serves only a decrotive
+function.  It is made of pure ivory with mother of pearl inlay along its
+entire length.  
+~
+
+#10399
+jacuzzi~
+a {^Ja{&cuz{^zi{0~
+A warm {^Ja{7cuz{^zi{x looks like it would sooth your weary bones.~
+furniture 0 0
+2 90000 CFILO 50 50
+0 0 0
+#0
+
+#ROOMS
+#10252
+The Portal Room~
+The Portal Room was placed here by the mighty Darhoth so that his beloved
+followers might access the cities of Midgaard and New Thalos with ease.  Not
+only is Darhoth a benevolent immortal, he is also one who realizes the
+importance of the relationship of all three cities.  The portals have not
+only increased trade, they have increased the economy, making it a booming
+and thriving one.  
+~
+0 0
+D2
+~
+~
+0 0 10332
+S
+
+#10255
+Silver Dragon's Lair~
+A wide cavern stands behind the silver doors.  It seems to fill the
+entire top of the mountain creating a room bigger the the grandest halls of
+the most powerful kings.  However, its what is in the room that is the
+bigger concern.  
+~
+8 0
+D2
+~
+~
+0 0 10399
+S
+
+#10256
+An Oak Forest~
+A wide oak forest stretches off as far as the eyes can see.  The large
+trunks of the grand trees are evenly spaced from obe another, each having
+claimed its place in the forest as its own.  Small animals scamper about and
+a warm summer breeze blows through the trees, bringing along the clean,
+strong sent of evergreens and pinecones.  
+~
+0 0
+D0
+~
+~
+0 0 10257
+D1
+~
+~
+0 0 10398
+D2
+~
+~
+0 0 10258
+D3
+~
+~
+0 0 10259
+S
+
+#10257
+An Oak Forest~
+A wide oak forest stretches off as far as the eyes can see.  The large
+trunks of the grand trees are evenly spaced from obe another, each having
+claimed its place in the forest as its own.  Small animals scamper about and
+a warm summer breeze blows through the trees, bringing along the clean,
+strong sent of evergreens and pinecones.  
+~
+0 0
+D0
+~
+~
+0 0 10259
+D1
+~
+~
+0 0 10258
+D2
+~
+~
+0 0 10256
+D3
+~
+~
+0 0 10398
+S
+
+#10258
+An Oak Forest~
+A wide oak forest stretches off as far as the eyes can see.  The large
+trunks of the grand trees are evenly spaced from obe another, each having
+claimed its place in the forest as its own.  Small animals scamper about and
+a warm summer breeze blows through the trees, bringing along the clean,
+strong sent of evergreens and pinecones.  
+~
+0 0
+D0
+~
+~
+0 0 10256
+D1
+~
+~
+0 0 10259
+D2
+~
+~
+0 0 10398
+D3
+~
+~
+0 0 10260
+S
+
+#10259
+An Oak Forest~
+A wide oak forest stretches off as far as the eyes can see.  The large
+trunks of the grand trees are evenly spaced from obe another, each having
+claimed its place in the forest as its own.  Small animals scamper about and
+a warm summer breeze blows through the trees, bringing along the clean,
+strong sent of evergreens and pinecones.  
+~
+0 0
+D0
+~
+~
+0 0 10398
+D1
+~
+~
+0 0 10256
+D2
+~
+~
+0 0 10260
+D3
+~
+~
+0 0 10258
+S
+
+#10260
+An Oak Forest~
+A wide oak forest stretches off as far as the eyes can see.  The large
+trunks of the grand trees are evenly spaced from obe another, each having
+claimed its place in the forest as its own.  Small animals scamper about and
+a warm summer breeze blows through the trees, bringing along the clean,
+strong sent of evergreens and pinecones.  
+~
+0 0
+D0
+~
+~
+0 0 10259
+D1
+~
+~
+0 0 10258
+D3
+~
+~
+0 0 10398
+S
+
+#10261
+A Cave~
+The darkness of the cave is daunting.  Even the strongest of light
+sources cannot penatrate the forbodding blackness.  Whats even worse is that
+there is something else in here and it just moved.  
+~
+0 0
+D2
+~
+~
+0 0 10396
+S
+
+#10300
+Underwater Path~
+Small schools of fish swim by as well as larger predetors looking for a
+meal.  Beautiful shoals of coral dot the landscape as well as large kelp
+beds.  A gleeming white city covered with a magical dome to the north
+dominates the seascape.  
+~
+12 0
+D0
+~
+~
+0 0 10301
+S
+
+#10301
+Front Gate of Seahome~
+A towering wall stands here rising at least 30 feet in the air.  It is
+beautiful in its stark whiteness and the seemlessness of its surface.  In
+the distance are towering spires of a castle and the bustle of a thriving
+city can be heard.  A golden gate is the only way into the city.  Two
+statues flank the gate on either side.  Overhead a large bubble shimmers
+keeping the powerful sea out of the city proper and allowing air for the
+citizens to breath.  It would seem some great magic is at play here.  
+~
+8 0
+D0
+~
+~
+0 0 10305
+D2
+~
+~
+0 0 10300
+S
+
+#10302
+Intersection of Pacific St. and Neptune Ave.~
+Here the cobblestone path of Pacific street meets Neptune Avenue.  The
+tall gleaming walls of the city rise up to the south and west forming, with
+the magical dome, a protective barrier against the mighty sea.  The gleaming
+white walls are free of grafiti and the ground is swept clean of dirt and
+trash, a testiment to the people and leaders of the city.  
+~
+8 0
+D0
+~
+~
+0 0 10309
+D1
+~
+~
+0 0 10303
+S
+
+#10303
+West Pacific Street~
+The bustle of city life swarms through the streets here.  A sign is on a
+building to the north and Pacific street continues to the east.  Meanwhile
+there is an intersection to the west.  
+~
+8 0
+D1
+~
+~
+0 0 10304
+D3
+~
+~
+0 0 10302
+E
+sign~
+The sign reads:
+*********************************
+*     Tovar's General Store     *
+*     ---------------------     *
+*  Purveyor of all your general *
+*          item needs           *
+*********************************
+~
+E
+sign~
+The sign has the symbol of a net and a rod and bears
+the inscription:  TOVAR'S GENERAL STORE
+~
+S
+
+#10304
+West Pacific Street~
+Small shops clean shops line the road to the north vying for the gold
+coins of the more descriminating shoppers.  Wonderful aromas come from one
+of the stores who's obvious business is the sale of seafood.  Pacific Street
+continues to the west while a large square can be seen to the east.  
+~
+8 0
+D1
+~
+~
+0 0 10305
+D3
+~
+~
+0 0 10303
+S
+
+#10305
+Lorilith Square~
+A large square paved with cobblestone opens up in a chaotic mass of
+shoppers and peddlers.  Known as Lorilith Square to the elves of Seahome, it
+goes by the name of Peddlers Haven to those who frequently visit the area. 
+Here small craftsmen hope to sell there goods to the many visitors who come
+to the city.  Entertainers juggle and do tricks to entertain the shoppers
+and there are a few bards singing tales to keep up the spirits.  Most of the
+goods here are of little to no value and rows of small buildings to the east
+and west look to be more promising.  A tree lined road continues northward
+to the gleaming spires of a castle.  
+~
+8 0
+D0
+~
+~
+0 0 10312
+D1
+~
+~
+0 0 10306
+D2
+~
+~
+0 0 10301
+D3
+~
+~
+0 0 10304
+S
+
+#10306
+East Pacific Street~
+While this city prides itself on its cleanliness and citizenship, it like
+most cities does have its seedier side.  (Although seedy to the sea elves is
+high brow in most other cities.)  To the north is a large building that goes
+by the name of The Drunken Dolphin Inn, the only bar in this entire city. 
+Laughter can be heard coming from inside, hinting at the fun time that can
+be found there.  A very busy city square can be seen to the west while the
+crowds disperse and the area looks to get quieter to the east.  
+~
+8 0
+D0
+~
+~
+0 0 10313
+D1
+~
+~
+0 0 10307
+D3
+~
+~
+0 0 10305
+S
+
+#10307
+East Pacific Street~
+It is quieter hear than in most parts of the city.  The cobblestone road
+travels between the great white wall to the south and the wall of the
+Drunken Dolphin Inn to the north, thus there is not much for people to look
+at here.  The road intersects with another to the east while the sounds of
+revelling can be heard to the west.  
+~
+8 0
+D1
+~
+~
+0 0 10308
+D3
+~
+~
+0 0 10306
+S
+
+#10308
+Intersection of Pacific St. and Poseidon St.~
+A wide intersection connects Pacific St running west and Poseidon St
+running north.  It is a little quieter here than other parts of the city.  
+~
+8 0
+D0
+~
+~
+0 0 10315
+D3
+~
+~
+0 0 10307
+S
+
+#10309
+Southern Neptune Ave~
+This path is thinner than the others in town as it merely acts as a
+transition between the rows of shops to the north and south.  Elves move
+about freely, busy with their own individual tasks.  
+~
+8 0
+D0
+~
+~
+0 0 10316
+D2
+~
+~
+0 0 10302
+S
+
+#10312
+Southern Ocean Blvd~
+This wide path lads directly to the castle through town.  It is lined
+with kelp trees and is a popular spot among visitors.  The road continues
+north and south.  
+~
+8 0
+D0
+~
+~
+0 0 10319
+D2
+~
+~
+0 0 10305
+S
+
+#10313
+The Common Room~
+This is the common room of the Drunkin' Dolphin Inn.  It is filled with
+with patrons carousing and having a generally good time.  The waitresses
+appear to be pretty by most standards and they are dealing with the rush
+quite well.  The room is crowded, and only a few open tables appear to be
+left.  The bar itself is to the east while Pacific Road is to the south.  
+~
+8 0
+D2
+~
+~
+0 0 10306
+S
+
+#10315
+Southern Poseidon Street~
+Poseidon Street runs along the eastern length of the great white wall. 
+It is quiet here, almost too quiet....  
+~
+8 0
+D0
+~
+~
+0 0 10322
+D2
+~
+~
+0 0 10308
+S
+
+#10316
+Southern Neptune Ave~
+This path is thinner than the others in town as it merely acts as a
+transition between the rows of shops to the north and south.  Neptune
+continues northward towards an intersection and southward along the western
+face of the great white wall.  
+~
+8 0
+D0
+~
+~
+0 0 10323
+D2
+~
+~
+0 0 10309
+S
+
+#10317
+Citizens House~
+This is the house of one of the families that live in Seahome.  It is
+modestly decorated with pictures depicting seascapes and minimal furniture. 
+A bedroom is to the east.  
+~
+12 0
+D0
+~
+~
+0 0 10324
+D1
+~
+~
+0 0 10318
+S
+
+#10318
+Bedroom~
+This is the bedroom of the elven house.  It is done in a blue pattern
+with an ocean motiff.  The paintings appear to be made of velvet which is a
+bit odd.  Much of the room is occupied by the canopy bed.  
+~
+8 0
+D3
+~
+~
+0 0 10317
+E
+painting~
+A beautiful painting. 
+~
+E
+picture~
+A beautiful painting.  
+~
+S
+
+#10319
+Southern Ocean Blvd~
+This wide path lads directly to the castle through town.  It is lined
+with kelp trees and is a popular spot among visitors.  The road continues
+north and south.  
+~
+8 0
+D0
+~
+~
+0 0 10326
+D2
+~
+~
+0 0 10312
+S
+
+#10322
+Southern Poseidon Street~
+The street is clear here as pedestrians do not seem to wander here as
+much.  The street runs to the north and to south along the east face of the
+great white wall.  
+~
+8 0
+D0
+~
+~
+0 0 10329
+D2
+~
+~
+0 0 10315
+S
+
+#10323
+Intersection of Neptune Avenue and Atlantic Avenue~
+Neptune Avenue continues north -south while Atlantic Avenue runs eastward
+towards a row of shops.  Citizens go about their business confident in the
+guards to provide safety.  
+~
+8 0
+D0
+~
+~
+0 0 10330
+D1
+~
+~
+0 0 10324
+D2
+~
+~
+0 0 10316
+S
+
+#10324
+Western Atlantic Avenue~
+This is the busiest street in all of Seahome with people of all races
+coming to see the fine wares of the elves.  The streets here are made of
+cobblestones and kelp trees are planted along the walk ways to add some
+asthetics.  A rich looking house is to the south (probably a rich citizen)
+and the facade of a church is to the north.  
+~
+0 0
+D1
+~
+~
+0 0 10325
+D2
+~
+~
+0 0 10317
+D3
+~
+~
+0 0 10323
+S
+
+#10325
+Western Atlantic Avenue~
+Cobblestone streets and beautiful kelp trees dominate this picturesque
+city view.  A large church dedicate to the SeaGod Poseidon dominates the
+local arcitecture inviting all who see it to enter.  The streets are
+suprisingly clean here what with all the traffic in the city.  
+~
+0 0
+D1
+~
+~
+0 0 10326
+D3
+~
+~
+0 0 10324
+S
+
+#10326
+Fountain Square~
+This square is the center of life for the city of Seahome.  People of
+every race move to and fro in a bustle of activity reminicent of a beehive. 
+The square's center is dominated by a large fountain.  Shops can be seen to
+the east and west while the castle looms to the north and the grand gates
+are southward 
+~
+8 0
+D0
+~
+~
+0 0 10333
+D1
+~
+~
+0 0 10327
+D2
+~
+~
+0 0 10319
+D3
+~
+~
+0 0 10325
+S
+
+#10327
+Eastern Atlantic Avenue~
+This is the busiest street in all of Seahome with people of all races
+coming to see the fine wares of the elves.  The streets here are made of
+cobblestones and kelp trees are planted along the walk ways to add some
+asthetics.  There is a sign on the building to the north and a banner on the
+building to the south.  The fountain is west and more stores are east.  
+~
+0 0
+D1
+~
+~
+0 0 10328
+D3
+~
+~
+0 0 10326
+E
+banner~
+The Transit System --- Seahome Station
+~
+E
+sign~
+The Fish Tank
+~
+S
+
+#10328
+Eastern Atlantic Avenue~
+This is the busiest street in all of Seahome with people of all races
+coming to see the fine wares of the elves.  The streets here are made of
+cobblestones and kelp trees are planted along the walk ways to add some
+asthetics.  There is a sign on the building to the south.  An intersection
+is to the east and more stores are west.  
+~
+0 0
+D1
+~
+~
+0 0 10329
+D3
+~
+~
+0 0 10327
+E
+sign~
+Potent Potions
+~
+S
+
+#10329
+Intersection of Poseidon Street and Atlantic Avenue~
+Poseidon St continues north-south while Atlantic Avenue runs westward
+towards a row of shops.  Citizens go about their business confident in the
+guards to provide safety.  
+~
+8 0
+D0
+~
+~
+0 0 10336
+D2
+~
+~
+0 0 10322
+D3
+~
+~
+0 0 10328
+S
+
+#10330
+Northern Neptune Ave~
+This is the northern portion of Neptune avenue which runs north-south. 
+It is pleasantly quiet here with flowers and a bench to rest on.  It looks
+like a nice place to relax.  
+~
+8 0
+D0
+~
+~
+0 0 10337
+D2
+~
+~
+0 0 10323
+S
+
+#10331
+Darhoth's Temple~
+This is the private chambers of the high priest of Darhoth.  He is a
+holy elf who believes in his faith.  He will cast spells for you if you ask
+nicely.  (And fork over a little gold as well) 
+~
+1032 0
+D1
+~
+~
+0 0 10332
+H 120 120
+S
+
+#10332
+Darhoth's Temple~
+Wide pews sit in this beautiful decorated cathedral.  Light streams in
+through the stain glass windows to alight apon the religion icons
+representing Darhoth in all his glory.  
+~
+8 0
+D0
+~
+~
+0 0 10252
+D3
+~
+~
+0 0 10331
+S
+
+#10333
+Northern Ocean Blvd~
+This wide path lads directly to the castle through town.  It is lined
+with kelp trees and is a popular spot among visitors.  The road continues
+north and south.  
+~
+8 0
+D0
+~
+~
+0 0 10340
+D2
+~
+~
+0 0 10326
+S
+
+#10335
+pet storage~
+~
+4 0
+S
+
+#10336
+Northern Poseidon Street~
+Poseidon street runs north-south along the western edge of the great
+white wall.  The area is pleasantly uncrowded compaired to the bustle of
+other areas of the city.  
+~
+8 0
+D0
+~
+~
+0 0 10343
+D2
+~
+~
+0 0 10329
+S
+
+#10337
+Northern Neptune Ave~
+This is the northern portion of Neptune avenue which runs north-south. 
+It is pleasantly quiet here with flowers and a bench to rest on.  It looks
+like a nice place to relax.  
+~
+8 0
+D0
+~
+~
+0 0 10344
+D2
+~
+~
+0 0 10330
+S
+
+#10340
+Northern Ocean Blvd~
+This wide path lads directly to the castle through town.  It is lined
+with kelp trees and is a popular spot among visitors.  The road continues
+north and south.  
+~
+8 0
+D0
+~
+~
+0 0 10347
+D2
+~
+~
+0 0 10333
+S
+
+#10342
+Studio Apartment~
+This looks to be a wonderful little studio apartment with a few of the
+castle.  It is currently vacated and goes for only 350 gold pieces a month! 
+Better get it quick you'll never find a place like this at that price.  
+~
+12 0
+S
+
+#10343
+Southern Poseidon Street~
+Poseidon street runs north-south along the western edge of the great
+white wall.  The area is pleasantly uncrowded compaired to the bustle of
+other areas of the city.  
+~
+8 0
+D0
+~
+~
+0 0 10350
+D2
+~
+~
+0 0 10336
+S
+
+#10344
+Intersection of Seaside Drive and Neptune Ave.~
+This is where Seaside Drive running east meets Neptune Ave running south.
+Sea elves of all varieties bustle about doing their best to stay out of your
+way.  
+~
+8 0
+D1
+~
+~
+0 0 10345
+D2
+~
+~
+0 0 10337
+S
+
+#10345
+West seaside Drive~
+The bustle of city life swarms through the streets here.  A sign is on a
+building to the south and Seaside Drive continues to the east.  Meanwhile
+there is an intersection to the west.  
+~
+8 0
+D1
+~
+~
+0 0 10346
+D3
+~
+~
+0 0 10344
+S
+
+#10346
+West Seaside Drive~
+The bustle of city life swarms through the streets here.  A sign is on a
+building to the south and Seaside Drive continues to the west.  Meanwhile
+there is an intersection to the east.  
+~
+8 0
+D1
+~
+~
+0 0 10347
+D3
+~
+~
+0 0 10345
+S
+
+#10347
+Castle Square~
+This square stands before the great Castle of King Dinivar.  It bustles
+with activity like the other squares in town, but here many people stop to
+gaze upon the beauty of the castle.  Seaside Drive runs East and west while
+the castle entrance is north and Fountain Square to the south.  
+~
+8 0
+D0
+~
+~
+0 0 10352
+D1
+~
+~
+0 0 10348
+D2
+~
+~
+0 0 10340
+D3
+~
+~
+0 0 10346
+S
+
+#10348
+East Seaside Drive~
+The bustle of city life swarms through the streets here.  A sign is on a
+building to the south and Seaside Drive continues to the east.  Meanwhile,
+Castle Square is to the west.  
+~
+8 0
+D1
+~
+~
+0 0 10349
+D3
+~
+~
+0 0 10347
+S
+
+#10349
+East Seaside Drive~
+The bustle of city life swarms through the streets here.  Seaside Drive
+continues to the west while there is an intersection to the east.  
+~
+8 0
+D1
+~
+~
+0 0 10350
+D3
+~
+~
+0 0 10348
+S
+
+#10350
+Intersection of Seaside Drive and Poseidon St.~
+A wide intersection connects Seaside Drive running west and Poseidon St
+running South.  It is a little quieter here than other parts of the city.  
+~
+8 0
+D2
+~
+~
+0 0 10343
+D3
+~
+~
+0 0 10349
+S
+
+#10351
+Junk Dealer~
+Hidden deep in the mass of merchants and tents of Peddlars Haven is a
+shop known only as the Junk Dealers.  Here it is said almost anything can be
+bought or sold.  Junk lies everywhere, leading one to beleive nothing of
+value can be found here.  A shifty eyed merchant looks to help you.  
+~
+4 0
+S
+
+#10352
+Castle Entrance~
+This is the gate entering into the Sea Castle.  Anyone wishing to see the
+King should probably set up an appointment.  There is a small PLAQUE
+embedded into a marble column.  
+~
+8 0
+D0
+~
+~
+0 0 10353
+D2
+~
+~
+0 0 10347
+E
+plaque~
+This castle is not for the meek.  If you are below 30 do not enter, or if
+you do so don't say you where never warned.  
+~
+S
+
+#10353
+Hallway~
+The entire castle is built out of seemingly one large peice of cut
+marble.  The arcitecture is amazing in that any blocks that where used where
+placed togeth so well that the meeting point is indistinguishable.  A red
+rug, stark in its contrast to white of the walls runs down the center of the
+walkway.  The hall is to the north while there is a door to the east.  
+~
+8 0
+D0
+~
+~
+0 0 10354
+D1
+~
+door~
+0 0 10357
+D2
+~
+~
+0 0 10352
+S
+
+#10354
+An Intersection~
+This is a hallway in the Sea Elf castle.  Its walls are decorated with
+finely crafted tapestries and pictures depicting underwater life.  Several
+servants rush to and fro trying to finish there tasks.  The hall opens up to
+what appears to be a garden to the north while to the east and south the
+hallway continues.  
+~
+0 0
+D0
+~
+~
+0 0 10361
+D1
+~
+~
+0 0 10355
+D2
+~
+~
+0 0 10353
+S
+
+#10355
+Hallway~
+This is a hallway in the Sea Elf castle.  Its walls are decorated with
+finely crafted tapestries and pictures depicting underwater life.  Several
+servants rush to and fro trying to finish there tasks.  The hall heads back
+west while there are doors in the other directions.  
+~
+8 0
+D0
+~
+~
+0 0 10359
+D1
+~
+~
+0 0 10356
+D2
+~
+~
+0 0 10357
+D3
+~
+~
+0 0 10354
+S
+
+#10356
+Stairs~
+This small room is decorated in all the trappings one might expect to
+find in a palace.  Thick carpet on the floor, elegant furniture in
+abudance and beautiful paintings on the walls.  A wide marble staircase ascends to
+the upper portions of the castle.  
+~
+8 0
+D3
+~
+~
+0 0 10355
+D4
+~
+~
+0 0 10374
+S
+
+#10357
+Barracks~
+This room is filled with elven guards who are off duty.  Here is where
+they relax and play games when not keeping the streets safe from trouble
+makers .  It is lightly furnished with several rows of beds and a couple of
+tables.  Doors are to the north and west.  
+~
+8 0
+D0
+~
+~
+0 0 10355
+D3
+~
+~
+0 0 10353
+S
+
+#10358
+Barracks~
+~
+12 0
+S
+
+#10359
+Captain's Room~
+This is where the captain of the elven guards works and sleeps.  It is a
+very spartan setup befitting such a military elf.  There is a small bed, a
+nightstand and a desk.  Thats all.  He is not one for creature comforts.  A
+door is to the south.  
+~
+8 0
+D2
+~
+~
+0 0 10355
+S
+
+#10360
+A Small Recess~
+This small alcove is only safe because the dragon cannot reach here.  It
+would seem the only choice is to fight your way out.  
+~
+1073750028 0
+D2
+~
+~
+0 0 10373
+H 30 30
+S
+
+#10361
+Entrance to the King's Park~
+A small path leads into the king's private park.  The park is a large
+area where the king keeps some harmless and not so harmless pets of his.  It
+is lush with undersea vegetation and is very easy to get lost in.  More than
+one servant's body has been found in the park after having been lost for
+days.  
+~
+0 0
+D0
+~
+~
+0 0 10362
+D2
+~
+~
+0 0 10354
+S
+
+#10362
+The Royal Park~
+Lush vegetation covers the ground with only a small peabbled path running
+through it.  You seem to have been here already although you are not
+positive.  
+~
+4 0
+D0
+~
+~
+0 0 10370
+D2
+~
+~
+0 0 10361
+S
+
+#10363
+The King's Park~
+You are inside the King's Park.  Giant trees seem to loom over you from
+all sides.  The undergrowth obscures most of your vision.  Strange sounds of
+large animals come at you from all directions.  All exits lead into the
+park, you are very confused.  
+~
+0 0
+D0
+~
+~
+0 0 10372
+D1
+~
+~
+0 0 10364
+D2
+~
+~
+0 0 10365
+D3
+~
+~
+0 0 10366
+S
+
+#10364
+The King's Park~
+You are inside the King's Park.  Giant trees seem to loom over you from
+all sides.  The undergrowth obscures most of your vision.  Strange sounds of
+large animals come at you from all directions.  All exits lead into the
+park, you are very confused.  
+~
+0 0
+D1
+~
+~
+0 0 10365
+D2
+~
+~
+0 0 10367
+D3
+~
+~
+0 0 10363
+S
+
+#10365
+The King's Park~
+You are inside the King's Park.  Giant trees seem to loom over you from
+all sides.  The undergrowth obscures most of your vision.  Strange sounds of
+large animals come at you from all directions.  All exits lead into the
+park, you are very confused.  
+~
+0 0
+D0
+~
+~
+0 0 10371
+D1
+~
+~
+0 0 10363
+D2
+~
+~
+0 0 10368
+D3
+~
+~
+0 0 10364
+S
+
+#10366
+The King's Park~
+You are inside the King's Park.  Giant trees seem to loom over you from
+all sides.  The undergrowth obscures most of your vision.  Strange sounds of
+large animals come at you from all directions.  All exits lead into the
+park, you are very confused.  
+~
+0 0
+D0
+~
+~
+0 0 10363
+D1
+~
+~
+0 0 10367
+D2
+~
+~
+0 0 10369
+S
+
+#10367
+The King's Park~
+You are inside the King's Park.  Giant trees seem to loom over you from
+all sides.  The undergrowth obscures most of your vision.  Strange sounds of
+large animals come at you from all directions.  All exits lead into the
+park, you are very confused.  
+~
+0 0
+D0
+~
+~
+0 0 10364
+D1
+~
+~
+0 0 10368
+D2
+~
+~
+0 0 10370
+D3
+~
+~
+0 0 10366
+S
+
+#10368
+The King's Park~
+You are inside the King's Park.  Giant trees seem to loom over you from
+all sides.  The undergrowth obscures most of your vision.  Strange sounds of
+large animals come at you from all directions.  All exits lead into the
+park, you are very confused.  
+~
+0 0
+D0
+~
+~
+0 0 10365
+D1
+~
+~
+0 0 10363
+D2
+~
+~
+0 0 10371
+D3
+~
+~
+0 0 10367
+S
+
+#10369
+The King's Park~
+You are inside the King's Park.  Giant trees seem to loom over you from
+all sides.  The undergrowth obscures most of your vision.  Strange sounds of
+large animals come at you from all directions.  All exits lead into the
+park, you are very confused.  
+~
+0 0
+D0
+~
+~
+0 0 10366
+D1
+~
+~
+0 0 10370
+D3
+~
+~
+0 0 10371
+S
+
+#10370
+The King's Park~
+You are inside the King's Park.  Giant trees seem to loom over you from
+all sides.  The undergrowth obscures most of your vision.  Strange sounds of
+large animals come at you from all directions.  All exits lead into the
+park, you are very confused.  
+~
+0 0
+D0
+~
+~
+0 0 10367
+D1
+~
+~
+0 0 10371
+D2
+~
+~
+0 0 10362
+D3
+~
+~
+0 0 10369
+S
+
+#10371
+The King's Park~
+You are inside the King's Park.  Giant trees seem to loom over you from
+all sides.  The undergrowth obscures most of your vision.  Strange sounds of
+large animals come at you from all directions.  All exits lead into the
+park, you are very confused.  
+~
+0 0
+D0
+~
+~
+0 0 10368
+D1
+~
+~
+0 0 10369
+D2
+~
+~
+0 0 10365
+D3
+~
+~
+0 0 10370
+S
+
+#10372
+Entrance to the Sea Dragon Cave~
+You are in a small clearing in the king's park.  There is charred grass
+underfoot, and the signs of fire here and there.  It is almost as if the
+plant life shuns this spot.  A small path leads north to a cave mouth.  All
+other exits are obscured by the plant growth.  
+~
+4 0
+D0
+~
+~
+0 0 10373
+D2
+~
+~
+0 0 10363
+S
+
+#10373
+Sea Dragon Lair~
+This large cave is empty except for a huge bed made out of sea grass, and
+a large pile of fish bones in the corner.  You get the distinct feeling you
+shouldn't be here.  When a large seadragon pushes a boulder blocking your
+exit then you are positive you should not be here.  
+~
+0 0
+D0
+~
+~
+0 0 10360
+D2
+~
+boulder~
+0 10395 10367
+S
+
+#10374
+Stairs~
+On the wall are two large portraits of the King and Queen of Seahome. 
+The King is strong and somber while the Queen is beautiful and has a twinkle
+of playfulness in her eye.  Two comfortable looking chairs are arranged
+around a table with a beautiful vase and flowers.  A wide marble staircase
+leads down to the castle's main floor.  
+~
+8 0
+D0
+~
+~
+0 0 10375
+D5
+~
+~
+0 0 10356
+S
+
+#10375
+The Hall of Tapestries~
+A wide marble hallway with a vaulted ceiling stretches off in the
+distance.  A thick rug rests underfoot while a soft light sparkles off the
+surfaces of several delicate porcelein statues and vases arranged in the
+many niches that line the walls.  A beautiful TAPESTRY hangs on the wall,
+its beauty representative of the amazing craftsmanship of the elves.  A
+landing at the top of the stairs is to the south while the hallway continues
+to the north.  
+~
+8 0
+D0
+~
+~
+0 0 10376
+D2
+~
+~
+0 0 10374
+E
+tapestry~
+A beautifully crafted tapestry hangs on the wall.  It's surface seems to
+ripple with an unseen magic and the scene pictured almost seems real.  It
+seems to show a snowy landscape, with snow being whipped about in a wild
+torrent.  
+~
+S
+
+#10376
+The Hall of Tapestries~
+A wide marble hallway with a vaulted ceiling stretches off in the
+distance.  A thick rug rests underfoot while a soft light sparkles off the
+surfaces of several delicate porcelein statues and vases arranged in the
+many niches that line the walls.  A beautiful TAPESTRY hangs on the wall,
+its beauty representative of the amazing craftsmanship of the elves.  The
+hallways continues to the north and south.  
+~
+8 0
+D0
+~
+~
+0 0 10377
+D2
+~
+~
+0 0 10375
+E
+tapestry~
+A beautifully crafted tapestry hangs on the wall.  It's surface seems to
+ripple with an unseen magic and the scene pictured almost seems real.  It
+seems to show a large group of wild horses charging in a pack through a
+dusty canyon.  
+~
+S
+
+#10377
+The Hall of Tapestries~
+Here the hallway bends to the south and west, leading off in each of
+those directions.  A beautiful TAPESTRY, representative of elven
+craftsmanship hangs on the wall.  
+~
+8 0
+D2
+~
+~
+0 0 10376
+D3
+~
+~
+0 0 10378
+S
+
+#10378
+The Hall of Tapestries~
+A wide marble hallway with a vaulted ceiling stretches off in the
+distance.  A thick rug rests underfoot while a soft light sparkles off the
+surfaces of several delicate porcelein statues and vases arranged in the
+many niches that line the walls.  A beautiful TAPESTRY hangs on the wall,
+its beauty representative of the amazing craftsmanship of the elves.  The
+hallways continues to the east and west.  
+~
+8 0
+D1
+~
+~
+0 0 10377
+D3
+~
+~
+0 0 10379
+S
+
+#10379
+The Hall of Tapestries~
+A wide marble hallway with a vaulted ceiling stretches off in the
+distance.  A thick rug rests underfoot while a soft light sparkles off the
+surfaces of several delicate porcelein statues and vases arranged in the
+many niches that line the walls.  A beautiful TAPESTRY hangs on the wall,
+its beauty representative of the amazing craftsmanship of the elves.  The
+hallways continues to the east and west.  
+~
+8 0
+D1
+~
+~
+0 0 10378
+D3
+~
+~
+0 0 10380
+S
+
+#10380
+The Hall of Tapestries~
+Here the hallway bends to the south and east, leading off in each of
+those directions.  A beautiful TAPESTRY, representative of elven
+craftsmanship hangs on the wall.  
+~
+8 0
+D1
+~
+~
+0 0 10379
+D2
+~
+~
+0 0 10381
+S
+
+#10381
+The Hall of Tapestries~
+A wide marble hallway with a vaulted ceiling stretches off in the
+distance.  A thick rug rests underfoot while a soft light sparkles off the
+surfaces of several delicate porcelein statues and vases arranged in the
+many niches that line the walls.  A beautiful TAPESTRY hangs on the wall,
+its beauty representative of the amazing craftsmanship of the elves.  The
+hallways continues to the north and south.  
+~
+8 0
+D0
+~
+~
+0 0 10380
+D2
+~
+~
+0 0 10382
+S
+
+#10382
+The Hall of Tapestries~
+A wide marble hallway with a vaulted ceiling stretches off in the
+distance.  A thick rug rests underfoot while a soft light sparkles off the
+surfaces of several delicate porcelein statues and vases arranged in the
+many niches that line the walls.  A beautiful TAPESTRY hangs on the wall,
+its beauty representative of the amazing craftsmanship of the elves.  The
+hallways continues to the north and south.  
+~
+8 0
+D0
+~
+~
+0 0 10381
+D2
+~
+~
+0 0 10383
+S
+
+#10383
+Staircase~
+An elegant spiral staircase leads to the upper reaches of the castle.  It
+seems to have been crafted out of coral and its whiteness blazes with an
+inner light.  A long hallway runs to the north lined with what appears to be
+numerous tapestries on the wall.  
+~
+8 0
+D0
+~
+~
+0 0 10382
+D4
+~
+~
+0 0 10384
+S
+
+#10384
+Top of Stairs~
+A wide hall begins here at the top of some stairs leading to the royal
+apartments.  Plush carpets cover the floors while exquisite paintings adorn
+the walls.  The hallway runs north towards a set of double doors and south
+towards a smaller but more ornate door.  
+~
+8 0
+D0
+~
+~
+0 0 10388
+D1
+~
+secret~
+0 0 10387
+D2
+~
+~
+0 0 10385
+D5
+~
+~
+0 0 10383
+S
+
+#10385
+Hallway~
+This long hallway in the royal chambers has wide windows on rither side
+providing for a spectacular view of the city.  Plush purple carpets lie
+underfoot and soft bulbs provide light for any travellers along the
+coorridor.  There is a landing to the north while the hall ends in a ornate
+door to the south.  
+~
+8 0
+D0
+~
+~
+0 0 10384
+D2
+~
+door~
+0 0 10386
+S
+
+#10386
+Bedroom~
+This is the royal bedroom for the king and queen of the sea elves.  It is
+decorated in plush purples and light aquamarine.  This is where the queen
+can most often be found.  A door stands to the north.  
+~
+8 0
+D0
+~
+door~
+0 0 10385
+S
+
+#10387
+Study~
+This secret room appears to be the castle's library.  Books are stacked
+on shelves which cover every wall.  There are several comfortable chairs
+which people can sit on and read a book without being disturbed.  
+~
+8 0
+D3
+~
+secret~
+0 0 10384
+S
+
+#10388
+Hallway~
+This long hallway in the royal chambers has wide windows on rither side
+providing for a spectacular view of the city.  Plush purple carpets lie
+underfoot and soft bulbs provide light for any travellers along the
+coorridor.  There is a landing to the south while the hall ends in a set of
+double doors to the north.  
+~
+8 0
+D0
+~
+~
+0 0 10389
+D2
+~
+~
+0 0 10384
+S
+
+#10389
+Double Doors~
+This is the entryway to the throne room.  Comfortable chairs sit by the
+doors for those who must wait to see the king.  A large book sits on a
+podium with a list of people who have an appointment to see the king.  You
+are not on the list.  A pair of double doors are to the north.  
+~
+8 0
+D0
+~
+~
+0 10393 10391
+D2
+~
+~
+0 0 10388
+S
+
+#10390
+Grand Hall~
+~
+4 0
+S
+
+#10391
+Throne Room~
+This is the throne room of the King of the Sea Elves.  The walls are
+decorated with the coat of arms of all the families of Seahome with the most
+prominent being that of the kings family.  The room is cavernous but
+strangely devoid of very much furniture.  All there really is , is a simple
+ivory throne sitting upon a slightly raised dais.  Here it is that the king
+deals out justice for his people.  
+~
+4 0
+D2
+~
+~
+0 0 10389
+S
+
+#10392
+A Snowy Landscape~
+The temperature drops suddenly, becoming a mind numbing chill while the
+intense wind swirls the snow into a blinding screen.  Footing is treacherous
+at best as the snow covers the rocky outcropping making it impossible to
+walk.  The snow seems to rear up before you when you realize in a flash of
+barred teeth and sharp claws that you are in the presence of a yeti, and a
+hungry one at that.  A small path wanders down the mountain here onto the
+frozen tundra.  
+~
+4 0
+S
+
+#10393
+The Canyon~
+The walls of a small canyon rise up steeply on either side, leaving a
+narrow canyon in between.  Only dusty ground and rocks are in this canyon
+which appears to have once been a riverbed.  However, not much else can be
+seen before a stampede of wild horses rounds the bend and rushes forward in
+a wild flood of hooves and flesh.  
+~
+4 0
+S
+
+#10394
+Sandswept Dunes~
+You are instantly buffetted by the howling winds.  A million grains of
+sand rip through your exposed flesh, causing intense pain to exposed skin. 
+The unrelenting heat of the sun assaults the barren landscape with a vengance
+causing everything to shimmer slightly.  Large dunes of piled sand seem to
+go on for infinity in every direction leaving a feeling of being trapped in
+the open.  A bleached skull lies here on the ground.  The side of which
+seems to have been caved in by some extremely strong force.  If it could
+speak, it would probably tell a tale of horror bred from dying alone in this
+forsaken desert.  
+~
+4 10
+H 50 50
+S
+
+#10395
+A Prehistoric Jungle~
+Hot steamy air weighs heavily through the hazy sky.  Tall trees with
+broad leaves stand in a thick jungle with giant ferns at the base s of their
+trunks.  In the distance the still rumbling throb of an erupting volcano
+bellowsits plaintiff cry.  To the left a large tree sways in the breeze. 
+However upon closer inspection, it appears the tree is in fact not swaying
+at all.  In fact its not even a tree.  
+~
+4 0
+S
+
+#10396
+Underwater~
+The water here is darker than around Seahome, and most of the underwater
+animal life seems to be staying away from a large cavelike structure to the
+north.  The sense of forbodence is strong here.  As though something where
+lurking.....  
+~
+4 0
+D0
+~
+~
+0 0 10261
+S
+
+#10397
+A Leaf~
+What appear to be a closeup of a leaf in the tapestry is actually a giant
+sized leaf.  What makes things worse is the tiny bugs seen in the tapestry
+are actually the big bugs that now turn their eyes towards you!!  
+~
+4 0
+S
+
+#10398
+An Oak Forest~
+A wide oak forest stretches off as far as the eyes can see.  The large
+trunks of the grand trees are evenly spaced from obe another, each having
+claimed its place in the forest as its own.  Small animals scamper about and
+a warm summer breeze blows through the trees, bringing along the clean,
+strong sent of evergreens and pinecones.  
+~
+4 0
+D0
+~
+~
+0 0 10258
+D1
+~
+~
+0 0 10260
+D2
+~
+~
+0 0 10259
+D3
+~
+~
+0 0 10256
+S
+
+#10399
+Pinnacle~
+You stand upon a pinnacle of a mountain whose peak rises over even the
+cloud tops.  A wide ledge provides a panoramic view of the whole area but
+there A wide ledge provides a panoramic view of the whole area but there is
+not much to see save for wide open skies and a sea of clouds.  There are
+deep gouges on the edges of the cliff but the cause is not evident.  A huge
+silver door blocks the entrance to what appears to be a cave inside the
+mountain.  
+~
+4 0
+D0
+~
+~
+0 0 10255
+E
+doors~
+The doors are made of pure silver and stand over 20 feet tall.  All along
+its edges are strange runes and inticate carvings of clouds and lightning
+bolts.  
+~
+S
+#0
+
+#SPECIALS
+M 10300 spec_guard
+M 10302 spec_fido
+M 10303 spec_cast_cleric
+M 10309 spec_cast_adept
+M 10322 spec_guard
+M 10323 spec_poison
+M 10325 spec_poison
+M 10327 spec_cast_mage
+M 10328 spec_cast_cleric
+M 10331 spec_cast_cleric
+M 10332 spec_guard
+M 10333 spec_guard
+M 10336 spec_cast_cleric
+M 10338 spec_breath_frost
+S
+
+#RESETS
+M 100 10255 0 10255 1
+G 100 10278 0
+G 100 10277 0
+G 100 10276 0
+O 100 10275 0 10255
+M 100 10256 0 10256 1
+E 100 10281 0 16
+E 100 10280 0 18
+M 100 10257 0 10259 1
+M 100 10258 0 10259 1
+M 100 10257 0 10260 1
+M 100 10259 0 10261 1
+E 100 10282 0 16
+M 100 10320 2 10301 2
+E 100 10300 0 3
+M 100 10320 2 10301 2
+E 100 10300 0 3
+M 100 10300 9 10302 1
+E 100 10330 0 16
+E 100 10337 0 6
+M 100 10321 15 10303 1
+M 100 10301 10 10303 1
+M 100 10321 15 10304 1
+M 100 10300 9 10305 1
+E 100 10330 0 16
+M 100 10321 15 10306 1
+M 100 10321 15 10307 1
+M 100 10300 9 10308 1
+E 100 10330 0 16
+E 100 10338 0 5
+M 100 10321 15 10309 1
+M 100 10302 4 10312 1
+O 100 10355 0 10312
+O 100 10343 0 10313
+O 100 10342 0 10313
+O 100 10341 0 10313
+M 100 10321 15 10315 1
+M 100 10321 15 10316 1
+O 100 10340 0 10318
+M 100 10302 4 10319 1
+O 100 10355 0 10319
+M 100 10321 15 10322 1
+M 100 10300 9 10323 1
+E 100 10330 0 16
+E 100 10334 0 9
+M 100 10321 15 10324 1
+M 100 10301 10 10324 1
+O 100 10355 0 10324
+M 100 10321 15 10325 1
+O 100 10355 0 10325
+M 100 10300 9 10326 1
+E 100 10330 0 16
+E 100 10333 0 10
+O 100 10310 0 10326
+M 100 10321 15 10327 1
+O 100 10355 0 10327
+M 100 10321 15 10328 1
+O 100 10355 0 10328
+M 100 10300 9 10329 1
+E 100 10330 0 16
+E 100 10332 0 13
+M 100 10301 10 10329 1
+O 100 10356 0 10330
+M 100 10302 4 10333 1
+O 100 10355 0 10333
+M 100 10314 1 10335 1
+M 100 10315 1 10335 1
+M 100 10316 1 10335 1
+M 100 10317 1 10335 1
+M 100 10318 1 10335 1
+M 100 10319 1 10335 1
+M 100 10321 15 10336 1
+O 100 10356 0 10336
+O 100 10356 0 10337
+M 100 10302 4 10340 1
+O 100 10355 0 10340
+O 100 10356 0 10343
+M 100 10300 9 10344 1
+E 100 10330 0 16
+E 100 10335 0 8
+M 100 10301 10 10345 1
+M 100 10321 15 10346 1
+M 100 10300 9 10347 1
+E 100 10330 0 16
+E 100 10336 0 7
+M 100 10301 10 10349 1
+M 100 10321 15 10350 1
+M 100 10300 9 10350 1
+E 100 10330 0 16
+E 100 10331 0 11
+M 100 10333 3 10357 3
+M 100 10333 3 10357 3
+M 100 10333 3 10357 3
+M 100 10322 1 10359 1
+E 100 10357 0 16
+E 100 10336 0 7
+E 100 10335 0 8
+E 100 10334 0 9
+E 100 10338 0 5
+E 100 10337 0 6
+E 100 10333 0 10
+E 100 10332 0 13
+E 100 10331 0 11
+M 100 10325 2 10364 1
+M 100 10323 2 10366 1
+M 100 10324 2 10370 1
+M 100 10326 1 10373 1
+E 100 10362 0 11
+E 100 10359 0 5
+E 100 10360 0 10
+E 100 10361 0 8
+G 100 10395 0
+O 100 10375 0 10375
+O 100 10377 0 10376
+O 100 10379 0 10377
+O 100 10382 0 10378
+O 100 10384 0 10379
+O 100 10386 0 10380
+O 100 10388 0 10381
+O 100 10390 0 10382
+M 100 10328 1 10386 1
+E 100 10367 0 6
+E 100 10365 0 17
+M 100 10329 3 10386 3
+M 100 10329 3 10386 3
+M 100 10329 3 10386 3
+O 100 10372 0 10386
+O 100 10366 0 10386
+P 100 10368 1 10366 0
+P 100 10368 1 10366 0
+P 100 10368 1 10366 0
+P 100 10368 1 10366 0
+P 100 10368 1 10366 0
+P 100 10368 1 10366 0
+P 100 10368 1 10366 0
+P 100 10368 1 10366 0
+M 100 10327 1 10387 1
+E 100 10363 0 2
+E 100 10364 0 12
+E 100 10392 0 16
+M 100 10332 5 10387 5
+M 100 10332 5 10387 5
+M 100 10332 5 10387 5
+M 100 10332 5 10387 5
+M 100 10332 5 10387 5
+O 100 10373 0 10387
+O 100 10374 0 10387
+M 100 10330 1 10389 1
+E 100 10369 0 16
+G 100 10393 0
+M 100 10331 1 10391 1
+E 100 10371 0 16
+E 100 10394 0 3
+E 100 10370 0 12
+O 100 10398 0 10391
+M 100 10334 1 10392 1
+E 100 10397 0 8
+O 100 10376 0 10392
+M 100 10335 6 10393 6
+M 100 10335 6 10393 6
+M 100 10335 6 10393 6
+M 100 10335 6 10393 6
+M 100 10335 6 10393 6
+M 100 10335 6 10393 6
+O 100 10378 0 10393
+M 100 10338 2 10394 2
+M 100 10338 2 10394 2
+O 100 10381 0 10394
+O 100 10380 0 10394
+M 100 10337 1 10395 1
+G 100 10396 0
+G 100 10396 0
+G 100 10396 0
+G 100 10396 0
+O 100 10383 0 10395
+O 100 10385 0 10396
+M 100 10336 1 10397 1
+O 100 10387 0 10397
+O 100 10389 0 10398
+M 100 10258 0 10398 1
+O 100 10391 0 10399
+S
+
+#SHOPS
+10304 0 19 0 0 0 200 100 1 23
+10305 17 0 0 0 0 100 100 1 23
+10306 2 3 4 26 0 200 100 1 23
+10307 10 26 0 0 0 200 100 1 23
+10308 15 17 1 8 0 200 100 1 23
+10310 9 11 0 0 0 200 100 1 23
+10311 0 0 0 0 0 200 100 1 23
+10312 0 5 0 0 0 200 100 1 23
+10313 8 20 32 33 0 200 100 1 23
+0
+
+#$

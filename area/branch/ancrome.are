@@ -1,0 +1,2320 @@
+#AREADATA
+Name Ancient Rome~
+Builders None~
+VNUMs 60500 60599
+Credits [ 85 110] Ramoth   Ancient Rome~
+Security 9
+End
+
+
+
+#MOBILES
+#60500
+Gaius~
+Gaius~
+The shopkeeper sits behind his desk, working on a new design.
+~
+A tall, dark haired man stands before you.  When he stands you can see a
+twisted left foot.  Gaius use to live in Greece, but came to Rome when he
+discovered what a demand there was for his fine crafted glass.  
+~
+human~
+AB 0 0 100 0
+150 500 100d100+100 2d50+50 500d500+500 none
+-90 -90 -90 -90
+FHKO ABCDLQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium glass
+#60501
+virgin~
+A virgin~
+A virgin stands here with open arms.
+~
+Vesta's virgins are known for their imcomparable ability to resist sexual
+temptation.  
+~
+human~
+ABR V H 1000 0
+102 98 14d465+3200 3d100+52 6d22+81 thrust
+-52 -48 -42 -54
+0 B P 0
+rest stand female 200
+AHMV ABCDEFGHIJK medium flesh
+#60502
+spirit vesta~
+The Spirit of Vesta~
+The spirit of essence of sex stands before you.
+~
+Vesta loves her virgins almost as much as she loves herself.  She is
+sexually superior to all.  
+~
+human~
+ABR V H 1000 0
+140 200 15d1134+5234 2d50+50 28d8+250 slime
+-83 -82 -93 -86
+FHK BP 0 0
+stand stand female 2500
+AHMV ABCDEFGHIJK medium flesh
+#60503
+patron bath~
+A patron of the baths~
+A very relaxed citizen of Rome is resting after a long day.
+~
+It's a naked wet citizen.  Well except for the towel, but we all have
+imaginations.  
+~
+human~
+ABQ 0 H 1000 0
+118 145 13d794+4305 4d100+50 6d28+86 slap
+-65 -73 -71 -62
+FKQ 0 H 0
+rest stand female 2100
+AHMV ABCDEFGHIJK medium flesh
+#60504
+spectator games~
+A spectator of the games~
+A citizen of Rome sits here watching in awe.
+~
+A Roman citizen is waving a silk flag to support the gladiators.  
+~
+human~
+ABS V H 500 0
+98 109 14d623+3287 3d100+58 20d27+250 punch
+-63 -62 -60 -56
+FK 0 0 0
+sit stand female 250
+AHMV ABCDEFGHIJK medium sweat
+#60505
+owner north red~
+An {Rowner{} from the north~
+A rather wealthy looking man sits here observing the gladiators.
+~
+The {Rowner{} of the gladiator from the north is wearing a red scarf to
+signify his lot.  
+~
+human~
+ABR V H 1000 0
+145 165 14d1200+5200 5d102+54 29d6+232 pound
+-86 -85 -90 -80
+FK B P 0
+sit stand none 5500
+AHMV ABCDEFGHIJK medium flesh
+#60506
+owner south blue~
+An {Bowner{} from the south~
+A rather wealthy looking man sits here observing the gladiators.
+~
+The {Bowner{} of the gladiator from the south is wearing a blue scarf to
+signify his lot.  
+~
+human~
+ABR V H -1000 0
+145 165 14d1200+5200 5d102+54 29d6+232 pound
+-86 -85 -90 -80
+FK B P 0
+sit stand none 5500
+AHMV ABCDEFGHIJK medium flesh
+#60507
+slave closseum~
+A slave~
+A sheepish looking slave stands here with his head to the ground.
+~
+The slave is dirty and nasty.  He looks used and abused.  
+~
+human~
+ABT 0 H 1000 0
+100 120 14d632+3201 3d50+51 6d21+103 punch
+-57 -54 -60 -53
+FK 0 0 D
+stand stand male 200
+AHMV ABCDEFGHIJK medium flesh
+#60508
+gladiator north red~
+A {RGladiator{} from the north~
+An extremely muscular man is searching for what he hopes is his next victim.
+~
+{wWell built but rather ugly, the {Rgladiator{} has a look of pure hate
+in his eyes.  
+~
+human~
+ABFT QVc H 1000 0
+150 199 15d1254+6100 2d40+100 36d7+210 crush
+-95 -94 -99 -83
+CFK 0 D 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium flesh
+#60509
+gladiator south blue~
+A {BGladiator{} from the south~
+An extremely muscular man is searching for what he hopes is his next victim.
+~
+{wWell built but rather ugly, the {Bgladiator{} has a look of pure hate
+in his eyes.  
+~
+human~
+ABFT QVc H -1000 0
+150 199 15d1254+6100 2d40+100 36d7+210 crush
+-95 -94 -99 -83
+CFK 0 D 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium flesh
+#60510
+emperor macedonicus~
+Macedonicus~
+Macedonicus is here trying to heighten his brother's intelligence.
+~
+~
+halforc~
+ABQ Va H -1000 0
+151 151 15d12233+5600 151d10+100 20d400+900 wrath
+-90 -90 -90 -90
+CEIK N CD P
+stand stand male 21000
+AGHMV ABCDEFGHIJKUVWY medium flesh
+#60511
+emperor rome~
+The Holy Roman Emperor~
+A man of greatness sits here watching with anticipation.
+~
+The Emperor seems to be oblivious to everything except the gladiators.  
+~
+human~
+ABR Vac HO -1000 0
+151 230 15d12781+6200 10d100+1000 32d7+235 thwack
+-93 -87 -82 -94
+CFK 0 NS 0
+sit stand male 20000
+AHMV ABCDEFGHIJK large flesh
+#60512
+statue neptune~
+{8The Statue of Neptune{}~
+A solid granite formation of Neptune stands here.
+~
+The god of the oceans stares stonily at you with his trident in hand.  
+~
+halfelf~
+ABR L H 1000 0
+110 110 15d699+4214 3d65+65 6d28+123 pierce
+-62 -65 -59 -60
+0 G H 0
+stand stand none 1200
+AHMV ABCDEFGHIJK medium stone
+#60513
+statue mars~
+{8The Statue of Mars{}~
+A solid granite formation of Mars stands here.
+~
+The god of war stares at you with boldness.  
+~
+halfelf~
+ABT L H 1000 0
+110 110 15d699+4214 3d65+65 6d28+123 pound
+-62 -65 -59 -60
+0 G H 0
+stand stand none 1200
+AHMV ABCDEFGHIJK medium stone
+#60514
+statue diana~
+{8The Statue of Diana{}~
+A solid granite formation of Diana stands here.
+~
+The goddess of wisdom and hunters is one smart cookie.  
+~
+halfelf~
+ABQ L H 1000 0
+110 110 15d699+4214 3d65+65 6d28+123 divine
+-62 -65 -59 -60
+0 G H 0
+stand stand none 1200
+AHMV ABCDEFGHIJK medium stone
+#60515
+statue vulcan~
+{8The Statue of Vulcan{}~
+A solid granite formation of Vulcan stands here.
+~
+The god of smiths and fire appears to be hard at work.  
+~
+halfelf~
+ABT L H 1000 0
+110 110 15d699+4214 3d65+65 6d28+123 slash
+-62 -65 -59 -60
+0 GH 0 I
+stand stand none 1200
+AHMV ABCDEFGHIJK medium stone
+#60516
+statue bacchus~
+{8The Statue of Bacchus{}~
+A solid granite formation of Bacchus stands here.
+~
+The god of wine looks a little tipsy.  
+~
+halfelf~
+ABQ L H 1000 0
+110 110 15d699+4214 3d65+65 6d28+123 divine
+-62 -65 -59 -60
+0 G H 0
+stand stand none 1200
+AHMV ABCDEFGHIJK medium stone
+#60517
+legioner roman~
+A Roman Legioner~
+A large hulk of a man stands here with determination in his eyes.
+~
+The Roman Legioners are dedicated to one thing, protecting their Emperor.
+They will risk all to protect him and nothing can stand in their way.  
+~
+human~
+ABFT V HNO -1000 0
+148 190 14d1224+5600 2d100+50 32d7+183 cleave
+-84 -90 -85 -83
+EFK 0 D 0
+stand stand male 2000
+AHMV ABCDEFGHIJK large flesh
+#60518
+empress rome~
+The Empress of Rome~
+A beautiful woman adorned with jewels of the most high quality sits here.
+~
+The Empress of Rome is no more than a title for this woman.  She is wife
+to the Emperor but has no real power over Rome.  She looks no less happy for
+that either.  
+~
+human~
+ABR V H -1000 0
+148 190 14d1224+5600 2d100+50 32d7+183 cleave
+-84 -90 -85 -83
+FIK 0 0 0
+sit stand female 2000
+AHMV ABCDEFGHIJK large flesh
+#60519
+roman wife senator~
+A Senator's Wife~
+A stately looking woman is walking with her nose in the air.
+~
+Senator's wives want for nothing and have to do even less to get it. 
+They believe that all others are "below" them and should do their bidding. 
+They are a might pleasing to the eye, but as for personality, you might want
+to look somewhere else.  
+~
+human~
+AGT 0 H 1000 0
+95 99 12d507+2515 0d0+0 5d18+80 slap
+-49 -50 -48 -60
+FI 0 0 0
+stand stand female 150
+AHMV ABCDEFGHIJK medium flesh
+#60520
+roman female woman lady~
+A roman female~
+A plain looking lady walks around with laundry in her arms.
+~
+A roman female is in plain clothes and looks overworked.  She spends all
+her time on her family.  
+~
+human~
+AGT 0 H 1000 0
+95 99 12d507+2515 0d0+0 5d18+80 slap
+-49 -50 -48 -60
+FI 0 0 0
+stand stand female 150
+AHMV ABCDEFGHIJK medium flesh
+#60521
+roman child boy streetrat~
+A roman street rat~
+A filthy looking boy stands here begging for scraps.
+~
+A roman boy looks filthy in the rags he is wearing.  He eyes your legs
+like they are deep fried chicken legs.  
+~
+human~
+AGT 0 H 1000 0
+90 99 10d550+2200 0d0+0 5d18+80 chomp
+-49 -50 -48 -60
+FI 0 0 0
+stand stand male 150
+AHMV ABCDEFGHIJK small flesh
+#60522
+roman child girl streetrat~
+A roman street rat~
+A filthy looking girl stands here begging for scraps.
+~
+A roman girl looks filthy in the rags she is wearing.  She eyes your legs
+like they are deep fried chicken legs.  
+~
+human~
+AGT 0 H 1000 0
+90 99 10d550+2200 0d0+0 5d18+80 chomp
+-49 -50 -48 -60
+FI 0 0 0
+stand stand female 150
+AHMV ABCDEFGHIJK small flesh
+#60525
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#60533
+slave bath~
+A bath slave~
+A slave is frantically trying to please the nobility.
+~
+The slave is neat and clean but apparently overworked.  
+~
+human~
+ABT 0 0 1000 0
+100 120 14d632+3201 3d50+51 6d21+103 punch
+-57 -54 -60 -53
+FK 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium flesh
+#60581
+Cythera~
+Cythera~
+Cythera is here playing with the baby.
+~
+~
+heucuva~
+ABGT FJLTZ CE 1000 0
+120 120 20d800+2200 10d120+100 10d30+1000 slap
+-65 -65 -65 -65
+CFGI LMQ DI NSY
+stand stand female 8000
+ACHIMV ABCDEFGHIJKPV medium unknown
+#60582
+Trition~
+Trition~
+Trition is here working on coordinating another Festival.
+~
+~
+gnome~
+AG J DH 1000 0
+120 120 20d800+2200 10d120+100 10d30+900 thwack
+-58 -58 -58 -58
+CFIJK 0 P R
+stand stand male 2700
+AHMV ABCDEFGHIJKU medium unknown
+#60583
+General Elis~
+Elis~
+General Elis is sitting at a wooden table admiring his wife from a window view.
+~
+~
+avian~
+AB DFJLT CDH 1000 0
+125 125 20d1000+2000 10d125+100 10d30+1000 crush
+-60 -60 -60 -60
+BFHIJK 0 J LQ
+sit sit male 2100
+AHMVW ABCDEFGHIJKPU medium unknown
+#60584
+Pyrra~
+Pyrra~
+Pyrra is here doing some gardening.
+~
+~
+halfelf~
+AB LV H 1000 0
+120 120 20d900+2000 10d120+100 10d25+800 bite
+-50 -50 -50 -50
+FIK 0 0 0
+stand stand female 1900
+AHMV ABCDEFGHIJK medium unknown
+#60585
+Semele~
+Semele ~
+Semele Marcus is here cleaning up the place.
+~
+One look at this woman explains why Aeolus is so taken by her. You can see both Troy and Katherine in here. Katherine's soft looks definatly came from her mother, along with Troy's strong will.
+~
+goblin~
+AG J EH 1000 0
+110 110 20d800+1100 10d110+100 10d20+800 slap
+-56 -56 -56 -56
+CFHIK 0 P NSXY
+stand stand female 20000
+AHMV ABCDEFGHIJKU medium unknown
+#60586
+Troy~
+Troy~
+Troy Marcus is here training to be a war hero.
+~
+~
+halforc~
+AG Va D 1000 0
+100 100 20d700+900 10d100+100 10d15+700 punch
+-39 -39 -39 -39
+CFK 0 CD P
+stand stand male 1700
+AGHMV ABCDEFGHIJKUVWY medium unknown
+#60587
+Katherine~
+Katherine~
+Katherine Marcus is here playing with her dolls.
+~
+Katherine is an image of one of her dolls. She is wearing a beautiful satin dress and her hair is a mound of curls placed neatly on her head.
+~
+halfling~
+AG U C 1000 0
+101 101 20d700+1500 101d10+100 10d25+600 slap
+-40 -40 -40 -40
+EFHIK 0 LQ S
+stand stand female 1900
+AHMV ABCDEFGHIJK medium unknown
+#60588
+Aeolus~
+Aeolus~
+Aeolus is here being the king of his castle.
+~
+Aeolus is like a bean pole with muscle. Deep blue eyes burn into you, questioning your appearance.
+~
+draconian~
+AG T H 1000 0
+130 103 20d1200+2300 103d10+100 10d30+700 bite
+-45 -45 -45 -45
+EFHIJK LQ HI FGJ
+stand stand male 6000
+ACHMVXZ ABCDEFGHIJKPQUVWX medium blood
+#60589
+priest~
+a priest~
+A priest wanders about.
+~
+~
+goblin~
+AG JV H 1000 0
+101 101 12d600+3000 101d10+100 5d20+100 slap
+-59 -59 -59 -59
+CEFHIJKQ 0 P SXY
+stand stand male 50000
+AHMV ABCDEFGHIJKU medium unknown
+F vul N
+#60590
+Macedonicus ~
+Macedonicus~
+Macedonicus is here trying to heighten his brother's intelligence.
+~
+Macedonicus is a sharp-witted man, his laughter fills the room and spills
+out to the street.  
+~
+halforc~
+ABKT QVa CDEP 1000 0
+151 151 20d15+7000 151d10+100 20d400+900 slap
+-90 -90 -90 -90
+BCEGIK 0 CD P
+stand stand male 20000
+AGHMV ABCDEFGHIJKUVWY medium flesh
+#60591
+Mark~
+Mark~
+Mark is here, willing, and waiting to sell you some armor.
+~
+~
+giant~
+AB V CDEHNP 1000 0
+151 100 10d20+9000 151d10+100 20d55+8000 beating
+-96 -94 -92 -101
+FIK ABCDELQ HI JP
+stand stand male 0
+AHMV ABCDEFGHIJK medium flesh
+#60592
+traveler~
+a traveler~
+A traveler stands here in awe of all the beauties of Rome.
+~
+They are wearing the clothes and weapons of distant lands.
+~
+dwarf~
+ACGS J H -300 0
+85 85 10d20+5000 85d10+100 5d29+70 punch
+-43 -43 -43 -43
+FHI 0 BLQ RZ
+stand stand male 6700
+AHMV ABCDEFGHIJK medium unknown
+#60593
+Quintus~
+Quintus~
+Quintus the baker is here waiting to serve you.
+~
+Flour and spices cover his hands and face.  He's and older man, and knows
+his customers inside and out.  Quintus's wisdom in breads is far-reaching,
+since he worked on a ship as a young man.  His travels to other countries
+are well known, as are the bread types he brought back.  
+~
+dwarf~
+AB J H 1000 0
+125 125 20d1000+2000 10d125+100 10d30+1000 crush
+-60 -60 -60 -60
+0 0 LQ R
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#60594
+citizen~
+a citizen~
+A citizen is here wondering the streets of Rome.
+~
+~
+elf~
+AG J HN 1000 0
+90 90 16d700+18000 10d90+100 10d50+100 slap
+-50 -50 -50 -50
+FHIK 0 B Z
+stand stand none 9000
+AHMV ABCDEFGHIJK medium unknown
+#60595
+plebeian~
+a plebeian~
+A worker is here rushing around fixing the road.
+~
+He is muscular and sweaty. Spending most his day working in the sun, he is tan. You watch his muscles ripple as he works. Are you sure you want to mess with him?
+~
+human~
+AG UV HO 900 0
+88 88 10d80+900 88d10+100 15d20+40 punch
+-45 -45 -45 -45
+0 0 AH F
+stand stand none 1500
+AHJMV ABCDEFGHIJK medium unknown
+#60596
+jupiters carving~
+Jupiter's carving~
+Jupiter's carving is here keeping a watchful eye upon Rome.
+~
+Jupiter is the supreme god, patron of the Roman state and brother and husband of Juno.
+~
+titan~
+AB Da HP 1000 0
+80 80 20d300+1800 80d10+100 10d18+45 slap
+-40 -40 -40 -15
+FGK B D 0
+stand stand male 1900
+AHMV ABCDEFGHIJK large unknown
+#60597
+junos carving~
+Juno's carving~
+Here stands the watchful eye of Juno sister of Jupiter.
+~
+Juno is queen of the Olympian gods who protected marriage; wife and sister of Jupiter. Power and beauty come together in this woman.
+~
+titan~
+AB CDVa DO 1000 0
+80 80 15d200+1800 80d10+100 10d30+75 punch
+-37 -37 -37 -13
+GIK AB BDH IK
+stand stand female 1800
+AHKMV ABCDEFGHIJK large unknown
+#60598
+Barbarian Raider~
+a barbarian raider~
+A Barbarian raider is here trying to blend in with the crowd.
+~
+He is big and stalky, with pure evil in his eyes. He stands peering around with his weapon hidden behind him. Waiting patiently for his next victim, he gives you a look you know will kill.
+~
+human~
+AGT PQa HN -1000 0
+71 71 15d205+1250 71d10+100 10d11+36 none
+-34 -34 -34 -12
+CEIK 0 M N
+stand stand male 700
+AHMV ABCDEFGHIJK large unknown
+#60599
+Greasy Merchant~
+a greasy merchant~
+A fat, round, greasy merchant stands here pondering your worth.
+~
+This merchant is as round as a rubber ball and as greasy as fried chicken. When ever he sees money his eyes light up and his mustache twitches. I wouldn't turn your back on him for too long.
+~
+human~
+AGT GZ HN -900 0
+70 70 15d200+1200 70d10+100 6d14+35 slap
+-34 -34 -34 -12
+HKQ 0 MQ CN
+stand stand male 400
+ABHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#60500
+sliver of light~
+sliver of light~
+Sliver of light~
+glass~
+portal O P
+2000 0 0 60500 0
+1 10000 0 P
+#60501
+Glass Figurine~
+a glass horse figurine~
+A small figurine of a standing horse sits here.~
+glass~
+treasure A AOP
+0 0 0 0 0
+15 5 1000 P
+#60502
+Crystal Vase~
+a {^crystal {7vase{x~
+A beautiful {^crystal {7vase sits here.{x~
+glass~
+container Y AO
+500 0 0 50 20
+10 1 1000 P
+#60503
+Glass Bowl~
+a glass bowl~
+A glass bowl with designs etched along the side of it lies here.~
+glass~
+container A AO
+5 0 0 3 0
+10 2 500 P
+#60504
+Glass Rose~
+a hand painted glass {!rose{x~
+A hand painted glass {!rose{7 lies here.{x~
+glass~
+treasure I AO
+0 0 0 0 0
+25 1 1000 P
+#60505
+Olive Tree~
+a beautiful olive tree~
+A beautiful olive tree in a stone enclosure sits here.~
+tree~
+trash MY 0
+0 0 0 0 0
+0 0 0 P
+#60506
+Chest~
+two standing chest~
+Two standing chest that hold Aeolus's and Semele's clothes are here.~
+chest~
+container Y 0
+100 A 0 200 0
+0 5 0 P
+#60507
+Leather Sandles~
+a pair of leather sandles~
+A pair of leather sandles lies here waiting to be worn.~
+unknown~
+trash Y AG
+0 0 0 0 0
+0 1 1 P
+#60508
+desk~
+a small desk~
+A small desk with metalworking scrolls on it sits here.~
+unknown~
+trash M 0
+0 0 0 0 0
+0 5 0 P
+#60509
+bowl of fruit~
+a bowl of fruit~
+A table with a bowl of fruit is sitting here waiting to be ate.~
+unknown~
+container M 0
+100 0 0 100 0
+0 5 0 P
+#60510
+banana~
+a {Ybanana{}~
+A {Ybanana{} lies here waiting to be eaten.~
+food~
+food 0 AO
+12 0 0 0 0
+0 1 0 P
+#60511
+orange~
+a {3orange{x~
+A {3orange{7 lies here waiting to be ate.{x~
+unknown~
+food 0 AO
+12 0 0 0 0
+0 1 0 P
+#60512
+Apple~
+a {!apple{x~
+A {!apple{7 lies here waiting to be ate.{x~
+unknown~
+food 0 AO
+12 0 0 0 0
+0 1 0 P
+#60513
+Chest~
+a chest~
+A chest with a small bronze shield leaning against it is here.~
+unknown~
+container M 0
+100 A 0 100 0
+0 5 0 P
+#60514
+blanket~
+a blanket~
+A light {Mpink blanket{} over a pallet with a rare silk doll on it lies here.~
+unknown~
+trash M 0
+0 0 0 0 0
+0 1 0 P
+#60515
+Reclining Couch~
+a reclining couch~
+A reclining couch is here waiting to be sat on.~
+unknown~
+furniture M P
+4 9999 EHK 0 0
+0 0 0 P
+#60516
+Buttercups~
+beautiful {#buttercups{x~
+Beautiful {#buttercups{7 grow here.{x~
+unknown~
+potion 0 AO
+80 'bless' 'refresh' 'haste' 'sanctuary'
+80 0 0 P
+#60517
+Tulips~
+bright {$blue{7 tulips{x~
+Bright {$blue{7 tulips grow here.~
+unknown~
+potion 0 AO
+80 'shockshield' 'fireshield' 'iceshield' 'holyshield'
+80 0 0 P
+#60518
+Box~
+a small wooden box~
+A small wooden box filled with gifts sits here.~
+wood~
+trash M 0
+0 0 0 0 0
+10 5 0 P
+#60519
+Table~
+a wooden table ~
+A wooden table sits in the center of the room.~
+unknown~
+trash M 0
+0 0 0 0 0
+0 0 0 P
+#60520
+Basket~
+a woven reed basket~
+A woven reed basket full of blankets is here.~
+unknown~
+container 0 AO
+3 0 0 200 0
+30 0 0 P
+#60521
+Blanket~
+a beautiful {&white{7 blanket{x~
+A beautiful {&white{7 blanket lies here.{x~
+unknown~
+furniture 0 AO
+4 9999 EHK 10 10
+10 3 30 P
+#60522
+Blanket~
+a beautiful {$blue{7 blanket{x~
+A beautiful {$blue{7 blanket lies here.{x~
+unknown~
+furniture 0 AO
+4 9999 EHK 10 10
+10 3 30 P
+#60523
+Marble Table~
+long marble tables~
+Long marble tables are all around the room here.~
+unknown~
+trash M 0
+0 0 0 0 0
+30 100 40 P
+#60524
+Stone bench~
+a stone bench~
+A stone bench sits here.~
+unknown~
+furniture M 0
+4 9999 0 10 10
+1 50 30 P
+#60525
+pot helmet~
+a {8steel{x pot helmet~
+A {8steel{x pot helmet is lying here on the ground~
+steel~
+armor 0 AE
+40 40 40 35 0
+90 3 10000 P
+A
+13 120
+A
+18 25
+A
+19 25
+#60526
+Cuirass ~
+a cuirass~
+A cuirass has been left here.~
+steel~
+armor 0 AD
+29 29 29 39 0
+90 5 70000 P
+A
+14 -4
+A
+13 58
+A
+18 8
+A
+19 10
+#60527
+scutum~
+a scutum~
+A wooden shield covered with leather has been tossed aside.~
+wood~
+armor I AJ
+40 40 35 35 0
+90 3 9000 P
+A
+20 20
+A
+20 10
+A
+22 10
+#60528
+leather walking sandals~
+some leather walking sandals~
+Some leather walking sandals have been left here~
+leather~
+armor 0 AG
+37 37 37 32 0
+90 1 60000 P
+A
+14 20
+A
+3 5
+A
+5 4
+A
+2 1
+#60529
+military cloak~
+a {!red military cloak{x~
+A {!red military cloak{x is here covering the ground.~
+cotton~
+armor AI AC
+30 30 30 50 0
+90 1 65000 P
+A
+13 80
+F
+A 0 0 D
+F
+A 0 2 V
+#60530
+ankle sheath~
+an ankle sheath~
+A short sheath lies here missing it's weapon.~
+leather~
+container F AT
+500 A 0 500 20
+15 1 10000 P
+A
+4 2
+A
+2 1
+A
+13 2
+A
+17 -5
+A
+20 -5
+#60531
+tattered robe~
+a tattered robe~
+A tattered robe with many pockets is lying here on the ground.~
+cotton~
+armor 0 AD
+-39 -39 -39 -20 0
+70 1 7300 P
+A
+13 20
+A
+18 3
+A
+20 -10
+#60539
+barbarian ankle knife~
+a barbarian's ankle knife~
+A short dagger lies here concealed in and ankle seath.~
+metal~
+weapon F AN
+dagger 5 30 slash 0
+90 2 9000 P
+A
+18 14
+A
+19 10
+A
+13 100
+#0
+
+
+
+#ROOMS
+#60500
+{BRedemption's Side of the Tear{}~
+To the north lies a tear in the timeline of Redemption.  By going north one
+enters another time and another world.  The people of that time have no
+concept of this time and can only wonder where the travelers come from. 
+Enter and leave the future behind.  
+~
+0 0 1
+D0
+~
+~
+0 0 60501
+D2
+~
+~
+0 0 9722
+S
+#60501
+{8Rome's Side of the Tear{}~
+A {8stone{} paved road leads north to the city of Rome.  Pillars line the
+road marking every 100 yards.  The road extends to the south, but there is a
+tiny sliver of light that the eye can barely see.  
+~
+0 4 1
+D0
+~
+~
+0 0 60502
+D2
+~
+~
+0 0 60503
+S
+#60502
+{8All Roads Lead to Rome{}~
+Smooth stones pave the road.  In the distance there can be seen builders
+working on a new aquaduct.  Travelers from every corner of the globe rush
+past, trying to get where they are going quickly.  Dust stirs up underfoot,
+tickling the nose.  Rome looms large in the distance, beckoning the weary
+soul to come in and partake of it's beauty and life.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60503
+D2
+~
+~
+0 0 60501
+S
+#60503
+{8All Roads Lead to Rome{}~
+Smooth stones pave the road.  In the distance there can be seen builders
+working on a new aquaduct.  Travelers from every corner of the globe rush
+past, trying to get where they are going quickly.  Dust stirs up underfoot,
+tickling the nose.  Rome rises up before you, beckoning the weary soul to
+come in and partake of it's beauty and life.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60504
+D2
+~
+~
+0 0 60502
+S
+#60504
+{8South Gate of Rome{}~
+WELCOME TO {8ROME{}!  Capital of the world and city above all.  Sounds
+from the marketplace drift by, and smells of fresh food surround you.  So
+mighty and powerful is Rome that the gates are never closed.  Stone towers
+sit on either side of the gate, with marble carvings of the gods Jupiter and
+Juno streching from one side to the other.  Between the gods there is carved
+an overflowing basket of fruit symbolizing the wealth and opulence of the
+Roman Empire.  There is no shortage of luxuries in this city.  The road away
+from {8Rome {}is south.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60505
+D2
+~
+~
+0 0 60503
+S
+#60505
+{8Roman Marketplace{}~
+Merchants cry out from every corner of the marketplace, selling objects
+from every corner of the globe.  To the east and west are rows of shops.  To
+the north you can barely make out the famous Roman Bathes, through the
+crowded Forum.  The ground is laid out in stone slabs, creating patterns on
+the road.  Wide areas are open between the shops to allow for chariots and
+horses to pull through.  Far to the west one can barely make out the
+Colosseum.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60526
+D1
+~
+~
+0 0 60506
+D2
+~
+~
+0 0 60504
+S
+#60506
+{8Roman Marketplace{}~
+Colors, sounds, and smells swirl by in a random dance.  The stone
+underneath feels cool to the touch.  Deep ruts run on either side of the
+street, carrying away rain water.  A tiny glass shop lies to the south, and
+what smells like a bakery is to the north.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60508
+D1
+~
+~
+0 0 60509
+D2
+~
+~
+0 0 60507
+D3
+~
+~
+0 0 60505
+S
+#60507
+{wGaius's Glasswear{}~
+Shelves line the side and back walls, filled with different types of
+glass.  Vases, pots, bowls, dishes, containers, anything anyone could
+possible want made of glass is in this shop.  Gaius's also sells small
+figurines made of colored glass.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60506
+S
+#60508
+{yBakery{}~
+Rows and rows of baked items line shelves.  The shop looks clean, most
+likely the owner has a slave boy who sweeps the mixture of flour and dirt
+away.  A small tub sits behind the counter, filled with fresh water. 
+Barrels sit along the back wall full of ground flour and sweetners.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60506
+S
+#60509
+{8Roman Marketplace{}~
+Colors, sounds, and smells swirl by in a random dance.  The stone
+underneath feels cool to the touch.  Deep ruts run on either side of the
+street, carrying away rain water.  Rich people's slaves wander around, their
+speed varying with their master's temper.  An armor shop lies to the south. 
+~
+0 8192 1
+D1
+~
+~
+0 0 60511
+D2
+~
+~
+0 0 60510
+D3
+~
+~
+0 0 60506
+S
+#60510
+{bGladiator Armor{}~
+Two tall men take command of the shop.  Mark and Macedonicus are
+ex-gladiators who have opened an armor shop with the money they saved up
+while fighting.  Mark is the larger of the two and from the sound of it,
+Macedonicus is the wittier.  Racks of leather goods hang around the store
+ranging in size from tiny for the gladiators-in-training to huge for those
+at the peak of their fight.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60509
+S
+#60511
+{8Roman Marketplace{}~
+Colors, sounds, and smells swirl by in a random dance.  The stone
+underneath feels cool to the touch.  Deep ruts run on either side of the
+street, carrying away rain water.  The buildings are becoming larger and
+more ornate.  Men and women are exiting from the Pantheon to the north.  The
+description above the doorway to the domed temple reads: M AGRIPPA L F COS
+TERTIUM FECIT.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60512
+D1
+~
+~
+0 0 60513
+D3
+~
+~
+0 0 60509
+S
+#60512
+{8The Pantheon{}~
+Looking up there is light shining through the 27 meter wide oculus in the
+center of the dome.  This windowless giant domed building stands 142 feet
+high and is dedicated to all twelve Roman gods.  Five rows of deep coffers
+line the dome, and ornate carvings surround the twelve statues of the twelve
+gods.  Priests mill about, talking with the public.  Marble lines the
+slanted floor, graded as to run the rain water from the oculur into a
+drainage system.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60511
+S
+#60513
+{8Roman Marketplace{}~
+The road turns north here.  The Colosseum seems so close, yet there is no
+visible way to reach it.  Private homes lay to the north, and a small path
+lies south.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60516
+D2
+~
+~
+0 0 60514
+D3
+~
+~
+0 0 60511
+S
+#60514
+{8Courtyard of the Vestal Virgins{}~
+Two statues guard either side of the pathway south leading into the
+Temple of Vesta.  This is the home of the Vestal Virgins.  Women who were
+chosen to take a vow of chastity for 30 years, from the age of 8 until the
+age of 38.  They are the priestesses of Vesta, and they tend to her fire,
+keeping it burning forever.  Only women are allowed any further into the
+temple, so take care not to anger the goddess.  
+~
+0 8192 2
+D0
+~
+~
+0 0 60513
+D2
+~
+~
+0 0 60515
+S
+#60515
+{8Temple of Vesta{}~
+A wide marble porch lines the small temple, it overlooks hills to the
+south of Rome.  In the center of a marble floor there is a small fire
+burning.  For years it has never been allowed to go out.  Robed virgins
+kneels beside it, watching and protecting.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60514
+S
+#60516
+{8Roman Marketplace{}~
+The stone road is cleaner and seems better kept here.  Wealthy Romans
+live along this road, to the east and west.  Deep ruts run on either side of
+the street, carrying away rain water.  There are few windows on the street
+sides, in order to keep the dust out of the homes.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60517
+D2
+~
+~
+0 0 60513
+D3
+~
+~
+0 0 60527
+S
+#60517
+{8Roman Marketplace{}~
+The stone road is cleaner and seems better kept here.  Wealthy Romans
+live along this road, to the east and west.  Deep ruts run on either side of
+the street, carrying away rain water.  There are few windows on the street
+sides, in order to keep the dust out of the homes.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60518
+D2
+~
+~
+0 0 60516
+D3
+~
+~
+0 0 60528
+S
+#60518
+{8Roman Marketplace{}~
+The stone road is cleaner and seems better kept here.  Wealthy Romans
+live along this road, to the east and west.  Deep ruts run on either side of
+the street, carrying away rain water.  There are few windows on the street
+sides, in order to keep the dust out of the homes.  
+~
+0 8196 1
+D0
+~
+~
+0 0 60519
+D1
+~
+~
+0 0 60529
+D2
+~
+~
+0 0 60517
+S
+#60519
+{8Roman Marketplace{}~
+The stone road is cleaner and seems better kept here.  Wealthy Romans
+live along this road, to the east and west.  Deep ruts run on either side of
+the street, carrying away rain water.  There are few windows on the street
+sides, in order to keep the dust out of the homes.  
+~
+0 8192 1
+D2
+~
+~
+0 0 60518
+D3
+~
+~
+0 0 60520
+S
+#60520
+{8Roman Marketplace{}~
+The Romans take great pride in their public bathes.  Rome's Bathe is on
+this road, and the pipes that carry the running water line each side of the
+street.  Deep ruts carry rainwater to underground pools.  Vendors roam about
+trying to sell their wares as people leave the bathes to return to home or
+work.  
+~
+0 8192 1
+D1
+~
+~
+0 0 60519
+D3
+~
+~
+0 0 60521
+S
+#60521
+{8Roman Marketplace{}~
+The Romans take great pride in their public bathes.  Rome's Bathe is on
+this road, and the pipes that carry the running water line each side of the
+street.  Deep ruts carry rainwater to underground pools.  Vendors roam about
+trying to sell their wares as people leave the bathes to return to home or
+work.  To the north lies the entrance to the famous complex.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60532
+D1
+~
+~
+0 0 60520
+D3
+~
+~
+0 0 60522
+S
+#60522
+{8Roman Marketplace{}~
+The Romans take great pride in their public bathes.  Rome's Bathe is on
+this road, and the pipes that carry the running water line each side of the
+street.  Deep ruts carry rainwater to underground pools.  Vendors roam about
+trying to sell their wares as people leave the bathes to return to home or
+work.  
+~
+0 8192 1
+D1
+~
+~
+0 0 60521
+D3
+~
+~
+0 0 60523
+S
+#60523
+{8Roman Marketplace{}~
+The Romans take great pride in their public bathes.  Rome's Bathe is on
+this road, and the pipes that carry the running water line each side of the
+street.  Deep ruts carry rainwater to underground pools.  Vendors roam about
+trying to sell their wares as people leave the bathes to return to home or
+work.  
+~
+0 8192 1
+D1
+~
+~
+0 0 60522
+D2
+~
+~
+0 0 60524
+D3
+~
+~
+0 0 60551
+S
+#60524
+{8Roman Forum{}~
+The Forum in Rome is a large park in the center of the city.  The rich
+and old come to gather here to exchange ideas and relax.  Food is offered
+for sale up and down the stone walkway.  Children play in the grassy areas. 
+Tall trees shade public benches.  This is a beautiful place to sit back and
+watch the world go by.  Archways stand over some areas of the walkway, and
+ivy grows up and down on them.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60523
+D2
+~
+~
+0 0 60525
+S
+#60525
+{8Roman Forum{}~
+The Forum in Rome is a large park in the center of the city.  The rich
+and old come to gather here to exchange ideas and relax.  Food is offered
+for sale up and down the stone walkway.  Children play in the grassy areas. 
+Tall trees shade public benches.  This is a beautiful place to sit back and
+watch the world go by.  Archways stand over some areas of the walkway, and
+ivy grows up and down on them.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60524
+D2
+~
+~
+0 0 60526
+S
+#60526
+{8Roman Forum{}~
+The Forum in Rome is a large park in the center of the city.  The rich
+and old come to gather here to exchange ideas and relax.  Food is offered
+for sale up and down the stone walkway.  Children play in the grassy areas. 
+Tall trees shade public benches.  This is a beautiful place to sit back and
+watch the world go by.  Archways stand over some areas of the walkway, and
+ivy grows up and down on them.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60525
+D2
+~
+~
+0 0 60505
+S
+#60527
+{yAtrium{}~
+Welcome to the Private Home of the Marcuses.  A hole in the ceiling
+allows light through, and the walls are painted in a deep shade of brown. 
+Two large plants sit in bronze pots in the corners.  A place to leave
+footwear is just inside the door.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60535
+D1
+~
+~
+0 0 60516
+D3
+~
+~
+0 0 60536
+S
+#60528
+{yAtrium{}~
+This is a small home, only the retired General Elis and his wife Pyrra
+live here.  An offical banner hangs on the entrance wall, proclaming to all
+who enter that a worthy man resides within.  A hole in the ceiling allows in
+light.  
+~
+0 8204 0
+D1
+~
+~
+0 0 60517
+D3
+~
+~
+0 0 60544
+S
+#60529
+{gCourtyard{}~
+A stone archway, with a swinging gate, sections off this courtyard from
+the street.  This is the home of Triton and Cythera, a young couple. 
+Cythera just gave birth to their first child and the new family is about to
+have their naming ceremony to offically bring him into the world.  A tiny
+silver shield hangs on the front gate, as a symbol to all of Rome that a new
+son has been born.  
+~
+0 8192 2
+D2
+~
+~
+0 0 60530
+D3
+~
+~
+0 0 60518
+S
+#60530
+{yLibrary{}~
+Trition and Cythera have a small library collection, mostly of the plays
+that have been preformed at the last few festivals.  Trition works at the
+theatre coordinating the Festival of the Muses.  A small reclining couch
+sits next to Trition's desk, and a oval rug lies on the ground.  Cythera's
+weaving basket is tucked under a nook in the shelf.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60529
+D2
+~
+~
+0 0 60548
+S
+#60531
+{BUnctuarium{}~
+Long marble tables fill the room.  Bath-owned slaves carry jars of olive
+oil to each table and use the oil to rub down the sweat-soaked skin of the
+citizens.  Personal slaves help each master unrobe and carefully fold the
+clothes for later.  The walls are full of marble carvings and statues. 
+Vases sit at the corners of the room.  Odd poets roam about reciting their
+most recent works, in hopes of getting invited home for dinner.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60533
+D3
+~
+~
+0 0 60549
+S
+#60532
+{BBathes{}~
+The entrance to Rome's Bathes are elaborate and complex.  Marble statues
+and carvings are everywhere.  Slaves follow behind their masters, carrying
+supplies needed for the bathes.  For a citizen to enter the bathes, a small
+fee is payed here at the gate.  Use of the library to the east is free.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60533
+D1
+~
+~
+0 0 60534
+D2
+~
+~
+0 0 60521
+S
+#60533
+{BPalestra{}~
+A large courtyard is layed out here, with beautiful plants and flowers. 
+This is the exercise area for the Romans, where they can work up a sweat
+before bathing.  A boxing ring is roped off to the left, and small tables
+line the right side of the Palaestra.  Slaves mill about tending to the
+needs of the citizens.  
+~
+0 8192 2
+D0
+~
+~
+0 0 60531
+D2
+~
+~
+0 0 60532
+S
+#60534
+{BLibrary{}~
+Shelves upon shelves line the walls of this elaborate room.  Benches and
+tables sit in the center for anyone who wishes to sit and read the many
+scrolls laid out for viewing.  Rumor has it that Plato's newest work will be
+arriving by chariot shortly.  Healthy, green plants sit in glass pots on the
+tables and in the windows.  Through the windows one can see the beauty of
+the bathes.  
+~
+0 8200 0
+D3
+~
+~
+0 0 60532
+S
+#60535
+{yLararium{}~
+This is the private shrine for the Marcus Family.  The father of the home
+is a wealthy metalsmith who has designed many items for the Emperor.  Their
+shrine is dedicated to Vulcan, the god of smiths and fire.  Smaller statues
+of the Cyclopes sit around the offering pit.  A mosaic tile floor depicts
+the inside of a volcano, and Vulcan working there.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60527
+S
+#60536
+{gCourtyard{}~
+The center of the Marcus home is a small courtyard.  The children can
+play out of the way of traffic and dust.  A beautiful olive tree has been
+planted, for the mother of the house, over to one side, in a stone
+enclosure.  Marble squares run from doorway to doorway, making it easy to
+keep clean.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60537
+D1
+~
+~
+0 0 60527
+D2
+~
+~
+0 0 60543
+D3
+~
+~
+0 0 60540
+S
+#60537
+{yHallway{}~
+A brass mirror hangs at the end of the hallway, polished to a high shine
+for the children.  The walls are painted a deep rich brown, and the floor is
+a simple {rdiamond {bpattern{} of tiles.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60538
+D2
+~
+~
+0 0 60536
+D3
+~
+~
+0 0 60539
+S
+#60538
+{yKatherine's Bedroom{}~
+This is the 6 year old daughter's bedroom.  A pallet lies on the floor,
+covered in a light {Mpink{} blanket.  A rare silk doll sits on the pillow. 
+There is a chest on the north wall that holds Katherine's clothes, and a
+second chest next to it that holds the beginnings of her marriage dowry. 
+The floor is the same simple {rdiamond {bpattern{} of tiles, but the walls
+are a much lighter eggshell.  There is only one small window, and through it
+is the courtyard.  
+~
+0 8200 0
+D3
+~
+~
+0 0 60537
+S
+#60539
+{yTroy's Bedroom{}~
+This is the 11 year old son's bedroom.  A pallet lies on the floor,
+covered in only a rough {ybrown{} blanket.  A small bronze shield leans
+against Troy's chest of clothing.  It is the only remaining toy he has.  A
+cloak hangs on the wall, and a brand new pair of sandals sit by the door,
+waiting to be worn.  The floor is the same simple {rdiamond {bpattern{} of
+tiles, and the walls are dark brown.  A window shows a bit of the courtyard.
+~
+0 8200 0
+D1
+~
+~
+0 0 60537
+S
+#60540
+{yHallway{}~
+The hallway has large, less intricate, tiles.  The walls are covered with
+paintings of a forest with small woodland creatures roaming about.  A plant
+sits in a pot at the end of the hallway.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60541
+D1
+~
+~
+0 0 60536
+D2
+~
+~
+0 0 60542
+S
+#60541
+{yMaster Bedroom{}~
+This is the master bedroom.  Aeolus and Semele Marcus share a large
+pallet on the floor.  It is covered in a richly designed silk blanket.  A
+small dressing table sits along the eastern wall and holds bottles of
+perfume and makeup.  There is a shiny brass mirror hanging on a hook and 2
+capes, one of fur and one of heavy cloth, hanging next to it.  A large
+window shows a beautiful view of the courtyard and is framed by two standing
+chests that hold Aeolus's and Semele's clothes.  A smaller chest hold
+Semele's personal items.  The floor is covered in larger tiles, and the
+walls have a scene of the forest painted on them.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60540
+S
+#60542
+{yStorage Room{}~
+This room is dark, and requires a lantern.  The floor is well-packed
+dirt, and the walls are all shelves.  Food, paper, metal, and cloth sit
+waiting to be turned into useful items by the Marcus Family.  A set of
+plates and cups are right on the edge, clean and ready for a party later
+this week.  Extra bottles of Semele's perfume and makeup are high up out of
+Katherine's reach.  
+~
+0 8201 0
+D0
+~
+~
+0 0 60540
+S
+#60543
+{yLibrary{}~
+Three reclining couches are covered in {rdeep red{} and match the
+{rtile{} swirls on the floor.  A shelf of scrolls hold Aeolus's craft
+papers.  There is a small desk with one of the metalworking scrolls open on
+it.  Troy studies in here, attempting to learn his father's craft.  This is
+the room the family uses for entertaining, so a small table sits against the
+southern wall, ready to hold fruits and meats for guests.  An intricate
+painting on the wall depicts the family of four bringing offerings to
+Jupiter.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60536
+S
+#60544
+{2Courtyard{x~
+The courtyard is full of flowers, Pyrra enjoys gardening at their country
+home, so she tries to bring a little bit of that color into the city when
+she comes.  Elis and Pyrra only come into Rome for the festivals each year,
+then return to their villa outside the hustle and bustle of the city.  This
+home was a gift to Elis when he retired from service to Rome.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60545
+D1
+~
+~
+0 0 60528
+D2
+~
+~
+0 0 60547
+D3
+~
+~
+0 0 60546
+S
+#60545
+{yBedroom{}~
+A slightly elevated pallet is covered in a light multicolored
+{Mp{Ya{Ms{Yt{Me{Yl{} cloth.  Two chests hold all the belongings of Elis and
+Pyrra, and only a few of their things are sitting out on a small wooden
+table.  Elis's armor for the parade is shined and ready.  The floor is clay
+tiles, easy for Pyrra's maidservant to keep clean.  A much smaller wooden
+box sits next to the door, it holds gifts for the newest grandson of Elis
+and Pyrra.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60544
+S
+#60546
+{yLararium{}~
+A small figurine of Mars, the god of war, stands before an open offering
+pit.  A small vase of scents is full and ready for the next prayer. 
+Paintings of Elis in battle cover three of the four walls, and the last is a
+scene of Pyrra at home, surrounded by her beautiful children.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60544
+S
+#60547
+{yExtra Room{}~
+A wooden table and benches sit in the center of the spare room.  One
+shelf of scrolls hangs in the center of the eastern wall.  A small window
+shows the beauty of the courtyard.  Two bed pallets are standing up on their
+sides against the western wall.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60544
+S
+#60548
+{yBedroom{}~
+A woven reed basket full of blankets sits close to the head of the
+pallet.  There are three chests, one for each of the family members. 
+Cythera has a small collection of makeup and perfumes on her dressing table.
+A large shelf holds some of Trition's older attempts at playwriting.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60530
+S
+#60549
+Hot Bathes~
+Tall marble pillars line the walls, holding up a beautifully carved
+ceiling.  Vases of tall {gferns{} sit around the pool.  Hot water runs
+through pipes under the mudstone floor and heat both the pool and the floor.
+Deep {ggreen {}and {bblue{} tiles cover the large pool.  Men and women swim
+naked, their clothes draped on tall wooden tables.  Slaves wander about,
+bringing body and hair soap to those who call for it.  Two slaves stand at
+the side of the pool, holding towels to give to the patrons when they are
+done with their warm bathes.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60531
+D3
+~
+~
+0 0 60550
+S
+#60550
+Cold Bathes~
+This is a much smaller room.  There are two seperate pools, both filled
+with icy cold stream water.  A slave stands behind a counter, selling
+perfumes and oils to adorn the body with.  Patrons take a quick dive in
+these marble tubs before drying off and dressing again.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60549
+S
+#60551
+{8Roman Marketplace{}~
+The Romans take great pride in their public bathes.  Rome's Bathe is on
+this road, and the pipes that carry the running water line each side of the
+street.  Deep ruts carry rainwater to underground pools.  Vendors roam about
+trying to sell their wares as people leave the bathes to return to home or
+work.  Directly to the west is the entrance to the Colosseum.  Mighty
+Gladiators prepare to fight!  
+~
+0 8192 1
+D1
+~
+~
+0 0 60523
+D3
+~
+~
+0 0 60552
+S
+#60552
+{gColosseum{}~
+Welcome to the Colossum.  A high archway goes over the top, and is
+actually a bridge.  To the north is the seats for Citizens and guests. 
+Going up leads to the Emperor's Private Box.  
+~
+0 8192 1
+D0
+~
+~
+0 0 60555
+D1
+~
+~
+0 0 60551
+D4
+~
+~
+0 0 60553
+S
+#60553
+{gColosseum{}~
+{RC{Yo{Rl{Yo{Rr{Yf{Ru{Yl{} Silk banners hang from the ceiling, and a
+highly polished marble path goes to the west.  Legioners stand at attention,
+ready to protect the Emperor at a moment's notice.  
+~
+0 8200 0
+D3
+~
+~
+0 0 60554
+D5
+~
+~
+0 0 60552
+S
+#60554
+{REmperor's Box{}~
+A large throne sits in the center of the box.  Two smaller thrones sit on
+either side, for the Emperor's Wife or any other honored guest.  Legioners
+stand at attention, protecting the Emperor.  From this box there is a view
+of the entire field.  Marble vases full of {gferns{} sit around the box.  A
+small fireplace is against the back wall, to give off heat during the colder
+months.  
+~
+0 8200 0
+D1
+~
+~
+0 0 60553
+S
+#60555
+{gSeats{}~
+Stone carved seats line the edges of the arena.  Slaves mill up and down
+the stairs, selling warm foods and cold drinks.  The citizens wave silk
+squares that match the color of the Gladiator they are cheering for.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60556
+D2
+~
+~
+0 0 60552
+S
+#60556
+{gSeats{}~
+Stone carved seats line the edges of the arena.  Slaves mill up and down
+the stairs, selling warm foods and cold drinks.  The citizens wave silk
+squares that match the color of the Gladiator they are cheering for.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60557
+D2
+~
+~
+0 0 60555
+S
+#60557
+{gSeats{}~
+Stone carved seats line the edges of the arena.  Slaves mill up and down
+the stairs, selling warm foods and cold drinks.  The citizens wave silk
+squares that match the color of the Gladiator they are cheering for. 
+Directly below is the entrance to the areana field.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60559
+D2
+~
+~
+0 0 60556
+D5
+~
+~
+0 0 60558
+S
+#60558
+{rEntrance to the Field{}~
+This is the entrance onto the Arena Field.  Directly east lies the open
+area where Gladiators go to prove themselves.  A large iron gate is shut
+over the entrance, but a waiting slave will open it as soon as the fight is
+over.  The room is dark and smells of sweat.  Jugs of water for the fighters
+sit along the wall, so then can take one last sip before dying, er fighting.
+~
+0 8200 0
+D0
+~
+~
+0 0 60561
+D1
+~
+~
+0 0 60562
+D4
+~
+~
+0 0 60557
+S
+#60559
+{gSeats{}~
+Stone carved seats line the edges of the arena.  Slaves mill up and down
+the stairs, selling warm foods and cold drinks.  The citizens wave silk
+squares that match the color of the Gladiator they are cheering for.  The
+Owners of the various Gladiators sit in private stands to the north.  
+~
+0 8200 0
+D0
+~
+~
+0 0 60560
+D2
+~
+~
+0 0 60557
+S
+#60560
+{gOwner Seats{}~
+These seats are divided into boxes by low stone walls.  Slaves stand at
+attention at the entrance to each box, waiting for the owners bidding. 
+Large banners on poles hang behind each box, the colors matching the
+Gladiator owned by that Patron.  There is some healthy competion going on
+between the owners, shouting and jibes back and forth.  But the real winner
+is to be found on the arena field, not here.  
+~
+0 8200 0
+D2
+~
+~
+0 0 60559
+S
+#60561
+{rGladiatior Preperation Room{}~
+Stone tables lie around the room, and slaves are rushing about helping
+the fighters of the next fight get ready.  Shined and polished armor sits on
+benches along the northern wall.  Baskets of fruit and bread sit on a tall
+wooden table right inside the door.  The mood of the room isn't jovial,
+hardly anyone speaks.  Two basins for washing off after the fight are being
+filled with clean water.  Robes to be worn home hang on hooks, and are
+gently touched with wishes that death be not theirs today.  
+~
+0 8201 0
+D2
+~
+~
+0 0 60558
+S
+#60562
+{rArena Field{}~
+The fighting field is packed dirt.  Dust swirls up choking life, bits of
+broken weapons and armor lie scattered about.  Vision is limited, but
+looking up one can see the Emperor Box and the stands of cheering masses. 
+The only way out of here is death or victory!  
+~
+0 8192 2
+D0
+~
+~
+0 0 60563
+D1
+~
+~
+0 0 60565
+D3
+~
+~
+0 0 60558
+S
+#60563
+{rArena Field{}~
+The fighting field is packed dirt.  Dust swirls up choking life, bits of
+broken weapons and armor lie scattered about.  Vision is limited, but
+looking up one can see the Emperor Box and the stands of cheering masses. 
+The only way out of here is death or victory!  
+~
+0 8192 2
+D1
+~
+~
+0 0 60564
+D2
+~
+~
+0 0 60562
+S
+#60564
+{rArena Field{}~
+The fighting field is packed dirt.  Dust swirls up choking life, bits of
+broken weapons and armor lie scattered about.  Vision is limited, but
+looking up one can see the Emperor Box and the stands of cheering masses. 
+The only way out of here is death or victory!  
+~
+0 8192 2
+D2
+~
+~
+0 0 60565
+D3
+~
+~
+0 0 60563
+S
+#60565
+{rArena Field{}~
+The fighting field is packed dirt.  Dust swirls up choking life, bits of
+broken weapons and armor lie scattered about.  Vision is limited, but
+looking up one can see the Emperor Box and the stands of cheering masses. 
+The only way out of here is death or victory!  
+~
+0 8192 2
+D0
+~
+~
+0 0 60564
+D3
+~
+~
+0 0 60562
+S
+#0
+
+
+
+#SPECIALS
+M 60511 spec_high_mage
+S
+
+
+
+#RESETS
+O 0 60500 0 60501
+M 0 60598 15 60502 2
+E 0 60539 0 16
+E 0 60530 0 23
+M 0 60599 15 60503 2
+E 0 60531 0 5
+M 0 60597 1 60504 1
+M 0 60596 1 60504 1
+M 0 60595 8 60505 2
+M 0 60594 1 60506 6
+M 0 60500 1 60507 1
+G 0 60501 0
+G 0 60503 0
+G 0 60502 0
+G 0 60504 0
+M 0 60593 1 60508 1
+M 0 60592 2 60509 20
+M 0 60590 1 60510 1
+M 0 60591 1 60510 1
+G 0 60530 0
+G 0 60527 0
+G 0 60526 0
+M 0 60520 3 60511 3
+M 0 60589 2 60511 15
+M 0 60516 1 60512 1
+M 0 60515 1 60512 1
+M 0 60514 1 60512 1
+M 0 60513 1 60512 1
+M 0 60512 1 60512 1
+M 0 60520 3 60513 3
+M 0 60501 7 60514 7
+M 0 60501 7 60514 7
+M 0 60501 7 60514 7
+M 0 60502 1 60515 1
+M 0 60501 7 60515 7
+M 0 60501 7 60515 7
+M 0 60501 7 60515 7
+M 0 60501 7 60515 7
+M 0 60520 3 60516 3
+M 0 60521 3 60517 3
+M 0 60521 3 60518 3
+M 0 60522 3 60520 3
+M 0 60521 3 60521 3
+M 0 60522 3 60522 3
+M 0 60519 3 60524 3
+O 0 60524 0 60524
+M 0 60519 3 60525 3
+M 0 60519 3 60526 3
+O 0 60515 0 60530
+M 0 60582 1 60530 1
+M 0 60533 10 60531 10
+M 0 60533 10 60531 10
+M 0 60533 10 60531 10
+O 0 60523 0 60531
+M 0 60533 10 60532 10
+M 0 60533 10 60532 10
+M 0 60533 10 60532 10
+M 0 60533 10 60533 10
+M 0 60533 10 60533 10
+M 0 60533 10 60533 10
+M 0 60503 8 60534 8
+M 0 60588 1 60536 1
+O 0 60505 0 60536
+O 0 60514 0 60538
+M 0 60587 1 60538 1
+O 0 60513 0 60539
+M 0 60586 1 60539 1
+O 0 60506 0 60541
+M 0 60585 1 60541 1
+O 0 60508 0 60543
+O 0 60509 0 60543
+P 0 60510 1 60509 1
+P 0 60511 1 60509 1
+P 0 60512 1 60509 1
+O 0 60516 0 60544
+O 0 60517 0 60544
+M 0 60584 1 60544 1
+O 0 60518 0 60545
+O 0 60519 0 60547
+M 0 60583 1 60547 1
+O 0 60520 0 60548
+P 0 60521 1 60520 1
+P 0 60522 1 60520 1
+M 0 60581 1 60548 1
+M 0 60533 10 60549 10
+M 0 60503 8 60549 8
+M 0 60503 8 60549 8
+M 0 60503 8 60549 8
+M 0 60503 8 60549 8
+M 0 60503 8 60550 8
+M 0 60503 8 60550 8
+M 0 60503 8 60550 8
+M 0 60522 3 60551 3
+M 0 60517 2 60553 2
+M 0 60517 2 60553 2
+E 0 60525 0 6
+E 0 60526 0 5
+E 0 60527 0 11
+E 0 60528 0 8
+E 0 60529 0 3
+E 0 60529 0 4
+M 0 60518 1 60554 1
+M 0 60511 1 60554 1
+M 0 60504 8 60555 8
+M 0 60504 8 60555 8
+M 0 60504 8 60556 8
+M 0 60504 8 60556 8
+M 0 60504 8 60557 8
+M 0 60504 8 60557 8
+M 0 60507 3 60558 3
+M 0 60504 8 60559 8
+M 0 60504 8 60559 8
+M 0 60506 1 60560 1
+M 0 60505 1 60560 1
+M 0 60507 3 60561 3
+M 0 60507 3 60561 3
+M 0 60508 1 60563 1
+M 0 60509 1 60565 1
+S
+
+
+
+#SHOPS
+60500 0 0 0 0 0 110 90 0 23
+60591 0 0 0 0 0 110 90 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,5860 @@
+#AOD_AREA
+Taaloni~
+26700 26899 C 9
+Levl 1 101
+Bldr Neka~
+End
+
+#MOBILES
+#26700
+captain guard~
+the captain of the guard~
+The Captain of the guard watches for signs of trouble.
+~
+Clad in the neat uniform of the Taalonia Protector's, the Captain guards
+this city well.  
+~
+human~
+100 150 100 100 100 100 100 100 100 100 100 0 100 150 100 100 100 150 100 100 100 100 100 100 100 100 
+ABGT T 0 3000 0
+50 50 0 1330 1533 349 446 25 50 49 cleave
+-300 -300 -300 -200
+STANDING STANDING male 1000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26701
+armorer taaloni~
+the armorer~
+The armorer rests behind the counter.
+~
+The armorer eyes you suspiciously as you enter the room.  
+~
+human~
+0 50 0 100 100 100 0 100 0 100 100 100 0 100 0 100 100 150 100 100 0 100 100 100 0 100 
+ABG 0 0 3000 0
+140 101 0 5380 6015 630 762 50 101 99 beating
+-830 -830 -830 -620
+STANDING STANDING male 6000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26702
+taalonian healer~
+the Taalonian healer~
+The Taalonian healer meditates in the shade.
+~
+The healer wears a plain robe befitting the vows she has taken.  She
+offers help to all who need it.  
+Type heal to see a list of spells.
+~
+human~
+100 150 0 0 100 50 0 100 0 100 50 0 50 50 0 100 100 150 100 100 150 100 100 0 100 100 
+ABGR FLT HT 0 0
+150 1000 0 5284 5906 629 755 50 101 5000 none
+-2000 -2000 -2000 -2000
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26703
+ancient warrior~
+an ancient warrior~
+An ancient warrior sits telling stories of battle.
+~
+The warrior has seen many horrors of battle.  His face and body are
+horribly scarred.  He is still in excellent condition, but white shock of
+hair betrays his age.  
+~
+human~
+0 0 0 100 100 0 100 100 0 100 150 100 50 50 50 0 100 0 100 100 0 150 100 100 0 100 
+ABGJKTb DFV S 3000 0
+150 101 0 5310 5918 629 757 50 101 99 beating
+-830 -830 -830 -620
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26704
+magellie~
+{0Magellie~
+Magellie putters about with a feather duster in one hand.
+~
+Type list to see what may be purchased here.
+~
+human~
+0 0 0 100 100 0 100 100 0 100 150 100 50 50 50 100 100 0 100 100 0 150 100 100 100 100 
+ABG DFV S 3000 0
+140 101 0 5273 5920 652 776 50 101 99 none
+-830 -830 -830 -620
+STANDING STANDING female 3000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26705
+shopkeeper general store~
+the owner of the general store~
+The owner of the general store bows as you enter.
+~
+Type list to see what is available here.
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 0 100 0 100 100 0 100 100 0 100 100 100 0 100 
+ABG 0 0 3000 0
+150 101 0 5334 5990 619 780 50 101 99 chop
+-830 -830 -830 -620
+STANDING STANDING male 3000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26706
+bellhop~
+the bellhop~
+The bellhop waits for the next patron.
+~
+Clad in a neat blue uniform he looks very professional.  He waits to assist you with your things. 
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 50 100 100 150 100 50 100 100 50 150 100 100 100 100 
+ABGT 0 0 3000 0
+101 101 0 5385 5931 576 755 50 101 99 pound
+-830 -830 -830 -620
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26707
+drunk~
+the drunk~
+A drunk sits at a table drinking cheap whiskey.
+~
+The town drunk smells to high heaven!  
+~
+human~
+100 100 100 100 100 100 150 100 100 100 100 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 
+ABGT 0 0 3000 0
+50 50 0 1273 1460 318 417 25 50 44 punch
+-280 -280 -280 -170
+STANDING STANDING male 1000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26708
+bartender~
+the bartender~
+The bartender polishes glasses with a soft cloth.
+~
+Type list to see what drinks may be bought here.
+~
+human~
+100 0 0 100 100 100 100 100 0 100 100 100 50 100 0 100 100 150 0 100 0 100 100 100 100 100 
+ABGT P 0 3000 0
+130 101 0 5387 5938 618 787 50 101 99 pierce
+-830 -830 -830 -620
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26709
+jeweler~
+the jeweler~
+The jeweler welcomes you with a smile.
+~
+Many items can be bought and sold here.  Type list to see what may be purchased.
+~
+human~
+100 50 0 50 100 100 100 100 0 100 100 100 0 100 100 100 100 0 150 100 0 100 100 100 100 100 
+ABG T 0 3000 0
+130 101 0 5344 6021 625 755 50 101 99 punch
+-830 -830 -830 -620
+STANDING STANDING male 3000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26710
+the banker~
+the banker~
+The banker eyes you warily from behind the counter.
+~
+The banker sits tiredly on a padded stool.  He wears an ill fitting suit.  
+~
+human~
+100 150 100 0 100 0 100 100 0 100 100 100 50 0 150 100 100 0 100 100 0 100 0 100 150 100 
+ABGd 0 0 3000 0
+130 101 0 5301 5987 647 781 50 101 99 claw
+-830 -830 -830 -620
+STANDING STANDING male 3000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26711
+waitress~
+a waitress~
+A waitress waits for her next customer.
+~
+The waitress smiles pleasantly and strikes up a friendly conversation.  
+~
+human~
+100 50 0 100 100 100 0 100 0 100 100 100 150 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABG d 0 0 0
+120 101 0 5419 6051 631 797 50 101 99 none
+-830 -830 -830 -620
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26712
+taalonian protector~
+a Taalonian protector~
+A Taalonian protector mans his post.
+~
+Clad in a neat uniform befitting his post, the protector takes his duties
+very seriously.  
+~
+human~
+100 50 100 150 100 100 0 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+AGT T 0 3000 0
+40 40 0 973 1111 299 369 20 40 39 slash
+-230 -230 -230 -140
+STANDING STANDING male 800
+0 mage medium ABCDEFGHIJK
+W 30
+
+#26713
+cat~
+a cat~
+A harmless little cat roams about in search of food.
+~
+~
+cat~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG JZ 0 1000 0
+10 10 0 111 126 94 129 1 20 8 claw
+30 30 30 50
+STANDING STANDING female 200
+0 mage medium ACDEFHJKQUV
+W 5
+
+#26714
+fido~
+a fido~
+A fido sniffs the ground.
+~
+The fido sniffs your leg as you walk by, then he raises his leg and aims
+a stream of warm urine at your boot.  
+~
+fido~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 1000 0
+12 12 0 149 175 134 172 1 20 10 bite
+0 0 0 30
+STANDING STANDING male 240
+0 mage medium ACDEFHJKQV
+W 5
+
+#26715
+flock pigeons~
+a flock of pigeons~
+A flock of pigeons has gathered here.
+~
+Several beautiful pigeons have gathered here to look for seeds.  
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG T 0 500 0
+8 8 0 87 95 113 148 1 20 7 none
+30 30 30 50
+STANDING STANDING neutral 160
+0 mage medium ACDEFHKP
+W 1
+
+#26716
+citizen~
+a citizen~
+A citizen shades herself with a parasol.
+~
+The citizen is clad in a pastel colored silk dress.  Her features are
+delicately beautiful.  
+~
+human~
+100 150 100 100 100 100 100 100 0 100 100 100 50 100 150 100 100 100 100 100 100 100 0 100 150 100 
+AG 0 0 1000 0
+20 20 0 308 355 165 237 10 20 17 none
+-40 -40 -40 0
+STANDING STANDING female 500
+0 mage medium ABCDEFGHIJK
+W 5
+
+#26717
+a citizen~
+a citizen~
+A citizen walks about whistling a merry tune.
+~
+The citizen strolls about.  Life is treating him well, should he not be
+so happy?  
+~
+human~
+100 100 100 100 100 100 100 100 150 100 100 100 50 100 0 100 100 150 0 100 100 100 100 100 100 100 
+AG P 0 1000 0
+22 22 0 361 415 162 241 11 22 19 slash
+-60 -60 -60 -10
+STANDING STANDING male 440
+0 mage medium ABCDEFGHIJK
+W 5
+
+#26718
+bengal tiger~
+a bengal tiger~
+A bengal tiger has been caged here.  
+~
+Lashing his tail in the air, the tiger growls softly.  
+~
+cat~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG JZ 0 500 0
+10 10 0 115 132 118 162 1 20 8 claw
+20 20 20 40
+STANDING STANDING neutral 100
+0 mage medium ACDEFHJKQUV
+W 1
+
+#26719
+lion~
+a lion~
+A lion snarls at you!
+~
+Blood stains the fur around his mouth.  His yellow eyes bore into you,
+perhaps marking you as his next snack.  
+~
+cat~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG JZ 0 500 0
+12 12 0 155 178 132 172 1 20 10 claw
+0 0 0 30
+STANDING STANDING female 150
+0 mage medium ACDEFHJKQUV
+W 1
+
+#26720
+janitor~
+a janitor~
+A janitor tips his hat as you walk by.
+~
+The janitor wears stained work clothes and whistles a happy tune as he
+goes about his work.  
+~
+human~
+100 100 150 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 0 100 100 100 100 100 100 100 
+ACG 0 0 1000 0
+25 25 0 427 495 189 264 12 25 22 pierce
+-80 -80 -80 -30
+STANDING STANDING male 300
+0 mage medium ABCDEFGHIJK
+W 5
+
+#26721
+fox~
+a fox~
+This little fox walks nervously about the cage.
+~
+Such a tiny, nervous creature is the fox.  
+~
+fox~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG JZ 0 1000 0
+14 14 0 181 207 131 186 1 20 12 charge
+0 0 0 20
+STANDING STANDING male 280
+0 mage medium ACDEFHJKQV
+W 2
+
+#26722
+lizard~
+a lizard~
+A lizard slithers about the cage.
+~
+The lizard has tough, scaly hide and beady black eyes.  His tongue flicks
+in and out tasting the air.  
+~
+human~
+100 50 100 150 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 0 0 100 100 
+ABG La C 1000 0
+14 14 0 177 208 134 195 1 20 12 slash
+0 0 0 20
+STANDING STANDING female 280
+0 mage medium ABCDEFGHIJK
+W 2
+
+#26723
+hyena~
+a hyena~
+This hyena laughs maniacally at you.
+~
+The stench of death hangs heavy around the hyena.  The haunting laughter
+chills you to the bone.  
+~
+fido~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 0 1000 0
+16 16 0 218 261 151 193 1 20 14 charge
+-10 -10 -10 10
+STANDING STANDING neutral 250
+0 mage medium ACDEFHJKQV
+W 2
+
+#26724
+boa constrictor~
+a boa constrictor~
+A boa constrictor hisses, then slithers into a corner.
+~
+The boa constrictor is a huge snake.  His coils wait to encompass you.  
+~
+snake~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABG 0 0 1000 0
+18 18 0 264 321 156 208 1 20 16 crush
+-30 -30 -30 0
+STANDING STANDING neutral 250
+0 mage medium ADEFKLQVX
+W 1
+
+#26725
+finch~
+a finch~
+A tiny finch hops around the cage.
+~
+The finch fills the air with the sweetest music you've ever heard.  
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG T 0 1000 0
+20 20 0 307 353 165 222 10 20 17 none
+-40 -40 -40 0
+STANDING STANDING neutral 500
+0 mage medium ACDEFHKP
+W 3
+
+#26726
+rabbit~
+a rabbit~
+A bad little rabbit growls at you.
+~
+Isn't he just the cutest little thing?  
+~
+rabbit~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 
+ABG Tb 0 1000 0
+22 22 0 397 461 196 251 11 22 21 bite
+-70 -70 -70 -30
+STANDING STANDING male 600
+0 mage medium ACDEFHJK
+W 2
+
+#26727
+centipede~
+a centipede~
+A giant centipede crawls about the cage.
+~
+~
+centipede~
+100 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 
+ABG JZ 0 1000 0
+24 24 0 406 466 187 253 12 24 21 acbite
+-70 -70 -70 -20
+STANDING STANDING neutral 350
+0 mage medium ACK
+W 1
+
+#26728
+bear~
+a bear~
+A bear sniffs the air suspiciously.
+~
+This bear is looking for a tasty treat.  Could you be it?  
+~
+bear~
+100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 0 1000 0
+26 26 0 441 515 189 259 13 26 23 claw
+-90 -90 -90 -30
+STANDING STANDING neutral 600
+0 mage medium ABCDEFHJKUV
+W 1
+
+#26729
+orc~
+an orc~
+An orc searches for a way to escape the cage.
+~
+The orc shrieks and claws at the bars of the cage.  
+~
+human~
+100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 150 0 100 
+ABG 0 0 1000 0
+28 28 0 507 595 204 273 14 28 24 cleave
+-100 -100 -100 -40
+STANDING STANDING neutral 500
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26730
+baby dragon~
+a baby dragon~
+A baby dragon totters about on unsteady legs.
+~
+Ahh!  Isn't she cute?  
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+ABG DFJT 0 1000 0
+28 28 0 567 676 208 290 14 28 27 flame
+-120 -120 -120 -70
+STANDING STANDING female 600
+0 mage medium ACDEFGHIJKPQUVX
+W 3
+
+#26731
+wolf~
+a wolf~
+A lone wolf howls at the moon.
+~
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 50 100 100 100 100 150 150 100 
+ABG Z 0 1000 0
+30 30 0 642 743 225 318 15 30 29 bite
+-140 -140 -140 -80
+STANDING STANDING male 600
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26732
+wooly mammoth~
+a wooly mammoth~
+A wooly mammoth rests in the shade.
+~
+This ancient mammoth has been snatched by the zoo for the prized exhibit!  
+~
+human~
+100 50 100 150 50 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 
+ABG 0 0 2000 0
+32 32 0 673 787 250 325 16 32 31 crush
+-160 -160 -160 -100
+STANDING STANDING neutral 900
+0 mage huge ABCDEFGHIJK
+W 1
+
+#26733
+spider monkey~
+a spider monkey~
+A spider monkey swings from a vine.
+~
+The tiny monkey stares at you with solemn eyes.  
+~
+human~
+100 100 0 150 100 100 50 100 0 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFG 0 0 1000 0
+34 34 0 723 886 239 332 17 34 33 beating
+-180 -180 -180 -110
+STANDING STANDING neutral 800
+0 mage medium ABCDEFGHIJK
+W 2
+
+#26734
+spider~
+a spider~
+A huge spider spins a web here.
+~
+What a huge spider!  It glares at you with beady red eyes.  
+~
+human~
+100 150 0 150 100 100 50 100 100 100 100 100 100 100 100 100 100 50 0 100 100 100 100 100 100 100 
+ABFG V 0 1000 0
+36 36 0 820 952 267 351 18 36 35 none
+-190 -190 -190 -120
+STANDING STANDING neutral 1000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26735
+scorpion~
+a scorpion~
+A tiny scorpion looks for a place to hide.
+~
+~
+human~
+100 100 0 150 100 100 50 100 100 100 100 100 100 100 100 100 100 50 0 100 100 100 100 100 100 100 
+ABFG 0 0 1000 0
+38 38 0 845 1018 271 379 19 38 37 sting
+-210 -210 -210 -130
+STANDING STANDING neutral 900
+0 mage tiny ABCDEFGHIJK
+W 2
+
+#26736
+blob~
+a blob~
+A gigantic blob leaves a trail of slime wherever it goes.
+~
+The blob is a disgusting mass of quivering flesh.  It drips slime
+everywhere.  
+~
+human~
+100 100 0 150 100 100 50 100 50 100 100 150 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+ABFG 0 0 1000 0
+40 40 0 939 1115 277 387 20 40 39 slime
+-230 -230 -230 -140
+STANDING STANDING neutral 1000
+0 mage huge ABCDEFGHIJK
+W 1
+
+#26737
+phoenix~
+a phoenix~
+A phoenix has been caged here.
+~
+The phoenix sits in a pile of smoldering ashes.  What a proud, beautiful
+creature it is.  
+~
+human~
+100 100 0 150 100 100 100 100 100 100 50 100 100 150 100 150 100 50 100 100 100 100 100 100 100 100 
+ABFGO V 0 1000 0
+45 45 0 1157 1361 314 411 22 45 44 flbite
+-270 -270 -270 -170
+STANDING STANDING neutral 1000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26738
+palace guard~
+a palace guard~
+A palace guard watches for signs of insubordination.
+~
+~
+human~
+100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 
+ABGT V 0 3000 0
+50 50 0 1249 1435 308 405 25 50 44 smash
+-280 -280 -280 -170
+STANDING STANDING male 1200
+0 mage medium ABCDEFGHIJK
+W 4
+
+#26739
+butler~
+the butler~
+The butler stands at the door waiting to greet you.
+~
+Clad in a neat little uniform, the butler is the personification of suave.  
+~
+human~
+100 150 100 100 100 150 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 150 100 0 100 100 
+ABG 0 0 3000 0
+55 55 0 2096 2374 364 479 27 55 54 thwack
+-340 -340 -340 -230
+STANDING STANDING male 1000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26740
+librarian~
+the librarian~
+The librarian keeps the books neatly in order.
+~
+The librarian wears a prim little outfit.  She works constantly to keep
+the library in order.  
+~
+human~
+150 100 0 100 100 150 100 100 150 100 150 100 50 50 50 100 100 100 100 100 100 150 100 100 100 100 
+ABG DFV S 3000 0
+57 57 0 2171 2379 340 464 28 57 50 none
+-330 -330 -330 -210
+STANDING STANDING female 1000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26741
+maid~
+a maid~
+A maid is here polishing the floors.
+~
+The maid works furiously here cleaning and making this palace fit for
+royalty.  
+~
+human~
+150 50 100 100 100 100 0 100 0 100 100 100 150 100 100 100 100 100 100 100 150 100 100 100 100 100 
+AG d 0 3000 0
+59 59 0 2347 2663 393 492 29 59 58 none
+-380 -380 -380 -260
+STANDING STANDING female 1200
+0 mage medium ABCDEFGHIJK
+W 5
+
+#26742
+treasurer~
+the royal treasurer~
+The royal treasurer takes care of the books.
+~
+The treasurer has a shifty look in his eyes.  You wonder if he can really
+be trusted?  
+~
+human~
+100 100 100 0 100 100 100 100 100 100 100 100 50 100 150 100 100 100 100 100 150 150 100 100 0 100 
+ABG 0 0 0 0
+60 60 0 2502 2740 384 515 30 60 59 scratch
+-380 -380 -380 -260
+STANDING STANDING male 1300
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26743
+mazran ~
+{0Mazran, the boy king~
+Mazran, the boy king, sits upon the throne.
+~
+Mazran rules the city of Taaloni.  He is but a child, but his wisdom is
+that of an ancient one.  
+~
+human~
+100 150 0 100 100 0 50 100 100 100 100 0 100 100 100 100 100 100 100 100 150 100 100 50 50 100 
+ABGR TV E 3000 0
+120 101 0 5369 5967 636 787 50 101 99 frbite
+-830 -830 -830 -620
+STANDING STANDING male 2000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26744
+court jester~
+the court jester~
+The court jester entertains the king.
+~
+Dressed in a brightly colored suit, the jester bounces happily about. 
+His main goal is to make the king laugh.  
+~
+human~
+0 100 0 100 100 100 100 100 100 100 100 100 100 100 150 100 100 150 150 100 100 100 100 100 100 100 
+ABG V 0 2000 0
+70 70 0 3056 3345 446 587 35 70 69 pound
+-470 -470 -470 -330
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26745
+mazran's bodyguard~
+{0Mazran's bodyguard~
+Mazran's bodyguard protects the boy king from harm.
+~
+The bodyguard is a wizened warrior.  He has protected the boy king from
+the moment of his birth.  He will die for the king.  
+~
+human~
+100 100 0 100 100 100 50 100 150 100 100 100 100 100 150 100 100 100 100 150 100 100 100 50 50 100 
+ABGT T 0 2000 0
+98 98 0 5143 5712 606 752 49 98 97 chop
+-800 -800 -800 -600
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26746
+lady of the night~
+a lady of the night~
+A lady of the night stands here selling her wares.
+~
+~
+human~
+100 150 100 100 50 100 100 100 100 100 100 100 50 100 100 100 100 150 50 100 150 100 150 100 150 100 
+AG JZ AH -1000 0
+30 30 0 561 659 221 285 15 30 26 none
+-120 -120 -120 -60
+STANDING STANDING female 500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26747
+knight~
+a knight~
+A knight rests here.
+~
+The knight has just come from a long hard battle.  He is resting before
+going off to battle yet again.  
+~
+human~
+100 50 0 100 100 0 100 100 100 100 100 0 100 100 100 100 100 100 100 100 150 100 100 100 100 100 
+ABGT T 0 1500 0
+50 50 0 1322 1553 347 443 25 50 49 thrust
+-300 -300 -300 -200
+STANDING STANDING male 1000
+0 mage medium ABCDEFGHIJK
+W 4
+
+#26748
+royal nanny~
+the royal nanny~
+The royal nanny waits to care for Mazran.
+~
+The nanny waits patiently for the boy king to return to his chambers.  
+~
+human~
+100 100 100 0 50 100 150 100 100 150 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 
+ABG V 0 1100 0
+55 55 0 2013 2240 335 438 27 55 48 scratch
+-310 -310 -310 -200
+STANDING STANDING female 1000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26749
+royal scribe~
+the royal scribe~
+The royal scribe practices his penmanship.
+~
+The scribe awaits orders from the boy king.  
+~
+modron~
+50 100 0 50 0 100 50 100 0 100 100 100 100 0 0 100 100 100 100 100 100 100 100 100 100 100 
+ABG J 0 1000 0
+125 52 0 1306 1545 305 407 26 52 46 pierce
+-290 -290 -290 -180
+STANDING STANDING male 1000
+0 mage medium ABCGHJK
+W 1
+
+#26750
+priest~
+the priest~
+The priest greets you with a smile.
+~
+The priest waits for his parishioners to come to church.  
+~
+modron~
+50 100 0 50 0 100 50 100 0 100 100 100 100 0 0 100 100 100 100 100 100 100 100 100 100 100 
+ABG J 0 3000 0
+125 40 0 887 1010 243 336 20 40 35 punch
+-200 -200 -200 -120
+STANDING STANDING male 800
+0 mage medium ABCGHJK
+W 1
+
+#26751
+mummy~
+a mummy~
+A mummy wanders about the crypt.
+~
+The mummy is wrapped in tatters of ancient cloth.  The only thing you see
+are two glowing red eyes 
+~
+human~
+150 100 100 100 0 100 150 100 150 100 100 100 100 100 0 100 100 100 0 100 100 100 100 100 100 100 
+ABG J 0 -1500 0
+30 30 0 574 668 215 290 15 30 26 stab
+-120 -120 -120 -60
+STANDING STANDING neutral 900
+0 mage medium ABCDEFGHIJK
+W 2
+
+#26752
+skeleton~
+a skeleton~
+A skeleton lies chained against the wall.
+~
+The skeletal remains of someone lie here.  Rusted wrist cuffs still
+surround the bones of one arm.  What a horrid way to die!  
+~
+human~
+150 100 100 100 0 100 150 100 150 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABG J 0 -1500 0
+32 32 0 611 713 224 295 16 32 28 chomp
+-130 -130 -130 -70
+STANDING STANDING neutral 1000
+0 mage medium ABCDEFGHIJK
+W 2
+
+#26753
+wraith~
+a wraith~
+A wraith floats about the crypt.
+~
+Wisps of mist obscure the wraith.  A haunting moan comes from where the
+mouth would be.  A chill strikes you to the very bone.  
+~
+human~
+100 100 0 150 100 100 100 100 150 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 
+ABG T 0 -1500 0
+34 34 0 674 779 231 309 17 34 30 wrath
+-150 -150 -150 -80
+STANDING STANDING neutral 1000
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26754
+blob~
+a huge blob~
+A huge blob crawls about leaving a trail of slime.
+~
+What a disgusting mass of quivering flesh this is.  
+~
+human~
+0 100 100 150 100 100 150 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 -1500 0
+35 35 0 704 822 245 329 17 35 31 slime
+-160 -160 -160 -80
+STANDING STANDING neutral 1000
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26755
+boar~
+a boar~
+A huge boar is rooting in the dirt here.
+~
+Huge, hairy, ugly!  
+~
+pig~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 1500 0
+40 40 0 975 1102 296 374 20 40 39 charge
+-230 -230 -230 -140
+STANDING STANDING male 1000
+0 mage medium ACDEFHJK
+W 3
+
+#26756
+bat~
+a bat~
+A bat flies about here.
+~
+The huge bat smells horrible.  
+~
+bat~
+100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG JTZ 0 -1500 0
+42 42 0 966 1133 272 362 21 42 37 bite
+-220 -220 -220 -130
+STANDING STANDING neutral 1000
+0 mage medium ACDEFHJKP
+W 3
+
+#26757
+a minotaur~
+a minotaur~
+A minotaur runs loose in the forest.
+~
+The minotaur snorts as you approach.  
+~
+human~
+100 50 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 150 100 100 100 100 100 100 0 100 
+AG 0 0 0 0
+20 20 0 302 348 177 222 10 20 17 charge
+-40 -40 -40 0
+STANDING STANDING neutral 400
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26758
+flickering flame~
+a flickering flame~
+A flickering flame wanders about here.
+~
+This little flame flickers and waves in the breeze.  Isn't he cute?  
+~
+human~
+100 100 100 150 100 100 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+AG 0 0 0 0
+75 75 0 3398 3783 492 630 37 75 74 flame
+-510 -510 -510 -360
+STANDING STANDING neutral 2500
+0 mage medium ABCDEFGHIJK
+W 9
+
+#26760
+ice crystal~
+an ice crystal~
+An {cice{0 crystal sparkles in the light.
+~
+What a cute little ice crystal she is.  
+~
+human~
+100 100 100 100 150 100 150 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+AG b 0 0 0
+80 80 0 3720 4188 515 650 40 80 79 frbite
+-550 -550 -550 -390
+STANDING STANDING neutral 2000
+0 mage medium ABCDEFGHIJK
+W 9
+
+#26761
+gauntlet trainee~
+a gauntlet trainee~
+A gauntlet trainee prowls the halls.
+~
+The trainee thinks he's something in his spiffy training uniform.  
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 50 100 100 100 100 150 150 100 
+AG Z 0 -2000 0
+85 85 0 4118 4596 528 667 42 85 84 cleave
+-590 -590 -590 -420
+STANDING STANDING neutral 2500
+0 mage medium ABCDEFGHIJK
+W 5
+
+#26762
+medella~
+{0Medella{0~
+Medella swims in this dark pool of water.
+~
+Medella is a creation of the wicked minds that live here in the Gauntlet.  
+~
+human~
+100 100 0 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 0 100 100 100 
+ABG 0 0 -1500 0
+87 87 0 4221 4787 549 687 43 87 86 sting
+-610 -610 -610 -430
+STANDING STANDING neutral 2000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26763
+dojo master~
+the dojo master~
+The dojo master tends his ornamental garden.
+~
+The dojo master is so peaceful.  He bows as you enter the room.  
+~
+human~
+100 100 150 100 50 100 100 100 100 100 150 100 50 0 100 100 100 100 50 100 100 100 150 100 100 100 
+ABG J H -3000 0
+89 89 0 4416 4872 542 677 44 89 88 chop
+-620 -620 -620 -440
+STANDING STANDING male 2500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26764
+gauntlet captain~
+the gauntlet captain~
+The gauntlet captain stands here shouting orders.
+~
+The captain struts about barking orders with a frown on his face.  He
+looks very angry.  
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 50 100 100 100 100 150 150 100 
+ABG Z 0 -3000 0
+90 90 0 4410 5080 571 692 45 90 89 wrath
+-720 -720 -720 -540
+STANDING STANDING male 1820
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26765
+gauntlet major~
+the gauntlet major~
+The gauntlet major watches everyone with a sneer on his face.
+~
+The major is a superlative man.  He thinks he is above all things.  
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 50 100 100 100 100 150 150 100 
+ABG Z 0 -3000 0
+91 91 0 4665 5202 501 696 45 91 90 wrath
+-730 -730 -730 -540
+STANDING STANDING male 1900
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26766
+lesser daemon~
+a lesser daemon~
+A lesser daemon sneaks about the pit.
+~
+What an odd little creature the daemon is.  His eyes glow red in the dim
+light of the pit.  
+~
+gnome~
+100 150 150 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 50 100 100 100 0 100 100 100 
+AG J H -3000 0
+92 92 0 4504 4887 541 669 46 92 81 claw
+-690 -690 -690 -500
+STANDING STANDING neutral 1900
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26767
+major daemon~
+a major daemon~
+A major daemon growls at you.
+~
+The major daemon is horrid looking creature.  The stench of burning flesh
+hangs heavy about him.  
+~
+gnome~
+100 150 150 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 50 100 100 100 0 100 100 100 
+A J AH 0 0
+95 95 0 4861 5495 577 729 47 95 94 none
+-770 -770 -770 -570
+STANDING STANDING neutral 2000
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26768
+daemon~
+a daemon~
+This daemon sneaks about in the shadows. 
+~
+This daemon is a bit different from the others you have seen here.  His
+skin glows strangely in the dim light.  
+~
+gnome~
+100 150 150 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 50 100 100 100 0 100 150 100 
+AG J AHMV -3000 0
+97 97 0 4981 5622 621 735 48 97 96 flbite
+-790 -790 -790 -590
+STANDING STANDING neutral 2500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26769
+fire elemental~
+a fire elemental~
+A fire elemental dances about.
+~
+Oh, what a cute little elemental!  
+~
+human~
+100 100 100 150 100 100 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+AG 0 0 0 0
+22 22 0 343 415 176 236 11 22 19 flame
+-60 -60 -60 -10
+STANDING STANDING neutral 440
+0 mage medium ABCDEFGHIJK
+W 2
+
+#26770
+flame~
+a flame~
+A flame flickers in the wind.
+~
+The little flame races from place to place setting everything on fire.  
+~
+human~
+100 100 100 150 100 100 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+AG 0 0 3000 0
+24 24 0 416 494 189 243 12 24 21 flbite
+-70 -70 -70 -20
+STANDING STANDING neutral 480
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26771
+magma beast~
+a magma beast~
+A magma beast makes his way through the volcano.
+~
+The magma beast oozes around everything.  
+~
+human~
+100 100 100 150 100 100 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+AG 0 0 3000 0
+26 26 0 433 520 195 264 13 26 23 flbite
+-90 -90 -90 -30
+STANDING STANDING male 500
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26772
+molten rock~
+a molten rock~
+A molten rock lies in the path.
+~
+The rock has been in the volcano so long it glows red with heat.  
+~
+human~
+100 50 100 150 100 100 0 100 0 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 3000 0
+28 28 0 538 654 218 302 14 28 27 crush
+-120 -120 -120 -70
+STANDING STANDING neutral 500
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26773
+lesser fire ruler~
+a lesser fire ruler~
+A lesser fire ruler explores the volcano.
+~
+The lesser fire ruler contemplates the mysteries of fire.  
+~
+human~
+100 100 100 150 100 100 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+AG 0 0 0 0
+30 30 0 618 735 239 317 15 30 29 flbite
+-140 -140 -140 -80
+STANDING STANDING neutral 600
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26774
+glowing spark~
+a glowing spark~
+A glowing spark floats through the air.
+~
+This tiny spark floats through the air, searching for something to burn.  
+~
+human~
+100 100 100 150 100 100 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+AG T 0 0 0
+32 32 0 616 712 232 302 16 32 28 wrath
+-130 -130 -130 -70
+STANDING STANDING neutral 640
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26775
+major fire ruler~
+the major fire ruler~
+The major fire ruler waits for the eruption.
+~
+The major fire ruler is a larger elemental.  He waits for the volcano to
+erupt with an evil grin upon his face.  
+~
+human~
+100 100 100 150 100 100 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+AG 0 0 3000 0
+32 32 0 665 786 241 331 16 32 31 drain
+-160 -160 -160 -100
+STANDING STANDING neutral 700
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26776
+daemon guard~
+the daemon guard~
+The daemon guard stands watch over his captive.
+~
+The daemon glares at you with red eyes.  He takes his job as guard very
+seriously.  The escape of the Red Wizard would mean the destruction of this
+realm.  
+~
+human~
+100 100 150 150 100 100 0 100 150 100 100 100 100 100 100 100 100 100 0 100 0 100 100 100 100 100 
+ABG V 0 -3000 0
+98 98 0 5120 5770 598 748 49 98 97 drain
+-800 -800 -800 -600
+STANDING STANDING male 2000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26777
+ogre~
+the ogre~
+An ogre is chained to the wall.
+~
+The ogre fills you with hatred.  He is evil through and through.  The
+daemons seek only to keep him here so that Taaloni may be safe.  
+~
+human~
+100 50 0 0 100 100 100 100 100 100 100 100 50 100 100 100 100 150 100 100 50 100 100 150 100 100 
+ABG V 0 -3000 0
+101 101 0 5363 6006 629 765 50 101 99 wrath
+-830 -830 -830 -620
+STANDING STANDING neutral 3000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#26778
+wolf~
+a wolf~
+This wolf howls at the darkening sky.
+~
+Blood stains the wolf's fur.  His yellow eyes linger on you for a moment.  
+~
+wolf~
+100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 
+AG JZ 0 0 0
+25 25 0 415 488 182 244 12 25 22 bite
+-80 -80 -80 -30
+STANDING STANDING male 500
+0 mage medium ACDEFJKQV
+W 1
+
+#26779
+wraith~
+a wraith~
+A wraith floats here moaning strangely.
+~
+The wraith waits for the next victim.  Perhaps that is you?  
+~
+human~
+100 100 0 150 100 100 100 100 50 100 100 100 100 100 100 150 100 50 100 100 100 100 100 100 100 100 
+AGO TUZ 0 -3000 0
+27 27 0 543 630 227 305 13 27 26 magic
+-120 -120 -120 -60
+STANDING STANDING neutral 300
+0 mage medium ABCDEFGHIJK
+W 3
+
+#26780
+thief~
+a thief~
+A thief tries to steal your coin purse!
+~
+The thief is clad in black clothing so he can blend into the shadows.  He
+eyes your coin purse with greed.  
+~
+human~
+0 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 150 150 100 100 100 100 100 100 100 
+AG V 0 3000 0
+15 15 0 209 239 144 187 1 20 13 stab
+-10 -10 -10 20
+STANDING STANDING male 300
+0 mage medium ABCDEFGHIJK
+W 5
+
+#26781
+troll~
+a troll~
+A cute little troll smiles at you.
+~
+What a sweet little troll this is.  Don't you just want to take it home
+with you?  
+~
+human~
+150 50 50 0 100 100 150 100 100 100 100 100 150 100 100 100 100 100 100 100 150 100 100 100 100 100 
+AG FJcd 0 3000 0
+20 20 0 306 359 172 225 10 20 17 slash
+-40 -40 -40 0
+STANDING STANDING neutral 400
+0 mage medium ABCDEFGHIJK
+W 5
+
+#26782
+pixie~
+a pixie~
+A tiny pixie flies about your head.
+~
+This tiny pixie smiles and blushes.  Isn't she so shy?  
+~
+human~
+100 150 100 100 100 150 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 150 100 0 100 100 
+AG T 0 3000 0
+18 18 0 260 315 160 207 1 20 16 bite
+-30 -30 -30 0
+STANDING STANDING female 300
+0 mage medium ABCDEFGHIJK
+W 5
+
+#26783
+banker~
+the banker~
+The banker waits patiently.  Time IS money.
+~
+Type 'help bank' for more information.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABGd DF 0 0 0
+50 0 0 1000 1000 200 200 25 50 20 none
+-150 -150 -150 -150
+STANDING STANDING male 1000
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#26700
+fountain~
+a marble fountain~
+A carved marble fountain graces this square.~
+fountain 0 0
+-1 -1 'water' 0 0
+0 5000 5000
+
+#26701
+sword captain~
+the captain's sword~
+A wicked looking short sword lies here.~
+weapon 0 AN
+sword 8 7 slash DG
+50 51 3005
+A 18 4
+A 19 4
+
+#26702
+pill tiny white~
+a tiny white pill~
+A tiny white pill lies here.~
+pill 0 A
+15 'haste' 'sanctuary' '' ''
+0 1 30000
+
+#26703
+potion true sight~
+a potion of true sight~
+A potion of true sight has been dropped here.~
+potion 0 A
+15 '' '' '' ''
+0 1 4000
+
+#26704
+potion cause invisibility~
+a potion of cause invisibility ~
+A potion of cause invisibility lie here.~
+potion 0 A
+15 'invisibility' '' '' ''
+0 1 1000
+
+#26705
+potion divine healing~
+a potion of divine healing~
+A potion of divine healing lies here.~
+potion 0 A
+45 'cure blindness' '' '' ''
+30 1 6000
+
+#26706
+pill sanctuary~
+a pill of sanctuary~
+A strange {mpill{0 lies here.~
+pill 0 A
+45 'sanctuary' '' '' ''
+30 1 18000
+
+#26707
+pill heal~
+pill of healing~
+A pill has been dropped here.~
+pill 0 A
+35 'heal' '' '' ''
+20 1 5000
+
+#26708
+pill pass door~
+a translucent pill~
+A translucent {wpill{0 is here.~
+pill 0 A
+35 'pass door' '' '' ''
+20 1 4000
+
+#26709
+orb taalonian~
+a Taalonian orb~
+A Taalonian {yorb{0 is here.~
+light A AO
+0 0 999 0 0
+0 1 500
+
+#26710
+backpack taalonian~
+a Taalonian backpack~
+A Taalonian backpack lies against one wall.~
+container Y AK
+1000 0 0 75 10
+0 20 900
+
+#26711
+water skin~
+a water skin~
+A water skin sits in a corner of the room.~
+drinkcontainer 0 A
+30 30 'water' 0 0
+0 50 100
+
+#26712
+travel rations~
+some dry travel rations~
+Some dry travel rations have been dropped here.~
+food 0 A
+48 12 0 0 0
+0 1 30
+
+#26713
+key room~
+a room key~
+A room key lies on a desk.~
+key 0 A
+0 0 0 0 0
+0 1 200
+
+#26714
+bed~
+a bed~
+A bed is pushed against one wall.~
+furniture 0 0
+2 20000 EHK 50 50
+0 1000 5000
+
+#26715
+mug ale~
+a mug of ale~
+A frothy mug of ale waits to tempt your thirst.~
+drinkcontainer 0 A
+4 4 'ale' 0 0
+0 1 10
+
+#26716
+bottle beer~
+a bottle of beer~
+A bottle of beer sits on a table.~
+drinkcontainer 0 A
+4 4 'beer' 0 0
+0 1 10
+
+#26717
+glass icewine~
+a glass of icewine~
+A cool glass of icewine sits here.~
+drinkcontainer 0 A
+4 4 'icewine' 0 0
+0 1 12
+
+#26718
+shot house special~
+a shot of the house special~
+A shot of the house special sits on the bar.~
+drinkcontainer 0 A
+4 4 'local specialty' 0 0
+0 1 12
+
+#26719
+diamond engagement ring~
+a diamond engagement ring~
+A diamond engagement ring rolls about the floor.~
+jewelry 0 AB
+0 0 0 0 0
+0 2 1500
+
+#26720
+wedding ring~
+a golden wedding ring~
+A {Ygold{0 wedding ring is here.~
+jewelry 0 AB
+0 0 0 0 0
+0 1 1000
+
+#26721
+pecan pie~
+a piece of pecan pie~
+A delicious slice of pecan pie is here.~
+food 0 A
+24 6 0 0 0
+0 1 15
+
+#26722
+tea cup~
+a cup of tea~
+A cup of tea sits on a table.~
+drinkcontainer 0 A
+4 4 'tea' 0 0
+0 1 15
+
+#26723
+glass milk~
+a glass of milk~
+A cool glass of milk waits to quench your thirst.~
+drinkcontainer 0 A
+4 4 'milk' 0 0
+0 1 15
+
+#26724
+beef stew bowl~
+a bowl of beef stew~
+A steaming bowl of beef stew is here.~
+food 0 A
+24 9 0 0 0
+0 2 30
+
+#26725
+biscuit~
+a biscuit~
+A freshly baked biscuit tempts you.~
+food 0 A
+36 6 0 0 0
+0 1 10
+
+#26726
+sword protector~
+a protector's sword~
+A wicked looking sword lies on the ground.~
+weapon 0 AN
+sword 9 9 slash BD
+40 41 2510
+A 19 4
+A 18 4
+
+#26727
+belt protector sash~
+a protector's sash ~
+A protector's sash lies crumpled on the ground.~
+armor 0 AL
+17 15 15 14 0
+40 41 5000
+A 19 4
+A 13 60
+
+#26728
+ring protector~
+the ring of the protectors~
+The ring of the protectors spins wildly about.~
+jewelry 0 AB
+0 0 0 0 0
+40 2 5000
+A 13 60
+A 4 2
+
+#26729
+mace parasol~
+a parasol~
+A parasol has been dropped here.~
+weapon 0 AN
+mace 7 7 pound B
+20 21 1320
+A 19 2
+A 18 2
+
+#26730
+spear ivory tusk~
+an ivory mammoth tusk~
+An ivory mammoth tusk has been dropped here.~
+weapon 0 AN
+dagger 8 8 pierce BD
+30 31 2015
+A 18 2
+A 19 2
+
+#26731
+a sign~
+a sign~
+A sign stands here demanding your attention.~
+trash 0 0
+0 0 0 0 0
+0 200 500
+E
+sign~
+BEWARE!!!    BEWARE!!!     BEWARE!!!     BEWARE!!!     BEWARE!!!
+The most dangerous animals in the zoo are kept in this section.  
+                                             The Management
+~
+
+#26732
+whip twisted vine~
+a twisted vine~
+A piece of twisted vine lies on the ground.~
+weapon 0 AN
+whip 8 8 whip BD
+30 40 1890
+A 1 3
+
+#26733
+dagger tarantula's sting~
+a tarantula's sting~
+A tarantula's deadly sting is here.~
+weapon H AN
+dagger 8 8 pierce DH
+35 40 2240
+A 18 2
+A 19 2
+
+#26734
+mantle fiery phoenix~
+the {r-=*{yfiery{r*=-{0 mantle of the phoenix~
+The {r-=*{yfiery{r*=-{0 mantle of the phoenix lies on the ground.~
+armor Y AK
+15 13 15 14 0
+40 41 5000
+A 1 2
+A 19 4
+
+#26735
+sword phoenix flame~
+the {r-=*{yflaming{r*=-{0 sword of the phoenix~
+The {r-=*{yfiery{r*=-{0 flaming sword of the phoenix burns fiercely.~
+weapon 0 AN
+sword 8 8 slash AD
+50 41 2510
+A 19 4
+A 18 4
+
+#26736
+scroll~
+a tattered scroll~
+A tattered scroll has been discarded carelessly.~
+scroll 0 AO
+15 'weaken' '' '' ''
+0 2 40
+
+#26737
+sofa~
+a sofa~
+A comfortable sofa sits against one wall.~
+furniture 0 0
+2 20000 EHK 0 0
+0 500 5000
+
+#26738
+chair~
+a chai~
+An overstuffed chair sits here.~
+furniture 0 0
+1 10000 EHK 0 0
+0 200 3000
+
+#26739
+belt apron~
+a maid's apron~
+A maid's apron lies neatly folded on a table.~
+armor 0 AL
+20 20 20 19 0
+50 56 3000
+A 19 5
+
+#26740
+vault~
+an iron vault~
+An enormous iron vault sits against one wall.~
+container 0 0
+2000 ACD 26741 10 10
+0 200 2000
+
+#26741
+key~
+a tarnished silver key~
+A tarnished silver key lies on a desk.~
+key 0 A
+0 0 0 0 0
+0 1 200
+
+#26742
+money pile~
+a pile of money~
+A pile of money sits inside the safe.~
+money 0 A
+500 0 0 0 0
+0 200 500
+
+#26743
+throne~
+a throne~
+A jewel encrusted golden throne sits here.~
+treasure 0 0
+0 0 0 0 0
+0 500 10000
+
+#26744
+helm jester's hat~
+the {mj{ceste{mr{0's hat~
+The {mj{ceste{mr{0's hat lies here.~
+armor 0 AE
+18 18 18 16 0
+60 71 5000
+A 3 2
+A 13 50
+A 19 5
+
+#26745
+mazran's dagger~
+{cMazran{0's dagger~
+{cMazran{0's tiny dagger awaits the boy king.~
+weapon H AN
+dagger 10 9 pierce BD
+70 71 3720
+A 18 10
+A 19 10
+
+#26746
+silver chainmail~
+some silver chainmail~
+Some silver chainmail lies here.~
+armor 0 AD
+18 18 23 17 0
+50 51 4000
+A 19 5
+A 13 75
+
+#26747
+silver legplates~
+some silver legplates~
+Some silver legplates have been carelessly dropped here.~
+armor 0 AF
+19 18 18 25 0
+50 51 4000
+A 2 2
+A 13 75
+
+#26748
+dagger sharpened quill~
+a sharpened quill~
+A sharpened quill waits for an inkpot.~
+weapon H AN
+dagger 7 8 pierce AD
+50 51 3005
+A 18 5
+A 19 5
+
+#26749
+key~
+a key~
+A rusted key lies here.~
+key 0 A
+0 0 0 0 0
+0 1 200
+
+#26750
+sign~
+a sign~
+A sign is here demanding your attention. ~
+trash 0 0
+0 0 0 0 0
+0 200 200
+E
+sign~
+Beware!   Beware!   Beware!   Beware!
+ 
+All hope is lost once these gates are passed. 
+ 
+***This area was designed for levels 75+***
+~
+
+#26751
+sword gauntlet training~
+the gauntlet sword of training~
+A rusted sword lies here.~
+weapon 0 AN
+sword 8 8 slash AD
+60 76 4545
+A 18 7
+A 19 7
+
+#26752
+whip medella's sting~
+{0Medella's wicked sting~
+Medella's wicked sting lies here.~
+weapon HM AN
+whip 10 10 slash AD
+70 86 4765
+A 13 75
+
+#26753
+mace chopsticks~
+some chopsticks~
+Some chopsticks lie on a table.~
+weapon H AN
+mace 9 8 chop AC
+60 40 4840
+A 13 75
+A 18 7
+A 19 7
+
+#26754
+daemon skin~
+some daemon skin~
+Some daemon skin lies in a heap on the floor.~
+armor AI AK
+21 21 21 19 0
+70 20 5000
+A 13 210
+A 19 5
+A 1 2
+
+#26755
+silvery armguards~
+some silvery armguards~
+Some silvery armguards have been dropped here.~
+armor 0 AI
+24 19 18 17 0
+50 15 4000
+A 13 50
+A 19 5
+
+#26756
+crystal rose~
+a {wcrystal {rrose{0~
+A {wcrystal {rrose{0 has been dropped here.~
+treasure 0 AO
+0 0 0 0 0
+0 1 5
+A 20 0
+
+#26757
+soul wraith~
+the {wsoul {0of the {rwraith{0~
+The {wsoul {0of the {rwraith{0 floats in midair.~
+armor 0 AQ
+12 9 8 8 0
+25 26 3866
+A 13 20
+
+#26758
+crown mazran's ~
+{0Mazran's crown~
+A tiny golden crown lies here.~
+armor I AE
+35 35 38 34 0
+90 98 3500
+A 13 270
+A 4 2
+A 20 -2
+
+#26759
+sleeves silk ~
+silk sleeves~
+A piece of gold silk lies on the floor.~
+armor I AI
+41 34 35 34 0
+90 98 3500
+A 19 20
+A 13 270
+A 4 2
+
+#26760
+cape velvet~
+a black velvet cape~
+A black velvet cape has been dropped here.~
+armor I AC
+21 21 21 19 0
+70 91 3500
+A 13 210
+A 5 3
+
+#26761
+pouch soft leather~
+a soft leather pouch~
+A soft leather pouch has been dropped here.~
+container Y AL
+1000 0 0 75 10
+0 20 200
+
+#26762
+taalonian dagger~
+a Taalonian dagger~
+A Taalonian dagger lies here.~
+weapon 0 AN
+dagger 6 6 pierce D
+10 40 670
+A 19 1
+A 18 1
+
+#26763
+taalonian sword~
+a Taalonian sword~
+A Taalonian sword lies here.~
+weapon 0 AN
+sword 6 6 slice D
+10 40 670
+A 19 1
+A 18 1
+
+#26764
+taalonian quarterstaff~
+a Taalonian quarterstaff~
+A Taalonian quarterstaff lies here.~
+weapon 0 AN
+exotic 6 6 crush 0
+10 11 745
+A 19 1
+A 18 1
+
+#26765
+taalonian mace~
+a Taalonian mace~
+A Taalonian mace lies here.~
+weapon 0 AN
+mace 6 6 chop 0
+10 11 595
+A 19 1
+A 18 1
+
+#26766
+taalonian flail~
+a Taalonian flail~
+A Taalonian flail lies here.~
+weapon 0 AN
+flail 6 6 crush 0
+10 11 670
+A 19 1
+A 18 1
+
+#26767
+taalonian polearm~
+a Taalonian polearm~
+A Taalonian polearm lies here.~
+weapon 0 AN
+polearm 6 6 chop 0
+10 11 670
+A 19 1
+A 18 1
+
+#26768
+taalonian spear~
+a Taalonian spear~
+A Taalonian spear lies here.~
+weapon 0 AN
+exotic 6 6 pierce D
+10 11 670
+A 19 1
+A 18 1
+
+#26769
+taalonian kitana~
+a Taalonian katana~
+A Taalonian ninjato lies here.~
+weapon 0 AN
+dagger 6 6 slice D
+10 11 745
+A 19 1
+A 18 1
+
+#26770
+taalonian hammer~
+a Taalonian hammer~
+A Taalonian hammer lies here.~
+weapon 0 AN
+exotic 6 6 slice D
+10 11 1500
+A 19 1
+A 18 1
+
+#26771
+taalonian whip~
+a Taalonian whip~
+A Taalonian whip lies here.~
+weapon 0 AN
+whip 6 6 whip D
+10 11 670
+A 19 1
+A 18 1
+
+#26772
+poison codex~
+{DThe P{go{Gi{Ds{go{Gn{D codex{x~
+{DThe P{go{Gi{Ds{go{Gn{D codex{x is here~
+wand AY AO
+101 11 13 '(null)' 0
+101 10 200
+A 13 200
+A 17 -20
+
+#26773
+fire cuirass~
+{rF{Ri{Yr{re {yCuirass{x~
+An armor glowing bright red is here.~
+armor 0 AD
+30 30 30 30 0
+101 20 10000
+A 20 -3
+A 13 250
+A 5 3
+A 1 2
+
+#26774
+ember cape~
+{RE{Ym{Wb{Ye{Rr {wCape{x~
+A cape lies here, containing dancing flames.~
+armor A AK
+23 23 23 23 0
+101 20 12000
+A 18 20
+A 19 30
+A 13 150
+A 12 150
+A 20 -1
+
+#26775
+fiery sash~
+{rF{Ri{Ye{Wr{ry {ySash{x~
+A sash of fire lies here.~
+armor A AL
+21 21 21 21 0
+101 30 13000
+A 13 200
+A 1 3
+A 17 -20
+
+#26776
+tome flames~
+{yTome {wof {rF{Rl{Ya{Wm{Re{rs{x~
+A book of fire lies here.~
+armor G AO
+14 14 14 14 0
+65 20 1000
+A 20 -1
+A 4 1
+A 3 2
+
+#26777
+trident pyre~
+{DTrident {wof {rP{Ry{Yr{re{x~
+A polearm lies here.~
+weapon A AN
+polearm 10 9 pierce AD
+65 40 1200
+A 13 50
+A 20 -2
+
+#26778
+daemon ward~
+{rDa{De{Rm{Do{rn w{Dar{rd{x~
+The shield of a {rDa{De{Rm{Do{rn{x has been dropped here~
+armor CEG AJ
+30 30 30 30 0
+101 10 1000
+A 13 100
+A 20 -4
+A 12 300
+#0
+
+#ROOMS
+#26700
+Fountain Square~
+The sounds of life and laughter fill Fountain Square.  People walk
+through the streets on their way about the city.  The smell of fresh baked
+goods wafts through the air, tantalizing your nostrils.  Many shops line the
+streets of the city.  The fabled Crystal Palace lies to the south.  Exits
+lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26721
+D1
+~
+~
+0 0 26701
+D3
+~
+~
+0 0 26722
+S
+
+#26701
+Taaloni Way~
+This street runs east and west through the center of the city.  The
+sounds of everyday life are all around you here.  Merchants and citizens go
+about their daily routines, smiling as they pass you.  This is a city
+teaming with life, and adventure.  Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26702
+D1
+~
+~
+0 0 26704
+D2
+~
+~
+0 0 26703
+D3
+~
+~
+0 0 26700
+S
+
+#26702
+Healing Temple~
+Huge columns wreathed in ivy stand about the temple.  This is a cool and
+shady place for the weary to rest in.  The chatter of the city still comes
+from the south.  The only obvious sound is the sound of the healer casting
+spells.  The only exit leads to the south.  
+~
+1024 1
+D2
+~
+~
+0 0 26701
+S
+
+#26703
+Training Grounds~
+A large, grassy field stands before you.  Different types of training
+equipment stand about.  The air is rank with the smell of sweat.  This is
+where the wise come to gain in skill and knowledge.  The only exit leads to
+the north.  
+~
+262144 1
+D0
+~
+~
+0 0 26701
+S
+
+#26704
+Taaloni Way~
+This street runs east and west through the center of the city.  The
+sounds of everyday life are all around you here.  Merchants and citizens go
+about their daily routines, smiling as they pass you.  This is a city
+teaming with life, and adventure.  Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26705
+D1
+~
+~
+0 0 26707
+D2
+~
+~
+0 0 26706
+D3
+~
+~
+0 0 26701
+S
+
+#26705
+General Store~
+The shelves of this shop are filled with neatly arranged packages.  A
+back room is clearly visible beyond the counter.  It is crammed full of
+items to restock the inventory with.  The room is well it, the smell of
+burlap scents the air.  The only exit leads back to the south.  
+~
+263168 1
+D2
+~
+~
+0 0 26704
+S
+
+#26706
+Potion Shop~
+Shimmering potions sit atop the counter in this shop.  A cauldron simmers
+over an open fire.  Tantalizing smells fill the air from the concoction
+brewing in the cauldron.  The air is hazy with smoke.  The only exit leads
+to the north.  
+~
+263168 1
+D0
+~
+~
+0 0 26704
+S
+
+#26707
+Taaloni Way~
+This street runs east and west through the center of the city.  The
+sounds of everyday life are all around you here.  Merchants and citizens go
+about their daily routines, smiling as they pass you.  This is a city
+teaming with life, and adventure.  Exits lead to the north, east and west.  
+~
+262144 0
+D0
+~
+~
+0 0 26708
+D1
+~
+~
+0 0 26720
+D3
+~
+~
+0 0 26704
+S
+
+#26708
+The Courtyard~
+This small courtyard leads to the Taaloni Inn.  The sounds of the city
+have faded behind you.  Cheerful birds sing from the trees that line the
+courtyard.  A sense of peace fills the air here.  Exits lead to the north
+and south.  
+~
+262148 1
+D0
+~
+~
+0 0 26709
+D2
+~
+~
+0 0 26707
+S
+
+#26709
+Entrance to the Inn~
+The Taaloni Inn is a large building made entirely of stone.  Ivy twines
+up one of the large columns that supports the massive roof.  The interior
+appears dark and cool from this vantage point.  There is a rumble of quiet
+voices coming from inside the inn.  Exits lead to the north and south.  
+~
+262144 0
+D0
+~
+~
+0 0 26711
+D2
+~
+~
+0 0 26708
+S
+
+#26710
+The Pub~
+A large oak bar stands near one wall.  Tables and chairs sit about the
+room.  From the one window in the pub, you can see the courtyard.  The smell
+of cheep beer and cigar smoke hangs in the air.  A waitress smiles and asks
+what you'd like to drink.  The only exit leads to the east.  
+~
+262144 1
+D1
+~
+~
+0 0 26711
+S
+
+#26711
+Lobby of the Inn~
+The lobby is a rather large room with a highly polished wooden floor.  A
+small chandelier hangs from the center of the domed ceiling.  Comfortable
+chairs sit about the room.  From behind the counter, the clerk eyes you with
+impatience.  The sound of voices can be heard coming from the west.  Exits
+lead to the south, west, and up.  
+~
+262144 1
+D2
+~
+~
+0 0 26709
+D3
+~
+~
+0 0 26710
+D4
+~
+~
+0 0 26712
+S
+
+#26712
+The Stairway~
+The stairway leads to the upper floor of the inn where the rooms are
+located.  A tiny chandelier hangs from the ceiling above, casting a warm
+golden light here.  The steps are slightly worn from the many feet that have
+passed here.  Exits lead to the east and down.  
+~
+262144 1
+D1
+~
+~
+0 0 26713
+D5
+~
+~
+0 0 26711
+S
+
+#26713
+A Hallway~
+A strip of deep, burgundy carpet runs through the center of the hallway. 
+It is quiet and dimly lit here.  The sounds of the city are faintly evident
+from here.  The smell of cheap beer has faded, but still lingers in the air.
+Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26714
+D1
+~
+~
+0 0 26716
+D2
+~
+~
+0 0 26715
+D3
+~
+~
+0 0 26712
+S
+
+#26714
+Room 101~
+Drapes are partly drawn across the one window.  The floor is worn, but
+clean and highly polished.  A brass tub sits near one wall of the room.  For
+a price, a hot bath can be had.  There is nothing special about this place. 
+The only exit leads to the south.  
+~
+262144 1
+D2
+~
+~
+0 26713 26713
+S
+
+#26715
+Room 102~
+Drapes are partly drawn across the one window.  The floor is worn, but
+clean and highly polished.  A brass tub sits near one wall of the room.  For
+a price, a hot bath can be had.  There is nothing special about this place. 
+The only exit leads to the north.  
+~
+262144 1
+D0
+~
+~
+0 26713 26713
+S
+
+#26716
+A Hallway~
+A strip of deep, burgundy carpet runs through the center of the hallway.
+It is quiet and dimly lit here.  The sounds of the city are faintly evident
+from here.  The smell of cheap beer has faded, but still lingers in the air.
+Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26717
+D1
+~
+~
+0 0 26719
+D2
+~
+~
+0 0 26718
+D3
+~
+~
+0 0 26713
+S
+
+#26717
+Room 103~
+Drapes are partly drawn across the one window.  The floor is worn, but
+clean and highly polished.  A brass tub sits near one wall of the room.  For
+a price, a hot bath can be had.  There is nothing special about this place. 
+The only exit leads to the south.  
+~
+262144 1
+D2
+~
+~
+0 26713 26716
+S
+
+#26718
+Room 105~
+Drapes are partly drawn across the one window.  The floor is worn, but
+clean and highly polished.  A brass tub sits near one wall of the room.  For
+a price, a hot bath can be had.  There is nothing special about this place. 
+The only exit leads to the north.  
+~
+262144 1
+D0
+~
+~
+0 26713 26716
+S
+
+#26719
+Room 106~
+Drapes are partly drawn across the one window.  The floor is worn, but
+clean and highly polished.  A brass tub sits near one wall of the room.  For
+a price, a hot bath can be had.  There is nothing special about this place. 
+The only exit leads to the west.  
+~
+262144 1
+D3
+~
+~
+0 26713 26716
+S
+
+#26720
+Inside East Gates~
+The stirrings of life fade as you approach the eastern gates.  The wall
+that surrounds the city is massive.  It is made entirely of well constructed
+stone.  The gates are heavy wood with iron supports.  Once these gates
+close, few can pass through by force.  The city of Taaloni is a safe place,
+and it is intended to stay that way.  West leads back into the city.  East
+takes you into the wilderness beyond.  
+~
+262144 1
+D1
+~
+gate~
+0 0 26809
+D3
+~
+~
+0 0 26707
+S
+
+#26721
+Weapon and Armor Shop~
+The shop is a small dimly lit place.  Weapons and armor line the shelves
+behind the counter.  The smell of leather and freshly honed metal hang in
+the air.  The only exit leads to the south.  
+~
+263168 1
+D2
+~
+~
+0 0 26700
+S
+
+#26722
+Taaloni Way~
+This street runs east and west through the center of the city.  The
+sounds of everyday life are all around you here.  Merchants and citizens go
+about their daily routines, smiling as they pass you.  This is a city
+teaming with life, and adventure.  Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26723
+D1
+~
+~
+0 0 26700
+D2
+~
+~
+0 0 26724
+D3
+~
+~
+0 0 26725
+S
+
+#26723
+Jeweler~
+The jewelry store is a small shop just off of Fountain Square.  In a
+crystal display case trinkets are arranged on a backdrop of black velvet. 
+The jeweler would love to sell you something today.  The only exit leads to
+the south.  
+~
+263168 1
+D2
+~
+~
+0 0 26722
+S
+
+#26724
+Bank~
+The smell of money is almost tangible.  A large vault stands open just
+behind the counter.  Burly guards stand on either side of the doorway.  It
+might be best to get your business done quickly and leave.  The only exit
+leads to the north.  
+~
+1074004992 1
+D0
+~
+~
+0 0 26722
+S
+
+#26725
+Taaloni Way~
+This street runs east and west through the center of the city.  The
+sounds of everyday life are all around you here.  Merchants and citizens go
+about their daily routines, smiling as they pass you.  This is a city
+teaming with life, and adventure.  Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26726
+D1
+~
+~
+0 0 26722
+D2
+~
+~
+0 0 26727
+D3
+~
+~
+0 0 26728
+S
+
+#26726
+The Diner~
+Tables and chairs sit about the diner.  The smells of freshly prepared
+food wafts through the air, teasing your nostrils.  The floor is scuffed and
+worn from.  There is nothing fancy about this place, but it has a
+comfortable feel.  The only exit leads back to the south.  
+~
+263168 1
+D2
+~
+~
+0 0 26725
+S
+
+#26727
+Park Street~
+The sounds of the busy part of the city fade a bit.  There is still life
+all around you here.  Trees line this street, shading you from the heat of
+the sun.  Citizens walk along this street enjoying the sights and sounds. 
+Exits lead to the north and south.  
+~
+262144 1
+D0
+~
+~
+0 0 26725
+D2
+~
+~
+0 0 26729
+S
+
+#26728
+Inside West Gates~
+The stirrings of life fade as you approach the western gates.  The wall
+that surrounds the city is massive.  It is made entirely of well constructed
+stone.  The gates are heavy wood with iron supports.  Once these gates
+close, few can pass through by force.  The city of Taaloni is a safe place,
+and it is intended to stay that way.  The only obvious exit leads to the
+east.  
+~
+0 1
+D1
+~
+~
+0 0 26725
+D3
+~
+~
+0 0 26899
+S
+
+#26729
+Park Street~
+The sounds of the busy part of the city fade a bit.  There is still life
+all around you here.  Trees line this street, shading you from the heat of
+the sun.  Citizens walk along this street enjoying the sights and sounds. 
+To the east lies Market Street.  The entrance to the park lies to the south.
+~
+262144 1
+D0
+~
+~
+0 0 26727
+D1
+~
+~
+0 0 26730
+D2
+~
+~
+0 0 26731
+S
+
+#26730
+Market Street~
+The hustle and bustle of city life swirl about you.  This section of the
+city is very busy.  Merchants have set up booths from which they peddle
+their wares.  The smell of freshly prepared food wafts through the air. 
+Customers haggle with merchants.  Deals are made at a breathtaking pace. 
+This is the heart of the informal business district of Taaloni.  Exits lead
+to the east and west.  
+~
+262144 1
+D1
+~
+~
+0 0 26898
+D3
+~
+~
+0 0 26729
+S
+
+#26731
+Entrance to the Park~
+An arched gateway stands just to the south, marking the entrance to the
+park.  The park is marked with large grassy areas and many trees.  Small,
+well-kept flower beds are spread through out the park.  It is a peaceful
+place to come and relax.  Exits lead to the north and south.  
+~
+262144 1
+D0
+~
+~
+0 0 26729
+D2
+~
+~
+0 0 26732
+S
+
+#26732
+City Park~
+The scenery in the park is fantastic at this time of year.  Fragrant
+flowers bloom everywhere filling the air with a sweet perfume.  Benches sit
+about the park.  The paths that lead throughout the area are covered with
+white stones that have been neatly raked.  Exits lead in the cardinal
+directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26731
+D1
+~
+~
+0 0 26763
+D2
+~
+~
+0 0 26733
+D3
+~
+~
+0 0 26762
+S
+
+#26733
+Before the Zoo~
+The gates to the zoo stand just to the south.  The sound of people
+laughing and talking rings in the air.  Many exotic animals are housed here.
+Exits lead to the north and south.  
+~
+262144 1
+D0
+~
+~
+0 0 26732
+D2
+~
+~
+0 0 26734
+S
+
+#26734
+Cobbled Walkway~
+A cobbled walkway leads through the zoo to the different cages.  People
+walk through the area talking excitedly about the things they've seen here. 
+Children dash from cage to cage, squealing with delight...  Or horror. 
+Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26733
+D1
+~
+~
+0 0 26735
+D2
+~
+~
+0 0 26737
+D3
+~
+~
+0 0 26736
+S
+
+#26735
+Tiger Cage~
+~
+0 0
+D3
+~
+~
+0 0 26734
+S
+
+#26736
+Lion Cage~
+~
+0 0
+D1
+~
+~
+0 0 26734
+S
+
+#26737
+Cobbled Walkway~
+A cobbled walkway leads through the zoo to the different cages.  People
+walk through the area talking excitedly about the things they've seen here. 
+Children dash from cage to cage, squealing with delight...  Or horror. 
+Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26734
+D1
+~
+~
+0 0 26738
+D2
+~
+~
+0 0 26740
+D3
+~
+~
+0 0 26739
+S
+
+#26738
+Fox Cage~
+~
+0 0
+D3
+~
+~
+0 0 26737
+S
+
+#26739
+Lizard Cage~
+~
+0 0
+D1
+~
+~
+0 0 26737
+S
+
+#26740
+Central Square~
+A cobbled walkway leads through the zoo to the different cages.  People
+walk through the area talking excitedly about the things they've seen here. 
+Children dash from cage to cage, squealing with delight...  Or horror.  The
+walkways intersect here, one leading in each of the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26737
+D1
+~
+~
+0 0 26755
+D2
+~
+~
+0 0 26741
+D3
+~
+~
+0 0 26748
+S
+
+#26741
+Cobbled Walkway~
+A cobbled walkway leads through the zoo to the different cages.  People
+walk through the area talking excitedly about the things they've seen here. 
+Children dash from cage to cage, squealing with delight...  Or horror. 
+Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26740
+D1
+~
+~
+0 0 26742
+D2
+~
+~
+0 0 26744
+D3
+~
+~
+0 0 26743
+S
+
+#26742
+Bear Cage~
+~
+0 0
+D3
+~
+~
+0 0 26741
+S
+
+#26743
+Orc Cage~
+~
+0 0
+D1
+~
+~
+0 0 26741
+S
+
+#26744
+Cobbled Walkway~
+A cobbled walkway leads through the zoo to the different cages.  People
+walk through the area talking excitedly about the things they've seen here. 
+Children dash from cage to cage, squealing with delight...  Or horror. 
+Exits lead in the cardinal directions.  
+~
+0 0
+D0
+~
+~
+0 0 26741
+D1
+~
+~
+0 0 26745
+D2
+~
+~
+0 0 26747
+D3
+~
+~
+0 0 26746
+S
+
+#26745
+Baby Dragon Cage~
+~
+0 0
+D3
+~
+~
+0 0 26744
+S
+
+#26746
+Wolf Cage~
+~
+0 0
+D1
+~
+~
+0 0 26744
+S
+
+#26747
+Wooly Mammoth Cage~
+~
+0 0
+D0
+~
+~
+0 0 26744
+S
+
+#26748
+Cobbled Walkway~
+A cobbled walkway leads through the zoo to the different cages.  People
+walk through the area talking excitedly about the things they've seen here. 
+Children dash from cage to cage, squealing with delight...  Or horror. 
+Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26749
+D1
+~
+~
+0 0 26740
+D2
+~
+~
+0 0 26750
+D3
+~
+~
+0 0 26751
+S
+
+#26749
+Hyena Cage~
+The stench in this place is overwhelming!  Half rotted pieces of meat lie
+about the cage.  The noises the hyenas make nearly deafen you.  The keepers
+shun this cage, as these animals are their least favorite.  The only obvious
+exit leads to the south.  
+~
+262145 1
+D2
+~
+~
+0 0 26748
+S
+
+#26750
+Snake Cage~
+This cage has been decorated to look almost like a rain forest.  Exotic
+plants and trees grow in profusion here.  A small rabbit has been turned
+loose to feed the snake that lies in wait.  The only obvious exit leads to
+the north.  
+~
+262145 1
+D0
+~
+~
+0 0 26748
+S
+
+#26751
+Cobbled Walkway~
+A cobbled walkway leads through the zoo to the different cages.  People
+walk through the area talking excitedly about the things they've seen here. 
+Children dash from cage to cage, squealing with delight...  Or horror. 
+Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26752
+D1
+~
+~
+0 0 26748
+D2
+~
+~
+0 0 26753
+D3
+~
+~
+0 0 26754
+S
+
+#26752
+Finch Cage~
+Trees grow in this cage for the tiny finches to roost on.  A small nest
+has been built on on limb.  From here the tiny eggs are clearly visible. 
+The air is filled with the peaceful chirpings of the finches.  The only
+obvious exit leads to the south.  
+~
+262145 1
+D2
+~
+~
+0 0 26751
+S
+
+#26753
+Rabbit Cage~
+Clover and sweet grass cover the floor of this cage.  A tiny hutch is in
+one corner for the rabbit to hide in.  Children stand watching the rabbits
+hop about.  The only obvious exit leads to the north.  
+~
+262145 1
+D0
+~
+~
+0 0 26751
+S
+
+#26754
+Centipede Cage~
+A rasping noise fills the air.  After only a moment you realize what it
+is.  The sound is from a centiped walking across the stone floor of this
+cage.  What a disgusting sight it is!  The only obvious exit leads to the
+east.  
+~
+262145 1
+D1
+~
+~
+0 0 26751
+S
+
+#26755
+Cobbled Walkway~
+The snarls and growls that fill the air here astound you with their
+ferocity.  What manner of beasts are kept here?  Exits lead in the cardinal
+directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26756
+D1
+~
+~
+0 0 26758
+D2
+~
+~
+0 0 26757
+D3
+~
+~
+0 0 26740
+S
+
+#26756
+Monkey Cage~
+For just a moment as you enter this cage, it appears that a jungle stands
+before you.  Then it becomes apparent that the cage has been designed for
+the two monkeys that live here.  Partially eaten fruit litter the floor of
+the cage.  Flies buzz about the scattered fruit intent on a snack.  The only
+obvious exit leads to the south.  
+~
+262145 1
+D2
+~
+~
+0 0 26755
+S
+
+#26757
+Spider Cage~
+A huge web covers one corner of this cage.  Insects thrash about trying
+to get free of the sticky strands.  A shiver runs down your spine when you
+see the size of the spider in the cage.  The only obvious exit leads to the
+north.  
+~
+262145 1
+D0
+~
+~
+0 0 26755
+S
+
+#26758
+Cobbled Walkway~
+A cobbled walkway leads through the zoo to the different cages.  People
+walk through the area talking excitedly about the things they've seen here. 
+Children dash from cage to cage, squealing with delight...  Or horror. 
+Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26759
+D1
+~
+~
+0 0 26761
+D2
+~
+~
+0 0 26760
+D3
+~
+~
+0 0 26755
+S
+
+#26759
+Scorpion Cage~
+The floor of this cage is covered in sand.  The sun makes it unbearably
+hot here.  Upon first entering the cage, you think it may be deserted.  Then
+two tiny scorpions scamper out from their hiding place.  The only obvious
+exit is south.  
+~
+262145 1
+D2
+~
+~
+0 0 26758
+S
+
+#26760
+Blob Cage~
+The stench in this closed in space is horrid!  Slime drips from every
+part of this cage.  The keepers have not been cleaning up after this animal.
+The only exit leads to the north.  
+~
+262145 1
+D0
+~
+~
+0 0 26758
+S
+
+#26761
+Phoenix Cage~
+The air is hazed with smoke in this cage.  A smell of something burning
+wafts through the air.  Blackened marks rise up the walls of the cage.  The
+phoenix seems to enjoy playing with fire.  The only obvious exit leads to
+the west.  
+~
+262145 1
+D3
+~
+~
+0 0 26758
+S
+
+#26762
+Gazebo~
+A shady gazebo stands overlooking a small lake.  The surface of the lake
+shimmers and ripples in the breeze.  A solitary swan swims peacefully about
+the lake.  The only exit leads back to the east.  
+~
+1024 1
+D1
+~
+~
+0 0 26732
+S
+
+#26763
+Path in the Park~
+The scenery in the park is fantastic at this time of year.  Fragrant
+flowers bloom everywhere filling the air with a sweet perfume.  Benches sit
+about the park.  The paths that lead throughout the area are covered with
+white stones that have been neatly raked.  Paths lead to the south and west.
+~
+0 0
+D2
+~
+~
+0 0 26764
+D3
+~
+~
+0 0 26732
+S
+
+#26764
+Path in the Park~
+The scenery in the park is fantastic at this time of year.  Fragrant
+flowers bloom everywhere filling the air with a sweet perfume.  Benches sit
+about the park.  The paths that lead throughout the area are covered with
+white stones that have been neatly raked.  Exits lead to the north, south,
+and east.  
+~
+262144 1
+D0
+~
+~
+0 0 26763
+D1
+~
+~
+0 0 26766
+D2
+~
+~
+0 0 26765
+S
+
+#26765
+Peaceful Overlook~
+The overlook stands on a tall cliff looking out over a valley below.  The
+scenery is beautiful!  A sense of peace overwhelms you looking out over the
+valley.  The only obvious exit leads to the north.  
+~
+262144 1
+D0
+~
+~
+0 0 26764
+S
+
+#26766
+Path in the Park~
+The scenery in the park is fantastic at this time of year.  Fragrant
+flowers bloom everywhere filling the air with a sweet perfume.  Benches sit
+about the park.  The paths that lead throughout the area are covered with
+white stones that have been neatly raked.  Exits lead to the east and west. 
+~
+262144 1
+D1
+~
+~
+0 0 26768
+D3
+~
+~
+0 0 26764
+S
+
+#26767
+Taaloni Way~
+Taaloni Way rings with the sounds of life.  Warm golden sunlight shines
+down from the clear sky above.  Birds call peacefully from trees that grow
+about the city.  Exits lead to the north, south and west.  
+~
+262144 1
+D2
+~
+~
+0 0 26768
+D3
+~
+~
+0 0 26897
+S
+
+#26768
+Taaloni Way~
+Taaloni Way rings with the sounds of life.  Warm golden sunlight shines
+down from the clear sky above.  Birds call peacefully from trees that grow
+about the city.  Just to the east a huge cathedral can be seen.  The fabled
+Crystal Palace lies to the south.  Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26767
+D1
+~
+~
+0 0 26769
+D2
+~
+~
+0 0 26770
+D3
+~
+~
+0 0 26766
+S
+
+#26769
+Before the Cathedral~
+The street ends just before a stunning cathedral.  The faint sounds of
+music can be heard coming from within the cathedral.  It is a place of
+peace, where those who need to purge their souls may go.  Exits lead west
+and up.  
+~
+262148 1
+D3
+~
+~
+0 0 26768
+D4
+~
+~
+0 0 26771
+S
+
+#26770
+Palace Gates~
+Massive wrought iron gates stand before you.  Crystal Palace is clearly
+visible from here.  The palace is absolutely stunning!  A closer look would
+definitely be in order.  How could anyone leave Taaloni without visiting the
+palace?  Exits lead to the north and south.  
+~
+262144 1
+D0
+~
+~
+0 0 26768
+D2
+~
+~
+0 0 26779
+S
+
+#26771
+Entryway of the Cathedral~
+The entryway of the cathedral is quiet and dark.  The bells begin to toll
+as you enter this place.  The deep sound strikes a chord of seriousness deep
+within your soul.  Exits lead to the north, east and back down to the
+street.  
+~
+262144 0
+D0
+~
+~
+0 0 26772
+D1
+~
+~
+0 0 26774
+D5
+~
+~
+0 0 26769
+S
+
+#26772
+Grand Cathedral~
+Great stained glass windows cast multicolored light into this part of the
+cathedral.  Heavy wooden pews sit on either side of the room in rows.  The
+floor is a dark, polished wood that has been scarred by many feet.  The
+altar lies just to the north.  An exit leads to the south.  
+~
+0 0
+D0
+~
+~
+0 0 26773
+D2
+~
+~
+0 0 26771
+S
+
+#26773
+The Altar~
+A great stone altar stands here.  Hundreds of candles have been lit in
+honor of the patron saint of Taaloni.  The streams of wax have formed wierd
+shapes upon the altar.  This place fills you with a sense of peace.  The
+only exit leads to the south.  
+~
+262144 0
+D2
+~
+~
+0 0 26772
+S
+
+#26774
+Path to the Mausoleum~
+A narrow path leads from the cathedral to the mausoleum.  The air has
+turned suddenly cool.  A shiver runs through your body at the thoughts of
+the spirits that lie ahead.  Exits lead to the north and west.  
+~
+262144 1
+D0
+~
+~
+0 0 26775
+D3
+~
+~
+0 0 26771
+S
+
+#26775
+The Mausoleum~
+The mausoleum is a large stone structure.  The entrance is a narrow
+arched doorway.  Cobwebs flutter from the ceiling.  Tall metal gates block
+the entrance to the crypts themselves.  The only obvious exit leads to the
+south.  
+~
+262144 0
+D0
+~
+gate~
+0 0 26778
+D1
+~
+gate~
+0 0 26776
+D2
+~
+~
+0 0 26774
+D3
+~
+gate~
+0 0 26777
+S
+
+#26776
+A Darkened Crypt~
+It is almost completely dark inside the crypt.  The air is full of the
+smell of death and decay.  A haunting moan fills the air.  Then you see what
+stands before you!  
+~
+262145 0
+D3
+~
+~
+0 0 26775
+S
+
+#26777
+A Darkened Crypt~
+It is almost completely dark inside the crypt.  The air is full of the
+smell of death and decay.  A haunting moan fills the air.  Then you see what
+stands before you!  
+~
+262145 0
+D1
+~
+~
+0 0 26775
+S
+
+#26778
+A  Darkened Crypt~
+It is almost completely dark inside the crypt.  The air is full of the
+smell of death and decay.  A haunting moan fills the air.  Then you see what
+stands before you!  
+~
+0 0
+D2
+~
+~
+0 0 26775
+D5
+~
+grate~
+0 26749 26818
+S
+
+#26779
+Palace Courtyard~
+The courtyard is large, open space just before the castle.  A circular
+drive covered in neatly raked white stones extends from the gates to just
+before the castle.  The neatly trimmed lawn is a stunning green.  Well kept
+flower beds dot the lawn.  Everything you see is breathtaking.  Exits lead
+in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26770
+D1
+~
+~
+0 0 26781
+D2
+~
+~
+0 0 26780
+D3
+~
+~
+0 0 26782
+S
+
+#26780
+Before the Palace~
+Light shimmers in brilliant rainbow hues in the air as light strikes the
+palace.  The entire building is made of an opaque crystalline material.  The
+windows and doors are trimmed in gilt-edged scrollwork.  Never have you seen
+a place like this.  There is no wonder it is spoken of in far off realms. 
+Exits lead north and up.  
+~
+262148 1
+D0
+~
+~
+0 0 26779
+D4
+~
+~
+0 0 26783
+S
+
+#26781
+The Stables~
+The sweet smell of hay and clover hangs in the air.  The stables are
+oddly deserted.  Every stall stands open, the tack room is clearly empty. 
+Strange, very strange indeed.  The only obvious exit leads to the west.  
+~
+262144 1
+D3
+~
+~
+0 0 26779
+S
+
+#26782
+Guard Post~
+The guard post is a virtual stockade.  The walls are made of stone; each
+window is covered with iron bars.  The door stands open to allow a cooling
+breeze to stir within the closed confines of the building.  Further to the
+west the barracks can be seen.  The only exit leads to the east.  
+~
+262144 1
+D1
+~
+~
+0 0 26779
+S
+
+#26783
+Entryway~
+The entryway of the palace shows more of this amazing place.  Even the
+floors are covered in an amazing crystalline material.  A huge crystal
+chandelier hangs from the domed ceiling just to the south.  Warm golden
+light radiates throughout this area.  Murals depicting cherubs cavorting
+about the heavens line the hallway to the south.  Exits lead east, west,
+south and down.  
+~
+262144 1
+D1
+~
+~
+0 0 26784
+D2
+~
+~
+0 0 26786
+D3
+~
+~
+0 0 26785
+D5
+~
+~
+0 0 26780
+S
+
+#26784
+Sitting Room~
+The sitting room is smaller room of the palace used to receive visitors. 
+An arrangement of exotic flowers sits in one corner.  Elegant french doors
+stand open allowing a cooling breeze to stir through the room.  The many
+visitors who come here feel at ease upon entering this room.  An exit leads
+to the west.  
+~
+262144 1
+D3
+~
+~
+0 0 26783
+S
+
+#26785
+Grand Library~
+Shelves line the walls from ceiling to floor.  Books and scrolls are
+neatly arranged on the shelves.  The librarian must work constantly to keep
+things in order here.  The more rare volumes are kept in a locked shelf. 
+Comfortable chairs sit about the room.  An exit leads to the east.  
+~
+262144 1
+D1
+~
+~
+0 0 26783
+S
+
+#26786
+Hallway in the Castle~
+The hallway is wide and well lit.  It is nearly as luxurious as the other
+parts of the castle you have seen thus far.  A narrow strip of deep burgundy
+carpet covers the center of the wooden floor.  The scent of lemon oil hangs
+faintly in the air.  Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26783
+D1
+~
+~
+0 0 26787
+D2
+~
+~
+0 0 26791
+D3
+~
+~
+0 0 26790
+S
+
+#26787
+Dining Hall~
+A massive oak table spans the length of the dining hall.  It is the
+longest, largest table you have ever seen.  High back chairs sit about the
+length of the table.  The smell of freshly cooked food wafts through the
+air.  Exits lead to the east and west.  
+~
+262144 1
+D1
+~
+~
+0 0 26788
+D3
+~
+~
+0 0 26786
+S
+
+#26788
+Kitchen~
+The cook and several assistants go about their duties in this huge
+kitchen.  It is well stocked, and has every imaginable modern convenience. 
+Polished brass cookware hangs above the stove from a rack.  This is where
+all the delicious smells were coming from.  An exit leads to the west.  
+~
+262144 1
+D3
+~
+~
+0 0 26787
+S
+
+#26790
+The Study~
+A comfortable leather chair sits behind a desk here.  The faint smell of
+leather and pipe smoke waft through the air.  A low table sits nearby with
+several glasses and a bottle of aged whiskey.  The light from the single
+window is muted by heavy draperies.  The only exit leads to the east.  
+~
+262144 1
+D1
+~
+~
+0 0 26786
+S
+
+#26791
+Hallway in the Castle~
+The hallway is wide and well lit.  It is nearly as luxurious as the other
+parts of the castle you have seen thus far.  A narrow strip of deep burgundy
+carpet covers the center of the wooden floor.  The scent of lemon oil hangs
+faintly in the air.  Exits lead in the cardinal directions.  A spiral
+staircase leads up.  
+~
+262144 1
+D0
+~
+~
+0 0 26786
+D1
+~
+~
+0 0 26792
+D2
+~
+~
+0 0 26794
+D3
+~
+~
+0 0 26793
+D4
+~
+~
+0 0 26797
+S
+
+#26792
+Treasurer's Office~
+~
+0 0
+D3
+~
+~
+0 0 26791
+S
+
+#26793
+Crystal Ballroom~
+The floor of the ballroom is made of an inlaid parquet design more
+intricate than anything you have seen before.  Mirrors with gold edging line
+the walls so that any movement is reflected about the room.  Delicate
+crystal chandeliers hang from the domed ceiling.  A raised dais sits at one
+end of the ballroom.  Reflections of rainbow colored light dazzle your eyes.
+This is the most stunning room of the palace yet.  An exit leads to the
+east.  
+~
+0 1
+D1
+~
+~
+0 0 26791
+S
+
+#26794
+Before the Throne Room~
+A small antechamber stands just before the throne room.  It is as lavish
+as the hallways.  Just to the south can be seen the massive throne room. 
+Exits lead to the north, south, and west.  
+~
+262144 1
+D0
+~
+~
+0 0 26791
+D1
+~
+~
+0 0 26796
+D2
+~
+~
+0 0 26795
+S
+
+#26795
+Throne Room~
+The throne room shimmers with irridescent colors.  There is no obvious
+joining of the floor to the walls, or the walls to the ceiling.  It is a
+spherically shaped room that forces attention to the throne.  The throne is
+quite tiny.  It is made entirely of gold and encrusted with precious jewels.
+What a breathtaking sight it is to see Mazran perched on his tiny throne. 
+This is the fabled boy king.  An exit leads to the north.  
+~
+262144 1
+D0
+~
+~
+0 0 26794
+S
+
+#26796
+Guard Post~
+This room serves basically as an office for the guards of the castle. 
+Weapons line the walls.  The floor is of plain polished wood.  A single
+brass candelabra sheds faint light into this place.  An exit leads to the
+west.  
+~
+262144 1
+D3
+~
+~
+0 0 26794
+S
+
+#26797
+Spiral Staircase~
+The spiral staircase rises to the upper floor of the palace.  A highly
+polished banister protects those who navigate this staircase from falling
+accidentally.  Exits lead to the north and down.  
+~
+262148 1
+D0
+~
+~
+0 0 26798
+D5
+~
+~
+0 0 26791
+S
+
+#26798
+Castle Hallway~
+The hallway is wide and well lit.  It is nearly as luxurious as the
+other parts of the castle you have seen thus far.  A narrow strip of deep
+burgundy carpet covers the center of the wooden floor.  The scent of lemon
+oil hangs faintly in the air.  Exits lead in the cardinal directions.  
+~
+262144 1
+D0
+~
+~
+0 0 26801
+D1
+~
+~
+0 0 26799
+D2
+~
+~
+0 0 26797
+D3
+~
+~
+0 0 26800
+S
+
+#26799
+Guest Room~
+The guest room is rather large and very well furnished.  Heavy draperies
+mute the bright light of day streaming through the window.  A richly
+decorated rug sits in the center of the wooden floor.  A bucket of iced
+champagne sits on a table near the bed.  Two crystal champagne flutes sit
+nearby.  An arrangement of roses sits in a vase on the dresser.  Elegant
+french doors open onto a small balcony.  An exit leads to the west.  
+~
+0 0
+D3
+~
+~
+0 0 26798
+S
+
+#26800
+Guest Chamber~
+The guest room is rather large and very well furnished.  Heavy draperies
+mute the bright light of day streaming through the window.  A richly
+decorated rug sits in the center of the wooden floor.  A bucket of iced
+champagne sits on a table near the bed.  Two crystal champagne flutes sit
+nearby.  An arrangement of roses sits in a vase on the dresser.  Elegant
+french doors open onto a small balcony.  An exit leads to the east.  
+~
+0 0
+D1
+~
+~
+0 0 26798
+S
+
+#26801
+Castle Hallway~
+The hallway is wide and well lit.  It is nearly as luxurious as the
+other parts of the castle you have seen thus far.  A narrow strip of deep
+burgundy carpet covers the center of the wooden floor.  The scent of lemon
+oil hangs faintly in the air.  
+~
+0 0
+D0
+~
+~
+0 0 26804
+D1
+~
+~
+0 0 26802
+D2
+~
+~
+0 0 26798
+D3
+~
+~
+0 0 26803
+S
+
+#26802
+Guest Chamber~
+The guest room is rather large and very well furnished.  Heavy draperies
+mute the bright light of day streaming through the window.  A richly
+decorated rug sits in the center of the wooden floor.  A bucket of iced
+champagne sits on a table near the bed.  Two crystal champagne flutes sit
+nearby.  An arrangement of roses sits in a vase on the dresser.  Elegant
+french doors open onto a small balcony.  An exit leads to the west.  
+~
+0 0
+D3
+~
+~
+0 0 26801
+S
+
+#26803
+Guest Chamber~
+The guest room is rather large and very well furnished.  Heavy draperies
+mute the bright light of day streaming through the window.  A richly
+decorated rug sits in the center of the wooden floor.  A bucket of iced
+champagne sits on a table near the bed.  Two crystal champagne flutes sit
+nearby.  An arrangement of roses sits in a vase on the dresser.  Elegant
+french doors open onto a small balcony.  An exit leads to the east.  
+~
+0 0
+D1
+~
+~
+0 0 26801
+S
+
+#26804
+Outer Antechamber~
+The antechamber is small and dimly lit.  It is as lavishly decorated as
+the other rooms of this palace.  A small high-backed chair sits behind a
+desk.  A brass candelabra sits atop the desk, lighting the scrolls that
+litter its top.  Exits lead to the north and south.  
+~
+0 0
+D0
+~
+~
+0 0 26805
+D2
+~
+~
+0 0 26801
+S
+
+#26805
+Royal Chambers~
+A large canopied bed sits in the center of the room.  Just to the east a
+smaller chamber can be seen.  The nanny must sleep there.  This room has a
+comforting atmosphere.  Paintings of children at play hang about the room. 
+A large carved chest contains the intricate toys that Mazran plays with in
+his free time, if there is such a thing.  The only exit leads to the south. 
+~
+0 0
+D2
+~
+~
+0 0 26804
+S
+
+#26806
+Dressing Room~
+~
+4 0
+S
+
+#26807
+Bathing Chamber~
+~
+4 0
+S
+
+#26808
+Royal Bedroom~
+~
+4 0
+S
+
+#26809
+Outside East Gates~
+The massive gates of Taaloni stand before you.  Sounds of life come from
+within the massive stone walls that surround the city.  The road leads west
+into the city.  The unexplored land of the forest lies to the west.  
+~
+4 3
+D1
+~
+~
+0 0 26810
+D3
+~
+~
+0 0 26720
+S
+
+#26810
+Barzhin Forest~
+The path leading into the forest is rather narrow.  Small bushes grow
+alongside the path.  Twigs catch at your clothing as you walk along.  The
+gloom deepens to the east.  A lone wolf howls in the distance.  A strange
+stone archway covered in moss almost obscures a path that lies to the south.
+~
+0 3
+D1
+~
+~
+0 0 26811
+D3
+~
+~
+0 0 26809
+S
+
+#26811
+Barzhin Forest~
+The gloom thickens in this part of the forest.  The trees have taken on
+an almost skeletal appearance.  Once again there comes that howl from the
+distance and you shiver.  Exits lead to the south and west.  
+~
+0 3
+D2
+~
+~
+0 0 26812
+D3
+~
+~
+0 0 26810
+S
+
+#26812
+Barzhin Forest~
+The gloom is impenetrable with the naked eye.  A definite chill has taken
+hold of the air in this place.  The wind sighs and moans through the black
+trees.  Exits lead to the north, south, and east.  
+~
+1 3
+D0
+~
+~
+0 0 26811
+D1
+~
+~
+0 0 26813
+D2
+~
+~
+0 0 26815
+S
+
+#26813
+Barzhin Forest~
+The gloom is impenetrable with the naked eye.  A definite chill has
+taken hold of the air in this place.  The wind sighs and moans through the
+black trees.  Sparks float through the air.  Could there be a fire nearby? 
+Exits lead to the south and west.  
+~
+1 3
+D2
+~
+~
+0 0 26814
+D3
+~
+~
+0 0 26812
+S
+
+#26814
+Deeper in the Forest~
+The forest has darkened, yet there is a reddish glow lighting the area. 
+The smell of smoke and ash is heavy in the air.  Just before you stands a
+volcano.  Smoke plumes from the peak of the volcano.  Molten lava has begun
+to seep from the peak.  Exits lead to the north, west, and up.  
+~
+1 3
+D0
+~
+~
+0 0 26813
+D3
+~
+~
+0 0 26815
+D4
+~
+~
+0 0 26859
+S
+
+#26815
+Deeper in the Forest~
+The gloom is impenetrable with the naked eye.  A definite chill has
+taken hold of the air in this place.  The wind sighs and moans through the
+black trees.  Exits lead to the north, east, and west.  
+~
+1 3
+D0
+~
+~
+0 0 26812
+D1
+~
+~
+0 0 26814
+D2
+~
+gate~
+0 0 26826
+D3
+~
+~
+0 0 26816
+S
+
+#26816
+Haunted Grove~
+The trees have thinned and are more skeletal in appearance.  It seems as
+if a great famine of sorts has struck this place.  The wind sighs and moans
+through this place.  Exits lead to the east and south.  
+~
+1 3
+D1
+~
+~
+0 0 26815
+D2
+~
+~
+0 0 26817
+S
+
+#26817
+Haunted Grove~
+The trees have thinned and are more skeletal in appearance.  It seems as
+if a great famine of sorts has struck this place.  The wind sighs and moans
+through this place.  The only obvious exit leads to the north.  
+~
+1 3
+D0
+~
+~
+0 0 26816
+D5
+~
+~
+0 0 26818
+S
+
+#26818
+Chapel Catacombs~
+The catacombs are almost devoid of any light.  The air smells of mold and
+decay.  The wind sighs through the catacombs, at times almost shrieking.  A
+chill has taken hold of this place.  A shiver runs down your spine, but is
+it due to the chill?  Exits lead to the east, west, south and up.  
+~
+1 0
+D1
+~
+~
+0 0 26891
+D2
+~
+~
+0 0 26823
+D3
+~
+~
+0 0 26819
+D4
+~
+~
+0 0 26817
+S
+
+#26819
+Chapel Catacombs~
+Cobwebs flutter in the breeze here.  The catacombs are almost devoid of
+any light.  The air smells of mold and decay.  The wind sighs through the
+catacombs, at times almost shrieking.  A chill has taken hold of this place.
+A shiver runs down your spine, but is it due to the chill?  Exits lead to
+the east and west.  
+~
+1 0
+D1
+~
+~
+0 0 26818
+D3
+~
+~
+0 0 26820
+S
+
+#26820
+Chapel Catacombs~
+A haunting shriek comes from somewhere nearby.  It raises the hair on the
+back of your neck.  What manner of beast could be lurking about in the
+catacombs?  Exits lead to the east and south.  
+~
+1 0
+D1
+~
+~
+0 0 26819
+D2
+~
+~
+0 0 26821
+S
+
+#26821
+Chapel Catacombs~
+The catacombs are almost devoid of any light.  The air smells of mold and
+decay.  The wind sighs through the catacombs, at times almost shrieking.  A
+chill has taken hold of this place.  A shiver runs down your spine, but is
+it due to the chill?  Exits lead to the north, west and down.  
+~
+1 0
+D0
+~
+~
+0 0 26820
+D3
+~
+~
+0 0 26823
+D5
+~
+~
+0 0 26822
+S
+
+#26822
+Empty Chamber~
+Bits of rubble and bone lie about this chamber.  The stench of decay is
+almost overpowering.  Still those haunting shrieks and moans echo through
+the catacombs.  The only obvious exit leads up.  
+~
+1 0
+D4
+~
+~
+0 0 26821
+S
+
+#26823
+Chapel Catacombs~
+The catacombs are almost devoid of any light.  The air smells of mold and
+decay.  The wind sighs through the catacombs, at times almost shrieking.  A
+chill has taken hold of this place.  A shiver runs down your spine, but is
+it due to the chill?  Exits lead in the cardinal directions.  
+~
+1 0
+D0
+~
+~
+0 0 26818
+D1
+~
+~
+0 0 26821
+D2
+~
+~
+0 0 26825
+S
+
+#26824
+Chamber of the Zombie~
+~
+4 0
+S
+
+#26825
+Chapel Catacombs~
+The catacombs are almost devoid of any light.  The air smells of mold and
+decay.  The wind sighs through the catacombs, at times almost shrieking.  A
+chill has taken hold of this place.  A shiver runs down your spine, but is
+it due to the chill?  The only obvious exit leads to the north.  
+~
+1 0
+D0
+~
+~
+0 0 26823
+S
+
+#26826
+The Gauntlet~
+A huge stone building stands before you.  It is designed almost as a
+fortress.  Iron bars cover the few visible windows.  Thick wooden doors
+reinforced with iron straps stand open.  The only obvious exit leads to the
+south.  
+~
+0 0
+D0
+~
+~
+0 0 26815
+D2
+~
+~
+0 0 26827
+S
+
+#26827
+Before the Halls~
+A small entryway leads to the halls of the Gauntlet.  It is strangely
+quiet, not even a rat can be seen scurrying about.  A sense of danger fills
+the air.  Getting a firmer grip on your weapon, you move forward.  Exits
+lead north and south.  
+~
+0 0
+D0
+~
+~
+0 0 26826
+D2
+~
+~
+0 0 26828
+S
+
+#26828
+The Gauntlet~
+A small entryway leads to the halls of the Gauntlet.  It is strangely
+quiet, not even a rat can be seen scurrying about.  A sense of danger fills
+the air.  Getting a firmer grip on your weapon, you move forward.  Exits
+lead north, east and west.  
+~
+4 0
+D0
+~
+~
+0 0 26827
+D1
+~
+~
+0 0 26829
+D3
+~
+~
+0 0 26837
+S
+
+#26829
+Hall of Fire~
+Flames race up and down the walls of this hall.  It is still strangely
+silent here.  The air is cool, even though flames flicker only feet from
+your body.  Exits lead east and west.  
+~
+0 0
+D1
+~
+~
+0 0 26830
+D3
+~
+~
+0 0 26828
+S
+
+#26830
+Hall of Fire~
+Flames race up and down the walls of this hall.  It is still strangely
+silent here.  The air is cool, even though flames flicker only feet from
+your body.  Exits lead east and west.  
+~
+0 0
+D1
+~
+~
+0 0 26831
+D3
+~
+~
+0 0 26829
+S
+
+#26831
+Hall of Fire~
+Flames race up and down the walls of this hall.  It is still strangely
+silent here.  The air is cool, even though flames flicker only feet from
+your body.  Exits lead west and down.  
+~
+0 0
+D3
+~
+~
+0 0 26830
+D5
+~
+~
+0 0 26832
+S
+
+#26832
+Narrow Stairway~
+The stairway is so narrow that your shoulders brush the walls.  There is
+very little light in this place.  A rat squeaks as it scurries by your
+ankles.  Exits lead west and up.  
+~
+4 0
+D3
+~
+~
+0 0 26835
+D4
+~
+~
+0 0 26831
+S
+
+#26833
+Training Hall~
+gauntlet trainees, etc. here
+~
+4 0
+S
+
+#26834
+Training Hall~
+Broken training equipment lies scattered about this room.  A rotting
+human head lies just in front of you.  What a disgusting place this is!  The
+only obvious exit leads to the north.  
+~
+0 0
+D0
+~
+~
+0 0 26835
+S
+
+#26835
+A Darkened Hallway~
+The smell of death and decay hang heavy in the air.  The stone floor
+echoes hollowly beneath your feet.  Blood and gore are splattered
+everywhere.  What kind of horrible place is this?  Exits lead to the north,
+south and east.  
+~
+1 0
+D0
+~
+~
+0 0 26836
+D1
+~
+~
+0 0 26832
+D2
+~
+~
+0 0 26834
+S
+
+#26836
+A Darkened Hallway~
+The smell of death and decay hang heavy in the air.  The stone floor
+echoes hollowly beneath your feet.  Blood and gore are splattered
+everywhere.  What kind of horrible place is this?  Exits lead in the
+cardinal directions.  
+~
+1 0
+D0
+~
+~
+0 0 26843
+D1
+~
+~
+0 0 26841
+D2
+~
+~
+0 0 26835
+D3
+~
+~
+0 0 26842
+S
+
+#26837
+Hall of Ice~
+Every part of this immense hall is coated in a sheet of ice.  Light
+sparkles across the glaze of ice.  The air is extremely cold in this part of
+the Gauntlet.  Exits lead to the east and west.  
+~
+0 0
+D1
+~
+~
+0 0 26828
+D3
+~
+~
+0 0 26838
+S
+
+#26838
+Hall of Ice~
+Every part of this immense hall is coated in a sheet of ice.  Light
+sparkles across the glaze of ice.  The air is extremely cold in this part of
+the Gauntlet.  Exits lead east and west.  
+~
+0 0
+D1
+~
+~
+0 0 26837
+D3
+~
+~
+0 0 26839
+S
+
+#26839
+Hall of Ice~
+Every part of this immense hall is coated in a sheet of ice.  Light
+sparkles across the glaze of ice.  The air is extremely cold in this part of
+the Gauntlet.  Exits lead east and west.  
+~
+0 0
+D1
+~
+~
+0 0 26838
+D3
+~
+~
+0 0 26840
+S
+
+#26840
+Hall of Ice~
+Every part of this immense hall is coated in a sheet of ice.  Light
+sparkles across the glaze of ice.  The air is extremely cold in this part of
+the Gauntlet.  Exits lead east and down.  
+~
+0 0
+D1
+~
+~
+0 0 26839
+D5
+~
+~
+0 0 26832
+S
+
+#26841
+Darkened Pool~
+The water of the pool is dark, murky.  Something writhes and splashes
+within it.  A narrow rock ledge encircles the pool.  The ledge is wet and
+slippery.  Just one wrong step could put you in the pool with whatever
+creature lurks there.  
+~
+1 0
+D3
+~
+~
+0 0 26836
+S
+
+#26842
+A Haunted Dojo~
+What a strange little room this is!  It is almost identical to an
+oriental temple.  A small fountain streams water into a small pool. 
+Ornamental goldfish swim lazily about.  The only exit leads to the east.  
+~
+0 0
+D1
+~
+~
+0 0 26836
+S
+
+#26843
+A Darkened Hallway~
+The smell of death and decay hang heavy in the air.  The stone floor
+echoes hollowly beneath your feet.  Blood and gore are splattered
+everywhere.  What kind of horrible place is this?  Exits lead in the
+cardinal directions.  
+~
+1 0
+D0
+~
+~
+0 0 26846
+D1
+~
+~
+0 0 26844
+D2
+~
+~
+0 0 26836
+D3
+~
+~
+0 0 26845
+S
+
+#26844
+The Barracks~
+~
+0 0
+D3
+~
+~
+0 0 26843
+S
+
+#26845
+Dining Hall~
+~
+0 0
+D1
+~
+~
+0 0 26843
+S
+
+#26846
+A Darkened Hallway~
+The smell of death and decay hang heavy in the air.  The stone floor
+echoes hollowly beneath your feet.  Blood and gore are splattered
+everywhere.  What kind of horrible place is this?  Exits lead south and
+down.  
+~
+1 0
+D2
+~
+~
+0 0 26843
+D5
+~
+~
+0 0 26847
+S
+
+#26847
+Stairway~
+A narrow stone stairway leads to the next level of the Gauntlet. 
+Dripping water echoes somewhere to the north.  The air is colder still in
+this area.  Exits lead north and up.  
+~
+5 0
+D0
+~
+~
+0 0 26848
+D4
+~
+~
+0 0 26846
+S
+
+#26848
+Pits of Despair~
+A great cavernous pit has formed here.  Bits of rubble and debris lie
+about, preventing you from finding an easy path.  The air is dank with the
+smell of death and decay.  Exits lead in the cardinal directions.  
+~
+1 0
+D0
+~
+~
+0 0 26856
+D1
+~
+~
+0 0 26850
+D2
+~
+~
+0 0 26847
+D3
+~
+~
+0 0 26849
+S
+
+#26849
+Pits of Despair~
+A great cavernous pit has formed here.  Bits of rubble and debris lie
+about, preventing you from finding an easy path.  The air is dank with the
+smell of death and decay.  Exits lead to the north and east.  
+~
+1 0
+D0
+~
+~
+0 0 26857
+D1
+~
+~
+0 0 26848
+S
+
+#26850
+Pits of Despair~
+A great cavernous pit has formed here.  Bits of rubble and debris lie
+about, preventing you from finding an easy path.  The air is dank with the
+smell of death and decay.  Exits lead north, east and west.  
+~
+1 0
+D0
+~
+~
+0 0 26855
+D1
+~
+~
+0 0 26851
+D3
+~
+~
+0 0 26848
+S
+
+#26851
+Pits of Despair~
+A half rotted corpse lies here.  The pit is even more cavernous in this
+area.  Huge boulders block the path.  Exits lead to the north, east and
+west.  
+~
+1 0
+D0
+~
+~
+0 0 26854
+D1
+~
+~
+0 0 26852
+D3
+~
+~
+0 0 26850
+S
+
+#26852
+Pits of Despair~
+A great cavernous pit has formed here.  Bits of rubble and debris lie
+about, preventing you from finding an easy path.  The air is dank with the
+smell of death and decay.  Exits lead north and west.  
+~
+1 0
+D0
+~
+~
+0 0 26853
+D3
+~
+~
+0 0 26851
+S
+
+#26853
+Pits of Despair~
+A great cavernous pit has formed here.  Bits of rubble and debris lie
+about, preventing you from finding an easy path.  The air is dank with the
+smell of death and decay.  Exits lead south and west.  
+~
+1 0
+D2
+~
+~
+0 0 26852
+D3
+~
+~
+0 0 26854
+S
+
+#26854
+Pits of Despair~
+A sheer drop off lies just to the north.  One wrong move means certain
+death as you navigate the sheer ledge.  Exits lead east, west, and south.  
+~
+1 0
+D1
+~
+~
+0 0 26853
+D2
+~
+~
+0 0 26851
+D3
+~
+~
+0 0 26855
+S
+
+#26855
+Pits of Despair~
+A great cavernous pit has formed here.  Bits of rubble and debris lie
+about, preventing you from finding an easy path.  The air is dank with the
+smell of death and decay.  Exits lead east, west, and south.  
+~
+0 0
+D1
+~
+~
+0 0 26854
+D2
+~
+~
+0 0 26850
+D3
+~
+~
+0 0 26856
+S
+
+#26856
+Pits of Despair~
+A great cavernous pit has formed here.  Bits of rubble and debris lie
+about, preventing you from finding an easy path.  The air is dank with the
+smell of death and decay.  Exits lead east, west, and south.  
+~
+1 0
+D1
+~
+~
+0 0 26855
+D2
+~
+~
+0 0 26848
+D3
+~
+~
+0 0 26857
+S
+
+#26857
+Pits of Despair~
+A huge stone wall blocks further exploration to the north and west. 
+Thick iron spikes have been driven into the face of the stone wall.  Heavy
+iron chains extend from the spikes to the hateful ogre that lies here in his
+own filth.  This is the reason the daemons are so restless.  Exits lead east
+and south.  
+~
+1 0
+D1
+~
+~
+0 0 26856
+D2
+~
+~
+0 0 26849
+S
+
+#26859
+Base of the Volcano~
+Steam hisses around this part of the volcano.  A huge crack allows molten
+rock to ooze across the narrow path.  The heat is unbearable.  Exits lead up
+and down.  
+~
+4 0
+D4
+~
+~
+0 0 26860
+D5
+~
+~
+0 0 26814
+S
+
+#26860
+The Volcano~
+The tunnel opens a bit wider here.  Steam swirls about, obscuring a clear
+view of what lies ahead.  Molten lava streams from a large crack in the side
+of the tunnel.  Sparks swirl about in the air.  Exits lead east and down.  
+~
+0 0
+D1
+~
+~
+0 0 26861
+D5
+~
+~
+0 0 26859
+S
+
+#26861
+The Volcano~
+The tunnel opens a bit wider here.  Steam swirls about, obscuring a
+clear view of what lies ahead.  Molten lava streams from a large crack in
+the side of the tunnel.  Sparks swirl about in the air.  Exits lead north
+and west.  
+~
+0 0
+D0
+~
+~
+0 0 26862
+D3
+~
+~
+0 0 26860
+S
+
+#26862
+The Volcano~
+The tunnel opens a bit wider here.  Steam swirls about, obscuring a
+clear view of what lies ahead.  Molten lava streams from a large crack in
+the side of the tunnel.  Sparks swirl about in the air.  ' The smell of
+brimstone hangs heavy in the air.  Exits lead south and west.  
+~
+0 0
+D2
+~
+~
+0 0 26861
+D3
+~
+~
+0 0 26863
+S
+
+#26863
+The Volcano~
+The tunnel opens a bit wider here.  Steam swirls about, obscuring a
+clear view of what lies ahead.  Molten lava streams from a large crack in
+the side of the tunnel.  Sparks swirl about in the air.  Exits lead east and
+up.  
+~
+0 0
+D1
+~
+~
+0 0 26862
+D4
+~
+~
+0 0 26864
+S
+
+#26864
+The Volcano~
+The tunnel widens considerably here.  Steam hisses from cracks in the
+walls of the tunnel.  The temperature has risen even more.  Sweat streams
+from your face, blinding you as it runs into your eyes.  Exits lead south
+and down.  
+~
+0 0
+D2
+~
+~
+0 0 26865
+D5
+~
+~
+0 0 26863
+S
+
+#26865
+The Volcano~
+Jagged rocks tear through your clothing.  The heat sears you with its
+intensity.  Sparks swirl through the mists.  A huge crack nearly blocks the
+path ahead of you.  This is a very dangerous adventure.  Exits lead to the
+north and east.  
+~
+0 0
+D0
+~
+~
+0 0 26864
+D1
+~
+~
+0 0 26866
+S
+
+#26866
+The Volcano~
+The tunnel widens considerably here.  Steam hisses from cracks in the
+walls of the tunnel.  The temperature has risen even more.  Sweat streams
+from your face, blinding you as it runs into your eyes.  Molten rock streams
+from tiny cracks in one wall of the tunnel.  Exits lead to the north and
+west.  
+~
+0 0
+D0
+~
+~
+0 0 26867
+D3
+~
+~
+0 0 26865
+S
+
+#26867
+The Volcano~
+A narrow bridge of stone is all that spans the great crevasse that stands
+in front of you.  The bridge is only wide enough for one foot to fit in
+front of the other.  A great pit of fire looms beneath you.  There is a
+swirling sea of molten rock waiting to swallow you up.  One wrong move means
+most certain death.  Exits lead to the south and west.  
+~
+0 0
+D2
+~
+~
+0 0 26866
+D3
+~
+~
+0 0 26868
+S
+
+#26868
+The Volcano~
+The tunnel widens considerably here.  Steam hisses from cracks in the
+walls of the tunnel.  The temperature has risen even more.  Sweat streams
+from your face, blinding you as it runs into your eyes.  The huge crevasse
+lies to the east.  A small tunnel leads up.  
+~
+0 0
+D1
+~
+~
+0 0 26867
+D4
+~
+~
+0 0 26869
+S
+
+#26869
+The Volcano~
+The tunnel is wide enough for several people to walk abreast here. 
+Swirling mist and sparks obscure a clear view of this part of the volcano as
+well.  The heat has not lessened in the least.  At least there is no lava
+flowing across the tunnel floor.  Exits lead north and down.  
+~
+0 0
+D0
+~
+~
+0 0 26870
+D5
+~
+~
+0 0 26868
+S
+
+#26870
+The Volcano~
+A great rumble shakes the walls of the tunnel.  Small rocks and plumes of
+dust fall from the top of the tunnel.  The great volcano is restless.  Now
+would be the time to flee to safe ground.  Exits lead north, south and east.
+~
+0 0
+D0
+~
+~
+0 0 26874
+D1
+~
+~
+0 0 26871
+D2
+~
+~
+0 0 26869
+S
+
+#26871
+Firey Tunnel~
+The walls of this tunnel are aflame!  Sparks sear your flesh as you
+venture through this part of the volcano.  Perhaps this was not a very wise
+idea after all?  Exits lead east and west.  
+~
+0 0
+D1
+~
+~
+0 0 26872
+D3
+~
+~
+0 0 26870
+S
+
+#26872
+Firey Tunnel~
+The tunnel widens considerably here.  Steam hisses from cracks in the
+walls of the tunnel.  The temperature has risen even more.  Sweat streams
+from your face, blinding you as it runs into your eyes.  Exits lead north
+and west.  
+~
+0 0
+D0
+~
+~
+0 0 26873
+D3
+~
+~
+0 0 26871
+S
+
+#26873
+Firey Chamber~
+A solid wall of flame blocks further exploration in this part of the
+tunnel.  The floor is covered in swirling, molten rock.  Tiny flames race
+across the surface of the boiling rock.  The only obvious exit leads to the
+south.  
+~
+0 0
+D2
+~
+~
+0 0 26872
+S
+
+#26874
+The Volcano~
+The rock tunnel seems less stable here.  The floor shifts beneath your
+very feet.  Things are not looking very safe at the moment.  Exits lead
+south and west.  
+~
+0 0
+D2
+~
+~
+0 0 26870
+D3
+~
+~
+0 0 26875
+S
+
+#26875
+The Volcano~
+With a groan, you wonder if this was a wise venture to undertake.  The
+forest was less foreboding than this horrible place.  The water begins to
+boil in your canteen.  Now you have no cool water to drink.  All is lost... 
+Or is it?  Exits lead east, west and up.  
+~
+0 0
+D1
+~
+~
+0 0 26874
+D3
+~
+~
+0 0 26876
+D4
+~
+~
+0 0 26879
+S
+
+#26876
+Firey Tunnel~
+The tunnel widens considerably here.  Steam hisses from cracks in the
+walls of the tunnel.  The temperature has risen even more.  Sweat streams
+from your face, blinding you as it runs into your eyes.  Exits lead east and
+west.  
+~
+0 0
+D1
+~
+~
+0 0 26875
+D3
+~
+~
+0 0 26877
+S
+
+#26877
+Firey Tunnel~
+The tunnel widens considerably here.  Steam hisses from cracks in the
+walls of the tunnel.  The temperature has risen even more.  Sweat streams
+from your face, blinding you as it runs into your eyes.  Exits lead east and
+south.  
+~
+0 0
+D1
+~
+~
+0 0 26876
+D2
+~
+~
+0 0 26878
+S
+
+#26878
+Firey Chamber~
+A solid wall of flame blocks further exploration in this part of the
+tunnel.  A shudder rocks the tunnel walls as the volcano heaves beneath your
+feet.  The only exit leads to the north.  
+~
+0 0
+D0
+~
+~
+0 0 26877
+S
+
+#26879
+The Volcano~
+The tunnel has widened even more.  The swirling mists are not as thick in
+this part of the tunnel.  Sparks continue to fly about in the air.  The
+rumbling of the volcano comes yet again.  An eruption is almost imminent. 
+Exits lead south and down.  
+~
+0 0
+D2
+~
+~
+0 0 26880
+D5
+~
+~
+0 0 26875
+S
+
+#26880
+The Volcano~
+Rocks tumble from the roof of the tunnel.  The ground shakes violently. 
+A stream of molten rock pours from a huge crack in one wall.  Exits lead
+north and east.  
+~
+0 0
+D0
+~
+~
+0 0 26879
+D1
+~
+~
+0 0 26881
+S
+
+#26881
+The Volcano~
+The tunnel has widened even more.  The swirling mists are not as thick
+in this part of the tunnel.  Sparks continue to fly about in the air.  The
+rumbling of the volcano comes yet again.  An eruption is almost imminent. 
+Exits lead north and west.  
+~
+0 0
+D0
+~
+~
+0 0 26882
+D3
+~
+~
+0 0 26880
+S
+
+#26882
+The Volcano~
+The smell of burning sulfur tortures your nostrils.  The floor of the
+tunnel is covered in blackened cinders.  Yet again the volcano rumbles,
+protesting it almost seems.  Exits lead south and west.  
+~
+0 0
+D2
+~
+~
+0 0 26881
+D3
+~
+~
+0 0 26883
+S
+
+#26883
+The Volcano~
+The tunnel has widened even more.  The swirling mists are not as thick
+in this part of the tunnel.  Sparks continue to fly about in the air.  The
+rumbling of the volcano comes yet again.  An eruption is almost imminent. 
+Exits lead east and up.  
+~
+0 0
+D1
+~
+~
+0 0 26882
+D4
+~
+~
+0 0 26884
+S
+
+#26884
+Nearing the Apex~
+The air has cooled just a bit, if there is any such word in this wretched
+place of fire and molten rock.  Another rumble through the volcano nearly
+causes you to lose your footing.  A small stream of molten rock runs slowly
+by your feet.  Exits lead south and down.  
+~
+0 0
+D2
+~
+~
+0 0 26885
+D5
+~
+~
+0 0 26883
+S
+
+#26885
+The Volcano~
+Swirling steam rises from the floor of the tunnel.  Sparks float idly by
+as the stone floor heaves beneath your feet.  Rocks tumble from the roof of
+the tunnel.  This is not the safest place to be, of that you are quite sure.
+Exits lead north and east.  
+~
+0 0
+D0
+~
+~
+0 0 26884
+D1
+~
+~
+0 0 26886
+S
+
+#26886
+The Volcano~
+Swirling steam rises from the floor of the tunnel.  Sparks float idly by
+as the stone floor heaves beneath your feet.  Rocks tumble from the roof of
+the tunnel.  This is not the safest place to be, of that you are quite sure.
+Exits lead north and west.  
+~
+0 0
+D0
+~
+~
+0 0 26887
+D3
+~
+~
+0 0 26885
+S
+
+#26887
+The Volcano~
+A bright ray of light shines from the tiny opening just above your head. 
+The steam escapes through the opening.  Perhaps escape from this horrible
+place is close at hand.  Exits lead south and up.  
+~
+0 0
+D2
+~
+~
+0 0 26886
+D4
+~
+~
+0 0 26888
+S
+
+#26888
+The Apex~
+Ahhh!  The peak of the volcano lies beneath your feet.  Wait, all is not
+as good as it could be.  The tortured mountain quivers violently, sending
+plumes of ash and smoke into the air.  A huge chunk of the mountain falls
+away.  A river of molten rock pours forth onto the peaceful forest below. 
+Everything it touches bursts into flames almost instantly.  There is no hope
+of escape now.  
+~
+0 0
+D5
+~
+~
+0 0 26887
+S
+
+#26889
+Chapel Catacombs~
+~
+4 0
+S
+
+#26890
+Chamber of the Fire God~
+~
+4 0
+S
+
+#26891
+Chapel Catacombs~
+The catacombs are almost devoid of any light.  The air smells of mold and
+decay.  The wind sighs through the catacombs, at times almost shrieking.  A
+chill has taken hold of this place.  A shiver runs down your spine, but is
+it due to the chill?  Exits lead to the south and west.  
+~
+1 0
+D2
+~
+~
+0 0 26892
+D3
+~
+~
+0 0 26818
+S
+
+#26892
+Chapel Catacombs~
+A bloodcurdling shriek echoes within the catacombs.  You grip your weapon
+tighter and continue this exploration.  Exits lead to the north and east.  
+~
+1 0
+D0
+~
+~
+0 0 26891
+D1
+~
+~
+0 0 26893
+S
+
+#26893
+Chapel Catacombs~
+The catacombs are almost devoid of any light.  The air smells of mold and
+decay.  The wind sighs through the catacombs, at times almost shrieking.  A
+chill has taken hold of this place.  A shiver runs down your spine, but is
+it due to the chill?  The only obvious exit leads to the west.  
+~
+1 0
+D3
+~
+~
+0 0 26892
+S
+
+#26894
+Chamber of the Fire God~
+~
+4 0
+S
+
+#26895
+Chapel Catacombs~
+~
+0 0
+D2
+~
+~
+0 0 26896
+S
+
+#26896
+Chapel Catacombs~
+~
+0 0
+D0
+~
+~
+0 0 26895
+S
+
+#26897
+Market Street~
+The hustle and bustle of city life swirl about you.  This section of the
+city is very busy.  Merchants have set up booths from which they peddle
+their wares.  The smell of freshly prepared food wafts through the air. 
+Customers haggle with merchants.  Deals are made at a breathtaking pace. 
+This is the heart of the informal business district of Taaloni.  Exits lead
+to the east and west.  
+~
+262144 1
+D1
+~
+~
+0 0 26767
+D3
+~
+~
+0 0 26898
+S
+
+#26898
+Market Street~
+The hustle and bustle of city life swirl about you.  This section of the
+city is very busy.  Merchants have set up booths from which they peddle
+their wares.  The smell of freshly prepared food wafts through the air. 
+Customers haggle with merchants.  Deals are made at a breathtaking pace. 
+This is the heart of the informal business district of Taaloni.  Exits lead
+to the east and west.  
+~
+262144 1
+D1
+~
+~
+0 0 26897
+D3
+~
+~
+0 0 26730
+S
+
+#26899
+Outside the West Gates~
+The massive gates of Taaloni stand before you.  Sounds of life come from
+within the massive stone walls that surround the city.  The road leads east
+into the city.  
+~
+262148 1
+D1
+~
+~
+0 0 26728
+S
+#0
+
+#SPECIALS
+M 26702 spec_cast_adept
+M 26712 spec_guard
+M 26743 spec_cast_mage
+M 26775 spec_breath_fire
+S
+
+#RESETS
+M 100 26781 5 26700 1
+M 100 26700 1 26700 1
+E 100 26755 0 10
+E 100 26701 0 16
+O 100 26700 0 26700
+M 100 26716 5 26701 1
+M 100 26702 1 26702 1
+M 100 26703 1 26703 1
+M 100 26705 1 26705 1
+G 100 26761 0
+G 100 26709 0
+G 100 26712 0
+G 100 26711 0
+G 100 26710 0
+M 100 26704 1 26706 1
+G 100 26704 0
+G 100 26708 0
+G 100 26707 0
+G 100 26706 0
+G 100 26705 0
+G 100 26703 0
+G 100 26702 0
+M 100 26712 30 26708 2
+M 100 26712 30 26708 2
+M 100 26708 1 26710 1
+G 100 26718 0
+G 100 26717 0
+G 100 26715 0
+G 100 26716 0
+M 100 26707 1 26710 1
+M 100 26706 1 26711 1
+O 100 26714 0 26714
+O 100 26713 0 26714
+O 100 26714 0 26715
+O 100 26713 0 26715
+O 100 26714 0 26717
+O 100 26713 0 26717
+O 100 26714 0 26718
+O 100 26713 0 26718
+O 100 26714 0 26719
+O 100 26713 0 26719
+M 100 26712 30 26720 2
+E 100 26726 0 16
+M 100 26712 30 26720 2
+E 100 26727 0 13
+M 100 26701 1 26721 1
+G 100 26771 0
+G 100 26770 0
+G 100 26769 0
+G 100 26768 0
+G 100 26767 0
+G 100 26766 0
+G 100 26765 0
+G 100 26764 0
+G 100 26763 0
+G 100 26762 0
+M 100 26709 1 26723 1
+G 100 26720 0
+G 100 26719 0
+M 100 26710 1 26724 1
+M 100 26711 1 26726 1
+G 100 26725 0
+G 100 26724 0
+G 100 26723 0
+G 100 26722 0
+G 100 26721 0
+M 100 26713 5 26727 1
+M 100 26712 30 26727 2
+E 100 26726 0 16
+M 100 26712 30 26727 2
+M 100 26780 5 26728 1
+M 100 26712 30 26728 2
+M 100 26712 30 26728 2
+M 100 26714 5 26729 1
+M 100 26712 30 26731 2
+E 100 26726 0 16
+M 100 26712 30 26731 2
+M 100 26715 1 26732 1
+M 100 26716 5 26733 1
+M 100 26717 5 26734 1
+M 100 26716 5 26734 1
+M 100 26718 1 26735 1
+M 100 26719 1 26736 1
+M 100 26716 5 26737 1
+M 100 26720 5 26737 1
+M 100 26721 2 26738 2
+M 100 26721 2 26738 2
+M 100 26722 2 26739 2
+M 100 26722 2 26739 2
+M 100 26720 5 26740 1
+M 100 26728 1 26742 1
+M 100 26729 3 26743 3
+M 100 26729 3 26743 3
+M 100 26729 3 26743 3
+M 100 26730 3 26745 3
+M 100 26730 3 26745 3
+M 100 26730 3 26745 3
+M 100 26731 1 26746 1
+M 100 26732 1 26747 1
+E 100 26730 0 5
+M 100 26723 2 26749 2
+M 100 26723 2 26749 2
+M 100 26724 1 26750 1
+M 100 26725 3 26752 3
+M 100 26725 3 26752 3
+M 100 26725 3 26752 3
+M 100 26726 2 26753 2
+M 100 26726 2 26753 2
+M 100 26727 1 26754 1
+O 100 26731 0 26755
+M 100 26733 2 26756 2
+E 100 26732 0 16
+M 100 26733 2 26756 2
+M 100 26734 1 26757 1
+E 100 26733 0 16
+M 100 26735 2 26759 2
+M 100 26735 2 26759 2
+M 100 26736 1 26760 1
+M 100 26737 1 26761 1
+E 100 26735 0 16
+E 100 26734 0 12
+M 100 26717 5 26763 1
+M 100 26713 5 26763 1
+M 100 26717 5 26764 1
+M 100 26713 5 26764 1
+M 100 26782 5 26765 1
+M 100 26780 5 26765 1
+M 100 26717 5 26765 1
+M 100 26782 5 26766 1
+M 100 26780 5 26766 1
+M 100 26712 30 26766 2
+M 100 26712 30 26766 2
+M 100 26781 5 26767 1
+M 100 26780 5 26767 1
+M 100 26712 30 26767 2
+E 100 26727 0 13
+M 100 26712 30 26767 2
+E 100 26728 0 1
+M 100 26782 5 26768 1
+M 100 26746 1 26768 1
+M 100 26716 5 26768 1
+E 100 26729 0 16
+M 100 26713 5 26768 1
+M 100 26712 30 26770 2
+E 100 26728 0 2
+E 100 26727 0 13
+E 100 26726 0 16
+M 100 26712 30 26770 2
+E 100 26727 0 13
+E 100 26726 0 16
+E 100 26728 0 2
+M 100 26750 1 26772 1
+E 100 26749 0 5
+M 100 26751 2 26776 2
+M 100 26751 2 26776 2
+M 100 26752 2 26777 2
+M 100 26752 2 26777 2
+M 100 26753 3 26778 3
+M 100 26753 3 26778 3
+M 100 26753 3 26778 3
+M 100 26738 4 26779 2
+M 100 26738 4 26779 2
+M 100 26738 4 26782 2
+M 100 26738 4 26782 2
+M 100 26739 1 26783 1
+E 100 26756 0 17
+O 100 26738 0 26784
+O 100 26737 0 26784
+M 100 26740 1 26785 1
+G 100 26772 0
+E 100 26736 0 17
+M 100 26782 5 26786 1
+M 100 26741 5 26786 1
+M 100 26741 5 26791 1
+M 100 26742 1 26792 1
+E 100 26741 0 5
+O 100 26740 0 26792
+P 100 26742 1 26740 0
+M 100 26741 5 26793 1
+M 100 26745 1 26794 1
+E 100 26760 0 3
+M 100 26744 1 26795 1
+E 100 26744 0 6
+M 100 26743 1 26795 1
+E 100 26745 0 16
+E 100 26759 0 10
+E 100 26758 0 6
+M 100 26741 5 26798 1
+M 100 26747 4 26799 1
+E 100 26746 0 5
+M 100 26747 4 26800 1
+E 100 26747 0 7
+M 100 26741 5 26801 1
+E 100 26739 0 13
+M 100 26747 4 26803 1
+M 100 26749 1 26804 1
+E 100 26748 0 16
+M 100 26748 1 26805 1
+M 100 26757 3 26810 1
+M 100 26778 1 26811 1
+M 100 26757 3 26811 1
+M 100 26757 3 26812 1
+O 100 26750 0 26815
+M 100 26779 3 26817 3
+E 100 26757 0 5
+M 100 26779 3 26817 3
+M 100 26779 3 26817 3
+M 100 26754 3 26818 1
+M 100 26755 3 26820 1
+M 100 26755 3 26821 1
+M 100 26755 3 26822 1
+M 100 26756 3 26823 3
+M 100 26756 3 26823 3
+M 100 26756 3 26823 3
+M 100 26754 3 26826 1
+M 100 26758 9 26829 3
+M 100 26758 9 26829 3
+M 100 26758 9 26829 3
+M 100 26758 9 26830 3
+M 100 26758 9 26830 3
+M 100 26758 9 26830 3
+M 100 26758 9 26831 3
+M 100 26758 9 26831 3
+M 100 26758 9 26831 3
+M 100 26761 5 26834 1
+M 100 26761 5 26835 1
+M 100 26761 5 26836 2
+E 100 26751 0 16
+M 100 26761 5 26836 2
+M 100 26760 9 26837 3
+M 100 26760 9 26837 3
+M 100 26760 9 26837 3
+M 100 26760 9 26838 3
+M 100 26760 9 26838 3
+M 100 26760 9 26838 3
+M 100 26760 9 26839 3
+M 100 26760 9 26839 3
+M 100 26760 9 26839 3
+M 100 26762 1 26841 1
+E 100 26752 0 16
+M 100 26763 1 26842 1
+E 100 26753 0 16
+M 100 26761 5 26843 1
+M 100 26764 1 26844 1
+M 100 26765 1 26845 1
+M 100 26766 3 26848 1
+M 100 26767 3 26850 1
+M 100 26767 3 26851 1
+M 100 26767 3 26852 1
+M 100 26768 1 26855 1
+E 100 26754 0 5
+M 100 26766 3 26855 1
+M 100 26766 3 26856 1
+M 100 26777 1 26857 1
+M 100 26776 1 26857 1
+E 100 26778 0 11
+M 100 26769 2 26860 2
+M 100 26769 2 26860 2
+M 100 26770 3 26862 1
+M 100 26770 3 26863 1
+M 100 26770 3 26864 1
+M 100 26771 3 26865 1
+M 100 26771 3 26866 1
+M 100 26771 3 26867 1
+M 100 26773 3 26874 1
+M 100 26772 1 26874 1
+M 100 26773 3 26875 1
+M 100 26773 3 26876 1
+M 100 26774 3 26879 1
+M 100 26774 3 26880 1
+E 100 26777 0 16
+M 100 26774 3 26881 1
+E 100 26776 0 17
+M 100 26775 3 26885 1
+E 100 26774 0 12
+M 100 26775 3 26886 1
+E 100 26775 0 13
+M 100 26775 3 26887 1
+E 100 26773 0 5
+M 100 26754 3 26891 1
+M 100 26754 3 26892 1
+M 100 26781 5 26897 1
+M 100 26714 5 26897 1
+M 100 26714 5 26898 1
+M 100 26781 5 26898 1
+S
+
+#SHOPS
+26701 5 0 9 0 0 150 40 0 23
+26704 10 26 0 0 0 100 20 0 23
+26705 15 19 17 1 0 150 40 0 23
+26708 17 0 0 0 0 100 0 0 23
+26709 33 8 32 0 0 150 40 0 23
+26711 19 17 0 0 0 100 0 0 23
+0
+
+#$

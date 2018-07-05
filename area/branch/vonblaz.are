@@ -1,0 +1,3161 @@
+#AREADATA
+Name Vonblazen's Keep~
+Builders None~
+VNUMs 18200 18299
+Credits [ 50 101] Blood    Vonblazen's Keep~
+Security 9
+End
+
+
+
+#MOBILES
+#18200
+ghost~
+Ghost~
+A ghost screams and attacks.
+~
+The ghost is quite transparent and swirls in no organized pattern.  There
+seems to be something that feels familar about this ghost, but what is it?
+~
+modron~
+ABCGOc JTUZ O -500 10600
+185 0 13d1015+4650 12d562+2250 7d26+75 wrath
+-80 -80 -80 -37
+EFGKLRU ABMPQ HI N
+stand stand female 0
+AHMV ABCDEFGHJK medium 0
+F off Q
+F imm N
+F res K
+#18201
+imp~
+Imp~
+A quasit imp is here grining and looking at you VERY strangely.  
+~
+The quasit imp has long sharp claws, and fangs.  The thick blackish red
+skin looks quite rough, and the set of old leathery black wings that look
+like quite used and worn from use.
+~
+modron~
+ACFGOSc DFJPQZ B -250 1301
+185 0 13d1306+5785 562d1+2245 6d27+79 claw
+-80 -80 -80 -38
+EKNRU ABQ IK 0
+stand stand female 1000
+AHMV ABCDEFGHJK medium 0
+F off Q
+F imm MNP
+F res H
+#18202
+spectre~
+Spectre~
+The Spectre is floating here warning others to turn back now.
+~
+The Spectre looks back at you!
+~
+modron~
+ACGOc JTUZ O -750 1302
+185 0 13d1000+5000 12d619+2950 6d26+77 wrath
+-80 -80 -80 -38
+CEFGRU ABQ I 0
+stand stand male 0
+AHMV ABCDEFGHJK medium 0
+F off Q
+F imm MNP
+F res HK
+#18203
+vampire bats~
+Vampire Bats~
+Vampire Bats are flying around you biting at you.
+~
+The vampire bats are "FURRY WITH HARD LEATHER WINGS"!  The Bats blood
+drenched fangs seem to gleem with blood, from some other adventurer, as
+your light source hits them they scatter.
+~
+bat~
+AFGOUc DFQTZa 0 0 1303
+185 1 13d1000+5000 12d619+2950 6d26+77 acbite
+-86 -86 -86 -38
+FHTU AB EI FS
+stand stand female 1
+ABGHMV ABCDEFHJKP medium 0
+#18204
+wolf~
+Wolf~
+A tanish brown wolf is here..
+~
+The wolf has a thick coat of tannish brown fur, and long viscious looking
+fangs dripping with sliva.  You can tell that this wolf is no newbie to
+adventuring from the battle scars and missing patches of fur from its coat.
+~
+wolf~
+AGTc DFZ 0 0 1305
+190 0 13d1100+5000 679d1+3175 6d27+79 bite
+-90 -90 -90 -40
+CFU ABP HI 0
+stand stand male 0
+AGHMV ABCDEFJKQV medium 0
+F off H
+#18205
+sa'lanais mapletree~
+Sa'lan'ais Mapletree~
+Sa'lanais stands here scouting out the area.
+~
+Sa'lanais Mapletree has long silver hair that goes down to her back,
+and she has violet eyes. She is wearing a Leather that is rich and
+lavish looking.  She is a tall, slender elf with a puzzled look on
+her face.  She seems to be scouting out the area trying to get out of
+Dranegarrd Keep.
+~
+elf~
+ACGRc DFJZ H 250 1304
+195 2 13d1200+5500 12d743+3405 8d27+90 slash
+-99 -99 -99 -44
+KLNTU AB 0 Z
+stand stand female 11500
+AHMV ABCDEFGHIJK medium 0
+F res B
+#18206
+wolf~
+Wolf~
+A wolf is here growling at you.
+~
+The wolf has a thick coat of brownish grey fur, and long vishous looking
+fangs dripping with blood.  You can tell that this wolf is no newbie to
+adventuring from the battle scars and missing patches of fur from its coat.
+~
+wolf~
+ACGTc DFJZ 0 0 1304
+190 0 13d1200+5500 -10324d-5356+-9192 6d29+86 claw
+-99 -99 -99 -44
+CDFMU ABP I 0
+stand stand male 0
+AGHMV ABCDEFJKQV medium 0
+F off H
+#18207
+dray'nor bran'idon~
+Dray'nor Bran'idon~
+Dray'nor Bran'idon is here to KILL you!!!!
+~
+Dray'nor Bran'idon is a skilled adventurer and good with either dual swords
+and a bow or a sword and a silvery dagger. She is dressed in very lavish
+looking clothing that and she has a pet wolf that follows her every where.
+~
+elf~
+ACGSTc DFJPQZ H -750 1305
+190 4 13d1200+5500 12d880+3460 8d30+85 pierce
+-102 -102 -102 -46
+BCEFHIJKLNU ABP BIL SZ
+stand stand female 12000
+AHMV ABCDEFGHIJK medium 0
+#18208
+guards spectral~
+Spectral Guards~
+The guard is standing here watching your every move.
+~
+The guard is dressed in an old suit of PlateMail that dates back too the
+great crusades.  The Platemail is just a little black as if it had been
+chared bv fire.  There is a dark aura that seems to come from him and sends
+a chill down your back.
+~
+titan~
+ABCGOTc DFZa H -850 1309
+190 8 13d1400+5500 12d808+3640 7d30+80 wrath
+-102 -102 -102 -46
+CDEFGLNTU AB 0 H
+stand stand male 13000
+AHMV ABCDEFGHIJK medium 0
+F res D
+#18209
+elite guard~
+Elite Spectral Guard~
+The Elite guard is here checking out your every curve.
+~
+The elite guard is dressed in an old suit of PlateMail that dates back too
+the great crusades.  The Platemail is just a little black as if it had
+been chared bv fire.  There is a dark aura that seems to come from him and
+sends a chill down your back.
+~
+titan~
+ABCGOTc DFTZa H -950 1308
+185 9 13d1400+5500 949d12+4135 7d30+80 wrath
+-96 -96 -96 43
+CDEGKLOTU AB E H
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0
+F res D
+#18210
+bodyguard~
+VonBlazen's Personal Bodyguards~
+The bodyguards are here to protect VonBlazen.
+~
+The Bodyguard is dressed in an old suit of PlateMail that dates back too
+the great crusades.  The Platemail is just a little black as if it had
+been chared bv fire.  There is a dark aura that seems to come from him and
+sends a chill down your back. He has guarded Lord VonBlazen's Throne room
+for centuries.
+~
+crystal-dragon~
+ABCFGOSTc DFJPQZ BH -1000 1311
+200 8 13d1500+6500 1d1000+19000 7d30+80 pierce
+-53 -53 -53 -46
+BCDEGJKLO AQ BQ HJS
+stand stand male 15000
+AHMVZ ABCDEFGHIJKPQUWX medium 0
+F aff T
+F imm H
+F res C
+#18211
+Lord vonblazen~
+Lord VonBlazen~
+Lord VonBlazen Stands in the shadows near his Throne.
+~
+Lord VonBlazen stands here next to his Throne made of bones and enshrouded
+by shadows. VonBlazen is dressed a PlateMail that dates back too the great
+crusades. The Platemail is just a little black as if by fire. There is a
+dark aura that seems to come from him and sends a chill down your back.
+~
+crystal-dragon~
+ABCFGOSTc DFZ H -1000 1311
+208 160 13d1600+6500 1d1000+29000 8d32+82 wrath
+-114 -114 -114 -52
+BCDEFKNTU ABQ BQ IJSXY
+stand stand male 40000
+ACHIMVZ ABCDEFGHIJKPQUWX medium 0
+F aff JT
+F imm H
+F res C
+#18212
+sy'ate de'thate~
+Sy'ate De'thate~
+Sy'ate De'thate,a very powerful mage is here.  
+~
+Sy'ate De'thate is a very rich looking man that has rotting flesh and
+bones. He is wearing rich and lavish robes, with lots of embroided
+symbols on his robes.  But you can't be sure with all the smoke from the
+caldrons filling the room.
+~
+kenku~
+ABCGOTc DFJZ BH -1000 1312
+195 2 13d1550+6500 6d949+9000 7d30+80 wrath
+-108 -108 -108 -49
+CEFGIKNU AB I HS
+stand stand male 13000
+AHMV ABCDEFGHIJKP medium 0
+F aff LT
+#18213
+lady dar'veth~
+Lady Dar'veth~
+Lady  Dar'veth attacks you for trespassing.
+~
+Lady Dar'veth is a very rich and powerful woman in these part of the
+country.  She is dressed in lavish clothes that look so richly made.  She is
+wearing a fur cloak that looks quite thick,and a her clothes are made of
+Silk and Leather.  
+~
+titan~
+ABCGOSTc DFZa H -1000 1313
+195 8 13d1600+6000 1d1000+14000 7d30+80 wrath
+-108 -108 -108 -49
+BCEFKN AB 0 S
+stand stand female 14000
+AHMV ABCDEFGHIJK medium 0
+F res D
+#18214
+lord br'aksa~
+Lord Br'aksa~
+Lord  Br'aksa attacks you for trespassing.
+~
+Lord Br'aksa is dressed all in a set of platemail that has been so well
+made. There is a cold chill that runs down your back as you look at Sir
+Braksa. He seems to be thinking about something but you can't quite tell
+what it is?
+~
+titan~
+ABCGOSTc DFZa H -1000 1314
+195 4 13d1500+5000 1d1000+14000 7d30+80 wrath
+-102 -102 -102 -46
+BCDEFILNO AB N S
+stand stand male 14000
+AHMV ABCDEFGHIJK medium 0
+F res D
+#18215
+ghost~
+The ghost of Dal'agan~
+The ghost of Dal'agan is here.
+~
+The ghost of Dal'agan is quite transparent, and swirls in no set  pattern.
+There seems to be something that feels familar about this ghost, but what
+is it?  He seems to be searching, for a long lost possession.  Maybe it is
+mortality.
+~
+unique~
+ABCGOTc DFTZ H -250 1315
+180 0 13d1000+4000 1d100+100 6d30+80 wrath
+-25 -25 -25 -21
+CEFGKU ABP I 0
+stand stand male 1000
+DIKLc 0 medium 0
+#18216
+Deathknight~
+Xathas BloodFang~
+Xathas BloodFang stands here guarding Lord VonBlazen's Throne room.
+~
+Xathas BloodFang is dressed in an old suit of PlateMail that dates back too
+the great crusades.  The Platemail is just a little black as if chared by
+fire.  There is a dark aura that seems to come from his smoking ass and
+sends a chill down your back.
+~
+titan~
+ABCGOTc DFQTZa H -1000 1316
+200 8 13d1600+6000 13d1089+4500 7d32+88 thrust
+-111 -111 -111 -51
+BCEFKLO AB 0 S
+stand stand male 14000
+AHMV ABCDEFGHIJK medium 0
+F res D
+#18217
+Deathknight~
+Xanthais Macbre ~
+Xanthais Macbre stands here guarding Lord VonBlazen's Throne room.
+~
+Xanthais Macbre is dressed in an old suit of PlateMail that dates back too
+the great crusades.  The Platemail is just a little black as if  chared by
+fire.  There is a dark aura that seems to come from Xanthais Macbre and
+sends a chill down your back.
+~
+titan~
+ABCGOTc DFQTZa H -1000 1316
+170 8 13d1600+6000 13d1089+4500 7d32+88 thrust
+-111 -111 -111 -51
+BCEFKLNO AB 0 0
+stand stand male 14000
+ACHIMVc ABCDEFGHIJK medium 0
+F res D
+#18218
+Thorn Fungus~
+Thorn fungus~
+The Thorn fungus looks quite hungry with its vines flailing toward you.
+~
+The thorn fungus is made up of vines and fungus and thorns that cover its
+body. There is really nothing more to the thorn fungus that what you see
+here.  The thorn fungus is just a bunch of fungus and vines along with the
+thorns.
+~
+unique~
+ACFGTc DFJP O -500 1319
+50 2 10d169+920 0d0+0 5d10+25 thwack
+-21 -21 -21 -5
+CEFIKLMNRU ABLP EHIN 0
+stand stand male 10000
+AHMV ABCDEF medium 0
+#18219
+Treant~
+Treant~
+The  treant  stands he ready to attack any intruder.
+~
+The treant looks quiet old and has many slash marks in his bark. This
+treant seems to have seen a lot of fighting in his life better watch out
+or you will be his next victim. There is not a lot to this here treant,
+there seem to be a black aura around this treant.
+~
+unique~
+ACFGTc DFJZ O -750 1318
+50 1 12d562+2730 12d462+2500 5d20+50 pound
+-25 -25 -25 -21
+CDEFIKLNORU ABPR EIS 0
+stand stand male 10000
+ACHJMVc ABCDEF medium 0
+#18220
+Carnivorious plant~
+Carnivorious plant~
+The carnivorious plant growls and drools over you.
+~
+The carnivorious plant is made up of vines and fungus and thorns that cover
+its body.  There is really nothing more to the carnivorious plant.  The
+carnivorious plant is just a bunch of fungus and vines along with the thorns.  The Carnivorious plant is leeking digestive fluids as if drooling but over what?
+~
+unique~
+ACFGTc DFJ O -750 1319
+50 0 12d562+2730 1d100+100 5d20+50 digestion
+-25 -25 -25 -21
+CDEFKLMNRU AB EHI 0
+stand stand male 10000
+ABHMV ABCDEF medium 0
+#18221
+statue dantrue~
+statue of Dantrue~
+The statue of Dantrue is here healing people.
+~
+The statue seems to have been made of marble and missed with obsidian.  This statue seems to be more alive then all the other 
+statues in this room from the looks of it.  Though you thought you 
+saw it move or was it you imagination.
+~
+crystal-dragon~
+ABCGac DFJTZ HNO 1000 0
+204 0 12d562+2730 12d562+3000 0d0+0 pound
+0 0 0 0
+P HJQ BCQ J
+stand stand male 0
+AHMVZ ABCDEFGHIJKPQUWX medium 0
+#18222
+statue ladrane~
+Statue of Ladrane~
+The statue of Ladrane is here providing help to those that are ailed.
+~
+The statue seems to have been made of marble and missed with obsidian.  This statue seems to be more alive then all the other 
+statues in this room from the looks of it.  Though you thought you 
+saw it move or was it you imagination.
+~
+silver-dragon~
+ABCGac DFJTZ HNO -1000 0
+204 0 12d562+2730 12d562+3000 0d0+0 pound
+0 0 0 0
+P I BCQ H
+stand stand male 0
+AHMVZ ABCDEFGHIJKPQUWX medium 0
+#18223
+Kiltharis  Greystone~
+Kiltharis Greystone~
+Kiltharis Greystone stands here ready to attack you for intruding!!!!
+~
+Kiltharis Greystone is the Guard of Lord WhiteFang that guard's his throne room.  Kiltharis Greystone is dressed in a set of platemail and is here guarding Lord Whitefang. He has guarded Lord WhiteFangs
+Throne for centuries.
+~
+crystal-dragon~
+ABCGOQRSTc DFJPQTZ BH 1000 0
+208 5 1d1000+29000 1d1000+29000 7d33+88 drain
+-60 -60 -60 -60
+CDEFJKLNO ABMPQ BIQ HJ
+stand stand male 10000
+ACHIMVZc ABCDEFGHIJKPQUVWX giant 0
+F imm H
+F res C
+#0
+
+
+
+#OBJECTS
+#18200
+rusty metal key~
+a rusty piece of metal~
+A piece of rusted metal was dropped here.~
+copper~
+key AT AO
+0 0 0 0 0
+100 1 0 P
+#18201
+sword shadowy light~
+a shadowy blade of light~
+A blade of light lies here on the ground surrounded by mist.~
+obsidian~
+weapon FST AN
+sword 17 27 wrath ACDGH
+151 0 0 P
+A
+12 100
+A
+13 200
+A
+18 50
+A
+23 -6
+A
+19 50
+A
+1 4
+#18202
+hood darkness~
+a hood of darkness~
+Here lies a patch of darkness surronded by mist.~
+dark laen~
+armor AJST AE
+35 35 35 30 1
+149 2 0 P
+A
+19 20
+A
+18 20
+A
+13 100
+A
+2 4
+#18203
+platemail plate armor~
+a set of platemail ~
+A pile of armor lies here on the ground covered in mist.~
+obsidian~
+armor GIT AD
+80 80 75 70 4
+151 2 50000 P
+A
+12 100
+A
+13 200
+A
+18 35
+A
+19 35
+A
+20 -20
+#18204
+shroud of shadows~
+a shroud of shadows~
+A shadowy  cloak  lies  here surrounded by mist.~
+dark laen~
+armor FLST AK
+30 30 30 30 1
+151 1 0 P
+A
+12 50
+A
+19 25
+A
+18 25
+A
+13 100
+#18205
+sword guard~
+a sword of the guard~
+A sword with the emblem of the guard was dropped here.~
+obsidian~
+weapon BT AN
+sword 11 21 slice DE
+128 0 10 P
+#18206
+leggings steel~
+a pair of leggings~
+A set of leggings have been discarded here.~
+brass~
+armor 0 AF
+20 20 20 15 2
+128 1 0 P
+A
+13 -30
+A
+18 10
+#18207
+bat key~
+a bat shaped bone~
+A bone in the shape bats wing lies on the ground here.~
+bone~
+key AT AO
+0 0 0 0 0
+0 0 0 P
+#18208
+helm steel~
+a steel  helm~
+A helm lies here on the ground.~
+steel~
+armor 0 AE
+15 15 15 20 1
+128 1 0 P
+A
+13 10
+A
+18 -5
+A
+19 10
+#18209
+boots steel~
+the steel boots~
+A pair of boots  is lying here on the ground.~
+steel~
+armor T AG
+15 15 15 10 2
+128 1 0 P
+#18210
+bracer steel~
+the steel bracers~
+A circlet of metal lie on the ground.~
+brass~
+armor 0 AM
+13 13 13 7 2
+128 1 0 P
+A
+18 10
+A
+19 -5
+A
+13 15
+#18211
+shield steel~
+a steel shield~
+A steel piece of armor lies here on the ground.~
+steel~
+armor T AJ
+15 15 15 9 2
+128 1 0 P
+#18212
+imps dagger~
+an imp's bone dagger ~
+A small bone dagger lies here on the ground.~
+bone~
+weapon FST AN
+dagger 13 10 pierce DEH
+136 5 1000 P
+A
+19 10
+A
+18 10
+A
+13 50
+#18213
+sword shadow~
+a sword of shadows~
+A blade lies on the ground here surrounded by shadows.~
+dark laen~
+weapon AEFJST AN
+sword 13 17 chill CDH
+140 0 0 P
+A
+19 10
+A
+18 10
+A
+13 50
+A
+1 2
+#18214
+boots Darkness~
+the boots of darkness~
+A patch of darkness is lying here in the shadows.~
+obsidian~
+armor AEFJST AG
+20 20 20 20 2
+140 2 0 P
+A
+1 2
+A
+13 50
+A
+2 2
+A
+18 20
+A
+19 20
+#18215
+cloak darkness~
+a cloak of darkness~
+A patch of shadows is lying here on the ground.~
+dark laen~
+armor AEFJST AC
+20 20 20 16 1
+140 1 0 P
+A
+12 50
+A
+13 50
+A
+18 10
+A
+19 10
+A
+20 -20
+#18216
+helm of darkness~
+a helm of darkness~
+A patch of darkness is lying on the grounds in the shadows.~
+dark laen~
+armor AEFJST AE
+20 20 20 16 2
+80 1 0 P
+A
+1 2
+A
+5 2
+A
+17 -15
+A
+19 5
+A
+18 5
+#18217
+bracer of darkness~
+a bracer of darkness~
+A circlet of shadows lies here on the ground in the shadows.~
+dark laen~
+armor AEFJMST AM
+20 20 20 15 1
+140 1 0 P
+A
+19 15
+A
+18 15
+A
+5 2
+A
+13 50
+A
+2 2
+A
+1 2
+#18218
+sword elvenkin~
+a sword  of elvenkin~
+A blade of elven descent  lies here on the ground.~
+dark laen~
+weapon AFKT AN
+sword 9 17 slice CD
+138 0 0 P
+A
+12 15
+A
+19 13
+A
+18 13
+A
+13 50
+A
+1 2
+#18219
+elven cloak~
+a cloak of elvenkin~
+A cloak of elven quality  lies here on the ground.~
+dark laen~
+armor AFKST AC
+20 20 20 16 1
+140 1 0 P
+A
+12 50
+A
+13 50
+A
+18 10
+A
+19 10
+A
+20 -8
+#18220
+boots  elvenkin~
+the boots of elvenkin~
+A pair of boots of elven make lie here on the ground.~
+dark laen~
+armor AFKST AG
+25 25 25 20 2
+136 1 0 P
+A
+13 50
+A
+2 2
+A
+1 2
+A
+18 5
+A
+19 5
+A
+2 2
+#18221
+bracer  elvenkin~
+a bracer of elvenkin~
+A circlet of elven make lies here on the ground.~
+dark laen~
+armor AKST AM
+25 25 25 20 1
+136 1 0 P
+A
+19 10
+A
+18 10
+A
+20 -12
+A
+13 50
+A
+4 2
+A
+3 2
+A
+2 2
+A
+1 2
+#18222
+dagger blood~
+a dagger of blood~
+A blood soaked blade lies here on the ground .~
+obsidian~
+weapon AFJST AN
+dagger 19 20 pierce ADH
+146 0 0 P
+A
+20 -10
+A
+19 20
+A
+18 20
+A
+13 50
+A
+1 2
+#18223
+cloak blood~
+a cloak of blood~
+A bloody looking cloak lies here on the ground.~
+dark laen~
+armor AFJST AC
+30 30 30 25 1
+145 1 0 P
+A
+19 25
+A
+18 25
+A
+12 50
+A
+1 2
+A
+13 50
+#18224
+boots bloody ~
+the boots of blood~
+A pair of bloody boots lie here on the ground.~
+dark laen~
+armor AJST AG
+20 20 20 15 1
+149 1 0 P
+A
+19 13
+A
+18 13
+A
+14 100
+A
+13 75
+A
+2 4
+#18225
+hood of blood~
+a hood of blood~
+A bloody hood lies here on the ground in a pool of blood.~
+dark laen~
+armor AFLST AE
+30 30 30 30 2
+145 1 0 P
+A
+19 20
+A
+18 -20
+A
+12 -100
+A
+2 4
+A
+13 75
+#18226
+helm blood~
+the helm of blood~
+A bloody helm lies here on the ground in a pool of blood.~
+dark laen~
+armor AFJST AE
+25 25 25 20 1
+140 1 0 P
+A
+12 25
+A
+19 15
+A
+18 15
+A
+13 -150
+#18227
+bracer dead~
+The bracer of the dead~
+A circlet of skulls lies here on the ground.~
+dark laen~
+armor AFJST AM
+25 25 25 20 1
+140 1 0 P
+A
+17 -15
+A
+3 4
+A
+4 4
+A
+5 4
+A
+12 75
+A
+19 10
+A
+18 10
+A
+1 2
+A
+2 2
+#18228
+helm dead~
+The helm of the dead~
+A helm lies on the floor with a skulls engraved on it.~
+dark laen~
+armor AEFJST AE
+25 28 28 22 1
+140 1 0 P
+A
+19 20
+A
+18 20
+A
+24 -10
+A
+12 75
+A
+3 4
+A
+4 4
+#18229
+blood plate~
+a blood covered plate~
+A pile of armor lies here in a pool of blood.~
+dark laen~
+armor ALST AD
+20 20 20 20 4
+120 2 0 P
+A
+24 -10
+A
+19 10
+A
+18 10
+A
+17 -10
+A
+1 2
+#18230
+wolfs paw~
+a wolf's paw~
+A  clawed limb is lying here on the ground.~
+bone~
+armor AST AG
+20 20 20 25 1
+125 1 0 P
+A
+19 10
+A
+18 10
+A
+2 4
+A
+1 2
+A
+12 50
+A
+13 50
+#18231
+bats wing~
+a bat's wing ~
+There is a wing lying here on the ground.~
+hard leather~
+armor AFLST AK
+25 25 25 20 1
+125 1 0 P
+A
+19 -30
+A
+18 30
+A
+13 50
+A
+12 50
+A
+2 2
+#18232
+robe lichs~
+a liche's robe~
+There is a robe lying here on the ground.~
+hard leather~
+armor AFJST AK
+27 27 27 27 1
+130 1 0 P
+A
+20 -10
+A
+19 10
+A
+18 15
+A
+3 2
+A
+13 50
+#18233
+ring death~
+a ring of death~
+A ring that has a skull on it lying on the ground.~
+dark laen~
+armor AFLST AB
+30 30 30 30 1
+135 1 0 P
+A
+20 -10
+A
+19 10
+A
+18 10
+A
+13 80
+A
+2 4
+A
+4 4
+A
+3 4
+#18234
+armguards dead~
+the armguards of the dead~
+There is a leather guard with a skull on it on the ground.~
+dark laen~
+armor AFLT AI
+30 30 30 30 1
+140 1 0 P
+A
+19 12
+A
+18 13
+A
+5 2
+A
+1 2
+#18235
+Blade Shadows~
+A blade of shadows~
+A long shimmering blade lies here in the shadows.~
+obsidian~
+weapon AFJST AN
+sword 12 30 slice CDH
+135 1 0 P
+A
+12 100
+A
+13 100
+A
+19 25
+A
+18 15
+#18236
+helm elvenkin~
+The Helm of Elvenkin~
+A helm of Elven quality lies here on a on the ground.~
+dark laen~
+armor AFKST AE
+24 24 24 20 2
+136 1 0 P
+A
+19 5
+A
+18 5
+A
+17 -15
+A
+5 2
+A
+1 2
+#18237
+shadowy gloves ~
+shadowy gloves~
+A pair of shadowy gloves lie here.~
+dark laen~
+armor AFLST AH
+30 30 30 25 1
+151 1 0 P
+A
+19 30
+A
+18 30
+A
+20 -25
+A
+24 -10
+A
+1 4
+#18238
+bloody sash shadows~
+a Bloody Sash of Shadows~
+A  sash lies on the ground in a pool of blood.~
+dark laen~
+armor AFLST AL
+30 30 30 30 1
+151 1 0 P
+A
+20 -15
+A
+19 15
+A
+18 15
+A
+12 100
+A
+13 100
+A
+24 -10
+#18239
+black hole~
+a black hole~
+A black hole is swirling out of control in the center of the room.~
+energy~
+portal ABO 0
+-1 KL B 18202 0
+0 0 0 P
+#18240
+bone  bed fancy~
+a fancy bone bed~
+There is a fancy looking bone bed against the wall.~
+bone~
+furniture ABOSTY 0
+2 2000 EHK 150 150
+0 0 0 P
+#18241
+bloody bone desk~
+a bloody brown bone desk~
+A bloody brown bone desk is here against the wall.~
+bone~
+furniture ABOSTY 0
+0 200 NP 0 0
+0 0 0 P
+#18242
+bone chair~
+a chair of bones~
+A chair made of a bones lies behind a desk.~
+bone~
+furniture ABOSTY 0
+2 2000 EH 100 100
+0 0 0 P
+#18243
+bloody bone throne~
+a bloody bone throne~
+A bloody bone throne made of dragon's bones lies against the wall.~
+bone~
+furniture ABOSTY 0
+2 2000 EH 125 125
+0 0 0 P
+#18250
+none~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#18200
+Before the thorny hedge maze~
+You are standing on a path that leads north into a thorny hedge maze.
+There is a castle off in the distance to the northwardly direction.  To
+the south leads back into the dark heart of the woods.  To the east side
+of you, is a skeleton hanging by its neck from a tree.
+~
+0 1029 3
+E
+note~
+Let this be a warning to all that dare to tresspass on my land.  This is
+an example of a wouldbe tresspasser that dared tresspass on my land.  Take
+heed from this warning that all whom enter will suffer the same fate!
+
+              Lord VonBlazen
+
+<SMEARED IN  BLOOD> Take some adive from a condimed adventurer this area
+should be attempted by no less then level 50-101 grouped.
+The .............. <message fades off>
+~
+E
+skeleton~
+opon closer examination you notice a note tightly clinched in the boney
+fingers of the skeleton.  You happen to notice that there is a rotting
+wooden stake stuck in the skeletons rib cage where his long lost heart
+was once beating.~
+D0
+~
+~
+0 -1 6100
+D2
+~
+~
+0 0 18209
+M 50 H 50
+S
+#18201
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a to the north, east and west that
+goes through the hedge maze, to the south is the entrance to the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18203
+D1
+~
+~
+0 -1 18208
+D2
+~
+~
+0 -1 18206
+D3
+~
+~
+0 -1 18222
+S
+#18202
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a to the north, south,east and west
+that goes through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+2 -1 18223
+D1
+~
+~
+0 -1 18210
+D2
+~
+~
+0 -1 18204
+D3
+~
+~
+0 -1 18219
+S
+#18203
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a to the north, south,east and west
+that goes through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18208
+D1
+~
+~
+0 -1 18213
+D2
+~
+~
+0 -1 18201
+D3
+~
+~
+0 -1 18219
+S
+#18204
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a to the north, south,east and west
+that goes through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18202
+D1
+~
+~
+0 -1 18209
+D2
+~
+~
+0 -1 18207
+D3
+~
+~
+0 -1 18222
+S
+#18205
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a to the north, south,east and west
+that goes through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18210
+D1
+~
+~
+0 -1 18209
+D2
+~
+~
+0 -1 18208
+D3
+~
+~
+0 -1 18219
+S
+#18206
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a to the north,south,east and west
+that goes through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18201
+D1
+~
+~
+0 -1 18210
+D2
+~
+~
+0 -1 18222
+D3
+~
+~
+0 -1 18207
+S
+#18207
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a to the north, south,east and west
+that goes through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18204
+D1
+~
+~
+0 -1 18206
+D2
+~
+~
+0 -1 18222
+D3
+~
+~
+0 -1 18200
+S
+#18208
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a to the north, south,east and west
+that goes through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18205
+D1
+~
+~
+0 -1 18216
+D2
+~
+~
+0 -1 18203
+D3
+~
+~
+0 -1 18222
+S
+#18209
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a to the north, south,east and west
+that goes through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18222
+D1
+~
+~
+0 -1 18213
+D2
+~
+~
+0 -1 18200
+D3
+~
+~
+0 -1 18205
+S
+#18210
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a way to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18206
+D2
+~
+~
+0 -1 18211
+S
+#18211
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a way to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18210
+D2
+~
+~
+0 -1 18212
+S
+#18212
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a way to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18211
+D2
+~
+~
+0 -1 18214
+S
+#18213
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a way to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18209
+D2
+~
+~
+0 -1 18214
+S
+#18214
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a way to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18213
+D2
+~
+~
+0 -1 18215
+S
+#18215
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a way to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18214
+D2
+~
+~
+0 -1 18207
+S
+#18216
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a way to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18208
+D2
+~
+~
+0 -1 18217
+S
+#18217
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a way to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18216
+D2
+~
+~
+0 -1 18218
+S
+#18218
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a way to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18217
+D2
+~
+~
+0 -1 18206
+S
+#18219
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a way to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18205
+D2
+~
+~
+0 -1 18220
+S
+#18220
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a way to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18219
+D2
+~
+~
+0 -1 18221
+S
+#18221
+Lost in the hedge maze~
+You are standing in a hedge maze that seems rather large from the sight of
+it.  There are a lot of strange sounds in this hedge maze and they don't
+sound all to friendly either. There is a to the north,south that goes
+through the hedge maze.
+~
+0 8193 5
+D0
+~
+~
+0 -1 18220
+D2
+~
+~
+0 -1 18219
+S
+#18222
+Inside the Carnivourous plant~
+You are standing in a carnivorious plant this doen't look too good at all.
+Hope that you have a while to wait here to be digested out of carnivorious
+plant.  All there is to see is the digestive acid that is what this slimy
+stuff that is covering you.  I bet you don't want to stay here now that you
+see this,so then just RECALL NOW THEN!!
+~
+0 1029 0
+S
+#18223
+Before the Iron gates~
+You are standing before a set of Iron gates that seem quite old from the
+look of it. The castle that seemed so far away now seems so near to you,
+yet there is still a problem that you haven't solved. That is the gate is
+still locked and there is a sign on the gate, this doesn't look so good.
+Do you dare to enter after all that has been trying to discourage you away
+from here?
+~
+0 8193 3
+E
+Sign ~
+NO TRESSPASSING ON MY LAND ALL TRESSPASSERS
+WILL DIE. THIS LAND IS PROTECTED BY ME AND MY
+GUARDS AND THE CREATURES THAT LIVE HERE . COME
+IN IF YOU CARE TO DIE....
+
+                Lord VonBlazen~
+D0
+~
+Gate~
+2 18200 18224
+D2
+~
+~
+2 -1 18202
+S
+#18224
+Coblestone Path~
+You are standing on a cobblestone path that leads to a large gateway.
+There is a lot of trees and bushes all along the cobblestone path.  The
+path continues to the north towards the castle that you see.  While the
+path south goeses to the Large iron gate and the hedge garden.
+~
+0 5 1
+D0
+~
+~
+0 -1 18225
+D2
+~
+~
+2 -1 18223
+S
+#18225
+Coblestone Path~
+You are standing on a cobblestone path that leads to a large gateway.
+There is a lot of trees and bushes all along the cobblestone path.  The
+path continues to the north towards the castle that you see.  While the
+path south goeses to the Large iron gate and the hedge garden.
+~
+0 5 1
+D0
+~
+~
+1 -1 18226
+D2
+~
+~
+0 -1 18224
+S
+#18226
+Before The Grand Gates~
+You are standing before the grand gates of Dranegaard Keep.  There are a
+lot of trees and bushes all along this cobblestone path.  The path seems to
+continue to the north towards the castle that you see.  While the path
+south goeses to the Large iron gate and the hedge garden.
+~
+0 1 1
+D0
+~
+goeslden~
+1 -1 18227
+D2
+~
+~
+1 -1 18225
+S
+#18227
+Grand Entrance ~
+You are standing at the Grand Entrance of Dranegarrd Keep heads of animals
+that are mounted on all the walls in this room.  The light in this room is
+not the best you have seen,but at least you can see your way around.
+Though there is the feeling you are being watched from the shadows.  There
+are torches in the walls about every ten feet apart from one another.
+~
+0 8205 0
+D1
+~
+~
+0 -1 18228
+D2
+~
+~
+1 -1 18226
+D3
+~
+~
+0 -1 18229
+S
+#18228
+A Large Den~
+You are standing in a Large den that has heads of animals that are mounted
+on all the walls in this room.  The light in this room is not the best you
+have seen,but at least you can see your way around.  There is the feeling
+you are being watched from the shadows.  This Large den has a certain
+feeling to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D3
+~
+~
+0 -1 18227
+D4
+~
+~
+0 -1 18235
+S
+#18229
+A Large Den~
+You are standing in a Large den that has heads of animals that are mounted
+on all the walls in this room.  The light in this room is not the best you
+have seen,but at least you can see your way around.  There is the feeling
+you are being watched from the shadows.  This Large den has a certain
+feeling to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D1
+~
+~
+0 -1 18227
+D4
+~
+~
+0 -1 18231
+S
+#18230
+A Study~
+You are standing in a study full of books.  The light in this room is not
+the best you have seen,but at least you can see your way around.  Though
+there is the feeling you are being watched from the shadows.  This study
+has a certain feeling to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D3
+~
+~
+0 -1 18232
+S
+#18231
+A Balcony~
+You are standing on a balcony out side.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This balcony has a
+certain feeling to it that give you the creeps and is quite scary.
+~
+0 9217 1
+D5
+~
+~
+0 -1 18230
+S
+#18232
+A Dark Hallway~
+You are standing in a dark hallway.  The light in this room is not the best
+you have seen,but at least you can see your way around.  Though there is
+the feeling you are being watched from the shadows.  This hallway has a
+certain feeling to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D1
+~
+~
+0 -1 18230
+D4
+~
+~
+0 -1 18233
+S
+#18233
+A Balcony~
+You are standing on a balcony out side.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This balcony has a
+certain feeling to it that give you the creeps and is quite scary.
+~
+0 1 1
+D5
+~
+~
+0 -1 18234
+S
+#18234
+A Dark Hallway~
+You are standing in a dark hallway.  The light in this room is not the best
+you have seen,but at least you can see your way around.  Though there is
+the feeling you are being watched from the shadows.  This room has a
+certain feeling to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D2
+~
+~
+0 -1 18239
+D3
+~
+~
+1 -1 18265
+S
+#18235
+A Balcony~
+You are standing on a balcony out side.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This balcony has a
+certain feeling to it that give you the creeps and is quite scary.
+~
+0 1 1
+D5
+~
+~
+0 -1 18236
+S
+#18236
+A Dark Hallway~
+You are standing in a dark hallway.  The light in this room is not the best
+you have seen,but at least you can see your way around.  Though there is
+the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D2
+~
+~
+0 -1 18237
+D5
+~
+~
+0 -1 18268
+S
+#18237
+A Dark Hallway~
+You are standing in a dark hallway.  The light in this room is not the best
+you have seen,but at least you can see your way around.  Though there is
+the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18236
+D3
+~
+~
+0 -1 18238
+S
+#18238
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D1
+~
+~
+0 -1 18237
+D3
+~
+~
+0 -1 18243
+S
+#18239
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18234
+D2
+~
+~
+0 -1 18240
+S
+#18240
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18239
+D2
+~
+~
+0 -1 18241
+S
+#18241
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18240
+D2
+~
+~
+0 -1 18242
+S
+#18242
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18241
+S
+#18243
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18244
+D2
+~
+~
+0 -1 18245
+S
+#18244
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D2
+~
+~
+0 -1 18243
+S
+#18245
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18243
+D1
+~
+~
+0 -1 18246
+D2
+~
+~
+0 -1 18247
+S
+#18246
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D3
+~
+~
+0 -1 18245
+S
+#18247
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the best you have seen,but at least you can see your way around.
+Though there is the feeling you are being watched from the shadows.
+This room has a certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18245
+D3
+~
+~
+0 -1 18248
+S
+#18248
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D1
+~
+~
+0 -1 18247
+D3
+~
+~
+0 -1 18250
+S
+#18249
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18250
+D1
+~
+~
+0 -1 18248
+D2
+~
+~
+0 -1 18251
+S
+#18250
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D1
+~
+~
+0 -1 18248
+D2
+~
+~
+0 -1 18249
+S
+#18251
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18249
+D2
+~
+~
+0 -1 18252
+S
+#18252
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18251
+D1
+~
+~
+0 -1 18253
+S
+#18253
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18254
+D3
+~
+~
+0 -1 18252
+S
+#18254
+Entryway Room~
+You are standing at the Entryway Room,to the Art Gallery of the fabled
+Dranegarrd Keep.  This Art Gallery has been rumored to have some of the
+oldest painting in the world.  There is a sign on the wall telling you
+about the Art Gallery of Dranegarrd Keep. The Walls have banners draping
+from the walls here.
+~
+0 9 0
+D0
+~
+~
+0 -1 18272
+D2
+~
+~
+0 -1 18253
+D3
+~
+~
+0 -1 18280
+S
+#18255
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18256
+S
+#18256
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18257
+D2
+~
+~
+0 -1 18255
+S
+#18257
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18258
+D2
+~
+~
+0 -1 18256
+S
+#18258
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18259
+D2
+~
+~
+0 -1 18257
+S
+#18259
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18260
+D2
+~
+~
+0 -1 18258
+S
+#18260
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D1
+~
+~
+0 -1 18261
+D2
+~
+~
+0 -1 18259
+S
+#18261
+A Shadowy Hallway~
+You are standing in a Shadowy hallway.  The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D1
+~
+~
+0 -1 18262
+D3
+~
+~
+0 -1 18260
+S
+#18262
+A Dark Shadowy room~
+You are standing in a Dark Shadowy Room. The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D1
+~
+~
+0 -1 18292
+D0
+~
+~
+0 -1 18287
+D2
+~
+~
+0 -1 18263
+D3
+~
+~
+0 -1 18261
+S
+#18263
+A Dark Shadowy room~
+You are standing in a Dark Shadowy Room. The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18262
+D1
+~
+~
+0 -1 18287
+D2
+~
+~
+0 -1 18292
+D3
+~
+~
+0 -1 18264
+S
+#18264
+A Shadowy Hallway~
+You are standing in a Shadowy Hallway. The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D1
+~
+~
+0 -1 18263
+S
+#18265
+A Hidden Passage~
+You are standing in what seems to be a hidden passage in Drangarrd Keep.
+This room looks quite old and unused though there seems to have been
+someone thru here recently through.  The passage is quite dark and looks
+quite dismal,though you do feel like someone is watching you.
+~
+0 8201 0
+D2
+~
+~
+0 -1 18266
+S
+#18266
+A Shimmering Path~
+You are standing on a shimmering path. The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18265
+D2
+~
+~
+0 -1 18267
+S
+#18267
+A Shimmering Path~
+You are standing on a shimmering path. The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D1
+~
+~
+0 -1 18242
+S
+#18268
+A Hidden Passage~
+You are standing in what seems to be a hidden passage in drangarrd Keep.
+This room looks quite old and unused though there seems to have been
+someone thru here recently through.  The passage is quite dark and looks
+quite dismal, though you do feel like someone is watching you.
+~
+0 8201 0
+D2
+~
+~
+0 -1 18269
+S
+#18269
+Path of the Shadows~
+You are standing in the Room of Shadows. The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18268
+D2
+~
+~
+0 -1 18270
+S
+#18270
+Path of the Shadows~
+You are standing in the Room of Shadows. The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary.
+~
+0 8201 0
+D2
+~
+~
+0 -1 18271
+S
+#18271
+Room of Shadows~
+You are standing in the Room of Shadows. The light in this room is not the
+best you have seen,but at least you can see your way around.  Though there
+is the feeling you are being watched from the shadows.  This room has a
+certain aura to it that give you the creeps and is quite scary. This room
+seems like there has to be a way out but where is it?
+~
+0 8201 0
+D0
+~
+~
+0 -1 18270
+D3
+~
+~
+0 -1 18243
+S
+#18272
+Ante-Chamber~
+You are standing in the Ante-Chamber of drangarrd keep.  This room is where
+all place there weapons and have there highered help wait for them here.
+There are banners draping from the walls and torches that line the wall
+about every ten feet here. This room seems to be the least decorated of all
+the rooms you have seen so far.
+~
+0 9 0
+D0
+~
+~
+0 -1 18273
+D1
+~
+~
+0 -1 18275
+D2
+~
+~
+0 -1 18254
+D3
+~
+~
+0 -1 18274
+S
+#18273
+The Art Gallery~
+You are standing in the gallery of art, there are many paintings and
+sculptures here along the walls. There is a lifesize painting that catches
+your eye on the south wall.  There are lots of family banners draping from
+the walls along with pictures that also hang from the wall.
+~
+0 9 0
+D0
+~
+~
+0 -1 18286
+D1
+~
+~
+0 -1 18285
+D2
+~
+~
+0 -1 18272
+D3
+~
+~
+0 -1 18284
+S
+#18274
+Room of Darkness~
+You are standing in a room that in engulfed in Darkness and mist.  There is
+nothing to see in this room because of the darkness. To the north is a dark
+room it seems to be to dark to see what is in there.  While to the west is
+the trophy room with all the trophies,awards and busts and banners.
+~
+0 9 0
+D1
+~
+~
+0 -1 18272
+S
+#18275
+Room of Hero's~
+You are standing in the Hall of Hero's. Along the east wall there are
+busts of all the past Hero's that have ever lived and there is also a
+short history about the Hero next to the bust of the Hero.  There are
+banners of the family of the Hero and the family crests also.  The room
+is also quite decorated as to pay repect to all the past Hero's.  In the
+center of the room is a full life statue of Lord VonBlazen.
+~
+0 9 0
+D0
+~
+~
+0 -1 18276
+D3
+~
+~
+0 -1 18272
+S
+#18276
+Hall of Hero's~
+You are standing in the Hall of Hero's. Along the east wall there are
+busts of all the past Hero's that have ever lived and there is also a
+short history about the Hero next to the bust of the Hero.  There are
+banners of the family of the Hero and the family crests also.  The room
+is also quite decorated as to pay repect to all the past Hero's.
+~
+0 9 0
+D0
+~
+~
+0 -1 18277
+D2
+~
+~
+0 -1 18275
+S
+#18277
+Hall of Hero's~
+You are standing in the Hall of Hero's. Along the east wall there are
+busts of all the past Hero's that have ever lived and there is also a
+short history about the Hero next to the bust of the Hero.  There are
+banners of the family of the Hero and the family crests also.  The room
+is also quite decorated as to pay repect to all the past Hero's.
+~
+0 9 0
+D2
+~
+~
+0 -1 18276
+D3
+~
+~
+0 -1 18278
+S
+#18278
+Room of Eternal Darkness~
+You are standing in a room that in engulfed in Darkness and mist.  There is
+nothing to see in this room because of the darkness. To the north is a dark
+room it seems to be to dark to see what is in there. While to the east is
+the Hall of Heros, that was dedicated to all the past heros that have ever
+lived.
+~
+0 9 0
+D1
+~
+~
+0 -1 18277
+D2
+~
+~
+0 -1 18279
+S
+#18279
+Room of Etheralness~
+You are standing in a room that is filled with nothingness and mist. There
+is something wrong with the room because the surroundings seem to have
+changed.  The mist seems to have subsided here though there is something
+strangely familiar about this room but what is it that is so familiar to
+you,That is what seems so strange to you here.
+~
+0 9 0
+D0
+~
+~
+0 -1 18287
+S
+#18280
+Trophy  Room~
+You are standing in a room that is full of trophies and award certifcates
+line the walls,there are pedistals that line west wall.  There are banners
+that drape from the walls with the family crests beneath the banners and
+there are also busts of past Lords againist the south wall.  The room is
+filled with cases of medallions and afull life bust of Lord VonBlazen in
+the center of the room.
+~
+0 9 0
+D0
+~
+~
+0 -1 18281
+D1
+~
+~
+0 -1 18254
+S
+#18281
+Trophy  Room~
+You are standing in a room that is full of trophies and award certifcates
+line the walls,there are pedistals that line west wall.  There are banners
+that drape from the walls with the family crests beneath the banners and
+there are also busts of past Lords againist the south wall.  The room is
+filled with cases of medallions and a full life bust of Lord VonBlazen in
+the center of the room.
+~
+0 9 0
+D0
+~
+~
+0 -1 18282
+D1
+~
+~
+0 -1 18282
+D2
+~
+~
+0 -1 18280
+S
+#18282
+Room of Darkness~
+You are standing in a room that in engulfed in Darkness and mist.  There is
+nothing to see in this room because of the darkness. To the north is a dark
+room it seems to be to dark to see what is in there. While to the west is
+the trophy room with all the throphies,awards, busts and banners.
+~
+0 9 0
+D0
+~
+~
+0 -1 18283
+D3
+~
+~
+0 -1 18281
+S
+#18283
+Room of Ethernalness~
+You are standing in a room that is filled with nothingness and mist. There
+is something wrong with the room because the surroundings seem to have
+changed.  The mist seems to have subsided here though there is something
+strangely familiar about this room but what is it that is so familiar to
+you,That is what seems so strange to you here.
+~
+0 9 0
+D0
+~
+~
+0 -1 18292
+S
+#18284
+Gallery of Art~
+You are standing in the gallery of art, there are many paintings and
+sculptures here along the walls. There is a lifesize painting that catches
+your eye on the north wall.  There are lots of family banners draping from
+the walls along with pictures that also hang from the wall.
+~
+0 9 0
+D1
+~
+~
+0 -1 18273
+S
+#18285
+Gallery of Art~
+You are standing in the gallery of art, there are many paintings and
+sculptures here along the walls. There is a lifesize painting that catches
+your eye on the north wall.  There are lots of banners draping from the
+walls along with pictures that also hang from the wall.
+~
+0 9 0
+D3
+~
+~
+0 -1 18273
+S
+#18286
+Room of Statues~
+You are standing in the room of statues, there are statues of many of the
+Lords that have lived here. There a statue of Lord Dantrue and his also of
+his brother Lord Ladrane.  These two brothers are the sons of Lord
+Bloodfang and he wanted his sons to be immortalized in stone.  The statue
+of Lord Dantrue is againist the west wall and the statue of Lord Ladrane is
+againist the east wall.
+~
+0 1033 0
+D2
+~
+~
+0 -1 18273
+S
+#18287
+A Dark Shadowy Hallway~
+You are standing in a dark shadowy room, that seems to have a uneasy
+feeling to it. There is the feeling you are being watched and its so dark
+here you can almost not see your hands in front of your face.  This room
+also has banners that are draping from the walls and there are pictures of
+the royal families beneath the banners.
+~
+0 8201 0
+D2
+~
+~
+0 -1 18262
+D0
+~
+~
+0 -1 18288
+D1
+~
+~
+0 -1 18292
+D3
+~
+~
+0 -1 18263
+S
+#18288
+A Dark  Shadowy Hallway~
+You are standing in a dark shadowy room, that seems to have a uneasy
+feeling to it. There is the feeling you are being watched and its so dark
+here you can almost not see your hands in front of your face.  This room
+also has banners that are draping from the walls and there are pictures of
+the royal families beneath the banners.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18289
+D1
+~
+~
+0 -1 18290
+D2
+~
+~
+0 -1 18287
+S
+#18289
+Guest Room~
+You are standing in the guest quarters of Dranengarrd keep. The room has
+been well taken care of and there are a lot of extravegent things in this
+room.  The Bed is an old victorian style, with an old victorian style
+nightstand.  The room also has banners that drape from the wall.  There
+are pictures that hang beneath the banners.
+~
+0 9 0
+D2
+~
+~
+0 -1 18288
+S
+#18290
+Room of Judgement~
+You are standing in an alcove that seems to be quite dark and mysterious.
+There is a door to the north and also to the south.  This room has banners
+draping from the walls and there are also family crests beneath each banner
+to signifies all the royal families in this provience.  There seems to be a
+lot of banners and crests also.  
+~
+0 8201 0
+D0
+~
+~
+0 -1 18299
+D1
+~
+~
+0 -1 18291
+D2
+~
+~
+0 -1 18294
+D3
+~
+~
+0 -1 18288
+S
+#18291
+A Dark Shadowy Room~
+You are standing in a dark shadowy room, that seems to have a uneasy
+feeling to it. There is the feeling you are being watched and its so dark
+here you can almost not see your hands in front of your face.  This room
+also has banners that are draping from the walls and there are pictures of
+the royal families beneath the banners.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18293
+D2
+~
+~
+0 -1 18292
+D3
+~
+~
+0 -1 18290
+S
+#18292
+A Dark Shadowy Room~
+You are standing in a dark shadowy room, that seems to have an uneasy
+feeling to it. There is the feeling you are being watched and its so dark
+here you can almost not see your hands in front of your face.  This room
+also has banners that are draping from the walls and there are pictures of
+the royal families beneath the banners.
+~
+0 10249 0
+D1
+~
+~
+0 -1 18287
+D0
+~
+~
+0 -1 18291
+D2
+~
+~
+0 -1 18263
+D3
+~
+~
+0 -1 18262
+S
+#18293
+Guest Room~
+You are standing in the guest quarters of Drangarrd keep. The room has been
+well taken care of and there are a lot of extravegent things in this room.
+The Bed is an old victorian style, with an old victorian style nightstand.
+The room also has banners that drape from the wall.  There are pictures
+that hang beneath the banners.
+~
+0 9 0
+D2
+~
+~
+0 -1 18291
+S
+#18294
+Lord VonBlazen's Throne Room~
+You are standing in Lord VonBlazen's Throne Room.  There is a large bone
+throne in front of you.  The rooom is decorated with pictures of past
+vampire lords that have lived here before.  There are banners that hang
+from the walls decorate the throne room.  There is a life size picture
+hanging on the east wall of the room.
+~
+0 8201 0
+D0
+~
+~
+0 -1 18290
+S
+#18295
+Lord WhiteFang's Throne Room~
+You are standing in Lord WhiteFang's Throne Room.  There is a large bone
+throne in front of you.  The rooom is decorated with pictures of past
+vampire lords that have lived here before.  There are banners that hang
+from the walls decorate the throne room.  There is a life size picture
+hanging on the east wall of the room.
+~
+0 9 0
+D1
+~
+~
+2 -1 18296
+D2
+~
+~
+0 -1 18298
+D3
+~
+~
+0 -1 18297
+S
+#18296
+Lord WhiteFang's Den~
+You are standing in Lord WhiteFang's Den.  There are a few heads hanging on
+the walls these are past kills of Lord WhiteFang's. The room is decorated
+with pictures of past vampire lords that have lived here before.  There is
+a large fireplace set in the north wall and are bookcases along the south
+wall.
+~
+0 521 0
+D3
+~
+~
+0 -1 18295
+D4
+~
+~
+4 5024 5070
+S
+#18297
+Lord WhiteFang's Study~
+You are standing in Lord WhiteFang's Study.  The room is decorated with
+pictures of past vampire lords that have lived here before.   There is a
+picture of large picture hanging right behind a large bone desk. The desk
+is a dark brown bone color and has lots of papers stacked in nice stacks
+on it.
+~
+0 1545 0
+D1
+~
+~
+0 -1 18295
+S
+#18298
+Lord WhiteFang's Bed Chambers~
+You are standing in Lord WhiteFang's Bed Chambers.  These are the private
+bed Chambers of Lord WhiteFang. He only has women he really cares about in
+this room.  There has been the occasion visit from Vartan17 and Ronni have been
+to this room. The bed is an old english style bed. There are torches burning
+on both sides of the room that provide the light to this room.  Besides the
+torches this room looks quiet dark and mysterious.
+~
+0 521 0
+D0
+~
+~
+0 -1 18295
+S
+#18299
+The Room of the Sy'ate De'thate~
+You are standing in a room that has a big caldron in the center of the
+room.  There are quiet a few old bookcases againist the east and west walls
+along with a picture on the the wall. There is a lot of mist in this room
+it hard to see anything else.at all. But there is a lot that you can see in
+here that scares you.
+~
+0 8205 0
+D2
+~
+~
+0 -1 18290
+S
+#0
+
+
+
+#SPECIALS
+M 18201 spec_thief
+M 18202 spec_cast_undead
+M 18205 spec_cast_mage
+M 18207 spec_nasty
+M 18208 spec_prog1
+M 18209 spec_guard
+M 18210 spec_prog1
+M 18211 spec_prog2
+M 18212 spec_cast_undead
+M 18213 spec_thief
+M 18214 spec_thief
+M 18215 spec_cast_undead
+M 18216 spec_prog1
+M 18217 spec_prog1
+M 18218 spec_poison
+M 18220 spec_poison
+M 18221 spec_cast_adept
+M 18222 spec_cast_adept
+M 18223 spec_thief
+S
+
+
+
+#RESETS
+D 0 18223 0 2
+D 0 18296 4 1
+M 0 18218 1 18201 1
+M 0 18219 1 18202 1
+M 0 18220 1 18203 1
+M 0 18200 1 18223 1
+E 0 18200 0 17
+M 0 18215 1 18223 1
+O 0 18200 0 18223
+M 0 18208 1 18226 1
+E 0 18203 0 5
+E 0 18208 0 6
+E 0 18206 0 7
+E 0 18209 0 8
+E 0 18211 0 11
+E 0 18210 0 14
+E 0 18210 0 15
+E 0 18205 0 16
+M 0 18208 1 18226 1
+E 0 18203 0 5
+E 0 18208 0 6
+E 0 18206 0 7
+E 0 18209 0 8
+E 0 18211 0 11
+E 0 18210 0 14
+E 0 18210 0 15
+E 0 18205 0 16
+M 0 18201 1 18229 1
+E 0 18212 0 16
+M 0 18202 1 18230 1
+M 0 18203 1 18234 1
+E 0 18231 0 12
+R 0 18262 2
+O 0 18239 0 18262
+R 0 18263 2
+O 0 18239 0 18263
+M 0 18207 1 18267 1
+E 0 18215 0 3
+E 0 18215 0 4
+E 0 18216 0 6
+E 0 18214 0 8
+E 0 18217 0 14
+E 0 18217 0 15
+E 0 18213 0 16
+M 0 18206 1 18267 1
+E 0 18230 0 8
+M 0 18205 1 18268 1
+E 0 18219 0 3
+E 0 18219 0 4
+E 0 18220 0 8
+E 0 18221 0 14
+E 0 18221 0 15
+E 0 18218 0 16
+E 0 18236 0 6
+M 0 18204 1 18268 1
+E 0 18230 0 8
+M 0 18221 1 18286 1
+M 0 18222 1 18286 1
+R 0 18287 3
+M 0 18208 1 18287 1
+O 0 18239 0 18287
+M 0 18208 1 18288 1
+M 0 18209 1 18288 1
+M 0 18213 1 18289 1
+E 0 18225 0 6
+E 0 18223 0 3
+E 0 18223 0 4
+E 0 18229 0 5
+E 0 18224 0 8
+E 0 18222 0 16
+O 0 18240 0 18289
+M 0 18216 1 18290 1
+E 0 18203 0 5
+E 0 18228 0 6
+E 0 18234 0 10
+E 0 18227 0 14
+E 0 18227 0 15
+E 0 18235 0 16
+M 0 18217 1 18290 1
+E 0 18203 0 5
+E 0 18228 0 6
+E 0 18234 0 10
+E 0 18227 0 14
+E 0 18227 0 15
+E 0 18235 0 16
+M 0 18208 1 18291 1
+E 0 18233 0 1
+E 0 18233 0 2
+E 0 18203 0 5
+E 0 18228 0 6
+E 0 18234 0 10
+E 0 18227 0 14
+E 0 18227 0 15
+E 0 18235 0 16
+M 0 18209 1 18291 1
+E 0 18233 0 1
+E 0 18233 0 2
+E 0 18203 0 5
+E 0 18228 0 6
+E 0 18234 0 10
+E 0 18227 0 14
+E 0 18227 0 15
+E 0 18235 0 16
+R 0 18292 3
+M 0 18208 1 18292 1
+E 0 18229 0 5
+E 0 18225 0 6
+E 0 18222 0 16
+E 0 18223 0 3
+E 0 18223 0 4
+E 0 18224 0 8
+O 0 18239 0 18292
+M 0 18214 1 18293 1
+E 0 18223 0 3
+E 0 18223 0 4
+E 0 18225 0 6
+E 0 18229 0 5
+E 0 18224 0 8
+E 0 18222 0 16
+O 0 18240 0 18293
+M 0 18211 1 18294 1
+E 0 18203 0 5
+E 0 18202 0 6
+E 0 18201 0 16
+E 0 18204 0 12
+E 0 18223 0 3
+E 0 18223 0 4
+M 0 18210 1 18294 1
+E 0 18229 0 5
+E 0 18226 0 6
+E 0 18224 0 8
+E 0 18227 0 14
+E 0 18227 0 15
+E 0 18222 0 16
+O 0 18243 0 18294
+M 0 18223 1 18295 1
+E 0 18233 0 1
+E 0 18233 0 2
+E 0 18219 0 3
+E 0 18219 0 4
+E 0 18229 0 5
+E 0 18225 0 6
+E 0 18206 0 7
+E 0 18220 0 8
+E 0 18234 0 10
+E 0 18211 0 11
+E 0 18221 0 14
+E 0 18221 0 15
+E 0 18218 0 16
+E 0 18237 0 9
+E 0 18238 0 13
+E 0 18204 0 12
+O 0 18243 0 18295
+O 0 18241 0 18296
+O 0 18242 0 18296
+O 0 18241 0 18297
+O 0 18242 0 18297
+O 0 18240 0 18298
+M 0 18212 1 18299 1
+E 0 18233 0 1
+E 0 18233 0 2
+E 0 18232 0 12
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

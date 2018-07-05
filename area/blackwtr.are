@@ -1,0 +1,8756 @@
+#AOD_AREA
+Blackwater Park~
+42500 42849 C 9
+Levl 101 101
+Bldr Fesdor~
+End
+
+#MOBILES
+#42500
+death~
+{dD{Deat{dh{x~
+{dD{Deat{dh is here, taking lives at will.{x
+~
+Death.  The Grim Reaper.  Whatever name he goes by, his eternal task is
+still the same.  
+~
+human~
+100 50 100 50 100 50 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 
+ABFPQR CDEFGJKLPTVZc BNO -1000 0
+180 300 0 70000 70000 100001 100001 400 3 100 drain
+-750 -750 -750 -750
+STANDING STANDING neutral 50000
+0 mage large ABCDEFGHIJK
+M FIGHT 42500 100~
+
+#42501
+soul collector soulcollector~
+The Soulcollector~
+A dark form shifts in and out of reality,
+~
+~
+human~
+100 100 100 100 100 100 100 100 50 100 50 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 
+AMNPRST DFJKPQTUVZ B -1000 0
+175 150 0 5000 5000 6000 6000 250 1 0 drain
+-300 -300 -300 -300
+STANDING STANDING neutral 40000
+0 mage large ABCDEFGHIJK
+M DELAY 42502 100~
+M DEATH 42509 100~
+M GREET 42501 100~
+M ACT 42507 is dead!!~
+
+#42502
+evil voice~
+An evil voice~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABQR FJPQZ B -1000 0
+200 0 0 2 2 50000 50000 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#42503
+hands 1~
+a pair of white hands~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFJQZ B 0 0
+200 0 0 11 11 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42503 100~
+
+#42504
+hands 2~
+black tentacles~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFQZ B 0 0
+200 0 0 11 11 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42504 100~
+
+#42505
+hands 2~
+a dark force~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFQZ B 0 0
+200 0 0 11 11 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42505 100~
+
+#42506
+hands 3~
+a strange whirlpool~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFQZ 0 0 0
+200 0 0 11 11 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42506 100~
+
+#42507
+hands 4~
+long vines~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFQZ 0 0 0
+200 0 0 11 11 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42508 100~
+
+#42508
+hands 6~
+A huge wave~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFQZ 0 0 0
+200 0 0 11 11 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42510 80~
+
+#42509
+hands 7~
+A floating timber~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFQZ 0 0 0
+200 0 0 11 11 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42515 100~
+
+#42510
+hands 8~
+a pair of white hands~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFJQZ 0 0 0
+200 0 0 11 11 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42516 100~
+
+#42511
+hands 9~
+black tentacles~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFQZ 0 0 0
+200 0 0 11 11 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42517 100~
+
+#42512
+hands 10~
+long vines~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFQZ 0 0 0
+200 0 0 11 11 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42518 75~
+
+#42513
+hands 11~
+A powerful gust~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFJQZ 0 0 0
+200 0 0 2 2 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42519 30~
+
+#42514
+bloated corpse~
+A bloated corpse~
+A bloated corpse floats face down in the water.
+~
+~
+human~
+100 100 100 50 50 100 100 100 100 100 100 100 100 100 0 100 100 100 50 100 100 100 0 100 100 100 
+ABFO FJPZb 0 0 0
+130 100 0 15001 15001 0 0 5 20 100 claw
+-200 -200 -200 -200
+STANDING STANDING neutral 50000
+0 mage medium ABCDEFGHIJK
+
+#42515
+ferocious ghoul~
+A ferocious ghoul~
+A ghoul floats here, baring razor-sharp teeth.
+~
+~
+human~
+100 100 100 0 50 100 100 100 150 100 150 100 100 100 0 100 100 100 50 100 100 100 100 100 100 100 
+ABFO DJKPZb 0 0 0
+130 100 0 14000 14000 0 0 5 25 110 bite
+-300 -300 -300 -500
+STANDING STANDING neutral 50000
+0 mage medium ABCDEFGHIJK
+
+#42516
+black serpent~
+A black serpent~
+A large black serpent swims on the surface of the lake.
+~
+~
+human~
+100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABF DFJZb 0 0 0
+130 100 0 10500 10500 0 0 5 15 85 acbite
+-100 -100 -100 -100
+STANDING STANDING neutral 50000
+0 mage medium ABCDEFGHIJK
+
+#42517
+bone golem~
+{WA {wB{do{wn{We G{wo{Wl{we{dm{x~
+{WA {wB{do{wn{We G{wo{Wl{we{dm {xtowers over you{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AFT DFVZc N -1000 0
+145 150 0 30001 30001 0 0 30 100 50 crush
+-1000 -400 -1000 -700
+STANDING STANDING neutral 50000
+0 mage huge ABCDEFGHIJK
+
+#42518
+decaying corpse~
+A Decaying Corpse~
+A partially decayed corpse lurches about, brought to life by some dark force.
+~
+~
+human~
+100 100 100 100 100 100 100 100 150 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFO DFJVZ 0 -1000 0
+130 50 0 10001 10001 0 0 24 51 73 claw
+800 0 800 400
+STANDING STANDING neutral 50000
+0 mage medium ABCDEFGHIJK
+
+#42519
+tormented spirit young girl~
+A Tormented Spirit~
+The tormented spirit of a young girl who was brutally murdered seeks revenge on the world.
+~
+~
+human~
+100 100 100 100 100 100 100 100 150 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABF DFJVZ 0 -1000 0
+130 50 0 10001 10001 0 0 24 51 73 wrath
+400 400 400 1000
+STANDING STANDING neutral 50000
+0 mage medium ABCDEFGHIJK
+
+#42520
+lord perth ldkshghkeiqt~
+Lord Perth~
+Lord Perth of enormous girth.
+~
+An absolutely enormous man, at least seven feet of rippling muscle and
+polished steel.  Lord Perth is an exceptional fighter, and is not used to
+losing ...  So you better have brought your "A" game today.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFST DFJLPVZ H 53 0
+150 -15536 0 15000 15000 100000 100000 25 25 300 punch
+-900 -900 -900 -850
+STANDING STANDING male 250000
+0 mage huge ABCDEFGHIJK
+M FIGHT 42520 50~
+M ACT 42522 is dead!!~
+M GRALL 42523 100~
+M GIVE 42526 42558~
+M RANDOM 42529 100~
+
+#42521
+towering moose huge~
+A towering moose~
+A huge moose towers above you.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGST 0 0 1000 0
+130 125 0 10001 10001 751 751 6 17 0 charge
+-220 -220 -220 -190
+STANDING STANDING female 2000
+0 mage large ABCDEFGHIJK
+
+#42522
+malnourished woman skinny~
+A malnourished woman~
+A woman so skinny her bones are showing stands here.
+~
+This woman is clearly malnurished.  Her throat is drawn in, her ribs and
+shoulder bones show through an old tattered smock.  Her eyes are sunken into
+her head, and her hair clings to her frail skull and neck.  Clearly she is
+in need of some help ...  Or ripe for a reaping.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 1000 0
+135 150 0 10001 10001 501 501 12 15 1 none
+-250 -250 -250 -210
+STANDING STANDING female 10000
+0 mage medium ABCDEFGHIJK
+
+#42523
+man haggard~
+A haggard man~
+A man stoops over here, his dirty hair a mess.
+~
+This man's scraggly beard clings to his chin, long greasy hair spilling
+into his eyes.  His eyes are sunken and hollow, he looks about 15 years too
+old for his age.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT 0 0 1000 0
+130 100 0 9501 9501 1501 1501 5 15 10 punch
+-150 -150 -150 -110
+SLEEPING SLEEPING male 10000
+0 mage medium ABCDEFGHIJK
+
+#42524
+leper filthy man~
+A filthy leper~
+A man in the late stages of leprosy huddles here beneath a tree.
+~
+This man's skin is pale, and covered in open leprosy sores.  He seems to
+have lost all hope in life, and is just waiting to return to the earth.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 1000 0
+135 150 0 8001 8001 501 501 12 15 1 scratch
+-250 -250 -250 -210
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#42525
+rabid badger~
+A rabid badger~
+A large badger is growling here, foam dripping from its mouth.
+~
+~
+wolf~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFGST CDEFGZ 0 1000 0
+145 50 0 45 10878 500 500 15 15 3 bite
+-110 -110 -110 -10
+STANDING STANDING neutral 2000
+0 mage large ACDEFJKQV
+
+#42526
+giant centipede~
+A giant centipede~
+A giant centipede at least 20 feet long spirals up the inside of the hollow tree.
+~
+~
+centipede~
+100 100 0 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 0 100 100 100 100 100 100 100 
+ABFT DFJZ 0 1000 0
+150 100 0 15001 15001 1501 1501 15 15 20 sting
+-150 -150 -150 -110
+SLEEPING SLEEPING male 10000
+0 mage huge ACK
+
+#42527
+father alen~
+Father Alen~
+Father Alen is here, aiding the lepers.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABa 0 0 1000 0
+160 20 0 10001 10001 0 0 0 0 0 punch
+0 0 0 0
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#42528
+Priscilla~
+Priscilla~
+Priscilla, Alen's wife, is here selling a few things.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFJZ 0 0 0
+150 0 0 600 600 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+
+#42529
+arena keeper man~
+The arena keeper~
+A man stands here before the gate to the arena.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFJZ 0 0 0
+100 0 0 2 2 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+M EXIT 42511 0~
+
+#42530
+wolverine enraged~
+An enraged wolverine~
+A wolverine stands here, uttering a low growl through bared teeth
+~
+~
+dog~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGST Jc 0 1000 0
+130 125 0 10001 10001 751 751 6 17 0 none
+-220 -220 -220 -190
+STANDING STANDING random 2000
+0 mage medium ACDEFHJKUV
+
+#42531
+emaciated zombie~
+An emaciated zombie~
+A zombie lurches about, it's bones showing through it's decaying skin.
+~
+~
+human~
+100 50 100 100 100 100 100 100 150 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 
+AFO DFJPVZc 0 -1000 0
+145 100 0 19501 19501 0 0 50 10 50 scratch
+-100 -100 -100 -100
+STANDING STANDING neutral 500
+0 mage medium ABCDEFGHIJK
+
+#42532
+ghost witch~
+A witch's ghost~
+The ghost of a witch, burned alive for her craft, floats about seeking revenge on the world.
+~
+~
+human~
+100 100 100 100 100 100 100 100 150 100 150 100 100 100 50 100 100 50 100 100 100 100 100 100 100 100 
+AFO DFJPVZc 0 -1000 0
+145 100 0 19501 19501 631 49153 50 10 50 magic
+-100 -100 -100 -100
+STANDING STANDING female 500
+0 mage medium ABCDEFGHIJK
+
+#42533
+ghost young child~
+A young child's ghost~
+The ghost of a young child who was buried alive searches for its home.
+~
+~
+human~
+100 100 100 100 100 100 100 100 150 100 150 100 100 100 50 100 100 100 100 100 50 100 100 100 100 100 
+AFO DFJPVZc 0 -1000 0
+145 100 0 19501 19501 413 49065 50 10 50 drain
+-100 -100 -100 -100
+STANDING STANDING female 500
+0 mage medium ABCDEFGHIJK
+
+#42534
+executioner zombie corpse~
+The executioner's corpse~
+The corpse of the executioner has come to life!
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 
+ABFO DFJZc 0 -1000 0
+150 150 0 144 29469 0 0 100 5 50 punch
+0 0 0 0
+STANDING STANDING neutral 50000
+0 mage large ABCDEFGHIJK
+
+#42535
+maggot infested corpse~
+A maggot-infested corpse~
+A decaying corpse infested with maggots fills its surroundings with a horrid stench.
+~
+~
+human~
+100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 
+ABFO FJVZ 0 0 0
+140 50 0 679 7379 0 0 50 5 50 slap
+100 100 100 1000
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M DEATH 42512 100~
+
+#42536
+bloody mass maggots writhing~
+A mass of maggots~
+A bloody, writhing mass of maggots devours any living thing in sight.
+~
+~
+human~
+100 150 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABFM DFJVZc 0 -1000 0
+125 50 0 11 4723 0 0 50 5 50 digestion
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M RANDOM 42513 50~
+
+#42537
+pain~
+{RP{rai{Rn{x~
+{RPa{rin w{Re{rake{Rns a{rll{x
+~
+~
+centaur~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABF DFJVZc F 1000 0
+150 200 0 43 14903 0 0 50 10 600 flbite
+-1500 -1500 -1500 -1500
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#42538
+hunger~
+{YH{yu{gn{yg{ge{Gr{x~
+{YH{yun{gger {Yc{gon{ysu{gm{ye{Ys {gyo{Gu{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABF DFJVZc 0 1000 0
+150 200 0 150 14481 0 0 50 10 600 digestion
+-1500 -1500 -1500 -1500
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#42539
+blood spirit~
+{RA B{rlo{Rod Sp{ri{Rr{rit{x~
+A spirit seemingly formed from fresh blood floats here, dripping.
+~
+~
+human~
+100 150 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 0 100 100 0 100 100 100 100 100 
+AF DFJVZc 0 -1000 0
+150 150 0 20000 20000 0 0 50 15 130 drain
+-3000 100 -3000 1000
+STANDING STANDING neutral 50000
+0 mage large ABCDEFGHIJK
+
+#42540
+giant tarantula~
+{yA G{gia{ynt Tar{rant{yula{x~
+A gigantic tarantula is poised to attack.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 50 150 100 100 100 0 100 100 50 100 100 100 100 
+AF DFJZ 0 -1000 0
+150 200 0 15000 15000 0 0 50 28 75 bite
+0 -900 -100 -400
+STANDING STANDING neutral 50000
+0 mage giant ABCDEFGHIJK
+
+#42541
+hooded ghost~
+{WA H{wo{Dod{we{Wd Gh{wo{Wst{x~
+A ghost in a hooded robe of the purest white slowly drifts about.
+~
+~
+human~
+100 100 100 100 100 100 100 100 50 100 50 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 
+AQR DFJTVZ H 0 0
+150 200 0 15000 15000 50000 50000 50 20 25 magic
+-800 -100 -800 -100
+STANDING STANDING random 50000
+0 mage medium ABCDEFGHIJK
+
+#42542
+horned ghoul~
+{DA H{dor{rne{dd Gh{Doul{x~
+A ghoul with large horns attacks!
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 
+AF DFJVZc NO 0 0
+150 150 0 4936 45854 0 0 40 20 75 acbite
+-100 -800 -100 -800
+STANDING STANDING male 50000
+0 mage large ABCDEFGHIJK
+
+#42543
+fire sprite~
+{YA {RF{Yi{Rr{re {RS{Yp{Rr{rit{Re{x~
+A fire sprite flickers about.
+~
+~
+human~
+100 50 100 0 100 100 0 100 100 100 100 100 100 100 100 100 100 50 100 100 50 100 150 100 100 100 
+ABF DFJZc D 0 0
+130 100 0 2000 2000 14557 15764 20 30 150 flbite
+-800 -800 -800 -2000
+STANDING STANDING neutral 50000
+0 mage medium ABCDEFGHIJK
+
+#42544
+red rock monster~
+{RT{rhe {RRe{rd Ro{Rck M{ro{Rns{rter{x~
+A giant monster of living red rock walks about.
+~
+~
+human~
+150 100 100 50 100 100 50 100 0 100 0 100 150 0 0 100 100 100 100 100 100 0 100 100 100 100 
+AFT FJVc 0 0 0
+150 100 0 44818 45189 0 0 20 20 75 crush
+-2000 -2000 -2000 0
+STANDING STANDING neutral 50000
+0 mage giant ABCDEFGHIJK
+
+#42545
+fog monster~
+{wA Fog Monster{x~
+{x
+~
+~
+human~
+100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABFM DFJZ 0 0 0
+100 100 0 5000 5000 0 0 50 10 50 chill
+-4000 -4000 -4000 1000
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+
+#42546
+alvarixus gigantic creature~
+{YTh{ye A{Rlv{Yar{Rix{rus{x~
+A gigantic creature drenched in blood and gore stands here.
+~
+~
+human~
+100 100 100 50 100 100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFT DFJVZ 0 -1000 0
+140 150 0 5000 5000 0 0 50 20 100 none
+-200 -200 -200 -200
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M DEATH 42524 100~
+
+#42547
+moon guardian~
+{DThe Gu{Ward{Dian {Wo{Df t{Wh{De M{Woo{Dn{x~
+The guardian of the ancient moon temple still stands at its post.
+~
+~
+human~
+100 100 100 0 100 100 100 100 100 100 100 0 100 150 50 100 100 100 100 100 100 150 100 100 100 100 
+ABFT DFJTVZ HO -1000 0
+160 150 0 40000 40000 0 0 50 20 100 none
+-1000 -1000 -1000 -1000
+STANDING STANDING male 100000
+0 mage giant ABCDEFGHIJK
+
+#42548
+sun guardian huge fire giant~
+{YTh{We Gu{Yar{Rdi{Yan o{Wf t{Yhe S{Ru{Yn{x~
+A huge fire giant stands here, guarding the sun temple for eternity.
+~
+~
+human~
+100 0 100 150 100 100 0 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFT DFJTVZ HN -1000 0
+160 150 0 40000 40000 0 0 50 20 100 blaze
+-1000 -1000 -1000 -1000
+STANDING STANDING male 100000
+0 mage giant ABCDEFGHIJK
+
+#42549
+force evil~
+{DA Force of Evil{x~
+A purely evil presence can be felt here.
+~
+~
+human~
+100 100 100 100 100 100 100 100 50 100 150 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 
+ABFPS DFJPQVZc BO -1000 0
+160 300 0 20000 20000 0 0 30 40 100 drain
+-500 -500 -500 -500
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#42550
+benevolent elder man ancient~
+{yA Benevolent Elder{x~
+A positively ancient man walks about healing the sick.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+Aa DFJZ 0 1000 0
+250 0 0 2 2 50000 50000 0 0 0 slap
+0 0 0 0
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#42551
+temple guard~
+{yA Temple Guard{x~
+A guard stands here, protecting the temple.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB V 0 1000 0
+150 150 0 10000 10000 0 0 10 30 100 punch
+-500 -500 -500 -500
+STANDING STANDING male 30000
+0 mage medium ABCDEFGHIJK
+
+#42552
+wennigo~
+{CW{Me{Cnnig{Mo{x~
+Wennigo stands here, muttering an incantation.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFJZ 0 0 0
+50 0 0 1001 1001 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING female 5000000
+0 mage medium ABCDEFGHIJK
+
+#42553
+mikael akerfeldt~
+{RMi{rkae{dl Ake{Drfe{Rldt{x~
+Mikael Akerfeldt stands here, selling his goods.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFJZ 0 0 0
+50 0 0 2 2 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING male 5000000
+0 mage medium ABCDEFGHIJK
+
+#42554
+melinda young woman~
+Melinda~
+A young woman of incredible beauty sobs quietly over her work.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFJZ 0 1000 0
+100 0 0 2 2 0 0 0 0 0 slap
+0 0 0 0
+SITTING SITTING female 0
+0 mage medium ABCDEFGHIJK
+M ACT 42528 yes~
+M GRALL 42527 100~
+
+#42555
+elite guard~
+{yLord Perth's Elite Guard{x~
+An elite guard sworn to protect Lord Perth stands at attention.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A DFJVZ 0 53 0
+150 100 0 30000 30000 0 0 30 50 100 slash
+-500 -500 -500 -500
+STANDING STANDING neutral 20000
+0 mage medium ABCDEFGHIJK
+
+#42556
+arena ref 1~
+{x~
+{x
+~
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABK DFJZ 0 0 0
+500 0 0 1 1 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M RANDOM 42530 100~
+
+#42557
+arena ref 2~
+{x~
+{x
+~
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABK DFJZ 0 0 0
+500 0 0 1 1 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M RANDOM 42531 100~
+
+#42558
+arena ref 3~
+{x~
+{x
+~
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABK DFJZ 0 0 0
+500 0 0 1 1 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M RANDOM 42532 100~
+
+#42559
+raino merchant~
+Raino~
+Raino the merchant wanders the streets.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG DFJZ 0 0 0
+5000 0 0 2 2 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 50000000
+0 mage medium ABCDEFGHIJK
+
+#42560
+lelk insane~
+{xLelk the Insane~
+Lelk huddles in the corner, muttering to himself
+~
+~
+human~
+100 150 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 150 100 100 150 100 100 100 100 100 
+ABF FJZ 0 0 0
+250 0 0 1 1 0 0 1 1 500 bite
+0 0 0 0
+STANDING STANDING male 50000
+0 mage medium ABCDEFGHIJK
+
+#42561
+huge wolfhound~
+A Wolfhound~
+A huge wolfhound sits here, panting.
+~
+~
+dog~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+110 50 0 5000 5000 0 0 10 20 75 bite
+0 0 0 0
+STANDING STANDING random 0
+0 mage medium ACDEFHJKUV
+
+#42562
+villager~
+A Villager~
+A villager walks the streets.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A V 0 0 0
+120 75 0 7500 7500 0 0 20 20 75 slap
+0 0 0 0
+STANDING STANDING random 50000
+0 mage medium ABCDEFGHIJK
+
+#42563
+living brambles~
+{gLi{dvi{gng Bra{dmble{gs{x~
+The brambles that line this room lash out and attack!
+~
+~
+human~
+150 0 100 50 100 50 150 100 50 100 50 100 100 0 50 100 100 0 50 100 150 0 100 100 100 100 
+ABF DFJVZc 0 0 0
+135 1000 0 15000 15000 0 0 50 50 100 scratch
+-2000 -2000 500 0
+STANDING STANDING neutral 1000
+0 mage giant ABCDEFGHIJK
+
+#42564
+{x~
+a thorny vine~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFJQZ 0 0 0
+1 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+M GRALL 42533 80~
+
+#42565
+kevah~
+Kevah~
+Kevah is here, a look of melancholy on his face.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DFJVZ 0 0 0
+140 75 0 30000 30000 0 0 15 15 100 punch
+-400 -400 -400 -100
+STANDING STANDING male 80000
+0 mage medium ABCDEFGHIJK
+
+#42566
+flesh eating plant~
+{gA F{Rl{re{Rs{Gh-{gEating Plant{x~
+{x
+~
+~
+human~
+100 100 0 100 0 100 150 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABF DFJZ 0 0 0
+110 500 0 6001 6001 0 0 5 20 5 digestion
+0 0 0 0
+STANDING STANDING neutral 20000
+0 mage medium ABCDEFGHIJK
+M GRALL 42566 100~
+
+#42800
+trick~
+RANDOM~
+RANDOM
+~
+~
+human~
+100 150 0 100 100 100 100 100 100 100 100 100 150 100 100 100 100 150 100 100 150 100 100 100 100 100 
+A A 0 0 0
+5000 0 0 1 1 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#42500
+reaper scythe~
+{DThe R{deape{Dr's Sc{dyt{Dhe{x~
+A huge scythe lies here, exuding an aura of pure evil.~
+weapon CEHJLMTX AN
+polearm 17 12 slice CEF
+101 200 30000
+A 2 -1
+A 5 -2
+A 18 -20
+A 13 200
+A 19 10
+
+#42501
+shroud reaper black~
+{DSh{dro{Dud of the Re{dap{Der{x~
+A black shroud lies here, seemingly absorbing light.~
+armor CEJLSTX AK
+18 18 18 18 0
+101 6 50000
+A 19 22
+A 13 -200
+
+#42502
+ebony staff~
+{DAn E{dbo{Dny {dSt{Daf{df{x~
+A fine staff fashioned out of ebony lies here.~
+staff CESX AO
+120 5 5 '(null)' 0
+101 4 20000
+A 13 75
+A 17 -10
+A 19 10
+
+#42503
+scroll black~
+{DA Bl{dac{Dk S{dcr{Dol{dl{x~
+A scroll lies here, its paper black as the night sky.~
+scroll CEGSX AO
+127 '' '' 'energy drain' 'energy drain'
+101 1 10000
+
+#42504
+torture instrument~
+torture instruments~
+A set of instruments used for torture lies here.~
+weapon CTX AN
+exotic 20 4 drain CDE
+58 0 0
+A 19 16
+
+#42505
+pentagram cookie~
+{RA P{Den{Rt{Dag{Rra{Dm Co{Ro{Dk{Rie{x~
+A very very evil cookie lies here!~
+pill HTXYZ A
+666 'haste' '' '' 'frenzy'
+0 0 0
+
+#42506
+nightmarish dagger~
+{DA Nig{rhtm{Ra{rr{Dish D{ra{Dgger{x~
+A dagger formed from the stuff of bad dreams lies here.~
+weapon BCEHJMX AN
+dagger 17 11 pierce CEJ
+101 0 0
+A 19 -10
+
+#42508
+lord perth axe~
+{xLord Perth's axe~
+Lord Perth's immense axe lies here.~
+weapon GMTX AN
+axe 55 3 chop 0
+101 30 20000
+
+#42509
+small pool~
+{bA Small Pool{x~
+{x~
+fountain OX 0
+-1 -1 'water' 0 0
+0 0 0
+
+#42510
+worn wooden key~
+a worn wooden key~
+A small wooden key on a leather lace hangs here.~
+key UX A
+0 0 0 0 0
+0 0 0
+
+#42511
+leather hammock~
+a leather hammock~
+A leather hammock hangs in the corner.~
+furniture XY 0
+50 5000 EHK 400 600
+0 -31072 0
+
+#42512
+fine wool bedroll~
+a fine bedroll~
+A fine wool bedroll lies here, looking inviting.~
+furniture X A
+1 1000 BEIL 385 350
+70 15 200000
+
+#42513
+water bag~
+a large water bag~
+A large water bag on a shoulder strap lies here in a heap.~
+drinkcontainer XY A
+500 0 'water' 0 0
+70 40 150000
+
+#42514
+sheet of jerky~
+a sheet of jerky~
+A sheet of seasoned jerky has been left here.~
+food XY A
+52 52 0 0 0
+70 1 5000
+
+#42515
+pill small green~
+a small green pill~
+A small green pill lies here, ready to be eaten.~
+pill XY AO
+180 'cure poison' 'cure poison' 'reserved' 'reserved'
+70 1 10000
+
+#42516
+large canvas bag~
+a large canvas bag~
+A large canvas bag with a drawstring top lies here.~
+container XY AO
+500 A 0 150 50
+70 3 200000
+
+#42517
+small altar~
+a small altar~
+A small altar with a strange cross and a picture of a young boy stands in the corner.~
+trash X 0
+0 0 0 0 0
+0 0 0
+E
+altar~
+The altar reads:
+In memory of timothy, our beloved child.
+We will never forget you as we help your kind every day.
+~
+
+#42518
+skull reaper~
+{DS{dk{wu{dl{Dl of t{dh{De R{dea{Dper{x~
+A skull lies on the ground, eminating negative energy.~
+armor CEJLSX AE
+35 35 40 40 0
+101 2 20000
+A 13 -50
+A 19 15
+A 5 -1
+A 2 -1
+
+#42519
+hovering key~
+a hovering key~
+A key hovers here above a small cloud of black energy.~
+key BHXZ AO
+0 0 0 0 0
+0 0 0
+
+#42520
+mythril gauntlets~
+{wM{Wy{wth{Wr{wil Gau{Wn{wtl{We{wts{x~
+Large gauntlets fashioned from mythril lie here.~
+armor GTXY AH
+20 20 20 20 0
+101 3 50000
+A 13 75
+A 19 10
+A 20 -2
+
+#42521
+canvas hammock~
+a canvas hammock~
+A canvas hammock hangs from the ceiling.~
+furniture XY 0
+50 5000 EHK 600 400
+0 -31072 0
+
+#42522
+coffin key~
+a coffin key~
+A key to a locking coffin lies here.~
+key X A
+0 0 0 0 0
+0 0 0
+
+#42523
+tree~
+{gThe {dHa{rng{ding {gTree{x~
+{x~
+container X A
+5 AC 0 5 100
+0 -15536 0
+
+#42524
+ghastly axe immense~
+{DA G{dha{rstly A{Dxe{x~
+An axe of immense size and evil lies here, ready to wreak havoc.~
+weapon CEJMX AN
+axe 44 4 cleave CF
+101 25 50000
+A 17 13
+A 13 -200
+A 19 20
+
+#42525
+skeleton~
+a skeleton~
+The skeleton of a man executed long ago hangs from the Hanging Tree.~
+container X 0
+500 0 0 500 0
+0 0 0
+
+#42526
+scrap weathered parchment~
+a scrap of weathered parchment~
+A scrap of weathered parchment has been forgotten here~
+trash UX A
+0 0 0 0 0
+0 1 0
+E
+parchment scrap weathered~
+The black water is perilous, so proceed across it with great caution! 
+Strange things live below its surface that will disorient or dismember you,
+and should you find yourself in trouble no one will be able to help you, not
+even the gods themselves.  
+~
+
+#42527
+face pain expression twisted~
+{RT{rhe F{Rac{re o{Rf Pa{rin{x~
+A twisted expression of pain stares up at you from the ground.~
+armor STXY AR
+10 15 10 15 0
+101 2 10000
+A 19 17
+
+#42528
+face hunger~
+{YT{ghe F{yac{ge {yo{gf H{yung{ge{Gr{x~
+A face with a famished expression stares hopefully ahead.~
+armor STXY AR
+30 30 30 30 0
+101 2 10000
+A 13 125
+A 1 -2
+A 2 -2
+A 20 -3
+
+#42529
+femur bone~
+{WA {wFe{dm{wu{Wr{x~
+A huge femur bone lies here on the ground.~
+weapon ESXY AN
+mace 72 2 crush J
+101 18 10000
+A 18 -18
+A 13 -100
+A 2 -2
+A 19 18
+
+#42530
+bloody amulet~
+{RA B{rlo{Ro{rd{Ry {YA{ymu{Rl{Yet{x~
+A small amulet covered in fresh blood lies here.~
+armor GTX AC
+20 20 20 10 0
+101 2 50000
+A 1 1
+A 19 16
+
+#42531
+hairy fang~
+{YA H{yai{dry Fa{Dng{x~
+A large disembodied fang drips poison.~
+weapon SX AN
+exotic 3 71 pierce H
+101 4 500
+
+#42532
+ghostly robe~
+{wA Gh{dos{wtly {dRo{wbe{x~
+A robe that hardly appears real floats just of the ground.~
+armor ASTXY AK
+20 20 20 30 0
+101 0 30000
+A 18 5
+F A 13 25 U
+A 20 -3
+
+#42533
+horn blight~
+{RHo{rrn o{Rf B{Dligh{rt{x~
+A severed horn the color of dried blood lies here.~
+wand EX AO
+160 6 6 'curse' 0
+101 2 0
+
+#42534
+pile warm ashes~
+{dA Pile of Warm A{Dshes{x~
+A pile of fine ashes lies here . . . human ashes.~
+furniture X 0
+3 600 BEHK 500 500
+101 0 0
+
+#42535
+suspended flame ball~
+{YSu{Csp{Yen{yded {RFl{Ya{Rme{x~
+A ball of flame suspended in animation floats here.~
+armor ASXY AQ
+10 15 20 30 0
+101 0 60000
+A 19 5
+A 20 -4
+
+#42536
+red rock shield~
+{RTh{re R{Red R{roc{Rk Sh{rie{Rl{rd{x~
+A huge shield roughly hewn from a blood red rock rests here.~
+armor STXY AJ
+50 50 50 40 0
+101 30 150000
+A 1 -1
+A 2 -1
+A 13 50
+
+#42537
+key rising sun gold~
+{WR{Yisi{Wng S{Yun K{We{Yy{x~
+A key made of gold with an image of the rising sun on the handle rests here.~
+key AUX A
+0 0 0 0 0
+0 1 0
+
+#42538
+key crescent moon~
+{WC{Dr{Wesce{Dnt Moon {WKe{Dy{x~
+A key shaped curiously like a crescent moon lies here.~
+key AUX A
+0 0 0 0 0
+0 1 0
+
+#42539
+moon pedestal black onyx~
+{wThe An{Dcie{wnt M{Doo{wn Pe{Ddest{wal{x~
+An ancient black onyx pedestal stands here, illegible engravings covering its surface.~
+container XY 0
+100 AC 0 5 110
+0 1000 0
+
+#42540
+sun pedestal gold~
+{YThe Ancient Sun Pedestal{x~
+A weathered gold pedestal stands here, worn smooth after eons of existence.~
+container SXY 0
+100 AC 0 5 110
+0 2000 0
+
+#42541
+sunfire blade~
+{YS{Wu{Yn{Rf{Yi{Wr{Ye{x~
+A blade blazing with the fires of the eternal sun rests here.~
+weapon KSXY AN
+sword 10 20 blaze AEG
+101 5 200000
+A 20 -2
+A 19 13
+
+#42542
+moonlight dagger~
+{WM{wo{do{Dn{Wl{Di{dg{wh{Wt{x~
+A dagger seeminly composed of a soft white glow fills the room with moonlight.~
+weapon JSTXY AN
+dagger 12 17 drain BCJ
+101 4 200000
+A 20 -2
+A 19 5
+
+#42543
+hot spring~
+{CA H{Rot S{Cpr{Ri{Cng{x~
+The room is built around a large hot spring, reputed for its healing powers.~
+furniture X 0
+10 100000 CFIL 500 500
+101 5000 0
+
+#42544
+bottle pitch~
+{DA Bottle of Pitch{x~
+A small bottle filled with black pitch lies here.~
+potion JLXY AO
+110 'mass healing' 'mass healing' 'energy drain' 'energy drain'
+101 1 30000
+
+#42545
+rainbow bottle~
+{XA {RR{Ya{Gi{Cn{Bb{Mo{Dw{x in a Bottle{x~
+A bottle shimmering with every color of the spectrum lies here.~
+potion JLXY AO
+110 'pass door' 'fly' '' ''
+101 1 5000
+
+#42546
+fire ward~
+{RA F{Yir{Re Ward{x~
+A ward against the element of fire lies here.~
+treasure AX AO
+0 0 0 0 0
+101 3 15000000
+A 13 -100
+A 19 -10
+
+#42547
+frost ward~
+{CA F{Wros{Ct Ward{x~
+A ward against the element of ice lies here.~
+treasure AX AO
+0 0 0 0 0
+101 3 15000000
+A 19 -10
+A 13 -100
+
+#42548
+light ward~
+{YA L{Wigh{Yt Ward{x~
+A ward against all things holy lies here.~
+treasure AX AO
+0 0 0 0 0
+101 3 15000000
+A 19 -10
+A 13 -100
+
+#42549
+darkness ward~
+{DA Da{Wrkne{Dss Ward{x~
+A ward against the forces of evil lies here.~
+treasure AX AO
+0 0 0 0 0
+101 3 15000000
+A 19 -10
+A 13 -100
+
+#42550
+poison ward~
+{GA Po{Yis{Gon Ward{x~
+A ward against poisoning lies here.~
+treasure AX AO
+0 0 0 0 0
+101 3 15000000
+A 19 -10
+A 13 -100
+
+#42551
+tenty ounce porterhouse steak~
+{xA 20 ounce porterhouse steak~
+A huge juicy steak lies in the dirt.  What a waste!~
+food X A
+75 75 0 0 0
+101 2 5000
+
+#42552
+folding cot~
+{xA folding cot~
+A finely made cot has been set up here.~
+furniture X A
+1 1000 BEHK 540 500
+101 10 500000
+
+#42553
+fine backpack~
+{xA fine backpack~
+A finely crafted backpack lies here.~
+container SXY AX
+500 A 0 200 23
+101 5 500000
+
+#42554
+collapsable jug~
+{xA collapsable jug~
+An odd container that looks like it can collapse on itself lies here unused.~
+drinkcontainer SXY AO
+1000 1000 'lemonade' 0 0
+101 3 100000
+
+#42555
+aquamarine necklace~
+{cAn A{gqu{cam{gar{cin{ge N{cec{gkl{cace{x~
+A beautiful necklace fashioned from fine aquamarine lies here.~
+jewelry X AC
+0 0 0 0 0
+1 1 50000
+A 3 1
+A 4 1
+A 5 1
+A 19 5
+
+#42556
+diary page two~
+{xKevah's Diary (page two)~
+A torn page from a diary lies in the dirt.~
+trash X A
+0 0 0 0 0
+0 1 0
+E
+diary~
+The face of Melinda neath blackened hair
+No joy would flicker in her eyes
+Brooding sadness came to a rise
+
+Words would falter to atone
+Failure had passed the stepping stone
+She sworn her vows to another
+This is when no-one will bother
+
+And conceded pain in crumbling mirth
+A harlot of God upon the earth
+Found where she sacrificed her ways
+That hollow love in her face
+
+Still I plotted to have her back
+The contentment that would fill the crack
+My soul released a fluttering sigh
+This day fell, the darkness nigh
+
+I took her by the hand to say
+All faith forever has been washed away
+I returned for you in great dismay
+Come with me, far away to stay
+
+Endlessly gazing in nocturnal prime
+She spoke of her vices and broke the rhyme
+But baffled herself with the final line
+My promise is made but my heart is thine
+~
+
+#42557
+diary page one~
+{xKevah's Diary (page one)~
+A page from a diary has been torn out.~
+trash X A
+0 0 0 0 0
+0 0 0
+E
+diary one~
+I was foul and tainted, devoid of faith
+Wearing my death-mask at birth
+The hands of God, decrepit and thin
+Cold caress and then nothing
+
+I was taken away from my plight
+A treason bestowed to the crowd
+Branded a jonah with fevered blood
+Ungodly freak, defiler
+
+Pale touch, writhing in the embers
+Damp mud burning in my eyes
+All the faces turned away
+And all would sneer at my demise
+
+Outcast with dogmas forged below
+Seared and beaten, banished from where I was born
+No mercy would help me on my way
+In the pouring rain nothing is the same
+
+Vows in ashes
+I pledge myself to no-one
+Seethed and spiteful
+All shudder at the call of my name
+If you'll bear with me
+You'll fear of me
+
+{R*{xWritten in what appears to be blood{R*
+
+There is no forgiveness in these eyes
+For any of you but one
+Dispel the mist for now
+Melinda is the reason why I've come
+
+She is waterdrops over the pyre {x
+~
+
+#42558
+duel agreement paper~
+an agreement to duel~
+An official looking paper lies here, two names signed at the bottom.~
+trash X A
+0 0 0 0 0
+0 0 0
+E
+duel agreement paper~
+This paper hereby commits Lord Perth and the undersigned to mortal
+combat.  May the winner take whatever is agreed to be in the balance, and may
+the loser lose everything.  
+~
+
+#42559
+bundle incense~
+a bundle of incense~
+A bundle of sweet-smelling incense lies here~
+light AX A
+0 0 999 0 0
+1 4 0
+A 5 1
+A 4 1
+
+#42560
+gold helmet~
+a gold helmet~
+A helmet that appears to have been painted gold lies here.~
+armor X AE
+10 10 10 10 0
+1 15 50000
+A 5 1
+A 4 1
+
+#42561
+gold gloves~
+gold gloves~
+A pair of gloves that appear to have been painted gold has been left here.~
+armor X AH
+4 4 4 4 0
+1 5 50000
+A 5 1
+A 19 5
+A 18 5
+
+#42562
+small ankle charm~
+an ankle charm~
+A small charm to be worn on the ankle lies here.~
+jewelry X AT
+0 0 0 0 0
+30 2 50000
+A 18 5
+A 19 7
+A 5 1
+A 2 1
+
+#42563
+carapace alvarixus exoskeleton armor~
+{yA{Rlv{Yar{Rix{rus {yC{Rar{Yap{Rac{re{x~
+The exoskeleton of a huge insect has been hollowed out and fashioned into armor.~
+armor SX AD
+40 40 40 40 0
+101 20 5000
+
+#42564
+small~
+a bramble tunnel~
+{x~
+portal X 0
+0 0 ABD 42817 0
+0 0 0
+
+#42565
+tunnel~
+a bramble tunnel~
+{D{x~
+portal X 0
+0 0 AB 42818 0
+0 0 0
+
+#42566
+blackberry stalk long~
+{dA B{glack{dbe{gr{dry St{galk{x~
+A long stalk that was once the core of a large blackberry bush lies here.~
+staff SX AO
+125 10 3 'reserved' 0
+101 4 10000
+A 17 -10
+
+#42567
+silver chain~
+{WA Silver Chain{x~
+A fine silver chain has been dropped here.~
+armor TXY AC
+23 23 23 23 0
+101 2 70000
+A 13 50
+A 19 10
+A 20 -3
+
+#42568
+strange anklet~
+{bA St{cra{bnge Ank{cle{bt{x~
+A strange looking anklet lies here on the ground.~
+armor X A
+21 21 21 28 0
+101 3 70000
+A 19 10
+A 20 -2
+
+#42569
+faded scroll~
+{WA F{wad{ded Sc{Droll{x~
+A scroll lies here, the text on it almost unreadable.~
+scroll GX A
+101 'enchant armor' 'enchant armor' 'enchant armor' 'enchant weapon'
+101 0 0
+
+#42570
+seed pod~
+{Da se{Ge{Dd p{Go{Dd{x~
+A small seed pod lies here.~
+pill STX A
+130 'mass healing' 'cure poison' 'cure critical' 'faerie fog'
+101 2 50
+
+#42571
+skull viper snake~
+{DVip{Ge{Dr's Sk{Yul{Dl{x~
+The skull of a snake lies here, fangs gleaming in the sunlight.~
+treasure SX AO
+0 0 0 0 0
+101 2 5000
+A 20 -3
+A 13 100
+A 17 -20
+
+#42580
+hot potato~
+{RHOT {YPOTATO{x~
+{RHOT {YPOTATO{x~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#42581
+fesdor beatstick stick~
+{RF{Desd{Ro{Dr's Be{Rat{DS{Rt{Dick{x~
+Fesdor's Beatstick~
+weapon X AN
+exotic 1 50000 wrath DE
+108 0 0
+A 19 1000
+#0
+
+#ROOMS
+#42500
+Trade Route~
+This broad road leads south from the Border Town.  Brushland surrounds
+the road to the east and west, and a large forest can be seen in the
+distance to the south.  
+~
+4 0
+D2
+~
+~
+0 0 42501
+S
+
+#42501
+Trade Route~
+This broad road leads southward from the Border Town.  Brushland
+surrounds the road to the east and west, and a large forest can be seen in
+the distance to the south.  
+~
+4 0
+D0
+~
+~
+0 0 42500
+D1
+~
+~
+0 0 42502
+S
+
+#42502
+Trade Route~
+This broad road leads southward from the Border Town.  Brushland
+surrounds the road to the east and west, and a large forest can be seen in
+the distance to the south.  
+~
+0 0
+D2
+~
+~
+0 0 42503
+D3
+~
+~
+0 0 42501
+S
+
+#42503
+Trade Route~
+This broad road leads southward from the Border Town.  Brushland
+surrounds the road to the east and west, and a large forest can be seen in
+the distance to the south.  
+~
+0 0
+D0
+~
+~
+0 0 42502
+D2
+~
+~
+0 0 42504
+S
+
+#42504
+Trade Route~
+This broad road leads southward from the Border Town.  Brushland
+surrounds the road to the east and west, and a large forest can be seen to
+the south.  
+~
+0 0
+D0
+~
+~
+0 0 42503
+D2
+~
+~
+0 0 42505
+S
+
+#42505
+Bend in the Trade Route~
+The trade route takes a sharp jog here, parallelling what seems to be an
+impassable wall of trees a small distance to the south.  A small town can be
+seen on the northern horizon.  
+~
+0 0
+D0
+~
+~
+0 0 42504
+D3
+~
+~
+0 0 42506
+S
+
+#42506
+Trade Route~
+The trade route parallels what seems to be an impassable wall of trees a
+small distance to the south.  A small town can be seen on the northern
+horizon.  
+~
+0 0
+D1
+~
+~
+0 0 42505
+D3
+~
+~
+0 0 42507
+S
+
+#42507
+Bend in the Trade Route~
+The trade route takes a sharp turn here.  Immediately south is a small
+opening in what seems to be an immense forest.  A small town can be seen on
+the northern horizon past a vast expanse of brushland.  
+~
+0 0
+D1
+~
+~
+0 0 42506
+D2
+~
+~
+0 0 42508
+S
+
+#42508
+Before the {gWoods{x~
+Immense maple trees and other deciduous trees tower high above the trade
+route as it disappears into their shadows to the south.  The sound of small
+birds and animals drift out of the woods on a cool southern breeze which
+rustles the brush along the road here.  The road continues north into the
+brushland.  
+~
+4 0
+D0
+~
+~
+0 0 42507
+D2
+~
+~
+0 0 42509
+S
+
+#42509
+{gTrade Route Through the Woods{x~
+{gWithin the calm embrace of the woods there is a surprising amount of
+open air beneath the high boughs of the trees.  Small animals dart in and
+out of the undergrowth as the trade route leads south deeper into the woods.
+~
+0 0
+D0
+~
+~
+0 0 42508
+D2
+~
+~
+0 0 42512
+D3
+~
+~
+0 0 42510
+S
+
+#42510
+{GThe Light Woods{x~
+{GThe woods aren't especially dense here, with a large tree standing
+about every twenty or thirty feet.  The ground is a carpet of decaying
+leaves and other organic matter.  Small ferns and other plants flourish on
+the forest floor.  {x 
+~
+0 0
+D1
+~
+~
+0 0 42509
+D2
+~
+~
+0 0 42511
+S
+
+#42511
+{gTrade Route Through the Woods{x~
+{gWithin the calm embrace of the woods there is a surprising amount of
+open air beneath the high boughs of the trees.  Small animals dart in and
+out of the undergrowth as the trade route leads south and east through the
+woods.  {x 
+~
+0 0
+D0
+~
+~
+0 0 42510
+D1
+~
+~
+0 0 42512
+D2
+~
+~
+0 0 42604
+D3
+~
+~
+0 0 42513
+S
+
+#42512
+{gTrade Route Through the Woods{x~
+{gWithin the calm embrace of the woods there is a surprising amount of
+open air beneath the high boughs of the trees.  Small animals dart in and
+out of the undergrowth as the trade route leads north and west through the
+woods.  {x 
+~
+4 0
+D0
+~
+~
+0 0 42509
+D1
+~
+~
+0 0 42514
+D3
+~
+~
+0 0 42511
+S
+
+#42513
+{GThe Light Woods{x~
+{GThe woods aren't especially dense here, with a large tree standing
+about every twenty or thirty feet.  The ground is a carpet of decaying
+leaves and other organic matter.  Small ferns and other plants flourish on
+the forest floor.  
+~
+0 0
+D1
+~
+~
+0 0 42511
+D2
+~
+~
+0 0 42605
+S
+
+#42514
+{GThe Light Woods{x~
+{G The woods aren't especially dense here, with a large tree standing
+about every twenty or thirty feet.  The ground is a carpet of decaying
+leaves and other organic matter.  Small ferns and other plants flourish on
+the forest floor.  
+~
+0 0
+D2
+~
+~
+0 0 42515
+D3
+~
+~
+0 0 42512
+S
+
+#42515
+{GThe Light Woods{x~
+{G The woods aren't especially dense here, with a large tree standing
+about every twenty or thirty feet.  The ground is a carpet of decaying
+leaves and other organic matter.  Small ferns and other plants flourish on
+the forest floor.  
+~
+0 0
+D0
+~
+~
+0 0 42514
+D1
+~
+~
+0 0 42516
+D2
+~
+~
+0 0 42517
+S
+
+#42516
+{GThe Light Woods{x~
+{G The woods aren't especially dense here, with a large tree standing
+about every twenty or thirty feet.  The ground is a carpet of decaying
+leaves and other organic matter.  Small ferns and other plants flourish on
+the forest floor.  
+~
+0 0
+D2
+~
+~
+0 0 42518
+D3
+~
+~
+0 0 42515
+S
+
+#42517
+{gA Stand of Oak{x~
+{gThe biodiversity common among the trees in most of the forest is
+inapparent here.  This area is dominated by large brooding oak trees, their
+dense canopy casting a deep shadow over their surroundings.  There appears
+to be a pool of water through the trees to the east.  
+~
+0 0
+D0
+~
+~
+0 0 42515
+D1
+~
+~
+0 0 42518
+S
+
+#42518
+{bA Small Pool{x~
+{gThis small {bpool{g is surrounded by short grass that has been trampled
+down by creatures coming to its shore to drink.  Its clear {bwater{g reveals
+a {wrocky{g bottom with a spring bubbling up out of the ground on the
+northern side.  Mighty oak trees surround this small clearing on all sides. 
+~
+0 0
+D0
+~
+~
+0 0 42516
+D2
+~
+~
+0 0 42519
+D3
+~
+~
+0 0 42517
+S
+
+#42519
+{gA Stand of Oak{x~
+{gThe biodiversity common among the trees in most of the forest is
+inapparent here.  This area is dominated by large brooding oak trees, their
+dense canopy casting a deep and uneasy shadow over their surroundings.  A
+small pool of water can be seen through the trees to the north.  
+~
+0 0
+D0
+~
+~
+0 0 42518
+D1
+~
+~
+0 0 42521
+D2
+~
+~
+0 0 42523
+S
+
+#42520
+{gA Stand of Oak{x~
+{gThe biodiversity common among the trees in most of the forest is
+inapparent here.  This area is dominated by large brooding oak trees, their
+dense canopy casting a deep shadow over their surroundings.  A small clear
+pool of water can be seen through the trees to the west.  
+~
+0 0
+D2
+~
+~
+0 0 42521
+D3
+~
+~
+0 0 42518
+S
+
+#42521
+{gA Stand of Oak{x~
+{gThe biodiversity common among the trees in most of the forest is
+inapparent here.  This area is dominated by large brooding oak trees, their
+dense canopy casting a deep shadow over their surroundings.  The faint sound
+of trickling water can be heard to the northwest.  
+~
+0 0
+D0
+~
+~
+0 0 42520
+D2
+~
+~
+0 0 42522
+D3
+~
+~
+0 0 42519
+S
+
+#42522
+{gThick Evergreens{x~
+{gIn sharp contrast to the deciduous trees that dominate the northern
+part of the forest, these tall evergreen trees have grown very close
+together making it very hard to move through them.  The air feels colder
+here than it does to the north, and the sense of cheer that surrounded the
+northern woods has been replaced by a blanket of {Dforboding{g.  
+~
+0 0
+D0
+~
+~
+0 0 42521
+D1
+~
+~
+0 0 42526
+D2
+~
+~
+0 0 42525
+D3
+~
+~
+0 0 42523
+S
+
+#42523
+{gThick Evergreens{x~
+{gIn sharp contrast to the deciduous trees that dominate the northern
+part of the forest, these tall evergreen trees have grown very close
+together making it very hard to move through them.  The air feels colder
+here than it does to the north, and the sense of cheer that surrounded the
+northern woods has been replaced by a blanket of {dforboding{g. 
+~
+0 0
+D0
+~
+~
+0 0 42519
+D1
+~
+~
+0 0 42522
+D2
+~
+~
+0 0 42524
+S
+
+#42524
+{gThick Evergreens{x~
+{gThe trees are especially thick here, their branches intertwining to
+create a prickly wall of needles and sap.  A thick blanket of dead needles
+softens every footfall, making it so it would be very easy to {Dsn{dea{wk up{g
+on an unsuspecting traveller.  The normally homogenous forest floor has
+been recently disturbed underneath one of the larger trees.  
+~
+0 3
+D0
+~
+~
+0 0 42523
+D1
+~
+~
+0 0 42525
+D5
+~
+~
+ABG 42510 42807
+S
+
+#42525
+{gThick Evergreens{x~
+{gIn sharp contrast to the deciduous trees that dominate the northern
+part of the forest, these tall evergreen trees have grown very close
+together making it very hard to move through them.  The air feels colder
+here than it does to the north, and the sense of cheer that surrounded the
+northern woods has been replaced by a blanket of {dforboding{g.  
+~
+0 0
+D0
+~
+~
+0 0 42522
+D2
+~
+~
+0 0 42538
+D3
+~
+~
+0 0 42524
+S
+
+#42526
+{gA Pine Trail{x~
+{gA thin passage between impassable ranks of pine trees leads east.
+The pines appear to thin out a bit to the west.  A thin veil of {wmist{g is
+barely noticeable seeping out from between the dense forest to the east, its
+color that of the {wb{dl{De{da{wk {dgray sky.  {x 
+~
+0 0
+D1
+~
+~
+0 0 42527
+D3
+~
+~
+0 0 42522
+S
+
+#42527
+{gA Pine Trail{x~
+{gThe thin path through the pines leads west and south here, with a thin
+{wmist{g concealing anything that may lie in those directions.  To the east
+the forest appears to change in composition and noises that sound like a
+large animal can be heard.  
+~
+0 0
+D1
+~
+~
+0 0 42528
+D2
+~
+~
+0 0 42529
+D3
+~
+~
+0 0 42526
+S
+
+#42528
+{gA Thicket{x~
+{gThe trees of the forest have surrendured to a large thicket of
+blackberry bushes and other thorn-covered plant life.  Tunnels at the ground
+level lead in and out of the dense tangle of briars, and here and there the
+plants appear to have been recently chewed on.  
+~
+4 0
+D3
+~
+~
+0 0 42527
+S
+
+#42529
+{gFog{dgy Pin{ges{x~
+{gThe path between the p{dines grows m{gore amb{dig{guous as the mi{dst
+to the n{gorth has become le{dgitimate fog.  It's still possible to see the
+{gtrail from time to time, v{danishing into dens{ger fog to the south.  
+~
+4 0
+D0
+~
+~
+0 0 42527
+D2
+~
+~
+0 0 42530
+S
+
+#42530
+{dFoggy Pin{ges{x~
+The air here is damp and stick{gy as t{dhe f{go{dg clings to everything
+that passes through it.  Th{ge pine tr{dees are actually dripping wi{gth
+d{dew, at least the {dones that can be seen within about a 4 f{goot
+ra{ddius.  {x 
+~
+0 0
+D0
+~
+~
+0 0 42529
+D2
+~
+~
+0 0 42531
+S
+
+#42531
+{dFoggy Pines{x~
+{dIt is impossible to get any bearings in this section of the forest, as
+it has been consumed by a thick fog.  Occasionally a pine tree will leap out
+of the fog two or three feet away, the thick haze pouring out of the gaps
+between its branches.  
+~
+0 0
+D0
+~
+~
+0 0 42530
+D1
+~
+~
+0 0 42534
+D2
+~
+~
+0 0 42537
+D3
+~
+~
+0 0 42532
+S
+
+#42532
+{dDen{gse F{dog Ba{gn{dk{x~
+{gThis section of the forest is imm{dersed i{gn a thic{dk bank of f{gog. 
+It is only pos{dsible to see abo{gut five f{dee{gt in any di{drec{gtion, but
+every now and then stran{dge s{go{dunds can be heard, {gespecially from the
+east.  
+~
+0 0
+D1
+~
+~
+0 0 42531
+D2
+~
+~
+0 0 42533
+D3
+~
+~
+0 0 42539
+S
+
+#42533
+{dDen{gs{de Fog Ba{gn{dk{x~
+{gThis sect{dion{g of the forest is i{dmme{grsed in a thick b{dank{g of fog.;
+It is only {dpos{gsible to {dsee{g about {dfiv{ge feet {din a{gny di{drec{gtion, but;
+every now and then stra{dnge{g sounds can be he{dard, {gespecially from the
+east.
+~
+0 0
+D0
+~
+~
+0 0 42532
+D1
+~
+~
+0 0 42537
+D3
+~
+~
+0 0 42540
+S
+
+#42534
+{dDense Fog{x~
+{dIt is impossible to tell north from south, west from east, up from down
+in this incredibly thick fog.  The ground however feels rocky and hard
+underfoot, a change from the soft bed of leaves and needles in the forest.  
+~
+0 0
+D2
+~
+~
+0 0 42536
+D3
+~
+~
+0 0 42531
+S
+
+#42535
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D1
+~
+~
+0 0 42616
+D2
+~
+~
+0 0 42624
+D3
+~
+~
+0 0 42536
+S
+
+#42536
+{dDense Fog{x~
+It is impossible to tell north from south, west from east, up from down
+in this incredibly thick fog.  The ground however feels rocky and hard
+underfoot, a change from the soft bed of leaves and needles in the forest.
+~
+0 0
+D0
+~
+~
+0 0 42534
+D1
+~
+~
+0 0 42535
+D2
+~
+~
+0 0 42550
+D3
+~
+~
+0 0 42537
+S
+
+#42537
+{dDense Fog{x~
+It is impossible to tell north from south, west from east, up from down
+in this incredibly thick fog.  The ground however feels rocky and hard
+underfoot, a change from the soft bed of leaves and needles in the forest.
+~
+0 0
+D0
+~
+~
+0 0 42531
+D1
+~
+~
+0 0 42536
+D2
+~
+~
+0 0 42549
+D3
+~
+~
+0 0 42533
+S
+
+#42538
+{gThin Fog{x~
+{gFog seeps through the branches of the trees, dulling all the vibrant
+colors of the forest into a grayish-green wash.  It is still fairly easy to
+see to the north, but the fog appears to get more dense to the south.  
+~
+4 3
+D0
+~
+~
+0 0 42525
+D2
+~
+~
+0 0 42539
+S
+
+#42539
+{gThic{dke{gnin{dg F{gog{x~
+{gIt is difficult to judge distance in the {dhaze{g that has set in, but
+it is possible to see about two trees in any direction.  The forest has
+become surprisingly quiet, as the sounds of animals and the wind in the high
+branches of the trees are noticeably abset.  
+~
+0 0
+D0
+~
+~
+0 0 42538
+D1
+~
+~
+0 0 42532
+D2
+~
+~
+0 0 42540
+S
+
+#42540
+{gThic{dkening F{gog{x~
+It is difficult to judge distance in the {dhaze{g that has set in, but it
+is {dpossible to see about two trees in any {ddirection.  {g The forest has
+become {dsurprisingly quiet, as the sounds of {danimals{g and the wind in
+the high branches of the trees 
+~
+0 0
+D0
+~
+~
+0 0 42539
+D1
+~
+~
+0 0 42533
+D2
+~
+~
+0 0 42541
+S
+
+#42541
+{gFo{dggy Pa{gth{x~
+{gWhile there is no actual path through the trees, the {dfog itself
+se{gems to have parted to reveal a thin str{dip of slightly clearer {gforest
+{dheading north and so{guth.  Furthermore, the fog is completely
+{Dimpenetrable{g to the east and west.  
+~
+0 0
+D0
+~
+~
+0 0 42540
+D2
+~
+~
+0 0 42542
+S
+
+#42542
+{gTh{de Ha{rng{ding T{gree{x~
+{dThe fog and fo{grest have opened up into a small clearing.  The center
+of the clearing is dominated by a twisted {Dblack {gtree, long dead.  A
+weathered {wskeleton {ghangs from a piece of fra{dyed rope attac{ghed to a
+large limb of the tree.  
+~
+0 0
+D0
+~
+~
+0 0 42541
+D2
+~
+~
+0 0 42543
+S
+
+#42543
+{gFo{dggy Path{x~
+{dWhile there is no actual path through the trees, the fog itself seems
+to have parted to reveal a thin strip of slightly clearer forest heading
+north and south.  While impenetrable to the west, the fog does seem a bit
+lighter to the east.  
+~
+0 0
+D0
+~
+~
+0 0 42542
+D1
+~
+~
+0 0 42546
+D2
+~
+~
+0 0 42544
+S
+
+#42544
+{dDense Fog{x~
+{dIt is impossible to tell north from south, west from east, up from down
+in this incredibly thick fog.  The ground however feels rocky and hard
+underfoot, a change from the soft bed of leaves and needles in the forest.
+~
+0 0
+D0
+~
+~
+0 0 42543
+D1
+~
+~
+0 0 42545
+D2
+~
+~
+0 0 42551
+S
+
+#42545
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D0
+~
+~
+0 0 42546
+D1
+~
+~
+0 0 42638
+D2
+~
+~
+0 0 42643
+D3
+~
+~
+0 0 42544
+S
+
+#42546
+{dDense Fog{x~
+{dIt is impossible to tell north from south, west from east, up from down
+in this incredibly thick fog.  The ground however feels rocky and hard
+underfoot, a change from the soft bed of leaves and needles in the forest.
+~
+0 0
+D1
+~
+~
+0 0 42547
+D2
+~
+~
+0 0 42545
+D3
+~
+~
+0 0 42543
+S
+
+#42547
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D0
+~
+~
+0 0 42548
+D1
+~
+~
+0 0 42636
+D2
+~
+~
+0 0 42638
+D3
+~
+~
+0 0 42546
+S
+
+#42548
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D0
+~
+~
+0 0 42549
+D2
+~
+~
+0 0 42547
+S
+
+#42549
+{dDense Fog{x~
+{dIt is impossible to tell north from south, west from east, up from down
+in this incredibly thick fog.  The ground however feels rocky and hard
+underfoot, a change from the soft bed of leaves and needles in the forest.
+~
+0 0
+D0
+~
+~
+0 0 42537
+D1
+~
+~
+0 0 42550
+D2
+~
+~
+0 0 42548
+S
+
+#42550
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D0
+~
+~
+0 0 42536
+D1
+~
+~
+0 0 42624
+D2
+~
+~
+0 0 42626
+D3
+~
+~
+0 0 42549
+S
+
+#42551
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D0
+~
+~
+0 0 42544
+D1
+~
+~
+0 0 42643
+D2
+~
+~
+0 0 42552
+S
+
+#42552
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D0
+~
+~
+0 0 42551
+D1
+~
+~
+0 0 42644
+D2
+~
+~
+0 0 42652
+D3
+~
+~
+0 0 42553
+S
+
+#42553
+{dThinning Fog{x~
+~
+0 0
+D0
+~
+~
+0 0 42567
+D1
+~
+~
+0 0 42552
+D2
+~
+~
+0 0 42554
+S
+
+#42554
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D0
+~
+~
+0 0 42553
+D1
+~
+~
+0 0 42652
+D2
+~
+~
+0 0 42555
+D3
+~
+~
+0 0 42560
+S
+
+#42555
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D0
+~
+~
+0 0 42554
+D1
+~
+~
+0 0 42653
+D2
+~
+~
+0 0 42556
+D3
+~
+~
+0 0 42559
+S
+
+#42556
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D0
+~
+~
+0 0 42555
+D1
+~
+~
+0 0 42664
+D2
+~
+~
+0 0 42557
+S
+
+#42557
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D0
+~
+~
+0 0 42556
+D1
+~
+~
+0 0 42558
+S
+
+#42558
+{dOn a D{Des{dol{wat{de Sh{Dore{x~
+~
+0 0
+D0
+~
+~
+0 0 42664
+D3
+~
+~
+0 0 42557
+S
+
+#42559
+{dLost in the Fog{x~
+~
+0 0
+D0
+~
+~
+0 0 42560
+D1
+~
+~
+0 0 42555
+S
+
+#42560
+{dLost in the Fog{x~
+~
+0 0
+D1
+~
+~
+0 0 42554
+D2
+~
+~
+0 0 42559
+D3
+~
+~
+0 0 42561
+S
+
+#42561
+{dDense Fog{x~
+~
+0 0
+D1
+~
+~
+0 0 42560
+D3
+~
+~
+0 0 42562
+S
+
+#42562
+{gDe{dnse Fog{x~
+~
+0 0
+D0
+~
+~
+0 0 42563
+D1
+~
+~
+0 0 42561
+S
+
+#42563
+{gDe{dnse F{gog{x~
+~
+4 0
+D0
+~
+~
+0 0 42564
+D2
+~
+~
+0 0 42562
+S
+
+#42564
+{dEx{recu{dti{Don S{di{rte{x~
+~
+0 0
+D0
+~
+~
+0 0 42578
+D1
+~
+~
+0 0 42565
+D2
+~
+~
+0 0 42563
+D3
+~
+~
+0 0 42577
+S
+
+#42565
+{gThick Fog{x~
+~
+4 0
+D1
+~
+~
+0 0 42566
+D3
+~
+~
+0 0 42564
+S
+
+#42566
+{gTh{dick F{gog{x~
+~
+0 0
+D0
+~
+~
+0 0 42569
+D1
+~
+~
+0 0 42567
+D3
+~
+~
+0 0 42565
+S
+
+#42567
+{gTh{dick Fog{x~
+~
+0 0
+D0
+~
+~
+0 0 42568
+D2
+~
+~
+0 0 42553
+D3
+~
+~
+0 0 42566
+S
+
+#42568
+{dThick F{gog{x~
+~
+0 0
+D2
+~
+~
+0 0 42567
+D3
+~
+~
+0 0 42569
+S
+
+#42569
+{gTh{dick F{gog{x~
+~
+0 0
+D0
+~
+~
+0 0 42570
+D1
+~
+~
+0 0 42568
+D2
+~
+~
+0 0 42566
+S
+
+#42570
+{gFogg{dy Tr{gail{x~
+~
+0 0
+D0
+~
+~
+0 0 42571
+D2
+~
+~
+0 0 42569
+S
+
+#42571
+{gFoggy Trail{x~
+~
+4 0
+D0
+~
+~
+0 0 42594
+D2
+~
+~
+0 0 42570
+D3
+~
+~
+0 0 42572
+S
+
+#42572
+{gFoggy Trail{x~
+~
+0 0
+D1
+~
+~
+0 0 42571
+D3
+~
+~
+0 0 42573
+S
+
+#42573
+{gA Small Trail{x~
+~
+4 3
+D1
+~
+~
+0 0 42572
+D3
+~
+~
+0 0 42574
+S
+
+#42574
+{gA Clearing{x~
+~
+0 3
+D0
+~
+~
+0 0 42584
+D1
+~
+~
+0 0 42573
+D2
+~
+~
+0 0 42575
+D3
+~
+~
+0 0 42581
+S
+
+#42575
+{gA Sh{dallow Gr{gave{x~
+~
+0 0
+D0
+~
+~
+0 0 42574
+D2
+~
+~
+0 0 42576
+D3
+~
+~
+0 0 42580
+D5
+~
+coffin~
+ABCFG 42522 42809
+S
+
+#42576
+{gA Clearing{x~
+~
+0 0
+D0
+~
+~
+0 0 42575
+D1
+~
+~
+0 0 42578
+D2
+~
+~
+0 0 42577
+D3
+~
+~
+0 0 42579
+S
+
+#42577
+{gA Clearing~
+~
+0 0
+D0
+~
+~
+0 0 42576
+D1
+~
+~
+0 0 42564
+S
+
+#42578
+{gFoggy Trees{x~
+~
+4 0
+D2
+~
+~
+0 0 42564
+D3
+~
+~
+0 0 42576
+S
+
+#42579
+{gA Clearing{x~
+~
+0 0
+D0
+~
+~
+0 0 42580
+D1
+~
+~
+0 0 42576
+S
+
+#42580
+{gBurial Site{x~
+~
+0 0
+D0
+~
+~
+0 0 42581
+D1
+~
+~
+0 0 42575
+D2
+~
+~
+0 0 42579
+S
+
+#42581
+{gA Clearing{x~
+~
+0 3
+D0
+~
+~
+0 0 42583
+D1
+~
+~
+0 0 42574
+D2
+~
+~
+0 0 42580
+D3
+~
+~
+0 0 42582
+S
+
+#42582
+{gBurial Site{x~
+~
+0 3
+D1
+~
+~
+0 0 42581
+S
+
+#42583
+{gNorth End of a Clearing{x~
+~
+0 0
+D1
+~
+~
+0 0 42584
+D2
+~
+~
+0 0 42581
+S
+
+#42584
+{gNorth End of a Clearing{x~
+~
+0 0
+D0
+~
+~
+0 0 42585
+D2
+~
+~
+0 0 42574
+D3
+~
+~
+0 0 42583
+S
+
+#42585
+{gDense Forest{x~
+{g The forest is incredibly thick here with all sorts of 10 and 15 foot
+plants and small trees thriving beneath the larger trees.  The plants are
+wet with what seems to be a 24-hour dew, soaking everything that brushes
+against them.  
+~
+4 0
+D0
+~
+~
+0 0 42587
+D1
+~
+~
+0 0 42586
+D2
+~
+~
+0 0 42584
+S
+
+#42586
+{gDense Forest{x~
+{gThe forest is incredibly thick here with all sorts of 10 and 15 foot
+plants and small trees thriving beneath the larger trees.  The plants are
+wet with what seems to be a 24-hour dew, soaking everything that brushes
+against them.  All directions but west are closed off in a wall of flora.
+~
+0 0
+D3
+~
+~
+0 0 42585
+S
+
+#42587
+{gDense Forest{x~
+{gThe forest is incredibly thick here with all sorts of 10 and 15 foot
+plants and small trees thriving beneath the larger trees.  The plants are
+wet with what seems to be a 24-hour dew, soaking everything that brushes
+against them. 
+~
+0 0
+D0
+~
+~
+0 0 42588
+D2
+~
+~
+0 0 42585
+S
+
+#42588
+{gDense Forest{x~
+{gThe forest is incredibly thick here with all sorts of 10 and 15 foot
+plants and small trees thriving beneath the larger trees.  It appears to
+clear up some, and bright sunlight can be seen from the west.  The east and
+south lead into the dense brush.  
+~
+0 0
+D1
+~
+~
+0 0 42589
+D2
+~
+~
+0 0 42587
+D3
+~
+~
+0 0 42595
+S
+
+#42589
+{gDense Forest{x~
+{gThe forest is incredibly thick here with all sorts of 10 and 15 foot
+plants and small trees thriving beneath the larger trees.  The plants are
+wet with what seems to be a 24-hour dew, soaking everything that brushes
+against them.  {x 
+~
+0 0
+D1
+~
+~
+0 0 42590
+D3
+~
+~
+0 0 42588
+S
+
+#42590
+{gA Game Trail{x~
+{gThis thin trails is well travelled by dear, boar, and other large game.
+These game are not to be seen though, as they appear to have gone into
+hiding.  The trail curves south and west.  
+~
+0 0
+D2
+~
+~
+0 0 42591
+D3
+~
+~
+0 0 42589
+D5
+~
+~
+ABCG 42510 42808
+S
+
+#42591
+{gA Game Trail{x~
+{gThis thin trails is well travelled by dear, boar, and other large game.
+These game are not to be seen though, as they appear to have gone into
+hiding. The trail curves north and east.
+~
+0 0
+D0
+~
+~
+0 0 42590
+D1
+~
+~
+0 0 42592
+S
+
+#42592
+{rBl{Roo{rd{gy Tre{re{gs{x~
+{gThe trees here have been covered in blood and gore.  A bit of
+{rfl{we{rsh{g hangs from a branch to the right, and {rbl{Roo{rd{g drips from
+{gthe leaves.  Trees have been cut down by what look like enormous claws and
+teeth, some even appearing to have been taken down in one swipe.  
+~
+0 3
+D2
+~
+~
+0 0 42593
+D3
+~
+~
+0 0 42591
+S
+
+#42593
+{gA Game Trail{x~
+{gThis thin trails is well travelled by dear, boar, and other large game.
+These game are not to be seen though, as they appear to have gone into
+hiding.  The trail runs north and south, with an awful stench drifting in
+from the north.  
+~
+0 0
+D0
+~
+~
+0 0 42592
+D2
+~
+~
+0 0 42594
+S
+
+#42594
+{gA Game Trail{x~
+{gThis thin trails is well travelled by dear, boar, and other large game.
+These game are not to be seen though, as they appear to have gone into
+hiding. The trail curves north and east.
+~
+0 0
+D0
+~
+~
+0 0 42593
+D2
+~
+~
+0 0 42571
+S
+
+#42595
+{gA Path Through the Underbrush{x~
+{gThis bend in the path is almost a perfect angle instead of a smooth
+curve.  The underbrush appears to have been beaten or trimmed back in
+places.  Occassionaly a small rodent will scamper across the path, or a bird
+will explode out of the brush at the edge of the trail.
+~
+0 0
+D0
+~
+~
+0 0 42596
+D1
+~
+~
+0 0 42588
+S
+
+#42596
+{gA Path Through the Underbrush{x~
+{gThe path continues south through the underbrush, broadening into more
+of a small road.  There are even {Ydu{Dsty p{Yat{yches{g and the ocassional
+animal track or footprint.  
+~
+0 0
+D0
+~
+~
+0 0 42597
+D2
+~
+~
+0 0 42595
+S
+
+#42597
+{gA Path Through the Underbrush{x~
+{gThere is a small path about a foot wide carved through the underbrush. 
+At this point it curls around an especially large tree and moves south.  The
+tree appears to be only about 30 feet tall, but it is ancient and knotted. 
+The faint outline of a door can be seen on its trunk.  
+~
+0 0
+D1
+~
+~
+0 0 42598
+D2
+~
+~
+0 0 42596
+D3
+~
+~
+ABG 0 42613
+E
+tree~
+Carved into one of the lower limbs of the tree is a single phrase: "Arlingor will rise."
+~
+S
+
+#42598
+{gThick Underbrush{x~
+{gThe forest here has opened up into a clearer area with very few trees. 
+The ground thrives with plant life, creating an almost waist-deep sea of
+bushes, ferns, and other strange plants.  Any of these foreign plants could
+be {Dpoi{Gso{Dno{gu{Gs{g ...  Be careful! 
+~
+0 3
+D0
+~
+~
+0 0 42601
+D1
+~
+~
+0 0 42599
+D3
+~
+~
+0 0 42597
+S
+
+#42599
+{gThick Underbrush{x~
+{gThe forest here has opened up into a clearer area with very few trees. 
+The ground thrives with plant life, creating an almost waist-deep sea of
+bushes, ferns, and other strange plants.  Any of these foreign plants could
+be {Dpoi{Gso{Dno{gu{Gs{g ...  Be careful! 
+~
+0 0
+D0
+~
+~
+0 0 42600
+D3
+~
+~
+0 0 42598
+S
+
+#42600
+{gThick Underbrush{x~
+{gThe forest here has opened up into a clearer area with very few trees. 
+The ground thrives with plant life, creating an almost waist-deep sea of
+bushes, ferns, and other strange plants.  Any of these foreign plants could
+be {Dpoi{Gso{Dno{gu{Gs{g ...  Be careful! 
+~
+0 0
+D0
+~
+~
+0 0 42603
+D2
+~
+~
+0 0 42599
+D3
+~
+~
+0 0 42601
+S
+
+#42601
+{gThick Underbrush{x~
+{gThe forest here has opened up into a clearer area with very few trees. 
+The ground thrives with plant life, creating an almost waist-deep sea of
+bushes, ferns, and other strange plants.  Any of these foreign plants could
+be {Dpoi{Gso{Dno{gu{Gs{g ...  Be careful! 
+~
+0 0
+D0
+~
+~
+0 0 42602
+D1
+~
+~
+0 0 42600
+D2
+~
+~
+0 0 42598
+S
+
+#42602
+{gThick Underbrush{x~
+{gThe forest here has opened up into a clearer area with very few trees. 
+The ground thrives with plant life, creating an almost waist-deep sea of
+bushes, ferns, and other strange plants.  Any of these foreign plants could
+be {Dpoi{Gso{Dno{gu{Gs{g ...  Be careful!  
+~
+4 0
+D0
+~
+~
+0 0 42605
+D1
+~
+~
+0 0 42603
+D2
+~
+~
+0 0 42601
+S
+
+#42603
+{gThick Underbrush{x~
+{gThe forest here has opened up into a clearer area with very few trees. 
+The ground thrives with plant life, creating an almost waist-deep sea of
+bushes, ferns, and other strange plants.  Any of these foreign plants could
+be {Dpoi{Gso{Dno{gu{Gs{g ...  Be careful!  
+~
+4 0
+D0
+~
+~
+0 0 42604
+D2
+~
+~
+0 0 42600
+D3
+~
+~
+0 0 42602
+S
+
+#42604
+{gTrade Route Through the Woods{x~
+{gWithin the calm embrace of the woods there is a surprising amount of
+open air beneath the high boughs of the trees.  Small animals dart in and
+out of the undergrowth as the trade route leads north and west through the
+woods.  {x 
+~
+0 0
+D0
+~
+~
+0 0 42511
+D2
+~
+~
+0 0 42603
+D3
+~
+~
+0 0 42605
+S
+
+#42605
+{gTrade Route Through the Woods{x~
+{gWithin the calm embrace of the woods there is a surprising amount of
+open air beneath the high boughs of the trees.  Small animals dart in and
+out of the undergrowth as the trade route leads east and west through the
+woods.  {x 
+~
+0 0
+D0
+~
+~
+0 0 42513
+D1
+~
+~
+0 0 42604
+D2
+~
+~
+0 0 42602
+D3
+~
+~
+0 0 42606
+S
+
+#42606
+{gTrade Route Through the Woods{x~
+{gWithin the calm embrace of the woods there is a surprising amount of
+open air beneath the high boughs of the trees.  Small animals dart in and
+out of the undergrowth as the trade route leads east and west through the
+woods.  {x 
+~
+0 0
+D1
+~
+~
+0 0 42605
+D3
+~
+~
+0 0 42607
+S
+
+#42607
+{gTrade Route Through the Woods{x~
+{gWithin the calm embrace of the woods there is a surprising amount of
+open air beneath the high boughs of the trees.  Small animals dart in and
+out of the undergrowth as the trade route leads south and east through the
+woods.  {x 
+~
+0 0
+D1
+~
+~
+0 0 42606
+D2
+~
+~
+0 0 42608
+S
+
+#42608
+{gTrade Route Through the Woods{x~
+{gWithin the calm embrace of the woods there is a surprising amount of
+open air beneath the high boughs of the trees.  Small animals dart in and
+out of the undergrowth as the trade route leads north and west through the
+woods.  {x 
+~
+0 0
+D0
+~
+~
+0 0 42607
+D3
+~
+~
+0 0 42609
+S
+
+#42609
+{gTrade Route Through the Woods{x~
+{gWithin the calm embrace of the woods there is a surprising amount of
+open air beneath the high boughs of the trees.  Small animals dart in and
+out of the undergrowth as the trade route leads east and west through the
+woods.  {x 
+~
+0 0
+D1
+~
+~
+0 0 42608
+D2
+~
+~
+0 0 42610
+D3
+~
+~
+0 0 42614
+S
+
+#42610
+{gA Dim Trail{x~
+{gThe forest has closed in a bit, and there is much less light.  The
+occassional ray filters through a gap in all the leaves and branches.  A
+trail though this thick forest leads north and south.  
+~
+4 0
+D0
+~
+~
+0 0 42609
+D2
+~
+~
+0 0 42611
+S
+
+#42611
+{gA Dim Trail{x~
+{gThe forest has closed in a bit, and there is much less light.  The
+occassional ray filters through a gap in all the leaves and branches.  A
+trail though this thick forest leads north and south.  An especially large
+tree is on the east side of the trail here, looming over everything else.  
+~
+0 0
+D0
+~
+~
+0 0 42610
+D1
+~
+~
+ABG 0 42613
+D2
+~
+~
+0 0 42612
+S
+
+#42612
+{gA Dim Trail{x~
+{gThe thin trail through the dim forest has come to an end, as the forest
+has closed in from all sides.  It does however lead north into a slightly
+lighter area.  
+~
+0 0
+D0
+~
+~
+0 0 42611
+S
+
+#42613
+{gInside a Tree{x~
+It is very dark inside this hollow tree, but it feels like there's a fair
+amount of room in here.  An occassional clicking noise and something like
+the sound of millions of tiny footsteps can be heard from time to time.
+~
+524289 0
+D1
+~
+tree~
+ABG 0 42597
+D3
+~
+trunk~
+ABG 0 42611
+S
+
+#42614
+{gTrade Route Through the Woods{x~
+{gWithin the calm embrace of the woods there is a surprising amount of
+open air beneath the high boughs of the trees.  Small animals dart in and
+out of the undergrowth as the trade route leads east and west through the
+woods.  {x 
+~
+0 0
+D1
+~
+~
+0 0 42609
+D3
+~
+~
+0 0 42615
+S
+
+#42615
+The Edge of the {gWoods{x~
+The trade route breaks out into the open air here, the woods stand
+looming immediately to the east.  It appears the road continues west into
+the mountains, but it has been blocked off by an enormous rock slide.  
+~
+0 0
+D1
+~
+~
+0 0 42614
+S
+
+#42616
+{dOn The {DBlack Water{x~
+~
+8192 6
+D1
+~
+~
+0 0 42617
+D2
+~
+~
+0 0 42623
+D3
+~
+~
+0 0 42535
+S
+
+#42617
+{dOn The {DBlack Water{x~
+~
+8192 6
+D1
+~
+~
+0 0 42618
+D2
+~
+~
+0 0 42622
+D3
+~
+~
+0 0 42616
+S
+
+#42618
+{dOn The {DBlack Water{x~
+~
+8192 6
+D1
+~
+~
+0 0 42619
+D2
+~
+~
+0 0 42621
+D3
+~
+~
+0 0 42617
+S
+
+#42619
+{dOn The {DBlack Water{x~
+~
+8196 6
+D1
+~
+~
+0 0 42682
+D2
+~
+~
+0 0 42620
+D3
+~
+~
+0 0 42618
+S
+
+#42620
+{dOn The {DBlack Water{x~
+~
+8196 6
+D0
+~
+~
+0 0 42619
+D1
+~
+~
+0 0 42681
+D2
+~
+~
+0 0 42630
+D3
+~
+~
+0 0 42621
+S
+
+#42621
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42618
+D1
+~
+~
+0 0 42620
+D2
+~
+~
+0 0 42629
+D3
+~
+~
+0 0 42622
+S
+
+#42622
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42617
+D1
+~
+~
+0 0 42621
+D2
+~
+~
+0 0 42628
+D3
+~
+~
+0 0 42623
+S
+
+#42623
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42616
+D1
+~
+~
+0 0 42622
+D2
+~
+~
+0 0 42627
+D3
+~
+~
+0 0 42624
+S
+
+#42624
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42535
+D1
+~
+~
+0 0 42623
+D2
+~
+~
+0 0 42625
+D3
+~
+~
+0 0 42550
+S
+
+#42625
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42624
+D1
+~
+~
+0 0 42627
+D2
+~
+~
+0 0 42635
+D3
+~
+~
+0 0 42626
+S
+
+#42626
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42550
+D1
+~
+~
+0 0 42625
+D2
+~
+~
+0 0 42636
+S
+
+#42627
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42623
+D1
+~
+~
+0 0 42628
+D2
+~
+~
+0 0 42634
+D3
+~
+~
+0 0 42625
+S
+
+#42628
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42622
+D1
+~
+~
+0 0 42629
+D2
+~
+~
+0 0 42633
+D3
+~
+~
+0 0 42627
+S
+
+#42629
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42621
+D1
+~
+~
+0 0 42630
+D2
+~
+~
+0 0 42632
+D3
+~
+~
+0 0 42628
+S
+
+#42630
+{dOn The {DBlack Water{x~
+~
+8196 6
+D0
+~
+~
+0 0 42620
+D1
+~
+~
+0 0 42680
+D2
+~
+~
+0 0 42631
+D3
+~
+~
+0 0 42629
+S
+
+#42631
+{dOn The {DBlack Water{x~
+~
+4 6
+D0
+~
+~
+0 0 42630
+D1
+~
+~
+0 0 42679
+D2
+~
+~
+0 0 42677
+D3
+~
+~
+0 0 42632
+S
+
+#42632
+{dOn The {DBlack Water{x~
+~
+8196 6
+D0
+~
+~
+0 0 42629
+D1
+~
+~
+0 0 42631
+D2
+~
+~
+0 0 42676
+D3
+~
+~
+0 0 42633
+S
+
+#42633
+{dOn The {DBlack Water{x~
+~
+8196 6
+D0
+~
+~
+0 0 42628
+D1
+~
+~
+0 0 42632
+D2
+~
+~
+0 0 42675
+D3
+~
+~
+0 0 42634
+S
+
+#42634
+{dOn The {DBlack Water{x~
+~
+8196 6
+D0
+~
+~
+0 0 42627
+D1
+~
+~
+0 0 42633
+D2
+~
+~
+0 0 42674
+D3
+~
+~
+0 0 42635
+S
+
+#42635
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42625
+D1
+~
+~
+0 0 42634
+D2
+~
+~
+0 0 42639
+D3
+~
+~
+0 0 42636
+S
+
+#42636
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42626
+D1
+~
+~
+0 0 42635
+D2
+~
+~
+0 0 42637
+D3
+~
+~
+0 0 42547
+S
+
+#42637
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42636
+D1
+~
+~
+0 0 42639
+D2
+~
+~
+0 0 42641
+D3
+~
+~
+0 0 42638
+S
+
+#42638
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42547
+D1
+~
+~
+0 0 42637
+D2
+~
+~
+0 0 42642
+D3
+~
+~
+0 0 42545
+S
+
+#42639
+{dOn The {DBlack Water{x~
+~
+8196 6
+D0
+~
+~
+0 0 42635
+D1
+~
+~
+0 0 42674
+D2
+~
+~
+0 0 42640
+D3
+~
+~
+0 0 42637
+S
+
+#42640
+{dOn The {DBlack Water{x~
+~
+8196 6
+D0
+~
+~
+0 0 42639
+D1
+~
+~
+0 0 42673
+D2
+~
+~
+0 0 42647
+D3
+~
+~
+0 0 42641
+S
+
+#42641
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42637
+D1
+~
+~
+0 0 42640
+D2
+~
+~
+0 0 42646
+D3
+~
+~
+0 0 42642
+S
+
+#42642
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42638
+D1
+~
+~
+0 0 42641
+D2
+~
+~
+0 0 42645
+D3
+~
+~
+0 0 42643
+S
+
+#42643
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42545
+D1
+~
+~
+0 0 42642
+D2
+~
+~
+0 0 42644
+D3
+~
+~
+0 0 42551
+S
+
+#42644
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42643
+D1
+~
+~
+0 0 42645
+D2
+~
+~
+0 0 42651
+D3
+~
+~
+0 0 42552
+S
+
+#42645
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42642
+D1
+~
+~
+0 0 42646
+D2
+~
+~
+0 0 42650
+D3
+~
+~
+0 0 42644
+S
+
+#42646
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42641
+D1
+~
+~
+0 0 42647
+D2
+~
+~
+0 0 42649
+D3
+~
+~
+0 0 42645
+S
+
+#42647
+{dOn The {DBlack Water{x~
+~
+8196 6
+D0
+~
+~
+0 0 42640
+D1
+~
+~
+0 0 42672
+D2
+~
+~
+0 0 42648
+D3
+~
+~
+0 0 42646
+S
+
+#42648
+{dOn The {DBlack Water{x~
+~
+8196 6
+D0
+~
+~
+0 0 42647
+D1
+~
+~
+0 0 42671
+D2
+~
+~
+0 0 42657
+D3
+~
+~
+0 0 42649
+S
+
+#42649
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42646
+D1
+~
+~
+0 0 42648
+D2
+~
+~
+0 0 42656
+D3
+~
+~
+0 0 42650
+S
+
+#42650
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42645
+D1
+~
+~
+0 0 42649
+D2
+~
+~
+0 0 42655
+D3
+~
+~
+0 0 42651
+S
+
+#42651
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42644
+D1
+~
+~
+0 0 42650
+D2
+~
+~
+0 0 42654
+D3
+~
+~
+0 0 42652
+S
+
+#42652
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42552
+D1
+~
+~
+0 0 42651
+D2
+~
+~
+0 0 42653
+D3
+~
+~
+0 0 42554
+S
+
+#42653
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42652
+D1
+~
+~
+0 0 42654
+D2
+~
+~
+0 0 42664
+D3
+~
+~
+0 0 42555
+S
+
+#42654
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42651
+D1
+~
+~
+0 0 42655
+D2
+~
+~
+0 0 42663
+D3
+~
+~
+0 0 42653
+S
+
+#42655
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42650
+D1
+~
+~
+0 0 42656
+D2
+~
+~
+0 0 42662
+D3
+~
+~
+0 0 42654
+S
+
+#42656
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42649
+D1
+~
+~
+0 0 42657
+D2
+~
+~
+0 0 42661
+D3
+~
+~
+0 0 42655
+S
+
+#42657
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42648
+D1
+~
+~
+0 0 42658
+D2
+~
+~
+0 0 42660
+D3
+~
+~
+0 0 42656
+S
+
+#42658
+{dOn The {DBlack Water{x~
+~
+8196 6
+D0
+~
+~
+0 0 42671
+D1
+~
+~
+0 0 42669
+D2
+~
+~
+0 0 42659
+D3
+~
+~
+0 0 42657
+S
+
+#42659
+{dOn The {DBlack Water{x~
+~
+8196 6
+D0
+~
+~
+0 0 42658
+D1
+~
+~
+0 0 42668
+D3
+~
+~
+0 0 42660
+S
+
+#42660
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42657
+D1
+~
+~
+0 0 42659
+D3
+~
+~
+0 0 42661
+S
+
+#42661
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42656
+D1
+~
+~
+0 0 42660
+D2
+~
+~
+0 0 42667
+D3
+~
+~
+0 0 42662
+S
+
+#42662
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42655
+D1
+~
+~
+0 0 42661
+D2
+~
+~
+0 0 42666
+D3
+~
+~
+0 0 42663
+S
+
+#42663
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42654
+D1
+~
+~
+0 0 42662
+D2
+~
+~
+0 0 42665
+D3
+~
+~
+0 0 42664
+S
+
+#42664
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42653
+D1
+~
+~
+0 0 42663
+D2
+~
+~
+0 0 42558
+D3
+~
+~
+0 0 42556
+S
+
+#42665
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42663
+D1
+~
+~
+0 0 42666
+S
+
+#42666
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42662
+D1
+~
+~
+0 0 42667
+D3
+~
+~
+0 0 42665
+S
+
+#42667
+{dOn The {DBlack Water{x~
+~
+8192 6
+D0
+~
+~
+0 0 42661
+D3
+~
+~
+0 0 42666
+S
+
+#42668
+{dDa{rrk S{da{rnd{ds{x~
+~
+8192 0
+D0
+~
+~
+0 0 42669
+D1
+~
+~
+0 0 42699
+D2
+~
+~
+0 0 42751
+D3
+~
+~
+0 0 42659
+S
+
+#42669
+{dDa{rrk S{da{rnd{ds{x~
+~
+8192 0
+D0
+~
+~
+0 0 42670
+D2
+~
+~
+0 0 42668
+D3
+~
+~
+0 0 42658
+S
+
+#42670
+{dDa{rrk S{da{rnd{ds{x~
+~
+8192 0
+D1
+~
+~
+0 0 42702
+D2
+~
+~
+0 0 42669
+D3
+~
+~
+0 0 42671
+S
+
+#42671
+{dDa{rrk S{da{rnd{ds{x~
+~
+8192 0
+D0
+~
+~
+0 0 42672
+D1
+~
+~
+0 0 42670
+D2
+~
+~
+0 0 42658
+D3
+~
+~
+0 0 42648
+S
+
+#42672
+{dDa{rrk S{da{rnd{ds{x~
+~
+8192 0
+D0
+~
+~
+0 0 42673
+D2
+~
+~
+0 0 42671
+D3
+~
+~
+0 0 42647
+S
+
+#42673
+{dDa{rrk S{da{rnd{ds{x~
+~
+8192 0
+D0
+~
+~
+0 0 42674
+D2
+~
+~
+0 0 42672
+D3
+~
+~
+0 0 42640
+S
+
+#42674
+{dDa{rrk S{da{rnd{ds{x~
+~
+8192 0
+D0
+~
+~
+0 0 42634
+D1
+~
+~
+0 0 42675
+D2
+~
+~
+0 0 42673
+D3
+~
+~
+0 0 42639
+S
+
+#42675
+{dDa{rrk S{da{rnd{ds{x~
+~
+8192 0
+D0
+~
+~
+0 0 42633
+D1
+~
+~
+0 0 42676
+D3
+~
+~
+0 0 42674
+S
+
+#42676
+{dDa{rrk S{da{rnd{ds{x~
+~
+8192 0
+D0
+~
+~
+0 0 42632
+D1
+~
+~
+0 0 42677
+D2
+~
+~
+0 0 42704
+D3
+~
+~
+0 0 42675
+S
+
+#42677
+{dDa{rrk S{da{rnd{ds{x~
+~
+8192 0
+D0
+~
+~
+0 0 42631
+D1
+~
+~
+0 0 42678
+D3
+~
+~
+0 0 42676
+S
+
+#42678
+{dDa{rrk S{da{rnd{ds{x~
+~
+8192 0
+D0
+~
+~
+0 0 42679
+D2
+~
+~
+0 0 42713
+D3
+~
+~
+0 0 42677
+S
+
+#42679
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42680
+D1
+~
+~
+0 0 42715
+D2
+~
+~
+0 0 42678
+D3
+~
+~
+0 0 42631
+S
+
+#42680
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42681
+D2
+~
+~
+0 0 42679
+D3
+~
+~
+0 0 42630
+S
+
+#42681
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42682
+D1
+~
+~
+0 0 42684
+D2
+~
+~
+0 0 42680
+D3
+~
+~
+0 0 42620
+S
+
+#42682
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42752
+D1
+~
+~
+0 0 42683
+D2
+~
+~
+0 0 42681
+D3
+~
+~
+0 0 42619
+S
+
+#42683
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42753
+D1
+~
+~
+0 0 42759
+D2
+~
+~
+0 0 42684
+D3
+~
+~
+0 0 42682
+S
+
+#42684
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42683
+D1
+~
+~
+0 0 42685
+D3
+~
+~
+0 0 42681
+S
+
+#42685
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42759
+D1
+~
+~
+0 0 42762
+D2
+~
+~
+0 0 42686
+D3
+~
+~
+0 0 42684
+S
+
+#42686
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42685
+D1
+~
+~
+0 0 42765
+D2
+~
+~
+0 0 42687
+S
+
+#42687
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42686
+D1
+~
+~
+0 0 42688
+D3
+~
+~
+0 0 42715
+S
+
+#42688
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42765
+D1
+~
+~
+0 0 42768
+D2
+~
+~
+0 0 42689
+D3
+~
+~
+0 0 42687
+S
+
+#42689
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42688
+D1
+~
+~
+0 0 42771
+D2
+~
+~
+0 0 42690
+S
+
+#42690
+{DOb{Wsi{wdi{dan S{who{Wre{Dline{x~
+~
+8192 0
+D0
+~
+~
+0 0 42689
+D1
+~
+~
+0 0 42772
+D2
+~
+~
+0 0 42691
+D3
+~
+~
+0 0 42711
+S
+
+#42691
+{dTo{wwe{bring Ro{wc{dks{x~
+~
+8192 0
+D0
+~
+~
+0 0 42690
+D1
+~
+~
+0 0 42716
+D2
+~
+~
+0 0 42692
+D3
+~
+~
+0 0 42710
+S
+
+#42692
+{dC{wru{dmbl{win{dg Co{wl{dumns{x~
+~
+8196 0
+D0
+~
+~
+0 0 42691
+D1
+~
+~
+0 0 42717
+D2
+~
+~
+0 0 42693
+D3
+~
+~
+0 0 42709
+S
+
+#42693
+{dBr{wo{dken M{war{dble{x~
+~
+8196 0
+D0
+~
+~
+0 0 42692
+D1
+~
+~
+0 0 42718
+D2
+~
+~
+0 0 42694
+D3
+~
+~
+0 0 42708
+S
+
+#42694
+{dOver{gh{dan{ggin{dg B{ga{dnk{x~
+~
+8192 0
+D0
+~
+~
+0 0 42693
+D1
+~
+~
+0 0 42719
+D2
+~
+~
+0 0 42745
+D3
+~
+~
+0 0 42695
+S
+
+#42695
+{dOv{gerh{dan{ggin{dg B{ga{dnk{x~
+~
+8192 0
+D0
+~
+~
+0 0 42708
+D1
+~
+~
+0 0 42694
+D2
+~
+~
+0 0 42746
+D3
+~
+~
+0 0 42696
+S
+
+#42696
+{dOv{gerh{dan{gging B{dank{x~
+~
+8192 0
+D0
+~
+~
+0 0 42707
+D1
+~
+~
+0 0 42695
+D2
+~
+~
+0 0 42747
+D3
+~
+~
+0 0 42697
+S
+
+#42697
+{dS{go{dut{ghe{drn {gBank{x~
+~
+8192 0
+D1
+~
+~
+0 0 42696
+D2
+~
+~
+0 0 42748
+D3
+~
+~
+0 0 42698
+S
+
+#42698
+{dS{go{duthern {gBank{x~
+~
+8192 0
+D0
+~
+~
+0 0 42700
+D1
+~
+~
+0 0 42697
+D2
+~
+~
+0 0 42749
+D3
+~
+~
+0 0 42699
+S
+
+#42699
+{dSout{ghe{drn {gBank{x~
+~
+8192 0
+D1
+~
+~
+0 0 42698
+D2
+~
+~
+0 0 42750
+D3
+~
+~
+0 0 42668
+S
+
+#42700
+{dAmong the {DSt{Ron{Des{x~
+~
+8192 0
+D0
+~
+~
+0 0 42701
+D2
+~
+~
+0 0 42698
+S
+
+#42701
+{dAmong the {DSt{Ro{Dnes{x~
+~
+8192 0
+D1
+~
+~
+0 0 42705
+D2
+~
+~
+0 0 42700
+D3
+~
+~
+0 0 42702
+S
+
+#42702
+{dIn the {DShadow{d of the {DStones{x~
+~
+8192 0
+D0
+~
+~
+0 0 42703
+D1
+~
+~
+0 0 42701
+D3
+~
+~
+0 0 42670
+S
+
+#42703
+{dIn the {DShadow{d of the {DStones{x~
+~
+8192 0
+D0
+~
+~
+0 0 42704
+D2
+~
+~
+0 0 42702
+S
+
+#42704
+{dSh{warp R{doc{wks{x~
+~
+8192 0
+D0
+~
+~
+0 0 42676
+D2
+~
+~
+0 0 42703
+S
+
+#42705
+{dAmong the {RS{Dt{Ron{Des{x~
+~
+8192 0
+D0
+~
+~
+0 0 42714
+D1
+~
+~
+0 0 42706
+D3
+~
+~
+0 0 42701
+S
+
+#42706
+{wCru{dmbl{wing Col{du{wmns{x~
+~
+8196 0
+D1
+~
+~
+0 0 42709
+D2
+~
+~
+0 0 42707
+D3
+~
+~
+0 0 42705
+S
+
+#42707
+{wBro{dke{wn Mar{db{wle{x~
+~
+8196 0
+D0
+~
+~
+0 0 42706
+D1
+~
+~
+0 0 42708
+D2
+~
+~
+0 0 42696
+S
+
+#42708
+{wBro{dken M{war{dble{x~
+~
+8196 0
+D0
+~
+~
+0 0 42709
+D1
+~
+~
+0 0 42693
+D2
+~
+~
+0 0 42695
+D3
+~
+~
+0 0 42707
+S
+
+#42709
+{wCru{dmbl{win{dg {wCol{dum{wns{x~
+~
+8196 0
+D0
+~
+~
+0 0 42710
+D1
+~
+~
+0 0 42692
+D2
+~
+~
+0 0 42708
+D3
+~
+~
+0 0 42706
+S
+
+#42710
+{dTo{wwe{bring Ro{wc{dks{x~
+~
+8192 0
+D0
+~
+~
+0 0 42711
+D1
+~
+~
+0 0 42691
+D2
+~
+~
+0 0 42709
+S
+
+#42711
+{dTo{wwe{bring Ro{wc{dks{x~
+~
+8192 0
+D1
+~
+~
+0 0 42690
+D2
+~
+~
+0 0 42710
+D3
+~
+~
+0 0 42712
+S
+
+#42712
+{rR{Red Ro{rc{Rks{x~
+~
+8192 0
+D1
+~
+~
+0 0 42711
+D3
+~
+~
+0 0 42713
+S
+
+#42713
+{RR{red Ro{Rc{rks{x~
+~
+8192 0
+D0
+~
+~
+0 0 42678
+D1
+~
+~
+0 0 42712
+D2
+~
+~
+0 0 42714
+S
+
+#42714
+{dAmong the {RS{Dt{Ron{De{Rs{x~
+~
+8192 0
+D0
+~
+~
+0 0 42713
+D2
+~
+~
+0 0 42705
+S
+
+#42715
+{dAmo{Dng t{dhe R{woc{dks{x~
+~
+8192 0
+D1
+~
+~
+0 0 42687
+D3
+~
+~
+0 0 42679
+S
+
+#42716
+{dTo{wwe{bring Ro{wc{dks{x~
+~
+0 0
+D2
+~
+~
+0 0 42717
+D3
+~
+~
+0 0 42691
+S
+
+#42717
+{dA{ws{Dh{we{ds of t{Dhe {dP{ry{dre{x~
+~
+8196 0
+D0
+~
+~
+0 0 42716
+D1
+~
+~
+0 0 42721
+D2
+~
+~
+0 0 42718
+D3
+~
+~
+0 0 42692
+H 300 200
+S
+
+#42718
+{DCr{Rem{Da{Rt{Do{Rr{Dy {RP{Yy{yr{re{x~
+~
+8196 0
+D0
+~
+~
+0 0 42717
+D1
+~
+~
+0 0 42720
+D2
+~
+~
+0 0 42719
+D3
+~
+~
+0 0 42693
+S
+
+#42719
+{dA{wsh{dy S{who{dr{we{x~
+~
+8192 0
+D0
+~
+~
+0 0 42718
+D2
+~
+~
+0 0 42744
+D3
+~
+~
+0 0 42694
+S
+
+#42720
+{DBlight{x~
+~
+8196 0
+D0
+~
+~
+0 0 42721
+D1
+~
+~
+0 0 42737
+D3
+~
+~
+0 0 42718
+H -200 100
+S
+
+#42721
+{DBlight{x~
+~
+8196 0
+D1
+~
+~
+0 0 42722
+D2
+~
+~
+0 0 42720
+D3
+~
+~
+0 0 42717
+H -200 100
+S
+
+#42722
+{DDesolation{x~
+~
+8196 0
+D0
+~
+~
+0 0 42723
+D1
+~
+~
+0 0 42725
+D2
+~
+~
+0 0 42737
+D3
+~
+~
+0 0 42721
+H -200 100
+S
+
+#42723
+{DDesolation{x~
+~
+8196 0
+D1
+~
+~
+0 0 42724
+D2
+~
+~
+0 0 42722
+H -200 100
+S
+
+#42724
+{DTe{dm{Dple R{dui{Dns{x~
+~
+8196 0
+D2
+~
+~
+0 0 42725
+D3
+~
+~
+0 0 42723
+S
+
+#42725
+{DBase of the Tower{x~
+~
+8196 0
+D0
+~
+~
+0 0 42724
+D1
+~
+~
+0 0 42726
+D3
+~
+~
+0 0 42722
+H -200 100
+S
+
+#42726
+{DWre{dtched W{Dastes{x~
+~
+8196 0
+D1
+~
+~
+0 0 42727
+D3
+~
+~
+0 0 42725
+H -200 100
+S
+
+#42727
+{DWre{dtched W{Dastes{x~
+~
+8196 0
+D2
+~
+~
+0 0 42728
+D3
+~
+~
+0 0 42726
+H -200 100
+S
+
+#42728
+{DWre{dtched W{Dastes{x~
+~
+8196 0
+D0
+~
+~
+0 0 42727
+D2
+~
+~
+0 0 42731
+D3
+~
+~
+0 0 42729
+H -200 100
+S
+
+#42729
+{DBase of the Tower{x~
+~
+8196 0
+D1
+~
+~
+0 0 42728
+D2
+~
+~
+0 0 42730
+H -200 100
+S
+
+#42730
+{DWre{dtched W{Dastes{x~
+~
+8196 0
+D0
+~
+~
+0 0 42729
+D1
+~
+~
+0 0 42731
+D2
+~
+~
+0 0 42733
+D3
+~
+~
+0 0 42732
+H -200 100
+S
+
+#42731
+{DWre{dtched W{Dastes{x~
+~
+8196 0
+D0
+~
+~
+0 0 42728
+D3
+~
+~
+0 0 42730
+H -200 100
+S
+
+#42732
+{DBase of the Tower{x~
+~
+8196 0
+D1
+~
+~
+0 0 42730
+D2
+~
+~
+0 0 42734
+D3
+~
+~
+0 0 42736
+H -200 100
+S
+
+#42733
+{DT{dem{Dple R{dui{Dns{x~
+~
+8196 0
+D0
+~
+~
+0 0 42730
+D3
+~
+~
+0 0 42734
+H 0 0
+S
+
+#42734
+{DWre{dtched W{Dastes{x~
+~
+8196 0
+D0
+~
+~
+0 0 42732
+D1
+~
+~
+0 0 42733
+D3
+~
+~
+0 0 42735
+H -200 100
+S
+
+#42735
+{DDesolation{x~
+~
+8196 0
+D0
+~
+~
+0 0 42736
+D1
+~
+~
+0 0 42734
+H -200 100
+S
+
+#42736
+{DDesolation{x~
+~
+8196 0
+D0
+~
+~
+0 0 42737
+D1
+~
+~
+0 0 42732
+D2
+~
+~
+0 0 42735
+H -200 100
+S
+
+#42737
+{DBase of the Tower{x~
+~
+8196 0
+D0
+~
+~
+0 0 42722
+D2
+~
+~
+0 0 42736
+D3
+~
+~
+0 0 42720
+D5
+~
+~
+ABG 0 42738
+H -200 100
+S
+
+#42738
+{DThe Mass Grave{x~
+~
+8192 0
+D1
+~
+~
+0 0 42739
+D4
+~
+~
+ABG 0 42737
+S
+
+#42739
+{DC{Ror{rp{ds{we T{du{Dnnel{x~
+~
+8192 0
+D3
+~
+~
+0 0 42738
+D4
+~
+~
+0 0 42740
+S
+
+#42740
+{wSta{Wir{ws {dof {wB{Wo{wne{x~
+~
+8192 0
+D4
+~
+~
+0 0 42741
+D5
+~
+~
+0 0 42739
+S
+
+#42741
+{WSta{wir{Ws {Dof {WB{wo{Wne{x~
+~
+8192 0
+D4
+~
+~
+0 0 42742
+D5
+~
+~
+0 0 42740
+S
+
+#42742
+{wA L{Wa{wnd{din{Dg{x~
+~
+8192 0
+D4
+~
+trapdoor~
+ABC 42519 42743
+D5
+~
+~
+0 0 42741
+S
+
+#42743
+{dSw{wir{dli{Dng Clo{dud{Ds{x~
+~
+0 0
+D5
+~
+trapdoor~
+ABC 42519 42742
+S
+
+#42744
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42719
+D3
+~
+~
+0 0 42745
+S
+
+#42745
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42694
+D1
+~
+~
+0 0 42744
+D3
+~
+~
+0 0 42746
+S
+
+#42746
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42695
+D1
+~
+~
+0 0 42745
+D3
+~
+~
+0 0 42747
+S
+
+#42747
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42696
+D1
+~
+~
+0 0 42746
+D3
+~
+~
+0 0 42748
+S
+
+#42748
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42697
+D1
+~
+~
+0 0 42747
+D3
+~
+~
+0 0 42749
+S
+
+#42749
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42698
+D1
+~
+~
+0 0 42748
+D3
+~
+~
+0 0 42750
+S
+
+#42750
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42699
+D1
+~
+~
+0 0 42749
+D3
+~
+~
+0 0 42751
+S
+
+#42751
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42668
+D1
+~
+~
+0 0 42750
+S
+
+#42752
+{dOn The {DBlack Water{x~
+~
+8196 0
+D0
+~
+~
+0 0 42754
+D1
+~
+~
+0 0 42753
+D2
+~
+~
+0 0 42682
+S
+
+#42753
+{dOn The {DBlack Water{x~
+~
+8196 0
+D0
+~
+~
+0 0 42755
+D1
+~
+~
+0 0 42756
+D2
+~
+~
+0 0 42683
+D3
+~
+~
+0 0 42752
+S
+
+#42754
+{dA {DBlack{d Whirpool~
+~
+8192 0
+D1
+~
+~
+0 0 42755
+D2
+~
+~
+0 0 42752
+S
+
+#42755
+{dA {DBlack{d Whirpool~
+~
+8192 0
+D2
+~
+~
+0 0 42753
+D3
+~
+~
+0 0 42754
+S
+
+#42756
+{dOn The {DBlack Water{x~
+~
+8192 0
+D1
+~
+~
+0 0 42757
+D2
+~
+~
+0 0 42759
+D3
+~
+~
+0 0 42753
+S
+
+#42757
+{dOn The {DBlack Water{x~
+~
+8192 0
+D1
+~
+~
+0 0 42773
+D2
+~
+~
+0 0 42758
+D3
+~
+~
+0 0 42756
+S
+
+#42758
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42757
+D1
+~
+~
+0 0 42760
+D2
+~
+~
+0 0 42762
+D3
+~
+~
+0 0 42759
+S
+
+#42759
+{dOn The {DBlack Water{x~
+~
+8196 0
+D0
+~
+~
+0 0 42756
+D1
+~
+~
+0 0 42758
+D2
+~
+~
+0 0 42685
+D3
+~
+~
+0 0 42683
+S
+
+#42760
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42773
+D1
+~
+~
+0 0 42775
+D2
+~
+~
+0 0 42761
+D3
+~
+~
+0 0 42758
+S
+
+#42761
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42760
+D1
+~
+~
+0 0 42763
+D2
+~
+~
+0 0 42764
+D3
+~
+~
+0 0 42762
+S
+
+#42762
+{dOn The {DBlack Water{x~
+~
+8196 0
+D0
+~
+~
+0 0 42758
+D1
+~
+~
+0 0 42761
+D2
+~
+~
+0 0 42765
+D3
+~
+~
+0 0 42685
+S
+
+#42763
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42775
+D1
+~
+~
+0 0 42777
+D2
+~
+~
+0 0 42766
+D3
+~
+~
+0 0 42761
+S
+
+#42764
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42761
+D1
+~
+~
+0 0 42766
+D2
+~
+~
+0 0 42768
+D3
+~
+~
+0 0 42765
+S
+
+#42765
+{dOn The {DBlack Water{x~
+~
+8196 0
+D0
+~
+~
+0 0 42762
+D1
+~
+~
+0 0 42764
+D2
+~
+~
+0 0 42688
+D3
+~
+~
+0 0 42686
+S
+
+#42766
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42763
+D1
+~
+~
+0 0 42778
+D2
+~
+~
+0 0 42767
+D3
+~
+~
+0 0 42764
+S
+
+#42767
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42766
+D1
+~
+~
+0 0 42769
+D2
+~
+~
+0 0 42770
+D3
+~
+~
+0 0 42768
+S
+
+#42768
+{dOn The {DBlack Water{x~
+~
+8196 0
+D0
+~
+~
+0 0 42764
+D1
+~
+~
+0 0 42767
+D2
+~
+~
+0 0 42771
+D3
+~
+~
+0 0 42688
+S
+
+#42769
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42778
+D3
+~
+~
+0 0 42767
+S
+
+#42770
+{dOn The {DBlack Water{x~
+~
+8192 0
+D0
+~
+~
+0 0 42767
+D3
+~
+~
+0 0 42771
+S
+
+#42771
+{dOn The {DBlack Water{x~
+~
+8196 0
+D0
+~
+~
+0 0 42768
+D1
+~
+~
+0 0 42770
+D2
+~
+~
+0 0 42772
+D3
+~
+~
+0 0 42689
+S
+
+#42772
+{dOn The {DBlack Water{x~
+~
+8196 0
+D0
+~
+~
+0 0 42771
+D3
+~
+~
+0 0 42690
+S
+
+#42773
+{ySandy Shores{x~
+~
+0 0
+D1
+~
+~
+0 0 42774
+D2
+~
+~
+0 0 42760
+D3
+~
+~
+0 0 42757
+S
+
+#42774
+{yDirt Road{x~
+~
+4 0
+D0
+~
+~
+0 0 42787
+D1
+~
+~
+0 0 42779
+D2
+~
+~
+0 0 42775
+D3
+~
+~
+0 0 42773
+S
+
+#42775
+{ySandy Shores{x~
+~
+0 0
+D0
+~
+~
+0 0 42774
+D1
+~
+~
+0 0 42776
+D2
+~
+~
+0 0 42763
+D3
+~
+~
+0 0 42760
+S
+
+#42776
+{ySandy Shores{x~
+~
+0 0
+D0
+~
+~
+0 0 42779
+D2
+~
+~
+0 0 42777
+D3
+~
+~
+0 0 42775
+S
+
+#42777
+{ySandy Shores{x~
+~
+0 0
+D0
+~
+~
+0 0 42776
+D2
+~
+~
+0 0 42778
+D3
+~
+~
+0 0 42763
+S
+
+#42778
+{ySandy Shores{x~
+~
+0 0
+D0
+~
+~
+0 0 42777
+D2
+~
+~
+0 0 42769
+D3
+~
+~
+0 0 42766
+S
+
+#42779
+{yDirt Road{x~
+~
+4 0
+D1
+~
+~
+0 0 42780
+D2
+~
+~
+0 0 42776
+D3
+~
+~
+0 0 42774
+S
+
+#42780
+{yA Busy Street~
+~
+0 0
+D0
+~
+~
+0 0 42781
+D3
+~
+~
+0 0 42779
+S
+
+#42781
+{yA Busy Street~
+~
+0 0
+D0
+~
+~
+0 0 42782
+D1
+~
+~
+0 0 42806
+D2
+~
+~
+0 0 42780
+S
+
+#42782
+{yA Busy Street~
+~
+0 0
+D0
+~
+~
+0 0 42783
+D2
+~
+~
+0 0 42781
+S
+
+#42783
+{yTemple Entrance{x~
+~
+0 0
+D0
+~
+~
+0 0 42796
+D1
+~
+~
+0 0 42797
+D2
+~
+~
+0 0 42782
+D3
+~
+~
+0 0 42784
+S
+
+#42784
+{yBefore the Temple{x~
+~
+0 0
+D1
+~
+~
+0 0 42783
+D3
+~
+~
+0 0 42785
+S
+
+#42785
+{yTemple Entrance{x~
+~
+0 0
+D0
+~
+~
+0 0 42791
+D1
+~
+~
+0 0 42784
+D2
+~
+~
+0 0 42786
+D3
+~
+~
+AB 0 42790
+S
+
+#42786
+{yA Small Street{x~
+~
+0 0
+D0
+~
+~
+0 0 42785
+D2
+~
+~
+0 0 42787
+D3
+~
+~
+AB 0 42789
+S
+
+#42787
+{yA Small Street{x~
+~
+0 0
+D0
+~
+~
+0 0 42786
+D2
+~
+~
+0 0 42774
+D3
+~
+~
+AB 0 42788
+S
+
+#42788
+{yA Humble Home{x~
+~
+0 0
+D1
+~
+~
+AB 0 42787
+S
+
+#42789
+{yMikael's General Store{x~
+~
+0 0
+D1
+~
+~
+AB 0 42786
+S
+
+#42790
+{yMaintainence Shed{x~
+~
+0 0
+D1
+~
+~
+AB 0 42785
+S
+
+#42791
+{yWest Gate of the Temple{x~
+~
+0 0
+D0
+~
+~
+AB 0 42792
+D2
+~
+~
+0 0 42785
+S
+
+#42792
+{yTemple Hallway~
+~
+0 0
+D1
+~
+~
+0 0 42793
+D2
+~
+~
+AB 0 42791
+S
+
+#42793
+{yTemple Hallway~
+~
+0 0
+D0
+~
+~
+0 0 42795
+D1
+~
+~
+0 0 42794
+D3
+~
+~
+0 0 42792
+S
+
+#42794
+{yTemple Hallway~
+~
+0 0
+D2
+~
+~
+AB 0 42796
+D3
+~
+~
+0 0 42793
+S
+
+#42795
+{yThe Altar{x~
+~
+0 0
+D2
+~
+~
+0 0 42793
+H 550 550
+S
+
+#42796
+{yEast Gate of the Temple{x~
+~
+0 0
+D0
+~
+~
+AB 0 42794
+D2
+~
+~
+0 0 42783
+S
+
+#42797
+{yA Broad Alleyway{x~
+~
+0 0
+D1
+~
+~
+0 0 42798
+D3
+~
+~
+0 0 42783
+S
+
+#42798
+{yA Broad Alleyway{x~
+~
+0 0
+D0
+~
+~
+AB 0 42799
+D1
+~
+~
+0 0 42800
+D3
+~
+~
+0 0 42797
+S
+
+#42799
+{yWennigo's Wards{x~
+There is a small note on the wall.
+~
+0 0
+D2
+~
+~
+AB 0 42798
+E
+note~
+My wards do not work currently, so if you buy them you're just giving me
+50 platinum for nothing!  
+-Wennigo
+~
+S
+
+#42800
+{yA Broad Alleyway{x~
+~
+0 0
+D1
+~
+~
+AB 0 42801
+D2
+~
+~
+AB 0 42802
+D3
+~
+~
+0 0 42798
+S
+
+#42801
+{yRundown Shack{x~
+~
+0 0
+D3
+~
+~
+AB 0 42800
+S
+
+#42802
+{yCity Hall{x~
+~
+0 0
+D0
+~
+~
+AB 0 42800
+D3
+~
+~
+0 0 42803
+S
+
+#42803
+{yCity Hall{x~
+~
+0 0
+D1
+~
+~
+0 0 42802
+D2
+~
+~
+AB 0 42805
+D3
+~
+~
+AB 0 42804
+S
+
+#42804
+{yLord Perth's Chambers{x~
+~
+0 0
+D1
+~
+~
+AB 0 42803
+S
+
+#42805
+{ySouth Alley{x~
+~
+0 0
+D0
+~
+~
+AB 0 42803
+D3
+~
+~
+0 0 42806
+S
+
+#42806
+{ySouth Alley{x~
+~
+0 0
+D1
+~
+~
+0 0 42805
+D3
+~
+~
+0 0 42781
+S
+
+#42807
+{dL{we{Wp{we{dr's R{Def{du{wg{de{x~
+A small round room, Priscilla sits on a pile of furs and cushions on one
+side, sewing something.  All sorts of goods are spread out on the blankets
+around her, all home made.  A small altar sits next to priscilla.  Another
+room similar to this one is to the west.  
+~
+0 0
+D3
+~
+~
+0 0 42808
+D4
+~
+~
+ABG 0 42524
+H 600 600
+S
+
+#42808
+{dL{we{Wp{we{dr's R{Def{du{wg{de{x~
+A large dugout cave with roughly plastered walls and ceiling, hammocks
+are strung all about to sleep in.  Father Alen moves about, healing and
+praying with the sick.  To the east is another room similar to this one.  
+~
+0 0
+D1
+~
+~
+0 0 42807
+D4
+~
+~
+ABCG 42510 42590
+H 300 300
+S
+
+#42809
+{RBURIED ALIVE!{x~
+~
+8193 0
+D4
+~
+coffin~
+ABCFG 0 42575
+H -750 -750
+S
+
+#42810
+{RThe A{rr{de{rn{Ra{x~
+~
+598532 0
+D0
+~
+~
+0 0 42814
+D1
+~
+~
+0 0 42812
+S
+
+#42811
+{RThe S{rt{da{Dg{di{rn{Rg A{rre{Ra{x~
+~
+8192 0
+D0
+~
+~
+0 0 42810
+S
+
+#42812
+{RThe A{rr{de{rn{Ra{x~
+~
+75776 0
+D0
+~
+~
+0 0 42813
+D3
+~
+~
+0 0 42810
+S
+
+#42813
+{RThe A{rr{de{rn{Ra{x~
+~
+75776 0
+D2
+~
+~
+0 0 42812
+D3
+~
+~
+0 0 42814
+S
+
+#42814
+{RThe A{rr{de{rn{Ra{x~
+~
+75776 0
+D1
+~
+~
+0 0 42813
+D2
+~
+~
+0 0 42810
+S
+
+#42815
+{RThe A{rr{de{rn{Ra M{ro{Drg{ru{Re{x~
+This room is filled with the corpses of those who have challenge Lord
+Perth and failed.  The smell of decay is enough to make even the strongest
+of stomachs retch and vomit.  There is loot aplenty to be had here, but it
+is protected by strong magic.  
+~
+4 0
+S
+
+#42816
+{wKevah's Room{x~
+~
+4 0
+S
+
+#42817
+{dIn T{ghe {dTh{gicke{dt{x~
+{gIt is v{dery dark and th{gis tu{dnne{gl is bare{dly large enough to
+s{gt{do{gop over in.  The w{dalls are a {gdense tan{dgle o{gf thorns and
+bri{dars, an{gd it is impossi{dble to t{gell where{d this tunn{gel leads or
+wh{dere it is comin{gg from.  {x 
+~
+8193 0
+D1
+~
+~
+0 0 42819
+S
+
+#42818
+{gA Dim Tunnel{x~
+{gThis tunnel leads into the thicket to the east while daylight can be
+seen through the exit to the west.  A soft blanket of pine needles has been
+spread over the floor of this tunnel, and vines have been tied back against
+the walls with small lengths of string and dead vine.  
+~
+0 0
+D1
+~
+~
+0 0 42829
+D3
+~
+~
+0 0 42528
+S
+
+#42819
+{dIn T{ghe {dTh{gicke{dt{x~
+{gIt is v{dery dark and th{gis tu{dnne{gl is bare{dly large enough to
+s{gt{do{gop over in.  The w{dalls are a {gdense tan{dgle o{gf thorns and
+bri{dars, an{gd it is impossi{dble to t{gell where{d this tunn{gel leads or
+{gwh{dere it is comin{gg from.{x
+~
+8193 0
+D0
+~
+~
+0 0 42820
+D2
+~
+~
+0 0 42821
+D3
+~
+~
+0 0 42817
+S
+
+#42820
+{dIn T{ghe {dTh{gicke{dt{x~
+{gIt is v{dery dark and th{gis tu{dnne{gl is bare{dly large enough to
+s{gt{do{gop over in.  The w{dalls are a {gdense tan{dgle o{gf thorns and
+bri{dars, an{gd it is impossi{dble to t{gell where{d this tunn{gel leads or
+wh{dere it is comin{gg from.  {x 
+~
+8193 0
+D1
+~
+~
+0 0 42822
+D2
+~
+~
+0 0 42819
+S
+
+#42821
+{dIn T{ghe {dTh{gicke{dt{x~
+{gIt is v{dery dark and th{gis tu{dnne{gl is bare{dly large enough to
+s{gt{do{gop over in.  The w{dalls are a {gdense tan{dgle o{gf thorns and
+bri{dars, an{gd it is impossi{dble to t{gell where{d this tunn{gel leads or
+wh{dere it is comin{gg from.  {x 
+~
+8193 0
+D0
+~
+~
+0 0 42819
+D3
+~
+~
+0 0 42824
+S
+
+#42822
+{dIn T{ghe {dTh{gicke{dt{x~
+{gIt is v{dery dark and th{gis tu{dnne{gl is bare{dly large enough to
+s{gt{do{gop over in.  The w{dalls are a {gdense tan{dgle o{gf thorns and
+bri{dars, an{gd it is impossi{dble to t{gell where{d this tunn{gel leads or
+wh{dere it is comin{gg from.  {x 
+~
+8193 0
+D2
+~
+~
+0 0 42823
+D3
+~
+~
+0 0 42820
+S
+
+#42823
+{dIn T{ghe {dTh{gicke{dt{x~
+{gIt is v{dery dark and th{gis tu{dnne{gl is bare{dly large enough to
+s{gt{do{gop over in.  The w{dalls are a {gdense tan{dgle o{gf thorns and
+bri{dars, an{gd it is impossi{dble to t{gell where{d this tunn{gel leads or
+wh{dere it is comin{gg from.  {x 
+~
+8193 0
+D0
+~
+~
+0 0 42822
+D5
+~
+~
+0 0 42824
+S
+
+#42824
+{dIn T{ghe {dTh{gicke{dt{x~
+{gIt is v{dery dark and th{gis tu{dnne{gl is bare{dly large enough to
+s{gt{do{gop over in.  The w{dalls are a {gdense tan{dgle o{gf thorns and
+bri{dars, an{gd it is impossi{dble to t{gell where{d this tunn{gel leads or
+wh{dere it is comin{gg from.  {x 
+~
+8193 0
+D0
+~
+~
+0 0 42825
+D1
+~
+~
+0 0 42821
+D4
+~
+~
+0 0 42823
+S
+
+#42825
+{dIn T{ghe {dTh{gicke{dt{x~
+{gIt is v{dery dark and th{gis tu{dnne{gl is bare{dly large enough to
+s{gt{do{gop over in.  The w{dalls are a {gdense tan{dgle o{gf thorns and
+bri{dars, an{gd it is impossi{dble to t{gell where{d this tunn{gel leads or
+wh{dere it is comin{gg from.  {x 
+~
+8193 0
+D1
+~
+~
+0 0 42826
+D2
+~
+~
+0 0 42824
+S
+
+#42826
+{dIn T{ghe {dTh{gicke{dt{x~
+{gIt is v{dery dark and th{gis tu{dnne{gl is bare{dly large enough to
+s{gt{do{gop over in.  The w{dalls are a {gdense tan{dgle o{gf thorns and
+bri{dars, an{gd it is impossi{dble to t{gell where{d this tunn{gel leads or
+wh{dere it is comin{gg from.  {x 
+~
+8193 0
+D0
+~
+~
+0 0 42825
+D2
+~
+~
+0 0 42827
+D3
+~
+~
+0 0 42825
+S
+
+#42827
+{dIn T{ghe {dTh{gicke{dt{x~
+{gIt is v{dery dark and th{gis tu{dnne{gl is bare{dly large enough to
+s{gt{do{gop over in.  The w{dalls are a {gdense tan{dgle o{gf thorns and
+bri{dars, an{gd it is impossi{dble to t{gell where{d this tunn{gel leads or
+wh{dere it is comin{gg from.  {x 
+~
+8193 0
+D0
+~
+~
+0 0 42826
+D1
+~
+~
+0 0 42828
+S
+
+#42828
+{gA Ho{dllo{gw{x~
+{gThis is a high dom{ded "room" where the de{gnse thicket ha{ds been
+h{goll{dowed ou{gt to form a s{dmall space about 10 {gfeet high at th{de
+center of t{ghe roof.  {dVines hang down fr{gom the ceili{dng here an{gd
+the{dre, and a ve{gry thick stal{dk covered in {rth{go{drn{rs {gat least
+three i{dnches long goes fro{gm the center of the flo{dor up to t{ghe center
+of the roof.  
+~
+1 0
+D3
+~
+~
+0 0 42827
+S
+
+#42829
+{gWidening Tunnel{x~
+{gThe tunnel gets wider here, and is about 8 feet tall at the peak of the
+roof.  It narrows to the west but appears to broaden into a large room to
+the east.  
+~
+0 0
+D1
+~
+~
+0 0 42830
+D3
+~
+~
+0 0 42818
+S
+
+#42830
+{gK{wev{gah's H{wov{gel{x~
+{gThis is the makeshift home of a young man named Kevah.  Wooden boards
+and planks have been used to erect walls and a ceiling to keep the thicket
+from invading this space.  A small pallet stuffed with straw lays in one
+corner of the room, a table with one chair nearby.  Various trinkets and
+personal belongings lay strewn about carelessly.  There is what appears to
+be a charcoal sketch of an incredibly beautiful woman hanging on the wall.  
+~
+524288 0
+D3
+~
+~
+0 0 42829
+S
+#0
+
+#SPECIALS
+M 42516 spec_poison
+M 42526 spec_poison
+M 42532 spec_cast_undead
+M 42533 spec_poison
+M 42535 spec_poison
+M 42536 spec_poison
+M 42540 spec_poison
+M 42541 spec_cast_cleric
+M 42543 spec_breath_fire
+M 42549 spec_poison
+M 42566 spec_poison
+S
+
+#RESETS
+D 100 42524 5 1
+D 100 42575 5 2
+D 100 42590 5 2
+D 100 42597 3 1
+D 100 42611 1 1
+D 100 42613 1 1
+D 100 42613 3 1
+D 100 42737 5 1
+D 100 42738 4 1
+D 100 42742 4 2
+D 100 42743 5 2
+D 100 42785 3 1
+D 100 42786 3 1
+D 100 42787 3 1
+D 100 42788 1 1
+D 100 42789 1 1
+D 100 42790 1 1
+D 100 42791 0 1
+D 100 42792 2 1
+D 100 42794 2 1
+D 100 42796 0 1
+D 100 42798 0 1
+D 100 42799 2 1
+D 100 42800 1 1
+D 100 42800 2 1
+D 100 42801 3 1
+D 100 42802 0 1
+D 100 42803 2 1
+D 100 42803 3 1
+D 100 42804 1 1
+D 100 42805 0 1
+D 100 42807 4 1
+D 100 42808 4 2
+D 100 42809 4 2
+M 100 42530 6 42511 6
+M 100 42521 6 42512 6
+M 100 42521 6 42514 6
+M 100 42521 6 42516 6
+O 100 42509 0 42518
+M 100 42524 6 42519 6
+M 100 42521 6 42521 6
+M 100 42524 6 42522 6
+M 100 42521 6 42523 6
+M 100 42524 6 42524 6
+M 100 42524 6 42525 6
+M 100 42524 6 42527 6
+O 100 42565 0 42528
+O 100 42564 0 42528
+M 100 42525 1 42528 1
+E 100 42510 0 3
+O 100 42525 0 42542
+P 100 42526 1 42525 1
+O 100 42523 0 42542
+P 100 42522 1 42523 1
+M 100 42545 3 42546 3
+M 100 42545 3 42560 3
+M 100 42534 1 42564 1
+E 100 42524 0 16
+M 100 42545 3 42566 3
+M 100 42531 3 42574 3
+M 100 42535 3 42575 3
+M 100 42533 2 42576 2
+M 100 42531 3 42577 3
+M 100 42535 3 42578 3
+M 100 42533 2 42579 2
+M 100 42531 3 42580 3
+M 100 42532 2 42581 2
+M 100 42532 2 42582 2
+M 100 42535 3 42583 3
+M 100 42522 4 42585 4
+M 100 42522 4 42587 4
+M 100 42522 4 42588 4
+M 100 42546 1 42592 1
+E 100 42563 0 5
+M 100 42523 6 42595 6
+M 100 42523 1 42596 1
+M 100 42522 4 42596 4
+M 100 42523 6 42597 6
+M 100 42566 3 42598 3
+G 100 42570 0
+G 100 42570 0
+M 100 42530 6 42598 6
+M 100 42523 6 42599 6
+M 100 42566 3 42600 3
+G 100 42570 0
+M 100 42530 6 42600 6
+M 100 42566 3 42602 3
+G 100 42570 0
+M 100 42530 6 42602 6
+M 100 42530 6 42605 6
+M 100 42521 6 42606 6
+M 100 42530 6 42608 6
+M 100 42523 6 42610 6
+M 100 42523 6 42612 6
+M 100 42526 1 42613 1
+M 100 42511 2 42617 2
+M 100 42516 8 42618 8
+M 100 42506 2 42618 2
+M 100 42514 10 42619 10
+M 100 42514 10 42621 10
+M 100 42514 10 42622 10
+M 100 42504 2 42622 2
+M 100 42514 10 42626 10
+M 100 42507 2 42627 2
+M 100 42516 8 42627 8
+M 100 42515 7 42628 7
+M 100 42510 2 42629 2
+M 100 42516 8 42630 8
+M 100 42512 2 42631 2
+M 100 42509 2 42634 2
+M 100 42514 10 42635 10
+M 100 42515 7 42636 7
+M 100 42505 2 42636 2
+M 100 42516 8 42637 8
+M 100 42511 2 42639 2
+M 100 42515 7 42639 7
+M 100 42501 1 42640 1
+E 100 42506 0 16
+M 100 42515 7 42641 7
+M 100 42507 2 42642 2
+M 100 42515 7 42642 7
+M 100 42516 8 42644 8
+M 100 42516 8 42645 8
+M 100 42514 10 42646 10
+M 100 42504 2 42647 2
+M 100 42515 7 42648 7
+M 100 42512 2 42649 2
+M 100 42515 7 42649 7
+M 100 42505 2 42650 2
+M 100 42514 10 42651 10
+M 100 42503 2 42651 2
+M 100 42516 8 42655 8
+M 100 42506 2 42655 2
+M 100 42514 10 42656 10
+M 100 42510 2 42657 2
+M 100 42514 10 42660 10
+M 100 42503 2 42661 2
+M 100 42516 8 42662 8
+M 100 42514 10 42663 10
+M 100 42509 2 42665 2
+M 100 42540 4 42691 4
+M 100 42541 3 42692 3
+M 100 42542 2 42693 2
+E 100 42533 0 6
+M 100 42540 4 42695 4
+E 100 42531 0 20
+M 100 42540 4 42697 4
+M 100 42539 5 42700 5
+E 100 42530 0 3
+M 100 42539 5 42701 5
+M 100 42539 5 42705 5
+E 100 42530 0 3
+M 100 42541 3 42706 3
+M 100 42541 3 42708 3
+E 100 42532 0 12
+M 100 42542 2 42709 2
+E 100 42533 0 6
+M 100 42540 4 42711 4
+M 100 42544 1 42713 1
+E 100 42536 0 11
+M 100 42539 5 42714 5
+O 100 42534 0 42717
+M 100 42543 3 42718 3
+E 100 42535 0 18
+M 100 42543 3 42718 3
+M 100 42543 3 42718 3
+O 100 10446 0 42718
+M 100 42549 4 42722 4
+O 100 42539 0 42724
+M 100 42547 1 42724 1
+E 100 42542 0 18
+E 100 42538 0 17
+M 100 42549 4 42727 4
+M 100 42549 4 42731 4
+O 100 42540 0 42733
+M 100 42548 1 42733 1
+E 100 42541 0 18
+E 100 42537 0 17
+M 100 42549 4 42734 4
+M 100 42518 1 42738 1
+M 100 42519 1 42739 1
+M 100 42517 1 42741 1
+E 100 42529 0 7
+G 100 42519 0
+M 100 42500 1 42743 1
+E 100 42500 0 16
+E 100 42501 0 12
+E 100 42518 0 6
+G 100 42503 0
+G 100 42503 0
+G 100 42503 0
+E 100 42502 0 17
+M 100 42513 10 42744 10
+M 100 42513 10 42745 10
+M 100 42513 10 42746 10
+M 100 42513 10 42747 10
+M 100 42513 10 42748 10
+M 100 42513 10 42749 10
+M 100 42513 10 42750 10
+M 100 42513 10 42751 10
+M 100 42513 10 42752 10
+M 100 42513 10 42753 10
+M 100 42537 1 42754 1
+E 100 42527 0 20
+M 100 42538 1 42755 1
+E 100 42528 0 20
+M 100 42561 3 42781 3
+M 100 42562 3 42782 3
+M 100 42561 3 42784 3
+M 100 42561 3 42787 3
+M 100 42554 1 42788 1
+G 100 42568 0
+G 100 42555 0
+M 100 42553 1 42789 1
+G 100 42553 0
+G 100 42552 0
+G 100 42554 0
+G 100 42551 0
+O 100 42559 0 42790
+M 100 42551 2 42791 2
+E 100 42560 0 6
+M 100 42550 1 42795 1
+O 100 42543 0 42795
+M 100 42551 2 42796 2
+E 100 42561 0 9
+M 100 42562 3 42798 3
+M 100 42552 1 42799 1
+G 100 42550 0
+G 100 42549 0
+G 100 42548 0
+G 100 42547 0
+G 100 42546 0
+G 100 42545 0
+G 100 42544 0
+M 100 42560 1 42801 1
+M 100 42520 1 42804 1
+E 100 42520 0 9
+E 100 42508 0 16
+M 100 42559 1 42805 1
+G 100 42562 0
+M 100 42562 3 42806 3
+O 100 42517 0 42807
+M 100 42528 1 42807 1
+G 100 42512 0
+G 100 42516 0
+G 100 42513 0
+G 100 42515 0
+G 100 42514 0
+M 100 42527 1 42808 1
+O 100 42511 0 42808
+O 100 42521 0 42808
+M 100 42558 1 42810 1
+M 100 42557 1 42810 1
+M 100 42556 4 42810 4
+M 100 42556 4 42812 4
+M 100 42556 4 42813 4
+M 100 42556 4 42814 4
+M 100 42564 4 42819 4
+M 100 42564 4 42822 4
+M 100 42564 4 42824 4
+M 100 42564 4 42825 4
+M 100 42563 1 42828 1
+E 100 42566 0 17
+E 100 42566 0 10
+E 100 42566 0 20
+E 100 42566 0 18
+M 100 42565 1 42830 1
+G 100 42557 0
+G 100 42556 0
+S
+
+#SHOPS
+42503 0 0 0 0 0 100 100 0 23
+42504 0 0 0 0 0 100 100 0 23
+42505 0 0 0 0 0 100 100 0 23
+42506 0 0 0 0 0 100 100 0 23
+42507 0 0 0 0 0 100 100 0 23
+42508 0 0 0 0 0 100 100 0 23
+42509 0 0 0 0 0 100 100 0 23
+42510 0 0 0 0 0 100 100 0 23
+42512 0 0 0 0 0 100 100 0 23
+42513 0 0 0 0 0 100 100 0 23
+42528 12 15 17 19 26 100 100 0 23
+42529 0 0 0 0 0 100 100 0 23
+42552 33 10 2 3 8 100 50 2 20
+42553 5 19 17 12 9 100 50 2 20
+42554 33 0 0 0 0 100 100 0 23
+42559 9 5 33 8 10 125 125 0 23
+42564 0 0 0 0 0 100 100 0 23
+0
+
+#MOBPROGS
+#42500
+Unknown~
+Unknown~
+mob remember $r
+mob echoat $q {dD{Deat{dh grabs you by the throat and sucks your life away!{x
+mob echoaround $q Death grabs $q by $Z throat!
+mob echoaround $q $q struggles for a second, then goes limp.
+mob damage $q 35000 45000 lethal
+mob forget
+~
+
+#42501
+Unknown~
+Unknown~
+mob cast sleep $n
+mob cast blind $n
+mob cast slow $n
+mob cast slow $n
+mob cast weaken $n
+mob cast weaken $n
+mob cast curse $n
+mob cast 'faerie fire' $n
+mob remember $n
+backstab $n
+say {RYou are lost to me.  You will sleep forever.{x
+mob delay 5
+~
+
+#42502
+Unknown~
+Unknown~
+if hastarget $i
+else
+mob goto $q
+if hastarget $i
+say {RYou cannot run from me.{x
+backstab $q
+mob forget
+end
+~
+
+#42503
+Unknown~
+Unknown~
+if room $i == 42651
+mob remember $r
+mob echoat $q A pair of pale white hands suddenly break the surface and pull you under!
+mob echoaround $q A pair of pale white hands suddenly emerge behind $q, pulling them quickly into the depths!
+mob transfer $q 42661
+mob at $q mob echoat $q You struggle to the surface, but you seem to be somewhere else . . .
+mob at $q mob echoaround $q $q suddenly bursts out of the water, flailing and gasping for air!
+mob forget
+else
+mob remember $r
+mob echoat $q A pair of pale white hands suddenly break the surface and pull you under!
+mob echoaround $q A pair of pale white hands suddenly emerge behind $q, pulling them quickly into the depths!
+mob transfer $q 42651
+mob at $q mob echoat $q You struggle to the surface, but you seem to be somewhere else . . .
+mob at $q mob echoaround $q $q suddenly bursts out of the water, flailing and gasping for air!
+mob forget
+endif
+~
+
+#42504
+Unknown~
+Unknown~
+if room $i == 42647
+mob remember $r
+mob echoat $q A pair of huge black tentacles suddenly burst out of the water and grasp you, dragging you into the depths!
+mob echoaround $q A pair of black tentacles grab $q by the throat, quickly dragging them below the surface!
+mob transfer $q 42622
+mob at $q mob echoat $q The tentacles loose their grip, and you come to the surface . . . . . . somewhere else
+mob at $q mob echoaround $q Bubbles begin to appear on the surface, then $q suddenly rises out of the water!
+mob forget
+else
+mob remember $r
+mob echoat $q A pair of huge black tentacles suddenly burst out of the water and grasp you, dragging you into the depths!
+mob echoaround $q A pair of black tentacles grab $q by the throat, quickly dragging them below the surface!
+mob transfer $q 42647
+mob at $q mob echoat $q The tentacles loose their grip, and you come to the surface . . . . . . somewhere else
+mob at $q mob echoaround $q Bubbles begin to appear on the surface, then $q suddenly rises out of the water!
+mob forget
+endif
+~
+
+#42505
+Unknown~
+Unknown~
+if room $i == 42636
+mob remember $r
+mob echoat $q Suddenly you feel something tugging you downwards, as you slowly slip below the surface . . .
+mob echoaround $q $q suddenly begins sinking below the surface, leaving only a few bubbles behind . . .
+mob transfer $q 42650
+mob at $q mob echoat $q The strange force lets go, and you float back to the surface . . .
+mob at $q mob echoaround $q $q silently emerges from the black water in front of you.
+mob forget
+else
+mob remember $r
+mob echoat $q Suddenly you feel something tugging you downwards, as you slowly slip below the surface . . .
+mob echoaround $q $q suddenly begins sinking below the surface, leaving only a few bubbles behind . . .
+mob transfer $q 42636
+mob at $q mob echoat $q The strange force lets go, and you float back to the surface . . .
+mob at $q mob echoaround $q $q silently emerges from the black water in front of you.
+mob forget
+endif
+~
+
+#42506
+Unknown~
+Unknown~
+if room $i == 42655
+mob remember $r
+mob echoat $q A whirlpool begins swirling around you! You are sucked into the depths . . .
+mob echoaround $q A whirlpool swirls around $q, $q is sucked screaming below the surface.
+mob transfer $q 42618
+mob at $q mob echoat $q You burst back into the open, gasping desperately for air. 
+mob at $q mob echoaround $q $q bursts out of the lake behind you, gasping for air.
+mob forget
+else
+mob remember $r
+mob echoat $q A whirlpool begins swirling around you! You are sucked into the depths . . .
+mob echoaround $q A whirlpool swirls around $q, $q is sucked screaming below the surface.
+mob transfer $q 42655
+mob at $q mob echoat $q You burst back into the open, gasping desperately for air.
+mob at $q mob echoaround $q $q bursts out of the lake behind you, gasping for air.
+mob forget
+~
+
+#42507
+Unknown~
+Unknown~
+mob forget
+~
+
+#42508
+Unknown~
+Unknown~
+if room $i == 42627
+mob remember $r
+mob echoat $q Long muddy vines surge out of the water, wrapping around you and dragging you down!
+mob echoaround $q Long muddy vines surge out of the the water around $q, dragging them under . . .
+mob transfer $q 42642
+mob at $q mob echoat $q You burst back into the open, gasping desperately for air.
+mob at $q mob echoaround $q $q bursts out of the lake behind you, gasping for air.
+mob forget
+else
+mob remember $r
+mob echoat $q Long muddy vines surge out of the water, wrapping around you and dragging you down!
+mob echoaround $q Long muddy vines surge out of the the water around $q, dragging them under . . .
+mob transfer $q 42627
+mob at $q mob echoat $q You burst back into the open, gasping desperately for air.
+mob at $q mob echoaround $q $q bursts out of the lake behind you, gasping for air.
+mob forget
+~
+
+#42509
+Unknown~
+Unknown~
+mob junk hatred
+~
+
+#42510
+Unknown~
+Unknown~
+if room $i == 42624
+mob remember $r
+mob echoat $q A freak wave towers over you momentarily, before breaking and driving you underwater!
+mob echoaround $q A freak wave rises out of the water and crashes on $q, driving them under!
+mob transfer $q 42645
+mob at $q mob echoat $q You burst back into the open, gasping desperately for air.
+mob at $q mob echoaround $q $q bursts out of the lake behind you, gasping for air.
+mob forget
+else
+mob remember $r
+mob echoat $q A freak wave towers over you momentarily, before breaking and driving you underwater!
+mob echoaround $q A freak wave rises out of the water and crashes on $q, driving them under!
+mob transfer $q 42624
+mob at $q mob echoat $q You burst back into the open, gasping desperately for air.
+mob at $q mob echoaround $q $q bursts out of the lake behind you, gasping for air.
+mob forget
+~
+
+#42511
+Unknown~
+Unknown~
+say Lord Perth is already engaged in battle, you cannot enter.
+~
+
+#42512
+Unknown~
+Unknown~
+mob echoat $n Your blow opens a huge hole in the corpse's chest!
+mob echoaround $n $n's blow opens a huge hole in the corpse's chest!
+mob echo A mass of writhing maggots and blackish-red blood sprays from the wound, drenching you!
+mob echo You suddenly feel thousands of pinpricks as the maggots begin to devour your flesh!
+mob mload 42536
+mob force maggots kill $r
+mob mload 42536
+mob force maggots kill $r
+mob mload 42536
+mob force maggots kill $r
+mob mload 42536
+mob force maggots kill $r
+mob mload 42536
+mob force maggots kill $r
+~
+
+#42513
+Unknown~
+Unknown~
+kill $r
+~
+
+#42514
+Unknown~
+Unknown~
+0 mob mload 42327
+mob force evil k $n
+~
+
+#42515
+Unknown~
+Unknown~
+if room $i == 42634
+mob remember $r
+mob echoat $q A wave tosses a large timber in the air and it comes down on you, knocking you out cold!
+mob echoaround $q A wave tosses a large timber in the air, it falls on $q's head knocking them out cold!  $q is quickly lost below the surface . . .
+mob transfer $q 42665
+mob at $q mob echoat $q You burst back into the open, gasping desperately for air.
+mob at $q mob echoaround $q $q bursts out of the lake behind you, gasping for air.
+mob forget
+else
+mob remember $r
+mob echoat $q A wave tosses a large timber in the air and it comes down on you, knocking you out cold!
+mob echoaround $q A wave tosses a large timber in the air, it falls on $q's head knocking them out cold!  $q is quickly lost below the surface . . .
+mob transfer $q 42634
+mob at $q mob echoat $q You burst back into the open, gasping desperately for air.
+mob at $q mob echoaround $q $q bursts out of the lake behind you, gasping for air.
+mob forget
+~
+
+#42516
+Unknown~
+Unknown~
+if room $i == 42629
+mob remember $r
+mob echoat $q A pair of pale white hands suddenly break the surface and pull you under!
+mob echoaround $q A pair of pale white hands suddenly emerge behind $q, pulling them quickly into the depths!
+mob transfer $q 42657
+mob at $q mob echoat $q You struggle to the surface, but you seem to be somewhere else . . .
+mob at $q mob echoaround $q $q suddenly bursts out of the water, flailing and gasping for air!
+mob forget
+else
+mob remember $r
+mob echoat $q A pair of pale white hands suddenly break the surface and pull you under!
+mob echoaround $q A pair of pale white hands suddenly emerge behind $q, pulling them quickly into the depths!
+mob transfer $q 42629
+mob at $q mob echoat $q You struggle to the surface, but you seem to be somewhere else . . .
+mob at $q mob echoaround $q $q suddenly bursts out of the water, flailing and gasping for air!
+mob forget
+endif
+~
+
+#42517
+Unknown~
+Unknown~
+if room $i == 42639
+mob remember $r
+mob echoat $q A pair of huge black tentacles suddenly burst out of the water and grasp you, dragging you into the depths!
+mob echoaround $q A pair of black tentacles grab $q by the throat, quickly dragging them below the surface!
+mob transfer $q 42617
+mob at $q mob echoat $q The tentacles loose their grip, and you come to the surface . . . . . . somewhere else
+mob at $q mob echoaround $q Bubbles begin to appear on the surface, then $q suddenly rises out of the water!
+mob forget
+else
+mob remember $r
+mob echoat $q A pair of huge black tentacles suddenly burst out of the water and grasp you, dragging you into the depths!
+mob echoaround $q A pair of black tentacles grab $q by the throat, quickly dragging them below the surface!
+mob transfer $q 42639
+mob at $q mob echoat $q The tentacles loose their grip, and you come to the surface . . . . . . somewhere else
+mob at $q mob echoaround $q Bubbles begin to appear on the surface, then $q suddenly rises out of the water!
+mob forget
+endif
+~
+
+#42518
+Unknown~
+Unknown~
+if room $i == 42649
+mob remember $r
+mob echoat $q Long muddy vines surge out of the water, wrapping around you and dragging you down!
+mob echoaround $q Long muddy vines surge out of the the water around $q, dragging them under . . .
+mob transfer $q 42631
+mob at $q mob echoat $q You burst back into the open, gasping desperately for air.
+mob at $q mob echoaround $q $q bursts out of the lake behind you, gasping for air.
+mob forget
+else
+mob remember $r
+mob echoat $q Long muddy vines surge out of the water, wrapping around you and dragging you down!
+mob echoaround $q Long muddy vines surge out of the the water around $q, dragging them under . . .
+mob transfer $q 42649
+mob at $q mob echoat $q You burst back into the open, gasping desperately for air.
+mob at $q mob echoaround $q $q bursts out of the lake behind you, gasping for air.
+mob forget
+~
+
+#42519
+Unknown~
+Unknown~
+if rand == 90
+mob transfer $r 42748
+else
+if rand == 55
+mob transfer $r 42753
+else
+if rand == 50
+mob transfer $r 42744
+else
+if rand == 55
+mob transfer $r 42745
+else
+if rand == 60
+mob transfer $r 42746
+if rand == 80
+if rand == 65
+mob transfer $r 42747
+else
+if rand == 70
+mob transfer $r 42752
+else
+if rand == 75
+mob transfer $r 42749
+else
+if rand == 20
+mob transfer $r 42750
+else
+if rand == 85
+mob transfer $r 42751
+end
+~
+
+#42520
+Unknown~
+Unknown~
+if room $i == 42804
+say Guards! Kill this filth who would engage me in dishonorable combat!
+mob mload 42555
+mob force guard kill $n
+else
+if rand 50
+mob oload 17508
+quaff heal
+else
+circle
+end
+end
+~
+
+#42521
+Unknown~
+Unknown~
+if rand 25
+mob oload 2650
+quaff eye
+mob call 42521 $i
+else
+if rand 20
+mob oload 2647
+quaff holy
+else
+mob oload 17508
+quaff heal
+end
+~
+
+#42522
+Unknown~
+Unknown~
+get corpse
+mob at 42815 drop corpse
+mob forget
+mob purge $i
+~
+
+#42523
+Unknown~
+Unknown~
+if room $i == 42804
+else
+mob call 42521 $i
+~
+
+#42524
+Unknown~
+Unknown~
+mob echoat $n In a dying effort {YTh{ye A{Rlv{Yar{Rix{rus{x falls towards you and gashes you with a spiked appendage!
+mob damage $n 5000 10000 lethal
+~
+
+#42525
+Unknown~
+Unknown~
+if isgood $n
+mob oload 42537
+else
+mob oload 42538
+end
+~
+
+#42526
+Unknown~
+Unknown~
+if level $n > 100
+say So you wish to engage me in mortal combat?
+say Oh ho ho, well then, we shall do battle to the death in my personal arena.
+say Attendants, take him to the staging area!
+say You may enter the arena whenever you are ready for me.
+mob echoat $n Two attendents come from a side room and escort you through the town to a large building
+mob echoat $n You are left in a small room with only one door leading north into the arena . . .
+mob junk agreement
+mob transfer $n 42811
+mob goto 42810
+yell Lay on $n, I have a dinner party to attend!
+else
+say Ho ho little one, I would crush you in a second!
+end
+~
+
+#42527
+Unknown~
+Unknown~
+sob
+say I'm in a bit of a predicament, do you think you can help me?
+~
+
+#42528
+Unknown~
+Unknown~
+say My fiance was banished from our town by our Lord Perth
+say He was beaten badly and sent across the black water . . .
+say No one knows what lies on the other side.
+say Perth claimed it was punishment for treason but I know the truth.
+say Lord Perth was jealous of my love for Kevah.
+say Now I am being forced to marry him.
+sob
+say There is only one way to free me from this horrible situation.
+say A great hero must challenge Lord Perth to a duel . . . he simply cannot resist
+say If you would be my hero, give this duel agreement to lord perth and defeat him!
+mob oload 42558
+give agreement $n
+~
+
+#42529
+Unknown~
+Unknown~
+if room $i == 42810
+if players == 0
+mob oload 17508
+quaff heal
+end
+~
+
+#42530
+Unknown~
+Unknown~
+if players > 1
+mob transfer $r 42804
+end
+~
+
+#42531
+Unknown~
+Unknown~
+if hpcnt $r < 10
+mob remember $r
+mob echoat $q Lord Perth grabs you by your throat and lifts you off the ground.
+mob force ldkshghkeiqt say You are pathetic, I will have my men send you across the black water where only the dead live.
+mob echoat $q Lord Perth savagely headbutts you in the face, sending you tumbling into darkness . . .
+mob echoat $q 
+mob echoat $q 
+mob echoat $q 
+mob echoat $q 
+mob echoat $q .
+mob echoat $q . . .
+mob echoat $q . . . . .
+mob echoat $q You slowly come to your senses, broken and bleeding, only to find yourself in a very dark and cramped space . . .
+mob transfer $q 42809
+mob forget
+mob purge ldkshghkeiqt
+~
+
+#42532
+Unknown~
+Unknown~
+if players == 1
+if mobexists ldkshghkeiqt
+else
+mob remember $r
+mob echoat $q News of your victory has spread quickly through the village, and as you are escorted out of the arena people line the streets to see who has defeated Lord Perth.
+mob echoat $q You proceed directly to Melinda's house to give her the happy news only to find that she has already left.
+mob echoat $q Left behind is a note that reads "Thank you $q for all you have done for me.  Unfortunately I am but a poor girl and cannot repay you with material things, but I am forever in your debt."
+mob echoat $q Dissatisfied, you turn your heels to the town on the edge of the black water, hoping never to see it again . . .
+mob transfer $q 42505
+mob forget
+~
+
+#42533
+Unknown~
+Unknown~
+mob remember $r
+mob echoat $q $I lashes out from nowhere and scratches your face!
+mob echoaround $q $I lashes out at $q and scratches $Z face!
+mob damage $q 1000 3000 lethal
+mob forget
+~
+
+#42566
+Unknown~
+Unknown~
+k $n
+mob delay 5
+mob delay 2
+~
+
+#42567
+Unknown~
+Unknown~
+mob echo A carnivorious plant slithers back into the brush!
+mob purge $i
+~
+#0
+
+#$

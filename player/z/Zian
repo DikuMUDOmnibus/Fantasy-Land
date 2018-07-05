@@ -1,0 +1,271 @@
+#PLAYER
+Name Zian~
+Race elf~
+Levl 2
+Clas thief~
+Pkpt 100
+TSex 1
+LogO 1352253794
+Sock adsl-74-160-18-8.asm.bellsouth.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1352252216
+Plat 0
+Gold 6
+Silv 51
+Exp  12750
+Attr 18 20 20 21 17
+Prom (%e){1<{@%hh %mm %vv{1> {1[{@%q{1]{x ~
+Act  BCDEFGHJQRT
+AfBy DFLV
+ShBy CD
+Comm NQ
+Pos  8
+Sk 1 'backstab'
+Sk 1 'circle'
+Sk 75 'dagger'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'dual wield'
+Sk 1 'fourth attack'
+Sk 1 'hide'
+Sk 1 'lore'
+Sk 1 'mace'
+Sk 1 'parry'
+Sk 1 'peek'
+Sk 1 'pick lock'
+Sk 50 'recall'
+Sk 1 'scrolls'
+Sk 1 'second attack'
+Sk 1 'sneak'
+Sk 1 'staves'
+Sk 1 'steal'
+Sk 1 'sword'
+Sk 1 'third attack'
+Sk 1 'trap disarm'
+Sk 1 'trip'
+Sk 1 'wands'
+MaxDam 39
+LLev 0
+Pass ZixQECnokqQx6~
+Plyd 1578
+Note 0 0 0 0 0
+Room 3005
+HMVN 188 63 145 35 142 53
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 15 15
+Deviant 0 0
+Prac 28
+Trai 2
+Devote current 0
+Pnts 66
+Mkil 16
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+Affc 'farsight'   0   1   0  -1   0   0       2048
+Affc 'haste'   0 103   0  13   3   2    2097152
+Affc 'fireshield'   1 103   0  13   0   0          8
+Affc 'shield'   0 104   0  12 -35  17          0
+Affc 'iceshield'   1 105   0  10   0   0          4
+Affc 'armor'   0 104   0   4 -106  17          0
+Affc 'detect hidden'   0   0   0  -1   0   0         32
+Affc 'detect invis'   0   0   0  -1   0   0          8
+End
+
+#O
+Vnum 3162
+Nest 0
+Name map new midgaard~
+ShD  A map of New Midgaard~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3163
+Nest 0
+Name map thera~
+ShD  a map of Western Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3169
+Nest 0
+Name map thera~
+ShD  a map of Eastern Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3716
+Nest 0
+Name round oval sphere reddish orange~
+ShD  A Strange Reddish-Orange Sphere~
+Desc A round oval-like sphere glowing reddish-orange is settled here on the ground.~
+Cost 0
+Wear 0
+Valu 2 1 167
+End
+
+#O
+Vnum 3703
+Nest 0
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3701
+Nest 0
+Name dagger thothian ~
+ShD  A Thothian Dagger~
+Desc A small dagger made from Thoth lies here.~
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3707
+Nest 0
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 35
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 35
+Wear 13
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 36
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 36
+Wear 3
+End
+
+#O
+Vnum 3708
+Nest 0
+Name pair leather thothian sandals~
+ShD  A pair of Thothian Sandals~
+Desc A pair of leather sandals made from Thoth lies here.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 36
+Wear 8
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 36
+Wear 14
+End
+
+#O
+Vnum 3724
+Nest 0
+Name ring thothian ~
+ShD  A Thothian-made Ring~
+Desc A small ring with the engraving "T" is lying here.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 36
+Wear 1
+End
+
+#O
+Vnum 3719
+Nest 0
+Name thothian axe~
+ShD  A Thothian Axe~
+Desc A long Thothian axe lies here lavished with blood.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 36
+End
+
+#O
+Vnum 3706
+Nest 0
+Name round thothian helmet~
+ShD  A Thothian Helmet~
+Desc A large round helmet made from Thoth is lying here.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 37
+Wear 6
+End
+
+#O
+Vnum 3711
+Nest 0
+Name thothian dark cape~
+ShD  A Thothian Cape~
+Desc A long dark cape finely made from Thoth lies here.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 37
+Wear 12
+End
+
+#O
+Vnum 725
+Nest 0
+Name pants normal~
+ShD  pants~
+Desc Some pants are here.~
+Loader MPOP: (20:54-11/06/2012) Zian~
+End
+
+#O
+Vnum 3727
+Nest 0
+Name abandoned mask~
+ShD  An abandoned mask~
+Desc An abandoned mask is lying here eyeless and mouthless.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 40
+Wear 20
+End
+
+#O
+Vnum 3728
+Nest 0
+Name thothian black eyepatch~
+ShD  A Thothian Eyepatch~
+Desc A thin but long black eyepatch of Thoth lies here.~
+MULTI Zian~ adsl-74-160-18-8.asm.bellsouth.net~ 40
+Wear 27
+End
+
+#END

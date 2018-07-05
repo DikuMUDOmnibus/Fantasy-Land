@@ -1,0 +1,634 @@
+#PLAYER
+Name Kirash~
+Race vampire~
+Levl 26
+Clas ranger~
+Cls1 mage~
+Cls2 mage~
+Cls3 mage~
+Pkpt 100
+TSex 1
+LogO 1263857550
+Sock fl-67-237-125-219.dhcp.embarqhsd.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1263852991
+Plat 12
+Gold 4
+Silv 95
+Exp  52701
+Attr 24 19 19 22 21
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+AfBy CDEFGHLTUVZce
+ShBy BCDEFGHIJKLR
+Comm N
+Pos  8
+Alig  1000
+Sk 1 'acid storm'
+Sk 1 'animate'
+Sk 1 'armor'
+Sk 1 'awen'
+Sk 1 'barkskin'
+Sk 1 'blink'
+Sk 1 'call lightning'
+Sk 1 'cancellation'
+Sk 1 'channel'
+Sk 1 'charm person'
+Sk 1 'constitution'
+Sk 1 'control weather'
+Sk 1 'cure blindness'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'cure light'
+Sk 1 'cure poison'
+Sk 1 'cure serious'
+Sk 1 'cure weaken'
+Sk 1 'detect terrain'
+Sk 1 'dispel magic'
+Sk 1 'downpour'
+Sk 1 'earthquake'
+Sk 1 'electrical storm'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'fire storm'
+Sk 1 'fireproof'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'giant strength'
+Sk 1 'golden armor'
+Sk 1 'groupheal'
+Sk 1 'growth'
+Sk 1 'haste'
+Sk 1 'heal'
+Sk 1 'intellect'
+Sk 1 'lightning bolt'
+Sk 1 'mass healing'
+Sk 1 'nexus'
+Sk 1 'pass door'
+Sk 1 'portal'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'protection neutral'
+Sk 1 'protection voodoo'
+Sk 1 'refresh'
+Sk 1 'regeneration'
+Sk 1 'resurrect'
+Sk 1 'sanctuary'
+Sk 1 'shield'
+Sk 1 'shrink'
+Sk 1 'sleep'
+Sk 1 'snow storm'
+Sk 1 'steel skin'
+Sk 1 'stone skin'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'transport'
+Sk 1 'vigorize'
+Sk 1 'wisdom'
+Sk 1 'word of recall'
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'dual wield'
+Sk 1 'enhanced damage'
+Sk 77 'feed'
+Sk 1 'flail'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'mace'
+Sk 1 'parry'
+Sk 1 'polearm'
+Sk 1 'quarterstaff'
+Sk 50 'recall'
+Sk 1 'scrolls'
+Sk 1 'spear'
+Sk 1 'staves'
+Sk 75 'sword'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'wands'
+Sk 1 'whip'
+MaxDam 94
+LLev 1
+Pass Ki.e9.HoLt1xE~
+Plyd 4559
+Note 0 0 0 1257603679 0
+Room 3014
+HMVN 2121 1643 1904 1779 1153 1046
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 0 0
+Deviant 0 0
+Prac 161
+Trai 42
+Devote current 0
+Pnts 47
+Mkil 101
+Mdea 2
+TotalCmpl 1
+TotalPnts 11
+TotalAttm 2
+TotalFail 1
+QuestPnts 11
+QuestNext 9
+Gr 'beguiling'
+Gr 'curative'
+Gr 'enhancement'
+Gr 'healing'
+Gr 'protective'
+Gr 'ranger basics'
+Gr 'ranger default'
+Gr 'rom basics'
+Gr 'transportation'
+Gr 'weaponsmaster'
+Gr 'weather'
+Affc 'wisdom'   0 115   0   9   3   4          0
+Affc 'watershield'   1 114   0  26   0   0     131072
+Affc 'vigorize'   0 114   0   2 353  13          0
+Affc 'thornshield'   1 115   0  26   0   0        256
+Affc 'stone skin'   0 115   0  55 -115  17          0
+Affc 'shrapnelshield'   1 114   0  26   0   0         64
+Affc 'shockshield'   1 114   0  26   0   0         16
+Affc 'shield'   0 114   0  26 -38  17          0
+Affc 'sanctuary'   1 115   0  17   0   0        128
+Affc 'rockshield'   1 115   0  26   0   0         32
+Affc 'pass door'   0 115   0  26   0   0    1048576
+Affc 'invisibility'   1 115   0  55   0   0          2
+Affc 'intellect'   0 115   0   9   3   3          0
+Affc 'iceshield'   1 115   0  26   0   0          4
+Affc 'haste'   0 115   0  55   3   2    2097152
+Affc 'growth'   0 115   0   3   1  26          0
+Affc 'golden armor'   4 114   0   9 -16   1          0
+Affc 'golden armor'   4 115   0   9 -16  17          0
+Affc 'golden armor'   4 115   0   9 -16  20          0
+Affc 'giant strength'   0 114   0  55   3   1 1073741824
+Affc 'frenzy'   0 114   0  36  90  17          0
+Affc 'frenzy'   0 115   0  36  38  19          0
+Affc 'frenzy'   0 115   0  36  38  18          0
+Affc 'fireshield'   1 114   0  26   0   0          8
+Affc 'faith'   4 115   0  21 -23  14          0
+Affc 'faith'   0 115   0  21  57  18          0
+Affc 'faith'   0 114   0  21  57  19          0
+Affc 'divine aura'   1 115   0  60   0   0       1024
+Affc 'devotion'   0 115   0   9 -22  20          0
+Affc 'detect neutral'   0 115   0  55   0   0        128
+Affc 'detect magic'   0 114   0  55   0   0         16
+Affc 'detect invis'   0 114   0  55   0   0          8
+Affc 'detect hidden'   0 115   0  55   0   0         32
+Affc 'detect good'   0 114   0  55   0   0         64
+Affc 'detect evil'   0 115   0  55   0   0          4
+Affc 'darkvision'   0 114   0  26   0   0   33554432
+Affc 'constitution'   0 115   0   9   3   5          0
+Affc 'bless'   0 114   0  42 -14  20          0
+Affc 'bless'   0 115   0  42  14  18          0
+Affc 'barkskin'   0 115   0  21 -115  17          0
+Affc 'awen'   0 115   0  21  28  19          0
+Affc 'awen'   0 115   0  21  28  18          0
+Affc 'armor'   0 113   0  21 -115  17          0
+Affc 'acidshield'   1 114   0  26   0   0       2048
+Affc 'farsight'   0   1   0  -1   0   0       2048
+Affc 'vampiricshield'   1  19   0  -1   0   0        512
+Affc 'regeneration'   0  19   0  -1   0   0  268435456
+Affc 'fly'   0  19   0  -1   0   0     524288
+End
+
+#O
+Vnum 3162
+Nest 0
+End
+
+#O
+Vnum 3163
+Nest 0
+End
+
+#O
+Vnum 3169
+Nest 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+Wear 0
+Valu 2 1 145
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 6
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 6
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 6
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 6
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+Wear 13
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+Wear 3
+End
+
+#O
+Vnum 3706
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+Wear 6
+End
+
+#O
+Vnum 3711
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+Wear 12
+End
+
+#O
+Vnum 3708
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+Wear 8
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 7
+Wear 14
+End
+
+#O
+Vnum 3726
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 8
+Wear 21
+End
+
+#O
+Vnum 3700
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 8
+End
+
+#O
+Vnum 3725
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 8
+Wear 26
+End
+
+#O
+Vnum 3701
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 8
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 9
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 9
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 9
+Wear 25
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 9
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 9
+Wear 24
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 9
+End
+
+#O
+Vnum 3724
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 9
+Wear 2
+End
+
+#O
+Vnum 3719
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 9
+End
+
+#O
+Vnum 3727
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 10
+End
+
+#O
+Vnum 3728
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 10
+Wear 27
+End
+
+#O
+Vnum 3709
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 11
+Wear 9
+End
+
+#O
+Vnum 3710
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 11
+Wear 10
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 11
+Wear 15
+End
+
+#O
+Vnum 3715
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 11
+Wear 17
+End
+
+#O
+Vnum 717
+Nest 0
+Name cap normal~
+Loader MPOP: (17:38-01/18/2010) Kirash~
+End
+
+#O
+Vnum 721
+Nest 0
+Name veil normal~
+Loader MPOP: (17:38-01/18/2010) Kirash~
+Wear 20
+End
+
+#O
+Vnum 3724
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 14
+Wear 1
+End
+
+#O
+Vnum 3719
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 14
+End
+
+#O
+Vnum 3021
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 16
+End
+
+#O
+Vnum 3066
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 16
+End
+
+#O
+Vnum 3052
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 16
+End
+
+#O
+Vnum 3702
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 16
+Wear 16
+End
+
+#O
+Vnum 3351
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 18
+End
+
+#O
+Vnum 812
+Nest 0
+Name staff normal~
+Loader MPOP: (17:54-01/18/2010) Kirash~
+Valu 3 5 thwack
+End
+
+#O
+Vnum 780
+Nest 0
+Name club spiked normal~
+Loader MPOP: (17:55-01/18/2010) Kirash~
+End
+
+#O
+Vnum 2506
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 29
+End
+
+#O
+Vnum 2512
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 29
+End
+
+#O
+Vnum 2516
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 30
+End
+
+#O
+Vnum 2526
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 32
+End
+
+#O
+Vnum 2526
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 33
+End
+
+#O
+Vnum 2525
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 33
+End
+
+#O
+Vnum 2525
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 33
+End
+
+#O
+Vnum 2512
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 34
+End
+
+#O
+Vnum 2512
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 39
+End
+
+#O
+Vnum 774
+Nest 0
+Name Silver flail Idunn special~
+ShD  Silver flail of Idunn~
+Loader MPOP: (18:20-01/18/2010) Kirash~
+Lev  20
+Cost 75
+Affc 'reserved' 2 1 -1 4 5 0
+Affc 'reserved' 2 1 -1 32 12 0
+Affc 'reserved' 2 1 -1 -5 20 0
+Affc 'reserved' 2 1 -1 9 18 0
+End
+
+#O
+Vnum 2516
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 41
+End
+
+#O
+Vnum 2526
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 41
+End
+
+#O
+Vnum 2526
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 41
+End
+
+#O
+Vnum 1357
+Nest 0
+MULTI Kirash~ fl-67-237-125-219.dhcp.embarqhsd.net~ 45
+End
+
+#O
+Vnum 806
+Nest 0
+Name Sadistic lash special~
+ShD  Sadistic lash~
+Loader MPOP: (18:29-01/18/2010) Kirash~
+ExtF JW
+Lev  41
+Cost 75
+Affc 'reserved' 2 1 -1 -33 17 0
+Affc 'reserved' 2 1 -1 22 19 0
+End
+
+#END

@@ -1,0 +1,3507 @@
+#AOD_AREA
+School of Necarios~
+31500 31599 C 8
+Levl 20 60
+Bldr Broed~
+Alig N
+End
+
+#MOBILES
+#31500
+raven giant~
+a giant raven~
+A giant {*raven{0 flutters here, screeching at you.
+~
+This bird is not a naturally occuring raven, it is much too large.  It
+must be a member of a magically altered subspecies created by
+experimentation by the wizards of the School of Necarios.  Be wary of it, it
+looks angry.  This is the kind of bird that doesn't peck, it gnashes.  
+~
+song bird~
+100 100 100 100 100 100 100 100 150 100 100 100 50 100 50 100 100 100 100 100 100 100 150 100 100 100 
+G Z 0 0 0
+15 15 0 214 242 151 186 2 8 13 bite
+-10 -10 -10 20
+STANDING STANDING random 0
+63 warrior medium ACDEFHKP
+P 75 0
+
+#31501
+gorff student~
+Gorff~
+{%G{5orff{0, a student of the School, mutters about something.
+~
+Gorff is a scrawny, weak looking individual.  He mutters about something,
+and you notice his robe is smeared with old garbage stains.  He carries a
+bucket of slop, and it slodges out over the sides as he walks.  He mutters
+about something, probably the fact that he has to do garbage detail.  
+~
+human~
+100 100 100 150 100 100 100 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 
+BC 0 0 -350 0
+10 10 0 117 130 126 161 2 5 8 punch
+20 20 20 40
+STANDING STANDING male 10
+62 warrior medium ABCDEFGHIJK
+P 17 0
+M RANDOM 31500 10~
+
+#31502
+waiting wraith~
+a waiting wraith~
+A {*wraith{0 slinks forth from the shadows to attack you!
+~
+It is a mass of swirling shadows, black and grey.  The static sparks of
+undead electricity leap from it.  
+~
+human~
+100 100 0 150 100 100 100 100 100 150 100 100 100 0 0 100 100 100 100 150 100 100 100 100 100 100 
+BFO DFJQb 0 -750 0
+10 10 0 117 135 129 150 2 5 8 drain
+20 20 20 40
+STANDING STANDING neutral 0
+62 warrior medium ABCDEFGHIJK
+P 18 0
+
+#31503
+grekl student~
+Grekl~
+{%G{5rekl{0, a student of the School, sleeps on a bed here.
+~
+Grekl is a sloppily dressed and maintained sort, with ratty hair and
+dirty features.  He looks to have not bathed or shaved for a while.  
+~
+human~
+100 100 100 150 100 100 100 100 150 100 100 100 100 100 50 100 100 100 50 100 100 100 100 100 100 100 
+0 0 0 -250 0
+10 10 0 119 131 117 157 2 5 8 punch
+20 20 20 40
+SLEEPING SLEEPING male 15
+62 warrior medium ABCDEFGHIJK
+P 4 0
+
+#31504
+ganner student~
+Ganner~
+{%G{5anner{0, a student of the School, holds a frog by its leg as it twitches.
+~
+Ganner appears to be in his late twenties, with a cruel black goatee and
+mustache.  His hands are stained with the blood of the creatures he performs
+experiments on.  
+~
+human~
+100 100 100 150 100 100 100 100 150 100 100 100 100 100 50 100 100 100 50 100 100 100 100 100 100 100 
+0 0 0 -950 0
+12 12 0 150 176 133 161 2 6 10 punch
+0 0 0 30
+STANDING STANDING male 200
+62 warrior medium ABCDEFGHIJK
+P 3 0
+M GREET 31501 100~
+
+#31505
+uthure student~
+Uthure~
+{%U{5thure{0, an incredibly large student, grins at you, flexing.
+~
+Uthure has rippling muscles, which are barely held in by his school
+robes.  He has a bullwhip in each hand, thick strips of leather which look
+like they would draw copious amounts of blood and inflict great pain with a
+stroke.  
+~
+human~
+100 100 50 150 100 100 100 100 100 100 100 100 100 100 50 100 100 100 50 100 100 100 100 100 100 100 
+0 0 0 -300 0
+20 20 0 309 341 175 214 3 8 17 smash
+-40 -40 -40 0
+STANDING STANDING male 250
+64 warrior medium ABCDEFGHIJK
+P 2 0
+M GREET 31502 100~
+
+#31506
+viper mesger~
+one of Mesger's vipers~
+One of Mesger's pet {2v{3i{2p{3e{2r{3s{0 springs forth from a basket to strike you!
+~
+You can't see much of the viper, it moves so fast!  All you get a general
+impression of is quickly striking fangs and sliding shadows along the scales
+of the beast.  
+~
+snake~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+BF JVZ 0 0 0
+15 15 0 214 240 143 186 2 8 13 bite
+-10 -10 -10 20
+STANDING STANDING random 0
+63 warrior medium ADEFKLQVX
+P 6 1
+
+#31507
+mot student~
+Mot~
+{%M{5ot{0, one of the female twin students, stands here.
+~
+Mot is sinisterly beautiful, with a dark quality to her.  Her raven hair
+beguiles your eyes and her jet eyes pierce straight into your soul.  Yes,
+Mot is one attractive female.  Or is this one Lol?  
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 50 100 100 100 50 100 100 100 100 100 100 100 
+0 0 0 -850 0
+14 14 0 178 207 131 189 2 7 12 slap
+0 0 0 20
+STANDING STANDING female 100
+62 warrior medium ABCDEFGHIJK
+P 2 0
+
+#31508
+lol student~
+Lol~
+{%L{5ol{0, one of the female twin students, stands here.
+~
+Lol is sinisterly beautiful, with a dark quality to her.  Her raven hair
+beguiles your eyes and her jet eyes pierce straight into your soul.  Yes,
+Lol is one attractive female.  Or is this one Mot?  
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 50 100 100 100 50 100 100 100 100 100 100 100 
+0 0 0 -850 0
+14 14 0 180 206 146 183 2 7 12 slap
+0 0 0 20
+STANDING STANDING female 100
+62 warrior medium ABCDEFGHIJK
+P 2 0
+
+#31509
+baakara student~
+Baakara~
+{%B{5aakara{0, a particularly hideous brutish student, sits here reading.
+~
+Baakara is ugly.  Really ugly.  She must have some non-human blood in her
+veins.  Maybe pig?  Or cow?  
+~
+orc~
+100 50 100 100 150 100 100 100 100 100 150 100 150 150 150 100 100 100 50 100 50 100 150 100 100 100 
+B JVcd 0 -250 0
+7 7 0 75 84 104 129 1 6 6 pierce
+40 40 40 50
+STANDING STANDING female 200
+61 warrior medium ABCDEFGHIJK
+P 4 0
+M GREET 31503 100~
+
+#31510
+kazmar student~
+Kazmar~
+{%K{5azmar{0, a student of the School, wanders here, looking for a certain book.
+~
+Kazmar has wire rimmed spectacles which do nothing to accent her looks. 
+She isn't beautiful, but she certainly isn't ugly.  She just doesn't take as
+much effort into her appearance as does say, Lansa.  She could most likely
+be very beautiful if she put her mind to it.  
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 50 100 50 100 100 100 50 100 100 100 100 100 100 100 
+0 0 0 -250 0
+22 22 0 356 408 174 221 3 8 19 punch
+-60 -60 -60 -10
+STANDING STANDING female 150
+64 warrior medium ABCDEFGHIJK
+P 8 0
+
+#31511
+mesger student~
+Mesger~
+{%M{5esger{0, the eldest student of the School, stands here.
+~
+Mesger is an older woman, perhaps in her forties.  She has been a
+resident of the School for many years now.  Her hands bear numerous marks,
+perhaps snakebites?  
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 50 100 100 100 0 100 100 100 100 100 100 100 
+0 b 0 -400 0
+24 24 0 414 473 186 242 3 10 21 punch
+-70 -70 -70 -20
+STANDING STANDING female 200
+64 warrior medium ABCDEFGHIJK
+P 8 0
+
+#31512
+claustus student elder~
+Claustus~
+{%C{5laustus{0, the elder student, stands here going over lecture material.
+~
+Claustus is a cruel looking man, with sharply angular features and a
+wicked grin on his face.  He would like nothing more than to cause you
+inestimitable amounts of pain.  
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 50 100 100 100 50 100 100 100 100 100 100 100 
+0 Db 0 -1000 0
+28 28 0 500 581 220 277 4 8 24 punch
+-100 -100 -100 -40
+STANDING STANDING male 500
+65 warrior medium ABCDEFGHIJK
+P 13 0
+
+#31513
+imrith student~
+Imrith~
+{%I{5mrith{0, a student, confers with Jael, his roommate.
+~
+Imrith is a laan-elf, tall and lean in figure.  He and Jael are roommates
+and are an odd pairing.  He is elven, Jael a dwarf, but they seem to always
+be together, in study and recreation.  They often argue, but somehow remain
+very close to each other.  
+~
+human~
+100 150 0 100 100 100 100 100 100 150 0 100 0 100 50 100 100 100 50 150 100 100 100 100 100 100 
+B JZb N -750 0
+11 11 0 130 148 131 157 2 5 9 punch
+10 10 10 30
+STANDING STANDING male 200
+62 warrior medium ABCDEFGHIJK
+P 7 0
+
+#31514
+jael student~
+Jael~
+{%J{5ael{0, a student, stands next to Imrith.
+~
+Jael is a dour dwarf, with a sullen expression of great sadness.  He is
+usually found with the company of his roommate Imrith.  Strangely, these two
+get along better than any two of their race you have ever seen.  
+~
+dwarf~
+100 0 100 100 0 100 100 100 100 100 100 100 150 150 50 100 100 0 0 100 100 100 150 100 100 100 
+B JZb 0 -750 0
+12 12 0 148 173 132 165 2 6 10 punch
+0 0 0 30
+STANDING STANDING male 200
+62 warrior medium ABCDEFGHIJK
+P 7 0
+
+#31515
+timor student~
+Timor~
+{%T{5imor{0, a student and expert knife-fighter, stands here, experimenting with poisons.
+~
+Timor is a particularly evil man, under the close tutelage of the
+malicious Claustus, the senior student of the School.  The dean Morbias and
+Claustus both have high hopes for this one, for he has shown great magical
+prowess as well as a penchant for cruelty beyond measure.  He fights with
+twin daggers, emphasizing his ambidexterity.  
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 50 100 100 100 50 100 100 100 100 100 100 100 
+0 b 0 -1000 0
+20 20 0 299 354 166 208 3 8 17 punch
+-40 -40 -40 0
+STANDING STANDING male 350
+64 warrior medium ABCDEFGHIJK
+P 10 0
+
+#31516
+jezalai student~
+Jezalai~
+{%J{5ezalai{0, a malicious student, who follows a dark god, sits here experimenting.
+~
+Jezalai is a wicked woman, of incredible evil.  She renamed herself in
+honor of one of the Jezulein, the followers of the evil gods of earth and
+water.  She aspires to the power of the olden sorcerers of the Jezule, and
+worships their dark gods.  
+~
+human~
+100 100 100 150 100 100 100 100 150 100 100 100 50 100 50 100 100 100 50 100 100 100 100 100 100 100 
+0 b 0 -1000 0
+24 24 0 410 475 181 245 3 10 21 punch
+-70 -70 -70 -20
+STANDING STANDING female 750
+64 warrior medium ABCDEFGHIJK
+P 8 0
+
+#31517
+malignant poltergeist~
+a malignant poltergeist~
+A malignant {!p{1o{6lt{^erg{6ei{1s{!t{0 hovers here, a spirit of evil.
+~
+The poltergeist is a faintly humanoid glowing form of energy, about a
+foot tall.  It reaches for you with ghostly hands...  
+~
+human~
+100 100 100 150 100 50 100 100 150 100 150 100 50 0 0 100 100 100 100 150 100 100 100 100 100 100 
+CH DFTb 0 -1000 0
+10 10 0 115 133 128 164 2 5 8 chill
+20 20 20 40
+STANDING STANDING neutral 0
+62 warrior small ABCDEFGHIJK
+P 14 0
+
+#31518
+redbone skeleton~
+a redbone skeleton~
+A {*r{!e{1d{!b{1o{!n{*e{0 skeleton stands here, surrounded by a nimbus of heat.
+~
+A redbone skeleton is a particular kind, one who was killed by fire, then
+reanimated.  The bones of this kind are burned red and black, and they are
+surrounded by the flames that killed them.  
+~
+human~
+100 150 100 150 0 100 0 100 150 100 100 100 100 0 100 100 100 100 0 100 100 100 100 100 100 100 
+O b 0 0 0
+12 12 0 156 176 136 176 2 6 10 flame
+0 0 0 30
+STANDING STANDING neutral 0
+62 warrior medium ABCDEFGHIJK
+P 9 0
+
+#31519
+zombie caustic~
+a caustic zombie~
+A zombie dripping with {@c{2au{5s{2ti{@c{0 slime shambles about here.
+~
+This is a special kind of zombie, one sprung forth from a particular kind
+of acidic soil.  The creation of this dissolving undead monstrosity was a
+special project by the students, who procured the acid to saturate the soil,
+and reanimated the zombie from that soil.  
+~
+human~
+0 100 0 150 100 100 50 100 150 100 100 100 100 0 100 100 100 100 0 100 100 100 150 100 100 100 
+O bd 0 0 0
+15 15 0 212 240 149 195 2 8 13 acbite
+-10 -10 -10 20
+STANDING STANDING neutral 0
+63 warrior medium ABCDEFGHIJK
+P 5 0
+
+#31520
+scavenging ghoul~
+a scavenging ghoul~
+A scavenging {1g{2h{3o{2u{1l{0 stands here, slavering.
+~
+The scavenging ghoul is like any of his brethren, a digusting, rotting,
+shambling beast creature.  The ghouls animated here have been given a
+special enchantment: a capability for teamwork to haul down bigger prey.  
+~
+human~
+50 100 0 150 100 100 150 100 150 100 150 100 100 0 0 100 100 100 100 100 100 100 100 100 100 100 
+C b 0 -1000 0
+17 17 0 248 270 165 202 2 10 15 claw
+-20 -20 -20 10
+STANDING STANDING neutral 0
+63 warrior medium ABCDEFGHIJK
+P 7 0
+
+#31521
+shimmering wraith~
+a shimmering wraith~
+A {$s{*h{4i{*m{$m{*e{4r{*i{$n{*g{0 wraith flows about here, twinkling.
+~
+The shimmering wraith is a creature of pure black electricity, an entity
+of true malevolence.  The creature sparks and gleams with the currents of
+blacklight that make it up.  
+~
+human~
+100 100 100 150 100 100 100 100 150 100 150 0 150 0 0 100 100 100 100 100 100 100 100 100 100 100 
+O PUb 0 -1000 0
+20 20 0 312 346 151 213 3 8 17 shock
+-40 -40 -40 0
+STANDING STANDING neutral 0
+64 warrior medium ABCDEFGHIJK
+P 6 0
+
+#31522
+frozen ghost~
+a frozen ghost~
+A {&f{6r{^oz{6e{&n{0 ghost hovers here, shrouded in icicles.
+~
+This ghost is the body of one who was killed by supernatural cold.  His
+essence has returned from the grave to do evil works, and spread the wicked
+chill which ended his life.  You dare not look at him, lest his eyes freeze
+you to the core.  
+~
+human~
+100 100 100 150 100 100 150 100 150 100 100 100 100 50 0 100 100 100 100 100 100 100 100 100 100 100 
+0 Tb 0 -1000 0
+22 22 0 353 415 181 228 3 8 19 chill
+-60 -60 -60 -10
+STANDING STANDING neutral 0
+64 warrior medium ABCDEFGHIJK
+P 7 0
+
+#31523
+flaming servant~
+a flaming servant of Ixion~
+A {1f{!la{1m{!in{1g s{!er{1v{!an{1t{x of Ixion burns the ground here.
+~
+The servants of Ixion are a deadly and evil kind of fire-elemental,
+devoted to serving the evil god of elemental fire, Ixion.  
+~
+human~
+100 0 100 150 100 100 0 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 150 100 100 100 
+H JLTVZ D 0 0
+25 25 0 424 482 199 255 3 10 22 flame
+-80 -80 -80 -30
+STANDING STANDING male 0
+65 warrior medium ABCDEFGHIJK
+P 7 0
+
+#31524
+evil zazzarak devil~
+an evil zazzarak ~
+An evil {!z{5a{1zz{!a{5r{1ak{0, a kind of summoned devil, growls at you.
+~
+The zazzarak is a brutish and cruel type of devil, with a set of evil
+fangs and wicked claws.  His eyes flame with the terror of a thousand
+deaths.  
+~
+human~
+100 100 100 50 0 100 50 100 150 100 100 150 100 100 100 100 100 150 0 100 100 100 100 100 100 100 
+H Tb 0 -1000 0
+27 27 0 494 553 199 257 4 8 24 bite
+-100 -100 -100 -40
+STANDING STANDING male 0
+65 warrior medium ABCDEFGHIJK
+P 8 0
+
+#31525
+micheline student~
+Micheline~
+{%M{5icheline{0, a handsome male student, flirts with Lansa here.
+~
+Micheline is a very handsome youth, about twenty one or so, by your
+guess.  His skin is of fair shade, and he has a certain suave smoothness to
+him.  
+~
+human~
+100 100 150 150 100 100 100 100 100 100 100 100 100 100 50 100 100 100 50 100 100 100 100 100 100 100 
+B b 0 -550 0
+14 14 0 187 207 141 181 2 7 12 punch
+0 0 0 20
+STANDING STANDING male 100
+62 warrior medium ABCDEFGHIJK
+P 4 0
+
+#31526
+lansa student~
+Lansa~
+{%L{5ansa{0, a rather attractive female student, is being attended to by Micheline.
+~
+Lansa is beautiful.  By human standards, at least.  She has fair skin,
+long blond hair, and a firm figure.  She has been trained specially by
+Malisande to use her feminine wiles to attract men, and then exploit them
+for her purposes.  She seems to be doing that quite well with Micheline
+here.  
+~
+human~
+100 100 100 150 100 100 100 100 150 100 100 100 100 100 50 100 100 100 50 100 100 100 100 100 100 100 
+B b 0 0 0
+24 24 0 421 481 193 241 3 10 21 punch
+-70 -70 -70 -20
+STANDING STANDING female 200
+64 warrior medium ABCDEFGHIJK
+P 5 0
+
+#31527
+dean morbias~
+Morbias~
+{%M{5orbias{0, co-dean of the School, stands here.
+~
+Morbias is a man of dark complexion and even darker motivation.  His
+single goal in the operation of the School is to obtain more power, and to
+bind the powerful wizards his students will become to his will.  He desires
+the power that the dracolich Inferas possesses, but can not get at it
+without the aid of his sister, Malisande.  
+~
+human~
+100 100 100 150 100 100 100 100 150 100 100 100 50 100 0 100 100 100 0 100 100 100 100 100 100 100 
+0 DEFVb 0 -1000 0
+35 35 0 700 831 251 298 4 10 31 magic
+-160 -160 -160 -80
+STANDING STANDING male 1000
+67 warrior medium ABCDEFGHIJK
+P 9 0
+
+#31528
+inferas dracolich~
+Inferas~
+{!I{1n{!f{1e{!r{1a{!s{0, the evil dracolich, sits here.
+~
+Inferas is your common, average dracolich.  Evil, skeletal, and powerful.  
+~
+human~
+100 50 50 0 100 100 50 100 150 100 0 100 100 50 0 100 100 150 100 100 150 100 100 100 100 100 
+B JT N -1000 0
+40 40 0 895 1021 280 330 5 10 35 frbite
+-200 -200 -200 -120
+STANDING STANDING male 1000
+68 warrior medium ABCDEFGHIJK
+P 7 0
+
+#31529
+Braskus~
+Braskus stands here.. eyeing you up.~
+(no long description)
+~
+~
+human~
+150 100 100 150 100 100 150 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 1000 0
+7 7 0 75 83 110 140 1 6 6 pierce
+40 40 40 50
+STANDING STANDING male 0
+61 warrior medium ABCDEFGHIJK
+
+#31538
+dean malisande~
+Malisande~
+{%M{5alisande{0, co-dean of the School, speaks with the evil Inferas.
+~
+Malisande is a beautiful, cryptic looking woman of dark hair and light
+skin.  She is ravishing to behold, and you feel either an immediate
+attraction or extreme envy, depending on your gender.  
+~
+human~
+100 100 100 150 100 100 100 100 150 100 100 100 50 100 0 100 100 100 0 100 100 100 100 100 100 100 
+B DEFVb 0 -1000 0
+35 35 0 698 822 252 309 4 10 31 magic
+-160 -160 -160 -80
+STANDING STANDING female 1000
+67 warrior medium ABCDEFGHIJK
+P 6 0
+#0
+
+#OBJECTS
+#31500
+book treatise necarios~
+{$Broedric{0's {&Treatise{x on the School of {%N{5ecarios{0~
+A thin book lies here, one of Broedric's travel treatises. Look at its pages.~
+treasure 0 AO
+0 0 0 0 0
+10 20 1
+E
+pages~
+Broedric's Treatise on the School of Necarios: Hail, and well met,
+adventurer!  This script was penned by Broedric Aegesson, the Traveler, in
+order to aid you in the exploration of a place discovered by him.  The
+School of Necarios, the subject of this book, is one of the first locations
+discovered by Broedric in his travels in the Aardarian Realms, and he
+provides these books for all locales he discovers for your safety and
+convenience.  The School is a dark place, best suited to those of lower
+power and expertise.  It is run by the deans, Morbias and his sister
+Malisande, two powerful necromancers.  The school is a training hall for
+necromancers, practitioners of the dark side of magic, and is best to be
+dealt with by swordarms than fine words.  It is believed that the deans draw
+guidance from an infernal dracolich, but these rumors have not been
+confirmed.  While traveling in the school or it's surrounding areas, be wary
+of the undead servants of the school.  Most of the students of the school
+are weak and inexperienced, but the deans are certainly not.  Avoid them
+unless you are similarly powerful and expert in your craft.  Be careful in
+all thy journeys, and may the Gods above be with you!  
+-Broedric Aegesson, the Traveler.
+~
+
+#31501
+marble pedestal pillar~
+a {&marble pedestal{0~
+A {&marble pedestal{0 sits here, a thin blue book atop it.~
+treasure 0 0
+0 0 0 0 0
+1 10000 1
+
+#31502
+stone coffin stairs~
+a {*stone coffin{0~
+An open {*stone coffin{0 is here. An odd set of stairs inside it lead down.~
+portal 0 0
+-2 0 0 31504 0
+1 10000 1
+E
+stairs~
+The coffin is obviously a fake, a decoy that hides a set of stone stairs
+leading down.  Where could they lead?  
+~
+
+#31503
+stone stairs~
+a set of {*stone stairs{0~
+A set of {*stone stairs{0 lead back up to the mausoleum.~
+portal 0 0
+-2 0 0 31502 0
+1 10000 1
+
+#31504
+ring necarios~
+a ring of {*={%N{5ecarios{*={0~
+A small golden ring lies here, marked with an {%N{0.~
+jewelry CEV AB
+0 0 0 0 0
+40 2 1000
+A 17 -2
+A 3 1
+A 4 1
+A 13 10
+A 12 10
+A 20 0
+
+#31505
+school robes~
+the {%S{5chool{0 robes~
+A set of {5purple{0 velvet robes lies here.~
+armor 0 AK
+4 4 4 3 0
+10 11 100
+A 5 1
+A 18 1
+A 19 2
+
+#31506
+whip gorff~
+{MGorff{0's whip~
+A whip with a {Mpurple {0handle lies here.~
+weapon 0 AN
+whip 6 6 whip 0
+10 11 470
+A 18 1
+A 19 1
+
+#31507
+bucket slop~
+a {2slop{0 bucket~
+A bucket, brimming with vile {2green{0 sludge, lies here.~
+drinkcontainer 0 AO
+20 20 'slime mold juice' 0 0
+1 150 101
+
+#31508
+key necarios~
+a key marked with an {%N{0~
+A key marked with an {%N{0 lies here.~
+key 0 AO
+0 0 0 0 0
+1 1 1
+
+#31509
+dormitory bed~
+a dormitory bed~
+A low and hard bed sits here, one of the standard beds of the dormitory.~
+furniture 0 0
+1 500 EHK 53 53
+1 1000 1
+
+#31510
+grekl dagger~
+{%G{5rekl{0's dagger~
+A small, but wide-bladed dagger lies here.~
+weapon 0 AN
+dagger 6 6 stab 0
+10 11 470
+A 19 1
+A 18 1
+
+#31511
+scalpel ganner~
+{%G{5anner{0's scalpel~
+A small scalpel, designed for precise incisions lies here.~
+weapon 0 AN
+exotic 6 6 slice D
+12 13 860
+A 19 1
+A 18 1
+
+#31512
+uthure bullwhip whip~
+one of {%U{%{%{5thure{0's bullwhips~
+A bullwhip lies here.~
+weapon 0 AN
+whip 7 7 whip 0
+20 21 1095
+A 1 1
+A 18 1
+A 19 1
+
+#31513
+twitching frog~
+a twitching {@frog{0~
+A little {@frog{0 sits here, twitching an account of necromantic magic.~
+pill G AO
+16 'haste' 'reserved' 'reserved' 'reserved'
+1 1 1
+
+#31514
+belt leather weight~
+a {3leather{0 weightbelt~
+A thick belt for lifting weights lies here.~
+armor 0 AL
+8 10 8 7 0
+20 21 100
+A 18 1
+A 19 2
+A 1 3
+
+#31515
+basket viper wicker~
+a {3wicker{0 basket~
+A {3wicker{0 basket which held the three vipers sits here.~
+container 0 AO
+100 A 0 100 1
+1 20 100
+
+#31516
+halberd twins'~
+a {MTwins{0' halberd~
+One of two identical halberds belonging to the twins Mot and Lol lies here.~
+weapon Y AN
+polearm 6 6 pound F
+14 15 700
+A 3 2
+A 17 -2
+A 18 1
+A 19 1
+E
+halberd~
+halberd
+~
+
+#31517
+baakara mace~
+{%B{5aakara{0's mace~
+A flanged metal mace lies here, ready to crack skulls.~
+weapon 0 AN
+mace 7 7 pierce 0
+18 19 1205
+A 19 1
+A 1 2
+A 18 1
+
+#31518
+scroll dark forbidden~
+a {*dark forbidden{0 scroll~
+A scroll, {6forbidden{x by the School's normal curriculum, lies here.~
+scroll CEG A
+30 'demonfire' 'detect good' 'protection good' 'reserved'
+15 10 1
+
+#31519
+chest locked kazmar~
+a locked chest~
+A locked chest sits here, containing Kazmar's unique magics.~
+container 0 AO
+100 ACD 31520 100 5
+1 200 500
+
+#31520
+kazmer key~
+{%K{5azmar{0's key~
+A small iron key lies here.~
+key 0 A
+0 0 0 0 0
+1 10 1
+
+#31521
+scroll threechill kazmar~
+{%K{5azmar{0's {^th{6r{&e{^e{6c{&h{^i{6l{&l{x scroll~
+A scroll lies here, it seems to be emenating an icy radiance.~
+scroll AG AO
+25 'chill touch' 'chill touch' 'chill touch' 'reserved'
+10 10 1000
+
+#31522
+scroll motion kazmar~
+{%K{5azmar{0's {1mo{3ti{1on{0 scroll~
+A scroll lies here which shakes back and forth, jittering oddly.~
+scroll G AO
+25 'fly' 'pass door' 'reserved' 'reserved'
+10 10 750
+
+#31523
+scroll return kazmar~
+{%K{5azmar{0's {#r{$e{#t{$u{#r{$n{0 scroll~
+A scroll lies here, then it blinks out of existance, and blinks back in again.~
+scroll G AO
+25 'word of recall' 'cure critical' 'reserved' 'reserved'
+10 10 2200
+
+#31524
+mace kazmar~
+{MKazmar{0's mace~
+A mace with a deep {Mpurple{0 insignia lies here.~
+weapon CG AN
+mace 7 7 pierce CF
+22 23 1135
+A 12 10
+A 18 1
+A 19 1
+
+#31525
+dark book~
+a {*dark{0 book~
+A book with black covers lies here.~
+treasure CE AO
+0 0 0 0 0
+1 30 3000
+A 12 3
+A 3 2
+A 4 1
+
+#31526
+mesger dagger~
+{%M{5esger{0's dagger~
+A large dagger lies here, annointed with snake venom.~
+weapon 0 AN
+dagger 7 8 stab H
+24 25 1250
+A 18 1
+A 19 1
+
+#31527
+scroll case key~
+a scroll case key~
+A key to a {%S{5chool{0 scroll case lies here.~
+key 0 AO
+0 0 0 0 0
+1 2 100
+
+#31528
+charm snake bracelet~
+a {2snake{0 charm~
+A charm bracelet made of {2snake{0 skin lies here.~
+jewelry 0 AM
+0 0 0 0 0
+1 2 100
+A 2 1
+A 12 3
+A 18 0
+
+#31529
+scroll rack locked~
+a scroll rack~
+A locked scroll rack sits on the wall here.~
+container 0 0
+100 ACD 31527 100 1
+1 1000 1000
+
+#31530
+scroll school animate~
+a {%S{5chool{0 scroll of 'animate'~
+One of the {%S{5chool{0 scrolls lies here.~
+scroll CG AO
+25 'animate' 'reserved' 'reserved' 'reserved'
+10 5 100
+
+#31531
+scroll school chill touch~
+a {%S{5chool{0 scroll of 'chill touch'~
+One of the {%S{5chool{0 scrolls lies here.~
+scroll CG AO
+25 'chill touch' 'reserved' 'reserved' 'reserved'
+10 5 100
+
+#31532
+scroll school curse~
+a {%S{5chool{0 scroll of 'curse'~
+One of the {%S{5chool{0 scrolls lies here.~
+scroll CG AO
+25 'curse' 'reserved' 'reserved' 'reserved'
+10 5 100
+
+#31533
+scroll school energy drain~
+a {%S{5chool{0 scroll of 'energy drain'~
+One of the {%S{5chool{0 scrolls lies here.~
+scroll CG AO
+25 'energy drain' 'reserved' 'reserved' 'reserved'
+10 5 100
+
+#31534
+scroll school weaken~
+a {%S{5chool{0 scroll of 'weaken'~
+One of the {%S{5chool{0 scrolls lies here.~
+scroll CG AO
+25 'weaken' 'reserved' 'reserved' 'reserved'
+10 5 100
+
+#31535
+claustus dagger electric~
+{%C{5laustus{0' {#e{6l{3e{^c{#t{6r{3i{^c{0 dagger~
+A dagger coarsing with shocking energy lies here.~
+weapon AG AN
+dagger 8 8 pierce G
+28 29 1480
+A 19 1
+A 18 1
+
+#31536
+wychwood wand~
+a {5w{*y{5c{*h{5w{*o{5o{*d{0 wand~
+A wand made of black wood lies here.~
+wand CEG AO
+28 3 3 'demonfire' 0
+28 5 1000
+
+#31537
+medallion abyss~
+an {1a{*b{1y{*s{1s{0 medallion~
+A black gold medallion lies here. It has the evil markings of the abyss on it.~
+armor CEG AC
+11 14 11 10 0
+28 29 3000
+A 12 40
+A 18 2
+
+#31538
+dagger imrith razor~
+{%I{5mrith{0's {&r{7a{&z{7o{&r{0 dagger~
+A dagger with a razor-thin blade lies here.~
+weapon 0 AN
+dagger 6 6 slice D
+11 12 540
+A 19 1
+A 18 1
+
+#31539
+axe hand jael~
+{%J{5ael{0's hand axe~
+A slim and streamlined hand axe sits here.~
+weapon 0 AN
+axe 6 6 cleave E
+12 13 785
+A 19 1
+A 18 1
+
+#31540
+flail timor~
+one of {MTimor{0's flails~
+One of a matched set of flails lies here.~
+weapon 0 AN
+flail 7 7 chop FH
+20 21 1020
+A 18 1
+A 19 1
+
+#31541
+dagger sacrifice jezalai~
+{%J{5ezalai{0's {*s{1ac{!rif{1ic{*e {0dagger~
+A dagger fashioned of black obsidian lies here, pulsating warmly.~
+weapon CEG AN
+dagger 8 8 slash A
+24 25 1250
+A 12 30
+A 19 1
+A 18 1
+
+#31542
+black talisman~
+a {*black{0 talisman~
+A small, grinning talisman of black wood sits here.~
+wand BCEG AO
+24 1 1 'animate' 0
+24 10 1000
+
+#31543
+micheline dagger~
+{%M{5icheline{0's dagger~
+A slender dagger with a purple rose crafted on the hilt lies here.~
+weapon 0 AN
+dagger 6 6 stab 0
+14 15 700
+A 13 10
+A 18 1
+A 19 1
+
+#31544
+bottle chanctonbury 22~
+a {3bottle{0 of Chanctonbury '22~
+A bottle of fine Chanctonbury champagne is here, Exclusively for romancing purposes.~
+drinkcontainer 0 AO
+8 8 'champagne' 0 0
+1 20 2000
+
+#31545
+polearm lansa~
+{MLansa{0's polearm~
+A well made polearm lies here.~
+weapon 0 AN
+polearm 7 7 pound F
+24 25 1250
+A 18 1
+A 3 1
+A 12 10
+A 19 1
+
+#31546
+scented rose~
+a scented {!rose{0~
+A scented rose lies here. Exclusively for romancing purposes.~
+wand G AN
+1 3 3 'charm person' 0
+1 1 10
+
+#31547
+dean dagger~
+a {%D{5ean{0's dagger~
+A magical dagger, marked with the {%N{0 symbol, lies here.~
+weapon ABEG AN
+dagger 9 9 pierce CG
+35 36 1840
+A 12 50
+A 18 2
+A 19 2
+
+#31548
+robes dean~
+a {%D{5ean{0's robes~
+A set of fine purple velvet robes lies here, it's owners name stitched in it.~
+armor BEG AK
+13 13 13 12 0
+35 36 1000
+A 3 2
+A 4 2
+
+#31549
+purple haze~
+a {%p{5urple{0 haze~
+A haze of violet hangs in the air here.~
+light AFG A
+0 0 999 0 0
+35 1 1
+A 4 1
+A 3 2
+A 13 100
+A 12 100
+
+#31599
+sword emperor~
+the Sword of Love~
+The God of love favors you with this sword~
+weapon 0 AN
+sword 5 5 beauty 0
+5 0 554
+A 13 10
+A 12 10
+#0
+
+#ROOMS
+#31500
+The Grassy Plain~
+You walk through the grassy fields here, and come to a landmark of sorts.
+Strangely, a marble pillar stands here, in the middle of the fields.  The
+pedestal is about three feet high, and has a book resting flat across the
+top.  The fine carving of the ionic style column draws your eye, and the
+thin blue book which rests on top of it as well.  Considering it is the only
+landmark of any appreciable size here, you may as well look at it.  To the
+north you see a mausoleum of cold stone.  
+~
+4 2
+D0
+~
+~
+0 0 31501
+S
+
+#31501
+In front of a Mausoleum~
+You stand at the front gate of a particularly cold and frightening
+looking building.  A mausoleum, an expensive building built by the wealthy
+to entomb their deceased family members.  The building is adorned in gothic
+style, with great columns and minature statues of gargoyles and demons
+decorating it.  Above the gate, where the name of the noble family whose
+mausoleum this is, is a cryptic symbol which defies any thoughts you have. 
+A large purple {%N{0.  That is all.  North is the entrance to the mausoleum,
+and east is the trunk of a large tree.  
+~
+0 2
+D0
+~
+mausoleum~
+AB 0 31502
+D1
+~
+~
+0 0 31503
+D2
+~
+~
+0 0 31500
+S
+
+#31502
+Inside the Mausoleum~
+You enter the dark mausoleum, your light casting ominous shadows on the
+walls.  This appears to be a normal tomb for a wealthy family, but something
+seems to be not quite right.  The floor beneath you feels like it's a roof
+for something else, not like a foundation built on solid ground.  There is
+another odd object in this room.  One of the stone coffins, six feet by four
+feet, is open.  You peer down into it, and you see a set of stone stairs. 
+Where could they lead?  
+~
+9 0
+D2
+~
+mausoleum~
+AB 0 31501
+S
+
+#31503
+At the Trunk of a Large Tree~
+This little area to the southeast of the mausoleum is dominated by an
+incredibly large redwood tree.  The trunk is so wide that you can't see the
+other side of the monstrous base of this plant behemoth.  The branches are
+far too high up for you to have any chance to climb this tree, but it sounds
+like some of the inhabitants of the tree may come to you, as you hear a
+deep-pitched, throaty squaking coming down from the top of the tree.  West
+leads back to the front of the mausoleum.  
+~
+0 3
+D3
+~
+~
+0 0 31501
+S
+
+#31504
+Entrance to the First Level of the School~
+As you descend the stairs hidden within the stone coffin above, you feel
+a chill enter your bones down in this place of death.  On the wall is carved
+the familiar {%N{0 symbol from the mausoleum.  On the wall before you is a
+sign, bearing a warning: "Only those who are students pass here.  The rest
+will die.  Die horribly, and have their very souls rended over the daggers
+of hell!"  It seems like the deans of the School don't want you here.  North
+leads further into the subterranean structure of the School, and the steps
+lead back up into the mausoleum.  
+~
+8 0
+D0
+~
+~
+0 0 31505
+S
+
+#31505
+A Hallway on the First Level~
+The hallways here are expertly constructed, with fine stonework and
+interesting inscriptions.  Interesting is putting it mildly.  There are
+depictions of dark rituals, quotes in some bizarre language carved into the
+walls, and other things that defy oddness.  The hallway continues on a north
+and south axis, south leading out and north leading further in.  
+~
+8 0
+D0
+~
+~
+0 0 31506
+D2
+~
+~
+0 0 31504
+S
+
+#31506
+A Hallway on the First Level~
+The hallways here are expertly constructed, with fine stonework and
+interesting inscriptions.  Interesting is putting it mildly.  There are
+depictions of dark rituals, quotes in some bizarre language carved into the
+walls, and other things that defy oddness.  The hallway continues on a north
+and south axis, south leading out and north leading further in.  
+~
+8 0
+D0
+~
+~
+0 0 31507
+D2
+~
+~
+0 0 31505
+S
+
+#31507
+A Hallway on the First Level~
+The hallways here are expertly constructed, with fine stonework and
+interesting inscriptions.  Interesting is putting it mildly.  There are
+depictions of dark rituals, quotes in some bizarre language carved into the
+walls, and other things that defy oddness.  The hallway continues on a north
+and south axis, south leading out and north leading further in.  On the west
+wall of this thin corridor is the outline of a door, but it has no knob.  It
+is marked with the {%N{0 symbol, and a keyhole is directly below that.  
+~
+8 0
+D0
+~
+~
+0 0 31508
+D2
+~
+~
+0 0 31506
+D3
+~
+~
+ABC 31508 31514
+S
+
+#31508
+A Hallway on the First Level~
+The hallways here are expertly constructed, with fine stonework and
+interesting inscriptions.  Interesting is putting it mildly.  There are
+depictions of dark rituals, quotes in some bizarre language carved into the
+walls, and other things that defy oddness.  The hallway continues on a north
+and south axis, south leading out and north leading further in.  
+~
+8 0
+D0
+~
+~
+0 0 31509
+D2
+~
+~
+0 0 31507
+S
+
+#31509
+A Hallway on the First Level~
+The hallways here are expertly constructed, with fine stonework and
+interesting inscriptions.  Interesting is putting it mildly.  There are
+depictions of dark rituals, quotes in some bizarre language carved into the
+walls, and other things that defy oddness.  The hallway continues on a north
+and south axis, south leading out and north leading further in.  Immediately
+before you, to the north, is a large grate.  It is like a porticullis for a
+castle, and it looks like you could lift it with ease.  Beyond the grate,
+you hear muttering and cursing, it sounds like.  
+~
+8 0
+D0
+~
+grate~
+AB 0 31510
+D2
+~
+~
+0 0 31508
+S
+
+#31510
+Beyond the Grate~
+You slide the grate back down to rest in its ruts on the floor, and it
+makes a bit of a clink.  You definently hear a person talking now, along
+with the rushing of water coming from beneath your feet.  You begin to
+suspect that this section of the School must be built over an underground
+river.  North leads down this hallway, where the talking and rushing of
+water gets louder, and south leads back past the grate to the first hallway.
+~
+8 0
+D0
+~
+~
+0 0 31511
+D2
+~
+grate~
+AB 0 31509
+S
+
+#31511
+A Hallway past the Grate~
+The hallway here is bare of adornment, and seems to be taken care of in
+much less fastidious fashion.  Mold and mildew grow on the walls, and dirt
+also covers the ground.  There seems to be splatters of liquid garbage on
+the ground, spoiled food and such, recently dropped here.  The muttering
+sounds seem to grow stronger as you walk to the north, as does the rushing
+water.  
+~
+8 0
+D0
+~
+~
+0 0 31512
+D2
+~
+~
+0 0 31510
+S
+
+#31512
+The Garbage Chute~
+The hallway abruptly ends here, terminating with a hole in the carved
+stone floor.  The rushing of water can be heard from the hole below, this
+must be the underground river.  There is a lot of mold and mildew here,
+growing freely in the moisture of the river.  There is a student of the
+school standing here, stinking of garbage and muttering.  He dumps a bucket
+into the hole, and continues his cursing.  
+~
+8 0
+D2
+~
+~
+0 0 31511
+D5
+~
+~
+0 0 31513
+S
+
+#31513
+Down the Chute~
+As you approached the edge of the garbage chute, you slipped on a bit of
+old potato or something, and fell down into it!  Thank the Gods you're an
+adventurer, and equipped for such situations!  With a nimble turn in the
+air, you spun and grabbed onto the side of the chute.  When you felt your
+grip slipping, you grabbed your handy knife you keep in your bootsheath, and
+dug it into the wall.  Well, now you hang here, precariously perched between
+certain death below in the rushing water, and the garbage chute above.  
+~
+12 0
+D4
+~
+~
+0 0 31512
+S
+
+#31514
+A Room Beyond~
+You pass through the warded door in the stone wall, and feel uneasy as
+you pass into this next chamber.  The stone here seems to glow with an inner
+darkness, and thin whisps of smoke, as from some chemical reaction, seep
+forth from the cracks and crevices in the walls.  You feel like you are
+being watched.  
+~
+8 0
+D1
+~
+~
+ABC 0 31507
+D2
+~
+~
+0 0 31515
+S
+
+#31515
+The Top of The Stairs~
+You stand at the top of a spiral stariway heading directly down, deeper
+into the depths of the dungeon in which the School must reside.  There are
+drippings of slop on the stairs here, they must have been dropped by Gorff
+as he came up to drop the trash into the river.  The wall bears some torch
+sconces, with lighted brands in them, which illuminate your way down.  
+~
+8 0
+D0
+~
+~
+0 0 31514
+D5
+~
+~
+0 0 31516
+S
+
+#31516
+On the Spiral Stairs~
+As you descend the spiral stairs, the masonry starts to become better
+maintained and tighter in construction.  The torches on the walls burn with
+a dim, frightening glow, like that of a weak candle against a sheet of
+blackness.  Down leads to the second level of the School.  
+~
+8 0
+D4
+~
+~
+0 0 31515
+D5
+~
+~
+0 0 31517
+S
+
+#31517
+The Base of The Stairs~
+The spiral stairs come to termination here, on the second floor of the
+School.  The light is still provided by dimly glowing embers of torches, and
+the faint illumination they cast on the wall makes everything appear like a
+world of shadows.  South leads to a door in the wall, not unlike the one at
+the top of the stairs.  
+~
+8 0
+D2
+~
+~
+0 0 31518
+D4
+~
+~
+0 0 31516
+S
+
+#31518
+Before the Door~
+You stand at the back of a swiveling door in the stone, exactly like the
+one at the top of the spiral staircase.  You look out through the keyhole,
+and see that it is better illuminated in the hallway beyond by a great deal.
+There is no torchlight coming from beyond, but rather a softer white light,
+as if it were magically projected.  East is the door.  
+~
+8 0
+D0
+~
+~
+0 0 31517
+D1
+~
+~
+AB 0 31519
+S
+
+#31519
+The Main Hall~
+You walk down the main hall, the backbone of the structure of the School.
+The lighting here is provided by crystal spheres which hang in special
+net-holders on the walls, bathing everything in constant, white light.  The
+masonry here is exquisite, with fine stonework throughout the whole of the
+hallway.  You hear bustling sounds all around you.  After all, this is a
+fully functioning school, not a crypt or dungeon.  To the west is a stone
+door, not unlike the one above, marked with an {%N{0.  
+~
+8 0
+D0
+~
+~
+0 0 31524
+D2
+~
+~
+0 0 31520
+D3
+~
+~
+AB 0 31518
+S
+
+#31520
+The Main Hall~
+You walk down the main hall, the backbone of the structure of the School.
+The lighting here is provided by crystal spheres which hang in special
+net-holders on the walls, bathing everything in constant, white light.  The
+masonry here is exquisite, with fine stonework throughout the whole of the
+hallway.  You hear bustling sounds all around you.  After all, this is a
+fully functioning school, not a crypt or dungeon.  East is a doorplate that
+reads: "{&The Conjuring Room{0."  The door is sealed with magical wards, to
+prevent what is contained within from leaking out.  
+~
+8 0
+D0
+~
+~
+0 0 31519
+D1
+~
+~
+ABG 0 31576
+D2
+~
+~
+0 0 31521
+S
+
+#31521
+The Main Hall~
+You walk down the main hall, the backbone of the structure of the School.
+The lighting here is provided by crystal spheres which hang in special
+net-holders on the walls, bathing everything in constant, white light.  The
+masonry here is exquisite, with fine stonework throughout the whole of the
+hallway.  You hear bustling sounds all around you.  After all, this is a
+fully functioning school, not a crypt or dungeon.  West is a doorplate
+labeled: "{&The Kitchen{0."  
+~
+8 0
+D0
+~
+~
+0 0 31520
+D2
+~
+~
+0 0 31522
+D3
+~
+~
+AB 0 31584
+S
+
+#31522
+The Main Hall~
+You walk down the main hall, the backbone of the structure of the School.
+The lighting here is provided by crystal spheres which hang in special
+net-holders on the walls, bathing everything in constant, white light.  The
+masonry here is exquisite, with fine stonework throughout the whole of the
+hallway.  You hear bustling sounds all around you.  After all, this is a
+fully functioning school, not a crypt or dungeon.  
+~
+8 0
+D0
+~
+~
+0 0 31521
+D2
+~
+~
+0 0 31523
+S
+
+#31523
+Before the Deans' Room~
+This door is marked with the trademark {%N{0 of the School.  It is the
+room of Morbias and Malisande, the brother and sister deans of the School of
+Necarios.  Morbias is the senior of the two, and the more powerful, but
+Malisande is the one who deals with the secret informant working for the
+School, supposedly a dracolich.  The door is made of fine wood, and it is
+not locked.  North leads back down the hallway.  
+~
+8 0
+D0
+~
+~
+0 0 31522
+D2
+~
+~
+AB 0 31588
+S
+
+#31524
+The Main Hall~
+You walk down the main hall, the backbone of the structure of the School.
+The lighting here is provided by crystal spheres which hang in special
+net-holders on the walls, bathing everything in constant, white light.  The
+masonry here is exquisite, with fine stonework throughout the whole of the
+hallway.  You hear bustling sounds all around you.  After all, this is a
+fully functioning school, not a crypt or dungeon.  
+~
+8 0
+D0
+~
+~
+0 0 31525
+D2
+~
+~
+0 0 31519
+S
+
+#31525
+The Main Hall~
+You walk down the main hall, the backbone of the structure of the School.
+The lighting here is provided by crystal spheres which hang in special
+net-holders on the walls, bathing everything in constant, white light.  The
+masonry here is exquisite, with fine stonework throughout the whole of the
+hallway.  You hear bustling sounds all around you.  After all, this is a
+fully functioning school, not a crypt or dungeon.  
+~
+8 0
+D0
+~
+~
+0 0 31526
+D2
+~
+~
+0 0 31524
+S
+
+#31526
+The Main Hall~
+You walk down the main hall, the backbone of the structure of the School.
+The lighting here is provided by crystal spheres which hang in special
+net-holders on the walls, bathing everything in constant, white light.  The
+masonry here is exquisite, with fine stonework throughout the whole of the
+hallway.  You hear bustling sounds all around you.  After all, this is a
+fully functioning school, not a crypt or dungeon.  East is a doorplate
+labeled: "{&The Laboratory{0."  
+~
+8 0
+D0
+~
+~
+0 0 31527
+D1
+~
+~
+AB 0 31572
+D2
+~
+~
+0 0 31525
+S
+
+#31527
+The Main Hall~
+You walk down the main hall, the backbone of the structure of the School.
+The lighting here is provided by crystal spheres which hang in special
+net-holders on the walls, bathing everything in constant, white light.  The
+masonry here is exquisite, with fine stonework throughout the whole of the
+hallway.  You hear bustling sounds all around you.  After all, this is a
+fully functioning school, not a crypt or dungeon.  
+~
+8 0
+D0
+~
+~
+0 0 31528
+D2
+~
+~
+0 0 31526
+S
+
+#31528
+The Main Hall~
+You walk down the main hall, the backbone of the structure of the School.
+The lighting here is provided by crystal spheres which hang in special
+net-holders on the walls, bathing everything in constant, white light.  The
+masonry here is exquisite, with fine stonework throughout the whole of the
+hallway.  You hear bustling sounds all around you.  After all, this is a
+fully functioning school, not a crypt or dungeon.  To the west is a
+doorplate that reads: "{&The Lavatory{0."  
+~
+8 0
+D0
+~
+~
+0 0 31529
+D2
+~
+~
+0 0 31527
+D3
+~
+~
+AB 0 31571
+S
+
+#31529
+The Main Hall~
+You walk down the main hall, the backbone of the structure of the School.
+The lighting here is provided by crystal spheres which hang in special
+net-holders on the walls, bathing everything in constant, white light.  The
+masonry here is exquisite, with fine stonework throughout the whole of the
+hallway.  You hear bustling sounds all around you.  After all, this is a
+fully functioning school, not a crypt or dungeon.  To the east is a
+doorplate which reads: "{&The Auditorium{0."  
+~
+8 0
+D0
+~
+~
+0 0 31530
+D1
+~
+~
+AB 0 31564
+D2
+~
+~
+0 0 31528
+S
+
+#31530
+The Main Hall~
+You walk down the main hall, the backbone of the structure of the School.
+The lighting here is provided by crystal spheres which hang in special
+net-holders on the walls, bathing everything in constant, white light.  The
+masonry here is exquisite, with fine stonework throughout the whole of the
+hallway.  You hear bustling sounds all around you.  After all, this is a
+fully functioning school, not a crypt or dungeon.  To the east is a
+doorplate which reads: "{&The Auditorium{0," and to the west is one which
+reads: "{&The Library{0."  
+~
+8 0
+D0
+~
+~
+0 0 31531
+D1
+~
+~
+AB 0 31563
+D2
+~
+~
+0 0 31529
+D3
+~
+~
+AB 0 31554
+S
+
+#31531
+Before the Dormitory~
+You stand before a wooden door in the stone framework.  The title on the
+door reads "{&The Dormitory{0."  All the students of the School sleep here,
+though many spend a large portion of their time elsewhere.  Some of them
+never even see their rooms but to sleep, and some not even then.  You hear
+some noises from behind the door, when you listen harder.  South heads back
+down the hallway.  
+~
+8 0
+D0
+~
+~
+AB 0 31532
+D2
+~
+~
+0 0 31530
+S
+
+#31532
+Dormitory Hallway~
+The dormitory hallway is a thinner and smaller one than the main hall,
+and the glowing globes of light hang from the ceiling in small webbed sacks.
+To either side of you is a simple wooden door, leading into a dormitory. 
+There are no locks on the doors, and each bears a nameplate.  The nameplate
+on the west says: "Gorff, Grekl," and the one to the east says: "Lansa."  
+~
+8 0
+D0
+~
+~
+0 0 31533
+D1
+~
+~
+AB 0 31553
+D2
+~
+~
+AB 0 31531
+D3
+~
+~
+AB 0 31538
+S
+
+#31533
+Dormitory Hallway~
+The dormitory hallway is a thinner and smaller one than the main hall,
+and the glowing globes of light hang from the ceiling in small webbed sacks.
+To either side of you is a simple wooden door, leading into a dormitory. 
+There are no locks on the doors, and each bears a nameplate.  The nameplate
+on the west says: "Micheline," and the one to the east says: "Kazmar."  
+~
+8 0
+D0
+~
+~
+0 0 31534
+D1
+~
+~
+AB 0 31552
+D2
+~
+~
+0 0 31532
+D3
+~
+~
+AB 0 31540
+S
+
+#31534
+Dormitory Hallway~
+The dormitory hallway is a thinner and smaller one than the main hall,
+and the glowing globes of light hang from the ceiling in small webbed sacks.
+To either side of you is a simple wooden door, leading into a dormitory. 
+There are no locks on the doors, and each bears a nameplate.  The nameplate
+on the west says: "Ganner," and the one to the east says: "Jezalai."  
+~
+8 0
+D0
+~
+~
+0 0 31535
+D1
+~
+~
+AB 0 31551
+D2
+~
+~
+0 0 31533
+D3
+~
+~
+AB 0 31541
+S
+
+#31535
+Dormitory Hallway~
+The dormitory hallway is a thinner and smaller one than the main hall,
+and the glowing globes of light hang from the ceiling in small webbed sacks.
+To either side of you is a simple wooden door, leading into a dormitory. 
+There are no locks on the doors, and each bears a nameplate.  The nameplate
+on the west says: "Imrith, Jael," and the one to the east says: "Baakara."  
+~
+8 0
+D0
+~
+~
+0 0 31536
+D1
+~
+~
+AB 0 31550
+D2
+~
+~
+0 0 31534
+D3
+~
+~
+AB 0 31542
+S
+
+#31536
+Dormitory Hallway~
+The dormitory hallway is a thinner and smaller one than the main hall,
+and the glowing globes of light hang from the ceiling in small webbed sacks.
+To either side of you is a simple wooden door, leading into a dormitory. 
+There are no locks on the doors, and each bears a nameplate.  The nameplate
+on the west says: "Timor," and the one to the east says: "Mot, Lol."  
+~
+8 0
+D0
+~
+~
+0 0 31537
+D1
+~
+~
+AB 0 31548
+D2
+~
+~
+0 0 31535
+D3
+~
+~
+AB 0 31544
+S
+
+#31537
+Dormitory Hallway~
+The dormitory hallway is a thinner and smaller one than the main hall,
+and the glowing globes of light hang from the ceiling in small webbed sacks.
+To either side of you is a simple wooden door, leading into a dormitory. 
+There are no locks on the doors, and each bears a nameplate.  The nameplate
+on the west says: "Uthure," and the one to the east says: "Mesger."  The one
+on the door directly in front of you says: "Claustus, Elder Scholar and
+Apprentice."  
+~
+8 0
+D0
+~
+~
+AB 0 31546
+D1
+~
+~
+AB 0 31547
+D2
+~
+~
+0 0 31536
+D3
+~
+~
+AB 0 31545
+S
+
+#31538
+Gorff and Grekl's Dormitory~
+This is the bedroom of Gorff and Grekl, two brother students of the
+School who have recently been initiated, only a month ago.  Gorff you've
+already met, if you've come this far into the School, and Grekl, his
+brother, is a lot like him.  They are both slobs.  Old refuse litters the
+floor of this room, soiled rags and bits of food snuck in here from the mess
+hall.  
+~
+8 0
+D1
+~
+~
+AB 0 31532
+D3
+~
+~
+0 0 31539
+S
+
+#31539
+Gorff and Grekl's Dormitory~
+This is the bedroom of Gorff and Grekl, two brother students of the
+School who have recently been initiated, only a month ago.  Gorff you've
+already met, if you've come this far into the School, and Grekl, his
+brother, is a lot like him.  They are both slobs.  Old refuse litters the
+floor of this room, soiled rags and bits of food snuck in here from the mess
+hall.  
+~
+8 0
+D1
+~
+~
+0 0 31538
+S
+
+#31540
+Micheline's Dormitory~
+This is the room of Micheline, the most sociable of the students at the
+School.  There are numerous pictures on the walls, many of a smooth looking
+man with long hair, whom you would presume to be Micheline himself.  There
+are some notes lying on the tables next to the bed.  Apparently, they are
+letters confirming late-night rondezvoux with female students at the School.
+There's one from Lansa, the beautiful half-elf student, and one from both
+Mot and Lol, the attractive female twins.  This character really gets
+around, you would guess.  He's currently not here.  
+~
+8 0
+D1
+~
+~
+AB 0 31533
+S
+
+#31541
+Ganner's Dormitory~
+This is the room of the student known as Ganner.  Ganner is a
+particularly cruel student, interested in the ways of death more than any
+other, perhaps.  There are dark tapestries on the wall, depicting strange
+rituals and odd ceremonies.  There are glass jars on the walls, holding
+lesser forms of life, frogs and bugs, which he performs his necromantic
+experiments on.  
+~
+8 0
+D1
+~
+~
+AB 0 31534
+S
+
+#31542
+Imrith and Jael's Dormitory~
+This is the dormitory of two of the newer students, Imrith and Jael. 
+Imrith is elven in descent, and Jael is a dwarf, so you can't imagine what
+kind of turmoil goes on in this room.  Both halves of the room are kept
+immaculately clean, but Imrith's side seems to have a kind of garden even. 
+What kind of necromancer grows a garden, you wonder to yourself.  Jael's
+half of the room has some semi-precious and ornamental stones lying on
+tables, as well as gemcutter's tools.  
+~
+8 0
+D1
+~
+~
+AB 0 31535
+D3
+~
+~
+0 0 31543
+S
+
+#31543
+Imrith and Jael's Dormitory~
+This is the dormitory of two of the newer students, Imrith and Jael. 
+Imrith is elven in descent, and Jael is a dwarf, so you can't imagine what
+kind of turmoil goes on in this room.  Both halves of the room are kept
+immaculately clean, but Imrith's side seems to have a kind of garden even. 
+What kind of necromancer grows a garden, you wonder to yourself.  Jael's
+half of the room has some semi-precious and ornamental stones lying on
+tables, as well as gemcutter's tools.  
+~
+8 0
+D1
+~
+~
+0 0 31542
+H 1000 1000
+S
+
+#31544
+Timor's Dormitory~
+This is the room of the most lethal student of the School, Timor.  He has
+pictures of himself all over the room, indicating a particular vanity. 
+There is a throwing knife board on the wall, with a few finely balanced
+daggers stuck to it.  Timor is a dangerous person, skilled in the arts of
+knife-fighting in addition to spell casting.  He likes to intimidate the
+other students, using his razor sharp blades to accomodate for his
+rage-dulled wits.  
+~
+8 0
+D1
+~
+~
+AB 0 31536
+S
+
+#31545
+Uthure's Dormitory~
+The brawniest student of the School, Uthure, makes this room his bed. 
+Uthure is just as proud of his massive strength as of his potent magic. 
+There are freeweights on the floor, which obviously see a bit of work.  You
+can tell from the bed, which is larger than many others, that Uthure is a
+particularly large individual.  You see a rack on the wall which would
+accomodate a pair of bullwhips, Uthure's weapons of choice because his
+massive strength provides for some mighty cracks from those lengths of
+leather.  
+~
+8 0
+D1
+~
+~
+AB 0 31537
+S
+
+#31546
+Claustus' Dormitory~
+This is the room of Claustus, the most learned and advanced student of
+the School.  Claustus is the leader of the students, and is the official
+representative of their affairs to the deans.  He appreciates living in fine
+taste, you can tell, by the decorum of his room.  There are also a few
+pictures of himself, which depict him in a favorable light, shall we say. 
+Plainly, they make him look like a mythic god.  This character seems to be
+the vainest one yet, and most likely he has a reason to be such.  He is
+undoubtedly a dangerous opponent.  
+~
+8 0
+D2
+~
+~
+AB 0 31537
+S
+
+#31547
+Mesger's Dormitory~
+This room is very dark.  For a good reason, surely.  Mesger is the oldest
+of the students, nearly forty, and she is also one of the most learned.  She
+has a certain attachment to animals, particularly dangerous venemous ones. 
+This is proved by the three pit vipers which leap forth from a basket which
+tips over as you enter the room.  They jet forth and attack you!  
+-
+ 
+look
+-
+~
+9 0
+D3
+~
+~
+AB 0 31537
+S
+
+#31548
+Mot and Lol's Dormitory~
+This is the room of the human twins Mot and Lol, two very attractive
+young females, identical in appearance.  They are both similarly black
+hearted as well, enjoying the tormenting arts of necromancy with a strange
+fervor.  The room has two beds, and both halves for each twin are nearly
+identical, just as the raven-haired twins.  
+~
+8 0
+D1
+~
+~
+0 0 31549
+D3
+~
+~
+AB 0 31536
+S
+
+#31549
+Mot and Lol's Dormitory~
+This is the room of the human twins Mot and Lol, two very attractive
+young females, identical in appearance.  They are both similarly black
+hearted as well, enjoying the tormenting arts of necromancy with a strange
+fervor.  The room has two beds, and both halves for each twin are nearly
+identical, just as the raven-haired twins.  
+~
+8 0
+D3
+~
+~
+0 0 31548
+S
+
+#31550
+Baakara's Dormitory~
+This is the room of Baakara, a particularly odd student of the School. 
+It is sparsely decorated, and inhabited by Baakara, a large woman.  A large
+woman.  Perhaps with some orcish blood in her veins?  She spends all her
+time in here or in the library, and is never seen elsewhere it seems.  She
+is large and powerful physically, and uses a rather unorthodox weapon for a
+mage, a flanged mace.  She sees you enter, and you realize she may be
+disposed to using that bludgeon on you easily.  
+~
+8 0
+D3
+~
+~
+AB 0 31535
+S
+
+#31551
+Jezalai's Dormitory~
+Jezalai's dorm room is decorated in interesting style.  Interesting to
+say the least.  There are strange symbols and sigils weaved into tapestries
+on the walls, most of them black and purple.  They are the trappings of a
+dark God, one whose name you dare not utter.  Jezalai must be a devotee to
+this lost cult, one of the last remaining ones.  There is a black altar
+here, with implements of sacrifice and ritual on them, a knife, bowl, and
+sets of candles.  
+~
+8 0
+D3
+~
+~
+AB 0 31534
+S
+
+#31552
+Kazmar's Dormitory~
+This is the room of Kazmar, the most studious of the students.  She is
+not here, not surprisingly, but is most likely in the library studying.  She
+is not an introvert, but rather a bookworm.  She crafts her own magic, and
+scribes her own spells.  She is one of the strongest students regarding to
+magic due to her massive study time.  There is a chest in the corner, with a
+strong padlock on it.  
+~
+8 0
+D3
+~
+~
+AB 0 31533
+S
+
+#31553
+Kansa's Dormitory~
+This is the room of Kansa, the most attractive of the female students. 
+She is also a manipulative shrew, and dangerous femme fatale.  It is said
+that Malisande herself, co-dean of the School, has been tutoring the
+similarly beautiful Lansa in the ways of manipulating men with her feminine
+wiles.  There are mirrors all around the walls, and beauty enhancing
+cosmetics seem as prevalent as any tools of magic in this room.  
+~
+8 0
+D3
+~
+~
+AB 0 31532
+S
+
+#31554
+The Library~
+This is the grand library of the School of Necarios.  There are all
+manners of books stacked on the walls all around you, on bookcases and on
+tables.  There are scroll racks and portfolios of maps and charts of anatomy
+of all races.  The books here are of the most sinister kind, and you
+wouldn't want to read most of them, most likely.  Lord only knows what form
+of darkest secrets are contained within.  
+~
+8 0
+D0
+~
+~
+0 0 31556
+D1
+~
+~
+AB 0 31530
+D2
+~
+~
+0 0 31555
+D3
+~
+~
+0 0 31558
+S
+
+#31555
+The Library~
+This is the grand library of the School of Necarios.  There are all
+manners of books stacked on the walls all around you, on bookcases and on
+tables.  There are scroll racks and portfolios of maps and charts of anatomy
+of all races.  The books here are of the most sinister kind, and you
+wouldn't want to read most of them, most likely.  Lord only knows what form
+of darkest secrets are contained within.  
+~
+8 0
+D0
+~
+~
+0 0 31554
+D3
+~
+~
+0 0 31559
+S
+
+#31556
+The Library~
+This is the grand library of the School of Necarios.  There are all
+manners of books stacked on the walls all around you, on bookcases and on
+tables.  There are scroll racks and portfolios of maps and charts of anatomy
+of all races.  The books here are of the most sinister kind, and you
+wouldn't want to read most of them, most likely.  Lord only knows what form
+of darkest secrets are contained within.  
+~
+8 0
+D2
+~
+~
+0 0 31554
+D3
+~
+~
+0 0 31557
+S
+
+#31557
+The Library~
+This is the grand library of the School of Necarios.  There are all
+manners of books stacked on the walls all around you, on bookcases and on
+tables.  There are scroll racks and portfolios of maps and charts of anatomy
+of all races.  The books here are of the most sinister kind, and you
+wouldn't want to read most of them, most likely.  Lord only knows what form
+of darkest secrets are contained within.  
+~
+8 0
+D1
+~
+~
+0 0 31556
+D2
+~
+~
+0 0 31558
+D3
+~
+~
+0 0 31560
+S
+
+#31558
+The Library~
+This is the grand library of the School of Necarios.  There are all
+manners of books stacked on the walls all around you, on bookcases and on
+tables.  There are scroll racks and portfolios of maps and charts of anatomy
+of all races.  The books here are of the most sinister kind, and you
+wouldn't want to read most of them, most likely.  Lord only knows what form
+of darkest secrets are contained within.  
+~
+8 0
+D0
+~
+~
+0 0 31557
+D1
+~
+~
+0 0 31554
+D2
+~
+~
+0 0 31559
+D3
+~
+~
+0 0 31561
+S
+
+#31559
+The Library~
+This is the grand library of the School of Necarios.  There are all
+manners of books stacked on the walls all around you, on bookcases and on
+tables.  There are scroll racks and portfolios of maps and charts of anatomy
+of all races.  The books here are of the most sinister kind, and you
+wouldn't want to read most of them, most likely.  Lord only knows what form
+of darkest secrets are contained within.  
+~
+8 0
+D0
+~
+~
+0 0 31558
+D1
+~
+~
+0 0 31555
+D3
+~
+~
+0 0 31562
+S
+
+#31560
+The Library~
+This is the grand library of the School of Necarios.  There are all
+manners of books stacked on the walls all around you, on bookcases and on
+tables.  There are scroll racks and portfolios of maps and charts of anatomy
+of all races.  The books here are of the most sinister kind, and you
+wouldn't want to read most of them, most likely.  Lord only knows what form
+of darkest secrets are contained within.  
+~
+8 0
+D1
+~
+~
+0 0 31557
+D2
+~
+~
+0 0 31561
+S
+
+#31561
+The Library~
+This is the grand library of the School of Necarios.  There are all
+manners of books stacked on the walls all around you, on bookcases and on
+tables.  There are scroll racks and portfolios of maps and charts of anatomy
+of all races.  The books here are of the most sinister kind, and you
+wouldn't want to read most of them, most likely.  Lord only knows what form
+of darkest secrets are contained within.  
+~
+8 0
+D0
+~
+~
+0 0 31560
+D1
+~
+~
+0 0 31558
+D2
+~
+~
+0 0 31562
+S
+
+#31562
+The Library~
+This is the grand library of the School of Necarios.  There are all
+manners of books stacked on the walls all around you, on bookcases and on
+tables.  There are scroll racks and portfolios of maps and charts of anatomy
+of all races.  The books here are of the most sinister kind, and you
+wouldn't want to read most of them, most likely.  Lord only knows what form
+of darkest secrets are contained within.  
+~
+8 0
+D0
+~
+~
+0 0 31561
+D1
+~
+~
+0 0 31559
+S
+
+#31563
+The Auditorium~
+This is the room where the lectures on the basics of magic and conduct
+befitting a wizard are performed.  The room is set up with a podium at the
+western end, with a long table next to it, with laboratory equipment
+bedecking it.  To the east are rows of chairs, on raised bleachers in the
+back row.  There are a few students in here, studying or such.  
+~
+8 0
+D0
+~
+~
+0 0 31565
+D1
+~
+~
+0 0 31568
+D2
+~
+~
+0 0 31564
+D3
+~
+~
+AB 0 31530
+S
+
+#31564
+The Auditorium~
+This is the room where the lectures on the basics of magic and conduct
+befitting a wizard are performed.  The room is set up with a podium at the
+western end, with a long table next to it, with laboratory equipment
+bedecking it.  To the east are rows of chairs, on raised bleachers in the
+back row.  There are a few students in here, studying or such.  
+~
+8 0
+D0
+~
+~
+0 0 31563
+D1
+~
+~
+0 0 31569
+D2
+~
+~
+0 0 31566
+D3
+~
+~
+AB 0 31529
+S
+
+#31565
+The Auditorium~
+This is the room where the lectures on the basics of magic and conduct
+befitting a wizard are performed.  The room is set up with a podium at the
+western end, with a long table next to it, with laboratory equipment
+bedecking it.  To the east are rows of chairs, on raised bleachers in the
+back row.  There are a few students in here, studying or such.  
+~
+8 0
+D1
+~
+~
+0 0 31567
+D2
+~
+~
+0 0 31563
+S
+
+#31566
+The Auditorium~
+This is the room where the lectures on the basics of magic and conduct
+befitting a wizard are performed.  The room is set up with a podium at the
+western end, with a long table next to it, with laboratory equipment
+bedecking it.  To the east are rows of chairs, on raised bleachers in the
+back row.  There are a few students in here, studying or such.  
+~
+8 0
+D0
+~
+~
+0 0 31564
+D1
+~
+~
+0 0 31570
+S
+
+#31567
+The Auditorium~
+This is the room where the lectures on the basics of magic and conduct
+befitting a wizard are performed.  The room is set up with a podium at the
+western end, with a long table next to it, with laboratory equipment
+bedecking it.  To the east are rows of chairs, on raised bleachers in the
+back row.  There are a few students in here, studying or such.  
+~
+8 0
+D2
+~
+~
+0 0 31568
+D3
+~
+~
+0 0 31565
+S
+
+#31568
+The Auditorium~
+This is the room where the lectures on the basics of magic and conduct
+befitting a wizard are performed.  The room is set up with a podium at the
+western end, with a long table next to it, with laboratory equipment
+bedecking it.  To the east are rows of chairs, on raised bleachers in the
+back row.  There are a few students in here, studying or such.  
+~
+8 0
+D0
+~
+~
+0 0 31567
+D2
+~
+~
+0 0 31569
+D3
+~
+~
+0 0 31563
+S
+
+#31569
+The Auditorium~
+This is the room where the lectures on the basics of magic and conduct
+befitting a wizard are performed.  The room is set up with a podium at the
+western end, with a long table next to it, with laboratory equipment
+bedecking it.  To the east are rows of chairs, on raised bleachers in the
+back row.  There are a few students in here, studying or such.  
+~
+8 0
+D0
+~
+~
+0 0 31568
+D2
+~
+~
+0 0 31570
+D3
+~
+~
+0 0 31564
+S
+
+#31570
+The Auditorium~
+This is the room where the lectures on the basics of magic and conduct
+befitting a wizard are performed.  The room is set up with a podium at the
+western end, with a long table next to it, with laboratory equipment
+bedecking it.  To the east are rows of chairs, on raised bleachers in the
+back row.  There are a few students in here, studying or such.  
+~
+8 0
+D0
+~
+~
+0 0 31569
+D3
+~
+~
+0 0 31566
+S
+
+#31571
+The Lavatory~
+This is the lavatory of the School, where the students go when they need
+to do some real "thinking."  There is a simple commode in the center of the
+room, a wash basin on the wall, and a tub for bathing.  Simple decorations
+are present, because bright patterns can occasionally disrupt one's
+"business" in the bathroom.  
+~
+8 0
+D1
+~
+~
+AB 0 31528
+S
+
+#31572
+The Laboratory~
+This is the laboratory of the School, a place where experiments which
+border on sadistic occur, as do the creation of talismans of potent magic. 
+The tables here are lined with beakers, philters and vials of bubbling,
+steaming and fizzling liquid.  There are numerous books lying about, open to
+certain pages and with others dogeared for easy reference purposes.  The
+smell of sulfur and brimstone is dominant here, along with odors of other
+chemicals.  
+~
+8 0
+D1
+~
+~
+0 0 31574
+D2
+~
+~
+0 0 31573
+D3
+~
+~
+AB 0 31526
+S
+
+#31573
+The Laboratory~
+This is the laboratory of the School, a place where experiments which
+border on sadistic occur, as do the creation of talismans of potent magic. 
+The tables here are lined with beakers, philters and vials of bubbling,
+steaming and fizzling liquid.  There are numerous books lying about, open to
+certain pages and with others dogeared for easy reference purposes.  The
+smell of sulfur and brimstone is dominant here, along with odors of other
+chemicals.  
+~
+8 0
+D0
+~
+~
+0 0 31572
+D1
+~
+~
+0 0 31575
+S
+
+#31574
+The Laboratory~
+This is the laboratory of the School, a place where experiments which
+border on sadistic occur, as do the creation of talismans of potent magic. 
+The tables here are lined with beakers, philters and vials of bubbling,
+steaming and fizzling liquid.  There are numerous books lying about, open to
+certain pages and with others dogeared for easy reference purposes.  The
+smell of sulfur and brimstone is dominant here, along with odors of other
+chemicals.  
+~
+8 0
+D2
+~
+~
+0 0 31575
+D3
+~
+~
+0 0 31572
+S
+
+#31575
+The Laboratory~
+This is the laboratory of the School, a place where experiments which
+border on sadistic occur, as do the creation of talismans of potent magic. 
+The tables here are lined with beakers, philters and vials of bubbling,
+steaming and fizzling liquid.  There are numerous books lying about, open to
+certain pages and with others dogeared for easy reference purposes.  The
+smell of sulfur and brimstone is dominant here, along with odors of other
+chemicals.  
+~
+8 0
+D0
+~
+~
+0 0 31574
+D3
+~
+~
+0 0 31573
+S
+
+#31576
+The Conjuring Room~
+This is the summoning and animation chamber of the School of Necarios. 
+This is where the deans come to show the students how to really work the
+ways of necromancy, and summon forth demons and undead.  The room is pitch
+black, except for the many glowing sigils on the walls.  They weave an
+intricate pattern, glowing with reds, greens and purples.  It seems almost
+hypnotic to the eye, these complex diagrams and patterns.  The earth beneath
+you is soft peat, perfect for nurturing the bodies of the undead which are
+brought forth here.  
+~
+8 0
+D0
+~
+~
+0 0 31577
+D1
+~
+~
+0 0 31581
+D2
+~
+~
+0 0 31578
+D3
+~
+~
+ABG 0 31520
+S
+
+#31577
+The Conjuring Room~
+This is the summoning and animation chamber of the School of Necarios. 
+This is where the deans come to show the students how to really work the
+ways of necromancy, and summon forth demons and undead.  The room is pitch
+black, except for the many glowing sigils on the walls.  They weave an
+intricate pattern, glowing with reds, greens and purples.  It seems almost
+hypnotic to the eye, these complex diagrams and patterns.  The earth beneath
+you is soft peat, perfect for nurturing the bodies of the undead which are
+brought forth here.  
+~
+8 0
+D1
+~
+~
+0 0 31580
+D2
+~
+~
+0 0 31576
+S
+
+#31578
+The Conjuring Room~
+This is the summoning and animation chamber of the School of Necarios. 
+This is where the deans come to show the students how to really work the
+ways of necromancy, and summon forth demons and undead.  The room is pitch
+black, except for the many glowing sigils on the walls.  They weave an
+intricate pattern, glowing with reds, greens and purples.  It seems almost
+hypnotic to the eye, these complex diagrams and patterns.  The earth beneath
+you is soft peat, perfect for nurturing the bodies of the undead which are
+brought forth here.  
+~
+8 0
+D0
+~
+~
+0 0 31576
+D1
+~
+~
+0 0 31582
+D2
+~
+~
+0 0 31579
+S
+
+#31579
+The Conjuring Room~
+This is the summoning and animation chamber of the School of Necarios. 
+This is where the deans come to show the students how to really work the
+ways of necromancy, and summon forth demons and undead.  The room is pitch
+black, except for the many glowing sigils on the walls.  They weave an
+intricate pattern, glowing with reds, greens and purples.  It seems almost
+hypnotic to the eye, these complex diagrams and patterns.  The earth beneath
+you is soft peat, perfect for nurturing the bodies of the undead which are
+brought forth here.  
+~
+8 0
+D0
+~
+~
+0 0 31578
+D1
+~
+~
+0 0 31583
+S
+
+#31580
+The Conjuring Room~
+This is the summoning and animation chamber of the School of Necarios. 
+This is where the deans come to show the students how to really work the
+ways of necromancy, and summon forth demons and undead.  The room is pitch
+black, except for the many glowing sigils on the walls.  They weave an
+intricate pattern, glowing with reds, greens and purples.  It seems almost
+hypnotic to the eye, these complex diagrams and patterns.  The earth beneath
+you is soft peat, perfect for nurturing the bodies of the undead which are
+brought forth here.  
+~
+8 0
+D2
+~
+~
+0 0 31581
+D3
+~
+~
+0 0 31577
+S
+
+#31581
+The Conjuring Room~
+This is the summoning and animation chamber of the School of Necarios. 
+This is where the deans come to show the students how to really work the
+ways of necromancy, and summon forth demons and undead.  The room is pitch
+black, except for the many glowing sigils on the walls.  They weave an
+intricate pattern, glowing with reds, greens and purples.  It seems almost
+hypnotic to the eye, these complex diagrams and patterns.  The earth beneath
+you is soft peat, perfect for nurturing the bodies of the undead which are
+brought forth here.  
+~
+8 0
+D0
+~
+~
+0 0 31580
+D2
+~
+~
+0 0 31582
+D3
+~
+~
+0 0 31576
+S
+
+#31582
+The Conjuring Room~
+This is the summoning and animation chamber of the School of Necarios. 
+This is where the deans come to show the students how to really work the
+ways of necromancy, and summon forth demons and undead.  The room is pitch
+black, except for the many glowing sigils on the walls.  They weave an
+intricate pattern, glowing with reds, greens and purples.  It seems almost
+hypnotic to the eye, these complex diagrams and patterns.  The earth beneath
+you is soft peat, perfect for nurturing the bodies of the undead which are
+brought forth here.  
+~
+8 0
+D0
+~
+~
+0 0 31581
+D2
+~
+~
+0 0 31583
+D3
+~
+~
+0 0 31578
+S
+
+#31583
+The Conjuring Room~
+This is the summoning and animation chamber of the School of Necarios. 
+This is where the deans come to show the students how to really work the
+ways of necromancy, and summon forth demons and undead.  The room is pitch
+black, except for the many glowing sigils on the walls.  They weave an
+intricate pattern, glowing with reds, greens and purples.  It seems almost
+hypnotic to the eye, these complex diagrams and patterns.  The earth beneath
+you is soft peat, perfect for nurturing the bodies of the undead which are
+brought forth here.  
+~
+8 0
+D0
+~
+~
+0 0 31582
+D3
+~
+~
+0 0 31579
+S
+
+#31584
+The Kitchen~
+This is the School's kitchen, where the food is prepared, served and
+eaten.  The students take turns making the meals, each meal reflecting the
+particular student's identity.  Whether it's Jael's dwarven rothe-beef
+roasts of one of Imrith's vegetable plates, the students of the School eat
+interesting food.  Jezalai's ancient dishes from the Jezule cookbooks are
+beyond odd.  Considering this is a school where the dead come alive,you
+would rather not eat any of this.  
+~
+8 0
+D1
+~
+~
+AB 0 31521
+D2
+~
+~
+0 0 31585
+D3
+~
+~
+0 0 31586
+S
+
+#31585
+The Kitchen~
+This is the School's kitchen, where the food is prepared, served and
+eaten.  The students take turns making the meals, each meal reflecting the
+particular student's identity.  Whether it's Jael's dwarven rothe-beef
+roasts of one of Imrith's vegetable plates, the students of the School eat
+interesting food.  Jezalai's ancient dishes from the Jezl cookbooks are
+beyond odd.  Considering this is a school where the dead come alive,you
+would rather not eat any of this.  
+~
+8 0
+D0
+~
+~
+0 0 31584
+D3
+~
+~
+0 0 31587
+S
+
+#31586
+The Kitchen~
+This is the School's kitchen, where the food is prepared, served and
+eaten.  The students take turns making the meals, each meal reflecting the
+particular student's identity.  Whether it's Jael's dwarven rothe-beef
+roasts of one of Imrith's vegetable plates, the students of the School eat
+interesting food.  Jezalai's ancient dishes from the Jezl cookbooks are
+beyond odd.  Considering this is a school where the dead come alive,you
+would rather not eat any of this.  
+~
+8 0
+D1
+~
+~
+0 0 31584
+D2
+~
+~
+0 0 31587
+S
+
+#31587
+The Kitchen~
+This is the School's kitchen, where the food is prepared, served and
+eaten.  The students take turns making the meals, each meal reflecting the
+particular student's identity.  Whether it's Jael's dwarven rothe-beef
+roasts of one of Imrith's vegetable plates, the students of the School eat
+interesting food.  Jezalai's ancient dishes from the Jezl cookbooks are
+beyond odd.  Considering this is a school where the dead come alive,you
+would rather not eat any of this.  
+~
+8 0
+D0
+~
+~
+0 0 31586
+D1
+~
+~
+0 0 31585
+S
+
+#31588
+The Deans' Room~
+The is the personal quarters of the two deans of the School, Morbias and
+Malisande, a brother and sister of dark temprament and darker purpose.  Of
+the two, Morbias is the older and more potent, but Malisande has the
+connection to the infernal advisor to the School, which you can now prove to
+be a dracolich by correspondence on a table.  The dracolich is named
+Inferas, an ancient topaz dragon whose time in this realm has far passed. 
+However, he was unwilling to accept death.  This room is decorated in lavish
+style, with beautiful adornments of all kinds on the walls.  There are
+books, works of art, and other fancy accoutrements.  
+~
+8 0
+D0
+~
+~
+AB 0 31523
+D1
+~
+~
+0 0 31590
+D2
+~
+~
+0 0 31592
+D3
+~
+~
+0 0 31589
+S
+
+#31589
+The Deans' Room~
+The is the personal quarters of the two deans of the School, Morbias and
+Malisande, a brother and sister of dark temprament and darker purpose.  Of
+the two, Morbias is the older and more potent, but Malisande has the
+connection to the infernal advisor to the School, which you can now prove to
+be a dracolich by correspondence on a table.  The dracolich is named
+Inferas, an ancient topaz dragon whose time in this realm has far passed. 
+However, he was unwilling to accept death.  This room is decorated in lavish
+style, with beautiful adornments of all kinds on the walls.  There are
+books, works of art, and other fancy accoutrements.  
+~
+8 0
+D1
+~
+~
+0 0 31588
+D2
+~
+~
+0 0 31591
+S
+
+#31590
+The Deans' Room~
+The is the personal quarters of the two deans of the School, Morbias and
+Malisande, a brother and sister of dark temprament and darker purpose.  Of
+the two, Morbias is the older and more potent, but Malisande has the
+connection to the infernal advisor to the School, which you can now prove to
+be a dracolich by correspondence on a table.  The dracolich is named
+Inferas, an ancient topaz dragon whose time in this realm has far passed. 
+However, he was unwilling to accept death.  This room is decorated in lavish
+style, with beautiful adornments of all kinds on the walls.  There are
+books, works of art, and other fancy accoutrements.  
+~
+8 0
+D2
+~
+~
+0 0 31593
+D3
+~
+~
+0 0 31588
+S
+
+#31591
+The Deans' Room~
+The is the personal quarters of the two deans of the School, Morbias and
+Malisande, a brother and sister of dark temprament and darker purpose.  Of
+the two, Morbias is the older and more potent, but Malisande has the
+connection to the infernal advisor to the School, which you can now prove to
+be a dracolich by correspondence on a table.  The dracolich is named
+Inferas, an ancient topaz dragon whose time in this realm has far passed. 
+However, he was unwilling to accept death.  This room is decorated in lavish
+style, with beautiful adornments of all kinds on the walls.  There are
+books, works of art, and other fancy accoutrements.  
+~
+8 0
+D0
+~
+~
+0 0 31589
+D1
+~
+~
+0 0 31592
+D2
+~
+~
+0 0 31594
+S
+
+#31592
+The Deans' Room~
+The is the personal quarters of the two deans of the School, Morbias and
+Malisande, a brother and sister of dark temprament and darker purpose.  Of
+the two, Morbias is the older and more potent, but Malisande has the
+connection to the infernal advisor to the School, which you can now prove to
+be a dracolich by correspondence on a table.  The dracolich is named
+Inferas, an ancient topaz dragon whose time in this realm has far passed. 
+However, he was unwilling to accept death.  This room is decorated in lavish
+style, with beautiful adornments of all kinds on the walls.  There are
+books, works of art, and other fancy accoutrements.  
+~
+8 0
+D0
+~
+~
+0 0 31588
+D1
+~
+~
+0 0 31593
+D2
+~
+~
+0 0 31595
+D3
+~
+~
+0 0 31591
+S
+
+#31593
+The Deans' Room~
+The is the personal quarters of the two deans of the School, Morbias and
+Malisande, a brother and sister of dark temprament and darker purpose.  Of
+the two, Morbias is the older and more potent, but Malisande has the
+connection to the infernal advisor to the School, which you can now prove to
+be a dracolich by correspondence on a table.  The dracolich is named
+Inferas, an ancient topaz dragon whose time in this realm has far passed. 
+However, he was unwilling to accept death.  This room is decorated in lavish
+style, with beautiful adornments of all kinds on the walls.  There are
+books, works of art, and other fancy accoutrements.  
+~
+8 0
+D0
+~
+~
+0 0 31590
+D2
+~
+~
+0 0 31596
+D3
+~
+~
+0 0 31592
+S
+
+#31594
+The Deans' Room~
+The is the personal quarters of the two deans of the School, Morbias and
+Malisande, a brother and sister of dark temprament and darker purpose.  Of
+the two, Morbias is the older and more potent, but Malisande has the
+connection to the infernal advisor to the School, which you can now prove to
+be a dracolich by correspondence on a table.  The dracolich is named
+Inferas, an ancient topaz dragon whose time in this realm has far passed. 
+However, he was unwilling to accept death.  This room is decorated in lavish
+style, with beautiful adornments of all kinds on the walls.  There are
+books, works of art, and other fancy accoutrements.  
+~
+8 0
+D0
+~
+~
+0 0 31591
+D1
+~
+~
+0 0 31595
+S
+
+#31595
+The Deans' Room~
+The is the personal quarters of the two deans of the School, Morbias and
+Malisande, a brother and sister of dark temprament and darker purpose.  Of
+the two, Morbias is the older and more potent, but Malisande has the
+connection to the infernal advisor to the School, which you can now prove to
+be a dracolich by correspondence on a table.  The dracolich is named
+Inferas, an ancient topaz dragon whose time in this realm has far passed. 
+However, he was unwilling to accept death.  This room is decorated in lavish
+style, with beautiful adornments of all kinds on the walls.  There are
+books, works of art, and other fancy accoutrements.  
+~
+8 0
+D0
+~
+~
+0 0 31592
+D1
+~
+~
+0 0 31596
+D2
+~
+~
+0 0 31597
+D3
+~
+~
+0 0 31594
+S
+
+#31596
+The Deans' Room~
+The is the personal quarters of the two deans of the School, Morbias and
+Malisande, a brother and sister of dark temprament and darker purpose.  Of
+the two, Morbias is the older and more potent, but Malisande has the
+connection to the infernal advisor to the School, which you can now prove to
+be a dracolich by correspondence on a table.  The dracolich is named
+Inferas, an ancient topaz dragon whose time in this realm has far passed. 
+However, he was unwilling to accept death.  This room is decorated in lavish
+style, with beautiful adornments of all kinds on the walls.  There are
+books, works of art, and other fancy accoutrements.  
+~
+8 0
+D0
+~
+~
+0 0 31593
+D3
+~
+~
+0 0 31595
+S
+
+#31597
+At the Top of the Dark Stairs~
+These stairs head down into the darkness below, where you can smell odd
+things.  The stink of sulfur, and the smell of decay.  You hear a loud
+hissing, as if there were a great being down here of lizardlike or serpent
+nature.  Could this be the entrance to the lair of the dracolich Inferas? 
+Down leads down the stairs.  
+~
+9 0
+D0
+~
+~
+0 0 31595
+D5
+~
+~
+0 0 31598
+S
+
+#31598
+Entrance to the Lair of Inferas~
+This cave opens up slightly before you, and you hear and smell the sounds
+of a terrible beast.  He makes the air smell rotten, and makes your ears
+rattle with his hissing and occasional growl.  But you can also hear the
+sounds of conversation going on to the north.  
+~
+9 0
+D0
+~
+~
+0 0 31599
+D4
+~
+~
+0 0 31597
+S
+
+#31599
+Lair of Inferas~
+This is the lair of the evil dracolich Inferas, one who has recently
+passed from this realm and come back as undead.  His earthly remains are in
+a pile in the corner, a mound of flesh, scales and dragon's hide.  He
+appears as a great skeletal draconic beast, with bones dripping rotted flesh
+still.  The stench is nearly overpowering.  There is another figure here, a
+light-skinned and ravishing woman, Malisande, a dean of the School.  
+~
+8 0
+D2
+~
+~
+0 0 31598
+S
+#0
+
+#SPECIALS
+M 31501 spec_cast_mage
+M 31503 spec_cast_mage
+M 31504 spec_cast_mage
+M 31505 spec_cast_mage
+M 31506 spec_poison
+M 31507 spec_cast_mage
+M 31508 spec_cast_mage
+M 31509 spec_cast_mage
+M 31510 spec_cast_mage
+M 31511 spec_cast_mage
+M 31512 spec_cast_mage
+M 31513 spec_cast_mage
+M 31514 spec_cast_mage
+M 31515 spec_cast_mage
+M 31516 spec_cast_mage
+M 31523 spec_breath_fire
+M 31525 spec_cast_mage
+M 31526 spec_cast_mage
+M 31527 spec_cast_mage
+M 31528 spec_breath_frost
+M 31538 spec_cast_mage
+S
+
+#RESETS
+D 100 31501 0 1
+D 100 31502 2 1
+D 100 31507 3 2
+D 100 31509 0 1
+D 100 31510 2 1
+D 100 31514 1 2
+D 100 31518 1 1
+D 100 31519 3 1
+D 100 31520 1 1
+D 100 31521 3 1
+D 100 31523 2 1
+D 100 31526 1 1
+D 100 31528 3 1
+D 100 31529 1 1
+D 100 31530 1 1
+D 100 31530 3 1
+D 100 31531 0 1
+D 100 31532 1 1
+D 100 31532 2 1
+D 100 31532 3 1
+D 100 31533 1 1
+D 100 31533 3 1
+D 100 31534 1 1
+D 100 31534 3 1
+D 100 31535 1 1
+D 100 31535 3 1
+D 100 31536 1 1
+D 100 31536 3 1
+D 100 31537 0 1
+D 100 31537 1 1
+D 100 31537 3 1
+D 100 31538 1 1
+D 100 31540 1 1
+D 100 31541 1 1
+D 100 31542 1 1
+D 100 31544 1 1
+D 100 31545 1 1
+D 100 31546 2 1
+D 100 31547 3 1
+D 100 31548 3 1
+D 100 31550 3 1
+D 100 31551 3 1
+D 100 31552 3 1
+D 100 31553 3 1
+D 100 31554 1 1
+D 100 31563 3 1
+D 100 31564 3 1
+D 100 31571 1 1
+D 100 31572 3 1
+D 100 31576 3 1
+D 100 31584 1 1
+D 100 31588 0 1
+O 100 31501 0 31500
+O 100 31500 0 31500
+O 100 31502 0 31502
+M 100 31500 4 31503 4
+O 100 31503 0 31504
+M 100 31501 1 31512 1
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31506 0 16
+E 100 31507 0 17
+G 100 31508 0
+M 100 31502 1 31514 1
+O 100 31509 0 31538
+M 100 31503 1 31539 1
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31510 0 16
+O 100 31509 0 31539
+O 100 31509 0 31540
+M 100 31504 1 31541 1
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31511 0 16
+E 100 31513 0 17
+O 100 31509 0 31541
+O 100 31509 0 31542
+O 100 31509 0 31543
+O 100 31509 0 31544
+O 100 31509 0 31545
+M 100 31505 1 31545 1
+E 100 31512 0 16
+E 100 31512 0 19
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31514 0 13
+O 100 31509 0 31546
+O 100 31515 0 31547
+M 100 31506 3 31547 3
+O 100 31509 0 31548
+M 100 31507 1 31548 1
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31516 0 16
+O 100 31509 0 31549
+M 100 31508 1 31549 1
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31516 0 16
+M 100 31509 1 31550 1
+E 100 31517 0 16
+E 100 31505 0 12
+E 100 31518 0 17
+O 100 31509 0 31550
+M 100 31509 1 31550 1
+O 100 31509 0 31551
+O 100 31509 0 31552
+O 100 31519 0 31552
+P 100 31521 1 31519 1
+P 100 31522 1 31519 1
+P 100 31523 1 31519 1
+O 100 31509 0 31553
+M 100 31510 1 31560 1
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31524 0 16
+G 100 31520 0
+E 100 31525 0 17
+O 100 31529 0 31561
+P 100 31530 1 31529 1
+P 100 31531 1 31529 1
+P 100 31532 1 31529 1
+P 100 31533 1 31529 1
+P 100 31534 1 31529 1
+M 100 31511 1 31562 1
+E 100 31526 0 16
+E 100 31504 0 2
+E 100 31505 0 12
+G 100 31527 0
+E 100 31528 0 15
+M 100 31512 1 31563 1
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31535 0 16
+E 100 31536 0 17
+E 100 31537 0 3
+M 100 31513 1 31570 1
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31538 0 16
+M 100 31514 1 31570 1
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31539 0 16
+M 100 31515 1 31574 1
+E 100 31540 0 16
+E 100 31540 0 19
+E 100 31504 0 2
+E 100 31505 0 12
+M 100 31516 1 31575 1
+E 100 31541 0 16
+E 100 31542 0 17
+E 100 31504 0 2
+E 100 31505 0 12
+M 100 31518 3 31576 3
+M 100 31517 3 31577 3
+M 100 31519 3 31578 3
+M 100 31520 3 31579 3
+M 100 31521 3 31580 3
+M 100 31522 3 31581 3
+M 100 31523 3 31582 3
+M 100 31524 3 31583 3
+M 100 31525 1 31587 1
+E 100 31543 0 16
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31544 0 17
+M 100 31526 1 31587 1
+E 100 31545 0 16
+E 100 31504 0 2
+E 100 31505 0 12
+E 100 31546 0 17
+M 100 31527 1 31592 1
+E 100 31504 0 2
+E 100 31547 0 16
+E 100 31548 0 12
+E 100 31549 0 0
+M 100 31538 1 31599 1
+E 100 31527 0 16
+E 100 31548 0 12
+E 100 31549 0 0
+E 100 31504 0 2
+M 100 31528 1 31599 1
+S
+
+#MOBPROGS
+#31500
+(null)~
+(null)~
+say This is terrible. I hate garbage duty. All the damn mess...
+mutter
+say Damn Morbias. One mistake and he gives me this job for a month...
+~
+
+#31501
+(null)~
+(null)~
+say What are you doing here! Get out of here before I cut you deep!
+~
+
+#31502
+(null)~
+(null)~
+say Ahh, good. Another weakling to crush. Excellent.
+flex
+~
+
+#31503
+(null)~
+(null)~
+say Go away or I will crush you. I give you an opportunity to leave alive.
+~
+#0
+
+#$

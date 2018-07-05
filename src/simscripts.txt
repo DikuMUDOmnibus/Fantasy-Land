@@ -1,0 +1,772 @@
+/*
+ * Simple Scripts for Diku (SimScripts)
+ * Author: Herb Gilliland ("Locke" of The Isles)
+ * Copyright: (c) 2012
+ * License: AL 2.0 ( "Artistic License 2.0" )
+ */
+
+README FILE
+
+
+Contents:
+
+1. Preword
+
+2. Introduction
+
+3. Advanced Topic: Building Automation
+
+4. Examples
+
+5. Installation
+
+6. Performance Notes
+
+Addendum: License
+
+
+
+
+
+
+1. Preword ---------------------------------------------------------------------------------
+
+Simple Scripts for Diku was written by the surviving author of The Isles OLC, the very same
+software "add-on" that was distributed as ROMolc, EnvyOLC and under a variety of other non-
+official names.  It was _the defacto OLC_ for Diku in the mid- and late- 1990s.  Even today,
+in 2012, it is used by hundreds of games and has influenced many more.
+
+`Simple Scripts for Diku' is released under an OSI compliant license, though the software for
+which it was intended was released under the now infamous "DikuMUD License", which covers
+the Diku MUD software.  Ironically, the DikuMUD authors violated their own university
+policy in the creation of the license, and much of the game was copied from Gary Gygax and
+Wizards of the Coast, as well as television programs such as Hasbros' The Smurfs.
+
+I assert that this license is compatible and similar to the original Dikumud License, mainly
+because it too does not allow commercialization except under certain circumstances, and by
+no means provides licensing fee permissions for third-party and derivative authors.
+
+However, this license has stood the test of time, and is officially an "open source" license,
+which DikuMUD is arguably not.  Regardless, you should have no problems using our software
+for your free online roleplaying games based on the Diku, Merc, Envy, RoT, ROM and related
+source codes.
+
+This software contains significant original work and is designed to replace or work alongside
+other similar add-on packages, such as MOBProgs, OProgs and the like. 
+
+The project took about one week, and is the distillation of parts of NiMUD Server Software,
+though it contains not one line of code from that software.
+
+
+
+
+2. Introduction -----------------------------------------------------------------------------
+
+Simple Scripts for Diku, or "SimScripts" for short, are human-readible simple scripting
+parsers that are much faster and less buggy than NIMScripts, MOBProgs and many other scripting
+languages written for the DikuMUD server family.  Unlike these others, the interface is
+kept crystal clear and should be easy for your game artists to pick up and work with.
+
+The idea began with the purpose of augmenting the original MUD commands with specialized
+new commands that allow users to easily interact with things in the following ways:
+
+1) Speak to and get responses from mobiles ("actors")
+2) Automate and augment certain "pets" and "hirelings"
+3) Provide an advanced crafting system based on "recipes"
+4) Enable switches, levers, buttons, clocks, sundials and other simple automations of objects
+5) Provide dispensor, modifier and augmentor objects that react to other objects
+6) Enable the creation of custom skills and spells without modifying "hard code"
+7) Create "group interaction" scripts that interface with groups of players such as in combat
+8) Provide quest automation not limited to just interactions with mobiles
+
+Essentially the structure of this language stems from one commonality in the eight things
+listed above: an event must initiate the activity.  In other languages, events are tricky,
+and have specialized solutions, but in this language, events form the basis but the language
+remains relatively similar across various events.
+
+Each line is executed once, and only one line is executed per iteration.  The pace is set by
+the value of the pace speed on the original, and modified by each instantiation.
+
+Aspects of the language:
+
+- The language is implemented with a "goto label" structure, despite Dykstra's assertions
+- Logical structure is simplified by this approach, and no "if" statements here
+- Specialized variables form the backbone of the language, and are predictable and
+  change their value based on prior execution of specialized commands
+- Variables are intelligently deciphered based on the context of their use
+- Actions occur across a minimum time of 1 second to avoid "infinite loops"
+- Allows for dynamic building zones to be populated using the "Build Scripts" feature by
+  having a script call a "Build Script" on demand
+
+
+Since DikuMUDs have "Rooms" (or "Scenes"), "Mobiles" (or "Actors") and "Objects" (or "Props"),
+the same script does not work the same on every type of entity.  However, it is possible,
+if the script author limits their use of the language, to write a single script that performs
+the same functionality for each of these.
+
+In addition to the concepts of "rooms", "objects" and "mobiles", DikuMUDs have "skills"
+and "spells" - these are also distinct, but the same language can be used to describe them,
+except instead of acting on a third-person, it is acting on the player itself.
+
+
+Here are the types of scripts:
+
+build  - special scripts called by other scripts
+born   - when an object is created, a room is initialized (beginning of mud) or a mobile is created
+dies   - upon object destruction (either timed in some cases, or by fire/etc), or when a mobile dies,
+         rooms: when someone dies
+speaks - when someone speaks nearby the object, inside the room, or in the presence of the mobile
+near   - when someone enters the room an object is in, the room itself, or encounters the mobile
+spell  - when the associated spell type triggers this script (see appendix II: skills, spells and scripts)
+skill  - when the associated skill action triggers this script (see appendix II)
+order  - when the order command is issued on the mobile that has this script
+command- when a command is typed in the vicinity (same room, object in inventory, mobile nearby)
+combat - called continously each round of combat, either object in a combatants inventory, or on a mobile, room
+victory- when the mobile wins the fight, killing the player or enemy
+given  - when an object is given to the mobile, placed inside an object, or dropped in the room
+recipe - called by a special mud command, like do_mix or do_concoct or do_craft, etc, does not restrict use of 'reagent' or 'mix'
+loaded - when loaded from disk (mobile pets and their objects, when a player logs in)
+
+Here are the reserved variables:
+
+ %player%    - the person (not NPC) that triggered the script
+ %member%    - a member of that person's group, or someone following them
+ %self%      - me (a room, object or mobile)
+ %mobile%    - a pet or hireling of the player
+ %object%    - something given to me, or that I made
+ %room%      - where I am, or what I built
+ %here%      - where I am
+ %time%      - mud time
+ %hour%      - mud hour
+ %day%       - mud day
+ %month%     - mud month
+ %weekday%   - mud day of week
+ %sky%       - weather condition
+ %sun%
+ %player-heshe%   - special versions for creating descriptions
+ %player-hisher%
+ %player-himher%
+ %self-heshe%
+ %self-hisher%
+ %self-himher%
+ %mobile-heshe%
+ %mobile-himher%
+ %mobile-hisher%
+ %your variable name up to 32 long%
+
+
+Here are the questions you can ask:
+ (this is pseudocode, it is done with commands, see below)
+
+ Is the player grouped?
+ Who is one member of the player's group (or the player, if they are alone)?
+ Who is one person that is following the player?
+ Does the player have object <vnum>?
+ Is there an object I'm aware of?
+ Where am I?
+ What did the player say?
+ What was I given by the player (or what was put inside me/dropped here)?
+ Did someone come near me?
+ Did the player have enough money for what I'm charging?
+
+
+Here are the actions that can be performed:
+ (this is pseudocode, it is done with commands, see below)
+
+ I can determine if a player has an object.
+ I can dispense an object.
+ I can consume an object.
+ I can strip the player of their possessions.
+ I can wear an object (if I'm an actor).
+ I can eject an object (give it to someone, or drop it nearby).
+ I create an object inside of myself.
+ I can react with an object that is "nearby" (in the inventory, contents or room)
+ I can move to any room from anywhere.
+ I can move in a random direction.
+ I can start fighting the player (if I am an actor).
+ I can hurt the player.
+ I can hurt everyone near me.
+ I can "kill myself".
+ I can "breed" a pet or hireling.
+ I can define a recipe, describe the process, and create its reprocussions.
+ I can hurt the player's group.
+ I can hurt one member of the player's group.
+ I can pay the player money.
+ I can charge the player money.
+ I can modify a player's stats.
+ I can modify an object's stats.
+ I can perform any action (mud command) (if I'm an actor).
+ I can move the player and the group to another location, and force them to "look" (optional)
+ I can move the player to another location, and force them to "look" (optional)
+ I can wait some time.
+ I can wear something (if I'm an actor).
+ A command can be typed, and I can respond.
+ An order can be given, and I can act.
+ I can dig a one- or two-way exit to another place from here. (if that's possible)
+ I can "undig" a one- or two-way exit from another place. (if that's possible)
+ I can check a value and make a decision.
+ I can change a value that I know about.
+ I can change a global value.
+ I can change a value stored on a player, or group member.
+ I can check versus a skill that the player has.
+ I can build a customized area.
+ I can change speed.
+ I can stop completely.
+
+Here is the command list:
+-------------------------
+
+For all scripts that are not builder scripts:
+
+label:                                     - defines a case-insensitive script label (make sure it is unique)
+"this is also valid:"                      - defines a script label, doesn't work with @ but works with goto "value"
+end                                        - stops a script and resets its execution state
+die                                        - silently ends script execution and destroys the owner
+death                                      - silently ends script execution and kills an owner mobile or same as die
+goto <label1>                              - searches for and begins execution at a label
+@label                                     - searches for and begins execution at a label
+walkto <target vnum>                       - attempts to walk to a room one step at a time
+wait <seconds>                             - tells the script to pause for <seconds>
+randomwait <low> <high>                    - waits for 
+pace <value>                               - changes the speed at which the script executes
+:<action>                                  - performs a variated emote (works for objects and rooms too)
+%skillname percent <label1> <label2>       - checks versus a skill, if it works out it goes to label1, else label2
+"%skillname" percent <label1> <label2>     - for skills with longer names
+%<gsn> percent <label1> <label2>           - checks versus a particular gsn
+affect <type> <value> <duration>           - adds an affect modifier to the player
+affectgroup <type> <value> <duration>      - adds an affect modifier to the player and the group
+modify <type> <value>                      - adds an affect modifier to an object
+equip <vnum> <location> <percent>          - attempts to equip an object of vnum at a location some % of the time
+breed <vnum>                               - mob <vnum> appears in the room (near player or outside of object)
+hireling <vnum>                            - mob <vnum> appears near player and follows / is charmed to player
+dispense <vnum>                            - drops or ejects into inventory one copy of object vnum
+give <vnum>                                - attempts to give an object to a player (creates it)
+has <vnum> <label1> <label2>               - checks if a player has an object by vnum
+inside <vnum> <limit>                      - produces an object inside itself / in inventory, up to limit, if limit is not set, 5
+remove <vnum>                              - removes an object of vnum from a player
+remove <vnum> self                         - removes an object of vnum from the owner
+remove <vnum> member                       - removes an object of vnum from the member
+remall <vnum>                              - removes all objects of vnum from a player and sets the count variable
+remall <vnum> self                         - removes all objects of a vnum from the owner
+remall <vnum> member                       - removes all objects of a vnum from the member
+remall                                     - removes all objects from "inside" the owner
+give <vnum> "<target>" <label1> <label2>   - attempts to give
+pay <amount>                               - pays the actor an amount
+charge <amount> <label1> <label2>          - attempts to charge
+attack                                     - attacks a player (forces combat to start)
+bomb <low> <high> <percent>                - damages everyone in the group for low-high with a percentage to hit
+hurt <low> <high>                          - hurts a player
+hurtgroup <low> <high>                     - hurts a player and group
+wander                                     - picks a random direction (similar to !ACT_SENTINEL) sets %direction%
+link <direction> <vnum>                    - links a room to another room
+link <direction> <vnum> one                - links a room to another room (one way)
+unlink <direction> <vnum>                  - unlinks a room's exit (on both sides)
+unlink <direction> <vnum> one              - unlinks a room's exit (on one side)
+jump <vnum>                                - moves the script owner to a room vnum
+jump                                       - moves the script owner to a random room vnum
+got                                        - moves to the player's inventory (an object)
+got member                                 - moves to the member's inventory (an object)
+move <vnum>                                - moves the player and their pets and forces the player to 'look'
+move <vnum> silent                         - does not require them to look
+movegroup <vnum>                           - moves all of the group and their pets and forces them to 'look'
+movegroup <vnum> silent                    - does not require them to look
+find <value> <label1> <label2>             - looks for a nearby object named value (or by vnum) and sets %object%, goes to label1 if found, label2 if not
+locate <value> <label1> <label2>           - looks for a nearby mobile named value (or by vnum) and sets %
+grouped <label1> <label2>                  - determines if the player is in a group or not
+groupmember                                - picks a random group member and sets the %member% object
+follower                                   - picks a random follower (players only, treats them as a group member)
+pets                                       - picks a random pet and sets the %mobile% var
+grouppets                                  - picks a random pet from any group member and sets the %mobile% var
+memberpet                                  - picks a random pet from a selected member and sets the %mobile% vawr
+player <value>                             - picks a player if nearby by <value>
+memberisplayer <label1> <label2>           - checks to see if %player% is the same as %member%
+mobile <label1> <label2>                   - checks if the mobile has been set, goes to label1 if it has, label2 if it hasn't
+object <label1> <label2>                   - checks if the object has been set, goes to label1 if it has, label2 if it hasn't
+player <label1> <label2>                   - checks if the player has been set, goes to label1 if it has, label2 if it hasn't
+member <label1> <label2>                   - checks if the member has been set, goes to label1 if it has, label2 if it hasn't
+build <vnum or name>                       - calls a building script (failsafe wont run if it isn't the right type)
+recipe <vnum or name>                      - calls a recipe script (failsafe wont run if  it isn't the right type)
+command <immortal command>                 - calls an immortal command (see notes section 6)
+<mud command>                              - if on a mob, attempts to perform a mud command not covered here
+
+Variable Storage
+----------------
+
+Note, variables are parsed when contained in %'s
+
+ %foo%       - an "execution local" variable named foo
+ %_foo%      - a "player variable" named foo
+ %#foo%      - a "script global" named foo (a variable available across scripts of the same type)
+ %$foo%      -  a "global variable" named foo that is mud-wide in scope
+
+Variadic commands:
+isset <variable> <label1> <label2>         - asks "is this variable set?", if so goes to label1, else label2
+
+For non-reserved user-defined variables available "locally" inside the execution:
+
+=variable "<value>"                        - assigns a variable to a precise string or number
++variable "<value>"                        - adds a value to a numeric variable
+-variable "<value>"                        - subtracts a value from a numeric variable
+<variable "<value>" <label1> <label2>      - asks if the variable is less than a value, goes to label1 if yes, label2 if no
+>variable "<value>" <label1> <label2>      - asks if the variable is greater than a value, goes to label1 if yes, label2 if no
+?variable "<value>" <label1> <label2>      - checks a variable for an exact match
+*variable "<value>" <label1> <label2>      - checks a variable for a partial match
+!variable                                  - disposes of a variable
+^variable "%variables%"                    - parses variables and stores it in a variable
+)variable "<value>"                        - adds a value to a list like: "value1 value2"
+(variable "<value>"                        - removes all occurances of value from a list
+[variable                                  - shifts the list left (makes the first the last)
+]variable                                  - shifts the list right (makes the last the first)
+/variable                                  - pops the first item off the list, removing it, if a second variable is applied:
+/variable target                           - stores the popped first item off the variable list
+
+Same as above but is a script-localized variable stored on the player:
+
+_=variable "<value>"                        - assigns a variable to a precise string or number
+_+variable "<value>"                        - adds a value to a numeric variable
+_-variable "<value>"                        - subtracts a value from a numeric variable
+_<variable "<value>" <label1> <label2>      - asks if the variable is less than a value, goes to label1 if yes, label2 if no
+_>variable "<value>" <label1> <label2>      - asks if the variable is greater than a value, goes to label1 if yes, label2 if no
+_?variable "<value>" <label1> <label2>      - checks a variable for an exact match
+_*variable "<value>" <label1> <label2>      - checks a variable for a partial match
+_!variable                                  - disposes of a variable
+_^variable "%variables%"                    - parses variables and stores it in a variable
+_)variable "<value>"                        - adds a value to a list like: "value1 value2"
+_(variable "<value>"                        - removes all occurances of value from a list
+_[variable                                  - shifts the list left (makes the first the last)
+_]variable                                  - shifts the list right (makes the last the first)
+_/variable                                  - pops the first item off the list, removing it, if a second variable is applied:
+_/variable target                           - stores the popped first item off the variable list
+
+Same as above but is a cross-script-global variable stored on the script:
+
+#=variable "<value>"                        - assigns a variable to a precise string or number
+#+variable "<value>"                        - adds a value to a numeric variable
+#-variable "<value>"                        - subtracts a value from a numeric variable
+#<variable "<value>" <label1> <label2>      - asks if the variable is less than a value, goes to label1 if yes, label2 if no
+#>variable "<value>" <label1> <label2>      - asks if the variable is greater than a value, goes to label1 if yes, label2 if no
+#?variable "<value>" <label1> <label2>      - checks a variable for an exact match
+#*variable "<value>" <label1> <label2>      - checks a variable for a partial match
+#!variable                                  - disposes of a variable
+#^variable "%variables%"                    - parses variables and stores it in a variable
+#)variable "<value>"                        - adds a value to a list like: "value1 value2"
+#(variable "<value>"                        - removes all occurances of value from a list
+#[variable                                  - shifts the list left (makes the first the last)
+#]variable                                  - shifts the list right (makes the last the first)
+#/variable                                  - pops the first item off the list, removing it, if a second variable is applied:
+#/variable target                           - stores the popped first item off the variable list in the target variable name
+
+Same as above but is a MUD global variable:
+
+$=variable "<value>"                        - assigns a variable to a precise string or number
+$+variable "<value>"                        - adds a value to a numeric variable
+$-variable "<value>"                        - subtracts a value from a numeric variable
+$<variable "<value>" <label1> <label2>      - asks if the variable is less than a value, goes to label1 if yes, label2 if no
+$>variable "<value>" <label1> <label2>      - asks if the variable is greater than a value, goes to label1 if yes, label2 if no
+$?variable "<value>" <label1> <label2>      - checks a variable for an exact match
+$*variable "<value>" <label1> <label2>      - checks a variable for a partial match
+$!variable                                  - disposes of a variable
+$^variable "%variables%"                    - parses variables and stores it in a variable
+$)variable "<value>"                        - adds a value to a list like: "value1 value2"
+$(variable "<value>"                        - removes all occurances of value from a list
+$[variable                                  - shifts the list left (makes the first the last)
+$]variable                                  - shifts the list right (makes the last the first)
+$/variable                                  - pops the first item off the list, removing it, if a second variable is applied:
+$/variable target                           - stores the popped first item off the variable list in the target variable name
+
+3. Advanced Topic: Building Automation -----------------------------------------------------
+
+Build scripts are executed all at once, and have limitations on the number of goto statements
+called in a single iteration to avoid infinite loops.  The default limit is 100.
+
+All user-defined variables from the calling script are passed down to build scripts.  This
+lets you make determinations in SimScript logic before calling a build script, and these
+act as parameters and customization settings for generating descriptions.
+
+These scripts use a different set of commands than ordinary SimScripts, and use the variables
+in a different way.
+
+You'll always want to create a room first, followed by mobiles and finally objects. You'll
+want to place resets immediately after new mobiles and objects.  Unlike regular building
+methods, you should think of each mobile or object as a singleton (something that is used 1 time)
+or if you wish you can attempt to use the storage methods to keep track of things you have
+built previously in the script.
+
+You can also use the find command to attempt to locate stuff you already created, and you can
+store lists of vnums in sets by using the store command.  Look at the examples to make some
+sense of this.
+
+Variables:
+ %rvnum%             - replaced with the last created room vnum
+ %mvnum%             - replaced with the last created mobile vnum
+ %ovnum%             - replaced with the last created object vnum
+ %short%             - replaced with the last created short description
+ %long%              - replaced with the last created long description
+ %name%              - replaced with a room name
+ %description%       - replaced with the last description (see notes below in this section)
+
+Commands:
+
+new <room|obj|mobile>               - generates a thing and sets the appropriate %?vnum% variable
+name <value>                        - sets the name on the last generated thing
+short <value>                       - sets the short_descr on the last created object or mobile
+long <value>                        - sets the "long" on a mobile or object
+description                         - begins a description block on the previously created thing
+@                                   - ends a description block, not the same as @label
+
+For mobiles:
+
+str                                 - sets the mobile's strength
+
+For objects:
+
+type <value>                        - changes an object's type
+v0 <value>            (v1..v4)      - sets object parameters
+weight                              - sets an object's weight
+value                               - sets the fiscal value
+
+
+Notes:
+You can create objects that will not be created or used in the game directly, but instead merely
+hold strings in their descriptions that can be re-used later.
+
+4. Examples --------------------------------------------------------------------------------
+
+Example 1: Time and Loops
+---------
+A simple loop at the default setting of pace = 1 second.
+
+
+label:
+say "hello it's been one second"
+goto label
+
+
+Result 1
+--------
+
+Mobile says, "Hello, it's been one second" once a second, infinitely until it dies.
+
+
+Example 2: Time, Pausing and Loops
+---------
+A simple example at the default setting of pace = 1 second, but uses the 'wait' command.
+
+
+label:
+:chirps "Hello, it's been one second"
+wait 2
+:chirps "Hello, it's been three seconds"
+goto label
+
+
+Result 2:
+---------
+
+Object (or mobile) repeats emotes two phrases in these two timeframes infinitely until it dies.
+
+
+Example 3: Simple automation
+---------
+This is a perpetual script that acts similar to a MOBProg.
+
+start:
+sit
+yawn
+stretch
+rest
+wait 4
+sleep
+wait 10
+snore
+wait 20
+snore
+wait 10
+snore
+wait 5
+sit
+stretch
+stand
+wait 1000
+goto start
+
+
+
+
+5. Installation ----------------------------------------------------------------------------
+
+
+Simple to install and self-contained with minimal impact on server code-bases was the choice
+made in developing this software. It's not perfect - the code-base called "DikuMUD family"
+is diverse, but these should work.
+
+
+Initial Considerations
+----------------------
+
+a) You should change the do_order() command, because it has been crippled on a lot of servers.
+   Let players order them to wear, hold, drop, kill, etc.
+
+b) You should allow for multiple pets, mules and tanks.  This is simple change made to about
+   20 places in the code include act_obj.c and act_comm.c
+
+c) You should install mounts, do_mount/do_ride etc.  Examples are in the NiMUD source code.
+
+d) You may need to change small things about this code.  This code was written for a ROM-derived
+   MUD and therefore uses terminology from that branch.
+
+e) Scripts are dangerous, only your most trusted builders should access them.  Errors can have
+   unforeseen consequences, so scripts must be rigorously tested after implementation.
+
+
+Step one, in merc.h:
+
+1) Somewhere:
+
+#define MSL MAX_STRING_LENGTH
+
+2) Near the line "typedef struct pc_data PC_DATA;" add these three lines:
+
+typedef struct SimpleScript SIMSCRIPT;
+typedef struct SimVariable SIMVAR;
+typedef struct SimpleExecution SIMEXEC;
+typedef struct SimpleGlue SIMGLUE;
+
+3) Near where the actual structs are defined, add:
+
+/*
+ * Begin Locke's Simple Scripts for Diku
+ */
+
+// A script template
+struct SimpleScript {
+ SIMSCRIPT *next;        // next in master list
+ int vnum;               // unique identifier
+ char *name;             // simple script name, preferably no spaces
+ char *keywords;         // keywords that trigger, use '' around complex phrases
+ char *script;           // the script
+ int flags;              // special flags; see SimScripts.h
+ int type;               // script purpose; see SimScripts.h
+ int pace;               // initial pace for the script (can't be <1)
+ int max;                // maximum number of concurrent executions
+ int concurrent;         // 0=unlimited, 1=singleton, 2... etc, 'concurrent' ho
+ int ritual;             // ritual object for recipes
+ char *reagents;         // reagent vnum list for recipes
+ char *quantities;       // quantity list (references reagent list) for recipes
+ SIMVAR *script_globals; // "global" to all copies of this script
+};// typedef SIMSCRIPT;
+
+// Some script glue to attach it to an object, room or mobile
+struct SimpleGlue {
+ SIMGLUE *next;
+ int vnum;
+};// typedef SIMGLUE;
+
+// An instantiated script that is executing
+struct SimpleExecution {
+ SIMEXEC *next;          // in the master list
+ int paused;             // number of seconds (counts down)
+ int flags;              // special execution flags
+ OBJ_DATA *o;        // owner
+ CHAR_DATA *m;       // owner
+ ROOM_INDEX_DATA *r; // owner
+ OBJ_DATA *object;       // value of the %object% variable
+ CHAR_DATA *player;      // who the script is being performed on
+ CHAR_DATA *member;      // a member of the player's group
+ CHAR_DATA *mobile;      // a target mobile
+ ROOM_INDEX_DATA *last;  // Last created room (to add resets)
+ SIMSCRIPT *script;  // Pointer to script
+ char *execution;        // Current place in the execution
+ int pace;               // Current pace (number of seconds between script adva
+ SIMVAR *variables; 
+};// typedef SIMEXEC;
+
+/*
+ * End Locke's Simple Scripts for Diku
+ */
+
+
+4) a) Inside each of the following structs: ROOM_INDEX_DATA, MOB_INDEX_DATA, OBJ_INDEX_DATA, add:
+
+ SIMGLUE *simscripts;
+   
+   b) Inside PC_DATA add:
+
+ SIMVAR *simvars;
+
+And make appropriate changes to memory.c, mem.c or recycle.c to initialize these to NULL.
+ ( in new_mob_index, new_room_index, new_obj_index, pc_data )
+
+ If your MUD has the ability to destroy object/mobile indices, use dispose_glue( &mobindex->simscripts );
+
+
+5) Modify db.c in the following ways:
+
+  a) #include "simscripts.h"
+  b) In boot_db() right after time and weather, before anything else, add:
+     load_scripts();
+
+6) In db.c, olc_save.c or the similar section of your code, include "simscripts.h"
+   then add to each mobile, object and room load/save function (ones with big switch):
+
+   SKEY( "Glue", load_glue( &mobindex->simscripts, fread_string(fp) ) );
+
+  and ones with lots of fprintf():
+
+   save_glue( fp, objindex->glue );
+
+7) In interp.c, include simscripts.h and add do_scriptedit to your command list for immortals.
+   If you wish, you may rename this to do_simedit
+
+8) (optional) modify your do_asave to include save_scripts() when you save the world, etc.
+
+9) Finally, to finish installation you must add the trigger points to the following places:
+
+
+
+
+A. License ---------------------------------------------------------------------------------
+
+Artistic License 2.0
+Copyright (c) 2000-2006, The Perl Foundation.
+
+Everyone is permitted to copy and distribute verbatim copies of this license document,
+but changing it is not allowed.
+
+Preamble
+
+This license establishes the terms under which a given free software Package may be copied,
+modified, distributed, and/or redistributed. The intent is that the Copyright Holder maintains
+some artistic control over the development of that Package while still keeping the Package
+available as open source and free software.
+
+You are always permitted to make arrangements wholly outside of this license directly with the
+Copyright Holder of a given Package. If the terms of this license do not permit the full use
+that you propose to make of the Package, you should contact the Copyright Holder and seek a
+different licensing arrangement.
+
+Definitions
+
+"Copyright Holder" means the individual(s) or organization(s) named in the copyright notice
+for the entire Package.
+
+"Contributor" means any party that has contributed code or other material to the Package, in
+accordance with the Copyright Holder's procedures.
+
+"You" and "your" means any person who would like to copy, distribute, or modify the Package.
+
+"Package" means the collection of files distributed by the Copyright Holder, and derivatives
+of that collection and/or of those files. A given Package may consist of either the Standard
+Version, or a Modified Version.
+
+"Distribute" means providing a copy of the Package or making it accessible to anyone else, or
+in the case of a company or organization, to others outside of your company or organization.
+
+"Distributor Fee" means any fee that you charge for Distributing this Package or providing
+support for this Package to another party. It does not mean licensing fees.
+
+"Standard Version" refers to the Package if it has not been modified, or has been modified only
+in ways explicitly requested by the Copyright Holder.
+
+"Modified Version" means the Package, if it has been changed, and such changes were not
+explicitly requested by the Copyright Holder.
+
+"Original License" means this Artistic License as Distributed with the Standard Version of
+the Package, in its current version or as it may be modified by The Perl Foundation in the future.
+
+"Source" form means the source code, documentation source, and configuration files for the Package.
+
+"Compiled" form means the compiled bytecode, object code, binary, or any other form resulting
+from mechanical transformation or translation of the Source form.
+
+Permission for Use and Modification Without Distribution
+(1) You are permitted to use the Standard Version and create and use Modified Versions for any
+purpose without restriction, provided that you do not Distribute the Modified Version.
+
+Permissions for Redistribution of the Standard Version
+(2) You may Distribute verbatim copies of the Source form of the Standard Version of this Package
+in any medium without restriction, either gratis or for a Distributor Fee, provided that you duplicate
+all of the original copyright notices and associated disclaimers. At your discretion, such verbatim
+copies may or may not include a Compiled form of the Package.
+
+(3) You may apply any bug fixes, portability changes, and other modifications made available from the
+Copyright Holder. The resulting Package will still be considered the Standard Version, and as such will
+be subject to the Original License.
+
+Distribution of Modified Versions of the Package as Source
+(4) You may Distribute your Modified Version as Source (either gratis or for a Distributor Fee,
+and with or without a Compiled form of the Modified Version) provided that you clearly document how
+it differs from the Standard Version, including, but not limited to, documenting any non-standard
+features, executables, or modules, and provided that you do at least ONE of the following:
+
+(a) make the Modified Version available to the Copyright Holder of the Standard Version, under the 
+    Original License, so that the Copyright Holder may include your modifications in the Standard Version.
+(b) ensure that installation of your Modified Version does not prevent the user installing or running the
+    Standard Version. In addition, the Modified Version must bear a name that is different from the name
+    of the Standard Version.
+(c) allow anyone who receives a copy of the Modified Version to make the Source form of the
+    Modified Version available to others under
+(i) the Original License or
+(ii) a license that permits the licensee to freely copy, modify and redistribute the Modified Version
+     using the same licensing terms that apply to the copy that the licensee received, and requires
+     that the Source form of the Modified Version, and of any works derived from it, be made freely
+      available in that license fees are prohibited but Distributor Fees are allowed.
+
+Distribution of Compiled Forms of the Standard Version or Modified Versions without the Source
+
+(5) You may Distribute Compiled forms of the Standard Version without the Source, provided that
+you include complete instructions on how to get the Source of the Standard Version. Such instructions
+must be valid at the time of your distribution. If these instructions, at any time while you are
+carrying out such distribution, become invalid, you must provide new instructions on demand or cease
+further distribution. If you provide valid instructions or cease distribution within thirty days after
+you become aware that the instructions are invalid, then you do not forfeit any of your rights under
+this license.
+
+(6) You may Distribute a Modified Version in Compiled form without the Source, provided that you
+comply with Section 4 with respect to the Source of the Modified Version.
+
+Aggregating or Linking the Package
+
+(7) You may aggregate the Package (either the Standard Version or Modified Version) with other packages
+and Distribute the resulting aggregation provided that you do not charge a licensing fee for the Package.
+Distributor Fees are permitted, and licensing fees for other components in the aggregation are permitted.
+The terms of this license apply to the use and Distribution of the Standard or Modified Versions as
+included in the aggregation.
+
+(8) You are permitted to link Modified and Standard Versions with other works, to embed the Package in
+a larger work of your own, or to build stand-alone binary or bytecode versions of applications that
+include the Package, and Distribute the result without restriction, provided the result does not expose
+a direct interface to the Package.
+
+Items That are Not Considered Part of a Modified Version
+(9) Works (including, but not limited to, modules and scripts) that merely extend or make use of the
+Package, do not, by themselves, cause the Package to be a Modified Version. In addition, such works
+are not considered parts of the Package itself, and are not subject to the terms of this license.
+
+General Provisions
+(10) Any use, modification, and distribution of the Standard or Modified Versions is governed by this
+Artistic License. By using, modifying or distributing the Package, you accept this license. Do not use,
+modify, or distribute the Package, if you do not accept this license.
+
+(11) If your Modified Version has been derived from a Modified Version made by someone other than you,
+you are nevertheless required to ensure that your Modified Version complies with the requirements of
+this license.
+
+(12) This license does not grant you the right to use any trademark, service mark, tradename, or logo
+of the Copyright Holder.
+
+(13) This license includes the non-exclusive, worldwide, free-of-charge patent license to make, have
+made, use, offer to sell, sell, import and otherwise transfer the Package with respect to any patent
+claims licensable by the Copyright Holder that are necessarily infringed by the Package. If you
+institute patent litigation (including a cross-claim or counterclaim) against any party alleging that
+the Package constitutes direct or contributory patent infringement, then this Artistic License to you
+shall terminate on the date that such litigation is filed.
+
+(14) Disclaimer of Warranty: THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS IS'
+AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, OR NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL LAW.
+UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGE.
+
+

@@ -1,0 +1,602 @@
+#PLAYER
+Name Judge~
+Race vampire~
+Levl 14
+Clas ranger~
+Pkpt 100
+TSex 0
+LogO 1353149982
+Sock ppp173-194.broadband.gorge.net~
+Titl ..{x~
+
+#STAT_BREAK
+
+Id   1352249464
+Plat 1
+Gold 30
+Silv 76
+Exp  21807
+Attr 24 19 19 22 21
+Prom (%e){1<{@%hh %mm %vv{1> {1[{@%q{1]{x ~
+Act  BCDEFGHJKQRT
+AfBy LTVc
+ShBy CDEJ
+Comm N
+Config CFI
+Combat I
+Pos  8
+Alig  47
+Sk 1 'armor'
+Sk 1 'awen'
+Sk 1 'barkskin'
+Sk 1 'blink'
+Sk 1 'cancellation'
+Sk 1 'channel'
+Sk 1 'constitution'
+Sk 1 'cure critical'
+Sk 75 'cure light'
+Sk 1 'cure serious'
+Sk 1 'detect terrain'
+Sk 1 'dispel magic'
+Sk 1 'fireproof'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'giant strength'
+Sk 1 'glacier'
+Sk 1 'golden armor'
+Sk 1 'groupheal'
+Sk 1 'growth'
+Sk 1 'haste'
+Sk 1 'heal'
+Sk 1 'incinerate'
+Sk 1 'intellect'
+Sk 1 'mass healing'
+Sk 1 'nexus'
+Sk 1 'pass door'
+Sk 1 'portal'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'protection neutral'
+Sk 1 'protection voodoo'
+Sk 75 'refresh'
+Sk 1 'regeneration'
+Sk 1 'sanctuary'
+Sk 1 'shield'
+Sk 1 'steel skin'
+Sk 1 'stone skin'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'thunderbolt'
+Sk 1 'transport'
+Sk 1 'vigorize'
+Sk 1 'wisdom'
+Sk 1 'word of recall'
+Sk 1 'ambush'
+Sk 75 'dagger'
+Sk 1 'dual wield'
+Sk 75 'feed'
+Sk 1 'kick'
+Sk 75 'recall'
+Sk 1 'scrolls'
+Sk 1 'second attack'
+Sk 1 'staves'
+Sk 76 'sword'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'wands'
+MaxDam 84
+LLev 0
+Pass Ju.dN5FUhp2VE~
+Plyd 1598
+Note 0 0 0 0 0
+Room 23547
+HMVN 968 868 998 873 692 549
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 19 19
+Deviant 0 0
+Scro 58
+Prac 74
+Trai 4
+Devote current 0
+Pnts 40
+Mkil 62
+Gr 'elemental'
+Gr 'enhancement'
+Gr 'healing'
+Gr 'protective'
+Gr 'ranger basics'
+Gr 'rom basics'
+Gr 'transportation'
+Affc 'fly'   0   0   0  -1   0   0     524288
+Affc 'regeneration'   0   0   0  -1   0   0  268435456
+Affc 'vampiricshield'   1   0   0  -1   0   0        512
+Affc 'shield'   0 103   0   6 -35  17          0
+Affc 'iceshield'   1  98   0   6   0   0          4
+Affc 'fireshield'   1 101   0   6   0   0          8
+Affc 'bless'   0 102   0  22  13  18          0
+Affc 'bless'   0 105   0  22 -13  20          0
+Affc 'haste'   0  98   0   7   3   2    2097152
+Affc 'shockshield'   1 104   0   7   0   0         16
+Affc 'farsight'   0   1   0  -1   0   0       2048
+Affc 'constitution'   0 305   0  28  10   5          0
+End
+
+#O
+Vnum 3162
+Nest 0
+Name map new midgaard~
+ShD  A map of New Midgaard~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3163
+Nest 0
+Name map thera~
+ShD  a map of Western Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3169
+Nest 0
+Name map thera~
+ShD  a map of Eastern Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3716
+Nest 0
+Name round oval sphere reddish orange~
+ShD  A Strange Reddish-Orange Sphere~
+Desc A round oval-like sphere glowing reddish-orange is settled here on the ground.~
+Cost 0
+Wear 0
+Valu 2 1 171
+End
+
+#O
+Vnum 3703
+Nest 0
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3706
+Nest 0
+Name round thothian helmet~
+ShD  A Thothian Helmet~
+Desc A large round helmet made from Thoth is lying here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 29
+End
+
+#O
+Vnum 3711
+Nest 0
+Name thothian dark cape~
+ShD  A Thothian Cape~
+Desc A long dark cape finely made from Thoth lies here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 29
+Wear 12
+End
+
+#O
+Vnum 3708
+Nest 0
+Name pair leather thothian sandals~
+ShD  A pair of Thothian Sandals~
+Desc A pair of leather sandals made from Thoth lies here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 32
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+MULTI Judge~ 174-114.dial.gorge.net~ 32
+Wear 14
+End
+
+#O
+Vnum 3724
+Nest 0
+Name ring thothian ~
+ShD  A Thothian-made Ring~
+Desc A small ring with the engraving "T" is lying here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 32
+Wear 1
+End
+
+#O
+Vnum 798
+Nest 0
+Name Sharp shortsword Tears special~
+ShD  Sharp shortsword of Tears~
+Desc A shortsword is here.~
+Loader MPOP: (20:03-11/06/2012) Judge~
+Lev  2
+Cost 75
+Affc 'reserved' 2 1 -1 4 18 0
+Affc 'reserved' 2 1 -1 1 19 0
+Affc 'reserved' 2 1 -1 13 17 0
+End
+
+#O
+Vnum 3707
+Nest 0
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 32
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+MULTI Judge~ 174-114.dial.gorge.net~ 32
+Wear 13
+End
+
+#O
+Vnum 3726
+Nest 0
+Name earring thothian~
+ShD  A Thothian Earring~
+Desc A crystallized earring shaped in a "T" lies here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 32
+Wear 21
+End
+
+#O
+Vnum 3725
+Nest 0
+Name ancient symbol thothian~
+ShD  The symbol of a Thothian Warrior~
+Desc An ancient symbol of a Thothian warrior has been disregarded here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 33
+Wear 26
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 33
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 33
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+MULTI Judge~ 174-114.dial.gorge.net~ 33
+Wear 25
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+MULTI Judge~ 174-114.dial.gorge.net~ 33
+Wear 24
+End
+
+#O
+Vnum 3727
+Nest 0
+Name abandoned mask~
+ShD  An abandoned mask~
+Desc An abandoned mask is lying here eyeless and mouthless.~
+MULTI Judge~ 174-114.dial.gorge.net~ 34
+Wear 20
+End
+
+#O
+Vnum 3728
+Nest 0
+Name thothian black eyepatch~
+ShD  A Thothian Eyepatch~
+Desc A thin but long black eyepatch of Thoth lies here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 34
+Wear 27
+End
+
+#O
+Vnum 761
+Nest 0
+Name axe hand exceptional~
+ShD  exceptional hand axe~
+Desc Hand axe is here.~
+Loader MPOP: (20:04-11/06/2012) Judge~
+Cost 1500
+Valu 4 5 G
+End
+
+#O
+Vnum 3709
+Nest 0
+Name leather thothian gloves~
+ShD  A pair of Thothian gloves~
+Desc Two leather gloves specially made from Thoth lie here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 34
+Wear 9
+End
+
+#O
+Vnum 3710
+Nest 0
+Name pair leather sleeves thothian~
+ShD  A pair of Thothian arm braces~
+Desc A pair of fine-leathered sleeves made from Thoth lie here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 34
+Wear 10
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+MULTI Judge~ 174-114.dial.gorge.net~ 34
+Wear 15
+End
+
+#O
+Vnum 3715
+Nest 0
+Name diploma school mud~
+ShD  a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x~
+Desc You see a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 34
+Wear 17
+End
+
+#O
+Vnum 14705
+Nest 0
+Name dagger gleaming~
+ShD  {wa {CG{wleamin{Cg {DDagger{x~
+Desc You see a gleaming dagger here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 45
+Wear 16
+End
+
+#O
+Vnum 14704
+Nest 0
+Name soft boots~
+ShD  {wSoft {yLeather {wBoots{x~
+Desc You see a pair of soft leather boots here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 45
+End
+
+#O
+Vnum 14703
+Nest 0
+Name skull cap apprentice~
+ShD  {wan {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {yCloth {wSkull Cap{x~
+Desc You see a cloth skull cap here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 45
+Wear 6
+End
+
+#O
+Vnum 14702
+Nest 0
+Name cloak apprentice~
+ShD  {wan {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {WCloak{x~
+Desc You see a cloak here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 45
+End
+
+#O
+Vnum 14701
+Nest 0
+Name robes apprentice~
+ShD  {wa Set of {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {DRobes{x~
+Desc You see a set of apprentice's robes here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 45
+End
+
+#O
+Vnum 14701
+Nest 0
+Name robes apprentice~
+ShD  {wa Set of {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {DRobes{x~
+Desc You see a set of apprentice's robes here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 46
+Wear 5
+End
+
+#O
+Vnum 14702
+Nest 0
+Name cloak apprentice~
+ShD  {wan {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {WCloak{x~
+Desc You see a cloak here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 46
+Wear 3
+End
+
+#O
+Vnum 14703
+Nest 0
+Name skull cap apprentice~
+ShD  {wan {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {yCloth {wSkull Cap{x~
+Desc You see a cloth skull cap here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 46
+End
+
+#O
+Vnum 14704
+Nest 0
+Name soft boots~
+ShD  {wSoft {yLeather {wBoots{x~
+Desc You see a pair of soft leather boots here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 46
+Wear 8
+End
+
+#O
+Vnum 14705
+Nest 0
+Name dagger gleaming~
+ShD  {wa {CG{wleamin{Cg {DDagger{x~
+Desc You see a gleaming dagger here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 46
+End
+
+#O
+Vnum 14701
+Nest 0
+Name robes apprentice~
+ShD  {wa Set of {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {DRobes{x~
+Desc You see a set of apprentice's robes here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 47
+End
+
+#O
+Vnum 14702
+Nest 0
+Name cloak apprentice~
+ShD  {wan {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {WCloak{x~
+Desc You see a cloak here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 47
+End
+
+#O
+Vnum 14703
+Nest 0
+Name skull cap apprentice~
+ShD  {wan {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {yCloth {wSkull Cap{x~
+Desc You see a cloth skull cap here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 47
+End
+
+#O
+Vnum 14704
+Nest 0
+Name soft boots~
+ShD  {wSoft {yLeather {wBoots{x~
+Desc You see a pair of soft leather boots here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 47
+End
+
+#O
+Vnum 14705
+Nest 0
+Name dagger gleaming~
+ShD  {wa {CG{wleamin{Cg {DDagger{x~
+Desc You see a gleaming dagger here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 47
+End
+
+#O
+Vnum 14701
+Nest 0
+Name robes apprentice~
+ShD  {wa Set of {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {DRobes{x~
+Desc You see a set of apprentice's robes here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 47
+End
+
+#O
+Vnum 14702
+Nest 0
+Name cloak apprentice~
+ShD  {wan {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {WCloak{x~
+Desc You see a cloak here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 47
+End
+
+#O
+Vnum 14703
+Nest 0
+Name skull cap apprentice~
+ShD  {wan {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {yCloth {wSkull Cap{x~
+Desc You see a cloth skull cap here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 47
+End
+
+#O
+Vnum 14704
+Nest 0
+Name soft boots~
+ShD  {wSoft {yLeather {wBoots{x~
+Desc You see a pair of soft leather boots here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 47
+End
+
+#O
+Vnum 14705
+Nest 0
+Name dagger gleaming~
+ShD  {wa {CG{wleamin{Cg {DDagger{x~
+Desc You see a gleaming dagger here.~
+MULTI Judge~ 174-114.dial.gorge.net~ 47
+End
+
+#O
+Vnum 26013
+Nest 0
+Name turquoise lump~
+ShD  a lump of turquoise~
+Desc This lump of turquoise must have fallen off the shaman's anklet.~
+Affc 'reserved' 0 92 -1 2 7 0
+End
+
+#O
+Vnum 26008
+Nest 0
+Name coyote paws~
+ShD  coyote paws~
+Desc A silver furry pair of gauntlets are sitting here.~
+End
+
+#O
+Vnum 23538
+Nest 0
+Name key drawbridge~
+ShD  a drawbridge key~
+Desc The key to a drawbridge lies here.
+~
+MULTI Judge~ 174-114.dial.gorge.net~ 49
+End
+

@@ -1,0 +1,1926 @@
+#AREADATA
+Name Olath Che'el~
+Builders Pathos~
+VNUMs 6600 6699
+Credits [  ALL  ] Olath Che'el (Pathos)~
+Security 1
+RepopMsg {RNindol thac'zil zhah naut'shinder ulu jal! Ser Doeb!{x~
+Continant (null)~
+End
+
+
+
+#MOBILES
+#6600
+onyx statue dark lord~
+an onyx statue of the Dark Lord~
+A giant black onyx statue of Pathos, Lord of Darkness, stands here, eyes lit like red embers.
+~
+Striking in resemblance, this black onyx recreation of the Dark Lord
+is giagantic.  This is as close as one ever hopes to get to Pathos,
+Lord of Darkness.
+~
+Human~
+AB 0 DGLVZ DGNOS -1000 0
+202 105 14d2013+8990 14d2013+8990 20d20+800 wrath
+1815 1813 1814 1813
+EFIKN 0 BCHKLQ ISY
+stand stand none 10000
+HJ 0 giant onyx
+F for AMV
+F par ABCDEFGHIJK
+M SPEECH 6600 good~
+#6601
+giant rat zombie~
+a giant, zombie rat~
+A giant rat scurries along with its flesh dripping off its bones.
+~
+A gigantic rat peers back at you with dead, zombie-like eyes.
+~
+Human~
+ACGO 0 V 0 0 0
+10 5 3d22+96 3d22+96 1d2+4 none
+-5 -3 -3 8
+FM 0 LQ NS
+stand stand none 10
+BGIV 0 small unknown
+F for AHM
+F par ABCDEFGHIJK
+#6602
+undead zombie townperson.~
+a zombie townsperson~
+An undead townsperson staggers right here.
+~
+A flesh eating zombie stares right back at you.  YUM!
+~
+Human~
+ACGO 0 0 0 -500 0
+15 10 5d30+161 5d30+161 3d3+21 bite
+-11 -8 -8 6
+EFJN C KLQ BNPS
+stand stand none 50
+BIMV 0 medium unknown
+F for AH
+F par ABCDEFGHIJK
+#6603
+darkness wraith shadowy figure~
+a wraith of darkness~
+A shadowy figure which steps in and out of the darkness is here. (or is he?)
+~
+Nothing but a faint shadow!
+~
+Human~
+AG 0 DFZ O -1000 0
+20 15 8d53+334 8d53+334 5d6+60 slice
+-25 -22 -22 2
+EFGHK BHIPQ CEKLR NS
+stand stand none 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#6604
+anvil shopkeeper~
+an old anvil~
+An old anvil sits here covered in dust.
+~
+Its an anvil, what more is there to know?!
+~
+Drow~
+AB JQ JQZ AHMV 0 0
+210 105 14d2013+8990 14d2013+8990 20d20+800 none
+1071 1069 1070 1068
+0 B BZ Z
+stand stand none 2500
+ABCDEFGHIJKMV ABCDEFGHIJK medium iron
+#6605
+little old dwarf~
+a little, old dwarf~
+A little, old dwarf sits here with one eye on you and one eye on the door.
+~
+This drow is old, but very crafty.  Watch Out.
+~
+Drow~
+AB JQ JQ AHMV 0 0
+210 105 14d2013+8990 14d2013+8990 20d20+800 none
+1077 1075 1076 1074
+0 B BZ Z
+stand stand male 10000
+AFHMV ABCDEFGHIJK small unknown
+#6606
+Mafelik healer obok m'thain~
+Mafelik, the Obok M'Thain of Olath Che'el~
+Mafelik, the Obok M'Thain of Olath Che'el stands here cursing.
+~
+This dark figure has hate in his eyes.  His dark face is painted with 
+blood.  He grins with his pointed white teeth.  His eyes glow with an
+unholy aura as he chants quietly to himself.
+~
+Drow~
+ABZa JQ JQ AHMV 0 0
+202 105 14d1889+8430 14d1889+8430 19d19+756 none
+-210 -168 -168 -105
+0 B BZ Z
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+M GRALL 6606 100~
+#6607
+old drow wizard~
+an old, drow wizard~
+An old, drow wizard stands here watching you intently.
+~
+Drow wizards are very clever and very dangerous.  They are highly skilled
+in the art of magic and could destroy a small city with a snap of their
+fingers.  
+~
+Drow~
+AB JQ JQ AHMV -1000 0
+210 105 14d2013+8990 14d2013+8990 20d20+800 none
+1815 1813 1814 1813
+0 B BZ Z
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6608
+scarred gnome woman~
+a scarred woman~
+A battle scarred woman sits here mending a cloak.
+~
+~
+Gnome~
+AB 0 J 0 0 0
+210 105 14d2013+8990 14d2013+8990 20d20+800 none
+1815 1813 1814 1813
+0 0 P R
+stand stand female 9999
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 6608 100~
+#6609
+naked slave girl~
+a naked slave girl~
+A naked slave girl dances here and looks you up and down.
+~
+This poor slave would love to train you anyway she can.  Be brave
+and tell her what you want!
+~
+Human~
+ABJ 0 0 0 0 0
+210 105 14d2013+8990 14d2013+8990 20d20+800 none
+1924 1922 1923 1921
+0 0 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 6609 sex~
+#6699
+platinum black dragon~
+a Platinum Black Dragon~
+A Platinum Black Dragon sits here chained to the wall.
+~
+A gigantic beast is this dragon.  He looks fierce and smells foul.
+~
+Dragon~
+ABF 0 FJTVZc EH 0 0
+150 90 13d1554+6645 13d1554+6645 18d18+670 shbite
+-183 -146 -146 -91
+CDMO JP BEH FI
+stand stand none 5000
+AHZ ACDEFGHIJKPQUVX giant platinum
+F shd D
+M FIGHT 6698 100~
+M FIGHT 6699 100~
+#0
+
+
+
+#OBJECTS
+#6600
+black onyx fountain~
+an onyx fountain~
+{cA fountain carved from pure onyx sits here spewing forth {Rblood{c.{x~
+onyx~
+fountain 0 0
+0 0 'water' 0 0 0 0 0 0 0
+1 5000 0 P
+M 0
+L 0
+V 0
+
+#6601
+valuk crypt sarcophogus~
+valuk's crypt~
+A large, stone sarcophogus lies here.~
+stone~
+container BSY 0
+1000 ABCD 6602 10 1000 0 0 0 0 0
+0 0 0 P
+M 0
+L 0
+V 0
+
+#6602
+dark adamantite key~
+a dark key~
+A dark key lays here glowing with an unusual light.~
+adamantite~
+key AEJ AO
+0 0 0 0 0 0 0 0 0 0
+1 0 0 P
+M 0
+L 0
+V 0
+
+#6603
+tunic ilythiiri chain mail~
+a tunic of {BI{cl{By{wthi{Bi{cr{Bi{x Chain Mail~
+A tunic of dark chain mail sits here shimmering.~
+Adamantine~
+armor GSY AD
+15 15 15 13 0 0 0 0 0 0
+25 15 1000 P
+A
+13 10
+A
+2 1
+M 0
+L 0
+V 0
+
+#6604
+dark onyx armor~
+a dark suit of {BOnyx{x Armor~
+A dark suit of Onyx Armor sits here.~
+onyx~
+armor 0 AD
+20 18 20 24 0 0 0 0 0 0
+45 46 3400 P
+A
+20 -1
+A
+17 -100
+M 0
+L 0
+V 0
+
+#6605
+ilythiiri helm~
+a Helm of the {BI{cl{By{wthi{Bi{cr{Bi{x~
+A dark helm sits here shimmering.~
+Adamantine~
+armor SY AE
+12 12 12 11 0 0 0 0 0 0
+30 5 700 P
+A
+13 10
+A
+2 1
+A
+3 -1
+A
+4 -1
+M 0
+L 0
+V 0
+
+#6610
+dark magical cloak piwafwi~
+a dark, magical {BP{ci{Bw{wa{Bf{cw{Bi{x~
+A {bdark{x wad of monk's cloth lays here.~
+monk's cloth~
+armor EGJSY AK
+5 4 5 7 0 0 0 0 0 0
+15 5 250 P
+A
+13 10
+A
+24 2
+F
+A 0 0 P
+M 0
+L 0
+V 0
+
+#6611
+shear piwafwi healing~
+a shear, magical {RP{wi{Rw{Wa{Rf{ww{Ri{x~
+A shear cloak lies here humming with great power.~
+silk~
+armor BG AK
+30 20 25 17 0 0 0 0 0 0
+60 2 2000 P
+F
+A 0 0 c
+M 0
+L 0
+V 0
+
+#6612
+ilythiiri dress ulishar ~
+an {BI{cl{By{wthi{Bi{cr{Bi{x {MD{mress{x of {BU{blishar{x~
+A wad of spider webs lay here crumpled.~
+Spider Web~
+armor GPSV AD
+38 35 38 27 0 0 0 0 0 0
+58 5 3400 P
+M 0
+L 0
+V 0
+
+#6613
+studded boots ogglin bauthash~
+the {DBoots{x of {cO{wgglin {BB{wauthash{x~
+A pair of {Dblack{x, studded boots sit here.~
+dragon leather~
+armor EMSY AG
+5 5 5 1 0 0 0 0 0 0
+13 10 75 P
+F
+A 0 0 P
+F
+A 0 0 K
+F
+A 0 0 Q
+M 0
+L 0
+V 0
+
+#6615
+adamantite kulggen shield~
+an {DAdamantine {BK{cu{Bl{wg{Bg{ce{Bn{x~
+An adamantite kulggen with the mark of an Ilythiiri nobility lays here humming.~
+Adamantine~
+armor BCEJ AJ
+100 100 100 100 0 0 0 0 0 0
+80 15 400 P
+A
+20 -10
+F
+I 0 0 H
+M 0
+L 0
+V 0
+
+#6620
+ilythiiri longsword~
+an {BI{cl{By{wthi{Bi{cr{Bi {wL{Dongsword{x~
+A longsword with a dark, wicked blade lies here.~
+adamantite~
+weapon EJ AN
+sword 5 14 slice 0 0 0 0 0 0
+37 10 650 P
+M 0
+L 0
+V 0
+
+#6621
+dark dwarven battle axe~
+a {Ddark{x {RD{rwarven {YB{yattle Axe{x~
+A dark, evil axe is embedded in the ground here.~
+adamantine~
+weapon E AN
+axe 6 8 cleave D 0 0 0 0 0
+35 40 575 P
+M 0
+L 0
+V 0
+
+#6625
+hellblade ilythiiri lifesucker longsword~
+the {BI{cl{By{wt{Wh{wi{Bi{cr{Bi{x {DHellblade{x '{RL{rife{WS{wucker{x'~
+A hellish looking longsword bearing the mark of the Ilythiiri lays here humming.~
+Adamantine~
+weapon BCEGJ AN
+sword 13 13 slash CD 0 0 0 0 0
+100 10 500 P
+F
+R 0 0 I
+M 0
+L 0
+V 0
+
+#6630
+old harp~
+an old harp~
+An old harp sits here collecting dust.~
+unknown~
+jukebox A 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 P
+M 0
+L 0
+V 0
+
+#6694
+sword ranger strider~
+{YS{yw{Wo{yr{Yd{w of the {gR{Ga{wng{Ge{gr{x~
+An immortal sword lies here humming. {RDo not touch!{x~
+Adamantium~
+weapon ABCEGSY AN
+sword 400 400 slash ABCDEGHI 0 0 0 0 0
+203 10 0 P
+M 0
+L 0
+V 0
+
+#6695
+pendant pathos jarak~
+a {CPendant of the {BN{ci{Bg{wht{Dbr{win{Bg{ce{Br{x~
+An immortal platinum pendant lies here glowing.~
+platinum~
+armor ABCEGSY AC
+5000 5000 5000 5000 0 0 0 0 0 0
+210 0 0 P
+F
+I 0 0 H
+F
+I 0 0 I
+F
+I 0 0 K
+F
+I 0 0 J
+F
+I 0 0 N
+F
+I 0 0 C
+F
+I 0 0 D
+M 0
+L 0
+V 0
+
+#6696
+dagger dayslayer~
+{CD{ca{wgg{ce{Cr{x of the {Y+{c####{Y({D=D=a=y=s=l=a=y=e=r={R-{x~
+A dark, immortal dagger lies here.  {RDeath awaits those that take!{x~
+Dark Adamantium~
+weapon ABCEGJL AN
+exotic 500 500 divine CEGHI 0 0 0 0 0
+203 0 0 P
+M 0
+L 0
+V 0
+
+#6697
+mark spider queen tattoo~
+{BMark{x of the {DSpider {R|><| {DQueen{x~
+A tattoo of a {RRed {DHourglass{x sits here.~
+unknown~
+armor ABCEGJLU AT
+500 500 500 500 0 0 0 0 0 0
+210 0 0 P
+F
+A 0 0 L
+M 0
+L 0
+V 0
+
+#6698
+darkness cloak piwafwi~
+{BP{ci{Bw{wa{Bf{cw{Bi{x of {DDarkness{x~
+A dark, immortalized wad of cloth sits here.  {RDeath awaits those that take!{x~
+Monk's cloth~
+armor BCEGJLUY AK
+1000 1000 1000 1000 0 0 0 0 0 0
+210 0 0 P
+A
+17 1000
+F
+A 0 0 P
+F
+A 0 0 V
+F
+A 0 0 J
+F
+A 0 0 Z
+F
+A 0 0 c
+F
+A 0 0 Q
+M 0
+L 0
+V 0
+
+#6699
+sword nightbringer~
+{YS{yw{Wo{yr{Yd{x of the {Y*{B%%%%%{Y[{D===N=i=g=h=t=b=r=i=n=g=e=r==-{R--{x~
+An immortal sword of death sits here.  {RDo not touch by penalty of DEATH!{x~
+Dark Adamantium~
+weapon ABCEGJL AN
+exotic 1200 1200 divine ABCDEGHI 0 0 0 0 0
+203 100 1 P
+A
+1 10
+A
+19 25
+A
+18 25
+M 0
+L 0
+V 0
+
+#0
+
+
+
+#ROOMS
+#6600
+{BMain Gates of Olath Che'el{x~
+This town is most legendary and mysterious.  Not many find the entrance.  
+It is not by accident it was found, but this town seems to draw travelers
+to it.  It cries out along with its inhabitants or what's left of them.
+Journey well inside and be warned.  This city has been sitting here, waiting
+for someone to unravel its secrets.  Yet, death awaits those with weak souls.
+~
+0 4 0
+D2
+~
+~
+0 0 6601
+S
+#6601
+{BCity gates{x~
+The ghostly sound of the wind would send shivers up the bravest
+spine.  The gates of the city are gone, torn off by some sort 
+of great power.  Something is not right here.
+~
+0 0 0
+D0
+~
+~
+0 0 6600
+D2
+~
+~
+0 0 6602
+S
+#6602
+{BDraix Revis and Ch{D##{Bh R{D###{B'n{x~
+Traveling south on the center road of Olath Che'el, the darkness
+consumes all that can be seen in the distance.  There is a street 
+that can be seen that runs east and west.  The name of it cannot
+be made out.  
+~
+0 0 0
+D0
+~
+~
+0 0 6601
+D1
+~
+~
+0 0 6618
+D2
+~
+~
+0 0 6603
+D3
+~
+~
+0 0 6609
+S
+#6603
+{BDraix Revis{x~
+The center of town is in sight.  There are buildings destroyed around you,
+yet some still stand.  A large structure to the west seems to be one of
+them.  It has few windows and a heavy door, which is cracked open.  There are 
+some words written on a sign above the door, 'Ilythirri Li#### D'lil An##ents'. 
+~
+0 0 0
+D0
+~
+~
+0 0 6602
+D2
+~
+~
+0 0 6604
+D3
+~
+~
+0 0 6611
+S
+#6604
+{BDraix Revis and Nair I'dol{x~
+The center of town is just ahead.  The buildings are looking worse and worse.
+There is a road to the east and west of this one.  It seems to go on into the 
+darkness.  The end of them cannot be seen.
+~
+0 0 0
+D0
+~
+~
+0 0 6603
+D1
+~
+~
+0 0 6622
+D2
+~
+~
+0 0 6605
+D3
+~
+~
+0 0 6612
+S
+#6605
+{BLil Draix d'Olath Che'el{x~
+The center of this once glorious city is very dim and ruined.  The
+fountain in the center of the circlular shaped arena is made from pure
+onyx and blood pours from every opening in it.  It is said that the blood
+that flows from the fountain is from the many people slain when the Dark
+Lord took over this very much alive city.  A gigantic statue of the Dark
+Lord has been constructed of the same onyx and put on the center pedestal
+in the fountain as a reminder to those who would defy him.  Their blood
+might just be added to the fountain.  Hopefully, this is all anyone would
+ever see of the Dark Lord, Pathos.
+~
+0 0 0
+D0
+~
+~
+0 0 6604
+D2
+~
+~
+0 0 6606
+S
+#6606
+{BDraix Revis and Su'aco Revi'n{x~
+The street becomes narrow again after leaving the center of town. The
+buildings, again, are very worn and crumbling from some great disaster.
+In the far distance a great hill is developing on the horizon.  It seems
+to present a castle-like structure on the highest ridge.  It is still too
+far to see.  There is another street that runs to the east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 6605
+D1
+~
+~
+0 0 6620
+D2
+~
+~
+0 0 6607
+D3
+~
+~
+0 0 6614
+S
+#6607
+{BDraix Revis{x~
+Finding the end of this road almost seems impossible.  The hill is getting
+larger with ever step taken to the south.  The building are not getting any
+better either.  They are still is ruins and without any hope for saving. A
+small home sits to the west.  There is a dim light on inside and the home
+in general looks in pretty good shape.  I wonder if anyone still lives there.
+~
+0 0 0
+D0
+~
+~
+0 0 6606
+D2
+~
+~
+0 0 6608
+D3
+~
+~
+0 0 6615
+S
+#6608
+{BDraix Revis and Har'dro Revis{x~
+The castle can be seen much clearer now.  The hill is greater than expected
+and the castle is dark and black in appearance.  Just ahead is a tall iron
+gate.  Another street runs to the east and west.  It looks like the last one
+before getting to the gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 6607
+D1
+~
+~
+0 0 6624
+D2
+~
+~
+0 0 6671
+D3
+~
+~
+0 0 6616
+S
+#6609
+{BChath Revi'n{x~
+Dilapidated buildings line this street. Some are burned down partially
+and others are just destroyed completely.  To the north, one is still
+standing.  There is a strange glow coming from it.
+~
+0 0 0
+D0
+~
+~
+0 0 6610
+D1
+~
+~
+0 0 6602
+D3
+~
+~
+0 0 6626
+S
+#6610
+{WL'Sarol Mortath{x~
+Finely honed swords line the wall behind the counter.  Axes fill
+the corner to the left and spears stand in the corner to the right.
+Drow craftmanship is always something worth buying.  A fire is lit
+in the corner of the shop.  A small figure huddles next to it.
+~
+0 8 0
+D2
+~
+~
+0 0 6609
+S
+#6611
+Ilythiiri Library~
+This great structure is full of very old books.  The names
+and titles written on them cannot be reconized.  Further back,
+the word '{yDictionary{x' catches your eye.
+~
+0 0 0
+E
+dictionary~
+trezen-north     werneth-south     luent-east      linoin-west
+che'el-city      revi'n-street     revis-road      i'dol-way
+chath-fire       niar-water        su'aco-wind     har'dro-earth
+isto-night       tangi-day         phlith-hate     ssinssrigg-love
+renor-black      t'puuli-white     phish-red       ssussun'yukin-yellow
+uuthli-blue      to'ryll-green     yukin-orange    sil'ilos-purple
+st##ea-death     dro-l##e          shinder-al###ed naut'shi###r-forbidden
+f##r-ma##c       ##iry-bo#k        sa##l-weap##    ky'os###-ar##r
+de#ma#-hom#      quel###in-cast##  ser-keep        ra###bah-du##eon
+############     ##########        ##########      ##########
+##########       ############      #########       ###########
+ 
+The rest of the book is not decipherable.  The book looks quite old.
+~
+D1
+~
+~
+0 0 6603
+S
+#6612
+{BNair I'dol{x~
+~
+0 0 0
+D1
+~
+~
+0 0 6604
+D3
+~
+~
+0 0 6628
+S
+#6613
+{DOlath Faer{x~
+~
+0 0 0
+D2
+~
+~
+0 0 6614
+S
+#6614
+{BSu'aco Revi'n{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6613
+D1
+~
+~
+0 0 6606
+D3
+~
+~
+0 0 6630
+S
+#6615
+home~
+~
+0 0 0
+D1
+~
+~
+0 0 6607
+S
+#6616
+{BHar'dro Revis{x~
+~
+0 0 0
+D1
+~
+~
+0 0 6608
+D3
+~
+~
+0 0 6632
+S
+#6617
+{WFaer Ky'ostal{x~
+Dust and cobwebs cover this small shop.  There is an anvil sitting next
+to a broken down fire pit.  The anvil is still in pretty good condition,
+considering no one has used it in quite some time.  A note is on the counter
+which is to one side of the shop.
+~
+0 0 0
+E
+note~
+All ye must do is type 'LIST'!
+~
+D2
+~
+~
+0 0 6618
+S
+#6618
+{BChath Revi'n{x~
+Dilapidated buildings line this street.  Some are burned down partially
+and other are just destroyed completely.  There is a slight ringing sound
+to the north.  It almost sounds like a hammer being brought down on an anvil.
+~
+0 0 0
+D0
+~
+~
+0 0 6617
+D1
+~
+~
+0 0 6634
+D3
+~
+~
+0 0 6602
+S
+#6619
+{DSham'aroth Yath'abban d'lil Olath Senger{x~
+An unholy power curses this place.  The walls are all covered in blood and fresh
+animal carcasses are nailed to them.  There are no windows and only two doors in
+this temple.  There is an onyx altar in the middle of this temple.  Upon the altar,
+a single, red candle illuminates the surroundings.  This place smells foul and looks
+to be the darkest picture of ritualistic horror. 
+~
+0 0 0
+D1
+~
+~
+0 0 6635
+D2
+~
+~
+0 0 6622
+S
+#6620
+{BSu'aco Revi'n{x~
+~
+0 0 0
+D1
+~
+~
+0 0 6636
+D3
+~
+~
+0 0 6606
+S
+#6622
+{BNair I'dol{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6619
+D1
+~
+~
+0 0 6638
+D3
+~
+~
+0 0 6604
+S
+#6623
+{cLil Renor Tangi{x~
+Music fills this room of the bar.  A small, wooden stage is in
+corner of the room.  Upon the stage, a young girl dances to the
+music baring it all for the patrons entertainment.  She stares
+out into the room trying to find a target for an easy payday.
+~
+0 8 0
+D0
+~
+~
+0 0 6620
+D1
+~
+~
+0 0 6639
+S
+#6624
+{BHar'dro Revis{x~
+~
+0 0 0
+D1
+~
+~
+0 0 6640
+D3
+~
+~
+0 0 6608
+S
+#6625
+In the Vault~
+The door above shuts with a very loud crash.  Up is no longer an option for exiting.
+There is a cold draft coming from the tunnel to the south.  The smell of death is very
+pungent.  
+~
+0 1 0
+D2
+~
+~
+0 0 6633
+S
+#6626
+{BChath Revi'n{x~
+Dilapidated buildings line this street.  Some are burned down partially
+and other are just destroyed completely.  Figures keep dancing in and
+out of the shadows, sneaking and hiding.
+~
+0 0 0
+D1
+~
+~
+0 0 6609
+D3
+~
+~
+0 0 6642
+S
+#6627
+{WLil Voiry{x~
+Like the Library, this place is full of books.  They are all written
+in the Ilythiiri language, with a few odds and ends here and there.
+There are old parchmenets and scrolls here too.  The Book seems well
+established in its business, because everything looks nice and neat. 
+Maybe the shopkeeper just has a lot of time on his hands.
+~
+0 0 0
+D2
+~
+~
+0 0 6628
+S
+#6628
+{BNair I'dol{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6627
+D1
+~
+~
+0 0 6612
+D3
+~
+~
+0 0 6644
+S
+#6629
+home~
+~
+0 0 0
+D2
+~
+~
+0 0 6630
+S
+#6630
+{BSu'aco Revi'n{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6629
+D1
+~
+~
+0 0 6614
+D3
+~
+~
+0 0 6646
+S
+#6632
+{BHar'dro Revis{x~
+~
+0 0 0
+D1
+~
+~
+0 0 6616
+D3
+~
+~
+0 0 6648
+S
+#6633
+In the Vault~
+This long catacomb is lined with bodies of dead heros and heroines.
+There are exits in the cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 0 6633
+D1
+~
+~
+0 0 6649
+D2
+~
+~
+0 0 6633
+D3
+~
+~
+0 0 6665
+S
+#6634
+{BChath Revi'n{x~
+Dilapidated buildings line this street.  Some are burned down partially
+and others are just destroyed completely.  Giant rats run back and forth
+between the buildings.  Their flesh seem to hang from their bodies and 
+almost fall from their bones.
+~
+0 0 0
+D1
+~
+~
+0 0 6650
+D3
+~
+~
+0 0 6618
+S
+#6635
+Phalar d'lil Valuk~
+A short, low-lying mist settles on the ground around this graveyard. 
+Tombstones, crypts, and mausoleums are illuminated by the torches lit
+on posts buried in the ground.  One can't ignore and eerie feeling when
+venturing into this sacred burial place.  An enormous sepulcher is in the
+very center of the graveyard.  On closer inspection, the huge gate to the
+to the crypt is standing wide open.  Wonder why it is open?
+~
+0 0 0
+D2
+~
+~
+0 0 6638
+D5
+~
+~
+0 0 6625
+S
+#6636
+{BSu'aco Revi'n{x~
+~
+0 0 0
+D1
+~
+~
+0 0 6654
+D3
+~
+~
+0 0 6620
+S
+#6637
+grocer~
+~
+0 0 0
+D0
+~
+~
+0 0 6638
+S
+#6638
+{BNair I'dol{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6635
+D1
+~
+~
+0 0 6652
+D2
+~
+~
+0 0 6637
+D3
+~
+~
+0 0 6622
+S
+#6639
+{cLil Renor Tangi{x~
+~
+0 8 0
+D1
+~
+~
+0 0 6655
+D2
+~
+~
+0 0 6640
+D3
+~
+~
+0 0 6623
+S
+#6640
+{BHar'dro Revis{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6639
+D1
+~
+~
+0 0 6656
+D3
+~
+~
+0 0 6624
+S
+#6641
+guildhouse ~
+{X
+                           {Y (
+               {Y.            )        )
+                         (  (|              .
+                     )  {r )\/ ( ({Y (
+             *  (   ({r(  /     ))\))  ({Y  )    )
+           (     \  {r )\(          |  ))( ){Y  (|
+           >)     {r))/   |          )/  \(({Y  ) \
+           {r(     (      .        -.     V )/   )(   {Y ({r
+            \   /     .   \            .       \))   ))
+              )(      (  | |   )            .    (  /
+             )(    ,'))     \ /          \( `.    )
+             (\>  ,'/__      ))            __`.  /
+            ( \   | /  {w___   {w( \/ )   {w___{r   \ | ( (
+             \.)  |/  {w/   \__      __/   \{r   \|  ))
+            .  \. |>  {w\      | __ |      /{r   <|  /
+                 )/    {w\____/ :..: \____/  {r   \ <
+          )   \ (|__  .      {w/ ;: \{r          __| {r)  (
+         ((    )\)  {w---_     --  --      _---{r    /  ))
+          \    (    {w|  ||               ||  | {r  (  /
+                \.  {w|  ||_             _||  | {r /
+                  > {w:  |  -V+-I_I_I-+V-  |  :{r (.
+                 (  {w\:  T\   _     _   /T  :/{r ./
+                  \  {w:    T^T T-+-T T^T   {r ;<
+                   \..`_      {w -+-{r       _{r'  )
+                      . `--=.._____..=--'. ./       
+{X
+{DAll ye who enter shall know  my WRATH!!!{X
+~
+0 0 0
+D2
+~
+~
+1 0 6642
+S
+#6642
+{BChath Revi'n{x~
+Dilapidated buildings line this street.  Some are burned down partially
+and other are just destroyed completely.  A huge building still stands
+to the north.  It has a huge, iron gate guarding its entrance.
+~
+0 0 0
+D0
+~
+~
+1 0 6641
+D1
+~
+~
+0 0 6626
+D3
+~
+~
+0 0 6657
+S
+#6643
+L'Piwafwi D'Isto~
+This store should not still be standing.  There is one beam holding up
+the entire structure and it is cracked down the center.  A few items are
+on the floor and a huge, locked trunk is located in the back corner.  A
+short gnome woman sits here muttering to herself and rocking back and forth.
+She is old and senile.
+~
+0 0 0
+D2
+~
+~
+0 0 6644
+S
+#6644
+{BNair I'dol{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6643
+D1
+~
+~
+0 0 6628
+D3
+~
+~
+0 0 6659
+S
+#6645
+{wRenor Niar Ser{x~
+~
+0 0 0
+D2
+~
+~
+0 0 6646
+S
+#6646
+{BSu'aco Revi'n{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6645
+D1
+~
+~
+0 0 6630
+D3
+~
+~
+0 0 6661
+S
+#6648
+{BHar'dro Revis{x~
+~
+0 0 0
+D1
+~
+~
+0 0 6632
+D3
+~
+~
+0 0 6663
+S
+#6649
+In the Vault~
+This long catacomb is lined with bodies of dead heros and heroines.
+There are exits in the cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 0 6633
+D1
+~
+~
+0 0 6633
+D2
+~
+~
+0 0 6658
+D3
+~
+~
+0 0 6633
+S
+#6650
+{BChath Revi'n{x~
+Dilapidated buildings line this street.  Some are burned down partially
+and others are just destroyed completely.  Shadows fill the street, looming
+over the broken bricks and charred beams.  There is not much light along
+the street, making this a most dangerous place to walk.
+~
+0 0 0
+D1
+~
+~
+0 0 6664
+D3
+~
+~
+0 0 6634
+S
+#6651
+{WLince'sa Plyken{x~
+This is a quaint little shop.  There are covered cages along the
+back wall.  The man that stands behind the make-shift counter, just
+looks at you as if saying 'Hurry up and buy something!'
+~
+0 0 0
+D2
+~
+~
+0 0 6652
+S
+#6652
+{BNair I'dol{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6651
+D1
+~
+~
+0 0 6666
+D3
+~
+~
+0 0 6638
+S
+#6653
+home~
+~
+0 0 0
+D2
+~
+~
+0 0 6654
+S
+#6654
+{BSu'aco Revi'n{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6653
+D1
+~
+~
+0 0 6668
+D3
+~
+~
+0 0 6636
+S
+#6655
+{cLil Renor Tangi{x~
+~
+0 12 0
+D3
+~
+~
+0 0 6639
+D5
+~
+~
+0 0 6676
+S
+#6656
+{BHar'dro Revis{x~
+~
+0 0 0
+D1
+~
+~
+0 0 6670
+D3
+~
+~
+0 0 6640
+S
+#6657
+{BLinoin Revi'n and Chath Revi'n{x~
+~
+0 0 0
+D1
+~
+~
+0 0 6642
+D2
+~
+~
+0 0 6659
+S
+#6658
+In the Vault~
+This long catacomb is lined with bodies of dead heros and heroines.
+There are exits in the cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 0 6649
+D1
+~
+~
+0 0 6674
+D2
+~
+~
+0 0 6649
+D3
+~
+~
+0 0 6660
+S
+#6659
+{BLinoin Revi'n and Nair I'dol{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6657
+D1
+~
+~
+0 0 6644
+D2
+~
+~
+0 0 6661
+S
+#6660
+In the Vault~
+This long catacomb is lined with bodies of dead heros and heroines.
+There are exits in the cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 0 6660
+D1
+~
+~
+0 0 6633
+D2
+~
+~
+0 0 6660
+D3
+~
+~
+0 0 6662
+S
+#6661
+{BLinoin Revi'n and Su'aco Revi'n{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6659
+D1
+~
+~
+0 0 6646
+D2
+~
+~
+0 0 6663
+S
+#6662
+In the Vault~
+This long catacomb is lined with bodies of dead heros and heroines.
+There are exits in the cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 0 6665
+D1
+~
+~
+0 0 6660
+D2
+~
+~
+0 0 6673
+D3
+~
+~
+0 0 6675
+S
+#6663
+{BLinoin Revi'n and Har'dro Revis{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6661
+D1
+~
+~
+0 0 6648
+S
+#6664
+{BLuent Revi'n and Chath Revi'n{x~
+The city wall appears out of nowhere.  It is high and unscalable.
+One could go south down Luent Revi'n, which leads to many other 
+crossroads or one could go back west down Chath Revi'n.
+~
+0 0 0
+D2
+~
+~
+0 0 6666
+D3
+~
+~
+0 0 6650
+S
+#6665
+In the Vault~
+This long catacomb is lined with bodies of dead heros and heroines.
+There are exits in the cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 0 6675
+D1
+~
+~
+0 0 6665
+D2
+~
+~
+0 0 6662
+D3
+~
+~
+0 0 6673
+S
+#6666
+{BLuent Revi'n and Nair I'dol{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6664
+D2
+~
+~
+0 0 6668
+D3
+~
+~
+0 0 6652
+S
+#6667
+In the Vault~
+This long catacomb is lined with bodies of dead heros and heroines.
+There are exits in the cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 0 6662
+D1
+~
+~
+0 0 6669
+D2
+~
+~
+0 0 6667
+D3
+~
+~
+0 0 6669
+S
+#6668
+{BLuent Revi'n and Su'aco Revi'n{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6666
+D2
+~
+~
+0 0 6670
+D3
+~
+~
+0 0 6654
+S
+#6669
+In the Vault~
+This long catacomb is lined with bodies of dead heros and heroines.
+There are exits in the cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 0 6667
+D1
+~
+~
+0 0 6672
+D2
+~
+~
+0 0 6669
+D3
+~
+~
+0 0 6667
+S
+#6670
+{BLuent Revi'n and Har'dro Revis{x~
+~
+0 0 0
+D0
+~
+~
+0 0 6668
+D3
+~
+~
+0 0 6656
+S
+#6671
+{Bpath to Chath d'Renor Quellarin{x~
+The path to the south leads up a steep hill.  Upon the hill rests
+a gigantic, black castle.  Black fire surrounds the castle and protects
+it from unwelcome visitors.  There are gates blocking the path south and
+they are secured very well.  There is a sign posted here.  It is written
+in blood.
+~
+0 0 0
+E
+sign~
+{RNindol menvis zhah naut'shinder ulu jal!{x
+{RKhruste streea il'tess dos ka dos sultha.{x
+{RNatha quarth d'lil Olath Senger, Pathos!{x
+~
+E
+sign~
+~
+E
+sign~
+{RNindol menvis zhah naut'shinder ulu jal!{x
+{RKhruste streea il'tess dos ka dos sultha.{x
+{RNatha quarth d'lil Olath Senger, Pathos.{x
+ 
+{CTranslation:{x
+{DThis path is forbidden to all!{x
+{DCertain death awaits you if you enter.{x
+{DBy order of the Dark Lord, Pathos!{x
+~
+D0
+~
+~
+0 0 6608
+S
+#6672
+{DValuk's Phalar{x~
+The end has come.  A small light from above illuminates the ground below.
+In the beam of light, a large sarcophogus sits waiting for someone.  The
+room is very dusty and dry.  It has been sealed very well.  There are 
+sketches drawn and words written on the wall.  Most of the words are painted
+on, but {Rone in particular is etched into the stone{x.
+~
+0 0 0
+E
+words~
+{RJal nindel ruulk'na l'valuk phalar orn zhaunyl el!{x
+~
+D3
+~
+~
+0 0 6669
+D4
+~
+~
+0 0 6676
+S
+#6673
+In the Vault~
+This long catacomb is lined with bodies of dead heros and heroines.
+There are exits in the cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 0 6660
+D1
+~
+~
+0 0 6673
+D2
+~
+~
+0 0 6674
+D3
+~
+~
+0 0 6673
+S
+#6674
+In the Vault~
+This long catacomb is lined with bodies of dead heros and heroines.
+There are exits in the cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 0 6673
+D1
+~
+~
+0 0 6667
+D2
+~
+~
+0 0 6675
+D3
+~
+~
+0 0 6658
+S
+#6675
+In the Vault~
+This long catacomb is lined with bodies of dead heros and heroines.
+There are exits in the cardinal directions.
+~
+0 1 0
+D0
+~
+~
+0 0 6674
+D1
+~
+~
+0 0 6662
+D2
+~
+~
+0 0 6673
+D3
+~
+~
+0 0 6660
+S
+#6676
+{cLil Renor Tangi's Cellar{x~
+~
+0 9 0
+D4
+~
+~
+0 0 6655
+S
+#0
+
+
+
+#SPECIALS
+M 6601 spec_dog_pee
+M 6699 spec_breath_lightning
+S
+
+
+
+#RESETS
+D 0 6641 2 1
+D 0 6642 0 1
+M 0 6600 1 6605 1
+O 0 6600 0 6605
+M 0 6602 1 6608 1
+M 0 6601 3 6609 1
+M 0 6605 1 6610 1
+G 0 6621 0
+G 0 6620 0
+M 0 6604 1 6617 1
+G 0 6603 0
+G 0 6605 0
+G 0 6604 0
+M 0 6606 1 6619 1
+O 0 6630 0 6623
+M 0 6609 1 6623 1
+M 0 6601 1 6626 1
+M 0 6607 1 6627 1
+M 0 6601 1 6630 1
+M 0 6601 2 6632 1
+M 0 6602 1 6632 1
+M 0 6601 1 6634 1
+M 0 6602 2 6634 1
+M 0 6601 1 6636 1
+M 0 6602 2 6640 1
+M 0 6601 2 6640 1
+M 0 6608 1 6643 1
+G 0 6610 0
+G 0 6612 0
+G 0 6611 0
+M 0 6603 2 6650 1
+M 0 6603 2 6657 1
+M 0 6603 2 6659 1
+M 0 6603 2 6661 1
+M 0 6603 1 6663 1
+M 0 6603 1 6664 1
+M 0 6603 2 6666 1
+M 0 6602 2 6666 1
+M 0 6601 1 6668 1
+M 0 6603 1 6668 1
+M 0 6603 1 6670 1
+M 0 6602 2 6670 1
+O 0 6601 0 6672
+P 0 6615 1 6601 1
+P 0 6625 1 6601 1
+M 0 6699 1 6672 1
+E 0 6602 0 17
+M 0 6601 4 6676 1
+S
+
+
+
+#SHOPS
+6604 0 9 15 0 0 100 60 0 23
+6605 5 0 0 0 0 100 30 0 23
+6607 2 0 0 0 0 100 80 0 23
+6608 9 0 0 0 0 100 75 0 23
+0
+
+
+
+#MOBPROGS
+#6600
+say Never use that word in my presence again!
+~
+#6606
+say Great curses to you and your offspring.  May you lay down and die!
+~
+#6608
+say dead....all....dead....
+~
+#6609
+say Not tonight $n, I have a headache!
+~
+#6698
+cast 'lightning breath' $n
+~
+#6699
+cast 'lightning bolt' $n
+~
+#0
+
+#$

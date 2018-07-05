@@ -1,0 +1,1202 @@
+#AREADATA
+Name Forsaken Clan~
+Builders None~
+VNUMs 29200 29250
+Credits [-CLANS-] Fnor     Forsaken CH~
+Security 10
+End
+
+
+
+#MOBILES
+#29200
+Makie~
+Makie~
+Makie {BO{4tono-{BT{4achibana{0: {6l{We{6g{We{6nd{Wa{6ry {6sw{Wo{6rdsw{Wo{6m{Wa{6n{0 is here.{x
+~
+{8Such pale skin, yet so slim and beautiful, and as deadly. A disgrace to{x
+{8her own family for inheriting the samurai bloodline, she has led a life{x
+{8of shame. So skilled as a swordswoman, that she has defeated all her{x
+{8opponents without even being stained by a single drop of blood, yet she{x
+{8chose to become a yotaka, then later a geisha, in rememberance of her{x
+{8mother's words...to become a whore instead of living to kill people as{x
+{8a sword fighter. At this moment, Makie simply tries to get the best out{x
+{8of her own life, currently working as a guard for the Forsaken.{x
+~
+human~
+ABMOPST DFPQVZc CDEHNO 0 0
+200 2000 1d1+175000 25d5+4000 110d110+250 slice
+-200 -200 -200 -400
+ACEFHIJKPVW ABELQ CDM 0
+stand stand female 5000
+AHMV ABCDEFGHIJK giant unknown
+M GRALL 29210 100~
+M HPCNT 29211 20~
+M BRIBE 29215 1~
+M EXALL 29217 4~
+M DELAY 29214 99~
+M KILL 29212 100~
+M FIGHT 29219 40~
+M RANDOM 29216 7~
+#29201
+Shi~
+Shi~
+{0Shi {BT{4achibana{w, the {8gr{way {Wyo{wjim{8bo {0is here.{x
+~
+{8                                         ,,,xxxx\
+{8``''--xx#################xxxxx------xxx##########\
+{8               `''################################\
+{8               `''################################\
+{8                  ####           ####P'
+{8--                ####            ####
+{8               ####              ####
+{8             ####`'-..           ####      ,#####
+{8         ,####      ###,,        ####,,--#####""'
+{8      ,###`'==        '####\     ####
+{8   ,,##`     ""###      ####     ####
+{8                ####   ####      ####
+{8                  #######        ####
+{8                   ####          ####
+{8                 ####            ####
+{8               ####              ####            #
+{8           ,####'                ####           ##
+{8       ,####'                    #################
+{8   ,x##                            ############## {x
+ 
+ 
+ 
+ 
+{wFrom the shadows, the immortal gray death scans for threats.{x
+{wShi has been hired by Forsaken to keep the peace in the vicinity,{x
+{wready to nullify any threats that would take action.{x
+~
+human~
+ABMOPST DFPQVZc CDEHNO 0 0
+200 2000 1d1+385000 25d5+4000 110d110+250 slice
+-200 -200 -200 -400
+ACEFHIJKVW ABELQ CDM 0
+stand stand male 5000
+AHMV ABCDEFGHIJK giant unknown
+M GRALL 29205 100~
+M EXALL 29200 4~
+M DELAY 29204 99~
+M KILL 29202 100~
+M FIGHT 29218 40~
+M RANDOM 29201 7~
+M HPCNT 29206 23~
+M DEATH 29220 100~
+M BRIBE 29203 1~
+#29202
+Arklonnh~
+Arklonnh~
+{0Arklonnh, {8ex-gladiator {wfrom the slave pits of {RD{1r{Ya{3j {0is here.{x
+~
+{wBorn from the unlikely parentage of dwarves and humans, muls combine
+the height{x {wand adaptable nature of humanity with the musculature and
+resilience of dwarvenkind.  {x {wTypically, muls enjoy greater physical
+strength and endure greater periods of physical{x {wlabor than either humans
+or dwarves.  Muls also possess a few traits that are uniquely their{x {wown,
+such as their astonishingly robust metabolism and almost inexhaustible
+{wcapacity for work.  The hybrid has disadvantages in a few areas as well. 
+{wMuls are sterile and have a shorter lifespan than either parent race.  {x
+{wArklonnh was rescued from his horrid life of slavery by the leaders of
+Forsaken, who happened to end up in the hot world of Athas{x {wduring their
+visits to other planes.  Grateful for the assistance, Arklonnh decided to
+settle down somewhat and devote himself to Forsaken and his friends.  {x
+{wFor this, he has been granted and blessed with extended longevity.  {x 
+~
+dwarf~
+ABMV DFJ 0 100 0
+100 0 500d5000+5000 1d1+999 500d5000+5000 divine
+-250 -250 -250 -250
+0 ABCDLQ LQ R
+stand stand male 500000
+AHMV ABCDEFGHIJK large unknown
+M RANDOM 29209 3~
+M SPEECH 29222 clan patch, please.~
+#29250
+Riel~
+Riel~
+{0Riel{w, {BN{4ightangels' {wenigmatic {Whealer {0is here.{x
+~
+{wA figure donning a {3pale yellow {wcloak and a matching robe rests
+alertly.  Wearing{x {wclothing to conceal and being naturally quiet, Riel is
+a mystery.  Peering {Ggreen {weyes {wlance out from under the hood, almost
+mischievous, almost mocking, yet kind.  During the{x {wearly periods, Riel
+entered Forsaken's ranks in times of trouble, giving aid without{x
+{wquestion.  Though her intentions are still unknown, true devotion to the
+NightAngels and{x {wForsaken clan remains.  {x 
+~
+elf~
+ABJKQRTVab DJTUZ HN 1000 0
+330 0 300d300+100 1d1+5000 250d250+10 magic
+-399 -399 -399 -399
+AGHO ABCD B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+M RANDOM 29207 3~
+M GRALL 29208 99~
+#0
+
+
+
+#OBJECTS
+#29200
+blanket yellow east~
+{wa firm blanket of {Yy{3e{Yl{3l{Yo{3w {Yo{3r{Yc{3h{Yi{3d{Ys{x~
+{wA firm blanket of {Yy{3e{Yl{3l{Yo{3w {Yo{3r{Yc{3h{Yi{3d{Ys {wmakes for a small resting spot.{x~
+diamond~
+furniture 0 0
+20 20000 BEHK 400 400
+0 0 0 P
+#29201
+spring water fountain~
+{0a {4s{Bpri{4n{Bg {0fountain~
+{wA {4s{Bpri{4n{Bg {wfountain filtered from the ground gushes in and out.{x~
+stone~
+fountain 0 0
+0 0 'water' 0 0
+1 1000 0 P
+#29202
+dwarven bench~
+{8dwarven bench{x~
+{3Dwarven {wcarved {8stone benches {ware lined up along the halls.{x~
+~
+furniture M 0
+4 9999 BEH 0 0
+0 0 0 P
+#29203
+{wstatue{x~
+{wa beaten down training dummy{x~
+{wA beaten down training dummy is rooted to the ground.{x~
+leather~
+gem 0 0
+0 0 0 0 0
+0 0 0 P
+#29204
+amber rune portal~
+{0an {Yamber rune{x~
+{0~
+amber~
+portal O 0
+0 0 B 29203 0
+0 10 1000 P
+A
+19 2
+A
+18 2
+A
+13 10
+#29205
+blue rune portal~
+{0a {Bblue rune{x~
+{0~
+glass~
+portal O 0
+0 0 B 29204 0
+0 0 0 P
+#29206
+black rune portal~
+{8a black rune{x~
+{0~
+glass~
+portal O 0
+0 0 B 29202 0
+0 0 0 P
+A
+19 2
+A
+18 2
+A
+1 2
+#29207
+globe light arbiter~
+The {BArbiter{x Globe~
+The Globe of the {BArbiter{x is here.~
+energy~
+light AT AO
+0 0 999 0 0
+25 10 2000 P
+F
+A 0 0 CDEFG
+#29208
+dagger arbiter~
+The {RArbiter{x Dagger~
+A Dagger of the {MArbiter{X clan is lying here.~
+obsidian~
+weapon AIMT AN
+dagger 1 1 stab ADH
+1 30 4000 P
+#29209
+leggings arbiter~
+Leggings of {mArbiter{x~
+You see some shiny metal here.~
+mithril~
+armor ABOT AF
+0 0 0 0 0
+1 40 6500 P
+F
+A 5 2 c
+#29210
+shoes arbiter~
+The Arbiter Shoes~
+You see some faintly glowing shoes here.~
+hard leather~
+armor AOT AG
+0 0 0 0 0
+1 55 5000 P
+F
+A 2 2 L
+#29211
+sword arbiter~
+The {mArbiter{x Sword~
+You see a glowing {M<name>{x sword lying here.~
+obsidian~
+weapon ABCFIMT AN
+sword 1 1 slash DGH
+1 50 6000 P
+#29212
+orb arbiter~
+The {wArbiter{x Orb~
+You see an Orb floating here~
+crystal~
+armor ABOT AQ
+0 0 0 0 0
+1 0 2000 P
+A
+19 2
+A
+18 2
+#29213
+sandwich~
+a sandwich~
+A cheese and avocado sandwich.~
+food~
+food A A
+75 70 0 0 0
+0 10 50 P
+#29214
+Arbiter office key~
+office key~
+A large wooden key to the arbiter's office lies here.~
+wood~
+key 0 AO
+0 0 0 0 0
+90 0 0 P
+#29215
+oval table forsaken~
+{wa sturdy {3wooden {wtable{x~
+{wA sturdy {3wooden {wtable covered with papers lies in the room's center.{x~
+wood~
+furniture 0 0
+5 1000000 D 100 100
+1 100 100 P
+#29216
+skull~
+{wa {8black dragon {wskull{x~
+{wA {8black dragon {wskull has its jaws wide open to accept items.{x~
+unknown~
+container O 0
+999999 0 0 999999 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#29200
+{wEntrance to the {8Ci{wtad{Wel {wof {WMi{wrro{8rs{x~
+{wA place of greater good, a place to understand the self..  Here, the
+narrow door stands open, for beings with evil intent cannot pass through
+{wwithout harm.  All around, the atmosphere reeks of danger, while the
+{wtension in the air rises noticeably.  From here on, it is either in or out.{x
+~
+0 1048576 1
+D4
+~
+~
+0 0 29201
+D5
+~
+~
+0 0 3014
+S
+#29201
+{8Ci{wtad{Wel {wof {WMi{wrro{8rs{x~
+{8--What separates the warriors from the dancers is not the techniques{x
+{8nor forms.  It is the battle-hardened attitude.  It is the passion of why{x
+{8one fights and lives.{x
+ 
+ 
+{wEvenly spaced metal {2gas {wlamps are placed nearly everywhere inside the citadel,{x
+{wbathing the solemn gray granite halls in a soft white light.  Keeping the{x
+{wentire place safe from evil and from deterioration, miniature Archaic runes{x
+{ware etched into every single stone, for trouble is never far away.  From the{x
+{wmagically barred windows, an indigo waterfall can be seen flowing over the{x
+{wcliff far to the left, into the Midgaard River.  Focusing on the inside of{x
+{wthe citadel, flowing into the middle near the three {GT{8hurisa{Gz {wrunes, is a{x
+{wwide column of stairs, leading up to the upper floors and down to the exit,{x
+{wclose to the courtyard.  Though being a place of seriousness, the bird's{x
+{wcalls and the wind's whispers can be faintly heard, sparing a moment of brief{x
+{wtranquility.{x
+~
+0 8200 0
+E
+thurisaz~
+{0The Thurisaz is a rune of teleportation, transporting one to the proper
+Thurisaz rune floor space when trod upon.  Current active runes located here
+are the {Yamber{0, royal {Bblue{0, and {8black {0runes.  
+~
+E
+lamps~
+{wSmall lamps housed in steel and quartz seem to burn a strange {2green{x
+{wgas, consequently giving off the light.  What is sending the gas to these{x
+{wlamps though?  No tubes of any sort seem to lurk beyond the walls, and the{x
+{warea is pretty quiet. Maybe its simply magic..who knows.{x
+~
+E
+benches~
+{wCrafted so exquisitely from stone down to every last fine cut, one
+would think that the dwarf was one of the immortals.  Even the mul Arklonnh
+praised the benches.  For stone, they are quite comfortable.  {x 
+~
+E
+halls~
+{8My soul is blind{x
+{8It walks the corridors of life,{x
+{8Groping, stumbling its way down.{x
+{8Grasping solidity, making its{x
+{8Way down the halls,{x
+{8Blind and falling.{x
+ 
+{8       --Melissa{x
+~
+E
+stairs~
+{8Made of black obsidian, the carefully carved stairs {0gleam {8slightly.{x
+{8Oddly enough, the edges of the elaborate stairway lacks guard railing.{x
+{8The steps are unusually tractive, and no sound is emitted when one steps{x
+{8onto it...An ogre could run up these steps with no difficulty.{x
+~
+D4
+~
+~
+0 0 29205
+D5
+~
+~
+0 0 29200
+M 0 H 0
+S
+#29202
+{CE{6xecutioners' {CW{6ay{C,  {w-{WEt{wern{8al {WSe{wal{8s{w-{x~
+{8Two stoic faced {wstatues {8depicting striders mark the beginning of{x
+{8the citadel's Eastern Wing.  Nothing but silence and darkness exist in the{x
+{8corridor beyond.  Better hope someone's carrying a torch..  Eventually,{x
+{8after several minutes..  Hours?  Of walking, a welcoming light shines in the{x
+{8distance.  Entering the light, it opens into a grand room.  Here, the air{x
+{8feels too still, despite being comfortingly warm.  Yet more runes cover the{x
+{8undecorated walls, but these are not used for protection like the others{x
+{8around the citadel.  No, it clearly screams out a warning.  A warning for{x
+{8the evil sealed within the several {Bsphaira {8placed on the silver glyph{x
+{8melted into the north part of the room.  However, evil is not to be feared{x
+{8here, because everything is guarded well by the members of NightWatch.{x
+{8Behind the eternal seal, the remaining space is arranged with treasures and{x
+{8the like, gathered around the years.  Through these wonders, one still{x
+{8should be on guard.{x
+~
+0 8457 0
+E
+statues~
+{8Both onyx statues face the western wing exit, carved to such detail
+that they seem to be the living shadows of the feared hunters.  Gazing upon
+the human, corded muscles are everywhere to be found.  Shielded in ancient
+armor, and wielding two 6 foot weapons, he is death perfected.  Further
+away, less menacing but no less deadly is the statue of the half-elf,
+wearing simple elven chainmail and wielding a straight blade and a curving
+one of equal size.  Both statues are in their traditional fighting stances
+and poised to strike instantly to deliver an ambush, killing both body and
+soul at the exact time.  Looks like there is only one way past.  Well, at
+least they are just statues, but gargoyles are statues also, and when is the
+{8last time a person saw one of those flying around?  Hmm...{x
+~
+E
+third~
+{8Hmm, nothing here.  Perhaps the crystal isn't needed anymore, why not{x
+{RDESTROY {8it?{x
+~
+E
+second~
+{W* * *{BS  S  {WZ  z  z  z  {BT  T{W* * *{x
+ 
+{wBolts of pure divine energy rebound off the crystal walls back to their{x
+{wuser, who grunts in pain. Shimmering in fury, Szordrin: the former god of{x
+{wevil, tries to devise a way to free himself, getting his revenge on{x
+{wFnor and wreaking havoc across the good mortals' lives.{x
+~
+E
+first~
+{wAn {5amorphous {8shape {wcoalesces into a very desirable form, beckoning and{x
+{wteasing.  '{8Help me.. Free me..{w' the caressing voice pleads..{x
+~
+E
+sphaira~
+{BSphaira.  These are divine crystals created as needed by Saphyre to
+entrap and contain various evils.  Sensing the growing threat to her own
+power, Saphyre later met with Forsaken on neutral grounds, making an
+{Bagreement that would benefit both parties.  Currently, only the {wfirst{B,{x
+{wsecond{B, and {wthird {Bsphaira are glowing.{x
+~
+E
+corridor~
+{4It is pretty dark. A grue could be lurking here.{x
+~
+E
+treasures~
+{5Acquired over the millenia, a miniature hoard has developed, fit enough
+for a baby king dragon.  This is not the typical loot, such as magical
+weapons, armor, gold, gems and more.  {x {5As if everything else did not
+matter, fragments of time itself are stored here in modified containers
+between the fabric of space.  A last resort in case all else fails, the
+fragments could bring chaos to all within several miles if the containers
+{5ever failed...{x
+~
+D3
+~
+~
+0 0 29201
+M 0 H 0
+S
+#29203
+{8Ru{win{Ws o{wf th{8e G{wre{Wat {wWa{8r{w, {6The Courtyard{x~
+{2At the fringes of the courtyard, remnants of the great battle between{x
+{2Fnor and Szordrin can be plainly seen.  Fallen spires, crumbling stone,{x
+{2black scars across the earth, and especially the uneasiness..Stop any{x
+{2disbelief of the site.  Short wild grass grows everywhere, and a few Ash{x
+{2trees rustle to the light breeze.  Despite the semi-wilderness, there is a{x
+{2large octagon in the center of the courtyard.  Composed of black stone, it{x
+{2highlights the training ground for the Enforcers and the rest of the{x
+{2Forsaken.  On the north side of the octagon, towards the citadel, an{x
+{2unusually quiet mul works heartily at his shop.  Last, a heavily worn but{x
+{2sturdy practice dummy is placed on the south corner of the ground.  Here,{x
+{2true rest only lasts a couple of heartbeats.{x
+~
+0 8192 1
+E
+dummy~
+{wThis figure has been through any possible {8physical {wand {Cmagical {wweapon{x
+{wmade.  Leather armor covers the majority of the dummy with a {8dark cloak{x
+{walong the back.  Iron plates are placed over the vulnerable spots, and{x
+{waround the waist, several pouches filled with {Wbells {wrest snugly.  The{x
+{wpouches seem to have been {1repaired {wnumerous times, and the iron plates are{x
+{wcovered with gashes, unlike the untouched leather armor and cloak.  An{x
+{wexcellent target for practice, to the benefit of the Enforcers.{x
+~
+E
+bells~
+{W*CHiNG CHiNG!*{x
+{wThese {Wsilver bells {ware used to prove a successful steal. No noise{x
+{wand a slit pouch means a good day's practice.{x
+~
+E
+octagon~
+{wDark and grainy, the octagon is several handspans across, forming a
+great place to spar at.  {x 
+~
+E
+citadel~
+{wThe ray of truth searing the oncoming evil, the citadel appears
+fortified, yet plain enough to appear unremarkable except to its occupants. 
+{x 
+~
+E
+cloak~
+{wA tattered emblem of the clan {MJesters {wis embroidered on the silk
+cloth.  Could this be another way to train?  Possibly, since a calm mind is
+always important during battle.  {x 
+~
+D0
+~
+~
+0 0 29201
+M 0 H 0
+S
+#29204
+{4T{Bwi{4l{Big{4h{Bt {4W{Bat{4e{Brf{4a{Bll{4s{x~
+{6From time to time, fragments of a discussion, or the voicing of spidery
+{6incantations can be heard.  Directly behind the great falls above, it is
+{6immediately noticeable that the roaring of the falls has been silenced. 
+{6Here, in a glade the color of an emerald's heart, marks the NightAngels{x
+{6sanctuary.  Glowing {1r{Re{1d cr{Ry{1st{Ra{1l {6stumps encircle the camp's perimeter,{x
+{6providing a soft white light.  The air close to the crystals feels{x
+{6thick, signifying defensive dweomers.  Near the middle of the glade, an{x
+{6amber Thurisaz rune sparks slightly from prolonged use. Barely hidden{x
+{6over in the eastern side, a simple {8iron gate {6bars the way back.{x
+~
+0 8200 3
+E
+gate~
+{wA sepulchral voice tinged with a sound much like a drop of water{x
+{whitting a bell recites:{x
+{w"{YT{whe {Yw{way {Yb{wack {Yt{wo {Yt{whe {Yc{witadel {Yc{wan {Yo{wnly {Yb{we {Yu{wsed {Yb{wy {Yt{whose {Yw{with {Yc{wlear {Ye{wyes.."{x
+~
+E
+crystal~
+{wA blunt, opaque crystal stump about a foot high and five inches wide is{x
+{wjutting out from the earth.  Humming slightly, it seems to just give off a{x
+{wcomforting {Wwhite {wlight, illuminating the sanctuary.{x
+~
+E
+orchids~
+{wRow by row, a miniature field of {Yy{3e{Yl{3l{Yo{3w {Yo{3r{Yc{3h{Yi{3d{Ys {whas sprouted here,{x
+{wproviding a place to rest up. Normally, these flowers would only be able{x
+{wto support the weight of an insect, but with all the conjurors and{x
+{wenchantresses nearby, the reason for the existence of such strong{x
+{wflowers is instantly clear.{x
+~
+E
+perimeter~
+{8Out past the crystal stumps..out past the dweomers..and beyond the{x
+{8NightAngels protective embrace is the falls.  From this point, the area{x
+{8seems a bit depressing.  The Citadel of Mirrors lies over to the east like{x
+{8a ghost, denying its own existence, watching over all.{x
+~
+E
+rune~
+{wAn arrival point. Definitely not the way back however..{x
+~
+E
+glade~
+> {6The enormous {1redwood trees {6formed the forest surrounding the open
+space.  However, magic did not interfere with the natural growth of these
+{6trees.  They are tended by the small Ravenclaw tribe, one of the proud and
+few ever to fully trust other races with their lives.  A rare symbiosis
+indeed.  {x 
+~
+E
+waterfall~
+{4A{Bmo{4u{Bnt{4i{Bn{4g {Ba t{4o{Bta{4l d{Br{4o{Bp o{4f {Bon{4l{By {412{B73 {4f{Bee{4t{B, {4a{Bnd {4b{Bei{4n{Bg 5{44{B9 f{4ee{Bt w{4i{Bde{4, t{Bh{4e{x
+{4Tw{Bil{4i{Bgh{4t {BW{4at{Be{4r{Bfa{4l{Bls {4ma{Bd{4e u{Bp f{4o{Br i{4t{Bs s{4iz{Be {4w{Bit{4h i{Bts {4u{Bni{4q{Bue{4n{Bes{4s.  {BW{4at{Ber {4h{Be{4re {Bis{x
+{4c{Bom{4p{Ble{4t{Be{4ly {Bop{4a{Bqu{4e{B, f{4r{Bo{4m {Bfa{4l{Bli{4n{Bg t{4o {Bp{4oo{Bli{4n{Bg a{4n{Bd {4dr{Bai{4n{Bin{4g{B.  {4Be{Bs{4i{Bde{4s {Bt{4hi{Bs{x
+{Bph{4e{Bno{4n{Bem{4on{B, l{4i{Bqu{4i{Bd h{4e{Bre{4 i{Bs {4az{Bu{4r{Be t{4o {Bin{4di{Bg{4o {Bin {4co{Bl{4o{Br.  W{4he{Bth{4e{Br i{4t {Bis {4t{Bhe{x
+{Bc{4lo{Bs{4e {Bas{4s{Boc{4i{Ba{4ti{Bo{4n {Bof {4t{Bh{4e {Bsa{4nc{Bt{4ua{Bry {4t{Bha{4t {Bc{4au{Bse{4d {Bth{4e e{Bx{4o{Bt{4ic{Bn{4e{Bss {4o{Br n{4o{Bt, t{4h{Bis{x
+{4r{Bar{4i{Bty {4r{Be{4ma{Bi{4n{Bs t{4o {Bb{4e {Btr{4u{Bly {4d{Bis{4c{Bo{4ve{Br{4ed{B.{x
+~
+D1
+~
+eyes~
+3 0 29201
+M 200 H 200
+S
+#29205
+{8Up{wper {WCi{wtad{8el{x~
+{wVery similar to the floor below, these runic halls still carry the
+solemn{x {wtouch of the citadel.  However, the floor seems to lack light of
+its own,{x {wdulling the natural luster of the walls.  A few of the now
+familiar lamps lie unevenly amongst the walls, as if the builders were
+rushed.  Shadows are{x {wscattered around the place, promoting an ambush. 
+Down the corridor, a warm{x {wlight peeks out from the west.  {x 
+~
+0 8201 0
+E
+lamps~
+{wOnce stable, these {2green gas {wlamps now flicker erratically,
+resulting in an eerie display of shadows.  {x 
+~
+E
+shadows~
+{wBorn of their own semblance, free from the flickering lights, the
+{8shadows {wseem to move of their own accord.  These halls are a far cry
+{wfrom evil though, supposedly only discouraging...or not.{x
+~
+D3
+~
+~
+0 0 29206
+D5
+~
+~
+0 0 29201
+M 0 H 0
+S
+#29206
+{8El{wder{Wn C{woun{8ci{wls{x~
+{wSeveral bookshelves are carefully arranged to the right side of the{x
+{wroom, closer to the entranceway.  Towards the left side of the room, a
+fire burns softly from the heart of a fireplace, bathing the room warmly in
+{wits lifeglow.  Seeing this place as a discussion hall and a luxurious{x
+{wlibrary, several humans and humanoids asked periodically for trips to
+this{x {warea, some staying up to several days at a time.  {x 
+~
+0 8200 0
+E
+bookshelves~
+{wWhat fine material, even if they are only bookshelves...the smooth{x
+{wlacquered finish...the strong hickory wood...the elaborate design...{x
+{wWell...maybe that's not the first thing to notice?  Most noticeable *on*{x
+{wthe shelves are the aged and not-so-aged books themselves.  Looking along{x
+{wthe shelves, there are only a few eye catchers.{x
+ 
+{BT{4he {RB{1attle {BC{4ompendium{x
+{YM{3ud {YS{3ex {8for {YDummies{x
+{GRo{2lep{Gla{2yin{Gg{w, {8Doing it Right{x
+~
+E
+fireplace~
+{wA typical fireplace, except its created with a precious metal.  Crafted
+{wfrom Arklonnh's forge, it is plain but very strong and well done.  A
+magical {Bblue fire {wburns brightly without a source, keeping the room well
+heated under comfortable temperatures.  {x 
+~
+E
+humans~
+{wA lot of the people are just here to hang out, and most of the faces {x
+{ware seen every day in this particular room, preferring the readings and
+conversation over battle.  {x 
+~
+E
+humanoids~
+{wWow!  Creatures from other planes, including this world, have been
+checking up on others and the books here.  Apparently, no quarreling is
+{wexisting here, just idle banter now and then, between reading.  A succubus
+licks her lips over a form of exquisite poetry.  In another corner, a
+halfling trades words with a elven priestess, and in the center of the room,
+{wa lone dragon in human form studies the geography carefully with a demonic
+bard.  {x 
+~
+E
+papers~
+{wThe topmost page, and the only one that is legibly written, is scribed
+in the flowery elvish script.  It reads as follows:{x 
+ 
+{2i'narr en gothrim glinuva nuin i'Anor {w(the bones of our foes will gleam under the sun){x
+ 
+{wHmm...what could this mean?{x
+~
+D1
+~
+~
+0 0 29205
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 29250 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 29204 1 1
+M 0 29200 1 29200 1
+O 0 29201 0 29201
+O 0 29202 0 29201
+O 0 29204 0 29201
+O 0 29205 0 29201
+O 0 29206 0 29201
+O 0 29216 0 29202
+O 0 29203 0 29203
+M 0 29202 1 29203 1
+G 0 27344 0
+O 0 29200 0 29204
+M 0 29250 1 29204 1
+O 0 29215 0 29206
+S
+
+
+
+#SHOPS
+29202 32 5 9 1 33 110 95 0 23
+0
+
+
+
+#MOBPROGS
+#29200
+if clan $n 'Forsaken'
+bow $n
+mob echoat $n $I guards the flank as you enter the citadel.
+mob echoaround $n From the corner of $l eye, $I watches $n enter the citadel safely.
+mob gtransfer $n 29201
+else
+say {8My apologies, but you cannot pass, else your soul shall be torn asunder.{x
+endif
+~
+#29201
+if hour >= 0
+and hour <= 5
+mob echo {0Using three flat {8stones{0, $I {Wsharpens {0$l tachi and daito carefully.{x
+break
+else if hour >=6
+and hour <= 11
+mob echo Glancing at diagrams of {4Niten Ichi Ryu{0, $I refreshes $l memory.{x
+break
+else if hour >= 12
+and hour <= 13
+mob echo $I quickly consumes a {Wmochi {0while keeping an eye on the area.{x
+break
+else if hour >= 14
+and hour <= 20
+mob echo Periodically, a {6crystal {Wdagger {0flies up into the air and back into $I's hand.{x
+break
+else if hour >= 21
+and hour <= 23
+mob echo $I glances over to the {8shadows{0, searching for unseen forces.{x
+endif
+~
+#29202
+if clan $n 'Forsaken'
+mob cast 'cure blindness' self
+wipe
+mob zecho $I yells, '{8$n, it is you who would betray us...why?{0'{x
+say {8No matter...i'll send your dishonored corpse to burn in hell! {!Shine!{0'
+else
+wipe
+mob cast 'cure blindness' self
+mob zecho $I yells, '{8Nande kuso?! Hey...its a raid!{0'{x
+say {8Heh...let's get this over with.{x
+endif
+~
+#29203
+mob echo $I says, '{8Heh...{0'{x
+mob echo $I puts the money into a pocket hidden beneath $l armor.{x
+mob echo $I says, '{8You give pigeon scratchings and expect a dragon?{0'{x
+mob delay 1
+mob remember $n
+endif
+~
+#29204
+if hastarget $i
+mob echo $I says, {0'{8You should've left when you had the chance.{0'{x
+mob echo $I says, {0'{8I'll ensure that your soul burns long before it reaches hell!{0'{x
+mob kill $q
+endif
+~
+#29205
+mob call 29213
+if rand 50
+  if isimmort $n
+    if rand 24
+      say {8Ah. A divine being...I am honored.{0
+      bow $n
+    else
+      eye $n
+      say {8Heh...now that's a sight to see.{0
+    endif
+  else
+    if clan $n 'Forsaken'
+      if rand 67
+        say {8It is good that you are still around, master $n.{0
+      else
+        bow $n
+      endif
+    else
+      if clan $n 'Crimson Soldiers'
+        if rand 35
+          peer $n
+          say {8Some can't wait to die...{0
+        else
+          mob echo Shi looks slightly annoyed.
+          say {8Heh...trouble is never far away is it.{0
+        endif
+      else
+        hm $n
+      endif
+    endif
+  endif
+else
+  break
+endif
+~
+#29206
+mob cast 'cure blind' $i
+wipe
+if hpcnt $i <= 10
+ if mobhere 29200
+  break
+ else
+  mob zecho $I blows on a small wooden whistle, producing a frail note.
+  mob mload 29200
+  mob vforce 29200 say So...it comes down to this...I'm sorry.
+ endif
+else
+ if hpcnt $i < 20
+  mob echo $I coughs softly, and a bit of {1blood{0 dribbles out from $l mouth.
+  mob cast 'haste' self
+  mob cast 'sanctuary' self
+ else
+  break
+ endif
+endif
+~
+#29207
+if hour >= 20
+or hour <= 4
+if rand 25
+mob echo {0Riel sighs almost inaudibly, and falls into a light {2reverie{0.{x
+else
+mob echo {0Gazing upon the {4night sky{0, Riel falls into a light {2reverie{0.{x
+endif
+else
+if hour >= 5
+and hour <= 7
+mob echo {0Humming a {5tune {0softly, Riel examines the reagents in her {4leather {0pouch.{x
+else
+if hour >= 8
+and hour <= 11
+if rand 5
+mob echo {0Riel gets a {2lembas wafer {0from her {3robes {0and gracefully eats it.{x
+else
+mob echo {6<<{0w{6>><<{0h{6>><<{0o{6>><<{0o{6>><<{0s{6>><<{0h{6>>{0...Riel enjoys her own spring breeze.{x
+endif
+else
+if hour >= 12
+and hour <= 17
+if rand 5
+mob echo {0Riel conjures a {Ycorn {3souffle {0on a small plate, and dines happily.{x
+else
+mob echo {0Riel's {Geyes {0grow distant as she begins to {Rscry {0across the lands of Phoenix.{x
+endif
+else
+if hour >= 18
+and hour <= 19
+mob echo {0A slight smile appears on Riel's face as the sky {8dims{0.{x
+endif
+endif
+endif
+endif
+endif
+~
+#29208
+if isimmort $n
+if rand 45
+say {WQ{wuel' {Wd{wu {w$n.{x
+else
+say {WE{wver {Wi{ws {Wt{why {Ws{wight {Wa {Wj{woy, {w$n.{x
+endif
+else
+if clan $n 'Forsaken'
+if rand 63
+say {WO{wio {Wn{waa {We{wlealle {Wa{wlasse' {Wm{wellonamin.{x
+else
+say {WH{wello {w$n {WE{wlf-{Wf{wriend...{x
+endif
+else
+say {WH{wail {Wt{where, {Ww{wanderer...{x
+endif
+endif
+~
+#29209
+if hour >= 20
+or hour <= 4
+if rand 25
+mob echo {0Arklonnh's face contorts into a {8grimace {0as he {Crecalls {0the horrible arena fights.{x
+else
+mob echo {0Under deep thought, Arklonnh {5longs {0to visit his {Yf{Ri{3e{Rr{1y {0homeland again.{x
+endif
+else
+if hour >= 5
+and hour <= 7
+mob echo {8*{RWHAM{8* {8*{RCLANK{8* {8*{RWHAM{8* {0Arklonnh's sledgehammer rings loudly!{x
+else
+if hour >= 8
+and hour <= 11
+if rand 5
+mob echo {0Arklonnh gets a bowl of {Rh{Yo{Rt {1boar {8stew {0near the forge and chows down hungrily.{x
+else
+mob echo {0Arklonnh wields a {8glaive {0in his hands and beats the living @#$% out of the training dummy.{x
+endif
+else
+if hour >= 12
+and hour <= 17
+if rand 5
+mob echo {0Arklonnh grabs an {3imitation {8dragon {0steak heating by the forge, and proceeds to dine.
+else
+mob echo {0Arklonnh beams over his many {Bmasterful {0works.{x
+endif
+else
+if hour >= 18
+and hour <= 19
+mob echo {0Arklonnh watches the {8shadows {0carefully.{x
+endif
+endif
+endif
+endif
+endif
+~
+#29210
+mob call 29213
+if rand 50
+  if isimmort $n
+    if rand 25
+      say My thanks for your divine visit...
+      bow $n
+    else
+      smile $n
+      say The spirits rejoice, my heart soars...I welcome you immortal.
+    endif
+  else
+    if clan $n 'Forsaken'
+      if rand 68
+        sweet $n
+      else
+        say Hello, my friend...your presence makes the days easier.
+      endif
+    else
+      if clan $n 'Crimson Soldiers'
+        if rand 36
+          eye $n
+          say Perhaps you now desire my flesh in more ways than one?
+        else
+          mob echo Makie sighs sadly.
+          say Such death...such cruelty...is there no more to life?
+        endif
+      else
+        suspicious $n
+      endif
+    endif
+  endif
+else
+  break
+endif
+~
+#29211
+mob cast 'cure blindness'
+wipe
+if hpcnt $i <= 10
+  say I'm sorry...I just can't...too much pain...
+  mob echo $I darts out of reach, and abruptly ends the fight.
+  mob echo $I bows quickly, then teleports away amidst a pattern of swirling flower petals.
+  mob purge $i
+else
+  if hpcnt $i < 20
+    mob cast 'haste' self
+    mob cast 'sanctuary' self
+  endif
+endif
+~
+#29212
+if clan $n 'Forsaken'
+mob cast 'cure blindness' self
+wipe
+mob zecho $I yells, '{5It isn't fair...why now? why betray us $n?{0'
+say {5You were so dear to us...i'm sorry I have to do this...{x
+else
+wipe
+mob cast 'cure blindness' self
+mob zecho $I yells, '{5Some assistance please...a raid begins...'{0
+say {5By pledge of honor with the Forsaken, I will give it my all.{x
+endif
+~
+#29213
+mob at 7805 close south
+~
+#29214
+if hastarget $i
+mob echo $I says, '{5I'm sorry, I can't take anymore dishonor...this has to end.{0'
+mob echo $I says, '{5Don't worry, I will still sing for you, long after you are gone...{0'{x
+mob kill $q
+endif
+~
+#29215
+mob echo $I says, '{5Oh...an offering.{0'
+mob echo $I says, '{5Am I to sing...to be geisha...a cheap yotaka for your pleasure?{0'{x
+mob delay 1
+mob remember $n
+endif
+~
+#29216
+if hour >= 0
+and hour <= 5
+mob echo {0$I fine tunes $l {2shamisen {0and {Wsharpens {0$l eight foot three-part {wspear{0.{x
+break
+else if hour >= 6
+and hour <= 11
+mob echo {0$I strums a {4sad {0tune on her shamisen, enough to soften all of the underworld.{x
+break
+else if hour >= 12
+and hour <= 13
+mob echo Still watchful, $I sips some {3uji tea {0and bites into a {1warabi sweetcake{0.{x
+break
+else if hour >= 14
+and hour <= 20
+mob echo $I sings, '{CC{6hasing {Ct{6he {Cw{6ind, {Cc{6hasing {Ct{6hat {Cs{6oul,{0'{x
+mob echo $I sings, '{Cw{6andering {Cl{6ost {Cf{6or {Cy{6ears {Co{6f {Cp{6ain...{0'{x
+break
+else if hour >= 21
+and hour <= 23
+mob echo $I sings, '{CL{6ost {Ca{6s {Ci{6n {Ca {Cd{6ream, {CI {Cs{6eek {Ct{6he {Cs{6hadow {Co{6f {Co{6ne {Cw{6ho {Ch{6as {Cs{6wirled {Ca{6way...{0'{x
+mob echo $I sings, '{Ca{6bandoning {Cf{6riends, {Ca{6bandoning {Ch{6umanity.{0'{x
+endif
+~
+#29217
+if clan $n 'Forsaken'
+mob echoat $n $I smiles briefly in your direction.
+mob echoaround $n $I smiles briefly as $n steps through the doorway.{x
+mob gtransfer $n 29201
+else
+say {5Sorry...I just can't let -anyone- in...{x
+endif
+~
+#29218
+mob cast 'cure all' $i
+wipe
+if rand 50
+  if rand 50
+    if rand 50
+      mob echoat $n $I flicks a handful of glistening shuriken towards your direction.
+      mob echoaround $n $I pulls out a handful of envenomed shuriken, throwing them in a neat arc towards $n.
+      mob cast 'flying blades' $n
+      mob cast 'poison' $n
+{0      mob cast 'poison' $n
+    else
+      mob echoat $n $I's eyes fill with blue sparks, and a painful gaze falls upon you.
+      mob echoaround $n Blue sparks dart to and fro in $I's eyes as he looks upon $n.
+      mob cast 'lightning storm' $n
+    endif
+  else
+    if rand 65
+      mob echoat $n $I launches a cut towards your legs, and a red flash suddenly covers your vision.
+      mob echoaround $n $I fakes at $n's legs with one sword, as the other moves at $n's eyes.
+      mob cast 'blindness' $n
+      mob cast 'blindness' $n
+    else
+      mob echo $I pulls a small blue herb from $l cloak, and pops it into $l mouth.
+      mob cast 'cheal' $i
+    endif
+  endif
+else
+  if rand 50
+    if rand 50
+{0       mob echoat $n $I drives his tachi deep into your gut, draining your will to fight.
+{0       mob echoaround $n $I stabs $n deeply with his tachi, and a red glow emanates from the wound.
+{0       mob cast 'power stun' $n
+{0       mob cast 'energy drain' $n
+    else
+      mob echoat $n $I crosses his swords in front of you, then sweeps them away, parallel to the ground.
+      mob echoaround $n $I abruptly crosses $l swords at $n, then sweeps them away in a straight line.
+      mob cast 'lightning bolt' $n
+    endif
+  else
+    if rand 65
+      mob echoat $n $I shudders slightly, then unleashes his fury upon you.
+      mob echoaround $n $I trembles in rage, unleashing $l fury upon $n.
+      mob cast 'fireball' $n
+      mob cast 'fireball' $n
+    else
+      mob echo $I pulls a small orange herb from $l cloak, and pops it into $l mouth.
+      mob cast 'cure all' $i
+    endif
+  endif
+endif
+~
+#29219
+mob cast 'cure all' $i
+wipe
+if rand 50
+  if rand 50
+    if rand 50
+      mob echoat $n $I cocks $l wrist once, and a single bolt springs from $l crossbow and burrows into your body, numbing your flesh.
+      mob echoaround $n A tiny metal bolt springs from $I's wrist crossbow into $n's body.
+      mob cast 'acid blast' $n
+    else
+      mob echoat $n $I darts forward and $l delicate fingers brush against your cheek.
+      mob echoaround $n $I lunges at $n, brushing her slim fingers across $n's face.
+      mob cast 'chill touch' $n
+      mob cast 'chill touch' $n
+      mob cast 'chill touch' $n
+      mob cast 'chill touch' $n
+      mob cast 'chill touch' $n
+      mob cast 'dispel magic' $n
+    endif
+  else
+    if rand 65
+      mob echoat $n $I seems to blur as the two ends of $l three-part spear arc towards your eyes.
+      mob echoaround $n $I moves impossibly fast, sending the edges of $l spear hurtling at $n's eyes.
+      mob cast 'blindness' $n
+      mob cast 'blindness' $n
+    else
+      mob echo $I grabs a pill from inside $l pocket, and consumes it in one bite.
+      mob cast 'cheal' $i
+    endif
+  endif
+else
+  if rand 50
+    if rand 50
+      mob echoat $n $I turns $l eyes upon you, smiles, and winks sexily.
+      mob echoaround $n $I smiles and gives a sexy wink to $n.
+      mob cast 'power stun' $n
+    else
+      mob echoat $n $I launches a flurry of kicks, stealing the breath from your lungs.
+      mob echoaround $n $I's legs are just a blur as a multitude of kicks are unleashed at $n.
+      kick
+    endif
+  else
+    if rand 65
+      mob echoaround $n As $I locks gazes with $n, you can't help but feel intimidated.
+      mob echoat $n $I stares into your eyes, letting her fierce battle aura overwhelm you.
+      mob cast 'mind attack' $n
+      mob cast 'energy drain' $n
+    else
+      mob echo $I grabs some golden powder from a pouch, and sprinkles it all over $l body.
+      mob cast 'cure all' $i
+    endif
+  endif
+endif
+~
+#29220
+say {8damn...{0*cough*{8...maybe...another time then...{0
+mob vforce 29200 say Recover quickly...i'll do my best...
+mob echo $I slits $l abdomen horizontally, and finishes $kself with kirioroshi.
+mob echo $I's corpse quickly turns into pinpricks of light.
+mob goto 4
+~
+#29221
+~
+#29222
+if clan $n 'Forsaken'
+ if name $n 'hayasa'
+ or name $n 'cienfuegos'
+ or name $n 'playa'
+  if carries $n 'soulblade forsaken clan leader patch'
+  or wears $n 'soulblade forsaken clan leader patch'
+   say Hey $n, you already have a patch.
+  else
+   say Just a sec, $n.
+   mob echo $I rummages around.
+   mob oload 27347 1 room
+   mob force $n get patch
+  endif
+ else
+  if name $n 'caedes'
+  or name $n 'svrellia'
+   if carries $n 'soulblade forsaken clan patch'
+   or wears $n 'soulblade forsaken clan patch'
+    say Hey $n, you already have a patch.
+   else
+    say Just a sec, $n.
+    mob echo $I rummages around.
+    mob oload 27346 1 room
+    mob force $n get patch
+   endif
+  else
+   say Hey now I have a clan patch you can buy if you like, $n.
+  endif
+ endif
+else
+ say Idiot!! Your are lucky I don't beat you down.
+ mob gtransfer $n 3014
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

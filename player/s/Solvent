@@ -1,0 +1,186 @@
+#PLAYER
+Name Solvent~
+Race vampire~
+Levl 10
+Clas mage~
+Pkpt 100
+TSex 0
+LogO 1273294204
+Sock ip174-65-17-179.sd.sd.cox.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1273290700
+Plat 0
+Gold 2
+Silv 40
+Exp  17451
+Attr 18 18 15 18 17
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+AfBy Tc
+ShBy J
+Comm DNQ
+Pos  8
+Alig  1000
+Sk 1 'angelfire'
+Sk 1 'demonfire'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'flamestrike'
+Sk 1 'heat metal'
+Sk 1 'ray of deceit'
+Sk 1 'ray of truth'
+Sk 40 'dagger'
+Sk 1 'feed'
+Sk 50 'recall'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 1 'whip'
+MaxDam 25
+LLev 0
+Pass SoSiPUDKMH8k6~
+Plyd 3504
+Note 0 0 0 0 0
+Room 3001
+HMVN 562 447 1119 1111 220 380
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 0 0
+Deviant 0 0
+Prac 79
+Trai 43
+Devote current 0
+Pnts 13
+Mkil 33
+Alias ss scan~
+Alias sss sac all~
+Gr 'attack'
+Gr 'mage basics'
+Gr 'rom basics'
+Affc 'wisdom'   0 319   0   8  10   4          0
+Affc 'intellect'   0 276   0   3   9   3          0
+Affc 'shield'   0 320   0  56 -108  17          0
+Affc 'constitution'   0 276   0   2   9   5          0
+Affc 'bless'   0 308   0  40 -40  20          0
+Affc 'bless'   0 311   0  40  40  18          0
+Affc 'vampiricshield'   1   0   0  -1   0   0        512
+Affc 'regeneration'   0   0   0  -1   0   0  268435456
+Affc 'fly'   0   0   0  -1   0   0     524288
+End
+
+#O
+Vnum 3162
+Nest 0
+End
+
+#O
+Vnum 3169
+Nest 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+Wear 0
+Valu 2 1 124
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3701
+Nest 0
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 792
+Nest 0
+Name Weak javelin the Dazed special~
+ShD  Weak javelin of the Dazed~
+Loader MPOP: (20:59-05/07/2010) Solvent~
+Lev  2
+Cost 75
+Affc 'reserved' 2 1 -1 -3 4 0
+Affc 'reserved' 2 1 -1 -1 19 0
+End
+
+#O
+Vnum 728
+Nest 0
+Name gloves normal~
+Loader MPOP: (21:02-05/07/2010) Solvent~
+Wear 9
+End
+
+#O
+Vnum 3077
+Nest 0
+Wear 10
+End
+
+#O
+Vnum 3074
+Nest 0
+Wear 7
+End
+
+#O
+Vnum 3716
+Nest 0
+MULTI Solvent~ ip174-65-17-179.sd.sd.cox.net~ 34
+Cost 0
+Valu 2 1 190
+End
+
+#O
+Vnum 3703
+Nest 0
+MULTI Solvent~ ip174-65-17-179.sd.sd.cox.net~ 34
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+MULTI Solvent~ ip174-65-17-179.sd.sd.cox.net~ 34
+Cost 0
+End
+
+#O
+Vnum 3163
+Nest 0
+MULTI Solvent~ ip174-65-17-179.sd.sd.cox.net~ 34
+End
+
+#O
+Vnum 3716
+Nest 0
+MULTI Solvent~ ip174-65-17-179.sd.sd.cox.net~ 34
+Cost 0
+Valu 2 1 191
+End
+
+#O
+Vnum 57826
+Nest 0
+MULTI Solvent~ ip174-65-17-179.sd.sd.cox.net~ 34
+End
+
+#END

@@ -1,0 +1,3330 @@
+#AREADATA
+Name Catacombs of the Forgotten~
+Builders Unlinked  Revye~
+VNUMs 42000 42199
+Continent 0
+Credits [101] Digaaz Catacombs of the Forgotten~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#42000
+withered old man~
+A withered old man~
+A man that time has forgotten sits here.
+~
+Times have not been nice to this man.  His flesh is withered and full of
+wrinkles.  If you had to rough guess his age, you would say he has been
+around since time began.  
+~
+human~
+ABQRST CDEFGJZc CDEHNO 0 0
+5000 350 1000d1000+0 1000d1000+5000 100d100+1000 magic
+-100 -100 -100 -100
+CDEFGHIJK ABCDE 0 0
+sit sit male 0
+AHMV ABCDEFGHIJK large unknown
+M FIGHT 42002 15~
+M SPEECH 42001 midgaard~
+M GRALL 42000 100~
+#42001
+undead zombie~
+{*A {1Z{*o{1m{*b{1i{*e{x~
+{*A {1Z{*o{1m{*b{1i{*e {*shambles towards you.{x
+~
+{*With flesh rotting off its bones the only logical conclusion is it is
+one of many of the Undead the withered old man told you about.  {x 
+~
+human~
+AFGPRST CDEFGJ NO -1000 0
+220 300 30000d1+0 6000d1+0 60d10+250 none
+-30 -30 -30 -30
+AEFKU ABLMQ FGPT EHNS
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+M FIGHT 42003 15~
+M FIGHT 42004 2~
+#42002
+skeleton undead~
+{&A {8S{&k{8e{&l{8e{&t{8o{&n{x~
+{&A {8S{&k{8e{&l{8e{&t{8o{&n {*shambles around here.{x
+~
+{*A risen skeleton of a warrior long past.  He turns his head towards you
+and raises his weapon.  {x 
+~
+human~
+AOST CDEFGJ N -1000 0
+180 425 35000d1+0 50d100+1000 25d75+300 crush
+-46 -46 -46 -60
+CDFGHK ABLMQ CDPT ENS
+stand stand none 20000
+AHMV ABCDEFGHIJK medium unknown
+#42003
+crypt rat~
+{*A {1c{*r{1y{*p{1t {*r{1a{*t{x~
+A gigantic rat is here foraging for food.
+~
+A rather huge sized rat almost the size of a horse.  God only knows what
+it has eaten to get this size.  It sniffs the air and looks directly at you,
+rather hungrily.  
+~
+bear~
+AHSTU CDEFGUXZa N 0 0
+165 225 1d1+20000 1d1+5000 40d6+300 bite
+-55 -50 -55 -50
+DEFGHMO AB EI S
+stand stand none 25000
+AGV ABCDEFHJKUV medium unknown
+#42004
+large skeleton~
+a {*L{&arg{*e {&Ske{*le{&ton{x~
+A massive skeleton lumbers around here.
+~
+{*Twice the size of the normal skeletons, this skeleton lifts its weapon
+in one hand and moves towards you.  {x 
+~
+jotun~
+AOST CDEFGJ N -1000 0
+170 300 30000d1+0 0d0+0 30d9+350 crush
+-40 -40 -40 -44
+CDFHJK ABMO CILQ NPS
+stand stand none 25000
+AHMV ABCDEFGHIJK large unknown
+#42005
+ghoul spirit~
+{8A ghoul{x~
+An evil spirit is here unearthing corpses.
+~
+{*Hovering around unearthing corpses of the dead.  Its eyes are blank as
+it rips the corpse from the coffin and bites into it.  {x 
+~
+elf~
+AOPRT CDEFGJUZ BN -1000 0
+145 325 22500d1+0 50d100+1000 25d50+250 magic
+-55 -55 -55 -55
+FGK AB CD NS
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+M FIGHT 42005 15~
+M DEATH 42006 15~
+#42006
+wraith ghost figure ghostly~
+a wraith~
+A ghostly figure is here destroying everything in sight.
+~
+~
+mountain-dwarf~
+AGOPRST CDEFGV N -1000 0
+200 400 1d10000+0 100d70+500 60d40+300 psias
+-10 -10 -10 -15
+AFGH AB IM NS
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+F res L
+F vul R
+#42007
+death knight~
+the {1D{*eat{1h {1K{*nigh{1t{x~
+A knight is here reeking of death and destruction.
+~
+{*A kight of times past, he reeks of death and has a demented look in his
+eyes.  He doesn't seem to notice your presence as he stares at something
+that isn't there.  {x 
+~
+dragon~
+ABESTU CDEFGJT H 0 0
+185 -5000 30000d1+0 5000d1+0 10d30+300 crush
+-20 -20 -20 -20
+CDEFHJK AB EH FI
+stand stand male 100000
+AHZ ACDEFGHIJKPQUVX medium unknown
+F res B
+M FIGHT 42007 100~
+#42008
+guardian catacombs man~
+The Guardian of the Catacombs~
+A man that time has seemingly misplaces stands propped against the door.
+~
+A man of average height, he stands propped against the door.  It seems he
+guards the door from those exiting, or entering.  
+~
+human~
+ABEST DEFIJV H 0 0
+180 500 35000d1+0 5000d1+0 60d6+300 smash
+-70 -70 -70 -80
+ACO ABLQ CDEGHIJKMNPSTXYZ 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#42009
+gelivir unholy knight~
+{DG{We{dl{Di{dv{Wi{Dr{D the {DUn{dho{Dly{x~
+A knight clad in black, bloodstained armor, towers before you.
+~
+~
+jotun~
+ABT DEFGJV 0 -500 0
+500 500 75000d1+0 1000d1+0 60d10+150 cleave
+-55 -55 -55 -65
+CDEH ABLQ 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK giant unknown
+F vul P
+M FIGHT 42008 100~
+#0
+
+
+
+#OBJECTS
+#42000
+mark forgotten~
+{@M{2ar{@k {*of the {@F{2orgotte{@n{x~
+A mysterious mark is here throbbing with a strange power.~
+unknown~
+armor GSf AU
+DF DF DF DF 0
+101 0 50000 P
+A
+4 -5
+A
+3 -5
+A
+18 -20
+A
+20 20
+A
+19 50
+A
+13 -500
+A
+12 -500
+A
+14 -500
+#42001
+bone carapace large~
+a {WB{Don{We Ca{Dra{Wp{Da{Wce{x~
+A large carapace of solid {WB{Don{We{x lies here.~
+bone~
+armor GMS AD
+DF DF DF DF 0
+101 0 20000 P
+A
+13 -100
+A
+19 16
+A
+1 -1
+A
+18 -10
+#42002
+bone axe~
+a {*B{&on{*e{x Axe~
+An axe constructed from bones rests here.~
+unknown~
+weapon GS AN
+axe 18 11 slice E
+101 0 25000 P
+A
+19 10
+#42003
+bone scythe~
+a {8B{&o{8n{&e Scythe{x~
+A long scythe constructed of bone is here in the dirt.~
+unknown~
+weapon S AN
+polearm 12 17 drain CF
+101 0 25000 P
+A
+2 -2
+A
+19 16
+#42004
+finger bone necklace~
+{Da {WF{Ding{We{Dr-Bo{Wn{De Ne{Wck{Dlace{x~
+A necklace made of finger bones lies here.~
+bone~
+armor S AC
+BCDE BCDE BCDE BD 0
+101 3 25000 P
+A
+19 13
+#42005
+broken hole wall~
+a broken hole~
+{x~
+unknown~
+portal R 0
+0 0 A BEFGKNP 0
+0 0 0 P
+#42006
+broken hole wall~
+a broken hole~
+{x~
+unknown~
+portal R 0
+0 0 A AEKNP 0
+0 0 0 P
+#42007
+wall mount holder~
+a wall mounted torch holder~
+{x~
+unknown~
+container R 0
+20 0 0 10 0
+0 0 0 P
+#42008
+blacked torch~
+a blackened oil torch~
+A long black torch is here, burning in the dirt.~
+unknown~
+light 0 A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 2 1000 P
+A
+17 -5
+A
+13 100
+A
+26 10
+#42009
+iron key~
+{WAn {wI{Dr{wo{Dn{x {WKey{x~
+A iron key bound in leather lies here.~
+unknown~
+key U AO
+0 0 0 0 0
+1 0 0 P
+#42010
+corpse remains fallen adventurer~
+{WThe {rc{Ro{Wrp{Rs{re {W of {Ya fallen adventurer{x~
+{WThe {rc{Ro{Wrp{Rs{re {W of {Ya fallen adventurer{W sits in the corner.{x~
+unknown~
+container R 0
+500 0 0 10 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#42000
+Stairwell into the Darkness~
+The dimly light hall opens up, amassing in a giant staircase going down
+into darkness.  Echoing through the halls are the groans and moans of the
+damn.  Leaning against the wall, sits an old man, his skin withered, and his
+body frail, yet he looks up with hardly any effort as he hears the sounds of
+footsteps approaching.  
+~
+0 8192 0
+D5
+~
+~
+0 0 42001
+S
+#42001
+Stairwell into the Darkness~
+The stairwell bottoms out fast, as the stairs run to a dead end.  In the
+corner, barely visible is a missing portion of the wall.  The forboding
+moans of the dead, echoing from the other side of the broken hole, making
+the entrance to the Catacombs official.  
+~
+0 0 0
+D4
+~
+~
+0 0 42000
+S
+#42002
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42006
+S
+#42003
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42009
+S
+#42004
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42012
+S
+#42005
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42014
+D2
+~
+~
+0 0 42006
+S
+#42006
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42005
+D1
+~
+~
+0 0 42015
+D2
+~
+~
+0 0 42007
+D3
+~
+~
+0 0 42002
+S
+#42007
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42006
+D1
+~
+~
+0 0 42016
+S
+#42008
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42017
+D2
+~
+~
+0 0 42009
+S
+#42009
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42008
+D1
+~
+~
+0 0 42018
+D2
+~
+~
+0 0 42010
+D3
+~
+~
+0 0 42003
+S
+#42010
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42009
+D1
+~
+~
+0 0 42019
+S
+#42011
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42020
+D2
+~
+~
+0 0 42012
+S
+#42012
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42011
+D1
+~
+~
+0 0 42021
+D2
+~
+~
+0 0 42013
+D3
+~
+~
+0 0 42004
+S
+#42013
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42012
+D1
+~
+~
+0 0 42022
+S
+#42014
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42015
+D3
+~
+~
+0 0 42005
+S
+#42015
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42014
+D1
+~
+~
+0 0 42023
+D2
+~
+~
+0 0 42016
+D3
+~
+~
+0 0 42006
+S
+#42016
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42015
+D3
+~
+~
+0 0 42007
+S
+#42017
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42018
+D3
+~
+~
+0 0 42008
+S
+#42018
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42017
+D1
+~
+~
+0 0 42024
+D2
+~
+~
+0 0 42019
+D3
+~
+~
+0 0 42009
+S
+#42019
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42018
+D3
+~
+~
+0 0 42010
+S
+#42020
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42021
+D3
+~
+~
+0 0 42011
+S
+#42021
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42020
+D1
+~
+~
+0 0 42025
+D2
+~
+~
+0 0 42022
+D3
+~
+~
+0 0 42012
+S
+#42022
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42021
+D3
+~
+~
+0 0 42013
+S
+#42023
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42029
+D3
+~
+~
+0 0 42015
+S
+#42024
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42032
+D3
+~
+~
+0 0 42018
+S
+#42025
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42035
+D3
+~
+~
+0 0 42021
+S
+#42026
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42040
+D2
+~
+~
+0 0 42027
+S
+#42027
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42026
+D1
+~
+~
+0 0 42041
+S
+#42028
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42043
+D2
+~
+~
+0 0 42029
+S
+#42029
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42028
+D1
+~
+~
+0 0 42044
+D2
+~
+~
+0 0 42030
+D3
+~
+~
+0 0 42023
+S
+#42030
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42029
+D1
+~
+~
+0 0 42045
+S
+#42031
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42046
+D2
+~
+~
+0 0 42032
+S
+#42032
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42031
+D1
+~
+~
+0 0 42047
+D2
+~
+~
+0 0 42033
+D3
+~
+~
+0 0 42024
+S
+#42033
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42032
+D1
+~
+~
+0 0 42048
+S
+#42034
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42049
+D2
+~
+~
+0 0 42035
+S
+#42035
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42034
+D1
+~
+~
+0 0 42050
+D2
+~
+~
+0 0 42036
+D3
+~
+~
+0 0 42025
+S
+#42036
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42035
+D1
+~
+~
+0 0 42051
+S
+#42037
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42053
+D2
+~
+~
+0 0 42038
+S
+#42038
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42037
+D1
+~
+~
+0 0 42054
+S
+#42039
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42040
+S
+#42040
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42039
+D1
+~
+~
+0 0 42056
+D2
+~
+~
+0 0 42041
+D3
+~
+~
+0 0 42026
+S
+#42041
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42040
+D1
+~
+~
+0 0 42057
+D2
+~
+~
+0 0 42042
+D3
+~
+~
+0 0 42027
+S
+#42042
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42041
+D2
+~
+~
+0 0 42043
+S
+#42043
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42042
+D1
+~
+~
+0 0 42058
+D2
+~
+~
+0 0 42044
+D3
+~
+~
+0 0 42028
+S
+#42044
+The Main Hallway Northwest~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42043
+D1
+~
+~
+0 0 42059
+D2
+~
+~
+0 0 42045
+D3
+~
+~
+0 0 42029
+S
+#42045
+The Main Hallway West~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42044
+D2
+~
+~
+0 0 42046
+D3
+~
+~
+0 0 42030
+S
+#42046
+The Main Hallway West~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42045
+D2
+~
+~
+0 0 42047
+D3
+~
+~
+0 0 42031
+S
+#42047
+The Main Hallway West~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42046
+D2
+~
+~
+0 0 42048
+D3
+~
+~
+0 0 42032
+S
+#42048
+The Main Hallway West~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42047
+D2
+~
+~
+0 0 42049
+D3
+~
+~
+0 0 42033
+S
+#42049
+The Main Hallway West~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42048
+D2
+~
+~
+0 0 42050
+D3
+~
+~
+0 0 42034
+S
+#42050
+The Main Hallway Southwest~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42049
+D1
+~
+~
+0 0 42065
+D2
+~
+~
+0 0 42051
+D3
+~
+~
+0 0 42035
+S
+#42051
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42050
+D1
+~
+~
+0 0 42066
+D2
+~
+~
+0 0 42052
+D3
+~
+~
+0 0 42036
+S
+#42052
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42051
+D2
+~
+~
+0 0 42053
+S
+#42053
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42052
+D1
+~
+~
+0 0 42067
+D2
+~
+~
+0 0 42054
+D3
+~
+~
+0 0 42037
+S
+#42054
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42053
+D1
+~
+~
+0 0 42068
+D2
+~
+~
+0 0 42055
+D3
+~
+~
+0 0 42038
+S
+#42055
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42054
+S
+#42056
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42057
+D3
+~
+~
+0 0 42040
+S
+#42057
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42056
+D3
+~
+~
+0 0 42041
+S
+#42058
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42059
+D3
+~
+~
+0 0 42043
+S
+#42059
+The Main Hallway North~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42058
+D1
+~
+~
+0 0 42072
+D3
+~
+~
+0 0 42044
+S
+#42060
+Outter Arena Ring~
+~
+0 8200 0
+D1
+~
+~
+0 0 42073
+D2
+~
+~
+0 0 42061
+S
+#42061
+Outter Arena Ring~
+~
+0 8200 0
+D0
+~
+~
+0 0 42060
+D2
+~
+~
+0 0 42062
+S
+#42062
+Outter Arena Ring~
+~
+0 8200 0
+D0
+~
+~
+0 0 42061
+D1
+~
+~
+0 0 42075
+D2
+~
+~
+0 0 42063
+S
+#42063
+Outter Arena Ring~
+~
+0 8200 0
+D0
+~
+~
+0 0 42062
+D2
+~
+~
+0 0 42064
+S
+#42064
+Outter Arena Ring~
+~
+0 8200 0
+D0
+~
+~
+0 0 42063
+D1
+~
+~
+0 0 42077
+S
+#42065
+The Main Hallway South~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 42078
+D2
+~
+~
+0 0 42066
+D3
+~
+~
+0 0 42050
+S
+#42066
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42065
+D3
+~
+~
+0 0 42051
+S
+#42067
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42068
+D3
+~
+~
+0 0 42053
+S
+#42068
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42067
+D3
+~
+~
+0 0 42054
+S
+#42069
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42083
+D2
+~
+~
+0 0 42070
+S
+#42070
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42069
+D1
+~
+~
+0 0 42084
+S
+#42071
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42086
+D2
+~
+~
+0 0 42072
+S
+#42072
+The Main Hallway North~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42071
+D1
+~
+~
+0 0 42087
+D3
+~
+~
+0 0 42059
+S
+#42073
+Outter Arena Ring~
+~
+0 8200 0
+D1
+~
+~
+0 0 42088
+D3
+~
+~
+0 0 42060
+S
+#42074
+Inner Arena Ring~
+Odd runes are engraved in the floor of the room and glow with an erie
+aura.  There is exits leading east and south.  
+~
+0 8456 0
+D1
+~
+~
+0 0 42089
+D2
+~
+~
+0 0 42075
+S
+#42075
+Inner Arena Ring~
+A standard arena room with exits leading in all directions.  
+~
+0 8200 0
+D0
+~
+~
+0 0 42074
+D1
+~
+~
+0 0 42090
+D2
+~
+~
+0 0 42076
+D3
+~
+~
+0 0 42062
+S
+#42076
+Inner Arena Ring~
+Odd runes are engraved in the floor of the room and glow with an erie
+aura.  There is exits leading east and north.  
+~
+0 8456 0
+D0
+~
+~
+0 0 42075
+D1
+~
+~
+0 0 42091
+S
+#42077
+Outter Arena Ring~
+~
+0 8200 0
+D1
+~
+~
+0 0 42092
+D3
+~
+~
+0 0 42064
+S
+#42078
+The Main Hallway South~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 42093
+D2
+~
+~
+0 0 42079
+D3
+~
+~
+0 0 42065
+S
+#42079
+A Side Room in the Entrance Hallway~
+Slumped in the corner is the corpse of a fallen adventurer, his head
+seems to have been cleaved clean off by a very sharp blade.  Several large
+bites have been taken out of its remains, leaving it defiled.  
+~
+0 0 0
+D0
+~
+~
+0 0 42078
+D1
+~
+~
+0 0 42094
+S
+#42080
+The Entrance Hall~
+Loosely mounted corner torches illuminate the surrounding rooms of the
+Catacombs, showing the horror that is to be expected.  Piles of bones and
+skulls are scattered all over the floor.  Many of the remains have their
+limbs severed completely from their bodies, others just have their skulls
+crushed in.  The walls of the hallway are caked in the dried blood of those
+that were unfortunate to come this far in.
+~
+0 0 0
+D1
+~
+~
+0 0 42096
+D2
+~
+~
+0 0 42081
+S
+#42081
+The Entrance Hall~
+Loosely mounted corner torches illuminate the surrounding rooms of the
+Catacombs, showing the horror that is to be expected.  Piles of bones and
+skulls are scattered all over the floor.  Many of the remains have their
+limbs severed completely from their bodies, others just have their skulls
+crushed in.  The walls of the hallway are caked in the dried blood of those
+that were unfortunate to come this far in.
+~
+0 0 0
+D0
+~
+~
+0 0 42080
+D1
+~
+~
+0 0 42097
+S
+#42082
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42083
+S
+#42083
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42082
+D1
+~
+~
+0 0 42099
+D2
+~
+~
+0 0 42084
+D3
+~
+~
+0 0 42069
+S
+#42084
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42083
+D1
+~
+~
+0 0 42100
+D2
+~
+~
+0 0 42085
+D3
+~
+~
+0 0 42070
+S
+#42085
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42084
+D2
+~
+~
+0 0 42086
+S
+#42086
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42085
+D1
+~
+~
+0 0 42101
+D2
+~
+~
+0 0 42087
+D3
+~
+~
+0 0 42071
+S
+#42087
+The Main Hallway North~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42086
+D1
+~
+~
+0 0 42102
+D3
+~
+~
+0 0 42072
+S
+#42088
+Outter Arena Ring~
+~
+0 8200 0
+D1
+~
+~
+0 0 42103
+D2
+~
+~
+0 0 42089
+D3
+~
+~
+0 0 42073
+S
+#42089
+Inner Arena Ring~
+A standard arena room with exits in all directions
+~
+0 8200 0
+D0
+~
+~
+0 0 42088
+D1
+~
+~
+0 0 42104
+D2
+~
+~
+0 0 42090
+D3
+~
+~
+0 0 42074
+S
+#42090
+Center of the Catacombs Arena~
+A pile of skulls is stacked in the middle of
+the room as a declaration of those who have not
+succeded in their task. The walls are caked in
+dried blood with a large dried pool in the
+center of the room.
+~
+0 8200 0
+D0
+~
+~
+0 0 42089
+D1
+~
+~
+0 0 42105
+D2
+~
+~
+0 0 42091
+D3
+~
+~
+0 0 42075
+S
+#42091
+Inner Arena Ring~
+A standard arena room with exits leading in all directions.
+~
+0 8200 0
+D0
+~
+~
+0 0 42090
+D1
+~
+~
+0 0 42106
+D2
+~
+~
+0 0 42092
+D3
+~
+~
+0 0 42076
+S
+#42092
+Outter Arena Ring~
+~
+0 8200 0
+D0
+~
+~
+0 0 42091
+D1
+~
+~
+0 0 42107
+D3
+~
+~
+0 0 42077
+S
+#42093
+The Main Hallway South~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 42108
+D2
+~
+~
+0 0 42094
+D3
+~
+~
+0 0 42078
+S
+#42094
+The Opposing Side of the Door~
+There the a massive door just south, this side has various glyphs set in
+it that are radiating a blue hue.  They are obviously magical, in a long
+forgotten language that has been unused for a millenia.  There is several
+marks on the door that look like claw rakes, and a disemboweled body whose
+parts are scattered around the room.  
+~
+0 0 0
+D0
+~
+~
+0 0 42093
+D1
+~
+~
+0 0 42109
+D2
+~
+~
+0 0 42095
+D3
+~
+~
+0 0 42079
+S
+#42095
+The Giant Wooden Door~
+The massive wooden door stands erect, bound together with hefty chains. 
+There is severe wear on the wood as portions of it has rotted away.  Rust
+consumes the iron workings of the door, a declaration of time's effects. 
+The walls are drenched with blood of the fallen, with a giant pool in the
+middle of the room.  
+~
+0 0 0
+D0
+~
+~
+3 42009 42094
+D2
+~
+~
+0 0 42096
+S
+#42096
+The Entrance Hall~
+Loosely mounted corner torches illuminate the surrounding rooms of the
+Catacombs, showing the horror that is to be expected.  Piles of bones and
+skulls are scattered all over the floor.  Many of the remains have their
+limbs severed completely from their bodies, others just have their skulls
+crushed in.  The walls of the hallway are caked in the dried blood of those
+that were unfortunate to come this far in.  
+~
+0 0 0
+D0
+~
+~
+0 0 42095
+D1
+~
+~
+0 0 42110
+D2
+~
+~
+0 0 42097
+D3
+~
+~
+0 0 42080
+S
+#42097
+The Entrance Hall~
+Loosely mounted corner torches illuminate the surrounding rooms of the
+Catacombs, showing the horror that is to be expected.  Piles of bones and
+skulls are scattered all over the floor.  Many of the remains have their
+limbs severed completely from their bodies, others just have their skulls
+crushed in.  The walls of the hallway are caked in the dried blood of those
+that were unfortunate to come this far in.
+~
+0 0 0
+D0
+~
+~
+0 0 42096
+D1
+~
+~
+0 0 42111
+D2
+~
+~
+0 0 42098
+D3
+~
+~
+0 0 42081
+S
+#42098
+In the Catacombs~
+The moans of the dead fill the halls, echoing from everywhere.  The
+floor is stained with the blood of the fallen adventurers, as well as the
+bones of those not fortunate enough to make it out.  The wall has a gaping
+hole with a steady calming breeze coming through it.  
+~
+0 0 0
+D0
+~
+~
+0 0 42097
+M 300 H 300
+S
+#42099
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42100
+D3
+~
+~
+0 0 42083
+S
+#42100
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42099
+D3
+~
+~
+0 0 42084
+S
+#42101
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42102
+D3
+~
+~
+0 0 42086
+S
+#42102
+The Main Hallway North~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42101
+D1
+~
+~
+0 0 42115
+D3
+~
+~
+0 0 42087
+S
+#42103
+Outter Arena Ring~
+~
+0 8200 0
+D1
+~
+~
+0 0 42116
+D3
+~
+~
+0 0 42088
+S
+#42104
+Inner Arena Ring~
+Odd runes are engraved in the floor of the room and glow with an erie
+aura.  There is exits leading west and north.  
+~
+0 8456 0
+D2
+~
+~
+0 0 42105
+D3
+~
+~
+0 0 42089
+S
+#42105
+Inner Arena Ring~
+A standard arena room with exits leading in all directions.
+~
+0 8200 0
+D0
+~
+~
+0 0 42104
+D1
+~
+~
+0 0 42118
+D2
+~
+~
+0 0 42106
+D3
+~
+~
+0 0 42090
+S
+#42106
+Inner Arena Ring~
+Odd runes are engraved in the floor of the room and glow with an erie
+aura.  There is exits leading west and north.  
+~
+0 8456 0
+D0
+~
+~
+0 0 42105
+D3
+~
+~
+0 0 42091
+S
+#42107
+Outter Arena Ring~
+~
+0 8200 0
+D1
+~
+~
+0 0 42120
+D3
+~
+~
+0 0 42092
+S
+#42108
+The Main Hallway South~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 42121
+D2
+~
+~
+0 0 42109
+D3
+~
+~
+0 0 42093
+S
+#42109
+A Side Room in the Entrance Hallway~
+Little splashes of blood litter the room, upon closer inspection there
+appears to be what looks like footprints from some sort of rodent...  A
+really large rodent.  The footprints pad off in almost every direction,
+smearing the blood on the floor like a painting.  
+~
+0 0 0
+D0
+~
+~
+0 0 42108
+D3
+~
+~
+0 0 42094
+S
+#42110
+The Entrance Hall~
+Loosely mounted corner torches illuminate the surrounding rooms of the
+Catacombs, showing the horror that is to be expected.  Piles of bones and
+skulls are scattered all over the floor.  Many of the remains have their
+limbs severed completely from their bodies, others just have their skulls
+crushed in.  The walls of the hallway are caked in the dried blood of those
+that were unfortunate to come this far in.
+~
+0 0 0
+D2
+~
+~
+0 0 42111
+D3
+~
+~
+0 0 42096
+S
+#42111
+The Entrance Hall~
+Loosely mounted corner torches illuminate the surrounding rooms of the
+Catacombs, showing the horror that is to be expected.  Piles of bones and
+skulls are scattered all over the floor.  Many of the remains have their
+limbs severed completely from their bodies, others just have their skulls
+crushed in.  The walls of the hallway are caked in the dried blood of those
+that were unfortunate to come this far in.
+~
+0 0 0
+D0
+~
+~
+0 0 42110
+D3
+~
+~
+0 0 42097
+S
+#42112
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42126
+D2
+~
+~
+0 0 42113
+S
+#42113
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42112
+D1
+~
+~
+0 0 42127
+S
+#42114
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42129
+D2
+~
+~
+0 0 42115
+S
+#42115
+The Main Hallway North~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42114
+D1
+~
+~
+0 0 42130
+D3
+~
+~
+0 0 42102
+S
+#42116
+Outter Arena Ring~
+~
+0 8200 0
+D2
+~
+~
+0 0 42117
+D3
+~
+~
+0 0 42103
+S
+#42117
+Outter Arena Ring~
+~
+0 8200 0
+D0
+~
+~
+0 0 42116
+D2
+~
+~
+0 0 42118
+S
+#42118
+Outter Arena Ring~
+~
+0 8200 0
+D0
+~
+~
+0 0 42117
+D2
+~
+~
+0 0 42119
+D3
+~
+~
+0 0 42105
+S
+#42119
+Outter Arena Ring~
+~
+0 8200 0
+D0
+~
+~
+0 0 42118
+D2
+~
+~
+0 0 42120
+S
+#42120
+Outter Arena Ring~
+~
+0 8200 0
+D0
+~
+~
+0 0 42119
+D3
+~
+~
+0 0 42107
+S
+#42121
+The Main Hallway South~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 42136
+D2
+~
+~
+0 0 42122
+D3
+~
+~
+0 0 42108
+S
+#42122
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42121
+D1
+~
+~
+0 0 42137
+S
+#42123
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42139
+D2
+~
+~
+0 0 42124
+S
+#42124
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42123
+D1
+~
+~
+0 0 42140
+S
+#42125
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42126
+S
+#42126
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42125
+D1
+~
+~
+0 0 42142
+D2
+~
+~
+0 0 42127
+D3
+~
+~
+0 0 42112
+S
+#42127
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42126
+D1
+~
+~
+0 0 42143
+D2
+~
+~
+0 0 42128
+D3
+~
+~
+0 0 42113
+S
+#42128
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42127
+D2
+~
+~
+0 0 42129
+S
+#42129
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42128
+D1
+~
+~
+0 0 42144
+D2
+~
+~
+0 0 42130
+D3
+~
+~
+0 0 42114
+S
+#42130
+The Main Hallway Northeast~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42129
+D1
+~
+~
+0 0 42145
+D2
+~
+~
+0 0 42131
+D3
+~
+~
+0 0 42115
+S
+#42131
+The Main Hallway East~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42130
+D1
+~
+~
+0 0 42146
+D2
+~
+~
+0 0 42132
+S
+#42132
+The Main Hallway East~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42131
+D1
+~
+~
+0 0 42147
+D2
+~
+~
+0 0 42133
+S
+#42133
+The Main Hallway East~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42132
+D1
+~
+~
+0 0 42148
+D2
+~
+~
+0 0 42134
+S
+#42134
+The Main Hallway East~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42133
+D1
+~
+~
+0 0 42149
+D2
+~
+~
+0 0 42135
+S
+#42135
+The Main Hallway East~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42134
+D1
+~
+~
+0 0 42150
+D2
+~
+~
+0 0 42136
+S
+#42136
+The Main Hallway Southeast~
+The hall is sloshed with blood, smeared everywhere.  The wall has dried
+candlewax that runs all the way down, and the candles long burnt out.  The
+sounds of the dead are louder now and echo horribly through the halls,
+surpassed only by the clash of weaponry dragging on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 42135
+D1
+~
+~
+0 0 42151
+D2
+~
+~
+0 0 42137
+D3
+~
+~
+0 0 42121
+S
+#42137
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42136
+D1
+~
+~
+0 0 42152
+D2
+~
+~
+0 0 42138
+D3
+~
+~
+0 0 42122
+S
+#42138
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42137
+D2
+~
+~
+0 0 42139
+S
+#42139
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42138
+D1
+~
+~
+0 0 42153
+D2
+~
+~
+0 0 42140
+D3
+~
+~
+0 0 42123
+S
+#42140
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42139
+D1
+~
+~
+0 0 42154
+D2
+~
+~
+0 0 42141
+D3
+~
+~
+0 0 42124
+S
+#42141
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42140
+S
+#42142
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42143
+D3
+~
+~
+0 0 42126
+S
+#42143
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42142
+D3
+~
+~
+0 0 42127
+S
+#42144
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42145
+D3
+~
+~
+0 0 42129
+S
+#42145
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42144
+D1
+~
+~
+0 0 42155
+D2
+~
+~
+0 0 42146
+D3
+~
+~
+0 0 42130
+S
+#42146
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42145
+D3
+~
+~
+0 0 42131
+S
+#42147
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42148
+D3
+~
+~
+0 0 42132
+S
+#42148
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42147
+D1
+~
+~
+0 0 42156
+D2
+~
+~
+0 0 42149
+D3
+~
+~
+0 0 42133
+S
+#42149
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42148
+D3
+~
+~
+0 0 42134
+S
+#42150
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42151
+D3
+~
+~
+0 0 42135
+S
+#42151
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42150
+D1
+~
+~
+0 0 42157
+D2
+~
+~
+0 0 42152
+D3
+~
+~
+0 0 42136
+S
+#42152
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42151
+D3
+~
+~
+0 0 42137
+S
+#42153
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42154
+D3
+~
+~
+0 0 42139
+S
+#42154
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42153
+D3
+~
+~
+0 0 42140
+S
+#42155
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42159
+D3
+~
+~
+0 0 42145
+S
+#42156
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42162
+D3
+~
+~
+0 0 42148
+S
+#42157
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42165
+D3
+~
+~
+0 0 42151
+S
+#42158
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42167
+D2
+~
+~
+0 0 42159
+S
+#42159
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42158
+D1
+~
+~
+0 0 42168
+D2
+~
+~
+0 0 42160
+D3
+~
+~
+0 0 42155
+S
+#42160
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42159
+D1
+~
+~
+0 0 42169
+S
+#42161
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42170
+D2
+~
+~
+0 0 42162
+S
+#42162
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42161
+D1
+~
+~
+0 0 42171
+D2
+~
+~
+0 0 42163
+D3
+~
+~
+0 0 42156
+S
+#42163
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42162
+D1
+~
+~
+0 0 42172
+S
+#42164
+~
+~
+0 0 0
+D1
+~
+~
+0 0 42173
+D2
+~
+~
+0 0 42165
+S
+#42165
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42164
+D1
+~
+~
+0 0 42174
+D2
+~
+~
+0 0 42166
+D3
+~
+~
+0 0 42157
+S
+#42166
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42165
+D1
+~
+~
+0 0 42175
+S
+#42167
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42168
+D3
+~
+~
+0 0 42158
+S
+#42168
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42167
+D1
+~
+~
+0 0 42176
+D2
+~
+~
+0 0 42169
+D3
+~
+~
+0 0 42159
+S
+#42169
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42168
+D3
+~
+~
+0 0 42160
+S
+#42170
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42171
+D3
+~
+~
+0 0 42161
+S
+#42171
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42170
+D1
+~
+~
+0 0 42177
+D2
+~
+~
+0 0 42172
+D3
+~
+~
+0 0 42162
+S
+#42172
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42171
+D3
+~
+~
+0 0 42163
+S
+#42173
+~
+~
+0 0 0
+D2
+~
+~
+0 0 42174
+D3
+~
+~
+0 0 42164
+S
+#42174
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42173
+D1
+~
+~
+0 0 42178
+D2
+~
+~
+0 0 42175
+D3
+~
+~
+0 0 42165
+S
+#42175
+~
+~
+0 0 0
+D0
+~
+~
+0 0 42174
+D3
+~
+~
+0 0 42166
+S
+#42176
+~
+~
+0 0 0
+D3
+~
+~
+0 0 42168
+S
+#42177
+~
+~
+0 0 0
+D3
+~
+~
+0 0 42171
+S
+#42178
+~
+~
+0 0 0
+D3
+~
+~
+0 0 42174
+S
+#42179
+Stairwell into the Darkness~
+~
+0 4 0
+S
+#42180
+Stairwell into the Darkness~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 42003 spec_fido Load to: {*A {1c{*r{1y{*p{1t {*r{1a{*t{x
+S
+
+
+
+#RESETS
+M 0 42000 1 42000 1 *Load A withered old man
+E 0 42000 0 25 *{@m{2ar{@k {*of the {@f{2orgotte{@n{x is loaded as a clan patch of A withered old man
+O 0 42005 0 42001 *A broken hole loaded to Stairwell into the Darkness
+O 0 42010 0 42079 *{wthe {rc{ro{wrp{rs{re {w of {ya fallen adventurer{x loaded to A Side Room in the Entrance Hallway
+M 0 42009 1 42090 1 *Load {DG{We{dl{Di{dv{Wi{Dr{D the {DUn{dho{Dly{x
+E 0 42004 0 4 *{da {wf{ding{we{dr-bo{wn{de ne{wck{dlace{x is loaded around the neck (2) of {DG{We{dl{Di{dv{Wi{Dr{D the {DUn{dho{Dly{x
+E 0 42002 0 16 *A {*b{&on{*e{x axe is loaded wielded of {DG{We{dl{Di{dv{Wi{Dr{D the {DUn{dho{Dly{x
+E 0 42001 0 5 *A {wb{don{we ca{dra{wp{da{wce{x is loaded on the body of {DG{We{dl{Di{dv{Wi{Dr{D the {DUn{dho{Dly{x
+M 0 42008 1 42095 1 *Load The Guardian of the Catacombs
+O 0 42007 0 42096 *A wall mounted torch holder loaded to The Entrance Hall
+P 0 42008 1 42007 1 *A blackened oil torch put inside a blackened oil torch
+P 0 42008 1 42007 1 *A blackened oil torch put inside a blackened oil torch
+P 0 42008 1 42007 1 *A blackened oil torch put inside a blackened oil torch
+P 0 42008 1 42007 1 *A blackened oil torch put inside a blackened oil torch
+O 0 42006 0 42098 *A broken hole loaded to In the Catacombs
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#42000
+say I suppose you are venturing to the Catacombs of the Forgotten eh?
+say Be forewarned, It's a place of long past dead Knight's and their armies.
+say its not a place where young, untrained adventurer's should be going.
+say If you want to go back to Midgaard. Then say 'Midgaard' now.
+say Else may your god have mercy on your soul in this cursed place.
+wait 1
+say The cursed monsters down there won't.
+mob echo The withered old man quietly mumbles to himself, now oblivious to your presense.
+~
+#42001
+mob echo The withered old man glares at you with ice cold eyes.
+say Such cowardice and lack for adventure.
+mob c curse $n
+mob recover $n
+mob transfer $n 3014
+powertr
+~
+#42002
+say Foolish Mortal. You are nothing compared to me!
+laugh $n
+say I am older then time itself. 
+say I was a god in my time.
+mob cast 'dispel magic' $n
+~
+#42003
+mob echo {*A {1Z{*o{1m{*b{1i{*e{x jerks suddenly.
+mob cast 'gas breath'
+mob cast curse $n
+mob cast curse $r
+~
+#42004
+mob zecho {*A {1Z{*o{1m{*b{1i{*e{x let out a loud moan.
+mob mload 42001
+mob echo More {1z{*o{1m{*b{1i{*e{1s{x start piling in!
+~
+#42005
+mob echoat $n {DA ghoul {wlooks at you and bites your neck.{x
+mob echoaround $n {DA ghoul {wlooks at $n and bites $s neck.{x
+mob echoaround $n {DA ghoul{w's feed {W-{w={Y-={y-{WA{wN{YNI{yHIL{YAT{wE{WS{y-{Y=-{w={W-{R $n! {y[215]{x
+mob echoat $n {DA ghoul{w's feed {W-{w={Y-={y-{WA{wN{YNI{yHIL{YAT{wE{WS{y-{Y=-{w={W-{c you! {y[215]{x
+mob damage $n 400 500
+~
+#42006
+mob echo {8A Ghoul{x looks at $n and utters some arcane words.
+mob echo {8A Ghoul{x wails as its ripped from the realm.
+mob echo {8A Wraith{x appears seemingly out of nowhere!!!
+mob mload 42006
+mob force wraith kill $n
+purge $i
+~
+#42007
+say My patience has expired, and so has your life!
+mob echo The {1D{*eat{1h {1K{*nigh{*t{x grabs the hilt of his sword and with one smooth move unsheaths his weapon and smacks you with the hilt.
+mob echo {RThe {rD{Deat{rh {rK{Dnigh{rt{R's hilt smash {3={#-{&={#-{3= {3DE{#CA{&PI{#TA{3TES {3={#-{&={#-{3={R you! {y[518]{x
+mob damage $n 999 1000
+~
+#42008
+if hpcnt < 10
+laugh $n
+say say You are not even worth my time. Come back when you have gained more experiance in the art of combat $n.
+mob transfer $n 42000
+echo $n disappears in a haze of {Dblack{W and {Rred{W smoke.
+~
+#0
+
+#$

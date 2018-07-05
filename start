@@ -1,0 +1,4 @@
+#!/bin/csh
+cd $cwd
+cd area
+nohup ./rot $1 > start_logfile.txt &

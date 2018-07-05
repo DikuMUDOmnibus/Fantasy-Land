@@ -1,0 +1,1000 @@
+#AOD_AREA
+Shophaven Village~
+41700 41799 0 9
+Levl 0 0
+Bldr RzA~
+End
+
+#MOBILES
+#41700
+rhayht~
+{^R{6hayh{^t{x~
+{^R{6hayh{^t{x is here tending to her shop.
+~
+~
+elf~
+100 100 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABKR DFJZ CDEH -1000 0
+200 0 0 10 10 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+M GIVE 41700 41707~
+
+#41701
+Tzoa weaponsmith~
+{!T{1zo{!a{x~
+{!T{1zo{!a{x stands here hammering a sword blank.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT CDEFG NO -1000 0
+200 0 0 10 10 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING male 5000000
+0 mage large ABCDEFGHIJK
+
+#41702
+Leur jeweller~
+{$L{4eu{$r{x~
+{$L{4eu{$r{x sits here carefully crafting a new bracelet.
+~
+~
+halfelf~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABR CDEFGJ H -1000 0
+200 0 0 10 10 0 0 0 0 0 none
+0 0 0 0
+STANDING SITTING female 50000
+0 mage medium ABCDEFGHIJK
+
+#41703
+naep brewer~
+{%N{5ae{%p{x~
+{%N{5ae{%p{x stands here mixing her potions.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABR 0 H -1000 0
+200 0 0 10 10 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#41704
+shopkeeper armour~
+{8Z{&hau{8h{x~
+{8Z{&hau{8h{x stands here pounding out new armour.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABST CDEFG H -1000 0
+200 0 0 10 10 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING male 500000
+0 mage medium ABCDEFGHIJK
+
+#41705
+Cersh~
+{#C{3ers{#h{x~
+{#C{3ers{#h{x stands here guarding the entrance.
+~
+~
+dragon~
+100 50 50 150 100 100 50 100 0 100 100 100 100 100 0 100 100 150 100 100 100 100 100 100 100 100 
+ABRST CDEFGJT 0 -1000 0
+200 350 0 60000 60000 10000 10000 50 20 200 charge
+-610 -610 -610 -810
+STANDING STANDING male 5000000
+0 mage giant ACDEFGHIJKPQUVX
+M GREET 41701 100~
+M SPEECH 41702 yes~
+
+#41706
+Phayh~
+{@P{2hay{@h{x~
+{@P{2hay{@h{x stands here guarding the entrance.
+~
+~
+dragon~
+100 50 50 150 100 100 50 100 0 100 100 100 100 100 0 100 100 150 100 100 100 100 100 100 100 100 
+ABRST CDEFGJT NO -1000 0
+200 350 0 60000 60000 10000 10000 50 20 200 magic
+-610 -610 -610 -810
+STANDING STANDING neutral 5000000
+0 mage giant ACDEFGHIJKPQUVX
+M SPEECH 41703 yes~
+
+#41707
+{^O{6delto{^r{x~
+{^O{6delto{^r{x~
+{^O{6delto{^r{x peddles his wares.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGLQR 0 0 -1000 0
+102 0 0 100 100 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#41708
+archmage thief~
+An Archmage Thief~
+An Archmage is here looking around with shifty eyes.
+~
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 50 100 100 100 100 150 100 100 50 100 100 100 100 100 
+ARS CDEFGJT H -1000 0
+198 129 0 75000 75000 10000 10000 60 3 175 flbite
+-750 -750 -750 -750
+STANDING STANDING neutral 0
+0 mage medium ACDEFGHIJKPQUVX
+M GRALL 41712 100~
+M DELAY 41705 100~
+M BRIBE 41704 15000000~
+
+#41709
+zhauh~
+{8Z{&hau{8h{x~
+{x
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABST CDEFG 0 -1000 0
+200 0 0 10 10 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING male 500000
+0 mage medium ABCDEFGHIJK
+M GRALL 41706 45~
+M BRIBE 41707 50000000~
+
+#41710
+Grand Archmage~
+the {!G{1rand {!A{1rchmage{x~
+Here stands the Great and Powerfull Archmage
+~
+~
+human~
+100 100 0 100 0 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABRTV FJc 0 0 0
+160 1000 0 22595 27378 0 0 20 20 200 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage large ABCDEFGHIJK
+M DEATH 41710 100~
+
+#41711
+the portal guard~
+a portal guard~
+A large sinister looking man in a dark robe
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+Aa 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+RESTING RESTING neutral 0
+0 mage medium ABCDEFGHIJK
+M GIVE 41711 41728~
+#0
+
+#OBJECTS
+#41700
+Archmage village portal~
+a mysterious glittering portal~
+A mysterious glittering portal is sitting here hovering above the ground.~
+portal BGX 0
+0 0 A 41700 0
+0 0 0
+
+#41701
+magical portal~
+a magical portal~
+A portal with an ancient symbol underneith it floats here.~
+portal GX 0
+0 0 ABE 0 0
+0 0 0
+
+#41702
+magical platform~
+a magical platform~
+A stone carved platform with a engraved symbol is here.~
+portal GX 0
+0 0 B 3014 0
+0 0 0
+
+#41703
+white light~
+a white light~
+A blinding white light hovers here.~
+portal AGX 0
+0 0 ABE 0 0
+0 0 0
+
+#41704
+sign~
+a sign~
+A sign has been stabbed into the ground here.~
+trash X 0
+0 0 0 0 0
+0 0 0
+
+#41705
+spear demonic mage~
+spear of the {!D{1em{!o{1nic {!M{1a{!g{1e{x~
+Here lies an oddly glowing spear.~
+weapon ABJLX AN
+exotic 21 9 none F
+101 0 15000000
+A 18 10
+A 19 15
+
+#41706
+sword wonder~
+sword of {^W{6o{$n{^d{6e{$r{x~
+Here lies a very long sharp sword.~
+weapon ABX AN
+sword 10 20 slash EF
+101 0 11000000
+A 18 -10
+A 19 17
+A 18 10
+A 18 10
+
+#41707
+RANDOM CARD~
+a {!R{@a{#n{#d{@o{!m {$C{%a{%r{$d{x~
+A rather peculiar card lies here in the dirt.~
+treasure X AO
+0 0 0 0 0
+0 0 0
+A 13 50
+
+#41708
+dagger mystical fury~
+{&D{8a{&g{8g{&e{8r {*of {^M{6y{^s{6t{^i{6c{^a{6l {!F{1u{!r{1y{x~
+A dagger with a mystical aura is here.~
+weapon GX AN
+dagger 9 22 none C
+101 0 12500000
+A 19 13
+A 17 15
+A 18 10
+
+#41709
+axe illusions~
+{*A{7x{*e of {*I{7l{*l{7u{*s{7i{*o{7n{*s{x~
+A very odd looking axe lies here.~
+weapon BX AN
+axe 21 9 none 0
+101 0 10000000
+A 13 150
+A 14 -200
+A 12 -200
+A 19 15
+
+#41710
+staff chosen one~
+{3Staff {*of the {$C{4hose{$n {2O{@n{2e{x~
+A slender staff has been dropped here.~
+weapon ABGX AN
+exotic 30 6 thwack FG
+101 0 12000000
+A 14 -300
+A 12 -300
+A 28 20
+
+#41711
+whip unnamed~
+{!W{1hip {* of the {!U{1nnamed{x~
+A long vicious whip has been left here.~
+weapon X AN
+whip 5 40 drain C
+101 0 11000000
+A 18 20
+A 19 -20
+A 1 -3
+A 2 2
+
+#41712
+mystic blue vial~
+a {5M{%y{5s{%t{5i{%c {$B{4l{$u{4e{x vial~
+A strange vial sits here collecting dust.~
+potion X AO
+145 'armor' 'stone skin' '' 'shield'
+101 0 240000
+
+#41713
+vile green potion~
+a {*V{&i{*l{&e {@G{2r{2e{@e{2n{x potion~
+A green potion lies here collecting dust~
+potion ABXY AO
+145 'cure disease' 'cure poison' 'cure blindness' 'plague'
+101 0 240000
+
+#41714
+gleaming white flask~
+a {#G{3l{#e{3a{#m{3i{#n{3g {7White{x flask~
+A beautiful {7white{x potion has been left here.~
+potion GX AO
+110 'frenzy' 'giant strength' 'haste' 'heal'
+101 1 240000
+
+#41715
+key~
+key~
+Key~
+key X A
+0 0 0 0 0
+0 0 0
+
+#41716
+glittering vial~
+a {4G{$l{4i{$t{4t{$e{4r{$i{4n{$g {^F{6l{^a{6s{^k{x~
+A glittering vial radiating magic has been left here.~
+potion GX AO
+150 '' 'curse' 'poison' 'plague'
+0 0 20000000
+
+#41717
+black anklet~
+a {*black anklet{x~
+A dark anklet has been lost here.~
+jewelry EJLX AT
+0 0 0 0 0
+101 1 7500000
+A 19 20
+A 18 10
+A 13 50
+A 17 25
+
+#41718
+white anklet~
+a {Wwhite anklet{x~
+A beautiful anklet has been left carelessly here.~
+jewelry IKLX AU
+0 0 0 0 0
+101 1 7500000
+A 19 -25
+A 13 100
+A 17 -50
+
+#41719
+demonic ring~
+a {*d{!e{*m{!o{*n{!i{*c {*r{!i{*n{!g{x~
+There is a ring radiating an ancient evil here.~
+jewelry EJLX AB
+0 0 0 0 0
+101 2 5000000
+A 13 -250
+A 18 -20
+A 19 30
+A 14 -100
+
+#41720
+angelic ring~
+an {&a{0n{&g{0e{&l{0i{&c {0r{&i{0n{&g{x~
+A ring sits in the dirt humming softly.~
+jewelry BKLX AB
+0 0 0 0 0
+101 1 5000000
+A 13 150
+A 19 -15
+A 20 -5
+A 17 -20
+
+#41721
+emerald stud~
+{GA{gn {GEm{ger{Ga{gld {GSt{gu{Gd{x~
+A beautiful emerald earring set in gold lies here.~
+jewelry BX AS
+0 0 0 0 0
+101 1 6000000
+A 20 -2
+A 13 50
+A 19 10
+A 18 10
+
+#41722
+pack forgotten~
+{@P{2ac{@k{x of the {@F{2orgotte{@n{x~
+A pack of long ago sits here forgotten.~
+container GX AX
+750 A 0 500 25
+101 0 20000000
+A 9 20
+A 4 -5
+
+#41723
+souls damned~
+{!S{1oul{!s{8 of the {!D{1amne{!d{x~
+An orb is hovering here with the pain of the condemned.~
+armor FJLX AQ
+5 5 5 0 0
+101 0 20000000
+A 26 15
+F S 0 0 O
+
+#41724
+belt fallen~
+{^B{6el{^t {8of the {^F{6alle{^n{x~
+A well crafted belt lies crumpled here.~
+armor AX AL
+50 50 50 50 0
+101 0 20000000
+A 20 10
+A 12 -250
+A 19 -50
+A 18 -50
+A 14 -250
+A 13 -500
+
+#41725
+protection angels~
+{&P{7rotectio{&n {*of the {&A{7ngel{&s{x~
+A ball with the voices of angels floats here.~
+armor IKLX AQ
+13 13 13 15 0
+101 0 20000000
+F S 0 0 N
+A 13 150
+
+#41726
+crimson armguards~
+{!C{1rimso{!n {!A{1rmguard{!s{x~
+A pair of blood red armguards lie here.~
+armor X AI
+24 24 24 21 0
+101 0 20000000
+A 20 10
+A 18 10
+A 19 15
+
+#41727
+steel spiked boots~
+{*S{&tee{*l {*S{&pike{*d {*B{&oot{*s{x~
+A rather wicked pair of boots are sitting here in the dirt.~
+armor X AG
+23 23 23 21 0
+101 3 20000000
+A 2 -3
+A 19 20
+A 13 -250
+
+#41728
+archmage head~
+the head of the archmage~
+Here lies the head of the great archmage~
+trash X AO
+0 0 0 0 0
+0 0 0
+#0
+
+#ROOMS
+#41700
+Outside the Village~
+The 15-foot fence lines the village outskirts with sharpened tips to
+prevent unauthorized entry.  There are two clothed men looming just ahead
+awaiting adventurers.  There are multiple portals leading to destinations
+unknown ...  
+~
+9216 0
+D0
+~
+~
+0 0 41701
+E
+sign~
+Take anyone of the three portals you choose.  They all lead off out of
+the village.  We are not responsible for any ill becomings due to your
+decision of which portal to take.  Visit us again sometime.  
+~
+S
+
+#41701
+Village Entrance~
+Two clothed men are guarding the massive gate to the village.  The gate
+looks like a normal gate only about three times the normal height.  The gate
+radiates a strong magical entity.  The two men are on the sides of the gate
+and are looking at straight forward.  There is a sign magically hovering to
+the right.  
+~
+8192 0
+D0
+~
+~
+ABCG 41715 41702
+D2
+~
+~
+0 0 41700
+E
+sign~
+Welcome to the Archmage Village.
+~
+S
+
+#41702
+South Village Perimeter~
+The main gate is to the south.  The dirt road continues east and west
+following the fence line.  
+~
+4 0
+D1
+~
+~
+0 0 41703
+D2
+~
+~
+ABCG 0 41701
+D3
+~
+~
+0 0 41715
+S
+
+#41703
+SouthEast Village Perimeter~
+The fence east and west and maintains its 15 foot high stature.  The
+ground is dirt with magic imbued into it making it shimmer.  There is a shop
+to the north.
+~
+9216 0
+D0
+~
+~
+0 0 41717
+D1
+~
+~
+0 0 41704
+D3
+~
+~
+0 0 41702
+S
+
+#41704
+SouthEast Village Perimeter~
+The road continues west and north along the fence line.  There is a
+magical force far greater then the main gate emminating from the fence line
+here.
+~
+9216 0
+D0
+~
+~
+0 0 41705
+D3
+~
+~
+0 0 41703
+S
+
+#41705
+SouthEast Village Perimeter~
+The road continues north and south along the fence line.  There is a
+magical force far greater then the main gate emminating from the fence line
+here.
+~
+9216 0
+D0
+~
+~
+0 0 41706
+D2
+~
+~
+0 0 41704
+S
+
+#41706
+NorthEast Village Perimeter~
+The road continues north and south along the fence line.  There is a
+magical force far greater then the main gate emminating from the fence line
+here.
+~
+9216 0
+D0
+~
+~
+0 0 41707
+D2
+~
+~
+0 0 41705
+S
+
+#41707
+NorthEast Village Perimeter~
+The road continues west and south along the fence line.  There is a
+magical force far greater then the main gate emminating from the fence line
+here.
+~
+9216 0
+D2
+~
+~
+0 0 41706
+D3
+~
+~
+0 0 41708
+S
+
+#41708
+NorthEast Village Perimeter~
+The fence east and west and maintains its 15 foot high stature.  The
+ground is dirt with magic imbued into it making it shimmer.  There is a shop
+to the south.
+~
+9216 0
+D1
+~
+~
+0 0 41707
+D2
+~
+~
+0 0 41718
+D3
+~
+~
+0 0 41709
+S
+
+#41709
+North Village Perimeter~
+The fence east and west and maintains its 15 foot high stature.  The
+ground is dirt with magic imbued into it making it shimmer.  There is a shop
+to the south.
+~
+9216 0
+D1
+~
+~
+0 0 41708
+D2
+~
+~
+0 0 41719
+D3
+~
+~
+0 0 41710
+S
+
+#41710
+NorthWest Village Perimeter~
+The fence east and west and maintains its 15 foot high stature.  The
+ground is dirt with magic imbued into it making it shimmer.  There is a shop
+to the south.  
+~
+9216 0
+D1
+~
+~
+0 0 41709
+D2
+~
+~
+0 0 41720
+D3
+~
+~
+0 0 41711
+S
+
+#41711
+NorthWest Village Perimeter~
+The road continues south and east along the fence line.  There is a
+magical force far greater then the main gate emminating from the fence line
+here.
+~
+0 0
+D1
+~
+~
+0 0 41710
+D2
+~
+~
+0 0 41712
+S
+
+#41712
+NorthWest Village Perimeter~
+The road continues south and north along the fence line.  There is a
+magical force far greater then the main gate emminating from the fence line
+here.
+~
+0 0
+D0
+~
+~
+0 0 41711
+D2
+~
+~
+0 0 41713
+S
+
+#41713
+SouthWest Village Perimeter~
+The road continues south and north along the fence line.  There is a
+magical force far greater then the main gate emminating from the fence line
+here.
+~
+0 0
+D0
+~
+~
+0 0 41712
+D2
+~
+~
+0 0 41714
+S
+
+#41714
+SouthWest Village Perimeter~
+The road continues east and north along the fence line.  There is a
+magical force far greater then the main gate emminating from the fence line
+here.
+~
+0 0
+D0
+~
+~
+0 0 41713
+D1
+~
+~
+0 0 41715
+S
+
+#41715
+South Village Perimeter~
+The fence east and west and maintains its 15 foot high stature.  The
+ground is dirt with magic imbued into it making it shimmer.  There is a shop
+to the north.
+~
+0 0
+D0
+~
+~
+0 0 41716
+D1
+~
+~
+0 0 41702
+D3
+~
+~
+0 0 41714
+S
+
+#41716
+Zhauh's Armor Shop~
+The shop is grand with dozens of platemail's hanging from the walls. 
+There is a short stout man hammering out a new peice of platemail in the
+corner.  The shop itself is very impressive as the man hangs a finished
+product on a hook.  
+~
+9220 0
+D2
+~
+~
+0 0 41715
+S
+
+#41717
+Rhayht's Shop of Luck~
+Rhayht sits behind the counter polishing her Exceptional King's platemail
+of Delrath before she puts it on the shelf.  The shelves are lined with
+Delrath's, Viktor's, and Fesdors, and is really an impressive and exquisite
+collection.  The shop is filled with all sorts of things of every shape and
+size.  
+~
+9220 0
+D2
+~
+~
+0 0 41703
+S
+
+#41718
+Tzoa's Forge~
+Unrelenting heat blasts forth from the giant firepit in the center of
+the room.  Across the room is a rather large man hammering away on a new
+sword.  On the left the wall is covered in finely crafted swords and axes. 
+On the right is daggers, maces, and several other weapons.  
+~
+9220 0
+D0
+~
+~
+0 0 41708
+S
+
+#41719
+Leur's Jewelery Shop~
+Magnificently made peices of jewelery line the walls.  Each peice hand
+made by Xyaadd herself, with countless hours of time.  Each peice looks
+exactly the same and is seemingly perfect.  There are many anklets and wrist
+bands lining the shelves.  Behind the counter is a elegant half-elven woman
+crafting something new.  
+~
+9220 0
+D0
+~
+~
+0 0 41709
+S
+
+#41720
+Naep's Brewery~
+Many aroma's loom in the shop ranging from elegent to extremly pungant. 
+There is a wall lined with numerous bottles and vials.  There is a small
+lady behind the counter putting various things into a small bottle.  
+~
+9220 0
+D0
+~
+~
+0 0 41710
+S
+#0
+
+#RESETS
+D 100 41701 0 2
+D 100 41702 2 2
+M 100 41705 1 41701 1
+M 100 41706 1 41701 1
+G 100 41715 0
+M 100 41704 1 41716 1
+G 100 41723 0
+G 100 41725 0
+G 100 41726 0
+G 100 41727 0
+M 100 41709 1 41716 1
+M 100 41700 1 41717 1
+M 100 41701 1 41718 1
+G 100 41706 0
+G 100 41705 0
+G 100 41708 0
+G 100 41709 0
+G 100 41710 0
+G 100 41711 0
+M 100 41702 1 41719 1
+G 100 41717 0
+G 100 41718 0
+G 100 41719 0
+G 100 41720 0
+G 100 41721 0
+M 100 41703 1 41720 1
+G 100 41712 0
+G 100 41713 0
+G 100 41714 0
+G 100 41716 0
+S
+
+#SHOPS
+41701 0 0 0 0 0 100 100 0 23
+41702 0 0 0 0 0 100 100 0 23
+41703 0 0 0 0 0 100 100 0 23
+41704 0 0 0 0 0 100 100 0 23
+41707 0 0 0 0 0 100 100 0 23
+41708 0 0 0 0 0 100 100 0 23
+0
+
+#MOBPROGS
+#41700
+Unknown~
+Unknown~
+mob echo {CR{cayh{Ct{x looks around the shop and selects a random item . . .
+mob oload randobj
+remove all
+give 1. $n
+say Enjoy!
+mob junk 41707
+~
+
+#41701
+Unknown~
+Unknown~
+say I suppose you want into the village don't you?
+~
+
+#41702
+Unknown~
+Unknown~
+mob echo {#C{3ers{#h{x nods.
+say Very well then. I will allow you inside.
+say However your pets, if any will stay outside the village, and you will not fight within our village.
+say With entrance into our village you accept these terms.
+say Go in peace, $n.
+bow $n
+~
+
+#41703
+Unknown~
+Unknown~
+unlock north
+open north
+~
+
+#41704
+Unknown~
+Unknown~
+say Wait here for a minute . . . don't go anywhere
+mob remember $n
+mob delay 1
+~
+
+#41705
+Unknown~
+Unknown~
+if hastarget $i
+mob echo The archmage thief digs in his pocket and pulls out a card.
+say You didn't get this from me . . . give this to Rhayht in exchange for something.
+mob oload 41707
+give card $q
+mob forget $q
+mob junk card
+else
+peer
+endif
+~
+
+#41706
+Unknown~
+Unknown~
+tip $n
+say Welcome to my shop
+say I have obtained a special item, a very rare and ancient backpack.
+say It can be yours if you give me 5000 platinum . . .
+smile
+~
+
+#41707
+Unknown~
+Unknown~
+mob oload 41722
+give pack $n
+say thank you for your business, enjoy your purchase
+~
+
+#41710
+Unknown~
+Unknown~
+mob oload 41728
+mob echo The Archmage crumples to the ground as his head slides off his shoulders.
+~
+
+#41711
+Unknown~
+Unknown~
+mob echo The portal guard mutters strange words, as a dark portal rises from the earth.
+say You have been deemed worthy to enter our village . . .
+mob oload 41700
+~
+
+#41712
+Unknown~
+Unknown~
+say Hey $n, for 1500 platinum. I'll give you something special.
+say What do ya say?
+~
+#0
+
+#$

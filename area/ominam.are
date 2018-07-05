@@ -1,0 +1,1796 @@
+#AREADATA
+Name Sunken Hills~
+Builders Unlinked~
+VNUMs 42400 42499
+Continent 3
+Credits (null)~
+Security 8
+Flags 0
+End
+
+#MOBILES
+#42401
+A Jimah Old Woman Hag~
+An A-Jimah~
+An A-Jimah is here, Working her Garden.
+~
+A middle aged woman, scary beyond all reason. Showing mild stages of 
+"A-Jimosis".  Hair is starting to curl, and upper torso is starting to
+bend.  Also very easily aggitated, severely vicious. Beware!
+~
+human~
+AG J 0 0 0
+110 0 1d1+8000 40d9+100 20d10+10 beating
+10 10 10 10
+IU AB LQ 0
+stand stand female 25000
+AHMV ABCDEFGHIJK medium unknown
+#42402
+A Jashi Old Man ~
+An A-Jashi~
+An A-Jashi is here, hazed over, yelling at you.
+~
+Counter-part to the A-Jimah, but nearly harmless. Drunk nearly 95% of the
+time. Given to shoving and staring at young A-Gashis.  Reaks like none other
+save only the Haraboji.
+~
+human~
+AG J 0 0 0
+110 0 1d1+7500 40d9+100 20d10+10 thwack
+10 10 10 10
+IU AB LQ 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#42403
+Harmoni granny grandmother~
+Harmoni~
+A Harmoni is here, gutting a dog.
+~
+The final stages of "A Jimosis" their hair now forms a varible net of curls,
+and the torso is hunched over at ninety degree angle parallel to the ground.
+Is given to randomly yell "OH Yeapoh!" and will attack if given a reason.
+~
+human~
+AG J 0 0 0
+115 0 1d1+8500 40d9+100 20d10+10 beating
+10 10 10 10
+IU AB LQ 0
+stand stand female 25000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 42401 100~
+#42404
+haraboji grandpa very old man~
+Haraboji~
+A Drunken Haraboji is here, snapping orders.
+~
+A fully ages Haraboji has all the traits of a normal A Jashi but with twice
+the smell and moves at a pace of two feet per month.
+~
+human~
+AG J 0 0 0
+115 0 1d1+8500 40d9+100 20d10+10 beating
+10 10 10 10
+IU AB LQ 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#42405
+A Gashi young girl~
+An A-Gashi~
+An A-Gashi is here, staring wantingly at you.
+~
+~
+human~
+AG J 0 0 0
+110 0 1d1+7500 40d9+100 20d10+10 thwack
+10 10 10 10
+IU AB LQ 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#42406
+Sunseng Nim teacher~
+Sunseng Nim~
+A Sunseng Nim is here, barking orders.
+~
+~
+dwarf~
+AGS DEFJP 0 0 0
+130 0 1d1+12000 40d9+100 6d25+40 none
+10 10 10 10
+BI AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#42407
+Hakseng student kid~
+a Hakseng~
+A Hakseng is busily studying
+~
+~
+human~
+AG J CDEH 0 0
+110 0 1d1+7500 40d9+100 20d10+10 thwack
+10 10 10 10
+IU AB LQ 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#42408
+Gunin soldier~
+A Gunin~
+A Gunin is on patrol.
+~
+~
+dwarf~
+AG J 0 0 0
+120 0 1d1+8000 40d9+100 10d20+5 none
+10 10 10 10
+CFKQU AB LQ 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#42409
+Moksa Nim~
+Moksa Nim~
+A Moksa Nim is preaching to his flock.
+~
+~
+human~
+AB J 0 0 0
+120 0 1d1+8000 40d9+100 50d10+40 slap
+10 10 10 10
+I AB LQ 0
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+#42413
+Chingu~
+Chingu~
+Chingu is playing around.
+~
+~
+human~
+AG J 0 0 0
+110 0 1d1+7500 40d9+100 20d10+10 thwack
+10 10 10 10
+IU AB LQ 0
+stand stand female 25000
+AHMV ABCDEFGHIJK medium unknown
+#42420
+Eidur~
+Eidur~
+An Eidur is looking for his mother
+~
+~
+human~
+A J 0 0 0
+110 0 1d1+7500 40d9+100 20d10+10 thwack
+10 10 10 10
+IU AB LQ 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#42431
+Greeter~
+A Professional Greeter~
+A Professional Greeter stands at the door.
+~
+~
+human~
+ABG V 0 -1000 0
+155 270 1d1+10000 5d5+5 60d15+50 fury
+-60 -60 -60 -35
+DEFGHI AK BCQ N
+stand stand none 50000
+0 ABCK medium unknown
+F for AHMV
+F par DEFGHIJ
+M GREET 42431 100~
+#42432
+Bang baker~
+Bang~
+Bang is here rolling her dough
+~
+A fat, nice looking baker. But you can see that he has many scars on his
+body.
+~
+human~
+ABV 0 0 900 0
+46 300 1d1+19999 1d1+99 30d30+200 beating
+-15 -15 -15 -15
+CDF ABCD 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#42433
+Min~
+Min~
+Min is watching you carefully.
+~
+A fairly attractive woman, in the prime of her years.
+The only trace of age is in her tightly bound bun of hair.
+~
+human~
+ABV 0 0 0 0
+46 300 1d1+19999 1d1+99 30d30+200 beating
+-15 -15 -15 -15
+CDF ABCD 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#42434
+Jang dog rancher~
+Jang~
+Jang, the Dog Rancher is tending to his flock.
+~
+~
+human~
+ABV 0 0 0 0
+46 300 1d1+19999 1d1+99 30d30+200 beating
+-15 -15 -15 -15
+CDF ABCD 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#42435
+Yun Suk shopkeeper~
+Yun Suk~
+Yun Suk, is hastily re-stacking the shelves.
+~
+The Manager of E-mart. Elderly in years but sharp as ever.
+All that time has done to the body has paid it back in the mind.
+~
+dwarf~
+ABV DFJ 0 -1000 0
+110 0 70d10+35490 50d9+100 70d10+50 none
+40 40 40 40
+BCFHIK ABCDEG KLMNQ R
+stand stand male 20000000
+AHMV ABCDEFGHIJK medium unknown
+#42436
+Taeou~
+Taeou~
+Taeou is here, training his students
+~
+All you see is flashing steel and a mencacing grimice as he trains his
+students in the way of the sword.  
+~
+human~
+ABT JTV 0 -600 0
+130 290 1d1+59999 23d9+100 5d6+40 slash
+-75 -75 -75 -75
+CEFNU D D C
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#42438
+Gaegu Jangi punk~
+a Gaegu Jangi~
+A Gaegu Jengi is drooling over girls
+~
+A young boy that always gets into trouble
+and it notorious about being a Peeping-Tom.
+~
+human~
+A J 0 0 0
+110 0 1d1+7500 40d9+100 20d10+10 thwack
+10 10 10 10
+IU AB LQ 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+#42439
+Sunkiobujang-Nim~
+{CSunkiobujang-Nim{x~
+One of the Pagan rulers Sunkiobujang-Nim is giving quests
+~
+~
+human~
+ABGLUV CDEFGJZc 0 0 0
+101 0 1d1+29999 1d1+29999 1d1+1 divine
+-200 -200 -200 -200
+FK ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#42400
+sunken pass~
+a Sunken Pass~
+{x~
+path~
+portal R 0
+0 KL A ACDGHIKNP 0
+0 0 0 P
+E
+pass~
+pass
+~
+#42435
+key iron~
+a key~
+An iron key has been left here.~
+iron~
+key 0 A
+0 0 0 0 0
+0 10 0 G
+E
+key iron~
+The iron key is not special.
+~
+#42497
+Pulsajo armor~
+{RP{Yu{rl{ys{ra{Yj{Ro {CA{cr{Dm{co{Cr{x~
+Phoenix Armor~
+unknown~
+armor G AV
+CFG CFG CFG CFG 0
+106 0 0 P
+A
+18 250
+A
+19 250
+A
+17 -180
+A
+20 -50
+#42498
+Pulsajo armor~
+{RP{Yu{rl{ys{ra{Yj{Ro {CA{cr{Dm{co{Cr{x~
+Phoenix Armor~
+unknown~
+armor G AV
+CFG CFG CFG CFG 0
+106 0 0 P
+A
+20 -666
+A
+17 -666
+A
+17 -666
+#42499
+beat stick~
+{RB{rE{RA{rT {wS{WT{CI{WC{wK{X~
+Item motified, its average was too high.~
+unknown~
+weapon G AN
+axe 0 0 beating ABCDEFH
+105 0 0 P
+A
+20 -666
+A
+17 -666
+A
+17 -666
+A
+18 666
+A
+19 666
+F
+I 0 0 D
+F
+I 0 0 C
+#0
+
+
+
+#ROOMS
+#42400
+Tunnel Entrance~
+Ok this is Ominam for the Stheno and Callin and Fesdor
+Sorry about the down time, basically work is busy and fun
+but I'm getting on it when i have the time.  Thank you for 
+All the work that you put forth to this mud. 
+ 
+You guys are what make this place great.
+ 
+Ominam
+~
+0 0 4
+D5
+~
+~
+1 0 42401
+S
+#42401
+Tunnel~
+~
+0 0 0
+D2
+~
+~
+0 0 42402
+D4
+~
+~
+1 0 42400
+S
+#42402
+Tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 42401
+D2
+~
+~
+0 0 42403
+S
+#42403
+Before the City~
+~
+0 0 0
+D0
+~
+~
+0 0 42402
+D1
+~
+~
+0 0 42404
+D2
+~
+~
+0 0 42406
+S
+#42404
+Lotte Mart~
+~
+0 260 0
+D3
+~
+~
+0 0 42403
+D4
+~
+~
+0 0 42405
+S
+#42405
+Bakery~
+~
+0 4 0
+D0
+~
+~
+0 0 42499
+D5
+~
+~
+0 0 42404
+S
+#42406
+Shi-Jang~
+~
+0 4 0
+D0
+~
+~
+0 0 42403
+D1
+~
+~
+0 0 42413
+D2
+~
+~
+0 0 42415
+D3
+~
+~
+0 0 42408
+D5
+~
+~
+1 0 42407
+S
+#42407
+Min's Yong-Pum~
+~
+0 4 0
+D4
+~
+~
+1 0 42406
+S
+#42408
+Shi-Jang~
+~
+0 4 0
+D1
+~
+~
+0 0 42406
+D2
+~
+~
+0 0 42409
+S
+#42409
+Shi-Jang~
+~
+0 4 0
+D0
+~
+~
+0 0 42408
+D1
+~
+~
+0 0 42415
+D2
+~
+~
+0 0 42411
+D4
+~
+~
+0 0 42410
+S
+#42410
+Chicken and Hof~
+~
+0 4 0
+D5
+~
+~
+0 0 42409
+S
+#42411
+Shi-Jang~
+~
+0 4 0
+D0
+~
+~
+0 0 42409
+D1
+~
+~
+0 0 42416
+D2
+~
+~
+0 0 42412
+S
+#42412
+Shi-Jang~
+~
+0 4 0
+D0
+~
+~
+0 0 42411
+D1
+~
+~
+0 0 42418
+D4
+~
+~
+0 0 42451
+S
+#42413
+Shi-Jang~
+~
+0 4 0
+D2
+~
+~
+0 0 42414
+D3
+~
+~
+0 0 42406
+S
+#42414
+Shi-Jang~
+~
+0 4 0
+D0
+~
+~
+0 0 42413
+D2
+~
+~
+0 0 42417
+D3
+~
+~
+0 0 42415
+S
+#42415
+Shi-Jang~
+~
+0 4 0
+D0
+~
+~
+0 0 42406
+D1
+~
+~
+0 0 42414
+D2
+~
+~
+0 0 42416
+D3
+~
+~
+0 0 42409
+S
+#42416
+Shi-Jang~
+~
+0 4 0
+D0
+~
+~
+0 0 42415
+D1
+~
+~
+0 0 42417
+D2
+~
+~
+0 0 42418
+D3
+~
+~
+0 0 42411
+S
+#42417
+Shi-Jang~
+~
+0 4 0
+D0
+~
+~
+0 0 42414
+D1
+~
+~
+1 0 42420
+D2
+~
+~
+0 0 42419
+D3
+~
+~
+0 0 42416
+S
+#42418
+Shi-Jang~
+~
+0 4 0
+D0
+~
+~
+0 0 42416
+D1
+~
+~
+0 0 42419
+D2
+~
+~
+0 0 42421
+D3
+~
+~
+0 0 42412
+S
+#42419
+Shi-Jang~
+~
+0 4 0
+D0
+~
+~
+0 0 42417
+D3
+~
+~
+0 0 42418
+S
+#42420
+Secret Kiel~
+~
+0 4 0
+D1
+~
+~
+0 0 42472
+D3
+~
+~
+1 0 42417
+S
+#42421
+Kiel~
+~
+0 4 0
+D0
+~
+~
+0 0 42418
+D1
+~
+~
+0 0 42422
+D2
+~
+~
+0 0 42427
+S
+#42422
+Kiel~
+~
+0 4 0
+D1
+~
+~
+0 0 42423
+D3
+~
+~
+0 0 42421
+S
+#42423
+Kiel~
+~
+0 4 0
+D0
+~
+~
+0 0 42425
+D2
+~
+~
+0 0 42426
+D3
+~
+~
+0 0 42422
+D4
+~
+~
+0 0 42424
+S
+#42424
+In The Tree~
+~
+0 4 0
+D5
+~
+~
+0 0 42423
+S
+#42425
+E-Mart~
+~
+0 4 0
+D2
+~
+~
+0 0 42423
+S
+#42426
+Kiel~
+~
+0 4 0
+D0
+~
+~
+0 0 42423
+D1
+~
+~
+0 0 42429
+D2
+~
+~
+0 0 42431
+D3
+~
+~
+0 0 42430
+S
+#42427
+Jang's Dog Farm~
+~
+0 266252 0
+D0
+~
+~
+0 0 42421
+S
+#42428
+Pet Storage~
+~
+0 4 0
+S
+#42429
+Taeou's Undong~
+~
+0 4 0
+D3
+~
+~
+0 0 42426
+S
+#42430
+Jutek~
+~
+0 4 0
+D1
+~
+~
+0 0 42426
+S
+#42431
+Kiel~
+~
+0 4 0
+D0
+~
+~
+0 0 42426
+D1
+~
+~
+0 0 42432
+D2
+~
+~
+0 0 42433
+S
+#42432
+Kagae~
+~
+0 4 0
+D3
+~
+~
+0 0 42431
+S
+#42433
+Kiel~
+~
+0 4 0
+D0
+~
+~
+0 0 42431
+D1
+~
+~
+0 0 42434
+D3
+~
+~
+0 0 42436
+S
+#42434
+Hakio~
+~
+0 4 0
+D3
+~
+~
+0 0 42433
+D5
+~
+~
+0 0 42435
+S
+#42435
+Darkened Kiel~
+~
+0 4 0
+D2
+~
+~
+0 0 42437
+D4
+~
+~
+0 0 42434
+S
+#42436
+Kiohwe~
+~
+0 4 0
+D1
+~
+~
+0 0 42433
+S
+#42437
+Darkened Kiel~
+~
+0 4 0
+D0
+~
+~
+0 0 42435
+D2
+~
+~
+0 0 42438
+D3
+~
+~
+0 0 42442
+S
+#42438
+Darkened Kiel~
+~
+0 4 0
+D0
+~
+~
+0 0 42437
+D1
+~
+~
+0 0 42441
+D2
+~
+~
+0 0 42439
+S
+#42439
+Darkened Kiel~
+~
+0 4 0
+D0
+~
+~
+0 0 42438
+D3
+~
+~
+0 0 42440
+S
+#42440
+Darkened Kiel~
+~
+0 4 0
+D1
+~
+~
+0 0 42439
+D3
+~
+~
+0 0 42443
+S
+#42441
+Darkened Kiel~
+~
+0 4 0
+D3
+~
+~
+0 0 42438
+S
+#42442
+Darkened Kiel~
+~
+0 4 0
+D1
+~
+~
+0 0 42437
+S
+#42443
+Darkened Kiel~
+~
+0 4 0
+D1
+~
+~
+0 0 42440
+D4
+~
+~
+0 0 42444
+S
+#42444
+Darkened Kiel~
+~
+0 4 0
+D0
+~
+~
+0 0 42447
+D2
+~
+~
+0 0 42446
+D5
+~
+~
+0 0 42443
+S
+#42445
+Darkened Kiel~
+~
+0 4 0
+D2
+~
+~
+0 0 42448
+S
+#42446
+Taeyong's Daek~
+~
+0 4 0
+S
+#42447
+Secret Path~
+~
+0 4 0
+S
+#42448
+Dark Forest~
+~
+0 4 0
+D0
+~
+~
+0 0 42445
+D2
+~
+~
+0 0 42450
+S
+#42449
+Dark Forest~
+~
+0 4 0
+D0
+~
+~
+0 0 42448
+S
+#42450
+Dark Forest~
+~
+0 4 0
+D0
+~
+~
+0 0 42448
+S
+#42451
+Samuseo~
+~
+0 4 0
+D1
+~
+~
+0 0 42465
+D2
+~
+~
+0 0 42452
+D4
+~
+~
+0 0 42468
+D5
+~
+~
+0 0 42412
+S
+#42452
+Samuseo~
+~
+0 4 0
+D0
+~
+~
+0 0 42451
+D2
+~
+~
+0 0 42453
+S
+#42453
+Samuseo~
+~
+0 4 0
+D0
+~
+~
+0 0 42452
+D2
+~
+~
+0 0 42454
+S
+#42454
+Samuseo~
+~
+0 4 0
+D0
+~
+~
+0 0 42453
+D2
+~
+~
+0 0 42455
+S
+#42455
+Samuseo~
+~
+0 4 0
+D0
+~
+~
+0 0 42454
+D1
+~
+~
+0 0 42457
+D4
+~
+~
+0 0 42456
+S
+#42456
+Seo Twoer~
+~
+0 4 0
+D5
+~
+~
+0 0 42455
+S
+#42457
+Samuseo~
+~
+0 4 0
+D1
+~
+~
+0 0 42458
+D3
+~
+~
+0 0 42455
+S
+#42458
+Samuseo~
+~
+0 4 0
+D1
+~
+~
+0 0 42459
+D3
+~
+~
+0 0 42457
+S
+#42459
+Samuseo~
+~
+0 4 0
+D0
+~
+~
+0 0 42461
+D3
+~
+~
+0 0 42458
+D4
+~
+~
+0 0 42460
+S
+#42460
+Nam Tower~
+~
+0 4 0
+D5
+~
+~
+0 0 42459
+S
+#42461
+Samuseo~
+~
+0 4 0
+D0
+~
+~
+0 0 42462
+D2
+~
+~
+0 0 42459
+S
+#42462
+Samuseo~
+~
+0 4 0
+D0
+~
+~
+0 0 42463
+D2
+~
+~
+0 0 42461
+S
+#42463
+Samuseo~
+~
+0 4 0
+D0
+~
+~
+0 0 42464
+D2
+~
+~
+0 0 42462
+S
+#42464
+Samuseo~
+~
+0 4 0
+D2
+~
+~
+0 0 42463
+D3
+~
+~
+0 0 42466
+D4
+~
+~
+0 0 42467
+S
+#42465
+Samuseo~
+~
+0 4 0
+D1
+~
+~
+0 0 42466
+D3
+~
+~
+0 0 42451
+S
+#42466
+Samuseo~
+~
+0 4 0
+D0
+~
+~
+0 0 42469
+D1
+~
+~
+0 0 42464
+D3
+~
+~
+0 0 42465
+S
+#42467
+Dong Tower~
+~
+0 4 0
+D5
+~
+~
+0 0 42464
+S
+#42468
+Puk Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 42451
+S
+#42469
+Samushil~
+~
+0 0 0
+D2
+~
+~
+0 0 42466
+D4
+~
+~
+0 0 42470
+S
+#42470
+Samushil~
+~
+0 0 0
+D4
+~
+~
+0 0 42471
+D5
+~
+~
+0 0 42469
+S
+#42471
+Gwally Wang Shil~
+~
+0 0 0
+D5
+~
+~
+0 0 42470
+S
+#42472
+Byurl Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42474
+D2
+~
+~
+0 0 42473
+S
+#42473
+Byurl Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42472
+D1
+~
+~
+0 0 42477
+S
+#42474
+Byurl Bit Village~
+~
+0 4 0
+D1
+~
+~
+0 0 42475
+D2
+~
+~
+0 0 42472
+S
+#42475
+Byurl Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42479
+D1
+~
+~
+0 0 42476
+D3
+~
+~
+0 0 42474
+S
+#42476
+Byurl Bit Village~
+~
+0 4 0
+D1
+~
+~
+0 0 42478
+D3
+~
+~
+0 0 42475
+S
+#42477
+Treasure Room~
+~
+0 4 0
+S
+#42478
+Byurl Bit Village~
+~
+0 4 0
+D1
+~
+~
+0 0 42481
+D2
+~
+~
+0 0 42480
+D3
+~
+~
+0 0 42476
+S
+#42479
+Throne Room~
+~
+0 4 0
+S
+#42480
+Byurl Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42478
+D2
+~
+~
+0 0 42482
+S
+#42481
+Byurl Bit Village~
+~
+0 4 0
+S
+#42482
+Byurl Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42480
+D1
+~
+~
+0 0 42484
+D2
+~
+~
+0 0 42483
+S
+#42483
+Byurl Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42482
+D2
+~
+~
+0 0 42486
+D3
+~
+~
+0 0 42485
+S
+#42484
+Carrefour~
+~
+0 4 0
+D3
+~
+~
+0 0 42482
+S
+#42485
+Byurl Bit Village~
+~
+0 4 0
+D1
+~
+~
+0 0 42483
+S
+#42486
+Byurl Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42483
+D1
+~
+~
+0 0 42487
+S
+#42487
+Byurl Bit Village~
+~
+0 4 0
+D3
+~
+~
+0 0 42486
+D5
+~
+~
+0 0 42488
+S
+#42488
+Haet Bit Village~
+~
+0 4 0
+D1
+~
+~
+0 0 42489
+D2
+~
+~
+0 0 42493
+D4
+~
+~
+0 0 42487
+S
+#42489
+Haet Bit Village~
+~
+0 4 0
+D1
+~
+~
+0 0 42490
+D2
+~
+~
+0 0 42492
+D3
+~
+~
+0 0 42488
+S
+#42490
+Haet Bit Village~
+~
+0 4 0
+D2
+~
+~
+0 0 42491
+D3
+~
+~
+0 0 42489
+S
+#42491
+Haet Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42490
+D2
+~
+~
+0 0 42496
+D3
+~
+~
+0 0 42492
+S
+#42492
+Haet Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42489
+D1
+~
+~
+0 0 42491
+D2
+~
+~
+0 0 42495
+D3
+~
+~
+0 0 42493
+S
+#42493
+Haet Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42488
+D1
+~
+~
+0 0 42492
+D2
+~
+~
+0 0 42494
+S
+#42494
+Haet Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42493
+D1
+~
+~
+0 0 42495
+S
+#42495
+Haet Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42492
+D1
+~
+~
+0 0 42496
+D2
+~
+~
+1 0 42497
+D3
+~
+~
+0 0 42494
+S
+#42496
+Haet Bit Village~
+~
+0 4 0
+D0
+~
+~
+0 0 42491
+D3
+~
+~
+0 0 42495
+S
+#42497
+Haet Bit Village~
+~
+0 4 0
+D0
+~
+~
+1 0 42495
+S
+#42498
+Pukhan Kung~
+~
+0 4 0
+S
+#42499
+Sunkiobujang Jiep~
+Sunkiowhatever was getting quests to her, so I removed her reset.
+Also . . . do we need another questmaster?
+-Fesdor
+~
+0 4 0
+D2
+~
+~
+0 0 42405
+S
+#0
+
+
+
+#SPECIALS
+M 42406 spec_thief Load to: Sunseng Nim
+M 42439 spec_questmaster Load to: {CSunkiobujang-Nim{x
+S
+
+
+
+#RESETS
+D 0 42400 5 1 The down door of Tunnel Entrance is closed
+D 0 42406 5 1 The down door of Shi-Jang is closed
+D 0 42407 4 1 The up door of Min's Yong-Pum is closed
+D 0 42417 1 1 The east door of Shi-Jang is closed
+D 0 42420 3 1 The west door of Secret Kiel is closed
+D 0 42495 2 1 The south door of Haet Bit Village is closed
+D 0 42497 0 1 The north door of Haet Bit Village is closed
+M 0 42402 10 42401 1 *Load An A-Jashi
+M 0 42401 10 42402 1 *Load An A-Jimah
+M 0 42403 10 42403 1 *Load Harmoni
+M 0 42431 2 42404 3 *Load A Professional Greeter
+M 0 42432 1 42405 1 *Load Bang
+M 0 42401 10 42406 1 *Load An A-Jimah
+M 0 42403 10 42407 1 *Load Harmoni
+M 0 42402 10 42408 1 *Load An A-Jashi
+M 0 42403 10 42409 1 *Load Harmoni
+M 0 42401 10 42411 1 *Load An A-Jimah
+M 0 42403 10 42412 1 *Load Harmoni
+M 0 42401 10 42413 1 *Load An A-Jimah
+M 0 42402 10 42414 1 *Load An A-Jashi
+M 0 42402 10 42415 1 *Load An A-Jashi
+M 0 42401 10 42416 1 *Load An A-Jimah
+M 0 42402 10 42418 1 *Load An A-Jashi
+M 0 42401 10 42419 1 *Load An A-Jimah
+M 0 42401 10 42421 1 *Load An A-Jimah
+M 0 42403 10 42422 1 *Load Harmoni
+M 0 42403 10 42423 1 *Load Harmoni
+M 0 42438 5 42424 10 *Load a Gaegu Jangi
+M 0 42438 5 42424 10 *Load a Gaegu Jangi
+M 0 42438 5 42424 10 *Load a Gaegu Jangi
+M 0 42438 5 42424 10 *Load a Gaegu Jangi
+M 0 42438 5 42424 10 *Load a Gaegu Jangi
+M 0 42431 2 42425 3 *Load A Professional Greeter
+M 0 42431 1 42425 1 *Load A Professional Greeter
+M 0 42403 10 42426 1 *Load Harmoni
+M 0 42434 1 42427 1 *Load Jang
+M 0 42402 10 42430 1 *Load An A-Jashi
+M 0 42401 10 42431 1 *Load An A-Jimah
+M 0 42402 10 42432 1 *Load An A-Jashi
+M 0 42403 10 42433 1 *Load Harmoni
+M 0 42401 10 42434 1 *Load An A-Jimah
+M 0 42402 10 42435 1 *Load An A-Jashi
+M 0 42402 10 42441 1 *Load An A-Jashi
+M 0 42402 10 42442 1 *Load An A-Jashi
+M 0 42401 10 42444 1 *Load An A-Jimah
+O 0 42400 0 42444 *A sunken pass loaded to Darkened Kiel
+S
+
+
+
+#SHOPS
+42431 0 0 0 0 0 100 100 0 23
+42432 19 0 0 0 0 125 75 0 23
+42433 1 8 13 15 19 100 100 0 23
+42434 0 0 0 0 0 100 100 0 23
+42435 9 33 5 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#42401
+if isevil $n or isneutral $n
+mob kill $n
+else
+say Ohhhh... Ye-po.
+caress $n
+endif
+~
+#42431
+bow $n
+say Welcome, and how may we serve you today?
+~
+#0
+
+#$

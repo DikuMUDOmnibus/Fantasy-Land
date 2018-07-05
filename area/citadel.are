@@ -1,0 +1,1850 @@
+#AREADATA
+Name The Holy Citadel~
+Builders Unlinked Fesdor~
+VNUMs 50200 50299
+Continent 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#50200
+Templar Defender~
+a Templar~
+A templar stands here defending his faith.
+~
+~
+human~
+AB 0 0 1000 0
+95 0 200d3+2500 1d1+100 5d6+20 slash
+-20 -20 -20 -20
+CI 0 N 0
+stand stand male 9000
+HMV ABCDEFGHIJK medium unknown
+F for A
+#50201
+rat~
+a Rat~
+A dirty rat is here looking for food.
+~
+~
+human~
+A 0 0 0 0
+80 0 20d10+2000 1d1+0 10d2+10 bite
+-30 -30 -30 -25
+FH 0 0 0
+stand stand none 5000
+GV ACFH tiny unknown
+F for AHM
+F par BDEGIJK
+#50202
+man assassin plot~
+the Assassin~
+A man sits here plotting the death of the bishop.
+~
+~
+human~
+ABT V 0 -1000 0
+110 1000 1d1+7999 1d1+0 8d10+300 stab
+-60 -60 -60 -60
+EFHK 0 CD 0
+stand stand none 30000
+HMV ABCDEFGHIJK medium unknown
+F for A
+#50203
+recruit new~
+a New Recruit~
+A recuit is wandering here, unsure of his next task.
+~
+~
+human~
+A 0 0 1000 0
+90 30 10d50+2000 0d0+0 5d4+20 pound
+-20 -20 -20 -20
+I 0 0 0
+stand stand none 9000
+HM ABCDEGHIJK medium unknown
+F for AV
+F par F
+#50204
+officer citadel paladin~
+an Officer of the Citadel~
+An officer of the citadel stands here keeping everything in order.
+~
+~
+human~
+AB 0 0 1000 0
+100 0 100d5+2750 1d1+0 30d2+0 crush
+-20 -20 -20 -20
+CIK 0 N 0
+stand stand none 15000
+HM ABDEFHIJK medium unknown
+F for AV
+F par CG
+#50205
+paladin trainer muscle~
+the Trainer~
+A muscle bound paladin stands here waiting to train you.
+~
+~
+human~
+ABJ 0 0 0 0
+100 0 1d1+10000 1d1+0 20d20+50 crush
+0 0 0 0
+0 0 N 0
+stand stand none 0
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50206
+wimpy recruit~
+a Wimpy Recruit~
+A wimpy recruit is here being whipped into shape.
+~
+~
+human~
+AB 0 0 0 0
+90 0 100d5+2250 1d1+0 4d6+20 slice
+-30 -30 -30 -25
+N 0 0 0
+stand stand none 9000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50207
+practice drill master~
+the Drill Master~
+An experienced paladin here working with the new recruits.
+~
+~
+human~
+ABKb 0 0 0 0
+100 0 1d1+10000 1d1+0 20d20+50 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50208
+practice training dummy~
+a Training Dummy~
+A training dummy is here waiting for a beating.
+~
+~
+human~
+AB V 0 0 0
+500 0 1d1+5999 0d0+0 1d1+0 magic
+0 0 0 0
+HMO ABCDFG P 0
+stand stand none 0
+CJM ABCGH medium unknown
+F for AHV
+F par DEFIJK
+#50209
+paladin squatting~
+the Squatting Paladin~
+A paladin is here squatting over the chamber pot.
+~
+~
+human~
+AB 0 0 1000 0
+95 0 100d5+2250 1d1+0 5d6+30 slash
+-30 -30 -30 -25
+D 0 0 0
+stand stand none 9000
+HM ABCDEFGIJK medium unknown
+F for AV
+F par H
+#50210
+healer priest~
+the Priest of Healing~
+A robed figure stands here attending to the alter.
+~
+~
+human~
+ABa 0 0 1000 0
+150 0 1d1+9999 1d1+999 10d10+10 divine
+0 0 0 0
+0 0 0 0
+stand stand none 0
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50211
+sleeping recruit~
+A Sleepy Recruit~
+A tired recruit is sleeping here
+~
+~
+human~
+A 0 0 1000 0
+90 0 10d50+2000 1d1+0 5d4+20 punch
+-30 -30 -30 -30
+N 0 0 0
+sleep stand none 9000
+HM 0 medium unknown
+F for AV
+F par ABCDEFGHIJK
+#50212
+recruit advanced sparring~
+a Sparring Recruit~
+An advanced recruit is here swinging around a wooden sword.
+~
+~
+human~
+AB V 0 1000 0
+95 200 50d10+2500 1d1+0 5d5+40 punch
+-25 -25 -25 -25
+EH 0 0 0
+stand stand none 9000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50213
+recruit training~
+a Recruit in Training~
+A recruit stands here dreading the next drill.
+~
+~
+human~
+AB 0 0 1000 0
+93 0 10d50+2250 1d1+0 5d5+20 stab
+-20 -20 -20 -20
+I 0 0 0
+stand stand none 9000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50214
+Barington~
+Barington~
+Barington stands here sharpening some knives.
+~
+~
+human~
+AB 0 0 1000 0
+100 0 1d1+9999 1d1+0 10d10+100 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50215
+captain fenadin~
+Captain Fenadin~
+Captain Fenadin sits here polishing his armor.
+~
+~
+human~
+ABT V 0 1000 0
+100 750 1d1+6499 1d1+0 10d8+20 crush
+-65 -65 -65 -65
+DFHIK N 0 0
+stand stand none 20000
+M ABCDEFGHIJK medium unknown
+F for AHV
+#50216
+mitex lieutenant~
+Lieutenant Mitex~
+Lieutenant Mitex is on his way to his daily workout.
+~
+~
+human~
+ABT V 0 1000 0
+100 750 1d1+5999 1d1+0 100d2+200 pierce
+-60 -60 -60 -60
+CFHK 0 N 0
+stand stand none 12000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50217
+quick boy page~
+A page~
+A young boy quickly darts past you.
+~
+~
+human~
+AB 0 0 1000 0
+0 50 10d50+2000 0d0+0 5d4+30 pound
+-25 -25 -25 -25
+FN 0 0 0
+stand stand male 9000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#50218
+General Aelreson~
+General Aelreson~
+General Aelreson is here planning the next move.
+~
+~
+human~
+ABT V N 1000 0
+105 1000 1d1+7999 1d1+0 10d10+300 slash
+-30 -30 -30 -30
+CFHK N BCD 0
+stand stand male 30000
+HM ABCDEFGHIJK medium unknown
+F for AV
+#0
+
+
+
+#OBJECTS
+#50200
+snake fang stiletto~
+the "S{2na{7ke Fa{2n{@g" {8Stiletto{0~
+A modified snake fang is here forming a pool of venom of the floor.~
+unknown~
+weapon CE AN
+dagger 11 12 stab EH
+73 3 20000 P
+A
+18 6
+A
+19 10
+#50201
+head assassin decapitated~
+the {1De{!capi{1tate{!d Hea{1d {0of the {8Assassin{0~
+A bloody head is here rolling on the floor.~
+unknown~
+trash EST AO
+0 0 0 0 0
+1 1 1 P
+#50202
+chamber pot fountain~
+the Chamber Pot~
+A large pot sits here ready to collect ....... stuff.~
+unknown~
+fountain 0 0
+0 0 'slime mold juice' 0 0
+0 0 0 P
+#50203
+Alter healing~
+the Alter of Healing~
+A glowing alter is here waiting for the wounded.~
+unknown~
+furniture A 0
+A DFGHIJ EHK CEFGHI 0
+50 100 0 P
+#50204
+table~
+a Table.~
+A small dirty table sits here begging for cleaning.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#50205
+table grand~
+the Grand Dining Table~
+An Elegant Dining Table stands here surrounded by lavish chairs.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#50206
+table large planning~
+the Planning Table~
+A large table stacked high with maps and diagrams sits in the middle of the room.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#50207
+plush chair~
+a Plush Chair~
+A soft looking plush chair sits against the wall.~
+unknown~
+furniture 0 0
+A CEFGHI E CDFI DGH
+50 0 0 P
+#50208
+bed neat~
+a neat looking bed.~
+A neat looking bed sits here in the corner of the room.~
+unknown~
+furniture 0 0
+B CEFGHI EHK DGH DGH
+40 0 0 P
+#50209
+portal~
+generic portal~
+Generic portal~
+unknown~
+portal 0 0
+A 0 A ABEFGKOP 0
+102 0 0 P
+#50250
+knife small~
+a Small Knife~
+A small knife has been lost here.~
+unknown~
+weapon 0 AN
+dagger 9 10 slice 0
+50 3 8000 P
+A
+18 10
+A
+19 9
+#50251
+blessed broad sword broadsword justice~
+a {3Blessed {8Broadsword {0of {7Justice{0~
+A holy broadsword is here waiting to dispense justice.~
+unknown~
+weapon IK AN
+sword 11 10 cleave E
+65 7 0 P
+A
+19 12
+A
+18 5
+A
+1 1
+#50252
+plate mail platemail light~
+a Light Suit of Platemail~
+A shiny suit of light yet sturdy platemail rests here.~
+unknown~
+armor 0 AD
+CE CE CE CE 0
+60 15 5000 P
+A
+13 25
+#50253
+wooden sword practice~
+a Wooden Practice Sword~
+A wooden sword is here collecting dust.~
+unknown~
+weapon S AN
+sword 1 1 thwack 0
+50 5 0 P
+A
+19 5
+A
+18 50
+#50254
+platemail mail suit gleaming~
+{8A Suit of {3Gleaming {8Platemail{0~
+A suit of very shiny platemail sits in the corner.~
+unknown~
+armor AIK AD
+CE CE CE CE 0
+75 15 0 P
+A
+19 5
+A
+18 5
+#50255
+Blue Halberd Head Splitter~
+the {4Blue Halberd {0known as "{1Head{8Splitter{0"~
+A large blue halberd sits in the corner waiting for a head to split.~
+unknown~
+weapon BG AN
+polearm 20 7 cleave EF
+75 14 10000 P
+A
+19 6
+#50256
+blue cape seal justice~
+{4Blue Cape {3Emblazioned {0with the {3Seal {0of {7Justice{0~
+A cumpled blue cape is collecting dust on the floor.~
+unknown~
+armor 0 AK
+ABCD ABCD ABCD BD 0
+70 4 1000 P
+A
+19 6
+A
+13 50
+#50257
+iron wall tower shield justice~
+the {8Iron Wall {0of {7Justice{0~
+General Aelreson's iron towershield seems to have been misplaced.~
+unknown~
+armor AIK AJ
+ABCD ABCD ABCD ABCD 0
+80 13 10000 P
+A
+17 -15
+#50258
+mace fire burning justice~
+"{!B{1ur{!n{#in{3g J{#us{7ti{&c{7e{0"~
+General Aelreson's firey mace sits here burning a hole through the floor.~
+unknown~
+weapon ABIK AN
+mace 10 15 flame A
+80 12 10000 P
+A
+19 10
+#50259
+stick padded~
+a Padded Beating Stick~
+How the fuck did you get this off the dummy?~
+unknown~
+weapon MSZ AN
+exotic 1 1 pound 0
+1 0 0 P
+A
+19 -30
+#50298
+scroll sonic~
+something~
+Something~
+unknown~
+scroll SY A
+200 'sonic blast' 'sonic blast' 'sonic blast' 'sonic blast'
+105 0 0 P
+#0
+
+
+
+#ROOMS
+#50200
+the Trail~
+The first room!
+~
+0 0 3
+D1
+~
+~
+0 0 50201
+S
+#50201
+Lightly Wooded Trail~
+The second room!
+~
+0 0 0
+D1
+~
+~
+0 0 50203
+D3
+~
+~
+0 0 50200
+S
+#50203
+Bend in the Trail~
+~
+0 0 0
+D0
+~
+~
+0 0 50204
+D3
+~
+~
+0 0 50201
+S
+#50204
+At the Foot of the Mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 50205
+D2
+~
+~
+0 0 50203
+S
+#50205
+Hiking the Mountain Path~
+~
+0 0 0
+D1
+~
+~
+0 0 50206
+D2
+~
+~
+0 0 50204
+S
+#50206
+The Winding Path Up the Mountain~
+~
+0 0 0
+D0
+~
+boulders~
+1 0 50207
+D1
+~
+~
+0 0 50208
+D3
+~
+~
+0 0 50205
+S
+#50207
+Hidden Cave~
+~
+0 0 3
+D2
+~
+~
+1 0 50206
+S
+#50208
+Nearing the Citadel~
+~
+0 0 0
+D0
+~
+~
+0 0 50209
+D3
+~
+~
+0 0 50206
+S
+#50209
+At the Gates~
+~
+0 0 0
+D0
+~
+~
+0 0 50210
+D2
+~
+~
+0 0 50208
+S
+#50210
+Main Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 50211
+D1
+~
+~
+0 0 50247
+D2
+~
+~
+0 0 50209
+D3
+~
+~
+0 0 50248
+S
+#50211
+Northern Courtyard~
+~
+0 0 0
+D0
+~
+~
+0 0 50212
+D2
+~
+~
+0 0 50210
+S
+#50212
+Barracks~
+~
+0 0 0
+D0
+~
+~
+0 0 50215
+D1
+~
+~
+0 0 50213
+D2
+~
+~
+0 0 50211
+D3
+~
+~
+0 0 50214
+S
+#50213
+Guard Post~
+~
+0 0 0
+D3
+~
+~
+0 0 50212
+S
+#50214
+Barracks Office~
+~
+0 0 0
+D1
+~
+~
+0 0 50212
+S
+#50215
+Barracks~
+~
+0 0 0
+D1
+~
+~
+0 0 50216
+D2
+~
+~
+0 0 50212
+D3
+~
+~
+0 0 50217
+S
+#50216
+Hallway to the Training Grounds~
+~
+0 0 0
+D1
+~
+~
+0 0 50218
+D3
+~
+~
+0 0 50215
+S
+#50217
+Hallway to the Private Quarters~
+~
+0 0 0
+D1
+~
+~
+0 0 50215
+D3
+~
+~
+0 0 50223
+S
+#50218
+Hallway to the Training Grounds~
+~
+0 0 0
+D1
+~
+~
+0 0 50219
+D3
+~
+~
+0 0 50216
+S
+#50219
+The Training Grounds~
+~
+0 0 0
+D0
+~
+~
+0 0 50220
+D1
+~
+~
+0 0 50222
+D2
+~
+~
+0 0 50221
+D3
+~
+~
+0 0 50218
+S
+#50220
+The Weight Room~
+~
+0 0 0
+D2
+~
+~
+0 0 50219
+S
+#50221
+Drill Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 50219
+D1
+~
+~
+0 0 50244
+D2
+~
+~
+0 0 50245
+D3
+~
+~
+0 0 50243
+S
+#50222
+The Arsenal~
+~
+0 0 0
+D1
+~
+cabinet~
+3 0 50246
+D3
+~
+~
+0 0 50219
+D5
+~
+~
+0 0 50224
+S
+#50223
+The Private Quarters~
+~
+0 0 0
+D0
+~
+doors~
+1 0 50225
+D1
+~
+~
+0 0 50217
+D2
+~
+doors~
+1 0 50227
+D3
+~
+doors~
+1 0 50226
+D5
+~
+~
+0 0 50228
+S
+#50224
+Storeroom~
+~
+0 0 0
+D4
+~
+~
+0 0 50222
+S
+#50225
+Drill Master's Room~
+~
+0 0 0
+D2
+~
+~
+1 0 50223
+S
+#50226
+Guest Room~
+~
+0 0 0
+D1
+~
+~
+1 0 50223
+S
+#50227
+Captain's Room~
+~
+0 0 0
+D0
+~
+~
+1 0 50223
+S
+#50228
+Lower Sleeping Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 50237
+D1
+~
+~
+0 0 50231
+D2
+~
+~
+0 0 50238
+D3
+~
+~
+0 0 50229
+D4
+~
+~
+0 0 50223
+S
+#50229
+Hallway for the Lower Sleeping Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 50235
+D1
+~
+~
+0 0 50228
+D2
+~
+~
+0 0 50236
+D3
+~
+~
+0 0 50230
+S
+#50230
+Hallway for the Lower Sleeping Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 50233
+D1
+~
+~
+0 0 50229
+D2
+~
+~
+0 0 50234
+S
+#50231
+Hallway for the Lower Sleeping Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 50239
+D1
+~
+~
+0 0 50232
+D2
+~
+~
+0 0 50240
+D3
+~
+~
+0 0 50228
+S
+#50232
+Hallway for the Lower Sleeping Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 50241
+D2
+~
+~
+0 0 50242
+D3
+~
+~
+0 0 50231
+S
+#50233
+Cramped Lower Quarters~
+~
+0 0 0
+D2
+~
+~
+0 0 50230
+S
+#50234
+Cramped Lower Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 50230
+S
+#50235
+Lower Quarters~
+~
+0 0 0
+D2
+~
+~
+0 0 50229
+S
+#50236
+Lower Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 50229
+S
+#50237
+Storeroom~
+~
+0 0 0
+D2
+~
+~
+0 0 50228
+S
+#50238
+The Chamber Pot~
+~
+0 0 0
+D0
+~
+~
+0 0 50228
+S
+#50239
+Lower Quarters~
+~
+0 0 0
+D2
+~
+~
+0 0 50231
+S
+#50240
+Lower Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 50231
+S
+#50241
+Cramped Lower Quarters~
+~
+0 0 0
+D2
+~
+~
+0 0 50232
+S
+#50242
+Cramped Lower Quarters~
+~
+0 0 0
+D0
+~
+~
+0 0 50232
+S
+#50243
+Dummy Room~
+~
+0 0 0
+D1
+~
+~
+0 0 50221
+S
+#50244
+The Alter of Healing~
+~
+0 0 0
+D3
+~
+~
+0 0 50221
+S
+#50245
+Sparring Room~
+~
+0 0 0
+D0
+~
+~
+0 0 50221
+S
+#50246
+Weapons Locker~
+~
+0 0 0
+D3
+~
+~
+3 0 50222
+S
+#50247
+Easter Courtyard~
+~
+0 0 0
+D3
+~
+~
+0 0 50210
+D4
+~
+~
+0 0 50250
+S
+#50248
+Western Courtyard~
+~
+0 0 0
+D1
+~
+~
+0 0 50210
+D4
+~
+~
+0 0 50249
+S
+#50249
+Western Balcony~
+~
+0 0 0
+D1
+~
+~
+0 0 50251
+D3
+~
+doors~
+1 0 50262
+D5
+~
+~
+0 0 50248
+S
+#50250
+Eastern Balcony~
+~
+0 0 0
+D1
+~
+doors~
+1 0 50276
+D3
+~
+~
+0 0 50251
+D5
+~
+~
+0 0 50247
+S
+#50251
+Central Balcony~
+~
+0 0 0
+D0
+~
+~
+0 0 50252
+D1
+~
+~
+0 0 50250
+D3
+~
+~
+0 0 50249
+S
+#50252
+In the Great Cathedral~
+~
+0 0 0
+D0
+~
+~
+0 0 50255
+D1
+~
+~
+0 0 50254
+D2
+~
+~
+0 0 50251
+D3
+~
+~
+0 0 50253
+S
+#50253
+South West Corner of the Great Cathedral~
+~
+0 0 0
+D0
+~
+~
+0 0 50256
+D1
+~
+~
+0 0 50252
+S
+#50254
+South East Corner of the Great Cathedral~
+~
+0 0 0
+D0
+~
+~
+0 0 50257
+D3
+~
+~
+0 0 50252
+S
+#50255
+In the Cathedral~
+~
+0 0 0
+D0
+~
+~
+0 0 50258
+D1
+~
+~
+0 0 50257
+D2
+~
+~
+0 0 50252
+D3
+~
+~
+0 0 50256
+S
+#50256
+Western Side of the Greath Cathedral~
+~
+0 0 0
+D0
+~
+~
+0 0 50259
+D1
+~
+~
+0 0 50255
+D2
+~
+~
+0 0 50253
+S
+#50257
+Eastern Side of the Greath Catherdal~
+~
+0 0 0
+D0
+~
+~
+0 0 50260
+D2
+~
+~
+0 0 50254
+D3
+~
+~
+0 0 50255
+S
+#50258
+Alter of the Great Cathedral~
+~
+0 0 0
+D0
+~
+doors~
+3 0 50261
+D1
+~
+~
+0 0 50260
+D2
+~
+~
+0 0 50255
+D3
+~
+~
+0 0 50259
+S
+#50259
+The North West Corner of the Great Cathedral~
+~
+0 0 0
+D0
+~
+~
+1 0 50284
+D1
+~
+~
+0 0 50258
+D2
+~
+~
+0 0 50256
+S
+#50260
+North East Corner of the Great Cathedral~
+~
+0 0 0
+D2
+~
+~
+0 0 50257
+D3
+~
+~
+0 0 50258
+S
+#50261
+Sanctuary of the Bishop~
+~
+0 0 0
+D2
+~
+~
+3 0 50258
+S
+#50262
+Entrance to the Dining Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 50263
+D1
+~
+~
+1 0 50249
+D2
+~
+~
+0 0 50264
+S
+#50263
+Waiting Room Outside the Grand Dining Hall~
+~
+0 0 0
+D2
+~
+~
+0 0 50262
+D3
+~
+~
+0 0 50268
+S
+#50264
+The Common Room~
+~
+0 0 0
+D0
+~
+~
+0 0 50262
+D2
+~
+~
+0 0 50266
+D3
+~
+~
+0 0 50265
+S
+#50265
+The Common Room~
+~
+0 4 0
+D1
+~
+~
+0 0 50264
+D2
+~
+~
+0 0 50267
+S
+#50266
+The Common Room~
+~
+0 4 0
+D0
+~
+~
+0 0 50264
+D3
+~
+~
+0 0 50267
+S
+#50267
+The Common Room~
+~
+0 4 0
+D0
+~
+~
+0 0 50265
+D1
+~
+~
+0 0 50266
+D5
+~
+doors~
+1 0 50272
+S
+#50268
+The Grand Dining Hall~
+~
+0 4 0
+D1
+~
+~
+0 0 50263
+D3
+~
+doors~
+1 0 50269
+S
+#50269
+Behind the Grand Dining Hall~
+~
+0 4 0
+D1
+~
+~
+1 0 50268
+D5
+~
+~
+0 0 50270
+S
+#50270
+The Kitchen~
+~
+0 4 0
+D2
+~
+~
+0 0 50271
+D4
+~
+~
+0 0 50269
+D5
+~
+doors~
+1 0 50274
+S
+#50271
+The Kitchen~
+~
+0 4 0
+D0
+~
+~
+0 0 50270
+D2
+~
+~
+0 0 50272
+D3
+~
+~
+0 0 50273
+S
+#50272
+Under the Common Room~
+~
+0 4 0
+D0
+~
+~
+0 0 50271
+D3
+~
+~
+0 0 50275
+D4
+~
+~
+1 0 50267
+S
+#50273
+The Bakery~
+~
+0 4 0
+D1
+~
+~
+0 0 50271
+S
+#50274
+The Wine Cellar~
+~
+0 4 0
+D4
+~
+~
+1 0 50270
+S
+#50275
+Storage~
+~
+0 4 0
+D1
+~
+~
+0 0 50272
+S
+#50276
+Entrance to the Tower of Justice~
+~
+0 0 0
+D1
+~
+~
+0 0 50277
+D3
+~
+~
+1 0 50250
+S
+#50277
+Guard Station~
+~
+0 0 0
+D0
+~
+~
+0 0 50278
+D3
+~
+~
+0 0 50276
+S
+#50278
+Spiraling Up the Tower of Justice~
+~
+0 0 0
+D2
+~
+~
+0 0 50277
+D3
+~
+~
+0 0 50279
+S
+#50279
+Spiraling Up the Tower of Justice~
+~
+0 0 0
+D1
+~
+~
+0 0 50278
+D2
+~
+~
+0 0 50280
+S
+#50280
+Spiraling Up the Tower of Justice~
+~
+0 0 0
+D0
+~
+~
+0 0 50279
+D1
+~
+~
+0 0 50281
+S
+#50281
+Spiraling Up the Tower of Justice~
+~
+0 0 0
+D0
+~
+~
+0 0 50282
+D3
+~
+~
+0 0 50280
+S
+#50282
+Planning Room in the Tower of Justice~
+~
+0 0 0
+D2
+~
+~
+0 0 50281
+D4
+~
+~
+0 0 50283
+S
+#50283
+Atop the Tower of Justice~
+~
+0 0 0
+D5
+~
+~
+0 0 50282
+S
+#50284
+A Back Room in the Greath Cathedral~
+~
+0 0 0
+D2
+~
+~
+1 0 50259
+D4
+~
+~
+0 0 50285
+S
+#50285
+Narrow Hallway Behind the Great Cathedral~
+~
+0 0 0
+D1
+~
+~
+0 0 50286
+D5
+~
+~
+0 0 50284
+S
+#50286
+Attic of the Great Cathedral~
+~
+0 0 0
+D1
+~
+~
+0 0 50287
+D2
+~
+~
+0 0 50288
+D3
+~
+~
+0 0 50285
+S
+#50287
+Attic of the Great Cathedral~
+~
+0 0 0
+D2
+~
+~
+0 0 50289
+D3
+~
+~
+0 0 50286
+S
+#50288
+Attic of the Great Cathedral~
+~
+0 0 0
+D0
+~
+~
+0 0 50286
+D1
+~
+~
+0 0 50289
+S
+#50289
+Attic of the Great Cathedral~
+~
+0 0 0
+D0
+~
+~
+0 0 50287
+D3
+~
+~
+0 0 50288
+D4
+~
+~
+0 0 50290
+S
+#50290
+The Bell Tower of the Great Cathedral~
+~
+0 0 0
+D5
+~
+~
+0 0 50289
+S
+#50291
+~
+~
+0 65540 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 50206 0 2 The north door of The Winding Path Up the Mountain is closed and locked
+D 0 50222 1 2 The east door of The Arsenal is closed and locked
+D 0 50223 0 1 The north door of The Private Quarters is closed
+D 0 50223 2 1 The south door of The Private Quarters is closed
+D 0 50223 3 1 The west door of The Private Quarters is closed
+D 0 50225 2 1 The south door of Drill Master's Room is closed
+D 0 50226 1 1 The east door of Guest Room is closed
+D 0 50227 0 1 The north door of Captain's Room is closed
+D 0 50246 3 2 The west door of Weapons Locker is closed and locked
+D 0 50249 3 1 The west door of Western Balcony is closed
+D 0 50250 1 1 The east door of Eastern Balcony is closed
+D 0 50258 0 2 The north door of Alter of the Great Cathedral is closed and locked
+D 0 50259 0 1 The north door of The North West Corner of the Great Cathedral is closed
+D 0 50261 2 1 The south door of Sanctuary of the Bishop is closed
+D 0 50262 1 1 The east door of Entrance to the Dining Hall is closed
+D 0 50267 5 1 The down door of The Common Room is closed
+D 0 50268 3 1 The west door of The Grand Dining Hall is closed
+D 0 50270 5 1 The down door of The Kitchen is closed
+D 0 50272 4 1 The up door of Under the Common Room is closed
+D 0 50274 4 1 The up door of The Wine Cellar is closed
+D 0 50276 3 1 The west door of Entrance to the Tower of Justice is closed
+D 0 50284 2 1 The south door of A Back Room in the Greath Cathedral is closed
+M 0 50202 1 50207 1 *Load the Assassin
+E 0 50200 0 16 *The "s{2na{7ke fa{2n{@g" {8stiletto{0 is loaded wielded of the Assassin
+G 0 50201 0 *The {1de{!capi{1tate{!d hea{1d {0of the {8assassin{0 is given to the Assassin
+M 0 50200 10 50209 2 *Load a Templar
+E 0 50252 0 5 *A light suit of platemail is loaded on the body of a Templar
+M 0 50200 10 50209 2 *Load a Templar
+E 0 50252 0 5 *A light suit of platemail is loaded on the body of a Templar
+M 0 50203 5 50210 1 *Load a New Recruit
+M 0 50200 10 50213 2 *Load a Templar
+E 0 50252 0 5 *A light suit of platemail is loaded on the body of a Templar
+M 0 50200 10 50213 2 *Load a Templar
+E 0 50252 0 5 *A light suit of platemail is loaded on the body of a Templar
+M 0 50204 5 50214 1 *Load an Officer of the Citadel
+E 0 50251 0 16 *A {3blessed {8broadsword {0of {7justice{0 is loaded wielded of an Officer of the Citadel
+E 0 50252 0 5 *A light suit of platemail is loaded on the body of an Officer of the Citadel
+M 0 50216 1 50219 1 *Load Lieutenant Mitex
+E 0 50256 0 12 *{4blue cape {3emblazioned {0with the {3seal {0of {7justice{0 is loaded about the shoulders of Lieutenant Mitex
+M 0 50205 1 50220 1 *Load the Trainer
+M 0 50206 2 50220 2 *Load a Wimpy Recruit
+M 0 50207 1 50221 1 *Load the Drill Master
+M 0 50213 3 50221 3 *Load a Recruit in Training
+M 0 50213 3 50221 3 *Load a Recruit in Training
+M 0 50213 3 50221 3 *Load a Recruit in Training
+M 0 50214 1 50222 1 *Load Barington
+M 0 50201 10 50224 2 *Load a Rat
+O 0 50208 0 50225 *A neat looking bed. loaded to Drill Master's Room
+O 0 50208 0 50226 *A neat looking bed. loaded to Guest Room
+O 0 50208 0 50227 *A neat looking bed. loaded to Captain's Room
+M 0 50215 1 50227 1 *Load Captain Fenadin
+E 0 50254 0 5 *{8a suit of {3gleaming {8platemail{0 is loaded on the body of Captain Fenadin
+E 0 50255 0 16 *The {4blue halberd {0known as "{1head{8splitter{0" is loaded wielded of Captain Fenadin
+M 0 50211 10 50233 1 *Load A Sleepy Recruit
+M 0 50211 10 50234 1 *Load A Sleepy Recruit
+M 0 50211 10 50235 1 *Load A Sleepy Recruit
+M 0 50211 10 50236 1 *Load A Sleepy Recruit
+M 0 50201 10 50237 2 *Load a Rat
+O 0 50202 0 50238 *The chamber pot loaded to The Chamber Pot
+M 0 50209 1 50238 1 *Load the Squatting Paladin
+M 0 50211 10 50239 1 *Load A Sleepy Recruit
+M 0 50211 10 50240 1 *Load A Sleepy Recruit
+M 0 50211 10 50241 1 *Load A Sleepy Recruit
+M 0 50211 10 50242 1 *Load A Sleepy Recruit
+M 0 50208 1 50243 1 *Load a Training Dummy
+E 0 50259 0 16 *A padded beating stick is loaded wielded of a Training Dummy
+M 0 50210 1 50244 1 *Load the Priest of Healing
+O 0 50203 0 50244 *The alter of healing loaded to The Alter of Healing
+M 0 50212 2 50245 2 *Load a Sparring Recruit
+E 0 50253 0 16 *A wooden practice sword is loaded wielded of a Sparring Recruit
+M 0 50212 2 50245 2 *Load a Sparring Recruit
+E 0 50253 0 16 *A wooden practice sword is loaded wielded of a Sparring Recruit
+M 0 50200 10 50251 2 *Load a Templar
+E 0 50252 0 5 *A light suit of platemail is loaded on the body of a Templar
+M 0 50200 10 50251 2 *Load a Templar
+E 0 50252 0 5 *A light suit of platemail is loaded on the body of a Templar
+O 0 50207 0 50263 *A plush chair loaded to Waiting Room Outside the Grand Dining Hall
+O 0 50207 0 50263 *A plush chair loaded to Waiting Room Outside the Grand Dining Hall
+O 0 50207 0 50263 *A plush chair loaded to Waiting Room Outside the Grand Dining Hall
+O 0 50204 0 50264 *A table. loaded to The Common Room
+O 0 50204 0 50265 *A table. loaded to The Common Room
+O 0 50204 0 50266 *A table. loaded to The Common Room
+O 0 50204 0 50267 *A table. loaded to The Common Room
+O 0 50205 0 50268 *The grand dining table loaded to The Grand Dining Hall
+M 0 50203 5 50276 1 *Load a New Recruit
+M 0 50200 10 50277 2 *Load a Templar
+E 0 50252 0 5 *A light suit of platemail is loaded on the body of a Templar
+M 0 50200 10 50277 2 *Load a Templar
+E 0 50252 0 5 *A light suit of platemail is loaded on the body of a Templar
+M 0 50217 1 50279 1 *Load A page
+O 0 50206 0 50282 *The planning table loaded to Planning Room in the Tower of Justice
+M 0 50218 1 50282 1 *Load General Aelreson
+E 0 50258 0 16 *"{!b{1ur{!n{#in{3g j{#us{7ti{&c{7e{0" is loaded wielded of General Aelreson
+E 0 50257 0 11 *The {8iron wall {0of {7justice{0 is loaded as a shield of General Aelreson
+E 0 50252 0 5 *A light suit of platemail is loaded on the body of General Aelreson
+S
+
+
+
+#SHOPS
+50214 0 0 0 0 0 120 80 1 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

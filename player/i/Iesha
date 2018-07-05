@@ -1,0 +1,764 @@
+#PLAYER
+Name Iesha~
+Race pixie~
+Levl 9
+Clas wizard~
+Pkpt 100
+TSex 2
+LogO 1352581140
+Sock c-71-193-141-211.hsd1.or.comcast.net~
+Titl  the enchantress{x~
+
+#STAT_BREAK
+
+Id   1351605612
+Plat 6
+Gold 21
+Silv 5
+Exp  21718
+Attr 12 17 13 15 12
+Desc this tiny pixie seems to shine with an inner light
+An aura of gold, violet and silver shimmers around her translucent,
+opalescent, luminescent wings.
+ 
+She has floor-length silvery hair
+~
+Prom {x<{R%A{x/{r%H{xhp {B%B{x/{b%M{xm {G%Cmv {x<%X{Wxp{x>~
+Act  BCDEFGHJQT
+AfBy ELTVc
+ShBy CH
+Comm NQ
+Config L
+Pos  4
+Alig  1000
+Sk 1 'acid breath'
+Sk 1 'acidshield'
+Sk 1 'angelfire'
+Sk 1 'armor'
+Sk 1 'awen'
+Sk 1 'backdraft'
+Sk 1 'barkskin'
+Sk 1 'blindness'
+Sk 1 'bloodbath'
+Sk 1 'cancellation'
+Sk 1 'cause critical'
+Sk 1 'cause light'
+Sk 1 'cause serious'
+Sk 1 'change sex'
+Sk 1 'channel'
+Sk 1 'conjure'
+Sk 1 'constitution'
+Sk 75 'continual light'
+Sk 1 'create food'
+Sk 1 'create raft'
+Sk 1 'create rose'
+Sk 1 'create spring'
+Sk 75 'create water'
+Sk 1 'cure critical'
+Sk 1 'cure light'
+Sk 1 'cure serious'
+Sk 1 'curse'
+Sk 1 'decrement'
+Sk 1 'demonfire'
+Sk 1 'diminish'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'dispel magic'
+Sk 1 'electrify'
+Sk 1 'empower potion'
+Sk 1 'empower scroll'
+Sk 1 'enchant armor'
+Sk 1 'enchant weapon'
+Sk 1 'energy drain'
+Sk 1 'fire breath'
+Sk 1 'fireproof'
+Sk 1 'fireshield'
+Sk 1 'flamestrike'
+Sk 1 'floating disc'
+Sk 75 'fly'
+Sk 1 'frost breath'
+Sk 1 'gas breath'
+Sk 1 'giant strength'
+Sk 1 'glacial aura'
+Sk 1 'glacier'
+Sk 1 'golden armor'
+Sk 1 'groupheal'
+Sk 1 'growth'
+Sk 1 'harm'
+Sk 1 'haste'
+Sk 1 'heal'
+Sk 1 'heat metal'
+Sk 1 'heresy'
+Sk 1 'iceshield'
+Sk 1 'incinerate'
+Sk 1 'intellect'
+Sk 1 'leech'
+Sk 1 'lightning breath'
+Sk 1 'locust swarm'
+Sk 1 'mana shield'
+Sk 1 'mass healing'
+Sk 1 'nightmare'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'protection neutral'
+Sk 1 'protection voodoo'
+Sk 1 'ray of deceit'
+Sk 1 'ray of truth'
+Sk 1 'recharge'
+Sk 1 'refresh'
+Sk 1 'regeneration'
+Sk 1 'rockshield'
+Sk 1 'sanctuary'
+Sk 1 'shield'
+Sk 1 'shockshield'
+Sk 1 'shrapnelshield'
+Sk 1 'slow'
+Sk 1 'steel skin'
+Sk 1 'stone skin'
+Sk 1 'thornshield'
+Sk 1 'thunderbolt'
+Sk 1 'transfix'
+Sk 1 'vampiricshield'
+Sk 1 'vigorize'
+Sk 1 'voodoo'
+Sk 1 'watershield'
+Sk 1 'weaken'
+Sk 1 'wisdom'
+Sk 75 'dagger'
+Sk 70 'recall'
+Sk 75 'scrolls'
+Sk 75 'staves'
+Sk 75 'wands'
+MaxDam 3100
+LLev 36
+Pass IeyxG0Z0GQ7dw~
+Plyd 132184
+Note 0 0 0 0 0
+Room 76024
+HMVN 580 555 762 737 334 329
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 36 0 0 0 0 0 0 0 0 0
+Cnd  0 0 0 0
+Deviant 0 0
+Tier 2
+Prac 26
+Devote current 0
+Pnts 49
+Mkil 816
+Mdea 85
+TotalCmpl 3
+TotalPnts 348
+TotalAttm 5
+TotalFail 2
+QuestPnts 312
+Alias lb cast 'lightning breath'~
+Alias fb cast 'frost breath'~
+Alias tb cast 'thunder'~
+Alias ab cast 'acid breath'~
+Alias f cast 'fire breath'~
+Gr 'attack'
+Gr 'conjuration'
+Gr 'creation'
+Gr 'draconian'
+Gr 'elemental'
+Gr 'enchantment'
+Gr 'enhancement'
+Gr 'harmful'
+Gr 'healing'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'rom basics'
+Gr 'shielding'
+Gr 'wizard basics'
+Affc 'armor'   0 181   0  33 -182  17          0
+Affc 'farsight'   0   1   0  -1   0   0       2048
+Affc 'bless'   0 313   0  83 -39  20          0
+Affc 'bless'   0 314   0  83  39  18          0
+Affc 'shield'   0 317   0  51 -107  17          0
+Affc 'iceshield'   1 311   0  39   0   0          4
+Affc 'sanctuary'   1 319   0  24   0   0        128
+Affc 'regeneration'   0   5   0  -1   0   0  268435456
+Affc 'haste'   0   5   0  -1   1   2    2097152
+Affc 'fly'   0   5   0  -1   0   0     524288
+Affc 'detect magic'   0   5   0  -1   0   0         16
+End
+
+#O
+Vnum 76021
+Nest 0
+Name housekey~
+ShD  Iesha's housekey~
+Desc Iesha has foolishly left her housekey here.~
+Loader LOAD: (12:03-10/31/2012) Locke~
+Wear 3
+End
+
+#O
+Vnum 723
+Nest 0
+Name veil normal~
+ShD  veil~
+Desc A veil is here.~
+Loader MPOP: (07:31-11/03/2012) Iesha~
+Wear 20
+End
+
+#O
+Vnum 3032
+Nest 0
+Name bag~
+ShD  {ca {ybag{x~
+Desc {cA small{y bag{c.{x~
+End
+
+#O
+Vnum 18656
+Nest 1
+Name vial tea~
+ShD  a {Wvial{x of {gh{Ge{grb{Ga{gl {yt{Ye{ya{x~
+Desc A {Wvial{x of {gh{Ge{grb{Ga{gl {yt{Ye{ya{x is here.~
+End
+
+#O
+Vnum 18656
+Nest 1
+Name vial tea~
+ShD  a {Wvial{x of {gh{Ge{grb{Ga{gl {yt{Ye{ya{x~
+Desc A {Wvial{x of {gh{Ge{grb{Ga{gl {yt{Ye{ya{x is here.~
+Cost 7
+End
+
+#O
+Vnum 18656
+Nest 1
+Name vial tea~
+ShD  a {Wvial{x of {gh{Ge{grb{Ga{gl {yt{Ye{ya{x~
+Desc A {Wvial{x of {gh{Ge{grb{Ga{gl {yt{Ye{ya{x is here.~
+End
+
+#O
+Vnum 18654
+Nest 1
+Name clam chowder~
+ShD  a {ybowl{x of {Wclam chowder{x~
+Desc A {ybowl{x of {Wclam chowder{x lies here.~
+Cost 29
+End
+
+#O
+Vnum 18654
+Nest 1
+Name clam chowder~
+ShD  a {ybowl{x of {Wclam chowder{x~
+Desc A {ybowl{x of {Wclam chowder{x lies here.~
+Cost 28
+End
+
+#O
+Vnum 18654
+Nest 1
+Name clam chowder~
+ShD  a {ybowl{x of {Wclam chowder{x~
+Desc A {ybowl{x of {Wclam chowder{x lies here.~
+Cost 25
+End
+
+#O
+Vnum 18622
+Nest 1
+Name finger sandwich kelp~
+ShD  a tiny finger {ysandwich{x~
+Desc A tiny finger {ysandwich{x made of kelp tempts you.~
+End
+
+#O
+Vnum 19505
+Nest 1
+Name cape of shadows~
+ShD  cape of {8shadows{x~
+Desc A cape floats in and out of the shadows here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 19508
+Nest 1
+Name sacrifical dagger~
+ShD  sacrifical dagger~
+Desc A dagger is covered in blood here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 704
+Nest 1
+Name studded leather cracked~
+ShD  cracked studded leather~
+Desc Studded leather is here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+Loader MPOP: (14:05-11/10/2012) Iesha~
+Cost 10000
+Valu 1 7 3
+Valu 2 7 5
+Valu 3 7 3
+Valu 4 7 -6
+End
+
+#O
+Vnum 14307
+Nest 1
+Name globe patrol~
+ShD  a patrol globe~
+Desc A glowing globe has been left here.
+~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+Valu 2 1 -1
+End
+
+#O
+Vnum 11105
+Nest 1
+Name spiked vest~
+ShD  a Spiked Vest~
+Desc A strange vest with spikes lies here leaving somebody topless.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 11104
+Nest 1
+Name golden shield~
+ShD  the Golden Shield~
+Desc A bashed-up golden shield lies here rotting away.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 11133
+Nest 1
+Name banner robe back~
+ShD  the Banner of the Mighty Juggernaut~
+Desc A long banner-like robe worn for the back lies here with a strange drawing.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 11102
+Enchanted
+Nest 1
+Name masked helmet~
+ShD  a Masked Helmet~
+Desc A steel-engraved helmet worn over the face is lying here waiting to be worn.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+ExtF GXY
+Affc 'enchant armor' 2 123 -1 -10 17 0
+Affc 'reserved' 2 50 -1 -5 24 0
+Affc 'reserved' 2 50 -1 5 18 0
+Affc 'reserved' 2 50 -1 5 19 0
+End
+
+#O
+Vnum 26008
+Nest 1
+Name coyote paws~
+ShD  coyote paws~
+Desc A silver furry pair of gauntlets are sitting here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 47003
+Enchanted
+Nest 1
+Name sabre sword~
+ShD  {YSabre {bSword{x~
+Desc A shiny sword lies here~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+Loader LOAD: (10:51-11/01/2012) Blaise~
+ExtF G
+Affc 'enchant weapon' 0 123 -1 4 18 0
+Affc 'enchant weapon' 2 123 -1 4 19 0
+End
+
+#O
+Vnum 47003
+Nest 1
+Name sabre sword~
+ShD  {YSabre {bSword{x~
+Desc A shiny sword lies here~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+Loader LOAD: (10:51-11/01/2012) Blaise~
+End
+
+#O
+Vnum 63953
+Nest 1
+Name rainbow greaves~
+ShD  {Mr{Ya{Gi{Bn{Rb{Wo{mw{x greaves~
+Desc Greaves with gems each colour of the rainbow lies here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 63957
+Nest 1
+Name belt rainbow sequined~
+ShD  a {Mr{Ya{Gi{Bn{Rb{Wo{mw{x sequined belt~
+Desc A belt sequined with gems of all colours is here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 63956
+Nest 1
+Name aura majesty~
+ShD  an aura of majesty~
+Desc A majestic aura floats nearby.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 63955
+Nest 1
+Name earring three gem~
+ShD  a three gemmed earring~
+Desc An earring containing a ruby, amethyst, and sapphire is on the ground.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 63955
+Nest 1
+Name earring three gem~
+ShD  a three gemmed earring~
+Desc An earring containing a ruby, amethyst, and sapphire is on the ground.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 63937
+Nest 1
+Name diamond trimmed bracer~
+ShD  a diamond trimmed bracer~
+Desc A bracer with a diamond trim is on the ground.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 63937
+Nest 1
+Name diamond trimmed bracer~
+ShD  a diamond trimmed bracer~
+Desc A bracer with a diamond trim is on the ground.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 63908
+Nest 1
+Name blue sapphire pendant~
+ShD  a {bblue sapphire{x pendant~
+Desc A blue pendant lies on the ground.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 9205
+Nest 1
+Name boots wind~
+ShD  the {cw{Cin{cd b{Co{co{Ct{cs{x~
+Desc A pair of {cb{Co{co{Ct{cs{x that look fast standing still are here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+End
+
+#O
+Vnum 42
+Nest 1
+Name blazing lantern of bloodshed~
+ShD  a {Rblazing {Ylantern{x~
+Desc A {Rblazing {Ylantern{x illuminates the room.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+Lev  119
+Time 63
+Valu 2 1 112
+Affc 'reserved' 2 124 -1 248 12 0
+Affc 'reserved' 2 124 -1 248 13 0
+Affc 'reserved' 2 124 -1 20 19 0
+Affc 'reserved' 2 124 -1 20 18 0
+End
+
+#O
+Vnum 42
+Nest 1
+Name blazing lantern of bloodshed~
+ShD  a {Rblazing {Ylantern{x~
+Desc A {Rblazing {Ylantern{x illuminates the room.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+Lev  127
+Time 121
+Valu 2 1 127
+Affc 'reserved' 2 132 -1 264 12 0
+Affc 'reserved' 2 132 -1 264 13 0
+Affc 'reserved' 2 132 -1 22 19 0
+Affc 'reserved' 2 132 -1 22 18 0
+End
+
+#O
+Vnum 42
+Nest 1
+Name blazing lantern of bloodshed~
+ShD  a {Rblazing {Ylantern{x~
+Desc A {Rblazing {Ylantern{x illuminates the room.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 4
+Lev  129
+Time 145
+Valu 2 1 64
+Affc 'reserved' 2 134 -1 268 12 0
+Affc 'reserved' 2 134 -1 268 13 0
+Affc 'reserved' 2 134 -1 22 19 0
+Affc 'reserved' 2 134 -1 22 18 0
+End
+
+#O
+Vnum 31094
+Nest 0
+Name large canteen water~
+ShD  a Large Canteen~
+Desc A circular canteen is here for you to have.~
+Wear 17
+End
+
+#O
+Vnum 18660
+Nest 0
+Name woven pouch~
+ShD  a woven {yb{Yac{ykp{Yac{yk{x~
+Desc A delicate woven pouch has been dropped here.~
+Cost 148
+Wear 23
+End
+
+#O
+Vnum 3716
+Nest 0
+Name round oval sphere reddish orange~
+ShD  A Strange Reddish-Orange Sphere~
+Desc A round oval-like sphere glowing reddish-orange is settled here on the ground.~
+Cost 0
+Wear 0
+Valu 2 1 162
+End
+
+#O
+Vnum 3703
+Nest 0
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3704
+Nest 0
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3708
+Nest 0
+Name pair leather thothian sandals~
+ShD  A pair of Thothian Sandals~
+Desc A pair of leather sandals made from Thoth lies here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 18
+Wear 8
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 18
+Wear 14
+End
+
+#O
+Vnum 3724
+Nest 0
+Name ring thothian ~
+ShD  A Thothian-made Ring~
+Desc A small ring with the engraving "T" is lying here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 18
+Wear 1
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 18
+Wear 4
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 19
+Wear 24
+End
+
+#O
+Vnum 3723
+Nest 0
+Name black spiked anklet thothian~
+ShD  A Spiked Thothian Anklet~
+Desc A black anklet with spikes around it lies here slanted.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 19
+Wear 25
+End
+
+#O
+Vnum 3720
+Nest 0
+Name blade thothian flail~
+ShD  A Thothian Flail~
+Desc A long blade with a slight curve at the end lies here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 19
+Wear 16
+End
+
+#O
+Vnum 3706
+Nest 0
+Name round thothian helmet~
+ShD  A Thothian Helmet~
+Desc A large round helmet made from Thoth is lying here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 19
+Wear 6
+End
+
+#O
+Vnum 3711
+Nest 0
+Name thothian dark cape~
+ShD  A Thothian Cape~
+Desc A long dark cape finely made from Thoth lies here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 19
+Wear 12
+End
+
+#O
+Vnum 3707
+Nest 0
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 23
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 23
+Wear 13
+End
+
+#O
+Vnum 3725
+Nest 0
+Name ancient symbol thothian~
+ShD  The symbol of a Thothian Warrior~
+Desc An ancient symbol of a Thothian warrior has been disregarded here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 23
+Wear 26
+End
+
+#O
+Vnum 3701
+Nest 0
+Name dagger thothian ~
+ShD  A Thothian Dagger~
+Desc A small dagger made from Thoth lies here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 23
+End
+
+#O
+Vnum 3727
+Nest 0
+Name abandoned mask~
+ShD  An abandoned mask~
+Desc An abandoned mask is lying here eyeless and mouthless.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 25
+End
+
+#O
+Vnum 3728
+Nest 0
+Name thothian black eyepatch~
+ShD  A Thothian Eyepatch~
+Desc A thin but long black eyepatch of Thoth lies here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 25
+Wear 27
+End
+
+#O
+Vnum 3709
+Nest 0
+Name leather thothian gloves~
+ShD  A pair of Thothian gloves~
+Desc Two leather gloves specially made from Thoth lie here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 26
+Wear 9
+End
+
+#O
+Vnum 3710
+Nest 0
+Name pair leather sleeves thothian~
+ShD  A pair of Thothian arm braces~
+Desc A pair of fine-leathered sleeves made from Thoth lie here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 26
+Wear 10
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 26
+Wear 15
+End
+
+#O
+Vnum 746
+Nest 0
+Name Harsh cape special~
+ShD  Harsh cape~
+Desc A cape is here.~
+MULTI Iesha~ c-71-193-141-211.hsd1.or.comcast.net~ 49
+Loader MPOP: (15:37-11/10/2012) Iesha~
+Lev  25
+Cost 75
+Affc 'reserved' 2 1 -1 27 17 0
+End
+

@@ -1,0 +1,2520 @@
+#AREADATA
+Name Enchanted Ice-Caps~
+Builders None~
+VNUMs 44000 44099
+Credits [110 130] Kandahar Enchanted Ice Caps~
+Security 9
+End
+
+
+
+#MOBILES
+#44000
+mountain goat~
+a {Cmountain {ggoat{x~
+A {Cmountain {ggoat {xclimbs deftly up the icy slopes.
+~
+~
+dog~
+AGT Pc 0 0 0
+112 110 1d1+11000 1d1+999 1d1+110 slice
+-40 -40 -40 -40
+EFHKMN BLQ IJ H
+stand stand none 13000
+AGV ACDEFHJKUV medium unknown
+#44001
+snow elf~
+a {Wsnow {Celf{x~
+A snow elf glides gracefully on the snow.
+~
+~
+elf~
+ACGS DFHJPV 0 0 0
+113 115 1d1+11100 1d1+999 1d1+115 slice
+-50 -50 -50 -50
+FKR LQ BIJ Z
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#44002
+yak~
+a hairy yak~
+A large beast digs around in the snow.
+~
+~
+bear~
+ACGT I 0 0 0
+114 120 1d1+11200 1d1+999 1d1+120 beating
+-80 -80 -80 -80
+DEO I EJ 0
+stand stand none 3000
+AGV ABCDEFHJKUV medium unknown
+F res I
+#44003
+llama~
+a silver-tipped llama~
+A llama looks up inquisitively.
+~
+~
+bear~
+AGT c 0 0 0
+115 125 1d1+11500 1d1+999 1d1+140 pound
+-90 -90 -90 -90
+DEKO I E 0
+stand stand none 4000
+AGV ABCDEFHJKUV medium unknown
+F res I
+#44004
+ice dhoan~
+an {Cice {cDho{M'{Ban{x~
+A snowy ice maiden blinks in the cold.
+~
+~
+human~
+AGHT DFHJP 0 0 0
+116 130 1d1+12000 1d1+999 1d1+150 claw
+-50 -50 -50 -50
+EFK I B Z
+stand stand female 30000
+AHMV ABCDEFGHIJK medium unknown
+#44005
+picatehro~
+{YPic{C'{Batehro{x~
+A formidable character stands here.
+~
+~
+human~
+ABCGR JNVc 0 0 0
+125 150 1d1+12500 1d1+999 1d1+200 magic
+-80 -80 -80 -80
+EFK IN BC Z
+stand stand male 40000
+AHMV ABCDEFGHIJK medium unknown
+#44006
+argachoda~
+{MArg{C'{cachoda{x~
+A ghostly figure mourns his loss.
+~
+~
+human~
+ABGO BHJXd 0 0 0
+125 150 1d1+12999 1d1+999 1d1+250 suction
+-90 -90 -90 -90
+DFK IN BC Z
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#44007
+leprikada~
+{BLep{b'{mrikada{x~
+A figure in a billowing cloud of snow stands here.
+~
+~
+human~
+ABGQ JPVc 0 0 0
+125 155 1d1+13000 1d1+999 1d1+250 pound
+-90 -90 -90 -90
+FK IN BC Z
+stand stand none 20000
+AHMV ABCDEFGHIJK medium unknown
+#44008
+echtahua~
+{WEch{b'{Gtahua{x~
+A graceful woman gestures eloquently.
+~
+~
+human~
+ABGT HJVc 0 0 0
+125 160 1d1+13000 1d1+999 1d1+250 slap
+-90 -90 -90 -90
+FK IN B Z
+stand stand female 50000
+AHMV ABCDEFGHIJK medium unknown
+#44009
+mountain lynx~
+a {Wmountain {clynx{x~
+A furry feline stares through you.
+~
+~
+bear~
+AGHT P 0 0 0
+120 140 1d1+11999 1d1+999 1d1+200 claw
+-50 -50 -50 -50
+DEO I E 0
+stand stand none 13000
+AGV ABCDEFHJKUV medium unknown
+F res I
+#44010
+snow leopard~
+a snow {Dleopard{x~
+A snow leopard picks its way carefully over the ice.
+~
+~
+cat~
+AGT DFJZc 0 0 0
+120 140 1d1+12000 1d1+999 1d1+210 claw
+-40 -40 -40 -40
+DEFHO I EF 0
+stand stand none 12000
+AGV ABCDEFHJKQUV medium unknown
+#0
+
+
+
+#OBJECTS
+#44000
+ugg boots~
+a pair of {CUgg{WBoots{x~
+A snug pair of winter boots.~
+wool~
+armor AI AG
+22 22 22 14 0
+112 5 2000 P
+A
+14 1500
+A
+2 3
+A
+3 -3
+A
+19 -15
+#44001
+snow rapier~
+a snow {Crapier{x~
+A dagger made of ice.~
+unknown~
+weapon BT AN
+dagger 15 18 pierce B
+112 5 300 P
+#44002
+crystal shard~
+a crystal {Wshard{x~
+A {Wsliver {xof {Cice {Yshines {Wb{xr{Ci{xl{Yl{xi{Wa{xn{Ct{xl{Yy{x.~
+ice~
+light ABT AO
+0 0 999 0 0
+114 5 300 P
+A
+14 500
+#44003
+fur hide~
+a {bh{meav{by {bfur {Bhide{x~
+A furry winter jacket.~
+silver~
+armor I AD
+23 23 23 14 0
+115 20 3000 P
+A
+18 30
+A
+19 15
+A
+5 3
+#44004
+ice pick~
+an {Cice {bpick{x~
+A sharp edged axe made of ice.~
+ice~
+weapon AT AN
+axe 16 17 chop DG
+115 100 40 P
+#44005
+crystal staff~
+{C<<<{W* {cC{xr{cy{xs{ct{xa{cl {cS{xt{ca{xf{cf {W*{C>>>{x~
+A powerful tool lies here.~
+crystal~
+staff APT AO
+130 5 5 'fire breath' 0
+125 10 2000 P
+#44006
+snowdrop~
+{b[{B>-{m* {WSnowdrop {m*{B-<{b]{x ~
+An icy flower lies here.~
+snow~
+wand AGIPT AO
+135 5 5 'frost breath' 0
+125 50 3000 P
+#44007
+ice cube~
+{Wice cube{x~
+A shimmering piece of ice.~
+ice~
+pill APT AO
+135 'sanctuary' 'reserved' 'reserved' 'reserved'
+125 1 20 P
+#44008
+earmuffs~
+{C*{c\{W|{c/{C* {BEa{mr{bm{mu{Bffs {C*{c\{W|{c/{C*{x~
+A pair of fluffy earmuffs.~
+fur~
+armor GKTY AE
+25 25 25 16 0
+125 5 500 P
+A
+13 120
+A
+12 95
+A
+14 -50
+#44009
+jewelled collar~
+{b[{M=={m* {MJe{Ywe{Cll{Ged C{Co{Yll{Mar {m*{M=={b]{x~
+A breathtakingly cool collar.~
+gold~
+treasure AHJKTY AC
+0 0 0 0 0
+120 15 10000 P
+A
+18 15
+A
+19 25
+A
+14 100
+A
+13 150
+#44010
+claws leopard~
+{Y-=# {DLeopard Claws {Y#=-{x~
+A pair of handy strap-on blades.~
+iron~
+armor JKTY AH
+24 24 24 15 0
+120 15 3000 P
+A
+19 50
+A
+18 150
+A
+13 -500
+A
+14 500
+#44012
+teddybear bear~
+a {Wteddybear{x~
+A cuddly {Wteddybear {xwith a {Ccyan {xribbon.~
+fur~
+treasure HSTY AO
+0 0 0 0 0
+30 5 1000 P
+A
+2 3
+E
+embroidery~
+'{CCuddles{x' is embroidered on this bear.  
+~
+E
+ribbon~
+The {Ccyan {cribbon {xis made of silk and is tied around the {Wbear{x'{Ws
+{xneck.  
+~
+E
+tummy~
+You cuddle the bear and he emits a cute {g'{Gsqueak{g'{x.  
+~
+E
+bear~
+This {Wteddybear {xhas soft white fur and a cute smile.  It has some
+embroidery on it.  
+~
+#44091
+altar~
+a {Wholy {Ybook {xon a {ybeautifully ornate altar{x~
+A {ybeautifully ornate altar{x stands here.~
+wood~
+container R P
+500 0 0 50 30
+0 0 0 P
+#44092
+portable tent dipprize~
+a {gportable {Gtent{x~
+A {gportable {Gtent{x has been pitched here.~
+canvas~
+furniture APRSTY AP
+1 200000 CFIL 500 500
+0 50 0 P
+#44093
+fish~
+{Da pair of {G><((('> <')))><{x ~
+{DA pair of {G><((('> <')))><{g wiggle around{x.~
+fish~
+armor AHMPSTYZ AQ
+20 20 20 20 0
+0 5 0 P
+A
+13 150
+A
+12 150
+A
+19 20
+A
+18 20
+A
+20 -20
+#44094
+action figure doll ogre shrekkie~
+a {GShrek {gaction-figure{x~
+A {gMean {GGREEN {gFighting Machine {xpostures here.~
+latex~
+treasure HSTY AO
+0 0 0 0 0
+0 5 0 P
+E
+tummy~
+You squeeze his tummy and he retorts:
+ 
+{g"{GYou're heading for a smacked bottom, Donkey.{g"{x
+~
+E
+green~
+{gHe is {GGREEN{g.{x
+~
+E
+clothing~
+{GShrek{g is wearing a basic tunic, a warrior helm and rugged boots.{x
+{gHe is also wearing an {G'{xI {Rlove {DStorm{mfury{G'{g badge.{x
+~
+E
+shrek~
+{gThis {GBIG GREEN UGLY OGRE{g isn't that ugly really.  And he has a {Rheart{g of {Ygold{g.{x
+~
+#44095
+foreskin~
+a {yforeskin{x~
+A {ychewy {Wonion {yring{x.~
+skin~
+pill HSTYc AO
+161 'quest pill' 'giant strength' 'haste' 'frenzy'
+0 0 0 P
+#44096
+sign prize~
+{Da {msign{Dpost{x~
+{DA {msign{Dpost{x hovers here.~
+effervescence~
+trash ABR P
+0 0 0 0 0
+0 2000 0 P
+E
+signpost~
+o==========================================================o
+|                                                          |
+|                      {ML{mist {Co{cf {GP{grizes{x                      |
+|                      {M={m===={C={c=={G={g====={x                      |
+|                                                          |
+| 10 x {Mj{me{bl{Bl{Gy{gb{ye{Ya{Rn{x = 1 {Gimmqp{x                                 |
+|                                                          |
+| 5 x [ {DStorm{mfury's Auto{Dgraph{x ] = 1 {Mj{me{bl{Bl{Gy{gb{ye{Ya{Rn{x              |
+|                                                          |
+| 3 x {RG{rI{W-{MN{mORMOUS {CG{cobstopper{x = 1 [ {DStorm{mfury's Auto{Dgraph{x ]  |
+|                                                          |
+| 2 x {ccuddly {Mstuffed {YStork{x = 1 {RG{rI{W-{MN{mORMOUS {CG{cobstopper{x       |
+|                                                          |
+| 3 x {Ystraw{x (for sucking up) = 1 {ccuddly {Mstuffed {YStork{x      |
+|                                                          |
+| 30 x {YLucky {MDip {mBag{x = 1 {Ystraw{x (for sucking up)            |
+|                                                          |
+| {Di.e. You give me 3 straws in exchange for 1 stork{x        |
+|                                                          |
+o==========================================================o
+~
+#44097
+shrekkie clan badge~
+{GI AM A SHREKKIE {xbadge~
+An {Mimportant {Gstatement {xof {gfact{x lies here.~
+cotton~
+container ABHMSTY AU
+10000 0 0 500 70
+30 1 0 P
+#44098
+stormcloud~
+{DStorm{mCloud{x~
+{mMenacing {Ddark {Wclouds {Dhover {mfuriously{x.~
+mist~
+gem ABHRSTYc AQ
+0 0 0 0 0
+0 0 500000 P
+#44099
+certificate~
+a certificate~
+An important piece of parchment.~
+parchment~
+trash STY A
+0 0 0 0 0
+0 1 0 P
+#0
+
+
+
+#ROOMS
+#44032
+Pic'atehro Peak~
+{CThese are the treacherous icy slopes of Pic'atehro Peak.  Snow abounds
+covering this glacial peak like icing drizzling over a cake.  There are
+footprints which are quite noticeable in the deep snow, echoes of a past
+time perhaps ...  Or something more recent.  Mists swirl around this peak
+sometimes like thick fog and other times like ghostly apparitions.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44033
+D3
+~
+~
+0 0 44031
+S
+#44033
+Pic'atehro Peak~
+{CThese are the treacherous icy slopes of Pic'atehro Peak.  Snow abounds
+covering this glacial peak like icing drizzling over a cake.  There are
+footprints which are quite noticeable in the deep snow, echoes of a past
+time perhaps ...  Or something more recent.  Mists swirl around this peak
+sometimes like thick fog and other times like ghostly apparitions.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44026
+D3
+~
+~
+0 0 44032
+S
+#44034
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44027
+D1
+~
+~
+0 0 44035
+D4
+~
+ice-block~
+1 0 44043
+S
+#44035
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44028
+D3
+~
+~
+0 0 44034
+D4
+~
+~
+0 0 44044
+S
+#44036
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44037
+D2
+~
+~
+0 0 44046
+S
+#44037
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44047
+D3
+~
+~
+0 0 44036
+D5
+~
+~
+0 0 44029
+S
+#44038
+Arg'achoda Peak~
+{CThe icy slopes of Arg'achoda Peak glint in the efervescent light
+reflected off the other peaks, despite the mists swirling around them. 
+Bright white light which almost blinds, shines luminescently on these
+slopes.  Rock hard ice, slippery and lethal is the mainstay of this peak. 
+{x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44039
+D2
+~
+~
+0 0 44048
+D5
+~
+ice-block~
+1 0 44030
+S
+#44039
+Arg'achoda Peak~
+{CThe icy slopes of Arg'achoda Peak glint in the efervescent light
+reflected off the other peaks, despite the mists swirling around them. 
+Bright white light which almost blinds, shines luminescently on these
+slopes.  Rock hard ice, slippery and lethal is the mainstay of this peak. 
+{x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44040
+D3
+~
+~
+0 0 44038
+S
+#44040
+Arg'achoda Peak~
+{CThe icy slopes of Arg'achoda Peak glint in the efervescent light
+reflected off the other peaks, despite the mists swirling around them. 
+Bright white light which almost blinds, shines luminescently on these
+slopes.  Rock hard ice, slippery and lethal is the mainstay of this peak. 
+{x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44049
+D3
+~
+~
+0 0 44039
+S
+#44041
+Lep'rikada Peak~
+{CThese are the glacial slopes of Lep'rikada Peak.  Majestic and
+awe-inspiring, these are the peaks that poetry was written for.  Cascading
+white-blue ice shimmers down the cap culminating in icicles and delicate
+crystal shards.  Mists swirl around the base of the ice cap making it almost
+impossible to see where the cap ends and the slope begins.  To this end,
+there are a number of skeletons at the bottom of the canyon below.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44042
+D2
+~
+~
+0 0 44051
+S
+#44042
+Lep'rikada Peak~
+{CThese are the glacial slopes of Lep'rikada Peak.  Majestic and
+awe-inspiring, these are the peaks that poetry was written for.  Cascading
+white-blue ice shimmers down the cap culminating in icicles and delicate
+crystal shards.  Mists swirl around the base of the ice cap making it almost
+impossible to see where the cap ends and the slope begins.  To this end,
+there are a number of skeletons at the bottom of the canyon below.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44043
+D3
+~
+~
+0 0 44041
+S
+#44043
+Lep'rikada Peak~
+{CThese are the glacial slopes of Lep'rikada Peak.  Majestic and
+awe-inspiring, these are the peaks that poetry was written for.  Cascading
+white-blue ice shimmers down the cap culminating in icicles and delicate
+crystal shards.  Mists swirl around the base of the ice cap making it almost
+impossible to see where the cap ends and the slope begins.  To this end,
+there are a number of skeletons at the bottom of the canyon below.  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44052
+D3
+~
+~
+0 0 44042
+D5
+~
+ice-block~
+1 0 44034
+S
+#44044
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44045
+D2
+~
+~
+0 0 44053
+D5
+~
+~
+0 0 44035
+S
+#44045
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44054
+D3
+~
+~
+0 0 44044
+S
+#44046
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44036
+D1
+~
+~
+0 0 44047
+S
+#44047
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44037
+D3
+~
+~
+0 0 44046
+S
+#44048
+Arg'achoda Peak~
+{CThe icy slopes of Arg'achoda Peak glint in the efervescent light
+reflected off the other peaks, despite the mists swirling around them. 
+Bright white light which almost blinds, shines luminescently on these
+slopes.  Rock hard ice, slippery and lethal is the mainstay of this peak. 
+{x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44038
+D2
+~
+~
+0 0 44055
+S
+#44049
+Arg'achoda Peak~
+{CThe icy slopes of Arg'achoda Peak glint in the efervescent light
+reflected off the other peaks, despite the mists swirling around them. 
+Bright white light which almost blinds, shines luminescently on these
+slopes.  Rock hard ice, slippery and lethal is the mainstay of this peak. 
+{x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44040
+D2
+~
+~
+0 0 44057
+D5
+~
+ice-block~
+1 0 44061
+S
+#44050
+Icy Mountain Pass~
+{WThis treacherous icy mountain pass is narrow and the sides are steeply
+sloped which means there could be an avalanche at any time.  Snow has
+gathered at the foot of the pass, collected from the peaks to either side. 
+Mists swirls above and the air is very cold indeed.  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44061
+D4
+~
+fog~
+1 0 44051
+S
+#44051
+Lep'rikada Peak~
+{CThese are the glacial slopes of Lep'rikada Peak.  Majestic and
+awe-inspiring, these are the peaks that poetry was written for.  Cascading
+white-blue ice shimmers down the cap culminating in icicles and delicate
+crystal shards.  Mists swirl around the base of the ice cap making it almost
+impossible to see where the cap ends and the slope begins.  To this end,
+there are a number of skeletons at the bottom of the canyon below.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44041
+D2
+~
+~
+0 0 44058
+D5
+~
+fog~
+1 0 44050
+S
+#44052
+Lep'rikada Peak~
+{CThese are the glacial slopes of Lep'rikada Peak.  Majestic and
+awe-inspiring, these are the peaks that poetry was written for.  Cascading
+white-blue ice shimmers down the cap culminating in icicles and delicate
+crystal shards.  Mists swirl around the base of the ice cap making it almost
+impossible to see where the cap ends and the slope begins.  To this end,
+there are a number of skeletons at the bottom of the canyon below.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44043
+D2
+~
+~
+0 0 44060
+S
+#44053
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44044
+D1
+~
+~
+0 0 44054
+S
+#44054
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44045
+D3
+~
+~
+0 0 44053
+S
+#44055
+Arg'achoda Peak~
+{CThe icy slopes of Arg'achoda Peak glint in the efervescent light
+reflected off the other peaks, despite the mists swirling around them. 
+Bright white light which almost blinds, shines luminescently on these
+slopes.  Rock hard ice, slippery and lethal is the mainstay of this peak. 
+{x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44048
+D1
+~
+~
+0 0 44056
+S
+#44056
+Arg'achoda Peak~
+{CThe icy slopes of Arg'achoda Peak glint in the efervescent light
+reflected off the other peaks, despite the mists swirling around them. 
+Bright white light which almost blinds, shines luminescently on these
+slopes.  Rock hard ice, slippery and lethal is the mainstay of this peak. 
+{x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44057
+D3
+~
+~
+0 0 44055
+D4
+~
+fog~
+1 0 44072
+S
+#44057
+Arg'achoda Peak~
+{CThe icy slopes of Arg'achoda Peak glint in the efervescent light
+reflected off the other peaks, despite the mists swirling around them. 
+Bright white light which almost blinds, shines luminescently on these
+slopes.  Rock hard ice, slippery and lethal is the mainstay of this peak. 
+{x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44049
+D3
+~
+~
+0 0 44056
+S
+#44058
+Lep'rikada Peak~
+{CThese are the glacial slopes of Lep'rikada Peak.  Majestic and
+awe-inspiring, these are the peaks that poetry was written for.  Cascading
+white-blue ice shimmers down the cap culminating in icicles and delicate
+crystal shards.  Mists swirl around the base of the ice cap making it almost
+impossible to see where the cap ends and the slope begins.  To this end,
+there are a number of skeletons at the bottom of the canyon below.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44051
+D1
+~
+~
+0 0 44059
+S
+#44059
+Lep'rikada Peak~
+{CThese are the glacial slopes of Lep'rikada Peak.  Majestic and
+awe-inspiring, these are the peaks that poetry was written for.  Cascading
+white-blue ice shimmers down the cap culminating in icicles and delicate
+crystal shards.  Mists swirl around the base of the ice cap making it almost
+impossible to see where the cap ends and the slope begins.  To this end,
+there are a number of skeletons at the bottom of the canyon below.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44060
+D3
+~
+~
+0 0 44058
+D4
+~
+crystal-shard~
+1 0 44071
+S
+#44060
+Lep'rikada Peak~
+{CThese are the glacial slopes of Lep'rikada Peak.  Majestic and
+awe-inspiring, these are the peaks that poetry was written for.  Cascading
+white-blue ice shimmers down the cap culminating in icicles and delicate
+crystal shards.  Mists swirl around the base of the ice cap making it almost
+impossible to see where the cap ends and the slope begins.  To this end,
+there are a number of skeletons at the bottom of the canyon below.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44052
+D3
+~
+~
+0 0 44059
+S
+#44061
+Icy Mountain Pass~
+{WThis treacherous icy mountain pass is narrow and the sides are steeply
+sloped which means there could be an avalanche at any time.  Snow has
+gathered at the foot of the pass, collected from the peaks to either side. 
+Mists swirls above and the air is very cold indeed.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44050
+D2
+~
+~
+0 0 44062
+D4
+~
+ice-block~
+1 0 44049
+S
+#44062
+Steep Mountain Slope~
+{WThis steep mountain slope is very slippery and the ice crackles and
+crunches underfoot making it a very precarious climb indeed.  Mists swirl
+around just above your head and it is unclear whether this slope leads to a
+plunge downwards or carries on up.  There is a strange glowing light which
+appears to be coming from the mist.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44061
+D4
+~
+mist-swirl~
+1 0 44063
+S
+#44063
+Ech'tahua Peak~
+{CThis peak is the highest and most magnificent of the four in the
+mountain range.  It shimmers with an unearthly glow, almost a faint
+peach-pink tint, as if bathed with a glorious sunset which never dies. 
+Little dancing lights dart around the peak as if annointing it with their
+magic.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44064
+D3
+~
+~
+0 0 44070
+D5
+~
+mist-swirl~
+1 0 44062
+S
+#44064
+Ech'tahua Peak~
+{CThis peak is the highest and most magnificent of the four in the
+mountain range.  It shimmers with an unearthly glow, almost a faint
+peach-pink tint, as if bathed with a glorious sunset which never dies. 
+Little dancing lights dart around the peak as if annointing it with their
+magic.  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44065
+D3
+~
+~
+0 0 44063
+S
+#44065
+Ech'tahua Peak~
+{CThis peak is the highest and most magnificent of the four in the
+mountain range.  It shimmers with an unearthly glow, almost a faint
+peach-pink tint, as if bathed with a glorious sunset which never dies. 
+Little dancing lights dart around the peak as if annointing it with their
+magic.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44064
+D2
+~
+~
+0 0 44066
+D5
+~
+mist-swirl~
+1 0 44074
+S
+#44066
+Ech'tahua Peak~
+{CThis peak is the highest and most magnificent of the four in the
+mountain range.  It shimmers with an unearthly glow, almost a faint
+peach-pink tint, as if bathed with a glorious sunset which never dies. 
+Little dancing lights dart around the peak as if annointing it with their
+magic.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44065
+D3
+~
+~
+0 0 44067
+S
+#44067
+Ech'tahua Peak~
+{CThis peak is the highest and most magnificent of the four in the
+mountain range.  It shimmers with an unearthly glow, almost a faint
+peach-pink tint, as if bathed with a glorious sunset which never dies. 
+Little dancing lights dart around the peak as if annointing it with their
+magic.  {x 
+~
+0 524288 0
+D1
+~
+~
+0 0 44066
+D3
+~
+~
+0 0 44068
+D4
+~
+mist~
+1 0 44073
+S
+#44068
+Ech'tahua Peak~
+{CThis peak is the highest and most magnificent of the four in the
+mountain range.  It shimmers with an unearthly glow, almost a faint
+peach-pink tint, as if bathed with a glorious sunset which never dies. 
+Little dancing lights dart around the peak as if annointing it with their
+magic.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44069
+D1
+~
+~
+0 0 44067
+S
+#44069
+Ech'tahua Peak~
+{CThis peak is the highest and most magnificent of the four in the
+mountain range.  It shimmers with an unearthly glow, almost a faint
+peach-pink tint, as if bathed with a glorious sunset which never dies. 
+Little dancing lights dart around the peak as if annointing it with their
+magic.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44070
+D2
+~
+~
+0 0 44068
+D5
+~
+mist-swirl~
+1 0 44079
+S
+#44070
+Ech'tahua Peak~
+{CThis peak is the highest and most magnificent of the four in the
+mountain range.  It shimmers with an unearthly glow, almost a faint
+peach-pink tint, as if bathed with a glorious sunset which never dies. 
+Little dancing lights dart around the peak as if annointing it with their
+magic.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44063
+D2
+~
+~
+0 0 44069
+S
+#44071
+Lep'rikada Ice Cap~
+{WSnow whir{cls around {xin a flur{cry on Lep'rika{Wda Ice Cap.  Ice
+{Wpelts ever{cywhere - i{xts a snowst{corm up here.  {WLights dance around
+{Wmingled into {cthe sn{xow - little li{cghts whirling arou{Wnd like a
+dervish {Wtwirling to unh{ceard me{xlodies.  Its {chard to distinguish
+wh{Were the base {Wof the ice cap st{carts and {xwhere it {cends.  Pu{Wre
+chaos.  {x 
+~
+0 532480 5
+D5
+~
+crystal-shard~
+1 0 44059
+S
+#44072
+Arg'achoda Ice Cap~
+{cA sharp peak al{Wmost a p{xinnacle r{Wises from the mis{cts.  It is
+{cknown by the name {WArg'achod{xa Ice Ca{Wp.  Sheer ice co{cats the sides
+{cof this peak, clear an{Wd tantal{xisingly {Wdeep.  There app{cears to be a
+{cfigure hidden within th{We peak, n{xo it must {Wbe your imaginat{cion. 
+Blinding {csnow whips around t{Whe peak ma{xsking {Wthe visi{con....  {x 
+~
+0 524288 5
+D5
+~
+fog~
+1 0 44056
+S
+#44073
+Ech'tahua Ice Cap~
+{YEch'tahua Ice {MCap shines {ybrilliantly {Mwith a pinky-o{Yrange hue
+which {Yperfectly refle{Mcts the ice c{yrystals cap{Mtured within it. 
+{YMist swirls around {Ythe base, leaving {Mjust the icy {ycap glowin{Mg
+above the cloud{Ys, which in turn {Yreflect the glorio{Mus oranges and{y
+pinks from {Mthe cap itself{Y.  A haze of {Yminute lights appea{Mr to dance
+in {ythese refle{Mctions producin{Yg a twilight {Yeffect.  This is {Mquite
+enchant{ying and me{Msmerisi{Yng.  {x 
+~
+0 524288 5
+D5
+~
+mist~
+1 0 44067
+S
+#44074
+Icy Slope~
+{WThis icy slope is very slippery and the ice crackles and crunches
+underfoot making it a very precarious climb indeed.  Mists swirl around just
+above your head and it is unclear whether this slope leads to a plunge
+downwards or carries on up.  There is a strange glowing light which appears
+to be coming from the mist.  {x 
+~
+0 524288 5
+D4
+~
+mist-swirl~
+1 0 44065
+D5
+~
+~
+0 0 44075
+S
+#44075
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44078
+D1
+~
+~
+0 0 44076
+D4
+~
+~
+0 0 44074
+S
+#44076
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44077
+D3
+~
+~
+0 0 44075
+S
+#44077
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44076
+D3
+~
+~
+0 0 44078
+D5
+~
+~
+0 0 44088
+S
+#44078
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44077
+D2
+~
+~
+0 0 44075
+S
+#44079
+Icy Slope~
+{WThis icy slope is very slippery and the ice crackles and crunches
+underfoot making it a very precarious climb indeed.  Mists swirl around just
+above your head and it is unclear whether this slope leads to a plunge
+downwards or carries on up.  There is a strange glowing light which appears
+to be coming from the mist.  {x 
+~
+0 524288 5
+D4
+~
+mist-swirl~
+1 0 44069
+D5
+~
+~
+0 0 44080
+S
+#44080
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44083
+D3
+~
+~
+0 0 44081
+D4
+~
+~
+0 0 44079
+S
+#44081
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  
+~
+0 524288 5
+D0
+~
+~
+0 0 44082
+D1
+~
+~
+0 0 44080
+S
+#44082
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44083
+D2
+~
+~
+0 0 44081
+D5
+~
+~
+0 0 44084
+S
+#44083
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44080
+D3
+~
+~
+0 0 44082
+S
+#44084
+Snowy Peak~
+{WSnow crackles and shivers as the ice begins to melt from an unknown
+force.  Shards and crystals go tumbling down the slopes into the icy chasms
+below.  Mists swirl around the majestic peak to the north east, almost
+cascading around it, resplendent and glorious.  The snow capped peak rises
+imperiously out of the top of the clouds.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44087
+D3
+~
+~
+0 0 44085
+D4
+~
+~
+0 0 44082
+S
+#44085
+Snowy Peak~
+{WSnow crackles and shivers as the ice begins to melt from an unknown
+force.  Shards and crystals go tumbling down the slopes into the icy chasms
+below.  Mists swirl around the majestic peak to the north east, almost
+cascading around it, resplendent and glorious.  The snow capped peak rises
+imperiously out of the top of the clouds.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44086
+D1
+~
+~
+0 0 44084
+S
+#44086
+Snowy Peak~
+{WSnow crackles and shivers as the ice begins to melt from an unknown
+force.  Shards and crystals go tumbling down the slopes into the icy chasms
+below.  Mists swirl around the majestic peak to the north east, almost
+cascading around it, resplendent and glorious.  The snow capped peak rises
+imperiously out of the top of the clouds.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44087
+D2
+~
+~
+0 0 44085
+D5
+~
+~
+0 0 44096
+S
+#44087
+Snowy Peak~
+{WSnow crackles and shivers as the ice begins to melt from an unknown
+force.  Shards and crystals go tumbling down the slopes into the icy chasms
+below.  Mists swirl around the majestic peak to the north east, almost
+cascading around it, resplendent and glorious.  The snow capped peak rises
+imperiously out of the top of the clouds.  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44084
+D3
+~
+~
+0 0 44086
+S
+#44088
+Snowy Peak~
+{WSnow crackles and shivers as the ice begins to melt from an unknown
+force.  Shards and crystals go tumbling down the slopes into the icy chasms
+below.  Mists swirl around the majestic peak to the north west, almost
+cascading around it, resplendent and glorious.  The snow capped peak rises
+imperiously out of the top of the clouds.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44091
+D1
+~
+~
+0 0 44089
+D4
+~
+~
+0 0 44077
+S
+#44089
+Snowy Peak~
+{WSnow crackles and shivers as the ice begins to melt from an unknown
+force.  Shards and crystals go tumbling down the slopes into the icy chasms
+below.  Mists swirl around the majestic peak to the north west, almost
+cascading around it, resplendent and glorious.  The snow capped peak rises
+imperiously out of the top of the clouds.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44090
+D3
+~
+~
+0 0 44088
+S
+#44090
+Snowy Peak~
+{WSnow crackles and shivers as the ice begins to melt from an unknown
+force.  Shards and crystals go tumbling down the slopes into the icy chasms
+below.  Mists swirl around the majestic peak to the north west, almost
+cascading around it, resplendent and glorious.  The snow capped peak rises
+imperiously out of the top of the clouds.  {x 
+~
+0 524288 0
+D2
+~
+~
+0 0 44089
+D3
+~
+~
+0 0 44091
+D5
+~
+~
+0 0 44092
+S
+#44091
+Snowy Peak~
+{WSnow crackles and shivers as the ice begins to melt from an unknown
+force.  Shards and crystals go tumbling down the slopes into the icy chasms
+below.  Mists swirl around the majestic peak to the north west, almost
+cascading around it, resplendent and glorious.  The snow capped peak rises
+imperiously out of the top of the clouds.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44090
+D2
+~
+~
+0 0 44088
+S
+#44092
+Icy Peak~
+{WThis icy peak shimmers in the strange hallowed light reflected from the
+other peaks.  Sheer slopes plunge down to chasms below, the looks of which
+there is no hope of return.  Mists swirl around the higher snowy peaks,
+their tips just poking out of the tops.  An odd glow appears to be emanating
+from the four highest peaks.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44095
+D1
+~
+~
+0 0 44093
+D4
+~
+~
+0 0 44090
+S
+#44093
+Icy Peak~
+{WThis icy peak shimmers in the strange hallowed light reflected from the
+other peaks.  Sheer slopes plunge down to chasms below, the looks of which
+there is no hope of return.  Mists swirl around the higher snowy peaks,
+their tips just poking out of the tops.  An odd glow appears to be emanating
+from the four highest peaks.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44094
+D3
+~
+~
+0 0 44092
+S
+#44094
+Icy Peak~
+{WThis icy peak shimmers in the strange hallowed light reflected from the
+other peaks.  Sheer slopes plunge down to chasms below, the looks of which
+there is no hope of return.  Mists swirl around the higher snowy peaks,
+their tips just poking out of the tops.  An odd glow appears to be emanating
+from the four highest peaks.  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44093
+D3
+~
+~
+0 0 44095
+S
+#44095
+Icy Peak~
+{WThis icy peak shimmers in the strange hallowed light reflected from the
+other peaks.  Sheer slopes plunge down to chasms below, the looks of which
+there is no hope of return.  Mists swirl around the higher snowy peaks,
+their tips just poking out of the tops.  An odd glow appears to be emanating
+from the four highest peaks.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44094
+D2
+~
+~
+0 0 44092
+D5
+~
+~
+0 0 44054
+S
+#44096
+Icy Peak~
+{WThis icy peak shimmers in the strange hallowed light reflected from the
+other peaks.  Sheer slopes plunge down to chasms below, the looks of which
+there is no hope of return.  Mists swirl around the higher snowy peaks,
+their tips just poking out of the tops.  An odd glow appears to be emanating
+from the four highest peaks.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44099
+D3
+~
+~
+0 0 44097
+D4
+~
+~
+0 0 44086
+S
+#44097
+Icy Peak~
+{WThis icy peak shimmers in the strange hallowed light reflected from the
+other peaks.  Sheer slopes plunge down to chasms below, the looks of which
+there is no hope of return.  Mists swirl around the higher snowy peaks,
+their tips just poking out of the tops.  An odd glow appears to be emanating
+from the four highest peaks.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44098
+D1
+~
+~
+0 0 44096
+S
+#44098
+Icy Peak~
+{WThis icy peak shimmers in the strange hallowed light reflected from the
+other peaks.  Sheer slopes plunge down to chasms below, the looks of which
+there is no hope of return.  Mists swirl around the higher snowy peaks,
+their tips just poking out of the tops.  An odd glow appears to be emanating
+from the four highest peaks.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44099
+D2
+~
+~
+0 0 44097
+S
+#44099
+Icy Peak~
+{WThis icy peak shimmers in the strange hallowed light reflected from the
+other peaks.  Sheer slopes plunge down to chasms below, the looks of which
+there is no hope of return.  Mists swirl around the higher snowy peaks,
+their tips just poking out of the tops.  An odd glow appears to be emanating
+from the four highest peaks.  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44096
+D3
+~
+~
+0 0 44098
+D5
+~
+~
+0 0 44046
+S
+#44000
+A Snowy Mountain Slope~
+{WA slippery slope rises up to an icy ivory plateau in the distance. 
+Snowy peaks can be seen jutting out of the mists which form around them
+making it seem like an enchanted place.  The icy slopes sparkle as the light
+dances upon them, shiveringly majestic and awe-inspiring.  The slopes look
+treacherous from here.  {x 
+~
+0 524288 5
+D4
+~
+~
+0 0 44001
+D5
+~
+~
+0 0 2353
+S
+#44001
+A Snowy Mountain Slope~
+{WA slippery slope rises up to an icy ivory plateau in the distance. 
+Snowy peaks can be seen jutting out of the mists which form around them
+making it seem like an enchanted place.  The icy slopes sparkle as the light
+dances upon them, shiveringly majestic and awe-inspiring.  The slopes look
+treacherous from here.  {x 
+~
+0 524288 5
+D4
+~
+~
+0 0 44002
+D5
+~
+~
+0 0 44000
+S
+#44002
+An Icy Plateau~
+{WThis icy ivory plateau shimmers and sparkles as the cold snow forms a
+crust on the surface of the slope.  Snowy peaks can be seen jutting out of
+the mists which form around thme making it seem an enchanted place.  The icy
+slopes sparkle as the light dances upon them, shiveringly majestic and
+awe-inspiring.  The slopes look treacherous from here.  The icy plateau
+continues to the east and west and the slopes rise up the foothills and down
+to the bottom of the snowy slope.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44003
+D3
+~
+~
+0 0 44004
+D4
+~
+~
+0 0 44007
+D5
+~
+~
+0 0 44001
+S
+#44003
+An Icy Plateau~
+{WThis icy ivory plateau shimmers and sparkles as the cold snow forms a
+crust on the surface of the slope.  Snowy peaks can be seen jutting out of
+the mists which form around thme making it seem an enchanted place.  The icy
+slopes sparkle as the light dances upon them, shiveringly majestic and
+awe-inspiring.  The slopes look treacherous from here.  The icy plateau
+continues to the east and west and the slopes rise up the foothills and down
+to the bottom of the snowy slope.  {x 
+~
+0 524288 5
+D3
+~
+~
+0 0 44002
+D4
+~
+~
+0 0 44008
+S
+#44004
+An Icy Plateau~
+{WThis icy ivory plateau shimmers and sparkles as the cold snow forms a
+crust on the surface of the slope.  Snowy peaks can be seen jutting out of
+the mists which form around thme making it seem an enchanted place.  The icy
+slopes sparkle as the light dances upon them, shiveringly majestic and
+awe-inspiring.  The slopes look treacherous from here.  The icy plateau
+continues to the east and west and the slopes rise up the foothills and down
+to the bottom of the snowy slope.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44002
+D4
+~
+~
+0 0 44006
+S
+#44005
+Snowy Foothills~
+{WThe snowy foothills glimmer frostily in the light.  There doesn't seem
+to be any chance of making it up there in one piece.  The slopes look
+treacherously slippery.  The ice crystals glint almost mischievously as if
+daring you to take a step...  And fall to your death!  The foothills
+continue right along the base of the mountains, sheer and isolated.  Smaller
+peaks seem accessible from some points.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44006
+D4
+~
+~
+0 0 44011
+S
+#44006
+Snowy Foothills~
+{WThe snowy foothills glimmer frostily in the light.  There doesn't seem
+to be any chance of making it up there in one piece.  The slopes look
+treacherously slippery.  The ice crystals glint almost mischievously as if
+daring you to take a step...  And fall to your death!  The foothills
+continue right along the base of the mountains, sheer and isolated.  Smaller
+peaks seem accessible from some points.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44007
+D3
+~
+~
+0 0 44005
+D5
+~
+~
+0 0 44004
+S
+#44007
+Snowy Foothills~
+{WThe snowy foothills glimmer frostily in the light.  There doesn't seem
+to be any chance of making it up there in one piece.  The slopes look
+treacherously slippery.  The ice crystals glint almost mischievously as if
+daring you to take a step...  And fall to your death!  The foothills
+continue right along the base of the mountains, sheer and isolated.  Smaller
+peaks seem accessible from some points.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44008
+D3
+~
+~
+0 0 44006
+D4
+~
+~
+0 0 44012
+D5
+~
+~
+0 0 44002
+S
+#44008
+Snowy Foothills~
+{WThe snowy foothills glimmer frostily in the light.  There doesn't seem
+to be any chance of making it up there in one piece.  The slopes look
+treacherously slippery.  The ice crystals glint almost mischievously as if
+daring you to take a step...  And fall to your death!  The foothills
+continue right along the base of the mountains, sheer and isolated.  Smaller
+peaks seem accessible from some points.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44009
+D3
+~
+~
+0 0 44007
+D5
+~
+~
+0 0 44003
+S
+#44009
+Snowy Foothills~
+{WThe snowy foothills glimmer frostily in the light.  There doesn't seem
+to be any chance of making it up there in one piece.  The slopes look
+treacherously slippery.  The ice crystals glint almost mischievously as if
+daring you to take a step...  And fall to your death!  The foothills
+continue right along the base of the mountains, sheer and isolated.  Smaller
+peaks seem accessible from some points.  {x 
+~
+0 524288 5
+D3
+~
+~
+0 0 44008
+D4
+~
+~
+0 0 44013
+S
+#44010
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44011
+D2
+~
+~
+0 0 44015
+S
+#44011
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44016
+D3
+~
+~
+0 0 44010
+D5
+~
+~
+0 0 44005
+S
+#44012
+Icy Slope~
+{WThis icy slope is very slippery and the ice crackles and crunches
+underfoot making it a very precarious climb indeed.  Mists swirl around just
+above your head and it is unclear whether this slope leads to a plunge
+downwards or carries on up.  There is a strange glowing light which appears
+to be coming from the mist.  {x 
+~
+0 524288 5
+D4
+~
+mist-swirl~
+1 0 44018
+D5
+~
+~
+0 0 44007
+S
+#44013
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44014
+D2
+~
+~
+0 0 44020
+D5
+~
+~
+0 0 44009
+S
+#44014
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44021
+D3
+~
+~
+0 0 44013
+S
+#44015
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44010
+D1
+~
+~
+0 0 44016
+D4
+~
+~
+0 0 44023
+S
+#44016
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44011
+D3
+~
+~
+0 0 44015
+S
+#44017
+Pic'atehro Peak~
+{CThese are the treacherous icy slopes of Pic'atehro Peak.  Snow abounds
+covering this glacial peak like icing drizzling over a cake.  There are
+footprints which are quite noticeable in the deep snow, echoes of a past
+time perhaps ...  Or something more recent.  Mists swirl around this peak
+sometimes like thick fog and other times like ghostly apparitions.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44018
+D2
+~
+~
+0 0 44024
+S
+#44018
+Pic'atehro Peak~
+{CThese are the treacherous icy slopes of Pic'atehro Peak.  Snow abounds
+covering this glacial peak like icing drizzling over a cake.  There are
+footprints which are quite noticeable in the deep snow, echoes of a past
+time perhaps ...  Or something more recent.  Mists swirl around this peak
+sometimes like thick fog and other times like ghostly apparitions.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44019
+D3
+~
+~
+0 0 44017
+D4
+~
+fog~
+1 0 44025
+D5
+~
+mist-swirl~
+1 0 44012
+S
+#44019
+Pic'atehro Peak~
+{CThese are the treacherous icy slopes of Pic'atehro Peak.  Snow abounds
+covering this glacial peak like icing drizzling over a cake.  There are
+footprints which are quite noticeable in the deep snow, echoes of a past
+time perhaps ...  Or something more recent.  Mists swirl around this peak
+sometimes like thick fog and other times like ghostly apparitions.  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44026
+D3
+~
+~
+0 0 44018
+S
+#44020
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44013
+D1
+~
+~
+0 0 44021
+S
+#44021
+Snowy Peak~
+{WThis snowy peak is but a small fraction of the wonders yet to behold in
+this enchanted place.  Mists swirl around the bases of the higher peaks in
+the distance, their snowy caps just visible poking out of the clouds.  It
+looks as though it is possible to edge around this particular peak... 
+Careful you might slip and fall!!  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44014
+D3
+~
+~
+0 0 44020
+D4
+~
+~
+0 0 44027
+S
+#44022
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44023
+D2
+~
+~
+0 0 44029
+S
+#44023
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44030
+D3
+~
+~
+0 0 44022
+D5
+~
+~
+0 0 44015
+S
+#44024
+Pic'atehro Peak~
+{CThese are the treacherous icy slopes of Pic'atehro Peak.  Snow abounds
+covering this glacial peak like icing drizzling over a cake.  There are
+footprints which are quite noticeable in the deep snow, echoes of a past
+time perhaps ...  Or something more recent.  Mists swirl around this peak
+sometimes like thick fog and other times like ghostly apparitions.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44017
+D2
+~
+~
+0 0 44031
+S
+#44025
+Pic'atehro Ice Cap~
+{WPic'atehro I{Cce Cap stan{xds maj{Cestically just ab{Wove the cloud
+{Wcover as if {Cit were a {xking surveyin{Cg its lands and pe{Woples.  Ice
+{Wglints and{C sparkles, f{xrosted with a ligh{Ct layer of snow wh{Wich has
+{Wcrusted {Cin the cold{x air of this mountainous reg{Cion.  Strange
+li{Wghts {Wdance a{Cbove the ice {xcap itself, little fireflies whic{Ch dart
+around c{Wrazily.  {x 
+~
+0 524288 5
+D5
+~
+fog~
+1 0 44018
+S
+#44026
+Pic'atehro Peak~
+{CThese are the treacherous icy slopes of Pic'atehro Peak.  Snow abounds
+covering this glacial peak like icing drizzling over a cake.  There are
+footprints which are quite noticeable in the deep snow, echoes of a past
+time perhaps ...  Or something more recent.  Mists swirl around this peak
+sometimes like thick fog and other times like ghostly apparitions.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44019
+D2
+~
+~
+0 0 44033
+S
+#44027
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D1
+~
+~
+0 0 44028
+D2
+~
+~
+0 0 44034
+D5
+~
+~
+0 0 44021
+S
+#44028
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D2
+~
+~
+0 0 44035
+D3
+~
+~
+0 0 44027
+S
+#44029
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44022
+D1
+~
+~
+0 0 44030
+D4
+~
+~
+0 0 44037
+S
+#44030
+Icy Peak~
+{WThis icy peak rises up to just below the mists which surround the
+higher peaks.  The air is damp as the icy slopes crack and shiver under your
+weight.  Ice crystals glint and sparkle in the strange light almost taunting
+you in their phosphoresence.  The slopes plunge down steeply to a chasm
+below.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44023
+D3
+~
+~
+0 0 44029
+D4
+~
+ice-block~
+1 0 44038
+S
+#44031
+Pic'atehro Peak~
+{CThese are the treacherous icy slopes of Pic'atehro Peak.  Snow abounds
+covering this glacial peak like icing drizzling over a cake.  There are
+footprints which are quite noticeable in the deep snow, echoes of a past
+time perhaps ...  Or something more recent.  Mists swirl around this peak
+sometimes like thick fog and other times like ghostly apparitions.  {x 
+~
+0 524288 5
+D0
+~
+~
+0 0 44024
+D1
+~
+~
+0 0 44032
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 44034 4 1
+D 0 44038 5 1
+D 0 44043 5 1
+D 0 44049 5 1
+D 0 44050 4 1
+D 0 44051 5 1
+D 0 44056 4 1
+D 0 44059 4 1
+D 0 44061 4 1
+D 0 44062 4 1
+D 0 44063 5 1
+D 0 44065 5 1
+D 0 44067 4 1
+D 0 44069 5 1
+D 0 44071 5 1
+D 0 44072 5 1
+D 0 44073 5 1
+D 0 44074 4 1
+D 0 44079 4 1
+D 0 44012 4 1
+D 0 44018 4 1
+D 0 44018 5 1
+D 0 44025 5 1
+D 0 44030 4 1
+M 0 44002 5 44037 1
+M 0 44004 5 44040 1
+M 0 44010 5 44046 1
+M 0 44009 5 44050 1
+M 0 44003 5 44055 1
+M 0 44004 5 44058 1
+M 0 44001 1 44061 1
+E 0 44001 0 16
+M 0 44004 5 44070 1
+E 0 44004 0 16
+M 0 44007 1 44071 1
+E 0 44007 0 17
+M 0 44006 1 44072 1
+E 0 44006 0 17
+M 0 44008 1 44073 1
+E 0 44008 0 6
+M 0 44009 5 44074 1
+M 0 44002 5 44078 1
+M 0 44009 5 44079 1
+M 0 44002 5 44082 1
+G 0 44002 0
+M 0 44010 5 44085 1
+E 0 44010 0 9
+M 0 44010 5 44093 1
+M 0 44003 5 44094 1
+M 0 44002 5 44095 1
+M 0 44003 5 44099 1
+M 0 44000 10 44001 1
+M 0 44010 5 44002 1
+M 0 44000 10 44003 1
+M 0 44000 10 44004 1
+E 0 44000 0 8
+M 0 44000 10 44006 1
+M 0 44009 5 44007 1
+M 0 44010 5 44008 1
+M 0 44000 10 44009 1
+M 0 44000 10 44010 1
+M 0 44003 5 44012 1
+M 0 44000 10 44014 1
+M 0 44000 10 44016 1
+M 0 44004 5 44019 1
+G 0 44012 0
+M 0 44000 10 44020 1
+M 0 44009 5 44021 1
+E 0 44009 0 3
+M 0 44002 5 44023 1
+M 0 44005 1 44025 1
+E 0 44005 0 17
+M 0 44000 10 44028 1
+M 0 44003 5 44031 1
+E 0 44003 0 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

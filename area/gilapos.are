@@ -1,0 +1,118 @@
+#AOD_AREA
+Gilapos HOMETOWN~
+60600 60699 C 1
+Levl 300 310
+Bldr Geldar~
+End
+
+#MOBILES
+#60600
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+305 375 0 10468 12583 11525 12733 40 36 354 none
+-540 -562 -394 -648
+STANDING STANDING neutral 5357
+0 mage medium 0
+
+#60601
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+310 322 0 11047 11723 10476 12820 41 33 296 none
+-575 -610 -453 -470
+STANDING STANDING neutral 5919
+0 mage medium 0
+#0
+
+#OBJECTS
+#60600
+spiked helmet~
+A large spiked helmet~
+a large spiked helmet lies here.~
+armor 0 AE
+0 0 0 0 0
+308 10 0
+
+#60601
+sword~
+A sword~
+A sword lies here.~
+weapon 0 AN
+sword 0 0 none 0
+305 10 30500
+
+#60603
+a marble fountain water~
+A {&Marble{x {BFountain{x~
+A {&Marble {BFountain{x holds fresh water for all.~
+fountain OX 0
+50000 50000 'water' 0 0
+0 1000 0
+#0
+
+#ROOMS
+#60600
+{BMarket Square{x~
+Looking around the {bMarket Square{x of the great city of {GGilapos{x,
+immaculate is the first word to come to mind.  {WCobblestone{x walkways
+are adorned by {Biron {Ylamp{x posts.  There doesn't seem to be any {ggarbage{x,
+and people seem relatively peaceful.  To the west a grand {ccastle
+{xerupts out of the earth, housing the law makers, {rhealers{x, and the
+statues of the {RGods{x that have come and gone.  To the north is the
+main entrances to the city, large {Ygolden{x arches let the transient
+adveturers know this is a city of greatness.  To the east is the
+bustling markets of {GGilapos{x.  To the south looms a great mist.
+~
+262144 1
+D0
+~
+~
+0 0 60601
+D3
+~
+~
+0 0 60602
+S
+
+#60601
+~
+~
+0 0
+D2
+~
+~
+0 0 60600
+S
+
+#60602
+{BTemple Square~
+The grand temple of the city {GGilapos{x.  {&Marble{x floors shine, and the ceiling
+is adorned in paintings depicting the history of {GGilapos{x.  It appears by
+the painting this city was once a slum of sorts, and was raided by {rhorrid{x
+creatures and feel into the grips of {Yc{rh{^a{&o{$s{x.  An immortal is depicted, there
+was {Rblood{x, and out of the {8ashes{x {GGilapos{x rose.
+~
+262144 1
+D1
+~
+~
+0 0 60600
+S
+#0
+
+#RESETS
+O 100 60603 0 60602
+S
+
+#$

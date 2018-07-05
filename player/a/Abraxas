@@ -1,0 +1,439 @@
+#PLAYER
+Name Abraxas~
+Race vampire~
+Levl 9
+Clas acolyte~
+Pkpt 100
+TSex 1
+LogO 1351062683
+Sock mn-71-55-129-236.dyn.embarqhsd.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1351038430
+Plat 0
+Gold 11
+Silv 73
+Exp  17251
+Attr 18 15 15 18 20
+Prom {x<{R%A{x/{r%H{xhp {B%B{x/{b%M{xm {G%Cmv {x<%X{Wxp{x>~
+Act  BCDEFGHJQRT
+AfBy CDEFGHLTUVZce
+ShBy CDEFGHIJKLR
+Comm N
+Pos  8
+Alig  -1
+Sk 1 'animate'
+Sk 1 'blindness'
+Sk 1 'blink'
+Sk 1 'bloodbath'
+Sk 1 'change sex'
+Sk 1 'charm person'
+Sk 1 'constitution'
+Sk 1 'curse'
+Sk 1 'darkvision'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect neutral'
+Sk 1 'detect poison'
+Sk 1 'diminish'
+Sk 1 'energy drain'
+Sk 1 'farsight'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'giant strength'
+Sk 1 'growth'
+Sk 1 'haste'
+Sk 1 'heresy'
+Sk 1 'identify'
+Sk 1 'infravision'
+Sk 1 'intellect'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'locust swarm'
+Sk 1 'mass invis'
+Sk 1 'nexus'
+Sk 1 'nightmare'
+Sk 1 'pass door'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'portal'
+Sk 1 'refresh'
+Sk 1 'regeneration'
+Sk 1 'resurrect'
+Sk 1 'shrink'
+Sk 1 'sleep'
+Sk 1 'slow'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'transport'
+Sk 1 'ventriloquate'
+Sk 1 'voodoo'
+Sk 1 'weaken'
+Sk 1 'wisdom'
+Sk 1 'wizard eye'
+Sk 1 'word of recall'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'fast healing'
+Sk 1 'feed'
+Sk 40 'hand to hand'
+Sk 50 'recall'
+Sk 1 'scrolls'
+Sk 1 'shield block'
+Sk 1 'staves'
+Sk 1 'wands'
+MaxDam 64
+LLev 0
+Pass Ab9sEt1mUS/Ww~
+Plyd 597
+Note 0 0 0 0 0
+Room 3712
+HMVN 490 376 303 492 272 267
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 14 34 31
+Deviant 0 0
+Prac 56
+Trai 41
+Devote current 0
+Pnts 47
+Mkil 19
+Gr 'acolyte basics'
+Gr 'acolyte default'
+Gr 'beguiling'
+Gr 'detection'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'rom basics'
+Gr 'transportation'
+Affc 'fly'   0   0   0  -1   0   0     524288
+Affc 'regeneration'   0   0   0  -1   0   0  268435456
+Affc 'vampiricshield'   1   0   0  -1   0   0        512
+Affc 'acidshield'   1 115   0  25   0   0       2048
+Affc 'armor'   0 114   0  20 -115  17          0
+Affc 'awen'   0 115   0  20  28  18          0
+Affc 'awen'   0 114   0  20  28  19          0
+Affc 'barkskin'   0 115   0  20 -115  17          0
+Affc 'bless'   0 113   0  41  14  18          0
+Affc 'bless'   0 115   0  41 -14  20          0
+Affc 'constitution'   0 114   0   8   3   5          0
+Affc 'darkvision'   0 114   0  25   0   0   33554432
+Affc 'detect evil'   0 114   0  54   0   0          4
+Affc 'detect good'   0 115   0  54   0   0         64
+Affc 'detect hidden'   0 115   0  54   0   0         32
+Affc 'detect invis'   0 114   0  54   0   0          8
+Affc 'detect magic'   0 115   0  54   0   0         16
+Affc 'detect neutral'   0 114   0  54   0   0        128
+Affc 'devotion'   0 114   0   8 -22  20          0
+Affc 'divine aura'   1 115   0  59   0   0       1024
+Affc 'faith'   0 115   0  20  57  19          0
+Affc 'faith'   0 115   0  20  57  18          0
+Affc 'faith'   4 115   0  20 -23  14          0
+Affc 'farsight'   0 113   0  54   0   0       2048
+Affc 'fireshield'   1 115   0  25   0   0          8
+Affc 'frenzy'   0 114   0  35  38  18          0
+Affc 'frenzy'   0 114   0  35  38  19          0
+Affc 'frenzy'   0 114   0  35  90  17          0
+Affc 'giant strength'   0 114   0  54   3   1 1073741824
+Affc 'golden armor'   4 115   0   8 -16  20          0
+Affc 'golden armor'   4 114   0   8 -16  17          0
+Affc 'golden armor'   4 115   0   8 -16   1          0
+Affc 'growth'   0 114   0   2   1  26          0
+Affc 'haste'   0 114   0  54   3   2    2097152
+Affc 'iceshield'   1 115   0  25   0   0          4
+Affc 'intellect'   0 115   0   8   3   3          0
+Affc 'pass door'   0 114   0  25   0   0    1048576
+Affc 'rockshield'   1 115   0  25   0   0         32
+Affc 'sanctuary'   1 115   0  16   0   0        128
+Affc 'shield'   0 115   0  25 -38  17          0
+Affc 'shockshield'   1 115   0  25   0   0         16
+Affc 'shrapnelshield'   1 114   0  25   0   0         64
+Affc 'stone skin'   0 115   0  54 -115  17          0
+Affc 'thornshield'   1 114   0  25   0   0        256
+Affc 'vigorize'   0 114   0   1 181  13          0
+Affc 'watershield'   1 115   0  25   0   0     131072
+Affc 'wisdom'   0 114   0   8   3   4          0
+End
+
+#O
+Vnum 3162
+Nest 0
+End
+
+#O
+Vnum 3163
+Nest 0
+End
+
+#O
+Vnum 3169
+Nest 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+Wear 0
+Valu 2 1 186
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 44
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 44
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 44
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 44
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 44
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 44
+Wear 13
+End
+
+#O
+Vnum 3725
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 47
+Wear 26
+End
+
+#O
+Vnum 3701
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 47
+Wear 16
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 47
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 47
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+Wear 25
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+Wear 24
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+Wear 3
+End
+
+#O
+Vnum 3726
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+Wear 21
+End
+
+#O
+Vnum 3700
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 49
+End
+
+#O
+Vnum 3706
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 50
+Wear 6
+End
+
+#O
+Vnum 3711
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 50
+Wear 12
+End
+
+#O
+Vnum 720
+Nest 0
+Name mask normal~
+Loader MPOP: (03:10-10/24/2012) Abraxas~
+End
+
+#O
+Vnum 3708
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 50
+Wear 8
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 50
+Wear 14
+End
+
+#O
+Vnum 3724
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 50
+Wear 1
+End
+
+#O
+Vnum 3719
+Nest 0
+MULTI Abraxas~ mn-71-55-129-236.dyn.embarqhsd.net~ 50
+End
+
+#END

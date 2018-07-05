@@ -1,0 +1,230 @@
+Max_On 12
+MostOn 7
+Mltlck 0
+LogAll 1
+Good_G Blaise~
+Evil_G Rzarecta~
+Neut_G Locke~
+MudNam Fantasy Land~
+QstObj 1 10
+QsVnum 60 60
+QsGold 5000 15000
+QPoint 100 300
+QPracs 5 30
+QstExp 1000 10000
+Random 700 825
+Unique 700 825
+M-Time 0
+I-Time 0
+Mor-LD 0
+Imm-LD 0
+PKills Sithik~ Phoebus~ {x{r-{RBLOODLUST{r-{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 151 151 1353040106 25 0 none~
+PKills Jasa~ Devak~ {R+{G-{RT{ryr{Ra{rnn{Ry{G-{R+{x~ {^Su{6r{8v{&i{7v{8a{&l{8i{6s{^m{x~ 101 101 1180980494 41 2 none~
+PKills Devak~ Jasa~ {^Su{6r{8v{&i{7v{8a{&l{8i{6s{^m{x~ {R+{G-{RT{ryr{Ra{rnn{Ry{G-{R+{x~ 101 101 1180853239 25 0 none~
+PKills Devak~ NotJosh~ {^Su{6r{8v{&i{7v{8a{&l{8i{6s{^m{x~ {R+{G-{RT{ryr{Ra{rnn{Ry{G-{R+{x~ 101 101 1180648300 42 1 none~
+PKills NotaWarlock~ Averius~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ {^Su{6r{8v{&i{7v{8a{&l{8i{6s{^m{x~ 64 70 1180645283 25 0 none~
+PKills Goneja~ Rust~ {^Su{6r{8v{&i{7v{8a{&l{8i{6s{^m{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 101 101 1180300548 25 0 none~
+PKills Dahak~ Goneja~ {DS{wh{ci{Cn{Wi{Cg{ca{wm{Di{x~ {rC{Ro{rn{Rd{re{Rm{rn{Re{rd{x~ 101 101 1179783644 25 0 none~
+PKills Roq~ Dahak~ {Y-{yD{8e{wf{Wia{wn{8c{yE{Y-{x~ {DS{wh{ci{Cn{Wi{Cg{ca{wm{Di{x~ 101 101 1177813277 14 1 none~
+PKills NotJosh~ Dahak~ {Y-{yD{8e{wf{Wia{wn{8c{yE{Y-{x~ {DS{wh{ci{Cn{Wi{Cg{ca{wm{Di{x~ 101 101 1176564564 18 0 none~
+PKills NotJosh~ Dahak~ {Y-{yD{8e{wf{Wia{wn{8c{yE{Y-{x~ {DS{wh{ci{Cn{Wi{Cg{ca{wm{Di{x~ 101 101 1176478232 25 0 none~
+PKills Dahak~ Sly~ {DS{wh{ci{Cn{Wi{Cg{ca{wm{Di{x~ {Y-{yD{8e{wf{Wia{wn{8c{yE{Y-{x~ 101 101 1176424054 25 0 none~
+PKills NotJosh~ Dahak~ {Y-{yD{8e{wf{Wia{wn{8c{yE{Y-{x~ {DS{wh{ci{Cn{Wi{Cg{ca{wm{Di{x~ 101 86 1176193846 25 0 none~
+
+Chann Answer
+Self  You answer '{P$t{x'~
+Other $n answers '{P$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_YELLOW
+Flags F
+Level 0
+Vrble P
+End
+
+Chann Ask
+Self  You ask '{P$t{x'~
+Other $n asks '{P$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_YELLOW
+Flags F
+Level 0
+Vrble P
+End
+
+Chann Barter
+Self  You barter: {A$t{x~
+Other $n {Abarters{x '{A$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_BLUE
+Flags B
+Level 0
+Vrble A
+End
+
+Chann ClanGossip
+Self  You cgossip '{E$t{x'~
+Other $n cgossips '{E$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_BLUE
+Flags X
+Level 0
+Vrble E
+End
+
+Chann Flame
+Self  You {Rf{rl{Ya{rm{Re{x '{p$t{x'~
+Other $n {Rf{rl{Yam{re{Rs{x '{p$t{x'~
+Arena 0
+Censr 0
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_RED
+Flags J
+Level 0
+Vrble p
+End
+
+Chann Gossip
+Self  You gossip '{H$t{x'~
+Other $n gossips '{H$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_BLUE
+Flags E
+Level 0
+Vrble H
+End
+
+Chann Grats
+Self  You grat '{J$t{x'~
+Other $n grats '{J$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color YELLOW
+Flags R
+Level 0
+Vrble J
+End
+
+Chann Herotalk
+Self  You [{uHERO{x] '{u$t{x'~
+Other $n [{uHERO{x] '{u$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color GREEN
+Flags K
+Level 101
+Vrble u
+End
+
+Chann IC
+Self  You {W>*{CIC{W*<{x {v$t{x~
+Other $n {W>*{CIC{W*<{x {v$t{x~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_CYAN
+Flags O
+Level 0
+Vrble v
+End
+
+Chann Immtalk
+Self  {WYou: {L$t{x~
+Other {W$n: {L$t{x~
+Arena 1
+Censr 0
+Drunk 0
+PTitl 0
+Quiet 1
+Color BRIGHT_RED
+Flags C
+Level 152
+Vrble L
+End
+
+Chann OOC
+Self  You [{WOOC{x] '{n$t{x'~
+Other $n [{WOOC{x] '{n$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_CYAN
+Flags D
+Level 0
+Vrble n
+End
+
+Chann QuestGossip
+Self  You qgossip '{l$t{x'~
+Other $n qgossips '{l$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color MAGENTA
+Flags c
+Level 0
+Vrble l
+End
+
+Chann Quote
+Self  You quote '{Q$t{x'~
+Other $n quotes '{Q$t{x'~
+Arena 0
+Censr 1
+Drunk 0
+PTitl 0
+Quiet 0
+Color GREEN
+Flags I
+Level 0
+Vrble Q
+End
+
+Chann Racetalk
+Self  $n [{oRACE{x] '{o$t{x'~
+Other $n [{oRACE{x] '{o$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_BLUE
+Flags G
+Level 0
+Vrble o
+End
+
+END

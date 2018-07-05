@@ -1,0 +1,738 @@
+#AREADATA
+Name Library~
+Builders Maximus Unlinked~
+VNUMs 41800 41999
+Continent 0
+Credits (null)~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#41800
+bug~
+a bug~
+A bug scurries around.
+~
+Small, easy prey.
+~
+centipede~
+AB Z 0 0 0
+0 20 20d1+0 0d0+0 20d1+0 sting
+0 0 0 0
+0 0 FI E
+stand stand none 0
+ABGO ACK small unknown
+M DEATH 41800 100~
+#41801
+cat~
+a cat~
+A cat is here, purring.
+~
+NYAVOGAS
+~
+cat~
+AB Z 0 0 0
+3 20 80d1+0 0d0+0 20d1+0 claw
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGV ACDEFHJKQUV small unknown
+M DEATH 41801 100~
+#41802
+dog~
+a dog~
+A dog won't shut up.
+~
+SHUT IT UP!
+~
+dog~
+AB 0 0 0 0
+4 20 180d1+0 0d0+0 30d1+0 bite
+0 0 0 0
+H 0 0 0
+stand stand none 0
+AGV ACDEFHJKUV medium unknown
+M DEATH 41802 100~
+#41803
+elephant~
+an elephant~
+An elephant charges.
+~
+It's big, and it has tough skin. This mammal might put up a good fight.
+~
+hill-giant~
+AB 0 0 0 0
+6 20 400d1+0 0d0+0 50d1+0 crush
+1 1 1 1
+0 0 0 C
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#41804
+fighter~
+a fighter~
+A fighter is here, ready to fight.
+~
+Ready to fight? Take their sword!
+~
+human~
+ABT 0 0 0 0
+8 20 100d3+100 0d0+0 20d2+10 slash
+2 2 2 2
+0 0 0 0
+stand stand either 100000
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 41804 100~
+#41805
+grandmother grandma~
+a grandmother~
+A grandma is here baking.
+~
+~
+human~
+AB 0 0 0 0
+0 0 420d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 41805 yes~
+#41806
+healer~
+a healer~
+A healer is here to help you learn.
+~
+The healer offers the following help:
+HEAL
+GAIN
+TRAIN
+PRACTICE
+~
+human~
+ABJKab 0 0 0 0
+666 0 1d1+0 0d0+0 0d0+0 none
+0 0 0 0
+0 Q 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#41800
+Newbie's Book A-B-C's~
+{0The Newbie's Book of A-B-C's~
+A book with the letters A-B-C beckons to be read.~
+paper~
+portal 0 A
+A ABG A ABEGIJNP 0
+1 10 0 P
+#41801
+giant tree~
+a giant {3tr{2e{@e{0~
+A giant {3tr{2e{@e {0is here, growing {@app{2l{@es{0 and dropping {!app{2l{!es{0.~
+organic~
+container T 0
+0 0 0 0 0
+0 0 0 P
+#41802
+red apple~
+{!app{2l{!e{0~
+An {!app{2l{!e{0 fell here.~
+organic~
+pill TU A
+30 'bless' 'haste' 'frenzy' 'giant strength'
+0 10 0 P
+#41803
+green apple~
+{@app{2l{@e{0~
+An {@app{2l{@e{0 fell here.~
+organic~
+pill TU A
+30 'armor' 'shield' 'stone skin' 'steel flesh'
+0 10 0 P
+#41804
+fighter sword~
+a fighter sword~
+A sword is stuck in the ground here.~
+iron~
+weapon T AN
+sword 10 3 slash 0
+15 10 420 P
+A
+2 2
+A
+18 3
+A
+19 3
+#41805
+cookie~
+{3co{8o{3k{8i{3e{0~
+A delicious {3co{8o{3k{8i{3e{0 was made with love but left here.~
+love~
+food T A
+30 20 0 0 0
+0 0 0 P
+#41806
+glass milk~
+{&milk{0~
+A glass of {&milk {0was poured with love but left here.~
+unknown~
+drink T A
+50 50 'milk' 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#41800
+Entrance to the Library~
+~
+0 134217736 0
+D0
+~
+~
+0 0 41801
+S
+#41801
+Library Lobby~
+~
+0 134217736 0
+D0
+~
+~
+0 0 41804
+D1
+~
+~
+0 0 41803
+D2
+~
+~
+0 0 41800
+D3
+~
+~
+0 0 41802
+S
+#41802
+Library Lobby~
+~
+0 134217736 0
+D0
+~
+~
+0 0 41805
+D1
+~
+~
+0 0 41801
+S
+#41803
+Library Lobby~
+~
+0 134217736 0
+D0
+~
+~
+0 0 41806
+D3
+~
+~
+0 0 41801
+S
+#41804
+Help Center~
+~
+0 134217736 0
+D0
+~
+~
+0 0 41807
+D1
+~
+~
+0 0 41806
+D2
+~
+~
+0 0 41801
+D3
+~
+~
+0 0 41805
+S
+#41805
+Library Lobby~
+~
+0 134217736 0
+D0
+~
+~
+0 0 41808
+D1
+~
+~
+0 0 41804
+D2
+~
+~
+0 0 41802
+S
+#41806
+Library Lobby~
+~
+0 134217736 0
+D0
+~
+~
+0 0 41809
+D2
+~
+~
+0 0 41803
+D3
+~
+~
+0 0 41804
+S
+#41807
+Library Lobby~
+~
+0 134217736 0
+D1
+~
+~
+0 0 41809
+D2
+~
+~
+0 0 41804
+D3
+~
+~
+0 0 41808
+S
+#41808
+Library Lobby~
+~
+0 134217736 0
+D1
+~
+~
+0 0 41807
+D2
+~
+~
+0 0 41805
+S
+#41809
+Library Lobby~
+~
+0 134217736 0
+D1
+~
+~
+0 0 41810
+D2
+~
+~
+0 0 41806
+D3
+~
+~
+0 0 41807
+S
+#41810
+Children's Room~
+~
+0 8 0
+D3
+~
+~
+0 0 41809
+S
+#41811
+The Newbie's Book of A-B-C's~
+PREFACE
+This book is written for newbies to help them learn the A-B-C's.
+(If you don't want to read this book RECALL NOW!)
+ 
+Written by Maximus Haximus
+~
+0 524296 0
+D5
+~
+~
+0 0 41812
+M 100 H 500
+S
+#41812
+A is for~
+Apples, apples, everywhere.
+~
+0 532488 0
+D5
+~
+~
+0 0 41813
+M 100 H 500
+S
+#41813
+B is for~
+Bugs that go squish.
+~
+0 532488 0
+D5
+~
+~
+0 0 41814
+M 100 H 500
+S
+#41814
+C is for~
+Cats meowing.
+~
+0 532488 0
+D5
+~
+~
+0 0 41815
+M 100 H 500
+S
+#41815
+D is for~
+Dogs barking.
+~
+0 532488 0
+D5
+~
+~
+0 0 41816
+M 100 H 500
+S
+#41816
+E is for~
+Elephants trampling.
+~
+0 532488 0
+D5
+~
+~
+0 0 41817
+M 100 H 500
+S
+#41817
+F is for~
+Fighters swinging swords.
+~
+0 532488 0
+D5
+~
+~
+0 0 41818
+M 100 H 500
+S
+#41818
+G is for~
+Grandma's love.
+~
+0 532488 0
+D5
+~
+~
+0 0 41819
+M 100 H 500
+S
+#41819
+H is for~
+Healer here to help.
+~
+0 532488 0
+D5
+~
+~
+0 0 41820
+M 100 H 500
+S
+#41820
+I is for~
+Illithids ready to eat your brains.
+~
+0 532488 0
+D5
+~
+~
+0 0 41821
+M 100 H 500
+S
+#41821
+J is for~
+~
+0 532488 0
+D5
+~
+~
+0 0 41822
+M 100 H 500
+S
+#41822
+K is for~
+~
+0 532488 0
+D5
+~
+~
+0 0 41823
+M 100 H 500
+S
+#41823
+L is for~
+Luck, either you have it or you don't.
+~
+0 532488 0
+D5
+~
+~
+0 0 41824
+M 100 H 500
+S
+#41824
+M is for~
+~
+0 532488 0
+D5
+~
+~
+0 0 41825
+M 100 H 500
+S
+#41825
+~
+~
+0 0 0
+D5
+~
+~
+0 0 41826
+S
+#41826
+~
+~
+0 0 0
+D5
+~
+~
+0 0 41827
+S
+#41827
+~
+~
+0 0 0
+D5
+~
+~
+0 0 41828
+S
+#41828
+~
+~
+0 0 0
+D5
+~
+~
+0 0 41829
+S
+#41829
+~
+~
+0 0 0
+D5
+~
+~
+0 0 41830
+S
+#41830
+~
+~
+0 0 0
+D5
+~
+~
+0 0 41831
+S
+#41831
+~
+~
+0 0 0
+D5
+~
+~
+0 0 41832
+S
+#41832
+~
+~
+0 0 0
+D5
+~
+~
+0 0 41833
+S
+#41833
+~
+~
+0 0 0
+D5
+~
+~
+0 0 41834
+S
+#41834
+~
+~
+0 0 0
+D5
+~
+~
+0 0 41835
+S
+#41835
+~
+~
+0 0 0
+D5
+~
+~
+0 0 41836
+S
+#41836
+.~
+~
+0 0 0
+D5
+~
+~
+0 0 41837
+S
+#41837
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 41801 0 41812 *A giant {3tr{2e{@e{0 loaded to A is for
+P 0 41803 5 41801 5 *{@app{2l{@e{0 put inside {@app{2l{@e{0
+O 0 41802 0 41812 *{!app{2l{!e{0 loaded to A is for
+O 0 41802 0 41812 *{!app{2l{!e{0 loaded to A is for
+O 0 41802 0 41812 *{!app{2l{!e{0 loaded to A is for
+O 0 41802 0 41812 *{!app{2l{!e{0 loaded to A is for
+O 0 41802 0 41812 *{!app{2l{!e{0 loaded to A is for
+M 0 41800 1 41813 1 *Load a bug
+M 0 41801 1 41814 1 *Load a cat
+M 0 41802 1 41815 1 *Load a dog
+M 0 41803 1 41816 1 *Load an elephant
+M 0 41804 1 41817 1 *Load a fighter
+E 0 41804 0 16 *A fighter sword is loaded wielded of a fighter
+M 0 41805 1 41818 1 *Load a grandmother
+G 0 41805 0 *{3co{8o{3k{8i{3e{0 is given to a grandmother
+G 0 41805 0 *{3co{8o{3k{8i{3e{0 is given to a grandmother
+G 0 41805 0 *{3co{8o{3k{8i{3e{0 is given to a grandmother
+G 0 41805 0 *{3co{8o{3k{8i{3e{0 is given to a grandmother
+G 0 41805 0 *{3co{8o{3k{8i{3e{0 is given to a grandmother
+G 0 41806 0 *{&milk{0 is given to a grandmother
+O 0 3397 0 41819 *A {3h{#ea{&l{#in{3g {6s{^a{&u{^n{6a{0 loaded to H is for
+M 0 41806 1 41819 1 *Load a healer
+S
+
+
+
+#SHOPS
+41805 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#41800
+if level $n == 1
+mob mload 41800
+mob echo A bug crawls out of a hole in the ground.
+else
+mob echo No more bugs come out of the hole.
+Read on...
+endif
+~
+#41801
+if level $n == 2
+mob mload 41801
+mob echo You feel another cat rubbing against your leg.
+else
+mob echo No more cats appear.
+mob echo Read on...
+endif
+~
+#41802
+if level $n == 3
+mob mload 41802
+mob echo You hear another dog barking.
+else
+No more barking is heard.
+Read on...
+endif
+~
+#41803
+if level $n == 4
+mob mload 41803
+mob echo You hear the rumble of a stampeding elephant.
+else
+mob transfer $n 41817
+mob at 41817 force $n look
+endif
+~
+#41804
+if level $n < 7
+mob mload 41804
+mob oload 41804 15 none
+mob otransfer 41804 $i
+mob echo Another fighter steps up to challenge you.
+else
+mob transfer $n 41818
+mob at 41818 mob echo {x
+mob at 41818 force $n look
+mob at 41818 force grandmother say Hello there dearie, would you like some cookies and milk?
+endif
+~
+#41805
+smile $n
+mob echo {x
+say Here ya go dearie, some cookies and milk.
+mob give cookie $n
+give cookie $n
+give cookie $n
+give cookie $n
+give cookie $n
+give milk $n
+mob oload 41805 100 none
+mob oload 41805 100 none
+mob oload 41805 100 none
+mob oload 41805 100 none
+mob oload 41805 100 none
+mob oload 41806 100 none
+~
+#0
+
+#$

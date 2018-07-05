@@ -1,0 +1,451 @@
+#AOD_AREA
+Quest Gauntlet - D~
+68 99 C 9
+Levl 1 151
+Bldr RzA~
+End
+
+#MOBILES
+#99
+{!Zellie's {1Evil Twin{x~
+{!Zellie's {1Evil Twin{x~
+Here stands {!Zellie's {1Evil Twin{7.{x
+~
+She is a short, blonde haired girl.  She has deep blue eyes.  Her body flames with EVIL.
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT 0 O -1000 0
+125 69 0 241040 260566 2028 2777 20 20 200 none
+-1000 -1000 -1000 -1000
+STANDING STANDING female 6900
+0 mage medium ABCDEFGIJ
+#0
+
+#OBJECTS
+#68
+Rose Garden~
+rose Garden~
+You see a Rose Garden here~
+pit X 0
+0 0 0 0 0
+1 1000 1
+
+#69
+useless object~
+useless object - Tien~
+Useless object - Tien~
+trash X AN
+0 0 0 0 0
+107 0 0
+
+#70
+keywords of the object go here!~
+what you see in inventory/when worn/affects dealing with object show up here.~
+When item is on the ground/looked at, this shows up.~
+trash X 0
+0 0 0 0 0
+0 0 0
+E
+sample~
+This is a sample extra description, it will show up when the player types
+"look <keyword" in this case, look sample shows it.  Always leave your
+conditions at 100, and don't forget weights and costs!  
+~
+#0
+
+#ROOMS
+#68
+{wE{Dntranc{we t{Do {wt{Dh{we {YG{yauntle{Yt{x~
+{cThis is the beginning of the end.  From this room onward puts your wits
+and experience to the final test.  For surviving what lies ahead will take
+everything you have.  It is rather simple, just make it to the last room,
+and place the Rose you carried all the way through in the vase on the table.
+Pick any rose you want from the garden around you, and carry it with you. 
+Expect the unexpected and keep on your toes, for if not, you shall surely be
+on your arse.{x  
+~
+4 0
+D0
+~
+~
+0 0 69
+S
+
+#69
+{wC{Dorrido{wr {wi{Dn {wt{Dh{we {YG{yauntle{Yt{x~
+{cEverystep you take can only be forward or side to side, no turning
+back.  The doors to the gauntlet closed behind you as you stepped forth. 
+All you can do now is move on , or surely perish here.  Scattered bones,
+weapons and armor liter the floor.  {x 
+~
+0 0
+D0
+~
+~
+0 0 70
+D1
+~
+~
+0 0 76
+D3
+~
+~
+0 0 77
+S
+
+#70
+{wC{Dorrido{wr {wi{Dn {wt{Dh{we {YG{yauntle{Yt{x~
+{cEverystep you take can only be forward or side to side, no turning
+back.  All you can do now is move on, or surely perish here.  Scattered
+bones, weapons and armor liter the floor.  {x 
+~
+0 0
+D0
+~
+~
+0 0 71
+D1
+~
+~
+0 0 78
+D2
+~
+~
+0 0 69
+D3
+~
+~
+0 0 79
+S
+
+#71
+{wC{Dorrido{wr {wi{Dn {wt{Dh{we {YG{yauntle{Yt{x~
+{cEverystep you take can only be forward or side to side, no turning
+back.  All you can do now is move on, or surely perish here.  Scattered
+bones, weapons and armor liter the floor.  {x 
+~
+0 0
+D0
+~
+~
+0 0 72
+D1
+~
+~
+0 0 80
+D2
+~
+~
+0 0 70
+D3
+~
+~
+0 0 81
+S
+
+#72
+{wC{Dorrido{wr {wi{Dn {wt{Dh{we {YG{yauntle{Yt{x~
+{cEverystep you take can only be forward or side to side, no turning
+back.  All you can do now is move on, or surely perish here.  Scattered
+bones, weapons and armor liter the floor.  {x 
+~
+0 0
+D0
+~
+~
+0 0 73
+D1
+~
+~
+0 0 82
+D2
+~
+~
+0 0 71
+D3
+~
+~
+0 0 83
+S
+
+#73
+{wC{Dorrido{wr {wi{Dn {wt{Dh{we {YG{yauntle{Yt{x~
+{cEverystep you take can only be forward or side to side, no turning
+back.  All you can do now is move on, or surely perish here.  Scattered
+bones, weapons and armor liter the floor.  {x 
+~
+0 0
+D0
+~
+~
+0 0 74
+D1
+~
+~
+0 0 84
+D2
+~
+~
+0 0 72
+D3
+~
+~
+0 0 85
+S
+
+#74
+{wC{Dorrido{wr {wi{Dn {wt{Dh{we {YG{yauntle{Yt{x~
+{cEverystep you take can only be forward or side to side, no turning
+back.  All you can do now is move on, or surely perish here.  Scattered
+bones, weapons and armor liter the floor.  {x 
+~
+0 0
+D0
+~
+~
+0 0 75
+D1
+~
+~
+0 0 86
+D2
+~
+~
+0 0 73
+D3
+~
+~
+0 0 87
+S
+
+#75
+{wC{Dorrido{wr {wi{Dn {wt{Dh{we {YG{yauntle{Yt{x~
+{cEverystep you take can only be forward or side to side, no turning
+back.  All you can do now is move on, or surely perish here.  Scattered
+bones, weapons and armor liter the floor.  {x 
+~
+0 0
+D0
+~
+~
+0 0 90
+D1
+~
+~
+0 0 88
+D2
+~
+~
+0 0 74
+D3
+~
+~
+0 0 89
+S
+
+#76
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D1
+~
+~
+0 0 68
+S
+
+#77
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D3
+~
+~
+0 0 68
+S
+
+#78
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D1
+~
+~
+0 0 68
+S
+
+#79
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D3
+~
+~
+0 0 68
+S
+
+#80
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D1
+~
+~
+0 0 68
+S
+
+#81
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D3
+~
+~
+0 0 68
+S
+
+#82
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D1
+~
+~
+0 0 68
+S
+
+#83
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D3
+~
+~
+0 0 68
+S
+
+#84
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D1
+~
+~
+0 0 68
+S
+
+#85
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+4 0
+S
+
+#86
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+4 0
+S
+
+#87
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D3
+~
+~
+0 0 68
+S
+
+#88
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D1
+~
+~
+0 0 68
+S
+
+#89
+{wC{Dage{wd {GR{goo{Gm{x~
+{cYour just a rat stuck in a cage.  The door you came through to get here
+clangs shut as soon as you enter.  Your death will be coming soon, but need
+not worry about that, worry about what might be lurking about.  {x 
+~
+0 0
+D3
+~
+~
+0 0 68
+S
+
+#90
+{wA{Dl{wl {wo{Dr {CN{cothin{Cg{x~
+~
+0 0
+D2
+~
+~
+0 0 75
+S
+#0
+
+#RESETS
+O 100 68 0 68
+S
+
+#MOBPROGS
+#90
+Unknown~
+Unknown~
+if players == 0
+if mobs > 0
+mob zecho You feel a strange rift in reality.
+mob goto 17542
+mob cast teleport
+mob echo A rift in time and space opens and $i comes through.
+endif
+endif
+~
+#0
+
+#$

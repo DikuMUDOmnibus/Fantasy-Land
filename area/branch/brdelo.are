@@ -1,0 +1,1893 @@
+#AREADATA
+Name The Bordello~
+Builders None~
+VNUMs 75300 75349
+Credits [ 10  25] Katena   The Bordello~
+Security 9
+End
+
+
+
+#MOBILES
+#75304
+Spider~
+A Large Spider~
+A gangly spider is here, weaving a web.
+~
+A large, white spider with fangs that seem to be almost as large as the
+hallway itself, dangles monotonously from the ceiling, hanging from a thin
+piece of thread.  Its body is poised to attack anything that moves, it's
+fang drip with a venomous poison that could instantly kill an object a
+thousand times its weight.  Two rows of silvery eyes stare down at you,
+waiting for your next move.  
+~
+demon~
+AG JUV 0 -500 10
+20 22 5d30+120 10d5+30 3d5+8 beating
+-2 -2 -2 4
+0 0 CM NS
+stand stand none 200
+ACEHMV ACDEFKPUVW medium flesh
+F par BGHIJ
+#75305
+Carnivorous Rodent~
+A Carnivorous Rodent~
+A large rodent is here, gnawing on some remains.
+~
+A large furry animal that closely resembles a rat in looks, but not in
+nature.  Dangerously agressive, it will hunt and devour anything that moves.
+Its black fur is slick with the blood of former prey, and long gnarled claws
+and all four feet still have bits of flesh on them.  It screeches a hideous
+sound, as if shouting a warning to stay away if you don't want to die.  
+~
+feline~
+ACDF DFJLZ 0 -1000 9
+21 18 5d30+450 3d10+70 4d5+17 chomp
+-2 -2 -2 4
+FK L BI H
+stand stand none 300
+ACGHMV ABCDEFGHIJKQUV medium Flesh
+#75306
+Beast Two Backs~
+The Beast with Two Backs~
+The beast with two backs is here, ignoring you.
+~
+It has two heads, one that looks remarkable female, the other male.  And
+the two heads lead to two bodies that connect just below the torso, making
+up this large beast.  It growls and moans, one head concentrating on the
+other, it doesn't even notice your presence.  It moves with quick, smooth
+motions, sometimes faster, sometimes slower.  A strange odor and heat
+surrounds its body.  
+~
+human~
+AB V 0 -500 10
+20 22 10d61+150 10d61+150 5d5+20 chomp
+-2 -2 -2 4
+0 0 AH 0
+stand stand none 400
+AHMV ABCDEFGHIJK large flesh
+#75309
+Corsica Stripper~
+The stripper Corsica~
+The beautiful Corsica dances provacatively for a worked up crowd.
+~
+She moves with the grace of an angel, but her motives are not quite so
+holy.  Her body swaying suggestively to slow music, her hands taking the
+money that is being offered for her hand.  She resembles an amazon, full in
+figure and muscular at the same time.  Her beauty is alarming, her smiles
+are deadly.  
+~
+tiegre~
+AB FJVc 0 -500 10
+22 23 10d61+175 10d61+175 5d5+15 bite
+-2 -2 -2 4
+CEFHKO B LQS 0
+stand stand female 500
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75310
+French Maid~
+A French Maid~
+A maid is here, dusting the shelves.
+~
+Full in figure, lithe, young, and vibrant, this cheerful and charismatic
+woman works busily trying to keep the mansion in order.  She wears about
+herself a tight french maid's uniform that barely covers her body, and some
+black boots on her feet.  She smiles charmingly, greeting you with a silvery
+laugh.  
+~
+human~
+ACG V 0 1000 0
+26 25 10d61+345 10d7+200 5d6+10 smash
+-5 -5 -5 2
+0 0 0 0
+stand stand female 350
+AHMV ABCDEFGHIJK medium flesh
+#75311
+businessman~
+A Businessman~
+A dirty businessman is here, looking for a lady to purchase.
+~
+An obese and sweaty man stands before you, panting heavily as he tries to
+desperately find a young lady to spend the night with.  His dirty and
+wrinkled clothes are indicators that he spends many a night here, and most
+likely many a dollar as well.  His dark slicked back hair is wet with sweat
+and grease, and he waddles persistently at every female that passes him by,
+trying to sweet talk them into going to bed with him.  
+~
+elf~
+AG JV 0 500 10
+25 25 10d61+250 10d61+416 5d5+35 charge
+-5 -5 -5 2
+0 0 B Z
+stand stand male 350
+AHMV ABCDEFGHIJK medium glass
+#75312
+Rowdy Customer~
+A Rowdy Customer~
+A hysterical, rowdy customer is here, screaming at the top of his lungs.
+~
+His hair is thick with gel and stands straight up in large, obnoxious
+spikes.  He screams with a high pitched tone, shouting inaudible words as he
+tries to convey whatever excitement he is feeling.  There is a strange odor
+coming from him, sweet and hot like old cologne, but less appealing.  
+~
+titan~
+AB DVa 0 -500 10
+20 20 10d61+150 10d61+150 5d5+10 slap
+-2 -2 -2 4
+0 B D 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium Stone
+#75317
+Rand Stripper~
+Rand~
+{GRand{x, the popular male stripper, is here.
+~
+He is large in more ways than one, and the way he exposes them so
+erotically is enough to make any woman melt.  Short locks of light hair soft
+frame a long, handsome face, and rippled muscles cover his body, giving a
+final touch such perfection.  He asks you if you would like to dance, and he
+doesn't mean on stage.  
+~
+tiegre~
+AB FJVc 0 500 10
+28 28 10d61+375 10d61+375 5d6+13 beating
+-9 -9 -9 0
+CEFHKO B LQS 0
+stand stand male 500
+AGHMV ABCDEFGHIJKQUV medium Rock
+#75318
+Kisir Stripper~
+Kisir the stripper~
+{BKisir{x the male stripper is here, showing off his assets.
+~
+Olive skin, dark eyes, soft brown hair, he is a woman's dream come true,
+and his smile is even more reason to pursue him.  He flexes his muscles
+teasingly, all the while slowly taking off his clothes for his hysterical
+and love-sick fans.  He winks at you, asking you if you'd like to join in.  
+~
+tiegre~
+AB FJVc 0 500 10
+27 27 10d61+200 10d61+200 5d6+10 bite
+0 0 0 0
+CEFHKO B LQS 0
+stand stand male 500
+AGHMV ABCDEFGHIJKQUV medium marble
+#75322
+Marquelle Stripper~
+Marquelle~
+The stripper, Marquelle, is here, entertaining her clients.
+~
+She is the exotic beauty of the bordello, with almond-shaped eyes, a
+creamy complexion, and long dark hair that cascades down her soft white
+shoulders.  Her movements are hypnotic, she beckons to you with a flick of
+an eye and motion of her finger.  Her smile is charming, but there is a
+dangerous side to it, a side that is undeniable even though she is
+disarmingly gorgeous.  
+~
+tiegre~
+AB FJVc 0 -500 10
+27 27 10d61+335 10d61+416 5d6+10 smash
+-5 -5 -5 2
+CEFHKO B LQS 0
+stand stand female 350
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75325
+Viloria~
+Viloria~
+The lovely {WViloria{x is here, playing a game of pool.
+~
+She is ignorant of your stares, her only thought is on the ball and how
+she has to hit it to make it a good shot.  Her expressionless face is locked
+only on the game, her mind deep in concentration.  Her rose colored hair is
+tied up into a high pony tail that swishes slightly when she moves, and her
+violet eyes are piercingly cold.  She is a prowess, dangerous and unabiding
+to the rules and regulations of the game.  
+~
+tiegre~
+ABV FJVc 0 500 10
+30 30 10d61+416 10d61+416 5d6+15 smash
+-9 -9 -9 0
+CEFHKO B LQS 0
+stand stand female 500
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75326
+Roane~
+Roane ~
+Roane is here, keeping intruders away.
+~
+A large, handsome, and well built man, he is suitable for the task of
+bodyguard and keeper of the peace.  He stands poised to do battle with
+anyone who attempts to get in the way of him, and is determined not to allow
+anyone to pass without answering to him first.  
+~
+halforc~
+ABV Va 0 500 5
+25 25 10d61+316 10d35+20 5d6+12 crush
+-5 -5 -5 2
+EO 0 CD P
+stand stand male 200
+AGHMV ABCDEFGHIJKUVWY medium flesh
+#75327
+Bastille~
+Bastille~
+The sentinel Bastille is here, guarding the door.
+~
+He looks like a man from the wild, his eyes habor an intense fierceness
+that cannot be put name to.  His stoic expression indicates that he will pay
+you no mind, as long as you don't stay around him longer than needed.  His
+large muscles and strong arms are weapons he will use should anyone dare to
+cross him.  
+~
+halforc~
+ABV Va 0 -500 5
+24 25 10d61+200 10d6+90 5d6+7 crush
+-5 -5 -5 2
+0 0 CD P
+stand stand male 200
+AGHMV ABCDEFGHIJKUVWY medium flesh
+#75333
+Drunk College Student~
+A drunk college student~
+A drunk college student is here, swaggering around the room.
+~
+He laughs insanely to jokes that only he can hear, in his hand is a half
+empty bottle of champagne he probably stole from an unsuspecting bartender. 
+He walks crookedly into walls, and stumbles repeatedly onto the floor.  He
+shakes his head to and fro, still laughing at nothing.  
+~
+gryfalcon~
+AGV JPTV 0 -1000 10
+26 26 10d61+300 10d61+300 5d6+10 punch
+-5 -5 -5 2
+0 0 BLQ IK
+stand stand male 500
+AGHJMVW ABCDEFGHIJKPQU medium flesh
+#75334
+Kantalita~
+Kantalita~
+{MKantalita{x the bartender is here, serving up drinks.
+~
+She wears a white collared shirt and some grey slacks, topped off with a
+jovial bow tie.  Despite her rather unfeminine dress, her beauty is still
+quite noticeable.  Tall and graceful, she mixes up drinks for her customers
+with a ravishing and exciting flair.  
+~
+human~
+ABV V 0 1000 0
+30 30 10d61+416 10d61+416 10d61+416 slap
+-9 -9 -9 0
+0 ABCDELQ 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium flesh
+#75335
+Virgin Woman~
+A Virgin~
+A virgin is here, waiting for her boyfriend.
+~
+She is pale from anxiety, waiting patiently for her boyfriend to return. 
+Her hair is wet having just taken a shower, and she wears only a towel
+around her thin waist.  Her French-manicured hands shake with nervousness.  
+~
+tiegre~
+ABV FJVc 0 1000 10
+29 29 10d61+400 10d61+400 5d6+13 slap
+-9 -9 -9 0
+CEFHKO B LQS 0
+stand stand female 400
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75336
+Llandra~
+Llandra~
+{CLlandra{x the priestess is here, repenting her sins.
+~
+She is a very well-known priestess in these parts, a long time customer
+who dabbles in the pleasures of the flesh as often as she dabbles in the
+words of religion.  Tonight she has cast aside her preaching gowns and
+donned in its place a sheer, silky nightgown.  She smells of plumeria
+flowers and vanilla, her favorite scents, and has her hair done up in a
+simple bun.  On her fingers are golden rings, and she wears upon her ears
+two tiny diamond earrings.  
+~
+tiegre~
+ABV FJVc 0 -1000 10
+23 23 5d30+250 5d30+161 3d5+10 smash
+-3 -3 -3 3
+CEFHKO B LQS 0
+stand stand female 500
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75342
+Tania Lap Dancer~
+Tania~
+{GTania{x, the lap dancer is here, smiling at you flirtatiously.
+~
+She is a seductress in a profession she alone made famous.  Her elegant
+and graceful body moves effortlessly, she is out to tempt all those who come
+to see her.  Her chestnut colored hair falls in light waves down her back as
+she leans over to whisper words of beckoning into your ear.  There is a
+smell of perfume and fruit coming from her body.  
+~
+tiegre~
+ABV FJVc 0 500 10
+28 30 10d61+385 10d61+416 5d6+13 thrust
+-9 -9 -9 0
+CEFHKO B LQS 0
+stand stand female 400
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75343
+Meitai~
+Meitai ~
+{CMeitai{x is here, stretching luxiurously upon a couch.
+~
+Ladena's faithful lover (at times), she is more often than not found in
+the other's company.  It was her idea that they profit off of their taboo
+love affair, a tactic that was beyond lucritive as it was scandalous.  Her
+hair is a deep blue color, which offsets her jade green eyes surprisingly
+well.  She gazes upon her lover with adoring eyes, and at you with a cold,
+cruel look.  
+~
+tiegre~
+ABV FJVc 0 -500 10
+28 28 10d61+375 10d61+375 5d6+10 pound
+-9 -9 -9 0
+CEFHKO B LQS 0
+stand stand female 500
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75344
+Ladena~
+Ladena~
+{YLadena{x is here, enjoying some simple pleasures.
+~
+Busty, tall, and incredibly beautiful, she prides on the fact that she
+can make love like a real woman to any woman.  Her short blond hair is
+slicked back, her creamy skin seems almost ethreal in the light.  She gives
+you a pouty smile, pretending to be offended that you walked in on her
+during a session.  There is a sexy evil behind that smile.  
+~
+tiegre~
+ABV FJVc 0 -500 10
+28 28 10d61+350 10d61+350 5d6+10 slap
+-9 -9 -9 0
+CEFHKO B LQS 0
+stand stand female 400
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75345
+Transsexual~
+A transsexual~
+A Transsexual is here, snapping at everything.
+~
+Overly tweezed eyebrows, thick, pencilled lips, makeup that is a mix of
+attitude and ugly, it stands before you, snapping it's fingers in a circular
+motion, screaming outrageously.  It is questionable as to what it really is,
+or was...  Large hands give it a male appearance, but fine skin makes it
+look female.  It shakes out it's long brown hair, and points a finger at
+you, it's long acrylic nails shining maliciously in the light.  
+~
+tiegre~
+AGV FJVc 0 -500 10
+27 28 10d61+400 10d61+416 5d6+10 slap
+-8 -8 -8 1
+CEFHKO B LQS 0
+stand stand none 400
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75346
+Orgy~
+An Orgy~
+An {COrgy{x is here, writhing about.
+~
+A group of people have converged together to form a strange body of life.
+The constant movement within it makes it seems like the body as a whole is
+writhing with an unnatural motion.  Strange moans escape the unsightly mass
+of limbs and flesh, while a foul odor comes deep from within.  
+~
+crystal-dragon~
+ABV JTZ 0 -1000 10
+25 26 10d61+200 5d6+15 5d5+20 wrath
+-5 -5 -5 2
+0 HQ BC J
+stand stand none 400
+ACGHMZ ABCDEFGHIJKPQUVWX medium flesh
+#75347
+Philara~
+Philara~
+{YPhilara{x the bordello owner is here, drinking a glass of wine.
+~
+Remarkably beautiful with an attitude as cool as ice, she sits here and
+glances up at you without showing much emotion, as if she's been expecting
+you this whole time.  Her deep eyes are the color of opals, they seem to
+burn as they stare deeply into you.  She crosses her legs and leans forward,
+smiling a devious smile.  There is something she wants from you.  
+~
+tiegre~
+ABV FJVc 0 -1000 10
+30 32 10d61+416 10d61+416 5d6+15 smash
+-9 -9 -9 0
+CEFHKO B LQS 0
+stand stand female 400
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75348
+Jervis~
+Jervis~
+{BJervis{x, the bordello's gardener is here.
+~
+A short, stocky man with mediocre features, his favorite hobby is to
+plant and maintain garden flowers.  For extra cash he works as a giggolo
+women may purchase for the night.  His suntanned skin and dark black hair
+seem to over take his small face, while short limbs and large hands give him
+the look of a deformed monkey.  It is his skills as a lover, not his looks,
+that keeps the money flowing.  
+~
+tiegre~
+ABV FJVc 0 -1000 10
+25 26 10d61+250 10d61+416 5d5+10 crush
+0 0 0 0
+CEFHKO B LQS 0
+stand stand male 400
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75349
+Lara~
+Lara~
+{BLara{x is here, welcoming you to her shop.
+~
+A petite young lady with large innocent eyes stands behind a counter,
+greeting your warmly.  She is the owner and founder of this small boutique,
+and is quite proud of how well it's been established.  She wears a simple
+white collared shirt and a pair of black slacks.  Her dark brown hair is
+tied up in a lush ponytail drawn over her shoulder.  Tied around her is a
+yellow apron that bears the name of her shop.  
+~
+human~
+ABV 0 0 1000 0
+20 30 10d61+416 10d61+416 10d61+416 slap
+-9 -9 -9 0
+0 ABCDELQ 0 0
+stand stand female 50
+AHMV ABCDEFGHIJK medium flesh
+#0
+
+
+
+#OBJECTS
+#75306
+Tattoo ~
+{xA lewd tattoo~
+A tattoo bearing a naughty image lies here.~
+unknown~
+armor 0 AI
+5 5 5 5 0
+20 2 250 P
+A
+13 20
+#75309
+Garter Belt~
+{xA white garter belt~
+A small white garter belt, dotted with tiny pink roses.~
+unknown~
+armor I ADF
+4 4 4 4 0
+21 1 200 P
+A
+13 5
+#75312
+{BMidnight Key{x~
+a small, gold key~
+A small shiny key has been left here.~
+gold~
+key U AO
+0 0 0 0 0
+0 1 50 P
+#75317
+Rip Away Pants~
+{xA pair of rip away pants~
+A pair of black rip away pants has been left here.~
+rayon~
+armor 0 AF
+10 10 10 6 0
+28 3 200 P
+A
+13 10
+#75320
+Sofa Leather~
+a {Wleather sofa{x~
+A large {Wleather sofa{x has been placed along the wall.~
+unknown~
+furniture O 0
+0 100000 EHK 0 0
+1 1000 100 P
+#75321
+A Midnight Key~
+a shiny, silver key~
+A silvery key has been carelessly left here.~
+silver~
+key U AO
+0 0 0 0 0
+0 1 50 P
+#75322
+Bikini Top~
+{xA lavender bikini top~
+A skimpy bikini top has been tossed here.~
+cloth~
+armor 0 AD
+-25 -25 -25 -5 0
+27 3 150 P
+#75323
+8 Eight Ball~
+{Wan 8 ball{x~
+{WA polished 8 ball shines beneath the light{x.~
+unknown~
+treasure C AO
+0 0 0 0 0
+10 2 100 P
+#75324
+Vibrator ~
+a vibrator~
+A vibrator has been left here.~
+unknown~
+weapon BU ANO
+polearm 10 10 cleave C
+30 5 100 P
+#75325
+Velvet Couch~
+a {Mvelvet{x couch~
+There is a {Mvelvet{x couch against the wall.~
+unknown~
+furniture O 0
+10 10000 BEH 0 0
+10 1000 1000 P
+#75326
+Whip Cat Tails~
+{1C{!a{1t {!T{1a{!i{1l{!s{x~
+A sexy whip made of leather and metal balls.~
+unknown~
+light 0 AO
+0 0 50 0 0
+1 3 20 P
+#75327
+Chest~
+a {3c{#h{3e{#s{3t{s~
+{xA {3c{#h{3e{#s{3t{x encrusted in gold has been left here.~
+unknown~
+container O 0
+10000 AC 0 2000 1
+1 100 100 P
+#75328
+Water Bed Waterbed~
+a {6w{^a{6t{^e{6r{^b{6e{^d{x~
+A comfortable {6w{^a{6t{^e{6r{^b{6e{^d{x is in the room's center.~
+unknown~
+furniture O 0
+50 10000 EHK 500 500
+1 1000 3000 P
+#75329
+Pool Table~
+a {RP{Yo{Go{Wl {BT{Ra{Yb{Gl{We{x ~
+There is a {RP{Yo{Go{Wl {BT{Ra{Yb{Gl{We{x here.~
+unknown~
+furniture O 0
+10 50000 BEK 100 100
+1 100 100 P
+#75330
+Mulberry Lipstick Tube~
+a tube of {Mmulberry{x lipstick~
+A tube of {Mmulberry{x lipstick.~
+wax~
+treasure AI AO
+0 0 0 0 0
+1 1 50 P
+#75331
+Hottub~
+a large hottub~
+A large {Rhottub{x bubbles here.~
+porceline~
+furniture O O
+10 10000 FIL 100 100
+1 1000 5000 P
+#75332
+Silk Night Gown~
+{xA silk nightgown ~
+{xA silk nightgown has been left here.~
+unknown~
+armor 0 AD
+5 4 4 4 0
+25 2 150 P
+A
+13 5
+#75333
+Warm Champagne~
+{xA bottle of warm {Gchampagne{x~
+A bottle of warm {Gchampagne{x is here, almost half empty.~
+glass~
+drink B AO
+20 10 'champagne' 0 0
+1 3 50 P
+#75334
+large bed~
+a {Ylarge bed{x~
+A {Ylarge bed{x has been placed here.~
+wood~
+furniture O 0
+5 10000 EHK 50 50
+1 500 0 P
+#75335
+The Devil~
+{xA shot of the {RDevil{x~
+A shot of the {RDevil{x.~
+unknown~
+drink 0 AO
+1 1 'whisky' 0 0
+1 3 300 P
+#75336
+Rancid Apple~
+{xA bottle of {RRancid Apple{x~
+{xA bottle of {RRancid Apple{x.~
+unknown~
+drink 0 AO
+15 15 'framboise' 0 0
+1 3 300 P
+#75337
+Blue Hawaii~
+{xA {BBlue Hawaii{x~
+{xA {BBlue Hawaii{x.~
+unknown~
+drink 0 AO
+10 10 'brandy' 0 0
+1 1 300 P
+#75338
+Abuse~
+{GAbuse{x~
+A bottle of vintage {GAbuse{x.~
+glass~
+drink 0 AO
+15 15 'amontillado' 0 0
+1 1 300 P
+#75339
+Virgin Suicide~
+{MVirgin Suicide{x~
+A shot of {MVirgin Suicide{x.~
+glass~
+drink 0 AO
+1 1 'vodka' 0 0
+1 3 300 P
+#75340
+White Zinfandel~
+{WWhite Zinfandel{x~
+A bottle of {WWhite Zinfandel{x~
+glass~
+drink 0 AO
+15 15 'icewine' 0 0
+1 3 300 P
+#75341
+Yellow Vial~
+{xA {YYellow{x Vial~
+{xA {YYellow{x Vial.~
+glass~
+potion 0 AO
+20 'bless' 'sanctuary' 'armor' 'shield'
+20 1 300 P
+#75342
+{xA black leather bodysuit~
+a black leather bodysuit~
+A black bodysuit has been left here.~
+leather~
+armor I AD
+11 10 10 10 0
+30 4 100 P
+A
+13 15
+#75343
+Chastity Belt~
+{xA Chastity Belt~
+A chastity belt has been left here, for good reason.~
+leather~
+armor M AL
+14 14 14 15 0
+26 3 250 P
+A
+13 25
+#75344
+Cucumber~
+{xA {Gcucumber{x~
+A {Gcucumber{x ~
+vegetable~
+weapon 0 AN
+dagger 5 7 none D
+26 2 20 P
+#75345
+Pink Vial~
+{xA {MPink{x Vial~
+{xA {MPink{x Vial.~
+unknown~
+potion 0 AO
+20 'cancellation' 'heal' 'reserved' 'reserved'
+20 1 300 P
+#75346
+Red Vial~
+{xA {RRed{x Vial~
+{xA {RRed{x Vial.~
+unknown~
+potion 0 AO
+20 'cure poison' 'heal' 'reserved' 'reserved'
+20 1 300 P
+#75347
+Crystal Throne~
+the throne of Philara~
+A large throne of gold and jewels has been placed here.~
+unknown~
+furniture AO P
+1 100000 BEH 0 0
+1 20 200 P
+#75348
+Green Vial~
+{xA {GGreen{x Vial~
+A {GGreen{x Vial.~
+glass~
+potion 0 AO
+20 'cure disease' 'heal' 'reserved' 'reserved'
+20 1 300 P
+#75349
+Blue Vial~
+{xA {BBlue{x Vial~
+A {BBlue{x Vial of mysterious liquid.~
+glass~
+potion 0 AO
+20 'heal' 'remove curse' 'reserved' 'reserved'
+20 1 300 P
+#0
+
+
+
+#ROOMS
+#75300
+A Widing Path.~
+A small path of worn cobblestone stretches itself before you, leading you
+to a corner where darkness reigns, and light ceases to exist.  Low overhead
+clouds loom in the sky, and sharp flashes of lighting and the roar of
+thunder clash in the skies, creating a strangely demure scene to what
+appears to have once been a great landscape.  There are gnarled trees on
+both right and left sides, and dead foliage litter the ground.  
+~
+0 1029 4
+E
+foliage~
+Dead leaves and grass cover the ground in a heaping mass.  
+~
+E
+tree~
+An old tree, bend and weathered from the elements.  
+~
+E
+lightning~
+A bolt of bright yellow lightning falls from the sky.  
+~
+E
+cloud~
+Grey clouds loom overhead.  
+~
+E
+path~
+A worn cobblestone path.  
+~
+D0
+~
+~
+0 0 75301
+D2
+~
+~
+0 0 6001
+S
+#75301
+The Blackened Gates~
+A great set of large iron gates are erected at the top of the path.  Aged
+from the abuses of weather and neglect, the gates themselves have lost their
+shine and former glamor, and in its place is a thick coat of hard black
+rust, which covers the great gates like a deadly parasite.  Dead plants and
+weeds cling to the gates' hinges, trying to brave the harsh weather, and all
+around there is an eniment and incredible sense of despair.  
+~
+0 1029 4
+D0
+~
+~
+0 0 75302
+D2
+~
+~
+0 0 75300
+S
+#75302
+The Courtyard~
+A deteriorating and long abandoned construction of stones and gems, the
+courtyard is a ghostly reminder of the property's former beauty.  In the
+courtyard's center is a large water fountain with a statue of an angel,
+frozen in a pirouette, sculpted atop it.  Dead trees droop over from their
+large clay pots, and on to the floor.  Dust covers every inch of here.  
+~
+0 1 1
+D1
+~
+~
+0 0 75303
+D2
+~
+~
+0 0 75301
+D3
+~
+~
+0 0 75304
+S
+#75303
+A Dark Hallway~
+Dank, stale air permeates here, another indication of the property's
+abandonment.  Large cobwebs stand as guards, stretching themselves from the
+ground to the cement ceiling, as if trying to keep any newcomer from
+venturing any further.  Although there is no sign of life anywhere, a
+haunting moan echoes against the Hallway walls.  
+~
+0 13 0
+D0
+~
+~
+0 0 75319
+D3
+~
+~
+0 0 75302
+S
+#75304
+A Dark Hallway~
+Dank, stale air howls within the walls of this tunnel-like hallway, yet
+another sign of the property's years of neglect.  Large cobwebs stretch out
+from the ground to the ceiling, like a translucent curtain, trying to keep
+anyone who ventures here away.  Despite there being no signs of life, a soft
+groan echoes against the thick cement walls.  
+~
+0 9 0
+D0
+~
+~
+0 0 75305
+D1
+~
+~
+0 0 75302
+S
+#75305
+A Dark Hallway~
+The Hallway continues, like a never-ending tunnel of darkness.  The stale
+air is less noticeable now, most likely due to the large cracks in the
+cement walls, allowing air to circulate.  The strange noises seem to be coming
+from an unknown source up north.  
+~
+0 9 0
+D0
+~
+~
+0 0 75307
+D2
+~
+~
+0 0 75304
+D3
+~
+~
+1 0 75306
+S
+#75306
+The Hidden Chamber~
+A chamber that was once used as a hiding place for the property's
+inhabitants, it has since been sealed shut by the years of ueslessness and
+rust.  In the corner of the chamber is a small bed, fit for one person, and
+there is a desk adjacent to it.  A small stove has been built into here, and
+in the cabinent still remains some old pieces of porceline china.  
+~
+0 9 0
+D1
+~
+~
+1 0 75305
+S
+#75307
+A Dark Hallway~
+The haunting moan is more audible here, carried by the wind through the
+large cracks in the Hallway's walls.  The impenetrable darkness remains, and
+the only light available is from the brightness of the lightning that comes
+through the walls.  The moan that was once just a voice suddenly begins to
+sound like two.  
+~
+0 9 0
+D0
+~
+~
+0 0 75308
+D2
+~
+~
+0 0 75305
+S
+#75308
+End of the Hallway~
+The Hallway ends with only a eastern exit to turn towards.  Surprisingly
+it is from the west that a dim light shines through.  It is unlike the light
+that seeped through the wall's cracks, it appears to be man-made.  And there
+is music coming from the eastern exit.  A stong scent of perfume fills the
+Hallway.  
+~
+0 13 0
+D1
+~
+~
+0 0 75309
+D2
+~
+~
+0 0 75307
+S
+#75309
+Philara's Bordello~
+A very sudden and very noticeable contrast to the Hallway's darkness, the
+entrance to what appears to be an impeccable mansion is anything but dark
+and demure.  A large chandelier hangs overhead and a grand oak table sits
+right beneath it, with a golden vase of violets resting upon it.  A small
+orchestra plays in the left corner of the entrance, playing soft music.  
+~
+0 8 0
+D1
+~
+~
+0 0 75310
+D3
+~
+~
+0 0 75308
+S
+#75310
+A Corridor~
+A brightly lit corridor lays before you, decorated in elaborate and
+decadent furnishings.  On the walls hang large oil paintings of historic
+faces and famous landscapes, all of which sit in frames of gold.  Along the
+side of the walls are small marble tables, each one bearing an artifact of
+some sort on a velvet pillow.  The floor is covered in a burgundy-colored
+rug.  
+~
+0 8 0
+D1
+~
+~
+0 0 75311
+D3
+~
+~
+0 0 75309
+S
+#75311
+A Corridor~
+Low, round lights hang from the ceiling, illuminating the corridor with
+soft radiance.  On the right side of the hall is a large bouquet of fresh
+flowers, and on the left side is a singing nightingale, kept in a silvery
+cage.  All around are pieces of priceless history, all displayed to show
+their rightful beauty.  There is a door to the north, with a sign posted on
+it saying "Do not disturb".  
+~
+0 8 0
+D0
+~
+~
+1 0 75312
+D1
+~
+~
+0 0 75313
+D3
+~
+~
+0 0 75310
+S
+#75312
+{RThe Red Room{x~
+A grey mist of cigar smoke fills the air and blurs out the images from
+this room.  Through the haze, figures of large men are seen gathered here,
+they are either smoking, drinking, or screaming explicit words at a pair of
+exotic strippers who dance atop a small stage.  Gaudy strobe lights pulsate
+around the women as they gyrate their hips and graciously receive the money
+that is being tossed at them.  
+~
+0 8 0
+E
+light~
+Flickers of pink and yellow light dance around the room.  
+~
+E
+strobe~
+Flickers of pink and yellow light dance around the room.  
+~
+E
+men~
+An overweight merchant slurs drunkenly.  
+~
+E
+stripper~
+A stripper dances here seductively, her hands beckon for you to drop some
+money down her underwear.  
+~
+D2
+~
+~
+1 0 75311
+S
+#75313
+A Corridor~
+Decorated in rich and expensive accessories, beaming with the softness of
+over hanging lights, the corridor is just an introduction to the mansion's
+opulence.  On the walls hang grand paintings framed in gold, and lined up
+against the walls are marble pillars, each one bearing a significant
+historical artifact.  There is a sense of wonder, history, and radiance
+emanating through the corridor walls.  
+~
+0 8 0
+D1
+~
+~
+0 0 75320
+D2
+~
+~
+0 0 75314
+D3
+~
+~
+0 0 75311
+S
+#75314
+A Corridor~
+Low, round lights hang from the ceiling, illuminating the corridor with
+soft radiance.  On the right side of the hall is a large bouquet of blooming
+flowers, and on the left side is a small nightingale, kept in a cage.  All
+around are ancient pieces of priceless history, all displayed to show their
+rightful beauty.  
+~
+0 8 0
+D0
+~
+~
+0 0 75313
+D2
+~
+~
+0 0 75315
+S
+#75315
+A Corridor~
+A brightly lit corridor lays before you, decorated in elaborate and
+decadent fixtures.  On the walls hang grand paintings of historic faces and
+famous landscapes, all of which sit in frames of pure gold.  Along the side
+of the walls are small marble columns, each one bearing an artifact of some
+sort on a soft, violet pillow.  The floor is covered in a burgundy-colored
+carpet.  
+~
+0 8 0
+D0
+~
+~
+0 0 75314
+D2
+~
+~
+0 0 75316
+D3
+~
+~
+0 0 75318
+S
+#75316
+A Corridor~
+It is noticeable here that the decorator of this mansion enjoyed the
+presence of flowers and small birds in his work, the theme appears
+everywhere, especially here.  There are golden bird cages lined up along the
+corridor walls, each one bearing a rare and beautiful bird within it.  In
+between the bird cages are large porceline vases of fresh flowers, some in
+full bloom, others still in the budding stages.  The decorum is both tacky
+and tasteful, and yields a strange sense of freedom in its placement.  
+~
+0 8 0
+D0
+~
+~
+0 0 75315
+D5
+~
+~
+0 0 75317
+S
+#75317
+{7The Femme Fatale{x~
+Bright yellow and white strobe lights quickly flash by, and several
+hysterical women are screaming at the top of their lungs as they wildly
+fling countless pieces of money onto a stage.  And it is quickly realized
+why the women are acting so outrageous: large, muscular, and finely tanned
+male strippers crowd onto the lit stage, dancing forbiddenly to erotic
+music.  They coolly walk before the excited women, tossing their clothing at
+them and modesty accepting the monetary donations.  The room itself is less
+erotic, simply furnished with a few sofas and a blue colored rug.  Small
+coffee tables lie between the couches, all of them piled high with empty
+alcohol bottles.  
+~
+0 8 0
+D1
+~
+~
+0 0 75349
+D4
+~
+~
+0 0 75316
+S
+#75318
+End of the Hallway~
+The Hallway ends with only a western exit available.  Surprisingly it is
+from the west that a dim light manages to come through.  It is unlike the
+light that seeped through the wall's cracks, it appears to be a manufactured
+light.  And there is music coming from the western exit.  A stong scent of
+perfume fills the Hallway.  
+~
+0 12 0
+D1
+~
+~
+0 0 75315
+D3
+~
+~
+0 0 75319
+S
+#75319
+A Dark Hallway~
+The impenetrable darkness remains, and the only light available is from
+the brightness of the lightning that comes through the large cracks in the
+walls.  A strange sound seems to be carried through the wind, it sounds
+almost like music.  The cracks in the walls allow for better air
+circulation, and the hallway is filled with fresher air.  The atmosphere
+here is unlike the previous one experienced at the property's entrance. 
+Somehow, it feels more alive.  
+~
+0 8 0
+D1
+~
+~
+0 0 75318
+D2
+~
+~
+0 0 75303
+S
+#75320
+A Corridor~
+A brightly lit corridor lays before you, decorated in elaborate and
+decadent fixtures.  On the walls hang grand paintings of historic faces and
+famous landscapes, all of which sit in frames of pure gold.  Along the side
+of the walls are small marble columns, each one bearing an artifact of some
+sort on a velvet pillow.  The floor is covered in a burgundy-colored carpet.
+~
+0 8 0
+D1
+~
+~
+0 0 75321
+D3
+~
+~
+0 0 75313
+S
+#75321
+A Corridor~
+Low, round lights hang from the ceiling, illuminating the corridor with
+soft radiance.  On the right side of the hall is a large bouquet of blooming
+flowers, and on the left side is a small nightingale, kept in a silvery
+cage.  All around are ancient pieces of priceless history, all displayed to
+show their rightful beauty.  To the north a door has been left slightly
+ajar, and a strange smell of incense wafts out from the crack.  
+~
+0 8 0
+D0
+~
+~
+1 0 75322
+D1
+~
+~
+0 0 75345
+D2
+~
+~
+0 0 75323
+D3
+~
+~
+0 0 75320
+S
+#75322
+{5S{6t{7r{5i{6p {7T{5e{6a{7s{5e{x~
+A large stage, high above the ground, has been set up right in the middle
+of the room, and chairs line up all around, a person sitting in each seat. 
+Atop the stage four scantily clad women move in rather erotic motions,
+occassionally slipping off a piece of clothing or two.  At the far right of
+the room a bartender works busily, mixing alcoholic beverages to his excited
+customers.  Low lights flash all around, giving this place a very sexual
+effect.  
+~
+0 8 0
+D2
+~
+~
+1 0 75321
+S
+#75323
+A Corridor~
+A brightly lit corridor lays before you, decorated in elaborate and
+decadent furnishings.  On the walls hang large oil paintings of historic
+faces and famous landscapes, all of which sit in frames of gold.  Along the
+side of the walls are small marble tables, each one bearing an artifact of
+some sort on a velvet pillow.  The floor is covered in a burgundy-colored
+rug.  
+~
+0 8 0
+D0
+~
+~
+0 0 75321
+D2
+~
+~
+0 0 75324
+S
+#75324
+A Corridor~
+Decorated in rich and expensive accessories, beaming with the softness of
+over hanging lights, the corridor is just an introduction to the mansion's
+opulence.  On the walls hang grand paintings framed in gold, and lined up
+against the walls are mable pillars, each one bearing a significant
+historical artifact.  There is a sense of wonder, history, and radiance
+emanating through the corridor walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 75323
+D2
+~
+~
+0 0 75325
+S
+#75325
+{YShall We Dance?{x~
+There are a few customers in this room, some men and some women, all of
+them sitting either in a chair or on a couch.  Before each of them stands a
+very good looking stripper, who satisfies his or her customer with a highly
+sexual lap dance.  There is an occasional hoot or cheer of pleasure, but a
+general silence from the concentrating customers gives this room an eerie
+feeling.  The atmosphere is intense, and all eyes focus only on the body
+which they have purchased.  
+~
+0 8 0
+D0
+~
+~
+0 0 75324
+D1
+~
+~
+0 0 75326
+S
+#75326
+{BThe Midnight Hall{x~
+The entire section of this vast hallway is entirely black, from the
+ceiling all the way down to the walls.  It is here that sexual escapades
+occur behind closed and guarded doors, the only person with the door key is
+the sentinel situated outside.  The small hallway is decorated in simple,
+and rather contemporary furnishings.  Oblong chairs have been places besides
+the closed doors, more as a decoration than a piece of furniture.  A simple,
+round golden flower vase filled with dried baby's breath lies on the floor,
+untouched.  The only sounds here are the sounds of the couples in the room,
+locked away from curious eyes.  South of the sentinel is the door to the
+room.  
+~
+0 8 0
+D1
+~
+~
+0 0 75327
+D2
+~
+~
+1 75312 75335
+D3
+~
+~
+0 0 75325
+S
+#75327
+{BThe Midnight Hall{x~
+The entire section of this hallway is entirely black, from the ceiling
+all the way down to the walls.  It is here that physical gratification
+occurs behind closed and guarded doors, the only person with the door key is
+the sentinel situated outside.  The small hallway is decorated in simple,
+and rather contemporary furnishings.  Oblong chairs have been places besides
+the closed doors, more as a decoration than a piece of furniture.  A simple,
+golden flower vase filled with dried baby's breath lies on the floor.  The
+only sounds here are the moans and sighs of the couples in the room, locked
+away from voyeuristic eyes.  A closed door is south of here.  
+~
+0 8 0
+D1
+~
+~
+0 0 75328
+D2
+~
+~
+1 0 75336
+D3
+~
+~
+0 0 75326
+S
+#75328
+Aphrodite's Walkway~
+Decorated only by the light of candles, dedicated to the goddess with
+which it is named after, the walkway was chosen to be the more romantic side
+of the bordello.  Statues of Aphrodite seem to have been thoughtlessly
+tossed about the hallway, positioned in places that either block the pathway
+or make the pieces of art hard to view all together.  But despite the
+strangeness of the decorum, the hallway still emits an atmosphere of love
+and honesty, a true irony for such a sinful house.  
+~
+0 8 0
+D1
+~
+~
+0 0 75329
+D2
+~
+~
+0 0 75330
+D3
+~
+~
+0 0 75327
+S
+#75329
+{RT{Yh{Ge {WP{Bo{Ro{Yl {GH{Wa{Bl{Rl{x~
+Despite the mansion being dedicated to the pursuit of lust and
+gratification, there is one room dedicated to the pleasure of recreation. 
+There are several customers here, all of them enjoying a competitive game of
+pool with a few of the busty hostesses that roam around the room.  Above
+each of the tables are low lights that only illuminate the table, and
+nothing else.  It is no surprise that a few of the men have taken advantage
+of the privacy, often times using the pool tables for more than just playing
+a game of balls and sticks.  
+~
+0 8 0
+D0
+~
+~
+0 0 75337
+D3
+~
+~
+0 0 75328
+S
+#75330
+Aphrodite's Walkway~
+Decadent paintings cover the cream-colored walls, and beautiful statues
+stand around like large guards protecting a treasured secret.  This is
+Aphrodite's Walkway, the less seductive side of the bordello.  Dedicated to
+the goddess with which it was named after, the hallway is filled with art
+pieces depicting the everyday life and activies of Aphrodite.  The soft glow
+of candles lights up the hall, enhancing the beauty of the pieces with a
+subtle shine.  
+~
+0 8 0
+D0
+~
+~
+0 0 75328
+D2
+~
+~
+0 0 75331
+S
+#75331
+{WEntrance to Play Grounds{x~
+The lowest and final section of the bordello, the Play Grounds is a
+no-rule, anything goes, sex parlour.  Couples are free to venture down to
+these grounds and do whatever they desire, the only catch is that other
+couples are in the room with them.  It is a spiraling orgy, satisfying for
+both exhibitionist and voyeur.  
+~
+0 8 0
+D0
+~
+~
+0 0 75330
+D3
+~
+~
+0 0 75332
+S
+#75332
+{WPlay Grounds{x~
+Connected bodies of two's, three's, and even more lay here, drinking in
+each other's lusts and needs.  There is just one large bed, and a few
+couples have crowded onto it, each one vying for more space to perform in. 
+The floor is covered with people, and there is nothing more to be seen other
+than exposed flesh and moving body parts.  
+~
+0 8 0
+D1
+~
+~
+0 0 75331
+D3
+~
+~
+0 0 75333
+S
+#75333
+{WThe Play Grounds{x~
+A larger room than the last, this one appears to be more comfortable as
+well.  It is not as crowded as the previous, there is actually enough room
+for a large bed and a few sofas to be put here.  A makeshift light source
+has been made out of recycled candles, it is the only light available within
+the entire Play Ground area.  All around are the muffled sounds of pleasure,
+and the number of bodies and the friction created fill the atmosphere with a
+strange heat.  
+~
+0 8 0
+D1
+~
+~
+0 0 75332
+D3
+~
+~
+0 0 75334
+S
+#75334
+{GThe Lounge{x~
+At the end of the erotic Play Grounds is a low-key, nonsexual bar.  It is
+a relatively welcomed changed to the previous themes displayed in the
+mansion.  On stage a small band plays old tunes while couples sit around
+small tables, conversing and laughing about the lastest trends.  In the far
+back, hidden in the dark, a bartender looks up to see if anyone is
+interested in buying a drink.  The air has a slight tinge of cigar smoke
+floating in it.  
+~
+0 1032 0
+D1
+~
+~
+0 0 75333
+S
+#75335
+{MSinful Pleasures{x~
+A red light and some slow music create the atmosphere of this small room,
+where lovers with traditional tastes in making love can come to bond and
+enjoy themselves for a few brief moments.  A large and comfortable looking
+four-post bed lies up against the back wall of the room, and two night
+stands have been placed on both of its sides.  A small fireplace has been
+built into the left wall, and in front of it lies a white, skin rug.  To top
+off the romantic setting, a bottle of champagne has been left untouched
+beside the bed.  
+~
+0 8 0
+D0
+~
+~
+1 75312 75326
+S
+#75336
+{GTaboo{x~
+Hot steam rises from an oval-shaped hottub located on the left side of
+the room, it is where couples with a more unconventional taste for
+lovemaking come to satisfy themselves.  Set up across the hottub is a small
+dining area, made up of two white chairs with blue cusions, and a small
+drink table.  A small bell on the table calls for a nearby maid, and fresh
+towels are hanging from a brass bar nailed against the wall.  
+~
+0 8 0
+D0
+~
+~
+1 0 75327
+S
+#75337
+Aphrodite's Walkway~
+A few of the candles have been allowed to burn out and fade, and the
+light that once made the walkway glow has somewhat faded in this area. 
+However a light to the south is compensating for the loss, and accompanying
+the given illumination comes loud laughter and shrieks of joy.  Flirtatious
+speech and a strange sound of crashing objects.  A curious myriad of sounds
+that fall out of place in Aphrodite's peaceful walkway.  
+~
+0 8 0
+D0
+~
+~
+0 0 75338
+D2
+~
+~
+0 0 75329
+S
+#75338
+Aphrodite's Walkway~
+Elegant paintings cover the cream-colored walls, and beautiful statues
+stand around like large golems protecting a treasured secret.  This is
+Aphrodite's Walkway, the less seductive side of the bordello.  Dedicated to
+the goddess with which it was named after, the hallway is filled with art
+pieces depicting the everyday life and activies of Aphrodite.  The soft glow
+of candles lights up the hall, enhancing the delicacy of the pieces with a
+subtle shine.  
+~
+0 8 0
+D0
+~
+~
+0 0 75339
+D2
+~
+~
+0 0 75337
+S
+#75339
+Aphrodite's Walkway~
+Lit only by the soft glow of multiple candles, decorated simply by the
+emitted light, the hallway is a sort of dedication to purity, honesty, and
+love, an incredible irony to what the whole mansion stands for.  The only
+decorum here is the candles, which have been aligned to form a sort of path.
+Within the hall are numerous statues of the goddess Aphrodite, sculpted in
+numerous themes and positions.  They have been places in random areas, some
+in the middle of the walkway, others wedged in a corner.  It is a most
+unconventional, yet artistically stimulating, hall.  
+~
+0 8 0
+D0
+~
+~
+0 0 75340
+D2
+~
+~
+0 0 75338
+S
+#75340
+Vestibule's End~
+The neutral colors of the vestibule slowly begin to fade away, signifying
+the end of this particular hall.  To the south is Aphrodite's Walkway, a
+notorious hall that leads to famed rooms where sex and forbidden pleasures
+go on without guilt.  Scented candles have been lit here, and act as guides
+to those who wish to travel down further into the mansion's core.  Their
+burning flames shine brightly, surprisingly luminous for such small candles.
+~
+0 8 0
+D2
+~
+~
+0 0 75339
+D3
+~
+~
+0 0 75341
+S
+#75341
+The Vestibule~
+The vestibule continues onward.  Here, the floors are lined with
+grey-veined marble, and there are large windows on both right and left sides
+of the hall.  Decorating the windows are sheer, purple curtains that gently
+flow with the wind that comes through.  The walls are painted in a golden
+yellow, and a large crystal chandelier illuminates the room with a bright
+glow.  
+~
+0 8 0
+D1
+~
+~
+0 0 75340
+D3
+~
+~
+0 0 75342
+S
+#75342
+The Vestibule~
+Just a stair away from the corridor is a large vestibule.  The floors are
+lined with grey-veined marble, and there are large windows on each side of
+the hall.  Decorating the windows are sheer curtains that gently flow with
+the wind that comes through.  The walls are painted in a golden yellow, and
+a large crystal chandelier hangs from the ceiling.  
+~
+0 8 0
+D0
+~
+~
+0 0 75346
+D1
+~
+~
+0 0 75341
+D2
+~
+~
+0 0 75343
+S
+#75343
+A Corridor~
+The Corridor ends here, and a new section of the mansion begins.  The
+large paintings have been replaced by expensive and colorful tapestries, all
+of them made out of fine silk.  There is a statue of a couple engaging in
+ardent lovemaking at a far corner of the hall, and rose petals have been
+placed at their feet.  To the north, more soft music can be heard.  
+~
+0 0 0
+D0
+~
+~
+0 0 75342
+D2
+~
+~
+0 0 75344
+D3
+~
+~
+0 0 75345
+S
+#75344
+{CForbidden Lair{x~
+The Bordello's most infamous chamber, Sappho's Lair is the most popular
+room for male voyeurs.  Here, every single night, men gather in this oval
+shaped room to watch women make love.  There is a large bed in the middle of
+the oval, and sofas are lined up along the walls for comfortable viewing. 
+Soft lighting adds to the feeling of erotica.  
+~
+0 8 0
+D0
+~
+~
+0 0 75343
+S
+#75345
+A Corridor~
+Decorated in rich and expensive accessories, beaming with the softness
+of the overhead lights, the corridor is just an introduction to the
+mansion's opulence.  On the walls hang incredible paintings framed in gold,
+and lined up against the walls are mable pillars, each one bearing a
+significant artifact from the world's history.  There is a sense of wonder,
+history, and radiance emanating through the corridor walls.  
+~
+0 8 0
+D1
+~
+~
+0 0 75343
+D3
+~
+~
+0 0 75321
+S
+#75346
+A Vestibule~
+A golden hallway is laid out before you, simply decorated yet still as
+opulent as the previous halls.  Marble tiles patterned in dolphin-grey veins
+line the floor, their polished surfaces reflecting the bright light of a
+crystal chandelier hanging overhead.  Large glass pane windows are on both
+sides of the hallway, and sheer purple curtains cascade down their fronts. 
+Soft music plays here from an unknwon source, and it is surprisingly serene.
+~
+0 0 0
+D0
+~
+~
+0 0 75347
+D2
+~
+~
+0 0 75342
+S
+#75347
+{YPhilara's Bedroom{x~
+Painted in whites and baby blues, it looks nothing like the room of an
+infamous bordello owner.  A comfortable bed is situated off to the right
+side, covered in a canopy of white curtain.  On the left side is a beautiful
+varnished desk and a red horse hair chair.  In the center of the whole room
+is what appears to be a throne of some sort, encrusted in jewels and
+precious metals.  The entire back wall is a painting of Philara herself,
+poised upon the crook of a tree, gazing out into the sea.  
+~
+0 8 0
+D1
+~
+~
+1 0 75348
+D2
+~
+~
+0 0 75346
+S
+#75348
+{5S{%e{5c{%r{5e{%t {5P{%l{5e{%a{5s{%u{5r{%e{5s{x~
+A hidden room that is known only to the wealthiest and most valued
+customers at the bordello, it is quickly realized why such a room is kept
+secret.  On the walls hang suggestive toys and props, each one designed to
+satisfy the most outrageous fetishes and wildest fantasies.  A very large
+bed lies in the center of the room, and four stands have been set up at each
+of the bed's corners.  Inside each stand is a single unlit incense candle. 
+Paintings of sexual positions literally cover the walls in a sort of gaudy
+display of physical gratification.  A small bouquet of roses has been left
+on the bed.  
+~
+0 8 0
+D3
+~
+~
+1 0 75347
+S
+#75349
+{BLara's {CGift {BShoppe{x~
+A quaint little boutique has been set up here, and a very pretty young
+lady stands behind the counter, greeting you with a friendly smile.  All
+around are glass racks neatly displaying various brands of health potions
+and contraceptives, there are even small baskets of samples laid out for the
+cautious buyer.  On the counter top is a small stack of brochures lying
+beside a well groomed bonzai tree.  
+~
+0 1032 0
+D3
+~
+~
+0 0 75317
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 75305 3 1
+D 0 75306 1 1
+D 0 75311 0 1
+D 0 75312 2 1
+D 0 75321 0 1
+D 0 75322 2 1
+D 0 75326 2 2
+D 0 75327 2 1
+D 0 75335 0 2
+D 0 75336 0 1
+D 0 75347 1 1
+D 0 75348 3 1
+M 0 75304 5 75305 1
+M 0 75305 7 75305 2
+M 0 75306 1 75306 1
+E 0 75306 0 10
+M 0 75305 7 75307 2
+M 0 75304 5 75307 2
+M 0 75311 10 75309 2
+M 0 75310 10 75310 2
+M 0 75311 10 75311 2
+M 0 75312 2 75312 2
+M 0 75309 1 75312 1
+E 0 75309 0 7
+M 0 75310 10 75313 2
+M 0 75345 6 75314 2
+E 0 75330 0 17
+M 0 75333 8 75315 2
+E 0 75333 0 17
+M 0 75310 10 75317 1
+M 0 75317 1 75317 1
+E 0 75317 0 7
+M 0 75318 1 75317 1
+O 0 75320 0 75317
+M 0 75304 5 75319 1
+M 0 75305 7 75319 2
+M 0 75310 10 75321 2
+M 0 75322 1 75322 1
+E 0 75322 0 5
+M 0 75311 10 75323 2
+O 0 75325 0 75325
+M 0 75342 1 75325 1
+E 0 75324 0 17
+M 0 75326 1 75326 1
+E 0 75312 0 17
+M 0 75327 1 75327 1
+E 0 75321 0 17
+O 0 75329 0 75329
+M 0 75325 1 75329 1
+E 0 75323 0 17
+M 0 75311 10 75331 2
+M 0 75346 1 75332 1
+M 0 75333 8 75333 2
+E 0 75333 0 17
+M 0 75310 10 75333 1
+M 0 75345 6 75333 2
+E 0 75330 0 17
+M 0 75334 1 75334 1
+G 0 75337 0
+G 0 75338 0
+G 0 75340 0
+G 0 75335 0
+G 0 75339 0
+M 0 75345 6 75334 2
+E 0 75330 0 17
+O 0 75334 0 75335
+M 0 75335 1 75335 1
+M 0 75336 1 75336 1
+E 0 75332 0 5
+M 0 75348 1 75336 1
+O 0 75331 0 75336
+M 0 75310 10 75339 2
+M 0 75333 8 75339 2
+E 0 75333 0 17
+M 0 75311 10 75343 2
+M 0 75344 1 75344 1
+E 0 75344 0 17
+M 0 75343 1 75344 1
+E 0 75343 0 13
+M 0 75347 1 75347 1
+E 0 75342 0 5
+O 0 75347 0 75347
+O 0 75328 0 75348
+O 0 75327 0 75348
+P 0 75326 1 75327 1
+M 0 75349 1 75349 1
+G 0 75341 0
+G 0 75345 0
+G 0 75346 0
+G 0 75348 0
+G 0 75349 0
+S
+
+
+
+#SHOPS
+75334 0 0 0 0 0 150 25 0 23
+75349 0 0 0 0 0 175 25 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,2960 @@
+#AOD_AREA
+Orcish Outpost~
+75000 75099 0 9
+Levl 70 85
+Bldr Mich~
+Alig E
+End
+
+#MOBILES
+#75000
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 slash
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#75001
+large groundhog~
+a large groundhog~
+A large groundhog scurries about gathering straw.
+~
+This animal is primarily brown, with a black strip down its back.  Along side the black strip, there are various white dots.  This is the one who keeps stealing your food at all of your picnics!
+~
+rabbit~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCS 0 0 0 0
+65 113 0 3804 4344 3895 4182 13 11 92 bite
+-221 -211 -139 -213
+STANDING STANDING neutral 2511
+0 mage medium ACDEFHJK
+P 2 0
+
+#75002
+small groundhog~
+a small groundhog~
+A small groundhog is feeding on a nut.
+~
+Much like the bigger groundhog, this one is primarily brown with a black strip and white spots.  It seems to be a younger and not so knowing of the world.
+~
+rabbit~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABS 0 0 0 0
+60 96 0 3336 3849 3259 3808 13 12 95 bite
+-199 -137 -141 -135
+STANDING STANDING neutral 1722
+0 mage medium ACDEFHJK
+P 1 0
+
+#75003
+small salamander~
+a small salamander~
+A small salamander creeps forward and attacks!
+~
+This is a small, brown lizard with a shaded red-tint.  It appears that it can walk on all fours or just it's hind legs.
+~
+lizard~
+100 100 100 150 100 100 50 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABFT V 0 -500 0
+63 121 0 3457 4077 3723 4141 11 11 116 claw
+-149 -202 -154 -211
+STANDING STANDING neutral 2451
+0 mage medium ACDEFHKQV
+M GRALL 75000 100~
+
+#75004
+purple worm~
+a {5purple{x worm~
+A {5purple{x worm stops burrowing and focuses it's attention on you.
+~
+This is a large worm, that looks to swallow you whole.  It has nasty-looking teeth, and apparently is not very sociable.
+~
+centipede~
+100 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 
+AFT FLZa 0 0 0
+69 135 0 4268 4610 3960 4612 12 12 147 bite
+-214 -156 -171 -153
+STANDING STANDING neutral 2463
+0 mage medium ACK
+P 1 0
+
+#75005
+scout~
+a scout~
+A scout silently awaits to ambush a poor passerby.
+~
+The orcish scout is quite small, which is just unusual in itself.  It
+wears camouflage for the terrain around it, and is lying still to be able to
+ambush intruders.  It bears the markings of a lord form a nearby encampment.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABS JPQVc 0 -500 0
+55 99 0 3027 3274 3023 3314 9 10 98 claw
+-107 -124 -140 -140
+STANDING STANDING neutral 1814
+0 mage medium ABCDEFGHIJK
+P 4 0
+M GRALL 75001 100~
+
+#75006
+red-winged blackbird~
+a {1red{x-winged blackbird~
+A {1red{x-winged blackbird glides above your head.
+~
+This is a small blackbird, but has unique red feathers on one of it's wings.
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A T 0 0 0
+59 81 0 3227 3611 3493 3584 11 12 115 peck
+-127 -183 -168 -130
+STANDING STANDING neutral 2300
+0 mage medium ACDEFHKP
+
+#75007
+gray coyote~
+a {*gray{x coyote~
+A {*gray{x coyote snarls showing it's teeth.
+~
+~
+wolf~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB Z 0 0 0
+60 106 0 3213 3706 3457 3769 10 13 93 bite
+-155 -187 -127 -179
+STANDING STANDING neutral 2372
+0 mage medium ACDEFJKQV
+
+#75008
+small brown bear~
+a small brown bear~
+A small brown bear sleeps loudly in its hibernation.
+~
+This is a smaller bear, but his massive fur coat, large claws, and huge teeth still send a quiver down your spine.
+~
+bear~
+100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 0 0
+64 124 0 3691 4133 3870 4206 14 11 109 claw
+-172 -213 -215 -194
+SLEEPING SLEEPING neutral 2070
+0 mage medium ABCDEFHJKUV
+P 1 0
+M GRALL 75002 100~
+
+#75009
+orc sentry~
+an orc sentry~
+An orc sentry is eating rather than doing his job of guarding.
+~
+This is a ugly, orc who is only interested in eating right now.  His clothes are in shambles, and his is hair matted.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT JVc 0 -500 0
+66 125 0 4079 4354 3778 4197 14 14 98 slash
+-149 -162 -208 -140
+STANDING STANDING male 1948
+0 mage medium ABCDEFGHIJK
+
+#75010
+goblin peon~
+a goblin peon~
+A goblin peon is working slowly here.
+~
+This is a little {2green{x goblin that is wearing shambles.  It stupid look on its face is a direct correspondence to it's intelligence.
+~
+goblin~
+100 100 100 100 100 100 100 100 150 100 150 100 100 50 100 100 100 100 100 150 100 100 100 100 100 150 
+AT CDFJ B -250 0
+60 115 0 3523 3813 3278 3662 11 10 115 scratch
+-125 -147 -171 -176
+STANDING STANDING male 1617
+0 mage medium ABCDEFGHIJK
+P 0 1
+
+#75011
+orcish archer~
+an orcish archer~
+An orcish archer aims for your heart.
+~
+This is a smelly, stinky orc!  Apparently some fool thought it would be funny to see and orc with a bow, here it is.
+~
+goblin~
+100 100 100 100 100 100 100 100 150 100 150 100 100 50 100 100 100 100 100 150 100 100 100 100 100 150 
+AHT CDFJ B -400 0
+65 119 0 3733 4094 3869 4317 11 13 123 pierce
+-224 -164 -210 -198
+STANDING STANDING male 2430
+0 mage medium ABCDEFGHIJK
+
+#75012
+wandering orc~
+a wandering orc~
+A wandering orc sees you and engages.
+~
+This is an orc that appears to be doing a task, but was so rudely disturbed by you.  His clothes are torn rags, but his muscles, could be treatening.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFT JVc 0 -450 0
+69 107 0 4145 4538 4264 4766 16 13 99 slash
+-200 -237 -158 -223
+STANDING STANDING male 2772
+0 mage medium ABCDEFGHIJK
+
+#75013
+rabid wolf~
+a rabid wolf~
+A sickly wolf walks slowly in circles.
+~
+This is a brown-gray wolf that does not appear to be mean.  It hobbles around on its legs, and is drooling from its teeth.
+~
+wolf~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AH XZ 0 0 0
+67 114 0 4161 4502 3851 4671 14 14 110 claw
+-205 -189 -180 -144
+STANDING STANDING male 1885
+0 mage medium ACDEFJKQV
+
+#75014
+tuffed owl~
+a tuffed owl~
+A tuffed owl stares back at you.
+~
+A medium sized owl is perched.  It has a coat of brown and white feathers.
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB FTZ 0 0 0
+71 126 0 4455 4939 4220 5015 16 13 107 claw
+-229 -244 -214 -189
+STANDING STANDING female 2583
+0 mage medium ACDEFHKP
+
+#75015
+tough-looking orc~
+tough-looking orc~
+A tough-looking orc stands here for intruders.
+~
+This is a large orc, which is hideous to look at and even more disgusting to smell.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT JVac 0 -500 0
+75 158 0 4804 5255 4791 4985 16 14 157 claw
+-240 -166 -238 -246
+STANDING STANDING male 3194
+0 mage medium ABCDEFGHIJK
+
+#75016
+an orc hunter~
+an orc hunter~
+An orc hunter sharpens a knife with a stone.
+~
+Another foul smelling orc.  It is jsut as ugly as the rest, but must have some form of inteligence to be able to sharpen a knife.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AST JVc 0 -500 0
+77 128 0 4878 5356 5026 5430 15 17 137 claw
+-274 -198 -257 -267
+STANDING STANDING male 2588
+0 mage medium ABCDEFGHIJK
+P 1 0
+
+#75017
+common orc~
+a common, everyday-looking orc~
+A common, everday-looking orc walks around acting as smart as a rock.
+~
+This is another orc.  It looks the same and smells the same.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AT JVc 0 -250 0
+66 110 0 3735 4478 4104 4164 15 14 115 slash
+-172 -201 -165 -218
+STANDING STANDING male 2150
+0 mage medium ABCDEFGHIJK
+P 1 0
+
+#75018
+orc runner~
+an orc runner~
+An orc runner speeds past without noticing you.
+~
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AS JVc 0 -200 0
+78 149 0 4657 5768 4671 5731 17 16 132 pierce
+-217 -191 -177 -259
+STANDING STANDING male 3226
+0 mage medium ABCDEFGHIJK
+
+#75019
+wandering shadow~
+a wandering shadow~
+A wandering shadow emerges from the ground sensing your warm blood.
+~
+It is pitch black with red eerie eyes.
+~
+demon~
+100 100 100 100 100 100 100 100 150 100 150 100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 
+AMST CJTU AD 0 0
+74 129 0 4520 4969 4860 5312 13 18 116 slash
+-203 -215 -170 -256
+STANDING STANDING neutral 2802
+0 mage medium ABCDEFGHIJKPQ
+P 2 0
+
+#75020
+fat orc~
+a fat orc~
+An immensely fat orc waddles to and fro.
+~
+This is a huge orc.  It has rolls and rolls of fat.  One would wonder how he got down here.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT JVc 0 -400 0
+76 142 0 4744 5457 4974 5127 14 16 127 pound
+-246 -251 -263 -198
+STANDING STANDING male 3327
+0 mage medium ABCDEFGHIJK
+
+#75021
+human prisoner~
+a human prisoner~
+A wretched form of a man lies in the dark.
+~
+He is dirty, weak, and helpless.  Who knows how long he has been in here.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 0 0
+65 119 0 3850 4071 3941 4202 12 15 127 pound
+-156 -216 -200 -145
+RESTING RESTING male 2179
+0 mage medium ABCDEFGHIJK
+
+#75022
+an orc idiot~
+an orc idiot~
+An orc made a mistake of meddling in affairs and ended up here.
+~
+Smelly, Stinky, Ugly.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A JVc 0 0 0
+68 98 0 4045 4514 4155 4347 13 13 142 pound
+-157 -171 -162 -210
+SITTING STANDING male 2867
+0 mage medium ABCDEFGHIJK
+
+#75023
+barbarian~
+a barbarian~
+A barbarian goes into a frenzy.
+~
+This is a tall man, of above average strength, wearing furs.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT a 0 0 0
+73 115 0 4263 4883 4420 5067 16 14 106 none
+-264 -194 -190 -221
+STANDING STANDING male 2619
+0 mage medium ABCDEFGHIJK
+
+#75024
+young dwarf~
+a young dwarf~
+A young dwarf sits here and sighs.
+~
+~
+dwarf~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 150 100 100 100 
+ABT JZ 0 0 0
+64 117 0 3888 3965 3605 3977 12 14 131 pound
+-180 -137 -156 -148
+SITTING STANDING neutral 2367
+0 mage medium ABCDEFGHIJK
+
+#75025
+small centipede~
+a small centipede~
+A small centipede wraps itself around your leg.
+~
+~
+centipede~
+100 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 
+A Z 0 0 0
+75 116 0 4924 5386 4643 5222 15 14 132 none
+-197 -183 -239 -272
+STANDING STANDING neutral 2628
+0 mage medium ACK
+
+#75026
+halforc messenger~
+a halforc messenger~
+A halforc sits here with a message in his hands.
+~
+~
+halforc~
+100 50 100 100 100 100 100 100 100 100 100 100 50 150 100 100 100 50 100 100 50 100 100 100 100 100 
+ABS V 0 -300 0
+77 134 0 4911 5493 4567 5628 19 17 129 slash
+-262 -189 -183 -192
+SITTING STANDING male 3229
+0 mage medium ABCDEFGHIJK
+
+#75027
+orc traveller~
+orc traveller~
+An orc traveller awaits his next destination.
+~
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABST JVc 0 -300 0
+74 159 0 4798 5264 4735 5361 17 17 115 slash
+-196 -269 -257 -264
+STANDING STANDING male 2785
+0 mage medium ABCDEFGHIJK
+
+#75028
+fat bald orc~
+a fat, bald orc~
+A fat, bald orc stands here checking you out.
+~
+This is one huge orc.   One would wonder how is immense buttocks was able to get up here.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFT JVc 0 -300 0
+75 134 0 4722 5415 4843 4977 17 13 122 pound
+-190 -247 -210 -179
+STANDING STANDING male 2772
+0 mage medium ABCDEFGHIJK
+
+#75029
+goblin slave~
+a goblin slave~
+A goblin meekly waits on his master.
+~
+This is a small pathetic form of a humanoid.  It is small, and has a greenish tint to it's skin color.
+~
+goblin~
+100 100 100 100 100 100 100 100 150 100 150 100 100 50 100 100 100 100 100 150 100 100 100 100 100 150 
+ABHS CDFJ B -100 0
+62 122 0 3601 4037 3459 4110 13 14 96 slap
+-134 -142 -187 -158
+STANDING STANDING male 1928
+0 mage medium ABCDEFGHIJK
+
+#75030
+orc torturer~
+an orc torturer~
+A disgusting orc is here torturing a man.
+~
+This is a slobbering, ugly piece of orcish culture.  It was probably breed in some dirty cave, and somehow gains pleasure of other misfortunes.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT JVc 0 -750 0
+79 149 0 4934 5627 5158 5639 15 18 168 pound
+-232 -235 -253 -259
+STANDING STANDING male 3085
+0 mage medium ABCDEFGHIJK
+
+#75031
+orc scamp~
+an orc scamp~
+An orc scamp cracks his stick.
+~
+This is an average-sized orc, yet his temper seem to be quite foul.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT JVc 0 -750 0
+73 128 0 4382 5011 4320 4852 13 13 143 pound
+-233 -161 -194 -193
+STANDING STANDING male 2141
+0 mage medium ABCDEFGHIJK
+
+#75032
+tortured man~
+a tortured man~
+A unfortunate man is being tortured here.
+~
+He is wearing nothing but rags.  He browns eyes glisten as yours connect with his.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABHT Y 0 400 0
+67 100 0 4010 4673 4200 4682 11 11 110 slap
+-143 -228 -201 -205
+STANDING STANDING male 2022
+0 mage medium ABCDEFGHIJK
+
+#75033
+orc lieutenant~
+orc lieutenant~
+An orc lieutenant bars your path.
+~
+This is a big, mean-looking orc.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT JVc 0 -750 0
+83 188 0 5474 5734 5332 6127 21 20 173 slash
+-220 -192 -202 -206
+STANDING STANDING male 2744
+0 mage medium ABCDEFGHIJK
+
+#75034
+lieutenant's guard~
+lieutenant's guard~
+The guard of the lieutenant paces around.
+~
+This is a slightly more diciplined orc that most of its kind.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT JVc 0 -750 0
+79 161 0 5038 5865 4959 5561 18 18 154 slash
+-289 -293 -285 -226
+STANDING STANDING male 2474
+0 mage medium ABCDEFGHIJK
+
+#75035
+halforc guard~
+a halforc guard~
+A halforc guard stands here eyeing you carefully.
+~
+~
+halforc~
+100 50 100 100 100 100 100 100 100 100 100 100 50 150 100 100 100 50 100 100 50 100 100 100 100 100 
+ABT V 0 -800 0
+81 143 0 5181 5810 5265 5674 16 20 146 cleave
+-267 -265 -187 -271
+STANDING STANDING male 2536
+0 mage medium ABCDEFGHIJK
+P 2 0
+
+#75036
+kobold slave~
+a kobold slave~
+A kobold slave is here cleaning up the place.
+~
+~
+kobold~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100 
+AHS J 0 -300 0
+65 102 0 3954 4094 3992 4232 15 15 117 slap
+-209 -203 -152 -213
+STANDING STANDING female 2111
+0 mage medium ABCDEFGHIJKQ
+
+#75037
+pet boa constrictor~
+a pet boa constrictor~
+The Chieftain's pet boa constrictor moveas closer to get to know you.
+~
+This is very long, and very dangerous.
+~
+snake~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+AT 0 0 0 0
+78 169 0 5119 5564 4713 5410 15 16 156 bite
+-263 -229 -206 -223
+STANDING STANDING female 3367
+0 mage medium ADEFKLQVX
+
+#75038
+orc jester~
+an orc jester~
+An orc is here dressed in normal attire of a merchant.
+~
+If not for the nasty smell, and grotesque face a mother couldn't love, he could almost pass for a human.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AHT JVc 0 -600 0
+73 111 0 4481 5214 4622 5056 15 15 155 slash
+-232 -247 -223 -201
+STANDING STANDING male 2539
+0 mage medium ABCDEFGHIJK
+
+#75039
+fat, bald wench~
+a fat, bald wench~
+A fat, bald wench walks around giving you a sexy wink.
+~
+She is really hot for an orc which really doesn't mean much exception one word of advice........RUN!
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AT JVc 0 -500 0
+79 124 0 4997 5327 5187 5329 18 19 162 slap
+-180 -211 -194 -230
+STANDING STANDING female 3057
+0 mage medium ABCDEFGHIJK
+
+#75040
+Bigby's grasping hand~
+Bigby's grasping hand~
+Bigby's grasping hand swoops down and attacks.
+~
+This is a large human hand.
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABT DFT EH 0 0
+90 199 0 5862 6350 5829 6719 18 20 193 slap
+-305 -339 -339 -272
+STANDING STANDING neutral 3589
+0 mage large ABCDEFGHIJK
+
+#75041
+human man black assassin~
+the black assassin~
+A human man stands here dressed in all black.
+~
+A human man, dressed in all black is ready to kill.  He must be an assassin.  Only evil-hearted men would make deals with orcs.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT DFP H -1000 0
+89 169 0 5716 6593 6155 6339 17 22 173 slash
+-283 -330 -301 -343
+STANDING STANDING neutral 3858
+0 mage medium ABCDEFGHIJK
+
+#75042
+orc chieftain~
+the orc chieftain~
+The orc chieftain stands high and mighty above you.
+~
+This is the biggest, baddest, nastiest orc ever.  He is larger that the rest, and smells the worst.  He certainly is a king among orcs.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT JVc H -1000 0
+92 173 0 6289 6892 6173 6604 19 23 206 pound
+-232 -264 -255 -321
+STANDING STANDING male 4217
+0 mage large ABCDEFGHIJK
+
+#75043
+orc shaman~
+an orc shaman~
+An orc shaman waves his hands in a mystical formation.
+~
+Knowing more than what this creature shows, it has a very commanding presence.  It seems to know what to say to keep the other in line.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABR JVc P -1000 0
+79 163 0 5236 5664 4878 5393 18 14 167 slap
+-184 -292 -205 -260
+STANDING STANDING male 2511
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#75000
+an oasis~
+an oasis~
+A small oasis is here to drink water from.~
+fountain X 0
+-1 0 'water' 0 0
+0 0 0
+
+#75001
+boulder~
+a boulder~
+A good sized boulder sits next to the oasis.~
+furniture X 0
+0 0 BE 300 300
+0 0 0
+
+#75002
+palm tree~
+a palm tree~
+A large {2palm{x tree sways in the wind.~
+container X A
+150 C 0 0 0
+1 250 75
+
+#75003
+pile of hay~
+a pile of hay~
+A pile of hay is strewn about.~
+furniture X 0
+2 5000 BEHK 0 0
+1 3 2
+
+#75004
+unknown corpse~
+an unknown corpse~
+An unknown corpse lies partially hidden under the rubble.~
+npc_corpse X 0
+0 0 0 0 0
+0 5 1
+
+#75005
+green pool of blood~
+a green pool of blood~
+A {2green{x pool of blood.~
+portal AX 0
+100000 K K 9704 0
+1 400 2
+
+#75006
+some scattered coins~
+some scattered coins~
+Some scattered coins lies withing the dust of the ground.~
+money X A
+50 0 0 0 0
+1 1 1
+
+#75007
+red feather~
+a {!red{x feather~
+A {!red{x feather lies on the ground.~
+treasure X AO
+0 0 0 0 0
+1 0 4
+
+#75008
+rat on a stick~
+a rat on a stick~
+A cooked rat is on a stick here.~
+food X AO
+24 3 0 0 0
+1 2 5
+
+#75009
+frog on a stick~
+a frog on a stick~
+A cooked frog is on a stick here.~
+food X AO
+24 3 0 0 0
+1 2 10
+
+#75010
+stone key~
+a stone key~
+A stone key lies on the ground.~
+key X A
+0 0 0 0 0
+1 1 211
+
+#75011
+orange peels~
+orange peels~
+Some orange peels lie on the ground.~
+food X A
+24 3 0 A 0
+1 1 228
+
+#75012
+small wooden table~
+a small wooden table~
+A small wooden table sits in the center of the room.~
+furniture X 0
+1 500 D 0 0
+0 100 5
+
+#75013
+small wooden bench~
+a small wooden bench~
+A small wooden bench sits along the northern wall.~
+furniture X 0
+2 1000 EHK 0 0
+0 200 1500
+
+#75014
+small puddle~
+a small puddle~
+A small {4puddle{x is forming here.~
+fountain X 0
+20 5 'water' 0 0
+0 0 0
+
+#75015
+average key~
+an average key~
+An average key is here.~
+key X A
+0 0 0 0 0
+0 1 0
+
+#75016
+glass case~
+a small glass case~
+A long glass case sits on the other side of this giant hand.~
+container X 0
+1000 ACD 75017 1000 50
+1 1000 154
+
+#75017
+glass key~
+a glass key~
+A key made of glass glistens from the light in the room.~
+key X A
+0 0 0 0 0
+1 1 135
+
+#75018
+pocket of many things~
+a pocket of many things~
+A small pocket lays stranded on the ground.~
+container X A
+400 0 0 50 25
+68 10 1300
+
+#75019
+glass rod~
+a glass rod~
+A glass rod shines with all the colors of the rainbow.~
+wand X AO
+80 10 10 '(null)' 0
+67 3 2300
+
+#75020
+pile of gold coins~
+a pile of gold coins~
+A pile of coins lie on the ground.~
+money X A
+2000 0 0 0 0
+1 20 129
+
+#75021
+axe of decimation~
+{1axe{x of {*decimation{x~
+A blood stained axe is drying in the sun's light.~
+weapon AGMX AN
+axe 10 9 cleave 0
+68 15 5900
+
+#75022
+statue idol god~
+a small statue of {!A{1mar{!an{1th{x~
+A small statue of some orc cherished from days past.~
+treasure GJMSXY AO
+0 0 0 0 0
+73 15 10
+A 2 3
+A 18 12
+A 19 12
+A 3 -3
+A 12 -55
+A 13 18
+
+#75023
+black leather armor~
+black leather armor~
+Some black leather armor sits in a heap.~
+armor CJSXY AD
+18 18 18 20 0
+69 7 5000
+A 13 95
+A 1 -1
+A 0 0
+F A 0 0 G
+
+#75024
+chicken leg~
+a chicken leg~
+A greasy chicken leg lies baking in the sun.~
+food X AO
+24 5 0 0 0
+0 1 5
+
+#75025
+chicken bone key~
+a chicken bone~
+A chicken bone has been licked clean.~
+key X AO
+0 0 0 0 0
+0 1 0
+
+#75026
+bone scepter~
+a {&bone{x scepter~
+A scepter of {&bone{x glows with an evil aura.~
+weapon AEJX AN
+mace 9 10 drain C
+70 8 4500
+
+#75027
+dirt brown teeth~
+dirty, brown teeth~
+Some disgustingly brown teeth hide in the dirt.~
+trash X A
+0 0 0 0 0
+1 0 250
+
+#75028
+curved dagger~
+a curved dagger~
+A curved dagger moves like a snake.~
+weapon X AN
+dagger 10 10 bite D
+67 3 3000
+
+#75029
+carved wooden throne~
+a carved wooden throne~
+A throne is carved into the north wall.~
+furniture X 0
+1 500 BEHK 100 100
+0 1000 0
+
+#75030
+tankard ale~
+a tankard of ale~
+A tankard of ale sits in the corner.~
+drinkcontainer X A
+30 20 'ale' 0 0
+1 40 113
+
+#75031
+small wood table~
+a small wood table~
+A small wood table creaks as you approach it.~
+furniture X 0
+2 1000 EN 0 0
+0 50 300
+
+#75032
+golden bell~
+golden bell~
+A golden bell jingles.~
+treasure X AO
+0 0 0 0 0
+0 0 0
+A 2 -2
+
+#75033
+worn leather whip~
+a worn leather whip~
+A leather whip is coiled on the ground.~
+weapon X AN
+whip 10 9 whip 0
+65 5 79
+
+#75034
+beating stick~
+a beating stick~
+A long stick is stained with blood and sweat.~
+weapon X AN
+sword 10 10 pound 0
+45 3 50
+
+#75035
+small chair~
+a small chair~
+A small chair is here.~
+furniture X 0
+1 300 E 0 0
+0 15 0
+
+#75036
+small round table~
+a small round table~
+A small round table lies in the center of the room.~
+furniture X 0
+0 0 N 0 0
+0 75 0
+
+#75037
+floating human head~
+a {#f{3loa{#ting{x human {!h{1ead{x~
+A human heads floats in the air.~
+armor GSXY AQ
+100 100 100 100 0
+152 1 340000
+A 19 100
+A 18 100
+F A 0 161 Q
+
+#75038
+can of orcish ale~
+a c{*an{x of {2or{@cis{2h{x {1ale{x~
+The evil face of {!A{1mar{!an{1th{x sits on a can.~
+drinkcontainer X A
+100 100 'mead' 0 0
+151 1 5000
+
+#75039
+t-shirt good job~
+{@M{2ich's{x "You did a good job" {!t-shirt{x~
+{@M{2ich's{x "You did a good job" {!t-shirt{x~
+armor X AD
+0 0 0 0 0
+0 5 0
+
+#75040
+imm sphere evil heart <*Mich*>~
+{&An {!E{1v{!il H{1ea{!rt{x~
+{&An {!E{1v{!il H{1ea{!rt{x~
+light ABGX A
+0 0 999 0 0
+152 4 0
+A 3 20
+A 5 20
+A 4 20
+A 19 60
+A 18 40
+F A 0 0 D
+
+#75099
+zPouch Leather Gem Pouch~
+{3Bag{x of {^S{6cre{^am{6ing{x {!V{1oices{x~
+{3Bag{x of {^S{6cre{^am{6ing{x {!V{1oices{x~
+container GXY AO
+100 0 0 500 100
+154 1 50
+#0
+
+#ROOMS
+#75000
+~
+~
+4 0
+S
+
+#75001
+{$A small dirt path{x~
+The forest thins out, and hills seem to run abundantly.  There is a small
+dirt path that appears to have been used quite frequetly as of lately. 
+There are foot prints of some type of humanoid that has recently used this
+path.  The sun is now overhead and beating down mercilessly.  The path
+continues north.  
+~
+0 3
+D0
+~
+~
+0 0 75002
+D2
+~
+~
+0 0 23385
+S
+
+#75002
+{$A small dirt path{x~
+Hills form on either side of this small dirt path.  In the distance there
+is a slight chirping of a song bird.  The trees seems to thicken along this
+path.  Branches swoop down and partially block the path, but are easily
+moved aside.  The path continues north and south.  
+~
+0 3
+D0
+~
+~
+0 0 75003
+D2
+~
+~
+0 0 75001
+D3
+A small brush of green plants cover your way.
+~
+~
+ABG 0 75032
+S
+
+#75003
+{$A T-intersection in the dirt path{x~
+The dirt path has come to an interesection of sorts.  The sunlight beats
+its way to the path amist the trees along your sides.  One particular tree
+stands out in that it is a maple tree, one that is rarely found in these
+parts.  The path leads north, south, and east.  
+~
+0 3
+D0
+~
+~
+0 0 75005
+D1
+~
+~
+0 0 75004
+D2
+~
+~
+0 0 75002
+S
+
+#75004
+{$Side of the hill{x~
+The path trails right into the the side of the hill.  There are many
+unnatural marking along the side of the path.  It looks to be that something
+clawed up this side of the hill in a fit of rage.  A small ground squirrel
+races to the side of the hill, to your feet, then a tiny hole in the ground.
+The only apparent exit is to the west.  
+~
+0 3
+D3
+~
+~
+0 0 75003
+D5
+There is a small hole that would seem impossible for you to enter.
+~
+~
+AB 0 75074
+S
+
+#75005
+{$An open field{x~
+This is a wonderful open area.  The {2grass{x grows in the field to the
+north and east.  A slight breeze picks up and tosses the {2grass{x in waves
+of vegetation.  The sun sends a brief blinding ray unto the land, feeding
+the living creatures huger for warmth.  The dirt path continues west.  
+~
+0 3
+D0
+~
+~
+0 0 75009
+D1
+~
+~
+0 0 75007
+D2
+~
+~
+0 0 75003
+D3
+~
+~
+0 0 75006
+S
+
+#75006
+{$ A small dirt path{x~
+The forest begins once again, and the birds fly from the field to the
+east into the trees ahead.  The trees look different from most other trees. 
+There is a strange eerie feeling in the air.  The dirt path continues to the
+north.  At the bottom of several of the trees, the bark seems to have been
+chewed off.  A sense of danger kicks in by your sixth sense.  
+~
+0 3
+D0
+~
+~
+0 0 75010
+D1
+~
+~
+0 0 75005
+S
+
+#75007
+{$An open field{x~
+This a wide open field to the north and west.  The hills seemed to have
+risen from the ground and block the south and east directions.  Knee high
+grass grows in this field.  Clouds seem to roll from the eastern horizon to
+the western one.  The clouds make out to be various shapes, one looks like
+you mothers face, another a apple...  
+~
+0 2
+D0
+~
+~
+0 0 75008
+D3
+~
+~
+0 0 75005
+D5
+~
+~
+AB 0 75086
+S
+
+#75008
+{$An open field{x~
+This a wide open field to the south and west.  The hills seemed to have
+risen from the ground and block the north and east directions.  Knee high
+grass grows in this field.  A small ant mound is formed below you.  Tiny
+workers move in a machine-like rhythem performing their daily tasks.  
+~
+0 2
+D2
+~
+~
+0 0 75007
+D3
+~
+~
+0 0 75009
+S
+
+#75009
+{$An open field{x~
+This a wide open field to the south and east.  The hills seemed to have
+risen from the ground and block the north and west directions.  Knee high
+grass grows in this field.  There is a cross in the form of two sticks stuck
+in the ground.  A small mound of dirty covers some unfortunate person.  
+~
+0 2
+D1
+~
+~
+0 0 75008
+D2
+~
+~
+0 0 75005
+S
+
+#75010
+{$ A small dirt path{x~
+The dirt path widens to the north and the trees thin out once again. 
+There are some strange noises from beyond to the north.  In examining the
+path further, there is evidence that many people or things have frequestly
+used this path.  The dirt path continues north and south.  
+~
+0 0
+D0
+~
+~
+0 0 75011
+D2
+~
+~
+0 0 75006
+S
+
+#75011
+{$The valley opening{x~
+There are only a handful of trees along the path now.  In their places
+lie large hills to the east and west.  The sun can be seen straight ahead of
+the path.  From this vantage point, this would be a wonderful spot to ambush
+unsuspecting travelers who are lost.  The path continues north and south.  
+~
+0 3
+D0
+~
+~
+0 0 75012
+D2
+~
+~
+0 0 75010
+S
+
+#75012
+{$The valley path{x~
+The valley opens up, and a great shadow falls across the path.  Large
+boulders have fallen to either sides of the path.  Some natural disaster
+must have created this place.  To the east and west lies crevices in the
+valley walls, as the path continues north and south.  
+~
+0 3
+D0
+~
+~
+0 0 75015
+D1
+~
+~
+0 0 75013
+D2
+~
+~
+0 0 75011
+D3
+~
+~
+0 0 75014
+S
+
+#75013
+{$A small crevice{x~
+This is a safe, dry place from the sun.  The shadows dance along the
+floor, and refreshing gust of air plays about.  This would be a good place
+for shelter if the need ever arose.  The only exit is the way you came in.  
+~
+0 0
+D3
+~
+~
+0 0 75012
+S
+
+#75014
+{$A small crevice{x~
+This is a safe, dry place from the sun.  The shadows dance along the
+floor, and refreshing gust of air plays about.  This would be a good place
+for shelter if the need ever arose.  The only exit is the way you came in.  
+~
+8 0
+D1
+~
+~
+0 0 75012
+S
+
+#75015
+{$The valley path{x~
+As the valley continues, to the east and west noticeable structures
+stand.  They are somewhat cleverly disguised, hiding behind some large
+boulders, but they appear to be poorly constructed even from this distance. 
+The sounds of harsh voices are coming within these contructions.  The valley
+continues north and south.  
+~
+0 3
+D0
+~
+~
+0 0 75019
+D1
+~
+~
+0 0 75017
+D2
+~
+~
+0 0 75012
+D3
+~
+~
+0 0 75018
+S
+
+#75016
+{$Circle of redwood trees{x~
+The darkness parts way for this mystical formation of trees.  The
+redwoods for a circle of mystique and power.  The tops of these mammoth
+trees are barely visible.  The darkness grows to the west as the trees
+conspire with the shadows to impede your path.  A redwood larger that the
+others lies to the east.  
+~
+0 3
+D0
+~
+~
+0 0 75087
+D1
+~
+~
+0 0 75041
+D2
+~
+~
+0 0 75089
+S
+
+#75017
+{$A crude outpost{x~
+A little sunlight beams in from this novice construction, the part where
+there is a hole in the roof.  This looks to be a guard post of sorts, but
+things lie about in an unorganized fashion.  Pots and pans are scattered on
+the floor.  There is a small fire burning near the wall, as a frog is being
+cooked.  The only exit is back the way you came.  
+~
+0 0
+D3
+~
+~
+0 0 75015
+S
+
+#75018
+{$A crude outpost{x~
+A little sunlight beams in from this novice construction, the part where
+there is a hole in the roof.  This looks to be a guard post of sorts, but
+things lie about in an unorganized fashion.  Pots and pans are scattered on
+the floor.  There is a small fire burning near the wall, as a rat is being
+cooked.  The only exit is back the way you came.  
+~
+0 0
+D1
+~
+~
+0 0 75015
+S
+
+#75019
+{$Opening of the valley{x~
+The boulders gather here on either side of the path some ranging from
+small pebbles, to gapingly large stones reaching 10 feet in height.  It is
+difficult to see past this rubble, and the wind rapidly blows here, taking a
+small dust storm with it.  The valley path continues north and south.  
+~
+0 3
+D0
+~
+~
+0 0 75020
+D2
+~
+~
+0 0 75015
+S
+
+#75020
+{$An open valley{x~
+The valley opens up to form a wide base.  The valley in all it's splendor
+is tragically owned by fould caretakers.  There are many track marks as well
+as trash lying all about.  In the distance, there appears to be humans
+working.  You may wish to walk in any direction you choose.  
+~
+0 2
+D0
+~
+~
+0 0 75025
+D1
+~
+~
+0 0 75021
+D2
+~
+~
+0 0 75019
+D3
+~
+~
+0 0 75026
+S
+
+#75021
+{$An open valley{x~
+Here lies the outter stretches of the valley.  The clouds seemingly roll
+by in slow motion as they play hide and seek with the sun.  A small
+tumbleweed zig zags around the valley, playing tag with it's self.  A small
+column of smoke rises from the northeast.  The valley opens up to the north,
+east, and west.  
+~
+0 2
+D0
+~
+~
+0 0 75024
+D1
+~
+~
+0 0 75022
+D3
+~
+~
+0 0 75020
+S
+
+#75022
+{$An open valley{x~
+Here lies the outter stretches of the valley.  The clouds seemingly roll
+by in slow motion as they play hide and seek with the sun.  A small
+tumbleweed zig zags around the valley, playing tag with it's self.  A small
+column of smoke rises from the northeast.  The valley opens up to the north
+and east.  
+~
+0 2
+D0
+~
+~
+0 0 75023
+D3
+~
+~
+0 0 75021
+S
+
+#75023
+{$An open valley{x~
+Here lies the outter stretches of the valley.  The clouds seemingly roll
+by in slow motion as they play hide and seek with the sun.  A small
+tumbleweed zig zags around the valley, playing tag with it's self.  A small
+column of smoke rises from the northeast.  The valley opens up to the north,
+east, and south.  
+~
+0 2
+D0
+~
+~
+0 0 75031
+D2
+~
+~
+0 0 75022
+D3
+~
+~
+0 0 75024
+S
+
+#75024
+{$An open valley{x~
+Here is the middle of the valley.  The clouds seemingly roll by in slow
+motion as they play hide and seek with the sun.  A small tumbleweed zig zags
+around the valley, playing tag with it's self.  A small column of smoke
+rises from the northeast.  The valley opens up to the north, south, east,
+and west.  
+~
+0 2
+D0
+~
+~
+0 0 75030
+D1
+~
+~
+0 0 75023
+D2
+~
+~
+0 0 75021
+D3
+~
+~
+0 0 75025
+S
+
+#75025
+{$An open valley{x~
+Here is the middle of the valley.  The clouds seemingly roll by in slow
+motion as they play hide and seek with the sun.  A small tumbleweed zig zags
+around the valley, playing tag with it's self.  A small column of smoke
+rises from the northeast.  The valley opens up to the north, south, east,
+and west.  
+~
+0 2
+D0
+~
+~
+0 0 75029
+D1
+~
+~
+0 0 75024
+D2
+~
+~
+0 0 75020
+D3
+~
+~
+0 0 75027
+S
+
+#75026
+{$An open valley{x~
+Here lies the outter stretches of the valley.  The clouds seemingly roll
+by in slow motion as they play hide and seek with the sun.  A small
+tumbleweed zig zags around the valley, playing tag with it's self.  A small
+column of smoke rises from the northeast.  The valley opens up to the notrh
+and east.  
+~
+0 2
+D0
+~
+~
+0 0 75027
+D1
+~
+~
+0 0 75020
+S
+
+#75027
+{$An open valley{x~
+Here lies the outter stretches of the valley.  The clouds seemingly roll
+by in slow motion as they play hide and seek with the sun.  A small
+tumbleweed zig zags around the valley, playing tag with it's self.  A small
+column of smoke rises from the northeast.  The valley opens up to the north,
+east, and south.  
+~
+0 2
+D0
+~
+~
+0 0 75028
+D1
+~
+~
+0 0 75025
+D2
+~
+~
+0 0 75026
+S
+
+#75028
+{$An open valley{x~
+Here lies the outter stretches of the valley.  The clouds seemingly roll
+by in slow motion as they play hide and seek with the sun.  A small
+tumbleweed zig zags around the valley, playing tag with it's self.  A small
+column of smoke rises from the northeast.  The valley opens up to the east
+and south.  
+~
+0 2
+D1
+~
+~
+0 0 75029
+D2
+~
+~
+0 0 75027
+S
+
+#75029
+{$An open valley{x~
+Here lies the outter stretches of the valley.  The clouds seemingly roll
+by in slow motion as they play hide and seek with the sun.  A small
+tumbleweed zig zags around the valley, playing tag with it's self.  A small
+column of smoke rises from the northeast.  The valley opens up to the east,
+west, and south.  
+~
+0 2
+D1
+~
+~
+0 0 75030
+D2
+~
+~
+0 0 75025
+D3
+~
+~
+0 0 75028
+S
+
+#75030
+{$An open valley{x~
+Here lies the outter stretches of the valley.  The clouds seemingly roll
+by in slow motion as they play hide and seek with the sun.  A small
+tumbleweed zig zags around the valley, playing tag with it's self.  A small
+column of smoke rises from the northeast.  The valley opens up to the east,
+south, and west.  
+~
+0 2
+D1
+~
+~
+0 0 75031
+D2
+~
+~
+0 0 75024
+D3
+~
+~
+0 0 75029
+S
+
+#75031
+{$An open valley{x~
+The valley comes to a close, but opens up to a small forest path leading
+north of here.  Who would have guessed a path was here unless you stood
+right next to it?  The trees look dense and it is hard to see past the first
+couple.  It does look to provide some shelter from the blistering sun.  The
+valley extends south and west, while the forest path leads north.  
+~
+0 2
+D0
+~
+~
+0 0 75035
+D2
+~
+~
+0 0 75023
+D3
+~
+~
+0 0 75030
+S
+
+#75032
+{2In a small brush{x~
+There is no clear cut path except walking through the various forms of
+plants growing about.  There are many animals that scurry about as their
+current resting places are being trampled upon.  A single white dove, flies
+from east to west.  A few of the trees provide some coverage from the sun
+that is unwilling to give you shade.  
+~
+0 3
+D1
+~
+~
+ABG 0 75002
+D3
+~
+~
+0 0 75033
+S
+
+#75033
+{2In a small brush{x~
+Various plants impede your path all around you.  The vegetation is no
+taller than a couple of feet, but it is troublesome to gain a strong
+foothold.  There are scatter trees all about, but to the north you see a
+palm tree of sorts.  
+~
+0 3
+D0
+~
+~
+0 0 75034
+D1
+~
+~
+0 0 75032
+S
+
+#75034
+{2Under a Palm Tree{x~
+This is a small sanctuary within these small hills.  A large palm tree
+protects you from the sun, and a good-sized oasis is more than enough to
+quench your thirst.  To the north there is a hill making that direction
+impassible, as are the east and west due to the thick vegetation that grows
+here.  This is a nice quiet place.  A large boulder lies under the palm tree
+and next to the oasis.  The only exit is back the way you came.  
+~
+1032 0
+D2
+~
+~
+0 0 75033
+H 200 200
+S
+
+#75035
+{$Trail leading into a grove of redwood trees{x~
+Large, luminous redwoods engulf the south.  The groves seems to block out
+all light and darkness grows all about it.  A fe faint glimmers of light
+move in and out of the trees and shadows, but a closer inspection is needed
+for further identification.  This trail leads north into the grove and south
+into the valley.  
+~
+0 3
+D0
+~
+~
+0 0 75036
+D2
+~
+~
+0 0 75031
+S
+
+#75036
+{$Trail in a grove of redwood trees{x~
+The darkness has engulfed you.  The trees loom on either side of the
+trail.  Strange bird calls randomly sputter, cracking the cold air.  The
+path is uneven due to the mostrous trees' roots surfacing at the most odd
+places.  The trail leads north into darkness and south where a hint of light
+from the valley shines.  
+~
+1 3
+D0
+~
+~
+0 0 75037
+D2
+~
+~
+0 0 75035
+S
+
+#75037
+{$Trail in a grove of redwood trees{x~
+The light from the valley is completly gone.  The trees stand tall and
+mighty.  The thickness is so emmense that one would not be able to wrap his
+arms around the base.  The bird calls continue, seemingly getting louder.  A
+twig snaps not too far off in the distance.  The trail makes a sharp turn to
+the west.  
+~
+0 3
+D2
+~
+~
+0 0 75036
+D3
+~
+~
+0 0 75038
+S
+
+#75038
+{$Circle of redwood trees{x~
+The darkness parts way for this mystical formation of trees.  The
+redwoods for a circle of mystique and power.  A short series of whistles and
+calls ask and answer each other.  If not for the looming darkness of the
+outter reaches, this would be a spectacular sight.  A larger, greater
+redwood stands above all others to the west.  
+~
+0 3
+D0
+~
+~
+0 0 75040
+D1
+~
+~
+0 0 75037
+D2
+~
+~
+0 0 75039
+D3
+~
+~
+0 0 75041
+S
+
+#75039
+{$Circle of redwood trees{x~
+The darkness parts way for this mystical formation of trees.  The
+redwoods for a circle of mystique and power.  The tops of these mammoth
+trees are barely visible.  The darkness grows to the south and east as the
+trees conspire with the shadows to impede your path.  A redwood larger that
+the others lies to the northwest.  
+~
+0 3
+D0
+~
+~
+0 0 75038
+D3
+~
+~
+0 0 75043
+S
+
+#75040
+{$Circle of redwood trees{x~
+The darkness parts way for this mystical formation of trees.  The
+redwoods for a circle of mystique and power.  The tops of these mammoth
+trees are barely visible.  The darkness grows to the north and east as the
+trees conspire with the shadows to impede your path.  A redwood larger that
+the others lies to the southwest.  
+~
+0 3
+D2
+~
+~
+0 0 75038
+D3
+~
+~
+0 0 75042
+S
+
+#75041
+{$An ancient redwood{x~
+An old, yet sturdy redwood rises above the rest.  Its color has faded
+over time, but its mere sizes gives an aura of awe.  A vines crawl around
+the tree, providing a way to travel up into the tree, or down where there is
+a hole in the ground.  
+~
+8 3
+D0
+~
+~
+0 0 75042
+D1
+~
+~
+0 0 75038
+D2
+~
+~
+0 0 75043
+D3
+~
+~
+0 0 75016
+D4
+~
+~
+AB 0 75045
+D5
+~
+~
+AB 0 75044
+S
+
+#75042
+{$Circle of redwood trees{x~
+The darkness parts way for this mystical formation of trees.  The
+redwoods for a circle of mystique and power.  The tops of these mammoth
+trees are barely visible.  The darkness grows to the north as the trees
+conspire with the shadows to impede your path.  A redwood larger that the
+others lies to the south.  
+~
+0 3
+D1
+~
+~
+0 0 75040
+D2
+~
+~
+0 0 75041
+D3
+~
+~
+0 0 75087
+S
+
+#75043
+{$Circle of redwood trees{x~
+The darkness parts way for this mystical formation of trees.  The
+redwoods for a circle of mystique and power.  The tops of these mammoth
+trees are barely visible.  The darkness grows to the south as the trees
+conspire with the shadows to impede your path.  A redwood larger that the
+others lies to the north.  
+~
+0 3
+D0
+~
+~
+0 0 75041
+D1
+~
+~
+0 0 75039
+D3
+~
+~
+0 0 75089
+S
+
+#75044
+{$Bottom of the vine ladder{x~
+The vines come to an end in a pit-like room.  The walls are made of the
+rich earth.  Various crawling insects tunnel their way through the walls and
+the floor.  Cochroaches, ants, worms, and beetles slither and crawl forming
+the ground.  
+~
+8 0
+D2
+This is a dirt wall.
+~
+~
+AB 0 75066
+D4
+~
+~
+AB 0 75041
+S
+
+#75045
+{$Halfway up the vine ladder{x~
+At the mid point of this vine ladder, there are three doorways carved
+into the tree leading in the directions of north, east, and west.  By the
+looks of it, the doorways were carved not delicately, but with a sword or an
+ax, and done very sloppily at that.  From here the most of the tops of the
+redwoods can be seen.  A few stars sparkle in the great sky.  The vine
+continues to climp up and down.  
+~
+8 0
+D0
+~
+~
+0 0 75046
+D1
+~
+~
+0 0 75047
+D3
+~
+~
+0 0 75050
+D4
+~
+~
+0 0 75053
+D5
+~
+~
+AB 0 75041
+S
+
+#75046
+{$A guard post{x~
+This is a small but sturdy room.  It is located in the precise center of
+this mammoth tree.  Various unintelligible scrawings cover the walls and
+floor, whether randomly done or for a reason is not known.  Most of the room
+is not visible due to two enormously large orcs.  They are quite the fattest
+things you have ever seen.  
+~
+8 0
+D2
+~
+~
+0 0 75045
+S
+
+#75047
+{$The waiting room{x~
+The walls of this room are comprised of the tree.  There is some light
+furniture: some chairs and a table.  The floor is very dirty giving evidence
+of how much use this room gets.  The ceiling is low cut and jagged.  In
+general, this is pretty good looking in terms of being taken care of by
+orcs.  One wuold assume a not as clean abode, but they may be smarter than
+one would think.  There is a room to the north.  
+~
+8 0
+D0
+~
+~
+0 0 75048
+D3
+~
+~
+0 0 75045
+S
+
+#75048
+{$The gathering room{x~
+A small table sits in the middle of this room.  The walls, ceiling, and
+floor is contrued of wood from the tree.  There is a bench along the east
+wall.  It too is comprised of wood.  It is tarnished, quite nice looking.  A
+small stream of {$water{x trickles down the west wall and forms a small
+puddle on the ground.  
+~
+8 0
+D0
+~
+~
+0 0 75049
+D2
+~
+~
+0 0 75047
+S
+
+#75049
+{$A dirty room{x~
+WHEW!  This is a horrible smelling place.  Apparently, they created a
+room designed for trowing their trash into.  Peels of various fruits, broken
+swords, bowls, and clothing lie mixed together along with numerous
+unidentifiable objects.  There is not ventilation, so the air is stagnant. 
+One would ponder what happens when this room is filled...  
+As you turn back to leave, garbage fills in the your pathway, making it impossible to reach the door, let alone open it.
+~
+5 0
+S
+
+#75050
+{$The holding room{x~
+Thisi is a dirty, unkept room.  There is a small window on the west wall,
+but garbage litters the corners of the room.  There is no furniture and the
+room appears barren.  The sounds of a whip cracking breaks the silence of
+the decaying refuse.  
+~
+8 0
+D0
+~
+~
+0 0 75051
+D1
+~
+~
+0 0 75045
+S
+
+#75051
+{$The torture room{x~
+Here the screams of some poor soul reside.  This room is dark and humid. 
+A small group of orcs are visciously having their way with some unfortunate
+man.  The crack of a whip fills your ears, as does the sound of sticks
+beating flesh.  The shadows on the wall mimic the poor man's tradegy over
+again as if once was not enough.  The orcs hear your footsteps and turn
+their attention on their new "play things".  
+~
+8 0
+D0
+~
+~
+0 0 75052
+D2
+~
+~
+0 0 75050
+S
+
+#75052
+{$A stench-filled room{x~
+The awful smell of rotting flesh fills the air, and you gasp as you
+breathe it in.  Various forms and pieces of body parts lie strewn in heeps. 
+Legs and arms tangled in a mess, fingers and toes sided by side, and spines
+intertwined with the rest of the pieces.  Some of the identifiable are well
+in to the process of decaying as glimmers of white shine through the blood. 
+Other are were freshly hacked and toss in here.  
+~
+9 0
+D2
+~
+~
+0 0 75051
+S
+
+#75053
+{$Top of the vine ladder{x~
+The top of this ladder, reaches the uppermost limits of the tree.  This
+room is quite small, but leads unto the south, where sounds of laughter, and
+screams of dispare emerge.  The one thing that is consistent is the loud
+thumping sounds that rattle the floor with each step.  
+~
+8 0
+D0
+~
+~
+0 0 75054
+D5
+~
+~
+0 0 75045
+S
+
+#75054
+{$Chieftan's Lair{x~
+This is a room slightly decorated.  A few pieces of cloth are strung
+along both sides of the wooden walls.  A small row of torches line the walls
+leading south, as they emit no heat.  A small breeze picks up the air
+current, as unseen windows allow fresh air to enter into this room.  
+~
+8 0
+D0
+~
+~
+ABCG 75015 75057
+D1
+~
+~
+0 0 75055
+D2
+~
+~
+0 0 75053
+D3
+~
+~
+0 0 75056
+S
+
+#75055
+{$Chieftan's Guard Post{x~
+This is a small room, with the it entirely being blank.  There are no
+decorations here.  A small bell does sit on a table.  The sounds in this
+room are deathly quite.  Extra guards are stationed here in case of a need
+for them.  
+~
+8 0
+D3
+~
+~
+0 0 75054
+S
+
+#75056
+{$Chieftan's Guard Post{x~
+This is a small room, with the it entirely being blank.  There are no
+decorations here.  A small bell does sit on a table.  The sounds in this
+room are deathly quite.  Extra guards are stationed here in case of a need
+for them.  
+~
+8 0
+D1
+~
+~
+0 0 75054
+S
+
+#75057
+{$Hallway to main room{x~
+A string of torches mainly for display, scatter the walls on both sides. 
+Ahead there is movement of many sorts, except they are just swirl of colors
+from here.  A small bird of sorts managed to make its way here and flies
+along the ceiling to the north.  
+~
+0 0
+D0
+~
+~
+0 0 75058
+D2
+~
+~
+ABCG 75015 75054
+S
+
+#75058
+{$Chieftan's audience chamber{x~
+This room expands as the ceiling raises higher.  A festive atmosphere
+encompasses you as you see the decorations and the inhabitants.  Guards form
+a straight line leading north, but it is impossible to see what is past
+them.  The room quickly fills with the sounds of high pitched laughter, low
+toned grunts and squels.  A loud clash of metal on metal, temporarily ends
+all action in this hall, but then resume a few short moments later.  
+~
+8 0
+D0
+~
+~
+0 0 75059
+D1
+~
+~
+0 0 75061
+D2
+~
+~
+0 0 75057
+D3
+~
+~
+0 0 75062
+S
+
+#75059
+{$Chieftan's audience chamber{x~
+The festivities are in full swing.  The guards seem to be protecting
+someone or something to the north of here.  A large {1red{x and black banner
+stretches across this hall from the eastern wall to the western.  An
+unidentifable instrument is playing a fast tempo as some female orcs dance
+around.  The music would amost send you into another world with the
+exception that the surrounding are dirty and unkept.  
+~
+8 0
+D0
+~
+~
+0 0 75064
+D1
+~
+~
+0 0 75060
+D2
+~
+~
+0 0 75058
+D3
+~
+~
+0 0 75063
+S
+
+#75060
+{$Chieftan's audience chamber{x~
+The part of the hall, is quiet.  The is trash littered on the ground,
+even a few bones are scattered about.  A few insects have chosen to join in
+the join and are enjoying themselves to the refuse littered around the hall
+as well.  Royalty themselves would shudder at the thought of stepping into
+this place, but orcs appear to have lower standards.  
+~
+8 0
+D2
+~
+~
+0 0 75061
+D3
+~
+~
+0 0 75059
+S
+
+#75061
+{$Chieftan's audience chamber{x~
+In this corner of the hall, the orcs have placed their happy juices.  A
+couple of tankards of some form of alcohol sit along the wall.  Of all the
+places, this would probably be the least safe due to everyone in the hall
+keep eyeing these tankards.  Loud shouts come from across that hall, a
+kobold comes close to one of the tankards.  Many faces glare in this
+direction.  
+~
+0 0
+D0
+~
+~
+0 0 75060
+D3
+~
+~
+0 0 75058
+S
+
+#75062
+{$Chieftan's audience chamber{x~
+This is where some of the orc wenches have have gathered.  A loud voice
+utters a word, and one of the wenchs goes north.  There is too much reveling
+of these wenches, so you look to the wall, which is plain and decide this is
+much more less stomach turning.  A few small spiders quickly walk across
+your feet heading north.  One of the wenches picks up a spider and eats it. 
+Soon, the rest who are waiting got on their knees looking for insects to
+eat.  
+~
+8 0
+D0
+~
+~
+0 0 75063
+D1
+~
+~
+0 0 75058
+S
+
+#75063
+{$Chieftan's audience chamber{x~
+This is where most of the action is taking palce in the hall.  There is a
+female orc dancing around in uncoordinated and clumsy ways.  An orc
+imitating a human, walks around the hall, acting very polite to the guards
+and wenches.  Laughter fills the hall, as many orcs point and even hit the
+psuedo-jester on the head with the back of their hands.  
+~
+8 0
+D1
+~
+~
+0 0 75059
+D2
+~
+~
+0 0 75062
+S
+
+#75064
+{$The Chieftain's High Chair{x~
+A mighty throne has been craved out of the side of the tree.  It is crude,
+yet awe-inspiring in the same way.  It raises to 10 feet in height and is 5
+feet wide.  There are many notches proving to show it has lasted many
+battles, and there are many blood stains proving that move than one person
+has died while on this throne.  A small set of steps lead up to the actual
+seat.  One would almost consider stepping up but the large amount of
+gaurds, and the occupant would never allow it.  
+~
+8 0
+D2
+~
+~
+0 0 75059
+D5
+~
+~
+ABC 75025 75065
+S
+
+#75065
+{$Chieftan's Personal Room{x~
+A brightly-lit room glimmers with many eye catching wonders.  {#Gold{x
+coins are scattered about on the ground.  A few precious stones are mixed in
+as well.  There is a glass case sitting on the far wall.  After taking one
+step, a large hand materializes and attacks you.  
+~
+8 0
+D4
+~
+~
+ABC 75025 75064
+S
+
+#75066
+{$Along a small dirt tunnel{x~
+This is a dark, smelly tunnel.  The sounds of crunching can be heard, as
+the insects are crushed beneath your boots.  The sounds of animals groaning
+fill the thick, humid air of these tunnels.  The tunnel leads south.  
+~
+9 0
+D0
+~
+~
+AB 0 75044
+D2
+~
+~
+0 0 75067
+S
+
+#75067
+{$Along a small dirt tunnel{x~
+The air is damp and stagnant.  All of a sudden a stench hits you like a
+crashing wave, almost sending you reeling to the ground.  The amount of bugs
+on the ground have cleared up a little, with the exception of long
+centipedes scrambling about.  
+~
+9 0
+D0
+~
+~
+0 0 75066
+D1
+~
+~
+0 75010 75068
+D2
+~
+~
+0 0 75070
+D3
+~
+~
+0 75010 75069
+S
+
+#75068
+{$A dirt cell{x~
+This is a dank, dirty cell.  It is small, and very unkept.  Orcs never
+were good at taking care of prisoners.  From the corner comes unbearable
+stench.  Rotting flesh and bones lie scattered in every part of this hell. 
+Insects of all shapes and sizes move in and out of the niches here.  
+~
+9 0
+D3
+~
+~
+0 75010 75067
+S
+
+#75069
+{$A dirt cell{x~
+This is a dank, dirty cell.  It is small, and very unkept.  Orcs never
+were good at taking care of prisoners.  From the corner comes unbearable
+stench.  Rotting flesh and bones lie scattered in every part of this hell. 
+Insects of all shapes and sizes move in and out of the niches here.  
+~
+9 0
+D1
+~
+~
+0 75010 75067
+S
+
+#75070
+{$Along a small dirt tunnel{x~
+The air is damp and stagnant.  The viscous stench continues on.  The
+moans and screams of tortured souls rise.  In joining with these shrieks,
+the sounds of loud grunts can be heard mixed in as well.  The walls of dirt
+seem to be sturdy, but start to crumble in the southward direction.  
+~
+9 0
+D0
+~
+~
+0 0 75067
+D1
+~
+~
+0 75010 75071
+D2
+~
+~
+0 0 75073
+D3
+~
+~
+0 75010 75072
+S
+
+#75071
+{$A dirt cell{x~
+This is a dank, dirty cell.  It is small, and very unkept.  Orcs never
+were good at taking care of prisoners.  From the corner comes unbearable
+stench.  Rotting flesh and bones lie scattered in every part of this hell. 
+Insects of all shapes and sizes move in and out of the niches here.  
+~
+9 0
+D3
+~
+~
+0 75010 75070
+S
+
+#75072
+{$A dirt cell{x~
+This is a dank, dirty cell.  It is small, and very unkept.  Orcs never
+were good at taking care of prisoners.  From the corner comes unbearable
+stench.  Rotting flesh and bones lie scattered in every part of this hell. 
+Insects of all shapes and sizes move in and out of the niches here.  
+~
+9 0
+D1
+~
+~
+0 75010 75070
+S
+
+#75073
+{$End of the dirt tunnel{x~
+This dirt tunnel has come to an end.  It looks as if the workers just
+left the place.  There is a shovel sticking out of a pile of dirt and the
+south walls are uncut and rough.  Peels and leftovers of various food lie
+rotting on the ground.  
+~
+9 0
+D0
+~
+~
+0 0 75070
+S
+
+#75074
+{$An underground tunnel intersection{x~
+Here is a crossroads of tunnels, each leading in the for four major
+directions.  It is evidenent that the walls were crudely made, but the force
+behind it was tremedous.  Faint sounds echo throughout the tunnels proving
+to be impossible to tell which direction they came from.  
+~
+8 0
+D0
+~
+~
+0 0 75077
+D1
+~
+~
+0 0 75075
+D2
+~
+~
+0 0 75078
+D3
+~
+~
+0 0 75076
+D4
+~
+~
+AB 0 75004
+S
+
+#75075
+{$A collapsed tunnel{x~
+The tunnel appears to continue east but someone or something has caused
+the walls to cave-in.  Rubble lie all about the ground as there is dust that
+has settled everywhere.  The smell of death encompasses the room
+overwhelmingly.  What poor sap was caught in this castrophe.  The only exit
+is west.  
+~
+8 0
+D3
+~
+~
+0 0 75074
+S
+
+#75076
+{$A small underground tunnel{x~
+The walls of these dirt tunnels quiver and shake as the rising echoes of
+a monstrous cry crescendo.  Various forms of roots stretch from the ground
+to the ceiling, an imitation of the dead waking.  A small insect lands one
+of the roots, studies you, and flies west.  The tunnel continues east and
+west.  
+~
+8 0
+D1
+~
+~
+0 0 75074
+D3
+~
+~
+0 0 75081
+S
+
+#75077
+{$A small underground tunnel{x~
+The walls shudder and shake, as a blast of hot air steams through the
+ground.  A loud whistling sound is coming from the ground.  Water trickles
+down the wall from some water source above.  A drip hits a puddle formed on
+the ground...  BINK!  The tunnel leads north and south.  
+~
+8 0
+D0
+~
+~
+0 0 75080
+D2
+~
+~
+0 0 75074
+S
+
+#75078
+{$A small underground tunnel{x~
+A wave of warm air fills this part of the tunnels.  Roots of trees above
+hang over head and water trickles down the sides of the wall.  A small
+pebble stands out of place amoung all the dirt.  A distance roar shakes the
+tunnels then all sanity returns.  The tunnel continues north and south.  
+~
+8 0
+D0
+~
+~
+0 0 75074
+D2
+~
+~
+0 0 75079
+S
+
+#75079
+{$A small nest{x~
+This is where the groundhogs living in this area sleep.  There is nothing
+exciting about this nest.  There is hay on the ground, some food strewn
+about, and a an awful smell of the animals.  The ground hogs look up then go
+back to what they were doing.  The only exit is back through the tunnel to
+the north.  
+~
+8 0
+D0
+~
+~
+0 0 75078
+S
+
+#75080
+{$A dead end{x~
+A rather rough-looking wall impedes passage northward.  Several vines,
+plants and roots grow from this wall.  There are tiny holes in the north
+wall.  Small disgusting insects crawl there way through.  A light is
+eminating from this tiny holes.  The tunnel leads only to the south.  
+~
+8 0
+D0
+~
+~
+AB 0 75085
+D2
+~
+~
+0 0 75077
+S
+
+#75081
+{$A bend in the underground tunnel{x~
+The small dirt tunnel curves towards the south.  These tunnels seem to be
+sturdier than the rest of the underground here.  The roots form what appears
+to be a face of a twisted soul on the wall.  An ear-piercing shriek fills
+the tunnels, and then a loud BOOM!!!  The tunnel leads east and south.  
+~
+8 0
+D1
+~
+~
+0 0 75076
+D2
+~
+~
+0 0 75082
+S
+
+#75082
+{$A small underground tunnel{x~
+A sudden fresh breeze of air enters the room, and a low rumble can be
+heard coming from the east.  The roots outlaying the sides of the wall seem
+to thin compared to the rest of the tunnels.  The ceiling of the tunnels
+seems to rise to the east.  The tunnels leads north and east.  
+~
+8 0
+D0
+~
+~
+0 0 75081
+D1
+~
+~
+0 0 75083
+S
+
+#75083
+{$A pit room{x~
+The tunnel comes to an end here.  But, an interesting hole leads down for
+those curious enough.  The walls and floor shake slightly throwing you off
+balance.  In the darkness below you can see somthing moving.  The only ways
+out are west or down.  
+~
+0 0
+D3
+~
+~
+0 0 75082
+D5
+~
+~
+0 0 75084
+S
+
+#75084
+{$The bottom of the pit{x~
+This is a small, chamber where it is impossible to get back up.  Just as
+you land on your feet, the ground explodes into fragments of earth flying
+everywhere.  A giant worm emerges.  It fills the chamber with its massive
+body, and slowly moves towards you.  
+~
+13 0
+S
+
+#75085
+{$A steam room{x~
+It is unknown the depths of this room except that somehow a strong, humid
+feeling is in the air.  The steam is so thick, you can't see the floor you
+are walking on.  There is a slight hissing sound, whether it is from the
+steam or not, can not be known.  
+~
+0 0
+D2
+~
+~
+AB 0 75080
+S
+
+#75086
+{$The hiding spot{x~
+This is a small, dug out bunker hidden in the beneath the grassy field. 
+This place's occupants were very unkept and have left the place trashed,
+literally.  There is a god-aweful stench.  The little amount of clean air is
+slowly being used up.  
+~
+8 0
+D4
+~
+~
+AB 0 75007
+S
+
+#75087
+{$Circle of redwood trees{x~
+The darkness parts way for this mystical formation of trees.  The
+redwoods for a circle of mystique and power.  The tops of these mammoth
+trees are barely visible.  The darkness grows to the north and west as the
+trees conspire with the shadows to impede your path.  A redwood larger that
+the others lies to the southeast.  
+~
+0 3
+D1
+~
+~
+0 0 75042
+D2
+~
+~
+0 0 75016
+S
+
+#75088
+The {!H{1ea{!rt {*o{&f {!E{1v{!il{x~
+Through all of the darkness in the world, all of the monsters created,
+here lies the center, the manifestation of all that is {!  E{1vil{x in
+Redemption.  This demonic place is not of this world, and has been rumored to
+only exist.  The souls of thugs, thieves, murderers, liars, orcs, and
+{#f{3renchman{x hover about, moving from one corner to the next.  {$M{4ich{x
+has temporarily moved in, but there are no signs of him leaving anytime soon.  
+~
+533516 9
+D1
+~
+~
+0 0 75064
+S
+
+#75089
+{$Circle of redwood trees{x~
+The darkness parts way for this mystical formation of trees.  The
+redwoods for a circle of mystique and power.  The tops of these mammoth
+trees are barely visible.  The darkness grows to the south and west as the
+trees conspire with the shadows to impede your path.  A redwood larger that
+the others lies to the northeast.  
+~
+0 3
+D0
+~
+~
+0 0 75016
+D1
+~
+~
+0 0 75043
+S
+#0
+
+#SPECIALS
+M 75043 spec_cast_mage
+S
+
+#RESETS
+D 100 75002 3 1
+D 100 75004 5 1
+D 100 75007 5 1
+D 100 75032 1 1
+D 100 75041 4 1
+D 100 75041 5 1
+D 100 75044 2 1
+D 100 75044 4 1
+D 100 75045 5 1
+D 100 75054 0 2
+D 100 75057 2 2
+D 100 75064 5 2
+D 100 75065 4 2
+D 100 75066 0 1
+D 100 75074 4 1
+D 100 75080 0 1
+D 100 75085 2 1
+D 100 75086 4 1
+M 100 75006 3 75007 3
+E 100 75007 0 17
+M 100 75006 1 75009 1
+E 100 75007 0 17
+M 100 75008 1 75013 1
+M 100 75007 2 75014 2
+M 100 75015 8 75016 2
+M 100 75019 3 75016 1
+M 100 75009 4 75017 2
+G 100 75009 0
+M 100 75009 4 75018 2
+G 100 75008 0
+M 100 75010 7 75020 2
+M 100 75012 4 75021 1
+M 100 75011 8 75021 2
+M 100 75017 10 75022 2
+M 100 75010 7 75022 1
+M 100 75011 8 75023 2
+M 100 75010 7 75024 2
+M 100 75017 10 75024 2
+M 100 75013 6 75025 2
+M 100 75017 10 75025 2
+M 100 75011 8 75026 2
+M 100 75017 10 75026 2
+M 100 75012 4 75027 1
+M 100 75010 7 75028 2
+M 100 75017 10 75028 2
+M 100 75013 6 75028 2
+M 100 75012 4 75029 1
+M 100 75011 8 75030 2
+M 100 75013 6 75030 2
+M 100 75012 4 75031 1
+O 100 75000 0 75034
+O 100 75001 0 75034
+O 100 75002 0 75034
+M 100 75014 2 75037 2
+M 100 75015 8 75038 2
+M 100 75019 3 75039 1
+M 100 75016 3 75040 1
+M 100 75015 8 75042 2
+M 100 75015 8 75043 2
+M 100 75019 3 75043 1
+M 100 75028 2 75046 2
+M 100 75029 2 75046 2
+O 100 75036 0 75047
+O 100 75035 0 75047
+O 100 75035 0 75047
+M 100 75026 2 75047 2
+M 100 75018 4 75047 2
+O 100 75012 0 75048
+O 100 75013 0 75048
+O 100 75014 0 75048
+M 100 75027 2 75048 2
+M 100 75018 4 75048 2
+M 100 75030 1 75051 1
+E 100 75033 0 16
+E 100 75034 0 16
+M 100 75031 2 75051 2
+M 100 75032 1 75051 1
+M 100 75033 1 75054 1
+G 100 75015 0
+M 100 75034 8 75054 4
+O 100 75031 0 75055
+O 100 75032 0 75055
+M 100 75034 8 75055 2
+O 100 75031 0 75056
+O 100 75032 0 75056
+M 100 75034 8 75056 2
+M 100 75035 4 75058 2
+M 100 75035 4 75059 2
+M 100 75037 1 75060 1
+O 100 75030 0 75061
+O 100 75030 0 75061
+M 100 75036 4 75061 4
+M 100 75039 4 75062 4
+M 100 75038 1 75063 1
+O 100 75029 0 75064
+M 100 75042 1 75064 1
+E 100 75021 0 16
+E 100 75022 0 17
+G 100 75024 0
+M 100 75041 1 75064 1
+E 100 75028 0 16
+E 100 75023 0 5
+M 100 75043 1 75064 1
+E 100 75026 0 16
+G 100 75027 0
+O 100 75016 0 75065
+P 100 75018 1 75016 1
+P 100 75019 1 75018 1
+P 100 75020 1 75016 1
+M 100 75040 1 75065 1
+G 100 75017 0
+M 100 75025 2 75066 2
+M 100 75023 1 75068 1
+M 100 75024 1 75069 1
+M 100 75021 1 75071 1
+M 100 75022 1 75072 1
+O 100 75011 0 75073
+M 100 75020 1 75073 1
+G 100 75010 0
+O 100 75004 0 75075
+O 100 75003 0 75079
+M 100 75001 2 75079 2
+M 100 75002 2 75079 2
+O 100 75006 0 75080
+O 100 75005 0 75084
+M 100 75004 1 75084 1
+M 100 75003 2 75085 2
+M 100 75005 3 75086 3
+M 100 75016 3 75087 1
+M 100 75016 3 75089 1
+S
+
+#MOBPROGS
+#75000
+Unknown~
+Unknown~
+LICK  self
+BLINK  $n
+KILL  $n
+~
+
+#75001
+Unknown~
+Unknown~
+MOB ECHO  You hear some rustling around you.
+MOB ECHOAT $n  You feel something club you behind your back.
+MOB DAMAGE $n 10 100
+EMOTE  screams out, and attacks you!
+KILL  $n
+~
+
+#75002
+Unknown~
+Unknown~
+EMOTE  snores loud enough to wake up the entire valley.
+~
+#0
+
+#$

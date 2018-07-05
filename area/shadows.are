@@ -1,0 +1,1083 @@
+#AREADATA
+Name The Mists of the Shadows~
+Builders None~
+VNUMs 5700 5799
+Continent 1
+Credits [80 90 ] Stealth Mists of Shadows~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#5700
+guard shadow~
+The shadow guard~
+A dark creature is here, guarding some sort of entrance.
+~
+This creature appears to have been created from a sort 
+of nothingness.  You can see right through it, yet there
+seems to be a sense of solidness about the creature...
+~
+unique~
+ABFGMNOVc DFQVc BO -200 1800
+100 20 1d1+6000 1d1+3000 13d12+1 wrath
+-20 -20 -20 -50
+ADFHJKP ABK DI CGJ
+stand stand none 35000
+DHIMc ABCGHI small unknown
+#5701
+citizen shadow~
+A citizen of the shadow city~
+A figure of the night is here, creeping around like a shadow.
+~
+Your attempt to peer at this figure is in vain.  It shrinks
+into the shadows, concealing itself even further from your view.
+~
+unique~
+ACFGMNOVc DFQUVc BO -500 5701
+100 10 1d1+3000 1d1+1000 10d10+1 wrath
+-20 -20 -20 -50
+ADFHJKP ABK DI CGJ
+stand stand none 35000
+DHIMc ABCGHI small unknown
+#5702
+shopkeeper shadow presence~
+The keeper of the shadows~
+A dark presence is here, selling you dark items.
+~
+As you peer into the eye sockets of this mysterious creature, you see yourself
+in a time long ago, back in the days of the Crusades........
+~
+unique~
+ABGMNVa CDGJUV BEO 0 5702
+103 50 1d1+999 1d1+999 12d9+2 divine
+-60 -60 -60 -60
+ADFHJKP ABCD 0 0
+stand stand none 35000
+DHIMc ABCGHI small unknown
+#5703
+guard shadow member~
+A shadow guard~
+A dead member of the Elite Royal Guard is here, protecting against evil...
+~
+The guard appears to have 10 times the strength now that it is dead then it had
+while it was roaming New Thalos looking for petty thieves.  
+~
+unique~
+ABGMNV CGJUV BEO 0 5703
+102 10 1d1+5999 1d1+2999 12d10+2 slash
+-60 -60 -60 -60
+ADFHJKP AB DMO LN
+stand stand none 35000
+DHIMc ABCGHI medium unknown
+#5704
+beast shadow huge~
+The shadow beast~
+An enormous, vicious, mutated shadow beast is here, ready to rip your head off.
+~
+The fangs on this creature are huge, as are the claws, and the beast in general.
+You don't want to mess with it, but unfortunately, it seems to want to mess with 
+you.
+~
+unique~
+ABGMNV CGJUV BEO 0 5704
+105 14 1d1+8999 1d1+12999 7d10+8 claw
+-60 -60 -60 -60
+ADFHJKP AB DMO LN
+stand stand none 35000
+DHIMc ABCGHI large unknown
+#5705
+quest entrance guardian~
+The Guardian of the Ancients~
+The Guardian of the Ancients is standing here, preparing for battle.
+~
+The Guardian appears to be a VERY worthy opponent.  His graceful slashes 
+and great footwork make you believe it will be very tough to beat him.
+~
+unique~
+ABGMNV CGJUV BEO 0 5705
+104 10 1d1+9999 1d1+2999 13d12+2 punch
+-30 -30 -30 -30
+ADFHJKP ABC DMO 0
+stand stand none 35000
+DHIMc ABCGHI large unknown
+#5706
+guard quest_prize crusader Syrola~
+Syrola the Crusader~
+Syrola, one of many Crusaders, stands here wielding your quest prize.
+~
+Standing before you is a man who has seen it all, a man that commands 
+respect.  Trustworthy and loyal to the end, it has been Syrola that was 
+chosen to remain as a guard to the Legendary Sword of Sardinella.
+~
+human~
+ABRTV CDEFQVc DHO 1000 5706
+109 100 100d100+49999 100d100+29999 15d15+150 punch
+-100 -100 -100 -100
+ADFHK AB CDM 0
+stand stand male 35000
+ABCGHMV ABCDEFGHIJK medium unknown
+#5707
+beast quest protector~
+A Protective Beast~
+There is a large beast in this room, and it looks hungry!
+~
+You stare at this huge creation, and wonder what on earth could have made 
+something like that, and for what it's worth, you better pray the quest 
+prize is worth running through this maze for!
+~
+halforc~
+ABFTUVc CDFJVc O 0 5707
+104 8 1d1+11999 1d1+299 12d9+3 claw
+-20 -20 -20 -20
+ACDEFHKO AB CD N
+stand stand none 35000
+AHMV ABCDEFGHIJK huge unknown
+#5708
+healer adept Syrola~
+An adept of Syrola~
+An adept of Syrola is here, willing to heal before the great battles ahead.~
+~
+human~
+ABCMQRZac 0 CDEHNO 1000 5708
+109 9 1d1+1000 1d1+1000 20d20+40 wrath
+-100 -100 -100 -100
+0 ABCD 0 0
+stand stand male 35000
+ACHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#5700
+blade shadow~
+The Shadow Blade~
+A wicked looking blade created from absolute nothingness has been tossed here.~
+nothingness~
+weapon CES AN
+sword 11 16 cleave ABDEH
+99 300 2000 P
+A
+1 -2
+A
+2 -2
+A
+13 50
+A
+19 7
+F
+A 0 0 CJL
+F
+V 0 0 C
+E
+blade shadow~
+As you hold this transparent blade in your hands, you can't help but notice 
+that it is really quite light for such a huge weapon.  You test the edge of 
+blade with your finger and almost lose it, the blade is that sharp.
+~
+#5701
+sphere dark shadow~
+A dark sphere of the shadows~
+A translucent sphere has been carelessly left behind by a previous owner.~
+energy~
+armor BCFU AQ
+BD BD BD BD 0
+100 100 40000 P
+A
+14 50
+A
+12 60
+A
+20 -5
+A
+13 60
+E
+sphere dark shadow~
+This invisible, dark sphere you are holding in your hands seems to be a work 
+of magic.  You gaze deep into the sphere and think you see a little electron
+buzzing all around inside it.
+~
+#5702
+gloves dark~
+A pair of dark gloves~
+A pair of heavy, dark gloves are laying crumpled here.~
+platinum~
+armor CFU AH
+CE CE CE 0 AB
+95 120 12000 P
+A
+5 -1
+A
+18 -8
+A
+13 200
+A
+2 -1
+E
+gloves dark~
+As you look at these gloves, you sense that they are an important part of the
+armor of the questors of the Crusades from long ago.  They are eternally etched
+with battle scratches from which the Knights who wore them blocked their opponents
+blows.
+~
+#5703
+key city entrance~
+The key for the city entrance~
+The key to unlock the door to the city of shadows is lying here.~
+silver~
+key 0 AO
+0 0 0 0 0
+1 10 100 P
+E
+key city entrance~
+This key appears to be old, due to the fact it has many chips out of it and
+is very rusty.
+~
+#5704
+key shadow lair~
+The key for the shadow beasts lair.~
+The key to unlocking the door to the shadow beasts lair is here.~
+silver~
+key 0 AO
+0 0 0 0 0
+1 10 100 P
+E
+key shadow lair~
+You examine this key carefully, and it appears to have been used only once 
+before.
+~
+#5705
+key quest oak door~
+A key with a large Q on it.~
+Here lies a key with a large Q on it.  Is the Q of any significance?~
+silver~
+key 0 AO
+0 0 0 0 0
+1 10 100 P
+E
+key quest~
+As you peer at this key, you think you quickly see a vision of a Crusader 
+of long ago.  You pass it off as a figment of your imagination.
+~
+#5706
+sword legendary Sardinella sardinella~
+The Legendary Sword of Sardinella~
+A very powerful weapon is lying here, obviously not being cared for.~
+adamantite~
+weapon ABGIKLOT AN
+sword 14 14 divine ACF
+100 100 0 P
+A
+19 5
+E
+sword legendary Sardinella sardinella~
+Etched into the blade of this exotic sword are the words ' You are the 
+chosen one ... the holy conquerer...'
+~
+#5707
+key quest door_1~
+The Key for Door #1~
+The key to open the first door is lying here on the ground.~
+silver~
+key 0 AO
+0 0 0 0 0
+1 10 100 P
+E
+key quest door_1~
+You see a large '1' at the head of the key.  Probably means it's to open 
+door one.
+~
+#5708
+key quest door_2~
+The Key for Door #2~
+The key to open the second door is lying here, carelessly discarded.~
+silver~
+key 0 AO
+0 0 0 0 0
+1 10 100 P
+E
+key quest door_2~
+You see a large '2' at the head of the key, and it's probably like the 
+key for door number '1' huh?
+~
+#5709
+key quest door_3 final~
+The Key for the Final Door~
+The mystical key to open the final door lies here.~
+silver~
+key 0 AO
+0 0 0 0 0
+1 10 100 P
+E
+key quest door_3 final~
+You gaze at the key, and it begs you to stick it in the slot to open the 
+final door and face a fierce battle.
+~
+#5710
+potion restoration bottle~
+A potion of {5restoration{0~
+An interesting little bottle lies here on the floor.~
+plastic~
+potion ABG AO
+106 'restore mana' 'restore mana' 'heal' 'heal'
+90 200 150000 P
+E
+potion restoration bottle~
+Woah, is this thing ever heavy!  I guess all the elements need to create 
+such a powerful potion need to be!  The liquid inside this plastic bottle 
+is multi-colored, and you can see little rainbows all throughout it.
+~
+#0
+
+
+
+#ROOMS
+#5701
+The Entrance to the City of Shadows~
+Your light source is working overtime in order for you to see in this room.
+Although the faint amount of light you are putting out is enough for you to 
+see outlines of objects in the room, you can't tell whether or not there are 
+actual figures in this room or not, but you can make out a sign stuck in the 
+ground a few feet in front of you.  There is also a huge door to the east.
+~
+0 8201 4
+E
+sign~
+Hey hey, welcome to the one of the darkest areas on the MUD!!  Stealth here, 
+bringing you what my name suggests, dark areas!!  Dark strong creatures roam
+around down here, so I would suggest only really well prepared players, or 
+really cocky ones who think they can trash anything come in here.  *grin* I won't
+be responsible for corpse retrievals for players under level 80. :P  There is 
+also a quest cave in here, but it seems only the pure of heart can enter. There
+is only one correct path to the quest item, any wrong turns will send you to
+either a hard ass mob to fight, or else back to the beginning of the cave.
+~
+E
+door~
+As you look at the door, you realize the key that was in the guard's corpse
+would fit perfect into the keyhole.
+~
+D0
+You see a small clearing to the north.
+~
+~
+0 -1 1311
+D1
+You peer into the darkness, and there may be something moving over there...
+~
+~
+2 5703 5702
+D2
+~
+~
+0 0 1306
+D3
+~
+~
+0 0 1306
+S
+#5702
+The Underground Path~
+You are on a path which is gradually sloping down into the darkness in an 
+easternly direction.  The path is hard walking, there can't be that many people
+that have come this way in a long time.
+~
+0 8201 4
+D0
+There is a large, steel door to the north.  Maybe it's unlocked...?
+~
+~
+1 -1 5703
+D1
+The path slopes farther down to the east.
+~
+~
+0 -1 5704
+D3
+You can go back to the entrance of the city by going west.
+~
+~
+0 -1 5701
+S
+#5703
+The ShopKeeper's Lair~
+You are in a room with strange looking artifacts all over the place.  You 
+begin to wonder if the shopkeeper will sell to strangers, and even if they
+will take your money.
+~
+0 8201 4
+E
+artifact artifacts~
+You gaze upon the walls at the numerous little collectable on the shelves on
+the wall, ranging from deadly swords to little potions, from the greatest armor
+to light sources.
+~
+D2
+You can exit south back to the cave from here.
+~
+~
+0 -1 5702
+S
+#5704
+The Underground Path~
+You are on a path which is gradually sloping down into the darkness in an 
+easternly direction.  The path is hard walking, there can't be that many people
+that have come this way in a long time.
+~
+0 8201 4
+D0
+There's a strange little path to the north.  Maybe there's something important that way?
+~
+~
+0 -1 5705
+D2
+You see an interesting path in the darkness.  Looks like it hasn't been travelled in a while.
+~
+~
+0 -1 5708
+D3
+You can head back up to surface by going west.
+~
+~
+0 -1 5702
+S
+#5705
+A strange little path~
+You are on a path heading north / south.  It is very worn, but there seems to 
+have been little traffic on it in the last decade or so.
+~
+0 8201 4
+D1
+As you peer east, you hear a low rumbling noise.  Perhaps a monster?
+~
+~
+0 -1 5706
+D2
+The main part of the cave is to the south.
+~
+~
+0 -1 5704
+S
+#5706
+The cave before ....~
+As you stand here, you hear a loud snarling noise to the north, accompanied
+by a scream or five, followed by the sounds of ripping flesh.  There is usually
+a guard standing here who tosses unwelcome visitors inside.  
+~
+0 8201 4
+D0
+Open the door and enter....
+~
+~
+2 5704 5707
+D3
+Some sort of safety lies to the west, but not much.
+~
+~
+0 -1 5705
+S
+#5707
+The lair of the Shadow Beast~
+You have entered the lair of the Shadow Beast.  There are guts, skeletons,
+blood smears and more all throughout this dark, damp cave.  You wonder what
+kind of creature could have done this much damage to a person.
+~
+0 8201 4
+D2
+Run to the south for safety!
+~
+~
+0 -1 5706
+S
+#5708
+The path in the darkness~
+You have reached a corner in the underground.  The road is gravelly, 
+wet, and the air is becoming very musty, yet it is warm.  Even shadows 
+need some type of heat.  The path slopes back to the surface to the 
+north, and on a gental slope downwards to the east.
+~
+0 8201 4
+D0
+The path leading to the surface lies to the north.
+~
+~
+0 -1 5704
+D1
+You're not so sure about this path....seems creepy.
+~
+~
+0 -1 5709
+S
+#5709
+Deeper into the Underground~
+As the surface gets wetter, hence slicker, and is sloping downwards 
+towards the east, you are finding it harder and harder to keep your 
+footing.  You're not too sure whether or not you want to keep exploring 
+this area or not, the sounds you are hearing don't sound too promising.
+You sense a presence around you, but it's so dark, you really can't see 
+what it is.
+~
+0 8201 6
+E
+door~
+The door appears to be made of solid oak, which will NOT be able to be 
+broken through.  There is a little keyhole on the door, but nothing else, 
+not even a doorknob.
+~
+D1
+You see some light coming from what seems to be a door...
+~
+~
+2 5705 5710
+D3
+You feel that you will be more sure-footed if you go back west.
+~
+~
+0 -1 5708
+S
+#5710
+On the 'Other Side'~
+You have come to the other side of the large door, into a room filled 
+with tons of light, but seemingly nothing else!  There is a carving on 
+the wall.
+~
+0 8201 4
+E
+carving wall~
+The carving appears to be old, but the writing is still legible:
+Oh potential questor, you have arrived at the ancient portal to the 
+questor's cave!  Only the pure of heart may enter the cave, and once 
+inside, you face many difficult challenges amongst the maze in order to 
+successfully complete your quest!!
+
+Sardinealla, Knight of the Square Table.
+~
+D1
+There is a HUGE door to the east.
+~
+~
+1 -1 5711
+D2
+The portal leading to the quest cave is to the south. 
+~
+~
+0 -1 5715
+D3
+There is a HUGE door to the west.
+~
+~
+1 -1 5709
+S
+#5711
+The Chamber~
+You have entered what seems to be a meeting place for someone or 
+something.  There are pebbles all strewn about, as well as boulders 
+placed (possibly on purpose?) around the room randomly.  Ah well, looks 
+like a dead end...
+~
+0 8201 4
+E
+rock~
+As walk up to the rock, and as you touch it, you feel a crack.  All of a 
+sudden, you realize that the rock isn't a rock, it's actually a cleverly 
+disguised door!!!
+~
+D0
+Hmm....that rock looks a little different than the rest of them...
+~
+~
+1 -1 5712
+D3
+There is a HUGE door to your west.
+~
+~
+2 5705 5710
+S
+#5712
+The 'Entertainment' Room~
+As you gaze around this eerie place, you notice that you still need your 
+light since your eyes haven't quite adjusted to the darkness of this area 
+yet, and you doubt they ever will.  This room appears to be some sort of 
+exercise room for someone.  There are broken practice dummies, rusty 
+swords, and broken shields laying all over the place.
+~
+0 8201 4
+E
+dummies swords shields~
+It's all just a bunch of practice eq, you're prolly wearing better stuff 
+as it is!!  Pay no attention to it!
+~
+D1
+There is an open hole in the wall, seems to lead to some sort of chamber.
+~
+~
+0 -1 5714
+D2
+Head back into the main chamber by going south.
+~
+~
+1 -1 5711
+D3
+There is an open hole in the wall, seems to lead to some sort of chamber.
+~
+~
+0 -1 5713
+S
+#5713
+An Empty Bedroom~
+It looks as if this bedroom was once lived in by someone.  Sheets are 
+strewn all over the bed, and tons of garbage lays on the floor.  It 
+appears that the someone or something that took up residence here was a 
+complete and utter slob.
+~
+0 8201 4
+D1
+The Main chamber lies to the east.
+~
+~
+0 -1 5712
+S
+#5714
+An Empty Bedroom~
+It look as if this bedroom was once lived in by someone.  Sheets are 
+strewn all over the bed, and tons of garbage lays on the floor.  It 
+appears that the someone or something that took up residence here was a 
+complete and utter slob.
+~
+0 8201 4
+D3
+The Main chamber lies to the west.
+~
+~
+0 -1 5712
+S
+#5715
+The Entrance to the Quest Cave~
+You are standing at the entrance to the Questor's Cave.  Please, read the 
+sign on the wall and make your decision as soon as possible.
+~
+0 9 3
+E
+sign wall~
+You are standing at the Entrance to the Questor's Cave.  If you feel you 
+are not ready yet for the quest, you may recall now and try again some 
+other time.  Otherwise, enter the cave, but heed this warning:  Once you 
+enter, you don't leave until you die.... Also, you'll know you're on the 
+right path cause it's the one with no monsters.  Only 2 ppl may enter a 
+room in the cave at one time, for the floors are brittle and may not hold 
+the weight of more than 2.
+~
+D2
+Make your journey into the cave and begin your quest.
+~
+~
+0 -1 5716
+M 200 H 200
+S
+#5716
+At the Start of the Quest~
+You have now offically begun your quest.  There is no way to go but 
+north, east, or west.  You gaze around this round room, and wonder which 
+way to go.....
+~
+0 8713 4
+D0
+It's a puzzle, but you think this might be the right way.
+~
+~
+0 -1 5719
+D1
+It's a puzzle, but you think this might be the right way.
+~
+~
+0 -1 5757
+D3
+It's a puzzle, but you think this might be the right way.
+~
+~
+0 -1 5717
+S
+#5717
+OH #$%!@#$~
+Looks like you took a wrong turn!  What's in store for you now?
+~
+0 8713 4
+D0
+Well, at least you can try to quest again, but you have to go back,
+~
+~
+0 -1 5716
+S
+#5719
+The Second Step in your Quest~
+Congrats!!  You made it passed the first room, and/or monsters!  A pat on 
+the back is well deserved!  Well, off you go on your quest now!!  Don't 
+just stand here!
+~
+0 8713 4
+D1
+It's a puzzle, but you think this might be the right way.
+~
+~
+0 -1 5720
+D2
+You really want to go back there?  Be my guest!
+~
+~
+0 -1 5716
+D3
+It's a puzzle, but you think this might be the right way.
+~
+~
+0 -1 5721
+S
+#5720
+The Third Step of Your Journey~
+Well now, making some progress I see?  This room is just a plain old 
+room, like the rest of them, dark as hell but the entrances/exits are lit 
+well.
+~
+0 8713 4
+D0
+It's a puzzle, but you think this might be the right way.
+~
+~
+0 -1 5722
+D1
+Hmm...you wonder what could be this way.
+~
+~
+0 -1 5716
+D3
+Ok, so head back to the beginning!
+~
+~
+0 -1 5719
+S
+#5721
+Uh-OH!~
+Looks like you took a wrong turn somewhere!!  What's in store for ya now??
+~
+0 8713 4
+D0
+Well, looks like the only choice you have is to go back to the beginning...
+~
+~
+0 -1 5716
+S
+#5722
+The Fourth Step of Your Quest~
+Once again, a plain old room, with the illuminated exits, yet you feel a 
+sense of pride that you made it this far.
+~
+0 8713 4
+D0
+It's awfully puzzling, but this next exit could be the final room.
+~
+~
+0 -1 5723
+D1
+It's awfullly mystifying, but you wonder what's in this direction?
+~
+~
+0 -1 5726
+D3
+Hmm....an interesting path.  Wonder where it leads?
+~
+~
+0 -1 5731
+S
+#5723
+The Fifth Little Step~
+This room is really so plain, it deserves no description.  Dull, grey, 
+cold and sort of dark, but the exits are illuminated in a holy sort of 
+light.
+~
+0 8713 4
+D3
+Hmm....an interesting path.  Wonder where it leads?
+~
+~
+0 -1 5728
+D5
+There's a ladder hanging from the roof.  Could this be the way to the 
+so-called quest prize???
+~
+~
+0 -1 5727
+S
+#5724
+Almost there...~
+This room is much different from any of the others you have been in.  It 
+is brighter than the others, but you still need your light.  The floor is 
+also much different than the others, the gold tiles seem to reflect the 
+light.  You feel as if you're in a state of hypnosis.
+~
+0 8713 4
+D0
+The lights get a bit dimmer to the north.  Is that a good sign?
+~
+~
+0 -1 5725
+D1
+You really want to go back that way?  Be my guest!
+~
+~
+0 -1 5723
+D3
+Hmm....the lights seem a lot brighter in this direction.
+~
+~
+0 -1 5728
+S
+#5725
+Getting hotter...~
+Now you realize why the lights were so dull in this direction.  There is 
+a HUGE door blocking your way here!  Find the key and proceed on, this 
+looks like it could be the path to the prize...
+~
+0 8713 4
+D0
+Unlock the door and proceed on to the prize...
+~
+~
+2 5707 5733
+D3
+Might be a nice little healing room in here for you to use.
+~
+~
+0 -1 5729
+S
+#5726
+Uh OH!~
+Looks like you took a wrong turn!!  What's in store for you now??
+~
+0 8713 4
+D0
+Well, look like it's back to the beginning for you, or is it?
+~
+~
+0 -1 5720
+S
+#5727
+Another room in the cave~
+You are standing in another room in the cave, and this one seems to be 
+pretty bright.  In fact, you notice footprints on the ground in front of 
+you, leading to the north.
+~
+0 8713 4
+D0
+Looks like those footprint are really far apart.  Could that person had 
+been in a hurry?
+~
+~
+0 -1 5732
+D2
+For the first time, you are able to retrace your steps in the cave.
+~
+~
+0 -1 5723
+S
+#5728
+A really {#bright {0room~
+You are standing in a really {$bright{0 room.  You notice that you don't 
+need your light source to see in here.  There are exits to the west, and 
+to the south.
+~
+0 8712 4
+D2
+You hear a loud grumbling and growling from the south.  Is someone hungry?
+~
+~
+0 -1 5730
+D3
+Door's locked, and there's no key.  If you have pass_door, that might 
+work...
+~
+~
+2 -1 5733
+S
+#5729
+A healing room~
+You are standing in a healing room, for which you don't need your light 
+to see.  The place is cosy, and there is a warmth to this room which you 
+really don't understand, because the room is so far underground.
+~
+0 8712 4
+D1
+Head out for the final steps towards the quest prize.
+~
+~
+0 -1 5725
+S
+#5730
+Uh-OH!~
+Looks like you took a wrong turn.  Prepare to fight!
+~
+0 8713 4
+D2
+It appears that you have to go back to the beginning, or do you?
+~
+~
+0 -1 5723
+S
+#5731
+Uh-OH!~
+Looks like you took a wrong turn.  What's gonna happen now?
+~
+0 8713 4
+D0
+Looks like you need to start over, or do you?
+~
+~
+0 -1 5720
+S
+#5732
+ARRRGGHH!!!!~
+Those footprints you saw were actually from a person running away from 
+this room!!  Blood and guts are strewn about all over the place!!  
+Gross!
+~
+0 8713 4
+D0
+Well, you can only go one way, so may as well head north, see where it 
+leads you.
+~
+~
+0 -1 5720
+S
+#5733
+Almost made it...~
+Congratulations!!!  You've made it this far!!  Now the time for fun is 
+over, and the battle's begin.  Defeat the mob in this room, and get the 
+key from the corpse, and use it to open the door in front of you.
+~
+0 8713 4
+D0
+You're next test lies to the north, thru the door.
+~
+~
+2 5708 5735
+D1
+~
+~
+0 0 5728
+S
+#5735
+The Calm Before the Storm~
+You must have successfully defeated the first mobile, or else you 
+wouldn't be here right now!  Time for the Second Test!
+~
+0 521 4
+D0
+~
+~
+0 0 5736
+S
+#5736
+The Final Test~
+Here lies the quarters of the great Syrola, who has been guarding this 
+quest prize for many a years.  Prepare for a fight!
+~
+0 65549 4
+D2
+~
+~
+0 0 5735
+S
+#5757
+Uh-OH!~
+Seems that you've lost your way!  Can't say you weren't warned!
+~
+0 8713 4
+D0
+Well, looks like it's back to the beginning for you!
+~
+~
+0 -1 5716
+S
+#0
+
+
+
+#SPECIALS
+M 5700 spec_dog_pee Load to: The shadow guard
+M 5701 spec_janitor Load to: A citizen of the shadow city
+M 5702 spec_executioner Load to: The keeper of the shadows
+M 5703 spec_janitor Load to: A shadow guard
+M 5704 spec_fido Load to: The shadow beast
+M 5705 spec_breath_any Load to: The Guardian of the Ancients
+M 5706 spec_breath_any Load to: Syrola the Crusader
+M 5707 spec_breath_frost Load to: A Protective Beast
+M 5708 spec_cast_mage Load to: An adept of Syrola
+S
+
+
+
+#RESETS
+D 0 5701 1 2 The east door of The Entrance to the City of Shadows is closed and locked
+D 0 5702 0 1 The north door of The Underground Path is closed
+D 0 5706 0 2 The north door of The cave before .... is closed and locked
+D 0 5709 1 2 The east door of Deeper into the Underground is closed and locked
+D 0 5710 1 1 The east door of On the 'Other Side' is closed
+D 0 5710 3 1 The west door of On the 'Other Side' is closed
+D 0 5711 3 2 The west door of The Chamber is closed and locked
+D 0 5712 2 1 The south door of The 'Entertainment' Room is closed
+D 0 5725 0 2 The north door of Getting hotter... is closed and locked
+D 0 5728 3 1 The west door of A really {#bright {0room is closed
+D 0 5733 0 2 The north door of Almost made it... is closed and locked
+M 0 5700 1 5701 3 *Load The shadow guard
+G 0 5703 0 *The key for the city entrance is given to The shadow guard
+M 0 5703 3 5701 3 *Load A shadow guard
+M 0 5703 3 5701 3 *Load A shadow guard
+M 0 5701 1 5702 1 *Load A citizen of the shadow city
+M 0 5701 1 5703 1 *Load A citizen of the shadow city
+M 0 5702 1 5703 1 *Load The keeper of the shadows
+G 0 5701 0 *A dark sphere of the shadows is given to The keeper of the shadows
+G 0 5702 0 *A pair of dark gloves is given to The keeper of the shadows
+G 0 5710 0 *A potion of {5restoration{0 is given to The keeper of the shadows
+M 0 5703 20 5706 1 *Load A shadow guard
+G 0 5704 0 *The key for the shadow beasts lair. is given to A shadow guard
+M 0 5701 1 5707 1 *Load A citizen of the shadow city
+M 0 5704 1 5707 1 *Load The shadow beast
+M 0 5703 20 5709 1 *Load A shadow guard
+G 0 5705 0 *A key with a large q on it. is given to A shadow guard
+M 0 5705 1 5715 1 *Load The Guardian of the Ancients
+E 0 5700 0 16 *The shadow blade is loaded wielded of The Guardian of the Ancients
+E 0 5702 0 9 *A pair of dark gloves is loaded on the hands of The Guardian of the Ancients
+M 0 5704 1 5717 1 *Load The shadow beast
+M 0 5704 1 5721 1 *Load The shadow beast
+M 0 5704 1 5726 1 *Load The shadow beast
+M 0 5708 1 5729 1 *Load An adept of Syrola
+M 0 5704 1 5730 1 *Load The shadow beast
+M 0 5704 1 5731 1 *Load The shadow beast
+M 0 5704 1 5732 1 *Load The shadow beast
+M 0 5707 2 5733 1 *Load A Protective Beast
+G 0 5708 0 *The key for door #2 is given to A Protective Beast
+M 0 5707 1 5735 1 *Load A Protective Beast
+G 0 5709 0 *The key for the final door is given to A Protective Beast
+M 0 5706 1 5736 1 *Load Syrola the Crusader
+E 0 5706 0 16 *The legendary sword of sardinella is loaded wielded of Syrola the Crusader
+M 0 5704 1 5757 1 *Load The shadow beast
+S
+
+
+
+#SHOPS
+5702 2 3 5 9 10 100 90 0 57
+0
+
+
+
+#MOBPROGS
+#5700
+~
+#5706
+mob say I Shall Kill You!!!
+mob cast 'acid rain' $n
+endif
+~
+#0
+
+#$

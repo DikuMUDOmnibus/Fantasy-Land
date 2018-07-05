@@ -1,0 +1,139 @@
+#AREA	
+ROT v1.2 Format~
+gods.are~
+God's Clan Rooms~
+{GODS} Szo/Vartan17 Clan Rooms~
+14400 14430
+
+#MOBILES
+#0
+#OBJECTS
+#14400
+bed~
+a large comfortable bed fit for Gods~
+A large padded bed that looks comfortable enough for Gods lays here~
+wood~
+furniture 0 0
+4 15000 BEHKN 300 300
+100 200 0 P
+#14401
+fountain~
+a peculiar looking fountain~
+A huge stone fountain pouring out Gods only know what~
+stone~
+fountain 0 0
+1000 1000 'dark ale' 0 0
+0 0 0 P
+#14402
+jacuzzi~
+A Magical Jacuzzi~
+A big Magical Jacuzzi sits here.~
+marble~
+furniture AB 0
+5 1000 FIL 0 0
+0 0 0  P
+#14403
+talon~
+Skylar's Talon~
+You see a glowing talon laying here.~
+bone~
+weapon ABOT N
+exotic 200 300 claw ABCDEGH
+107 3 1000000 P
+#14404
+brook~
+a babbling brook .~
+a mountain brook flows here.~
+water~
+fountain G 0
+10000 10000 `water' 0 0
+0 0 0 P
+#14406
+sharik claw~
+{GSharik{W'{Gs {yClaw{x~
+Sharik's Claw is here.~
+adamantite~
+weapon MPTU N
+exotic 100 150 claw DEH
+105 5 0 P
+#0
+
+
+#ROOMS
+#14400
+Administrations Office~
+This is a large spacious office designed to hold lots of people.  There are a
+couple of desks and chairs, with office employees of all races running around
+with messages for Vartan17 and Szordrin on the status of the realm.  There are
+two rooms set off of this one, one to the north, and one to the south.
+~
+0 D 0
+D0
+~
+~
+1 -1 14401
+D2
+~
+~
+1 -1 14402
+M 150 H 200
+S
+#14401
+Vartan17's Room~
+This is Vartan17's Private Chamber, you see Canth standing over to the side of
+the room, watching carefully what you are doing here. There is also a
+large bed fit for God's usage. The walls show the eccentric orbit of the
+Red Star Rukbat, so Vartan17 can track the thread fall on his home Planet of
+Pern (tm). The floor shines and is made out of solid Gold.
+~
+0 D 0
+D2
+~
+~
+1 -1 14400
+M 1200 H 1200
+D4
+~
+~
+0 -1 27000
+S
+#14402
+Szordrin's Relaxation Chamber~
+This is where Szordrin relaxes.  It has a nice comfy bed to rest on, and a
+huge scrying ball where he can watch over the realm to make sure all is well.
+The ceiling is high, and the floor is made of pure marble, splendid in its
+flowing patterns of swirls and whorls.
+~
+0 DKNP 0
+D0
+~
+~
+1 -1 14400
+M 150 H 200
+C Gods~
+S
+#0
+
+
+
+#RESETS 
+O 0 14400 1 14401 
+O 0 14400 1 14402 
+O 0 14401 1 14400 
+O 0 14402 1 14401 
+O 0 14402 1 14400
+O 0 14404 1 14401
+S
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+#$
+
+
+
+
+

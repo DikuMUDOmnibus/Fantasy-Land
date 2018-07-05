@@ -1,0 +1,3156 @@
+#AOD_AREA
+Harcdon~
+46000 46299 0 9
+Levl 65 99
+Bldr Ramoth~
+Alig N
+End
+
+#MOBILES
+#46000
+brendon shopkeeper man~
+{yBrendon{} the shopkeeper~
+{yBrendon{} stands before you ready to bargin.
+~
+~
+human~
+100 0 0 100 0 100 100 100 100 100 100 100 0 100 100 100 100 0 0 100 0 100 100 100 100 100 
+AB 0 0 0 0
+151 347 0 11453 12348 10868 12876 42 38 279 slap
+-471 -433 -638 -538
+STANDING STANDING male 5245
+0 mage medium ABCDEFGHIJK
+
+#46001
+harcdon priest man~
+{CHarcdon{} Priest~
+The Harcdon priest stands at the altar deep in meditation.
+~
+The {CHarcdon{} Priest is wearing long flowing robes.  The robes are
+covered in symbols of Redemption.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 
+ABQ DFV BH 1000 0
+128 277 0 9568 10090 8797 10250 34 29 237 divine
+-429 -391 -534 -338
+STANDING STANDING male 4629
+0 mage medium ABCDEFGHIJK
+P 2 0
+
+#46002
+undead corpse~
+An Undead Corpse~
+The undead lies here.
+~
+An undead corpse is kinda mad you showed up.  Hey this grave ain't big
+enough for the both of you!  
+~
+human~
+100 100 100 100 100 100 100 100 150 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFOP Z E -1000 0
+100 232 0 6976 7885 6419 7417 22 20 195 wrath
+-357 -338 -373 -336
+RESTING STANDING neutral 4428
+0 mage medium ABCDEFGHIJK
+P 19 2
+
+#46003
+priest harcdon father~
+The {8Decaying{} {GPriest{}~
+This former priest of Harcdon is dead and decaying.
+~
+The {gHarcdon{} {GPriest{} is wearing burial robes of {Mpure satin{}.  
+~
+human~
+50 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 
+ABQ DFV BH 1000 0
+129 239 0 9512 10083 9719 10180 31 30 269 divine
+-359 -494 -382 -430
+RESTING STANDING male 4948
+0 mage large ABCDEFGHIJK
+P 2 0
+
+#46004
+Julie woman owner~
+Julie~
+Julie, the owner, stands in the corner overseeing the service.
+~
+Julie is a older woman.  She has never married, but has spent her whole
+life building her diner.  It's the only place in town where the whole family
+can sit down to eat.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABR V H 500 0
+140 263 0 10748 11275 9951 11382 32 35 357 slap
+-487 -552 -558 -448
+STANDING STANDING female 5475
+0 mage medium ABCDEFGHIJK
+
+#46005
+Waitress girl~
+A waitress~
+The waitress waits for your order.
+~
+A waitress looks at you with a blank stare.
+{m"What da ya want to eat?"{}
+~
+human~
+100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABR DV 0 250 0
+129 295 0 9680 10056 8812 10051 29 27 270 thwack
+-516 -529 -465 -541
+STANDING STANDING female 5443
+0 mage medium ABCDEFGHIJK
+
+#46006
+cook spellcaster~
+Cook~
+The spellcaster stands in the center of the kitchen creating food dishes.
+~
+This mage spent years perfecting his technique of lobster and roasted
+pig.  He stands before you ready to practice his craft for the patrons of
+this fine establishment.  
+~
+human~
+100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFR 0 0 250 0
+135 322 0 9210 10837 9448 11444 32 38 236 slime
+-360 -538 -575 -446
+STANDING STANDING male 5175
+0 mage medium ABCDEFGHIJK
+
+#46007
+busboy dishboy~
+the dishboy~
+The dishboy is intent in getting each dish sparkling clean.
+~
+The dishboy is a young mage who is hoping to work his way up with Julie. 
+In his spare time he watches and learns from the cooks.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABR V 0 250 0
+100 233 0 6656 7996 6942 7592 24 22 225 thrust
+-311 -277 -252 -263
+STANDING STANDING male 3343
+0 mage medium ABCDEFGHIJK
+
+#46008
+Grady the Pubmaster~
+Grady~
+Grady waits to pour you a beer.
+~
+~
+human~
+100 0 0 100 0 100 100 100 100 100 100 100 0 100 100 100 100 0 0 100 0 100 100 100 100 100 
+AB DFJ 0 1000 0
+159 285 0 11224 12166 11327 12559 34 41 260 grep
+-482 -409 -570 -543
+STANDING STANDING male 5350
+0 mage medium ABCDEFGHIJK
+
+#46009
+Pretty Harcdon Lady{}~
+A {CHarcdon {YLady{}~
+A {CHarcdon{} {YLady{} studies you suspiciously.
+~
+A {CHarcdon{Y Lady{} is strolling the street going about her own
+business.  Why aren't you minding YOURS!  
+~
+human~
+100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 
+ACGHT 0 0 500 0
+105 248 0 6950 8146 7263 7763 27 21 197 punch
+-366 -347 -346 -386
+STANDING STANDING female 4203
+0 mage medium ABCDEFGHIJK
+P 1 0
+
+#46010
+Librarian~
+The {CHarcdon{} {GLibrarian{}~
+The {CHarcdon {GLibrarian{} stands here knowing she has a bigger brain than you.
+~
+You know just by looking at this lady that she is VERY intelligent.  The
+Librarian is no one to mess with in a game of wits.  However, you might be
+able to beat her up.  
+~
+human~
+100 0 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 
+ABQ c H 1000 0
+102 231 0 6675 7773 6656 8191 21 24 226 thwack
+-360 -365 -349 -315
+STANDING STANDING female 4070
+0 mage large ABCDEFGHIJK
+
+#46011
+harcdon child kid brat~
+A {CHarcdon{} {YChild{}~
+A {CHarcdon {YChild{} stands here waiting to gnaw on your leg.
+~
+Where is this child's parent you wonder.  His teeth are dirty and you think you
+notice some fabric caught in his incisors.  Watch out your leg may be next.
+~
+human~
+100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 50 0 100 50 100 100 100 100 100 
+AG V 0 0 0
+100 187 0 6658 7562 7136 7225 25 24 194 chomp
+-283 -266 -281 -379
+STANDING STANDING neutral 4739
+0 mage small ABCDEFGHIJK
+P 1 0
+
+#46012
+Betsy~
+{8Betsy{}~
+{8Betsy{} stands here ready to teach you a lesson.
+~
+You see what seems to be a very dedicated woman.  Something about her
+seems to tell you she has much patience.  Perhaps its the yard stick she
+carries.  
+~
+human~
+100 0 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 
+ABQR Vc H 1000 0
+102 193 0 6586 7452 7299 8125 23 21 221 beating
+-387 -391 -308 -316
+STANDING STANDING female 4446
+0 mage medium ABCDEFGHIJK
+
+#46013
+gentleman handsome harcdon~
+A {CHarcdon{} {mGentleman{}~
+A {CHarcdon {mGentleman{} stands here relaxing from a long days work.
+~
+You see a handsome man standing before you.  He looks like he has worked
+hard but he also looks like his manners are impecable.  Do you really want
+to kill such a specimen?  
+~
+human~
+100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 
+ACGHT 0 0 500 0
+105 252 0 7443 7919 7156 8499 25 24 174 punch
+-257 -412 -336 -381
+STANDING STANDING male 3624
+0 mage medium ABCDEFGHIJK
+P 1 0
+
+#46014
+skyrat pigeon buff~
+A {gSkyrat{}~
+A {rbuff{} {CHarcdon{} {gpigeon{} flies by your head.
+~
+At first glance you see a pigeon.  But, you notice something different
+about it.  Many of the bird's features resemble a rodent.  He's kinda buff
+too.  
+~
+song bird~
+100 100 100 100 100 100 150 100 100 100 100 100 150 100 100 100 100 100 0 100 100 100 100 100 100 100 
+AFG TV 0 0 0
+100 195 0 7155 7252 6652 7501 20 26 188 peck
+-271 -296 -375 -298
+STANDING STANDING female 3840
+0 mage small ACDEFHKP
+P 2 0
+
+#46015
+rat dangerous~
+A {rDangerous{} {8Rat{}~
+A {rDangerous{} {8Rat{} is searching for something to eat.
+~
+This rodent very much resembles the pigeons you saw earlier.  But for
+some reason the rat looks a little more intimidating.  And he doesn't have
+wings.  
+~
+bear~
+100 50 100 50 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 
+AG DV 0 -1000 0
+125 239 0 8878 9561 9028 9583 30 32 288 pierce
+-500 -396 -341 -469
+STANDING STANDING male 5433
+0 mage tiny ABCDEFHJKUV
+P 191 28
+
+#46016
+Harcdon Sheriff~
+The {CHarcdon{} {RSheriff{}~
+The {CHarcdon {RSheriff{} stands here ready to arrest lawbreakers.
+~
+This brut of a man stands tall with his badge on his chest.  His presense
+is intimidating to the most imposing men of {CHarcdon{}.  You feel that the
+law is in his hands when he stares at you.  
+
+~
+human~
+100 50 100 100 150 100 100 100 100 100 100 100 50 0 100 100 100 50 150 100 50 100 100 100 100 100 
+ABCGT V HP 1000 0
+118 278 0 8125 9469 7852 9187 28 30 260 blast
+-356 -344 -299 -389
+STANDING STANDING male 5229
+0 mage large ABCDEFGHIJK
+P 1 0
+
+#46017
+ghost harcdon noble~
+Noble Ghost~
+A Ghost of the Nobles haunts here.
+~
+A transparent being wavers in the air, hovering above the ground.  
+~
+bat~
+100 50 100 100 150 100 100 100 100 100 150 100 50 0 100 100 100 50 150 100 50 100 100 100 100 100 
+AB TVZ 0 1000 0
+115 251 0 8173 8583 8379 9442 25 31 204 blast
+-431 -316 -337 -453
+STANDING STANDING neutral 4754
+0 mage large ACDEFHJKP
+P 10 2
+
+#46018
+ghost harcdon commoner~
+A Commoner Ghost~
+A Ghost of the Commoners haunts here.
+~
+A transparent being wavers in the air, hovering above the ground.  
+~
+bat~
+100 50 100 100 150 100 100 100 100 100 150 100 150 0 100 100 100 50 50 100 50 100 100 100 100 100 
+AB TVZ 0 1000 0
+115 224 0 7861 9082 8083 9213 25 30 245 crush
+-307 -382 -336 -382
+STANDING STANDING neutral 4677
+0 mage small ACDEFHJKP
+P 9 1
+
+#46019
+ghost harcdon melide~
+Melide~
+Melide's ghost haunts here.
+~
+A transparent being wavers in the air, hovering above the ground.  
+~
+bat~
+100 50 100 100 150 100 100 100 100 100 150 100 150 0 100 100 100 50 50 100 50 100 100 100 100 100 
+AB TVZ 0 1000 0
+115 245 0 7637 9058 8085 8579 31 27 241 crush
+-409 -302 -471 -335
+STANDING STANDING female 5335
+0 mage small ACDEFHJKP
+P 1 0
+
+#46020
+ghost harcdon john~
+John~
+John's Ghost haunts here.
+~
+A transparent being wavers in the air, hovering above the ground.  
+~
+bat~
+100 50 100 100 150 100 100 100 100 100 150 100 150 0 100 100 100 50 50 100 50 100 100 100 100 100 
+AB TVZ 0 1000 0
+117 204 0 8568 8967 8208 9163 27 30 231 crush
+-483 -376 -394 -325
+STANDING STANDING male 5355
+0 mage small ACDEFHJKP
+P 2 0
+
+#46021
+ghost harcdon Sheban~
+Sheban~
+Sheban's Ghost haunts here.
+~
+A transparent being wavers in the air, hovering above the ground.  
+~
+bat~
+100 50 100 100 150 100 100 100 100 100 150 100 150 0 100 100 100 50 50 100 50 100 100 100 100 100 
+AB TVZ 0 1000 0
+117 259 0 8554 9577 8325 8807 24 29 245 crush
+-397 -327 -397 -382
+STANDING STANDING female 5668
+0 mage small ACDEFHJKP
+P 4 0
+
+#46022
+ghost harcdon Zech~
+Zech~
+Zech's Ghost haunts here.
+~
+A transparent being wavers in the air, hovering above the ground.  
+~
+bat~
+100 50 100 100 50 100 100 100 100 100 150 100 150 0 100 100 100 50 50 100 50 100 100 100 100 100 
+AB TVZ 0 1000 0
+117 221 0 8428 8818 8680 9378 25 25 215 crush
+-370 -482 -382 -330
+STANDING STANDING male 4820
+0 mage small ACDEFHJKP
+P 5 1
+
+#46023
+harcdon healer pixie~
+Pixie Healer~
+The Harcdon Pixie floats here to heal you.
+~
+A tiny Pixie floats above the ground.  She is ready to heal you and send
+you on your way.  
+~
+pixie~
+0 0 150 0 100 0 0 100 0 0 0 0 0 150 0 100 100 0 100 0 0 100 100 100 100 0 
+ABa DEFJTVc BCDEHP 1000 0
+200 376 0 11043 12690 11363 11758 42 37 351 slap
+-465 -568 -517 -622
+STANDING STANDING female 5917
+0 mage tiny ABCDEFGHIJKP
+
+#46024
+Harcdon Patriarch~
+{CHarcdon Patriarch{}~
+The {CHarcdon Patriarch{} stands here, defending his family's honor.
+~
+A tall intimidating form flutters before you.  While it looks transparent
+like a ghost, it seems to have the strength to battle endlessly.  
+~
+human~
+100 100 0 50 100 100 50 100 100 100 100 100 100 0 100 100 100 100 100 100 100 150 100 100 100 100 
+ABO TV BCDEHP -1000 0
+160 323 0 10778 12129 10952 12796 41 39 357 wrath
+-409 -618 -530 -640
+STANDING STANDING male 6755
+0 mage medium ABCDEFGHIJK
+
+#46025
+bat dangerous snaggletooth~
+A snaggletooth bat~
+A {rDangerous {8Bat{} hovers above your head.
+~
+A {1Dangerous {8Bat{} with a minor dental problem flaps around your head.
+It's trying to figure out how to feed with only one tooth.  
+~
+bat~
+100 100 100 100 100 100 100 100 150 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGP TZ 0 -1000 0
+102 193 0 7345 7849 7133 8078 26 22 166 bite
+-260 -359 -321 -261
+STANDING STANDING male 3417
+0 mage tiny ACDEFHJKP
+P 77 4
+
+#46026
+Shelley~
+Shelley~
+Shelley is here quilting.
+~
+Shelley spends her days quilting and tending to her {Yrose bush{}.  
+~
+human~
+100 0 0 100 0 100 100 100 100 100 100 100 0 100 100 100 100 0 0 100 0 100 100 100 100 100 
+AB DFJ 0 1000 0
+159 341 0 10612 12646 10764 11954 42 36 381 grep
+-595 -539 -529 -462
+STANDING STANDING female 6291
+0 mage small ABCDEFGHIJK
+
+#46027
+David~
+David~
+David, the town doctor, sits here reading.
+~
+David is the town doctor.  Since the plague he has spent most of his time
+studing and learning, instead of treating people.  His greatest dream is to
+take his wife to the big city and live there.  He might have some medicine
+to sell you.  
+~
+human~
+100 0 0 100 0 100 100 100 100 100 100 100 0 100 100 100 100 0 0 100 0 100 100 100 100 100 
+AB 0 0 0 0
+159 376 0 10432 12671 11524 12851 32 33 283 slap
+-539 -469 -601 -556
+STANDING STANDING neutral 6543
+0 mage medium ABCDEFGHIJK
+
+#46028
+Dunlop~
+{WD{8u{Wn{8l{Wo{8p{}~
+{WD{8u{Wn{8l{Wo{8p{} the cat is curled up on the bed.
+~
+A beautiful long-haired black and white cat is lying at the foot of the
+bed.  David and Shelley don't have any children, so this cat is spoiled.  
+~
+cat~
+0 0 0 0 100 0 0 100 0 0 0 0 0 0 0 100 100 0 100 0 0 0 0 100 100 0 
+ABI Z 0 0 0
+1 2 0 89 94 89 97 0 0 2 none
+-5 -5 -4 -3
+STANDING STANDING neutral 54
+0 mage tiny ACDEFHJKQUV
+#0
+
+#OBJECTS
+#46000
+Six-Shooter~
+{ySix-Shooter{}~
+The {RSheriff's{y Six-Shooter{} lays here.~
+weapon LX ANP
+exotic 15 16 blast H
+115 20 2000
+A 19 40
+
+#46001
+{yRocking Chair{} rocking chair~
+a solid wood rocking chair~
+The {yrocking chair{} sits next to the fireplace.~
+furniture X A
+1 10000 FIL 0 0
+1 0 102
+
+#46002
+aura nobility~
+{YAura{} {Wof{} {BNobility{}~
+The {YAura {}of{B Harcdon Nobility{} floats here.~
+armor AFILSXY AR
+27 39 26 28 0
+79 9 1900
+A 18 20
+A 19 20
+A 13 75
+A 20 -3
+A 12 35
+A 1 2
+
+#46003
+ruler yardstick betsy~
+{YR{yu{Yl{ye{Yr{}~
+This is the {YR{yu{Yl{ye{Yr{} {8Betsy{} uses in keeping discipline in her classroom.~
+weapon LSX AN
+mace 14 14 thwack E
+100 10 1500
+
+#46004
+scroll guide book redemption roleplaying~
+{YRe{Bde{Ymp{Bti{Yon{x {GRolePlaying Guide{x~
+This is a complete guide to roleplaying on Redemption.~
+scroll LX AO
+100 'charm person' 'charm person' 'sleep' 'weaken'
+100 1 50
+
+#46005
+badge sheriff~
+{RSheriff's {YShiny Badge{}~
+This is the {Yshiny badge{} that the {RSheriff{} wears to feel important.~
+jewelry ABIKLX AW
+0 0 0 0 0
+115 5 6000
+
+#46006
+{CFlowing Robe{}~
+{CFlowing Robe{}~
+A {CFlowing robe{} covered in ornate symbols lays here.~
+armor KLXY ADP
+25 25 25 25 0
+125 2 5000
+A 4 1
+A 12 200
+A 13 40
+A 9 10
+
+#46007
+pint guiness beer~
+{8Pint of {gGuiness{}~
+A full English pint sits here.~
+drinkcontainer X AO
+3 3 'beer' 0 0
+50 1 150
+
+#46008
+{yBar Nuts{}~
+{yBar Nuts{}~
+Some mixed {yBar Nuts{} lay here.~
+food X AO
+20 3 0 0 0
+50 1 100
+
+#46009
+Mutton~
+{1M{3u{1t{3t{1o{3n{}~
+A tasty bowl of Mutton Soup steams before you.~
+food X AO
+20 20 0 0 0
+50 2 200
+
+#46010
+obsidian cuff~
+an {8Obsidian {BCuff{}~
+A rare and precious artifact lies here.~
+armor ABLXY AT
+30 30 30 30 0
+85 15 16519
+A 13 150
+A 20 -3
+A 18 35
+A 19 35
+
+#46011
+obsidian earring~
+an {8Obsidian{B Earring{}~
+A rare and precious artifact lies here.~
+armor GIXY AS
+36 34 30 30 0
+85 5 15683
+A 20 -3
+A 19 34
+A 18 30
+A 13 200
+
+#46012
+leather saddlebag~
+a leather saddlebag~
+A handcrafted leather saddlebag is laying here.~
+container HLXY AX
+250 0 0 8000 40
+85 20 15665
+A 1 -1
+A 19 10
+A 18 10
+
+#46013
+leather bookmark~
+a leather bookmark~
+An intricate handcrafted leather bookmark is marking here.~
+scroll ABX AO
+100 'sanctuary' 'bless' 'fly' 'stone skin'
+85 1 3500
+
+#46014
+leather bound staff~
+a leatherbound staff~
+A leatherbound staff is stuck in the ground.~
+staff XY AO
+85 10 10 '(null)' 0
+85 15 18853
+
+#46015
+green potion~
+{Ggreen potion{}~
+A {Ggreen potion{} lies here.~
+potion X AO
+115 'giant strength' 'haste' 'frenzy' 'bless'
+100 1 8000
+
+#46016
+blue potion~
+{Bblue potion{}~
+A {Bblue potion{} lies here.~
+potion ABXY AO
+115 'create spring' 'fly' 'protection evil' 'protection voodoo'
+100 1 8000
+
+#46017
+red potion~
+{Rred potion{}~
+A {Rred potion{} lies here.~
+potion X AO
+115 'fireshield' 'shockshield' 'acidshield' 'iceshield'
+100 1 8000
+
+#46018
+yellow potion~
+{Yyellow potion{}~
+A {Yyellow potion{} lies here.~
+potion ABXY AO
+100 'sanctuary' '' 'reserved' 'reserved'
+100 1 8000
+
+#46019
+blue handmade quilt~
+{BB{bl{Bu{be {}Patchwork Quilt~
+A soft down-filled quilt lies here.~
+furniture X AO
+2 100000 DEGHK 50 50
+75 5 5000
+
+#46020
+purple patchwork quilt~
+{MP{mu{Mr{mp{Ml{me{} Patchwork Quilt~
+A soft down-filled quilt lies here.~
+furniture X AO
+2 100000 DEGHK 50 50
+75 5 5000
+
+#46021
+crazy quilt~
+{RC{Mr{Ca{Gz{By{} Quilt~
+A soft down-filled quilt lies here.~
+furniture X AO
+2 100000 DEGHK 50 50
+75 5 5000
+
+#46022
+baby bunting blanket~
+{CBaby {MBlanket{}~
+A tiny version of the larger quilts lies here.  Just right for a new baby.~
+furniture X AO
+1 5000 EHK 10 10
+5 1 1000
+
+#46023
+yellow rose~
+a {Yyellow rose{}~
+A {Yyellow rose{} from Shelley's bush lies here.~
+armor BFILSXY AO
+1 1 1 1 0
+5 2 660
+A 13 15
+#0
+
+#ROOMS
+#46080
+{gHarcdon Town{}~
+Here at the outskirts of {gHarcdon Town{} you can see the dusty path
+leading off to the east towards nothingness.  Back to the west lies the
+heart of {gHarcdon{}.  
+~
+0 1
+D1
+~
+~
+0 0 46079
+D3
+~
+~
+0 0 46081
+S
+
+#46081
+{gHarcdon Town{}~
+This is the very edge of {gHarcdon{}.  The solid street ends and becomes
+a dusty beaten path.  To the north is {bGrady's Pub and Inn{}, where the
+locals gather to exchange stories and gossip.  To the south lies
+{GM{go{Gt{gh{Ge{gr{G'{gs{}.  
+~
+0 1
+D0
+~
+~
+0 0 46086
+D1
+~
+~
+0 0 46080
+D2
+~
+~
+0 0 46095
+D3
+~
+~
+0 0 46083
+S
+
+#46083
+{gHarcdon Town{}~
+{gHarcdon Town{} continues to the east and west.  To the south lies
+{yBrandon's Outfitting{}, the town armor shop.  To the north is the public
+library.  
+~
+0 1
+D0
+~
+~
+0 0 46099
+D1
+~
+~
+0 0 46081
+D2
+~
+~
+0 0 46097
+D3
+~
+~
+0 0 46084
+S
+
+#46084
+{gHarcdon Town{}~
+{gHarcdon Town{} continues east and west.  To the North lies {8Betsy's
+Youngster Academy{}, the town school.  
+~
+0 1
+D0
+~
+~
+0 0 46100
+D1
+~
+~
+0 0 46083
+D3
+~
+~
+0 0 46085
+S
+
+#46085
+{gHarcdon Town{}~
+{gHarcdon Town{} does not continue here.  You must go back the way you
+came.  There's a sign here that reads "{rDead End{}".  
+~
+0 1
+D1
+~
+~
+0 0 46084
+S
+
+#46086
+{bGrady's Pub and Inn{}~
+When you enter this room your nose is bombarded with the scent of aged
+whiskey straight from the barrel.  A wooden bar runs the length of the far
+wall, with inviting barstools in front.  {bGrady{} still makes a good living
+off his pub and inn.  To the west lies the check-in desk for the inn
+upstairs.  
+~
+8 0
+D2
+~
+~
+0 0 46081
+D3
+~
+~
+0 0 46087
+S
+
+#46087
+{bGrady's Pub and Inn{}~
+The smell isn't quite as strong here.  While the Inn doesn't look new, it
+does seem clean and inviting for a weary traveler.  A polished wooden
+counter sits next to the foot of the stairs where the innkeeper can watch
+all who come in and out.  On the walls hang long {cmirrors{} decorated in
+{yfake gold gilding{}, freshly watered {g ferns{} hang from the ceiling and
+drape down the sides of the counter.  
+~
+8 0
+D1
+~
+~
+0 0 46086
+D4
+~
+~
+0 0 46088
+S
+
+#46088
+{bGrady's Pub and Inn{}~
+The hallway seems to be in the same decor as downstairs, {gferns {}hang
+from hooksin the ceiling and a {cfull-length mirror{} hangs on the far wall.
+~
+8 0
+D0
+~
+~
+0 0 46092
+D2
+~
+~
+0 0 46093
+D3
+~
+~
+0 0 46089
+D5
+~
+~
+0 0 46087
+S
+
+#46089
+{bGrady's Pub and Inn{}~
+Upon closer inspection this {cfull-length mirror{} isn't made out of
+glass.  {bGrady {}must have a spellcaster working for him, because the
+{cmirror{} is water that is hanging vertically, perfectly still, allowing
+for the ideal reflection.  
+~
+8 0
+D0
+~
+~
+0 0 46090
+D1
+~
+~
+0 0 46088
+D2
+~
+~
+0 0 46091
+S
+
+#46090
+{bRoom Four{}~
+This is the largest and most elaborate of {bGrady's{} rooms.  There is a
+king size bed against the wall.  It seems to have already been turned down
+for the night revealing a set of {Rpure silk sheets{}, underneath a soft
+{rdown comforter{}.  Next to the bed sits a nightstand that has a beautiful
+silver candlestick on it.  There is a mirror hanging from the ceiling over
+the bed.  Plush carpets tickle your feet when you walk.  There is a door to
+the west.  
+~
+533000 0
+D2
+~
+~
+0 0 46089
+D3
+~
+~
+0 0 46094
+S
+
+#46091
+{bRoom Three{}~
+This is the smallest room {bGrady{} rents out, and is for the lone
+travler.  A simple single bed sits against the wall, with a nightstand on
+the left.  A mirror hangs on the wall, next to the towel rack and above the
+washbasin.  This room has a small window on the southern wall.  
+~
+534536 0
+D0
+~
+~
+0 0 46089
+S
+
+#46092
+{bRoom Two{}~
+This is a standard room, a king size bed sits against the wall with a
+hand quilted cover.  The furniture is a light oak, and the writing desk does
+seem to have a fresh quill pen for your use.  A small chest is against the
+wall if you are staying here long enough to need to unpack.  There is a
+mirror across from the bed and a huge bay window on the northern wall.  
+~
+533000 0
+D2
+~
+~
+0 0 46088
+S
+
+#46093
+{bRoom One{}~
+This is a standard room, a king size bed sits against the wall with a
+hand quilted cover.  The furniture is a light oak, and the writing desk does
+seem to have a fresh quill pen for your use.  A small chest is against the
+wall if you are staying long enough to need to unpack.  There is a mirror
+across from the bed and a huge bay window on the southern wall.  
+~
+533000 0
+D0
+~
+~
+0 0 46088
+S
+
+#46094
+{bM{Ba{br{Bb{bl{Be{b Bathroom{}~
+The floor is imported blue marble, as are all the wall and sink fixtures.
+The entire western wall is a {cmirror{}.  There is a huge garden tub in the
+center of the room, with marble-cut steps leading up to it.  Over the sink
+sits an aray of bubble bath flavors for the couple to choose from.  
+~
+533000 0
+D1
+~
+~
+0 0 46090
+S
+
+#46095
+{GM{go{Gt{gh{Ge{gr{G'{gs{}~
+This is the simple family restaurant in town.  Here a traveler can find a
+good,hot meal for a very reasonable price.  Julie has owned this place since
+the last owner died of the plague, and has fixed it up quite a bit.  The
+tables are covered in {Wreal white tablecloths{} and {Wnapkins{}.  Over the
+center of each table hovers a spell-crafted ball of light, giving off a soft
+glow.  
+~
+8200 0
+D0
+~
+~
+0 0 46081
+D2
+~
+~
+0 0 46096
+S
+
+#46096
+{wKitchen{}~
+This kitchen is unlike most, there isn't a firepit or a preparing table. 
+Instead spellcasters are standing about conjuring up the food as it is
+ordered.  Julie keeps her costs low by only hiring spellcasters and a
+dishboy to clear the tables and wash the dishes.  
+~
+8 0
+D0
+~
+~
+0 0 46095
+S
+
+#46097
+{yBrendon's Outfitting{}~
+The smell of leather permeates this little shop.  It's one room is filled
+with all types of armor and other leather goods.  Brendon is an older man,
+one of the few that survived.  The walls are covered in steel hooks, from
+which hang his wares.  
+~
+8 0
+D0
+~
+~
+0 0 46083
+D4
+~
+~
+0 0 46098
+S
+
+#46098
+{yBrendon's Home{}~
+A tiny room is Brendon's home, his single bed lies against the wall, a
+simple mattress on the floor.  He has a small fireplace to cook over and one
+wooden chest for his clothes.  The only item of comfort is a beautiful
+wooden rocking chair sitting next to the fire.  
+~
+8 0
+D5
+~
+~
+0 0 46097
+S
+
+#46099
+{gHarcdon Library{}~
+The {gHarcdon Family{} donated most of the books in this library.  Other
+than the librarn though, the simple people of the town tend to stay away
+from here.  It seems they have little use for books.  The walls are lined
+with floor to ceiling shelves, and the leatherbound books are arranged in
+order.  Small round tables are scattered about the room.  The librarn's
+counter is made of fine oak.  
+~
+8 0
+D2
+~
+~
+0 0 46083
+E
+shelves~
+The wooden shelves are covered in books.
+~
+E
+books~
+{WBooks lay about the shelves bearing such titles as:{}
+{G    Kira's Guide to Man-Handling Your Man{}
+{G    Cornering--It's Not Just for Dummies Anymore{}
+{G    Conserving Nature {wby Anyia{}
+{G    Redemption Clans and How to Join One{}
+{G    Alys's Guide to Killing the Light{}
+{G    10 days to a Better Pkiller{}
+{G    DragonRiding as an Art Form {wfeaturing Canth{}
+{G    And Justice for ME {wby Alys{}
+{G    Etiquitte of Mortal Slaying{}
+{G    The Kamasutra--Pixie/Tiegre special edition{}
+{B    It Ain't Easy Being a Blue Redemption{}
+{G    Zydeco's Guide to the French Quarter{}
+{G    Build Off Those Extra Pounds {wby Opio{}
+~
+S
+
+#46100
+{WBetsy's Youngster Academy{}~
+This is the entrance hall to {WBetsy's{}, the school for the middle-class
+children in {gHarcdon{}.  Here they learn the basics of reading and writing,
+so they can grow up and take over their parents' businesses.  The room is
+painted a soft grey and the floor is brick.  A sign points toward the back,
+where the classroom is.  A small staircase sits in the corner.  
+~
+8 0
+D0
+~
+~
+0 0 46101
+D2
+~
+~
+0 0 46084
+D4
+~
+~
+0 0 46102
+S
+
+#46101
+{WClassroom{}~
+chalkboard hanging from the front wall.  {WBetsy's{} desk sits over in the
+left corner and is covered in papers she is grading.  The students are quiet
+and well-behaved, sitting in their seats and studying grammar.  
+~
+8 0
+D2
+~
+~
+0 0 46100
+E
+chalkboard~
+{WF'nor-- F  N  O  R
+{WCanth-- C  A  N  T  H
+{WNarlo-- N  A  R  L  O
+ 
+{WWrite each name 20 times and practice your handwriting.  Then write
+{Wthis sentence:
+ 
+{W The quick sparkly Tressyum jumped over the lazy Orc.{}
+~
+E
+desk~
+{WBetsy's{} desk is solid wood, and while still nice, you can see years
+of wear in it.  A shiny {Rapple{} sits on the edge, someone must be trying
+to buy a better grade.  
+~
+S
+
+#46102
+{WBetsy's Home{}~
+This is {WBetsy's{} living' area.  The front room serves as her kitchen,
+with only a stove and a small table to eat at.  There is also a
+{rb{Rr{ro{Rc{ra{Rd{re{R s{ro{Rf{ra{} with a small, danity, oriental rug in front.
+  
+~
+8 0
+D0
+~
+~
+0 0 46103
+D5
+~
+~
+0 0 46100
+S
+
+#46103
+{WBetsy's Home{}~
+This room is {WBetsy's{} bedroom.  She has a queen size bed, covered in a
+handmade quilt.  A rocking chair sits by the bedside table, and her current
+knitting project sits in the seat.  
+~
+8 0
+D2
+~
+~
+0 0 46102
+S
+
+#46104
+{yStone Path{}~
+A stone path leads to the door of a simple cottage.  A {Yyellow rose{}
+bush grows next to the single window.  
+~
+0 2
+D0
+~
+~
+0 0 46105
+D2
+~
+~
+0 0 46077
+S
+
+#46105
+{ySimple Cottage{}~
+This is a simple cottage owned by the town doctor and his wife.  Most of
+his patients died during the plague, and he retired here to practice his
+craft in peace.  There is one window and one door leading to the back
+bedroom.  A rough hewn wood table stands next to the fireplace and serves as
+both a place to dine and a place to work.  Beautiful handmade pieces adorn
+the walls.  
+~
+1024 0
+D0
+~
+~
+0 0 46106
+D2
+~
+~
+0 0 46104
+S
+
+#46106
+{ySimple Cottage{}~
+This is the small bedroom of the doctor and his wife.  At the foot of the
+queen size bed lies a handmade patchwork quilt.  Against the wall are two
+wooden chests holding the doctor and his wife's clothes.  
+~
+8 0
+D2
+~
+~
+0 0 46105
+S
+
+#46000
+{CHarcdon Town Cemetery{}~
+The entrance to the {CHarcdon Town Cemetery{} is just an old iron gate. 
+The stone archway lies on the ground, torn down when the last of the
+Harcdon's died, in order to rid the place of their name.  A cobblestone path
+leads to the north, and seems to have been kept in some repair.  There is a
+small wooden sign hanging on the gate.  (Maybe you should read it.)  
+~
+4 2
+D0
+~
+~
+0 0 46001
+D2
+~
+~
+0 0 5275
+D3
+~
+~
+0 0 46076
+E
+sign~
+Welcome to {CHarcdon{}.  This is an unusual town, not like any other. 
+You would do best to avoid the large dangerous rats and bats until you have
+done battle with the undead.  And remember, just because it's cute and close
+doesn't mean it's easy.  Explore first, kill second.  
+-{YRamoth{}, founder of {CHarcdon{}
+~
+S
+
+#46001
+{rCobblestone Path{}~
+Through the center of the small cemetery runs a {rcobblestone{} path. 
+Unlike the gravestones that are decaying and the weeds that are growing,
+this path seems well taken care of by someone.  
+~
+0 2
+D0
+~
+~
+0 0 46006
+D1
+~
+~
+0 0 46002
+D2
+~
+~
+0 0 46000
+D3
+~
+~
+0 0 46004
+S
+
+#46002
+{gCommoner's Gravesite{}~
+An eroding stone marker sits at the head of this site, so weathered you
+can barely make out the name carved upon it.  
+~
+0 2
+D0
+~
+~
+0 0 46014
+D1
+~
+~
+0 0 46003
+D3
+~
+~
+0 0 46001
+D5
+~
+~
+0 0 46036
+E
+stone~
+{*       Reced Minrat
+{*Much Loved Wife and Mother
+{}
+~
+S
+
+#46003
+{gCommoner's Gravesite{}~
+An eroding stone marker sits at the head of the site, so weathered you
+can barely make out the name carved upon it.  
+~
+0 2
+D0
+~
+~
+0 0 46015
+D3
+~
+~
+0 0 46002
+D5
+~
+~
+0 0 46037
+E
+stone~
+The stone is so weathered you can't make out all the letters.
+{*A ro   ar el{}
+{*My  it le  ey re{}
+~
+S
+
+#46004
+{gPauper's Gravesite{}~
+A decaying simple wooden cross stands stuck in the dirt.  The name
+{yMelide Neckel{} is carved into the crossbeam.  
+~
+0 2
+D0
+~
+~
+0 0 46012
+D1
+~
+~
+0 0 46001
+D3
+~
+~
+0 0 46005
+D5
+~
+~
+0 0 46030
+S
+
+#46005
+{gPauper's Gravesite{}~
+A decaying simple wooden cross stands stuck in the dirt.  The name {yJohn
+Neckel{} is carved into the crossbeam.  
+~
+0 2
+D0
+~
+~
+0 0 46013
+D1
+~
+~
+0 0 46004
+D5
+~
+~
+0 0 46031
+S
+
+#46006
+{rCobblestone Path{}~
+Through the center of the small cemetery runs a {rcobblestone{} path. 
+Unlike the gravestones that are decaying and the weeds that are growing,
+this path seems well taken care of by someone.  
+~
+0 2
+D0
+~
+~
+0 0 46007
+D1
+~
+~
+0 0 46014
+D2
+~
+~
+0 0 46001
+D3
+~
+~
+0 0 46012
+S
+
+#46007
+{rCobblestone Path{}~
+Through the center of the small cemetery runs a {rcobblestone{} path. 
+Unlike the gravestones that are decaying and the weeds that are growing,
+this path seems well taken care of by someone.  
+~
+0 2
+D0
+~
+~
+0 0 46008
+D1
+~
+~
+0 0 46018
+D2
+~
+~
+0 0 46006
+D3
+~
+~
+0 0 46016
+S
+
+#46008
+{rCobblestone Path{}~
+Through the center of the small cemetery runs a {rcobblestone{} path. 
+Unlike the gravestones that are decaying and the weeds that are growing,
+this path seems well taken care of by someone.  To the west there is an old
+{bChapel{}.  
+~
+0 2
+D0
+~
+~
+0 0 46009
+D1
+~
+~
+0 0 46020
+D2
+~
+~
+0 0 46007
+D3
+~
+~
+0 0 46052
+S
+
+#46009
+{rCobblestone Path{}~
+Through the center of the small cemetery runs a {rcobblestone{} path. 
+Unlike the gravestones that are decaying and the weeds that are growing,
+this path seems well taken care of by someone.  
+~
+0 2
+D0
+~
+~
+0 0 46010
+D1
+~
+~
+0 0 46022
+D2
+~
+~
+0 0 46008
+D3
+~
+~
+0 0 46024
+S
+
+#46010
+{rCobblestone Path{}~
+Through the center of the small cemetery runs a {rcobblestone{} path. 
+Unlike the gravestones that are decaying and the weeds that are growing,
+this path seems well taken care of by someone.  
+~
+0 2
+D0
+~
+~
+0 0 46011
+D2
+~
+~
+0 0 46009
+D3
+~
+~
+0 0 46026
+S
+
+#46011
+{rCobblestone Path{}~
+Through the center of the small cemetery runs a {rcobblestone{} path. 
+Unlike the gravestones that are decaying and the weeds that are growing,
+this path seems well taken care of by someone.  To the east lies the
+{yHarcdon Crypt{}.  
+~
+0 2
+D1
+~
+~
+0 0 46058
+D2
+~
+~
+0 0 46010
+D3
+~
+~
+0 0 46029
+S
+
+#46012
+{gPauper's Gravesite{}~
+A decaying simple wooden cross stands stuck in the dirt.  The name {yZech
+Fisher{} is carved into the crossbeam.  
+~
+0 2
+D0
+~
+~
+0 0 46016
+D1
+~
+~
+0 0 46006
+D2
+~
+~
+0 0 46004
+D3
+~
+~
+0 0 46013
+D5
+~
+~
+0 0 46033
+S
+
+#46013
+{gPauper's Gravesite{}~
+A decaying wooden carving of a druidish tree is stuck into the ground. 
+The name {ySheban Winzt{} is carved into the trunk.  
+~
+0 2
+D0
+~
+~
+0 0 46017
+D1
+~
+~
+0 0 46012
+D2
+~
+~
+0 0 46005
+D5
+~
+~
+0 0 46032
+S
+
+#46014
+{gCommoner's Gravesite{}~
+An eroding stone marker sits at the head of the site, so weathered you
+can barely make out the name carved upon it.  
+~
+0 2
+D0
+~
+~
+0 0 46018
+D1
+~
+~
+0 0 46015
+D2
+~
+~
+0 0 46002
+D3
+~
+~
+0 0 46006
+D5
+~
+~
+0 0 46039
+E
+stone~
+{*Jauke Nink
+{*After a life of pain
+{*Now may you
+{*Rest in Peace{}
+~
+S
+
+#46015
+{gCommoner's Gravesite{}~
+An eroding stone marker sits at the head of the site.  It however stands
+apart from the rest, because, while weathered, it is remarkably clean. 
+Someone has taken good care of this gravesite.  
+~
+0 2
+D0
+~
+~
+0 0 46019
+D2
+~
+~
+0 0 46003
+D3
+~
+~
+0 0 46014
+D5
+~
+~
+0 0 46038
+E
+stone~
+{*My Beloved{}
+{*Even in death
+{*Your secret is safe
+{}
+~
+S
+
+#46016
+{gPauper's Gravesite{}~
+This gravesite seems to have been forgotten, there is no marker on it, or
+even any evidence that it has ever been visited by the living.  
+~
+0 2
+D1
+~
+~
+0 0 46007
+D2
+~
+~
+0 0 46012
+D3
+~
+~
+0 0 46017
+D5
+~
+~
+0 0 46034
+S
+
+#46017
+{gPauper's Gravesite{}~
+This gravesite is bare except for a small {*iron{} vase holding fake
+flowers.  
+~
+0 2
+D1
+~
+~
+0 0 46016
+D2
+~
+~
+0 0 46013
+D5
+~
+~
+0 0 46035
+E
+flowers~
+A small, cheap handful of fake {Yf{Rl{Bo{Yw{Re{Br{Ys{} sits inside the vase.
+~
+E
+vase~
+A small {*iron{} vase sits here, firmly stuck into the ground.
+~
+S
+
+#46018
+{gCommoner's Gravesite{}~
+A tiny stone sits at the head of this grave.  No name, no date, no
+flowers.  You wonder the history of this site.  
+~
+0 0
+D0
+~
+~
+0 0 46020
+D1
+~
+~
+0 0 46019
+D2
+~
+~
+0 0 46014
+D3
+~
+~
+0 0 46007
+D5
+~
+~
+0 0 46040
+E
+stone~
+A carving of a baby lamb is the only decoration on the {*granite{} stone.
+~
+S
+
+#46019
+{gCommoner's Gravesite{}~
+An eroding stone marker sits at the head of the site, so weathered you
+can barely make out the name carved upon it.  
+~
+0 2
+D0
+~
+~
+0 0 46021
+D2
+~
+~
+0 0 46015
+D3
+~
+~
+0 0 46018
+D5
+~
+~
+0 0 46041
+E
+stone~
+Grange Canac
+He died as he lived
+Rotting
+~
+S
+
+#46020
+{gCommoner's Gravesite{}~
+An eroding stone marker sits at the head of the site, so weathered you
+can barely make out the name carved upon it.  
+~
+0 2
+D0
+~
+~
+0 0 46022
+D1
+~
+~
+0 0 46021
+D2
+~
+~
+0 0 46018
+D3
+~
+~
+0 0 46008
+D5
+~
+~
+0 0 46043
+E
+stone~
+The name once carved on this piece of granite is gone.  The rock is left with an odd roughness along it's blank surface.
+~
+S
+
+#46021
+{gCommoner's Gravesite{}~
+This site has no marker because it is one of the few empty sites in this
+ancient cemetery.  
+~
+0 2
+D0
+~
+~
+0 0 46023
+D2
+~
+~
+0 0 46019
+D3
+~
+~
+0 0 46020
+D5
+~
+~
+0 0 46042
+S
+
+#46022
+{gCommoner's Gravesite{}~
+The marker here has no name carved on it, but rather a strange circular
+symbol eteched into the stone.  
+~
+0 2
+D1
+~
+~
+0 0 46023
+D2
+~
+~
+0 0 46020
+D3
+~
+~
+0 0 46009
+D5
+~
+~
+0 0 46044
+E
+symbol~
+This symbol looks familar, but you can't quite place where you have seen it.
+~
+S
+
+#46023
+{gCommoner's Gravesite{}~
+This grave has been dug within the last few days.  The hole is open,
+waiting for the casket.  The marker hasn't been put into place yet.  
+~
+0 2
+D2
+~
+~
+0 0 46021
+D3
+~
+~
+0 0 46022
+D5
+~
+~
+0 0 46045
+S
+
+#46024
+{gHighman's Gravesite{}~
+This is the only empty gravesite in the {gHighman's area{}.  
+~
+0 2
+D0
+~
+~
+0 0 46026
+D1
+~
+~
+0 0 46009
+D3
+~
+~
+0 0 46025
+D5
+~
+~
+0 0 46046
+S
+
+#46025
+{gHighman's Gravesite{}~
+The marker is made of marble, and is etched in fine patterns, yet doesn't
+seem any better taken care of than the other sites.  
+~
+0 2
+D0
+~
+~
+0 0 46027
+D1
+~
+~
+0 0 46024
+D5
+~
+~
+0 0 46047
+S
+
+#46026
+{gHighman's Gravesite{}~
+You have entered the area of the upperclass.  The marker is made of
+marble, and etched in fine patterns, yet doesn't seem any better taken care
+of than the other sites.  
+~
+0 2
+D0
+~
+~
+0 0 46029
+D1
+~
+~
+0 0 46010
+D2
+~
+~
+0 0 46024
+D3
+~
+~
+0 0 46027
+D5
+~
+~
+0 0 46049
+S
+
+#46027
+{gHighman's Gravesite{}~
+The marker is made of marble, and is etched in fine patterns, yet doesn't
+seem any better taken care of than the other sites.  This grave seems to be
+the one of the previous priest of this chapel.  
+~
+0 2
+D0
+~
+~
+0 0 46028
+D1
+~
+~
+0 0 46026
+D2
+~
+~
+0 0 46025
+D5
+~
+~
+0 0 46048
+E
+marker~
+Good Priest Smithe
+May you rest now
+Safe and Happy
+~
+S
+
+#46028
+{gHighman's Gravesite{}~
+The marker is made of marble, and is etched in fine patterns, yet
+doesn't seem any better taken care of than the other sites.  
+~
+0 2
+D1
+~
+~
+0 0 46029
+D2
+~
+~
+0 0 46027
+D5
+~
+~
+0 0 46051
+S
+
+#46029
+{gHighman's Gravesite{}~
+You have entered the area of the upperclass.  The marker is made of
+marble, and etched in fine patterns, yet doesn't seem any better taken care
+of than the other sites.  
+~
+0 2
+D1
+~
+~
+0 0 46011
+D2
+~
+~
+0 0 46026
+D3
+~
+~
+0 0 46028
+D5
+~
+~
+0 0 46050
+E
+marker~
+Ro ert McK in
+A merchant of the finest eye
+He brought wonders to our world
+~
+S
+
+#46030
+{yGrave{}~
+The walls of dirt and red clay are crawling with worms and roaches.  What
+a poor life to not even be able to afford a coffin in death.  
+~
+8 0
+D4
+~
+~
+0 0 46004
+S
+
+#46031
+{yGrave{}~
+The walls of dirt and red clay are crawling with worms and roaches.  What
+a poor life to not even be able to afford a coffin in death.  
+~
+8 0
+D4
+~
+~
+0 0 46005
+S
+
+#46032
+{yGrave{}~
+The walls of dirt and red clay are crawling with worms and roaches.  What
+a poor life to not even be able to afford a coffin in death.  
+~
+8 0
+D4
+~
+~
+0 0 46013
+S
+
+#46033
+{yGrave{}~
+The walls of dirt and red clay are crawling with worms and roaches.  What
+a poor life to not even be able to afford a coffin in death.  
+~
+8 0
+D4
+~
+~
+0 0 46012
+S
+
+#46034
+{yGrave{}~
+The walls of dirt and red clay are crawling with worms and roaches.  What
+a poor life to not even be able to afford a coffin in death.  
+~
+8 0
+D4
+~
+~
+0 0 46016
+S
+
+#46035
+{yGrave{}~
+The walls of dirt and red clay are crawling with worms and roaches.  What
+a poor life to not even be able to afford a coffin in death.  
+~
+8 0
+D4
+~
+~
+0 0 46017
+S
+
+#46036
+{yGrave{}~
+A simple wooden box fills the hole.  The rough-hewn pine wood is not
+elaborate, but at least it kept the bugs out in the beginning.  
+~
+9 0
+D4
+~
+~
+0 0 46002
+S
+
+#46037
+{yGrave{}~
+A simple wooden box fills the hole.  The rough-hewn pine wood is not
+elaborate, but at least it kept the bugs out in the beginning.  
+~
+9 0
+D4
+~
+~
+0 0 46003
+S
+
+#46038
+{yGrave{}~
+A simple wooden box fills this hole.  The rough-hewn pine wood isn't
+elaborate,but at least it kept the bugs out in the beginning.  
+~
+9 0
+D4
+~
+~
+0 0 46015
+S
+
+#46039
+{yGrave{}~
+A simple wooden box fills this hole.  The rough-hewn pine wood isn't
+elaborate,but at least it kept the bugs out in the beginning.  
+~
+9 0
+D4
+~
+~
+0 0 46014
+S
+
+#46040
+{yGrave{}~
+This coffin is made of a fine {rcherry wood{}, and lined with a beautiful
+{gsatin cloth{} and matching {gpillow{}.  It doesn't look like a commoner's
+grave.  Then it hits you that this coffin is empty.  
+~
+9 0
+D4
+~
+~
+0 0 46018
+S
+
+#46041
+{yGrave{}~
+This grave seems older than the rest, the pine box is virtually rotted
+away, and the worms seemed to have taken over here.  
+~
+9 0
+D4
+~
+~
+0 0 46019
+S
+
+#46042
+{yGrave{}~
+Dirt surrounds you, choking you, in this unused grave.  
+~
+8713 0
+D4
+~
+~
+0 0 46021
+S
+
+#46043
+{yGrave{}~
+A simple wooden box fills this hole.  The rough-hewn pine wood isn't
+elaborate,but at least it kept the bugs out in the beginning.  
+~
+9 0
+D4
+~
+~
+0 0 46020
+S
+
+#46044
+{yGrave{}~
+A simple wooden box fills this hole.  The rough-hewn pine wood isn't
+elaborate, but at least it kept the bugs out in the beginning.  
+~
+524297 0
+D4
+~
+~
+0 0 46022
+S
+
+#46045
+{yGrave{}~
+Freshly dug, this hole waits for a casket to be lowered into it.  
+~
+8 0
+D4
+~
+~
+0 0 46023
+S
+
+#46046
+{yGrave{}~
+The dirt is choking you.
+~
+8 0
+D4
+~
+~
+0 0 46024
+S
+
+#46047
+{yGrave{}~
+A deep oak casket lies here.  Lined with {Ysilk{} and a beautiful
+{Ymatching silk pillow{} at the head.  All the money in the world couldn't
+keep these people alive though.  
+~
+8 0
+D4
+~
+~
+0 0 46025
+S
+
+#46048
+{yGrave{}~
+A deep oak casket lies here.  Lined with {Msilk{} and a beautiful
+{MMatching silk pillow{} at the head.  All the money in the world couldn't
+keep these people alive though.  
+~
+1 0
+D4
+~
+~
+0 0 46027
+S
+
+#46049
+{yGrave{}~
+A deep oak casket lies here.  Lined with {Csilk{} and a beautiful
+{Cmatching silk pillow{} at the head.  All the money in the world couldn't
+keep these people alive though.  
+~
+9 0
+D4
+~
+~
+0 0 46026
+S
+
+#46050
+{yGrave{}~
+A deep oak casket lies here, lined with {Rsilk{} and a beautiful
+{Rmatching silk pillow{} at the head.  All the money in the world couldn't
+keep these people alivethough.  
+~
+9 0
+D4
+~
+~
+0 0 46029
+S
+
+#46051
+{yGrave{}~
+A deep oak casket lies here.  Lined with {Bsilk {}and a beautiful
+{Bmatching silk pillow{} at the head.  All the money in the world couldn't
+keep these people alive though.  
+~
+9 0
+D4
+~
+~
+0 0 46028
+S
+
+#46052
+{bChapel Entrance{}~
+A small brick building sits to the west.  On the rooftop leans an old
+rotting steeple and the front window shutters haven't seen a new coat of
+paint in years.  A faint tune seems to be floating through the open doorway.
+~
+0 2
+D1
+~
+~
+0 0 46008
+D3
+~
+~
+0 0 46053
+S
+
+#46053
+{bChapel{}~
+The inside of the Chapel is in stark contrast to the outside.  There are
+pews along either side and they gleam as if freshly oiled.  A carpet runs
+the length of the chapel between the pews.  There are stain-glass windows on
+each wall.  The faint music grows a bit louder, it sounds like a familar old
+song.  
+~
+0 0
+D1
+~
+~
+0 0 46052
+D3
+~
+~
+0 0 46054
+E
+pew~
+The pews are made of a dark maple.  The soft pew cushions look inviting for a   weary soul.
+~
+E
+carpet~
+A clean, spotless carpet runs the length of the chapel.
+~
+E
+window~
+The windows are scenes depicting the Immortals of Redemption, both long ago and    current ones.  They seem to tell the story of how Redemption evolved.
+~
+S
+
+#46054
+{bChapel{}~
+The inside of the Chapel is in stark contrast to the outside.  There are
+pews along either side and they gleam as if freshly oiled.  A carpet runs
+the length of the chapel between the pews.  There are stained glass windows
+on each wall.  The song is fairly audible in this room, but the tune, while
+familar, can't be placed.  
+~
+8 0
+D1
+~
+~
+0 0 46053
+D3
+~
+~
+0 0 46055
+E
+window~
+The windows are scenes depicting the Immortals of Redemption, both long ago and    current ones.  They seem to tell the story of how Redemption evolved.
+~
+E
+pew~
+The pews are made of a dark maple.  The soft pew cushions look inviting for a   weary soul.
+~
+E
+carpet~
+A clean, spotless carpet runs the length of the Chapel.
+~
+S
+
+#46055
+{bInner Chapel{}~
+The Inner Room of the Chapel is fully carpeted.  There is an altar at the
+frontand a small pulpit from which the old priest use to give sermons. 
+Behind the altar is a large stain glass window.  The music seems clear and
+loud, yet there is no musical instrument to be seen.  
+~
+0 0
+D1
+~
+~
+0 0 46054
+D4
+~
+~
+0 0 46056
+D5
+~
+~
+ABG 0 46057
+E
+cloth~
+A {Csatin {}cloth is stiched with tiny hand stitches, and has the symbol of F'nor sewn on it.
+~
+E
+carpet~
+The beautiful carpet covers the whole front end of the Chapel.
+~
+E
+altar~
+A handsome wooded altar sits at the front. On it lies a huge, leatherbound book.
+~
+E
+book~
+~
+E
+book~
+Though the pages are old and yellowed on line stands out clearly:
+{Wbut until that time, the Light reigns supreme, and F'nor is still most loved by the people of the realm.
+{}
+~
+E
+altar~
+~
+E
+altar~
+A handsome maple altar stands at the front. A large {gleatherbound{} book sits here.
+~
+E
+pulpit~
+The maple pulpit is covered in a {Csatin{} cloth.
+~
+E
+window~
+Covering the whole front of the tiny Chapel is a window depicting the Final     Battle between {YLight{} and {*Darkness{}.  Along either side of the picture all the    IMMs are aligned with one or the other.
+~
+S
+
+#46056
+{bOrgan Pipes{}~
+Organ Pipes of every shape and size cover the walls.  The {ybrass{} pipes
+seem well taken care of.  The music is clear and comforting.  
+~
+0 0
+D5
+~
+~
+0 0 46055
+E
+wall~
+The walls are covered in {ybrass{} pipes.  Between a few of the cracks you can barely make out the stone wall behind it.
+~
+E
+pipes~
+The {ybrass{} pipes glisten as if just polished.
+~
+S
+
+#46057
+{bOrgan Room{}~
+The walls are covered in shelves with music and books.  A large Organ
+sits in the middle of the room, and seems to play itself.  There is a piece
+of sheet music on the Organ.  
+~
+0 0
+D4
+~
+~
+ABG 0 46055
+E
+organ~
+A finely crafted Organ sits in the center of the room.  The keys move as if someone is playing it.
+~
+E
+sheet~
+{WF'nor's Book of {GDragon{W Lullabies{}
+{M  Canth's Sleepytime{}
+{M  Turns of Pern{}
+{M  You Make My Eyes Whirl Baby!{}
+{M  Ode to a Hatchling{}
+  {M{MThread Fights of Old{}{}
+~
+E
+shelves~
+The maple shelves match the rest of the Chapel furniture. They have been recently dusted.
+~
+E
+books~
+Books of all shapes and sizes cover the shelves.
+~
+S
+
+#46058
+{yHarcdon Crypt{}~
+A large wooden door sways, leaving the Harcdon Crypt open for anyone to
+enter.  At one time this crypt was where the rich Harcdon Family buried it's
+dead, since the plague, bodies have just been tossed inside without care.  
+~
+9 0
+D1
+~
+~
+0 0 46059
+D3
+~
+~
+0 0 46011
+S
+
+#46059
+{yCrypt{}~
+The last bit of {Ylight{} from the outside fades away and the {yCrypt{}
+becomes enveloped in darkness.  
+~
+533516 0
+D1
+~
+~
+0 0 46060
+D3
+~
+~
+0 0 46058
+S
+
+#46060
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+10249 0
+D0
+~
+~
+0 0 46061
+D1
+~
+~
+0 0 46061
+D3
+~
+~
+0 0 46059
+D5
+~
+~
+0 0 46061
+S
+
+#46061
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+8201 0
+D0
+~
+~
+0 0 46062
+D1
+~
+~
+0 0 46060
+D2
+~
+~
+0 0 46060
+D3
+~
+~
+0 0 46060
+D4
+~
+~
+0 0 46060
+D5
+~
+~
+0 0 46061
+S
+
+#46062
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+8201 0
+D0
+~
+~
+0 0 46060
+D1
+~
+~
+0 0 46061
+D2
+~
+~
+0 0 46061
+D3
+~
+~
+0 0 46063
+D4
+~
+~
+0 0 46060
+D5
+~
+~
+0 0 46060
+S
+
+#46063
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+8713 0
+D0
+~
+~
+0 0 46064
+D1
+~
+~
+0 0 46062
+D2
+~
+~
+0 0 46062
+D3
+~
+~
+0 0 46061
+D4
+~
+~
+0 0 46060
+D5
+~
+~
+0 0 46061
+S
+
+#46064
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+8713 0
+D0
+~
+~
+0 0 46060
+D1
+~
+~
+0 0 46065
+D2
+~
+~
+0 0 46063
+D3
+~
+~
+0 0 46061
+D4
+~
+~
+0 0 46064
+D5
+~
+~
+0 0 46064
+S
+
+#46065
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+8713 0
+D0
+~
+~
+0 0 46065
+D1
+~
+~
+0 0 46065
+D2
+~
+~
+0 0 46066
+D3
+~
+~
+0 0 46064
+D4
+~
+~
+0 0 46065
+D5
+~
+~
+0 0 46061
+S
+
+#46066
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+8713 0
+D0
+~
+~
+0 0 46065
+D1
+~
+~
+0 0 46065
+D2
+~
+~
+0 0 46065
+D3
+~
+~
+0 0 46067
+D4
+~
+~
+0 0 46066
+D5
+~
+~
+0 0 46062
+S
+
+#46067
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+8713 0
+D0
+~
+~
+0 0 46060
+D1
+~
+~
+0 0 46066
+D2
+~
+~
+0 0 46068
+D3
+~
+~
+0 0 46060
+D4
+~
+~
+0 0 46061
+D5
+~
+~
+0 0 46060
+S
+
+#46068
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+10249 0
+D0
+~
+~
+0 0 46067
+D1
+~
+~
+0 0 46068
+D2
+~
+~
+0 0 46069
+D3
+~
+~
+0 0 46063
+D4
+~
+~
+0 0 46063
+D5
+~
+~
+0 0 46062
+S
+
+#46069
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+10249 0
+D0
+~
+~
+0 0 46068
+D1
+~
+~
+0 0 46070
+D2
+~
+~
+0 0 46064
+D3
+~
+~
+0 0 46069
+D4
+~
+~
+0 0 46062
+D5
+~
+~
+0 0 46063
+S
+
+#46070
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+8201 0
+D0
+~
+~
+0 0 46060
+D1
+~
+~
+0 0 46070
+D2
+~
+~
+0 0 46070
+D3
+~
+~
+0 0 46069
+D4
+~
+~
+0 0 46070
+D5
+~
+~
+0 0 46071
+S
+
+#46071
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+10249 0
+D0
+~
+~
+0 0 46072
+D1
+~
+~
+0 0 46061
+D2
+~
+~
+0 0 46063
+D3
+~
+~
+0 0 46062
+D4
+~
+~
+0 0 46070
+D5
+~
+~
+0 0 46064
+S
+
+#46072
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+10249 0
+D0
+~
+~
+0 0 46073
+D1
+~
+~
+0 0 46063
+D2
+~
+~
+0 0 46071
+D3
+~
+~
+0 0 46064
+D4
+~
+~
+0 0 46060
+D5
+~
+~
+0 0 46072
+S
+
+#46073
+{yCrypt{}~
+{*Pitch Black Nothing{}
+~
+10249 0
+D0
+~
+~
+0 0 46063
+D1
+~
+~
+0 0 46062
+D2
+~
+~
+0 0 46072
+D3
+~
+~
+0 0 46063
+D4
+~
+~
+0 0 46074
+D5
+~
+~
+0 0 46063
+S
+
+#46074
+{yDeep Inside Harcdon Crypt{}~
+An unearthly light penetrates this chamber, but there is no indication of
+where the light comes from.  There are large stone slabs against each of the
+walls and rotting, decaying bodies everywhere.  To the north there seems to
+be a small hole under one of the slabs.  
+~
+8200 0
+D0
+~
+~
+0 0 46075
+D5
+~
+~
+0 0 46073
+E
+slab~
+The slabs against the walls are covered in bodies.  It seems as though at
+one point care was taken, but now the bodies are just piled on top of one
+another with no regard to the dead.  
+~
+S
+
+#46075
+{GCourtyard{}~
+After squeezing through the hole, the outside air hits you full force in
+the face.  This seems to be a tiny hidden courtyard, only big enough for one
+person.  There is an etching on the wall.  
+~
+525828 2
+E
+etching~
+{yYou are free to leave, I suggest you don't return to our home
+{y    -CryptKeeper{}
+~
+E
+wall~
+{yYou are free to leave, I suggest you don't return to our home{}
+{y    -CryptKeeper{}
+~
+S
+
+#46076
+{yRoad{}~
+There isn't anything to define this road, other than the years of
+traveling it has gotten.  Fields lie to the north and south as far as the
+eye can see.  In the distant east one can see the tip of a chapel and what
+looks like tombstones.  {} 
+~
+0 2
+D1
+~
+~
+0 0 46000
+D3
+~
+~
+0 0 46077
+S
+
+#46077
+{yRoad{}~
+There isn't anything to define this road, other than the years of
+traveling it gotten.  Fields lie to the north and south as far as the eye
+can see.  A tiny cottage lies to the north.  
+~
+0 2
+D0
+~
+~
+0 0 46104
+D1
+~
+~
+0 0 46076
+D3
+~
+~
+0 0 46078
+S
+
+#46078
+{yRoad{}~
+There isn't anything to define this road, other than the years of
+traveling it has gotten.  Fields lie to the north and south as far as the eye
+can see.  
+~
+4 2
+D1
+~
+~
+0 0 46077
+D3
+~
+~
+0 0 46079
+S
+
+#46079
+{yRoad{}~
+There isn't anything to define this road, other than the years of
+traveling it has gotten.  Fields lie to the north and south as far as the
+eye can see.  To the west {gHarcdon Town{} is becoming visible.  
+~
+0 2
+D1
+~
+~
+0 0 46078
+D3
+~
+~
+0 0 46080
+S
+#0
+
+#SPECIALS
+M 46023 spec_cast_adept
+S
+
+#RESETS
+D 100 46055 5 1
+D 100 46057 4 1
+M 100 46009 15 46080 1
+M 100 46013 10 46080 1
+M 100 46016 1 46080 1
+E 100 46000 0 16
+E 100 46005 0 27
+M 100 46013 10 46081 1
+M 100 46009 15 46083 1
+M 100 46011 10 46083 1
+M 100 46011 10 46084 1
+M 100 46013 10 46084 1
+M 100 46009 15 46085 1
+M 100 46014 5 46085 1
+M 100 46008 1 46086 1
+G 100 46007 0
+G 100 46008 0
+G 100 46009 0
+M 100 46004 1 46095 1
+M 100 46005 1 46095 1
+M 100 46006 1 46096 1
+M 100 46007 1 46096 1
+M 100 46000 1 46097 1
+G 100 46010 0
+G 100 46011 0
+G 100 46012 0
+G 100 46013 0
+G 100 46014 0
+M 100 46009 15 46097 1
+O 100 46001 0 46098
+M 100 46010 1 46099 1
+E 100 46004 0 17
+M 100 46011 10 46100 1
+M 100 46011 10 46101 1
+M 100 46012 1 46101 1
+E 100 46003 0 16
+M 100 46027 1 46105 1
+G 100 46015 0
+G 100 46017 0
+G 100 46016 0
+G 100 46018 0
+M 100 46028 1 46106 1
+M 100 46026 1 46106 1
+G 100 46023 0
+G 100 46022 0
+G 100 46021 0
+G 100 46020 0
+G 100 46019 0
+M 100 46025 8 46001 1
+M 100 46019 1 46004 1
+M 100 46020 1 46005 1
+M 100 46025 8 46006 1
+M 100 46025 8 46007 1
+M 100 46025 8 46008 1
+M 100 46025 8 46009 1
+M 100 46025 8 46010 1
+M 100 46025 8 46011 1
+M 100 46022 1 46012 1
+M 100 46015 30 46013 1
+M 100 46021 1 46013 1
+M 100 46018 6 46014 1
+M 100 46018 6 46015 1
+M 100 46015 30 46016 1
+M 100 46015 30 46017 1
+M 100 46015 30 46018 1
+M 100 46015 30 46019 1
+M 100 46018 6 46019 1
+M 100 46015 30 46020 1
+M 100 46018 6 46020 1
+M 100 46015 30 46021 1
+M 100 46018 6 46021 1
+M 100 46015 30 46022 1
+M 100 46018 6 46022 1
+M 100 46015 30 46023 1
+M 100 46015 30 46024 1
+M 100 46015 30 46025 1
+M 100 46015 30 46025 1
+M 100 46015 30 46025 1
+M 100 46017 4 46025 1
+M 100 46015 30 46026 1
+M 100 46015 30 46026 1
+M 100 46017 4 46026 1
+M 100 46015 30 46028 1
+M 100 46017 4 46028 1
+M 100 46017 4 46029 1
+M 100 46002 15 46030 1
+M 100 46002 15 46031 1
+M 100 46002 15 46032 1
+M 100 46002 15 46033 1
+M 100 46002 15 46034 1
+M 100 46002 15 46035 1
+M 100 46002 15 46036 1
+M 100 46002 15 46037 1
+M 100 46002 15 46038 1
+M 100 46002 15 46039 1
+M 100 46002 15 46041 1
+M 100 46002 15 46043 1
+M 100 46002 15 46044 1
+M 100 46002 15 46047 1
+M 100 46003 1 46048 1
+M 100 46002 15 46049 1
+M 100 46002 15 46050 1
+M 100 46002 15 46051 1
+M 100 46001 1 46055 1
+E 100 46006 0 5
+M 100 46024 1 46074 1
+E 100 46002 0 20
+M 100 46023 1 46075 1
+M 100 46014 5 46079 1
+S
+
+#SHOPS
+46000 0 0 0 0 0 110 90 0 23
+46008 0 0 0 0 0 110 90 0 23
+46026 0 0 0 0 0 110 90 0 23
+46027 0 0 0 0 0 110 90 0 23
+0
+
+#$

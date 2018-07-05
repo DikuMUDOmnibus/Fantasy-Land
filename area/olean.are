@@ -1,0 +1,1874 @@
+#AOD_AREA
+Olean Forest~
+47000 47299 0 9
+Levl 50 85
+Bldr Zap~
+Alig E
+End
+
+#MOBILES
+#47000
+vulture~
+The {cVulture{x~
+A {cVulture{x swoops down from the trees.  
+~
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFT T 0 -500 0
+25 15 0 416 485 442 486 1 1 12 peck
+-21 -19 -25 -19
+STANDING STANDING neutral 263
+0 mage medium ACDEFHKP
+
+#47001
+harry black spider~
+The {ySpider{x~
+A Large {charry {ySpider{x springs from the thickets.  
+~
+~
+centipede~
+100 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 
+AFGT Z 0 -350 0
+27 14 0 562 673 587 661 2 2 21 bite
+-21 -31 -32 -35
+STANDING STANDING male 280
+0 mage medium ACK
+P 16 0
+
+#47002
+lizard~
+The {mLizard{x~
+A {cGiant {mLizard{x struts down the trail.  
+~
+~
+lizard~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+AGT 0 0 -100 0
+30 29 0 827 953 885 978 3 2 21 bite
+-46 -36 -46 -39
+STANDING STANDING male 423
+0 mage medium ACDEFHKQV
+P 21 0
+
+#47003
+old traveler~
+The {DOld {rTraveler{x~
+An {DOld {rTraveler{x wanders down the path. 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGS V 0 300 0
+32 31 0 1073 1151 1003 1197 3 4 25 punch
+-43 -50 -37 -50
+STANDING STANDING male 535
+0 mage medium ABCDEFGHIJK
+P 12 0
+
+#47004
+elven elf mage old man~
+The {2elven {4mage{)~
+An {DOld {gElf{x, Dressed in a robe, is standing here.
+~
+~
+elf~
+100 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABR DFJVc 0 -700 0
+35 41 0 1336 1370 1270 1476 4 4 42 magic
+-65 -56 -74 -49
+STANDING STANDING male 844
+0 mage medium ABCDEFGHIJK
+P 1 0
+M BRIBE 47005 50000~
+M GRALL 47004 100~
+
+#47005
+bigfoot harry man ~
+{yBigfoot{x~
+A Large {gHarry {mMan{x is lumbering through the thickets. 
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGT 0 0 200 0
+37 34 0 1519 1565 1381 1535 4 5 39 claw
+-51 -84 -82 -69
+STANDING STANDING male 865
+0 mage large ABCDEFGHIJK
+P 3 0
+
+#47006
+hideous beast~
+The {BHideous {rBeast{x~
+A {BHideous{x looking {rBeast{x stares right at YOU!
+~
+~
+human~
+100 100 50 100 0 100 0 100 100 100 150 150 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFRST JTZ O -800 0
+37 37 0 1470 1558 1490 1611 4 4 34 smash
+-61 -54 -83 -82
+STANDING STANDING neutral 986
+0 mage huge ABCDEFGHIJK
+P 1 0
+M GRALL 47007 100~
+M DEATH 47006 100~
+#0
+
+#OBJECTS
+#47000
+spider shell~
+{YSpiders {BShell{x~
+A shell from a spider lies here. ~
+armor AXY AE
+10 10 10 6 0
+25 8 2400
+A 13 70
+A 5 3
+
+#47001
+lizard tooth~
+{gLizards {DTooth{x~
+A tooth from a lizard lies on the ground~
+armor ABX AC
+10 10 10 6 0
+25 4 5400
+A 3 2
+A 12 100
+A 4 3
+
+#47002
+portal crystal globe~
+{gCrystal {CGlobe{x~
+A globe made entirely out of crystal is in one corner.~
+portal ABX A
+1 0 0 0 0
+1 20 7800
+
+#47003
+sabre sword~
+{YSabre {bSword{x~
+A shiny sword lies here~
+weapon ABX AN
+sword 12 11 slash DE
+35 20 7200
+A 2 2
+A 19 10
+A 18 10
+#0
+
+#ROOMS
+#47000
+A {gTrail{x {rthrough {cOlean {GForest{x~
+This is the entrence to Olean Forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  The trail is a muddy
+mess, footprints of past travelers and rain have combined to destroy any
+chance of walking at a fast pace.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47001
+D2
+~
+~
+0 0 4025
+S
+
+#47001
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  The trees rise into the sky at
+an un believeable height, and branch out, forming a canopy that does not
+allow alot of light through, making it hard to see, even during light hours.
+The path leads North and South.  
+~
+0 0
+D0
+~
+~
+0 0 47002
+D2
+~
+~
+0 0 47000
+S
+
+#47002
+A {MCrossroad {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trail is a muddy mess,
+footprints of past travelers and rain have combined to destroy any chance of
+walking at a fast pace.  Bright red eyes peer from out of the darkness,
+glowing like a red fire, then, as soon as they appeared, they dissapear
+again.  The path T's off, leading North, West, and South.  
+~
+0 3
+D0
+~
+~
+0 0 47004
+D2
+~
+~
+0 0 47001
+D3
+~
+~
+0 0 47003
+S
+
+#47003
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  The trees rise into the
+sky at an un believeable height, and branch out, forming a canopy that does
+not allow alot of light through, making it hard to see, even during light
+hours.  The path leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47002
+D3
+~
+~
+0 0 47023
+S
+
+#47004
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours. 
+Bright red eyes peer from out of the darkness, glowing like a red fire,
+then, as soon as they appeared, they dissapear again.  The path leads East
+and South.  
+~
+0 3
+D1
+~
+~
+0 0 47005
+D2
+~
+~
+0 0 47002
+S
+
+#47005
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Bright red eyes peer from out of
+the darkness, glowing like a red fire, then, as soon as they appeared, they
+dissapear again.  Underbrush and large vines cover both sides of the trail,
+preventing anything larger than a mouse from leaving the path.  The path
+leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47006
+D3
+~
+~
+0 0 47004
+S
+
+#47006
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  The trail is a muddy mess, footprints of past
+travelers and rain have combined to destroy any chance of walking at a fast
+pace.  The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47007
+D3
+~
+~
+0 0 47005
+S
+
+#47007
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  Underbrush and large vines cover both sides
+of the trail, preventing anything larger than a mouse from leaving the path.
+The path leads North and South.  
+~
+0 0
+D0
+~
+~
+0 0 47008
+D2
+~
+~
+0 0 47006
+S
+
+#47008
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  Underbrush and large vines cover
+both sides of the trail, preventing anything larger than a mouse from
+leaving the path.  The path leads East and South.  
+~
+0 3
+D1
+~
+~
+0 0 47009
+D2
+~
+~
+0 0 47007
+S
+
+#47009
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  Huge spiderwebs fill the
+backdrop of the forest.  Cocoons, some reaching twelve feet in length hang
+from the webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The path leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47010
+D3
+~
+~
+0 0 47008
+S
+
+#47010
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  The trail is a muddy mess,
+footprints of past travelers and rain have combined to destroy any chance of
+walking at a fast pace.  The path leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47011
+D3
+~
+~
+0 0 47009
+S
+
+#47011
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  Leaves of all colors slowly descend from the
+trees, almost like a golden rain.  The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47012
+D3
+~
+~
+0 0 47010
+S
+
+#47012
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  Huge spiderwebs fill the backdrop of the
+forest.  Cocoons, some reaching twelve feet in length hang from the webs,
+the occasional twitch from inside the cocoon shows the recent additions to
+the collection.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47013
+D2
+~
+~
+0 0 47011
+S
+
+#47013
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The trail is a muddy mess,
+footprints of past travelers and rain have combined to destroy any chance of
+walking at a fast pace.  Bright red eyes peer from out of the darkness,
+glowing like a red fire, then, as soon as they appeared, they dissapear
+again.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47014
+D2
+~
+~
+0 0 47012
+S
+
+#47014
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  Huge spiderwebs fill the
+backdrop of the forest.  Cocoons, some reaching twelve feet in length hang
+from the webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47015
+D2
+~
+~
+0 0 47013
+S
+
+#47015
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  The trees rise into the
+sky at an un believeable height, and branch out, forming a canopy that does
+not allow alot of light through, making it hard to see, even during light
+hours.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47016
+D2
+~
+~
+0 0 47014
+S
+
+#47016
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  The trail is a muddy mess, footprints of past
+travelers and rain have combined to destroy any chance of walking at a fast
+pace.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47017
+D2
+~
+~
+0 0 47015
+S
+
+#47017
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  The trees rise into the
+sky at an un believeable height, and branch out, forming a canopy that does
+not allow alot of light through, making it hard to see, even during light
+hours.  The path leads East and South.  
+~
+0 3
+D1
+~
+~
+0 0 47018
+D2
+~
+~
+0 0 47016
+S
+
+#47018
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours.  Huge
+spiderwebs fill the backdrop of the forest.  Cocoons, some reaching twelve
+feet in length hang from the webs, the occasional twitch from inside the
+cocoon shows the recent additions to the collection.  The path leads East
+and West.  
+~
+0 3
+D1
+~
+~
+0 0 47019
+D3
+~
+~
+0 0 47017
+S
+
+#47019
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Underbrush and large vines cover
+both sides of the trail, preventing anything larger than a mouse from
+leaving the path.  The sounds of birds and other forest creatures are
+drowned out by a horrid screeching made by an animal, or possibly a person,
+off in the distance.  The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47020
+D3
+~
+~
+0 0 47018
+S
+
+#47020
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The sounds of birds and other forest creatures
+are drowned out by a horrid screeching made by an animal, or possibly a
+person, off in the distance.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47021
+D2
+~
+~
+0 0 47019
+S
+
+#47021
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trail is a muddy mess,
+footprints of past travelers and rain have combined to destroy any chance of
+walking at a fast pace.  Large Vultures fly high above, just below the
+canopy of trees, soaring, just waiting for the opportunity to dive down and
+grab up a meal.  The path leads East and South.  
+~
+0 3
+D1
+~
+~
+0 0 47022
+D2
+~
+~
+0 0 47020
+S
+
+#47022
+A {CDead end {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The sounds of birds and
+other forest creatures are drowned out by a horrid screeching made
+by an animal, or possibly a person, off in the distance.  Bright
+red eyes peer from out of the darkness, glowing like a red fire,
+then, as soon as they appeared, they dissapear again.  The trail
+comes to an end here.  A strange keep of some sort is visible to
+the east away from the forest.  
+~
+0 3
+D1
+~
+~
+0 0 66300
+D3
+~
+~
+0 0 47021
+S
+
+#47023
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours.  Huge
+spiderwebs fill the backdrop of the forest.  Cocoons, some reaching twelve
+feet in length hang from the webs, the occasional twitch from inside the
+cocoon shows the recent additions to the collection.  The path leads South
+and East.  
+~
+0 3
+D0
+~
+~
+0 0 47024
+D1
+~
+~
+0 0 47003
+S
+
+#47024
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  Bright red eyes peer from out of the darkness,
+glowing like a red fire, then, as soon as they appeared, they dissapear
+again.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47025
+D2
+~
+~
+0 0 47023
+S
+
+#47025
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours. 
+Bright red eyes peer from out of the darkness, glowing like a red fire,
+then, as soon as they appeared, they dissapear again.  The path leads South
+and West.  
+~
+0 3
+D2
+~
+~
+0 0 47024
+D3
+~
+~
+0 0 47026
+S
+
+#47026
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  Underbrush and large vines cover
+both sides of the trail, preventing anything larger than a mouse from
+leaving the path.  The path leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47025
+D3
+~
+~
+0 0 47027
+S
+
+#47027
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  Bright red eyes peer
+from out of the darkness, glowing like a red fire, then, as soon as they
+appeared, they dissapear again.  The path leads South and East.  
+~
+0 3
+D0
+~
+~
+0 0 47028
+D1
+~
+~
+0 0 47026
+S
+
+#47028
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  The trail is a muddy
+mess, footprints of past travelers and rain have combined to destroy any
+chance of walking at a fast pace.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47029
+D2
+~
+~
+0 0 47027
+S
+
+#47029
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours. 
+Underbrush and large vines cover both sides of the trail, preventing
+anything larger than a mouse from leaving the path.  The path leads North
+and South.  
+~
+0 3
+D0
+~
+~
+0 0 47030
+D2
+~
+~
+0 0 47028
+S
+
+#47030
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours.  Huge
+spiderwebs fill the backdrop of the forest.  Cocoons, some reaching twelve
+feet in length hang from the webs, the occasional twitch from inside the
+cocoon shows the recent additions to the collection.  The path leads East
+and South.  
+~
+0 3
+D1
+~
+~
+0 0 47031
+D2
+~
+~
+0 0 47029
+S
+
+#47031
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The trail is a muddy mess, footprints of past
+travelers and rain have combined to destroy any chance of walking at a fast
+pace.  The path leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47032
+D3
+~
+~
+0 0 47030
+S
+
+#47032
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  Bright red eyes peer from out of
+the darkness, glowing like a red fire, then, as soon as they appeared, they
+dissapear again.  The path leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47033
+D3
+~
+~
+0 0 47031
+S
+
+#47033
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trail is a muddy mess,
+footprints of past travelers and rain have combined to destroy any chance of
+walking at a fast pace.  Bright red eyes peer from out of the darkness,
+glowing like a red fire, then, as soon as they appeared, they dissapear
+again.  The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47034
+D3
+~
+~
+0 0 47032
+S
+
+#47034
+A {MCrossroad {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trail is a muddy mess,
+footprints of past travelers and rain have combined to destroy any chance of
+walking at a fast pace.  The trees rise into the sky at an un believeable
+height, and branch out, forming a canopy that does not allow alot of light
+through, making it hard to see, even during light hours.  Underbrush and
+large vines cover both sides of the trail, preventing anything larger than a
+mouse from leaving the path.  The path T's off, leading North, East, and
+South.  
+~
+0 3
+D0
+~
+~
+0 0 47035
+D1
+~
+~
+0 0 47057
+D2
+~
+~
+0 0 47033
+S
+
+#47035
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  Leaves of all colors slowly descend from the
+trees, almost like a golden rain.  The path leads South and West.  
+~
+0 3
+D2
+~
+~
+0 0 47034
+D3
+~
+~
+0 0 47036
+S
+
+#47036
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  The sounds of birds and
+other forest creatures are drowned out by a horrid screeching made by an
+animal, or possibly a person, off in the distance.  The path leads South and
+East.  
+~
+0 3
+D0
+~
+~
+0 0 47037
+D1
+~
+~
+0 0 47035
+S
+
+#47037
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Bright red eyes peer from out of
+the darkness, glowing like a red fire, then, as soon as they appeared, they
+dissapear again.  Underbrush and large vines cover both sides of the trail,
+preventing anything larger than a mouse from leaving the path.  The path
+leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47038
+D2
+~
+~
+0 0 47036
+S
+
+#47038
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  Underbrush and large vines cover both sides
+of the trail, preventing anything larger than a mouse from leaving the path.
+The path leads South and West.  
+~
+0 3
+D2
+~
+~
+0 0 47037
+D3
+~
+~
+0 0 47039
+S
+
+#47039
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  The path leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47038
+D3
+~
+~
+0 0 47040
+S
+
+#47040
+A {MCrossroad {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  Bright red eyes peer from out of the darkness,
+glowing like a red fire, then, as soon as they appeared, they dissapear
+again.  The path T's off, leading North, East, and West.  
+~
+0 3
+D0
+~
+~
+0 0 47043
+D1
+~
+~
+0 0 47039
+D3
+~
+~
+0 0 47041
+S
+
+#47041
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  Leaves of all colors slowly descend from the
+trees, almost like a golden rain.  The path leads East and South.  
+~
+0 3
+D1
+~
+~
+0 0 47040
+D2
+~
+~
+0 0 47042
+S
+
+#47042
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  Leaves of all colors slowly descend from the
+trees, almost like a golden rain.  The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47041
+D3
+~
+~
+0 0 47050
+S
+
+#47043
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The sounds of birds and other forest creatures
+are drowned out by a horrid screeching made by an animal, or possibly a
+person, off in the distance.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47044
+D2
+~
+~
+0 0 47040
+S
+
+#47044
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  Bright red eyes peer from out of the
+darkness, glowing like a red fire, then, as soon as they appeared, they
+dissapear again.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47045
+D2
+~
+~
+0 0 47043
+S
+
+#47045
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours.  The
+trail is a muddy mess, footprints of past travelers and rain have combined
+to destroy any chance of walking at a fast pace.  The path leads East and
+South.  
+~
+0 3
+D1
+~
+~
+0 0 47046
+D2
+~
+~
+0 0 47044
+S
+
+#47046
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours.  The
+trail is a muddy mess, footprints of past travelers and rain have combined
+to destroy any chance of walking at a fast pace.  The path leads East and
+West.  
+~
+0 3
+D1
+~
+~
+0 0 47047
+D3
+~
+~
+0 0 47045
+S
+
+#47047
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Underbrush and large vines cover
+both sides of the trail, preventing anything larger than a mouse from
+leaving the path.  Leaves of all colors slowly descend from the trees,
+almost like a golden rain.  The path leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47048
+D3
+~
+~
+0 0 47046
+S
+
+#47048
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  Bright red eyes peer
+from out of the darkness, glowing like a red fire, then, as soon as they
+appeared, they dissapear again.  The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47049
+D3
+~
+~
+0 0 47047
+S
+
+#47049
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  Underbrush and large vines cover
+both sides of the trail, preventing anything larger than a mouse from
+leaving the path.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47073
+D2
+~
+~
+0 0 47048
+S
+
+#47050
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  The path leads East and South.  
+~
+0 3
+D1
+~
+~
+0 0 47042
+D2
+~
+~
+0 0 47051
+S
+
+#47051
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours.  Huge
+spiderwebs fill the backdrop of the forest.  Cocoons, some reaching twelve
+feet in length hang from the webs, the occasional twitch from inside the
+cocoon shows the recent additions to the collection.  The path leads North
+and South.  
+~
+0 3
+D0
+~
+~
+0 0 47050
+D2
+~
+~
+0 0 47052
+S
+
+#47052
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours.  The
+sounds of birds and other forest creatures are drowned out by a horrid
+screeching made by an animal, or possibly a person, off in the distance. 
+The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47051
+D3
+~
+~
+0 0 47053
+S
+
+#47053
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  The trail is a muddy
+mess, footprints of past travelers and rain have combined to destroy any
+chance of walking at a fast pace.  The path leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47052
+D3
+~
+~
+0 0 47054
+S
+
+#47054
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours. 
+Underbrush and large vines cover both sides of the trail, preventing
+anything larger than a mouse from leaving the path.  The path leads South
+and East.  
+~
+0 3
+D0
+~
+~
+0 0 47055
+D1
+~
+~
+0 0 47053
+S
+
+#47055
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The trail is a muddy mess,
+footprints of past travelers and rain have combined to destroy any chance of
+walking at a fast pace.  Underbrush and large vines cover both sides of the
+trail, preventing anything larger than a mouse from leaving the path.  The
+path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47056
+D2
+~
+~
+0 0 47054
+S
+
+#47056
+A {CDead end {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trees rise into the sky at an
+un believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours. 
+Leaves of all colors slowly descend from the trees, almost like a golden
+rain.  The trail comes to an end here.  
+~
+0 3
+D2
+~
+~
+0 0 47055
+S
+
+#47057
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  Bright red eyes peer
+from out of the darkness, glowing like a red fire, then, as soon as they
+appeared, they dissapear again.  The path leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47058
+D3
+~
+~
+0 0 47034
+S
+
+#47058
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  Underbrush and large vines cover both sides
+of the trail, preventing anything larger than a mouse from leaving the path.
+The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47059
+D3
+~
+~
+0 0 47057
+S
+
+#47059
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  The sounds of birds and other forest
+creatures are drowned out by a horrid screeching made by an animal, or
+possibly a person, off in the distance.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47060
+D2
+~
+~
+0 0 47058
+S
+
+#47060
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  The trail is a muddy
+mess, footprints of past travelers and rain have combined to destroy any
+chance of walking at a fast pace.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47061
+D2
+~
+~
+0 0 47059
+S
+
+#47061
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The trail is a muddy mess, footprints of past
+travelers and rain have combined to destroy any chance of walking at a fast
+pace.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47062
+D2
+~
+~
+0 0 47060
+S
+
+#47062
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  The sounds of birds and
+other forest creatures are drowned out by a horrid screeching made by an
+animal, or possibly a person, off in the distance.  The path leads East and
+South.  
+~
+0 3
+D1
+~
+~
+0 0 47063
+D2
+~
+~
+0 0 47061
+S
+
+#47063
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The sounds of birds and other forest creatures
+are drowned out by a horrid screeching made by an animal, or possibly a
+person, off in the distance.  The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47064
+D3
+~
+~
+0 0 47062
+S
+
+#47064
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  Huge spiderwebs fill the
+backdrop of the forest.  Cocoons, some reaching twelve feet in length hang
+from the webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47065
+D2
+~
+~
+0 0 47063
+S
+
+#47065
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  Underbrush and large vines cover
+both sides of the trail, preventing anything larger than a mouse from
+leaving the path.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47066
+D2
+~
+~
+0 0 47064
+E
+sign~
+{x
+             {G*********************************{x
+             {G*                               *{x
+             {G*     {CThis area was built{G       *{x
+             {G*             {CBy     {G           *{x
+             {G*           {RRANDOR     {G         *{x
+             {G*             {Cfor        {G       *{x
+             {G*         {YPhionex Mud      {G     *{x
+             {G*                               *{x
+             {G*           {M5-21-99    {G         *{x
+             {G*                               *{x
+             {G*********************************{x
+ 
+~
+S
+
+#47066
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trail is a muddy mess,
+footprints of past travelers and rain have combined to destroy any chance of
+walking at a fast pace.  Bright red eyes peer from out of the darkness,
+glowing like a red fire, then, as soon as they appeared, they dissapear
+again.  The path leads East and South.  
+~
+0 3
+D0
+~
+~
+AB 0 47067
+D1
+~
+~
+0 0 47068
+D2
+~
+~
+0 0 47065
+S
+
+#47067
+An {DOld {cShack{x in the {gForest{x~
+This is an old broken down shack in the forest.  Dust covers everything
+in here, pictures of the most hideous beast ever seen hangs from the walls. 
+A large iron pot sits in the middle of the room, boiling and bubbling a
+bright green liquid.  Every step taken vibrates the floors and walls,
+bringing the shack closer to point of colapsing in on itself.  
+~
+8200 0
+D2
+~
+~
+AB 0 47066
+S
+
+#47068
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The trail is a muddy mess,
+footprints of past travelers and rain have combined to destroy any chance of
+walking at a fast pace.  The trees rise into the sky at an un believeable
+height, and branch out, forming a canopy that does not allow alot of light
+through, making it hard to see, even during light hours.  The path leads
+East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47069
+D3
+~
+~
+0 0 47066
+S
+
+#47069
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  Huge spiderwebs fill the
+backdrop of the forest.  Cocoons, some reaching twelve feet in length hang
+from the webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The path leads East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47070
+D3
+~
+~
+0 0 47068
+S
+
+#47070
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  Bright red eyes peer from out of the darkness,
+glowing like a red fire, then, as soon as they appeared, they dissapear
+again.  The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47071
+D3
+~
+~
+0 0 47069
+S
+
+#47071
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  Large Vultures fly high above, just below the
+canopy of trees, soaring, just waiting for the opportunity to dive down and
+grab up a meal.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47072
+D2
+~
+~
+0 0 47070
+S
+
+#47072
+A {CDead end {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The trail is a muddy mess,
+footprints of past travelers and rain have combined to destroy any chance of
+walking at a fast pace.  The sounds of birds and other forest creatures are
+drowned out by a horrid screeching made by an animal, or possibly a person,
+off in the distance.  The trail comes to an end here.  
+~
+0 3
+D2
+~
+~
+0 0 47071
+S
+
+#47073
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  Huge spiderwebs fill the
+backdrop of the forest.  Cocoons, some reaching twelve feet in length hang
+from the webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47074
+D2
+~
+~
+0 0 47049
+S
+
+#47074
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  The trail is a muddy
+mess, footprints of past travelers and rain have combined to destroy any
+chance of walking at a fast pace.  The path leads East and South.  
+~
+0 3
+D1
+~
+~
+0 0 47075
+D2
+~
+~
+0 0 47073
+S
+
+#47075
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Leaves of all colors slowly
+descend from the trees, almost like a golden rain.  The trees rise into the
+sky at an un believeable height, and branch out, forming a canopy that does
+not allow alot of light through, making it hard to see, even during light
+hours.  Bright red eyes peer from out of the darkness, glowing like a red
+fire, then, as soon as they appeared, they dissapear again.  The path leads
+East and West.  
+~
+0 3
+D1
+~
+~
+0 0 47076
+D3
+~
+~
+0 0 47074
+S
+
+#47076
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  Bright red eyes peer from out of
+the darkness, glowing like a red fire, then, as soon as they appeared, they
+dissapear again.  The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47077
+D3
+~
+~
+0 0 47075
+S
+
+#47077
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  Huge spiderwebs fill the
+backdrop of the forest.  Cocoons, some reaching twelve feet in length hang
+from the webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47078
+D2
+~
+~
+0 0 47076
+S
+
+#47078
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  The sounds of birds and other
+forest creatures are drowned out by a horrid screeching made by an animal,
+or possibly a person, off in the distance.  The trees rise into the sky at
+an un believeable height, and branch out, forming a canopy that does not
+allow alot of light through, making it hard to see, even during light hours.
+The path leads East and South.  
+~
+0 3
+D1
+~
+~
+0 0 47079
+D2
+~
+~
+0 0 47077
+S
+
+#47079
+A {Bbend {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The sounds of birds and other forest creatures
+are drowned out by a horrid screeching made by an animal, or possibly a
+person, off in the distance.  The path leads North and West.  
+~
+0 3
+D0
+~
+~
+0 0 47080
+D3
+~
+~
+0 0 47078
+S
+
+#47080
+A {gTrail{x {rthrough {cOlean {GForest{x~
+Your on a trail through Olean forest.  Large Vultures fly high above,
+just below the canopy of trees, soaring, just waiting for the opportunity to
+dive down and grab up a meal.  Leaves of all colors slowly descend from the
+trees, almost like a golden rain.  The path leads North and South.  
+~
+0 3
+D0
+~
+~
+0 0 47081
+D2
+~
+~
+0 0 47079
+S
+
+#47081
+A {CDead end {yin {rthe {gTrail{x~
+Your on a trail through Olean forest.  Huge spiderwebs fill the backdrop
+of the forest.  Cocoons, some reaching twelve feet in length hang from the
+webs, the occasional twitch from inside the cocoon shows the recent
+additions to the collection.  The trees rise into the sky at an un
+believeable height, and branch out, forming a canopy that does not allow
+alot of light through, making it hard to see, even during light hours.  The
+trail comes to an end here.  
+~
+0 3
+D2
+~
+~
+0 0 47080
+S
+
+#47082
+A {DDark Corridor{x~
+This room is too dark, even with a light source, it is only possible to
+see shadows.  To the north is a faint view of a room.  
+~
+8201 0
+D0
+~
+~
+0 0 47083
+S
+
+#47083
+A {DDark Room{x~
+This is a dark room, even with a light source, it is still almost
+impossible to see anything.  The sounds of dripping water echos throughout
+the room.  South seems to be the only exit from here.  
+~
+8201 0
+D2
+~
+~
+0 0 47082
+D4
+~
+~
+AB 0 47066
+S
+#0
+
+#SPECIALS
+M 47002 spec_poison
+M 47003 spec_thief
+M 47004 spec_cast_mage
+M 47005 spec_nasty
+M 47006 spec_breath_acid
+S
+
+#RESETS
+D 100 47066 0 1
+D 100 47067 2 1
+D 100 47083 4 1
+M 100 47002 6 47002 6
+M 100 47002 6 47009 6
+M 100 47001 6 47012 6
+M 100 47003 6 47014 6
+M 100 47002 6 47016 6
+M 100 47001 6 47019 6
+E 100 47000 0 6
+M 100 47003 6 47028 6
+G 100 47002 0
+M 100 47001 6 47030 6
+E 100 47000 0 6
+M 100 47003 6 47034 6
+M 100 47002 6 47035 6
+M 100 47001 6 47041 6
+E 100 47000 0 6
+M 100 47003 6 47048 6
+M 100 47002 6 47053 6
+M 100 47003 6 47056 6
+G 100 47002 0
+M 100 47001 6 47061 6
+E 100 47000 0 6
+M 100 47003 6 47064 6
+M 100 47004 1 47067 1
+M 100 47001 6 47073 6
+M 100 47005 1 47081 1
+M 100 47006 1 47083 1
+E 100 47003 0 16
+S
+
+#MOBPROGS
+#47004
+Unknown~
+Unknown~
+say Welcome to my humble abode.
+say for a small fee of 500 gold, i have a SPECIAL gift for you, $n.
+break
+~
+
+#47005
+Unknown~
+Unknown~
+say AHH, yes, well, it is carried by my pet, 
+say if you can defeat him, it is yours.
+say i will send you to him, go north to battle.
+mob transfer $n 47082
+break
+~
+
+#47006
+Unknown~
+Unknown~
+say AHH!! you have defeated me!!
+say here is the special present, now LEAVE me to parish!
+remove sword
+give $n sword
+mob transfer $n 47067
+break
+~
+
+#47007
+Unknown~
+Unknown~
+mob zecho {RPREPARE TO DIE $n!!!!!!{x
+break
+~
+#0
+
+#$

@@ -1,0 +1,229 @@
+#AOD_AREA
+Straighthaven ~
+100 199 C 1
+Levl 0 20
+Bldr Rzarecta~
+End
+
+#MOBILES
+#101
+healer man~
+A healer~
+A healer stands here smiling at your arrival.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BDVZa 0 0 0 0
+110 110 0 20000 30000 10000 11000 500 100 100 none
+-200 -200 -200 -200
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#102
+paladin man~
+The helper~
+A paladin stands here ready to help you.
+~
+~
+elf~
+100 155 25 100 100 100 100 100 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 
+BDJKLV DF 0 0 0
+110 0 0 10000 30000 0 0 500 100 450 none
+-300 -300 -300 -300
+STANDING STANDING neutral 0
+0 warrior medium ABCDEFGHIJK
+M GRALL 102 100~
+
+#103
+elven merchant~
+An elven merchant~
+An elven merchant stands here seeking your business.
+~
+~
+elf~
+100 155 25 100 100 100 100 100 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 
+BDL DF 0 0 0
+0 0 0 20000 30000 0 0 500 10 100 none
+-300 -300 -300 -300
+STANDING STANDING neutral 100000000
+0 mage medium ABCDEFGHIJK
+M GRALL 103 100~
+#0
+
+#OBJECTS
+#101
+curved knife blade dagger~
+A curved dagger~
+A small knife with a strangely curved blade lies here.~
+weapon 0 AN
+dagger 2 5 stab 0
+5 3 455
+#0
+
+#ROOMS
+#100
+The Room~
+The planning room
+~
+0 0
+S
+
+#101
+A holy rune~
+Four giant pillars stand in each corner of this trail.  A large
+altar made of marble stone stands in the middle of the trail. 
+Four tall torches inside a large glass stand around the altar.
+A strange stone embedded encryption of holiness is made on the
+ground before the altar.  The trail carries north and south here.
+
+~
+0 0
+D0
+~
+~
+0 0 102
+D2
+~
+~
+0 0 107
+S
+
+#102
+A trail north and south~
+At this trail are tall statues of great heros from the former Aadaria.
+Small flames are surrounded alongside the trails inside small sand-filled
+vases.  The ground is strangely made with marble.  To the north
+the trail lingers while to the south the trail that way makes a
+slight descent.  
+~
+0 0
+D0
+~
+~
+0 0 103
+D2
+~
+~
+0 0 101
+S
+
+#103
+A trail north and south~
+A large statue of a bearded man in an overworn cloak stands at
+the center of the trail here.  The open wide is seen to the left
+and to the right.  Distant hills can be seen to the north and south.
+All is open and quiet here.  
+~
+0 0
+D0
+~
+~
+0 0 104
+D2
+~
+~
+0 0 102
+S
+
+#104
+A trail north and south~
+The trail lingers on to the north and the south here.  A steady
+breeze flows about as the trail slightly climbs northward and southward
+almost in a slight bump.  
+~
+0 0
+D0
+~
+~
+0 0 105
+D2
+~
+~
+0 0 103
+S
+
+#105
+A trail north and south~
+As the trail southward makes a steadily climb, the path to the
+north again makes a slight descent.  The unusual essence of this
+long road going two ways makes it a bit mysterious.  The open wide
+that continues on to the north steadily becomes more visible as
+faint greeneries can be seen from afar.  
+~
+0 0
+D0
+~
+~
+0 0 106
+D2
+~
+~
+0 0 104
+S
+
+#106
+Before a strange gate to the north~
+A large gate about 25 feet high stands before you.  The strange
+enchanted creation of this gate looms.  The unusual nature of this
+gate is that it serves no purpose amongst a long road that goes
+north and south.  To the north the open wide begins to close as
+trees and shrubs of various dead leaves scatter.  More of the wider
+scenery is to the south where the straight path meanders up and
+down that way.  
+~
+0 0
+D2
+~
+~
+0 0 105
+S
+
+#107
+Before a strange gate to the south~
+A large gate about 25 feet high stands before you.  The strange
+enchanted creation of this gate looms.  The unusual nature of this
+gate is that it serves no purpose amongst a long road that goes
+north and south.  To the south the open wide makes a dip but the
+wide open is still visible that way.  
+~
+0 0
+D0
+~
+~
+0 0 101
+S
+#0
+
+#SPECIALS
+M 101 spec_cast_cleric
+S
+
+#RESETS
+M 100 101 1 101 1
+M 100 102 1 102 1
+M 100 103 1 103 1
+G 100 101 0
+S
+
+#SHOPS
+103 0 0 0 0 0 100 100 0 23
+0
+
+#MOBPROGS
+#102
+Rzarecta~
+~
+nod
+say I am here to help you train and practice.
+~
+
+#103
+Rzarecta~
+~
+emote walks up to you.
+say Hey take a look at some nice weapons that I'm selling here!
+~
+#0
+
+#$

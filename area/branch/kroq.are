@@ -1,0 +1,1839 @@
+#AREADATA
+Name Kroq~
+Builders None~
+VNUMs 81000 81099
+Credits [115 151] Hagar    Kroq~
+Security 9
+End
+
+
+
+#MOBILES
+#81000
+Ticket seller~
+ticket salesperson~
+There is a kid standing here selling tickets to the show.
+~
+~
+human~
+AB Vc 0 0 0
+154 50 1d1+99999 1d1+99 5d20+50 slap
+-200 -200 -200 -200
+EFIKMN ABCDEHILQ 0 C
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#81001
+Biker~
+the biker~
+There is a guy hanging onto his bike here.
+~
+This biker's waiting for his chance at the jump to show off his stuff.  
+~
+human~
+ABGS Vc H 100 0
+190 50 13d1768+7160 1d1+99 12d60+180 punch
+-77 -77 -77 -33
+FI GT 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#81002
+skater~
+the skater~
+A skater stands here with his skate board
+~
+The skater is standing here with piercings all over his face, he looks
+like some punk that you would not even give the time to.  I guess that is
+why you are thinking about killing him.  
+~
+human~
+AB Vac H -100 0
+190 0 13d1768+7160 1d1+99 12d60+180 punch
+-77 -77 -77 -33
+FIK GT 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#81003
+skater~
+the skater~
+A skater stands here with his skate board
+~
+The skater is standing here with piercings all over his face, he looks
+like some punk that you would not even give the time to.  I guess that is
+why you are thinking about killing him.  
+~
+human~
+AB Vac H -100 0
+190 0 13d1768+7160 1d1+99 12d60+180 punch
+-77 -77 -77 -33
+FIK GT 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#81004
+skater~
+the skater~
+A skater stands here with his skate board
+~
+The skater is standing here with piercings all over his face, he looks
+like some punk that you would not even give the time to.  I guess that is
+why you are thinking about killing him.  
+~
+human~
+AB Vac 0 -100 0
+190 0 13d1768+7160 1d1+99 12d60+180 punch
+-77 -77 -77 -33
+FIK GT 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#81005
+Biker~
+the biker~
+There is a guy hanging onto his bike here.
+~
+~
+human~
+ABGS Vc H 100 0
+190 50 13d1768+7160 1d1+99 12d60+180 punch
+-77 -77 -77 -33
+FI GT 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#81006
+salesman vendor food man~
+The salesman~
+There is a man here trying to sell you something.
+~
+A greasy sort of man, the food vendor is trying to make as much money as
+he can off of what he's selling.  His skills as a chef are in doubt though. 
+~
+human~
+AB 0 CDEH 0 0
+200 500 1d1+99999 1d1+49 50d50+50 none
+-100 -100 -100 -100
+0 ABCDELQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#81007
+fan kid~
+the fan~
+There is a kid wearing a KROQ shirt here.
+~
+The kid standing here is covered in zits.  He has a big nose and blonde
+hair.  Boy does this kid need help with life.  
+~
+human~
+A Vc HN 300 0
+150 25 13d1166+5190 2d50+50 6d25+75 beating
+-71 -71 -71 -40
+CFIK PT 0 S
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#81008
+female mosher~
+Female mosher~
+A female moshing about runs into you.
+~
+The mosher is wearing all black, her hair is black, her nails are black,
+and her lipstick and eyeshadow is black.  She is not your normal looking
+person.  
+ 
+ 
+~
+human~
+AB Vac HP -100 0
+185 0 13d1768+7160 1d1+99 12d60+180 charge
+-77 -77 -77 -33
+FIK GT 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#81009
+male mosher~
+male mosher~
+Some guy keeps bumping into you.
+~
+This is the oddest-looking guy you have ever seen.  He is covered in goth
+clothes and is wearing chains all about him that hurt as he slams into you. 
+~
+human~
+AB Vac HP -100 0
+185 0 13d1768+7160 1d1+99 12d60+180 charge
+-77 -77 -77 -33
+FIK GT 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#81010
+security goon~
+security goon~
+A very large goon is headed your way.
+~
+This big bruiser works security for the concert.  It's probably best not
+to mess with him.  He continues to scan around for troublemakers.  
+~
+human~
+ABF VZac H 500 0
+182 35 13d1768+7160 0d0+0 12d60+180 punch
+-90 -90 -90 -90
+EFIKOT ABT D 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#81011
+trent~
+Trent Reznor~
+Trent Reznor is up here on the stage.
+~
+The lead singer for Nine Inch Nails looks back at you impassively.  He
+has long, black hair and kinda goth clothes on.  He's also trying to sing so
+leave him alone.  
+~
+human~
+AB Vc EH 500 0
+182 100 13d1768+7160 1d1+99 12d60+180 divine
+-83 -83 -83 -35
+FIK E 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#81012
+TCM~
+TCM~
+TCM from Crystal Method is here.
+~
+~
+human~
+AB Vc H 500 0
+150 30 13d1166+5190 1d1+99 6d25+75 divine
+-83 -83 -83 -35
+FIK E 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#81013
+Scott~
+scott~
+Scott from Crystal Method is here.
+~
+~
+human~
+AB Vc H 500 0
+150 30 13d1166+5190 1d1+99 6d25+75 divine
+-83 -83 -83 -35
+FIK E 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#81014
+Ken~
+Ken~
+Ken from Crystal Method is here.
+~
+~
+human~
+AB Vc 0 500 0
+150 30 13d1166+5190 1d1+99 6d25+75 divine
+-83 -83 -83 -35
+FIK E 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#81015
+adam sandler~
+Adam Sandler~
+Adam Sandler looks at you and calls you names.
+~
+Adam Sandler is an annoying comedian, who, inexplicably, makes lots of
+money from being annoying.  Don't you just want to smash his face in?  
+~
+human~
+AB Vc H 500 0
+150 30 13d1166+5190 1d1+99 6d25+75 divine
+-83 -83 -83 -35
+FIK E 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#81016
+fan~
+the fan~
+There is a fan watching the show here.
+~
+Nodding his head in time to the music, this guy seems to be having a
+blast.  He's wearing a KROQ t-shirt and doing a little sway from side to
+side.  
+~
+human~
+AB Vc H 0 0
+150 40 13d1166+5190 2d50+50 6d25+75 none
+-90 -90 -90 -90
+FIK ET D 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#81017
+pot pothead kid stoner~
+The stoner~
+There is a kid here with a stoned look.
+~
+This kid has a kinda glazed, not-there look.  Looks like he's stoned out
+of his gourd.  
+~
+human~
+AF 0 CDE -800 0
+150 0 13d1166+5190 2d50+50 6d25+75 flbite
+-71 -71 -71 -30
+FIK H S I
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+#81018
+skinhead skin head guy~
+the skinhead~
+Some guy with a shaved head and chains is here.
+~
+This guy's a hardcore rocker, banging his head to the beat.  He seems to
+have shaved his head bald and has an earring in the shape of a skull in one
+ear.  He looks to be in his own little world.  
+~
+human~
+A 0 H -1000 0
+189 27 13d1768+7160 2d50+50 12d60+180 pound
+-76 -76 -76 -32
+0 KQ 0 P
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#81019
+snake handler~
+The snake handler~
+There is a guy here with a snake around his neck
+~
+Carrying around a pet boa constrictor, this guy looks like he's having a
+good time at the weenie roast.  
+~
+human~
+AF PVc H 500 0
+189 45 13d1768+7160 2d50+50 12d60+180 bite
+-77 -77 -77 -39
+0 0 D 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#81020
+bean~
+Bean~
+Bean is here looking for Kevin.
+~
+~
+human~
+ACR CDIV 0 -1000 0
+189 22 13d1768+7160 13d1768+7160 12d60+180 slash
+-17 -18 -19 -20
+ABDEFGIJ AB 0 0
+stand stand male 1850
+AHMV ABCDEFGHIJK medium unknown
+#81021
+Kevin~
+Kevin~
+Kevin is here looking for Bean
+~
+~
+human~
+ACR CDIV 0 -1000 0
+189 22 13d1768+7160 13d1768+7160 12d60+180 slash
+-17 -18 -19 -20
+ABDEFGIJ AB 0 0
+stand stand male 1850
+AHMV ABCDEFGHIJK medium unknown
+#81022
+richard~
+Richard Blade~
+Richard Blade is here going through the crowd.
+~
+~
+human~
+ACR CDIV 0 -1000 0
+189 22 13d1768+7160 13d1768+7160 12d60+180 slash
+-17 -18 -19 -20
+ABDEFGIJ AB 0 0
+stand stand male 1850
+AHMV ABCDEFGHIJK medium unknown
+#81050
+polar bear~
+the polar bear~
+There is a polar bear here.
+~
+~
+human~
+ABGS Vc 0 100 0
+190 50 13d1768+7160 1d1+99 12d60+180 punch
+-77 -77 -77 -33
+FI T 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#81000
+Ticket~
+a {5K{#R{$O{^Q{0 ticket.~
+There is a ticket to the {5K{#R{$O{^Q{0 weenie roast here.~
+unknown~
+key I AO
+0 0 0 0 0
+1 1 1000 P
+#81001
+helmet~
+skaters helmet~
+There is a helmet here.~
+metal~
+armor 0 AE
+20 20 20 15 0
+120 2 100 P
+A
+5 -4
+A
+19 5
+A
+18 10
+#81002
+knee pad~
+scuffed knee pads~
+A used pair of scuffed knee pads are here.~
+metal~
+armor 0 AF
+20 20 20 15 0
+120 2 100 P
+A
+2 -3
+A
+5 -4
+A
+19 5
+A
+18 10
+#81003
+can of coke~
+can of coke~
+There is a can of coke here.~
+unknown~
+drink 0 A
+1 1 'water' 0 0
+1 1 300 P
+#81004
+Tall cool beer~
+a tall cool one~
+There is a tall cool beer here.~
+unknown~
+drink 0 A
+1 1 'beer' 0 0
+1 1 400 P
+#81005
+dr pepper~
+a can of Dr Pepper~
+There is a can of Dr Pepper here.~
+unknown~
+drink 0 A
+1 1 'dr pepper' 1 0
+1 1 300 P
+#81006
+lemonade~
+glass of lemonade~
+There is a glass here.~
+unknown~
+drink 0 A
+1 1 'lemonade' 0 0
+1 1 300 P
+#81007
+hotdog~
+a hotdog~
+There is a hotdog here.~
+unknown~
+food 0 A
+10 10 0 0 0
+1 1 300 P
+#81008
+corn~
+corn on the cob~
+There is an ear of corn here.~
+unknown~
+food 0 A
+10 10 0 0 0
+1 1 300 P
+#81009
+Hamburger~
+a hamburger~
+There is a hamburger here.~
+unknown~
+food 0 A
+10 10 0 0 0
+1 1 300 P
+#81010
+bag of chips~
+bag of chips~
+There is a bag of chips.~
+unknown~
+food 0 A
+10 10 0 0 0
+1 1 300 P
+#81012
+night stick~
+black night stick~
+There is a stick laying on the ground.~
+metal~
+weapon A AN
+mace 10 20 pound A
+151 1 200 P
+#81013
+Kroq sticker~
+{!K{#R{^O{$Q{x sticker~
+There is a {!K{#R{^O{$Q{x sticker blowing in the wind~
+unknown~
+armor K AV
+15 15 15 15 0
+110 5 1500 P
+A
+13 20
+A
+12 100
+A
+18 5
+A
+20 -5
+#81014
+boa snake~
+a Giant Boa~
+There is a giant Boa slithering on the ground~
+unknown~
+armor AE AC
+16 16 16 16 0
+120 6 2000 P
+A
+20 -15
+A
+12 150
+A
+13 50
+#81015
+guitar fender-strat~
+a Black Fender-Strat~
+Trent Reznor's Guitar is here.~
+unknown~
+weapon AHQ AN
+axe 10 20 divine E
+105 7 5000 P
+#81016
+kiis sticker~
+{!KIIS {xsticker~
+There is a {!KIIS{x sticker laying on the ground~
+unknown~
+armor J AV
+15 15 15 15 0
+110 5 1500 P
+A
+13 20
+A
+12 100
+A
+18 5
+A
+20 -5
+A
+19 7
+#81017
+skull earring~
+skull earring~
+An earring that looks like a skull is here~
+unknown~
+armor CFQ AS
+20 20 20 20 0
+120 1 1000 P
+A
+12 100
+A
+13 100
+A
+18 8
+#81018
+dragon tatoo~
+a Dragon Tatoo~
+There is a stick-on tatoo on the ground~
+unknown~
+armor 0 AT
+20 20 20 20 0
+125 1 15000 P
+A
+13 50
+A
+18 13
+A
+19 13
+A
+20 -25
+#81050
+Mercury sword~
+mercury sword~
+Hagar's Mercury sword is here.~
+unknown~
+weapon 0 AN
+sword 10000 10000 slime ABDEGH
+155 1 0 P
+A
+13 5000
+A
+12 5000
+A
+18 300
+A
+19 300
+#0
+
+
+
+#ROOMS
+#81000
+End of line~
+You are standing at the end of the line to KROQ's weenie roast.  There
+are all kinds of people standing around you.  You have never seen so many
+people in one area in your life, but where people are comes trash.  The
+street is covered in trash.  There is also a sign here for you to read.  
+~
+0 4 1
+E
+sign~
+Welcome to Kroq's weenie roast.
+~
+D0
+~
+~
+0 0 81001
+S
+#81001
+Standing in line~
+You are standing a little farther down the line from where you started. 
+Behind you the line grows larger, yet does not seem to move in front of you.
+Where you stand now is just cluttered with trash.  It's really nasty here. 
+Half-eaten food just thrown on the ground.  You wonder how people could be
+so disgusting.  
+~
+0 0 1
+D0
+~
+~
+0 0 81002
+D2
+~
+~
+0 0 81000
+S
+#81002
+Standing in line~
+You are now a little farther down the line.  Still more and more people
+arrive to get in to see the show.  The trash on the ground is getting deeper
+and deeper.  The trash cans are flowing over.  You think that you can almost
+hear the bands tuning up.  You also think that you might be able to smell a
+bit of the stink weed in the air.  
+~
+0 8 1
+D0
+~
+~
+0 0 81003
+D2
+~
+~
+0 0 81001
+S
+#81003
+Standing in line~
+You can finally see the front of the line.  It is too bad that you are
+not there yet.  The sounds of the band tuning up are getting louder, and the
+smell of the stink weed is getting stronger.  You can no longer see the end
+of the line, for it is now around the corner.  From where you stand, you can
+see the ticket booth.  You just hope that you can get a ticket before they
+are all sold out.  
+~
+0 8 1
+D0
+~
+~
+0 0 81004
+D2
+~
+~
+0 0 81002
+S
+#81004
+Front of the line~
+YOU ARE NEXT!  You can not believe it.  After all the time waiting, you
+are actually next.  You can see a little booth in front of you.  Not too
+much of a booth, looks like one that they just put together for this one
+event.  You can't wait to get your ticket and get into the event.  
+~
+0 8 1
+D0
+~
+~
+0 0 81005
+D2
+~
+~
+0 0 81003
+S
+#81005
+Ticket booth~
+You are standing at the ticket booth.  There is a kid here selling the
+tickets to the show.  You can see there there are not many tickets left. 
+You think you got really lucky in managing to secure a ticket for yourself. 
+To the east is the gate you must pass through in order to get in.  
+~
+0 4 0
+E
+gate~
+You see a very tall gate with barbed wire on the top.
+~
+D1
+~
+~
+3 81000 81006
+D2
+~
+~
+0 0 81004
+S
+#81006
+Entrance gate~
+You are now standing inside the Irvin Meadows.  The place is full of
+people Everywhere you look there are people standing, walking, running, or
+sitting.  The Meadows themselves are rather nice, green grass with patches
+of dirt or trails of dirt worn through the grass.  Still, it is a rather
+nice-looking place.  Down the rolling hills to east, you can see the main
+stage.  
+~
+0 4 0
+D0
+~
+~
+0 0 81007
+D1
+~
+~
+0 0 81026
+D2
+~
+~
+0 0 81010
+D3
+~
+~
+3 0 81005
+S
+#81007
+Entrance gate~
+You are now standing inside the Irvin Meadows.  The place is full of
+people.  Everywhere you look there are people standing, walking, running, or
+sitting.  The Meadows themselves are rather nice, green grass with patches
+of dirt or trails of dirt worn through the grass.  Still, it is a rather
+nice looking place.  
+~
+0 4 0
+D0
+~
+~
+0 0 81008
+D1
+~
+~
+0 0 81019
+D2
+~
+~
+0 0 81006
+S
+#81008
+Along the fence~
+You are standing next to the fence surrounding the meadows.  The fence is
+very tall, with barbed wire running atop the whole length of it.  Someone
+trying to go over that fence would end up looking like they'd gotten into a
+fight with a blender and lost.  
+~
+0 0 0
+D0
+~
+~
+0 0 81009
+D2
+~
+~
+0 0 81007
+S
+#81009
+Along the fence~
+You are standing next to the fence surrounding the meadows.  The fence is
+very tall, with barbed wire running atop the whole length of it.  Someone
+trying to go over that fence would end up looking like they'd gotten into a
+fight with a blender and lost.  
+~
+0 0 0
+D0
+~
+~
+0 0 81016
+D2
+~
+~
+0 0 81008
+S
+#81010
+Along the fence~
+You are standing next to the fence surrounding the meadows.  The fence is
+very tall, with barbed wire running atop the whole length of it.  Someone
+trying to go over that fence would end up looking like they'd gotten into a
+fight with a blender and lost.  Back north is the entrance gate, further
+south, more fence.  
+~
+0 0 0
+D0
+~
+~
+0 0 81006
+D2
+~
+~
+0 0 81011
+S
+#81011
+Along the fence~
+You are standing next to the fence surrounding the meadows.  The fence is
+very tall, with barbed wire running atop the whole length of it.  Someone
+trying to go over that fence would end up looking like they'd gotten into a
+fight with a blender and lost.  The southwest corner of the Meadows is to
+the south while the fence trails back to the entrance gate to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 81010
+D2
+~
+~
+0 0 81012
+S
+#81012
+South-west corner~
+From where you stand, you can see what looks like two mounds of dirt. 
+There are also people standing to the east holding on to some bikes.  A
+stand has been consturcted and many people are sitting on it.  From where
+you stand it is hard to tell what is going on there, you might need to get a
+closer look.  
+~
+0 0 0
+D0
+~
+~
+0 0 81011
+D1
+~
+~
+0 0 81013
+S
+#81013
+Bike jump~
+You are standing at the entrance to the freestyle bike jumps.  Off to the
+east are two large mounds of dirt and a large dirt drop in.  The crowd is
+watching the riders do stunts.  They really seem to be into what is going
+on.  From where you stand you can see a banner but cant quite make it out. 
+You will have to move in order to read what it says.  
+~
+0 0 0
+D1
+~
+~
+0 0 81014
+D3
+~
+~
+0 0 81012
+S
+#81014
+Stands~
+You are standing in the stands between the two jumps.  You can see an
+announcement booth in front of you, and you are able to make out what the
+banner says.  The banner reads "X-Games Freestyle Qualifications" At this
+point you can see all of the action going on.  You can see a path to the
+east to get to where the jumpers wait for the score.  
+~
+0 4 0
+D1
+~
+~
+0 0 81015
+D3
+~
+~
+0 0 81013
+S
+#81015
+End of jumps~
+You're standing at the end of the bike jumps.  Many of the bikers wait
+here for their scores.  This place is off-limits to the public, but somehow
+you made it through and are mingling with the bikers who've finished their
+stunts.  You really should be heading out of this area so that you don't get
+kicked out of the Meadows and miss the whole concert.  
+~
+0 0 0
+D3
+~
+~
+0 0 81014
+S
+#81016
+North-west corner~
+From here, you can see a skateboard vert ramp.  You can only see the
+backside of it but you can tell it's definitely a vert ramp.  You can also
+see from here that the stands are pretty full.  On top of the ramp, you can
+barely make out some figures, probably skaters.  
+~
+0 0 0
+D1
+~
+~
+0 0 81017
+D2
+~
+~
+0 0 81009
+S
+#81017
+Vert ramp~
+You are standing in the shadow cast by the vert ramp.  There is a small
+fence here that herds you off to the stands.  There is nothing really here
+to see.  Just the back of the vert ramp.  Not too much joy there.  
+~
+0 4 0
+D1
+~
+~
+0 0 81018
+D3
+~
+~
+0 0 81016
+S
+#81018
+Stands~
+You are now in the stands facing the vert ramp.  You can see skaters on
+top of the ramp and one guy riding the ramp now.  From where you stand, you
+have a full view of the inside of the ramp, which looks like a giant "U". 
+You can also see the announcers' booth and a banner that reads, "X-Games
+Vert Ramp Qualifications."  
+~
+0 0 0
+D3
+~
+~
+0 0 81017
+S
+#81019
+Grassy Walkway~
+You are on a walkway that leads you to the stages.  It also leads to
+another place that you cant quite make out.  Guess if you want to know what
+it is you will have to just take the path.  People crowd this whole area,
+pushing you, bumping into you, and doing all and all rude things to you.  
+~
+0 0 0
+D0
+~
+~
+0 0 81020
+D1
+~
+~
+0 0 81024
+D3
+~
+~
+0 0 81007
+S
+#81020
+Grassy Walkway~
+You have left the trail to the stages and are now headed off into an
+unknown area.  You are not alone however.  People still push and rush past
+you like you are standing still.  You wonder what could be off in this
+direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 81021
+D2
+~
+~
+0 0 81019
+S
+#81021
+Grassy Walkway~
+The grassy trail takes a turn to the east here and a line is starting to
+form.  It's hard to tell what people are lining up for from here.  Perhaps
+some more exploration is in order?  
+~
+0 0 0
+D1
+~
+~
+0 0 81022
+D2
+~
+~
+0 0 81020
+S
+#81022
+Grassy Walkway~
+People seem to be lining up to get to a booth to the south.  You can
+smell hotdogs and hamburgers cooking, even from here.  People walk by,
+looking vaguely green.  The way back to the main trail is to the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 81023
+D3
+~
+~
+0 0 81021
+S
+#81023
+Booth~
+You are standing at a booth where they are trying to rip you off as much
+as possible.  All the prices have been jacked up about 3 times the normal
+price of things.  Better watch your wallet around here.  
+~
+0 0 0
+D0
+~
+~
+0 0 81022
+S
+#81024
+Grassy Walkway~
+You are on a walkway that leads you to the stages.  It also leads to
+another place that you cant quite make out.  Guess if you want to know what
+it is you will have to just take the path.  People crowd this whole area,
+pushing you, bumping into you, and doing all and all rude things to you.  
+~
+0 0 0
+D1
+~
+~
+0 0 81029
+D2
+~
+~
+0 0 81025
+D3
+~
+~
+0 0 81019
+S
+#81025
+Grassy Walkway~
+You are on a walkway that leads you to the stages.  It also leads to
+another place that you cant quite make out.  Guess if you want to know what
+it is you will have to just take the path.  People crowd this whole area,
+pushing you, bumping into you, and doing all and all rude things to you.  
+~
+0 0 0
+D0
+~
+~
+0 0 81024
+D1
+~
+~
+0 0 81030
+D3
+~
+~
+0 0 81026
+S
+#81026
+Grassy Walkway~
+You are on a walkway that leads you to the stages.  It also leads to
+another place that you cant quite make out.  Guess if you want to know what
+it is you will have to just take the path.  People crowd this whole area,
+pushing you, bumping into you, and doing all and all rude things to you.  
+~
+0 8 1
+D1
+~
+~
+0 0 81025
+D2
+~
+~
+0 0 81027
+D3
+~
+~
+0 0 81006
+S
+#81027
+Grassy Walkway~
+To the east is a booth selling something.  Back north is the walkway.  
+~
+0 8 1
+D0
+~
+~
+0 0 81026
+D1
+~
+~
+0 0 81028
+S
+#81028
+Booth~
+You are standing at a booth where they are trying to rip you off as much
+as possible.  All the prices have been jacked up about 3 times the normal
+price of things.  Better watch your wallet around here.  
+~
+0 0 0
+D3
+~
+~
+0 0 81027
+S
+#81029
+Grassy Walkway~
+You are on a walkway that leads you to the stages.  It also leads to
+another place that you cant quite make out.  Guess if you want to know what
+it is you will have to just take the path.  People crowd this whole area,
+pushing you, bumping into you, and doing all and all rude things to you.  
+~
+0 0 0
+D1
+~
+~
+0 0 81031
+D2
+~
+~
+0 0 81030
+D3
+~
+~
+0 0 81024
+S
+#81030
+Grassy Walkway~
+You are on a walkway that leads you to the stages.  It also leads to
+another place that you cant quite make out.  Guess if you want to know what
+it is you will have to just take the path.  People crowd this whole area,
+pushing you, bumping into you, and doing all and all rude things to you.  
+~
+0 0 0
+D0
+~
+~
+0 0 81029
+D1
+~
+~
+0 0 81032
+D3
+~
+~
+0 0 81025
+S
+#81031
+Grassy path~
+You are on the path to the stages.  You can see the crowds watching the
+concert and can barely make out the stages themselves.  Several bands are
+playing music or getting ready to play music.  People are rushing past you
+and various dancers can be seen throughout the clearing.  
+~
+0 0 0
+D1
+~
+~
+0 0 81034
+D3
+~
+~
+0 0 81029
+S
+#81032
+Grassy path~
+You are on the path to the stages.  You can see the crowds watching the
+concert and can barely make out the stages themselves.  Several bands are
+playing music or getting ready to play.  People are rushing past you and
+various dancers can be seen throughout the clearing.  
+~
+0 0 0
+D1
+~
+~
+0 0 81033
+D3
+~
+~
+0 0 81030
+S
+#81033
+Grassy path~
+You are on the path to the stages.  You can see the crowds watching the
+concert and can barely make out the stages themselves.  Several bands are
+playing music or getting ready to play.  People are rushing past you and
+various dancers can be seen throughout the clearing.  
+~
+0 0 0
+D0
+~
+~
+0 0 81034
+D1
+~
+~
+0 0 81040
+D3
+~
+~
+0 0 81032
+S
+#81034
+Grassy path~
+You are on the path to the stages.  You can see the crowds watching the
+concert and can barely make out the stages themselves.  Several bands are
+playing music or getting ready to play.  People are rushing past you and
+various dancers can be seen throughout the clearing.  To the north is some
+of the seating for the concert.  
+~
+0 0 0
+D0
+~
+~
+0 0 81035
+D1
+~
+~
+0 0 81039
+D2
+~
+~
+0 0 81033
+D3
+~
+~
+0 0 81031
+S
+#81035
+Concert seating~
+Rows of seats have been put out here.  Each seat has a row number and
+seat number that matches a ticket number.  Most of the seats are filled, but
+people are still walking around moving to their seats.  From here you can
+see the stage pretty well.  You can also see right in front of the stage a
+big mosh pit.  
+~
+0 4 0
+D0
+~
+~
+0 0 81038
+D1
+~
+~
+0 0 81036
+D2
+~
+~
+0 0 81034
+S
+#81036
+Concert seating~
+Rows of seats have been put out here.  Each seat has a row number and
+seat number that matches a ticket number.  Most of the seats are filled, but
+people are still walking around moving to their seats.  From here you can
+see the stage pretty well.  You can also see right in front of the stage a
+big mosh pit.  
+~
+0 4 0
+D0
+~
+~
+0 0 81037
+D3
+~
+~
+0 0 81035
+S
+#81037
+Concert seating~
+Rows of seats have been put out here.  Each seat has a row number and
+seat number that matches a ticket number.  Most of the seats are filled, but
+people are still walking around moving to their seats.  From here you can
+see the stage pretty well.  You can also see right in front of the stage a
+big mosh pit.  
+~
+0 0 0
+D0
+~
+~
+0 0 81053
+D2
+~
+~
+0 0 81036
+D3
+~
+~
+0 0 81038
+S
+#81038
+Concert seating~
+Rows of seats have been put out here.  Each seat has a row number and
+seat number that matches a ticket number.  Most of the seats are filled, but
+people are still walking around moving to their seats.  From here you can
+see the stage pretty well.  You can also see right in front of the stage a
+big mosh pit.  
+~
+0 0 0
+D0
+~
+~
+0 0 81054
+D1
+~
+~
+0 0 81037
+D2
+~
+~
+0 0 81035
+S
+#81039
+Grassy path~
+You are on a path to the stages.  You can see the crowd watching the
+concert and can barely make out the stages themselves.  Several bands are
+playing music or getting ready to play.  People are rushing past you and
+various dancers can be seen throughout the clearing.  To the east is a
+grassy walkway while the path continues to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 81046
+D3
+~
+~
+0 0 81034
+S
+#81040
+Grassy path~
+You are on a path to the stages.  You can see the crowd watching the
+concert and can barely make out the stages themselves.  Several bands are
+playing music or getting ready to play.  People are rushing past you and
+various dancers can be seen throughout the clearing.  To the south are seats
+for the concert.  
+~
+0 0 0
+D1
+~
+~
+0 0 81045
+D2
+~
+~
+0 0 81041
+D3
+~
+~
+0 0 81033
+S
+#81041
+Concert seating~
+Rows of seats have been put out here.  Each seat has a row number and
+seat number that matches a ticket number.  Most of the seats are filled, but
+people are still walking around moving to their seats.  From here you can
+see the stage pretty well.  You can also see right in front of the stage a
+big mosh pit.  
+~
+0 4 0
+D0
+~
+~
+0 0 81040
+D2
+~
+~
+0 0 81042
+D3
+~
+~
+0 0 81043
+S
+#81042
+Concert seating~
+Rows of seats have been put out here.  Each seat has a row number and
+seat number that matches a ticket number.  Most of the seats are filled, but
+people are still walking around moving to their seats.  From here you can
+see the stage pretty well.  You can also see right in front of the stage a
+big mosh pit.  
+~
+0 0 0
+D0
+~
+~
+0 0 81041
+D2
+~
+~
+0 0 81052
+D3
+~
+~
+0 0 81044
+S
+#81043
+Concert seating~
+Rows of seats have been put out here.  Each seat has a row number and
+seat number that matches a ticket number.  Most of the seats are filled, but
+people are still walking around moving to their seats.  From here you can
+see the stage pretty well.  You can also see right in front of the stage a
+big mosh pit.  
+~
+0 4 0
+D1
+~
+~
+0 0 81041
+D2
+~
+~
+0 0 81044
+S
+#81044
+Concert seating~
+Rows of seats have been put out here.  Each seat has a row number and
+seat number that matches a ticket number.  Most of the seats are filled, but
+people are still walking around moving to their seats.  From here you can
+see the stage pretty well.  You can also see right in front of the stage a
+big mosh pit.  
+~
+0 0 0
+D0
+~
+~
+0 0 81043
+D1
+~
+~
+0 0 81042
+D2
+~
+~
+0 0 81051
+S
+#81045
+Grassy Walkway~
+You are on a walkway that leads you to the stages.  It also leads to
+another place that you cant quite make out.  Guess if you want to know what
+it is you will have to just take the path.  People crowd this whole area,
+pushing you, bumping into you, and doing all and all rude things to you.  
+~
+0 4 0
+D0
+~
+~
+0 0 81046
+D1
+~
+~
+0 0 81048
+D3
+~
+~
+0 0 81040
+S
+#81046
+Grassy Walkway~
+You are on a walkway that leads you to the stages.  It also leads to
+another place that you cant quite make out.  Guess if you want to know what
+it is you will have to just take the path.  People crowd this whole area,
+pushing you, bumping into you, and doing all and all rude things to you.  
+~
+0 4 0
+D1
+~
+~
+0 0 81047
+D2
+~
+~
+0 0 81045
+D3
+~
+~
+0 0 81039
+S
+#81047
+Concert seating~
+Rows of seats have been put out here.  Each seat has a row number and
+seat number that matches a ticket number.  Most of the seats are filled, but
+people are still walking around moving to their seats.  From here you can
+see the stage pretty well.  You can also see right in front of the stage a
+big mosh pit.  
+~
+0 0 0
+D1
+~
+~
+0 0 81050
+D2
+~
+~
+0 0 81048
+D3
+~
+~
+0 0 81046
+S
+#81048
+Concert seating~
+Rows of seats have been put out here.  Each seat has a row number and
+seat number that matches a ticket number.  Most of the seats are filled, but
+people are still walking around moving to their seats.  From here you can
+see the stage pretty well.  You can also see right in front of the stage a
+big mosh pit.  
+~
+0 0 0
+D0
+~
+~
+0 0 81047
+D1
+~
+~
+0 0 81049
+D3
+~
+~
+0 0 81045
+S
+#81049
+Mosh pit~
+You are standing in the pit, right under the stage.  There is no room to
+breathe here let alone move, but people still seem to find a way to slam
+into you.  The crowd is jumping up and down to the music, while some people
+are running in circles, and yet still some people are just punching other.  
+~
+0 0 0
+D0
+~
+~
+0 0 81050
+D1
+~
+~
+0 0 81055
+D3
+~
+~
+0 0 81048
+S
+#81050
+Mosh pit~
+You are standing in the pit, right under the stage.  There is no room to
+breathe here let alone move, but people still seem to find a way to slam
+into you.  The crowd is jumping up and down to the music, while some people
+are running in circles, and yet still some people are just punching other.  
+~
+0 0 0
+D1
+~
+~
+0 0 81056
+D2
+~
+~
+0 0 81049
+D3
+~
+~
+0 0 81047
+S
+#81051
+Mosh pit~
+You are standing in the pit, right under the stage.  There is no room to
+breathe here let alone move, but people still seem to find a way to slam
+into you.  The crowd is jumping up and down to the music, while some people
+are running in circles, and yet still some people are just punching other.  
+~
+0 0 0
+D0
+~
+~
+0 0 81044
+D1
+~
+~
+0 0 81052
+D2
+~
+~
+0 0 81060
+S
+#81052
+Mosh pit~
+You are standing in the pit, right under the stage.  There is no room to
+breathe here let alone move, but people still seem to find a way to slam
+into you.  The crowd is jumping up and down to the music, while some people
+are running in circles, and yet still some people are just punching other.  
+~
+0 0 0
+D0
+~
+~
+0 0 81042
+D2
+~
+~
+0 0 81059
+D3
+~
+~
+0 0 81051
+S
+#81053
+Mosh pit~
+You are standing in the pit, right under the stage.  There is no room to
+breathe here let alone move, but people still seem to find a way to slam
+into you.  The crowd is jumping up and down to the music, while some people
+are running in circles, and yet still some people are just punching other.  
+~
+0 0 0
+D0
+~
+~
+0 0 81057
+D2
+~
+~
+0 0 81037
+D3
+~
+~
+0 0 81054
+S
+#81054
+Mosh pit~
+You are standing in the pit, right under the stage.  There is no room to
+breathe here let alone move, but people still seem to find a way to slam
+into you.  The crowd is jumping up and down to the music, while some people
+are running in circles, and yet still some people are just punching other.  
+~
+0 0 0
+D0
+~
+~
+0 0 81058
+D1
+~
+~
+0 0 81053
+D2
+~
+~
+0 0 81038
+S
+#81055
+Main stage~
+You are standing on the Main Stage.  The band is giving you dirty looks
+for interfering in their gig.  You can see the keyboards, guitars, and drum
+kits belonging to the band up here too.  Security is on its way to get you
+off the stage.  
+~
+0 0 0
+D0
+~
+~
+0 0 81056
+D3
+~
+~
+0 0 81049
+S
+#81056
+Main stage~
+You are standing on the Main Stage.  The band is giving you dirty looks
+for interfering in their gig.  You can see the keyboards, guitars, amps, and
+drum kits belonging to the band up here too.  Security is on its way to get
+you off the stage.  
+~
+0 0 0
+D2
+~
+~
+0 0 81055
+D3
+~
+~
+0 0 81050
+S
+#81057
+Second stage~
+You are standing on the second stage.  The band is up here giving you
+dirty looks.  The band's equipment is here too and you almost trip on a
+power cord.  Security is on its way to get you off the stage.  
+~
+0 0 0
+D2
+~
+~
+0 0 81053
+D3
+~
+~
+0 0 81058
+S
+#81058
+Main stage~
+You are standing on the second stage.  The band is up here giving you
+dirty looks.  The band's equipment is here too and you almost trip on a
+power cord.  Security is on its way to get you off the stage.  
+~
+0 0 0
+D1
+~
+~
+0 0 81057
+D2
+~
+~
+0 0 81054
+S
+#81059
+Main stage~
+You are standing on the main stage.  The band is yelling at you to get
+off so they can play.  To the north, you see the mosh pit.  To the west, you
+see the third stage, where Adam Sandler is trying to tell jokes to get
+people to like him.  
+~
+0 0 0
+D0
+~
+~
+0 0 81052
+D3
+~
+~
+0 0 81060
+S
+#81060
+Stage Three~
+You are standing on the third stage.  The band is up here, giving you
+dirty looks.  The band's equipment is on the stage.  You can see the
+keyboards, guitars, and drum kit.  Security is on their way to get you off
+the stage!  The obvious exits are to the north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 81051
+D1
+~
+~
+0 0 81059
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 81005 1 2
+D 0 81006 3 2
+M 0 81007 5 81003 5
+M 0 81000 1 81005 1
+G 0 81000 0
+M 0 81019 1 81007 1
+E 0 81014 0 3
+M 0 81001 5 81013 5
+M 0 81005 1 81013 1
+E 0 81002 0 7
+M 0 81001 5 81015 5
+M 0 81002 5 81018 5
+M 0 81003 1 81018 1
+E 0 81001 0 6
+M 0 81017 1 81019 1
+M 0 81006 1 81023 1
+G 0 81010 0
+G 0 81009 0
+G 0 81007 0
+G 0 81008 0
+M 0 81007 8 81025 2
+M 0 81006 1 81028 1
+G 0 81003 0
+G 0 81004 0
+G 0 81005 0
+M 0 81007 8 81033 2
+M 0 81018 1 81035 1
+E 0 81013 0 26
+E 0 81017 0 21
+M 0 81016 12 81037 2
+M 0 81022 1 81038 1
+M 0 81016 12 81038 2
+M 0 81016 12 81041 2
+M 0 81021 1 81042 1
+M 0 81016 12 81043 2
+M 0 81020 1 81044 1
+M 0 81016 12 81045 2
+M 0 81016 12 81046 2
+M 0 81008 1 81049 1
+M 0 81009 1 81049 1
+M 0 81008 1 81050 1
+M 0 81009 1 81050 1
+M 0 81008 1 81051 1
+M 0 81009 1 81051 1
+M 0 81008 3 81051 3
+M 0 81008 1 81052 1
+E 0 81012 0 16
+M 0 81009 1 81052 1
+M 0 81008 1 81053 1
+M 0 81009 1 81053 1
+M 0 81008 3 81053 3
+M 0 81008 1 81054 1
+E 0 81018 0 23
+M 0 81009 1 81054 1
+M 0 81008 3 81054 3
+M 0 81010 20 81055 2
+E 0 81012 0 16
+M 0 81011 1 81055 1
+E 0 81015 0 16
+M 0 81010 2 81056 2
+E 0 81012 0 16
+M 0 81010 20 81057 2
+E 0 81012 0 16
+M 0 81013 1 81057 1
+M 0 81014 1 81057 1
+M 0 81010 20 81058 2
+E 0 81012 0 16
+M 0 81012 1 81058 1
+M 0 81010 20 81059 2
+E 0 81012 0 16
+M 0 81010 20 81060 2
+E 0 81012 0 16
+M 0 81015 1 81060 1
+S
+
+
+
+#SHOPS
+81000 0 0 0 0 0 110 90 0 23
+81006 0 0 0 0 0 110 90 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,905 @@
+#PLAYER
+Name Raest~
+Race vampire~
+Levl 57
+Clas strider~
+Pkpt 100
+TSex 1
+LogO 1353285630
+Sock 70-118-77-225.res.bhn.net~
+Titl  the Undead Nomad {!<{8Nocturne{!>{0{x~
+
+#STAT_BREAK
+
+Id   1351789402
+Plat 39
+Gold 21
+Silv 39
+Exp  115928
+Attr 22 21 19 22 21
+Prom {x<{R%A{x/{r%H{xhp {B%B{x/{b%M{xm {G%Cmv {x<%X{Wxp{x>~
+Act  BCDEFGHJQT
+AfBy Tc
+ShBy J
+Comm NQ
+Config N
+Combat CHK
+Pos  5
+Alig  -1000
+Sk 1 'constitution'
+Sk 1 'darkvision'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect neutral'
+Sk 1 'detect poison'
+Sk 1 'detect terrain'
+Sk 1 'farsight'
+Sk 1 'giant strength'
+Sk 1 'growth'
+Sk 1 'haste'
+Sk 1 'identify'
+Sk 1 'infravision'
+Sk 1 'intellect'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'refresh'
+Sk 1 'regeneration'
+Sk 1 'wisdom'
+Sk 1 'wizard eye'
+Sk 75 'dagger'
+Sk 1 'dodge'
+Sk 1 'dual wield'
+Sk 76 'feed'
+Sk 76 'recall'
+Sk 1 'scrolls'
+Sk 75 'second attack'
+Sk 1 'staves'
+Sk 75 'sword'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'wands'
+MaxDam 1186
+LLev 24
+Pass RafMiYI3ov4.c~
+Plyd 90692
+Note 1352583760 0 0 1326767762 1352397598
+Room 76078
+HMVN 4658 4633 4439 4439 2465 2470
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 0 0
+Deviant 0 0
+Tier 2
+Prac 298
+Trai 118
+Devote current 0
+Pnts 39
+Mkil 330
+Mdea 5
+TotalCmpl 3
+TotalPnts 407
+TotalAttm 3
+QuestPnts 407
+Gr 'detection'
+Gr 'enhancement'
+Gr 'rom basics'
+Gr 'strider basics'
+Affc 'vampiricshield'   1  24   0  -1   0   0        512
+Affc 'regeneration'   0  24   0  -1   0   0  268435456
+Affc 'fly'   0  24   0  -1   0   0     524288
+Affc 'bless'   0 266   0  20  34  18          0
+Affc 'bless'   0 257   0  20 -34  20          0
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+Wear 13
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+Wear 3
+End
+
+#O
+Vnum 3706
+Nest 0
+Name round thothian helmet~
+ShD  A Thothian Helmet~
+Desc A large round helmet made from Thoth is lying here.~
+Wear 6
+End
+
+#O
+Vnum 3708
+Nest 0
+Name pair leather thothian sandals~
+ShD  A pair of Thothian Sandals~
+Desc A pair of leather sandals made from Thoth lies here.~
+Wear 8
+End
+
+#O
+Vnum 3725
+Nest 0
+Name ancient symbol thothian~
+ShD  The symbol of a Thothian Warrior~
+Desc An ancient symbol of a Thothian warrior has been disregarded here.~
+Wear 26
+End
+
+#O
+Vnum 3728
+Nest 0
+Name thothian black eyepatch~
+ShD  A Thothian Eyepatch~
+Desc A thin but long black eyepatch of Thoth lies here.~
+Wear 27
+End
+
+#O
+Vnum 26000
+Nest 0
+Name lotus blossom bracelet~
+ShD  lotus blossom bracelet~
+Desc An intricately etched silvery bracelet has a lotus blossom embossed on it.~
+Wear 15
+End
+
+#O
+Vnum 725
+Nest 0
+Name pants cracked~
+ShD  cracked pants~
+Desc Some pants are here.~
+Loader MPOP: (22:51-11/02/2012) Raest~
+Cost 500
+Wear 7
+Valu 1 7 0
+Valu 2 7 -5
+Valu 3 7 -1
+Valu 4 7 -3
+End
+
+#O
+Vnum 756
+Nest 0
+Name wristguard guard~
+ShD  wristguard~
+Desc A wristguard is here.~
+Loader MPOP: (22:57-11/02/2012) Raest~
+Wear 14
+End
+
+#O
+Vnum 3703
+Nest 0
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3702
+Nest 0
+Name sword thothian~
+ShD  A Thothian Sword~
+Desc A long curved sword made from Thoth lies here.~
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 54023
+Nest 0
+Name bag pockets brown~
+ShD  a Bag of Many Pockets~
+Desc A strange brown bag with many different pockets lies here.~
+Cost 1435
+Wear 12
+Valu 1 12 A
+End
+
+#O
+Vnum 76060
+Nest 1
+Name housekey~
+ShD  Nocturne's housekey~
+Desc A skull-shaped key to Nocturne's manor lies here.~
+Loader LOAD: (02:48-11/02/2012) Locke~
+End
+
+#O
+Vnum 3031
+Nest 1
+Name lantern~
+ShD  {ca {whooded {Ybrass {clantern{x~
+Desc {cA {whooded {Ybrass {clantern has been left here.{x~
+End
+
+#O
+Vnum 3031
+Nest 1
+Name lantern~
+ShD  {ca {whooded {Ybrass {clantern{x~
+Desc {cA {whooded {Ybrass {clantern has been left here.{x~
+End
+
+#O
+Vnum 3031
+Nest 1
+Name lantern~
+ShD  {ca {whooded {Ybrass {clantern{x~
+Desc {cA {whooded {Ybrass {clantern has been left here.{x~
+End
+
+#O
+Vnum 76050
+Nest 1
+Name crypt key~
+ShD  Raest's crypt key~
+Desc The key to Raest's crypt has been foolishly discarded.~
+Loader LOAD: (23:25-11/01/2012) Locke~
+End
+
+#O
+Vnum 5252
+Nest 1
+Name long dagger slim~
+ShD  a long slim dagger~
+Desc A long slim dagger has been left here.~
+End
+
+#O
+Vnum 5252
+Nest 1
+Name long dagger slim~
+ShD  a long slim dagger~
+Desc A long slim dagger has been left here.~
+End
+
+#O
+Vnum 16009
+Nest 1
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+End
+
+#O
+Vnum 16002
+Nest 1
+Name key small wooden~
+ShD  {xa {Ds{Wmal{Dl {yw{Yoode{yn {Dk{We{Dy{x~
+Desc A small wooden key has been dropped here.~
+End
+
+#O
+Vnum 16006
+Nest 1
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+End
+
+#O
+Vnum 16006
+Nest 1
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+End
+
+#O
+Vnum 16006
+Nest 1
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+End
+
+#O
+Vnum 16006
+Nest 1
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+End
+
+#O
+Vnum 16009
+Nest 1
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+End
+
+#O
+Vnum 16044
+Nest 1
+Name mop~
+ShD  a {rb{Rlood{ry {rm{Ro{rp{x~
+Desc A mop has been left here.~
+End
+
+#O
+Vnum 16006
+Nest 1
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+End
+
+#O
+Vnum 16013
+Nest 1
+Name pegleg peg~
+ShD  a {yp{Yegle{yg{x~
+Desc A short stick is leaning against the wall.~
+End
+
+#O
+Vnum 16007
+Nest 1
+Name ring pearl~
+ShD  a {Dp{Wear{Dl {rr{Rin{rg{x~
+Desc A pearl ring is rolling around on the floor.~
+End
+
+#O
+Vnum 16012
+Nest 1
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+ExtF 0
+End
+
+#O
+Vnum 16012
+Nest 1
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+ExtF 0
+End
+
+#O
+Vnum 3169
+Nest 1
+Name map thera~
+ShD  a map of Eastern Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3163
+Nest 1
+Name map thera~
+ShD  a map of Western Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3162
+Nest 1
+Name map new midgaard~
+ShD  A map of New Midgaard~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3704
+Nest 1
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 1
+Name sword thothian~
+ShD  A Thothian Sword~
+Desc A long curved sword made from Thoth lies here.~
+End
+
+#O
+Vnum 3703
+Nest 1
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+End
+
+#O
+Vnum 3716
+Nest 1
+Name round oval sphere reddish orange~
+ShD  A Strange Reddish-Orange Sphere~
+Desc A round oval-like sphere glowing reddish-orange is settled here on the ground.~
+Cost 0
+End
+
+#O
+Vnum 3169
+Nest 1
+Name map thera~
+ShD  a map of Eastern Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3163
+Nest 1
+Name map thera~
+ShD  a map of Western Thera~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 3162
+Nest 1
+Name map new midgaard~
+ShD  A map of New Midgaard~
+Desc A rolled up map is here.~
+End
+
+#O
+Vnum 2912
+Nest 1
+Name flat glowing disc trap~
+ShD  a flat {Yg{yl{Yo{yw{Yi{yn{Yg{x disc~
+Desc A flat {Yg{yl{Yo{yw{Yi{yn{Yg{x disc lies on the ground.~
+End
+
+#O
+Vnum 57828
+Nest 1
+Name face mask~
+ShD  the Face of Death~
+Desc A hideous face-wear lies here with a evil grin on the front of it.~
+End
+
+#O
+Vnum 705
+Nest 1
+Name leather armor exceptional~
+ShD  exceptional leather armor~
+Desc Leather armor is here.~
+Loader MPOP: (20:40-11/03/2012) Raest~
+ExtF BW
+Cost 1500
+Valu 1 7 7
+Valu 3 7 9
+Valu 4 7 3
+Affc 'reserved' 2 1 -1 -1 20 0
+End
+
+#O
+Vnum 57834
+Nest 1
+Name bandanna scarf ankle~
+ShD  an Ankle-Wrapped Bandanna~
+Desc A long scarf-like bandanna lies here used for the ankle.~
+End
+
+#O
+Vnum 57834
+Nest 1
+Name bandanna scarf ankle~
+ShD  an Ankle-Wrapped Bandanna~
+Desc A long scarf-like bandanna lies here used for the ankle.~
+End
+
+#O
+Vnum 57821
+Nest 1
+Name belt garment body~
+ShD  the Black Belt of Mastery~
+Desc A long black garment used for bodywear lies here.~
+End
+
+#O
+Vnum 57820
+Nest 1
+Name gown vampress~
+ShD  the Gown of the Vampress~
+Desc An evil-looking gown lies here slowly carrying itself away from the
+breeze.    ~
+End
+
+#O
+Vnum 57824
+Nest 1
+Name dagger jeweled~
+ShD  a Jeweled Dagger~
+Desc A huge dagger with a jewel on the holster lies here gleaming!~
+End
+
+#O
+Vnum 57825
+Nest 1
+Name leggings golden shinguards~
+ShD  a pair of golden shinguards~
+Desc A shiny pair of hard-solid golden leggings lie here.~
+End
+
+#O
+Vnum 57826
+Nest 1
+Name ring victory~
+ShD  the Ring of Victory~
+Desc A ring with a huge 'V' layered on top of the ruby shines here.~
+End
+
+#O
+Vnum 20418
+Nest 1
+Name golem mace~
+ShD  a {yg{Do{yl{De{ym{D mace{x~
+Desc A finely crafted mace has been dropped here.~
+End
+
+#O
+Vnum 20419
+Nest 1
+Name bright silver girth~
+ShD  a {Wbright {Ws{wi{Wlv{we{Wr {Dgirth{x~
+Desc A bright silver girth has been left here.~
+End
+
+#O
+Vnum 20417
+Nest 1
+Name bright silver cloak~
+ShD  a {Wbright {Ws{wi{Wlv{we{Wr {Dcloak{x~
+Desc A bright silver cloak has been dropped here.~
+End
+
+#O
+Vnum 20405
+Nest 1
+Name golem sword~
+ShD  a {yg{Do{yl{De{ym {Dsword{x~
+Desc A bright sword has been left here.~
+End
+
+#O
+Vnum 20410
+Nest 1
+Name golem pauldron~
+ShD  a {Dpair{x of {Dpauldrons{x~
+Desc A pair of fine pauldrons has been dropped here.~
+End
+
+#O
+Vnum 20409
+Nest 1
+Name golem gauntlets~
+ShD  a {Dpair{x of {yg{Do{yl{De{ym {Dgauntlets{x~
+Desc A pair of finely crafted gauntlets has been left here.~
+ExtF T
+End
+
+#O
+Vnum 20406
+Nest 1
+Name golem helm~
+ShD  a {yg{Do{yl{De{ym {Dhelm{x~
+Desc A large helmet has been dropped here.~
+End
+
+#O
+Vnum 20411
+Nest 1
+Name golem cuirass~
+ShD  a {yg{Do{yl{De{ym {Dcuirass{x~
+Desc A large cuirass has been carlessly left here.~
+End
+
+#O
+Vnum 20407
+Nest 1
+Name stone collar~
+ShD  a {ys{Dt{yo{Dn{ye {Dcollar{x~
+Desc A collar of stone hsa been left here.~
+End
+
+#O
+Vnum 20407
+Nest 1
+Name stone collar~
+ShD  a {ys{Dt{yo{Dn{ye {Dcollar{x~
+Desc A collar of stone hsa been left here.~
+End
+
+#O
+Vnum 20408
+Nest 1
+Name mithril ring~
+ShD  a {Bm{bit{Bh{bri{Bl {Dring{x~
+Desc A small mithril ring lies here.~
+End
+
+#O
+Vnum 20408
+Nest 1
+Name mithril ring~
+ShD  a {Bm{bit{Bh{bri{Bl {Dring{x~
+Desc A small mithril ring lies here.~
+End
+
+#O
+Vnum 20820
+Nest 1
+Name guard armband~
+ShD  a guard's armband~
+Desc The dull metal armband blends into the background.~
+End
+
+#O
+Vnum 11113
+Nest 1
+Name shoes green~
+ShD  a pair of green pointy shoes~
+Desc A pair of green pointy shoes lie here.~
+End
+
+#O
+Vnum 29809
+Nest 1
+Name silhouette mask velvet~
+ShD  a {Bvelvet {Wsilhouette {mmask{x~
+Desc A mask designed to hide someone's identity lies here.~
+End
+
+#O
+Vnum 3701
+Nest 1
+Name dagger thothian ~
+ShD  A Thothian Dagger~
+Desc A small dagger made from Thoth lies here.~
+End
+
+#O
+Vnum 3713
+Nest 1
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+End
+
+#O
+Vnum 756
+Nest 1
+Name wristguard guard normal~
+ShD  wristguard~
+Desc A wristguard is here.~
+Loader MPOP: (20:57-11/03/2012) Raest~
+End
+
+#O
+Vnum 3711
+Nest 1
+Name thothian dark cape~
+ShD  A Thothian Cape~
+Desc A long dark cape finely made from Thoth lies here.~
+End
+
+#O
+Vnum 3705
+Nest 1
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+End
+
+#O
+Vnum 3705
+Nest 1
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+End
+
+#O
+Vnum 3705
+Nest 1
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+End
+
+#O
+Vnum 3705
+Nest 1
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+End
+
+#O
+Vnum 740
+Nest 1
+Name buckler normal~
+ShD  buckler~
+Desc A buckler is here.~
+Loader MPOP: (20:57-11/03/2012) Raest~
+End
+
+#O
+Vnum 3707
+Nest 1
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+End
+
+#O
+Vnum 3712
+Nest 1
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+End
+
+#O
+Vnum 3707
+Nest 1
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+End
+
+#O
+Vnum 3712
+Nest 1
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+End
+
+#O
+Vnum 3707
+Nest 1
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+End
+
+#O
+Vnum 3715
+Nest 0
+Name diploma school mud~
+ShD  a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x~
+Desc You see a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x here.~
+Wear 17
+End
+
+#O
+Vnum 16012
+Nest 0
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+ExtF 0
+End
+
+#O
+Vnum 5232
+Nest 0
+Name stone blue incandescent~
+ShD  an incandescent blue stone~
+Desc A small incandescent blue stone lies here.~
+End
+
+#O
+Vnum 5241
+Nest 0
+Name stone pink green~
+ShD  a pink and green stone~
+Desc A bright pink and green stone has been left here.~
+End
+
+#O
+Vnum 5235
+Nest 0
+Name stone pearly white~
+ShD  a pearly white stone~
+Desc This pearly white stone would probably sell for a good price.~
+End
+
+#O
+Vnum 5239
+Nest 0
+Name stone grey dull~
+ShD  a dull grey stone~
+Desc You can barely make out a dull grey stone on the ground.~
+End
+
+#O
+Vnum 5231
+Nest 0
+Name stone scarlet blue~
+ShD  a scarlet and blue stone~
+Desc A pretty scarlet and blue stone has been dropped here.~
+Wear 18
+End
+
+#O
+Vnum 16012
+Nest 0
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+ExtF 0
+End
+
+#O
+Vnum 3009
+Nest 0
+Name ramen noodle soup~
+ShD  {rr{ma{rm{me{rn {wn{yo{wo{yd{wl{ye {ws{yo{wu{yp{x~
+Desc A hot bowl of ramen noodle soup with a healthy dose of tabasco has been left here.~
+End
+
+#O
+Vnum 710
+Nest 0
+Name choker normal~
+ShD  choker~
+Desc A neck choker lies here.~
+Loader MPOP: (19:15-11/17/2012) Grimy~
+End
+
+#O
+Vnum 63932
+Nest 0
+Name garden hoe~
+ShD  a garden hoe~
+Desc Someone is finished using this garden hoe.~
+End
+
+#O
+Vnum 9212
+Nest 0
+Name bracelet elemental~
+ShD  an {Re{Bl{Ye{gm{we{gn{Yt{Ba{Rl{x bracelet~
+Desc A bracelet made of {Re{Bl{Ye{gm{we{gn{Yt{Ba{Rl{x magic lies here.~
+MULTI Nocturne~ c-76-25-229-51.hsd1.co.comcast.net~ 11
+End
+

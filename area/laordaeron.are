@@ -1,0 +1,2908 @@
+#AOD_AREA
+City of Laordaeron~
+7500 7599 C 5
+Levl 0 0
+Bldr Horo~
+End
+
+#MOBILES
+#7500
+gate guard~
+{BG{Wa{Bt{We {BG{Wu{Ba{Wr{Bd{x~
+A strong {BG{Wa{Bt{We {BG{Wu{Ba{Wr{Bd{x is here not moving an inch from his post.
+~
+This guard serves as the first line of defense of the city.  Although
+this guard is not as powerful as the guards in the palace, he can
+also do decent damage if provoked.  
+~
+human~
+100 100 100 0 100 100 100 0 50 100 100 100 100 100 100 200 50 100 100 100 100 100 100 100 0 0 
+ABGT DEFa BCDE 0 0
+400 1000 0 14478 14609 5507 5611 10 50 100 cleave
+-1000 -1000 -1000 -1000
+STANDING STANDING male 100000
+0 mage medium ABCDEFGHIJK
+
+#7501
+Antonidis~
+{WAntonidis{x~
+A powerful {GElven {YH{Re{Ya{Rl{Ye{Rr{x is here
+~
+As of most of the elves, Antonidis chose the path of peace.  He
+has become the healer of this city.  
+~
+elf~
+0 100 50 0 0 100 100 0 0 100 150 0 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+ABGa BCDEFGJLNPVZac ACDEGHIJKP 1000 0
+500 5000 0 4682 6716 5240 6429 100 100 1000 enchantment
+-5000 -5000 -5000 -5000
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#7503
+Elven Archer~
+{GElven {YArcher{x~
+You see an {Gelven {Yarcher{x watching your evey move.
+~
+Archers are the main defensive force of the elves.  He can see
+from as far as a kilometer, and don't even think of testing its
+accuracy.  
+~
+elf~
+100 100 50 0 100 100 100 200 50 100 150 0 100 100 100 200 50 100 100 100 100 100 100 100 0 0 
+ABFG DFJNPa BCI 1000 0
+400 1000 0 12489 12611 5468 5616 28 36 120 grep
+-1000 -1000 -1000 -1000
+STANDING STANDING female 100000
+0 mage medium ABCDEFGHIJK
+
+#7504
+knight~
+{RKnight {xof {WSilvermoon{x~
+An {GElven {RKnight{x is here standing at attention.
+~
+Though elven knights are not a powerful as human knights, they
+are swift and can use a little magic.  These knights serves as
+the attacking force of the elven kingdom.  
+~
+elf~
+100 100 50 0 100 100 100 100 50 100 150 0 100 100 100 60 50 100 100 100 100 100 100 100 0 0 
+AB DFJP BCDEIK 1000 0
+400 1000 0 15499 15598 5490 5600 28 36 120 slash
+-1000 -1200 -1500 -1500
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#7505
+king Laordaeron~
+{WLaordaeron{x~
+The {Wking of Laordaeron{x is here.
+~
+The king of the Human race, if you look at him you may think he
+is old and weak.  Try fighting against him and he will prove you
+wrong. 
+~
+human~
+50 0 0 0 0 0 0 0 50 50 0 50 0 0 200 200 50 0 0 0 200 0 0 0 0 0 
+ABGT DEFNVa BCDEIK 1000 0
+600 1000 0 50086 50128 8081 8131 250 4 250 divine
+-3000 -3000 -3000 -3000
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#7506
+wyvern~
+{^Wyvern{x~
+A large {RBird-like Creature{x is here soaring above you.
+~
+A war bird that has been used by the orcs during the war.  Now
+it stands free to roam the forest, but as the way they react to
+intruders you would think that they are still serving the orc and
+protecting the forest.  
+~
+wyvern~
+100 100 100 200 100 100 100 0 50 200 100 200 100 100 100 0 50 100 100 0 100 100 100 100 0 0 
+ABF DFT CDEK 1000 0
+400 1000 0 16494 16603 0 0 20 30 100 howl
+-1500 -1500 -1500 -1500
+STANDING STANDING neutral 100000
+0 mage medium ACDEFHJKQVX
+
+#7507
+jainna~
+{BJ{Ga{Wi{Wn{Gn{Ba{x~
+The elven ruler {BJ{@a{&in{@n{Ba{x is here.
+~
+A powerful elven sorcerer. She has been the leader of the elves
+for tens of thousands of years now.  
+~
+elf~
+100 100 50 0 0 100 100 0 50 100 100 0 0 50 100 200 50 100 100 100 100 100 100 100 0 0 
+ABT DFJNV BCDGHIK 1000 0
+600 1000 0 45087 45137 8088 8144 25 4 500 sorcery
+-3000 -3000 -3000 -3000
+STANDING STANDING female 100000
+0 mage medium ABCDEFGHIJK
+
+#7508
+nobleman~
+{%No{Wblem{%an{x~
+A {%No{Wblem{%an{x looks you up and down from head to foot.
+~
+Nobleman are the veterans of the war, they were knighted and became
+nobility right after the defeat of the undead.  
+~
+human~
+100 100 100 50 100 100 100 200 50 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 0 0 
+AB 0 CDEK 0 0
+400 1000 0 12480 12602 5472 5598 50 6 70 none
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+T Atyan na lang lugod pag tapos ko na~
+
+#7509
+cenarius~
+{^C{6e{&nari{2u{@s{x~
+{^C{6e{&nari{2u{@s{x is here sleeping on a {^mystical light{x.
+~
+Although not an elf, he was one of the highest generals of the
+by the undead during the war, but was then reincarnated by Jaina
+to help her govern.  silvermoon medit 7510 show show medit 7511
+~
+centaur~
+100 100 100 0 100 0 100 0 50 0 100 0 0 0 100 200 50 100 100 100 100 100 100 100 0 0 
+AB DFNVc BCDEF 1000 0
+600 1000 0 60090 60146 8092 8149 25 4 500 grep
+-3000 -3000 -3000 -3000
+STANDING STANDING neutral 100000
+0 mage large ABCDEFGHIJK
+
+#7510
+knight~
+{*D{$e{*a{$t{*h {!K{*n{!i{*g{!h{*t{x~
+A {^Ghost {xof a {Wnoble {Rknight{x is here
+~
+These knights are the fallen human and elven knights, their souls
+were captured by the undead necromancer and were used to fight against
+their own race.  
+~
+demon~
+100 100 100 200 100 100 100 0 50 200 100 200 100 50 100 0 50 50 100 100 100 100 100 100 0 0 
+ABO CHJT ACDEK -1000 0
+450 1000 0 15481 15608 5477 5610 28 36 100 demonic
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJKPQ
+
+#7511
+andromath~
+{&Andromath{x~
+A great {BSor{Wcerer{x is here summoning monsters from the other worlds
+~
+Andromtha, one of the powerful summoners that helped summon the undead
+army back to Earth.  Afther their defeat he chose to be a petshop
+owner with very unusual pets for sale.  It is said that he is
+sumoning the undead army to prepare for another invasion.
+~
+human~
+100 100 100 0 100 100 100 0 50 100 100 0 100 100 100 200 50 100 100 100 100 100 100 100 0 0 
+AB 0 CDEKP 0 0
+500 1000 0 12798 13353 0 0 60 7 70 slash
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#7512
+anara~
+{YA{8na{Yra{x~
+{YA{8na{Yra{X is here
+~
+A great sorceress that turned herself into a merchant right after
+the war. Although she was invited by the King to lead the magic guild
+she refused and told him she wants to live in peace.
+~
+halfelf~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+AB L CDEKP 0 0
+1000 9999 0 0 0 104282 105616 100 100 1000 none
+-10000 -10000 -10000 -10000
+STANDING STANDING female 1000000
+0 mage medium ABCDEFGHIJK
+
+#7513
+Argnar~
+{BAr{Gg{Bn{Wa{Gr{x~
+An {$Orc {!Guild {@Master{x is here
+~
+Argnar, he is the head of the orc guild, a well known training
+guild for warriors of any kind. He boasts that he was one of the
+orcish generals that fought against the undead, but it seems he
+is too young to be one.  
+~
+orc~
+100 0 100 0 50 100 100 0 50 100 100 150 100 100 100 100 50 100 100 100 100 100 100 100 0 0 
+ABGJKb JVc CDEKP -1000 0
+450 1000 0 13848 14308 0 0 50 5 200 bash
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 100000
+0 mage large ABCDEFGHIJK
+
+#7515
+citizen~
+{YHuman {CCitizen{x~
+A {Wmale {Ccitizen{x of Laordaeron is here
+~
+A citizen of Laordaeron, what more to describe.
+~
+human~
+100 100 100 0 100 100 100 200 50 100 100 100 100 100 100 200 50 100 100 100 100 100 100 100 0 0 
+AC 0 CDEK 0 0
+400 1000 0 10500 10595 5463 5590 10 40 100 suction
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#7516
+giant spider~
+{%Giant Spider{x~
+A {%Giant Spider{x is here ready to jump on you
+~
+A magical creature created by the elves to protect the enchanted
+elven forest.  They were not used during the last war, but if suddenly
+an invasion takes place the elves will not hesitate to use them.
+~
+school monster~
+100 100 0 100 100 100 100 200 50 100 100 100 100 150 100 200 50 100 100 100 100 100 100 100 0 0 
+AB 0 CDEK 0 0
+450 1000 0 12480 12603 5483 5624 28 36 120 venom
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 10000
+0 mage giant ABCDEFHJKQU
+
+#7517
+centaur~
+{GCen{Wtu{^ri{Xan {#Sc{Ro{Wut{x~
+A {wHorse like Creature{x is here getting ready to attack you
+~
+Centaurs are Cenarius' army.  A half horse, half human race that
+are very strong and fast.  It is also said that having human upper
+bodies they can also think like human beings so they are not considered
+animals even by the human race.  
+~
+centaur~
+100 100 100 0 100 100 100 200 50 100 100 0 100 100 100 200 50 100 100 100 100 100 100 100 0 0 
+ABC c CDEFK 1000 0
+450 1000 0 12482 12621 5483 5615 250 1 100 bash
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 10000
+0 mage large ABCDEFGHIJK
+
+#7518
+tauren~
+{#Ta{xur{Yen{x~
+A {ROrcish{Y Tauren{x is here
+~
+The orcish tauren are the millitia army of the orcs.  Along with
+grapplers and throwers they are a very powerful army of destruction.
+~
+troll~
+150 50 50 0 100 100 100 200 50 150 100 150 0 100 100 0 50 100 100 100 100 100 100 100 0 0 
+ABC FJNVc CDEGHIK -1000 0
+400 1000 0 14498 14606 5496 5603 10 10 200 stone
+-1500 -1500 -1500 -1500
+STANDING STANDING neutral 100000
+0 mage medium ABCUV
+
+#7519
+tourist~
+{^To{Ru{^r{ri{^st{x~
+A {Yvis{Bito{Yr{x from {YBh{Wen'{Yda{Wl{x is here.
+~
+A rich man from bhen'dal
+~
+human~
+100 100 100 100 100 100 100 200 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+AC 0 CDEK 0 0
+400 1000 0 9494 9605 5483 5618 10 40 60 scratch
+-1000 -1000 -1000 -800
+STANDING STANDING random 100000
+0 mage medium ABCDEFGHIJK
+
+#7520
+palace gate guard~
+{PP{pa{Wl{wa{yc{Ye {WG{Aa{Ete {WGua{Rr{Dd{x~
+A {Ypalace {Wgate {Yguard{x is here watching your every move
+~
+This guard is a lot stronger than the guards at the gate.  He serves
+to defend the palace with his own life.  
+~
+human~
+100 100 100 0 100 100 100 200 50 100 100 0 100 100 100 200 50 100 100 100 100 100 100 100 0 0 
+AB 0 CDEG 0 0
+450 1000 0 12493 12595 5499 5623 28 52 120 grep
+-1000 -1000 -1000 -1000
+STANDING STANDING male 100000
+0 mage medium ABCDEFGHIJK
+
+#7521
+palace guard~
+{WP{Ya{Wl{Ya{Wc{Ye {RG{Yu{Ra{Rr{Yd{x~
+A {WP{Ya{Wl{Ya{Wc{Ye {RG{Yu{Ra{Yr{Rd{x is here scanning the premises
+~
+This guard is the elite of all the guards.  He is the main army before the King.
+~
+human~
+100 100 100 0 100 100 100 200 50 100 100 100 100 100 100 200 50 100 100 100 100 100 100 100 0 0 
+AFT 0 CDEK 0 0
+400 1000 0 14466 14602 5491 5598 28 52 120 pierce
+-1000 -1000 -1000 -1000
+STANDING STANDING random 100000
+0 mage medium ABCDEFGHIJK
+
+#7522
+rifleman~
+{BR{^i{Bf{^l{Be{^m{Ba{^n{x~
+A {Wsniper{x is here
+~
+Although they are not as accurate as the Elven Archers, they are
+still lethal with guns in hand.
+~
+human~
+100 100 100 0 100 100 100 200 50 0 100 0 100 100 100 200 50 100 100 100 100 100 100 100 0 0 
+A 0 CDEK 0 0
+450 1000 0 15469 15613 5471 5621 28 52 120 bullet
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#7523
+Elite Royal Guard~
+{REl{Wit{Re {BRo{Wyal {^Gu{xard~
+An {RElite {YGuard{x is here
+~
+Although they were called elite guards, they are not.  They are
+the ones who organize the army of the city.  
+~
+human~
+100 100 100 0 100 100 100 200 50 100 100 100 100 100 100 200 50 100 100 100 100 100 100 100 0 0 
+AB 0 CDEK 0 0
+400 1000 0 14469 14596 5454 5599 28 52 100 none
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#7524
+Halfelf~
+{YHalf {GElven {^Citizen{x~
+An {Welf-human{x citizen is here
+~
+This race is what happens when an elf and a human marries.
+~
+halfelf~
+100 100 100 100 100 100 100 200 100 100 100 100 100 100 100 200 100 100 100 100 100 100 100 100 0 0 
+A L CDEK 1000 0
+400 1000 0 12837 13412 1342 1594 10 50 100 bash
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#7525
+Acolyte~
+{%A{Xc{%o{Xl{%y{Xt{%e{x~
+An {%A{Xc{%o{Xl{%y{Xt{%e{x is here
+~
+These are the human beings that chose to serve the undead.  After
+the war they were banished from the city.  
+~
+human~
+100 100 100 0 100 100 100 0 50 200 100 200 100 100 100 0 50 100 100 100 100 100 100 100 0 0 
+AB 0 CDEK -1000 0
+350 1000 0 15487 15616 5469 5596 28 52 70 diabolism
+-1500 -1500 -1500 -1500
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#7526
+cho'gall~
+{^Ch{Yo'{Rga{Bll{x~
+An {Rorc {^chi{Yeft{^ain{x is here
+~
+The only remaining General of the orcs.  It is said that the race
+was annihilated and he is the only one remaining.  
+~
+orc~
+0 0 100 200 50 0 100 200 50 200 100 200 0 100 100 0 50 100 100 100 200 100 100 100 0 0 
+ABT DFJNVc CDEIJK -1000 0
+600 1000 0 45094 45133 5482 5637 250 4 600 sandstorm
+-3000 -3000 -3000 -3000
+STANDING STANDING neutral 100000
+0 mage medium ABCDEFGHIJK
+
+#7527
+soul miner~
+{8Miner's {%Soul{x~
+A {8Miner's {%Soul{x is here
+~
+Their participation during the war is not clear but they are now
+being used by the undeads to mine dark matters that they use to
+make accessories.  
+~
+shadow~
+100 100 100 200 0 100 100 0 50 200 100 200 100 50 100 100 50 50 100 0 100 100 100 100 0 0 
+ABHO PQTU CDEKOP -1000 0
+400 1000 0 15481 15614 5466 5625 28 50 100 drain
+-1000 -1000 -1000 -1000
+STANDING STANDING neutral 200000
+0 mage medium ABCDEFGHIJK
+
+#7528
+kell'thuzad~
+{8Kell{%'Th{^uz{8ad{x~
+A powerful {%N{8e{Wc{8r{%o{8m{Wa{8n{%c{8e{Wr{x is here
+~
+Kell'Thuzad was once a powerful human sorcerer.  It is said that
+his powers are more great than that of tHe elves and human combined.
+he was slain during the war but revived himself by destroying the
+gates that are between Earth and the dead world.
+~
+demon~
+100 100 100 0 50 100 100 0 50 125 100 100 25 50 100 0 0 50 100 100 100 100 100 100 0 0 
+ABO BCDFJTVac ACDEIJK -1000 0
+600 1000 0 45062 45096 8093 8135 250 4 200 anti-matter
+-1900 -1800 -1900 -1900
+STANDING STANDING male 100000
+0 mage medium ABCDEFGHIJKPQ
+
+#7597
+demon~
+{RD{Xe{Rm{Xo{Rn{x~
+A {Rd{Xe{Rm{Xo{Rn {Rh{xe{Ra{Xd{Rh{Xu{Rn{Xt{Re{Xr{X is here
+~
+~
+demon~
+100 100 100 100 100 100 100 100 50 150 100 150 100 50 100 50 50 50 100 100 100 100 100 100 0 0 
+AI CJTU AD 0 0
+100 100 0 1495 1620 0 0 10 2 20 none
+-100 -100 -100 -100
+STANDING STANDING neutral 10000
+0 mage medium ABCDEFGHIJKPQ
+
+#7598
+banshee~
+{%Ban{Wsh{%ee{x~
+A {^gh{Wost {Bof {WSy{xlva{Rnna{x is here haunting you
+~
+~
+shadow~
+100 100 100 0 0 100 100 150 50 150 100 150 100 50 100 100 50 50 100 0 100 100 100 100 0 0 
+AI PQTU OP 0 0
+100 100 0 1490 1611 0 0 10 2 20 none
+-100 -100 -100 -100
+STANDING STANDING neutral 10000
+0 mage medium ABCDEFGHIJK
+
+#7599
+frost wyrm~
+{WFrost {^Wyrm{x~
+A {WFLying {^Lizard{x is hovering above you
+~
+~
+human~
+100 50 50 0 50 100 100 150 50 100 100 100 100 50 150 100 50 50 100 100 100 100 100 100 0 0 
+AI JPQTUZc 0 0 0
+100 100 0 1476 1589 0 0 10 6 20 freeze
+-100 -100 -100 -100
+STANDING STANDING random 10000
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#7500
+Fountain~
+{WFountain {xof {RLaordaeron{x~
+A {WGrand {YFountain {xof {RLaordaeron {xis here~
+fountain 0 0
+10000 10000 'water' 0 0
+201 0 0
+
+#7501
+Mystic~
+{^Mystic Light Of Healing{x~
+You see a {^Mystical Light{x suddenly making you feel sleepy.~
+furniture 0 0
+10 2147483647 FIL 500 300
+0 0 0
+
+#7502
+Sword of Frostmourne~
+{WFro{Bs{*tm{Bou{Wr{Bn{We{x~
+A sword called {WFro{Bs{xtm{Bou{Wr{Bn{We{x is floating here.~
+weapon EFM AN
+sword 33 24 silver DEH
+202 100 10000
+A 13 100
+A 19 10
+A 18 10
+
+#7503
+silvermoon~
+{WSilvermoon{x~
+An old elven religious symbol is here.~
+armor ABFG AV
+-50 -50 -50 -50 0
+201 1 0
+A 19 20
+A 20 -10
+A 18 20
+
+#7504
+short axe~
+{BShort {YAxe{x~
+An {BOr{Rc's {GTr{Wee {BHer{Yder{x is here.~
+weapon ABF AN
+axe 50 15 silver DEH
+202 1 0
+A 17 -100
+A 19 10
+A 20 -2
+A 18 5
+
+#7505
+key to the first gate~
+{WKey to the first gate{x~
+A {Rkey{x that possesses mystic powers.~
+key ABG AO
+0 0 0 0 0
+0 0 0
+A 13 -50
+A 17 -100
+A 18 10
+
+#7506
+key to the scond gate~
+{WKey to the Second Gate{x~
+A magical {Rkey{x that has a tree engraved on it.~
+key ABG AO
+0 0 0 0 0
+0 0 0
+
+#7507
+sign~
+sign~
+{RBeyond this point is an elven land. Anyone who enters will not be able to return.{x~
+furniture 0 0
+0 0 0 0 0
+0 0 0
+
+#7508
+Bright Light~
+{GThis is your way home{x~
+A {YBright Light{x shines here making you feel like you are burning.~
+portal 0 0
+0 0 0 7500 0
+0 0 0
+
+#7509
+potion of health~
+{YA{xna{Yra{W's {^Potion {xof {@Health{x~
+{WPot{Bion {Xof {YHea{$lth{x~
+potion ABVY AO
+180 '' '' '' ''
+201 1 10000
+
+#7511
+anara's potion of sanctuary~
+{YA{xna{Yra{W's {^Potion {xof {YSanctuary{x~
+{^Potion {xof {YSanctuary{x~
+potion AB AO
+201 '' '' '' 'reserved'
+100 1 10000
+
+#7513
+black matter~
+{8Black matter{x~
+A large pile of {8Black matter{x is here.~
+trash 0 0
+0 0 0 0 0
+0 0 0
+
+#7514
+sign of the guardians~
+{^Sig{Yn of {WCenar{Bius{x~
+A {^Symbol of the {GGuardian{X is here.~
+armor ABF AZ
+-100 -100 -50 -50 0
+201 0 1000
+A 13 200
+A 19 50
+A 18 50
+A 12 50
+
+#7515
+ring of darkness~
+{8Ring of Darkness{x~
+A ring made of black matter is here.~
+armor ABF AB
+-100 -20 -60 -20 0
+201 1 0
+A 13 150
+A 12 150
+A 18 20
+A 19 20
+A 20 -5
+#0
+
+#ROOMS
+#7500
+Gates of Laordaeron~
+A very large gate made of thick steel is here.  Although most consider
+it very strong, it does very little to protect the city during
+the undead invasion, for the enemy has the ability to pass through
+walls.  
+~
+0 1
+D0
+~
+gate~
+ABG 0 7501
+D5
+~
+~
+0 0 20415
+S
+
+#7501
+City Street~
+The city street is the only witness of something terrible that
+happened to the city.  During the war Human, Elf and Orc died
+here to protect what was left of the city.  
+~
+0 0
+D0
+~
+~
+0 0 7502
+D1
+~
+~
+0 0 7559
+D2
+~
+~
+ABG 0 7500
+S
+
+#7502
+City Street~
+You are standing in the center of a busy street.  East of you
+is the house of very powerful sorcerer who chose the life of a
+merchant.  
+~
+0 0
+D0
+~
+~
+0 0 7503
+D1
+~
+~
+0 0 7581
+D2
+~
+~
+0 0 7501
+S
+
+#7503
+City Street~
+This part of the city seems a little dirty with leaves and fallen
+trees scattered around.  To the west is the famous orc's guild.
+You find it a little difficult to walk due to the scattered logs.
+~
+0 0
+D0
+~
+~
+0 0 7504
+D2
+~
+~
+0 0 7502
+D3
+~
+~
+0 0 7573
+S
+
+#7504
+City Street~
+The city street is the only witness of something terrible that
+happened to the city.  During the war Human, Elf and Orc died here
+to protect what was left of the city.  
+~
+0 0
+D0
+~
+~
+0 0 7505
+D2
+~
+~
+0 0 7503
+S
+
+#7505
+City Street~
+A tremendous evil power can be sensed coming from beneath the ground.
+There seems to be a very dark looking trapdoor on the ground here
+leading down.  
+~
+0 0
+D0
+~
+~
+0 0 7506
+D2
+~
+~
+0 0 7504
+D5
+~
+~
+0 0 7598
+S
+
+#7506
+City Street~
+The city street is the only witness of something terrible that
+happened to the city.  During the war Human, Elf and Orc died
+here to protect what was left of the city.
+~
+0 0
+D0
+~
+~
+0 0 7507
+D2
+~
+~
+0 0 7505
+S
+
+#7507
+City Street~
+This seems to be the most peaceful part of the city.  As you walk
+along, your urge to fight and kill seems to be removed here.  
+~
+0 0
+D0
+~
+~
+0 0 7508
+D2
+~
+~
+0 0 7506
+S
+
+#7508
+Approaching the Palace~
+North of here is a drawbridge separating the Palace from the rest
+of the City.  From this point, you can already see the majestic
+palace of Lord Laordaeron.  
+~
+0 1
+D0
+~
+~
+0 0 7509
+D2
+~
+~
+0 0 7507
+S
+
+#7509
+Drawbridge~
+The drawbridge has remained wedged down since the end of the war.
+It has never bothered anyone to fix it since the threat to the
+city is already gone.  It now just serves as a bridge for people
+to come and go from the Palace.  
+~
+0 0
+D0
+~
+~
+0 0 7510
+D2
+~
+~
+0 0 7508
+S
+
+#7510
+Palace Gate~
+A beautifully restored gate lies here in front of you.  Although
+it is still a massive gate and anyone who tries to enter without first asking
+tries to enter without first asking for permission will have to
+deal with the five guards that are guarding it.  
+~
+0 0
+D0
+~
+~
+ABG 0 7511
+D2
+~
+~
+0 0 7509
+S
+
+#7511
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.  
+~
+0 0
+D0
+~
+~
+0 0 7512
+D1
+~
+~
+0 0 7516
+D2
+~
+~
+ABG 0 7510
+D3
+~
+~
+0 0 7526
+S
+
+#7512
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the 
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7513
+D1
+~
+~
+0 0 7517
+D2
+~
+~
+0 0 7511
+D3
+~
+~
+0 0 7527
+S
+
+#7513
+Center of the Courtyard~
+A large fountain has been erected here in the center of the courtyard.  The
+fountain was built in commemoration to the heroes that protected the city
+with thier lives during the war.
+~
+0 0
+D0
+~
+~
+0 0 7514
+D1
+~
+~
+0 0 7518
+D2
+~
+~
+0 0 7512
+D3
+~
+~
+0 0 7528
+S
+
+#7514
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7515
+D1
+~
+~
+0 0 7519
+D2
+~
+~
+0 0 7513
+D3
+~
+~
+0 0 7529
+S
+
+#7515
+Entrance to the Palace~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+ABG 0 7558
+D1
+~
+~
+0 0 7520
+D2
+~
+~
+0 0 7514
+D3
+~
+~
+0 0 7530
+S
+
+#7516
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7517
+D1
+~
+~
+0 0 7521
+D2
+~
+~
+0 0 7550
+D3
+~
+~
+0 0 7511
+S
+
+#7517
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7518
+D1
+~
+~
+0 0 7522
+D2
+~
+~
+0 0 7516
+D3
+~
+~
+0 0 7512
+S
+
+#7518
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7519
+D1
+~
+~
+0 0 7523
+D2
+~
+~
+0 0 7517
+D3
+~
+~
+0 0 7513
+S
+
+#7519
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7520
+D1
+~
+~
+0 0 7524
+D2
+~
+~
+0 0 7518
+D3
+~
+~
+0 0 7514
+S
+
+#7520
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7546
+D1
+~
+~
+0 0 7525
+D2
+~
+~
+0 0 7519
+D3
+~
+~
+0 0 7515
+S
+
+#7521
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7522
+D1
+~
+~
+0 0 7536
+D2
+~
+~
+0 0 7551
+D3
+~
+~
+0 0 7516
+S
+
+#7522
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7523
+D1
+~
+~
+0 0 7537
+D2
+~
+~
+0 0 7521
+D3
+~
+~
+0 0 7517
+S
+
+#7523
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7524
+D1
+~
+~
+0 0 7538
+D2
+~
+~
+0 0 7522
+D3
+~
+~
+0 0 7518
+S
+
+#7524
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7525
+D1
+~
+~
+0 0 7539
+D2
+~
+~
+0 0 7523
+D3
+~
+~
+0 0 7519
+S
+
+#7525
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7547
+D1
+~
+~
+0 0 7540
+D2
+~
+~
+0 0 7524
+D3
+~
+~
+0 0 7520
+S
+
+#7526
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7527
+D1
+~
+~
+0 0 7511
+D2
+~
+~
+0 0 7552
+D3
+~
+~
+0 0 7531
+S
+
+#7527
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7528
+D1
+~
+~
+0 0 7512
+D2
+~
+~
+0 0 7526
+D3
+~
+~
+0 0 7532
+S
+
+#7528
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7529
+D1
+~
+~
+0 0 7513
+D2
+~
+~
+0 0 7527
+D3
+~
+~
+0 0 7533
+S
+
+#7529
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7530
+D1
+~
+~
+0 0 7514
+D2
+~
+~
+0 0 7528
+D3
+~
+~
+0 0 7534
+S
+
+#7530
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7548
+D1
+~
+~
+0 0 7515
+D2
+~
+~
+0 0 7529
+D3
+~
+~
+0 0 7535
+S
+
+#7531
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7532
+D1
+~
+~
+0 0 7526
+D2
+~
+~
+0 0 7553
+D3
+~
+~
+0 0 7541
+S
+
+#7532
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7533
+D1
+~
+~
+0 0 7527
+D2
+~
+~
+0 0 7531
+D3
+~
+~
+0 0 7542
+S
+
+#7533
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7534
+D1
+~
+~
+0 0 7528
+D2
+~
+~
+0 0 7532
+D3
+~
+~
+0 0 7543
+S
+
+#7534
+CourtYard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7535
+D1
+~
+~
+0 0 7529
+D2
+~
+~
+0 0 7533
+D3
+~
+~
+0 0 7544
+S
+
+#7535
+Courtyard~
+This is a place where all the nobles come to meet.  As you look
+around you can see a beautiful fountain in the distance at the
+center of the courtyard.
+~
+0 0
+D0
+~
+~
+0 0 7549
+D1
+~
+~
+0 0 7530
+D2
+~
+~
+0 0 7534
+D3
+~
+~
+0 0 7545
+S
+
+#7536
+Eastern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7537
+D2
+~
+~
+0 0 7554
+D3
+~
+~
+0 0 7521
+S
+
+#7537
+Eastern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7538
+D2
+~
+~
+0 0 7536
+D3
+~
+~
+0 0 7522
+S
+
+#7538
+Eastern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7539
+D2
+~
+~
+0 0 7537
+D3
+~
+~
+0 0 7523
+S
+
+#7539
+Eastern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7540
+D2
+~
+~
+0 0 7538
+D3
+~
+~
+0 0 7524
+S
+
+#7540
+Eastern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7556
+D2
+~
+~
+0 0 7539
+D3
+~
+~
+0 0 7525
+S
+
+#7541
+Western Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7542
+D1
+~
+~
+0 0 7531
+D2
+~
+~
+0 0 7555
+S
+
+#7542
+Western Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7543
+D1
+~
+~
+0 0 7532
+D2
+~
+~
+0 0 7541
+S
+
+#7543
+Western Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7544
+D1
+~
+~
+0 0 7533
+D2
+~
+~
+0 0 7542
+S
+
+#7544
+Western Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7545
+D1
+~
+~
+0 0 7534
+D2
+~
+~
+0 0 7543
+S
+
+#7545
+Western Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7557
+D1
+~
+~
+0 0 7535
+D2
+~
+~
+0 0 7544
+S
+
+#7546
+Northern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D1
+~
+~
+0 0 7547
+D2
+~
+~
+0 0 7520
+S
+
+#7547
+Northern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D1
+~
+~
+0 0 7556
+D2
+~
+~
+0 0 7525
+D3
+~
+~
+0 0 7546
+S
+
+#7548
+Northern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D2
+~
+~
+0 0 7530
+D3
+~
+~
+0 0 7549
+S
+
+#7549
+Northern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D1
+~
+~
+0 0 7548
+D2
+~
+~
+0 0 7535
+D3
+~
+~
+0 0 7557
+S
+
+#7550
+Southern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7516
+D1
+~
+~
+0 0 7551
+S
+
+#7551
+Southern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7521
+D1
+~
+~
+0 0 7554
+D3
+~
+~
+0 0 7550
+S
+
+#7552
+Southern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7526
+D3
+~
+~
+0 0 7553
+S
+
+#7553
+Southern Wall~
+This huge wall was built before the war ravaged the city.  It is
+said that the blood of the people who built it flows through the
+walls.
+~
+0 0
+D0
+~
+~
+0 0 7531
+D1
+~
+~
+0 0 7552
+D3
+~
+~
+0 0 7555
+S
+
+#7554
+Southeastern Watchtower~
+This is but one of the four watchtowers that protects the palace
+from invaders.  They are the reason why it took almost a month
+for the invading armies to capture the Palace.  
+~
+0 0
+D0
+~
+~
+0 0 7536
+D3
+~
+~
+0 0 7551
+D4
+~
+~
+0 0 7583
+S
+
+#7555
+Southwestern Watchtower~
+This is but one of the four watchtowers that protects the palace
+from invaders.  They are the reason why it took almost a month
+for the invading armies to capture the Palace. 
+~
+0 0
+D0
+~
+~
+0 0 7541
+D1
+~
+~
+0 0 7553
+D4
+~
+~
+0 0 7584
+S
+
+#7556
+Northeastern Watchtower~
+This is but one of the four watchtowers that protects the palace
+from invaders.  They are the reason why it took almost a month
+for the invading armies to capture the Palace. 
+~
+0 0
+D2
+~
+~
+0 0 7540
+D3
+~
+~
+0 0 7547
+D4
+~
+~
+0 0 7585
+S
+
+#7557
+Northwestern Watchtower~
+This is but one of the four watchtowers that protects the palace
+from invaders.  They are the reason why it took almost a month
+for the invading armies to capture the Palace. 
+~
+0 0
+D1
+~
+~
+0 0 7549
+D2
+~
+~
+0 0 7545
+D4
+~
+~
+0 0 7586
+S
+
+#7558
+Laordaeron's Keep~
+{BYou are in Lord Laordaeron's keep. You see Lord Laordearon sitting
+on his throne, he seems to be thinking about something. As you
+look around you see the the place is made of pure gold.
+~
+0 0
+D2
+~
+~
+ABG 0 7515
+S
+
+#7559
+A Well Lit Path~
+{GAs you walk along the path, you feel the presence of a strong magic that is
+rushing through your body. It seems like it is telling you to stay away.{x
+~
+0 0
+D1
+~
+~
+0 0 7560
+D3
+~
+~
+0 0 7501
+S
+
+#7560
+A Well Lit Path~
+{GAs you walk along the path, you feel the presence of strong magic that is
+rushing through your body. it seems like it is telling you to stay away
+~
+0 0
+D1
+~
+~
+0 0 7561
+D3
+~
+~
+0 0 7559
+S
+
+#7561
+A Well Lit Path~
+{G As you walk along the path, you feel the presence of a strong magic that is
+rushing through your body. It seems like it is telling you to stay away.{x
+~
+0 0
+D0
+~
+~
+0 0 7582
+D1
+~
+~
+0 0 7562
+D3
+~
+~
+0 0 7560
+S
+
+#7562
+A Well lit Path~
+{GAs you walk along the path, you feel the presence of a strong magic
+rushing through your body.  It seems like it is telling you to
+stay away.  {x 
+~
+4 0
+D0
+~
+~
+0 0 7563
+D3
+~
+~
+0 0 7561
+E
+edit~
+loo
+{RTo all who wish to pass
+ 
+{GThe land beyond this point is protected by powerful elven magic anyone who
+will enter it, will surely meet death.
+ 
+{BBeyond this point anyone who enter will not be able to return
+~
+S
+
+#7563
+Greenwood Pass~
+{BThis forest has been enchanted by the powers of the elves so that only
+the people who were chosen would be able to pass or return.
+As you walk along the dark forest you sense that there are several
+people watching your every move, but as you look around you find
+nothing but tall thick trees.
+~
+532481 3
+D0
+~
+~
+0 0 7564
+D1
+~
+~
+0 0 7564
+D2
+~
+~
+0 0 7564
+D3
+~
+~
+0 0 7564
+D4
+~
+~
+0 0 7564
+D5
+~
+~
+0 0 7564
+S
+
+#7564
+Greenwood Pass~
+This forest has been enchanted by the powers of the elves so that
+only the people who were chosen would be able to pass or return.
+You are completely lost, and don't know where to go.  Due to the
+darkness you can't even see what direction you came from.  
+~
+8193 3
+D0
+~
+~
+0 0 7563
+D1
+~
+~
+0 0 7563
+D2
+~
+~
+0 0 7565
+D3
+~
+~
+0 0 7563
+D4
+~
+~
+0 0 7563
+D5
+~
+~
+0 0 7563
+S
+
+#7565
+Greenwood Pass~
+This forest has been enchanted by the powers of the elves so that
+only the people who were chosen would be able to pass or return.
+You feel really tired and you are finding it hard to even lift
+your feet.  
+~
+8193 3
+D0
+~
+~
+0 0 7563
+D1
+~
+~
+0 0 7563
+D2
+~
+~
+0 0 7563
+D3
+~
+~
+0 0 7563
+D4
+~
+~
+0 0 7566
+D5
+~
+~
+0 0 7563
+S
+
+#7566
+Greenwood Pass~
+This forest has been enchanted by the powers of the elves so that only
+the people who were chosen would be able to pass or return.
+~
+8193 3
+D0
+~
+~
+0 0 7563
+D1
+~
+~
+0 0 7563
+D2
+~
+~
+0 0 7567
+D3
+~
+~
+0 0 7563
+D4
+~
+~
+0 0 7563
+D5
+~
+~
+0 0 7563
+S
+
+#7567
+Greenwood Pass~
+This forest has been enchanted by the powers of the elves so that only
+the people who were chosen would be able to pass or return.
+~
+8193 3
+D0
+~
+~
+0 0 7563
+D1
+~
+~
+0 0 7563
+D2
+~
+~
+0 0 7563
+D3
+~
+~
+0 0 7568
+D4
+~
+~
+0 0 7563
+D5
+~
+~
+0 0 7563
+S
+
+#7568
+Greenwood Pass~
+This forest has been enchanted by the powers of the elves so that only
+the people who were chosen would be able to pass or return.
+~
+8197 3
+D0
+~
+~
+0 0 7569
+D1
+~
+~
+0 0 7567
+D2
+~
+~
+0 0 7563
+D3
+~
+~
+0 0 7563
+D4
+~
+~
+0 0 7563
+D5
+~
+~
+0 0 7563
+S
+
+#7569
+Outer Gates Of Silver Moon~
+Here lies the first gate separatign the elven world from the human
+world.  They only way to pass through here is to kill the archers
+standing guard by the gate.  
+~
+8192 0
+D0
+~
+~
+ABC 7505 7570
+D2
+~
+~
+0 0 7568
+S
+
+#7570
+Sunwell Groove~
+This is a mystical place that is believed to be the source of the
+power of the Elves.  You see a glowing light, but can't determine
+where the source is.  
+~
+8192 3
+D0
+~
+~
+0 0 7571
+D2
+~
+~
+ABC 7505 7569
+S
+
+#7571
+Inner Gates of Silver Moon~
+{BThis is tthey last gate that separates the elves from the rest
+of the world.  It is said that none can open the gate unless he
+hold the sacred key.  Passing through the gat is the only way to
+return to the human world.  
+~
+8192 3
+D0
+~
+~
+ABC 7506 7572
+D2
+~
+~
+AB 0 7570
+S
+
+#7572
+Silvermoon~
+{WYou are in a magical place that is so bright you hardly can see anything.
+The light seems to be coming directly from {BJ{Ga{Win{Cn{Ba{W's throne.{x
+~
+0 3
+D2
+~
+~
+ABG 0 7571
+S
+
+#7573
+Orc's Guild~
+{BThe guild made for orcs. this place serves as the entrance to the orc's land
+and the only way to pass through is to get the key from the guild master.
+~
+0 0
+D1
+~
+~
+0 0 7503
+D2
+~
+~
+ABG 7504 7575
+S
+
+#7574
+test~
+~
+4 0
+S
+
+#7575
+Blackrock Depths~
+Before the Orcs came and tended the land to suit their needs, this
+was once a very thick forest.  All that can be seen now are a few
+trees that have been left to sparsely cover the land.  Although
+the trees are almost gone, it seems as though the creatures living
+here still remain.  
+~
+0 3
+D0
+~
+~
+0 0 7573
+D1
+~
+~
+0 0 7576
+S
+
+#7576
+Blackrock Depths~
+As you walk along you notice that the creatures do not seem to
+be afraid of you.  In fact, it seems as though they are trying
+to make you go away.  
+~
+0 0
+D2
+~
+~
+0 0 7577
+D3
+~
+~
+0 0 7575
+S
+
+#7577
+Blackrock Depths~
+It appears that there are two dominant creatures here.  One
+soars through the sky, and the other roams the ground.  
+~
+4 0
+D0
+~
+~
+0 0 7576
+D5
+~
+~
+0 0 7578
+S
+
+#7578
+Blackrock Depths~
+From the looks of it, these creatures do not want you here.  They
+are doing everything they can to try and drive you away.
+~
+4 0
+D1
+~
+~
+0 0 7579
+D4
+~
+~
+0 0 7577
+S
+
+#7579
+Blackrock Depths~
+You finally reach the orc camp.  Beyond this point is the camp
+of Grom'gol, the most fearsome of all the orc clans.  This is the
+only of the orc clans that survived the undead siege.  
+~
+4 0
+D0
+~
+~
+AB 0 7580
+D3
+~
+~
+0 0 7578
+S
+
+#7580
+Grom'gol Base Camp~
+This is the legendary base camp of the orc warriors.  As you move
+around you notice a bunch of skulls hanging around the campsite.
+You inch closer and suddenly realize that these are the skulls
+of the elves and humans which the orcs have slain.  
+~
+4 0
+D2
+~
+~
+AB 0 7579
+S
+
+#7581
+Merchant's House~
+{BThis is {YA{8na{Yra{B, the half-elf merchant of Laordaeron,'s house.
+You feel that the place is surrounded by a great magic.{x
+~
+0 0
+D3
+~
+~
+0 0 7502
+S
+
+#7582
+Moon Pool~
+~
+1028 0
+D2
+~
+~
+0 0 7561
+H 1000 500
+S
+
+#7583
+On Top of the Watch Tower~
+{BFrom this point you can see the whole city.
+~
+0 0
+D5
+~
+~
+AB 0 7554
+S
+
+#7584
+On Top Of the Watchtower~
+{BFrom this point you can see the whole city.
+~
+0 0
+D5
+~
+~
+AB 0 7555
+S
+
+#7585
+On Top of the Watchtower~
+{BFrom this point you can see the whole city.
+~
+0 0
+D5
+~
+~
+AB 0 7556
+S
+
+#7586
+On Top of the Watchtower~
+{BFrom this point you can see the whole city.
+~
+0 0
+D5
+~
+~
+AB 0 7557
+S
+
+#7587
+Halls of the Dead~
+You are in a very big and dimly lit hall which you can't see the
+end of.  As you look around, you realize that the walls of the
+hall are made of gold and gemstones.  
+~
+0 0
+D1
+~
+~
+0 0 7598
+D4
+~
+~
+0 0 7588
+S
+
+#7588
+Halls of the dead~
+Horrible screams break the air stopping you in your tracks.  You
+try to identify where the screams are coming from, but it seems
+that they are coming from everywhere.  
+~
+0 0
+D3
+~
+~
+0 0 7589
+D5
+~
+~
+0 0 7587
+S
+
+#7589
+Halls of the Dead~
+In front of you is a creature that looks familiar, but as you move
+closer, you realize that you are looking at your own reflection.
+You try to touch it, but it suddenly disappears.  
+~
+0 0
+D1
+~
+~
+0 0 7588
+D3
+~
+~
+0 0 7590
+S
+
+#7590
+Halls of the Dead~
+You turn around deciding to leave, but suddenly realize that you
+are lost and don't remember which way is out.  
+~
+0 0
+D0
+~
+~
+0 0 7591
+D1
+~
+~
+0 0 7589
+S
+
+#7591
+Halls of the Dead~
+At last you reach the end of the hallway.  You see an exit leading
+down, but it is so dark that you can't see what's beyond it.  
+~
+0 0
+D2
+~
+~
+0 0 7590
+D5
+~
+~
+0 0 7592
+S
+
+#7592
+Haunted Goldmine~
+The humans once used this place to produce gold and ore needed
+for the war, however since the end of the war it has been abandoned.
+No one knows when the undead souls took over the place, but it
+seems that the miners are actually the souls of the humans who
+once mined here.  
+~
+1 0
+D4
+~
+~
+0 0 7591
+D5
+~
+~
+0 0 7593
+S
+
+#7593
+Haunted Goldmine~
+There is nothing much to look at here, just the end of the mine
+and some souls still mining.  You try to look and see what they
+are mining, but you don't recognize what it is.  
+~
+0 0
+D0
+~
+~
+0 0 7594
+D4
+~
+~
+0 0 7592
+S
+
+#7594
+First Ziggurat~
+This is the Ziggurat.  the undead used it during the war as a source
+of power and for the protection of their camp as well.  It is said
+that it uses the souls of the enemy to destroy an approaching cavalry.
+This is one of the last remaining Ziggurats left after the war.
+~
+0 0
+D0
+~
+~
+0 0 7595
+D2
+~
+~
+0 0 7593
+S
+
+#7595
+Second Ziggurat~
+This Ziggurat seems to not work anymore, and it stands only as
+a storage facility for the undead.  Most of the black matter that
+is being mined is taken here for storage.  
+~
+0 0
+D0
+~
+~
+AB 0 7596
+D2
+~
+~
+0 0 7594
+S
+
+#7596
+Black Citadel~
+~
+0 0
+D2
+~
+~
+AB 0 7595
+S
+
+#7598
+Summoning Room~
+~
+4096 0
+D3
+~
+~
+ABG 0 7587
+D4
+~
+~
+0 0 7505
+S
+
+#7599
+pet_shop~
+~
+8196 0
+S
+#0
+
+#SPECIALS
+M 7505 spec_cast_mage
+M 7507 spec_cast_mage
+M 7509 spec_breath_acid
+M 7528 spec_cast_undead
+S
+
+#RESETS
+D 100 7500 0 1
+D 100 7501 2 1
+D 100 7510 0 1
+D 100 7511 2 1
+D 100 7515 0 1
+D 100 7558 2 1
+D 100 7569 0 2
+D 100 7570 2 2
+D 100 7571 0 2
+D 100 7571 2 1
+D 100 7572 2 1
+D 100 7573 2 1
+D 100 7579 0 1
+D 100 7580 2 1
+D 100 7583 5 1
+D 100 7584 5 1
+D 100 7585 5 1
+D 100 7586 5 1
+D 100 7595 0 1
+D 100 7596 2 1
+D 100 7598 3 1
+M 100 7500 5 7500 5
+M 100 7500 5 7500 5
+M 100 7500 5 7500 5
+M 100 7500 5 7500 5
+M 100 7500 5 7500 5
+M 100 7519 10 7501 1
+M 100 7524 30 7501 2
+M 100 7524 30 7501 2
+M 100 7515 30 7501 3
+M 100 7515 30 7501 3
+M 100 7515 30 7501 3
+M 100 7524 30 7502 3
+M 100 7524 30 7502 3
+M 100 7515 30 7502 2
+M 100 7515 30 7502 2
+M 100 7519 10 7503 1
+M 100 7515 30 7503 5
+M 100 7515 30 7504 5
+M 100 7515 30 7505 4
+M 100 7515 30 7506 1
+M 100 7524 30 7506 4
+M 100 7524 30 7506 4
+M 100 7524 30 7506 4
+M 100 7524 30 7506 4
+M 100 7519 10 7507 1
+M 100 7508 30 7508 2
+M 100 7519 10 7508 1
+M 100 7508 30 7509 1
+M 100 7520 5 7510 5
+M 100 7520 5 7510 5
+M 100 7520 5 7510 5
+M 100 7520 5 7510 5
+M 100 7520 5 7510 5
+M 100 7521 30 7511 2
+M 100 7521 30 7511 2
+M 100 7508 30 7511 2
+M 100 7521 30 7512 1
+M 100 7508 30 7512 2
+M 100 7521 30 7513 1
+M 100 7508 30 7513 2
+O 100 7500 0 7513
+M 100 7521 30 7514 2
+M 100 7508 30 7514 2
+M 100 7523 5 7515 5
+M 100 7523 5 7515 5
+M 100 7523 5 7515 5
+M 100 7523 5 7515 5
+M 100 7523 5 7515 5
+M 100 7521 30 7518 1
+M 100 7508 30 7519 2
+M 100 7508 30 7522 2
+M 100 7521 30 7523 1
+M 100 7508 30 7523 2
+M 100 7508 30 7527 2
+M 100 7521 30 7528 1
+M 100 7508 30 7528 2
+M 100 7521 30 7529 2
+M 100 7508 30 7532 2
+M 100 7521 30 7533 2
+M 100 7521 30 7533 2
+M 100 7521 30 7534 2
+M 100 7521 30 7534 2
+M 100 7508 30 7541 2
+M 100 7508 30 7542 2
+M 100 7508 30 7543 2
+M 100 7521 30 7544 2
+M 100 7505 1 7558 1
+E 100 7502 0 16
+M 100 7515 30 7559 2
+M 100 7515 30 7559 2
+M 100 7524 30 7559 3
+M 100 7524 30 7559 3
+M 100 7524 30 7559 3
+M 100 7515 30 7560 2
+M 100 7524 30 7560 4
+M 100 7524 30 7561 2
+M 100 7524 30 7561 2
+M 100 7515 30 7561 3
+M 100 7515 30 7561 3
+M 100 7515 30 7561 3
+O 100 7507 0 7562
+M 100 7517 30 7563 3
+M 100 7517 30 7563 3
+M 100 7517 30 7563 3
+M 100 7516 30 7563 3
+M 100 7516 30 7563 3
+M 100 7516 30 7564 6
+M 100 7516 30 7564 6
+M 100 7516 30 7564 6
+M 100 7516 30 7564 6
+M 100 7516 30 7564 6
+M 100 7517 30 7565 4
+M 100 7517 30 7565 4
+M 100 7517 30 7565 4
+M 100 7517 30 7565 4
+M 100 7516 30 7565 1
+M 100 7517 30 7566 2
+M 100 7517 30 7566 2
+M 100 7516 30 7566 3
+M 100 7516 30 7566 3
+M 100 7516 30 7566 3
+M 100 7516 30 7567 4
+M 100 7516 30 7567 4
+M 100 7516 30 7567 4
+M 100 7516 30 7567 4
+M 100 7517 30 7568 5
+M 100 7517 30 7568 5
+M 100 7517 30 7568 5
+M 100 7517 30 7568 5
+M 100 7517 30 7568 5
+M 100 7503 5 7569 5
+M 100 7503 5 7569 5
+M 100 7503 5 7569 5
+M 100 7503 5 7569 5
+M 100 7503 5 7569 5
+E 100 7505 0 17
+O 100 7501 0 7570
+M 100 7509 1 7570 1
+E 100 7514 0 30
+M 100 7504 5 7571 5
+E 100 7506 0 17
+M 100 7504 5 7571 5
+M 100 7504 5 7571 5
+M 100 7504 5 7571 5
+M 100 7504 5 7571 5
+O 100 7508 0 7572
+M 100 7507 1 7572 1
+E 100 7503 0 26
+M 100 7513 1 7573 1
+M 100 7525 1 7574 1
+M 100 7506 30 7575 1
+M 100 7518 30 7575 5
+M 100 7518 30 7575 5
+M 100 7518 30 7575 5
+M 100 7518 30 7575 5
+M 100 7506 30 7576 1
+M 100 7518 30 7576 6
+M 100 7518 30 7576 6
+M 100 7518 30 7576 6
+M 100 7518 30 7576 6
+M 100 7518 30 7576 6
+M 100 7506 30 7577 6
+M 100 7506 30 7577 6
+M 100 7506 30 7577 6
+M 100 7506 30 7577 6
+M 100 7506 30 7577 6
+M 100 7518 30 7578 5
+M 100 7518 30 7578 5
+M 100 7518 30 7578 5
+M 100 7518 30 7578 5
+M 100 7518 30 7578 5
+M 100 7518 30 7579 3
+M 100 7518 30 7579 3
+M 100 7518 30 7579 3
+M 100 7506 30 7579 3
+M 100 7506 30 7579 3
+M 100 7506 30 7579 3
+M 100 7526 1 7580 1
+E 100 7504 0 16
+M 100 7512 1 7581 1
+G 100 7511 0
+G 100 7509 0
+M 100 7501 1 7582 1
+M 100 7522 20 7583 5
+M 100 7522 20 7583 5
+M 100 7522 20 7583 5
+M 100 7522 20 7583 5
+M 100 7522 20 7583 5
+M 100 7522 20 7584 5
+M 100 7522 20 7584 5
+M 100 7522 20 7584 5
+M 100 7522 20 7584 5
+M 100 7522 20 7584 5
+M 100 7522 20 7585 5
+M 100 7522 20 7585 5
+M 100 7522 20 7585 5
+M 100 7522 20 7585 5
+M 100 7522 20 7585 5
+M 100 7522 20 7586 5
+M 100 7522 20 7586 5
+M 100 7522 20 7586 5
+M 100 7522 20 7586 5
+M 100 7522 20 7586 5
+M 100 7510 30 7587 5
+M 100 7510 30 7587 5
+M 100 7510 30 7587 5
+M 100 7510 30 7588 5
+M 100 7510 30 7588 5
+M 100 7510 30 7588 5
+M 100 7510 30 7588 5
+M 100 7510 30 7589 5
+M 100 7510 30 7589 5
+M 100 7510 30 7589 5
+M 100 7510 30 7589 5
+M 100 7510 30 7589 5
+M 100 7510 30 7590 5
+M 100 7510 30 7590 5
+M 100 7510 30 7590 5
+M 100 7510 30 7590 5
+M 100 7510 30 7590 5
+M 100 7510 30 7591 5
+M 100 7510 30 7591 5
+M 100 7510 30 7591 5
+M 100 7510 30 7591 5
+M 100 7527 10 7592 5
+M 100 7527 10 7592 5
+M 100 7527 10 7592 5
+M 100 7527 10 7592 5
+M 100 7527 10 7592 5
+M 100 7527 10 7593 5
+M 100 7527 10 7593 5
+M 100 7527 10 7593 5
+M 100 7527 10 7593 5
+M 100 7527 10 7593 5
+M 100 7525 10 7594 5
+M 100 7525 10 7594 5
+M 100 7525 10 7594 5
+M 100 7525 10 7594 5
+M 100 7525 10 7594 5
+O 100 7513 0 7595
+M 100 7525 10 7595 5
+M 100 7525 10 7595 5
+M 100 7525 10 7595 5
+M 100 7525 10 7595 5
+M 100 7525 10 7595 5
+M 100 7528 1 7596 1
+E 100 7515 0 2
+M 100 7511 1 7598 1
+M 100 7597 1 7599 1
+M 100 7598 1 7599 1
+M 100 7599 1 7599 1
+S
+
+#SHOPS
+7511 0 0 0 0 0 50 100 0 23
+7512 0 10 0 0 0 100 100 0 23
+0
+
+#$

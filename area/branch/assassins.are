@@ -1,0 +1,473 @@
+#AREADATA
+Name Assassins Clan Hall~
+Builders None~
+VNUMs 29400 29449
+Credits [-CLANS-] Vartan17     Assassins CH~
+Security 9
+End
+
+
+
+#MOBILES
+#29400
+Jesse James~
+{8J{Wesse {8J{Wames{}~
+{8J{Wesse {8J{Wames{} is here, cleaning his six-shooter.
+~
+{8J{Wesse {8J{Wames{}, the fabled outlaw and gunslinger, is standing here
+purging the taint of battle from your soul.  You look into his {ccold blue{}
+eyes and feel relaxed.  
+~
+human~
+ABGJKQRTVabcd DTUZ HN 1000 0
+330 105 1d1+49999 1d1+1000 1d1+100 magic
+-399 -399 -399 -399
+AGHO ABCDEFGHIJKLMNOPQRS 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge unknown
+#29401
+Bruce Lee~
+{WSpirit{x of the {RDr{rag{Ron{x~
+The {WSpirit{x of Bruce Lee is here staring right at you with an {revil{x grin.
+~
+The assassins have somehow brought Bruce Lee's spirit back from the beyond
+and now the fabled Dragon is the guardian and keeper of Executioners Grand
+Hall.  As you approach he whispers, 'You dare come invade my keepers realm?
+Defend yourself if you wish to enter!'
+
+~
+human~
+ABMT DFVc CDEHO 1000 0
+159 159 1d1+999999 25d5+4000 6d48+400 slice
+-599 -599 -599 -599
+BEGHW AB 0 0
+stand stand male 5000
+AHLMV ABCDEFGHIJK huge unknown
+#29402
+lee harvey oswald~
+{BL{bee {BH{barvey {BO{bswald{}~
+{BL{bee {BH{barvey {BO{bswald{} is here selling the finest eq.
+~
+{wJFK's Assassin is here selling you equipment.  His haunted {bb{Blu{be{}
+eyes are full of vindictive rage at his misalications.  Was he sent by God
+on a mission?  Or by Castro?  Only he knows and his lips are sealed.  
+~
+human~
+ABGMV DF H 1000 0
+100 0 1d1+1999 1d1+999 1d1+99 divine
+-250 -250 -250 -250
+0 ABCDLQ 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#29400
+burning beanbag chair~
+burning beanbag chair~
+A {Yb{rurnin{Rg {Yb{reanba{Rg {Yc{rhai{Rr{x sits near the natural {Cs{xp{Cr{xi{Cn{xg.~
+hemp~
+furniture AB 0
+20 20000 BCEFHIKL 400 400
+0 0 0 P
+#29401
+holy nunchuks~
+{8Ebony{x Nunchuks~
+Some darkly holy nunchuks are lying on the ground~
+ebony~
+weapon AB N
+exotic 25 50 wrath ABCDEFGH
+109 1000 1 P
+#29402
+Assassins Donation Pit~
+Assassins donation pit~
+Assassins donation pit~
+~
+pit O 0
+10000 0 0 1000 100
+0 0 0 P
+#29403
+natural spring mineral water~
+a natural {Cs{xp{Cr{xi{Cn{xg~
+A natural {Cs{xp{Cr{xi{Cn{xg of mineral water gushes here.~
+marble~
+fountain G 0
+-1 -1 'mineral water' 0 0
+0 0 0 P
+#29404
+Assassin chaimpionship ring~
+{!Assassins' {#Championship Ring{0~
+A ring with {!Assassin{0 engraved into it lies here.~
+energy~
+armor AFHMT AB
+0 0 0 0 0
+1 10 1000 P
+A
+18 3
+A
+19 2
+#29405
+assassin bullet proof vest shroud~
+{!Assassins {8BuLLeT-PRooF VeST{0~
+You see a dark shroud of sturdy material on the ground here.~
+etherealness~
+armor BCFGHT AK
+0 0 0 0 0
+1 30 1500 P
+F
+A 2 3 P
+#29406
+Assassins AB roller 2000~
+{!Assassin's {1AB Roller {^2000{0~
+{!Assassin's {1AB Roller {^2000{0 is standing here dripping with sweat.~
+adamantite~
+armor CFGHT AD
+0 0 0 0 0
+1 250 5000 P
+A
+1 2
+A
+18 3
+A
+19 2
+#29407
+assassins flame~
+{!Assassin's {1FLaMe{0~
+A light burns bright on the ground here.~
+energy~
+light ACFGHT AO
+0 0 999 0 0
+40 10 2000 P
+F
+A 0 0 CDEFG
+#29408
+assassins dagger of reason~
+{!Assassins {!D{1a{!gg{1e{!r{0 of {8Reason{0~
+A dagger has been left caresly on the floor~
+energy~
+weapon ACFHIMT AN
+dagger 1 1 wrath ADEH
+1 30 4000 P
+A
+18 5
+A
+19 5
+#29409
+assassins skull demons~
+{!Assassins {0skull of the {*Demons{0~
+A skull with {!Assassins {0insignia lies here.~
+ethrealness~
+armor ABOT AR
+0 0 0 0 0
+1 40 6500 P
+A
+18 3
+A
+19 4
+F
+A 0 0 c
+#29410
+assassin bracer power watches~
+{!Assassins {1PoWeR {8Watches{0~
+You see a watch glowing with {!Assassins{0 insignia here.~
+mithril~
+armor ABFHMT AM
+0 0 0 0 0
+1 55 5000 P
+#29411
+assassins icepick death sword~
+{!Assassins {^Icepick{0 of {!DeaTH{0~
+You see a glowing sword lying here.~
+obsidian~
+weapon ABCFIMT AN
+sword 1 1 slash DGH
+1 50 6000 P
+A
+18 10
+A
+19 10
+#29412
+assassin spirit floater~
+{!Assassin's{0 spirit~
+A spirit of an {!assassin{0 floats here.~
+etherealness~
+armor BFHMT AQ
+0 0 0 0 0
+1 0 2000 P
+A
+18 5
+A
+19 5
+#29413
+Assassins BBQ sandwich~
+{1BBQ{0 Sandwich~
+A "BBQ" sandwich lies here dripping blood.~
+food~
+food A A
+75 70 0 0 0
+0 10 50 P
+#29414
+36 chambers portal~
+a portal to 36 chambers~
+A {RPortal{} to {R36 Chambers{}.~
+fire~
+portal 0 0
+0 0 0 57800 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#29400
+Entrance to Assassin's clan hall.~
+As you walk into the entrance of the Assassin's Clan, you glimpse at the
+25 foot statues of the great fighters, Playa and Tanis.  You are ready to
+enter the city of Midgaard as you wield your weapons.  You are mentally
+prepared as you take with you your killer instinct, to extinguish every soul
+within your killing ability.  To the left and right of you are two violent
+winds.  One pushing you to the city of Midgaard, the other back to your clan
+hall.  The first step you take in either direction sends you to that
+location.  Choose wisely, but you must choose.  
+~
+0 1048584 1
+D4
+~
+~
+0 0 3014
+D5
+~
+~
+0 -1 29401
+S
+#29401
+{B-{WL{8o{Wo{8p{B in {WT{8i{Wm{8e{B-{}~
+You are standing in a cave with {Rr{re{Rd{} and {Bb{bl{Bu{be{} mist
+swirling at your feet.  On the florecent hard stone walls, portraits of the
+legondary men and woman who paced these halls and plotted the murders of the
+great, stare down at you almost accusingly.  Their {ci{Cc{cy{} stares bring
+you to ponder a moment what being an {bassassin{} entails.  You are the best
+of the best, the {bmid{Yni{bght {8black{} part of the {8shadow{} in the
+corner, ever looking for your next victim and already calculating the best
+way to clean up the {rbl{Roo{rd{}.  {bAssassins{} are a cursed people.  They
+can never befriend anyone they wouldn't {rmurder{} for the right price. 
+It's a lonely existence of trechery and secrecy.  You understand the only
+people you can trust with your life are fellow {bAssassins{}.  {wYou wait. 
+{} You feel a {rp{Rul{rs{Re{} in this cavern, a tempest of {ye{Yne{yrg{Yy{}
+seeping into your body.  The {8mist{} around your feet becomes violent as it
+grows.  This room is alive with the {rsouls{} of {bAssassins{} killed for
+your cause and powered by the deaths planned here.  With every assassination
+this {ye{Yne{yrg{Yy{} grows stronger, feeding your soul and the souls of
+future {bAssassins{}.  You feel lightheaded, your whole body alive and
+racing with a feverish intensity and as it slowly passes the pressing urge
+to kill remains.  {rMurder{} is in-born into your soul, into your being and
+you accept this with a terrible grin.  You know without seeing that there is
+a mad gleam dancing about your eyes and a cold as {ci{Cc{ce{} light just
+below the surface.  The {ye{Yne{yrg{Yy{} is inside you now.  As you sit to
+plot and bring about the death of yet another lost soul, you hold your head
+back and laugh in rapture for you know the truth, the one great truth in a
+sea of lies.  
+You are an {BASSASSIN{}
+~
+0 1032 0
+D0
+~
+~
+0 0 29406
+D1
+You see Vern's White room.
+~
+~
+0 0 29402
+D2
+You see Dirge's Shadows.
+~
+~
+0 0 29403
+D3
+~
+~
+0 0 29404
+D4
+~
+~
+0 0 29400
+M 200 H 200
+S
+#29402
+Dodge City Saloon~
+Dust swirls up around your nose as you enter the saloon.  {8J{Wesse
+{8J{Wames {}is seated at a table opposite the swinging entrance doors.  His
+loud laughter engulfs the room and you feel tense sensing a dominant ring to
+it.  A tall mug of sasperila sits before him but none of the beer drinking
+patrons around him are making jest as they cast nervous glances his way.  He
+turns and looks at you.  He sums you up with a glance into your eyes and
+turns back to his gun, the only friend he's ever known.  
+~
+0 8 0
+D3
+You see Armageddon's Grand Hall of Pleasure.
+~
+~
+0 0 29401
+S
+#29403
+Dallas Book Depository~
+This is a small room, high above Dallas.  Through the window you can see
+police cars and a parade going by.  Boxes are piled high around the walls. 
+A gun case lies in the middle of the floor.  
+~
+0 8 0
+E
+sign~
+The Portal in this room is totally {&RANDOM{X, be careful
+~
+D0
+You see Armageddon's Grand Hall of Pleasure.
+~
+~
+0 0 29401
+S
+#29404
+{GV{go{Grte{gx{Ges{}~
+You have walked out onto a narrow ledge overlooking a drop so vast the
+bottom is out of your view.  You kick a stone off watching it tumble down
+flipping over and over until it too is gone from sight.  A lone hawk cries
+out somewhere far below you and your reason for coming here is apparent. 
+Four {yg{Ylowin{yg {Gv{go{Grte{gx{Ges{} of energy are spinning below you. 
+Your mission is to enter one of these and be cast off somewhere far into the
+realm bipassing the long journey on foot and speeding your devious
+intentions.  These {mr{Mip{ms{} in the {mfa{Mbr{mic{} of {Wt{8i{Wm{8e{} are
+by no means large and the fall to reach them even less reassuring.  Your
+body is on {Yf{rir{Re{} as the danger of the leap envelops you.  Will you
+walk away from the ledge deciding walking may not be so bad or will you take
+the plunge?  
+ 
+{CY{cou {Cj{cump{}
+~
+0 8 0
+E
+portal of GREED~
+A portal to a room with Gold
+~
+D1
+~
+~
+0 0 29401
+S
+#29405
+{B-{WL{8o{Wo{8p{B in {WT{8i{Wm{8e{B-{}~
+You are standing in a cave with {Rr{re{Rd{} and {Bb{bl{Bu{be{} mist
+swirling at your feet.  On the florecent hard stone walls, portraits of the
+legondary men and woman who paced these halls and plotted the murders of the
+great, stare down at you almost accusingly.  Their {ci{Cc{cy{} stares bring
+you to ponder a moment what being an {bassassin{} entails.  You are the best
+of the best, the {bmid{Yni{bght {8black{} part of the {8shadow{} in the
+corner, ever looking for your next victim and already calculating the best
+way to clean up the {rbl{Roo{rd{}.  {bAssassins{} are a cursed people.  They
+can never befriend anyone they wouldn't {rmurder{} for the right price. 
+It's a lonely existence of trechery and secrecy.  You understand the only
+people you can trust with your life are fellow {bAssassins{}.  {wYou wait. 
+{} You feel a {rp{Rul{rs{Re{} in this cavern, a tempest of {ye{Yne{yrg{Yy{}
+seeping into your body.  The {8mist{} around your feet becomes violent as it
+grows.  This room is alive with the {rsouls{} of {bAssassins{} killed for
+your cause and powered by the deaths planned here.  With every assassination
+this {ye{Yne{yrg{Yy{} grows stronger, feeding your soul and the souls of
+future {bAssassins{}.  You feel lightheaded, your whole body alive and
+racing with a feverish intensity and as it slowly passes the pressing urge
+to kill remains.  {rMurder{} is in-born into your soul, into your being and
+you accept this with a terrible grin.  You know without seeing that there is
+a mad gleam dancing about your eyes and a cold as {ci{Cc{ce{} light just
+below the surface.  The {ye{Yne{yrg{Yy{} is inside you now.  As you sit to
+plot and bring about the death of yet another lost soul, you hold your head
+back and laugh in rapture for you know the truth, the one great truth in a
+sea of lies.  
+You are an {BASSASSIN{}
+~
+0 1036 0
+M 200 H 200
+S
+#29406
+{8Tu{Wnn{8el {bof {RFor{rgiven{Ress{}~
+A dark tunnel full of reverberating echoes, a ghostly wind wind whistles
+around you coming from the inner depths.  You feel a pull, something tugging
+at you as you make your way downwards.  The darkness comforts you as your
+mind clears preparing you to enter the unknown.  Soft whispers of eerily
+familiar voices brush your ears and your hair stands on end.  You focus
+yourself on the task ahead, the pulling sensation grows.  Your heart races
+the world spins around you, you feel your body dissolving.  The evil tasks
+you've orchestrated are born into new light as the virtigo overwhelmes your
+senses.  They are the only piece of you that remains in this room.  You are
+purged, cleansed by the light of assassins and reborn into a loop in time.  
+~
+0 8 0
+E
+portal of GREED~
+A portal to a room with Gold
+~
+D2
+~
+~
+0 0 29401
+D5
+~
+~
+0 0 29407
+S
+#29407
+{RI{*nfi{Rn{*it{Ry {RC{*ha{Rm{*be{Rr{x~
+In this room you feel light as a {^feather{x and safe.  This room is big
+with {%mist{x swirling around givin you a a {$chill{x that runs down your
+spine.  Time seems to stand still as you see your fellow {1Assassins{x
+floating around discussing there targets and future assassinations. 
+Floating around in total happiness you turn around to see statues of
+legendary {1Assassin{x leaders surrounding the room.  You feel secure as you
+know the spirit of past and present leaders look over you and bless you and
+the rest of the {@Assassins{x.  
+~
+0 1024 0
+D4
+~
+~
+0 0 29406
+S
+#0
+
+
+
+#SPECIALS
+M 29400 spec_cast_adept
+M 29401 spec_breath_any
+S
+
+
+
+#RESETS
+O 0 29400 0 29401
+O 0 29403 0 29401
+O 0 3389 0 29402
+O 0 27309 0 29402
+M 0 29400 1 29402 1
+M 0 29402 1 29403 1
+O 0 27301 0 29403
+O 0 27311 0 29404
+O 0 27313 0 29404
+O 0 27314 0 29404
+O 0 29414 0 29404
+O 0 29402 0 29404
+S
+
+
+
+#SHOPS
+29402 32 5 9 1 33 110 95 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

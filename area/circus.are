@@ -1,0 +1,2186 @@
+#AOD_AREA
+Circus*~
+9900 9999 0 9
+Levl 10 30
+Bldr Binky~
+Alig N
+End
+
+#MOBILES
+#9900
+ticket clerk~
+the Ticket Clerk~
+The Ticket Clerk extends his hand for your money.
+~
+The ticket clerk is bored, but is not so bored that he really wants to talk
+to you.  So are you going to buy a ticket or what????
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABHV 0 0 250 2411
+62 123 0 3541 4005 3712 3782 13 14 121 none
+-179 -198 -173 -163
+STANDING STANDING male 1723
+0 mage medium ABCDEFGHIJK
+W 1
+
+#9901
+child small~
+a small child~
+A small child waits in line for the Big Top.
+~
+He is standing in line, whining and complaining that his feet hurt.  Why
+don't you put him out of your misery?
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 1000 9901
+12 3 0 86 94 81 95 0 0 3 punch
+-5 -4 -5 -3
+STANDING STANDING male 53
+0 mage medium ABCDEFGHIJK
+W 5
+P 91 0
+
+#9902
+dad father man~
+the child's father~
+The child's father is here.
+~
+The child's father seems irked that you have been pushing past the others
+in line.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 0 9902
+20 3 0 83 92 82 98 0 0 3 beating
+-4 -5 -5 -4
+STANDING STANDING male 49
+0 mage medium ABCDEFGHIJK
+W 2
+P 30 0
+
+#9903
+woman mother mom~
+the child's mother~
+The child's mother stands here, patiently waiting in line.
+~
+The mother is tired of taking care of her son, and wishes she was in a bubble
+bath at home right now.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 0 9903
+14 2 0 80 94 90 96 0 0 3 peck
+-4 -3 -3 -3
+STANDING STANDING female 59
+0 mage medium ABCDEFGHIJK
+W 5
+P 99 0
+
+#9904
+bobby boy~
+little Bobby~
+Little Bobby is lost, and is looking for his mommy.
+~
+Bobby is scared, he should never have ran off to look at the Bearded Lady.
+Besides being lost, he is now psychologically scarred.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACGH 0 0 1000 0
+12 3 0 84 97 80 94 0 0 2 bite
+-3 -3 -5 -4
+STANDING STANDING male 45
+0 mage medium ABCDEFGHIJK
+W 1
+P 16 0
+
+#9905
+mother woman~
+Bobby's mother~
+Bobby's mother is here, frantically calling out her son's name.
+~
+Bobby's mother is looking quite worried.  If you see Bobby, you will tell her,
+won't you?
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACGH 0 0 1000 0
+16 2 0 81 97 89 98 0 0 2 scratch
+-3 -5 -5 -3
+STANDING STANDING female 47
+0 mage medium ABCDEFGHIJK
+W 1
+P 10 0
+
+#9906
+bearded lady~
+the Bearded Lady~
+The Bearded Lady is here.
+~
+The Bearded Lady is kind of scary looking.  She looks at you with lust in her
+eyes.   RUN!!!!
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 0 0
+22 2 0 85 93 89 98 0 0 3 none
+-5 -3 -4 -4
+STANDING STANDING female 47
+0 mage medium ABCDEFGHIJK
+W 1
+P 15 0
+
+#9907
+Illusionist mage~
+the Illusionist~
+The Illusionist is here, doing tricks to amaze the crowd.
+~
+He puts on quite a show.  If you couldn't see the wires on half of his
+creations, you might actually be amazed.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB DF 0 0 0
+21 2 0 86 94 89 97 0 0 2 magic
+-5 -3 -4 -5
+STANDING STANDING male 60
+0 mage medium ABCDEFGHIJK
+
+#9908
+midget~
+the Midget~
+A Midget is here, doing acrobatics to amuse the crowd.
+~
+The Midget acts very silly, but you see a cunning gleam in his eye.  This is
+one to watch out for.
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 150 100 100 100 
+ABCH 0 I -300 0
+18 2 0 85 99 89 96 0 0 2 slice
+-4 -4 -5 -5
+STANDING STANDING male 58
+0 mage medium ABCDEFGHIJK
+W 1
+P 15 0
+
+#9909
+Ivan strongman man strong~
+Ivan~
+Ivan the Strongman poses for the crowd.
+~
+Ivan really is an impressive figure of a man.  You will want to think twice
+before tangling with him.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCGH 0 N 100 0
+23 3 0 83 91 89 96 0 0 2 crush
+-3 -3 -3 -3
+STANDING STANDING male 52
+0 mage large ABCDEFGHIJK
+W 1
+P 15 0
+
+#9910
+swallower~
+the Sword Swallower~
+The Sword Swallower is in the act of swallowing an entire bastard sword.
+~
+This guy has eaten more swords than you have even seen.  He probably knows how
+to use his sword as well.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 0 0
+13 3 0 81 98 88 97 0 0 2 slash
+-4 -5 -3 -3
+STANDING STANDING male 54
+0 mage medium ABCDEFGHIJK
+W 1
+P 15 0
+
+#9911
+member audience~
+a member of the audience~
+A member of the audience goes "Ooooh!   Ahhhhh!"
+~
+This person is so interested in the show, he doesn't even realize you are here.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCH 0 0 0 0
+13 3 0 80 100 86 94 0 0 3 scratch
+-3 -3 -3 -4
+STANDING STANDING male 47
+0 mage medium ABCDEFGHIJK
+W 7
+P 60 0
+
+#9912
+clown red~
+a red-nosed clown~
+A red-nosed clown is ready to throw a pie in your face.
+~
+The clown is laughing and throwing pies, and generally being a nuisance.
+He turns towards you with a pie.  DUCK!
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCH 0 0 500 9912
+15 3 0 85 90 88 94 0 0 3 slice
+-4 -5 -4 -3
+STANDING STANDING male 45
+0 mage medium ABCDEFGHIJK
+W 5
+P 55 0
+
+#9913
+clown big~
+a clown with big shoes~
+A clown with big shoes is trying to get into a small car.
+~
+The clown is trying to fit his shoes into the carriage.  It will be a tight
+fit.
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 150 100 100 100 
+ABCH 0 I 500 9913
+18 2 0 89 92 85 93 0 0 3 bite
+-4 -3 -5 -3
+STANDING STANDING male 53
+0 mage medium ABCDEFGHIJK
+W 2
+P 34 0
+
+#9914
+clown big~
+a big clown~
+A big clown is getting ready to throw confetti at you.
+~
+The big clown has a bucket full of confetti.  Or is it water?  Better stay
+away from him until you know.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCH 0 0 300 9914
+21 3 0 83 99 90 97 0 0 2 crush
+-3 -3 -5 -4
+STANDING STANDING male 48
+0 mage large ABCDEFGHIJK
+W 2
+P 20 0
+
+#9915
+ringmaster master~
+the Ringmaster~
+The Ringmaster is introducing the next act.
+~
+The Ringmaster is dressed in a red coat, and is wearing a big black top hat.
+He was probably hired because he has a voice you could hear over a roaring
+dragon (which, incidently, is the next act).
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABC 0 NO 0 0
+31 2 0 80 100 90 98 0 0 2 pierce
+-5 -4 -3 -4
+STANDING STANDING male 40
+0 mage medium ABCDEFGHIJK
+W 1
+P 24 0
+
+#9916
+thrower~
+the knife thrower~
+The knife thrower is getting ready to throw 4 knifes at his assistant.
+~
+He is getting ready to put on a blind fold.  He has spent years of practice,
+and is completely confident in his skills.  He also has a handkerchief he keeps
+wiping his face with.  You here him mumble, 'maybe I shouldn't have stopped
+by the Grunting Boar before my act'.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABC 0 0 0 0
+18 2 0 81 94 81 94 0 0 3 stab
+-3 -4 -3 -3
+STANDING STANDING male 51
+0 mage medium ABCDEFGHIJK
+W 1
+P 14 0
+
+#9917
+assistant~
+the knife thrower's assistant~
+The knife thrower's assistant is asleep against the target.
+~
+The assistant dreams a drugged sleep.  It seems she thought she would be
+helping with the animals, until a slight mishap last night during the knife
+throwers rehearsal last night.  She did wonder why the dashing knife thrower
+invited her out to dinner.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB I 0 0 0
+13 3 0 87 95 90 95 0 0 2 scratch
+-3 -3 -4 -5
+STANDING STANDING male 52
+0 mage medium ABCDEFGHIJK
+W 1
+P 15 0
+
+#9918
+tamer~
+the lion tamer~
+The lion tamer is putting his head in a lion's mouth.
+~
+He is a dashing man, who seems at home with the deadly beasts.  He controls
+the animals with whip and force of mind.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 500 0
+24 2 0 81 91 81 91 0 0 2 none
+-5 -3 -4 -3
+STANDING STANDING male 57
+0 mage medium ABCDEFGHIJK
+W 1
+P 17 0
+
+#9919
+lion~
+a ferocious Lion~
+A ferocious Lion leaps from his stand to attack you!
+~
+This is the King of the Beasts, and you understand why as he tears a chunk of
+flesh from your body!
+~
+bear~
+100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCF 0 0 -1000 9919
+25 3 0 87 96 86 100 0 0 2 smash
+-4 -3 -5 -3
+STANDING STANDING male 56
+0 mage medium ABCDEFHJKUV
+W 3
+P 63 0
+
+#9920
+walker tightrope~
+a tightrope walker~
+A tightrope walker balances on the wire.
+~
+The only way past him seems to be to push him off.  You wouldn't do that,
+would you?
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABC 0 0 200 0
+24 3 0 90 90 82 93 0 0 2 pierce
+-5 -5 -3 -4
+STANDING STANDING male 54
+0 mage medium ABCDEFGHIJK
+W 3
+P 23 0
+
+#9921
+keeper~
+an animal keeper~
+An animal keeper is here, taking care of the animals.
+~
+She loves her work, and takes good care of the animals, despite the cheap
+supplies bought for them by the Circus Owner.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 NO 1000 9921
+18 3 0 88 99 87 97 0 0 2 none
+-5 -3 -5 -5
+STANDING STANDING female 52
+0 mage medium ABCDEFGHIJK
+W 6
+P 62 0
+
+#9922
+elephant~
+an elephant~
+An elephant nudges you with his trunk, asking for peanuts.
+~
+This is a gigantic animal!  But he seems pretty docile.  Good thing.  You
+probably would not want to get him angry.
+~
+bear~
+100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 0 0
+31 3 0 82 90 86 95 0 0 3 crush
+-4 -3 -5 -3
+STANDING STANDING male 46
+0 mage medium ABCDEFHJKUV
+W 1
+P 5 0
+
+#9923
+bear~
+a trained bear~
+The trained bear hasn't been fed in a week.  Look out!
+~
+The bear hasn't been fed for a long time.  The Circus Owner figures he can
+save a lot of money buy feeding the bear on unwary adventurers like yourself.
+~
+bear~
+100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABF 0 0 0 9923
+24 2 0 80 93 82 98 0 0 2 bite
+-4 -3 -5 -5
+STANDING STANDING male 46
+0 mage medium ABCDEFHJKUV
+W 2
+P 8 0
+
+#9924
+horse~
+a horse~
+A trained horse is here, prancing in anticipation.
+~
+The horse has been trained by the bare back rider.  These are magnificent
+animals, although they look like they could use more food.  More evidence
+of the cheapness of the Circus Owner.
+~
+bear~
+100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 0 0
+15 2 0 86 90 83 95 0 0 3 crush
+-5 -3 -4 -4
+STANDING STANDING male 44
+0 mage medium ABCDEFHJKUV
+W 1
+P 4 0
+
+#9925
+unicorn horse white~
+a poor horse~
+A poor white horse is here, about to have a horn implanted in it's head.
+~
+This poor animal had the unfortunate luck of being white.  Just what the
+Circus Owner was looking for.
+~
+bear~
+100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 0 0
+17 2 0 84 91 84 94 0 0 2 crush
+-3 -3 -4 -4
+STANDING STANDING male 54
+0 mage medium ABCDEFHJKUV
+W 1
+P 3 0
+
+#9926
+owner~
+the Circus Owner~
+The greedy Circus owner is about to cut into the poor horse.
+~
+This man has no scruples.  When the Owner got the thought of putting a horn on
+a regular horse and passing it off as a Unicorn, he almost wet his pants with
+delight.  This man is in trouble if the ASPCA ever finds out, but until then,
+he will probably keep making a LOT of money.
+~
+lizard~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABCH 0 0 -1000 0
+31 3 0 83 98 83 100 0 0 2 slash
+-3 -4 -4 -4
+STANDING STANDING male 45
+0 mage medium ACDEFHKQV
+W 1
+P 6 0
+
+#9927
+vendor~
+the cotton candy vendor~
+The cotton candy vendor waits to take your money.
+~
+He is wearing a colorful pair of overalls and a bright painter's cap.  He
+makes cotton candy in a big tub, where all the kids can watch him.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+AB 0 0 1000 0
+24 3 0 86 98 84 95 0 0 3 pierce
+-5 -3 -4 -5
+STANDING STANDING male 58
+0 mage medium ABCDEFGHIJK
+W 1
+
+#9928
+Illusionist mage~
+the Illusionist~
+The Illusionist is here, doing tricks to amaze the crowd.
+~
+He puts on quite a show.  If you couldn't see the wires on half of his
+creations, you might actually be amazed.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABF DF 0 0 0
+17 2 0 85 97 83 92 0 0 3 magic
+-3 -5 -4 -4
+STANDING STANDING male 60
+0 mage medium ABCDEFGHIJK
+
+#9929
+dog guard~
+a guard dog~
+A guard dog growls at you, then attacks.
+~
+He looks like he has been purposely abused to keep him mean.  Maybe if you
+gave him a pie, he would be your friend?
+~
+dog~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCF DF 0 -500 0
+18 3 0 88 90 82 98 0 0 2 scratch
+-4 -5 -4 -5
+STANDING STANDING male 53
+0 mage small ACDEFHJKUV
+
+#9930
+burly worker~
+a burly worker~
+A burly worker coming to the aid of the Circus Owner.
+~
+The burly worker has sweat dripping off of every inch of his body.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABF 0 0 -1000 0
+28 3 0 89 99 85 91 0 0 2 slash
+-3 -3 -3 -4
+STANDING STANDING male 47
+0 mage medium ABCDEFGHIJK
+
+#9950
+whore slut prostitute tammy~
+Tammy the PimpDaddy's Bitch~
+Tammy the faithful whore of the PimpDaddy offers to give you head.
+~
+~
+dragon~
+0 50 50 0 0 100 50 100 0 100 100 100 100 100 0 100 100 0 0 100 100 100 100 0 100 100 
+AB DFJTVZa CDEHIPQST 0 0
+14 2 0 83 99 85 93 0 0 3 sliver
+-5 -3 -3 -3
+STANDING STANDING male 41
+0 mage huge ACDEFGHIJKPQUVX
+W 1
+
+#9951
+midget thief~
+the Midget~
+A Midget is here, stealing money from the crowd.
+~
+The Midget is very good at his trade, and makes quit a bit of money buy picking
+pockets of the unwary.
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 150 100 100 100 
+AG Q I -900 0
+18 3 0 90 97 80 94 0 0 2 stab
+-5 -4 -3 -3
+STANDING STANDING male 41
+0 mage medium ABCDEFGHIJK
+W 1
+P 19 0
+#0
+
+#OBJECTS
+#9900
+ticket~
+a ticket~
+An unwanted scrap of paper lies here.~
+key 0 A
+0 0 0 0 0
+1 10 15
+
+#9901
+cotton candy~
+cotton candy~
+Some pink fluffy candy lies here.~
+pill 0 A
+1 'refresh' 'refresh' 'fly' ''
+1 20 200
+
+#9902
+key hairy~
+a hairy key~
+A key lies here, covered with hair clippings.~
+key 0 AO
+0 0 0 0 0
+1 20 16
+
+#9903
+key~
+a huge key~
+A humongous, heavy key lies here.~
+key 0 AO
+0 0 0 0 0
+1 30 18
+
+#9904
+key small~
+a small key~
+A small key lies here.~
+key 0 AO
+0 0 0 0 0
+2 10 40
+
+#9905
+key shimmering~
+a shimmering key~
+An object lies here, shimmering, so that you aren't sure what it is.~
+key 0 AO
+0 0 0 0 0
+1 0 45
+
+#9906
+key slender~
+a slender key~
+A very thin key lies here.~
+key 0 AO
+0 0 0 0 0
+1 20 12
+
+#9907
+bracers strongman~
+the strongman's bracers~
+A pair of large bracers lies here.~
+armor 0 AI
+4 5 4 1 2
+17 20 900
+A 1 1
+A 5 1
+
+#9908
+sword small~
+a small, thin sword~
+A small sword lies here.~
+weapon 0 AN
+sword 6 6 slash 0
+8 20 400
+A 18 3
+A 17 8
+
+#9909
+staff translucent~
+a pointy translucent staff~
+A long, thin, shimmering object lies here.~
+weapon 0 AN
+mace 5 5 pound 0
+6 40 250
+A 18 2
+A 19 1
+
+#9910
+sword bastard~
+the sword swallower's sword~
+A rubber bastard sword is here.~
+weapon 0 AN
+sword 6 6 slash 0
+15 30 450
+A 18 1
+A 19 -1
+
+#9911
+purse~
+the midget's purse~
+A small purse lies here.~
+container 0 A
+70 0 0 5 100
+1 20 9
+
+#9912
+bunch coins~
+a bunch of coins~
+A bunch of coins lies here.~
+money 0 A
+700 0 0 0 0
+1 0 243
+
+#9913
+razor~
+a razor~
+A razor lies here.~
+weapon 0 AN
+dagger 5 5 slice 0
+6 20 200
+A 19 2
+A 17 6
+
+#9914
+barbell~
+a barbell~
+A huge barbell lies here.~
+key 0 AO
+0 0 0 0 0
+0 400 0
+
+#9915
+sign~
+a letter~
+A letter is posted on the games booths.~
+furniture 0 0
+0 0 0 0 0
+0 0 0
+E
+letter~
+The letter reads:  This area has been closed by order of the Mayor of Midgaard,
+because of dishonest activities perpetrated by the persons running the games.
+Another example of how your government cares for you.
+
+                                              - Captain of the Watch
+~
+
+#9916
+knife~
+a sharp knife~
+A sharp, well balanced knife lies on the ground.~
+weapon 0 AN
+dagger 5 5 slash D
+4 20 200
+A 18 1
+
+#9917
+blindfold~
+a blindfold~
+A strip of black cloth lies here.~
+armor 0 AE
+2 4 2 1 0
+8 10 50
+A 18 -10
+A 14 -50
+
+#9918
+whip~
+a whip~
+A leather whip is lying on the ground.~
+weapon 0 AN
+whip 7 6 whip H
+16 20 700
+A 18 5
+A 4 -1
+
+#9919
+pole~
+tightrope walker's pole~
+A long pole lies here.~
+furniture A AO
+0 0 0 0 0
+0 0 0
+A 2 2
+
+#9920
+clown shoes~
+big clown shoes~
+A huge pair of shoes lies here, apparently forgotten.~
+armor 0 AG
+2 3 2 0 0
+6 20 200
+A 14 -20
+A 2 -1
+
+#9921
+tophat hat~
+a tophat~
+The Ringmaster's tophat lies here.~
+armor 0 AE
+4 4 4 1 0
+13 60 745
+A 12 10
+A 17 4
+
+#9922
+chest~
+a chest~
+A chest lies here, buried in a pile of hair.~
+container 0 0
+100 0 5 100 100
+0 10 9
+
+#9923
+chest~
+a chest~
+A shimmering object sits in the corner.~
+container 0 0
+100 0 5 100 100
+0 10 9
+
+#9924
+chest~
+a chest~
+The strongman's huge chest lies here. ~
+container 0 0
+100 0 5 100 100
+0 10 9
+
+#9925
+chest~
+a chest~
+A small chest lies here.~
+container 0 0
+100 0 5 100 100
+0 10 9
+
+#9926
+chest~
+another chest~
+A chest sits in the corner.~
+container 0 0
+100 0 5 100 100
+0 10 9
+
+#9927
+slip paper~
+a paper~
+A piece of wadded up paper has been left on the ground.~
+key 0 A
+0 0 0 0 0
+1 0 10
+
+#9928
+safe~
+a combination safe~
+{x~
+container 0 A
+100 0 0 100 100
+0 0 5
+E
+painting~
+Behind the painting you find a safe!  It has a combination lock.  You can
+probably never guess the combination.
+~
+
+#9929
+note~
+a note~
+A sign hangs by the ticket booth.~
+furniture 0 0
+0 0 0 0 0
+0 0 0
+E
+sign~
+The sign says:     type BUY TICKET to buy a ticket for the Big Top.
+~
+
+#9930
+bucket~
+a bucket~
+A colorful bucket lies here.~
+container 0 AO
+15 0 0 0 0
+1 10 9
+
+#9931
+drugged food~
+drugged food~
+A delicious looking dinner lies here.~
+pill 0 A
+22 'sleep' 'weaken' 'poison' ''
+7 20 1568
+
+#9932
+pizza food~
+a slice of Tombstone Sausage and Pepperoni pizza~
+A slice of pizza lies here, piping hot.~
+food 0 A
+20 15 0 0 0
+1 30 15
+
+#9933
+steak food~
+a juicy steak~
+A juicy steak dinner lies here.~
+food 0 A
+40 40 0 0 0
+1 30 24
+
+#9934
+bigmac food~
+a delicious BigMac~
+Some food lies here, wrapped in paper.~
+food 0 A
+30 30 0 0 0
+1 30 19
+
+#9935
+coke can~
+a can of Coke~
+A can of Coke lies here.~
+drinkcontainer 0 A
+60 60 'coke' 0 0
+1 20 30
+
+#9936
+key~
+the key to the lion's cage~
+The key to the lion's cage lies here.~
+key 0 A
+0 0 0 0 0
+1 20 207
+
+#9937
+bunch coins~
+a bunch of coins~
+A bunch of coins lies here.~
+money 0 A
+50 0 0 0 0
+0 0 50
+
+#9938
+bunch coins~
+a bunch of coins~
+A bunch of coins lies here.~
+money 0 A
+100 0 0 0 0
+0 0 100
+
+#9939
+nose red~
+a red clown nose~
+A red nose like a clown might wear, lies forgotten upon the ground.~
+armor 0 AE
+1 1 1 0 0
+4 30 200
+A 3 -2
+A 4 -1
+
+#9940
+chest~
+a chest~
+A chest sits under the hammock.~
+container 0 0
+100 0 5 100 0
+0 0 0
+
+#9941
+key~
+a key~
+A small key lies in the dirt.~
+key 0 A
+0 0 0 0 0
+1 0 10
+
+#9942
+clear potion~
+a clear potion~
+A clear vial of fluid sits here.~
+potion ABGHY AO
+20 'fly' '' '' ''
+5 60 300
+
+#9943
+roast pheasant food~
+a roast~
+Delicious roast pheasant tempts your taste buds.~
+food 0 A
+10 10 0 0 0
+1 10 5
+
+#9944
+turkey food~
+a slice of turkey~
+A plump turkey sits on the table.~
+food 0 A
+32 23 0 0 0
+1 40 11
+
+#9945
+stuffing food~
+homemade stuffing~
+A bowl of homemade stuffing sits upon the table.~
+food 0 A
+30 30 0 0 0
+1 10 13
+
+#9946
+cherry pie food~
+a slice of cherry pie~
+Some Cherry Pie A La Mode on the table makes your mouth water.~
+food 0 A
+12 12 0 0 0
+1 10 4
+
+#9947
+wineskin~
+a wineskin~
+A wineskin filled with Chardonnay sits upon the table.~
+drinkcontainer 0 A
+30 30 'water' 0 0
+1 30 50
+
+#9948
+scalpel~
+a scalpel~
+A thin knife with a sharp blade lies here.~
+weapon 0 AN
+dagger 7 7 pierce D
+18 40 819
+A 18 -2
+A 19 6
+
+#9949
+refrigerator frig fridge~
+Binky's refrigerator~
+Binky's refrigerator sits here, packed full of goodies.~
+container BG B
+999 0 5 100 0
+2 40 295
+
+#9950
+carving knife~
+a carving knife~
+A very sharp knife gleams from the floor.~
+weapon 0 AN
+dagger 9 9 pierce D
+38 10 3700
+A 18 3
+A 19 3
+
+#9969
+devil dog dish~
+A {!De{1v{!il D{1o{!G {^W{6a{^t{6e{^r{0 Dish~
+A {!De{1v{!il D{1o{!G {^W{6a{^t{6e{^r{0 Dish is filled with crystal clear water.~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0
+
+#9970
+devil dog refrigerator fridge~
+A {!De{1v{!il D{1o{!G{0 refrigerator~
+A {!De{1v{!il D{1o{!G{0 size refrigerator stands in the corner of the room.~
+container B 0
+500 AC 0 100 100
+0 0 0
+
+#9971
+devil dog beer~
+A {!De{1v{!il D{1o{!G{0 {3beer{0~
+One of {!De{1v{!il D{1o{!G{1'{!s {3beers{0 has been left here.~
+drinkcontainer 0 A
+16 16 'beer' 0 0
+0 10 5
+
+#9972
+sword bitch supreme~
+sword of the Supreme Bitch~
+The sword of a bitch waits to bitchslap your ass.~
+weapon HMOTYZa AN
+exotic 13 14 bitchslap BDEH
+102 80 18947
+A 12 306
+A 13 306
+A 19 40
+A 18 40
+#0
+
+#ROOMS
+#9901
+The Path to the Circus~
+Over in the southeastern area between Kratas and New Midgaard this
+open trail leads to a large camp ..  a circus of some sort to the
+south lavished with red and white tents everywhere.  A large crowd
+is gathered deeper in that direction.  The trail to the eastern
+road is to the north where things are a bit quieter.  
+~
+4 1
+D0
+~
+~
+0 0 3526
+D2
+~
+~
+0 0 9902
+E
+poster~
+The poster reads:  Come one, come all!!  See the greatest show in the
+4th realm!!  See the Bearded Lady!!  Ivan the strongman!!  Laugh at the antics
+of the crazy Klawson Klowns!! 
+~
+E
+small tablet~
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                                                                  +
++            This area has been converted and adapted by           +
++                              Kane                                +
++                                                                  +
++                                &                                 +
++                                                                  +
++                       beta tested by Aldar                       +
++                                                          july'96 +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+~
+S
+
+#9902
+The Entrance to the Circus~
+Ahead you see the Circus laid out in all its glory.  Freak shows,
+games booths, and dwarfing them all, the Big Top.  A ticket booth is set here.
+You will need a ticket to enter the Big Top.
+
+~
+0 1
+D0
+~
+~
+0 0 9901
+D2
+~
+~
+0 0 9903
+S
+
+#9903
+The Path to the Big Top~
+This way to the Big Top is lined with people.  They seem to be having
+a good time.  Everyone that is, except the people waiting in line for the
+Big Top.  They seem annoyed at you as you push your way past them.  To the
+east and west you see games booths.
+~
+0 1
+D0
+~
+~
+0 0 9902
+D1
+~
+~
+0 0 9905
+D2
+~
+~
+0 0 9906
+D3
+~
+~
+0 0 9904
+S
+
+#9904
+The Game Booths~
+This area seems deserted.  The booths are boarded up, and the only
+Circus employee you see is sitting on a counter, muttering obscenities at the
+Mayor and City council.  He makes it a point to let you know that he knows
+you are there, and he is ignoring you on purpose.
+~
+0 1
+D1
+~
+~
+0 0 9903
+S
+
+#9905
+The Game Booths~
+This area seems deserted.  The booths are boarded up, and the only
+Circus employee you see is sitting on a counter, muttering obscenities at the
+Mayor and City council.  He makes it a point to let you know that he knows
+you are there, and he is ignoring you on purpose.
+~
+0 1
+D3
+~
+~
+0 0 9903
+S
+
+#9906
+The Path to the Big Top~
+This way to the Big Top is lined with people.  They seem to be having
+a good time.  Everyone that is, except the people waiting in line for the
+Big Top.  They seem annoyed at you as you push your way past them.  To the
+east you see the freak shows.  To the west you see a vendor.  
+~
+0 1
+D0
+~
+~
+0 0 9903
+D1
+~
+~
+0 0 9908
+D2
+~
+~
+0 0 9914
+D3
+~
+~
+0 0 9907
+S
+
+#9907
+The Cotton Candy Vendor~
+The smell of cotton candy makes your mouth water.  Be careful about
+eating too much, all that sugar may make you hyper.
+~
+0 1
+D1
+~
+~
+0 0 9906
+S
+
+#9908
+The Entrance to the Freak Shows~
+This area is filled with posters of the attractions the Circus has
+to offer to the curious.  You are invited to watch feats of strength from the
+strong man, gasp as a man swallows a sword, see a real, Bearded Lady,
+be amazed by the midget's feats of acrobatics, and be dazzled by the great
+magical powers of the Illusionist. You see a Path To Somewhere to the north.
+~
+0 1
+D1
+You see the Bearded Lady's tent.
+~
+~
+0 0 9909
+D2
+You see the Strongman's tent.
+~
+~
+0 0 9913
+D3
+~
+~
+0 0 9906
+S
+
+#9909
+The Tent of the Bearded Lady~
+This tent consists of chairs for you to rest in, and a rickety wooden
+stage up front.  You hear the stage creak as you enter, and you understand
+why when you see who is standing on it.  She is bearded all right.  And big.
+Very big.  Colossally huge.  You don't seem to have any problem finding a seat.
+The place is deserted of spectators.
+~
+8 0
+D1
+You see the Illusionist's tent.
+~
+~
+0 0 9910
+D2
+You see the Sword Swallower's tent.
+~
+~
+0 0 9912
+D3
+~
+~
+0 0 9908
+S
+
+#9910
+The Tent of the Illusionist~
+This tent is darkened at first.  Then it gradually lightens, although
+you do not see the source of the light.  You do hear a loud breathing sound
+though.  You think it may be coming from right behind you.  You think this
+because you can feel very warm breath on the back of your neck.  You turn,
+and see a very large, very evil looking creature.  It's a Dragon.  It opens
+its mouth, but does not attack.  Instead it just laughs at you mercilessly.
+The Dragon snorts a cloud of smoke at you.
+~
+8 0
+D2
+You see the Midget's tent.
+~
+~
+0 0 9911
+D3
+You see the Bearded Lady's tent.
+~
+~
+0 0 9909
+E
+Dragon~
+The Dragon looks incredibly powerful.  You are in awe of it, not believing that
+something so powerful, so huge, could be controlled by man.  Let alone fit in
+this tent.  Fit in this tent?  Hey, wait a minute, is it shimmering a little,
+or are your eyes playing tricks on you?
+~
+S
+
+#9911
+The Midget's Tent~
+This tent has a mat laid out, no doubt where the Midget performs his
+acrobatics.  You overhear another member of the audience telling his friend,
+'I'd watch out for that Midget.  I hear that a new rash of robberies broke out
+right after the Circus came to town.  Wouldn't surprise me if he is the one
+responsible.'
+~
+8 0
+D0
+You see the Illusionist's Tent.
+~
+~
+0 0 9910
+D3
+You see the Sword Swallower's Tent.
+~
+~
+0 0 9912
+S
+
+#9912
+The Sword Swallower's Tent~
+This tent is decorated with many deadly looking weapons.  A warrior
+could find any kind of weapon he ever dreamed of in here.  A stage at the
+front is obviously where the Sword Swallower performs his acts of bravery.
+Several rickety chairs sit in front of the stage, looking as if they might
+not hold the weight of the next customer to sit down.
+~
+8 0
+D0
+You see the Bearded Lady's Tent.
+~
+~
+0 0 9909
+D1
+You see the Midget's Tent.
+~
+~
+0 0 9911
+D3
+You see the Strongman's Tent.
+~
+~
+0 0 9913
+S
+
+#9913
+The Strongman's Tent~
+This tent is the largest one in The Circus besides the Big Top.  It
+is decorated with pictures and drawings of huge men lifting huger weights.
+You see heavy objects at the front of the room, that must be part of the act.
+If Ivan the Strongman can lift those, then he really must be strong.
+~
+8 0
+D0
+You see the Entrance to the Freak Shows.
+~
+~
+0 0 9908
+D1
+You see the Sword Swallower's Tent.
+~
+~
+0 0 9912
+S
+
+#9914
+The Path to the Big Top~
+This way to the Big Top is lined with people.  They seem to be having
+a good time.  Everyone that is, except the people waiting in line for the
+Big Top.  They seem annoyed at you as you push your way past them.  To the
+east and west you see games booths.
+~
+0 1
+D0
+~
+~
+0 0 9906
+D2
+You see the Entrance to the Big Top.
+~
+~
+0 0 9915
+S
+
+#9915
+The Entrance to the Big Top.~
+You've finally made it to the front of the line!  The entrance to the
+Big Top is in front of you.  You see a slot where you insert your ticket, to
+unlock the magic of The Circus that lies inside.
+~
+0 1
+D0
+~
+~
+0 0 9914
+D2
+~
+door~
+0 9900 9916
+S
+
+#9916
+Entryway between the Grand Stands~
+The noise of the crowd greets you as you enter the Big Top.  The
+sounds and smells that greet you take you back to the time when you were a
+child, in wonder and awe of the Circus that came to your town.  You can hear
+the trumpet of an elephant somewhere, and the roar of a lion.  The applause
+of the crowd is momentarily deafening.  To the west and east you see under
+the Grand Stands.
+~
+8 0
+D0
+You see the Entrance to the Big Top.
+~
+door~
+0 9900 9915
+D1
+You see under the stands.
+~
+~
+0 0 9917
+D2
+You see your first good look at the Big Top ahead.
+~
+~
+0 0 9919
+D3
+You see under the stands.
+~
+~
+0 0 9921
+S
+
+#9917
+Under the Grand Stands~
+You are under the Stands.  Popcorn and peanut shells litter the floor.
+You can climb up the supports into the stands from here.
+~
+8 0
+D3
+~
+~
+0 0 9916
+D4
+~
+~
+0 0 9918
+S
+
+#9918
+In the Grand Stands~
+You find yourself in a crowd of people enjoying the show.  The people
+behind you yell at you to sit down.  If you don't sit down soon, there may
+be a fight.  You may climb down below the stands, or exit by the stairs and
+get a good look at the Big Top.
+~
+8 0
+D3
+~
+~
+0 0 9919
+D5
+~
+~
+0 0 9917
+S
+
+#9919
+First Look at the Big Top~
+You receive your first good look at the Big Top.  The size of this
+tent was amazing from the outside, but is even more breathtaking from the
+inside.  You feel as if you are in a different world, where the sky is only
+a little closer.  You see 3 Rings spread out in front of you.  A high wire
+extends between poles at a dizzying height.  The 1st Ring appears to hold
+a cage which contains several large lions.  The 2nd Ring is filled with clowns
+who are trying to fit into a small carriage.  In the 3rd Ring, a man is
+preparing to put on a blind fold, while his assistant stands against a target.
+He has a rack of knives next to him.  You may enter the 2nd Ring to the south.
+To the east and west are the Grand Stands, and the Entryway is to the north.
+~
+8 0
+D0
+You see the Entryway.
+~
+~
+0 0 9916
+D1
+~
+~
+0 0 9918
+D2
+You see the 2nd Ring.
+~
+~
+0 0 9922
+D3
+~
+~
+0 0 9920
+S
+
+#9920
+In the Grand Stands~
+You find yourself in a crowd of people enjoying the show.  The people
+behind you yell at you to sit down.  If you don't sit down soon, there may
+be a fight.  You may climb down below the stands, or exit by the stairs and
+get a good look at the Big Top.
+~
+8 0
+D1
+~
+~
+0 0 9919
+D5
+~
+~
+0 0 9921
+S
+
+#9921
+Under the Grand Stands~
+You are under the Stands.  Popcorn and peanut shells litter the floor.
+You can climb up the supports into the stands from here.
+~
+8 0
+D1
+~
+~
+0 0 9916
+D4
+~
+~
+0 0 9920
+S
+
+#9922
+The 2nd Ring - You'd better read the description of this room. ~
+You are in the 2nd Ring.  You see a rickety carriage, which a line of
+clowns are trying to squeeze into.  You've already seen many more fit into it
+than could possibly fit.  The 1st Ring is to the west and the 3rd Ring is
+to the east.  A ladder on a pole here provides access to the tightrope above.
+To the north is the first look a visitor to the Big Top has.  You notice that
+the 1st ring is a cage which contains several HUNGRY Lions.  Entering it would
+be fairly suicidal.  It is a good thing it is locked!
+~
+8 0
+D0
+~
+~
+0 0 9919
+D1
+~
+~
+0 0 9923
+D3
+~
+door~
+0 9936 9924
+D4
+~
+~
+0 0 9927
+D5
+You can't see into the car, you'll just have to go in.
+~
+~
+0 0 9944
+S
+
+#9923
+The 3rd Ring~
+A target is set up in this Ring for the knife thrower.  Up close,
+you can see many red smears which have been not quite cleaned from the target.
+You see the crowd looking at you, probably wondering what your act is.  The
+only exit is to the 2nd Ring to the west.
+~
+8 0
+D3
+~
+~
+0 0 9922
+S
+
+#9924
+The 1st Ring~
+This is a cage, which contains several large stands that the lions
+are supposed to sit on when they are not eating foolish people who walk into
+this room.  A few hoops are in the cage, one of which is flaming.  You think
+that only an idiot would be in here with the lions.  With the lions?  Hey,
+YOU ARE IN HERE WITH THE LIONS!!!  YOU'D BETTER RUN!!!!!!
+~
+8 0
+D1
+~
+door~
+0 9936 9922
+D5
+~
+hole~
+0 9914 9969
+S
+
+#9925
+On the High Wire~
+You are still 80 feet up in the air.  DIRECTLY below you is the Lion's
+Cage.  If you survived the fall, YOU WOULD SURELY DIE when the Lions got ahold
+of you.  You note that the door is closed to the cage, so you would have very
+little chance of running away if you did fall into the cage.  As you take
+your eyes off the ground below, you see the end of the wire immediately to
+your west.
+~
+8 0
+D1
+~
+~
+0 0 9926
+D3
+~
+~
+0 0 9928
+D5
+The Lion's Cage.  A suicidal move.
+~
+~
+0 0 9924
+S
+
+#9926
+On the High Wire~
+You try to balance on the wire, and try not to look down the 80 feet
+to the ground below.  It is good thing your training as adventurer has given
+you a little better sense of balance than most people.  From up here, you
+really do have a nice view, of a very long wire.  You still have a ways to go.
+~
+8 0
+D1
+~
+~
+0 0 9927
+D3
+~
+~
+0 0 9925
+S
+
+#9927
+On the Platform Way, Way Up in the Air~
+You hug the pole as you realize just how high you are.  Your only
+choices are to go back down, or try to walk the high wire to the west.  Of
+course, the wire goes above the lion's cage, which has an open top.  If you
+did survive the fall, you probably wouldn't feel like adventuring again.
+~
+8 0
+D3
+~
+~
+0 0 9926
+D5
+~
+~
+0 0 9922
+S
+
+#9928
+The End of the Highwire~
+You made it safely.  Now you may climb down and sneak out the back
+entrance of the Big Top.  Or you can brave the Tightrope again.  You hear
+the noises of animals outside the Big Top.  Below you is the trapdoor.
+~
+8 0
+D1
+~
+~
+0 0 9925
+D5
+~
+trapdoor~
+0 0 9929
+S
+
+#9929
+Behind the Big Top~
+This is where the show behind the show goes on.  There are a lot
+of workers preparing the next act, moving animals around, and doing too much
+to take much notice of you.  The workers are taking the animals to the pens
+to the south.  You see some of the performers trailers off to the east.  From
+inside, you hear applause from the crowd.
+~
+0 1
+D1
+You see the Row of Trailers.
+~
+~
+0 0 9934
+D2
+You see the Animal Pens.
+~
+~
+0 0 9930
+D3
+~
+~
+0 0 9945
+D4
+~
+door~
+0 0 9928
+S
+
+#9930
+The Animal Pens~
+From here you may enter the animal pens.  You see a large sign that
+says the following:
+
+          WELCOME TO THE ANIMAL PENS!!!!
+
+     Please feel free to pet and play with any of the animals.  They
+     are all very friendly, and never hurt the public.  Especially
+     the Bear.  Feel free to enter his cage and pet him.
+
+                         - The Owner
+
+
+Penned underneath this is a note that says:  Beware the Bear!!!
+
+You may enter the Elephant Pen to the west, the Bear Pen to the south, or
+the Horse Corral to the east.  Or you may return north.
+~
+0 1
+D0
+~
+~
+0 0 9929
+D1
+~
+door~
+0 0 9933
+D2
+~
+door~
+0 0 9932
+D3
+~
+door~
+0 0 9931
+S
+
+#9931
+The Elephant Pen~
+The first thing you notice in this pen is the rather pungent odor.  Oh
+my, you seem to have stepped in an extremely large pile of droppings.  Maybe
+you should leave to the north?
+~
+0 1
+D1
+~
+door~
+0 0 9930
+S
+
+#9932
+The Bear Pen~
+This room is rather dark, and it doesn't seem to have been cleaned
+very well lately.  The Circus Owner found that he could let some of his
+security guards go and save the price of feeding the bear if he just put up
+a sign inviting visitors to visit the friendly bear.  It appears you fell
+for it.
+~
+9 0
+D0
+~
+door~
+0 0 9930
+S
+
+#9933
+The Horse Corral~
+This corral is where the show horses are kept when they are not
+performing.  It is rather small for the amount of horses that are kept here.
+~
+0 1
+D3
+~
+door~
+0 0 9930
+S
+
+#9934
+The Row of Trailers~
+You are between the two rows of trailers where the performers live.
+To the north is the Strongman's Trailer, to the south the Bearded Lady's
+Trailer.  You may also continue east or west.
+~
+0 1
+D0
+~
+door~
+0 0 9935
+D1
+~
+~
+0 0 9938
+D2
+~
+door~
+0 0 9936
+D3
+~
+~
+0 0 9929
+S
+
+#9935
+The Strongman's Trailer~
+This trailer is pretty small to you, so, it must be tiny for Ivan.
+The furnishing's are spartan, and you see nothing of value.  You might want
+to consider leaving before Ivan returns.
+~
+8 0
+D2
+~
+door~
+0 0 9934
+S
+
+#9936
+The Bearded Lady's Trailer~
+This is the filthiest place you think you have ever seen.  The floor
+is covered with hair clippings.  In the corner are several bottles entitled
+Miracle Stu's Wonderful Hair Tonic!!  It appears the Bearded Lady must go
+through that stuff like it is water.
+~
+8 0
+D0
+~
+door~
+0 0 9934
+S
+
+#9937
+The Sword Swallower's Trailer~
+This trailer is kept immaculately clean.  You see a knife sharpening
+kit, as well as several rubber swords that are standing in a small display
+case.
+~
+8 0
+D2
+~
+door~
+0 0 9938
+S
+
+#9938
+The Row of Trailers~
+You are between the two rows of trailers where the performets live.
+To the north is the Sword Swallower's Trailer, to the south is the Midget's
+Trailer.  You may also continue east or west.
+~
+0 1
+D0
+~
+door~
+0 0 9937
+D1
+~
+~
+0 0 9940
+D2
+~
+door~
+0 0 9939
+D3
+~
+~
+0 0 9934
+S
+
+#9939
+The Midget's Tiny Trailer~
+The cheap Circus Owner believes in rewarding people according to their
+stature.  Accordingly, this trailer is so small that even the Midget thinks
+that it is a tight fit.  The poor Midget is also the poorest paid of all the
+Freaks.  But that doesn't bother him.  He has a second profession that he
+practices on the side to make a little extra cash.  He also keeps a rather
+large guard dog in his trailer to discourage visitors.
+~
+8 0
+D0
+~
+door~
+0 0 9938
+S
+
+#9940
+The Row of Trailers~
+You are between the two rows of trailers where the performets live.
+To the north is the Illusionist's Trailer, to the south is a very large
+Trailer.  You may also go back to the west, or enter a trailer to the east.
+~
+0 1
+D0
+~
+door~
+0 0 9941
+D1
+~
+door~
+0 0 9948
+D2
+~
+door~
+0 0 9942
+D3
+~
+~
+0 0 9938
+S
+
+#9941
+The Illusionist's Trailer~
+This trailer seems much larger on the inside that it does on the
+outside.  You see a spacious, king-sized bed, a large table and kitchenette,
+and a separate sitting room.  The longer that you look though, you see that
+all the objects in the room have a slight shimmer to them.  Closer examination
+reveals that the bed is a cot, the table a nightstand, and the sitting room
+is a chair.  It appears the Illusionist tries to fool even himself sometimes.
+~
+8 0
+D2
+~
+door~
+0 0 9940
+S
+
+#9942
+The Circus Owner's Trailer~
+This is by far the biggest and nicest trailer.  If the furnishings are
+any indication of the amount of money this man makes, maybe you should go into
+his line of work.  The walls are covered with walnut colored wood siding, and
+the furniture is of the finest workmanship.  Paintings hang on the walls,
+and there is even a medium sized icebox to keep the Owner's food fresh.
+~
+9 0
+D0
+~
+door~
+0 0 9940
+D2
+~
+icebox~
+0 0 9943
+S
+
+#9943
+The Secret Room~
+This is a small area in the back of the Circus Owner's Trailer.  You
+see that this must be where he keeps the money that he makes off his employee's
+hard work.  There are several objects of value in here, but you know you would
+not be able to make it off The Circus property with them, so you'd better just
+take the coins.  Most things here you couldn't sell easily, except the artwork.
+~
+9 0
+D0
+~
+secret~
+0 0 9942
+S
+
+#9944
+The Clown's Room below the 2nd Ring~
+This room has been cunningly hollowed out below the 2nd Ring, giving
+the clown's a place to hide after they supposedly hid in the car.  This place
+is very hot.  That doesn't surprise you, as it is filled with clowns.
+~
+9 0
+D4
+~
+~
+0 0 9922
+S
+
+#9945
+Behind the Big Top~
+This is where the show behind the show goes on.  There are a lot
+of workers preparing the next act, moving animals around, and doing too much
+to take much notice of you.
+~
+0 1
+D1
+~
+~
+0 0 9929
+D3
+~
+~
+0 0 9946
+S
+
+#9946
+Behind the Big Top~
+This is where the show behind the show goes on.  There are a lot
+of workers preparing the next act, moving animals around, and doing too much
+to take much notice of you.
+~
+0 1
+D1
+~
+~
+0 0 9945
+D3
+~
+~
+0 0 9947
+S
+
+#9947
+Behind the Big Top~
+This is where the show behind the show goes on.  There are a lot
+of workers preparing the next act, moving animals around, and doing too much
+to take much notice of you.
+~
+0 1
+D1
+~
+~
+0 0 9946
+S
+
+#9948
+The Tightrope Walkers Trailer~
+This trailer like most of the others shows how poorly the performers
+are paid.  The tightrope walkers are forced to (or choose to?) sleep in tiny
+hammocks, that you probably couldn't even fit in.
+~
+8 0
+D3
+~
+door~
+0 0 9940
+S
+
+#9969
+The PimpDaddy's Whore House~
+Whores and Sluts EVERYWHERE! This is truly a paradise on Devil's Silence! FREE SEX! WOOOO!
+~
+524812 0
+H 10000 10000
+S
+#0
+
+#SPECIALS
+M 9951 spec_thief
+S
+
+#RESETS
+M 100 9951 1 9901 1
+M 100 9900 1 9902 1
+G 100 9900 0
+O 100 9929 0 9902
+P 100 9934 1 9929 0
+P 100 9935 1 9929 0
+P 100 9932 1 9929 0
+P 100 9933 1 9929 0
+M 100 9901 5 9903 1
+M 100 9903 5 9903 1
+M 100 9903 5 9904 1
+M 100 9921 6 9904 1
+O 100 9915 0 9904
+M 100 9901 5 9905 1
+O 100 9915 0 9905
+M 100 9901 5 9906 1
+M 100 9903 5 9906 1
+M 100 9927 1 9907 1
+G 100 9901 0
+M 100 9904 1 9908 1
+M 100 9906 1 9909 1
+E 100 9902 0 17
+M 100 9907 0 9910 1
+E 100 9905 0 17
+M 100 9908 1 9911 1
+E 100 9904 0 17
+G 100 9911 0
+P 100 9937 1 9911 0
+M 100 9910 1 9912 1
+E 100 9906 0 17
+M 100 9909 1 9913 1
+E 100 9903 0 17
+O 100 9914 0 9913
+M 100 9901 5 9914 1
+M 100 9902 2 9914 1
+M 100 9903 5 9914 1
+M 100 9901 5 9915 1
+M 100 9902 2 9915 1
+M 100 9903 5 9915 1
+M 100 9905 1 9915 1
+M 100 9911 7 9917 1
+M 100 9911 7 9918 2
+M 100 9911 7 9919 1
+M 100 9915 1 9919 1
+E 100 9921 0 6
+M 100 9911 7 9920 3
+M 100 9912 5 9922 1
+E 100 9939 0 5
+G 100 9936 0
+M 100 9913 2 9922 1
+E 100 9920 0 8
+M 100 9916 1 9923 1
+E 100 9916 0 16
+G 100 9931 0
+M 100 9917 1 9923 1
+E 100 9917 0 17
+M 100 9918 1 9924 1
+E 100 9918 0 16
+M 100 9919 3 9924 3
+M 100 9919 3 9924 3
+M 100 9919 3 9924 3
+M 100 9920 3 9925 1
+E 100 9919 0 17
+M 100 9920 3 9926 1
+E 100 9919 0 17
+M 100 9912 5 9929 1
+E 100 9939 0 5
+M 100 9921 6 9930 1
+M 100 9922 1 9931 1
+M 100 9923 2 9932 2
+M 100 9923 2 9932 2
+M 100 9924 1 9933 1
+M 100 9921 6 9934 1
+O 100 9924 0 9935
+P 100 9907 1 9924 0
+O 100 9922 0 9936
+P 100 9913 1 9922 0
+O 100 9926 0 9937
+P 100 9910 1 9926 0
+O 100 9925 0 9939
+P 100 9938 1 9925 0
+P 100 9908 1 9925 0
+M 100 9921 6 9940 1
+O 100 9923 0 9941
+P 100 9909 1 9923 0
+M 100 9925 1 9942 1
+M 100 9926 1 9942 1
+E 100 9948 0 16
+G 100 9927 0
+O 100 9928 0 9943
+P 100 9912 1 9928 0
+M 100 9912 5 9944 2
+E 100 9939 0 5
+M 100 9913 2 9944 1
+E 100 9920 0 8
+M 100 9914 2 9944 2
+E 100 9930 0 17
+M 100 9921 6 9945 1
+M 100 9912 5 9946 1
+E 100 9939 0 5
+M 100 9921 6 9947 1
+M 100 9920 3 9948 1
+E 100 9919 0 17
+G 100 9941 0
+O 100 9940 0 9948
+P 100 9942 1 9940 0
+S
+
+#SHOPS
+9900 0 0 0 0 0 100 50 0 23
+9927 0 0 0 0 0 100 50 0 23
+0
+
+#$

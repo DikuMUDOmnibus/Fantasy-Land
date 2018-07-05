@@ -1,0 +1,3836 @@
+#AREADATA
+Name Hope City~
+Builders Bree~
+VNUMs 43000 43300
+Continent 2
+Credits [90-101] Bree     Hope City~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#43000
+Xyfer~
+Xyfer~
+Xyfer the potion master is here, moving about.
+~
+~
+dwarf~
+ABG DFJZ 0 1000 0
+0 0 1d1+20000 0d0+0 1d1+500 none
+0 0 0 0
+0 0 L 0
+stand stand none 990000
+AHMV ABCDEFGHIJK medium unknown
+#43001
+Baelor~
+Baelor~
+Baelor the jeweler is here, polishing something.
+~
+~
+high-elf~
+ABG J 0 0 0
+101 0 1d1+40000 0d0+0 0d0+0 none
+0 0 0 0
+0 B 0 0
+stand stand none 999999
+AHMV ABCDEFGHIJK medium unknown
+#43002
+Hope Cityguard~
+Hope Cityguard~
+A Hope Cityguard stands here, defending the weak.
+~
+~
+human~
+AGT DFJZ O 1000 0
+155 145 1d1+16500 1d1+200 5d35+50 slash
+-75 -75 -75 -75
+CFHKQ AB 0 E
+stand stand male 22005
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43003
+Grand Gate Guard~
+The Grand Gate Guard~
+The Grand Gate Guard is stands here, protecting the gate.
+~
+~
+human~
+ABGT DFJZ 0 1000 0
+155 150 1d1+17000 0d0+0 4d40+50 slash
+-65 -65 -65 -65
+FHU AB 0 0
+stand stand male 23990
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 43000 1000~
+#43004
+A Hope City Soldier~
+A Hope City {4Sol{$d{4ier{X~
+A Hope City {4Sol{$d{4ier{X is here, looking at you.
+~
+A loyal soldier for the Hope City stands before you,
+dressed completely in armored mail, he makes for
+one imposing figure. Better stand clear.
+~
+human~
+ABGT 0 0 1000 0
+160 150 1d1+17500 0d0+0 5d40+50 pierce
+-80 -80 -80 -80
+CFHKQ A 0 0
+stand stand none 32000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43005
+peasant~
+A peasant~
+A peasant is here, going about his daily routine.
+~
+A lowly peasant is what this man is. He has
+nothing, nor will probably ever have anything
+during the course of his life. So sad.
+~
+human~
+AG 0 0 1000 0
+155 120 1d1+15000 0d0+0 6d39+25 pound
+-30 -30 -30 -30
+CF A 0 0
+stand stand none 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43006
+thief~
+A Thief~
+A thief lurks around in the shadows here.
+~
+A thief, always lurking in the shadows, eyeing your
+coin purse. Better watch out!
+~
+human~
+AGS DFJZ 0 0 0
+160 100 1d1+15500 0d0+0 4d41+20 none
+-25 -25 -25 -25
+FHN 0 0 0
+stand stand none 29800
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43007
+Arlingorath merchant~
+An {1Arlingorath{X merchant~
+A merchant from {1Arlingorath{X is here, looking for a deal.
+~
+This merchant has traveled all the way from Arlingorath to check out
+the new wares and merchandise from this corner of the realm.
+~
+human~
+AG 0 0 1000 0
+155 120 1d1+17000 0d0+0 6d39+45 scratch
+-25 -25 -25 -25
+CFH A 0 0
+stand stand none 35000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43008
+merchant solace~
+A {4Solace{X merchant~
+A merchant from the town of {4Solace{X bustles about here.
+~
+Just an average merchant from the town of Solace, looking
+to strike a deal with a merchant in Hope.
+~
+human~
+AG V 0 1000 0
+155 130 1d1+17000 0d0+0 6d40+50 thwack
+-25 -25 -25 -25
+CFH A 0 0
+stand stand none 36000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43009
+a shimmering mage~
+a {Ds{wh{Di{Wm{Dm{we{Dr{Wi{wn{Dg{X mage~
+A {Ds{wh{Di{Wm{Dm{we{Dr{Wi{wn{Dg{X mage is floating around here.
+~
+Shimmering in and out of the light, this mage is almost impossible
+to even get a glimpse at! Light as air, and blending in just the
+same.
+~
+high-elf~
+AGR DFJVZ D 1000 0
+160 125 1d1+17000 1d1+30000 9d40+65 magic
+-45 -45 -45 -45
+FGH AB P 0
+stand stand none 32000
+AHMV ABCDEFGHIJK medium unknown
+#43010
+Gilk~
+Gilk~
+Gilk, the Dwarven Travel {!Ma{1st{!er{X is here, peering up at you.
+~
+~
+white-dwarf~
+ABG DFZ 0 0 0
+0 0 1d1+18000 0d0+0 40d10+60 pound
+0 0 0 0
+0 0 L R
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+M DELAY 43003 5~
+M BRIBE 43002 100000~
+M GRALL 43001 1000~
+#43011
+Red Guard~
+The {1R{!e{1d{X Guard~
+The {1R{!e{1d{X Guard stands here, defending the draw bridge.
+~
+Mean as they come, the {1R{!e{1d{X Guard does not take
+touble from anyone, least of all the likes of YOU.
+~
+human~
+ABGT DFJVZ N 1000 0
+165 135 1d1+18600 1d1+400 15d38+50 none
+-95 -95 -95 -95
+CDFKO ABP 0 0
+stand stand male 45000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43012
+citizen of hope city~
+A citizen of Hope City~
+A citizen of Hope City is here, going about his buisness.
+~
+An average citizen of Hope City, going about his
+daily life. Standing about five and a half feet
+tall, with brown hair and blue eyes, he makes
+an imposing figure.
+~
+human~
+AGS 0 0 1000 0
+160 120 1d1+16000 0d0+0 10d40+55 pound
+-50 -40 -50 -40
+FHN A 0 0
+stand stand male 35000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43013
+Red Keep Guard~
+{1R{!e{1d{X {*Keep{X Guard~
+A {1R{!e{1d{X {*Keep{X Guard is here, patroling the area.
+~
+A guard for the red keep stands before you, he is well
+over six feet tall, and built like an ox. It's obvious
+why he was picked for this duty, better steer clear.
+~
+human~
+ABGT DFJZ O 1000 0
+175 145 1d1+17000 1d1+5000 10d40+75 slice
+-85 -85 -85 -85
+CDFIKU AB 0 H
+stand stand none 45000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43014
+knight~
+a Knight~
+A Knight is here, practicing the art of war.
+~
+~
+human~
+ABGT 0 0 1000 0
+163 125 1d1+17000 1d1+500 10d40+75 charge
+-87 -87 -87 -87
+CHIK AN 0 H
+stand stand male 25000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43015
+gate guard red~
+a {1R{!e{1d{X Gate Guard~
+A {1R{!e{1d{X Gate Guard is here, guarding the entrance.
+~
+~
+human~
+ABGT 0 0 1000 0
+162 125 1d1+17600 0d0+0 20d50+140 pierce
+-80 -80 -80 -80
+CHIK A N 0
+stand stand none 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43016
+Maeker~
+Maeker~
+Maeker, the {4Ha{$n{4d{X of the {1K{!in{1g{X, stands before you.
+~
+Standing about five and a half feet tall, Maeker does not
+give off an intimidating vibe from his appearance. Infact,
+it is not until most people see his eyes, which are Violet,
+specked with gold, that they begin to notice what an imposing
+figure he truely is. When Maeker speaks in that soft tone
+of his, larger men pause to listen.
+~
+human~
+ABEG DFJVZ N 1000 0
+175 165 1d1+30000 1d1+6000 25d55+140 wrath
+-110 -110 -110 -110
+ACDEFHIK AB NS K
+stand stand male 75000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43017
+hand's personal guards~
+The Hand of the King's Guard~
+The Hand of the King's Guard is here, guarding the Hand.
+~
+~
+human~
+ABFG DJZ 0 1000 0
+165 145 1d1+35000 0d0+0 40d50+175 slice
+-100 -100 -100 -100
+CFIK AB NS H
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43018
+Daeron~
+Daeron~
+Daeron, one of the Small Council members, is bustling about.
+~
+Dressed mainly in silk, this is a man who loves his
+pleasures. And as a member of the Hand's Small Council,
+he can certainly afford them.
+~
+human~
+ABGT 0 0 1000 0
+172 124 1d1+28000 0d0+0 20d45+125 beating
+-100 -100 -100 -100
+CIJK AB NS K
+stand stand none 33000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43019
+Sorthur~
+Sorthur~
+Sorthur, the town gossip, is here talking away.
+~
+~
+human~
+ABG DFJZ 0 1000 0
+0 0 1d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 43020 yes~
+M GRALL 43019 1000~
+#43020
+herald~
+The Herald~
+The Royal Herald is here, waiting for his cue.
+~
+~
+human~
+ABEGT V 0 1000 0
+172 145 1d1+21000 0d0+0 15d49+145 thwack
+-90 -90 -90 -90
+CFHKN A N HK
+stand stand none 34000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43021
+knight kings guard~
+A Knight of the {DK{win{Wgs{wgu{Dar{wd{X~
+A Knight of the {DK{win{Wgs{wgu{Dar{wd{X is here, protecting his king.
+~
+This is a member of the legendary Kingsguard, one of
+five men chosen to protect the King's life, because
+they are simply the best Knights in this realm, or any.
+It would be unwise to threaten the King in their presence
+~
+human~
+ABEFGT DFJTVZ N 1000 0
+179 165 1d1+40000 1d1+5000 29d48+45 slice
+-145 -145 -145 -145
+CDEFHIJKU ABMP NS H
+stand stand male 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43022
+Jaehaerys king~
+Jaehaerys~
+Jaehaerys, King of the Realm stands here, looking down on you.
+~
+Jaehaerys, the Second of His Name, stands before you in all of
+his glory. Standing atleast six feet tall, his long platinum white
+hair falling down his back, he makes an imposing figure. Best not
+to disturb him.
+~
+human~
+ABEFGT DFJVZ NO 1000 0
+178 150 1d1+50000 1d1+5000 30d40+40 wrath
+-100 -100 -100 -100
+ADEFGHIK ABNS 0 HK
+stand stand male 90000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43023
+drow prisoner~
+a Drow prisoner~
+A Drow prisoner is here, looking at you suspiciously.
+~
+~
+dark-elf~
+ABFGT FZ 0 -1000 0
+170 125 1d1+30000 0d0+0 30d40+150 pound
+-90 -90 -90 -90
+FHIJ AB 0 S
+stand stand male 39000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#43024
+dungeon master~
+The Dungeon Master~
+The Dungeon Master is here, looking after his charges.
+~
+~
+human~
+ABEFGT FJVZ 0 1000 0
+172 145 1d1+35000 0d0+0 35d50+200 beating
+-110 -110 -110 -110
+CEFHJ ABMP NS HK
+stand stand none 3000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43025
+frost giant prisoner~
+A frost-giant prisoner~
+A frost-giant prisoner stands here sulking.
+~
+~
+frost-giant~
+ABFGT DJZ 0 -1000 0
+170 145 1d1+38000 0d0+0 40d50+100 pound
+-100 -100 -100 -100
+CFHIJKO ABI 0 H
+stand stand none 0
+AHMV ABCDEFGHIJK huge unknown
+#43026
+ogre prisoner~
+an ogre prisoner~
+An ogre prisoner is here, pounding on the door!
+~
+~
+ogre~
+ABFGT FJZa 0 -1000 0
+170 125 1d1+31000 0d0+0 30d50+100 wrath
+-90 -90 -90 -90
+CEFHIK ABP 0 K
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#43027
+Draconian prisoner~
+a Draconian prisoner~
+A Draconian prisoner starts to rush at you!
+~
+~
+draconian~
+ABFGT DFJTVZ 0 -1000 0
+167 120 1d1+30000 0d0+0 20d50+125 slap
+-100 -100 -100 -100
+CDEFIK AB E F
+stand stand female 0
+AHMXc ABCDEFGHIJKPQ medium unknown
+#43028
+dungeon guard~
+a dungeon guard~
+A dungeon guard is here, walking his patrol.
+~
+~
+human~
+ABFGT DJVZ H 1000 0
+172 145 1d1+29000 0d0+0 30d50+110 fury
+-110 -110 -110 -110
+0 ABP 0 HK
+stand stand none 50000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43029
+healer grythen~
+Grythen~
+Grythen, the keep's Maester, stands here chanting.
+~
+A long chain, made from the links of every metal known to
+the world hangs around his neck. Each link symbolizes a
+differant art he has learned, one for healing, one for
+currency, one for warcraft, so on and so forth.
+~
+human~
+ABGa 0 0 0 0
+130 0 1d1+20000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43030
+tunnel gremlin~
+a tunnel gremlin~
+A tunnel gremlin sees you and attacks!
+~
+~
+gremlin~
+AFGT DFJTVZ 0 -1000 0
+150 120 1d1+16000 0d0+0 20d40+100 scratch
+-60 -60 -60 -60
+EFHJ A D 0
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+#43031
+Pycelle~
+Pycelle~
+Pycelle, the general's second in command, is here freaking out.
+~
+~
+human~
+AB 0 0 0 0
+0 0 1d1+4999 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 43139 yes~
+M GRALL 43100 1000~
+#43032
+general Kaey~
+General Kaey~
+General Kaey is here, pacing to and fro.
+~
+~
+human~
+ABGT DJVZ 0 1000 0
+180 200 1d1+90000 0d0+0 50d70+300 wrath
+-130 -130 -130 -130
+ACDEFHIKNO ABHKNPS 0 0
+stand stand none 0
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GIVE 43148 43028~
+M GRALL 43102 1000~
+#43033
+Citywatch member~
+a member of the {#Citywatch{X~
+A member of the {#Citywatch{X stands here, protecting the population.
+~
+Dressed mainly in yellow armor, this is a member of the city's police
+force, called the Citywatch. Their training is different, it is meant
+to police the population, and keep the peace by non-leathal means.
+~
+human~
+ABGT V 0 1000 0
+169 120 1d1+20000 0d0+0 20d40+100 slice
+-90 -90 -90 -90
+CEHKO A 0 0
+stand stand male 30000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43041
+rat~
+a rat~
+A rat is scurrying around here.
+~
+Eckk! a rat!
+~
+gremlin~
+AFGT DFJTVZ 0 -1000 0
+155 100 1d1+17000 0d0+0 15d45+75 scratch
+-60 -60 -60 -60
+DHJMN A D 0
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+#43042
+army captain~
+An Army Captain~
+An Army Captain is here, looking over the day's reports.
+~
+~
+human~
+ABEGT DJVZ N 1000 0
+165 125 1d1+30000 0d0+0 20d50+100 pound
+-100 -100 -100 -100
+CDEFHK AB NS 0
+stand stand male 35000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43043
+army major~
+an army Major~
+An Army Major is here, looking at a situation report.
+~
+~
+human~
+ABEGT DFJV 0 1000 0
+165 120 1d1+45000 0d0+0 30d60+110 pierce
+-120 -120 -120 -120
+CDEFHIK AB NS HK
+stand stand male 80000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43044
+Tiberious~
+Tiberious~
+A large man is here, eyeing you from behind the counter.
+~
+~
+human~
+ABG 0 0 0 0
+0 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 90000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43045
+Inmust~
+Inmust~
+Inmust, the banker of Hope City is here.
+~
+~
+human~
+ABGd 0 0 0 0
+0 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 300009
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43046
+fisherman~
+a fisherman~
+A fisherman is here, sorting through his catch.
+~
+~
+human~
+ABGT 0 0 1000 0
+159 100 1d1+18500 0d0+0 20d35+100 pound
+-60 -60 -60 -60
+CDI A 0 0
+stand stand none 30000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#43047
+fisherman lonely~
+A lonely fisherman~
+A lonely fisherman is here, selling his catch.
+~
+~
+human~
+ABG DF 0 0 0
+0 0 1d1+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#43000
+Dark red potion~
+a dark {1red{X potion~
+A dark {1red{X potion lies on the floor here.~
+unknown~
+potion 0 AO
+100 'haste' 'frenzy' 'giant strength' 'mana shield'
+101 0 150000 P
+#43001
+bottle marked heal~
+a bottle marked, 'heal'~
+A small bottle lies here, gathering dust.~
+unknown~
+potion 0 AO
+100 'heal' 'heal' 'heal' 'refresh'
+101 0 87000 P
+#43002
+small blue potion~
+a small {4blue{X potion~
+A small potion lies here.~
+unknown~
+potion 0 AO
+101 'armor' 'steel flesh' 'stone skin' 'shield'
+101 0 34000 P
+#43003
+obsidian ring~
+an {*obsidian{X ring~
+A small black ring lies here.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+101 0 430000 P
+A
+19 10
+A
+18 12
+A
+13 100
+#43004
+small platinum earring~
+a small platinum earring~
+A small earring lies on the ground here.~
+unknown~
+jewelry 0 AS
+0 0 0 0 0
+101 0 460000 P
+A
+17 -15
+A
+18 15
+#43005
+Emerald studded link~
+an {@Eme{2r{@ald{X studded link~
+A small link made of a green material lies here.~
+unknown~
+jewelry 0 AT
+0 0 0 0 0
+101 1 500000 P
+A
+13 45
+A
+18 12
+A
+17 -10
+A
+2 1
+#43006
+guard sword~
+a guard sword~
+A small yet intimidating sword lies here.~
+unknown~
+weapon 0 AN
+sword 8 25 slash B
+101 2 45000 P
+A
+18 9
+#43007
+dull iron mail~
+dull {*iron{X mail~
+A dull looking set of armor lies here.~
+unknown~
+armor 0 AD
+CE CE CE CE 0
+101 4 50000 P
+A
+17 -10
+A
+19 7
+#43008
+Silver pendant~
+a {*Silver{X Pendant~
+A small, dark looking pendant lies here.~
+unknown~
+jewelry G AC
+0 0 0 0 0
+101 1 60400 P
+A
+12 125
+A
+19 11
+A
+17 -9
+A
+9 4
+F
+A 0 0 P
+#43009
+floating thumb~
+a {4flo{$at{4ing{X {8thumb{X~
+A peice of flesh lies here, collecting dust.~
+unknown~
+treasure 0 AQ
+0 0 0 0 0
+101 0 75000 P
+F
+A 0 0 U
+A
+18 12
+A
+3 2
+A
+12 245
+#43010
+red ruined armplates~
+{1R{!e{1d{X {4ru{$in{4ed{X armplates~
+A set of {4ru{$in{4ed{X armplates lie here in the dirt.~
+unknown~
+armor 0 AI
+CE CE CE CE 0
+101 2 64000 P
+A
+5 -2
+A
+19 10
+A
+17 -10
+#43011
+red key~
+a {1R{!e{1d{X key~
+A {1R{!e{1d{X key has been left here on the ground.~
+unknown~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#43012
+gold linked hands chain~
+a {3gold{X chain of hands~
+A {3gold{X chain of hands, each clasping the next sparkles here in the sun.~
+unknown~
+jewelry G AC
+0 0 0 0 0
+101 1 99000 P
+A
+17 -16
+A
+19 15
+A
+13 -100
+A
+18 5
+#43013
+an oak chest~
+an {3oak{X chest~
+An {3oak{X chest sits in the corner here.~
+unknown~
+container 0 0
+10000 AC 0 10000 500
+0 0 0 P
+#43014
+solid platinum bar~
+a solid platinum bar~
+A solid platinum bar lies on the ground here.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 4 202000 P
+#43015
+fireplace portal~
+a {!fireplace{X~
+A {!fireplace{X sits against the far wall.~
+unknown~
+portal AB 0
+0 0 0 ADFGLNP 0
+0 0 0 P
+#43016
+small bed~
+a small bed~
+A small, plush bed sits in the corner of the room.~
+unknown~
+furniture 0 0
+A CEFGHI BEHK EHI EHI
+0 0 0 P
+#43017
+oak table~
+an {3oak{X table~
+An {3oak{X table sits here in the middle of the room.~
+unknown~
+furniture 0 0
+C DFGHIJ BE BEF BEF
+0 0 0 P
+#43018
+Platemail kings guard~
+{DPl{wat{Wem{wa{Dil of the {DKi{wng{Wsgu{wa{Drd{X~
+A suit of platemail lies here, discarded.~
+unknown~
+armor A AD
+BCDE BCDE BCDE BCDE 0
+101 5 100000 P
+A
+19 12
+A
+17 -5
+A
+2 -2
+#43019
+Aura of Jaehaerys~
+the {DA{wu{Wr{Da{X of {DJa{weh{Wae{wr{Dys{X~
+A writhing aura lies on the ground here.~
+unknown~
+treasure 0 AQ
+0 0 0 0 0
+101 0 86000 P
+A
+9 2
+A
+18 5
+F
+A 0 0 U
+A
+12 150
+A
+19 14
+#43020
+ring of conquest~
+ring of {Dco{Wnq{wue{Dst{X~
+A small ring has been left here.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+101 0 89000 P
+A
+18 12
+A
+28 10
+#43021
+dungeon key~
+dungeon key~
+A small key lies on the ground here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#43022
+Bracer of the drow~
+bracer of the {DD{wr{Wo{Dw{X~
+A small bracer lies here.~
+unknown~
+armor 0 AM
+CE CE CE BCD 0
+101 1 98000 P
+A
+18 10
+A
+13 200
+A
+1 -3
+#43023
+Belt frost giant~
+belt of the {Dfr{wost{W-{wgia{Dnt{X~
+A cold looking belt lies here.~
+unknown~
+jewelry 0 AL
+0 0 0 0 0
+101 2 60000 P
+A
+1 2
+F
+R 0 0 I
+A
+19 12
+A
+13 150
+#43024
+decay corps ~
+a decaying corpse~
+A decaying corpse is here, rotting.~
+unknown~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+#43025
+Draconian gem~
+a Draconian {#g{&e{#m{X~
+A small gem has been left here, shining in the sun.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+101 1 100000 P
+A
+2 -2
+A
+18 7
+A
+19 7
+A
+26 5
+A
+13 150
+#43026
+baton guard~
+a guard's baton~
+A long baton has been left here.~
+unknown~
+weapon 0 AN
+exotic 4 50 none EG
+101 0 0 P
+A
+19 5
+#43027
+couch~
+a couch~
+A plush green couch sits against the far wall.~
+unknown~
+furniture 0 0
+AB DFGHIJ EHK DFGHIJ DFGHIJ
+101 0 0 P
+#43028
+crumpled up paper~
+some crumpled up paper~
+A piece of paper lies here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+E
+paper~
+It's definatly a message, but it looks to be in code.
+~
+#43029
+generals gauntlets~
+general's {DGa{wun{Wtl{we{Dts{X~
+A massive pair of gaunlets lie on the ground here.~
+unknown~
+armor 0 AH
+BCE BCE BCE AE 0
+101 0 0 P
+A
+19 15
+A
+2 -1
+A
+17 -3
+#43030
+officer's patch~
+an officer's patch~
+A small patch lies on the floor here.~
+unknown~
+jewelry 0 AV
+0 0 0 0 0
+101 0 90000 P
+A
+9 6
+A
+18 9
+A
+19 9
+A
+13 125
+#43031
+strip of rank~
+a strip of rank~
+A small cloth lies here.~
+unknown~
+jewelry 0 AI
+0 0 0 0 0
+101 2 83400 P
+A
+18 10
+A
+12 200
+A
+3 2
+A
+28 3
+#43032
+golden sword~
+a {#golden{X sword~
+A long, golden colored sword is here.~
+unknown~
+weapon 0 AN
+sword 5 36 slash A
+90 0 100000 P
+A
+18 10
+#43033
+bladed dagger~
+a bladed dagger~
+A small, sharp dagger has been left here.~
+unknown~
+weapon 0 AN
+dagger 10 17 pierce D
+85 1 110000 P
+#43034
+fish~
+a fish~
+A small fish is here.~
+unknown~
+food 0 A
+4 3 0 0 0
+0 0 1000 P
+#43035
+crabs~
+crabs~
+Some crabs are here, left on the ground.~
+unknown~
+food 0 A
+5 3 0 0 0
+0 0 2000 P
+#43036
+portal~
+a portal~
+A portal is here.~
+unknown~
+portal 0 0
+0 0 0 ABCFGLNP 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#43008
+The Grand Gate~
+It's obvious for anyone to see where this gate gets it's name from. Standing
+well over thirty feet in height, and roughly two feet thick, this gate is
+truely massive. All up and down the sides of it are runes carved in some
+ancient dialect, warding evil. A god-like figure is carved into the very
+top of the gate, smiling down on you.
+~
+0 0 0
+D0
+~
+~
+1 0 43009
+D1
+~
+~
+0 0 43007
+S
+#43009
+Entrance to {DHope{X City~
+This is the begining of the great city called {wH{Do{wp{We{X. A city with history dating
+back so far, that it is difficult to actually say when the city was built. Every
+single thing in the city was carefully, and painstakingly planned, so as to be
+a city that people would talk about for thousands of years to come. Decorative
+seems to be the theme of this city, where the nights are cool, and the {#sun{X is
+always shining.
+~
+0 0 1
+D0
+~
+~
+0 0 43023
+D1
+~
+~
+0 0 43032
+D2
+~
+~
+1 0 43008
+D3
+~
+~
+0 0 43010
+S
+#43010
+Under The Wall~
+Looking up at the wall from so close, there doesn't appear to be an end at all.
+Soldiers are busy here, running to and fro, always prepared for a possible
+attack. Off to the left, there are a few soldiers hunkered down in the shade,
+sharpening their swords. The street continues west and east.
+~
+0 0 1
+D0
+~
+~
+0 0 43030
+D1
+~
+~
+0 0 43009
+D3
+~
+~
+0 0 43011
+S
+#43011
+Under The Wall~
+Looking up at the wall from so close, there doesn't appear to be an end at all.
+Soldiers are busy here, running to and fro, always prepared for a possible
+attack. Off to the left, there are a few soldiers hunkered down in the shade,
+sharpening their swords. The street continues west and east.
+~
+0 0 1
+D0
+~
+~
+0 0 43031
+D1
+~
+~
+0 0 43010
+D3
+~
+~
+0 0 43012
+S
+#43012
+An Intersection~
+This is the intersection between the road under the wall and Prince Street. A
+few merchants can be seen walking the street, along with guards and soldiers.
+The ground is made of {3c{8o{3b{8b{3l{8e{3s{8t{3o{8n{3e{X, and small carts can be seen being set up
+along the side of the road.
+~
+0 0 1
+D0
+~
+~
+0 0 43013
+D1
+~
+~
+0 0 43011
+S
+#43013
+Prince Street~
+This street has the feel of importance about it, doors leading to the more
+expensive looking houses can be seen to both the left and right. This
+road appears to be where the more privlaged of the city call their homes.
+The {3c{8o{3b{8b{3e{8l{3s{8t{3o{8n{3e{X on this road is not as cracked as it is in the rest of the
+city, and less of the riff raff appear to hang out here.
+~
+0 0 1
+D0
+~
+~
+0 0 43014
+D2
+~
+~
+0 0 43012
+S
+#43014
+Intersection at Prince Street and Cross Road~
+This is where Cross Road intersects with Prince Street, providing a way
+through the middle of the southern half of the city. Soldiers and merchants
+alike can be seen all along the road, busy going about their daily lives.
+~
+0 0 1
+D0
+~
+~
+0 0 43015
+D1
+~
+~
+0 0 43045
+D2
+~
+~
+0 0 43013
+S
+#43015
+Prince Street~
+This street has the feel of importance about it, doors leading to the more
+expensive looking houses can be seen to both the left and right. This
+road appears to be where the more privlaged of the city call their homes.
+The {3c{8o{3b{8b{3e{8l{3s{8t{3o{8n{3e{X on this road is not as cracked as it is in the rest of the
+city, and less of the riff raff appear to hang out here.
+~
+0 0 1
+D0
+~
+~
+0 0 43016
+D1
+~
+~
+0 0 43153
+D2
+~
+~
+0 0 43014
+S
+#43016
+Prince Street~
+This street has the feel of importance about it, doors leading to the more
+expensive looking houses can be seen to both the left and right. This
+road appears to be where the more privlaged of the city call their homes.
+The {3c{8o{3b{8b{3e{8l{3s{8t{3o{8n{3e{X on this road is not as cracked as it is in the rest of the
+city, and less of the riff raff appear to hang out here.
+~
+0 0 1
+D0
+~
+~
+0 0 43017
+D2
+~
+~
+0 0 43015
+S
+#43017
+Intersection of Prince Street and King's Way~
+This is the junction between King's Way to the east, and Prince Street,
+off the the south. Sounds of busy merchants echo off the ground and
+buildings around you. Merchants can be seen in both directions, along
+with a few guards.
+~
+0 0 1
+D1
+~
+~
+0 0 43018
+D2
+~
+~
+0 0 43016
+S
+#43018
+King's Way~
+Walking along King's Way, many of the more wealthy citizens of the
+city seem to be present. It is obvious that this is a more wealthy
+part of the city, with emaculate buildings and statue or two decorating
+the street.
+~
+0 0 1
+D1
+~
+~
+0 0 43019
+D3
+~
+~
+0 0 43017
+S
+#43019
+King's Way~
+Walking along King's Way, many of the more wealthy citizens of the
+city seem to be present. It is obvious that this is a more wealthy
+part of the city, with emaculate buildings and statue or two decorating
+the street.
+~
+0 0 1
+D1
+~
+~
+0 0 43020
+D3
+~
+~
+0 0 43018
+S
+#43020
+A Four-Way Intersection~
+King's Way intersects with Merchant Lane here. There is also a path off
+to the north, making this a four-way intersection. To the north, the
+road seems to be inclined, and leads off to a hill of some kind, leading
+eventually to the northern half of the city. King's Way runs east and
+west, with Merchant's Lane going off to the south.
+~
+0 0 1
+D0
+~
+~
+0 0 43022
+D1
+~
+~
+0 0 43056
+D2
+~
+~
+0 0 43026
+D3
+~
+~
+0 0 43019
+S
+#43021
+King's Way~
+~
+0 0 0
+D3
+~
+~
+0 0 43020
+S
+#43022
+Path up Visceries' High Hill~
+This is the path that ascendes Visceries' High Hill. The Hill got it's name
+from one of the most earliest Kings of this realm. It was He whom built the
+now famous {1R{!e{1d{X {*Keep{X, that sits atop the loft hill named in his honor. The
+path itself is made up of a marble like material, smooth, and polished to
+a high gleam.
+~
+0 0 1
+D2
+~
+~
+0 0 43020
+D4
+~
+~
+0 0 43027
+S
+#43023
+Merchant's Lane~
+Walking along Merchant Lane, serveral shops are apparent to the west and
+east. Several merchants have set up small carts on the {3c{8o{3b{8b{3e{8l{3s{8t{3o{8n{3e{X road,
+selling wares out of them. Noise bustles from all along the street, music
+to the citizen's ears.
+~
+0 0 1
+D0
+~
+~
+0 0 43024
+D2
+~
+~
+0 0 43009
+D3
+~
+~
+0 0 43060
+S
+#43024
+{wH{Do{wp{We{X Square~
+This is the famous Hope Square, it acts as a four way intersection that
+connects several streets in the city. Several of the more prosperous merchants
+have set up shop here, hoping to catch your eye.
+~
+0 0 1
+D0
+~
+~
+0 0 43025
+D1
+~
+~
+0 0 43053
+D2
+~
+~
+0 0 43023
+D3
+~
+~
+0 0 43047
+S
+#43025
+Merchant's Lane~
+Walking along Merchant Lane, several shops are apparent to the west and
+east. Several merchants have set up small carts on the {3c{8o{3b{8b{3e{8l{3s{8t{3o{8n{3e{X road,
+selling wares out of them. Noise bustles from all along the street, music
+to the citizen's ears.
+~
+0 0 1
+D0
+~
+~
+0 0 43026
+D1
+~
+~
+0 0 43061
+D2
+~
+~
+0 0 43024
+S
+#43026
+Merchant's Lane~
+Walking along Merchant Lane, several shops are apparent to the west and
+east. Several merchants have set up small carts on the {3c{8o{3b{8b{3e{8l{3s{8t{3o{8n{3e{X road,
+selling wares out of them. Noise bustles from all along the street, music
+to the citizen's ears.
+~
+0 0 1
+D0
+~
+~
+0 0 43020
+D2
+~
+~
+0 0 43025
+D3
+~
+~
+0 0 43152
+S
+#43027
+Visceries' Path~
+Climbing the hill now, footing is becoming more difficult due to the
+extent that the road is polished. It's obvious that this is an important
+road, to be cared for this well.
+~
+0 0 1
+D4
+~
+~
+0 0 43028
+D5
+~
+~
+0 0 43022
+S
+#43028
+Visceries' Path~
+Climbing the hill now, footing is becoming more difficult due to the
+extent that the road is polished. It's obvious that this is an important
+road, to be cared for this well.
+~
+0 0 1
+D0
+~
+~
+0 0 43029
+D5
+~
+~
+0 0 43027
+S
+#43029
+Visceries' High Hill~
+Standing atop Visceries' High Hill is like standing atop the world! The
+view from up here is incredible. The city below seems to stretch on for
+miles and miles, and even the forest is visible, vibrantly displayed in
+a plush aura of {@green{X
+~
+0 0 1
+D0
+~
+~
+0 0 43064
+D1
+~
+~
+0 0 43065
+D2
+~
+~
+0 0 43028
+S
+#43030
+Guard Station~
+This is a one of many guard stations built through out the city. It is a place
+for the guards and soldiers of the city to take a break, or to plan for an
+up comming battle. Two couches line the two side walls, with a table in the
+middle. A large map is posted on the wall, with area's outlined in red.
+~
+0 0 0
+D2
+~
+~
+0 0 43010
+S
+#43031
+Guard Station~
+This is a one of many guard stations built through out the city. It is a place
+for the guards and soldiers of the city to take a break, or to plan for an
+up comming battle. Two couches line the two side walls, with a table in the
+middle. A large map is posted on the wall, with area's outlined in red.
+~
+0 0 0
+D2
+~
+~
+0 0 43011
+S
+#43032
+Under The Wall~
+Looking up at the wall from so close, there doesn't appear to be an end at all.
+Soldiers are busy here, running to and fro, always prepared for a possible
+attack. Off to the left, there are a few soldiers hunkered down in the shade,
+sharpening their swords. The street continues west and east.
+~
+0 0 1
+D0
+~
+~
+0 0 43058
+D1
+~
+~
+0 0 43033
+D3
+~
+~
+0 0 43009
+S
+#43033
+Under The Wall~
+Looking up at the wall from so close, there doesn't appear to be an end at all.
+Soldiers are busy here, running to and fro, always prepared for a possible
+attack. Off to the left, there are a few soldiers hunkered down in the shade,
+sharpening their swords. The street continues west and east.
+~
+0 0 1
+D0
+~
+~
+0 0 43059
+D1
+~
+~
+0 0 43034
+D3
+~
+~
+0 0 43032
+S
+#43034
+An Intersection~
+This street leaves the wall behind, and continues north. This looks to be
+a much more poorer section of the city, the buildings have fallen somewhat
+into disrepair, and the cobbelstones on the street appear to have been
+chipped and broken. Peasants can be seen walking all along this street.
+~
+0 0 1
+D0
+~
+~
+0 0 43048
+D3
+~
+~
+0 0 43033
+S
+#43045
+Cross Road~
+Cross road cuts the southern most section of the city in half, providing a
+means for venders and also soldiers to get to parts of the city quicker.
+The ground here is also made of cobbelstone, and several high buildings
+flank you, as the street continues both west and east.
+~
+0 0 1
+D1
+~
+~
+0 0 43046
+D3
+~
+~
+0 0 43014
+S
+#43046
+Cross Road~
+Cross road cuts the southern most section of the city in half, providing a
+means for venders and also soldiers to get to parts of the city quicker.
+The ground here is also made of cobbelstone, and several high buildings
+flank you, as the street continues both west and east.
+~
+0 0 1
+D1
+~
+~
+0 0 43047
+D3
+~
+~
+0 0 43045
+S
+#43047
+Cross Road~
+Cross road cuts the southern most section of the city in half, providing a
+means for venders and also soldiers to get to parts of the city quicker.
+The ground here is also made of cobbelstone, and several high buildings
+flank you, as the street continues both west and east.
+~
+0 0 1
+D1
+~
+~
+0 0 43024
+D3
+~
+~
+0 0 43046
+S
+#43048
+Peasant Lane~
+This street leaves the wall behind, and continues north. This looks to be
+a much more poorer section of the city, the buildings have fallen somewhat
+into disrepair, and the cobbelstones on the street appear to have been
+chipped and broken. Peasants can be seen walking all along this street.
+~
+0 0 1
+D0
+~
+~
+0 0 43049
+D2
+~
+~
+0 0 43034
+D3
+~
+~
+0 0 43063
+S
+#43049
+An Intersection at Peasant Lane~
+Cross road intersects with Peasant Lane here, added a much needed style
+to this section of town. Everything looks both newer and brighter to the
+west, as this street cuts across to the more wealthier parts of town.
+~
+0 0 1
+D0
+~
+~
+0 0 43050
+D2
+~
+~
+0 0 43048
+D3
+~
+~
+0 0 43055
+S
+#43050
+Peasant Lane~
+This street leaves the wall behind, and continues north. This looks to be
+a much more poorer section of the city, the buildings have fallen somewhat
+into disrepair, and the cobbelstones on the street appear to have been
+chipped and broken. Peasants can be seen walking all along this street.
+~
+0 0 1
+D0
+~
+~
+0 0 43051
+D2
+~
+~
+0 0 43049
+D3
+~
+~
+0 0 43062
+S
+#43051
+Peasant Lane~
+This street leaves the wall behind, and continues north. This looks to be
+a much more poorer section of the city, the buildings have fallen somewhat
+into disrepair, and the cobbelstones on the street appear to have been
+chipped and broken. Peasants can be seen walking all along this street.
+~
+0 0 1
+D0
+~
+~
+0 0 43052
+D2
+~
+~
+0 0 43050
+S
+#43052
+An Intersection at King's Way and Peasant Lane~
+King's Way runs into Peasant road here, it is obvious that the road
+on King's Way has been kept in better upkeep then this street. Many
+of the Nobels walk along this street, dressed in fine silks and other
+wares.
+~
+0 0 1
+D2
+~
+~
+0 0 43051
+D3
+~
+~
+0 0 43057
+S
+#43053
+Cross Road~
+Cross road cuts the southern most section of the city in half, providing a
+means for venders and also soldiers to get to parts of the city quicker.
+The ground here is also made of cobbelstone, and several high buildings
+flank you, as the street continues both west and east.
+~
+0 0 1
+D1
+~
+~
+0 0 43054
+D3
+~
+~
+0 0 43024
+S
+#43054
+Cross Road~
+Cross road cuts the southern most section of the city in half, providing a
+means for venders and also soldiers to get to parts of the city quicker.
+The ground here is also made of cobbelstone, and several high buildings
+flank you, as the street continues both west and east.
+~
+0 0 1
+D1
+~
+~
+0 0 43055
+D3
+~
+~
+0 0 43053
+S
+#43055
+Cross Road~
+Cross road cuts the southern most section of the city in half, providing a
+means for venders and also soldiers to get to parts of the city quicker.
+The ground here is also made of cobbelstone, and several high buildings
+flank you, as the street continues both west and east.
+~
+0 0 1
+D1
+~
+~
+0 0 43049
+D3
+~
+~
+0 0 43054
+S
+#43056
+King's Way~
+Walking along King's Way, many of the more wealthy citizens of the
+city seem to be present. It is obvious that this is a more wealthy
+part of the city, with emaculate buildings and statue or two decorating
+the street.
+~
+0 0 1
+D1
+~
+~
+0 0 43057
+D3
+~
+~
+0 0 43020
+S
+#43057
+King's Way~
+Walking along King's Way, many of the more wealthy citizens of the
+city seem to be present. It is obvious that this is a more wealthy
+part of the city, with emaculate buildings and statue or two decorating
+the street.
+~
+0 0 1
+D1
+~
+~
+0 0 43052
+D3
+~
+~
+0 0 43056
+S
+#43058
+Guard Station~
+This is a one of many guard stations built through out the city. It is a place
+for the guards and soldiers of the city to take a break, or to plan for an
+up comming battle. Two couches line the two side walls, with a table in the
+middle. A large map is posted on the wall, with area's outlined in red.
+~
+0 0 0
+D2
+~
+~
+0 0 43032
+S
+#43059
+Guard Station~
+This is a one of many guard stations built through out the city. It is a place
+for the guards and soldiers of the city to take a break, or to plan for an
+up comming battle. Two couches line the two side walls, with a table in the
+middle. A large map is posted on the wall, with area's outlined in red.
+~
+0 0 0
+D2
+~
+~
+0 0 43033
+S
+#43060
+Xyfer's Potion Shop~
+Chaos doesn't begin to cover the scene inside of this shop. Potions
+of all colors, and in all size bottles are strewn all around the
+shop. A hyperactive old dwarf scampers around the room, moving this
+and that around from case to case, or floor to case, depending.
+~
+0 0 0
+D1
+~
+~
+0 0 43023
+S
+#43061
+Jeweler's Shop~
+This shop literally glimmers in the sun light leaked in from an open
+window above. Jewels of all types, shapes, sizes, and origins line
+several large glass cases around the room. Behind one of the cases
+is an elf, who appears to be polishing a diamond.
+~
+0 0 0
+D3
+~
+~
+0 0 43025
+S
+#43062
+A Peasant's House~
+This is without a doubt the home of an extremely poor peasant. An
+old, ripped up chair sits in one corner, opposite a filthy bed in
+the other. Not much in the way of decoration in the room, minus a
+poorly drawn picture on the wall.
+~
+0 0 0
+D1
+~
+~
+0 0 43050
+S
+#43063
+A Peasant's House~
+This is without a doubt the home of an extremely poor peasant. An
+old, ripped up chair sits in one corner, opposite a filthy bed in
+the other. Not much in the way of decoration in the room, minus a
+poorly drawn picture on the wall.
+~
+0 0 0
+D1
+~
+~
+0 0 43048
+S
+#43064
+Visceries' High Hill~
+Standing atop Visceries' High Hill is like standing atop the world! The
+view from up here is incredible. The city below seems to stretch on for
+miles and miles, and even the forest is visible, vibrantly displayed in
+a plush aura of {@green{X
+~
+0 0 1
+D2
+~
+~
+0 0 43029
+D4
+~
+~
+0 0 43070
+S
+#43065
+Path off the Hill~
+This path seems to lead to some kind of a bridge. It is fully
+enclosed by glass, and appears to have been kept in very
+good condition.
+~
+0 0 1
+D1
+~
+~
+0 0 43066
+D3
+~
+~
+0 0 43029
+S
+#43066
+An Enclosed Bridge~
+This bridge appears to be one of a kind. It is fully enclosed
+in glass, protecting the people who walk it from the elements,
+and also from arrows, should the need arise. A small hand rail
+is attached to the both sides of the wall.
+~
+0 0 0
+D1
+~
+~
+0 0 43067
+D3
+~
+~
+0 0 43065
+S
+#43067
+An Enclosed Bridge~
+This bridge appears to be one of a kind. It is fully enclosed
+in glass, protecting the people who walk it from the elements,
+and also from arrows, should the need arise. A small hand rail
+is attached to the both sides of the wall.
+~
+0 0 0
+D1
+~
+~
+0 0 43068
+D3
+~
+~
+0 0 43066
+S
+#43068
+An Enclosed Bridge~
+This bridge appears to be one of a kind. It is fully enclosed
+in glass, protecting the people who walk it from the elements,
+and also from arrows, should the need arise. A small hand rail
+is attached to the both sides of the wall.
+~
+0 0 0
+D1
+~
+~
+0 0 43069
+D3
+~
+~
+0 0 43067
+S
+#43069
+A Checkpoint~
+This appears to be a checkpoint of some kind. A small structure in
+the shape of a rectangle is situated off to one side, and a very
+stocky dwarf is standing directly infront of you, wondering what
+it is you want.
+~
+0 0 0
+D0
+~
+~
+1 0 43069
+D3
+~
+~
+0 0 43068
+S
+#43070
+Visceries' High Hill~
+Standing atop Visceries' High Hill is like standing atop the world! The
+view from up here is incredible. The city below seems to stretch on for
+miles and miles, and even the forest is visible, vibrantly displayed in
+a plush aura of {@green{X
+~
+0 0 0
+D0
+~
+~
+0 0 43071
+D5
+~
+~
+0 0 43064
+S
+#43071
+Path to the {1R{!e{1d{X {8Keep{X~
+This is the path to the {1R{!e{1d{X {*Keep{X. It was the castle that King Visceries
+had built during his reign. At the time, it was the most impressive of all
+castles anywhere in the realm. It is said that Visceries had all of the masons
+who labored on his giant keep killed, so as to make sure they could never
+reveal the secrets of the keep.
+~
+0 0 0
+D0
+~
+~
+0 0 43074
+D2
+~
+~
+0 0 43070
+S
+#43072
+Road to the Citidal~
+The decorative nature that fills the rest of the city seems to be
+somewhat lacking here. The simple stone road is neither flashy nor
+decorative. It is chiped in places, and idented in others, obviously
+from alot of use.
+~
+0 0 0
+D1
+~
+~
+0 0 43073
+D2
+~
+~
+0 0 43069
+S
+#43073
+Road to the Citidal~
+The decorative nature that fills the rest of the city seems to be
+somewhat lacking here. The simple stone road is neither flashy nor
+decorative. It is chiped in places, and idented in others, obviously
+from alot of use.
+~
+0 0 0
+D1
+~
+~
+0 0 43133
+D3
+~
+~
+0 0 43072
+S
+#43074
+The {1R{!e{1d{X {*Gate{X~
+The {1R{!e{1d{X {*Gate{X marks the entrance to the famous {1R{!e{1d{X {*Keep{X, surrounded on
+all sides by a moat, the only entrance is the gate before you. The gate
+is guarded by a member of the {1R{!e{1d{X Guard, an elite division of the King's
+Keep Guards.
+~
+0 0 0
+D0
+~
+~
+1 43011 43075
+D2
+~
+~
+0 0 43071
+S
+#43075
+The Courtyard~
+The courtyard is just within ear shot of the gate, and marks the begining
+of the path that leads to the {1R{!e{1d{X {*Keep{X proper. Off to the west are the
+training grounds, where the knights of the realm practice and run drills
+to stay in combat readyness.
+~
+0 0 1
+D0
+~
+~
+0 0 43077
+D2
+~
+~
+1 0 43074
+D3
+~
+~
+0 0 43084
+S
+#43076
+~
+~
+0 4 0
+S
+#43077
+The Courtyard~
+The courtyard is just within ear shot of the gate, and marks the begining
+of the path that leads to the {1R{!e{1d{X {*Keep{X proper. Off to the west are the
+training grounds, where the knights of the realm practice and run drills
+to stay in combat readyness.
+~
+0 0 0
+D0
+~
+~
+0 0 43078
+D2
+~
+~
+0 0 43075
+D3
+~
+~
+0 0 43081
+S
+#43078
+The {1R{!e{1d{X Path~
+This path seems to be made up of some kind of {1red{X material, polished to
+such a high shine that it is blinding in the sun. The path continues on
+for another twenty feet or so, where a large keep looms, slightly elevated
+off the ground.
+~
+0 0 0
+D0
+~
+~
+0 0 43079
+D2
+~
+~
+0 0 43077
+S
+#43079
+The {1R{!e{1d{X Path~
+This path seems to be made up of some kind of {1red{X material, polished to
+such a high shine that it is blinding in the sun. The path continues on
+for another twenty feet or so, where a large keep looms, slightly elevated
+off the ground.
+~
+0 0 0
+D0
+~
+~
+0 0 43080
+D2
+~
+~
+0 0 43078
+S
+#43080
+Before the {1R{!e{1d{X {*Keep{X~
+The path stops short of a rather large and obtrusive door, flanked
+on both sides by equally large and obtrusive guards men. The door
+shimmers brilliantly in the light, and it is not until you are
+about to leave, that you realize the door is made of solid platinum.
+~
+0 0 0
+D0
+~
+~
+0 0 43086
+D2
+~
+~
+0 0 43079
+S
+#43081
+The Training Grounds~
+These are the training grounds, where knights from all over the city
+come to polish and hone their skills in the arts of war. Several mail
+clad knights can be seen, mock dueling, while others practice their
+riding. Sounds of steel on steel ring through out the grounds.
+~
+0 0 0
+D1
+~
+~
+0 0 43077
+D2
+~
+~
+0 0 43085
+D3
+~
+~
+0 0 43082
+S
+#43082
+The Training Grounds~
+These are the training grounds, where knights from all over the city
+come to polish and hone their skills in the arts of war. Several mail
+clad knights can be seen, mock dueling, while others practice their
+riding. Sounds of steel on steel ring through out the grounds.
+~
+0 0 0
+D1
+~
+~
+0 0 43081
+D2
+~
+~
+0 0 43083
+D5
+~
+~
+0 0 43154
+S
+#43083
+The Training Grounds~
+These are the training grounds, where knights from all over the city
+come to polish and hone their skills in the arts of war. Several mail
+clad knights can be seen, mock dueling, while others practice their
+riding. Sounds of steel on steel ring through out the grounds.
+~
+0 0 0
+D0
+~
+~
+0 0 43082
+D1
+~
+~
+0 0 43084
+S
+#43084
+The Training Grounds~
+These are the training grounds, where knights from all over the city
+come to polish and hone their skills in the arts of war. Several mail
+clad knights can be seen, mock dueling, while others practice their
+riding. Sounds of steel on steel ring through out the grounds.
+~
+0 0 0
+D0
+~
+~
+0 0 43085
+D1
+~
+~
+0 0 43075
+D3
+~
+~
+0 0 43083
+S
+#43085
+The Training Grounds~
+These are the training grounds, where knights from all over the city
+come to polish and hone their skills in the arts of war. Several mail
+clad knights can be seen, mock dueling, while others practice their
+riding. Sounds of steel on steel ring through out the grounds.
+~
+0 0 0
+D0
+~
+~
+0 0 43081
+D2
+~
+~
+0 0 43084
+S
+#43086
+Foyer of the {1R{!e{1d{X {*Keep{X~
+The foyer of the {1R{!e{1d{X {*Keep{X is a grand thing indeed. Two large obsidian
+statues, in the form of bats hang almost in midair, half way between
+the floor and the ceiling. Two Murals flank the entrance way, one looks
+to be of the King, and the other his wife.
+~
+0 0 0
+D0
+~
+~
+0 0 43099
+D1
+~
+~
+0 0 43093
+D2
+~
+~
+0 0 43080
+D3
+~
+~
+0 0 43087
+S
+#43087
+A {4Blue{X Hallway~
+This hallway is made up of some kind of sparkling marterial, all {4blue{X
+in color. Decorative tapestries adorn the walls, hanging above antique
+suits of armor.
+~
+0 0 0
+D1
+~
+~
+0 0 43086
+D3
+~
+~
+0 0 43088
+S
+#43088
+A {4Blue{X Hallway~
+This hallway is made up of some kind of sparkling marterial, all {4blue{X
+in color. Decorative tapestries adorn the walls, hanging above antique
+suits of armor.
+~
+0 0 0
+D0
+~
+~
+0 0 43089
+D1
+~
+~
+0 0 43087
+S
+#43089
+A {4Blue{X Hallway~
+This hallway is made up of some kind of sparkling marterial, all {4blue{X
+in color. Decorative tapestries adorn the walls, hanging above antique
+suits of armor.
+~
+0 0 0
+D0
+~
+~
+0 0 43090
+D2
+~
+~
+0 0 43088
+S
+#43090
+A {4Blue{X Hallway~
+This hallway is made up of some kind of sparkling marterial, all {4blue{X
+in color. Decorative tapestries adorn the walls, hanging above antique
+suits of armor.
+~
+0 0 0
+D0
+~
+~
+0 0 43091
+D2
+~
+~
+0 0 43089
+S
+#43091
+A {4Blue{X Stairwell~
+This hallway is made up of some kind of sparkling marterial, all {4blue{X
+in color. Decorative tapestries adorn the walls, hanging above antique
+suits of armor.
+~
+0 0 0
+D2
+~
+~
+0 0 43090
+D5
+~
+~
+0 0 43092
+S
+#43092
+A Stairwell~
+This stairwell is very baren compared with the rest of the keep. Just plain
+stone walls, and a hard stone floor, both void of any decoration what
+so ever.
+~
+0 0 0
+D4
+~
+~
+0 0 43091
+D5
+~
+~
+0 0 43120
+S
+#43093
+A {2Green{X Hallway~
+Both the walls and the floor are made up of some green material that is
+radiating light in all directions. Small pictures adorne the walls on
+both sides, as far as the eye can see. Some of people, others of some
+landscape.
+~
+0 0 0
+D1
+~
+~
+0 0 43094
+D3
+~
+~
+0 0 43086
+S
+#43094
+A {2Green{X Hallway~
+Both the walls and the floor are made up of some green material that is
+radiating light in all directions. Small pictures adorne the walls on
+both sides, as far as the eye can see. Some of people, others of some
+landscape.
+~
+0 0 0
+D0
+~
+~
+0 0 43095
+D3
+~
+~
+0 0 43093
+S
+#43095
+A {2Green{X Hallway~
+Both the walls and the floor are made up of some green material that is
+radiating light in all directions. Small pictures adorne the walls on
+both sides, as far as the eye can see. Some of people, others of some
+landscape.
+~
+0 0 0
+D0
+~
+~
+0 0 43096
+D2
+~
+~
+0 0 43094
+S
+#43096
+A {2Green{X Hallway~
+Both the walls and the floor are made up of some green material that is
+radiating light in all directions. Small pictures adorne the walls on
+both sides, as far as the eye can see. Some of people, others of some
+landscape.
+~
+0 0 0
+D0
+~
+~
+0 0 43097
+D2
+~
+~
+0 0 43095
+S
+#43097
+A {2Green{X Stairwell~
+The {2Green{X hallway ends, and a stairwell leads up to a higher section
+of the keep. Oddly enough, the stairs are also made up of some kind of
+green material, as are the walls.
+~
+0 0 0
+D2
+~
+~
+0 0 43096
+D4
+~
+~
+0 0 43098
+S
+#43098
+The Tower of the Hand Stairwell~
+The stairwell continues up, as the green colors being to have a calming 
+effect on you. A few pictures line the walls here, mostly of the same
+man, amists different scenery.
+~
+0 0 0
+D4
+~
+~
+0 0 43105
+D5
+~
+~
+0 0 43097
+S
+#43099
+A {1R{!e{1d{X Hallway~
+This hallway glitters in the light from the bulbs, situated over head.
+The {1red{X material that makes up both the floors and the walls
+actually appears to be ruby! It must take a very vain, and very rich
+king to compose an entire hallway of ruby.
+~
+0 0 0
+D0
+~
+~
+0 0 43100
+D2
+~
+~
+0 0 43086
+S
+#43100
+A {1R{!e{1d{X Hallway~
+This hallway glitters in the light from the bulbs, situated over head.
+The {1red{X material that makes up both the floors and the walls
+actually appears to be ruby! It must take a very vain, and very rich
+king to compose an entire hallway of ruby.
+~
+0 0 0
+D0
+~
+~
+0 0 43101
+D2
+~
+~
+0 0 43099
+S
+#43101
+A {1R{!e{1d{X Hallway~
+This hallway glitters in the light from the bulbs, situated over head.
+The {1red{X material that makes up both the floors and the walls
+actually appears to be ruby! It must take a very vain, and very rich
+king to compose an entire hallway of ruby.
+~
+0 0 0
+D2
+~
+~
+0 0 43100
+D4
+~
+~
+0 0 43102
+S
+#43102
+A {1R{!e{1d{X Stairwell~
+This hallway glitters in the light from the bulbs, situated over head.
+The {1red{X material that makes up both the floors and the walls
+actually appears to be ruby!
+~
+0 0 0
+D4
+~
+~
+0 0 43103
+D5
+~
+~
+0 0 43101
+S
+#43103
+A {1R{!e{1d{X Stairwell~
+This hallway glitters in the light from the bulbs, situated over head.
+The {1red{X material that makes up both the floors and the walls
+actually appears to be ruby!
+~
+0 0 0
+D0
+~
+~
+0 0 43104
+D5
+~
+~
+0 0 43102
+S
+#43104
+Entrance to the Audience Chamber~
+This entire chamber is made up of some of the finest {1red{X {3oak{X in the
+lands. Hanging all along both walls are enormous hunting tapistries,
+plush with velvet and lace. Suits of armor stand below those tapistries,
+as silent guard.
+~
+0 0 0
+D0
+~
+~
+0 0 43114
+D2
+~
+~
+0 0 43103
+S
+#43105
+The Tower of the Hand Stairwell~
+The stairwell continues up, as the green colors being to have a calming 
+effect on you. A few pictures line the walls here, mostly of the same
+man, amists different scenery.
+~
+0 0 0
+D4
+~
+~
+0 0 43106
+D5
+~
+~
+0 0 43098
+S
+#43106
+The Tower of the Hand Stairwell~
+The stairwell continues up, as the green colors being to have a calming 
+effect on you. A few pictures line the walls here, mostly of the same
+man, amists different scenery.
+~
+0 0 0
+D4
+~
+~
+0 0 43107
+D5
+~
+~
+0 0 43105
+S
+#43107
+The Tower of the Hand~
+The stairwell continues up, as the green colors being to have a calming 
+effect on you. A few pictures line the walls here, mostly of the same
+man, amists different scenery.
+~
+0 0 0
+D1
+~
+~
+0 0 43108
+D5
+~
+~
+0 0 43106
+S
+#43108
+A Hallway~
+This hallway is adorned by various suits of armor, some from the present
+time, others from years past. All however, are shined up to a high
+gleam, enough to blind you when the light from an above source hits the
+armor.
+~
+0 0 0
+D1
+~
+~
+0 0 43109
+D3
+~
+~
+0 0 43107
+S
+#43109
+A Hallway~
+This hallway is adorned by various suits of armor, some from the present
+time, others from years past. All however, are shined up to a high
+gleam, enough to blind you when the light from an above source hits the
+armor.
+~
+0 0 0
+D0
+~
+~
+1 0 43111
+D1
+~
+~
+1 0 43110
+D2
+~
+~
+1 0 43112
+D3
+~
+~
+0 0 43108
+S
+#43110
+The Study~
+This is where the Hand of the King sits down and goes over his dailey
+paperwork, of which he has alot. The Hand is responsible for handeling
+the mundane tasks of the realm, leaving the King free to do, well,
+whatever it is the King does.
+~
+0 0 0
+D3
+~
+~
+1 0 43109
+S
+#43111
+Chamber of The Hand of the King~
+This is where the Hand of the King comes to lay his head and sleep his
+worries away at the end of the day. It is remarkably small for a man
+of his standing, with only a small, plush bed, and a fireplace on the
+far wall for furnishment.
+~
+0 0 0
+D2
+~
+~
+1 0 43109
+S
+#43112
+Small Council's Room~
+The Hand of the King has a council of advisors, much the same as the King's
+Large Council, that is named The Small Council. It is made up of only 
+three men, probably hence the name. There is a large {3oak{X table in the
+center of the room here, with four chairs situated across from each other.
+~
+0 0 0
+D0
+~
+~
+1 0 43109
+S
+#43113
+A Hidden Tunnel~
+It's too dark to see!
+~
+0 1 0
+D1
+~
+~
+0 0 43116
+S
+#43114
+Walking the {1Red{X Carpet~
+A plush, rich, {1red{X velvet carpet is rustling as you walk down the
+room towards the throne. Large windows in the shapes of rectangles
+allow light to leek through into the chamber, shimmering off the
+carpet.
+~
+0 0 0
+D0
+~
+~
+0 0 43115
+D2
+~
+~
+0 0 43104
+S
+#43115
+Before the {#Throne{X~
+Twin sphinx's, with eyes made of {1rubies{X, flank the pure {#gold{X throne.
+A guard of the Kingsguard stand before them, guarding the man sitting
+on the throne. Large banners are hung above the throne, shinning color
+down upon you.
+~
+0 0 0
+D2
+~
+~
+0 0 43114
+S
+#43116
+A Hidden Tunnel~
+It's too dark to see!
+~
+0 1 0
+D1
+~
+~
+0 0 43117
+D3
+~
+~
+0 0 43113
+S
+#43117
+A Hidden Tunnel~
+It's too dark to see!
+~
+0 1 0
+D1
+~
+~
+0 0 43118
+D3
+~
+~
+0 0 43116
+S
+#43118
+A Hidden Tunnel~
+It's too dark to see!
+~
+0 1 0
+D0
+~
+~
+0 0 43119
+D3
+~
+~
+0 0 43117
+S
+#43119
+A Hidden Tunnel~
+It's too dark to see!
+~
+0 1 0
+D1
+~
+~
+0 0 43135
+D2
+~
+~
+0 0 43118
+S
+#43120
+A Stairwell~
+This stairwell is very baren compared with the rest of the keep. Just
+plain stone walls, and a hard stone floor, both void of any decoration
+what so ever
+~
+0 0 0
+D4
+~
+~
+0 0 43092
+D5
+~
+~
+0 0 43121
+S
+#43121
+A Stairwell~
+This stairwell is very baren compared with the rest of the keep. Just
+plain stone walls, and a hard stone floor, both void of any decoration
+what so ever.
+~
+0 0 0
+D1
+~
+~
+0 0 43122
+D4
+~
+~
+0 0 43120
+S
+#43122
+Path to the Dungeon~
+This is the dungeon. Everything on this level of the keep is completely
+functional. Nothing has been given over to decoration, if it doesn't
+have a use down here, it doesn't belong down here.
+~
+0 0 0
+D1
+~
+~
+0 0 43123
+D3
+~
+~
+0 0 43121
+S
+#43123
+The Dungeon~
+This is the dungeon. Everything on this level of the keep is completely
+functional. Nothing has been given over to decoration, if it doesn't
+have a use down here, it doesn't belong down here.
+~
+0 0 0
+D0
+~
+~
+1 43021 43126
+D1
+~
+~
+0 0 43124
+D2
+~
+~
+1 43021 43127
+D3
+~
+~
+0 0 43122
+S
+#43124
+The Dungeon~
+This is the dungeon. Everything on this level of the keep is completely
+functional. Nothing has been given over to decoration, if it doesn't
+have a use down here, it doesn't belong down here.
+~
+0 0 0
+D0
+~
+~
+1 43021 43129
+D1
+~
+~
+0 0 43125
+D2
+~
+~
+1 43021 43128
+D3
+~
+~
+0 0 43123
+S
+#43125
+The Dungeon~
+This is the dungeon. Everything on this level of the keep is completely
+functional. Nothing has been given over to decoration, if it doesn't
+have a use down here, it doesn't belong down here.
+~
+0 0 0
+D0
+~
+~
+1 43021 43130
+D1
+~
+~
+0 0 43132
+D2
+~
+~
+1 43021 43131
+D3
+~
+~
+0 0 43124
+S
+#43126
+A Prison Cell~
+Bleek and baren, just like a prison cell should be. Just stone for the
+walls, stone for the floors, and stone for the 'bed'.
+~
+0 0 0
+D2
+~
+~
+1 0 43123
+S
+#43127
+A Prison Cell~
+Bleek and baren, just like a prison cell should be. Just stone for the
+walls, stone for the floors, and stone for the 'bed'.
+~
+0 0 0
+D0
+~
+~
+1 0 43123
+S
+#43128
+A Prison Cell~
+Bleek and baren, just like a prison cell should be. Just stone for the
+walls, stone for the floors, and stone for the 'bed'.
+~
+0 0 0
+D0
+~
+~
+1 0 43124
+S
+#43129
+A Prison Cell~
+Bleek and baren, just like a prison cell should be. Just stone for the
+walls, stone for the floors, and stone for the 'bed'.
+~
+0 0 0
+D2
+~
+~
+1 0 43124
+S
+#43130
+A Prison Cell~
+Bleek and baren, just like a prison cell should be. Just stone for the
+walls, stone for the floors, and stone for the 'bed'.
+~
+0 0 0
+D2
+~
+~
+1 0 43125
+S
+#43131
+A Prison Cell~
+Bleek and baren, just like a prison cell should be. Just stone for the
+walls, stone for the floors, and stone for the 'bed'.
+~
+0 0 0
+D0
+~
+~
+1 0 43125
+S
+#43132
+Guard Station~
+A small couch is situated across from the entrance on the far wall,
+flanked on both sides by small wood tables, both with left over
+drink containers on top of them.
+~
+0 0 0
+D3
+~
+~
+0 0 43125
+S
+#43133
+Road to the Citidal~
+The decorative nature that fills the rest of the city seems to be
+somewhat lacking here. The simple stone road is neither flashy nor
+decorative. It is chiped in places, and idented in others, obviously
+from alot of use.
+~
+0 0 0
+D1
+~
+~
+0 0 43134
+D3
+~
+~
+0 0 43073
+S
+#43134
+Before the War Citidal~
+Directly before you is a somewhat small structure, only one floor,
+and not very flashy. It seems to be made up of white stone, possibly
+granite. An extremely wide door is at it's begining, made up of
+simple metals.
+~
+0 0 0
+D1
+~
+~
+1 0 43142
+D3
+~
+~
+0 0 43133
+S
+#43135
+A Hidden Tunnel~
+It's too dark to see!
+~
+0 1 0
+D0
+~
+~
+0 0 43136
+D3
+~
+~
+0 0 43119
+S
+#43136
+A Hidden Tunnel~
+It's too dark to see!
+~
+0 1 0
+D0
+~
+~
+0 0 43137
+D2
+~
+~
+0 0 43135
+S
+#43137
+A Hidden Tunnel~
+It's too dark to see!
+~
+0 1 0
+D2
+~
+~
+0 0 43136
+D5
+~
+~
+0 0 43138
+S
+#43138
+A Rung Ladder~
+It's too dark to see!
+~
+0 1 0
+D4
+~
+~
+0 0 43137
+D5
+~
+~
+0 0 43139
+S
+#43139
+A Rung Ladder~
+It's too dark to see!
+~
+0 1 0
+D4
+~
+~
+0 0 43138
+D5
+~
+~
+0 0 43140
+S
+#43140
+Entrance to the Black Cells~
+It's too dark to see!
+~
+0 1 0
+D0
+~
+~
+0 0 43141
+D4
+~
+~
+0 0 43139
+S
+#43141
+The Black Cells~
+These used to be the Black Cells. Before a cave in cut these cells off
+from the rest of the keep, this was where the king housed those men
+whom he deemed would never again see the light of day. It was said
+that even the prisoners did not scream for help here, because they
+knew that no one would ever hear them.
+~
+0 1 0
+D2
+~
+~
+0 0 43140
+S
+#43142
+Inside The War Citidal~
+The war citidal appears to be only a housing barracks for the city
+watch, and a breifing station for the general and his men. Plain
+stone walls area apparent, as well as a plain stone floor. There
+is very little decoration in this building.
+~
+0 0 0
+D0
+~
+~
+0 0 43143
+D1
+~
+~
+0 0 43147
+D3
+~
+~
+1 0 43134
+S
+#43143
+Inside The War Citidal~
+The war citidal appears to be only a housing barracks for the city
+watch, and a breifing station for the general and his men. Plain
+stone walls area apparent, as well as a plain stone floor. There
+is very little decoration in this building.
+~
+0 0 0
+D0
+~
+~
+0 0 43144
+D1
+~
+~
+0 0 43146
+D2
+~
+~
+0 0 43142
+S
+#43144
+Inside The War Citidal~
+The war citidal appears to be only a housing barracks for the city
+watch, and a breifing station for the general and his men. Plain
+stone walls area apparent, as well as a plain stone floor. There
+is very little decoration in this building.
+~
+0 0 0
+D1
+~
+~
+0 0 43145
+D2
+~
+~
+0 0 43143
+S
+#43145
+Inside The War Citidal~
+The war citidal appears to be only a housing barracks for the city
+watch, and a breifing station for the general and his men. Plain
+stone walls area apparent, as well as a plain stone floor. There
+is very little decoration in this building.
+~
+0 0 0
+D0
+~
+~
+1 0 43148
+D1
+~
+~
+0 0 43149
+D2
+~
+~
+0 0 43146
+D3
+~
+~
+0 0 43144
+S
+#43146
+Inside The War Citidal~
+The war citidal appears to be only a housing barracks for the city
+watch, and a breifing station for the general and his men. Plain
+stone walls area apparent, as well as a plain stone floor. There
+is very little decoration in this building.
+~
+0 0 0
+D0
+~
+~
+0 0 43145
+D2
+~
+~
+0 0 43147
+D3
+~
+~
+0 0 43143
+S
+#43147
+Inside The War Citidal~
+The war citidal appears to be only a housing barracks for the city
+watch, and a breifing station for the general and his men. Plain
+stone walls area apparent, as well as a plain stone floor. There
+is very little decoration in this building.
+~
+0 0 0
+D0
+~
+~
+0 0 43146
+D3
+~
+~
+0 0 43142
+S
+#43148
+The General's Staff Room~
+This is the general's staff room, the place where he comes to call
+a meeting of the highest brass in the army and, if the situation
+requires, the citywatch. A large oak table sits in the middle of
+the room, with half a dozen maps scattered upon it. Six chairs are
+situated at various points around the table.
+~
+0 0 0
+D2
+~
+~
+1 0 43145
+S
+#43149
+A Small Hallway~
+This is a very small hallway indeed, it leads to a closed door at
+the end of the hall, with a stuffed eagle hanging above it. There
+are duty rosters and personel situation reports hanging on the
+walls.
+~
+0 0 0
+D1
+~
+~
+1 0 43150
+D3
+~
+~
+0 0 43145
+S
+#43150
+Officer's Room~
+This appears to be part of the officer's quarters, where the officers of
+this army go for a respite from their daily activites. A few chairs
+and stands are scattered around the room, along with left over drink
+containers sitting on top of them.
+~
+0 0 0
+D0
+~
+~
+0 0 43151
+D3
+~
+~
+1 0 43149
+S
+#43151
+Officer's Room~
+This appears to be part of the officer's quarters, where the officers of
+this army go for a respite from their daily activites. A few chairs
+and stands are scattered around the room, along with left over drink
+containers sitting on top of them.
+~
+0 0 0
+D2
+~
+~
+0 0 43150
+S
+#43152
+Tiberious' Weapons~
+This shop is filled from floor to ceiling with weapons. Weapons of
+all varieties, all shapes and sizes. A rather large man sits at
+a counter behind a glass case, eyeing you as you enter.
+~
+0 0 0
+D1
+~
+~
+0 0 43026
+S
+#43153
+Bank of Hope City~
+A long, wood counter stretches from wall to wall, and encased in very
+thick glass. A small slot, in three seperate locations along
+the glass allows money to be passed to the man behind that counter.
+~
+0 0 0
+D3
+~
+~
+0 0 43015
+S
+#43154
+A Hill~
+This hill leads down towards the bay, where the fisher folk of Hope
+City make their living. The bay holds an aboundance of fish and
+other sea life, all ripe for the plucking. Or catching as the
+case may be.
+~
+0 0 0
+D4
+~
+~
+0 0 43082
+D5
+~
+~
+0 0 43155
+S
+#43155
+Below the Keep~
+This hill leads down towards the bay, where the fisher folk of Hope
+City make their living. The bay holds an aboundance of fish and
+other sea life, all ripe for the plucking. Or catching as the
+case may be.
+~
+0 0 0
+D3
+~
+~
+0 0 43156
+D4
+~
+~
+0 0 43154
+S
+#43156
+Down Near the Bay~
+The bay stretches out as far as the eye can see, small boats, like dots,
+line the horizon. A few people are here, selling various types of
+fish and seafood out of small carts, calling to you as you walk by.
+~
+0 0 0
+D1
+~
+~
+0 0 43155
+D3
+~
+~
+0 0 43157
+S
+#43157
+Down Near the Bay~
+The bay stretches out as far as the eye can see, small boats, like dots,
+line the horizon. A few people are here, selling various types of
+fish and seafood out of small carts, calling to you as you walk by.
+~
+0 0 0
+D1
+~
+~
+0 0 43156
+S
+#43000
+A {2forest{X {3road{X~
+~
+0 0 0
+D0
+~
+~
+0 0 43001
+S
+#43001
+A {2forest{X {3road{X~
+~
+0 0 0
+D2
+~
+~
+0 0 43000
+S
+#43002
+Out from the Boulders~
+The boulders fade away here, as a new path seems to magically open up
+in front of you. This new path seems to have been well traveled in
+the past, and continues to the west.
+~
+0 0 0
+D0
+~
+~
+0 0 14568
+D3
+~
+~
+0 0 43003
+S
+#43003
+Western Road~
+The western road is flanked on both sides by enormous trees of indeterminable
+origin. Each is no less then fourty feet in height, and sprouting limbs as
+large as any you have ever seen. The ground is littered with a {3yellow{X
+powder, with several sets of tracks on it.
+~
+0 0 0
+D1
+~
+~
+0 0 43002
+D3
+~
+~
+0 0 43004
+S
+#43004
+Western Road~
+The western road is flanked on both sides by enormous trees of indeterminable
+origin. Each is no less then fourty feet in height, and sprouting limbs as
+large as any you have ever seen. The ground is littered with a {3yellow{X
+powder, with several sets of tracks on it.
+~
+0 0 0
+D1
+~
+~
+0 0 43003
+D3
+~
+~
+0 0 43005
+S
+#43005
+Western Road~
+The western road is flanked on both sides by enormous trees of indeterminable
+origin. Each is no less then fourty feet in height, and sprouting limbs as
+large as any you have ever seen. The ground is littered with a {3yellow{X
+powder, with several sets of tracks on it.
+~
+0 0 0
+D1
+~
+~
+0 0 43004
+D3
+~
+~
+0 0 43006
+S
+#43006
+Western Road~
+The western road is flanked on both sides by enormous trees of indeterminable
+origin. Each is no less then fourty feet in height, and sprouting limbs as
+large as any you have ever seen. The ground is littered with a {3yellow{X
+powder, with several sets of tracks on it.
+~
+0 0 0
+D1
+~
+~
+0 0 43005
+D3
+~
+~
+0 0 43007
+S
+#43007
+Before a Town~
+A town becomes visible off in the distance, with a huge white wall
+surrounding it. The city looks completely massive, and appears to
+hold a population of prehaps thousands. Something this big would not
+be left undefended.
+~
+0 0 0
+D1
+~
+~
+0 0 43006
+D3
+~
+~
+0 0 43008
+S
+#0
+
+
+
+#SPECIALS
+M 43009 spec_cast_mage Load to: a {Ds{wh{Di{Wm{Dm{we{Dr{Wi{wn{Dg{X mage
+M 43016 spec_breath_frost Load to: Maeker
+M 43022 spec_breath_lightning Load to: Jaehaerys
+M 43006 spec_thief Load to: A Thief
+S
+
+
+
+#RESETS
+D 0 43008 0 1 The north door of The Grand Gate is closed
+D 0 43009 2 1 The south door of Entrance to {DHope{X City is closed
+D 0 43069 0 1 The north door of A Checkpoint is closed
+D 0 43074 0 2 The north door of The {1R{!e{1d{X {*Gate{X is closed and locked
+D 0 43075 2 2 The south door of The Courtyard is closed and locked
+D 0 43109 0 1 The north door of A Hallway is closed
+D 0 43109 1 1 The east door of A Hallway is closed
+D 0 43109 2 1 The south door of A Hallway is closed
+D 0 43110 3 1 The west door of The Study is closed
+D 0 43111 2 1 The south door of Chamber of The Hand of the King is closed
+D 0 43112 0 1 The north door of Small Council's Room is closed
+D 0 43123 0 2 The north door of The Dungeon is closed and locked
+D 0 43123 2 2 The south door of The Dungeon is closed and locked
+D 0 43124 0 2 The north door of The Dungeon is closed and locked
+D 0 43124 2 2 The south door of The Dungeon is closed and locked
+D 0 43125 0 2 The north door of The Dungeon is closed and locked
+D 0 43125 2 2 The south door of The Dungeon is closed and locked
+D 0 43126 2 2 The south door of A Prison Cell is closed and locked
+D 0 43127 0 2 The north door of A Prison Cell is closed and locked
+D 0 43128 0 2 The north door of A Prison Cell is closed and locked
+D 0 43129 2 2 The south door of A Prison Cell is closed and locked
+D 0 43130 2 2 The south door of A Prison Cell is closed and locked
+D 0 43131 0 2 The north door of A Prison Cell is closed and locked
+D 0 43134 1 1 The east door of Before the War Citidal is closed
+D 0 43142 3 1 The west door of Inside The War Citidal is closed
+D 0 43145 0 1 The north door of Inside The War Citidal is closed
+D 0 43148 2 1 The south door of The General's Staff Room is closed
+D 0 43149 1 1 The east door of A Small Hallway is closed
+D 0 43150 3 1 The west door of Officer's Room is closed
+M 0 43003 2 43008 2 *Load The Grand Gate Guard
+E 0 43006 0 16 *A guard sword is loaded wielded of The Grand Gate Guard
+M 0 43009 6 43009 4 *Load a {Ds{wh{Di{Wm{Dm{we{Dr{Wi{wn{Dg{X mage
+M 0 43002 8 43010 10 *Load Hope Cityguard
+M 0 43002 8 43012 10 *Load Hope Cityguard
+M 0 43008 7 43013 10 *Load A {4Solace{X merchant
+M 0 43002 8 43014 10 *Load Hope Cityguard
+M 0 43008 7 43016 10 *Load A {4Solace{X merchant
+M 0 43012 10 43016 10 *Load A citizen of Hope City
+M 0 43006 5 43017 7 *Load A Thief
+M 0 43002 8 43017 10 *Load Hope Cityguard
+M 0 43007 4 43019 6 *Load An {1Arlingorath{X merchant
+M 0 43002 8 43019 10 *Load Hope Cityguard
+M 0 43009 6 43020 4 *Load a {Ds{wh{Di{Wm{Dm{we{Dr{Wi{wn{Dg{X mage
+E 0 43009 0 18 *A {4flo{$at{4ing{x {8thumb{x is loaded floating nearby of a {Ds{wh{Di{Wm{Dm{we{Dr{Wi{wn{Dg{X mage
+M 0 43012 10 43020 10 *Load A citizen of Hope City
+M 0 43009 6 43023 4 *Load a {Ds{wh{Di{Wm{Dm{we{Dr{Wi{wn{Dg{X mage
+M 0 43012 10 43023 10 *Load A citizen of Hope City
+M 0 43007 4 43024 6 *Load An {1Arlingorath{X merchant
+M 0 43008 7 43024 10 *Load A {4Solace{X merchant
+M 0 43012 10 43025 10 *Load A citizen of Hope City
+M 0 43007 4 43026 6 *Load An {1Arlingorath{X merchant
+M 0 43006 5 43026 7 *Load A Thief
+M 0 43012 10 43027 10 *Load A citizen of Hope City
+M 0 43012 10 43029 10 *Load A citizen of Hope City
+M 0 43004 10 43030 10 *Load A Hope City {4Sol{$d{4ier{X
+M 0 43004 2 43030 2 *Load A Hope City {4Sol{$d{4ier{X
+M 0 43004 10 43031 10 *Load A Hope City {4Sol{$d{4ier{X
+E 0 43007 0 5 *Dull {*iron{x mail is loaded on the body of A Hope City {4Sol{$d{4ier{X
+M 0 43006 5 43032 7 *Load A Thief
+M 0 43002 8 43033 10 *Load Hope Cityguard
+M 0 43002 8 43033 10 *Load Hope Cityguard
+M 0 43009 6 43034 4 *Load a {Ds{wh{Di{Wm{Dm{we{Dr{Wi{wn{Dg{X mage
+E 0 43009 0 18 *A {4flo{$at{4ing{x {8thumb{x is loaded floating nearby of a {Ds{wh{Di{Wm{Dm{we{Dr{Wi{wn{Dg{X mage
+M 0 43006 5 43045 7 *Load A Thief
+M 0 43012 10 43045 10 *Load A citizen of Hope City
+M 0 43007 4 43046 6 *Load An {1Arlingorath{X merchant
+M 0 43002 8 43046 10 *Load Hope Cityguard
+M 0 43008 7 43046 10 *Load A {4Solace{X merchant
+M 0 43006 5 43047 7 *Load A Thief
+M 0 43006 5 43048 7 *Load A Thief
+M 0 43005 6 43048 10 *Load A peasant
+M 0 43012 10 43048 10 *Load A citizen of Hope City
+M 0 43005 6 43049 10 *Load A peasant
+M 0 43008 7 43049 10 *Load A {4Solace{X merchant
+M 0 43002 8 43050 10 *Load Hope Cityguard
+M 0 43005 6 43051 10 *Load A peasant
+M 0 43012 10 43051 10 *Load A citizen of Hope City
+M 0 43006 5 43052 7 *Load A Thief
+M 0 43002 8 43052 10 *Load Hope Cityguard
+M 0 43008 7 43052 10 *Load A {4Solace{X merchant
+M 0 43002 8 43053 10 *Load Hope Cityguard
+M 0 43008 7 43054 10 *Load A {4Solace{X merchant
+E 0 43008 0 3 *A {*silver{x pendant is loaded around the neck (1) of A {4Solace{X merchant
+M 0 43007 4 43057 6 *Load An {1Arlingorath{X merchant
+E 0 43008 0 3 *A {*silver{x pendant is loaded around the neck (1) of An {1Arlingorath{X merchant
+M 0 43012 10 43057 10 *Load A citizen of Hope City
+M 0 43004 10 43058 10 *Load A Hope City {4Sol{$d{4ier{X
+M 0 43004 10 43059 10 *Load A Hope City {4Sol{$d{4ier{X
+M 0 43004 10 43059 10 *Load A Hope City {4Sol{$d{4ier{X
+M 0 43000 1 43060 1 *Load Xyfer
+G 0 43000 0 *A dark {1red{x potion is given to Xyfer
+G 0 43001 0 *A bottle marked, 'heal' is given to Xyfer
+G 0 43002 0 *A small {4blue{x potion is given to Xyfer
+M 0 43001 1 43061 1 *Load Baelor
+G 0 43003 0 *An {*obsidian{x ring is given to Baelor
+G 0 43004 0 *A small platinum earring is given to Baelor
+G 0 43005 0 *An {@eme{2r{@ald{x studded link is given to Baelor
+M 0 43005 6 43062 10 *Load A peasant
+M 0 43005 6 43063 10 *Load A peasant
+M 0 43005 6 43063 10 *Load A peasant
+M 0 43019 1 43066 1 *Load Sorthur
+M 0 43010 1 43069 1 *Load Gilk
+M 0 43011 1 43074 1 *Load The {1R{!e{1d{X Guard
+E 0 43010 0 10 *{1r{!e{1d{x {4ru{$in{4ed{x armplates is loaded on the arms of The {1R{!e{1d{X Guard
+G 0 43011 0 *A {1r{!e{1d{x key is given to The {1R{!e{1d{X Guard
+M 0 43015 2 43080 2 *Load a {1R{!e{1d{X Gate Guard
+M 0 43015 2 43080 2 *Load a {1R{!e{1d{X Gate Guard
+M 0 43014 10 43081 8 *Load a Knight
+M 0 43014 10 43082 8 *Load a Knight
+M 0 43014 10 43083 8 *Load a Knight
+M 0 43014 10 43084 8 *Load a Knight
+M 0 43014 10 43085 8 *Load a Knight
+M 0 43020 1 43104 1 *Load The Herald
+M 0 43017 4 43109 4 *Load The Hand of the King's Guard
+M 0 43017 4 43109 4 *Load The Hand of the King's Guard
+M 0 43017 4 43110 4 *Load The Hand of the King's Guard
+M 0 43017 4 43110 4 *Load The Hand of the King's Guard
+O 0 43013 0 43110 *An {3oak{x chest loaded to The Study
+P 0 43014 1 43013 1 *A solid platinum bar put inside a solid platinum bar
+M 0 43016 1 43111 1 *Load Maeker
+E 0 43012 0 3 *A {3gold{x chain of hands is loaded around the neck (1) of Maeker
+O 0 43015 0 43111 *A {!fireplace{x loaded to Chamber of The Hand of the King
+O 0 43016 0 43111 *A small bed loaded to Chamber of The Hand of the King
+O 0 43017 0 43112 *An {3oak{x table loaded to Small Council's Room
+M 0 43018 1 43112 1 *Load Daeron
+O 0 43036 0 43113 *A portal loaded to A Hidden Tunnel
+M 0 43021 5 43114 5 *Load A Knight of the {DK{win{Wgs{wgu{Dar{wd{X
+M 0 43021 5 43114 5 *Load A Knight of the {DK{win{Wgs{wgu{Dar{wd{X
+M 0 43021 5 43115 5 *Load A Knight of the {DK{win{Wgs{wgu{Dar{wd{X
+E 0 43018 0 5 *{dpl{wat{wem{wa{dil of the {dki{wng{wsgu{wa{drd{x is loaded on the body of A Knight of the {DK{win{Wgs{wgu{Dar{wd{X
+M 0 43022 1 43115 1 *Load Jaehaerys
+E 0 43019 0 18 *The {da{wu{wr{da{x of {dja{weh{wae{wr{dys{x is loaded floating nearby of Jaehaerys
+E 0 43020 0 1 *Ring of {dco{wnq{wue{dst{x is loaded on the left finger of Jaehaerys
+M 0 43041 5 43116 1 *Load a rat
+M 0 43030 3 43117 1 *Load a tunnel gremlin
+M 0 43030 3 43118 1 *Load a tunnel gremlin
+M 0 43030 3 43119 1 *Load a tunnel gremlin
+M 0 43024 1 43122 1 *Load The Dungeon Master
+G 0 43021 0 *Dungeon key is given to The Dungeon Master
+M 0 43028 1 43124 1 *Load a dungeon guard
+E 0 43026 0 16 *A guard's baton is loaded wielded of a dungeon guard
+M 0 43023 1 43126 1 *Load a Drow prisoner
+E 0 43022 0 15 *Bracer of the {dd{wr{wo{dw{x is loaded on the right wrist of a Drow prisoner
+M 0 43025 1 43127 1 *Load A frost-giant prisoner
+E 0 43023 0 13 *Belt of the {dfr{wost{w-{wgia{dnt{x is loaded around the waist of A frost-giant prisoner
+O 0 43024 0 43128 *A decaying corpse loaded to A Prison Cell
+M 0 43026 1 43129 1 *Load an ogre prisoner
+M 0 43027 1 43130 1 *Load a Draconian prisoner
+E 0 43025 0 17 *A draconian {#g{&e{#m{x is loaded held in the hands of a Draconian prisoner
+O 0 43024 0 43131 *A decaying corpse loaded to A Prison Cell
+O 0 43027 0 43132 *A couch loaded to Guard Station
+M 0 43029 1 43132 1 *Load Grythen
+M 0 43033 7 43134 7 *Load a member of the {#Citywatch{X
+M 0 43041 5 43135 1 *Load a rat
+M 0 43041 5 43136 1 *Load a rat
+M 0 43041 5 43137 1 *Load a rat
+M 0 43031 1 43141 1 *Load Pycelle
+M 0 43033 7 43142 7 *Load a member of the {#Citywatch{X
+M 0 43033 7 43143 7 *Load a member of the {#Citywatch{X
+M 0 43033 7 43144 7 *Load a member of the {#Citywatch{X
+M 0 43033 7 43144 7 *Load a member of the {#Citywatch{X
+M 0 43033 7 43145 7 *Load a member of the {#Citywatch{X
+M 0 43033 7 43146 7 *Load a member of the {#Citywatch{X
+M 0 43033 7 43147 7 *Load a member of the {#Citywatch{X
+M 0 43032 1 43148 1 *Load General Kaey
+M 0 43042 1 43150 1 *Load An Army Captain
+E 0 43030 0 26 *An officer's patch is loaded as a religious patch of An Army Captain
+M 0 43043 1 43151 1 *Load an army Major
+E 0 43031 0 10 *A strip of rank is loaded on the arms of an army Major
+M 0 43044 1 43152 1 *Load Tiberious
+G 0 43032 0 *A {#golden{x sword is given to Tiberious
+G 0 43033 0 *A bladed dagger is given to Tiberious
+M 0 43045 1 43153 1 *Load Inmust
+M 0 43046 4 43155 4 *Load a fisherman
+M 0 43046 4 43156 4 *Load a fisherman
+M 0 43046 4 43157 4 *Load a fisherman
+M 0 43046 4 43157 4 *Load a fisherman
+M 0 43047 1 43157 1 *Load A lonely fisherman
+G 0 43034 0 *A fish is given to A lonely fisherman
+G 0 43035 0 *Crabs is given to A lonely fisherman
+S
+
+
+
+#SHOPS
+43010 0 0 0 0 0 100 100 0 23
+43019 0 0 0 0 0 100 100 0 23
+43031 0 0 0 0 0 100 100 0 23
+43044 0 5 0 0 0 100 100 0 23
+43047 0 19 0 0 0 100 100 0 23
+43000 0 10 0 0 0 100 100 0 23
+43001 0 33 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#43000
+if isevil $n
+say Leave now evil one! You are not welcome in this holy place!
+mob kill $n
+else
+say Welcome, $n, to the city called Hope.
+end if
+~
+#43001
+say Sorry! This road is off limits to all but the King's men!
+~
+#43002
+say Hrm, well, i suppose i could let you slide this time.
+mob transfer $n 43072
+~
+#43003
+say Whoa! Where'd ya think YOU'RE going?
+mob transfer $n 43069
+~
+#43019
+Say Hello there! Would you like to talk for a while?
+chu
+~
+#43020
+say Well then, let me tell you this! Old Gilk up ahead is partial to bribes, see what 10 platinum gets you!
+wink
+~
+#43100
+say Thank god! finally someone has come!
+delay 5
+say I thought i would be down here forever! Listen, friend...
+delay 5
+say You must find the General, and give him this! The King is planning to betray him!
+delay 5
+say I'm sure you'll be rewarded, and tell him what happaned to me...
+say Will you help me?
+~
+#43102
+say Have you seen Pycelle?! Where the hell is he??
+mutter
+~
+#43139
+mob oload 43028
+give paper $n
+~
+#43148
+say Betray me!? I'll teach that witless lacky!
+say Thank you for your service $n!
+say Here is a token of my gratitude.
+mob oload 43029
+give gau $n
+~
+#0
+
+#$

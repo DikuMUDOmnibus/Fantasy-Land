@@ -1,0 +1,1438 @@
+#AREADATA
+Name Skorm's Bay~
+Builders Enyuu~
+VNUMs 75500 75599
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#75500
+Goat~
+A gruffy mountain goat~
+A gruffy mountain goat stares blankly at you
+~
+A mountain goat stares blankly at you while eating some green blades of
+grass.  
+~
+wolf~
+AB Z 0 0 0
+50 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+GV ACDEFJKQU medium unknown
+#75501
+Gork'thin man~
+Gork'thin~
+Gork'thin is here selling you weapons
+~
+~
+dwarf~
+AB J 0 0 0
+250 1750 131d475+20750 125d375+15500 50d125+2000 none
+-170 -170 -170 -119
+0 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#75502
+darla woman~
+Darla~
+A plump {Dwoman{x smiles widely from behind a counter.
+~
+~
+human~
+AB 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+M GRALL 75500 100~
+#75503
+voodoo~
+Mister Voodoo~
+Mister {DVoodoo{x is here selling you scrolls. 
+~
+~
+human~
+AB 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#75504
+king skorm~
+{BS{yk{Bo{yr{Bm{x~
+{BS{yk{Bo{yr{Bm{x is here, sitting on his {Dthrone{x.
+~
+~
+human~
+AB 0 0 0 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#75500
+Glass counter~
+a glass counter trimmed in {roak{x~
+A glass counter trimmed in {roak{x.~
+wood~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+#75501
+tree trees massive~
+two massive {Ggreen{x trees~
+Two massive {Ggreen{x trees grow on either side of the mountain path~
+wood~
+trash 0 0
+0 0 0 0 0
+0 300 0 P
+#75502
+axe crescent masked~
+a crescent axe named "Masked"~
+A crescent axe named "Masked" glows here.~
+iron~
+weapon 0 AN
+axe 20 16 cleave 0
+151 8 6000 P
+#75503
+Skorm axe~
+a {bskorm{x {Daxe{x~
+A {bskorm{x {Daxe{x glints in the light.~
+adamantine~
+weapon B AN
+axe 50 7 chop E
+151 0 10000 P
+#75504
+skorm sword~
+a {bskorm{x {Dsword{x~
+A {bskorm{x {Dsword{x glints in the light.~
+unknown~
+weapon B AN
+sword 50 7 slash C
+151 0 10000 P
+#75505
+sign~
+a sign~
+A {Dsign{x demands your attention~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+A {Dsign{x reads:
+ 
+       Shop closed.
+~
+#75506
+bowl grub~
+a bowl of {ggrub{x~
+A bowl of {ggrub{x oozes around inside it's bowl~
+unknown~
+food 0 0
+5 0 0 0 0
+0 0 0 P
+#75507
+Room Key~
+a room key~
+A small room key with the number one inscribed on it.~
+steel~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#75508
+scroll eye~
+a {rred{x eye scroll~
+A {rred{x eye scroll sits here.~
+paper~
+scroll 0 A
+151 'blindness' 'reserved' 'reserved' 'reserved'
+151 0 0 P
+#75509
+scroll burning man~
+a scroll with a picture of a burning {Dman{x~
+A scroll with a picture of a burning {Dman{x collects dust.~
+paper~
+scroll 0 A
+151 'fire elemental' 'reserved' 'reserved' 'reserved'
+151 0 0 P
+#75510
+scroll eye~
+a dreary {beye{x scroll~
+A dreary {beye{x scroll makes you yawn.~
+paper~
+scroll 0 0
+151 'sleep' 'reserved' 'reserved' 'reserved'
+151 0 0 P
+#75511
+no name~
+a scroll with {yglowing{x skulls~
+A scroll with {yglowing{x skulls is here.~
+unknown~
+scroll 0 0
+151 'plague' 'poison' 'slow' 'weaken'
+151 0 0 P
+#75512
+chest~
+a chest~
+A large window lets a gentle breeze in from the north.~
+iron~
+container 0 0
+0 0 0 500 0
+0 0 0 P
+#75513
+money~
+some money~
+A previous renter seems to have left some money here.~
+unknown~
+money 0 A
+20000 0 0 0 0
+151 5 0 P
+#0
+
+
+
+#ROOMS
+#75500
+A Path Between Mountains~
+The path before you stretches down into a winding mountainous trail that
+bends and weaves through gnarled vegetation, and around massive boulders and
+rubble.  The air here is brisk and dry, and a gentle breeze tunnels up
+through the cold white peaks.  
+~
+0 0 0
+D0
+~
+~
+0 0 75501
+S
+#75501
+A Cold Mountain Path~
+The rubble strewn across the floor serves as tricky footing as the trail
+winds and bends upwards through the {Dmountain{X.  Two massive trees grow on
+either side of the path, jutting their roots into the hard stone below them.
+The two tree's bend over the rubble-filled trail, joining together in a
+large {gcanopy{x that sends dark shadows that dance in the cool breeze.  
+~
+0 0 0
+D0
+~
+~
+0 0 75502
+D2
+~
+~
+0 0 75500
+S
+#75502
+A Cold Mountain Path~
+You come to the top of a steep incline in the trail and can see far down
+to the valley below.  A vast forest stretches throughout the valley, and
+comes to a stop near the shores of of what seems to be a small bay.  You
+peer closer and can make out a small {wvillage{x hidden along the forest's edge,
+and settled at the mouth of the misty bay.  
+~
+0 0 0
+D0
+~
+~
+0 0 75503
+D2
+~
+~
+0 0 75501
+S
+#75503
+On A Steep Decline~
+The trail begins a steep decline towards the {gvalley{x below, and once again
+disappears into the cold gray rock.  The sheer cliff that rises up on either
+side of you is home to only a few small rodents and insects, as well as a
+few patches of damp moss, and twisted vegetation.  
+~
+0 0 0
+D0
+~
+~
+0 0 75504
+D2
+~
+~
+0 0 75502
+S
+#75504
+On A Steep Decline~
+The trail begins a steep decline towards the {gvalley{x below, and once again
+disappears into the cold gray rock.  The sheer cliff that rises up on either
+side of you is home to only a few small rodents and insects, as well as a
+few patches of damp moss, and twisted vegetation.  
+~
+0 0 0
+D1
+~
+~
+0 0 75505
+D2
+~
+~
+0 0 75503
+S
+#75505
+A Bend In The Path~
+A cool mountain breeze blows through here, playing a soft melody of moans
+and whistles that seem to echo for miles over the cool {Dmountainside{x.  The
+trail before you is barely discernible, and only a few tossed aside pebbles
+and worn down blades of grass tell of any sign of travel through here.  
+~
+0 0 0
+D1
+~
+~
+0 0 75506
+D3
+~
+~
+0 0 75504
+S
+#75506
+Decending Down The Mountain~
+The trail stretches down the mountainside descending into the {gvalley{x
+below.  Gnarled roots and plants jut out from the rock face and stretch
+towards what little sun falls on the cool earth here.  
+~
+0 0 0
+D0
+~
+~
+0 0 75507
+D3
+~
+~
+0 0 75505
+S
+#75507
+A Trail Through A Forest~
+The path descends down the mountain and into a thick {gforest{x filled with
+bustling wildlife and busy insects.  A canopy of tall trees sprout out above
+you, their massive trunks framed by long grass and underbrush.  
+~
+0 0 0
+D0
+~
+~
+0 0 75508
+D2
+~
+~
+0 0 75506
+S
+#75508
+The South Gate Of Skorm~
+A tall wooden wall carved from the thick trunks of trees cut from the
+forest that surrounds this village serve as protection from wildlife and
+{ybandits{x.  A massive gate large enough for two caravans side-by-side seems to
+be the only entrance into the village.  
+~
+0 0 0
+D0
+~
+gate~
+1 0 75509
+D2
+~
+~
+0 0 75507
+S
+#75509
+Inside The South Gate~
+The southern gate is sturdy and is made from large wooden logs from the
+surrounding {gforest{x.  Two large iron hinges of excellent quality hold the
+enormous weight of the gate, and show no signs of rust or wear.  The tops of
+the trees can be seen over the tips of the gate, as well as the looming
+{Dmountains{x that surround the valley.  
+~
+0 0 0
+D0
+~
+~
+0 0 75510
+D2
+~
+~
+1 0 75508
+S
+#75510
+A Road Through Skorm~
+This road takes you along the beautiful {bocean{x front of Skorm.  The
+milky-green waters glisten under the {rtorch{x light along the docks, and a
+swirling white mist seems to coat the dark waters further outside the small
+bay.  Townsfolk pass by, busily tending to their business, while an
+impressive array of {Dshops{x, Inns, and businesses line the waterfront.  
+~
+0 0 0
+D1
+~
+~
+0 0 75511
+D2
+~
+~
+0 0 75509
+D3
+~
+~
+0 0 75520
+S
+#75511
+A Bend In The Road~
+This road takes you along the beautiful {bocean{x front of Skorm.  The
+milky-green waters glisten under the {rtorch{x light along the docks, and a
+swirling white mist seems to coat the dark waters further outside the small
+bay.  Townsfolk pass by, busily tending to their business, while an
+impressive array of {Dshops{x, Inns, and businesses line the waterfront.  
+~
+0 0 0
+D0
+~
+~
+0 0 75512
+D3
+~
+~
+0 0 75510
+S
+#75512
+A Road Through Skorm~
+This road takes you along the beautiful {bocean{x front of Skorm.  The
+milky-green waters glisten under the {rtorch{x light along the docks, and a
+swirling white mist seems to coat the dark waters further outside the small
+bay.  Townsfolk pass by, busily tending to their business, while an
+impressive array of {Dshops{x, Inns, and businesses line the waterfront.  
+~
+0 0 0
+D0
+~
+~
+0 0 75513
+D2
+~
+~
+0 0 75511
+D3
+~
+~
+0 0 75521
+S
+#75513
+A Road Through Skorm~
+This road takes you along the beautiful {bocean{x front of Skorm.  The
+milky-green waters glisten under the {rtorch{x light along the docks, and a
+swirling white mist seems to coat the dark waters further outside the small
+bay.  Townsfolk pass by, busily tending to their business, while an
+impressive array of {Dshops{x, Inns, and businesses line the waterfront.  
+~
+0 0 0
+D0
+~
+~
+0 0 75514
+D2
+~
+~
+0 0 75512
+D3
+~
+~
+0 0 75522
+S
+#75514
+A Bend In The Road~
+This road takes you along the beautiful {bocean{x front of Skorm.  The
+milky-green waters glisten under the {rtorch{x light along the docks, and a
+swirling white mist seems to coat the dark waters further outside the small
+bay.  Townsfolk pass by, busily tending to their business, while an
+impressive array of {Dshops{x, Inns, and businesses line the waterfront.  
+~
+0 0 0
+D1
+~
+~
+0 0 75515
+D2
+~
+~
+0 0 75513
+S
+#75515
+A Road Through Skorm~
+This road takes you along the beautiful {bocean{x front of Skorm.  The
+milky-green waters glisten under the {rtorch{x light along the docks, and a
+swirling white mist seems to coat the dark waters further outside the small
+bay.  Townsfolk pass by, busily tending to their business, while an
+impressive array of {Dshops{x, Inns, and businesses line the waterfront.  
+~
+0 0 0
+D0
+~
+~
+0 0 75516
+D1
+~
+~
+0 0 75554
+D3
+~
+~
+0 0 75514
+S
+#75516
+A Road Through Skorm~
+This road takes you along the beautiful {bocean{x front of Skorm.  The
+milky-green waters glisten under the {rtorch{x light along the docks, and a
+swirling white mist seems to coat the dark waters further outside the small
+bay.  Townsfolk pass by, busily tending to their business, while an
+impressive array of {Dshops{x, Inns, and businesses line the waterfront.  
+~
+0 0 0
+D0
+~
+~
+0 0 75517
+D2
+~
+~
+0 0 75515
+D3
+~
+~
+0 0 75524
+S
+#75517
+A Road Through Skorm~
+This road takes you along the beautiful {bocean{x front of Skorm.  The
+milky-green waters glisten under the {rtorch{x light along the docks, and a
+swirling white mist seems to coat the dark waters further outside the small
+bay.  Townsfolk pass by, busily tending to their business, while an
+impressive array of {Dshops{x, Inns, and businesses line the waterfront.  
+~
+0 0 0
+D0
+~
+~
+0 0 75518
+D2
+~
+~
+0 0 75516
+D3
+~
+~
+0 0 75525
+S
+#75518
+Inside The North Gate~
+The northern gate is sturdy and is made from large wooden logs from the
+surrounding {gforest{x.  Two large iron hinges of excellent quality hold the
+enormous weight of the gate, and show no signs of rust or wear.  The tops of
+the trees can be seen over the tips of the gate, as well as the looming
+{Dmountains{x that surround the valley.  
+~
+0 0 0
+D0
+~
+~
+1 0 75519
+D2
+~
+~
+0 0 75517
+S
+#75519
+North Gate Of Skorm~
+A tall wooden wall carved from the thick trunks of trees cut from the
+forest that surrounds this village serve as protection from wildlife and
+{ybandits{x.  A massive gate large enough for two caravans side-by-side seems to
+be the only entrance into the village.  
+~
+0 0 0
+D0
+~
+~
+0 0 75556
+D2
+~
+~
+1 0 75518
+S
+#75520
+Gork'thin's Weapons ~
+This building is filled with {Dweapons{x of all shapes, sizes, and materials.
+A large man stands behind a sword-filled glass counter framed in oak
+trimming.  A steaming forge can be seen through an open door in the back,
+presumably where Gork'thin's weapons are made.  
+~
+0 128 0
+D1
+~
+~
+0 0 75510
+S
+#75521
+Closed Armor Shop~
+Empty shelves and dusty counter tops line the walls of this abandoned
+shop.  Several rats scurry into hiding holes, and large spiders makes silky
+homes in the corners.  A sign is here.  
+~
+0 0 0
+D1
+~
+~
+0 0 75512
+S
+#75522
+Skorn's Seaside Inn~
+This small Inn seems quite warm and {ccozy{x.  A small {rfireplace{x sits snugly
+on the south wall, and a large counter with marble tops is used for greeting
+guests.  A single guest room is to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 75513
+D3
+~
+~
+1 75507 75523
+S
+#75523
+A Cozy Bedroom~
+This cozy little bedroom is the sole room for rent at the Inn.  The bed
+is made and covered in thick blankets, and a small chest made of iron sits
+snugly at the northeastern corner of the room.  A few candles flicker on the
+{Dwindow{x, and a warm breeze sweeps through the doorway from the south.  
+~
+0 0 0
+E
+window~
+Through the window you see a large stone {Dkeep{x rising up over the {gtreeline{x.  
+~
+D1
+~
+~
+1 75507 75522
+S
+#75524
+A Grassy Pathway~
+The path before you is framed in small gardens and smooth {Dstones{x. 
+Further off to the east you can make out Skorm's misty {bbay{x, while to the
+west a large stone keep rises over the {gtreeline{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 75516
+D3
+~
+~
+0 0 75526
+S
+#75525
+Voodoo's Shop Of Charms And Wonders~
+This shop is full of cheap {ycharms{x and twisted looking voodoo dolls, as
+well as an array of copper necklaces, and love potions.  There is, however,
+a good selection of {Bmagical{x scrolls and parchments.  
+~
+0 0 0
+D1
+~
+~
+0 0 75517
+S
+#75526
+A Grassy Pathway~
+The path before you is framed in small gardens and smooth {Dstones{x. 
+Further off to the east you can make out Skorm's misty {bbay{x, while to the
+west a large stone keep rises over the {gtreeline{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 75524
+D3
+~
+~
+0 0 75527
+S
+#75527
+A Grassy Pathway~
+The path before you is framed in small gardens and smooth {Dstones{x. 
+Further off to the east you can make out Skorm's misty {bbay{x, while to the
+west a large stone keep rises over the {gtreeline{x.  
+~
+0 0 0
+D1
+~
+~
+0 0 75526
+D3
+~
+~
+0 0 75528
+S
+#75528
+Before The Keep Of Skorm~
+A large portcullis gate stands open before you, serving as the only
+entrance into this well fortified keep.  A {ggrassy{x path leads east away from
+the keep, while another path veers off to the north and south around the
+exterior of the keep.  
+~
+0 0 0
+D0
+~
+~
+0 0 75529
+D1
+~
+~
+0 0 75527
+D2
+~
+~
+0 0 75542
+D3
+~
+~
+0 0 75544
+S
+#75529
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D0
+~
+~
+0 0 75530
+D2
+~
+~
+0 0 75528
+S
+#75530
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D2
+~
+~
+0 0 75529
+D3
+~
+~
+0 0 75531
+S
+#75531
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D1
+~
+~
+0 0 75530
+D3
+~
+~
+0 0 75532
+S
+#75532
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D1
+~
+~
+0 0 75531
+D3
+~
+~
+0 0 75533
+S
+#75533
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D1
+~
+~
+0 0 75532
+D3
+~
+~
+0 0 75534
+S
+#75534
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D1
+~
+~
+0 0 75533
+D2
+~
+~
+0 0 75535
+S
+#75535
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D0
+~
+~
+0 0 75534
+D2
+~
+~
+0 0 75536
+S
+#75536
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D0
+~
+~
+0 0 75535
+D2
+~
+~
+0 0 75537
+S
+#75537
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D0
+~
+~
+0 0 75536
+D2
+~
+~
+0 0 75538
+S
+#75538
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D0
+~
+~
+0 0 75537
+D1
+~
+~
+0 0 75539
+S
+#75539
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D1
+~
+~
+0 0 75540
+D3
+~
+~
+0 0 75538
+S
+#75540
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D1
+~
+~
+0 0 75541
+D3
+~
+~
+0 0 75539
+S
+#75541
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D1
+~
+~
+0 0 75543
+D3
+~
+~
+0 0 75540
+S
+#75542
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D0
+~
+~
+0 0 75528
+D2
+~
+~
+0 0 75543
+S
+#75543
+A Path Around Skorm's Keep~
+The massive {Dstone{x walls of Skorm's keep rise up beside you, towering over
+the lands that surround it.  The dirt path below you is surrounded by
+healthy green grass and small gardens of flora and shrubbery.  The great
+wooden wall circles the village not far off in the distance, and the tops of
+{gtrees{x can be seen over its pointy tips.  
+~
+0 0 0
+D0
+~
+~
+0 0 75542
+D3
+~
+~
+0 0 75541
+S
+#75544
+A Hallway Within Skorm's Keep~
+The dull {Dstone{x walls surround you, while {yglowing{x candles line the hall. 
+Sturdy wooden doors lead to other room in the keep to your north and south,
+while the gray halls stretch east and west.  
+~
+0 0 0
+D0
+~
+~
+1 0 75550
+D1
+~
+~
+0 0 75528
+D2
+~
+~
+1 0 75551
+D3
+~
+~
+0 0 75545
+S
+#75545
+A Hallway Within Skorm's Keep~
+The dull {Dstone{x walls surround you, while {yglowing{x candles line the hall. 
+Sturdy wooden doors lead to other room in the keep to your north and south,
+while the gray halls stretch east and west.  
+~
+0 0 0
+D0
+~
+~
+1 0 75548
+D1
+~
+~
+0 0 75544
+D2
+~
+~
+1 0 75549
+D3
+~
+~
+0 0 75546
+S
+#75546
+A Hallway Within Skorm's Keep~
+The dull {Dstone{x walls surround you, while {yglowing{x candles line the hall. 
+Sturdy wooden doors lead to other room in the keep to your north and south,
+while the gray halls stretch east and west.  
+~
+0 0 0
+D0
+~
+~
+1 0 75552
+D1
+~
+~
+0 0 75545
+D2
+~
+~
+1 0 75553
+D3
+~
+~
+0 0 75547
+S
+#75547
+Skorm's Throne Room~
+This throne room is dark and cool, its stone walls towering over you. 
+Several {rred{x candles burn brightly around the throne while {ytorches{x line the
+room providing an eerie yellow light.  
+~
+0 0 0
+D1
+~
+~
+0 0 75546
+S
+#75548
+~
+~
+0 0 0
+D2
+~
+~
+1 0 75545
+S
+#75549
+~
+~
+0 0 0
+D0
+~
+~
+1 0 75545
+S
+#75550
+~
+~
+0 0 0
+D2
+~
+~
+1 0 75544
+S
+#75551
+~
+~
+0 0 0
+D0
+~
+~
+1 0 75544
+S
+#75552
+~
+~
+0 0 0
+D2
+~
+~
+1 0 75546
+S
+#75553
+~
+~
+0 0 0
+D0
+~
+~
+1 0 75546
+S
+#75554
+Dock~
+~
+0 0 0
+D1
+~
+~
+0 0 75555
+D3
+~
+~
+0 0 75515
+S
+#75555
+Dock~
+~
+0 0 0
+D3
+~
+~
+0 0 75554
+S
+#75556
+Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 75557
+D2
+~
+~
+0 0 75519
+S
+#75557
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75558
+D2
+~
+~
+0 0 75556
+S
+#75558
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75559
+D2
+~
+~
+0 0 75557
+S
+#75559
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75560
+D3
+~
+~
+0 0 75558
+S
+#75560
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75561
+D3
+~
+~
+0 0 75559
+S
+#75561
+TOWER~
+~
+0 0 0
+D0
+~
+~
+1 0 75562
+D2
+~
+~
+0 0 75560
+S
+#75562
+~
+~
+0 0 0
+D2
+~
+~
+1 0 75561
+D3
+~
+~
+0 0 75563
+S
+#75563
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75564
+D1
+~
+~
+0 0 75562
+S
+#75564
+~
+~
+0 0 0
+D2
+~
+~
+0 0 75563
+D4
+~
+~
+0 0 75565
+S
+#75565
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75566
+D5
+~
+~
+0 0 75564
+S
+#75566
+~
+~
+0 0 0
+D2
+~
+~
+0 0 75567
+D3
+~
+~
+0 0 75565
+S
+#75567
+~
+~
+0 0 0
+D0
+~
+~
+0 0 75566
+D4
+~
+~
+0 0 75568
+S
+#75568
+~
+~
+0 0 0
+D3
+~
+~
+0 0 75569
+D5
+~
+~
+0 0 75567
+S
+#75569
+~
+~
+0 0 0
+D1
+~
+~
+0 0 75568
+D4
+~
+~
+0 0 75570
+S
+#75570
+~
+~
+0 0 0
+D4
+~
+~
+0 0 75571
+D5
+~
+~
+0 0 75569
+S
+#75571
+~
+~
+0 0 0
+D5
+~
+~
+0 0 75570
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 75508 0 1
+D 0 75509 2 1
+D 0 75518 0 1
+D 0 75519 2 1
+D 0 75522 3 2
+D 0 75523 1 2
+D 0 75544 0 1
+D 0 75544 2 1
+D 0 75545 0 1
+D 0 75545 2 1
+D 0 75546 0 1
+D 0 75546 2 1
+D 0 75548 2 1
+D 0 75549 0 1
+D 0 75550 2 1
+D 0 75551 0 1
+D 0 75552 2 1
+D 0 75553 0 1
+D 0 75561 0 1
+D 0 75562 2 1
+O 0 75501 0 75501
+M 0 75500 1 75505 1
+M 0 75501 1 75520 1
+G 0 75503 0
+G 0 75504 0
+O 0 75500 0 75520
+P 0 75502 1 75500 1
+O 0 75505 0 75521
+M 0 75502 1 75522 1
+G 0 75506 0
+G 0 75507 0
+O 0 75512 0 75523
+P 0 75513 1 75512 1
+M 0 75503 1 75525 1
+G 0 75511 0
+G 0 75510 0
+G 0 75509 0
+G 0 75508 0
+M 0 75504 1 75547 1
+S
+
+
+
+#SHOPS
+75501 0 5 0 0 0 100 100 0 23
+75502 0 0 0 0 0 100 100 0 23
+75503 0 2 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#75500
+tell $n Greetings! Come er' for the {ggrub{x then aye? Or maybe ye'd like a room?
+wait 2
+emote flashes a big toothy grin at {Dyou{x!
+~
+#0
+
+#OBJPROGS
+#75500
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

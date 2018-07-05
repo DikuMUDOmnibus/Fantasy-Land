@@ -1,0 +1,973 @@
+#AOD_AREA
+Quest Land~
+38000 38999 C 9
+Levl 1 151
+Bldr Rzarecta~
+End
+
+#MOBILES
+#38800
+troll scout~
+a troll scout~
+A troll snarls as he scans the area.
+~
+~
+troll~
+150 50 50 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABF DFJVc 0 0 0
+105 200 0 25001 25001 0 0 12 45 100 pound
+-100 -100 -100 -100
+STANDING STANDING neutral 50000
+0 mage large ABCDEFGHIJKUV
+
+#38801
+troll leader~
+a troll scout master~
+A large troll directs the other trolls around him.
+~
+~
+troll~
+150 50 50 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABa DFJPc 0 0 0
+100 200 0 45001 45001 0 0 10 55 100 pound
+-700 -700 -700 -700
+STANDING STANDING neutral 50000
+0 mage large ABCDEFGHIJKUV
+
+#38802
+troll shaman~
+a troll shaman~
+A gnarled old troll stands here hunched over.
+~
+~
+troll~
+150 50 50 100 100 100 150 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABS DFJPc 0 0 0
+150 0 0 45001 45001 0 0 10 21 50 drain
+0 0 0 0
+STANDING STANDING neutral 50000
+0 mage medium ABCDEFGHIJKUV
+M ACT 38800 leaves~
+M DELAY 38801 100~
+
+#38804
+algorath weaponsmith smith~
+Algorath~
+Algorath, barterer of weapons stands here.
+~
+~
+human~
+0 0 0 0 0 0 0 100 0 0 0 0 0 150 0 100 100 0 0 0 0 0 0 100 100 0 
+A DEFJ 0 0 0
+150 0 0 1254 1406 138 178 25 25 100 none
+0 0 0 0
+STANDING STANDING neutral 10000000
+0 mage giant 0
+
+#38805
+kalrag armor shop smith~
+Kalrag~
+Kalrag, master armor-smith of all the lands stands here.
+~
+~
+human~
+0 0 0 0 0 0 0 100 0 0 0 0 0 0 0 100 100 0 0 0 0 0 0 100 100 0 
+A 0 0 0 0
+150 0 0 46 85 47 85 10 10 10 none
+-500 -500 -500 -500
+STANDING STANDING neutral 100000000
+0 mage medium 0
+
+#38806
+syskil pawn shop~
+Syskil~
+Syskil, pawn shop master stands here waiting.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+150 0 0 1 1 1 1 1 1 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium 0
+
+#38807
+master assassin~
+a master assassin~
+A lone assassin stands in the shadows idly flicking his dagger.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A V 0 0 0
+150 10 0 10001 10001 0 0 1 1 10 pierce
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium 0
+
+#38808
+master assassin apprentice~
+another assassin~
+Another assassin stands here.  woopde doo!
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A V 0 0 0
+100 10 0 10001 10001 0 0 1 1 10 pierce
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium 0
+
+#38809
+tank~
+tank~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+40 0 0 10001 10001 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium 0
+
+#38810
+black falcon atlanta~
+a black falcon~
+A black falcon struggles to fly in the wind.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+3000 0 0 51 51 0 0 1 1 10 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium 0
+
+#38811
+sammael forsaken hope~
+Sammael~
+The Destroyer of Hope stands here.
+~
+~
+human~
+100 50 100 0 100 100 150 100 100 50 100 0 50 100 50 100 100 50 100 100 50 100 100 100 100 100 
+ABFGRS DFJTV 0 -1000 0
+170 500 0 150001 150001 652 773 950 10 100 bite
+-1000 -850 -850 -850
+STANDING STANDING male 80000
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#38800
+blue door~
+a {$blue{x door~
+A {$blue{x door stands here.~
+portal X 0
+0 0 A 38804 0
+0 1000 0
+
+#38801
+red door~
+a {!red{x door~
+A {!red{x door stands here.~
+portal X 0
+0 0 A 38805 0
+0 1000 0
+
+#38802
+green door~
+a {@green{x door~
+A {@green{x door stands here.~
+portal X 0
+0 0 A 38806 0
+0 1000 0
+
+#38804
+blue door~
+a {$blue{x door~
+A {$blue{x door stands here.~
+portal X 0
+0 0 A 38803 0
+0 1000 0
+
+#38805
+red door~
+a {!red{x door~
+A {!red{x door stands here.~
+portal X 0
+0 0 A 38803 0
+0 1000 0
+
+#38806
+green door~
+a {@green{x door~
+A {@green{x door stands here.~
+portal X 0
+0 0 A 38803 0
+0 1000 0
+
+#38807
+portal gurt~
+a portal to midgard~
+A portal to midgard rests here.~
+portal X 0
+0 0 A 3014 0
+0 1 0
+
+#38808
+falcon talon~
+a sharp talon~
+A falcons talon lies in the sun.~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#38810
+gleaming broadsword sword gurt~
+a gleaming broadsword~
+A shining broadsword lies on the ground, obviously well-tended.~
+weapon ATXY AN
+sword 18 11 thwack 0
+101 15 10000000
+A 19 12
+
+#38811
+wickedly barbed flail gurt~
+a wickedly barbed flail~
+A wickedly barbed flail lies here.~
+weapon TXY AN
+flail 72 2 smash H
+101 15 10000000
+A 18 -25
+A 2 -5
+A 19 25
+
+#38812
+enormous battle axe gurt~
+an enormous battle axe~
+An axe lies on the ground sparking and putting a feeling of static in the air.~
+weapon TXY AN
+axe 18 11 cleave E
+101 20 10000000
+
+#38813
+massive mattock gurt~
+a massive bone-handled mattock~
+A massive mattock lies on the ground with a handle resembling bone.~
+weapon TXY AN
+mace 45 4 blast EF
+101 20 10000000
+A 18 -5
+
+#38814
+serrated galant dagger gurt~
+a serrated galant dagger~
+A long slender dagger lies here.~
+weapon TXY AN
+dagger 12 17 stab H
+101 5 10000000
+A 18 5
+A 19 10
+A 2 1
+
+#38815
+steel barbed whip cord gurt~
+a steel-barbed whip~
+A long cord of leather tipped with steel barbs lies here.~
+weapon TXY AN
+whip 3 72 beating C
+101 8 10000000
+A 19 -10
+
+#38816
+bronze-tipped pike tipped gurt~
+a bronze-tipped pike~
+A long pike lies on the ground here tipped with a nasty bronze spike.~
+weapon TXY AN
+polearm 10 21 smash BF
+101 20 10000000
+A 19 5
+
+#38817
+long spear gurt~
+a long hunting spear~
+A long spear lies on the ground obviously made for hunting.~
+weapon TXY AN
+exotic 12 18 thrust E
+101 8 10000000
+A 19 6
+A 3 -2
+A 4 -2
+A 18 -10
+A 1 -2
+
+#38818
+holy hand grenade gurt~
+a pile of holy hand grenades~
+A pile of grenades lie on the ground humming!~
+weapon TXY AN
+exotic 14 14 blast AF
+101 2 10000000
+A 4 2
+A 18 15
+
+#38819
+A dark blue patch lies discarded.~
+the {BBlue Patch{x of {WVictory{x~
+The blue patch of victory sits here.~
+trash X AX
+0 0 0 0 0
+101 0 0
+A 26 40
+E
+patch~
+The blue patch depicts a knight standing over a defeated foe.  The
+standard of the knight waving in the wind proclaiming victory.  
+~
+
+#38820
+baby small~
+a small baby~
+A small baby sits here wrapped in cloth.~
+trash X A
+0 0 0 0 0
+0 0 0
+
+#38822
+head dargog troll~
+the head of Dargog~
+A severed head lies here.~
+trash X A
+0 0 0 0 0
+101 0 0
+
+#38823
+potion restoration~
+a potion of restoration~
+A gnomish potion bubbles.~
+potion X A
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0
+
+#38900
+ebon wristguard gurt guard~
+an ebon wristguard~
+An ebon wristguard lies here studded with bronze shots.~
+armor TXY AM
+16 14 16 16 0
+101 2 7000000
+A 18 12
+
+#38901
+ratskin skin hood gurt~
+a ratskin hood~
+A hood lies on the ground seemingly made from rat pelts.~
+armor TXY AE
+160 0 0 0 0
+101 2 4000000
+
+#38902
+steel visor helm gurt~
+a steel-visored helm~
+A lone helm sits here with its visor tucked down.~
+armor TXY AE
+30 30 30 30 0
+101 0 5000000
+A 13 100
+A 19 7
+
+#38903
+chaos mark gurt~
+a mark of {!chaos{x~
+A writhing religion badge lies on the ground here.~
+armor JLTXY AV
+0 0 0 0 0
+101 0 9000000
+A 1 2
+A 5 -3
+A 13 30
+
+#38904
+mark neutrality gurt~
+a mark of {2neutrality{x~
+A fluidic line weaves about on the ground never going too far out of your sight.~
+armor JKTXY AV
+20 20 20 20 0
+101 0 9000000
+A 18 2
+A 19 2
+A 9 10
+A 20 -2
+
+#38905
+mark justice gurt~
+a mark of {7justice{x~
+A mark lies on the ground perfectly formed and solid.~
+armor KLTXY AV
+10 10 10 10 0
+101 0 9000000
+A 18 10
+A 19 10
+A 13 50
+A 20 -4
+
+#38906
+plate greaves gurt~
+a set of plate greaves~
+Two plate greaves lie here perfectly formed and gleaming with luminescence.~
+armor TXY AF
+20 20 20 20 0
+101 4 7500000
+A 19 10
+A 13 100
+A 20 -5
+A 18 -10
+A 2 -1
+
+#38907
+bronze gauntlets gurt~
+a pair of bronze gauntlets~
+A shining pair of gauntlets lie here.~
+armor TXY AH
+22 22 22 20 0
+101 4 7500000
+A 20 -4
+A 19 10
+A 18 -10
+
+#38908
+steel armbands gurt~
+a pair of steel armbands~
+A pair of steel armbands lie on the ground here.~
+armor TXY AI
+12 12 12 8 0
+101 4 7500000
+A 20 -4
+A 19 8
+A 13 80
+A 18 -10
+
+#38909
+hematite earring gurt~
+a {8hematite{x earring~
+A shiny black earring lies on the ground waiting to be picked up.~
+armor TXY AS
+7 8 8 7 0
+101 2 10000000
+A 13 98
+A 20 -4
+A 19 10
+
+#38910
+cloak shadows gurt~
+a cloak of {7s{8hadows{x~
+A cloak lies on the ground blending in with dark crevices.~
+armor TXY AK
+20 20 20 20 0
+101 2 10000000
+A 13 65
+A 20 -8
+A 18 5
+A 2 2
+A 5 -4
+A 19 -15
+F A 0 1 P
+
+#38950
+kayak gurt~
+a {!r{1e{!d{x kayak~
+A {!r{1e{!d{x kayak lies here unperturbed.~
+boat STXY A
+0 0 0 0 0
+1 12 50000
+
+#38951
+green kayak gurt~
+a professional {@g{2r{@e{2e{@n{x kayak~
+A professional {@g{2r{@e{2e{@n{x kayak rests here in perfect condition.~
+boat ABSTXY A
+0 0 0 0 0
+101 1 100000
+
+#38952
+scroll sex change gurt~
+a sex scroll~
+A scroll lies here with vulgar imprints on the cover page.~
+scroll TX A
+50 'change sex' 'reserved' 'reserved' 'reserved'
+1 0 50000
+
+#38953
+backpack pack gurt~
+a {8backpack{x~
+A {8backpack{x lies on the floor here.~
+container TXY AX
+200 A 0 200 50
+101 5 2000000
+
+#38954
+backpack pack gurt~
+a {6backpack{x~
+A {6backpack{x lies here disintegrating.~
+container TXY AX
+200 A 0 200 50
+101 5 2000000
+
+#38955
+rubik cube gurt~
+a rubik's cube~
+A rubik's cube sits here.~
+trash STXY AO
+0 0 0 0 0
+1 0 10000
+
+#38956
+potion gurt leveling~
+a potion of leveling~
+A potion of leveling lies here.~
+potion X A
+15 'haste' 'giant strength' 'armor' 'fly'
+1 0 500
+
+#38957
+age bag gurt~
+a bag of age~
+Bag of age lies here~
+armor TXY AN
+0 0 0 0 0
+106 1 1
+A 13 200
+
+#38996
+pile dubloons gold~
+a pile of gold dubloons~
+A pile of gold dubloons sits here~
+treasure X A
+0 0 0 0 0
+0 0 500000
+
+#38997
+pike head stake~
+a long pike~
+The severed head of {CUrd{x sits atop a pike.~
+trash X 0
+0 0 0 0 0
+0 0 0
+E
+note~
+Let this serve notice to all who wish to stand in our way.  You will be
+divided and conquered, you will be unable to stop the horde from regaining
+what is rightfully ours.  
+ 
+Arnok the scout master of the troll horde
+~
+E
+pike~
+The now decaying head of {CUrd{x sits skewered atop the long pike.  On
+the shaft a note scrawled in blood attracts your attention.  
+~
+
+#38998
+darkside clan gurt~
+darkside clan skills~
+Darkside clan skills~
+trash X 0
+0 0 0 0 0
+0 0 0
+F A 0 1 e
+
+#38999
+greenblade clan gurt~
+greenblade clan skills~
+Greenblade clan skills~
+armor X 0
+0 0 0 0 0
+0 0 0
+#0
+
+#ROOMS
+#38000
+QuestLand Start Room~
+~
+4 0
+S
+
+#38100
+{!Hot{#Potato {$Quest{x~
+~
+256 0
+D1
+~
+~
+0 0 38107
+D2
+~
+~
+0 0 38101
+S
+
+#38101
+{!Hot{#Potato {$Quest{x~
+~
+256 0
+D0
+~
+~
+0 0 38100
+D1
+~
+~
+0 0 38108
+D2
+~
+~
+0 0 38102
+S
+
+#38102
+{!Hot{#Potato {$Quest{x~
+~
+256 0
+D0
+~
+~
+0 0 38101
+D1
+~
+~
+0 0 38103
+S
+
+#38103
+{!Hot{#Potato {$Quest{x~
+~
+256 0
+D0
+~
+~
+0 0 38108
+D1
+~
+~
+0 0 38104
+D3
+~
+~
+0 0 38102
+S
+
+#38104
+{!Hot{#Potato {$Quest{x~
+~
+256 0
+D0
+~
+~
+0 0 38105
+D3
+~
+~
+0 0 38103
+S
+
+#38105
+{!Hot{#Potato {$Quest{x~
+~
+256 0
+D0
+~
+~
+0 0 38106
+D2
+~
+~
+0 0 38104
+D3
+~
+~
+0 0 38108
+S
+
+#38106
+{!Hot{#Potato {$Quest{x~
+~
+256 0
+D2
+~
+~
+0 0 38105
+D3
+~
+~
+0 0 38107
+S
+
+#38107
+{!Hot{#Potato {$Quest{x~
+~
+256 0
+D1
+~
+~
+0 0 38106
+D2
+~
+~
+0 0 38108
+D3
+~
+~
+0 0 38100
+S
+
+#38108
+{!Hot{#Potato {$Quest{x~
+~
+256 0
+D0
+~
+~
+0 0 38107
+D1
+~
+~
+0 0 38105
+D2
+~
+~
+0 0 38103
+D3
+~
+~
+0 0 38101
+S
+
+#38109
+{!Hot{#Potato {$Quest{x~
+~
+0 0
+D5
+~
+~
+0 0 38108
+S
+
+#38800
+A Dark Room~
+This is a really dark room
+~
+4 0
+S
+
+#38801
+Dimly lit path~
+Wandering down this path several lights flicker on the side
+on the side.  A faint scurrying alongside brings a rustle of
+leaves and autumn scents to your nose.  Joyous shouts break
+further down the path and sights of kids running around with
+happy faces come into view.
+~
+0 0
+D0
+~
+~
+0 0 38802
+S
+
+#38802
+Vine-Terraced archway~
+A great archway traverses the path here breaking a gap in
+a very thick thorn hedge which extends beyond sight to the
+right and left.  Many kids scamper through it playing
+and even older folks seem to have a laughing composure as
+they leave and enter the area.
+~
+0 0
+D0
+~
+~
+0 0 38803
+D2
+~
+~
+0 0 38801
+S
+
+#38803
+Central Square~
+The arch breaks into a wide courtyard with many doors and shops
+littered about the sides of the promenade. A hustle of
+activity rises from all around as people go on their daily hunt
+for the best deals and the best pick-up. The shops line the walls
+significant only by the color of their doors.
+~
+525316 0
+D2
+~
+~
+0 0 38802
+S
+
+#38804
+Weaponsmith~
+Weapons of every known variety hang from the walls of this
+building.  Whatever may be imagined could exist here, the 
+ancient broadswords of might heroes may very well be mixed in
+with all the rest of the artifacts lying around.  All weapons
+seem very well taken care of, oiled down, and sharp.
+~
+525444 0
+S
+
+#38805
+Armor Shop~
+~
+525444 0
+S
+
+#38806
+Pawn Shop~
+This room is stocked high with miscellaneous goods ranging from
+old buckets to brand new state of the art crossbows.  Several
+unknown objects lie to one side of the room, and a desk raises
+in front of you with a few small but very worthwhile items on
+it.  A rubik's cube being not the worst, but one of the most
+enjoyable items to play with.
+~
+525444 0
+S
+#0
+
+#SPECIALS
+M 38811 spec_cast_mage
+S
+
+#RESETS
+O 100 38801 0 38803
+O 100 38800 0 38803
+O 100 38802 0 38803
+O 100 38804 0 38804
+M 100 38804 1 38804 1
+O 100 38805 0 38805
+M 100 38805 1 38805 1
+O 100 38806 0 38806
+M 100 38806 1 38806 1
+S
+
+#SHOPS
+38804 5 0 0 0 0 100 100 0 24
+38805 9 0 0 0 0 100 75 0 24
+38806 13 10 2 15 22 100 100 0 24
+0
+
+#MOBPROGS
+#38000
+Unknown~
+Unknown~
+if clan $n == 'builder'
+mob transfer $n 20401
+else
+mob echoat $n
+mob echoat $n {#You are kicked out of the room by {4$I{# when you try to flee!!!{x
+mob echoat $n
+NL
+mob echoaround $n
+mob echoaround $n {#$n is kicked out of the room as they try to flee from {$$I{#!{x
+mob echoaround $n
+mob transfer $n 7112
+cackle
+endif
+~
+
+#38001
+Unknown~
+Unknown~
+if clan $n 'darkside'
+mob transfer $n 68
+mob echo $n leaves north 
+break
+else
+mob echoat $n
+mob echoat $n {#You are kicked out of the room by{x $I {#when you try to flee!!!{x
+ mob echoat $n
+ nl
+ mob echoaround $n
+mob echoaround $n {#$n is kicked out of the room as $e try to flee from {$$I{#!{x
+ mob echoaround $n
+mob transfer $n 5386
+ cackle
+ endif
+~
+
+#38002
+Unknown~
+Unknown~
+if clan $n 'wolfriders'
+ mob transfer $n 20353
+ break
+ else
+ mob echoat $n
+ mob echoat $n You are kicked out of the room by $I when you try to flee!!!
+ mob echoat $n {#You are kicked out of the room by the {@guard when you try to flee!!!{x
+ mob echoat $n
+NL
+ mob echoaround $n
+ mob echoaround $n {#$n is kicked out of the room as $e try to flee from the {@guard{#{x
+ mob echoaround $n
+ mob transfer $n 10076
+ cackle
+ endif
+~
+
+#38800
+Unknown~
+Unknown~
+if rand 50
+mob remember $n
+mob delay 1
+endif
+~
+
+#38801
+Unknown~
+Unknown~
+mob goto $q
+mob trans $q 3014
+mob goto 3014
+mob echo Strange magics pull $q back into the battle.
+kill $q
+mob forget $q
+~
+
+#38802
+Unknown~
+Unknown~
+mob cast teleport
+~
+
+#38803
+Unknown~
+Unknown~
+mob oload 38808
+~
+
+#38805
+Unknown~
+Unknown~
+backstab $n
+~
+
+#38806
+Unknown~
+Unknown~
+mob cast teleport $n
+~
+#0
+
+#$

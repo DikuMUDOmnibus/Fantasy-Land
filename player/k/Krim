@@ -1,0 +1,106 @@
+#PLAYER
+Name Krim~
+Race vampire~
+Levl 12
+Clas ranger~
+Pkpt 100
+TSex 0
+LogO 1280633038
+Sock 64.253.9.127.dyn-cm-pool79.pool.hargray.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1273015702
+Plat 0
+Gold 15
+Silv 11
+Exp  18744
+Attr 24 19 19 22 21
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+AfBy TVc
+ShBy CDEHJ
+Comm N
+Config C
+Pos  8
+Sk 1 'detect terrain'
+Sk 1 'dagger'
+Sk 1 'dodge'
+Sk 1 'enhanced damage'
+Sk 75 'feed'
+Sk 1 'fourth attack'
+Sk 1 'gash'
+Sk 1 'kick'
+Sk 50 'recall'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 75 'sword'
+Sk 1 'third attack'
+Sk 1 'track'
+Sk 1 'wands'
+MaxDam 96
+LLev 0
+Pass KrVs0QFMqwOCA~
+Plyd 117074
+Note 0 0 0 0 0
+Room 3054
+HMVN 723 708 727 727 433 433
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 0 0
+Deviant 0 0
+Scro 0
+Prac 76
+Trai 28
+Devote current 0
+Pnts 40
+Mkil 34
+Mdea 3
+TotalCmpl 1
+TotalPnts 17
+TotalAttm 1
+QuestPnts 17
+Alias f feed~
+Alias 11 quest request~
+Alias 22 quest complete~
+Gr 'ranger basics'
+Gr 'rom basics'
+Affc 'intellect'   0 321   0  31  10   3          0
+Affc 'constitution'   0 318   0  25  10   5          0
+Affc 'sanctuary'   1 298   0  35   0   0        128
+Affc 'wisdom'   0 296   0  12  10   4          0
+Affc 'shockshield'   1 310   0  48   0   0         16
+Affc 'shield'   0 296   0  54 -100  17          0
+Affc 'haste'   0 299   0  50  10   2    2097152
+Affc 'fireshield'   1 295   0  39   0   0          8
+Affc 'armor'   0 316   0  38 -321  17          0
+Affc 'iceshield'   1 313   0  26   0   0          4
+Affc 'bless'   0 295   0  19 -40  20          0
+Affc 'bless'   0 297   0  19  40  18          0
+Affc 'vampiricshield'   1  12   0  -1   0   0        512
+Affc 'regeneration'   0  12   0  -1   0   0  268435456
+Affc 'fly'   0  12   0  -1   0   0     524288
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3702
+Nest 0
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+Wear 11
+End
+
+#END

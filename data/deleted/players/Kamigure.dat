@@ -1,0 +1,299 @@
+#PLAYER
+Name Kamigure~
+Race pixie~
+Levl 77
+Clas wizard~
+Pkpt 100
+TSex 1
+LogO 1251861344
+Sock 97-125-91-88.eugn.qwest.net~
+Titl , the mage.{x~
+Bnty 200
+
+#STAT_BREAK
+
+Id   1251525259
+Plat 79
+Gold 37
+Silv 20
+Exp  171479
+Attr 12 17 13 15 12
+Prom {8[{!%hhp {m%mm {^%vmv{8][{#%g{8][{@%X{8]{0{x ~
+Act  ABCDGHJQT
+AfBy ETVc
+ShBy B
+Comm NQ
+Config A
+Pos  8
+Sk 1 'acid blast'
+Sk 1 'acid storm'
+Sk 1 'acidshield'
+Sk 1 'animate'
+Sk 1 'armor'
+Sk 1 'awen'
+Sk 1 'barkskin'
+Sk 1 'blindness'
+Sk 1 'blink'
+Sk 1 'blizzard'
+Sk 1 'bloodbath'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 1 'cancellation'
+Sk 1 'chain lightning'
+Sk 1 'change sex'
+Sk 1 'charm person'
+Sk 1 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'constitution'
+Sk 1 'control weather'
+Sk 1 'curse'
+Sk 1 'darkvision'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect neutral'
+Sk 1 'detect poison'
+Sk 1 'diminish'
+Sk 1 'dispel magic'
+Sk 1 'downpour'
+Sk 1 'earthquake'
+Sk 1 'electrical storm'
+Sk 1 'energy drain'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'farsight'
+Sk 1 'fire storm'
+Sk 1 'fireball'
+Sk 1 'fireproof'
+Sk 1 'fireshield'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'giant strength'
+Sk 1 'golden armor'
+Sk 1 'growth'
+Sk 1 'haste'
+Sk 1 'heresy'
+Sk 1 'iceshield'
+Sk 1 'icicle'
+Sk 1 'identify'
+Sk 1 'infravision'
+Sk 1 'intellect'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'lightning bolt'
+Sk 1 'locate object'
+Sk 1 'locust swarm'
+Sk 1 'luminrati'
+Sk 1 'magic missile'
+Sk 1 'mana shield'
+Sk 1 'mana tap'
+Sk 1 'mass invis'
+Sk 1 'nexus'
+Sk 1 'nightmare'
+Sk 1 'pass door'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'portal'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'protection neutral'
+Sk 1 'protection voodoo'
+Sk 1 'refresh'
+Sk 1 'regeneration'
+Sk 1 'resurrect'
+Sk 1 'rockshield'
+Sk 1 'sanctuary'
+Sk 1 'shield'
+Sk 1 'shocking grasp'
+Sk 1 'shockshield'
+Sk 1 'shrapnelshield'
+Sk 1 'shrink'
+Sk 1 'sleep'
+Sk 1 'slow'
+Sk 1 'snow storm'
+Sk 1 'steel skin'
+Sk 1 'stone skin'
+Sk 1 'summon'
+Sk 1 'swarm'
+Sk 1 'teleport'
+Sk 1 'thornshield'
+Sk 1 'transport'
+Sk 1 'vampiricshield'
+Sk 1 'ventriloquate'
+Sk 1 'vigorize'
+Sk 1 'voodoo'
+Sk 1 'watershield'
+Sk 1 'weaken'
+Sk 1 'wisdom'
+Sk 1 'wizard eye'
+Sk 1 'word of recall'
+Sk 40 'dagger'
+Sk 50 'recall'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+MaxDam 1506
+LLev 25
+Pass Kan259TEB2S/s~
+Plyd 93138
+Note 1251669492 1251465097 0 1251859364 0
+Room 3700
+HMVN 108 4087 106 5933 142 2142
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 0 0
+Deviant 0 0
+Tier 2
+Prac 253
+Trai 177
+Devote current 0
+Pnts 47
+Mkil 1065
+Mdea 21
+TotalCmpl 2
+TotalPnts 25
+TotalAttm 5
+TotalExpr 2
+TotalFail 1
+QuestPnts 25
+Alias con consider $1~
+Alias slist spells~
+Gr 'beguiling'
+Gr 'combat'
+Gr 'detection'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'rom basics'
+Gr 'shielding'
+Gr 'transportation'
+Gr 'weather'
+Gr 'wizard basics'
+Gr 'wizard default'
+Affc 'invisibility'   1   0   0  -1   0   0          2
+Affc 'regeneration'   0   0   0  -1   0   0  268435456
+Affc 'haste'   0   0   0  -1   1   2    2097152
+Affc 'fly'   0   0   0  -1   0   0     524288
+Affc 'detect magic'   0   0   0  -1   0   0         16
+End
+
+#O
+Vnum 42
+Nest 0
+Lev  71
+Time 98
+Valu 2 1 26
+Affc 'reserved' 2 76 -1 12 18 0
+Affc 'reserved' 2 76 -1 12 19 0
+Affc 'reserved' 2 76 -1 152 13 0
+Affc 'reserved' 2 76 -1 152 12 0
+End
+
+#O
+Vnum 16006
+Nest 0
+End
+
+#O
+Vnum 16006
+Nest 0
+End
+
+#O
+Vnum 16011
+Nest 0
+End
+
+#O
+Vnum 16021
+Nest 0
+End
+
+#O
+Vnum 16021
+Nest 0
+End
+
+#O
+Vnum 16013
+Nest 0
+End
+
+#O
+Vnum 742
+Nest 0
+Name shield kite exceptional~
+ShD  exceptional kite shield~
+Loader MPOP: (20:57-09/01/2009) Kamigure~
+ExtF BW
+Cost 60000
+Valu 1 7 23
+Valu 2 7 26
+Valu 3 7 22
+Valu 4 7 6
+End
+
+#O
+Vnum 15084
+Nest 0
+MULTI Kamigure~ 97-125-91-88.eugn.qwest.net~ 4
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+End
+
+#O
+Vnum 3162
+Nest 0
+End
+
+#O
+Vnum 3163
+Nest 0
+End
+
+#O
+Vnum 3169
+Nest 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+Wear 0
+Valu 2 1 198
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3701
+Nest 0
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+Wear 11
+End
+
+#END

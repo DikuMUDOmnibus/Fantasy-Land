@@ -1,0 +1,2575 @@
+#AREADATA
+Name Cargan Ruins~
+Builders None~
+VNUMs 54000 54099
+Credits [ 40 100] Defari   Cargan Ruins~
+Security 9
+End
+
+
+
+#MOBILES
+#54000
+half bred human beast healer~
+A half-bred human healer~
+A man--half human half beast is here to heal you.. or is he?
+~
+He is here to heal all those who fall wounded in the bloody battlefields!
+~
+human~
+ABa b 0 0 0
+200 200 13d2200+9000 50d100+5000 50d10+300 none
+-120 -120 -120 -110
+0 ABCDELQ 0 I
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M RANDOM 54000 5~
+#54001
+ghostkeeper ghost~
+The ghostkeeper of scrolls~
+A ghost floats here waiting to do business with you.
+~
+He is selling some of the most interesting scrolls for spells.
+~
+human~
+AB CDEFG 0 0 0
+200 110 13d2200+9000 2d100+100 50d10+400 none
+-120 -120 -120 -110
+0 ABCDELQ 0 I
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 54001 100~
+#54002
+evil hag~
+An evil hag~
+An ugly hag cackles evilly as you enter.
+~
+He sells the finest in strange potions.
+~
+human~
+AB CDEFG 0 0 0
+200 110 221d36+3314 110d10+85 13d10+97 none
+-85 -85 -85 -62
+0 ABCDELQ 0 I
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 54002 100~
+#54003
+man buccaneer pirate~
+A one-eyed buccaneer~
+A mean-looking man glares coldly at you!
+~
+He sells the finest in armor.
+~
+human~
+AB CDEFG 0 0 0
+200 110 221d36+3314 110d10+85 13d10+97 none
+-85 -85 -85 -62
+0 ABCDELQ 0 I
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 54003 90~
+#54004
+illusionist~
+An illusionist~
+Someone is here.
+~
+He sells the best in weapons.
+~
+human~
+AB CDEFG 0 0 0
+110 110 221d36+3314 110d10+85 13d10+97 none
+-85 -85 -85 -62
+0 ABCDELQ 0 I
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 54004 100~
+#54005
+witch~
+A cackling witch~
+The irritating cackles of a witch is here cooking something.
+~
+He sells the best in foods.
+~
+human~
+AB CDEFG 0 0 0
+200 200 221d36+3314 110d10+85 13d10+97 none
+-85 -85 -85 -62
+0 ABCDELQ 0 I
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 54005 90~
+#54006
+man old~
+An old man~
+A man half-frightened stands here tryin to do business.
+~
+He sells the necessary things needed for travel.
+~
+human~
+AB CDEFG 0 0 0
+200 200 221d36+3314 110d10+85 13d10+97 none
+-85 -85 -85 -62
+0 ABCDELQ 0 I
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 54006 90~
+#54007
+demonic gargoyle~
+A demonic gargoyle~
+A hideous gargoyle flies about here eyeing on you!
+~
+He is here to haunt you out!
+~
+gryphon~
+AB JPTZ DNO 400 0
+90 90 12d455+2400 2d50+50 5d20+90 crush
+-48 -48 -48 -46
+0 0 CL IKR
+stand stand male 9232
+AGHJMVW ABCDEFGHIJKPQU medium unknown
+#54008
+skeletal monster warrior~
+A skeletal monster~
+An evil skeletal warrior roams around chattering its bones!
+~
+Bones, and skeletons.. evil and frightening!
+~
+human~
+A b b 350 0
+85 85 171d28+1697 85d10+85 10d10+75 crush
+-55 -55 -55 -37
+0 0 0 I
+stand stand none 8888
+AHMV ABCDEFGHIJK medium unknown
+#54010
+dark elf~
+A dark elf~
+A dark elf swiftly moves about grinning deviously!
+~
+He is medium built..  Somewhat muscular in certain parts but veiling a
+strange cloak that might bid good for you to use!  
+~
+unique~
+A 0 0 340 0
+35 35 71d11+299 35d9+60 4d10+29 punch
+-14 -14 -14 -7
+0 I C GT
+stand stand none 3843
+AHMV ABCDEFGHIJK medium unknown
+#54011
+snake eyed necromancer man~
+A snake-eyed necromancer~
+A man roams about here in a trance.
+~
+The man is possessed and is somewhat lost in thought as he almost bumps
+into you!  
+~
+human~
+AF b 0 355 0
+100 45 12d550+2800 2d50+50 5d19+80 none
+-53 -53 -53 -52
+0 0 0 I
+stand stand none 4858
+AHMV ABCDEFGHIJK medium unknown
+#54012
+old man~
+An old man~
+An aged old man is standing here.
+~
+Old and aged but something strange about him.
+~
+human~
+AB 0 CDE 500 0
+50 50 12d900+4000 2d50+50 5d23+80 none
+-72 -72 -72 -71
+0 0 0 0
+stand stand none 5030
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 54012 100~
+#54013
+black bat~
+A gigantic bat~
+A giant black bat swoops by you!
+~
+This poisonous furry thing is bloodthirsty for your neck!
+~
+bat~
+A TZ H -500 0
+75 75 10d10+1600 19d9+100 5d6+12 bite
+-13 -13 -13 5
+FH 0 0 S
+stand stand none 7555
+AGV ACDEFHJKP medium unknown
+#54020
+rabid dog~
+A rabid dog~
+A vicious dog roams about here angry.
+~
+Scrawny, shaggy and rugged.. dirty and infested.
+~
+dog~
+ACFG V H -400 0
+50 50 5d10+550 12d10+100 2d10+7 bite
+-7 -7 -7 6
+H 0 0 0
+stand stand none 5252
+AGV ACDEFHJKUV medium unknown
+#54021
+spider tarantula~
+A tarantula~
+A nasty spider jumps about here!
+~
+This nasty-looking arachnid is the most feared of all spiders!
+~
+drider~
+ACF JV 0 -300 0
+50 50 5d10+550 12d10+100 2d10+10 bite
+-7 -7 -7 6
+H L CM NSZ
+stand stand none 565
+ACHOPV ABCDEFGHIJKUV medium unknown
+#54022
+wolf~
+A shaggy wolf~
+A wolf sinks his head with his eyes glaring at you!
+~
+This thick furry animal is vicious and hungry as saliva drips feverishly
+from his lips!  
+~
+dog~
+AF 0 H -400 0
+50 50 5d10+580 12d10+100 2d10+10 bite
+-7 -7 -7 6
+H 0 0 0
+stand stand none 545
+AGV ACDEFHJKUV medium unknown
+#54023
+blob purple ooze~
+A blob~
+A slimy purple ooze flows about here.
+~
+This disgusting purple blob leaves its prey with no trace of body parts left amongst its stand!
+~
+human~
+AF 0 H -500 0
+50 50 5d10+570 12d10+100 2d10+8 digestion
+-7 -7 -7 6
+0 0 0 0
+stand stand none 585
+AHMV ABCDEFGHIJK medium unknown
+#54025
+parasite parasitic monster thing~
+A parasitic monster~
+A parasitic thing consumes everything in sight here!
+~
+This horrid parasite is ugly, dangerous and horrid!
+~
+human~
+AF 0 0 -600 0
+55 55 5d10+700 12d10+100 2d11+14 suction
+-8 -8 -8 6
+0 0 0 0
+stand stand none 585
+AHMV ABCDEFGHIJK medium unknown
+#54026
+bony skeleton monster~
+A bony skeleton~
+A thin skeleton monster rattles around here.
+~
+Nothing but bones from huge dinosaurs!  But strange how some body parts are seen inside his skeletal structure!
+~
+human~
+ACF 0 0 -400 0
+60 60 6d12+900 15d10+100 4d6+10 punch
+-9 -9 -9 6
+0 0 0 0
+stand stand none 675
+AHMV ABCDEFGHIJK medium unknown
+#54027
+ghost~
+A ghost~
+A ghost is here haunting the place with fright!
+~
+You cant see him!
+~
+human~
+AF 0 0 -500 0
+65 70 10d10+1100 16d9+100 6d4+15 wrath
+-11 -11 -11 5
+0 0 0 0
+stand stand none 704
+AHMV ABCDEFGHIJK medium unknown
+#54028
+vulture~
+A vulture~
+A vulture circles above you in the sky.
+~
+Bloodthirsty and hungry for meat.. he awaits your next death to devour you clean!
+~
+song bird~
+A T 0 -300 0
+65 75 10d10+1100 16d9+100 6d4+10 bite
+-11 -11 -11 5
+FH 0 0 0
+stand stand none 690
+AGW ACDEFHKP medium unknown
+#54029
+skeleton~
+A skeleton~
+A skeleton walks here rattling its bones!
+~
+Nothing but bones and no skin.. how unsightly.
+~
+human~
+A 0 0 -500 0
+65 70 10d10+1100 16d9+100 6d4+10 punch
+-11 -11 -11 4
+0 0 0 0
+stand stand none 688
+AHMV ABCDEFGHIJK medium unknown
+#54030
+human apparition figure~
+A human apparition~
+A ghostly human figure floats here wailing in a lost state.
+~
+The ghostly human is haunting and is somewhat lost from its once happiness in its previous life.
+~
+human~
+A 0 0 -500 0
+70 80 10d10+1300 35d9+100 6d4+13 none
+-11 -11 -11 3
+0 0 0 0
+stand stand none 827
+AHMV ABCDEFGHIJK medium unknown
+#54031
+black dark crow~
+A black crow~
+A shady dark crow circles above you cawing.
+~
+The crow is mysterious from other crows..  For some reason it eyes on
+you with caution and with great rage.  
+~
+song bird~
+A T 0 -350 0
+70 70 10d10+1300 35d9+100 6d4+11 none
+-11 -11 -11 3
+FH 0 0 0
+stand stand none 734
+AGW ACDEFHKP medium unknown
+#54032
+commoner~
+A lost commoner~
+A commoner walks the streets here cautiously.
+~
+An elderly man, this commoner must be one of the last survivors before Carga was destroyed!
+~
+human~
+A 0 0 0 0
+70 70 10d10+1400 35d9+100 6d4+15 punch
+-11 -11 -11 3
+0 0 0 0
+stand stand none 838
+AHMV ABCDEFGHIJK medium unknown
+#54033
+goblin merchant~
+A goblin merchant~
+A mean-looking goblin merchant walks here growling.
+~
+Short in height and ugly in appearance, I wouldn't think he would be good
+in doing business with anyone he meets.  
+~
+goblin~
+AF J 0 0 0
+75 0 10d10+1600 19d9+100 5d6+15 beating
+-13 -13 -13 5
+0 0 P NSXY
+stand stand none 855
+AHMV ABCDEFGHIJKU medium unknown
+#54034
+cityguard ghost~
+A cityguard ghost~
+A cityguard ghost floats here wandering about.
+~
+Even as a ghost, this cityguard looks strong and mighty, but do you think
+he can cause the same amount of damage in spiritual form too?  
+~
+human~
+AO 0 0 -100 0
+75 75 10d10+1600 19d9+100 5d6+15 divine
+-13 -13 -13 5
+0 0 0 0
+stand stand none 855
+AHMV ABCDEFGHIJK medium unknown
+#54035
+zombie~
+A zombie~
+A half-functional zombie woes and approaches you.
+~
+Half body worn and halfway alive, this mob will continue to haunt and
+follow your no matter where you go.  
+~
+human~
+AFO 0 0 -500 0
+80 80 10d10+1900 24d10+100 5d7+15 crush
+-14 -14 -14 3
+0 0 0 0
+stand stand none 943
+AHMV ABCDEFGHIJK medium unknown
+#54036
+orc~
+An orc~
+A monstrous-looking orc growls here glaring at you!
+~
+This huge monstrous thing is about 6-7 feet and is huge!!!
+~
+orc~
+AF J 0 -600 0
+80 80 10d10+1900 24d10+100 5d7+15 smash
+-14 -14 -14 3
+0 0 Q S
+stand stand none 953
+ACHMV ABCDEFGHIJK medium unknown
+#54037
+gargoyle~
+A gargoyle~
+A flying gargoyle soars above you growling.
+~
+This evil gargoyle eyes you in a devious manner almost concealing his
+evilness from you!  
+~
+demon~
+AF JU 0 -300 0
+85 90 25d10+2500 21d9+100 3d12+15 claw
+-15 -15 -15 4
+0 0 CM NS
+stand stand none 999
+ACEHMV ABCDEFGHIJKPQUVW medium unknown
+#54038
+creature daemon~
+An evil daemon~
+A winged creature screams at your arrival!
+~
+This tall demonic man of evil grins and holds the key to your end!
+~
+demon~
+AF JU D -500 0
+85 90 25d10+2500 21d9+100 3d12+15 wrath
+-15 -15 -15 4
+0 0 CM NS
+stand stand none 1000
+ACEHMV ABCDEFGHIJKPQUVW medium unknown
+#54039
+ogre~
+A huge ogre~
+An ugly-looking ogre is here hunched over and screaming in rage!
+~
+I would advise that you keep your distance from this overbound,
+heavyweight hunchback-looking monster of ugliness!  
+~
+troll~
+AT FJc 0 -500 0
+90 95 25d10+3000 22d9+100 8d4+16 crush
+-15 -15 -15 4
+D 0 BE HK
+stand stand none 1313
+ABHMV ABCDEFGHIJKUV medium unknown
+#54040
+dark elf~
+A dark elf~
+A mysterious-looking elf stands here motionless.
+~
+Devious and cunning, dark and mysterious..  Secretive and sadistic..  You
+better watch out!  
+~
+halfelf~
+AS JL 0 -800 0
+90 100 25d10+3000 22d9+100 8d4+16 punch
+-15 -15 -15 4
+0 0 B Z
+stand stand none 1835
+AHMV ABCDEFGHIJK medium unknown
+#54041
+man rogue~
+A notorious rogue~
+A bearded man with one eye glares at you here.
+~
+Bearded and mean, rough, rugged and raw.  Watch out!
+~
+human~
+A 0 0 -800 0
+95 105 25d10+4000 24d9+100 6d6+18 slash
+-18 -18 -18 3
+0 0 0 0
+stand stand none 1500
+AHMV ABCDEFGHIJK medium unknown
+#54042
+shadow figure black dwarf~
+A black dwarf~
+You sense a shadowy figure lurk amongst you.
+~
+Mysterious, creepy, unseen and devious..  The dwarf is nothing you'd
+expect from any commonfolk you've known within these parts.  
+~
+dwarf~
+AC J E -1000 0
+95 105 25d10+4000 24d9+100 6d6+18 cleave
+-18 -18 -18 3
+0 0 LQ R
+stand stand none 1424
+AHMV ABCDEFGHIJK medium unknown
+#54043
+troll~
+An ugly-looking troll~
+A disgusting-looking troll is here cackling uncontrollably.
+~
+Ugly and horrible, deformed and demented, enraged and angry, clumsy but powerful.
+~
+troll~
+AF FJc 0 -1000 0
+100 120 50d10+5000 27d9+100 5d8+15 charge
+-19 -19 -19 2
+D 0 BE HK
+stand stand male 1984
+ABHMV ABCDEFGHIJKUV medium unknown
+#54044
+demonic spirit fiery light fire~
+A demonic spirit~
+A bright fiery light of the demonic spirit heats up here!
+~
+Bright and fiery, flaming and hot, scorching and hideous, evil and deceptive, powerful and quick.
+~
+demon~
+ABF JU DHO -1000 0
+140 200 55d1000+8000 27d9+100 15d50+150 slash
+-19 -19 -19 2
+FHIK 0 CEFMN 0
+stand stand none 1842
+ACEHMV ABCDEFGHIJKPQUVW large unknown
+F vul NS
+#54055
+cloaked figure ghost~
+A cloaked figure~
+A quiet cloaked figure is here not moving.
+~
+Quiet and silent, nimble and quick, powerful and mysterious, wondering and 
+cunning
+~
+human~
+AF 0 CDE -1000 0
+100 120 50d10+5000 27d9+100 5d8+15 divine
+-19 -19 -19 2
+0 0 0 0
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#54056
+ghost carga soul~
+The ghost of Carga~
+A lost soul floats about the streets here.
+~
+Wailing and haunted, despairably stressed and feared immensely, vicious and mental.
+~
+human~
+AO 0 BCDEO -1000 0
+120 140 12d808+3640 2d50+100 4d28+178 drain
+-90 -90 -90 -90
+0 0 0 0
+stand stand none 2424
+AHMV ABCDEFGHIJK medium unknown
+#54057
+satanic skull face sorcerer~
+A skull-faced necromancer~
+A satanic skull-faced sorcerer is here!
+~
+Devious!!!!
+~
+human~
+AF 0 CDEH -1000 0
+125 150 12d888+3999 2d50+50 5d23+145 divine
+-70 -70 -70 -50
+0 0 0 0
+stand stand none 3435
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#54000
+loaf bread~
+a Loaf of Bread~
+A small loaf of bread sits here waiting for you.~
+unknown~
+food 0 A
+18 12 0 0 0
+1 1 35 P
+#54001
+pool acid~
+a pool of hot acid~
+A mystical pool of hot acid is here in the middle of the room.~
+unknown~
+furniture O 0
+999 99999 FIL 800 800
+1 0 0 P
+#54002
+scroll identifying black~
+a Scroll of Identifying~
+A curled-up scroll with black markings lies here.~
+unknown~
+scroll 0 AO
+20 'identify' 'reserved' 'reserved' 'reserved'
+15 2 1350 P
+#54003
+scroll cancellation hieroglyphics~
+a Scroll of Cancellation~
+A long scroll with many weird hieroglyphics marked lies here.~
+unknown~
+scroll 0 AO
+30 'cancellation' 'reserved' 'reserved' 'reserved'
+20 2 2120 P
+#54004
+potion translucence~
+a Potion of Translucence~
+A strange potion steadily bubbles here.~
+unknown~
+potion 0 AO
+25 'invisibility' 'reserved' 'reserved' 'reserved'
+15 3 1835 P
+#54005
+potion true vision color~
+a Potion of True Vision~
+A strange potion with swirling colors is lying here.~
+unknown~
+potion 0 AO
+10 'detect invis' 'detect magic' 'detect hidden' 'detect poison'
+5 3 2300 P
+#54006
+potion stone skin brown liquid bottle~
+a Potion of Stone Skin~
+A strange brown liquid in a bottle lies here.~
+unknown~
+potion 0 AO
+50 'stone skin' 'reserved' 'reserved' 'reserved'
+50 20 7500 P
+#54007
+potion revitalization~
+a Potion of Revitalization~
+A strong-smelling potion of some sort is lying here.~
+unknown~
+potion 0 AO
+90 'heal' 'cure critical' 'cure critical' 'cure critical'
+90 50 9000 P
+#54008
+potion misty white cancellation~
+a Potion of Cancellation~
+A misty white potion of sorts is lying here.~
+unknown~
+potion 0 AO
+151 'cancellation' 'cancellation' 'reserved' 'reserved'
+30 10 6500 P
+#54009
+potion clear basic protection~
+a Potion of Basic Protection~
+A strange clear potion is lying here.~
+unknown~
+potion 0 AO
+30 'bless' 'armor' 'shield' 'haste'
+30 20 3000 P
+#54010
+chestplate iron~
+a Tightly Fitting Chestplate~
+A small but iron-made chestplate is lying here.~
+unknown~
+armor 0 AD
+13 13 13 12 0
+35 36 3785 P
+A
+20 -1
+A
+24 -1
+#54011
+set arm protectors iron shield~
+a Set of Arm Protectors~
+A strange pair of iron-made arm shields is lying here.~
+unknown~
+armor 0 AI
+13 13 13 12 0
+35 36 3885 P
+A
+19 3
+#54012
+round silver helm~
+a Silver Helm~
+A round silver helm with ear protectors is lying here.~
+unknown~
+armor 0 AE
+24 24 24 23 0
+65 66 6750 P
+A
+18 13
+#54013
+war gloves leather~
+the War Gloves of Leather~
+A pair of leather gloves used solely for war lies here.~
+unknown~
+armor 0 AH
+24 24 24 23 0
+65 66 6855 P
+A
+5 2
+A
+18 6
+#54014
+pair steel shin protectors~
+some Steel Shin Protectors~
+A pair of steel shin protectors lies here.~
+unknown~
+armor F AF
+34 34 34 33 0
+95 96 19000 P
+A
+18 10
+A
+19 10
+A
+13 -100
+A
+14 100
+#54015
+pair leather shoes boots~
+a Pair of Leather Boots~
+A ragged pair of brown swede boots lies here.~
+unknown~
+armor F AG
+34 34 34 33 0
+95 96 19000 P
+A
+19 12
+A
+20 -2
+A
+14 100
+#54016
+morningstar flail~
+a Huge Morningstar~
+A large morningstar lies here splattered with blood.~
+unknown~
+weapon 0 AN
+flail 10 13 crush D
+60 21 1095 P
+A
+19 14
+#54017
+spear festive decorations~
+a Long Festive Spear~
+A spear with many strange decorations printed on it lies here.~
+unknown~
+weapon 0 AN
+exotic 10 10 pierce 0
+40 21 1420 P
+A
+19 10
+#54018
+large halberd~
+a Large Halberd~
+A huge halberd is lying here newly made.~
+unknown~
+weapon 0 AN
+polearm 3 10 smash 0
+20 21 1420 P
+A
+19 1
+A
+18 1
+#54019
+donation pit~
+a Donation Pit~
+A pit is here to place all donated items in.~
+unknown~
+container O 0
+999999 0 0 999999 0
+0 0 0 P
+#54020
+chunk meat~
+a Huge Chunk of Meat~
+A delicious chunk of meat is here freshly wrapped.~
+unknown~
+food 0 AO
+20 40 0 0 0
+1 2 45 P
+#54021
+small elven lamp~
+a Small Elven Lamp~
+A bizarre elven-made lamp lies here illuminating light.~
+unknown~
+light 0 AO
+0 0 500 0 0
+1 10 155 P
+#54022
+waterskin water skin ~
+a Small Waterskin~
+A small furry skin that holds water to drink lies here.~
+unknown~
+drink 0 AO
+50 50 'water' 0 0
+1 1 335 P
+#54023
+bag pockets brown~
+a Bag of Many Pockets~
+A strange brown bag with many different pockets lies here.~
+unknown~
+container F AK
+750 AC 0 10 0
+15 15 1750 P
+A
+17 -10
+#54024
+potion power enhancement~
+the Potion of Power Enhancement~
+A furiously bright potion lies here illuminating!~
+unknown~
+potion 0 A
+85 'fireshield' 'iceshield' 'shockshield' 'holyshield'
+75 0 9355 P
+#54033
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#54040
+golden ring~
+a golden ring~
+A small golden ring glitters brightly here.~
+unknown~
+armor 0 AB
+6 6 6 5 0
+60 40 6464 P
+A
+18 6
+A
+13 45
+#54041
+black eyepatch~
+an eyepatch~
+A black eyepatch lies here.~
+unknown~
+armor 0 AR
+12 12 12 12 0
+60 35 6565 P
+A
+20 -4
+A
+19 9
+#54042
+body bodywear skeleton bones~
+a body of skeleton bones~
+A bodywear filled with skeleton bones lies here.~
+unknown~
+armor 0 AD
+13 13 13 13 0
+60 30 6767 P
+A
+18 12
+A
+13 50
+#54043
+wooden sword~
+a wooden sword~
+A deadly sword made of wood lies here.~
+unknown~
+weapon 0 AN
+sword 10 10 slash D
+60 35 6768 P
+A
+19 10
+A
+14 35
+#54044
+black cloth bandanna~
+a black bandanna~
+A black-clothed bandanna lies here steadily blowing away.~
+unknown~
+armor 0 AT
+12 13 13 11 0
+65 30 7232 P
+A
+12 45
+A
+19 7
+A
+13 25
+#54045
+red sash~
+a red sash~
+A red sash lies here for you to wear.~
+unknown~
+armor 0 AL
+13 13 13 10 0
+65 44 6777 P
+A
+14 65
+A
+13 65
+A
+18 13
+#54046
+orb carga~
+the Orb of Carga~
+A spherical orb with the letter "C" lies here.~
+unknown~
+armor 0 AQ
+16 16 16 16 0
+70 55 7575 P
+A
+5 2
+A
+17 -5
+A
+19 7
+A
+18 7
+A
+13 90
+A
+12 90
+#54047
+golden loop wristlet~
+a golden wristlet~
+A beautiful golden loop lies here shining!~
+unknown~
+armor A AM
+18 18 18 15 0
+75 65 8233 P
+A
+4 2
+A
+13 80
+A
+18 5
+A
+19 6
+#54048
+goblin necklace~
+a goblin necklace~
+A strange festive goblin-like necklace lies here.~
+unknown~
+armor 0 AC
+16 16 16 16 0
+75 50 8333 P
+A
+3 -2
+A
+12 50
+A
+13 50
+A
+14 100
+#54049
+chained chain gauntlets~
+some chained gauntlets~
+A pair of chain-linked gauntlets lie here.~
+unknown~
+armor 0 AH
+17 17 16 16 0
+75 50 8588 P
+A
+20 -7
+A
+19 5
+A
+18 8
+#54050
+chain mail skirt~
+a chain mail skirt~
+A long heavy skirt made of chains lie here soaked of blood.~
+unknown~
+armor 0 AL
+14 14 14 13 0
+75 55 8585 P
+A
+13 50
+A
+18 8
+A
+2 2
+#54051
+earring orcish crescent~
+an Orcish earring~
+A strange crescent earring made by Orcish hands lies here.~
+unknown~
+armor 0 AS
+10 10 10 10 0
+80 40 9344 P
+A
+14 45
+A
+1 2
+A
+19 4
+A
+18 4
+#54052
+pair elvish boots~
+a pair of Elvish boots~
+A well-made leather pair of Elven boots lie here.~
+unknown~
+armor 0 AG
+14 14 14 14 0
+90 80 9595 P
+A
+1 -1
+A
+19 16
+A
+12 -100
+A
+14 100
+A
+13 100
+#54053
+dagger crystal rainbow~
+a crystal dagger~
+A clear shiny dagger made of a rainbow crystal lies here.~
+unknown~
+weapon 0 AN
+dagger 8 17 stab DH
+90 80 10434 P
+A
+2 1
+A
+14 75
+#54054
+cape elvish~
+an Elvish-made cape~
+A long cape made by the Elves lies here flourishing.~
+unknown~
+armor 0 AC
+22 22 22 22 0
+90 60 10444 P
+A
+3 2
+A
+14 90
+A
+13 70
+A
+19 8
+A
+18 8
+A
+17 -10
+#54055
+beanie cap~
+a pirate's beanie~
+A long soft-clothed beanie lies here floating about.~
+unknown~
+armor 0 AE
+35 35 35 35 0
+95 70 10258 P
+A
+5 1
+A
+4 -1
+A
+19 10
+#54056
+black ring~
+a black ring~
+A mysterious black ring lies here humming violently!~
+unknown~
+armor 0 AB
+21 21 21 20 0
+95 50 10404 P
+A
+18 8
+A
+13 80
+#54057
+dark cloak ~
+a dark concealing cloak~
+A dark cloak with many overfolds lies here scattered about.~
+unknown~
+armor 0 AD
+23 23 23 20 0
+100 85 11023 P
+A
+20 -5
+A
+13 -150
+A
+12 100
+A
+3 2
+A
+19 17
+A
+18 13
+#54058
+cargan ring~
+the ancient cargan ring~
+A strange ring with a "C" on it lies here.~
+unknown~
+armor 0 AB
+28 28 28 20 0
+125 45 14545 P
+A
+13 60
+A
+18 16
+A
+4 1
+A
+1 1
+A
+5 1
+A
+20 -4
+#54059
+golden belt black linings~
+a golden belt with black linings~
+A long golden belt with black linings lies here unworn.~
+unknown~
+armor 0 AL
+25 25 25 20 0
+115 100 13235 P
+A
+12 110
+A
+19 20
+A
+13 120
+A
+18 -10
+#54060
+wailings lost souls noises~
+the wailings of lost souls~
+Strange noises sound around your presence as you stand here.~
+unknown~
+armor 0 AQ
+25 25 25 20 0
+115 0 0 P
+A
+1 1
+A
+2 1
+A
+3 1
+A
+13 150
+A
+12 85
+A
+14 -50
+A
+4 -2
+A
+19 17
+#54061
+black nose ring~
+a black nose ring~
+A strange ancient black nose ring lies here amongst the weeds.~
+unknown~
+armor 0 AR
+22 22 22 20 0
+110 15 14343 P
+A
+20 -3
+A
+18 14
+A
+14 75
+#54062
+red burgundy hooded cloak~
+a dark red hooded cloak~
+A burgundy-colored cloak lies here for you to wear.~
+unknown~
+armor 0 AE
+20 20 20 18 0
+120 110 13233 P
+A
+19 12
+A
+20 -3
+A
+3 2
+A
+13 75
+#54063
+orb radiance spherical light~
+an orb of radiance~
+A spherical orb used for light lies here shining.~
+unknown~
+light 0 AO
+0 0 777 0 0
+110 25 0 P
+A
+13 100
+A
+18 15
+#54064
+chained necklace red ruby~
+a chained necklace with a red ruby~
+A strangely made necklace with a shiny red ruby inside it lies here.~
+unknown~
+armor 0 AC
+25 25 25 20 0
+120 75 14555 P
+A
+13 65
+A
+12 65
+A
+2 -1
+A
+4 -1
+A
+20 -4
+#54065
+cloak red cape~
+a dark red cape~
+A huge cloak-like red cape lies here.~
+unknown~
+armor 0 AX
+28 20 28 20 0
+120 85 15555 P
+A
+12 200
+A
+19 15
+A
+17 -10
+#54066
+pair bloody hands~
+the hands of blood~
+A pair of decapitated bloody hands lies here soaked.~
+unknown~
+weapon 0 AN
+exotic 12 24 grep F
+125 90 13555 P
+A
+18 30
+A
+19 30
+#54067
+patch cargan warriors~
+the Patch of the Cargan Warriors~
+An ancient patch of the Cargan Warriors lies here.~
+unknown~
+armor 0 AW
+25 25 25 24 0
+130 100 0 P
+A
+20 -7
+A
+19 40
+A
+13 200
+#54068
+spiked bracer~
+a spiked bracer~
+A bracer with sharp spikes lies here.~
+unknown~
+armor 0 AM
+22 22 22 20 0
+100 85 14000 P
+A
+13 60
+A
+12 50
+A
+20 -6
+#54069
+pair demonic claws~
+a pair of sharp demonic claws~
+A big glop of liquid settles on a pair of demonic claws here.~
+unknown~
+weapon BM AN
+exotic 16 19 claw ADH
+100 80 13333 P
+#54070
+pair bloody hands~
+a pair of pale bloody hands~
+A pair of horrible bloody hands lies here slightly moving!~
+unknown~
+armor 0 AH
+21 21 21 20 0
+130 100 15454 P
+A
+18 15
+A
+1 2
+A
+14 100
+A
+20 -10
+#54071
+ruby anklet~
+a ruby anklet~
+A glittering red ruby anklet lies here shining!~
+unknown~
+armor A AT
+22 22 22 20 0
+100 75 14144 P
+A
+14 50
+A
+18 6
+A
+19 7
+A
+13 50
+#54072
+pair daemonic wings~
+a pair of Daemonic wings~
+A huge pair of flying wings from a daemon lies here.~
+unknown~
+armor 0 AK
+14 14 14 13 0
+85 60 9444 P
+A
+17 -5
+A
+12 65
+A
+5 2
+A
+18 8
+#54073
+t-shirt~
+a ripped-up shirt~
+A ripped-up shirt lies here.~
+unknown~
+armor 0 AD
+18 18 18 15 0
+75 50 0 P
+A
+2 2
+A
+14 90
+A
+19 10
+A
+18 10
+#0
+
+
+
+#ROOMS
+#54000
+Before A Village in Ruins~
+You are now standing outside what seems to be a village in ruins.  The
+structure outside the building appears extremely aged and battered as
+several missing layers of bricks and cracks fill the outer portions.  A flag
+standing on the towers to the left and right are tattered.  It appears a war
+might have swept through this once foretold beautiful village.  Old gates to
+the east are somewhat open for you to head into.  
+ 
+A huge barricade stands to the west of you preventing anyone to head out.
+~
+0 0 0
+D1
+~
+gate~
+1 0 54001
+S
+#54001
+Inside the Broken Gates~
+A strange darkness and eerie quietness seems to surround you as the
+strangely cold gates creak as you enter.  The once magnificent textures of
+the brick road here is now cracked, aged and destroyed from what would look
+like a battle of some sort took place within this establishment.  A steady
+breeze begins to blow through here as the shattered bricks pave its way
+eastward while the old gates exiting the once animated village leaves to the
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 54002
+D3
+~
+~
+1 0 54000
+S
+#54002
+A Dark Path North and South~
+As you make your way further into this deserted village, te eastern walls
+block your way and detour into two possible directions.  One takes you north
+and the other south where strange wailing can be heard.  A ripped SIGN is
+perched on the cracked wall here for you to read.  
+~
+0 0 0
+E
+sign~
+"To whomever that sees this..  The once beautiful village of Cargan has
+been destroyed.  The powers of evil through strange powers of necromancy
+consumed this town leaving all who dwelt dead or banished.  All there is
+left is ruins..  There is no hope as you can see looking around that the
+nasty creatures created from this strange magical force have overtaken this
+place of ruin.  
+ 
+Flee from this place.. If you are smart, you will heed to--------
+ 
+(((( M A O S H I N  W A S  H E R E ! ))))
+~
+D0
+~
+~
+0 0 54062
+D2
+~
+~
+0 0 54003
+D3
+~
+~
+0 0 54001
+S
+#54003
+An Eastern Turn~
+This short walkway turns to the east quickly further into the ruined
+village.  Several portraits of lost warriors from the past hang on the
+southern and western walls here blotched with blood and partially torn. 
+Small candles half melted are hung beside them as well.  
+~
+0 0 0
+D0
+~
+~
+0 0 54002
+D1
+~
+~
+0 0 54004
+S
+#54004
+A Curved Streetway~
+The torn-paved streets suddenly curves to the west as the path takes you
+near the western exit of the village.  Wailings and other eerie noises are
+heard to the south. 
+~
+0 0 0
+D0
+~
+~
+0 0 54005
+D2
+~
+~
+0 0 54064
+D3
+~
+~
+0 0 54003
+S
+#54005
+Southwest Main Street~
+Cracked bricks overlay the battered streets here providing some trouble
+moving about here.  The street takes a turn to the south while the other
+direction takes you into the mainway.  
+~
+0 0 0
+D1
+~
+~
+0 0 54006
+D2
+~
+~
+0 0 54004
+S
+#54006
+Southwest Main Street~
+Cracked bricks overlay the battered streets here providing some trouble
+moving about here.  The polluted street moves east and west here.  
+~
+0 0 0
+D1
+~
+~
+0 0 54007
+D3
+~
+~
+0 0 54005
+S
+#54007
+Southwest Main Street~
+Cracked bricks overlay the battered streets here providing some trouble
+moving about here.  Strange noises can be heard to the south while the way
+east and west continues here.  
+~
+0 0 0
+D1
+~
+~
+0 0 54009
+D2
+~
+~
+0 0 54008
+D3
+~
+~
+0 0 54006
+S
+#54008
+A Sanctuary in Ruins~
+Melted candles perch along the corners of the room as shattered
+crystalized glass perch standing beneath them.  Portraits of immortals are
+torn apart as cracked pillars are visible everywhere.  A rug sprayed with
+blood and mildew lies on the floor as you find yourself astonished at this
+ghastly sanctuary now demolished in its beauty that it once held.  An exit
+is out to the north.  
+~
+0 263176 0
+D0
+~
+~
+0 0 54007
+S
+#54009
+Southwest Main Street~
+Cracked bricks overlay the battered streets here providing some trouble
+moving about here.  The street moves on to the east and west here.  You
+notice how bad the conditions are moving about here as the road is filled
+with many potholes and such.  
+~
+0 0 0
+D1
+~
+~
+0 0 54010
+D3
+~
+~
+0 0 54007
+S
+#54010
+Southwest Main Street~
+Cracked bricks overlay the battered streets here providing some trouble
+moving about here.  A small shop of sorts or so it looks like is seen to the
+south while the street continues east and west here.  
+~
+0 0 0
+D1
+~
+~
+0 0 54012
+D2
+~
+~
+0 0 54011
+D3
+~
+~
+0 0 54009
+S
+#54011
+The Enchanted Scrolls~
+The stunning radiance of the scroll shop arouses your curiousity as you
+enter.  Strange mystical portraits are hung across the western and eastern
+walls here furnished with many abstract writings.  Several of these are
+written in an unknown language leaving you in wonder.  A long glass display
+is stood before you with many powerful scrolls shown only for show.  A
+strange humming noise is felt within this room.  An exit leaves out north to
+the main street.  
+~
+0 8 0
+D0
+~
+~
+0 0 54010
+S
+#54012
+The Southwestern Corner~
+A turn in the path goes north where cacklings can be heard.  Festive
+decorations that once hung about you are now shrivels of scrap as a howling
+breeze flows through here.  
+~
+0 0 0
+D0
+~
+~
+0 0 54013
+D3
+~
+~
+0 0 54010
+S
+#54013
+West End Ruins~
+A mighty statue of a warrior stands here cracked in structure and
+basically vandalized with blotches of blood and tagging.  The once graceful
+decorations that perched along here are now scraps of nothingness as cobwebs
+flutter in the breeze as the once well-travelled path is now a deserted
+gloomy passage of nothingness.  
+~
+0 0 0
+D0
+~
+~
+0 0 54053
+D1
+~
+~
+0 0 54014
+D2
+~
+~
+0 0 54012
+S
+#54014
+Villagetown Ruins~
+The roof above that use to extend outward is covered with debris and
+broken roof tops as the grand statue of King Mazoun is now a memory.  Hoards
+of blood and burnt marks fill the walls around as this once gaily spot of
+travel has now dissipated to a passageway of perils.  East and west take you
+away and further into the depressing ruins.  
+~
+0 0 0
+D1
+~
+~
+0 0 54022
+D3
+~
+~
+0 0 54013
+S
+#54022
+East End Ruins~
+On the eastern wall where the once great statue of Lord Mavagar stood,
+you find that nothing is perched there no more.  Walls are tagged and
+scorched in charred black as the festive decorations are no longer seen. 
+This place once was filled with heavy traffic of commoners and citizens but
+now..  All is lost.  A path veers to the north and south while the
+whispering howls blow to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 54045
+D2
+~
+~
+0 0 54023
+D3
+~
+~
+0 0 54014
+S
+#54023
+Southeastern Corner~
+A turn in the path goes north where wails and screams are distantly
+heard.  Debris lies blowing about here as several skeletons lie here and
+there as you pass through here.  
+~
+0 0 0
+D0
+~
+~
+0 0 54022
+D1
+~
+~
+0 0 54024
+S
+#54024
+Southeast Main Street~
+The streets here are in bad condition as broken fragments of stone lie
+crumbled about making walking a bit difficult.  A flow of dust swiftly moves
+about here as debris begins to scatter everywhere.  To the south lies a
+battered-up store of sorts with broken walls and greeneries consuming from
+the inside of the building.  
+~
+0 0 0
+D1
+~
+~
+0 0 54026
+D2
+~
+~
+0 0 54025
+D3
+~
+~
+0 0 54023
+S
+#54025
+Concotions of Chemicals~
+Youre nostrils are consumed with a horrible stench of smell! 
+Never-seen-before plants are growing on the southwestern part of this place
+as broken glass from flasks and vials begin are lying about.  A horrifying
+smell begins to weaken your stomach almost making you vomit.  A SIGN is here
+for you to read.  
+~
+0 8 0
+E
+sign~
+MUAHAHHAHAHAHA!
+ 
+Hardy har har.. The monsters rule the city now!!!!!!
+You wanna buy something!??!
+~
+D0
+~
+~
+0 0 54024
+S
+#54026
+Southeast Main Street~
+The streets here are in bad condition as broken fragments of stone lie
+crumbled about making walking a bit difficult.  A flow of dust swiftly moves
+about here as debris begins to scatter everywhere.  The street moves east
+and west here.  
+~
+0 0 0
+D1
+~
+~
+0 0 54027
+D3
+~
+~
+0 0 54024
+S
+#54027
+Southeast Main Street~
+The streets here are in bad condition as broken fragments of stone lie
+crumbled about making walking a bit difficult.  A flow of dust swiftly moves
+about here as debris begins to scatter everywhere.  A vandalized building
+stands to the south where clanking noises are heard.  The street continues
+east and west here.  
+~
+0 0 0
+D1
+~
+~
+0 0 54029
+D2
+~
+~
+0 0 54028
+D3
+~
+~
+0 0 54026
+S
+#54028
+The Deserted Emporium~
+Broken pieces of armour lie around you as torn banners hang and seat
+around.  A partially standing counter is before the northern wall vandalized
+and cracked.  
+~
+0 8 0
+D0
+~
+~
+0 0 54027
+S
+#54029
+Southeast Main Street~
+The streets here are in bad condition as broken fragments of stone lie
+crumbled about making walking a bit difficult.  A flow of dust swiftly moves
+about here as debris begins to scatter everywhere.  The path moves east and
+west here.  
+~
+0 0 0
+D1
+~
+~
+0 0 54030
+D3
+~
+~
+0 0 54027
+S
+#54030
+Southeast Main Street~
+The streets here are in bad condition as broken fragments of stone lie
+crumbled about making walking a bit difficult.  A flow of dust swiftly moves
+about here as debris begins to scatter everywhere.  The street turns to the
+south here.  
+~
+0 0 0
+D2
+~
+~
+0 0 54031
+D3
+~
+~
+0 0 54029
+S
+#54031
+A Curved Streetway~
+The street suddenly curves to the east as the path itself takes you near
+the eastern gates of Carga.  Evil laughter and wailings are heard from a
+distance all about the ruined village as a breeze swiftly moves through
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 54030
+D1
+~
+~
+0 0 54032
+D2
+~
+~
+0 0 54066
+S
+#54032
+A Western Turn~
+This short walkway turns into the west deeper into the ruins.  Several
+portraits are found lying on the floor here.  Knocked candles lie near your
+feet as broken pieces of marble lie about defacing the whole place.  
+~
+0 0 0
+D0
+~
+~
+0 0 54033
+D3
+~
+~
+0 0 54031
+S
+#54033
+A Northern/Southern Path~
+As you make your way further in the village, the western walls blocks
+passage and detours you in two possible directions.  One direction takes you
+north and the other south.  A SIGN is perched on the wall here for you to
+read.  
+~
+0 0 0
+E
+sign~
+"To whomever that sees this..  The once beautiful village of Cargan has
+been destroyed.  The powers of evil through strange powers of necromancy
+consumed this town leaving all who dwelt dead or banished.  All there is
+left is ruins..  There is no hope as you can see looking around that the
+nasty creatures created from this strange magical force have overtaken this
+place of ruin.  
+ 
+Flee from this place.. If you are smart, you will heed to---
+ 
+(((( M A O S H I N  W A S  H E R E ! ))))
+~
+D0
+~
+~
+0 0 54036
+D1
+~
+~
+0 0 54034
+D2
+~
+~
+0 0 54032
+S
+#54034
+Inside the Eastern Gates~
+Welcome to the ruins!  Activity in this town has been conquered by forces
+of evil!  Travellers use to come from distant lands in hopes of establishing
+shelter and other things but visually all has fallen!  The ground beneath
+you has shattered as gates from beside you have ripped and been broken into.
+A dead end is seen to the far west where more of the damage delivered can be
+seen in the Cargan Ruins.  
+~
+0 0 0
+D1
+~
+~
+0 0 54035
+D3
+~
+~
+0 0 54033
+S
+#54035
+Before the East Gates of A Village~
+You are now standing outside the opened gates on what is known as the
+ruins of Carga.  The structure on the outer walls have been broken into as
+if a huge explosion tattered deep inside the city.  Long poles from flags
+perched on the towers lie about as a trail away from here is visible to the
+east.  
+~
+0 4 0
+D1
+~
+~
+0 0 6162
+D3
+~
+~
+0 0 54034
+S
+#54036
+A Western Turn~
+This short walkway turns into the west deeper into the ruins.  Several
+portraits are found lying on the floor here.  Knocked candles lie near your
+feet as broken pieces of marble lie about defacing the whole place.  
+~
+0 0 0
+D2
+~
+~
+0 0 54033
+D3
+~
+~
+0 0 54037
+S
+#54037
+A Curved Streetway~
+The street suddenly curves to the east as the path itself takes you near
+the eastern gates of Carga.  Directions south and north are visible.  Not
+much is to describe here but a cold breeze flowing through.  
+~
+0 0 0
+D0
+~
+~
+0 0 54065
+D1
+~
+~
+0 0 54036
+D2
+~
+~
+0 0 54038
+S
+#54038
+Northeast Main Street~
+The once well-paved street here was layered with fine brick textures
+providing a smooth ride through here.  Now the road has been destroyed
+immensely and travel is very rough along these streets.  A path goes north
+and west through these streets as you frown at the sight of this once
+beautiful town.  
+~
+0 0 0
+D0
+~
+~
+0 0 54037
+D3
+~
+~
+0 0 54039
+S
+#54039
+Northeast Main Street~
+The once well-paved street here was layered with fine brick textures
+providing a smooth ride through here.  Now the road has been destroyed
+immensely and travel is very rough along these streets.  The road continues
+on east and west here.  
+~
+0 0 0
+D1
+~
+~
+0 0 54038
+D3
+~
+~
+0 0 54040
+S
+#54040
+Northeast Main Street~
+The once well-paved street here was layered with fine brick textures
+providing a smooth ride through here.  Now the road has been destroyed
+immensely and travel is very rough along these streets.  A small building
+lies visible to the north where some activity brews..  What could be over
+there?  
+~
+0 0 0
+D0
+~
+~
+0 0 54041
+D1
+~
+~
+0 0 54039
+D3
+~
+~
+0 0 54042
+S
+#54041
+A Room Full of Broken Weapons~
+A broken furnace on the northern end of the shop stands dusty and worn
+out.  Broken materials from the ceiling fall to the floor as many of the
+weapons displayed along the walls are now destroyed and broken in half. 
+Sprays of blood lie about with several skulls lying about.  A SIGN hangs on
+the wall for you to see.  
+~
+0 8 0
+E
+sign~
+Weapons here are all broken!!! MUAHAHAHAHH!
+ 
+There is nothing here for you!!!! BEGONE!
+~
+D2
+~
+~
+0 0 54040
+S
+#54042
+Northeast Main Street~
+The once well-paved street here was layered with fine brick textures
+providing a smooth ride through here.  Now the road has been destroyed
+immensely and travel is very rough along these streets.  The path continues
+on to the east and west here.  
+~
+0 0 0
+D1
+~
+~
+0 0 54040
+D3
+~
+~
+0 0 54043
+S
+#54043
+Northeast Main Street~
+The once well-paved street here was layered with fine brick textures
+providing a smooth ride through here.  Now the road has been destroyed
+immensely and travel is very rough along these streets.  A store in ruins is
+seen to the north of you.  
+~
+0 0 0
+D0
+~
+~
+0 0 54044
+D1
+~
+~
+0 0 54042
+D3
+~
+~
+0 0 54045
+S
+#54044
+A Ruined Store~
+The ruined store is deserted and quiet.  Nothing special to see here.  
+~
+0 8 0
+E
+sign~
+"We thank Lord Mavagar and King Mazoun for donating their historic items
+for sale here at the Wilderness store!"  
+~
+E
+sign~
+"With deep regrets, the wilderness store has been closed due to the recent
+passing of the storekeeper.  The store will remain closed until a new person
+can fill this spot.
+ 
+We are very sorry for this inconvenience and hope that you will come back
+again someday.  By that time, we will have this business up and running again.
+I apologize once more."
+ 
+Thank you.
+ 
+ 
+                                              - King Mazoun
+~
+D2
+~
+~
+0 0 54043
+S
+#54045
+Northeastern Corner~
+A turn in the path goes south where much activity can be heard.  The
+howling winds have intensified as death's sensation fills within your bones!
+~
+0 0 0
+D1
+~
+~
+0 0 54043
+D2
+~
+~
+0 0 54022
+S
+#54053
+Northwestern Corner~
+The path here goes south and west.  Not much visible to describe here.
+~
+0 0 0
+D2
+~
+~
+0 0 54013
+D3
+~
+~
+0 0 54054
+S
+#54054
+Northwest Main Street~
+Shattered and crack bricks overlay the street providing a troublesome
+walk through here.  A strange building is seen to the north here..  What is
+it?  
+~
+0 0 0
+D0
+~
+~
+0 0 54055
+D1
+~
+~
+0 0 54053
+D3
+~
+~
+0 0 54056
+S
+#54055
+A Pit..~
+Evil torches perch in here as the pit before you holds many weird
+things..  Possibly dangerous things.  What could it be?  
+~
+0 8 0
+D2
+~
+~
+0 0 54054
+S
+#54056
+Northwest Main Street~
+Shattered and crack bricks overlay the street providing a troublesome
+walk through here.  The street continues to the east and west here.  
+~
+0 0 0
+D1
+~
+~
+0 0 54054
+D3
+~
+~
+0 0 54057
+S
+#54057
+Northwest Main Street~
+Shattered and crack bricks overlay the street providing a troublesome
+walk through here.  A small building is to the north while the street moves
+east and west here.  
+~
+0 0 0
+D0
+~
+~
+0 0 54058
+D1
+~
+~
+0 0 54056
+D3
+~
+~
+0 0 54059
+S
+#54058
+Infected Foods~
+You inhale to croak and choke on the horrible-smelling rotten foods that
+are lying around here.  An exit away from this horrific aroma is to the
+south.  
+~
+0 8 0
+D2
+~
+~
+0 0 54057
+S
+#54059
+Northwest Main Street~
+Well-made bricks overlay the street providing a path and comfort for
+those moving from one place to another here.  The street is wide enough to
+allow travellers to move easily here.  The ground is somewhat scattered with
+soil as a janitor is in need to sweep up the road here.  The flow of traffic
+here paces fairly as people move about in typical fashion.  The streets
+continue east and west here.  
+~
+0 0 0
+D1
+~
+~
+0 0 54057
+D3
+~
+~
+0 0 54060
+S
+#54060
+Northwest Main Street~
+Well-made bricks overlay the street providing a path and comfort for
+those moving from one place to another here.  The street is wide enough to
+allow travellers to move easily here.  The ground is somewhat scattered with
+soil as a janitor is in need to sweep up the road here.  The street makes a
+sharp turn to the north here.  To the east, the streets are more outspoken
+with a traffic of people walking about.  
+~
+0 0 0
+D0
+~
+~
+0 0 54061
+D1
+~
+~
+0 0 54059
+S
+#54061
+A Curved Streetway~
+The street suddenly curves to the west as the path itself takes you near
+the western gates of Cargan.  A lot of grunting and clanking of stones can be
+heard at the north where the cityguards dwell during their offtime from
+patrolling the streets.  
+~
+0 0 0
+D0
+~
+~
+0 0 54063
+D2
+~
+~
+0 0 54060
+D3
+~
+~
+0 0 54062
+S
+#54062
+An Eastern Turn~
+This short walkway turns to the east quickly further into the village. 
+Several portraits of lost warriors from the past hang on the northern and
+western walls.  Small candles are hung beside them as well.  
+~
+0 0 0
+D1
+~
+~
+0 0 54061
+D2
+~
+~
+0 0 54002
+S
+#54063
+The Empty Room~
+Not much is visible in this empty quarters.  An exit lies to the south.  
+~
+0 8 0
+D2
+~
+~
+0 0 54061
+S
+#54064
+The Quarters of the Guards~
+Several ripped up bedsheets and a large bunk lie along the western walls
+here.  A huge set of aged stone weights lie around the floor.  Not much is
+to be seen here but torn pictures of guards that once held post in this
+village.  The north takes you back into the streets.  
+~
+0 8 0
+D0
+~
+~
+0 0 54004
+S
+#54065
+The Quarters of the Guards~
+Several ripped beds lie about against the eastern wall here.  A huge set
+of broken marble lie about in rubbles as the room in here is practically
+empty.  The only exit is to the south where more life is known than in here.
+~
+0 8 0
+D2
+~
+~
+0 0 54037
+S
+#54066
+The Ruined Quarters~
+This use to be the housings for the cityguards of Carga.  Not much is
+visible here but old papers flying about here and broken walls.  The exit
+lies to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 54031
+S
+#0
+
+
+
+#SPECIALS
+M 54000 spec_cast_cleric
+M 54007 spec_guard
+M 54010 spec_cast_cleric
+M 54011 spec_cast_mage
+M 54012 spec_cast_mage
+M 54013 spec_poison
+M 54020 spec_dog_pee
+M 54023 spec_high_mage
+M 54026 spec_impale
+M 54037 spec_cast_undead
+M 54038 spec_breath_fire
+M 54043 spec_impale
+M 54044 spec_high_mage
+M 54057 spec_prog2
+S
+
+
+
+#RESETS
+D 0 54000 1 1
+D 0 54001 3 1
+M 0 54012 1 54000 1
+E 0 54067 0 27
+M 0 54007 4 54000 2
+M 0 54038 1 54001 1
+E 0 54072 0 12
+M 0 54037 1 54001 1
+M 0 54034 6 54002 2
+E 0 54050 0 13
+E 0 54049 0 9
+M 0 54025 3 54003 1
+M 0 54030 2 54004 2
+M 0 54036 4 54005 2
+E 0 54051 0 21
+M 0 54031 12 54006 2
+M 0 54025 3 54007 1
+M 0 54020 4 54007 1
+M 0 54026 4 54007 1
+E 0 54040 0 1
+E 0 54041 0 20
+E 0 54042 0 5
+E 0 54043 0 16
+M 0 54000 1 54008 1
+O 0 54001 0 54008
+M 0 54034 6 54009 2
+E 0 54050 0 13
+E 0 54049 0 9
+M 0 54027 8 54009 2
+M 0 54008 8 54009 2
+M 0 54001 1 54011 1
+G 0 54003 0
+G 0 54002 0
+M 0 54029 3 54012 1
+E 0 54045 0 13
+E 0 54044 0 23
+M 0 54013 6 54013 2
+M 0 54042 1 54013 1
+E 0 54056 0 1
+M 0 54031 12 54013 2
+M 0 54013 6 54014 2
+M 0 54028 3 54014 1
+M 0 54022 2 54014 1
+M 0 54020 4 54014 1
+M 0 54013 6 54022 2
+M 0 54041 1 54022 1
+E 0 54055 0 6
+M 0 54027 8 54022 2
+M 0 54023 4 54022 1
+M 0 54023 4 54025 1
+M 0 54002 1 54025 1
+G 0 54024 0
+G 0 54004 0
+G 0 54005 0
+G 0 54006 0
+G 0 54007 0
+G 0 54008 0
+G 0 54009 0
+M 0 54020 4 54026 1
+M 0 54026 1 54026 1
+E 0 54040 0 1
+E 0 54041 0 20
+E 0 54042 0 5
+E 0 54043 0 16
+M 0 54008 8 54026 2
+M 0 54027 8 54027 1
+M 0 54026 4 54027 1
+E 0 54040 0 1
+E 0 54041 0 20
+E 0 54042 0 5
+E 0 54043 0 16
+M 0 54003 1 54028 1
+G 0 54010 0
+G 0 54015 0
+G 0 54014 0
+G 0 54013 0
+G 0 54012 0
+G 0 54011 0
+M 0 54035 2 54029 1
+E 0 54073 0 5
+M 0 54031 12 54029 2
+M 0 54033 1 54033 1
+E 0 54048 0 4
+E 0 54047 0 14
+M 0 54020 4 54034 1
+M 0 54007 4 54035 2
+M 0 54031 12 54038 2
+M 0 54029 3 54039 1
+E 0 54044 0 23
+E 0 54045 0 13
+M 0 54021 4 54039 1
+M 0 54026 4 54040 1
+E 0 54040 0 1
+E 0 54041 0 20
+E 0 54042 0 5
+E 0 54043 0 16
+M 0 54004 1 54041 1
+G 0 54016 0
+G 0 54017 0
+G 0 54018 0
+M 0 54040 1 54042 1
+E 0 54054 0 3
+E 0 54053 0 16
+E 0 54052 0 8
+M 0 54031 12 54042 2
+M 0 54008 8 54042 2
+M 0 54028 3 54043 1
+M 0 54006 1 54044 1
+G 0 54021 0
+G 0 54023 0
+G 0 54022 0
+M 0 54036 4 54045 2
+E 0 54051 0 21
+M 0 54043 1 54053 1
+E 0 54068 0 14
+M 0 54044 1 54054 1
+E 0 54069 0 16
+M 0 54034 6 54054 2
+E 0 54050 0 13
+E 0 54049 0 9
+M 0 54021 4 54054 1
+M 0 54022 2 54055 1
+O 0 54019 0 54055
+M 0 54031 12 54056 2
+M 0 54025 3 54056 1
+M 0 54023 4 54056 1
+M 0 54026 4 54056 1
+E 0 54040 0 1
+E 0 54041 0 20
+E 0 54042 0 5
+E 0 54043 0 16
+M 0 54055 1 54057 1
+E 0 54060 0 18
+M 0 54028 3 54057 1
+M 0 54021 4 54057 1
+M 0 54005 1 54058 1
+G 0 54020 0
+M 0 54056 1 54059 1
+E 0 54070 0 9
+M 0 54008 8 54059 2
+M 0 54032 1 54060 1
+E 0 54046 0 18
+M 0 54039 1 54061 1
+M 0 54027 8 54061 3
+M 0 54011 1 54062 1
+E 0 54071 0 23
+M 0 54033 2 54062 1
+E 0 54048 0 3
+E 0 54047 0 14
+M 0 54057 1 54063 1
+E 0 54058 0 1
+E 0 54059 0 13
+E 0 54065 0 28
+E 0 54064 0 3
+E 0 54063 0 17
+E 0 54062 0 6
+E 0 54066 0 9
+M 0 54021 4 54063 1
+M 0 54035 2 54065 1
+E 0 54073 0 5
+M 0 54023 4 54065 1
+M 0 54029 3 54066 1
+E 0 54045 0 13
+E 0 54044 0 23
+S
+
+
+
+#SHOPS
+54001 0 0 0 0 0 110 90 0 23
+54002 0 0 0 0 0 110 90 0 23
+54003 0 0 0 0 0 110 90 0 23
+54004 0 0 0 0 0 110 90 0 23
+54005 0 0 0 0 0 110 90 0 23
+54006 0 0 0 0 0 110 90 0 23
+0
+
+
+
+#MOBPROGS
+#54000
+grin
+Emote roars, 'Let me heal you... Trust me!'
+~
+#54001
+mob echo A ghost howls here.
+mob echo 'How can I help theeeeeeeee?'
+~
+#54002
+mob echo The evil hag laughs wickedly!!
+say kakakakakakakaka.. can I help you?
+~
+#54003
+mob echo The buccaneer growls at your presence..
+say Ay ya blimey rut... what does thou want? You ain from around here!
+~
+#54004
+grin
+'You need a weapon kiddo??
+~
+#54005
+cackle
+'Does thou wanna try my turtle guts???
+mob echo The witch cackles loudly!!!
+~
+#54006
+mob echo P-P-pleeeease... just let me be and go about my b-bbusiness!!
+mob echo The poor man is frightened outta his pants!
+~
+#54012
+mob echo You suddenly halt as the old man steps in front of the barricade.
+'im sorry but all passages westward have been blocked out.
+'You must return back into the village.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

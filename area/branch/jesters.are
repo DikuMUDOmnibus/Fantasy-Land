@@ -1,0 +1,525 @@
+#AREADATA
+Name [Clan Hall Jesters]~
+Builders Laniessa~
+VNUMs 29450 29499
+Credits [Clan Hall] Laniessa Jesters~
+Security 1
+End
+
+
+
+#MOBILES
+#29450
+grade school cafeteria lady~
+{RG{Gr{Ba{Yd{Ce {Dsc{Mh{Ro{Go{Yl {Cc{Da{Mf{Re{Gt{Ye{Br{Ci{Ma {Dl{Ra{Gd{By{x~
+{DYour {Rg{Gr{Ba{Yd{Ce {Dsc{Mh{Ro{Go{Yl {Cc{Da{Mf{Re{Gt{Ye{Br{Ci{Ma {Dl{Ra{Gd{By{x {Dis here selling sloppy joes!{x
+~
+~
+human~
+AB 0 0 0 0
+152 1200 30d200+1000000 30d200+20000 30d200+20000 none
+120 120 120 120
+0 CDHJKNQ 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+M GRALL 29450 100~
+#29454
+coat rack~
+{RC{Go{Ya{Bt {CR{Ma{Dc{Rk{x~
+A {RC{Go{Ya{Bt {CR{Ma{Dc{Rk{x stands here.
+~
+A coat rack stands here..it's teeth gnashing..
+~
+changeling~
+AB Z 0 0 0
+1 0 40d200+200000 0d0+0 0d0+0 none
+0 0 0 0
+0 CDHJKNQ 0 0
+stand stand none 0
+AGHMV ABCDEFGHIJKQUV medium unknown
+F res CL
+F vul IR
+#29455
+handlebar mustache~
+{RH{Ga{Yn{Cd{Ml{Re{Gb{Ya{Cr {Ym{Mu{Rs{Gt{Ya{Cc{Mh{Re{x~
+{DA {RH{Ga{Yn{Cd{Ml{Re{Gb{Ya{Cr {Ym{Mu{Rs{Gt{Ya{Cc{Mh{Re{x {Dhovers here{x
+~
+~
+human~
+AB 0 0 0 0
+200 1200 20d100+200000 0d0+0 10d1000+10000 none
+120 120 120 120
+0 CDHJK 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+M GREET 29455 100~
+#29460
+standing fireplace~
+{Rc{ro{Yz{yy {Rf{ri{Yr{ye{Rp{rl{Ya{yc{Re{x~
+{YA {Rc{ro{Yz{yy {Rf{ri{Yr{ye{Rp{rl{Ya{yc{Re {Rb{ru{Yr{yn{Rs {Yb{yr{wi{Wg{wh{Yt{yl{Yy{x
+~
+~
+phoenix~
+ABM DFJLTc 0 0 0
+3000 21000 1578d5700+3000000 1500d4500+2250000 600d1500+24000 none
+-2136 -2136 -2136 -1527
+FK BH LQ IN
+stand stand none 0
+ACHW ABCDEFGHIJKPU huge fire
+M GREET 29454 100~
+#29462
+jello cube~
+{CA {cm{Go{gu{Yn{yd {wo{Df {RJ{re{Rl{rl{Ro{x~
+{CA {cm{Go{gu{Yn{yd {wo{Df {RJ{re{Rl{rl{Ro{x oozes here.
+~
+~
+water fowl~
+ABJKZabc Tb 0 0 0
+152 1200 20d1000+10000 20d1000+20000 20d1000+10000 divine
+10 10 10 10
+0 CDHJKL R 0
+stand stand none 20000
+CGW ACDEFHKP medium unknown
+#0
+
+
+
+#OBJECTS
+#29450
+Jelly bean couch~
+{RJ{Ye{Gl{Ml{By {CB{me{ca{Dn {RC{Yo{Cu{Mc{Bh{x~
+A {RJ{Ye{Gl{Ml{By {CB{me{ca{Dn {RC{Yo{Cu{Mc{Bh{x sits here against the wall.~
+jelly bean~
+furniture 0 0
+10 200000 EHKL 700 700
+2 100000 0 P
+#29451
+purple lion~
+{CF{cl{Wu{Df{cf{Cy {mpurple {Yl{yi{Yo{yn{x~
+A {Cf{cl{Wu{Df{cf{Cy {mpurple {Yl{yi{Yo{yn{x has been thrown in the corner.~
+cloth~
+treasure AB AO
+0 0 0 0 0
+1 0 0 P
+#29452
+jesters quest pill~
+{RQ{Gu{Ye{Bs{Ct {MP{Di{Rl{Gl{x~
+A {RQ{Gu{Ye{Bs{Ct {MP{Di{Rl{Gl{x lies here Yummy!~
+unknown~
+pill AB AO
+151 'curse' 'blindness' 'weaken' 'frost storm'
+1 0 1000 P
+#29453
+multi-colored cot~
+{rm{yu{cl{gt{bi-{Rc{Yo{Gl{Co{Br{Me{Rd {Yc{Go{Ct{x~
+A {rm{yu{cl{gt{bi-{Rc{Yo{Gl{Co{Br{Me{Rd {Yc{Go{Ct{x is pressed against the wall.~
+unknown~
+furniture 0 0
+2 20000 HK 400 400
+1 100000 0 P
+#29454
+standing fireplace~
+{Rc{ro{Yz{yy {Rf{ri{Yr{ye{Rp{rl{Ya{yc{Re{x~
+{YA {Rc{ro{Yz{yy {Rf{ri{Yr{ye{Rp{rl{Ya{yc{Re{x {Rb{ru{Yr{yn{Rs{x {Yb{yr{wi{Wg{wh{Yt{yl{Yy.{x~
+unknown~
+furniture AB 0
+10 20000 EH 500 500
+1 100000 0 P
+#29455
+Jesters heal curse removal potion~
+{RJ{Ge{Ys{Bt{Ce{Mr{Rs {GC{Yu{Br{Ce {MA{Rl{Dl {GP{Co{Yt{Ri{Yo{Dn{x~
+A {RJ{Ge{Ys{Bt{Ce{Mr{Rs {GC{Yu{Br{Ce {MA{Rl{Dl {GP{Co{Yt{Ri{Yo{Dn{x twinkles here.~
+unknown~
+potion ABYef AO
+151 'cheal' 'refresh' 'cure blindness' 'remove curse'
+1 0 10000 P
+#29456
+jesters clan patch jellybean~
+{RJ{Ge{Yl{Bl{Cy{Mb{De{Ra{Gn {YP{Ba{Ct{Mc{Dh{x~
+A {RJ{Ge{Yl{Bl{Cy{Mb{De{Ra{Gn {YP{Ba{Ct{Mc{Dh{x??!~
+jellybeans~
+armor AB AOU
+14 14 14 14 0
+1 0 100000 P
+A
+13 250
+A
+18 90
+A
+19 90
+A
+20 -60
+#29457
+Portal to Kratas~
+{RPortal to Kratas{x~
+{RPortal to Kratas{x~
+unknown~
+portal AB 0
+0 0 0 31010 0
+1 10000 0 P
+#29458
+sloppy joe~
+{Rs{rl{Yo{yp{rp{Ry joe{x~
+A yummy {Rs{rl{Yo{yp{rp{Ry joe{x is here begging you to eat it.~
+unknown~
+food AB AO
+12 4 0 0 0
+1 0 800 P
+#29459
+lemonade~
+a bottle of {Yl{ye{Ym{yo{Yn{ya{Yd{ye{x~
+A bottle of {Yl{ye{Ym{yo{Yn{ya{Yd{ye{x has been thrown here.~
+unknown~
+fountain AB AO
+12 12 'lemonade' 0 0
+1 0 800 P
+#29460
+bubble~
+{Da {Cb{cu{Wb{wb{cl{Ce{x~
+{DA {Cb{cu{Wb{wb{cl{Ce{x {Dfloats here.{x~
+unknown~
+furniture AB 0
+2 10000 EHK 400 400
+151 1000000 0 P
+#29461
+cake ~
+{wc{Wa{wk{We {Dw{Wi{wt{Mh {Mpink {wf{Wr{Mo{ws{Wt{Mi{Wn{wg{x~
+A piece of {wc{Wa{wk{We {Dw{Wi{wt{Mh {Mpink {wf{Wr{Mo{ws{Wt{Mi{Wn{wg.{x~
+unknown~
+food AB AO
+12 12 0 0 0
+1 0 800 P
+#29462
+glaring grilled cheese sandwhich~
+{rglaring {ygrilled {Ycheese {ws{Wandwhich{x~
+A {rglaring {ygrilled {Ycheese {ws{Wandwhich{x is here looking tasty.~
+unknown~
+food AB AO
+12 10 0 0 0
+1 0 800 P
+#29463
+bed of golden coins~
+{wb{We{wd {Wo{wf {yg{Yo{yl{Yd{ye{Yn {yc{Yo{yi{Yn{ys{x~
+A huge bed of {Yg{y{Yo{yl{yd{Ye{yn {Yc{yo{Yi{yn{ys.{x~
+gold~
+furniture A 0
+2 10000 EHK 400 600
+1 0 0 P
+#29464
+bed~
+{Ra {Gs{Yq{Bu{Ca{Mr{De {Ro{rf {Gr{ga{Yi{yn{Bb{bo{Mw {ml{Ca{cy{De{Wr{Re{Yd {GJ{Be{Cl{Ml{Do{x~
+{Ra {Gs{Yq{Bu{Ca{Mr{De {Ro{rf {Gr{ga{Yi{yn{Bb{bo{Mw {ml{Ca{cy{De{Wr{Re{Yd {GJ{Be{Cl{Ml{Do{x~
+unknown~
+furniture 0 0
+2 10000 EHK 600 600
+1 10000 0 P
+#0
+
+
+
+#ROOMS
+#29450
+{RT{Yh{Ge {BJ{Me{Ds{Gt{We{wr{Cs {RL{Yo{Gu{Bn{Mg{De{x~
+You are brought to the Jesters Lounge, a place for rest and relaxation! 
+Even the best need a break from the constant trickery and joking around. 
+Pull up a chair and rest for awhile, although there is no gurantee that
+there isn't a whoopie cushion in your seat somewhere.  
+~
+0 4 0
+D0
+~
+~
+0 0 29451
+D3
+~
+~
+0 0 29462
+D5
+~
+~
+0 0 3014
+S
+#29451
+{RH{Ya{Gl{Bl{Cw{Ma{Dy{x~
+Before you is a hallway in the grand clan hall of the Jesters.  A purple
+lion lies abandoned in the corner of the room.  On a happier note you see a
+huge {YN{GE{YO{GN{x sign welcoming you to Jesters.  
+~
+0 0 0
+D0
+~
+~
+0 0 29454
+D1
+~
+~
+0 0 29453
+D2
+~
+~
+0 0 29450
+D3
+~
+~
+0 0 29452
+S
+#29452
+{RR{Ga{Yn{Ck {M1 {BB{De{Rd{Gr{Yo{Co{Mm{x~
+You found your way into your own room!  Good for you, you see a few
+multi-colored cots packed tightly into the small room.  There isn't alot of
+room but somehow you feel at home.  A roaring fire warms you as you rest
+your weary bones.  On the other side of the room a coat rack awaits your
+coats, as you sit here looking at it you realize the coat rack has teeth.. 
+Why does it have teeth you wonder...  
+~
+0 0 0
+D1
+~
+~
+0 0 29451
+S
+#29453
+{RR{Ga{Yn{Ck {M1 {BB{De{Rd{Gr{Yo{Co{Mm{x~
+You found your way into your own room!  Good for you, you see a few
+multi-colored cots packed tightly into the small room.  There isn't alot of
+room but somehow you feel at home.  A roaring fire warms you as you rest
+your weary bones.  On the other side of the room a coat rack awaits your
+coats, as you sit here looking at it you realize the coat rack has teeth.. 
+Why does it have teeth you wonder...  
+~
+0 0 0
+D3
+~
+~
+0 0 29451
+S
+#29454
+{GH{Ca{Yl{Rl{Bw{Da{Gy{x~
+This room connects the main bedrooms of the guild.  There is one door in
+each direction.  In the middle of the room a standing fireplace embraces you
+with warmth, there's a slot for your ideas glowing brightly.  
+~
+0 0 0
+D0
+~
+~
+0 0 29458
+D1
+~
+~
+0 0 29456
+D2
+~
+~
+0 0 29451
+D3
+~
+~
+0 0 29455
+R GRALL 29454 100~
+S
+#29455
+{RJ{Ye{Gs{Bt{Ce{Mr{Ds {RS{Yh{Go{Bp{x~
+{DRows and rows of items line these walls.  Some items are floating in
+mid-air and try to convince you to buy them!  A Handlebar mustache floats up
+to you eagerly wanting to show you his wares.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 29454
+S
+#29456
+{RT{rh{we {bJ{Ge{gs{Yt{ye{Cr{cs {MD{mo{Dn{Ra{Gt{Yi{Bo{Mn {CR{Do{Ro{Wm{x~
+In the middle of the room a large painting covers the floor drawing your
+attention to it, upon investigation you realize it's a portal filled with
+swords, armor, teddy bears and a sock?!  Upon closer inspection you find a
+note that reads "Thank you for your donation please put something in the
+painting the vacuums and mops are on strike so we would appreciate your part
+in helping keep our clan hall clean!  Remember to use trickery every day, a
+healthy Jester is a fun Jester!!!  
+~
+0 0 0
+D1
+~
+~
+0 0 29457
+D3
+~
+~
+0 0 29454
+S
+#29457
+{RJ{Ge{Ys{Bt{Ce{Mr{Rs {GP{Ye{Br{Cs{Mo{Rn{Ga{Yl {BP{Co{Mr{Gt{Ra{Dl {CR{Mo{Yo{Gm{x~
+A big {Rred{x button is on the farthest wall, daring you to push it!!  There
+are a few portals ready for you to enter..  Careful now & have your cake
+ready..  Tally-ho!!  
+~
+0 0 0
+D3
+~
+~
+0 0 29456
+S
+#29458
+{RH{Ga{Yl{Bl{Cw{Ma{Dy{x~
+A gigantic obsidian door with a black key hole has a scary essense to it
+and makes you want to look away.  Above the door frame a sign reads Jotvers
+lair.  To the east you see a bubble floating near the only door which seems
+to be changing colors the sign reads "Meraevols secret hidey hole", there
+doesn't seem to be a keyhole anywhere.  Muffled laughter comes from the west
+where you see a lovely white door, above the door frame a golden sign reads
+"Dorisu's room".  All that's left is the way you came, the south seems
+normal enough.  
+~
+0 0 0
+D0
+~
+~
+0 0 29459
+D1
+~
+~
+0 0 29460
+D2
+~
+~
+0 0 29454
+D3
+~
+~
+0 0 29461
+S
+#29459
+{RJ{ro{Rt{rv{Re{rr{Rs {rL{Ra{ri{Rr{x~
+Billions of pinned butterflies align every single wall in this brightly
+colored lair.  
+~
+0 0 0
+D2
+~
+~
+0 0 29458
+S
+#29460
+{CM{ce{Mr{ma{De{mv{Mo{cl{Cs {Ch{cidey {Ch{cole{x~
+You have entered meraevol's bedroom, on the far wall you see a lovely
+window over looking the ocean.  The window is slightly open and you can
+smell the ocean air and hear the waves.  Under the window you see a huge
+square of layered rainbow jello with a fluffy comforter made of red cotton
+candy and a marshmellow pillow.  The floor is littered with tons of multi-
+colored jelly beans that seem to be hopping around madly, little wispy
+{cb{wu{cb{wb{wl{ce{ws{x float around the room tickling your nose.  
+~
+0 0 0
+D3
+~
+~
+0 0 29458
+S
+#29461
+{MDori{Msu's {DO{Ca{cs{Ci{Ds{x~
+Upon opening the door, scents of citrus and honeysuckle waft past.  The
+walls are a deep coffee color, with {!m{@u{#l{$t{%i{x-{!c{@o{#l{$o{%r{^e{&d{x glass and copper lanterns
+casting flickering rainbows over everything.  Huge feather pillows are piled
+in the corners of the room for guests to sit on, with an ancient looking
+silver tea pot steaming slightly on a table in the middle of the room.  A
+four-post bed can be almost seen behind a giant screen covered with albino
+peacocks and lush jungle scenery.  A tall window with gauzy {^teal{x drapery
+opens to the west with a view of a beautiful oasis at sunset.  
+~
+0 0 0
+D1
+~
+~
+0 0 29458
+S
+#29462
+{YH{ye{Wa{wl{Ye{yr{ws {WH{ya{Yl{wl{Ww{ya{Yy{x~
+As you enter the hallway to the healers room's you stop suddenly, as you
+realize its raining cubed jello in every flavor!  Now in cake flavor!  You
+wade through the fast growing mounds of jello and make your way through the
+sticky mess bleeding no doubt almost there!  For some reason the jello is
+soothing and that is scary although it is jello.  
+~
+0 0 0
+D1
+~
+~
+0 0 29450
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 29450 0 29450
+M 0 29450 1 29450 1
+G 0 29462 0
+G 0 29461 0
+G 0 29459 0
+G 0 29458 0
+O 0 29451 0 29451
+O 0 29453 0 29452
+O 0 29453 0 29452
+M 0 29454 1 29452 1
+O 0 29453 0 29453
+O 0 29453 0 29453
+M 0 29454 1 29453 1
+M 0 29460 1 29454 1
+M 0 29455 1 29455 1
+G 0 29456 0
+G 0 29455 0
+G 0 29452 0
+O 0 29457 0 29457
+O 0 29463 0 29459
+O 0 29460 0 29460
+O 0 29464 0 29460
+M 0 29462 1 29462 1
+S
+
+
+
+#SHOPS
+29450 0 0 0 0 0 100 100 0 23
+29455 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#29450
+say Can the grilled cheese!
+~
+#29454
+mob echo A raging {Rf{ri{Yr{ye{x pops and crackles sending {rh{Ro{rt{x tinder and {Washes{x into the air
+~
+#29455
+say What do you want $n?
+~
+#0
+
+#OBJPROGS
+#29454
+echo A roaring fire crackles and pops sending hot tinder into the air.
+mob damage lethal 200
+~
+#0
+
+#ROOMPROGS
+#29454
+room damage all 100 1000 lethal
+~
+#0
+
+#$

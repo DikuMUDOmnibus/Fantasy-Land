@@ -1,0 +1,674 @@
+#PLAYER
+Name Khor~
+Race elf~
+Levl 20
+Clas thief~
+Pkpt 100
+TSex 1
+LogO 1271340539
+Sock cm29.kappa200.maxonline.com.sg~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1271159380
+Plat 0
+Gold 15
+Silv 51
+Exp  36590
+Attr 18 14 20 22 17
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+AfBy DFL
+ShBy CDEH
+Comm N
+Pos  4
+Alig  -222
+Sk 1 'axe'
+Sk 75 'backstab'
+Sk 1 'circle'
+Sk 76 'dagger'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'dual wield'
+Sk 1 'flail'
+Sk 75 'haggle'
+Sk 1 'hide'
+Sk 75 'kick'
+Sk 1 'knife fighter'
+Sk 1 'lore'
+Sk 1 'mace'
+Sk 1 'parry'
+Sk 1 'peek'
+Sk 57 'pick lock'
+Sk 1 'polearm'
+Sk 1 'quarterstaff'
+Sk 75 'recall'
+Sk 1 'scrolls'
+Sk 1 'second attack'
+Sk 1 'sneak'
+Sk 1 'spear'
+Sk 1 'staves'
+Sk 1 'steal'
+Sk 1 'sword'
+Sk 1 'trip'
+Sk 1 'wands'
+Sk 1 'whip'
+MaxDam 72
+LLev 0
+Pass KhhDcfCqOJAbk~
+Plyd 1784
+Note 0 0 0 0 0
+Room 3812
+HMVN 1166 1106 743 618 830 787
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 13 13
+Deviant 0 0
+Prac 42
+Trai 14
+Devote current 0
+Pnts 40
+Mkil 70
+Mdea 1
+Alias ue unlock east~
+Alias oe open east~
+Alias un unlock north~
+Alias us unlock south~
+Alias uw unlock west~
+Alias ow open west~
+Alias os open south~
+Alias on open north~
+Alias con consider $1~
+Alias b backstab $1~
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+Gr 'weaponsmaster'
+Affc 'detect invis'   0  14   0  -1   0   0          8
+Affc 'detect hidden'   0  14   0  -1   0   0         32
+Affc 'fireshield'   1 322   0  58   0   0          8
+Affc 'farsight'   0   1   0  -1   0   0       2048
+Affc 'armor'   0 322   0  58 -323  17          0
+Affc 'shockshield'   1 293   0  57   0   0         16
+Affc 'sanctuary'   1 292   0  44   0   0        128
+Affc 'wisdom'   0 323   0  27  10   4          0
+Affc 'iceshield'   1 294   0  58   0   0          4
+End
+
+#O
+Vnum 3030
+Nest 0
+Wear 0
+Valu 2 1 41
+End
+
+#O
+Vnum 3030
+Nest 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+Valu 2 1 177
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 17
+Wear 15
+End
+
+#O
+Vnum 3711
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 18
+Wear 12
+End
+
+#O
+Vnum 3726
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 18
+Wear 21
+End
+
+#O
+Vnum 3724
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 18
+Wear 1
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 18
+Wear 25
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 18
+Wear 24
+End
+
+#O
+Vnum 812
+Nest 0
+Name Sharp staff Kefka special~
+ShD  Sharp staff of Kefka~
+Loader MPOP: (04:54-04/13/2010) Khor~
+Lev  6
+Cost 75
+Valu 3 5 charge
+Affc 'reserved' 2 1 -1 6 18 0
+Affc 'reserved' 2 1 -1 1 19 0
+Affc 'reserved' 2 1 -1 3 5 0
+Affc 'reserved' 2 1 -1 199 12 0
+Affc 'reserved' 2 1 -1 -3 20 0
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 18
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 18
+Wear 13
+End
+
+#O
+Vnum 3725
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 18
+Wear 26
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+Valu 2 1 170
+End
+
+#O
+Vnum 3727
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 19
+End
+
+#O
+Vnum 3709
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 20
+Wear 9
+End
+
+#O
+Vnum 3710
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 20
+Wear 10
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 20
+Wear 14
+End
+
+#O
+Vnum 3727
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 20
+Wear 20
+End
+
+#O
+Vnum 3728
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 20
+Wear 27
+End
+
+#O
+Vnum 3715
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 22
+End
+
+#O
+Vnum 9920
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 26
+End
+
+#O
+Vnum 9939
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 26
+End
+
+#O
+Vnum 9936
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 26
+End
+
+#O
+Vnum 9917
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 27
+End
+
+#O
+Vnum 3802
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 28
+End
+
+#O
+Vnum 3802
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 28
+End
+
+#O
+Vnum 14714
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 29
+End
+
+#O
+Vnum 14705
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 29
+End
+
+#O
+Vnum 14704
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 29
+End
+
+#O
+Vnum 14703
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 29
+End
+
+#O
+Vnum 14702
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 29
+Wear 4
+End
+
+#O
+Vnum 14701
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 29
+End
+
+#O
+Vnum 14748
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+End
+
+#O
+Vnum 14746
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+End
+
+#O
+Vnum 14749
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+End
+
+#O
+Vnum 14748
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+End
+
+#O
+Vnum 14747
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+End
+
+#O
+Vnum 14746
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+End
+
+#O
+Vnum 14745
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+End
+
+#O
+Vnum 14739
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+End
+
+#O
+Vnum 14738
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+Valu 2 1 -1
+End
+
+#O
+Vnum 14737
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+End
+
+#O
+Vnum 14736
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+End
+
+#O
+Vnum 14735
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 30
+End
+
+#O
+Vnum 14718
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 31
+End
+
+#O
+Vnum 14730
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 31
+End
+
+#O
+Vnum 14734
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 31
+End
+
+#O
+Vnum 14734
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 31
+End
+
+#O
+Vnum 14733
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 31
+End
+
+#O
+Vnum 14732
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 31
+End
+
+#O
+Vnum 14731
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 31
+End
+
+#O
+Vnum 14730
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 31
+End
+
+#O
+Vnum 14717
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 31
+End
+
+#O
+Vnum 14729
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+End
+
+#O
+Vnum 14728
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+End
+
+#O
+Vnum 14727
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+End
+
+#O
+Vnum 14726
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+End
+
+#O
+Vnum 14725
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+End
+
+#O
+Vnum 14741
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+End
+
+#O
+Vnum 14742
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+End
+
+#O
+Vnum 14701
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+Wear 5
+End
+
+#O
+Vnum 14702
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+Wear 3
+End
+
+#O
+Vnum 14703
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+Wear 6
+End
+
+#O
+Vnum 14704
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+Wear 8
+End
+
+#O
+Vnum 14705
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+Wear 16
+End
+
+#O
+Vnum 14713
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 32
+Wear 17
+End
+
+#O
+Vnum 31026
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 37
+End
+
+#O
+Vnum 31012
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 38
+End
+
+#O
+Vnum 2506
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 44
+End
+
+#O
+Vnum 3050
+Nest 0
+Cost 334
+End
+
+#O
+Vnum 3805
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 46
+End
+
+#O
+Vnum 3805
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 46
+End
+
+#O
+Vnum 3817
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 46
+End
+
+#O
+Vnum 3805
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 47
+End
+
+#O
+Vnum 3807
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 47
+End
+
+#O
+Vnum 3810
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 47
+End
+
+#O
+Vnum 3807
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 47
+End
+
+#O
+Vnum 3840
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 47
+End
+
+#O
+Vnum 3840
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 47
+End
+
+#O
+Vnum 3840
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 47
+End
+
+#O
+Vnum 3840
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 47
+End
+
+#O
+Vnum 3842
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 47
+End
+
+#O
+Vnum 3848
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 49
+End
+
+#O
+Vnum 3838
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 49
+End
+
+#O
+Vnum 3807
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 49
+End
+
+#O
+Vnum 3805
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 50
+End
+
+#O
+Vnum 3805
+Nest 0
+MULTI Khor~ cm29.kappa200.maxonline.com.sg~ 50
+End
+
+#END

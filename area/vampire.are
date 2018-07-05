@@ -1,0 +1,2361 @@
+#AOD_AREA
+Vampires' Den~
+14601 14700 0 9
+Levl 20 45
+Bldr Genjuro~
+Alig E
+End
+
+#MOBILES
+#14601
+rat giant rabid~
+A giant rabid rat~
+A giant rat is here, chewing upon a dry bone.
+~
+The rat is HUGE.  Its beady black eyes regard you with a frenzied anger
+as it drops the bone it has been gnawing upon and prepares to leap upon you.
+~
+human~
+100 100 0 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFT DFZc 0 -1000 0
+22 1 0 239 332 169 237 4 5 10 bite
+-20 -20 -20 40
+STANDING STANDING female 1
+0 mage large ABCDEFGHIJK
+P 12 0
+
+#14602
+bat giant vampire~
+a giant vampire bat~
+A giant vampire bat is here, screeching at you.
+~
+This giant bat screeches insanely and swoops down at you.  
+~
+human~
+100 100 0 100 100 100 50 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFT DFZ CDEHIJKLMNOPQRSTUVWXYZabcdef -1000 0
+20 1 0 229 313 186 238 4 5 10 bite
+-20 -20 -20 -20
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+E 300
+P 12 1
+
+#14603
+vampire minor~
+The minor Vampire~
+A minor vampire is here, looking for someone to bite.
+~
+Cloaked in darkness, this vampire rushes out at you.  Long, evil fangs
+bared and sharp talons poised, it is more than ready to rip you into bloody
+little pieces and eat you.  
+~
+human~
+100 100 0 0 100 100 150 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCOT DFJTUZc O -1000 0
+25 1 0 400 515 206 263 4 5 15 bite
+-50 -50 -50 -10
+STANDING STANDING male 10
+0 mage medium ABCDEFGHIJK
+
+#14604
+vampire medium~
+The vampire~
+A vampire is here, feeding off a corpse.
+~
+As you gaze upon this vampire, a shudder runs through you.  Bloodsoaked
+fangs gleam evilly in the light as its hyponotic stare catches your eyes.  
+~
+human~
+100 100 0 0 100 100 150 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFOT DFJTUZc BO -1000 0
+30 3 0 608 836 286 350 5 6 15 frbite
+-90 -90 -90 -10
+STANDING STANDING female 20
+0 mage medium ABCDEFGHIJK
+P 1 0
+
+#14605
+thrall human~
+The human thrall~
+A human thrall is here, looking for a vampire master to please.
+~
+This poor, pitiful human is the thrall of a vampire.  Serving only to
+please its lords and masters, the thrall as sunken to new lows of
+self-abasement.  
+~
+human~
+100 100 100 50 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCT Z 0 0 0
+32 1 0 489 615 163 210 4 5 14 beating
+-50 -50 -50 -10
+STANDING STANDING female 1
+0 mage medium ABCDEFGHIJK
+
+#14606
+leech giant~
+The giant leech~
+A giant leech is swimming here.
+~
+EWWWWWW!  This gigantic leech swims about in the pool of blood. 
+Disgusted, you try to swim away from it, hoping that it will not notice you.
+~
+human~
+100 100 0 0 100 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFT DFJVZ HO -500 0
+36 5 0 1525 2243 371 473 5 8 20 digestion
+-500 -500 -500 -500
+STANDING STANDING male 50
+0 mage huge ABCDEFGHIJK
+
+#14607
+vampire high~
+The high vampire~
+A large vampire is here, looking for some blood.
+~
+This large vampire is among the deadliest of all Undead.  It hisses once
+at you before leaping.  
+~
+human~
+100 50 0 100 100 100 150 100 150 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABCFOT DFJQTUVZ BHO -1000 0
+40 3 0 682 880 348 454 5 6 20 frbite
+-100 -100 -100 -100
+STANDING STANDING male 20
+0 mage medium ABCDEFGHIJK
+
+#14608
+vampire vlad impaler~
+Vlad the Impaler~
+The master of vampires is here, chewing upon a heart.
+~
+Vlad the Impaler is perhaps the oldest of the undead.  Nobody quite knows
+if he is the first vampire..  Or simply one of the first.  Equal in rage and
+power, he is a force of nature to be reckoned with.  
+~
+human~
+100 50 0 0 100 100 100 100 150 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABCFOT DFJQTUVZc BCHO -1000 0
+47 40 0 1510 1510 1010 1010 5 10 25 divine
+-3000 -3000 -3000 -3000
+STANDING STANDING male 100
+0 mage huge ABCDEFGHIJK
+#0
+
+#OBJECTS
+#14601
+sword evil ancient~
+the Sword of Ancient Evil~
+An ancient sword lies here, filling the room with a sense of great evil.~
+weapon ABCEGHJLMUX AN
+sword 10 10 frbite CD
+45 40 1000
+A 18 5
+A 19 5
+A 13 20
+
+#14602
+cloak frost~
+cloak of Frost~
+A dark black cloak is laying here, freezing the ground around it.~
+armor CEFHJLMX AK
+11 11 11 8 0
+45 10 500
+A 2 2
+A 18 2
+A 19 1
+
+#14603
+heart gnawed~
+a gnawed heart~
+A severed heart is on the floor, laying in a puddle of blood.~
+armor HMX AO
+9 9 9 3 0
+45 5 100
+A 18 1
+A 19 1
+A 5 2
+
+#14604
+armor darkness~
+armor of Darkness~
+A dark suit of armor is gleaming here.~
+armor CEJLX AD
+12 12 12 8 0
+45 40 1000
+A 1 1
+A 17 -1
+A 18 1
+
+#14605
+ring skull~
+a skull ring~
+A small skull is lying on the floor here.~
+armor CGJLX AB
+9 9 9 4 0
+45 5 500
+A 19 3
+A 12 15
+#0
+
+#ROOMS
+#14601
+The Fields of Dusk~
+You have entered a dim field.  Overhead, the sky is dark with
+purplish-black clouds, making the whole field look as if it has been plunged
+in perpetual dusk.  The land here is level and wasted, acres of dead black
+grass and twisted tree stumps.  To the north you can make out the shape of a
+single large tree.  
+~
+4 4
+D0
+~
+~
+0 0 14602
+D1
+~
+~
+0 0 3515
+S
+
+#14602
+The Dead Tree~
+You are standing in front of a large blackish tree.  Some type of disease
+has killed this tree and warped its trunk and branches into a twisted
+mockery of a tree.  The bark is damp yet somewhat chalky to the touch,
+leaving marks of black upon your fingertips.  As you look down, you notice
+the roots of the tree are mangled into a strange shape.  
+~
+4 4
+D2
+~
+~
+0 0 14601
+D5
+~
+roots~
+AB 0 14603
+E
+roots~
+The roots of this tree are stretched and strangled to outline a strange
+rectangular shape.  You marvel at the freak of nature..  Or raw strength it
+took for the roots to be shaped like this.  
+ 
+~
+S
+
+#14603
+Inside the Dead Tree~
+You are inside the dead tree.  There is a tunnel here, leading down,
+carved from within the tree, leading down into the darkness.  Above you are
+the roots of the tree, gnarled and twisted into macabre shapes.  
+~
+8200 0
+D4
+~
+roots~
+A 0 14602
+D5
+~
+~
+0 0 14604
+S
+
+#14604
+Inside the Tunnel~
+You are inside a tunnel carved deep into the earth.  Blackness surrounds
+you and the are is dank and sour.  The slimy sides of the tunnel seem to
+writhe underneath your very touch and worms squirm about, falling into your
+hair.  The tunnel continues up and down.  
+~
+8204 0
+D4
+~
+~
+0 0 14603
+D5
+~
+~
+0 0 14605
+S
+
+#14605
+Inside the Tunnel~
+You are inside a tunnel carved deep into the earth.  Blackness surrounds
+you and the air is dank and sour.  The slimy sides of the tunnel seem to
+writhe underneath your very touch and worms squirm about, falling into your
+hair.  The tunnel continues up and down.  
+~
+8 0
+D4
+~
+~
+0 0 14604
+D5
+~
+~
+0 0 14606
+S
+
+#14606
+Deep within the Tunnel~
+You are deep inside the tunnel beneath the dead tree.  It is muddy here,
+and you begin to slide down the tunnel instead of crawling down at a careful
+pace.  Various worms and insects crawl about, infesting your hair and
+clothes.  You manage to see the bottom of the tunnel further down and the
+way back to the surface lies far above you.  
+~
+12 0
+D4
+~
+~
+0 0 14605
+D5
+~
+~
+0 0 14607
+S
+
+#14607
+The Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D0
+~
+~
+0 0 14608
+D1
+~
+~
+0 0 14612
+D2
+~
+~
+0 0 14613
+D3
+~
+~
+0 0 14611
+S
+
+#14608
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D0
+~
+~
+0 0 14624
+D1
+~
+~
+0 0 14609
+D2
+~
+~
+0 0 14607
+D3
+~
+~
+0 0 14610
+S
+
+#14609
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D2
+~
+~
+0 0 14612
+D3
+~
+~
+0 0 14608
+S
+
+#14610
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D1
+~
+~
+0 0 14608
+D2
+~
+~
+0 0 14611
+S
+
+#14611
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D0
+~
+~
+0 0 14610
+D1
+~
+~
+0 0 14607
+D2
+~
+~
+0 0 14615
+D3
+~
+~
+0 0 14623
+S
+
+#14612
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D0
+~
+~
+0 0 14609
+D2
+~
+~
+0 0 14614
+D3
+~
+~
+0 0 14607
+S
+
+#14613
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D0
+~
+~
+0 0 14607
+D1
+~
+~
+0 0 14614
+D2
+~
+~
+0 0 14616
+D3
+~
+~
+0 0 14615
+S
+
+#14614
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D0
+~
+~
+0 0 14612
+D3
+~
+~
+0 0 14613
+D5
+~
+~
+0 0 14625
+S
+
+#14615
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D0
+~
+~
+0 0 14611
+D1
+~
+~
+0 0 14613
+S
+
+#14616
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D0
+~
+~
+0 0 14613
+D2
+~
+~
+0 0 14617
+S
+
+#14617
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D0
+~
+~
+0 0 14616
+D3
+~
+~
+0 0 14618
+S
+
+#14618
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D1
+~
+~
+0 0 14617
+D3
+~
+~
+0 0 14619
+S
+
+#14619
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D1
+~
+~
+0 0 14618
+D3
+~
+~
+0 0 14620
+S
+
+#14620
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D0
+~
+~
+0 0 14621
+D1
+~
+~
+0 0 14619
+D5
+~
+~
+0 0 14625
+S
+
+#14621
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D0
+~
+~
+0 0 14622
+D2
+~
+~
+0 0 14620
+S
+
+#14622
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D1
+~
+~
+0 0 14623
+D2
+~
+~
+0 0 14621
+S
+
+#14623
+Caverns of the Undead~
+You have reached a dark cavern.  Stalactites and stalagmites jut out from
+the floor and low ceiling, their jagged points gleaming wickedly Small pools
+of dank water are scattered about, making your footing here unstable in the
+almost non-existant lighting.  
+~
+8 0
+D1
+~
+~
+0 0 14611
+D3
+~
+~
+0 0 14622
+S
+
+#14624
+The Entrance to the Dens~
+This is the entrance to the Vampires' Den.  Moans of pain and pleasure
+can be heard echoing against the damp walls.  Flickers of a reddish amber
+light the Dens, sending strange shadows racing about you.  The smell of
+blood is thick here.  
+~
+8 0
+D0
+~
+~
+0 0 14626
+D2
+~
+~
+0 0 14608
+S
+
+#14625
+The Rat Pit~
+You have fallen into a pit of rats.  Swarming, scurrying masses of furry
+and fuzzy small bodies writhe about you, the high pitched squeaks of alarm
+and anger reverberating off of the cavern walls.  Sharp nips of pain tear at
+you as the rats begin to bite you..  You had better get out of here... 
+Fast!  
+~
+12 0
+D4
+~
+~
+P 0 14621
+S
+
+#14626
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D0
+~
+~
+0 0 14627
+D2
+~
+~
+0 0 14624
+S
+
+#14627
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D1
+~
+~
+0 0 14628
+D2
+~
+~
+0 0 14626
+D3
+~
+~
+0 0 14631
+S
+
+#14628
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D3
+~
+~
+0 0 14627
+S
+
+#14629
+The Pool of Blood~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14678
+D3
+~
+~
+0 0 14630
+S
+
+#14630
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D1
+~
+~
+0 0 14629
+S
+
+#14631
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+You are in the upper dens of the Undead.  A ghastly reddish light glares in
+your eyes, reflections from strange glowing pits of reddish fluid bouncing
+off the pale limestone walls of the caverns.  The air here is very chill,
+yet you cannot help but perspire in large amounts as moans of pleasure
+mingle with moans of pain, echoing in the dark corners of the dens.  
+~
+8 0
+D0
+~
+~
+0 0 14632
+D1
+~
+~
+0 0 14627
+S
+
+#14632
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D0
+~
+~
+0 0 14633
+D2
+~
+~
+0 0 14631
+S
+
+#14633
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D2
+~
+~
+0 0 14632
+D3
+~
+~
+0 0 14634
+S
+
+#14634
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D1
+~
+~
+0 0 14633
+D3
+~
+~
+0 0 14635
+S
+
+#14635
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D0
+~
+~
+0 0 14639
+D1
+~
+~
+0 0 14634
+D3
+~
+~
+0 0 14636
+S
+
+#14636
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D1
+~
+~
+0 0 14635
+D3
+~
+~
+0 0 14637
+S
+
+#14637
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D1
+~
+~
+0 0 14636
+D2
+~
+~
+0 0 14638
+S
+
+#14638
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D0
+~
+~
+0 0 14637
+S
+
+#14639
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D0
+~
+~
+0 0 14640
+D2
+~
+~
+0 0 14635
+S
+
+#14640
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D0
+~
+~
+0 0 14641
+D2
+~
+~
+0 0 14639
+S
+
+#14641
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D0
+~
+~
+0 0 14644
+D1
+~
+~
+0 0 14642
+D2
+~
+~
+0 0 14640
+D3
+~
+~
+0 0 14643
+S
+
+#14642
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D1
+~
+~
+0 0 14649
+D3
+~
+~
+0 0 14641
+S
+
+#14643
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D1
+~
+~
+0 0 14641
+D3
+~
+~
+0 0 14647
+S
+
+#14644
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D0
+~
+~
+0 0 14645
+D2
+~
+~
+0 0 14641
+S
+
+#14645
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D0
+~
+~
+0 0 14646
+D2
+~
+~
+0 0 14644
+S
+
+#14646
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+There is a dark hole in the ground here.  
+~
+8 0
+D2
+~
+~
+0 0 14645
+D5
+~
+~
+0 0 14651
+S
+
+#14647
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D1
+~
+~
+0 0 14643
+D3
+~
+~
+0 0 14648
+S
+
+#14648
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D1
+~
+~
+0 0 14647
+S
+
+#14649
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D1
+~
+~
+0 0 14650
+D3
+~
+~
+0 0 14642
+S
+
+#14650
+The Upper Dens~
+You are in the upper dens of the Undead.  A ghastly reddish light glares
+in your eyes, reflections from strange glowing pits of reddish fluid
+bouncing off the pale limestone walls of the caverns.  The air here is very
+chill, yet you cannot help but perspire in large amounts as moans of
+pleasure mingle with moans of pain, echoing in the dark corners of the dens.
+~
+8 0
+D3
+~
+~
+0 0 14649
+S
+
+#14651
+Inside the Hole~
+You are inside a dark hole.  You can see nothing here, only hear the
+faints moans echo about you and feel the mud that coats the hole around you.
+The hole continues up and down.  
+~
+8 0
+D4
+~
+~
+0 0 14646
+D5
+~
+~
+0 0 14652
+S
+
+#14652
+Entrance to the Middle Dens~
+You have reached the entrance to the Middle Dens.  The same reddish pools
+of liquid light that you saw in the Upper Dens appear with increased numbers
+here.  Walking about with the red glare unbalances you, but you push your
+way onwards.  
+~
+8 0
+D2
+~
+~
+0 0 14653
+D4
+~
+~
+0 0 14651
+S
+
+#14653
+The Middle Dens~
+You are in the Middle Dens of the Undead.  Strange and eerie screams echo
+about here and the reddish glow is beginning to make you feel rather queasy.
+The smell of fresh and dried blood is strong here, and you begin to feel
+faint.  A shadowy figure rushes by you, startling you into full awareness. 
+Perhaps you should move on...  Sitting targets are easy targets.  
+~
+8 0
+D0
+~
+~
+0 0 14652
+D2
+~
+~
+0 0 14654
+S
+
+#14654
+The Middle Dens~
+You are in the Middle Dens of the Undead.  Strange and eerie screams echo
+about here and the reddish glow is beginning to make you feel rather queasy.
+The smell of fresh and dried blood is strong here, and you begin to feel
+faint.  A shadowy figure rushes by you, startling you into full awareness. 
+Perhaps you should move on...  Sitting targets are easy targets.  
+~
+8 0
+D0
+~
+~
+0 0 14653
+D2
+~
+~
+0 0 14655
+S
+
+#14655
+The Middle Dens~
+You are in the Middle Dens of the Undead.  Strange and eerie screams echo
+about here and the reddish glow is beginning to make you feel rather queasy.
+The smell of fresh and dried blood is strong here, and you begin to feel
+faint.  A shadowy figure rushes by you, startling you into full awareness. 
+Perhaps you should move on...  Sitting targets are easy targets.  
+~
+8 0
+D0
+~
+~
+0 0 14654
+D1
+~
+~
+0 0 14656
+D3
+~
+~
+0 0 14657
+S
+
+#14656
+The Middle Dens~
+You are in the Middle Dens of the Undead.  Strange and eerie screams echo
+about here and the reddish glow is beginning to make you feel rather queasy.
+The smell of fresh and dried blood is strong here, and you begin to feel
+faint.  A shadowy figure rushes by you, startling you into full awareness. 
+Perhaps you should move on...  Sitting targets are easy targets.  
+~
+8 0
+D2
+~
+~
+0 0 14660
+D3
+~
+~
+0 0 14655
+S
+
+#14657
+The Middle Dens~
+You are in the Middle Dens of the Undead.  Strange and eerie screams echo
+about here and the reddish glow is beginning to make you feel rather queasy.
+The smell of fresh and dried blood is strong here, and you begin to feel
+faint.  A shadowy figure rushes by you, startling you into full awareness. 
+Perhaps you should move on...  Sitting targets are easy targets.  
+~
+8 0
+D1
+~
+~
+0 0 14655
+D2
+~
+~
+0 0 14658
+S
+
+#14658
+The Middle Dens~
+You are in the Middle Dens of the Undead.  Strange and eerie screams echo
+about here and the reddish glow is beginning to make you feel rather queasy.
+The smell of fresh and dried blood is strong here, and you begin to feel
+faint.  A shadowy figure rushes by you, startling you into full awareness. 
+Perhaps you should move on...  Sitting targets are easy targets.  
+~
+8 0
+D0
+~
+~
+0 0 14657
+D1
+~
+~
+0 0 14659
+S
+
+#14659
+The Middle Dens~
+You are in the Middle Dens of the Undead.  Strange and eerie screams echo
+about here and the reddish glow is beginning to make you feel rather queasy.
+The smell of fresh and dried blood is strong here, and you begin to feel
+faint.  A shadowy figure rushes by you, startling you into full awareness. 
+Perhaps you should move on...  Sitting targets are easy targets.  
+~
+8 0
+D1
+~
+~
+0 0 14660
+D2
+~
+~
+0 0 14661
+D3
+~
+~
+0 0 14658
+S
+
+#14660
+The Middle Dens~
+You are in the Middle Dens of the Undead.  Strange and eerie screams echo
+about here and the reddish glow is beginning to make you feel rather queasy.
+The smell of fresh and dried blood is strong here, and you begin to feel
+faint.  A shadowy figure rushes by you, startling you into full awareness. 
+Perhaps you should move on...  Sitting targets are easy targets.  
+~
+8 0
+D0
+~
+~
+0 0 14656
+D3
+~
+~
+0 0 14659
+S
+
+#14661
+The Middle Dens~
+You are in the Middle Dens of the Undead.  Strange and eerie screams echo
+about here and the reddish glow is beginning to make you feel rather queasy.
+The smell of fresh and dried blood is strong here, and you begin to feel
+faint.  A shadowy figure rushes by you, startling you into full awareness. 
+Perhaps you should move on...  Sitting targets are easy targets.  
+~
+8 0
+D0
+~
+~
+0 0 14659
+D2
+~
+~
+0 0 14662
+S
+
+#14662
+The Middle Dens~
+You are in the Middle Dens of the Undead.  Strange and eerie screams echo
+about here and the reddish glow is beginning to make you feel rather queasy.
+The smell of fresh and dried blood is strong here, and you begin to feel
+faint.  A shadowy figure rushes by you, startling you into full awareness. 
+Perhaps you should move on...  Sitting targets are easy targets.  
+~
+8 0
+D0
+~
+~
+0 0 14661
+D2
+~
+~
+0 0 14663
+S
+
+#14663
+The Middle Dens~
+You are in the Middle Dens of the Undead.  Strange and eerie screams echo
+about here and the reddish glow is beginning to make you feel rather queasy.
+The smell of fresh and dried blood is strong here, and you begin to feel
+faint.  A shadowy figure rushes by you, startling you into full awareness. 
+The is a hole in the floor here, a strong reek of blood issuing forth from
+it.  
+~
+8 0
+D0
+~
+~
+0 0 14662
+D5
+~
+~
+0 0 14664
+S
+
+#14664
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench alone is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532492 0
+D0
+~
+~
+0 0 14665
+D1
+~
+~
+0 0 14668
+D2
+~
+~
+0 0 14666
+D3
+~
+~
+0 0 14671
+S
+
+#14665
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14677
+D1
+~
+~
+0 0 14669
+D2
+~
+~
+0 0 14664
+D3
+~
+~
+0 0 14670
+S
+
+#14666
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14664
+D1
+~
+~
+0 0 14667
+D2
+~
+~
+0 0 14674
+D3
+~
+~
+0 0 14672
+S
+
+#14667
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14668
+D1
+~
+~
+0 0 14682
+D2
+~
+~
+0 0 14675
+D3
+~
+~
+0 0 14666
+S
+
+#14668
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14669
+D1
+~
+~
+0 0 14681
+D2
+~
+~
+0 0 14667
+D3
+~
+~
+0 0 14664
+S
+
+#14669
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14678
+D1
+~
+~
+0 0 14680
+D2
+~
+~
+0 0 14668
+D3
+~
+~
+0 0 14665
+S
+
+#14670
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14676
+D1
+~
+~
+0 0 14665
+D2
+~
+~
+0 0 14671
+D3
+~
+~
+0 0 14685
+S
+
+#14671
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14670
+D1
+~
+~
+0 0 14664
+D2
+~
+~
+0 0 14672
+D3
+~
+~
+0 0 14686
+S
+
+#14672
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14671
+D1
+~
+~
+0 0 14666
+D2
+~
+~
+0 0 14673
+D3
+~
+~
+0 0 14687
+D5
+~
+door~
+AB 0 14689
+S
+
+#14673
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14672
+D1
+~
+~
+0 0 14674
+D3
+~
+~
+0 0 14688
+S
+
+#14674
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14666
+D1
+~
+~
+0 0 14675
+D3
+~
+~
+0 0 14673
+S
+
+#14675
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14667
+D1
+~
+~
+0 0 14683
+D3
+~
+~
+0 0 14674
+S
+
+#14676
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D1
+~
+~
+0 0 14677
+D2
+~
+~
+0 0 14670
+D3
+~
+~
+0 0 14684
+S
+
+#14677
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D1
+~
+~
+0 0 14678
+D2
+~
+~
+0 0 14665
+D3
+~
+~
+0 0 14676
+S
+
+#14678
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D1
+~
+~
+0 0 14679
+D2
+~
+~
+0 0 14669
+D3
+~
+~
+0 0 14677
+S
+
+#14679
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D2
+~
+~
+0 0 14680
+D3
+~
+~
+0 0 14678
+S
+
+#14680
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14679
+D2
+~
+~
+0 0 14681
+D3
+~
+~
+0 0 14669
+S
+
+#14681
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14680
+D2
+~
+~
+0 0 14682
+D3
+~
+~
+0 0 14668
+S
+
+#14682
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14681
+D2
+~
+~
+0 0 14683
+D3
+~
+~
+0 0 14667
+S
+
+#14683
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14682
+D3
+~
+~
+0 0 14675
+S
+
+#14684
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D1
+~
+~
+0 0 14676
+D2
+~
+~
+0 0 14685
+S
+
+#14685
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14684
+D1
+~
+~
+0 0 14670
+D2
+~
+~
+0 0 14686
+S
+
+#14686
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14685
+D1
+~
+~
+0 0 14671
+D2
+~
+~
+0 0 14687
+S
+
+#14687
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14686
+D1
+~
+~
+0 0 14672
+D2
+~
+~
+0 0 14688
+S
+
+#14688
+The Pool of Blood~
+You have fallen into a pool of blood!  The viscous fluid clings to you,
+making swimming a hard task.  The stench along is enough to make you pass
+out, but there is nothing you can do but wade on, fighting the urge to
+vomit.  
+~
+532488 0
+D0
+~
+~
+0 0 14687
+D1
+~
+~
+0 0 14673
+S
+
+#14689
+Entrance to the Lower Dens~
+You have entered the entrance to the Lower Dens of the Undead.  These
+dens are filled with screams of pain and vain cries for help.  Blank
+darkness fills the caverns and the air here is freezing cold.  You wonder if
+you will ever see blessed daylight again.  
+~
+12 0
+D0
+~
+~
+0 0 14690
+D4
+~
+door~
+AB 0 14672
+S
+
+#14690
+The Lower Dens~
+You are in the Lower Dens of the Undead.  A blood-curdling shriek of rage
+fills the caverns, echoing about so you cannot pinpoint the origin.  The
+darkness here is so complete that you cannot even see your own hand before
+your very face.  As the chill air of the room settles into your bones, you
+wonder if you will be able to find your way back into the sunlight.  
+~
+8 0
+D0
+~
+~
+0 0 14691
+D1
+~
+~
+0 0 14694
+D2
+~
+~
+0 0 14689
+S
+
+#14691
+The Lower Dens~
+You are in the Lower Dens of the Undead.  A blood-curdling shriek of rage
+fills the caverns, echoing about so you cannot pinpoint the origin.  The
+darkness here is so complete that you cannot even see your own hand before
+your very face.  As the chill air of the room settles into your bones, you
+wonder if you will be able to find your way back into the sunlight.  
+~
+8 0
+D0
+~
+~
+0 0 14692
+D2
+~
+~
+0 0 14690
+D3
+~
+~
+0 0 14693
+S
+
+#14692
+The Lower Dens~
+You are in the Lower Dens of the Undead.  A blood-curdling shriek of rage
+fills the caverns, echoing about so you cannot pinpoint the origin.  The
+darkness here is so complete that you cannot even see your own hand before
+your very face.  As the chill air of the room settles into your bones, you
+wonder if you will be able to find your way back into the sunlight.  
+~
+8 0
+D0
+~
+~
+0 0 14695
+D2
+~
+~
+0 0 14691
+S
+
+#14693
+The Lower Dens~
+You are in the Lower Dens of the Undead.  A blood-curdling shriek of rage
+fills the caverns, echoing about so you cannot pinpoint the origin.  The
+darkness here is so complete that you cannot even see your own hand before
+your very face.  As the chill air of the room settles into your bones, you
+wonder if you will be able to find your way back into the sunlight.  
+~
+8 0
+D1
+~
+~
+0 0 14691
+S
+
+#14694
+The Lower Dens~
+You are in the Lower Dens of the Undead.  A blood-curdling shriek of rage
+fills the caverns, echoing about so you cannot pinpoint the origin.  The
+darkness here is so complete that you cannot even see your own hand before
+your very face.  As the chill air of the room settles into your bones, you
+wonder if you will be able to find your way back into the sunlight.  
+~
+8 0
+D3
+~
+~
+0 0 14690
+S
+
+#14695
+The Lower Dens~
+You are in the Lower Dens of the Undead.  A blood-curdling shriek of rage
+fills the caverns, echoing about so you cannot pinpoint the origin.  The
+darkness here is so complete that you cannot even see your own hand before
+your very face.  As the chill air of the room settles into your bones, you
+wonder if you will be able to find your way back into the sunlight.  
+~
+8 0
+D0
+~
+~
+0 0 14696
+D1
+~
+~
+0 0 14697
+D2
+~
+~
+0 0 14692
+S
+
+#14696
+The Lower Dens~
+You are in the Lower Dens of the Undead.  A blood-curdling shriek of rage
+fills the caverns, echoing about so you cannot pinpoint the origin.  The
+darkness here is so complete that you cannot even see your own hand before
+your very face.  As the chill air of the room settles into your bones, you
+wonder if you will be able to find your way back into the sunlight.  
+~
+8 0
+D0
+~
+~
+0 0 14699
+D2
+~
+~
+0 0 14695
+D3
+~
+~
+0 0 14698
+S
+
+#14697
+The Lower Dens~
+You are in the Lower Dens of the Undead.  A blood-curdling shriek of rage
+fills the caverns, echoing about so you cannot pinpoint the origin.  The
+darkness here is so complete that you cannot even see your own hand before
+your very face.  As the chill air of the room settles into your bones, you
+wonder if you will be able to find your way back into the sunlight.  
+~
+8 0
+D3
+~
+~
+0 0 14695
+S
+
+#14698
+The Lower Dens~
+You are in the Lower Dens of the Undead.  A blood-curdling shriek of rage
+fills the caverns, echoing about so you cannot pinpoint the origin.  The
+darkness here is so complete that you cannot even see your own hand before
+your very face.  As the chill air of the room settles into your bones, you
+wonder if you will be able to find your way back into the sunlight.  
+~
+8 0
+D1
+~
+~
+0 0 14696
+S
+
+#14699
+The Lower Dens~
+You are in the Lower Dens of the Undead.  A blood-curdling shriek of rage
+fills the caverns, echoing about so you cannot pinpoint the origin.  The
+darkness here is so complete that you cannot even see your own hand before
+your very face.  As the chill air of the room settles into your bones, you
+wonder if you will be able to find your way back into the sunlight.  
+~
+8 0
+D0
+~
+~
+0 0 14700
+D2
+~
+~
+0 0 14696
+S
+
+#14700
+The Lower Dens~
+You are in the Lower Dens of the Undead.  A blood-curdling shriek of rage
+fills the caverns, echoing about so you cannot pinpoint the origin.  The
+darkness here is so complete that you cannot even see your own hand before
+your very face.  As the chill air of the room settles into your bones, you
+wonder if you will be able to find your way back into the sunlight.  
+~
+8 0
+D2
+~
+~
+0 0 14699
+S
+#0
+
+#SPECIALS
+M 14601 spec_poison
+M 14602 spec_poison
+M 14603 spec_breath_frost
+M 14604 spec_breath_frost
+M 14606 spec_breath_acid
+M 14607 spec_cast_undead
+M 14608 spec_cast_undead
+S
+
+#RESETS
+D 100 14602 5 1
+D 100 14672 5 1
+D 100 14689 4 1
+M 100 14602 20 14607 1
+M 100 14602 20 14608 1
+M 100 14602 20 14610 1
+M 100 14602 20 14611 1
+M 100 14602 20 14613 1
+M 100 14602 20 14616 1
+M 100 14602 20 14617 1
+M 100 14602 20 14618 1
+M 100 14602 20 14619 1
+M 100 14602 20 14620 1
+M 100 14602 20 14621 1
+M 100 14602 20 14622 1
+M 100 14602 20 14623 1
+M 100 14603 20 14624 1
+M 100 14602 20 14624 1
+M 100 14601 6 14625 6
+M 100 14601 6 14625 6
+M 100 14601 6 14625 6
+M 100 14601 6 14625 6
+M 100 14601 6 14625 6
+M 100 14601 6 14625 6
+M 100 14603 20 14626 1
+M 100 14602 20 14626 1
+M 100 14603 20 14627 1
+M 100 14602 20 14627 1
+M 100 14603 20 14628 1
+M 100 14603 20 14631 1
+M 100 14602 20 14631 1
+M 100 14603 20 14632 1
+M 100 14602 20 14632 1
+M 100 14603 20 14633 1
+M 100 14602 20 14633 1
+M 100 14603 20 14634 1
+M 100 14602 20 14634 1
+M 100 14603 20 14635 1
+M 100 14603 20 14639 1
+M 100 14603 20 14640 1
+M 100 14603 20 14641 1
+M 100 14603 20 14642 1
+M 100 14603 20 14643 1
+M 100 14603 20 14644 1
+M 100 14603 20 14645 1
+M 100 14603 20 14646 1
+M 100 14603 20 14647 1
+M 100 14603 20 14649 1
+M 100 14603 20 14650 1
+M 100 14604 20 14652 5
+M 100 14604 20 14652 5
+M 100 14604 20 14653 5
+M 100 14604 20 14654 5
+M 100 14605 20 14655 1
+M 100 14604 20 14655 5
+M 100 14605 20 14656 1
+M 100 14604 20 14656 5
+M 100 14605 20 14657 1
+M 100 14604 20 14657 5
+M 100 14605 20 14658 1
+M 100 14605 20 14659 1
+M 100 14604 20 14659 5
+M 100 14604 20 14659 5
+M 100 14605 20 14660 1
+M 100 14605 20 14661 1
+M 100 14604 20 14661 5
+M 100 14605 20 14662 1
+M 100 14604 20 14662 5
+M 100 14605 20 14663 1
+M 100 14604 20 14663 5
+M 100 14604 20 14663 5
+M 100 14606 1 14672 1
+M 100 14605 20 14689 1
+M 100 14607 20 14689 5
+M 100 14607 20 14689 5
+M 100 14605 20 14690 1
+M 100 14607 20 14690 5
+M 100 14607 20 14690 5
+M 100 14607 20 14690 5
+M 100 14604 20 14690 5
+M 100 14605 20 14691 1
+M 100 14607 20 14691 5
+M 100 14607 20 14691 5
+M 100 14604 20 14691 5
+M 100 14605 20 14692 1
+M 100 14607 20 14692 5
+M 100 14604 20 14692 5
+M 100 14605 20 14693 1
+M 100 14607 20 14693 5
+M 100 14607 20 14693 5
+M 100 14605 20 14694 1
+M 100 14607 20 14694 5
+M 100 14605 20 14695 1
+M 100 14607 20 14695 5
+M 100 14604 20 14695 5
+M 100 14605 20 14696 1
+M 100 14607 20 14696 5
+M 100 14604 20 14696 5
+M 100 14605 20 14697 1
+M 100 14607 20 14697 5
+M 100 14607 20 14697 5
+M 100 14607 20 14698 5
+M 100 14605 20 14699 1
+M 100 14607 20 14699 5
+M 100 14607 20 14699 5
+M 100 14604 20 14699 5
+M 100 14605 20 14700 1
+M 100 14607 20 14700 5
+M 100 14608 1 14700 1
+E 100 14602 0 12
+E 100 14603 0 17
+E 100 14604 0 5
+E 100 14605 0 1
+E 100 14601 0 16
+M 100 14604 20 14700 5
+S
+
+#$

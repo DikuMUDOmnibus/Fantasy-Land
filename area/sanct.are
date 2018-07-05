@@ -1,0 +1,996 @@
+#AREADATA
+Name Sanctuary - Second Continent~
+Builders Unlinked~
+VNUMs 50000 50099
+Continent 0
+Credits (null)~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#50000
+morwen defender sanctuary~
+{#Morwen{x~
+Morwen stands here arms crossed, eyeing you.
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50001
+storyteller old man~
+the {^Storyteller{x~
+A storyteller stands here, reading aloud to the group.
+~
+~
+human~
+A 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50002
+the aviary book~
+the Aviary~
+A book on the birds of the land is lying here.
+~
+~
+human~
+ABG 0 0 1 0
+148 160 50d10+14500 10d10+100 6d25+60 slash
+-10 -10 -10 -10
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#0
+
+
+
+#OBJECTS
+#50000
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+A
+22 1
+#50050
+memorial fountain~
+the memorial fountain~
+A memorial fountain is flowing here, in honor of the Gods.~
+unknown~
+fountain AB 0
+-1 -1 'firebreather' 0 0
+1 50000 1 P
+#0
+
+
+
+#ROOMS
+#50000
+The Random Room~
+~
+0 4 0
+S
+#50001
+Temple of Creation~
+You stand inside the hallowed interior of the Temple of Creation.  This 
+is one of the few stable areas where mortals are relatively safe during the
+cataclysmic regeneration of the lands outside.  Fortunately this is a rare
+event in Asgard, but it's good to know that there is somewhere safe, should
+the Creators consider regeneration to be necessary.
+  The temple has a high, domed roof, covered with scenes depicting heroic
+and glorious events in Asgard's past.
+~
+0 0 0
+D2
+~
+~
+0 0 50002
+S
+#50002
+Steps of the Temple~
+You stand at the north-west corner of the square before the towering edifice
+that is the Temple of Creation. To the west stands the Charity Shop while
+the square continues to the south. The village is a busy place, full of
+travellers from far and wide...
+~
+0 0 0
+D0
+~
+~
+0 0 50001
+D1
+~
+~
+0 0 50004
+D2
+~
+~
+0 0 50017
+D3
+~
+~
+0 0 50003
+S
+#50003
+Donation Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 50002
+S
+#50004
+Entrance to the Gardens~
+You stand at the north of the square before the entrance to the Gardens of 
+Contemplation, and beyond them the Asgardian Chat Rooms.
+~
+0 0 0
+D1
+~
+~
+0 0 50005
+D2
+~
+~
+0 0 50018
+D3
+~
+~
+0 0 50002
+S
+#50005
+Wall of Honor~
+You are in the north-east corner of the square before the Temple of the
+Mysteries.  From the east, the delicious aroma of freshly baked bread wafts 
+out from the bakery. Before you is the wall of honour. A small dedication to
+the hard working immortals.
+~
+0 0 0
+D0
+~
+~
+0 0 50006
+D1
+~
+~
+0 0 50010
+D2
+~
+~
+0 0 50012
+D3
+~
+~
+0 0 50004
+S
+#50006
+Temple of Mysteries~
+You Enter a temple, bathed in the octarine light of powerful magic.  In a
+chamber off to the west, a priest of evil sits in darkness.  In a chamber
+off to the east, a priest of good sits, lecturing on evil.  To the north is
+a small chamber where a healer practices his arts.  
+~
+0 0 0
+D0
+~
+~
+0 0 50009
+D1
+~
+~
+0 0 50007
+D2
+~
+~
+0 0 50005
+D3
+~
+~
+0 0 50008
+S
+#50007
+Annex of Evil~
+You stand within a deeply mystical chamber. There is some kind of hum or
+chanting at the limits of your perception.  This annex is dedicated to the
+innate magical power of evil.
+~
+0 0 0
+D3
+~
+~
+0 0 50006
+S
+#50008
+Annex of Good~
+You stand within a deeply mystical chamber. There is some kind of hum or
+chanting at the limits of your perception.  This annex is dedicated to the
+innate magical power of good.
+~
+0 0 0
+D1
+~
+~
+0 0 50006
+S
+#50009
+Annex of Healing~
+You stand within a deeply mystical chamber. There is some kind of hum or
+chanting at the limits of your perception.  This annex is dedicated to the
+innate magical power of the healers guild.
+~
+0 0 0
+D2
+~
+~
+0 0 50006
+S
+#50010
+The Bakery~
+The air is filled with the delectable aroma of baked bread. Stacked
+high on shelves over by one wall are a variety of tasty baked goods ranging
+from sweet pastries and pies to warm, crusty rolls stuffed with a spicy
+vegetable filling.  A few tables and chairs have been placed on the opposite
+side for those patrons who wished to immediately savour their purchases. The
+sharp-eyed baker's wife stands behind a counter beaming contentedly, yet
+ever alert for those who might choose to become light-fingered.  The baker
+bustles in the back room producing the mouth-watering wares displayed on the
+shelves.
+~
+0 0 0
+D0
+~
+~
+0 0 50011
+D3
+~
+~
+0 0 50005
+S
+#50011
+The Baking Room~
+Heat radiating from the brick ovens makes this room decidedly warm.  A
+high counter, its top liberally sprinkled with flour, sits in the centre
+of the room.  Shelves piled high with bags of flour, sugar and other necessary
+ingredients line one wall, while cooling racks for the freshly baked
+wares have been set against the opposite wall.
+~
+0 0 0
+D2
+~
+~
+0 0 50010
+S
+#50012
+The Arbiter's Arch~
+Arbiter's Arch stands on the eastern edge of the Sanctuary Village Square.
+Passing through the arch will take you along Short Street, past the judicial
+quarter, finally culminating in the 'Limping Gate', the eastern exit from the
+village.
+~
+0 0 0
+D0
+~
+~
+0 0 50005
+D1
+~
+~
+0 0 50037
+D2
+~
+~
+0 0 50013
+D3
+~
+~
+0 0 50018
+S
+#50013
+Memorial Corner~
+You enter a small corner of Sanctuary Village, This corner is solem and
+quiet, with a small garden in the center, a small memorial to all of the
+Gods.
+~
+0 0 0
+D0
+~
+~
+0 0 50012
+D3
+~
+~
+0 0 50014
+S
+#50014
+The South Square~
+To your south is 'Shambling Gate', one of the heavily fortified gates in the
+village walls, allowing entrance to Sanctuary Village.
+~
+0 0 0
+D0
+~
+~
+0 0 50018
+D1
+~
+~
+0 0 50013
+D2
+~
+~
+0 0 50052
+D3
+~
+~
+0 0 50015
+S
+#50015
+Scholar's Repose~
+This, the south-western part of the Sanctuary Village Square, has long been
+known as Scholar's repose. You could be forgiven for thinking that it gained 
+its name from the neighbouring academic institutions, the training centre to
+the west, and the library to the south. In fact the area was named sometime
+before these august establishments were built. It was actually named after a
+young apprentice wizard who invariably fell asleep here on his returning from
+a binge at the Wilting Horn.
+~
+0 0 0
+D0
+~
+~
+0 0 50017
+D1
+~
+~
+0 0 50014
+D2
+~
+~
+0 0 50016
+S
+#50016
+Library~
+Perhaps not on the scale of the famous library of Alexandria, Sanctuary
+library is constantly growing and contains some most unusual books. Some
+of the books are so steeped in magic they have taken on a life of their own
+and must be chained to the walls to prevent escape, other inanimate books
+are so valuble that they are chained to prevent theft,
+~
+0 0 0
+D0
+~
+~
+0 0 50015
+S
+#50017
+West Square~
+You stand at the western edge of the square. Further west is the entrance to
+Short Street, 'Gateway to Squalor'. To the south of here can be found the much
+more wholesome region of the centres of learning.
+~
+0 0 0
+D0
+~
+~
+0 0 50002
+D1
+~
+~
+0 0 50018
+D2
+~
+~
+0 0 50015
+D3
+~
+~
+0 0 50019
+S
+#50018
+The Centre Square~
+You are standing smack bang in the middle of the central square of Sanctuary
+village, which in turn is a central point of the extensive lands of Asgard.
+Various useful buildings surround the square, to the north are the temples, 
+to the south and east are the exits from the village, to the south-west are 
+centres of learning,
+~
+0 0 0
+D0
+~
+~
+0 0 50004
+D1
+~
+~
+0 0 50012
+D2
+~
+~
+0 0 50014
+D3
+~
+~
+0 0 50017
+S
+#50019
+Short Street~
+To your east is the central square.  North is Esoteric Street, location
+of Sanctuary's Art Gallery, whilst to your south is Kicklebury Street where
+you will find the Village Hospital, should you be feeling a bit peeky.  
+~
+0 0 0
+D0
+~
+~
+0 0 50020
+D1
+~
+~
+0 0 50017
+D2
+~
+~
+0 0 50026
+D3
+~
+~
+0 0 50034
+S
+#50020
+Esoteric Street~
+{x.....Esoteric street, looking for alternative medicine?.  Maybe crystal
+healing or a subtle infusion of aromatic oils? Do you feel a need to have
+your karmic balance investigated or maybe your kirillian aura needs a tune up?
+Tough luck, there is no one in Asylum who caters to your needs. However, should
+the Creators ever feel inclined to let them in, this is where they will most
+likely set up shop. For the moment you will have to content yourself with an
+art gallery and an alchemist's shop. Esoteric Street continues to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 50023
+D1
+~
+~
+0 0 50022
+D2
+~
+~
+0 0 50019
+D3
+~
+~
+0 0 50021
+S
+#50021
+Art Gallery~
+You stand in a large light room which houses many beautiful works of art
+from many different ages and cultures. Some of them particularly catch your
+eye.
+~
+0 0 0
+D1
+~
+~
+0 0 50020
+S
+#50022
+Alchemist's House~
+This is a small house, there is nothing suprising here.  The alchemist
+isn't home at the moment and you notice nothings been touched since he left.
+~
+0 0 0
+D3
+~
+~
+0 0 50020
+S
+#50023
+Esoteric Street~
+Esoteric street continues.  To your east is a Herbalist's Shop.
+Signs of the Zodiac adorn the side of a colourful tent to the west.
+~
+0 0 0
+D1
+~
+~
+0 0 50024
+D2
+~
+~
+0 0 50020
+D3
+~
+~
+0 0 50025
+S
+#50024
+Herbmaster's Shop~
+You enter a small, smoke filled room.  The Herbalist's items are
+scattered about as if he lives in this shop.  There are many items
+availiable here, but most serve the same purpose.  
+~
+0 0 0
+D3
+~
+~
+0 0 50023
+S
+#50025
+The Gypsy's Tent~
+Rustling curtains of beads hide the walls and exits and a thick, purple carpet
+covers the floor of the small tent. A low table occupies the centre of the tent
+and softly glowing lanterns hang overhead. The scent of exotic spices lays 
+thick in the air.
+~
+0 0 0
+D1
+~
+~
+0 0 50023
+S
+#50026
+Kicklebury Street~
+icklebury street connects between Short Street and the village hospital. 
+The hospital is a bland place, full of travellers who need the expert help
+of the doctors and nurses who labour hour after hour, sewing fingers and arms
+back onto those stupid enough to get them lopped off in the first place!
+To the south lies the Adventurer's Emporium, famed for its tantalising
+merchandise!
+~
+0 0 0
+D0
+~
+~
+0 0 50019
+D1
+~
+~
+0 0 50027
+D2
+~
+~
+0 0 50031
+D3
+~
+~
+0 0 50030
+S
+#50027
+The Church~
+This modest church is home to a few worshippers, a priest and an altar
+from which the priest offers a sermon on the glory of the Faith
+from time to time. It's nothing grand, but you do sense a feeling of
+inner Peace while you're here.
+~
+0 0 0
+D0
+~
+~
+0 0 50028
+D2
+~
+~
+0 0 50029
+D3
+~
+~
+0 0 50026
+S
+#50028
+The Reading Room~
+Books and scrolls line the shelves of this small chamber. Most of them
+seem to deal with Theology, Divinity and Spirituality. The main church
+is back through an archway to the south.
+~
+0 0 0
+D2
+~
+~
+0 0 50027
+S
+#50029
+The Holy Font~
+A large font filled with water shimmers in the light of a single
+stained glass window. You can return to the church to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 50027
+S
+#50030
+Village Hospital~
+You are in the waiting room of the hospital.  On the south wall is a
+door with a sign reading "Emergency" above it.  From the sounds coming from
+within, it seems as if the doctors are frantically trying to save someone. 
+It might be safer staying out here.  
+~
+0 0 0
+D1
+~
+~
+0 0 50026
+S
+#50031
+Kicklebury Street~
+Kicklebury street continues past the Adventurer's Emporium famed for it's
+tantalising merchandise! To the east lies the financial centre of Sanctuary.
+~
+0 0 0
+D0
+~
+~
+0 0 50026
+D1
+~
+~
+0 0 50033
+D3
+~
+~
+0 0 50032
+S
+#50032
+The Adventurer's Emporium~
+This shop caters to the discriminating adventurer
+the adventurer on the go;the adventurer who seeks to adventure in style. Many assorted items essential
+to the well-heeled explorer are on display, safely locked away in their 
+displays. 
+~
+0 0 0
+D1
+~
+~
+0 0 50031
+S
+#50033
+The Bank of Sanctuary~
+~
+0 0 0
+D3
+~
+~
+0 0 50031
+S
+#50034
+Short Street~
+To your north is the notorious Wilting Horn Tavern, to your east Short
+Street returns to the central Square.  
+~
+0 0 0
+D0
+~
+~
+0 0 50036
+D1
+~
+~
+0 0 50019
+D2
+~
+~
+0 0 50035
+S
+#50035
+Blacksmith's Shop~
+You enter a dark, smokey room.  The blacksmith's forge is blazing in the
+corner and you feel the heat blasting towards you.  The great Dwarven Smythe
+is the blacksmith here, making equipment for the great players in this land.
+~
+0 0 0
+D0
+~
+~
+0 0 50034
+S
+#50036
+Entrance to the Wilting Horn~
+The steps leading up to the entrance have been swept clean of any dust,
+dirt or debris.  The sounds of raucous laughter and the buzz of merriment
+filter through the open doorway.  A small sign has been placed on the side
+of the door, welcoming you to the Wilting Horn.  The sounds, the cheery light
+and the odd mixture of aromas entice you to enter.
+~
+0 4 0
+D2
+~
+~
+0 0 50034
+S
+#50037
+Short Street~
+Short street continues east from here.  To your north is the entrance to
+Dimwell Street, one of Sanctuary Village's residential areas.  Rampant Horse
+street lies to the south.  A village guard smiles and bids you to have a
+good day.  
+~
+0 0 0
+D0
+~
+~
+0 0 50038
+D1
+~
+~
+0 0 50045
+D2
+~
+~
+0 0 50044
+D3
+~
+~
+0 0 50012
+S
+#50038
+Dimwell Street~
+A narrow cobbled street leads away from the village centre through numerous
+dull little cottages. To the west stands a rundown shop with an assortment of
+small decorated objects. Dimwell Street continues to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 50042
+D1
+~
+~
+0 0 50039
+D2
+~
+~
+0 0 50037
+D3
+~
+~
+0 0 50040
+S
+#50039
+The Grainery~
+A wide, hard-packed earthen path leads to a huge, grey stone building. 
+The path is beaten down and slightly rutted from the wheels of wagons
+hauling grain to be stored in the granary.  The tall, two story building
+only sports two tiny windows at the very top of the front wall.  
+~
+0 0 0
+D3
+~
+~
+0 0 50038
+S
+#50040
+Blaster Bate's Bomb Boutique~
+You stand within the famously tacky "Blaster Bates' Bomb Boutique". It is
+the only place in the land where you can purchase Blaster's custom made 
+destructive devices, stuffed full of an amalgam of Dwarven gunpowder and 
+aaknaar ores. Blaster sells his bombs at a high price.
+~
+0 0 0
+D1
+~
+~
+0 0 50038
+S
+#50042
+Dimwell Street~
+A narrow cobbled street leads away from the village centre through numerous
+dull little cottages. To the west is an area specifically reserved for Friends
+of Asgard.
+~
+0 0 0
+D2
+~
+~
+0 0 50038
+D3
+~
+~
+0 0 50043
+S
+#50043
+Entrance to Friends Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 50042
+S
+#50044
+Rampant Horse Street~
+The street ends after you pass a few houses and you think about turning
+around.  This street is rather boring.  
+~
+0 0 0
+D0
+~
+~
+0 0 50037
+S
+#50045
+Short Street~
+To your east is 'Limping Gate', the eastern exit from Sanctuary Village. 
+To your south is 'Justice Square', location of the Courthouse and Jail.  
+~
+0 0 0
+D1
+~
+~
+0 0 50051
+D2
+~
+~
+0 0 50046
+D3
+~
+~
+0 0 50037
+S
+#50046
+Justice Square~
+A high wooden platform has been built in the middle of this dusty square.
+A large area around it has been cleared to accommodate any good-sized crowd
+who has come to view a public execution.  You shudder lightly, wondering why
+anyone would want to view such a ghastly event.  Off to one side, a
+cobblestone building has been placed which would undoubtably house the poor
+wretches who are to meet their fate atop that platform and be the sole
+attraction for such a gruesome spectacle.  
+~
+0 0 0
+D0
+~
+~
+0 0 50045
+D1
+~
+~
+0 0 50048
+D2
+~
+~
+0 0 50049
+D3
+~
+~
+0 0 50047
+S
+#50047
+Jail~
+The interior of the jail is quite dim, due perhaps to the limited amount
+of light allowed in from the two small windows on either side of the entrance.
+A few notices hang haphazardly on the rounded stones of the walls, and a
+fire in a small fireplace set in a side wall does little to relieve the damp
+chill that pervades this room.  A small oval desk and rickety-looking chair
+has been provided for the unlucky guard who must keep watch over the residents
+of this place.
+~
+0 0 0
+D1
+~
+~
+0 0 50046
+S
+#50048
+Mayor's House~
+You find yourself on a lovely little pathway which leads up to a small but
+costly-looking building. This is the finest home in the village, and one of
+the most prized residences in the whole land. The sides of the pathway you 
+walk on are lined with palm trees, and there's a beautifully-manicured;garden, a fabulous rockery boasting rare and precious stones, within which ;you can make out a truly sumptuous pool area. There's a statue of
+a blood-stained warrior being held aloft by grateful villagers, hands joined 
+in triumph. You have found the home of Sanctuary Village's Mayor. You can
+make your way back to Justice Square to the west.
+~
+0 0 0
+D3
+~
+~
+0 0 50046
+S
+#50049
+The Courthouse~
+It may only be built of bricks and mortar, but there is a rarefied air of
+dignity that pervades this courtroom.  The hardwood floors are free of dirt
+and the benches lined up in precise rows have been recently dusted.  Two
+tables along with chairs have been placed in front of the benches, separated
+by a low railing.  In the front of the room a high desk with a padded chair
+has been placed for the judge to use during any court proceeding.  Off to
+the left chairs have been enclosed in a box-like structure for those chosen
+to sit on a jury.  One lone chair sits close to the judge's bench, while a
+small, square platform partially ringed by a railing has been provided for
+any poor unfortunate placed on trial here.
+~
+0 0 0
+D0
+~
+~
+0 0 50046
+D2
+~
+~
+0 0 50050
+S
+#50050
+Judge's Chambers~
+Bookshelves filled with weighty tomes line the back wall of this chamber.
+A large oak desk sit in front of them, its top holding an ornate inkwell and
+matching pen holder, sporting a long quill pen, its feather gracefully 
+arched high in the air.  A multipaned window on one wall allows in streams of
+light as small dust motes dance lazily in the rays.  Though a high-backed
+chair has been placed behind the desk, there are no other places to sit in
+this room.
+~
+0 0 0
+D0
+~
+~
+0 0 50049
+S
+#50051
+Limping Gate~
+You pass through Limping Gate, currently open, but ready to be closed in
+an instant, should the village be threatened.
+~
+0 0 0
+D3
+~
+~
+0 0 50045
+S
+#50052
+The Shambling Gate~
+You pass through Shambling Gate, currently open, but ready to be closed in
+an instant, should the village be threatened.
+~
+0 0 0
+D0
+~
+~
+0 0 50014
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 50050 0 50013 *The memorial fountain loaded to Memorial Corner
+M 0 50002 1 50016 1 *Load the Aviary
+M 0 50000 1 50018 1 *Load {#Morwen{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

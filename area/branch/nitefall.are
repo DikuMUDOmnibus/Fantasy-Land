@@ -1,0 +1,1819 @@
+#AREADATA
+Name Nightfall~
+Builders Gynix~
+VNUMs 2900 2999
+Credits {50 85]} Gynix   Nightfall~
+Security 9
+End
+
+
+
+#MOBILES
+#2900
+strange creature~
+the strange creature~
+A strange creature guards the way in.
+~
+This creature was probably created by magic, since it couldn't have 
+survived on it's own.  It remotely resembles something human, but you 
+can't be sure.
+~
+human~
+ABCFG DFGJ -100 H 0
+50 20 50d10+5500 10d10+400 5d10+25 claw
+-150 -150 -150 -100
+CDEFIK AB LCDQ 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#2901
+nightling~
+the nightling~
+A nightling flies around, looking for a victim.
+~
+Resembling a bat in many ways, this fanged creature spots you and swoops 
+in for the attack.
+~
+bat~
+AFGU JTZ 0 0 0
+50 20 50d10+5500 10d10+400 5d10+25 claw
+-150 -150 -150 -100
+DEFHK ABP LCDQ 0
+stand stand none 0
+AGV ACDEFHJKP medium 0
+#2902
+night beast~
+the night beast~
+A beast as dark as night lumbers around here.
+~
+Set here to guard the passageway, it subsists mainly on adventurers such 
+as yourself.  As you approach, it looks up from a bone it was picking 
+at, lets out a mighty belch, and leaps towards you.
+~
+bear~
+ABCFG DFJVZ -100 H 0
+55 72 50d10+7000 10d10+500 6d10+25 claw
+-175 -175 -175 -125
+CDEFHIKNO AB EILPCDQ 0
+stand stand none 0
+AGV ABCDEFHJKUV medium 0
+#2903
+mitar man summoner~
+Mitar~
+Mitar, the first of the summoners, is preparing the way.
+~
+Mitar is a tall, graying man of about 40.  He is clad in black robes, and 
+a strange sapphire armor unfamiliar to you.  He is currently waving his 
+hands around in strange gestures, and chanting in an ancient language.  
+The power of the magic causes the hair to stand up on the back of your 
+neck.  Mitar must be a powerful person indeed.
+~
+human~
+ABCGT DFGHJOVZ -300 CDEHS 0
+65 95 10d100+11000 10d100+2000 6d15+50 magic
+-300 -300 -300 -200
+CDEFHIKN AB CLPDQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#2904
+night warrior~
+the night warrior~
+A Warrior of the Night guards this passage against intrusion.
+~
+He was chosen by the Three as the guardian of this passage because of his 
+abilities.  Tall, strong, and utterly ruthless, he will guard the passage 
+with his life.  He doesn't plan on dying, however.  He has been promised 
+his own kingdom after Nightfall appears.
+~
+human~
+ABCFGT DFHJOVZ -200 HS 0
+60 92 50d10+10000 10d10+500 8d6+28 slash
+-250 -250 -250 -150
+CDEFHIK AB LCDQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#2905
+ratim woman summoner~
+Ratim~
+Ratim, the second of the summoners, is holding back the light.
+~
+Ratim is the twin sister of Mitar, and the exact opposite of him.  Trained 
+since birth to control the light, her job is to make sure the light doesn't 
+reach Nightfall till it is ready.  But do not belive that she is saintly. 
+She is just as evil as her brother, maybe even more so.  And her powers far 
+surpass that of her brother...
+~
+human~
+ABCGR DFGHJOTUVZ -300 CDEHS 0
+70 168 10d100+14500 10d100+5000 10d15+50 divine
+-350 -350 -350 -300
+EFHKN AB CDLPQS 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#2906
+unspeakable terror~
+the Unspeakable Terror~
+The Unspeakable Terror rages around the room!
+~
+Trapped here for thousands of years, the Terror grew bored.  Now, it has 
+been freed to assist Nightfall in its coming.  Focusing all of its rage 
+into its attacks, you can see why they call it the Terror.
+~
+human~
+ACFGT DFHJPTVZ -400 CDEHS 0
+75 170 10d100+15000 10d100+5000 10d35+75 shbite
+-350 -350 -350 -200
+EFHKN AB CDLPQS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#2907
+Rynix pupils~
+Rynix~
+Slitted pupils stare from out of the darkness.
+~
+Rynix is a dark elf outcast from his own society for his "anti-social" 
+behavior.  Recruited by the Three, he remains here as the final guard for 
+Nightfall and Mokil.
+~
+elf~
+ABCFGT FGHJOQVZ -200 HS 0
+75 176 10d100+14500 10d100+2500 10d25+75 slash
+-300 -300 -300 -200
+EFHKN AB CDLPQS 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#2908
+mokil summoner man~
+Mokil~
+Mokil, the third of the summoners, is preparing the summon Nightfall!
+~
+Mokil is the oldest of the summoners.  White hair hangs past his 
+shoulders in a wild tangle.  Grey eyes glance at you momentarily, then 
+return to the focus of his attention.  At the moment, he is preparing the 
+final spell that would release Nightfall from its prison.
+~
+human~
+ABCGR DFGHJOTUVZ -400 CDEHS 0
+80 180 10d100+19500 10d100+10000 10d40+180 blast
+-400 -400 -400 -300
+CEFHK AB CDLPQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#2909
+nightfall~
+Nightfall~
+The darkness envelopes you and draws you into death.
+~
+Nightfall is a demon who was trapped here thousands of years 
+ago with the Unspeakable Terror.  Its anger has grown to be 
+a dull rage that will not be relieved until it has its revenge.  
+It plans to doom the world to eternal darkness, and usher in a new realm...
+~
+bear~
+ACFGR CDEFGHJOPTUVZ -600 CDEHS 0
+85 185 10d100+22500 10d100+10000 10d50+170 wrath
+-500 -500 -500 -300
+CDEFHIKNO ABP CEILDQ 0
+stand stand none 0
+AGV ABCDEFHJKUV large 0
+#0
+
+
+
+#OBJECTS
+#2900
+nightfang fang~
+a Nightfang~
+The fang of a nightbeast lies here.~
+bone~
+weapon EHJT AN
+dagger 6 10 pierce H
+55 10 10 P
+A
+19 3
+A
+18 3
+#2901
+blue sapphire boots~
+blue star sapphire boots~
+A pair of sapphire boots shine in the light.~
+crystal~
+armor BGT AG
+12 12 12 6 3
+65 50 50 P
+A
+19 3
+A
+18 1
+A
+2 8
+#2902
+blue sapphire leggings~
+blue star sapphire leggings~
+A set of sapphire leggings shine in the light.~
+crystal~
+armor BGT AF
+12 12 12 6 3
+65 50 50 P
+A
+19 4
+A
+18 1
+A
+5 5
+A
+3 -5
+#2903
+blue key~
+a blue key~
+A blue key lies here.~
+steel~
+key 0 A
+0 0 0 0 0
+1 10 10 P
+#2904
+night blade~
+a night blade~
+A dark blade has been stuck into the ground.~
+steel~
+weapon EMT AN
+sword 6 10 slash C
+60 50 50 P
+A
+19 3
+A
+18 3
+#2905
+blue sapphire belt~
+a blue star sapphire belt~
+A belt made of sapphire shines in the light.~
+crystal~
+armor BGT AL
+13 13 13 4 3
+70 30 30 P
+A
+19 4
+A
+18 2
+A
+4 5
+A
+3 5
+#2906
+blue sapphire armguards~
+blue star sapphire armguards~
+A set of sapphire armguards shine in the light.~
+crystal~
+armor BGT AI
+13 13 13 4 3
+70 50 50 P
+A
+19 4
+A
+18 1
+A
+4 5
+A
+3 5
+#2907
+star key~
+a star key~
+A key with stars on it lies here.~
+iron~
+key 0 A
+0 0 0 0 0
+1 10 10 P
+#2908
+night key~
+a night key~
+A key as dark as night sits here.~
+steel~
+key 0 A
+0 0 0 0 0
+1 10 10 P
+#2909
+blue sapphire globe~
+a blue star sapphire globe~
+a sapphire globe shines brightly in the light.~
+crystal~
+armor BGT AQ
+12 12 12 4 3
+75 10 10 P
+A
+19 4
+A
+18 2
+A
+2 8
+#2910
+blue sapphire shard~
+a blue star sapphire shard~
+A shard of sapphire shines brightly in the light.~
+crystal~
+light BGT A
+0 0 -1 0 0
+75 50 50 P
+A
+19 3
+A
+18 2
+A
+13 25
+#2911
+blue sapphire bracer~
+a blue star sapphire bracer~
+A sapphire bracer shines brightly in the light.~
+crystal~
+armor BGT AM
+12 12 12 4 3
+75 30 30 P
+A
+19 3
+A
+18 2
+A
+1 5
+#2912
+blue sapphire neckchain~
+a blue star sapphire neckchain~
+A sapphire neckchain shines brightly in the light.~
+crystal~
+armor BGT AC
+12 12 12 4 3
+75 40 40 P
+A
+19 3
+A
+18 2
+A
+5 5
+#2913
+sapphire key~
+a sapphire key~
+A sapphire key lies in the dirt.~
+crystal~
+key 0 A
+0 0 0 0 0
+1 10 10 P
+#2914
+blue sapphire breastplate~
+a blue star sapphire breastplate~
+A sapphire breastplate shines brightly in the light.~
+crystal~
+armor BGT AD
+13 13 13 8 3
+80 100 50 P
+A
+19 3
+A
+18 3
+A
+5 8
+A
+13 25
+#2915
+blue sapphire helm~
+a blue star sapphire helm~
+A helm made of sapphire shines brightly in the light.~
+crystal~
+armor BGT AE
+13 13 13 8 3
+80 50 50 P
+A
+19 4
+A
+18 3
+A
+4 8
+A
+3 8
+#2916
+blue sapphire rod~
+a blue star sapphire rod~
+A rod of sapphire shines brightly in the light.~
+crystal~
+armor BGT AO
+14 14 14 8 3
+85 50 50 P
+A
+19 5
+A
+18 1
+A
+13 30
+#2917
+blue sapphire sword~
+a blue star sapphire sword~
+A sword made of sapphire shines brightly in the light.~
+crystal~
+weapon BGMT AN
+sword 9 10 slash DH
+85 50 50 P
+A
+19 6
+A
+18 6
+A
+13 20
+#2918
+nightfall lifeforce~
+Nightfall's lifeforce~
+The lifeforce of Nightfall still exists...~
+etherealness~
+armor ABEFGHJLMT AO
+0 0 0 0 0
+85 10 10 P
+A
+19 5
+A
+13 40
+A
+5 5
+#2919
+diary~
+a diary~
+A diary lies here on the ground, waiting to be read.~
+paper~
+trash 0 0
+0 0 0 0 0
+1 500 10 P
+E
+diary~
+There is some writing:
+
+To those that are reading this, welcome.  My name is unimportant, since I 
+will most likely be dead by now.  I have come here on a journey to stop 
+the summoning of a powerful demon named Nightfall.
+Nightfall went on a terrible rampage thousands of years ago.  When all 
+seemed dark (no pun intended), a powerful mage wearing a strange set of 
+sapphire eq appeared, sealed Nightfall in a containment field, and 
+placed him here in the cave.  Unfortunately, the hero was trapped in the 
+cave when it collapsed.  He must surely be dead by now.
+Three strange men have now appeared.  It is their intention to break the 
+seal that holds Nightfall back and allow it to wreak havoc on this world.  
+I know that I do not stand much chance against the demon, but I must try none 
+the less.  
+The first of the summoners you will meet is Mitar.  His spell knowledge
+is limited to only the spells required for releasing Nightfall, 
+so he should be no challenge.  Being that I have no armor or weapons, 
+save my wits, I must attempt to sneak past him.  If I succeed, then you 
+will hear from me again.  If I do now, then good luck on your quest warrior.
+
+The writing ends here.
+~
+#2920
+diary~
+a diary~
+A diary waits to be read.~
+paper~
+trash 0 0
+0 0 0 0 0
+1 500 10 P
+E
+diary~
+There is some writing:
+
+If you are reading this, then well done.  I apologize that I did not 
+leave you information on Ratim, but she must not have been too much 
+trouble if you are here.  If you are hurt, please use the healing room 
+upstairs and to the left.
+The next obstacle that you will face is the Unspeakable Terror.  It is a 
+minor demon that was sealed in here along with Nightfall.  It is a 
+dangerous foe.  Worse yet, once you enter its domain, you may not leave 
+till you have slain it (unless you have another method of getting through).
+It's domain begins one east of here. As for myself, I know a way to get 
+past it and it's door without problem.  If all goes well I will see you
+on the other side.
+
+The writing ends here.
+~
+#2921
+diary~
+a diary~
+A diary lies here, waiting to be read.~
+paper~
+trash 0 0
+0 0 0 0 0
+1 500 0 P
+E
+diary~
+There is some writing:
+
+My time is near I'm afraid.  I did not know about the warrior they hired, 
+and I've been badly wounded.  To come so close and yet fail is maddening, 
+but yet there is something I can still do.
+Mokil is the third and final summoner.  He is also he most powerful of 
+the Three.  He is directly to the north of me, and will not probably 
+attack you.  He is the last person required to summon Ni(a bloodstain 
+obliterates the rest of the word).
+I have grown weak.  I must part with my last bit of knowledge that will 
+help you on your quest.  Mokil is a tough person, but he, like all 
+monsters in this wretched cave, is weak against attacks of light.  
+Unfortunately, all weapons with that ability have disappeared from this 
+world.  However, (another bloodstain)il is weak against c
+
+The diary ends in midsentence.  The warrior probably used the last of his 
+strength to write the contents of the diary.
+~
+#2922
+corpse~
+a corpse of a warrior~
+The corpse of a brave warrior rests here.~
+bone~
+container 0 0
+10 0 0 10 100
+0 3000 0 P
+E
+belt~
+It read Thor.  A name which probably got his a lot of ribbing from his 
+friends, but suited him well in the end.
+~
+E
+corpse~
+This is the corpse of the author of those diaries.  He is dressed in 
+light clothing, and has several serious wounds (of course, he's in no 
+condition to worry about them).  There is some writing on his belt.
+~
+#2923
+potion bravery~
+a potion of bravery~
+A potion of bravery lies on the ground.~
+glass~
+potion G AO
+20 'heal' 'heal' 'reserved' 'reserved'
+50 10 10 P
+#2924
+chair~
+a chair~
+A chair sits here.~
+wood~
+furniture 0 A
+1 300 EH 100 100
+0 0 0 P
+#2925
+table~
+a table~
+A table is here.~
+wood~
+furniture 0 A
+3 1000 EHK 100 100
+0 0 0 P
+#2926
+null object~
+A null object~
+A null object does not exist here.  Ignore it.~
+stone~
+trash RT A
+0 0 0 0 0
+1 1000 0 P
+~
+#2927
+bed~
+a bed~
+A comfortable looking bed sits here.~
+wood~
+furniture 0 A
+3 1000 BEHK 100 0
+0 0 0 P
+#2928
+statue mitar~
+A statue of Mitar~
+A statue of Mitar stands here.~
+stone~
+trash T A
+0 0 0 0 0
+0 1000 0 P
+#2929
+statue ratim~
+A statue of Ratim~
+A statue of Ratim stands here.~
+stone~
+trash T A
+0 0 0 0 0
+0 1000 0 P
+#2930
+statue mokil~
+A statue of Mokil~
+A statue of Mokil stands here.~
+stone~
+trash T A
+0 0 0 0 0
+0 1000 0 P
+#2931
+dresser~
+a dresser~
+A large dresser sits against one wall.~
+wood~
+furniture 0 A
+1 200 BEHK 100 100
+0 1000 0 P
+#2932
+blue sapphire ring~
+a blue star sapphire ring~
+A ring made of sapphire shines brightly in the light.~
+crystal~
+armor BGT AB
+12 12 12 8 3
+85 10 10 P
+A
+19 4
+A
+18 3
+A
+13 20
+#0
+
+
+
+#ROOMS
+#2900
+Cave Entrance~
+You have arrived at the mouth of a cave.  Oddly enough, the surrouding 
+terrain does not appear hilly, nor does it seem like the type of area 
+that would have a cave.  Mounds of dirt scattered about show signs of 
+fresh digging.  You notice the gleam of a plaque from one of the piles of 
+dirt.  The mouth of the cave leads down.
+~
+0 4 2
+E
+plaque~
+This is the area Nightfall, by Gynix.  Written, designed, and built by
+Gynix.  Be careful, it's going to be a bumpy ride....
+~
+D2
+You see nothing special.
+~
+~
+0 -1 16223
+D5
+Pretty hard to see in the dark i'm afraid.
+~
+~
+0 -1 2901
+S
+#2901
+Dark Gates~
+After a long walk downwards (I hope you have a light source), you have 
+arrived at the bottom of the stairs.  Ahead of you is a set of large, jet 
+black gates.  The rock around you is a strange type that you do not 
+recognize.  It is a deep black, and very smooth.  Luckily, the rock under 
+your feet seems to have been roughened by someone, so your feet can still 
+get traction. 
+~ 
+0 9 0
+D0
+Darkness...
+~
+gates~
+1 -1 2903
+D4
+The light of day.
+~
+~
+0 -1 2900
+S
+#2902
+Southwest Corner of the Chamber~
+This is the southwest side of the dark chamber.  The walls, floor, and 
+ceiling are all made of some kind of rock you don't recognize.  Light 
+seems to just fall into it.  It would be difficult to figure out where 
+the walls were, except for the little twinkles of white light scattered 
+about, giving this whole chamber the illusion of night.
+~
+0 9 0
+D0
+Darkness...
+~
+~
+0 -1 2905
+D1
+Darkness...
+~
+~
+0 -1 2903
+S
+#2903
+Entrance to the Star Chamber~
+You have entered a large underground chamber within the cave.  The walls, 
+floor, and ceiling are all made of some dark stone.  Light seems to fall 
+into it.  It would be difficult to see where the walls are, except for 
+the white twinkles scattered about, that give the whole chamber the 
+illusion of the nighttime sky.
+~
+0 9 0
+D0
+Darkness...
+~
+~
+0 -1 2906
+D1
+Darkness...
+~
+~
+0 -1 2904
+D2
+Darkness...
+~
+gates~
+1 -1 2901
+D3
+Darkness...
+~
+~
+0 -1 2902
+S
+#2904
+Southwest Corner of the Chamber~
+This is the southwest corner of the chamber.  The walls are made of a 
+black stone you have't seen before.  Light seems to fall into it.  It 
+would be difficult to see where the walls are, except for the white 
+twinkles that are scattered about, giving the whole chamber the feeling 
+of nighttime.
+~
+0 9 0
+D0
+Darkness...
+~
+~
+0 -1 2907
+D3
+Darkness...
+~
+~
+0 -1 2903
+S
+#2905
+West Side of the Chamber~
+This is the west side of the star chamber.  The walls, floor, and ceiling 
+are all made of some black stone you haven't seen before.  Light seems to 
+fall into it, and disappear.  It would be difficult to see where the 
+walls are, except there are white sprinkles scattered about, giving the 
+whole chamber the illusion of the nighttime sky.
+~
+0 9 0
+D0
+Darkness...
+~
+~
+0 -1 2908
+D1
+Darkness...
+~
+~
+0 -1 2906
+D2
+Darkness...
+~
+~
+0 -1 2902
+S
+#2906
+Center of the Starry Chamber~
+This is the center of the chamber.  The walls have faded into the black 
+distance, as if they had never been there.  The ceiling and floor are 
+made of the same black material you saw before.  The white sprinkles 
+remain, giving the chamber the look of the nighttime sky.  You look down 
+at your feet, but only succeed into making yourself dizzy from sheer vertigo.
+~
+0 9 0
+D0
+Darkness...
+~
+~
+0 -1 2909
+D1
+Darkness...
+~
+~
+0 -1 2907
+D2
+Darkness...
+~
+~
+0 -1 2903
+D3
+Darkness...
+~
+~
+0 -1 2905
+S
+#2907
+East Side of the Starry Chamber~
+This is the east side of the starry chamber.  The walls, ceiling, and 
+floor are all made of a strange black stone that you haven't seen 
+before.  Light seems to be sucked away, and barely has an effect on the 
+room.  White twinkles adorn the walls, giving the chamber the look of 
+night.  You have an urge to look up and count stars, or look for 
+constellations.
+~
+0 9 0
+D0
+Darkness...
+~
+~
+0 -1 2910
+D2
+Darkness...
+~
+~
+0 -1 2904
+D3
+Darkness...
+~
+~
+0 -1 2906
+S
+#2908
+Northwest Side of the Chamber~
+You have arrived at the northwest side of the chamber in one piece.  The 
+black stone still makes up the floor, walls, and ceiling.  However, a new 
+feature has been added: a stairway down.  You can leave the pretty 
+sprinkles by going down, or go back into the chamber back leaving east or 
+south.
+~
+0 9 0
+D1
+Darkness...
+~
+~
+0 -1 2909
+D2
+Darkness...
+~
+~
+0 -1 2905
+D5
+Darkness...
+~
+~
+0 -1 2911
+S
+#2909
+North Side of the Chamber~
+This is the north side of the chamber.  The walls are still made of the 
+light-absorbing black stone. However, the stars are less frequent here, 
+making it more difficult to discern the features of the room.  However, 
+you are able to ascertain that you can leave west, south, and east.
+~
+0 9 0
+D1
+Darkness...
+~
+~
+0 -1 2910
+D2
+Darkness...
+~
+~
+0 -1 2906
+D3
+Darkness...
+~
+~
+0 -1 2908
+S
+#2910
+Northeast Side of the Chamber~
+This is the northeast side of the star-filled chamber.  The walls are 
+still made of the black stone, and light is still sucked away.  However, 
+the white sprinkles here are nearly non-existant, and as a result you 
+nearly ran into a wall.  You can leave west and south.
+~
+0 9 0
+D2
+Darkness...
+~
+~
+0 -1 2907
+D3
+Darkness...
+~
+~
+0 -1 2909
+S
+#2911
+Downstairs Passageway~
+You have reached the bottom of the stairs.  The passage is dark, but made 
+of natural stone at least.  Your light shines the way for you quite 
+well.  An object lies on the ground, bearing closer inspection.  You can 
+head back up, or explore further and leave west.
+~
+0 9 0
+D3
+Darkness...
+~
+~
+0 -1 2912
+D4
+Darkness...
+~
+~
+0 -1 2908
+S
+#2912
+Stone Passageway~
+This is about the middle of the stone passageway.  In the distance to 
+your west, you can see a wall approaching.  The ceiling looms closely 
+above you, but looks quite sturdy.  You can leave east or west.
+~
+0 9 0
+D1
+Darkness...
+~
+~
+0 -1 2911
+D3
+Darkness...
+~
+~
+0 -1 2913
+S
+#2913
+End of the Stone Passageway~
+You have reached the end of the stone passageway.  A light can be 
+detected from the north, and a strong sense of magic emenates from 
+there.  You can head back the way you came by leaving east, or can 
+explore the magical interference by heading north.
+~
+0 9 0
+D0
+A light and magic is there.
+~
+~
+0 -1 2914
+D1
+Darkness...
+~
+~
+0 -1 2912
+S
+#2914
+The First Circle~
+You have entered a large cavern that appears to have been tunneled out of 
+the rock.  The walls are smooth, and made of the black material you saw 
+earlier.  You cannot tell how high the ceiling is, thanks to the 
+light-absorbing properties of the rock.  In the center of the room is a 
+large circle, appearing black on the dirt floor.  It appears that this 
+cavern is used for powerful magical spells.  But what kind?  A blue door 
+is on the west wall.  Your study of it tells you that that no magic 
+could break it down.
+~
+0 9 0
+D2
+Darkness...
+~
+~
+0 -1 2913
+D3
+A door is in the way!
+~
+blue door~
+2 2903 2915
+S
+#2915
+The Sloping Passage~
+The passageway slopes downward here, leading into the darkness.  The 
+walls are made of that strange black stone again.  However, there are 
+plenty of white sprinkles to help guide you on your way.  You can head 
+back east through the blue door, or can head south into the darkness.
+~
+0 9 0
+D1
+A door is in the way!
+~
+blue door~
+2 2903 2914
+D2
+Darkness...
+~
+~
+0 -1 2916
+S
+#2916
+The Sloping Passage~
+The passage slopes further downward.  Darkness still surrounds you, 
+enhanced in part by the black walls.  The sprinkles are still here.  If 
+anything, they are out in stronger force than before.  You can head back 
+to the north, or explore further to the south.
+~
+0 9 0
+D0
+Darkness...
+~
+~
+0 -1 2915
+D2
+Darkness...
+~
+~
+0 -1 2917
+S
+#2917
+The Sloping Passage~
+The passage goes even further downward.  It seems to be leveling out, 
+however.  The black walls are still here; however there are so many of the 
+white sprinkles that you almost do not need a light source.  You can head 
+south, or go back to the north.
+~
+0 9 0
+D0
+Darkness...
+~
+~
+0 -1 2916
+D2
+Darkness...
+~
+~
+0 -1 2918
+S
+#2918
+The Guardian~
+You have reached a room that is only slightly wider than the passageway 
+you were in.  There are niches in the wall that provide space for the 
+guardian to sleep and keep his few possessions.  However, the guardian 
+that lives here will probably not like being disturbed. 
+~
+0 9 0
+D0
+Darkness...
+~
+~
+0 -1 2917
+D2
+Darkness...
+~
+~
+0 -1 2919
+S
+#2919
+The Light~
+The chamber has grown much lighter now, and you can even turn off your 
+light source.  The walls are made of stone, and look quite sturdy.  A 
+stairway leads up, into some very bright light.  You can also leave 
+north, and return to the chamber.
+~
+0 8 0
+D0
+Darkness....
+~
+~
+0 -1 2918
+D4
+Light...
+~
+~
+0 -1 2920
+S
+#2920
+The Light~
+You are on a stairway of light, probably created by some powerful magic.  
+It envelopes everything around it (including you) in a soft, comforting 
+light.  You can continue upwards, or leave downwards.
+~
+0 8 0
+D4
+Light...
+~
+~
+0 -1 2921
+D5
+Light...
+~
+~
+0 -1 2919
+S
+#2921
+The Light~
+You are on the stairway of light, which stretches upwards and  
+downwards.  The soft warm light surrounds you, making you feel better.  
+There is an inscription on one wall that bears inspection. 
+~
+0 8 0
+E
+inscription~
+This stairway of light was erected so that Nightfall would not be able to 
+escape, even if he got loose from his prison.
+~
+D4
+Light...
+~
+~
+0 -1 2922
+D5
+Light...
+~
+~
+0 -1 2920
+S
+#2922
+The Landing~
+You have finally reached the top of the staircase.  The light stretches 
+around in all direction, and seems to emenate from the walls entirely.  
+You feel a sense of magic from the north, which requires your immediate 
+attention.
+~
+0 8 0
+D0
+Light and magic...
+~
+~
+0 -1 2923
+D5
+Light...
+~
+~
+0 -1 2921
+S
+#2923
+The Second Circle~
+You have entered a large chamber filled of light.  Every direction that 
+you look shows you nothing but light, with the exception of the north 
+wall.  On the floor of the north side of the room a black door with a 
+pattern of stars on it exists.  In the center of the room a circle of 
+brighter light plays along the floor in a carefree manner.  You can leave 
+south.  A black door, contrasting the white light in the room, fills the 
+north wall, blocking further travel in that direction.
+~
+0 8 0
+D2
+Light...
+~
+~
+0 -1 2922
+D5
+Nothing special.
+~
+black door~
+2 2907 2924
+S
+#2924
+The Dark Stairway~
+This stairway leads down into the darkness once again.  The wall is made 
+of the light-absorbing black stone you saw earlier, and contains very few 
+sprinkles.  You can go further down the stairway, or can leave west into 
+a well-lit room. You can also head back up.
+~
+0 9 0
+D3
+A well-lit room.
+~
+~
+0 -1 2949
+D4
+Darkness...
+~
+black door~
+2 2907 2923
+D5
+Darkness...
+~
+~
+0 -1 2925
+S
+#2925
+The Dark Landing~
+You have reached the bottom of the dark staircase.  The landing is made 
+of some natural stone, but you detect a magical field in effect. A black 
+door sits on the east wall, beckoning you.  You can also go back up. 
+~
+0 9 0
+D1
+Darkness...
+~
+black door~
+2 2907 2929
+D4
+Darkness...
+~
+~
+0 -1 2924
+S
+#2926
+Chamber of the Terror~
+This is the chamber where the Unspeakable Terror lives.  It is a dark and 
+frightening place.  To make things worse, the bones of the fallen 
+warriors that came before you crunch under your feet.  They sound like a
+gunshot in the stillness of the air.  Everything seems to be holding its 
+breath, as if waiting for something to happen.
+~
+0 8201 0
+D1
+Darkness...
+~
+~
+0 -1 2927
+D2
+Darkness...
+~
+~
+0 -1 2929
+S
+#2927
+Chamber of the Terror~
+This is the chamber where the Unspeakable Terror lives.  It is a dark and 
+frightening place.  To make things worse, the bones of the fallen 
+warriors that came before you crunch under your feet.  They sound like a 
+gunshot in the stillness of the air.  Everything seems to be holding its 
+breath, as if waiting for something to happen.
+~
+0 8201 0
+D1
+Darkness...
+~
+~
+0 -1 2928
+D2
+Darkness...
+~
+~
+0 -1 2930
+D3
+Darkness...
+~
+~
+0 -1 2926
+S
+#2928
+Chamber of the Terror~
+This is the chamber where the Unspeakable Terror lives.  It is a dark and 
+frightening place.  To make things worse, the bones of the fallen 
+warriors that came before you crunch under your feet.  They sound like a 
+gunshot in the stillness of the air.  Everything seems to be holding its 
+breath, as if waiting for something to happen.
+~
+0 8201 0
+D2
+Darkness...
+~
+~
+0 -1 2931
+D3
+Darkness...
+~
+~
+0 -1 2927
+S
+#2929
+Chamber of the Terror~
+This is the chamber where the Unspeakable Terror lives.  It is a dark and 
+frightening place.  To make things worse, the bones of the fallen 
+warriors that came before you crunch under your feet.  They sound like a 
+gunshot in the stillness of the air.  Everything seems to be holding its 
+breath, as if waiting for something to happen.
+~
+0 8201 0
+D0
+Darkness...
+~
+~
+0 -1 2926
+D1
+Darkness...
+~
+~
+0 -1 2930
+D2
+Darkness...
+~
+~
+0 -1 2932
+D3
+There's a door in the way!
+~
+black door~
+2 2908 2925
+S
+#2930
+Chamber of the Terror~
+This is the chamber where the Unspeakable Terror lives.  It is a dark and 
+frightening place.  To make things worse, the bones of the fallen 
+warriors that came before you crunch under your feet.  They sound like a 
+gunshot in the stillness of the air.  Everything seems to be holding its 
+breath, as if waiting for something to happen.
+~
+0 8201 0
+D0
+Darkness...
+~
+~
+0 -1 2927
+D1
+Darkness...
+~
+~
+0 -1 2931
+D2
+Darkness...
+~
+~
+0 -1 2933
+D3
+Darkness...
+~
+~
+0 -1 2929
+S
+#2931
+Chamber of the Terror~
+This is the chamber where the Unspeakable Terror lives.  It is a dark and 
+frightening place.  To make things worse, the bones of the fallen 
+warriors that came before you crunch under your feet.  They sound like a 
+gunshot in the stillness of the air.  Everything seems to be holding its 
+breath, as if waiting for something to happen.
+~
+0 8201 0
+D0
+Darkness...
+~
+~
+0 -1 2928
+D2
+Darkness...
+~
+~
+0 -1 2934
+D3
+Darkness...
+~
+~
+0 -1 2930
+S
+#2932
+Chamber of the Terror~
+This is the chamber where the Unspeakable Terror lives.  It is a dark and 
+frightening place.  To make things worse, the bones of the fallen 
+warriors that came before you crunch under your feet.  They sound like a 
+gunshot in the stillness of the air.  Everything seems to be holding its 
+breath, as if waiting for something to happen.
+~
+0 8201 0
+D0
+Darkness...
+~
+~
+0 -1 2929
+D1
+Darkness...
+~
+~
+0 -1 2933
+S
+#2933
+Chamber of the Terror~
+This is the chamber where the Unspeakable Terror lives.  It is a dark and 
+frightening place.  To make things worse, the bones of the fallen 
+warriors that came before you crunch under your feet.  They sound like a 
+gunshot in the stillness of the air.  Everything seems to be holding its 
+breath, as if waiting for something to happen.
+~
+0 8201 0
+D0
+Darkness...
+~
+~
+0 -1 2930
+D1
+Darkness...
+~
+~
+0 -1 2934
+D3
+Darkness...
+~
+~
+0 -1 2932
+S
+#2934
+Chamber of the Terror~
+This is the chamber where the Unspeakable Terror lives.  It is a dark and 
+frightening place.  To make things worse, the bones of the fallen 
+warriors that came before you crunch under your feet.  They sound like a 
+gunshot in the stillness of the air.  Everything seems to be holding its 
+breath, as if waiting for something to happen.  There is a black door in 
+the floor of room.  It can be opened, but only if you have the right key...
+~
+0 8201 0
+D0
+Darkness...
+~
+~
+0 -1 2931
+D3
+Darkness...
+~
+~
+0 -1 2933
+D5
+There's a door there!
+~
+black door~
+2 2908 2935
+S
+#2935
+Shadow Passage~
+The passage slopes downward, leading towards your next encounter (and 
+possibly your destiny).  There are a few dim torches on the wall.  They 
+don't cast enough light to light the hall, but they do cast enough to 
+create shadows; hideous shadows that seem to follow your every step.  
+You can go down the stairs, or can rejoin the Terror by leaving up.
+~
+0 9 0
+D4
+There's a door there!
+~
+~
+0 2908 2934
+D5
+Darkness...
+~
+~
+0 -1 2936
+S
+#2936
+Shadowy Landing~
+You have reached the bottom of the shadowy stairway and have come out on 
+a flat landing.  The torches still remain, but in fewer numbers.  They 
+seem to be positioned to allow most of the light to focus into the 
+center of the room, but leave the corners of the room as dark as night.  
+The entire effect serves to unnerve you.  You can head back up the 
+stairs, or leave north.
+~
+0 8201 0
+D0
+Darkness...
+~
+~
+0 -1 2937
+D4
+Darkness...
+~
+~
+0 -1 2935
+S
+#2937
+Dark Hallway~
+The torches here have been snuffed out recently, and are still smoking.  
+The hallway is pitch black, making it difficult to see even with your 
+light source.  The walls are normal rock, and look sturdy.  Some powerful 
+magic must exist here.  You can leave south or east.
+~
+0 8201 0
+D1
+Darkness...
+~
+~
+0 -1 2938
+D2
+Darkness...
+~
+~
+0 -1 2936
+S
+#2938
+Before the Last Circle~
+Your quest has nearly come to an end.  To the north is the third circle 
+and the third summoner.  You start to leave the room, but notice some 
+object lying in the corner that require your attention.
+~
+0 8201 0
+D0
+The third circle.
+~
+~
+0 -1 2939
+D3
+Darkness...
+~
+~
+0 -1 2937
+S
+#2939
+The Third Circle~
+This is the third and final circle that you will encounter in your 
+quest.  The walls are made of the black stone you saw earlier.  Its
+light-absorbing properties seem more powerful than ever.  Save your 
+light source, the room is devoid of any lighting fixtures or spells.  A 
+black circle with stars in it sits in the center of the room, along with 
+a black altar.  High above you in the ceiling is a door made entirely of 
+sapphire.  Strong magical bonds hold it tightly shut.  Only a properly 
+made key could open it.  Engraved on the surface of the door is the word 
+'Nightfall'.
+~
+0 8192 0
+D2
+Darkness, and probably safety.
+~
+~
+0 -1 2938
+D4
+Nightfall's prison.
+~
+sapphire door~
+2 2913 2941
+S
+#2940
+Nightfall's Prison~
+You are standing in the middle of a large grassy field.  Dark clouds 
+overhead show signs of an impending storm.  A warm wind teases you and 
+plays around your hair.  It's almost like someone took a field and put it 
+under glass, except you don't see any glass.
+~
+0 8192 0
+D0
+A field.
+~
+~
+0 -1 2943
+D1
+A field.
+~
+~
+0 -1 2941
+S
+#2941
+Nightfall's Prison~
+You are standing in the middle of a large grassy field.  Dark clouds 
+overhead show signs of an impending storm.  A warm wind teases you and 
+plays around your hair.  It's almost like someone took a field and put it 
+under glass, except you don't see any glass.  A sapphire door is set in 
+the ground, and can be opened if you possess the proper key.
+~
+0 8192 0
+D0
+A field.
+~
+~
+0 -1 2944
+D1
+A field.
+~
+~
+0 -1 2942
+D3
+A field.
+~
+~
+0 -1 2940
+D5
+A sapphire door.
+~
+sapphire door~
+2 2913 2939
+S
+#2942
+Nightfall's Prison~
+You are standing in the middle of a large grassy field.  Dark clouds 
+overhead show signs of an impending storm.  A warm wind teases you and 
+plays around your hair.  It's almost like someone took a field and put it 
+under glass, except you don't see any glass.
+~
+0 8192 0
+D0
+A field.
+~
+~
+0 -1 2945
+D3
+A field.
+~
+~
+0 -1 2941
+S
+#2943
+Nightfall's Prison~
+You are standing in the middle of a large grassy field.  Dark clouds 
+overhead show signs of an impending storm.  A warm wind teases you and 
+plays around your hair.  It's almost like someone took a field and put it 
+under glass, except you don't see any glass.
+~
+0 8192 0
+D0
+A field.
+~
+~
+0 -1 2946
+D1
+A field.
+~
+~
+0 -1 2944
+D2
+A field.
+~
+~
+0 -1 2940
+S
+#2944
+Nightfall's Prison~
+You are standing in the middle of a large grassy field.  Dark clouds 
+overhead show signs of an impending storm.  A warm wind teases you and 
+plays around your hair.  It's almost like someone took a field and put it 
+under glass, except you don't see any glass.
+~
+0 8192 0
+D0
+A field.
+~
+~
+0 -1 2947
+D1
+A field.
+~
+~
+0 -1 2945
+D2
+A field.
+~
+~
+0 -1 2941
+D3
+A field.
+~
+~
+0 -1 2943
+S
+#2945
+Nightfall's Prison~
+You are standing in the middle of a large grassy field.  Dark clouds 
+overhead show signs of an impending storm.  A warm wind teases you and 
+plays around your hair.  It's almost like someone took a field and put it 
+under glass, except you don't see any glass.
+~
+0 8192 0
+D0
+A field.
+~
+~
+0 -1 2948
+D2
+A field.
+~
+~
+0 -1 2942
+D3
+A field
+~
+~
+0 -1 2944
+S
+#2946
+Nightfall's Prison~
+You are standing in the middle of a large grassy field.  Dark clouds 
+overhead show signs of an impending storm.  A warm wind teases you and 
+plays around your hair.  It's almost like someone took a field and put it 
+under glass, except you don't see any glass.
+~
+0 8192 0
+D1
+A field.
+~
+~
+0 -1 2947
+D2
+A field.
+~
+~
+0 -1 2943
+S
+#2947
+Nightfall's Prison~
+You are standing in the middle of a large grassy field.  Dark clouds 
+overhead show signs of an impending storm.  A warm wind teases you and 
+plays around your hair.  It's almost like someone took a field and put it 
+under glass, except you don't see any glass.
+~
+0 8192 0
+D1
+A field.
+~
+~
+0 -1 2948
+D2
+A field.
+~
+~
+0 -1 2944
+D3
+A field.
+~
+~
+0 -1 2946
+S
+#2948
+Nightfall's Prison~
+You are standing in the middle of a large grassy field.  Dark clouds 
+overhead show signs of an impending storm.  A warm wind teases you and 
+plays around your hair.  It's almost like someone took a field and put it 
+under glass, except you don't see any glass.
+~
+0 8192 0
+D2
+A field.
+~
+~
+0 -1 2945
+D3
+A field.
+~
+~
+0 -1 2947
+S
+#2949
+A Bedroom~
+You have found a small bedroom tucked into a corner of the hallway.  It 
+is well lit, and furnished with expensive furniture.  You almost feel 
+refreshed just coming in here, after all that darkness.  You can leave east.
+~
+0 8 0
+D1
+Darkness...
+~
+~
+0 -1 2924
+M 125 H 125
+S
+#0
+
+
+
+#SPECIALS
+M 2905 spec_cast_mage Load to: Ratim
+M 2906 spec_cast_mage Load to: The Unspeakable Terror
+M 2907 spec_cast_mage Load to: Rynix
+M 2908 spec_cast_mage Load to: Mokil
+M 2909 spec_cast_mage Load to: Nightfall
+S
+
+
+
+#TRIGGERS
+S
+
+
+
+#RESETS
+M 1 2900 1 2901 1 Load the strange creature
+M 1 2901 3 2902 1 Load the nightling
+M 1 2901 3 2904 1 Load the nightling
+M 1 2902 1 2908 1 Load the night beast
+E 0 2900 0 16 A nightfang is loaded wielded of the night beast
+M 1 2901 3 2910 1 Load the nightling
+O 0 2919 0 2911 A diary loaded to Downstairs Passageway
+M 1 2903 1 2914 1 Load Mitar
+E 0 2901 0 8 Blue star sapphire boots is loaded on the feet of Mitar
+E 0 2902 0 7 Blue star sapphire leggings is loaded on the legs of Mitar
+G 0 2903 0 A blue key is given to Mitar
+M 1 2904 1 2918 1 Load the night warrior
+E 0 2904 0 16 A night blade is loaded wielded of the night warrior
+M 1 2905 1 2923 1 Load Ratim
+E 0 2905 0 13 A blue star sapphire belt is loaded around the waist of Ratim
+E 0 2906 0 10 Blue star sapphire armguards is loaded on the arms of Ratim
+G 0 2907 0 A star key is given to Ratim
+O 0 2920 0 2925 A diary loaded to The Dark Landing
+M 1 2906 1 2927 1 Load the Unspeakable Terror
+G 0 2908 0 A night key is given to the Unspeakable Terror
+E 0 2909 0 18 A blue star sapphire globe is loaded floating nearby of the Unspeakable Terror
+E 0 2910 0 0 A blue star sapphire shard is loaded as a light of the Unspeakable Terror
+M 1 2907 1 2936 1 Load Rynix
+E 0 2911 0 14 A blue star sapphire bracer is loaded on the left wrist of Gynix
+E 0 2912 0 3 A blue star sapphire neckchain is loaded around the neck (1) of Gynix
+O 0 2921 0 2938 A diary loaded to Before the Last Circle
+O 0 2922 0 2938 A corpse of a warrior loaded to Before the Last Circle
+M 1 2908 1 2939 1 Load Mokil
+G 0 2913 0 A sapphire key is given to Mokil
+E 0 2914 0 5 A blue star sapphire breastplate is loaded on the body of Mokil
+E 0 2915 0 6 A blue star sapphire helm is loaded over the head of Mokil
+M 1 2909 1 2946 1 Load Nightfall
+E 0 2916 0 17 A blue star sapphire rod is loaded held in the hands of Nightfall
+E 0 2917 0 16 A blue star sapphire sword is loaded wielded of Nightfall
+G 0 2918 0 Nightfall's lifeforce is given to Nightfall
+E 0 2932 0 1 A blue star sapphire ring is loaded on the left finger of Nightfall
+O 0 2924 0 2949 A chair loaded to A Bedroom
+O 0 2925 0 2949 A table loaded to A Bedroom
+O 0 2927 0 2949 A bed loaded to A Bedroom
+O 0 2928 0 2906 A statue of mitar loaded
+O 0 2929 0 2921 A statue of ratim loaded
+O 0 2930 0 2937 A statue of mokil loaded
+O 0 2931 0 2949 A dresser loaded to A Bedroom
+D 0 2900 0 1
+D 0 2903 2 1
+D 0 2914 3 4
+D 0 2915 1 4
+D 0 2923 5 4
+D 0 2924 4 4
+D 0 2925 1 4
+D 0 2929 3 4
+D 0 2934 5 4
+D 0 2935 4 4
+D 0 2939 4 4
+D 0 2941 5 4
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

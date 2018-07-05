@@ -1,0 +1,3819 @@
+#AREADATA
+Name Middle Xanth~
+Builders None~
+VNUMs 23400 23537
+Credits [  5  65] Genjuro  Middle Xanth~
+Security 9
+End
+
+
+
+#MOBILES
+#23400
+son werewolf~
+The farmer's son~
+A small werewolf is here, growling at you.
+~
+This small werewolf is actually the son of this farming couple.  His
+talent is to transform himself into a werewolf at will.  As you smile at
+him, he walks forward and hesistantly licks your hand before morphing back
+into his human form.  
+~
+human~
+ABT 0 0 500 0
+10 2 3d22+96 3d21+90 2d5+4 bite
+4 4 4 7
+FKM 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23401
+The farmer~
+The farmer~
+The farmer stands here, asking you to tell stories.
+~
+This farmer is the standard for all farmers living near the Gap Chasm. 
+Strong and rugged, he is a man of practicality and common sense.  While not
+too bright nor well cultured, he is still a good man to trust with a hoe.  
+~
+human~
+ABT 0 0 1 0
+15 3 5d30+161 4d30+150 3d5+5 pierce
+1 1 1 5
+FK 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#23402
+wife farmer~
+The farmer's wife~
+The farmer's wife is here, preparing a stew.
+~
+This woman is the typical farmer's wife.  She is leaning towards middle
+age and is slightly thick yet strong.  She is naturally suspicious of all
+strangers to the farming community, and used to being isolated from any
+towns or cities.  
+~
+human~
+ABT 0 0 0 0
+13 2 3d25+100 3d24+80 2d3+2 slap
+2 2 2 6
+FK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23403
+shade donald~
+Donald the Shade~
+A shade is here, trying to talk to you.
+~
+Donald the shade is a good shade.  He only wishes to take over your body
+so that he may fly home and inform his wife where a silver tree is, as to
+ensure her financial problems.  After this, he would leave, a happy soul.  
+~
+human~
+ABOT JTZ B 100 0
+20 2 330d1+1 300d1+1 4d5+10 frbite
+-1 -1 -1 5
+FHK A D 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23404
+dragon gap~
+The Gap Dragon~
+The Gap Dragon is here, about to eat you.
+~
+The Gap Dragon is a huge landbound steam dragon, fully covered with
+armored scales and equipped with large fangs and claws.  As he turns about
+and sees you, he grins evilly and lunges, trying to snap your head off.  
+~
+human~
+ABFT DFJVZc DH 0 0
+65 50 19000d1+100 15000d1+100 10d15+65 frbite
+-500 -500 -500 -500
+ADEFJKMO AB CD I
+stand stand male 0
+AHMV ABCDEFGHIJK huge 0
+#23405
+wiggle~
+The wiggle~
+A wiggle is here, zapping through everything.
+~
+This wiggle resembles a small worm, yet is extremely deadly.  It hovers
+at a random height in the air and ZAP through anything in its path, wood,
+stone, metal, and flesh alike.  
+~
+human~
+ABT JZ 0 -10 0
+10 3 130d1+1 100d1+1 2d5+4 charge
+4 4 4 7
+FK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23406
+centaur herman hermit~
+Herman the Hermit~
+Herman Centaur is here, trying to destroy the wiggles.
+~
+Herman Centaur is an ostracized older centaur.  Exiled from the centaur
+society for being obscene by practicing magic, Herman has chosen to live in
+the wilderness of Xanth alone, summoning his friends, the will-o-the-wisps. 
+~
+human~
+ABT JZ N 100 0
+30 10 950d1+50 750d1+9 5d6+15 crush
+-7 -7 -7 0
+EFIKM AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23407
+thunderhead fracto king~
+King Fracto~
+The King of Thunderheads, Fracto, is here wreaking havoc.
+~
+King Fracto is the lord of all thunderhead clouds.  It has a malicious
+streak and a proud, quick temper.  Right now he is busy trying to destroy
+this forest, and you are in its way!  
+~
+human~
+ABT JQTUZc BH -500 0
+48 20 5000d1+10 1500d1+0 5d10+20 wrath
+-120 -120 -120 -120
+EFGHKO ABEFIQ CD O
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23408
+shade tiny~
+A tiny shade~
+A tiny shade is here, looking for victims.
+~
+~
+human~
+ACGT DJ BH -1000 0
+50 20 5500d1+0 1500d1+0 5d10+25 slash
+-1 -1 -1 -1
+CEFIJK AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23409
+shade small~
+A small shade~
+A small shade is here, trying to take over your body.
+~
+~
+human~
+ACGT DJ BH -1000 0
+53 23 6000d1+0 2000d1+0 5d10+25 slash
+-5 -5 -5 -10
+CEFIJK AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23410
+shade medium~
+A Medium Shade~
+A medium shade is here, laughing insanely.
+~
+~
+human~
+ACGT DJ BH -1000 0
+55 25 7000d1+0 3000d1+0 5d11+26 slash
+-5 -5 -5 -10
+CEFIJK AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23411
+shade large~
+A Large Shade~
+A large shade is floating here.
+~
+~
+human~
+ACGT DJ BH -1000 0
+58 30 8000d1+0 4000d1+0 5d11+30 slash
+-5 -5 -5 -10
+CEFIJK AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#23412
+shade giant~
+A Giant Shade~
+A giant shade is here, absorbing all light.
+~
+~
+human~
+ACGT DJ BH -1000 0
+60 30 9500d1+0 4500d1+0 5d13+28 slash
+-5 -5 -5 -10
+CEFIJK AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#23413
+shade angry~
+An Angry Shade~
+An angry shade is here, moaning loudly.
+~
+~
+human~
+ACGT DJ BH -1000 0
+65 40 10000d1+0 5000d1+0 5d11+30 slash
+-5 -5 -5 -10
+CEFIJK AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge 0
+#23416
+butterfly blue~
+A blue butterfly~
+A blue butterfly is buzzing here.
+~
+This fly LOVES butter.  As it buzzes around, searching for butter, it
+notices you staring at it and flies in closer to get a good look at you.  It
+smells faintly of buttermilk and glows softly in the light.  
+~
+human~
+AGT T 0 0 0
+13 1 3d22+96 3d22+96 2d5+5 grep
+4 4 4 7
+FK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23417
+butterfly red~
+A red butterfly~
+A red butterfly is buzzing here.
+~
+This fly LOVES butter.  As it buzzes around, searching for butter, it
+notices you staring at it and flies in closer to get a good look at you.  It
+smells faintly of buttermilk and glows softly in the light.  
+~
+human~
+AGT T 0 0 0
+13 1 3d22+96 3d22+96 2d5+5 grep
+4 4 4 7
+FK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23418
+butterfly green~
+A green butterfly~
+A green butterfly is buzzing here.
+~
+This fly LOVES butter.  As it buzzes around, searching for butter, it
+notices you staring at it and flies in closer to get a good look at you.  It
+smells faintly of buttermilk and glows softly in the light.  
+~
+human~
+AGT T 0 0 0
+13 1 3d22+96 3d22+96 2d5+5 grep
+4 4 4 7
+FK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23419
+butterfly yellow~
+A yellow butterfly~
+A yellow butterfly is buzzing here.
+~
+This fly LOVES butter.  As it buzzes around, searching for butter, it
+notices you staring at it and flies in closer to get a good look at you.  It
+smells faintly of buttermilk and glows softly in the light.  
+~
+human~
+AGT T 0 0 0
+13 1 3d22+96 3d22+96 2d5+5 grep
+4 4 4 7
+FK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23420
+butterfly gold~
+A gold butterfly~
+A golden butterfly is buzzing here.
+~
+This fly LOVES butter.  As it buzzes around, searching for butter, it
+notices you staring at it and flies in closer to get a good look at you.  It
+smells faintly of buttermilk and glows softly in the light.  
+~
+human~
+AGT T 0 0 0
+13 1 3d22+96 3d22+96 2d5+5 grep
+4 4 4 7
+FK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23421
+zombie~
+A zombie~
+A zombie is shambling along here.
+~
+This zombie smells strongly of dirt and decay.  Rotting gobbets of flesh
+drop off it in clumps as it shuffles along.  It turns to face you with a
+maggot-filled face and attempts to smile, losing its jaw in the process.  
+~
+human~
+ABOT JZ 0 0 0
+25 2 700d1+1 700d1+1 4d5+10 crush
+-2 -2 -2 2
+FIJK 0 I 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23422
+nymph forest~
+A forest nymph~
+A forest nymph is frolicking along here.
+~
+Completely innocent, this nymph forgets everything she has every learned
+and indulges in play only.  With her shapely body and empty mind, you wonder
+how many people have taken advantage of here.  
+~
+human~
+ABT JZ 0 50 0
+23 1 5d30+200 0d0+0 4d5+10 slap
+-2 -2 -2 3
+FIK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23423
+naiad~
+A naiad~
+A naiad is swimming in the water.
+~
+This naiad is a water nymph.  She giggles as she sees you and invites you
+to join her in the water.  Splashing about with her long legs and tossing
+her long hair back, you are VERY tempted to do so.  
+~
+human~
+ABT JZ 0 50 0
+23 1 5d30+200 0d0+0 4d5+10 slap
+-2 -2 -2 3
+FIK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23424
+oread~
+An oread~
+An oread is here, climbing a small mountain.
+~
+This oread is a mountain nymph.  She climbs the mountainside adeptly,
+expertly finding handholds and footholds to scramble upon.  As you smile
+happily at her, she catches the gleam in your eyes and returns the smile.  
+~
+human~
+ABT JZ 0 50 0
+23 1 5d30+200 0d0+0 4d5+10 slap
+-2 -2 -2 3
+FIK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23425
+faun~
+A forest faun~
+A forest faun is playing his pipes here.
+~
+This male faun plays his pipes merrily, never bothering to worry about
+anything.  His very sense of nonchalance fills you with envy, and you wish
+you could kick back and relax everyday the way he does.  
+~
+human~
+ABT JZ 0 50 0
+23 1 5d30+200 0d0+0 4d5+10 slap
+-2 -2 -2 3
+FIK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23426
+kraken giant~
+The giant kraken~
+A giant kraken is growing here.
+~
+This giant kraken is a huge specimen of its species.  A large
+water-dwelling plant, the kraken is a vicious king of its territory. 
+Unfortunately for you, blundering into its home has angered it.  
+~
+human~
+ABCFT DFJVZb 0 -1000 0
+50 40 5000d1+1 2000d1+1 5d10+25 crush
+-200 -200 -200 -200
+AEFHKO A CDI H
+stand stand male 0
+AHMV ABCDEFGHIJKN medium 0
+#23427
+mermaid~
+The mermaid~
+A mermaid is flirting with you here.
+~
+This creature is an attractive mermaid.  With her long wet hair slicked
+back and voluptuous body heaving as she laughs merrily at you, you can see
+why many sailors have fallen victim to their charms.  She invites you to
+swim with her, using a musical and dulcet voice, as pleasing to the ears as
+she is to the eyes.  
+~
+human~
+ACGT JZb 0 0 0
+30 3 10d61+416 10d61+416 5d6+15 slap
+-8 -8 -8 0
+EFKM B I H
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23428
+triton~
+The triton~
+A triton is here, showing off for the mermaids.
+~
+This large musclebound oaf slaps the water violently with his tail,
+showering you with a spray of cold water.  As the mermaids giggle, he beams
+a broad smile and flexes for them.  
+~
+human~
+ACGT JZb 0 0 0
+35 4 10d75+450 10d75+450 5d7+19 grep
+-5 -5 -5 -1
+EFKMO B I 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23429
+grass carnivorous~
+A patch of carnivorous grass~
+A patch of carnivorous grass grows here.
+~
+This patch of carnivorous grass disguises itself as a harmless patch of
+ordinary grass.  It waits for unwary adventurers to sleep upon it, then
+slowly pushes its tendril into the victim's flesh, eating into the victim
+while sapping their strength away.  
+~
+human~
+ABCT JZ 0 -1000 0
+25 2 700d1+10 700d1+10 4d5+12 digestion
+-4 -4 -4 4
+HO AB 0 HI
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23430
+snapdragon plant~
+The snapdragon plant~
+A snapdragon plant is snarling at you.
+~
+This small plant is covered with flowers that resemble a dragon's head. 
+Enchanted by the notion, you bend over to smell the fragile bud, and the
+snapdragon takes a bite out of your nose.  
+~
+human~
+ABCFT DFJZ 0 -100 0
+5 1 1d6+24 1d6+24 2d3+2 bite
+7 7 7 8
+FK A H I
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23431
+snapdragon giant~
+The giant snapdragon~
+A giant snapdragon plant is snapping at you.
+~
+This plant is LARGE.  It is a giant version of the smaller snapdragon
+plants found commonly growing in Xanth.  However, where a common snapdragon
+plant might take a bite off your fingers, this giant snapdragon plant could
+bite off your head.  
+~
+human~
+ABFT DFJZ 0 0 0
+15 4 5d30+161 5d30+161 3d5+7 chomp
+0 0 0 5
+AFKO AB 0 I
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23432
+draco dragon~
+Draco~
+Draco is here, breathing fire in his splendor.
+~
+Draco is huge magnificent dragon, covered with mirror polished iridescent
+scales.  He has claws made from burnished brass, tapered to needle sharp
+points, and a gold-plated snout plates.  He seems to change color as the
+fire he breathes colors the cavern with light, and the jewels of his hoard
+shine rays of color about.  As you gasp in awe, the only thing you can say
+is "You are BEAUTIFUL!"  Draco replies, "You damn me with faint praise."  
+~
+human~
+ABT DFJTVZc DEH 0 0
+53 40 5700d1+1 5000d1+1 5d11+26 flbite
+-230 -230 -230 -230
+ADFHIKMO ABH CD 0
+stand stand male 1000
+AHMV ABCDEFGHIJK huge 0
+#23433
+cockatrice~
+The cockatrice~
+A cockatrice is here, petrifing everything it looks at.
+~
+This ugly creature is a cockatrice.  A rare and endangered species, it
+can turn anything that it makes eye contact with into solid stone.  It is a
+winged reptile hatched from a yolkless egg laid by a rooster and hatched by
+a toad in the necessary warmth of a dungheap.  
+~
+human~
+ABT DFJZ 0 0 0
+37 3 959d1+1 900d1+0 5d6+16 claw
+-10 -10 -10 -1
+FJKM 0 I 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23434
+naga~
+A naga~
+A naga is here, changing forms.
+~
+This naga is currently morphing from snake to human form.  Its green skin
+sloughs off to reveal pinkish human flesh underneath and limbs begin to
+sprout forth.  How disgusting.  
+~
+human~
+ACGT JZ 0 0 0
+20 1 300d1+24 300d1+0 4d5+9 pierce
+-1 -1 -1 5
+FIKM B H I
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23435
+naga guard~
+A naga guard~
+A naga guard is here, watching you.
+~
+This naga guard watches you carefully, then morphs into naga shape.  With
+its powerful muscled snake body, it could easily crush you into a bloody
+pulp.  
+~
+human~
+ACGT JZ 0 0 0
+25 1 400d1+25 400d1+0 4d5+12 pierce
+-4 -4 -4 2
+EFKM 0 H I
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23436
+naga nabob king~
+King Nabob~
+King Nabob, the leader of the naga, is here.
+~
+King Nabob is the king of the naga.  He is a stately old man as a human,
+and a elderly large snake in his snake-form.  Bestowed with intelligence and
+wisdom, he is most suited to be the king of the naga.  
+~
+human~
+ABCT JVZ 0 0 0
+40 5 1200d1+0 1000d1+0 5d7+20 slime
+-13 -13 -13 -2
+EFKMO AB H I
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23437
+naga naldo~
+Naldo Naga~
+Naldo Naga is here, charming the naga girls.
+~
+Naldo Naga is in his human form as the moment.  He is a dashing and
+handsome prince of the naga people, and full of charsima.  
+~
+human~
+ABCT JZ 0 0 0
+30 3 10d61+416 10d61+416 5d6+14 slime
+-8 -8 -8 0
+EFKM AB H I
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23438
+naga nada~
+Nada Naga~
+Nada Naga is relaxing here.
+~
+Nada Naga is the royal princess of the nagas.  She is also one of the
+most beautiful.  With her flowing long hair and large pretty eyes, she would
+make a great bride.  
+~
+human~
+ABT JZ 0 0 0
+35 3 10d80+500 10d80+500 5d7+17 slime
+-10 -10 -10 -1
+EFKMO AB H I
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23439
+dolph prince~
+Prince Dolph~
+Prince Dolph is here, visiting Nada Naga.
+~
+Prince Dolph is the son of Dor and Irene.  As such he has been gifted
+with strong magical talent.  Dolph's talent is to be able to transform
+himself into any creature and speak the language of that species.  He is
+hopelessly in love with Nada Naga and is oblivious to Electra's charms.  
+~
+human~
+ABCT JVZ H 100 0
+33 5 1000d1+20 1000d1+0 5d7+16 smash
+-9 -9 -9 0
+EFIKO AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23440
+electra~
+Electra~
+Electra is here, trying to gain Dolph's love.
+~
+Electra is a young and rather plain girl.  Put under an enchantment of
+sleep by mistake, Prince Dolph woke her, and now must marry her or she will
+die.  Unfortunately, he is also betrothed to Nada Naga, and is much more
+enchanted by her.  
+~
+human~
+ABT JZ 0 0 0
+30 3 800d1+0 800d1+0 5d6+15 slap
+-8 -8 -8 0
+EFJK 0 AB 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#23400
+stew~
+a stew~
+A savory stew in a pot is simmering here.
+~
+wood~
+food 0 AO
+5 5 0 0 0
+0 2 50 P
+#23401
+hoe~
+a hoe~
+A hoe leans against the wall here.
+~
+wood~
+weapon 0 AN
+polearm 4 5 pierce F
+15 7 100 P
+#23402
+leaf silver~
+a silver leaf~
+A leaf made from pure silver shines here.
+~
+silver~
+treasure A AO
+0 0 0 0 0
+20 5 100 P
+A
+2 2
+#23403
+armor gap dragonscale~
+Gap Dragonscale Armor~
+A pile of greenish scales lies here.
+~
+stone~
+armor AHMS AD
+15 15 15 12 0
+65 15 1000 P
+A
+13 50
+A
+18 2
+A
+19 3
+A
+2 2
+A
+17 -2
+#23404
+tooth gap dragon~
+The Gap Dragon's Tooth~
+A long curved tooth lies here.
+~
+stone~
+armor SU AO
+14 14 14 10 0
+65 5 200 P
+A
+19 3
+A
+18 2
+#23405
+wallet dragonskin~
+a dragonskin wallet~
+A large wallet made from the Gap Dragon's hide lies here.
+~
+leather~
+container SUY AK
+20 0 0 20 20
+55 5 1000 P
+#23406
+talon dragon~
+a dragon's talon~
+A long sharp talon lies here, gleaming.
+~
+stone~
+weapon HMS AN
+exotic 9 10 pierce D
+65 15 1000 P
+A
+19 5
+A
+18 5
+A
+1 1
+#23407
+bush pillbox~
+The Pillbox Bush~
+A pillbox bush is growing here.~
+wood~
+container 0 0
+999 0 0 10 0
+0 1000 0 P
+#23408
+pill headache~
+a headache pill~
+A small white pill lies here.
+~
+wood~
+pill 0 A
+20 'cure poison' 'cure disease' 'refresh' ''
+10 1 10 P
+#23409
+pill energy~
+an energy pill~
+A small black pill lies here.
+~
+wood~
+pill 0 A
+20 'cure light' 'cure light' 'cure light' ''
+10 1 10 P
+#23410
+pill birth control~
+a birth control pill~
+A small pink pill lies here.
+~
+wood~
+pill 0 A
+60 'change sex' 'change sex' 'change sex' ''
+10 1 10 P
+#23411
+pill motion sickness~
+a motion sickness pill~
+A small reddish pill lies here.
+~
+wood~
+pill 0 A
+10 'slow' 'calm' 'sleep' ''
+10 1 10 P
+#23412
+pill euphoria~
+a euphoria pill~
+A small multicolored pill lies here.
+~
+wood~
+pill 0 A
+20 'detect magic' 'fly' 'refresh' ''
+10 1 10 P
+#23413
+will wisp~
+A Will-o'-the-Wisp~
+A small light is floating here.
+~
+wood~
+light AS AQ
+0 0 999 0 0
+30 1 100 P
+A
+12 20
+A
+18 2
+A
+3 2
+#23414
+lining silver~
+a silver lining~
+A silky silver lining is shining here.
+~
+silver~
+armor ABSU AK
+11 11 11 10 0
+45 4 100 P
+A
+18 2
+A
+24 -1
+A
+12 20
+A
+5 1
+#23415
+force nature~
+a force of nature~
+A strong force is crackling here.
+~
+glass~
+weapon BFGHMU AN
+exotic 7 7 frbite DFG
+45 20 100 P
+A
+19 5
+A
+18 5
+#23416
+marigold handful~
+a handful of marigolds~
+A bunch of marigolds are growing here.
+~
+wood~
+wand 0 AO
+15 5 5 'fireball' 0
+15 5 100 P
+#23417
+butter pat gold~
+a pat of golden butter~
+A small pat of golden butter lies here.
+~
+wood~
+pill 0 A
+15 'cure light' 'refresh' 'refresh' ''
+13 1 100 P
+#23418
+butter pat blue~
+a pat of blue butter~
+A small pat of blue butter lies here.
+~
+wood~
+pill 0 A
+15 'detect magic' 'detect evil' 'know alignment' ''
+13 1 100 P
+#23419
+pat butter yellow~
+a pat of yellow butter~
+A small pat of yellow butter lies here.
+~
+wood~
+food 0 A
+2 0 0 0 0
+1 1 10 P
+#23420
+tentacle kraken~
+The Kraken's Tentacle~
+A long tough tentacle lies here.
+~
+wood~
+weapon HMS AN
+whip 6 9 slime BH
+50 10 1000 P
+A
+13 30
+A
+19 5
+A
+18 5
+#23421
+brain kraken~
+The Kraken's Brain~
+A small weed-like object lies here.
+~
+wood~
+armor AS AO
+11 11 11 10 0
+50 6 100 P
+A
+13 15
+A
+12 20
+#23422
+leaf kraken~
+a leaf of the kraken~
+A long green leaf lies here.
+~
+wood~
+staff MS AO
+50 10 10 'giant strength' 0
+50 5 500 P
+#23423
+necklace pearl~
+a pearl necklace~
+A necklace made from shiny pearls lies here.
+~
+glass~
+armor ABS AC
+9 9 9 6 0
+30 5 10 P
+A
+3 1
+A
+5 1
+#23424
+trident triton~
+a triton's trident~
+A long black trident lies here.
+~
+stone~
+weapon M AN
+polearm 5 5 thrust DF
+35 10 100 P
+A
+2 1
+A
+19 3
+A
+18 3
+#23425
+imitation dragon steak~
+an imitation dragon steak~
+A small steak of a snapdragon plant lies here.
+~
+wood~
+food 0 A
+1 1 0 0 0
+1 2 50 P
+#23426
+vine eye-queue~
+a eye-queue vine~
+A small eye-queue vine is growing here.
+~
+wood~
+armor AHM AE
+1 1 1 1 0
+0 3 10 P
+A
+4 1
+A
+3 1
+#23427
+vine eye-queue black~
+a black eye-queue vine~
+A small black eye-queue vine is growing here.
+~
+wood~
+armor AHM AE
+1 1 1 1 0
+0 4 10 P
+A
+4 -10
+A
+3 -10
+#23428
+hoard draco's~
+Draco's Hoard~
+A giant pile of jewels and gold lies here.
+~
+glass~
+treasure A AO
+0 0 0 0 0
+50 20 5000 P
+#23429
+butter pat red~
+a pat of red butter~
+A small pat of red butter lies here.
+~
+wood~
+pill 0 A
+15 'armor' 'refresh' 'infravision' ''
+13 1 100 P
+#23430
+butter pat green~
+a pat of green butter~
+A small pat of green butter lies here.
+~
+wood~
+pill 0 A
+15 'create spring' 'create spring' 'create spring' ''
+13 1 100 P
+#23431
+scale silver draco~
+A Silver Scale~
+A bright silver scale from Draco shines here.
+~
+silver~
+treasure AM AO
+0 0 0 0 0
+53 5 2500 P
+A
+24 -2
+A
+19 3
+#23432
+axe limestone~
+a limestone axe~
+An axe made from cold limestone lies here.
+~
+stone~
+weapon S AN
+axe 5 9 crush CH
+40 15 200 P
+A
+18 4
+A
+19 4
+A
+13 25
+#23433
+crown naga nabob~
+The Naga Crown of Nabob~
+An elegant gold crown is shining here.
+~
+gold~
+armor A AE
+10 11 10 8 0
+40 7 100 P
+A
+4 2
+A
+13 25
+#23434
+sleeves naga~
+Sleeves of the Naga~
+A pair of royal sleeves lies here.
+~
+stone~
+armor S AI
+9 9 9 7 0
+30 5 1000 P
+A
+19 2
+A
+2 1
+A
+1 2
+#23435
+dagger limestone~
+a limestone dagger~
+A dagger made from limestone lies here.
+~
+stone~
+weapon MS AN
+dagger 5 6 pierce DH
+30 10 1000 P
+A
+18 3
+A
+19 3
+#23436
+ring naga~
+The Ring of the Naga~
+A ring made from limestone lies here.
+~
+stone~
+armor S AB
+10 10 10 5 0
+35 5 1000 P
+A
+2 1
+A
+18 1
+A
+19 2
+#23437
+leggings nagaskin~
+nagaskin leggings~
+A pair of leggings made from snakeskin lies here.
+~
+leather~
+armor S AF
+10 10 10 5 0
+35 10 400 P
+A
+19 2
+A
+14 25
+#23438
+penny~
+a penny~
+A small penny lies here.
+~
+steel~
+staff ABH AO
+30 1 1 'shocking grasp' 0
+30 1 1 P
+#23439
+dress brown~
+a brown dress~
+A plain brown dress lies here.
+~
+cloth~
+armor S AK
+9 9 9 8 0
+30 5 100 P
+A
+13 10
+A
+12 10
+#23440
+rose black~
+a black rose~
+A beautiful black rose lies here.
+~
+wood~
+staff S AO
+30 1 1 'acid blast' 0
+30 1 100 P
+#23441
+rose red pure~
+a pure red rose~
+A beautiful red rose lies here.
+~
+wood~
+staff S AO
+33 1 1 'charm person' 0
+33 4 100 P
+#23442
+mace xanthian~
+a Xanthian mace~
+A small mace the crackles with energy lies here.
+~
+steel~
+weapon ABMS AN
+mace 4 5 frbite EG
+33 10 1000 P
+A
+18 5
+A
+19 5
+#23443
+amulet sapphire~
+a sapphire amulet~
+A small amulet made from sapphire lies here.
+~
+glass~
+armor MS AC
+10 10 10 5 0
+33 7 1000 P
+A
+13 20
+A
+24 -1
+#0
+
+
+
+#ROOMS
+#23400
+Outside the Forests of Xanth~
+You are south of the forests of middle Xanth.  The air here is bright and
+the sun shines down on you in warmth, bringing an aura of happiness to you. 
+To the south lies the outskirts of the Gap Chasm.  To the north lies the
+dangers of the forest.  
+~
+0 0 1
+D0
+~
+~
+0 0 23383
+D2
+~
+~
+0 0 23401
+S
+#23401
+The Brink of the Gap Chasm~
+You are standing at the brink of the mighty Gap Chasm.  The view down
+shows a great rocky drop to the bottom of the chasm and you can see no safe
+way to travel down.  The other side is at least a mile away, and you cannot
+seem to find a path to get across.  You can see the forests of Xanth not too
+far to the north.  
+~
+0 0 5
+D0
+~
+~
+0 0 23400
+D1
+~
+~
+0 0 23402
+D3
+~
+~
+0 0 23408
+S
+#23402
+The Brink of the Gap Chasm~
+You are standing at the brink of the mighty Gap Chasm.  The view down
+shows a great rocky drop to the bottom of the chasm and you can see no safe
+way to travel down.  The other side is at least a mile away, and you cannot
+seem to find a path to get across.  
+~
+0 0 5
+D1
+~
+~
+0 0 23403
+D3
+~
+~
+0 0 23401
+S
+#23403
+The Brink of the Gap Chasm~
+You are standing at the brink of the mighty Gap Chasm.  The view down
+shows a great rocky drop to the bottom of the chasm and you can see no safe
+way to travel down.  The other side is at least a mile away, and you cannot
+seem to find a path to get across.  
+~
+0 0 5
+D1
+~
+~
+0 0 23404
+D3
+~
+~
+0 0 23402
+S
+#23404
+The Brink of the Gap Chasm~
+You are standing at the brink of the mighty Gap Chasm.  The view down
+shows a great rocky drop to the bottom of the chasm and you can see no safe
+way to travel down.  The other side is at least a mile away, and you cannot
+seem to find a path to get across.  
+~
+0 0 5
+D1
+~
+~
+0 0 23405
+D3
+~
+~
+0 0 23403
+S
+#23405
+The Brink of the Gap Chasm~
+You are standing at the brink of the mighty Gap Chasm.  The view down
+shows a great rocky drop to the bottom of the chasm and you can see no safe
+way to travel down.  The other side is at least a mile away, and you cannot
+seem to find a path to get across.  There is a farm of some type to the
+north.  
+~
+0 0 5
+D0
+~
+~
+0 0 23413
+D1
+~
+~
+0 0 23406
+D3
+~
+~
+0 0 23404
+S
+#23406
+The Brink of the Gap Chasm~
+You are standing at the brink of the mighty Gap Chasm.  The view down
+shows a great rocky drop to the bottom of the chasm and you can see no safe
+way to travel down.  The other side is at least a mile away, and you cannot
+seem to find a path to get across.  
+~
+0 0 5
+D1
+~
+~
+0 0 23407
+D3
+~
+~
+0 0 23405
+S
+#23407
+The Brink of the Gap Chasm~
+You are standing at the brink of the mighty Gap Chasm.  The view down
+shows a great rocky drop to the bottom of the chasm and you can see no safe
+way to travel down.  The other side is at least a mile away, and you cannot
+seem to find a path to get across.  
+~
+0 0 5
+D1
+~
+~
+0 0 23407
+D3
+~
+~
+0 0 23406
+S
+#23408
+The Brink of the Gap Chasm~
+You are standing at the brink of the mighty Gap Chasm.  The view down
+shows a great rocky drop to the bottom of the chasm and you can see no safe
+way to travel down.  The other side is at least a mile away, and you cannot
+seem to find a path to get across.  
+~
+0 0 5
+D1
+~
+~
+0 0 23401
+D3
+~
+~
+0 0 23409
+S
+#23409
+The Brink of the Gap Chasm~
+You are standing at the brink of the mighty Gap Chasm.  The view down
+shows a great rocky drop to the bottom of the chasm and you can see no safe
+way to travel down.  The other side is at least a mile away, and you cannot
+seem to find a path to get across.  
+~
+0 0 5
+D1
+~
+~
+0 0 23408
+D3
+~
+~
+0 0 23410
+S
+#23410
+The Brink of the Gap Chasm~
+You are standing at the brink of the mighty Gap Chasm.  The view down
+shows a great rocky drop to the bottom of the chasm and you can see no safe
+way to travel down.  The other side is at least a mile away, and you cannot
+seem to find a path to get across.  
+~
+0 0 5
+D1
+~
+~
+0 0 23409
+D3
+~
+~
+0 0 23411
+S
+#23411
+The Brink of the Gap Chasm~
+You are standing at the brink of the might Gap Chasm.  Below you lies a
+barely manageable path down through the chasm.  It looks like a very
+difficult path, threaded loosely with rough handholds and footholds, but
+perhaps with your great dexterity, you may be able to make it.  The northern
+brink of the Gap Chasm stretches to the west and east from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 23410
+D3
+~
+~
+0 0 23412
+D5
+~
+~
+0 0 23416
+S
+#23412
+The Brink of the Gap Chasm~
+You are standing at the brink of the mighty Gap Chasm.  The view down
+shows a great rocky drop to the bottom of the chasm and you can see no safe
+way to travel down.  The other side is at least a mile away, and you cannot
+seem to find a path to get across.  
+~
+0 0 5
+D1
+~
+~
+0 0 23411
+D3
+~
+~
+0 0 23412
+S
+#23413
+The Small Farm~
+You are in front of a small farm by the Gap Chasm.  There is a light of a
+fireplace visible from the windows here, and the smell of food cooking makes
+you hungry.  Perhaps you should go in and ask for food and lodging in
+exchange for some work you may do.  
+~
+0 0 0
+D0
+~
+~
+0 0 23414
+D2
+~
+~
+0 0 23405
+S
+#23414
+Inside the Farmhouse~
+You are inside a small farmhouse near the Gap Chasm.  The small three
+member family that resides in here has agreed to let you stay the night, and
+you feel safe and warm in here.  The house is rather simple, filled with
+objects that are much more practical than ornamental, showing that these
+simple people live more by sense than by show.  
+~
+0 8 1
+D1
+~
+~
+0 0 23415
+D2
+~
+~
+0 0 23413
+S
+#23415
+Inside the Farmhouse~
+You are inside the dining room of a small farmhouse near the Gap Chasm. 
+The fireplace here lights the room with a soft orange-yellow glow and fills
+the farmhouse with warmth.  The smell of a meaty stew simmering in a pot
+sets your stomach off in convulsions of hunger.  Although not rich in your
+normal socio-cultural viewpoint, these people are rich in the things they
+need to survive, and can do so without the boundaries of image-conscious
+society.  
+~
+0 8 1
+D3
+~
+~
+0 0 23414
+S
+#23416
+Climbing the North Face of the Gap Chasm~
+You are climbing down the treacherous northern side of the Gap Chasm. 
+Loose rocks and slippery handholds make your trek a dangerous and tiring
+one.  The air is hot and the dry dust makes your eyes water blurringly.  The
+only way down this chasm quickly is to fall, which would lead to certain
+death.  
+~
+0 0 5
+D4
+~
+~
+0 0 23411
+D5
+~
+~
+0 0 23417
+S
+#23417
+Climbing the North Face of the Gap Chasm~
+You are climbing down the treacherous northern side of the Gap Chasm. 
+Loose rocks and slippery handholds make your trek a dangerous and tiring
+one.  The air is hot and the dry dust makes your eyes water blurringly.  The
+only way down this chasm quickly is to fall, which would lead to certain
+death.  
+~
+0 0 5
+D4
+~
+~
+0 0 23416
+D5
+~
+~
+0 0 23418
+S
+#23418
+Climbing the North Face of the Gap Chasm~
+You are climbing down the northern face of the Gap Chasm.  The view here
+is awe-inspiring yet rather frightening at this height.  The chasm is a huge
+rock canyon, with nothing in sight except the walls of rock, the bottom far
+beneath you, and the skies above.  
+~
+0 0 5
+D1
+~
+~
+0 0 23419
+D4
+~
+~
+0 0 23417
+S
+#23419
+Climbing the North Face of the Gap Chasm~
+You are climbing down the treacherous northern side of the Gap Chasm. 
+Loose rocks and slippery handholds make your trek a dangerous and tiring
+one.  The air is hot and the dry dust makes your eyes water blurringly.  The
+only way down this chasm quickly is to fall, which would lead to certain
+death.  
+~
+0 0 5
+D1
+~
+~
+0 0 23420
+D3
+~
+~
+0 0 23418
+D5
+~
+~
+0 0 23421
+S
+#23420
+Climbing the North Face of the Gap Chasm~
+You are climbing down the treacherous northern side of the Gap Chasm. 
+Loose rocks and slippery handholds make your trek a dangerous and tiring
+one.  The air is hot and the dry dust makes your eyes water blurringly.  The
+only way down this chasm quickly is to fall, which would lead to certain
+death.  
+~
+0 0 5
+D3
+~
+~
+0 0 23419
+S
+#23421
+Climbing the North Face of the Gap Chasm~
+You are climbing down the northern face of the Gap Chasm.  The view here
+is awe-inspiring yet rather frightening at this height.  The chasm is a huge
+rock canyon, with nothing in sight except the walls of rock, the bottom far
+beneath you, and the skies above.  
+~
+0 0 5
+D2
+~
+~
+0 0 23422
+D4
+~
+~
+0 0 23419
+S
+#23422
+Climbing the North Face of the Gap Chasm~
+You are climbing down the treacherous northern side of the Gap Chasm. 
+Loose rocks and slippery handholds make your trek a dangerous and tiring
+one.  The air is hot and the dry dust makes your eyes water blurringly.  The
+only way down this chasm quickly is to fall, which would lead to certain
+death.  
+~
+0 0 5
+D0
+~
+~
+0 0 23421
+D1
+~
+~
+0 0 23423
+D5
+~
+~
+0 0 23424
+S
+#23423
+Climbing the North Face of the Gap Chasm~
+You are climbing down the northern face of the Gap Chasm.  The view here
+is awe-inspiring yet rather frightening at this height.  The chasm is a huge
+rock canyon, with nothing in sight except the walls of rock, the bottom far
+beneath you, and the skies above.  
+~
+0 0 5
+D3
+~
+~
+0 0 23422
+S
+#23424
+Climbing the North Face of the Gap Chasm~
+You are climbing down the northern face of the Gap Chasm.  The view here
+is awe-inspiring yet rather frightening at this height.  The chasm is a huge
+rock canyon, with nothing in sight except the walls of rock, the bottom far
+beneath you, and the skies above.  
+~
+0 0 5
+D4
+~
+~
+0 0 23422
+D5
+~
+~
+0 0 23425
+S
+#23425
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D1
+~
+~
+0 0 23436
+D2
+~
+~
+0 0 23432
+D3
+~
+~
+0 0 23426
+D4
+~
+~
+0 0 23424
+S
+#23426
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D1
+~
+~
+0 0 23425
+D2
+~
+~
+0 0 23431
+D3
+~
+~
+0 0 23427
+S
+#23427
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D1
+~
+~
+0 0 23426
+D2
+~
+~
+0 0 23430
+D3
+~
+~
+0 0 23428
+S
+#23428
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D1
+~
+~
+0 0 23427
+D2
+~
+~
+0 0 23429
+D3
+~
+~
+0 0 23428
+S
+#23429
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D0
+~
+~
+0 0 23428
+D1
+~
+~
+0 0 23430
+D3
+~
+~
+0 0 23429
+S
+#23430
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D0
+~
+~
+0 0 23427
+D1
+~
+~
+0 0 23431
+D3
+~
+~
+0 0 23429
+D4
+~
+~
+0 0 23440
+S
+#23431
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D0
+~
+~
+0 0 23426
+D1
+~
+~
+0 0 23432
+D3
+~
+~
+0 0 23430
+S
+#23432
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D0
+~
+~
+0 0 23425
+D1
+~
+~
+0 0 23433
+D3
+~
+~
+0 0 23431
+S
+#23433
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D0
+~
+~
+0 0 23436
+D1
+~
+~
+0 0 23434
+D3
+~
+~
+0 0 23432
+S
+#23434
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D0
+~
+~
+0 0 23437
+D1
+~
+~
+0 0 23435
+D3
+~
+~
+0 0 23433
+S
+#23435
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D0
+~
+~
+0 0 23438
+D1
+~
+~
+0 0 23439
+D3
+~
+~
+0 0 23434
+S
+#23436
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  You are on the bottom of
+the Gap Chasm.  The floor here is rocky and bare, providing a somewhat flat
+footing surface.  As you gaze about yourself, all you see are the high
+canyon walls to the north and south, and the level bottom stretching from
+east to west.  You had better get out of here soon, unless you want to meet
+the Gap Dragon!  
+~
+0 0 5
+D1
+~
+~
+0 0 23437
+D2
+~
+~
+0 0 23433
+D3
+~
+~
+0 0 23425
+S
+#23437
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D1
+~
+~
+0 0 23438
+D2
+~
+~
+0 0 23434
+D3
+~
+~
+0 0 23436
+S
+#23438
+The Gap Chasm~
+You are on the bottom of the Gap Chasm.  The floor here is rocky and
+bare, providing a somewhat flat footing surface.  As you gaze about
+yourself, all you see are the high canyon walls to the north and south, and
+the level bottom stretching from east to west.  You had better get out of
+here soon, unless you want to meet the Gap Dragon!  
+~
+0 0 5
+D1
+~
+~
+0 0 23438
+D2
+~
+~
+0 0 23435
+D3
+~
+~
+0 0 23437
+S
+#23439
+The Tiny Cave~
+You have discovered a tiny cave deep inside the Gap Chasm.  It is dark
+here, and slightly muddy.  The darkness feels rather nice, after the
+scorching heat of climbing the Gap Chasm, and you a tempted to stay here
+awhile and regain your strength.  Then you notice something in the shadows
+moving closer to you.  
+~
+0 0 0
+D3
+~
+~
+0 0 23435
+S
+#23440
+Climbing the South Face of the Gap Chasm~
+You are climbing down the southern face of the Gap Chasm.  The view here
+is awe-inspiring yet rather frightening at this height.  The chasm is a huge
+rock canyon, with nothing in sight except the walls of rock, the bottom far
+beneath you, and the skies above.  
+~
+0 0 5
+D4
+~
+~
+0 0 23441
+D5
+~
+~
+0 0 23430
+S
+#23441
+Climbing the South Face of the Gap Chasm~
+You are climbing down the southern face of the Gap Chasm.  The view here
+is awe-inspiring yet rather frightening at this height.  The chasm is a huge
+rock canyon, with nothing in sight except the walls of rock, the bottom far
+beneath you, and the skies above.  
+~
+0 0 5
+D1
+~
+~
+0 0 23442
+D5
+~
+~
+0 0 23440
+S
+#23442
+Climbing the South Face of the Gap Chasm~
+You are climbing down the treacherous southern side of the Gap Chasm. 
+Loose rocks and slippery handholds make your trek a dangerous and tiring
+one.  The air is hot and the dry dust makes your eyes water blurringly.  The
+only way down this chasm quickly is to fall, which would lead to certain
+death.  
+~
+0 0 5
+D3
+~
+~
+0 0 23441
+D4
+~
+~
+0 0 23443
+S
+#23443
+Climbing the South Face of the Gap Chasm~
+You are climbing down the treacherous southern side of the Gap Chasm. 
+Loose rocks and slippery handholds make your trek a dangerous and tiring
+one.  The air is hot and the dry dust makes your eyes water blurringly.  The
+only way down this chasm quickly is to fall, which would lead to certain
+death.  
+~
+0 0 5
+D3
+~
+~
+0 0 23444
+D4
+~
+~
+0 0 23446
+D5
+~
+~
+0 0 23442
+S
+#23444
+Climbing the South Face of the Gap Chasm~
+You are climbing down the southern face of the Gap Chasm.  The view here
+is awe-inspiring yet rather frightening at this height.  The chasm is a huge
+rock canyon, with nothing in sight except the walls of rock, the bottom far
+beneath you, and the skies above.  
+~
+0 0 5
+D1
+~
+~
+0 0 23443
+D4
+~
+~
+0 0 23445
+S
+#23445
+Climbing the South Face of the Gap Chasm~
+You are climbing down the treacherous southern side of the Gap Chasm. 
+Loose rocks and slippery handholds make your trek a dangerous and tiring
+one.  The air is hot and the dry dust makes your eyes water blurringly.  The
+only way down this chasm quickly is to fall, which would lead to certain
+death.  
+~
+0 0 5
+D5
+~
+~
+0 0 23444
+S
+#23446
+Climbing the South Face of the Gap Chasm~
+You are climbing down the treacherous southern side of the Gap Chasm. 
+Loose rocks and slippery handholds make your trek a dangerous and tiring
+one.  The air is hot and the dry dust makes your eyes water blurringly.  The
+only way down this chasm quickly is to fall, which would lead to certain
+death.  
+~
+0 0 5
+D1
+~
+~
+0 0 23447
+D5
+~
+~
+0 0 23443
+S
+#23447
+Climbing the South Face of the Gap Chasm~
+You are climbing down the southern face of the Gap Chasm.  The view here
+is awe-inspiring yet rather frightening at this height.  The chasm is a huge
+rock canyon, with nothing in sight except the walls of rock, the bottom far
+beneath you, and the skies above.  
+~
+0 0 5
+D3
+~
+~
+0 0 23446
+D4
+~
+~
+0 0 23448
+S
+#23448
+Climbing the South Face of the Gap Chasm~
+You are climbing down the southern face of the Gap Chasm.  The view here
+is awe-inspiring yet rather frightening at this height.  The chasm is a huge
+rock canyon, with nothing in sight except the walls of rock, the bottom far
+beneath you, and the skies above.  
+~
+0 0 5
+D4
+~
+~
+0 0 23449
+D5
+~
+~
+0 0 23447
+S
+#23449
+Climbing the South Face of the Gap Chasm~
+You are climbing down the treacherous southern side of the Gap Chasm. 
+Loose rocks and slippery handholds make your trek a dangerous and tiring
+one.  The air is hot and the dry dust makes your eyes water blurringly.  The
+only way down this chasm quickly is to fall, which would lead to certain
+death.  
+~
+0 0 5
+D4
+~
+~
+0 0 23451
+D5
+~
+~
+0 0 23448
+S
+#23451
+The Southern Brink of the Gap Chasm~
+You have reached the top southern brink of the Gap Chasm.  The view of
+the chasm from here is breathtaking although the sheer heights you are at
+makes you feel a bit woozy.  Somewhere to the south lies the Good Magician
+Humphrey's castle.  The path into the Gap Chasm is down.  
+~
+0 0 3
+D2
+~
+~
+0 0 23452
+D5
+~
+~
+0 0 23449
+S
+#23452
+The Pillbox Grove~
+You are in a small grove in Xanth filled with pillbox bushes.  The
+rectangular plants contain different pills, but there is no way for you to
+tell which pill does what, unless you try them all.  Trusting upon luck is
+not a good way to explore Xanth, but the choice is yours.  
+~
+0 0 3
+D0
+~
+~
+0 0 23451
+D1
+~
+~
+0 0 23453
+S
+#23453
+The Pillbox Grove~
+You are in a small grove in Xanth filled with pillbox bushes.  The
+rectangular plants contain different pills, but there is no way for you to
+tell which pill does what, unless you try them all.  Trusting upon luck is
+not a good way to explore Xanth, but the choice is yours.  
+~
+0 0 3
+D2
+~
+~
+0 0 23454
+D3
+~
+~
+0 0 23452
+S
+#23454
+The Middle Forests of Xanth~
+You are walking through the middle forests of Xanth.  The lighting here
+is dim, but you can still see the path in front of you.  Strange creatures
+let out eerie sounds, but you strengthen your heart and push onwards.  
+~
+0 0 3
+D0
+~
+~
+0 0 23453
+D2
+~
+~
+0 0 23455
+S
+#23455
+The Middle Forests of Xanth~
+You are walking through the middle forests of Xanth.  The lighting here
+is dim, but you can still see the path in front of you.  Strange creatures
+let out eerie sounds, but you strengthen your heart and push onwards.  
+~
+0 0 3
+D0
+~
+~
+0 0 23454
+D1
+~
+~
+0 0 23456
+D3
+~
+~
+0 0 23463
+S
+#23456
+The Drilled Trees~
+You are inside the middle forests of Xanth.  As you explore about, you
+notice that most of the trees in this area are dead.  Upon further
+examination, you see the cause of their death...  Hundreds of small holes
+riddle these trees from top to bottom!  There must be a swarm of wiggles
+nearby.  
+~
+0 0 3
+D2
+~
+~
+0 0 23457
+D3
+~
+~
+0 0 23455
+S
+#23457
+The Drilled Trees~
+You are inside the middle forests of Xanth.  As you explore about, you
+notice that most of the trees in this area are dead.  Upon further
+examination, you see the cause of their death...  Hundreds of small holes
+riddle these trees from top to bottom!  There must be a swarm of wiggles
+nearby.  
+~
+0 0 3
+D0
+~
+~
+0 0 23456
+D2
+~
+~
+0 0 23458
+S
+#23458
+The Drilled Trees~
+You are inside the middle forests of Xanth.  As you explore about, you
+notice that most of the trees in this area are dead.  Upon further
+examination, you see the cause of their death...  Hundreds of small holes
+riddle these trees from top to bottom!  There must be a swarm of wiggles
+nearby.  
+~
+0 0 3
+D0
+~
+~
+0 0 23457
+D1
+~
+~
+0 0 23461
+D3
+~
+~
+0 0 23459
+S
+#23459
+The Drilled Trees~
+You are inside the middle forests of Xanth.  As you explore about, you
+notice that most of the trees in this area are dead.  Upon further
+examination, you see the cause of their death...  Hundreds of small holes
+riddle these trees from top to bottom!  There must be a swarm of wiggles
+nearby.  
+~
+0 0 3
+D1
+~
+~
+0 0 23458
+D2
+~
+~
+0 0 23460
+S
+#23460
+The Drilled Trees~
+You are inside the middle forests of Xanth.  As you explore about, you
+notice that most of the trees in this area are dead.  Upon further
+examination, you see the cause of their death...  Hundreds of small holes
+riddle these trees from top to bottom!  There must be a swarm of wiggles
+nearby.  
+~
+0 0 3
+D0
+~
+~
+0 0 23459
+S
+#23461
+The Drilled Trees~
+You are inside the middle forests of Xanth.  As you explore about, you
+notice that most of the trees in this area are dead.  Upon further
+examination, you see the cause of their death...  Hundreds of small holes
+riddle these trees from top to bottom!  There must be a swarm of wiggles
+nearby.  
+~
+0 0 3
+D2
+~
+~
+0 0 23462
+D3
+~
+~
+0 0 23458
+S
+#23462
+The Drilled Trees~
+You are inside the middle forests of Xanth.  As you explore about, you
+notice that most of the trees in this area are dead.  Upon further
+examination, you see the cause of their death...  Hundreds of small holes
+riddle these trees from top to bottom!  There must be a swarm of wiggles
+nearby.  
+~
+0 0 3
+D0
+~
+~
+0 0 23461
+S
+#23463
+The Light Forest~
+You are in a light forest in the middle of Xanth.  The vegetation here
+takes the form of a few trees here and there, and several bushes and weeds
+that sprout from the ground in small clumps.  The air is fresh and cool,
+invigorating you and lifting your spirits.  
+~
+0 0 3
+D1
+~
+~
+0 0 23455
+D2
+~
+~
+0 0 23464
+S
+#23464
+The Light Forest~
+You are in a light forest in the middle of Xanth.  The vegetation here
+takes the form of a few trees here and there, and several bushes and weeds
+that sprout from the ground in small clumps.  The air is fresh and cool,
+invigorating you and lifting your spirits.  
+~
+0 0 3
+D0
+~
+~
+0 0 23463
+D2
+~
+~
+0 0 23465
+S
+#23465
+The Light Forest~
+You are in a light forest in the middle of Xanth.  The vegetation here
+takes the form of a few trees here and there, and several bushes and weeds
+that sprout from the ground in small clumps.  The air is fresh and cool,
+invigorating you and lifting your spirits.  
+~
+0 0 3
+D0
+~
+~
+0 0 23464
+D1
+~
+~
+0 0 23466
+D3
+~
+~
+0 0 23486
+S
+#23466
+The Storm~
+You are in the middle of a light forest in Xanth.  A great storm has
+settled here, blowing forceful gusts of wind and rain everywhere.  A few
+trees crack under the pressue, sending branches and leaves flying in all
+directions.  The rain begins to fall in sheets of water, drenching you and
+your clothes, and the winds threaten to slam you into a tree at any moment. 
+~
+0 0 3
+D1
+~
+~
+0 0 23518
+D2
+~
+~
+0 0 23467
+D3
+~
+~
+0 0 23465
+S
+#23467
+The Storm~
+You are in the middle of a light forest in Xanth.  A great storm has
+settled here, blowing forceful gusts of wind and rain everywhere.  A few
+trees crack under the pressue, sending branches and leaves flying in all
+directions.  The rain begins to fall in sheets of water, drenching you and
+your clothes, and the winds threaten to slam you into a tree at any moment. 
+~
+0 0 3
+D0
+~
+~
+0 0 23466
+D2
+~
+~
+0 0 23468
+S
+#23468
+The Storm~
+You are in the middle of a light forest in Xanth.  A great storm has
+settled here, blowing forceful gusts of wind and rain everywhere.  A few
+trees crack under the pressue, sending branches and leaves flying in all
+directions.  The rain begins to fall in sheets of water, drenching you and
+your clothes, and the winds threaten to slam you into a tree at any moment. 
+~
+0 0 3
+D0
+~
+~
+0 0 23467
+D1
+~
+~
+0 0 23469
+S
+#23469
+The Middle Forests of Xanth~
+You are in the Middle Forests of Xanth.  This area of the forest is
+rather damp, as if a large storm has just passed through it, and many of the
+trees have been knocked over.  Puddles of muddy water cover the ground,
+making your footing here unsure.  A cold chill still fills the air and
+random bolts of electricity spark erratically.  
+~
+0 0 3
+D2
+~
+~
+0 0 23470
+D3
+~
+~
+0 0 23468
+S
+#23470
+The Middle Forests of Xanth~
+You are in the Middle Forests of Xanth.  This area of the forest is
+rather damp, as if a large storm has just passed through it, and many of the
+trees have been knocked over.  Puddles of muddy water cover the ground,
+making your footing here unsure.  A cold chill still fills the air and
+random bolts of electricity spark erratically.  
+~
+0 0 3
+D0
+~
+~
+0 0 23469
+D2
+~
+~
+0 0 23471
+S
+#23471
+The Forest Clearing~
+You are in a small forest clearing.  The air is calm and still here and
+the aura of peace surrounds this glade.  A small brook trickles by you and
+various birds chirp loudly as you enter the clearing.  This feels like a
+good place to rest during your adventures.  
+~
+0 0 0
+D0
+~
+~
+0 0 23470
+D1
+~
+~
+0 0 23472
+S
+#23472
+The Woodland Trail~
+You are following a woodland trail that stretches from the north to
+south.  The scenery here is beautiful, a vast array of wild flowers and
+bushes filling your sight.  The very air seems heavy with the exotic scents
+of the flora that flourish here.  
+~
+0 0 3
+D2
+~
+~
+0 0 23473
+D3
+~
+~
+0 0 23471
+S
+#23473
+The Woodland Trail~
+You are following a woodland trail that stretches from the north to
+south.  The scenery here is beautiful, a vast array of wild flowers and
+bushes filling your sight.  The very air seems heavy with the exotic scents
+of the flora that flourish here.  
+~
+0 0 3
+D0
+~
+~
+0 0 23472
+D2
+~
+~
+0 0 23474
+S
+#23474
+The Woodland Trail~
+You are following a woodland trail that stretches from the north to
+south.  The scenery here is beautiful, a vast array of wild flowers and
+bushes filling your sight.  The very air seems heavy with the exotic scents
+of the flora that flourish here.  
+~
+0 0 3
+D0
+~
+~
+0 0 23473
+D2
+~
+~
+0 0 23475
+S
+#23475
+The Woodland Trail~
+You are following a woodland trail that stretches from the north to
+south.  The scenery here is beautiful, a vast array of wild flowers and
+bushes filling your sight.  The very air seems heavy with the exotic scents
+of the flora that flourish here.  
+~
+0 0 3
+D0
+~
+~
+0 0 23474
+D2
+~
+~
+0 0 23538
+S
+#23476
+The Grass Path~
+You are walking along a grassy hill, admiring the landscape.  The ground
+is covered by a lush green grass, fragrant to the smell.  A number of birds
+swoop down to investigate you, then fly off, chirping noisily.  
+~
+0 0 2
+D1
+~
+~
+0 0 23477
+D3
+~
+~
+0 0 23338
+S
+#23477
+The Hills of Grass~
+You are exploring a number of grassy hills in Xanth.  You can see the
+enchanted path off to the west, and the hills extend to the southeast.  The
+serenity of these hills relaxs you and makes you feel at one with nature.  A
+cool breeze ruffles your hair playfully and a suckersap bird wings overhead.
+~
+0 0 2
+D2
+~
+~
+0 0 23478
+D3
+~
+~
+0 0 23476
+S
+#23478
+The Hills of Grass~
+You are exploring a number of grassy hills in Xanth.  You can see the
+enchanted path off to the west, and the hills extend to the southeast.  The
+serenity of these hills relaxs you and makes you feel at one with nature.  A
+cool breeze ruffles your hair playfully and a suckersap bird wings overhead.
+~
+0 4 2
+D0
+~
+~
+0 0 23477
+D1
+~
+~
+0 0 23479
+S
+#23479
+The Hills of Grass~
+You are exploring a number of grassy hills in Xanth.  You can see the
+enchanted path off to the west, and the hills extend to the southeast.  The
+serenity of these hills relaxs you and makes you feel at one with nature.  A
+cool breeze ruffles your hair playfully and a suckersap bird wings overhead.
+~
+0 4 2
+D1
+~
+~
+0 0 23480
+D3
+~
+~
+0 0 23478
+S
+#23480
+The Butterfly Field~
+You are inside a large grove completely filled with butterflies.  These
+butter-loving flies are colored with every color of the rainbow, and a few
+iridescent colored butterflies float here and there.  
+~
+0 0 2
+D1
+~
+~
+0 0 23481
+D2
+~
+~
+0 0 23483
+D3
+~
+~
+0 0 23479
+S
+#23481
+The Butterfly Field~
+You are inside a large grove completely filled with butterflies.  These
+butter-loving flies are colored with every color of the rainbow, and a few
+iridescent colored butterflies float here and there.  
+~
+0 0 2
+D1
+~
+~
+0 0 23482
+D2
+~
+~
+0 0 23484
+D3
+~
+~
+0 0 23480
+S
+#23482
+The Butterfly Field~
+You are inside a large grove completely filled with butterflies.  These
+butter-loving flies are colored with every color of the rainbow, and a few
+iridescent colored butterflies float here and there.  
+~
+0 0 2
+D2
+~
+~
+0 0 23485
+D3
+~
+~
+0 0 23481
+S
+#23483
+The Butterfly Field~
+You are inside a large grove completely filled with butterflies.  These
+butter-loving flies are colored with every color of the rainbow, and a few
+iridescent colored butterflies float here and there.  
+~
+0 0 2
+D0
+~
+~
+0 0 23480
+D1
+~
+~
+0 0 23484
+S
+#23484
+The Butterfly Field~
+You are inside a large grove completely filled with butterflies.  These
+butter-loving flies are colored with every color of the rainbow, and a few
+iridescent colored butterflies float here and there.  
+~
+0 0 2
+D0
+~
+~
+0 0 23481
+D1
+~
+~
+0 0 23485
+D3
+~
+~
+0 0 23483
+S
+#23485
+The Butterfly Field~
+You are inside a large grove completely filled with butterflies.  These
+butter-loving flies are colored with every color of the rainbow, and a few
+iridescent colored butterflies float here and there.  
+~
+0 0 2
+D0
+~
+~
+0 0 23482
+D3
+~
+~
+0 0 23484
+S
+#23486
+The Dense Forest Path~
+You are walking along a dark forest path in Xanth.  The trees loom close
+together, their large branches and leaves stopping the light from getting
+through.  Strange glowing eyes watch you closely as you pass through, and a
+slight mist covers the ground, disorienting you.  As you stumble into a
+gnarled tree, you wonder where this path leads to.  
+~
+0 5 3
+D1
+~
+~
+0 0 23465
+D3
+~
+~
+0 0 23487
+S
+#23487
+The Dense Forest Path~
+You are walking along a dark forest path in Xanth.  The trees loom close
+together, their large branches and leaves stopping the light from getting
+through.  Strange glowing eyes watch you closely as you pass through, and a
+slight mist covers the ground, disorienting you.  As you stumble into a
+gnarled tree, you wonder where this path leads to.  
+~
+0 1 3
+D1
+~
+~
+0 0 23486
+D2
+~
+~
+0 0 23488
+D3
+~
+~
+0 0 23500
+S
+#23488
+The Dense Forest Path~
+You are walking along a dark forest path in Xanth.  The trees loom close
+together, their large branches and leaves stopping the light from getting
+through.  Strange glowing eyes watch you closely as you pass through, and a
+slight mist covers the ground, disorienting you.  As you stumble into a
+gnarled tree, you wonder where this path leads to.  
+~
+0 1 3
+D0
+~
+~
+0 0 23487
+D1
+~
+~
+0 0 23507
+D2
+~
+~
+0 0 23489
+S
+#23489
+The Dense Forest Path~
+You are walking along a dark forest path in Xanth.  The trees loom close
+together, their large branches and leaves stopping the light from getting
+through.  Strange glowing eyes watch you closely as you pass through, and a
+slight mist covers the ground, disorienting you.  As you stumble into a
+gnarled tree, you wonder where this path leads to.  
+~
+0 1 3
+D0
+~
+~
+0 0 23488
+D1
+~
+~
+0 0 23511
+D3
+~
+~
+0 0 23490
+S
+#23490
+The Dense Forest Path~
+You are walking along a dark forest path in Xanth.  The trees loom close
+together, their large branches and leaves stopping the light from getting
+through.  Strange glowing eyes watch you closely as you pass through, and a
+slight mist covers the ground, disorienting you.  As you stumble into a
+gnarled tree, you wonder where this path leads to.  
+~
+0 1 3
+D1
+~
+~
+0 0 23489
+D2
+~
+~
+0 0 23491
+D3
+~
+~
+0 0 23519
+S
+#23491
+The Zombie Graveyard~
+You have stumbled upon a large graveyard.  Looking about yourself with
+caution, you notice that a large number of these graves have been dug out,
+some graves looking as if they have been unearthed ages ago, some looking
+unearthed only a few days ago.  Examining the graves closer, it seems as if
+these graves were dug out from the inside...  
+~
+0 0 2
+D0
+~
+~
+0 0 23490
+D3
+~
+~
+0 0 23492
+S
+#23492
+The Zombie Graveyard~
+You have stumbled upon a large graveyard.  Looking about yourself with
+caution, you notice that a large number of these graves have been dug out,
+some graves looking as if they have been unearthed ages ago, some looking
+unearthed only a few days ago.  Examining the graves closer, it seems as if
+these graves were dug out from the inside...  
+~
+0 0 2
+D1
+~
+~
+0 0 23491
+D2
+~
+~
+0 0 23493
+S
+#23493
+The Zombie Graveyard~
+You have stumbled upon a large graveyard.  Looking about yourself with
+caution, you notice that a large number of these graves have been dug out,
+some graves looking as if they have been unearthed ages ago, some looking
+unearthed only a few days ago.  Examining the graves closer, it seems as if
+these graves were dug out from the inside...  
+~
+0 0 2
+D0
+~
+~
+0 0 23492
+D2
+~
+~
+0 0 23494
+S
+#23494
+The Zombie Graveyard~
+You have stumbled upon a large graveyard.  Looking about yourself with
+caution, you notice that a large number of these graves have been dug out,
+some graves looking as if they have been unearthed ages ago, some looking
+unearthed only a few days ago.  Examining the graves closer, it seems as if
+these graves were dug out from the inside...  
+~
+0 0 2
+D0
+~
+~
+0 0 23493
+D3
+~
+~
+0 0 23495
+S
+#23495
+The Zombie Graveyard~
+You have stumbled upon a large graveyard.  Looking about yourself with
+caution, you notice that a large number of these graves have been dug out,
+some graves looking as if they have been unearthed ages ago, some looking
+unearthed only a few days ago.  Examining the graves closer, it seems as if
+these graves were dug out from the inside...  
+~
+0 0 2
+D1
+~
+~
+0 0 23494
+D2
+~
+~
+0 0 23582
+S
+#23496
+The Gentle Forest~
+You are in the middle forests of Xanth.  In this spot of the forest,
+large ferns grow wild all about you, lending this area a feeling of peace
+and serenity.  The trees here are large and stately, unlike the twisted and
+somewhat sinister trees that occupy the rest of the forest.  The light
+shines down softly upon you, and you wonder what has caused the wilderness
+here to become tamer and more friendly.  
+~
+0 0 3
+D1
+~
+~
+0 0 23365
+D3
+~
+~
+0 0 23497
+S
+#23497
+The Fern Copse~
+You have wandered into a fern copse deep in the forests of middle Xanth. 
+You feel rather at ease here, and a society of nymphs and fauns appear and
+welcome you with open arms.  Their complete innocence surprises you, and you
+can only wonder how they have survived so long in this violent world.  
+~
+0 0 3
+D1
+~
+~
+0 0 23496
+D3
+~
+~
+0 0 23498
+S
+#23498
+The Fern Copse~
+You have wandered into a fern copse deep in the forests of middle Xanth. 
+You feel rather at ease here, and a society of nymphs and fauns appear and
+welcome you with open arms.  Their complete innocence surprises you, and you
+can only wonder how they have survived so long in this violent world.  
+~
+0 0 3
+D1
+~
+~
+0 0 23497
+D3
+~
+~
+0 0 23499
+S
+#23499
+The Fern Copse~
+You have wandered into a fern copse deep in the forests of middle Xanth. 
+You feel rather at ease here, and a society of nymphs and fauns appear and
+welcome you with open arms.  Their complete innocence surprises you, and you
+can only wonder how they have survived so long in this violent world.  
+~
+0 0 3
+D1
+~
+~
+0 0 23498
+S
+#23500
+The Shore of the Lake~
+You are standing before the shore of a large lake.  The lake is large and
+inviting, the reflection of the trees and the large white clouds overhead
+making this a very picturesque scene.  Dipping a toe into the lake, the
+water feels cool and soothing and you are suddenly remind that the last time
+you had a bath seems like ages ago.  
+~
+0 4 3
+D1
+~
+~
+0 0 23487
+D3
+~
+~
+0 0 23501
+S
+#23501
+The East Side of the Lake~
+You are swimming on the east side of this lovely lake.  The lake is
+populated by a number of mermaids and tritons, who playfully splash water at
+you as you swim near.  The water is refeshingly cool against your skin, and
+glide about in the water, enjoying the feeling of the water sliding on your
+skin.  
+~
+0 0 6
+D1
+~
+~
+0 0 23500
+D3
+~
+~
+0 0 23502
+S
+#23502
+The Middle of the Lake~
+You are swimming in the middle of this lake, splashing water at the
+mermaids and tritons with glee.  You feel young and alive as the cool water
+refreshes you.  The bottom of this lake is deep, and the water plants make
+it hard for you to see the bottom.  As something touches your foot, you
+giggling, then wonder why it is that none of the mermaids and tritons are
+laughing anymore.  
+~
+0 0 6
+D0
+~
+~
+0 0 23504
+D1
+~
+~
+0 0 23501
+D2
+~
+~
+0 0 23505
+D3
+~
+~
+0 0 23503
+D5
+~
+~
+0 0 23506
+S
+#23503
+The West Side of the Lake~
+You are swimming on the west side of this lake in the middle of Xanth. 
+You can see a waterfall to the west, the obvious source of the lake.  A
+number of mermaids sing to you from the shallow depths and a group of
+tritons offer to engage with you in an underwater wrestling match.  
+~
+0 0 6
+D1
+~
+~
+0 0 23502
+S
+#23504
+The North Side of the Lake~
+You have reached the north side of this beautiful lake.  A large number
+of mermaids and tritons are gathered here, flirting with one another with
+innocent happiness.  They call you over to join the group and you wonder if
+this harmless socializing could turn into an orgy.  You rush over to join
+them.  
+~
+0 0 6
+D2
+~
+~
+0 0 23502
+S
+#23505
+The South Side of the Lake~
+You have reached the south side of this lake.  The water plants here
+tickle your limbs as you glide through them, and the occasional fish swims
+quickly away as you approach near.  A number of mermaids are combing their
+hair while the tritons begin a trident throwing contest.  
+~
+0 0 6
+D0
+~
+~
+0 0 23502
+S
+#23506
+The Kraken's Domain~
+You are under the lake in the middle of Xanth.  Unfortunately, this is
+the lair of a giant kraken, which reaches out for you hungrily.  The
+darkness of the water makes it hard to tell which direction to flee, and you
+wonder if you should attempt to fight the kraken in its home environment. 
+The decision is made for you as you entangles your limbs and draw you
+further into the water.  
+~
+0 12 6
+D4
+~
+~
+0 0 23502
+S
+#23507
+A Field of Grass~
+You are in a large field of grass.  Weary from your adventures, you
+surmise that this would be a nice place to rest.  You lie down and fall
+asleep for a few hours.  But when you wake you, you find that you are
+anchored to the ground by the grass itself, which has grown tendril of grass
+into your flesh!  This is no ordinary patch of grass it seems, but rather a
+patch of carnivorous grass.  
+~
+0 0 3
+D3
+~
+~
+0 0 23488
+S
+#23508
+The Ravaged Path~
+You are exploring off the enchanted path deep within Xanth.  In this
+section of land, the ground looks rather scorched and all the vegetation has
+been ripped to shreds.  Taking a closer look, you see that the other plants
+have actually been ravaged by another type of plant enhanced with sharp
+teeth.  Surprised, you take another glance around before realizing that you
+have entered a snapdragon grove!  
+~
+0 0 3
+D1
+~
+~
+0 0 23345
+D3
+~
+~
+0 0 23509
+S
+#23509
+The Snapdragon Field~
+You have entered a field of snapdragon plants.  As you wade through the
+field, you are forced to hop and skip about, dodging the painful bites of
+the vicious plants.  You attempt to uproot a few of the snapdragons and
+almost lose a finger in the process.  Perhaps you should just move along and
+get out of reach of these fierce flora.  
+~
+0 0 2
+D1
+~
+~
+0 0 23508
+D3
+~
+~
+0 0 23510
+S
+#23510
+The Lair of the Giant SnapDragon~
+You have entered the lair of the giant snapdragon plant.  This small
+clearing is filled with the gnawed bones of many countless victims who have
+wandered here.  Pieces of savaged armor lie scattered about the room, red
+with rust and dried blood.  Weapons, broken and shattered, are laying in a
+heap near the center of the room.  You shiver as you imagine the power this
+plant must have.  
+~
+0 0 3
+D1
+~
+~
+0 0 23509
+S
+#23511
+The Vineyard~
+You have discovered a small vineyard in middle Xanth.  There are
+thousands of different vines growing here, hanging from the trees, covering
+the ground, tangling your feet.  They completely fill you view, making you
+feel lost and dizzy as you enter the midst of the vineyard.  To the south
+you can make out a small mountain of some type.  
+~
+0 0 3
+D2
+~
+~
+0 0 23512
+D3
+~
+~
+0 0 23489
+S
+#23512
+The Base of Mount Etamin~
+You are at the base of Mount Etamin.  This large rocky crag stretches up
+into the sky, its sharp spire pointing up directly at the sun.  The rough
+rock it is made up of offers convenient handholds for you to climb up upon,
+but the large black burnstreaks that cover the mountain make you pause and
+wonder if you SHOULD climb up.  
+~
+0 0 5
+D0
+~
+~
+0 0 23511
+D4
+~
+~
+0 0 23513
+M 0 H 100
+S
+#23513
+Climbing Mount Etamin~
+You are climbing Mount Etamin.  The jagged rocks here provide you with
+easy handholds to grasp as you climb.  The whole mountain is covered with
+large black burnstreaks, and you wonder what made them.  The mountain
+rumbles slightly as if in answer to your question, making a few loose rocks
+tumble down into the depths beneath you.  
+~
+0 0 5
+D4
+~
+~
+0 0 23514
+D5
+~
+~
+0 0 23512
+S
+#23514
+Climbing Mount Etamin~
+You are climbing Mount Etamin.  The jagged rocks here provide you with
+easy handholds to grasp as you climb.  The whole mountain is covered with
+large black burnstreaks, and you wonder what made them.  The mountain
+rumbles slightly as if in answer to your question, making a few loose rocks
+tumble down into the depths beneath you.  
+~
+0 0 5
+D4
+~
+~
+0 0 23515
+D5
+~
+~
+0 0 23513
+S
+#23515
+Climbing Mount Etamin~
+You are climbing Mount Etamin.  The jagged rocks here provide you with
+easy handholds to grasp as you climb.  The whole mountain is covered with
+large black burnstreaks, and you wonder what made them.  The mountain
+rumbles slightly as if in answer to your question, making a few loose rocks
+tumble down into the depths beneath you.  
+~
+0 0 5
+D2
+~
+~
+0 0 23516
+D5
+~
+~
+0 0 23514
+S
+#23516
+The Entrance to the Etamin Cave~
+You are at the entrance to a large cave in Mount Etamin.  It is rather
+dark in here, and you can smell the odor of burned sulfur in the air.  A
+sudden flash of flame gouts out from the recesses of the southern part of
+the cave, illuminating the cavern in a yellowish light for a few seconds. 
+Dazed and still seeing spots before you, you wonder if it would be safe to
+go south.  
+~
+0 0 0
+D0
+~
+~
+0 0 23515
+D2
+~
+~
+0 0 23517
+S
+#23517
+Draco's Lair~
+You have entered Draco's lair inside Mount Etamin.  The light here waxes
+and wanes as Dracon breathes forth gouts of fire.  The entire cave glitters
+as the light reflects and refracts off of the heap of jewels and stones that
+Draco has collected over the centuries.  A rainbow of opulant colors bathe
+you and awe-struck, you can do nothing but gape.  
+~
+0 0 0
+D0
+~
+~
+0 0 23516
+S
+#23518
+The Blue Glade~
+You have entered a small glade covered with blue grass.  There is a sense
+of power here, and even the trees that fringe this glade seem to lean away,
+as if frightened by whatever is emanating this raw power.  The air is still,
+and you cannot hear the usual sounds of wildlife that fill the forest.  
+~
+0 4 0
+D3
+~
+~
+0 0 23466
+S
+#23519
+The Cave Opening~
+You are in front of a large cave.  The darkness inside makes it hard for
+you to see anything, but you can hear thin rasping sounds as if soft leather
+is being dragged over rocks.  The sound sends chills up your spine, and you
+wonder if you should retreat back into the forests to the east.  
+~
+0 4 0
+D1
+~
+~
+0 0 23490
+D3
+~
+~
+0 0 23520
+S
+#23520
+Inside the Caverns of the Naga~
+You are inside the caverns inhabited by the snake people known as the
+naga.  It is rather dark in here but a few torches hung against the wall
+provide enough light for you to explore by.  The caverns are filled with a
+musty, dank smell and the ground is rather slippery.  It would be a good
+idea to watch your step here.  
+~
+0 8 0
+D1
+~
+~
+0 0 23519
+D3
+~
+~
+0 0 23521
+S
+#23521
+Inside the Caverns of the Naga~
+You are exploring the caverns of the naga deep inside the middle of
+Xanth.  The lightning here is dim, and you hear strange sounds rustling and
+scraping in the darkness.  The floor is somewhat slimy and the air is still
+and humid.  
+~
+0 8 0
+D1
+~
+~
+0 0 23520
+D3
+~
+~
+0 0 23522
+S
+#23522
+Inside the Caverns of the Naga~
+You are inside the caverns inhabited by the snake people known as the
+naga.  It is rather dark in here but a few torches hung against the wall
+provide enough light for you to explore by.  The caverns are filled with a
+musty, dank smell and the ground is rather slippery.  It would be a good
+idea to watch your step here.  
+~
+0 8 0
+D0
+~
+~
+0 0 23523
+D1
+~
+~
+0 0 23521
+D2
+~
+~
+0 0 23524
+D5
+~
+~
+0 0 23525
+S
+#23523
+Inside the Caverns of the Naga~
+You are exploring the caverns of the naga deep inside the middle of
+Xanth.  The lightning here is dim, and you hear strange sounds rustling and
+scraping in the darkness.  The floor is somewhat slimy and the air is still
+and humid.  
+~
+0 8 0
+D2
+~
+~
+0 0 23522
+S
+#23524
+Inside the Caverns of the Naga~
+You are exploring the caverns of the naga deep inside the middle of
+Xanth.  The lightning here is dim, and you hear strange sounds rustling and
+scraping in the darkness.  The floor is somewhat slimy and the air is still
+and humid.  
+~
+0 8 0
+D0
+~
+~
+0 0 23522
+S
+#23525
+Inside the Caverns of the Naga~
+You are exploring the caverns of the naga deep inside the middle of
+Xanth.  The lightning here is dim, and you hear strange sounds rustling and
+scraping in the darkness.  The floor is somewhat slimy and the air is still
+and humid.  
+~
+0 12 0
+D1
+~
+~
+0 0 23526
+D4
+~
+~
+0 0 23522
+S
+#23526
+Inside the Caverns of the Naga~
+You are inside the caverns inhabited by the snake people known as the
+naga.  It is rather dark in here but a few torches hung against the wall
+provide enough light for you to explore by.  The caverns are filled with a
+musty, dank smell and the ground is rather slippery.  It would be a good
+idea to watch your step here.  
+~
+0 8 0
+D2
+~
+~
+0 0 23527
+D3
+~
+~
+0 0 23525
+S
+#23527
+Inside the Caverns of the Naga~
+You are exploring the caverns of the naga deep inside the middle of
+Xanth.  The lightning here is dim, and you hear strange sounds rustling and
+scraping in the darkness.  The floor is somewhat slimy and the air is still
+and humid.  
+~
+0 8 0
+D0
+~
+~
+0 0 23526
+D1
+~
+~
+0 0 23528
+S
+#23528
+Inside the Caverns of the Naga~
+You are inside the caverns inhabited by the snake people known as the
+naga.  It is rather dark in here but a few torches hung against the wall
+provide enough light for you to explore by.  The caverns are filled with a
+musty, dank smell and the ground is rather slippery.  It would be a good
+idea to watch your step here.  
+~
+0 8 0
+D0
+~
+~
+0 0 23529
+D2
+~
+~
+0 0 23530
+D3
+~
+~
+0 0 23527
+S
+#23529
+Inside the Caverns of the Naga~
+You are deep inside the caverns.  These caves are filled with the
+creatures known as the naga, a half snake half human people that can
+transform themselves to either species.  As you explore about, you wonder if
+they eat meat.  
+~
+0 8 0
+D0
+~
+~
+0 0 23531
+D2
+~
+~
+0 0 23528
+S
+#23530
+Inside the Caverns of the Naga~
+You are exploring the caverns of the naga deep inside the middle of
+Xanth.  The lightning here is dim, and you hear strange sounds rustling and
+scraping in the darkness.  The floor is somewhat slimy and the air is still
+and humid.  
+~
+0 8 0
+D0
+~
+~
+0 0 23528
+S
+#23531
+Inside the Caverns of the Naga~
+You are inside the caverns inhabited by the snake people known as the
+naga.  It is rather dark in here but a few torches hung against the wall
+provide enough light for you to explore by.  The caverns are filled with a
+musty, dank smell and the ground is rather slippery.  It would be a good
+idea to watch your step here.  
+~
+0 8 0
+D2
+~
+~
+0 0 23529
+D3
+~
+~
+0 0 23532
+S
+#23532
+Inside the Caverns of the Naga~
+You are deep inside the caverns.  These caves are filled with the
+creatures known as the naga, a half snake half human people that can
+transform themselves to either species.  As you explore about, you wonder if
+they eat meat.  
+~
+0 8 0
+D1
+~
+~
+0 0 23531
+D5
+~
+~
+0 0 23533
+S
+#23533
+Inside the Caverns of the Naga~
+You are exploring the caverns of the naga deep inside the middle of
+Xanth.  The lightning here is dim, and you hear strange sounds rustling and
+scraping in the darkness.  The floor is somewhat slimy and the air is still
+and humid.  
+~
+0 12 0
+D0
+~
+~
+0 0 23534
+D4
+~
+~
+0 0 23532
+S
+#23534
+Inside the Caverns of the Naga~
+You are inside the caverns inhabited by the snake people known as the
+naga.  It is rather dark in here but a few torches hung against the wall
+provide enough light for you to explore by.  The caverns are filled with a
+musty, dank smell and the ground is rather slippery.  It would be a good
+idea to watch your step here.  
+~
+0 8 0
+D0
+~
+~
+0 0 23537
+D1
+~
+~
+0 0 23536
+D2
+~
+~
+0 0 23533
+D3
+~
+~
+0 0 23535
+S
+#23535
+Inside the Caverns of the Naga~
+You are deep inside the caverns.  These caves are filled with the
+creatures known as the naga, a half snake half human people that can
+transform themselves to either species.  As you explore about, you wonder if
+they eat meat.  
+~
+0 8 0
+D1
+~
+~
+0 0 23534
+S
+#23536
+Inside the Caverns of the Naga~
+You are exploring the caverns of the naga deep inside the middle of
+Xanth.  The lightning here is dim, and you hear strange sounds rustling and
+scraping in the darkness.  The floor is somewhat slimy and the air is still
+and humid.  
+~
+0 8 0
+D3
+~
+~
+0 0 23534
+S
+#23537
+Inside the Caverns of the Naga~
+You are exploring the caverns of the naga deep inside the middle of
+Xanth.  The lightning here is dim, and you hear strange sounds rustling and
+scraping in the darkness.  The floor is somewhat slimy and the air is still
+and humid.  
+~
+0 12 0
+D2
+~
+~
+0 0 23534
+S
+#0
+
+
+
+#SPECIALS
+M 23403 spec_cast_undead
+M 23404 spec_breath_any
+M 23426 spec_poison
+M 23432 spec_breath_any
+S
+
+
+
+#RESETS
+M 0 23401 1 23415 1
+E 0 23401 0 16
+M 0 23400 1 23415 1
+M 0 23402 1 23415 1
+E 0 23400 0 17
+M 0 23404 1 23431 1
+E 0 23406 0 16
+E 0 23403 0 5
+G 0 23404 0
+G 0 23405 0
+M 0 23403 1 23439 1
+E 0 23402 0 17
+O 0 23407 0 23452
+P 0 23411 -1 23407 1
+P 0 23412 -1 23407 1
+O 0 23407 0 23453
+P 0 23408 -1 23407 1
+P 0 23409 -1 23407 1
+P 0 23410 -1 23407 1
+M 0 23405 50 23457 20
+M 0 23405 50 23457 20
+M 0 23405 50 23457 20
+M 0 23405 50 23457 20
+M 0 23405 50 23458 20
+M 0 23405 50 23458 20
+M 0 23405 50 23458 20
+M 0 23405 50 23458 20
+M 0 23405 50 23462 20
+M 0 23405 50 23462 20
+M 0 23405 50 23462 20
+M 0 23406 1 23462 1
+E 0 23413 0 0
+M 0 23407 1 23467 1
+E 0 23415 0 16
+G 0 23414 0
+O 0 23416 0 23472
+M 0 23417 20 23481 20
+G 0 23429 0
+M 0 23416 20 23482 20
+G 0 23418 0
+M 0 23420 20 23482 20
+G 0 23417 0
+M 0 23418 20 23482 20
+G 0 23430 0
+M 0 23419 20 23482 20
+G 0 23419 0
+M 0 23417 20 23482 20
+G 0 23429 0
+M 0 23416 20 23483 20
+G 0 23418 0
+M 0 23419 20 23483 20
+G 0 23419 0
+M 0 23419 20 23483 20
+M 0 23421 30 23495 10
+M 0 23425 30 23497 10
+M 0 23423 30 23497 10
+M 0 23422 30 23497 10
+M 0 23424 30 23498 10
+M 0 23423 30 23498 10
+M 0 23422 30 23498 10
+M 0 23423 30 23499 10
+M 0 23422 30 23499 10
+M 0 23427 50 23501 10
+E 0 23423 0 3
+M 0 23428 50 23502 10
+E 0 23424 0 16
+M 0 23427 50 23503 10
+E 0 23423 0 3
+M 0 23427 50 23503 10
+E 0 23423 0 3
+M 0 23428 50 23504 10
+E 0 23424 0 16
+M 0 23426 1 23506 1
+E 0 23422 0 17
+E 0 23420 0 16
+G 0 23421 0
+M 0 23429 1 23507 1
+M 0 23430 20 23508 20
+M 0 23430 20 23509 20
+M 0 23430 20 23509 20
+M 0 23430 20 23509 20
+M 0 23430 20 23509 20
+M 0 23430 20 23509 20
+M 0 23430 20 23509 20
+M 0 23431 1 23510 1
+G 0 23425 0
+G 0 23425 0
+G 0 23425 0
+G 0 23425 0
+G 0 23425 0
+G 0 23425 0
+O 0 23427 0 23511
+O 0 23426 0 23511
+M 0 23432 1 23517 1
+E 0 23431 0 17
+G 0 23428 0
+M 0 23433 1 23518 1
+M 0 23434 50 23520 10
+M 0 23434 50 23520 10
+M 0 23434 50 23520 10
+M 0 23434 50 23520 10
+M 0 23435 50 23520 5
+M 0 23434 50 23520 10
+M 0 23434 50 23522 10
+M 0 23434 50 23522 10
+M 0 23435 50 23523 5
+M 0 23434 50 23523 10
+M 0 23435 50 23524 5
+M 0 23434 50 23526 10
+M 0 23434 50 23527 10
+M 0 23434 50 23527 10
+M 0 23434 50 23527 10
+M 0 23435 50 23527 5
+M 0 23434 50 23529 10
+M 0 23434 50 23529 10
+M 0 23434 50 23529 10
+M 0 23434 50 23529 10
+M 0 23434 50 23530 10
+M 0 23434 50 23530 10
+M 0 23434 50 23531 10
+M 0 23434 50 23531 10
+M 0 23434 50 23531 10
+M 0 23434 50 23532 10
+M 0 23434 50 23532 10
+M 0 23435 50 23532 5
+M 0 23434 50 23532 10
+M 0 23435 50 23532 5
+M 0 23434 50 23532 10
+M 0 23434 50 23533 10
+M 0 23437 1 23533 1
+E 0 23434 0 10
+E 0 23435 0 16
+M 0 23434 50 23534 10
+M 0 23434 50 23534 10
+M 0 23435 50 23534 5
+M 0 23434 50 23534 10
+M 0 23436 1 23535 1
+E 0 23433 0 6
+E 0 23432 0 16
+M 0 23440 1 23536 1
+E 0 23439 0 12
+E 0 23438 0 17
+G 0 23440 0
+M 0 23439 1 23536 1
+E 0 23443 0 3
+E 0 23441 0 17
+E 0 23442 0 16
+M 0 23438 1 23537 1
+E 0 23437 0 7
+E 0 23436 0 1
+M 0 23434 50 23537 10
+M 0 23434 50 23537 10
+M 0 23435 50 23537 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

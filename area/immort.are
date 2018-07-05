@@ -1,0 +1,911 @@
+#AOD_AREA
+Valhalla~
+1200 1227 CD 9
+Levl 1 151
+Bldr Shryp~
+End
+
+#MOBILES
+#1200
+Alton Guardian~
+the {YG{Wua{wrd{Wia{Yn {wof {YA{Wl{wt{Wo{Yn's R{We{wa{Wl{Ym{x~
+The {YG{Wua{wrd{Wia{Yn {wof {YA{Wl{wt{Wo{Yn's R{We{wa{Wl{Ym{x stands before you.
+~
+Standing over 7 feet tall and muscled as only a god can be, the guardian of
+Alton's realm keeps his unsleeping gaze over the Rainbow bridge.
+~
+titan~
+50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 
+ABDLQV CDFJZc Q 0 0
+200 405 -10 30000 40000 15239 17589 48 53 471 crush
+-577 -585 -663 -808
+STANDING STANDING male 7778
+100 warrior large ABCDEFGHIJK
+P 0 1
+R 50
+M EXIT 1200 4~
+
+#1201
+white cat~
+the white cat~
+A white cat stands here.
+~
+Snowy white fur gleams softly in the light.  You feel the urge to pet
+it.. but as you reach out your hand, the slitted green eyes snap open
+and the cat hisses warningly.
+~
+cat~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BC PZ 0 0 0
+72 0 0 13992 14111 901 910 7 10 32 claw
+-420 -420 -420 -420
+STANDING STANDING random 0
+74 warrior medium ACDEFHJKQUV
+
+#1202
+high priest alton~
+the {YH{wi{Wg{Yh P{wr{Wie{ws{Yt{w of {YA{wl{Wt{wo{Yn{x~
+The {YH{wi{Wg{Yh P{wr{Wie{ws{Yt{w of {YA{wl{Wt{wo{Yn{x heals all, good and evil alike.
+~
+The High Priest of Alton stands, ready to heal those, good or evil, who
+desire his God's blessing.
+~
+shadow~
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+BDGOVa DFJPTUZc BKOPQ 0 0
+201 2005 0 30000 33000 30000 33000 50 67 1599 none
+-1852 -1883 -1870 -1890
+STANDING STANDING male 15000
+100 cleric medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#1200
+qtoken symbol life golden~
+the {#G{3o{#l{3d{#e{3n {&S{7y{&m{7b{&o{7l{x of {^L{6i{^f{6e{x~
+You see the {#G{3o{#l{3d{#e{3n {&S{7y{&m{7b{&o{7l{x of {^L{6i{^f{6e{x.~
+treasure ABG A
+0 0 0 0 0
+0 0 20
+
+#1201
+QToken the Lost Token of Life~
+the {8L{7os{8t T{7oke{8n{x of {^L{6i{^f{6e{x~
+You see the {8L{7os{8t T{7oke{8n{x of {^L{6i{^f{6e{x.~
+treasure ABG A
+0 0 0 0 0
+0 0 20
+
+#1202
+QToken the Omen of Disaster~
+the {DO{wme{Dn {xof {DDi{ws{Was{wt{Der{x~
+You see the {DO{wme{Dn {xof {DDi{ws{Was{wt{Der{x.~
+treasure ABG A
+0 0 0 0 0
+0 0 20
+
+#1203
+QToken a Deadly Token~
+a {1D{!e{8ad{!l{1y T{!o{8k{!e{1n{x~
+You see a {1D{!e{8ad{!l{1y T{!o{8k{!e{1n{x.~
+treasure ABG A
+0 0 0 0 0
+0 0 20
+
+#1204
+QToken the Balance of Life and Death~
+the {#B{3a{#l{3a{#n{3c{#e{x of {^L{6i{^f{6e{x and {1D{!e{8a{!t{1h{x~
+You see the {#B{3a{#l{3a{#n{3c{#e{x of {^L{6i{^f{6e{x and {1D{!e{8a{!t{1h{x.~
+treasure ABG A
+0 0 0 0 0
+0 0 20
+
+#1205
+QToken the Balance of Life and Death~
+the {#B{3a{#l{3a{#n{3c{#e{x of {^L{6i{^f{6e{x and {1D{!e{8a{!t{1h{x~
+You see the {#B{3a{#l{3a{#n{3c{#e{x of {^L{6i{^f{6e{x and {1D{!e{8a{!t{1h{x.~
+treasure ABG A
+0 0 0 0 0
+0 0 20
+
+#1206
+quest revival stone~
+{wa {cr{Ce{cv{Ci{cv{Ca{cl {Ds{wt{Do{wn{De{x~
+A {cr{Ce{cv{Ci{cv{Ca{cl {Ds{wt{Do{wn{De{x looks as if it could bring new life to a dead person.~
+gem ABGb AO
+0 0 0 0 0
+1 0 5000
+Q 250
+
+#1207
+quest a restring diamond~
+{wa {rr{Re{rs{Rt{rr{Ri{rn{Rg {Wd{wi{Wa{wm{Wo{wn{Wd{x~
+{wA {rr{Re{rs{Rt{rr{Ri{rn{Rg {Wd{wi{Wa{wm{Wo{wn{Wd{x sparkles in the sunlight.~
+gem ABGb AO
+0 0 0 0 0
+1 0 5000
+Q 500
+
+#1208
+quest a whostring diamond~
+{wa {rw{Rh{ro{Rs{rt{Rr{ri{Rn{rg {Wd{wi{Wa{wm{Wo{wn{Wd{x~
+{wA {rw{Rh{ro{Rs{rt{Rr{ri{Rn{rg {Wd{wi{Wa{wm{Wo{wn{Wd{x sparkles in the sunlight.~
+gem ABGb AO
+0 0 0 0 0
+1 0 5000
+Q 1500
+
+#1209
+diamond pretitle quest~
+{wa {rp{Rr{re{Rt{ri{Rt{rl{Re {Wd{wi{Wa{wm{Wo{wn{Wd{x~
+{wA {rp{Rr{re{Rt{ri{Rt{rl{Re {Wd{wi{Wa{wm{Wo{wn{Wd{x sparkles in the sunlight.~
+gem ABGb AO
+0 0 0 0 0
+1 0 50000
+Q 1000
+
+#1210
+sauna regeneration qobject~
+{YS{ya{wu{yn{Ya {xof {YR{ye{Dge{wn{Wer{wa{Dti{yo{Yn{x~
+A {Ys{ya{wu{yn{Ya {xof {Yr{ye{Dge{wn{Wer{wa{Dti{yo{Yn{x is here to heal your wounds.~
+furniture b A
+2 100000 ABGHJKL 1000 1000
+50 0 0
+Q 2000
+
+#1211
+orb test~
+a test orb~
+A test orb pulsates.~
+armor 0 AQ
+200 200 200 200 0
+1 0 0
+A 5 50
+A 2 50
+A 3 50
+A 4 50
+A 1 50
+A 19 100
+A 18 100
+A 9 500
+#0
+
+#ROOMS
+#1200
+{YA{Wl{wt{Wo{Yn's {YC{wh{Wa{Yt R{wo{Wo{Ym{x~
+You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace. This is one of the many rooms
+where the heroes come to socialize.
+~
+328712 0
+D2
+~
+~
+0 0 1213
+S
+
+#1201
+{YA{Wl{wt{Wo{Yn's H{Wan{wg{Wou{Yt{x~
+You see here a cozy little room with a{0 fireplace. {xThis room was designed
+for total relaxation. Here you can really kick back and enjoy the pleasures
+of life, maybe with a little drink from the refreshments room nearby.
+~
+328712 0
+D0
+~
+~
+0 -1 1213
+S
+
+#1202
+{YT{wh{We {YRe{Wfr{weshm{Wen{Yts {YR{wo{Wo{Ym{x~
+Many types of taps are set in the far wall of the room, each dispensing
+different types of liquid, ranging from alcohol, all the way to mundane
+drinks such as tea. The supplies are limitless, created out of pure energy
+by Alton himself, although it is just a mere sample of His generousity
+towards mortals.
+~
+328712 0
+D1
+~
+~
+0 -1 1213
+S
+
+#1203
+Valhalla~
+This is the huge Hall of Valhalla, where the Gods rule supreme.  The
+cavernous building stretches infinitely in all directions.  Valhalla 
+continues to the east, and the gods make their homes north and south of
+the halls.  The golden gates are to the west.  You know not what lies 
+upward...
+~
+32776 0
+D0
+Alander's workroom is to the north.
+~
+door~
+AB -1 1209
+D1
+Valhalla continues east.
+~
+~
+0 -1 1217
+D2
+A sea cave is south of here.
+~
+door~
+AB -1 1208
+D3
+The entrance to Valhalla is to the west.
+~
+~
+0 -1 1216
+D4
+If you want to know what is up there, you shall have to go look...
+~
+~
+0 -1 1
+S
+
+#1204
+Priscilla's Pleasure Palace ~
+As you look around you, you see the largest collection of erotic toys
+in the world!!!  On a table in the middle of the room lies a book titled :
+"All You Ever Wanted to Know About Sex..But Were Afraid to Ask"
+There are things here that you never even imagined in your wildest dreams!
+~
+32776 0
+D0
+Valhalla is to the north.
+~
+door~
+AB -1 1218
+S
+
+#1205
+The Eye of the Hurricane~
+The shrieking winds of a monstrous storm surround you, spinning you around
+in an endless web of fury. But then, in the middle of turmoil, you find a
+strange calm. You find yourself hovering in the calm eye of a hurricane. All
+around you you can see the desruction caused by the powerful storm. White
+hot flashes of lightning flicker from the depths of the hurricane.  But
+everything is strangely peaceful in here, with the sun shining in from above
+and a flock of birds winging across the sky.  You stretch out and relax, this
+storm is going to be here a while.
+~
+25100 9
+S
+
+#1206
+Walking on the Moon~
+The proud and lonely silence of Mare Imbrium surrounds you, as you gaze upon
+the sterile splendor of the moon.  All around is the velvet curtain of night,
+studded with a thousand gleaming jewels.  Below you hangs the beautiful
+fields of Earth, looking fragile and far away, but full of hope.  A sense of
+wistful regret touches you, as you think about what might have been, and what
+will be.
+~
+25092 0
+E
+crater mare imbrium~
+A small shipping tag is pinned to the ground with a worn hunting knife.
+Upon it is a dedication to Robert Anson Heinlein, the father of the future.
+~
+S
+
+#1207
+The Satin Memorial Reading Room~
+Half read books lie everywhere: Yeats, Tennyson, Chandler, Barrie;
+a battered paperback de Laclos; a dusty leather-bound Donne.  A
+damp novel perches precariously on the edge of a large bathtub.
+As your eyes travel beyond the steam rising to the air toward the
+rose-brambled balcony railing, you notice a well-creased printout
+of a poem sitting on a the velvet cushions of a rosewood chair
+that has been set so as to see the stark black mountains
+from one angle, or the wine-dark sea from another.
+~
+41480 4
+D2
+Valhalla is to the south.
+~
+door~
+AB -1 1217
+E
+rose rose-brambled balcony railing~
+Climbing white roses have swarmed over the original marble to obscure
+it almost completely.  The air is sweet not with roses, though,
+but with Satin's sandalwood perfume.
+~
+E
+rosewood chair~
+It looks comfortable, and the cushions are ivory velvet.
+~
+E
+stark black mountains wine wine-dark dark sea~
+The ocean is constantly smashing up against the cliffs and rending
+huge slabs from it.  The beach is scarcely a beach at all, more a
+collection of rough flakes varying in size from a small car to a
+small fist.  As the water comes up over the rocks and ebbs back
+down, it filters through the spaces and makes an unnerving rattling
+sound.
+~
+E
+print out print-out creased well poem~
+This page has been read over so many times that you can barely discern
+the words, and in fact with much poring only the following becomes
+clear:
+        'I know that I am studly - Heck, I'm sexy, cute and cuddly
+         And I know that I'm extremely modest too.'
+~
+E
+yeats~
+The page it is flipped open to reads:
+
+A sudden blow: the great wings beating still
+Above the staggering girl, her thighs carressed
+By the dark webs, her nape caught in his bill,
+he holds her helpless breast upon his breast.
+How can those terrified vague fingers push
+The feathered glory from her loosening thighs?
+And how can body, laid in that white rush,
+But feel that strange heart beating where it lies?
+A shudder in the loins engenders there
+The broken wall, the burning roof and tower
+And Agammemnon dead.  Being so caught up,
+So mastered by this brute blood of the air,
+Did she put on his knowledge with his power
+Before his indifferent beak could let her drop?
+~
+E
+chandler~
+She has just started the Lady in the Lake:
+
+Gillerain Regal, the Champagne of Perfumes.  It was definitely
+the stuff to get.  One drop of that in the hollow of your
+throat and the matched pink pearls started falling off you like
+summer rain.
+~
+E
+barrie~
+A copy of Peter Pan is opened near the end:
+
+What sort of form was Hook showing?  Misguided man though he
+was, we may be glad, without sympathising with him, that in
+the end he stayed true to the traditions of his race.  The
+other boys were flying about him now, flouting, scornful; and
+as he staggered about the deck striking at them impotently, his
+mind was no longer with them; it was slouching in the playing
+fields of long ago, or being sent up for good, or watching
+the wall-game from a famous wall.  And his shoes were right,
+and his waistcoat was right, and his tie was right, and his
+socks were right.
+
+James Hook, thou not wholly unheroic figure, farewell.
+~
+E
+tennyson~
+.       "My mariners
+         Souls that have toiled, and wrought, and thought with me -
+         The ever with a frolic welcome took
+         The thunder and the sunshine, and opposed
+         Free hearts, free foreheads - you and I are old;
+         Old age hath yet his honour and the toil
+         Death closes all; but something ere the end,
+         Some work of noble note, may yet be done,
+         Not unbecoming of men that strove with the gods.
+         The lights begin to twinkle from the rocks;
+         The long day wanes; the slow moon climbs; the deep
+         Moans round with many voices."
+~
+E
+battered paperback de Laclos~
+.       'One is very soon bored of everything, my angel; it is a law
+        of nature.  It is not my fault.
+        If, that is to say, that I am bored with an adventure that has
+        claimed my attentions for four mortal months, it is not my fault.
+        If, that is to say, my love is equal to your virtue - and that
+        is certainly saying a great deal - it is not surprising that
+        one should come to the end at the same time as the other.  It
+        is not my fault.
+        A woman that I love madly now insists that I give you up for
+        her.  It is not my fault.
+        I quite realize that this is the perfect opportunity to accuse
+        me of perjury: but if, where nature has gifted men with no
+        more than constancy, she has given women obstinacy, it is
+        not my fault.
+        Believe this, you should take another lover, even as I take
+        another mistress.  This is good, very good advice: if you
+        find it bad, it is not my fault.
+        Good-bye, my angel.  I took you with pleasure, I leave you
+        without regret.  I shall come back perhaps.  Such is life.
+        It is not my fault.
+~
+E
+dusty leather bound leather-bound Donne~
+.       `Cruel and sudden, hast thou since
+        Purpled thy nail in blood of innocence?
+        Wherein could this flea guilty be,
+        Except in the drop it sucked from thee?
+        Yet thou trimph'st and say'st that thou
+        Find'st not thyself, nor me the weaker now;
+          'Tis true, then learn how false fears be:
+          Just so much honour when thou yield'st to me
+          Will waste as this flea's death took life from thee.'
+~
+S
+
+#1208
+A Sea Cave~
+You are in a small cave in a cliff next to a deep green sea.  Fine
+gold and pink sand blanket the floor.  Shells are scattered and strewn
+about.  A blow hole in the roof of the cave allows beams of light to stream
+in and illuminate the cave.  The wind blows outside the entrance, but
+you are protected from the weather in your cozy cave.  The foamy surf
+never seems to quite reach your feet.  Several boulders here have been
+worn by time into a shape similar to a comfortable chair.
+~
+33288 0
+D0
+Valhalla lies to the north.
+~
+door~
+AB -1 1203
+S
+
+#1209
+The Archmage's Workroom~
+This well-lit room is absolutely filled with clutter -- enchanting gear,
+reagents, spell components, ancient tomes, scrolls, braziers, exotic incense
+and countless other tools of the magical trade, all jumbled together with
+seemingly no attention paid to organization.  You have no doubts that Alander
+can find whatever he needs without delay, however.  A heavy oak door stands
+barred to the south, to discourage idle visitors, and Alander's quarters
+are east.
+~
+1032 0
+D2
+Valhalla is to the south.
+~
+door~
+AB -1 1203
+E
+tools scrolls braziers components~
+It's all worth a fortune, but you'd better not touch it.  Alander keeps
+inventory and holds grudges.
+~
+E
+clutter mess~
+You notice Jimmy Hoffa's ring.
+~
+S
+
+#1210
+The Office of Vengeance~
+The first thing you notice about this office is the floor; it
+is a black & white checkerboard pattern, with 8 squares to a side.  The
+south wall is a HUGE picture window that produces a magnificent view of 
+the land.  In front of the window is a large desk.  Completely covering
+the east wall is a bookshelf, that is crammed full.  In the northwest
+corner, you notice a statue.
+~
+32776 0
+D0
+Valhalla is to the north.
+~
+~
+0 -1 1217
+D1
+Market Square is to the east.
+~
+~
+0 -1 3014
+D2
+Eriana's Grove is to the south.
+~
+~
+0 -1 1222
+D4
+The temple of Thoth is above you.
+~
+~
+0 -1 3001
+D5
+The temple of Belan is below you.
+~
+~
+0 -1 3365
+E
+desk~
+This desk is much larger than anyone could possibly need.  At one end you 
+notice a large, disorderly mass of papers; it must be all his immortal
+paperwork.  At the other end is a magnificent wooden inlaid board with
+handcrafted ebony and hardwood pieces.
+~
+E
+statue~
+You recognize this as a statue of Robert James Fischer, one of the most 
+creative, if not eccentric, players of all time.  The inscription on the
+base reads, "I like the moment when I crush a man's ego."
+~
+E
+bookshelf~
+This is the most amazing collection of chess books you have ever seen.
+Everything from Damiano's manuscripts, to a complete collection of the
+Encyclopedia of Chess Openings, to the latest Imformants are all here.
+~
+H 800 800
+S
+
+#1211
+Arena of Judgement~
+The scene lain before you is one that gives you the feeling of being placed
+under a higher authority.  The jury is out.  A statue of Pontius Pilate is
+in the aft of the Arena.  Staring balefully, the statue faces a distant
+hillside where many aged crosses still stand.  The Arena is set in a wide
+pit-like field of trampled bloodstained grass, and is guarded by high walls
+of veinous marble.  A bloodstone seat awaits the true paragon of Romanity.
+~
+33288 0
+D2
+Valhalla is to the south.
+~
+door~
+AB -1 1218
+E
+statue~
+A statue of Pontius Pilate is here.  On it's face is the expression of some
+age old contemplation.  Standing at the statues bronzy feet is a Blood red
+shield that glimmers like a pool of blood.
+~
+S
+
+#1212
+The Realm of the Dead~
+You are standing on an immense, grey stone floor that stretches as far as you
+can see in all directions.  Rough winds plunging from the dark, starless sky
+tear savagely at your fragile body.
+~
+8200 0
+D0
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D1
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D2
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+D3
+The hard floor seems to go on forever.
+~
+~
+0 -1 1212
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+E
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+S
+
+#1213
+{YT{wh{We {YR{We{wa{Wl{Ym {wof {YA{Wl{wt{Wo{Yn{x~
+You stand on a huge expanse of glass. Below you are clouds and the pains of
+mortality. Around you, the realm of Alton, is open to all who are worthy.
+He also provides protection to all those who obey His rules whilst here,
+good or evil alike. Though mortals are allowed to roam freely in His
+domain, none may enter the plane of Gods, behind the large golden doors to
+the east.
+~
+328704 0
+D0
+~
+~
+0 0 1200
+D1
+Golden doors that bar entry to mortals lie to the east
+~
+~
+ABCEFGH -1 1216
+D2
+Alton's hangout is to the south.
+~
+~
+0 -1 1201
+D3
+The refreshments room is to the west.
+~
+~
+0 -1 1202
+D5
+The Rainbow Bridge is below you.  You can barely see it through the clouds.
+~
+~
+0 -1 1221
+S
+
+#1214
+The Room of Lost Souls~
+This is the room full of souls that never made it to Asgard.  They are 
+trapped here eternally, left to wander about in misery.  They were infidels
+and cowards.  Their cries of misery send a shiver down your spine.
+~
+8 0
+D5
+~
+~
+0 -1 1219
+S
+
+#1216
+The Entrance of Valhalla~
+The huge ornate entrance of Valhalla is before you.  It seems as though
+atleast eight-hundred soldiers could walk abreast of one another through
+these doors. You stare in awe at the sparkling mansion before you.  You
+wonder what secrets are held behind these doors and long to hear the stories
+of bravery and glory that you know are kept within the walls of Valhalla.
+~
+32768 1
+D1
+Valhalla lies to the east.
+~
+~
+0 -1 1203
+D3
+Asgard lies to the west.
+~
+~
+0 -1 1213
+S
+
+#1217
+Valhalla~
+You are standing in the halls of Valhalla.  Pictures of Odin, Thor, Tyr,
+Loki, Freyr, Feyja, and Balder line the walls.  The cavernous hall extends
+to the east and west.  Rooms belonging to the gods lie to the north and 
+south.  There appears to be an exit above you, but you do not know what is
+up there...
+~
+32768 0
+D0
+The Satin Memorial Reading Room is north of here.
+~
+door~
+AB -1 1207
+D1
+Valhalla continues east.
+~
+~
+0 -1 1218
+D2
+Vengeance's office is south of here.
+~
+~
+0 -1 1210
+D3
+Valhalla continues west.
+~
+~
+0 -1 1203
+D4
+If you want to know what is up there you shall have to go and look...
+~
+~
+0 -1 1212
+S
+
+#1218
+Valhalla~
+You are standing in the halls of Valhalla.  Tapestries of the gods line
+the walls.  A statue of Odin is here.  The halls continue to the east and
+west, and there are doors to the north and south of you.  There is some 
+sort of exit above you, but you do not know where it leads...
+~
+32768 0
+D0
+Pontius' room is north of here.
+~
+door~
+AB -1 1211
+D1
+Valhalla continues east.
+~
+~
+0 -1 1219
+D2
+Priscilla's Pleasure Palace is south of here.
+~
+door~
+AB -1 1204
+D3
+Valhalla continues west.
+~
+~
+0 -1 1217
+D4
+If you want to know what is up there you shall have to go up and see...
+~
+~
+0 -1 2
+E
+statue odin~
+The statue of Odin has been exquisitely crafted.  It is of white marble
+with black and gold veins.  It looks to be of magical origin.
+~
+S
+
+#1219
+Valhalla~
+You have reached the end of the halls of Valhalla.  There are heavy doors
+on 3 walls.  They lead into the rooms of the gods.  The hall goes back to
+the west, and there is some sort of an exit above you.  Torches sputter
+softly and the scent of incense is strong here.
+~
+32768 0
+D0
+Melancholys' room is north of here.
+~
+~
+0 -1 3161
+D1
+Kates' room is east of here.
+~
+~
+0 -1 3150
+D2
+The Temple of Stupid is south of here.
+~
+~
+0 -1 3170
+D3
+Valhalla goes back to the west.
+~
+~
+0 -1 1218
+D4
+If you want to know what is up from here, you shall have to go up and see...
+~
+~
+0 -1 1214
+S
+
+#1220
+{YO{wn {Yt{wh{We {YR{Wa{winb{Wo{Yw {YB{Wr{wid{Wg{Ye{x~
+You are on the Rainbow Bridge leading up to the Realm of {YA{Wl{wt{Wo{Yn{x. Clouds and
+mist swirl around your feet. The view from here is incredible. It is little
+wonder that Alton, God of Neutrality, claims this as his domain.
+~
+262144 5
+D4
+The Rainbow Bridge ends at the entrance to the Realm of Alton.
+~
+~
+0 -1 1221
+D5
+~
+~
+0 0 3005
+E
+clouds~
+The clouds are beautiful.  There are shades of gray, pink and purple swirled
+into the blue sky.
+~
+S
+
+#1221
+{YT{wh{We {YE{Wnt{wra{Wnc{Ye {wto {Yt{wh{We {YR{We{wa{Wl{Ym {wof {YA{Wl{wt{Wo{Yn{x~
+You have reached the entrance to the Realm of Alton, God of Neutrality.
+Looking around, you search for His legendary guardian. The clouds are far
+below you and a sense of beauty and peacefulness surrounds you.
+~
+262144 5
+D4
+The Realm of Alton is above you, spread out in all its glory
+~
+~
+0 -1 1213
+D5
+The Rainbow Bridge leads down to the Deserted Square.
+~
+~
+0 -1 1220
+S
+
+#1222
+Eriana's Grove~
+You have stumbled into a peaceful, fragrant grove surrounded by deep forest,
+and carpeted in thick, lush grass. A waterfall cascades from a rock ledge to
+the north, and empties into a quiet pool in which many rainbow-colored fish
+feed.  Next to the pool a massive weeping willow trails its long, sinuous
+fingers in the water. Large iridescent-blue fruit hang heavily from a
+silver-barked tree nestled in boulders. Sunlight streams through the thick
+anopy of trees, spilling across the low, comfortable grass hassocks scattered
+about.  Exotic flowers of all shapes and sizes color the grove and send rich
+perfume wafting throughout, while many-colored butterflies dance among them.
+A variety of wide-eyed rabbits, deer, and other creatures move about, watching
+you inquisitively, yet unafraid.
+
+    At the far end of the grove is a large, oddly-grown tree trunk.
+    You notice a banner suspended in the air as if by magic.
+
+~
+557064 0
+D0
+A large office.
+~
+~
+0 -1 1210
+D1
+A small dusty trail.
+~
+~
+0 -1 3901
+E
+tree trunk~
+The tree trunk is covered in moss and ivy...and strongly resembles a
+throne or large seat.
+~
+E
+banner sign~
+The banner reads:
+ 
+                        Speak, Friend, and Enter
+
+~
+S
+
+#1225
+{RShryp{r'{Rs {DOffice {wof {DDeath{x~
+~
+528012 10
+P 1
+S
+#0
+
+#SPECIALS
+M 1200 spec_cast_mage
+M 1202 spec_cast_adept
+S
+
+#RESETS
+D 100 1203 0 1
+D 100 1203 2 1
+D 100 1204 0 1
+D 100 1207 2 1
+D 100 1208 0 1
+D 100 1209 2 1
+D 100 1211 2 1
+D 100 1213 1 2
+D 100 1217 0 1
+D 100 1218 0 1
+D 100 1218 2 1
+M 100 1202 1 1213 1
+M 100 1200 1 1221 1
+M 100 1201 1 1222 1
+S
+
+#MOBPROGS
+#1200
+Zarko~
+Guardian of Alton~
+if level $n >= 101
+say Welcome, $n, you are always welcome in the Realm of Alton.
+mob transfer $n 1213
+else
+say You look under level 101. Can I see some ID please?
+endif
+~
+#0
+
+#$

@@ -1,0 +1,3202 @@
+#AOD_AREA
+Tuulaman~
+2500 2599 C 8
+Room 2500
+Levl 65 85
+Bldr Neka~
+Alig N
+End
+
+#MOBILES
+#2500
+monkey~
+a monkey~
+A monkey looks for hidden treats on the ground.
+~
+Scampering about on the ground, the monkey looks for food.  Perhaps he'll
+find a papaya?  
+~
+human~
+100 100 150 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 
+G 0 0 500 0
+10 10 0 115 129 126 160 2 5 8 bite
+20 20 20 40
+STANDING STANDING male 50
+62 warrior medium ABCDEFGHIJK
+P 21 0
+
+#2501
+temple priest~
+a temple priest~
+A temple priest walks quickly by you.
+~
+Clad in the simplest of robes, the priest goes about his duties in the
+temple.  
+~
+minotaur~
+100 150 100 150 100 150 0 100 100 0 100 100 150 100 0 100 100 150 0 100 100 100 150 100 100 100 
+G LT 0 2000 0
+28 28 0 574 650 224 293 4 9 27 pierce
+-120 -120 -120 -70
+STANDING STANDING male 300
+65 warrior medium ABCDEFGHIJKW
+P 6 0
+
+#2502
+temple healer~
+the temple healer~
+The temple healer waits to help those who need her services.
+~
+Type heal to see a list of spells.
+~
+kenku~
+100 100 0 50 100 100 150 100 100 0 100 50 0 0 150 100 100 100 100 0 0 150 100 100 100 100 
+BG FJLT 0 3000 0
+101 101 0 5321 6018 662 764 12 12 99 beating
+-830 -830 -830 -620
+STANDING STANDING female 0
+80 mage medium ABCDEFGHIJKP
+P 6 0
+
+#2503
+peacock~
+a {mp{cea{bc{moc{ck{0~
+A {mp{cea{bc{moc{ck{0 wanders about fluttering his tail feathers.
+~
+The peacock is one of the most rare birds in this jungle.  What a
+beautiful creature he is.  
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G T 0 1000 0
+12 12 0 156 171 125 168 2 6 10 charge
+0 0 0 30
+STANDING STANDING male 200
+62 warrior medium ACDEFHKP
+P 14 0
+
+#2504
+wild dog~
+a wild dog~
+A wild dog wanders about sniffing the air.
+~
+The wild dog is a scruffy looking thing.  He scratches madly at fleas.  
+~
+fido~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G 0 0 1000 0
+30 30 0 583 665 217 268 4 9 26 bite
+-120 -120 -120 -60
+STANDING STANDING male 900
+66 warrior medium ACDEFHJKQV
+P 21 0
+
+#2505
+temple priest~
+a temple priest~
+A temple priest bows before you.
+~
+Clad in the holy robes of the temple priests, he bows before you.  A
+mysterious smile of peace is upon his face.  
+~
+minotaur~
+100 150 100 0 50 50 100 100 100 0 100 100 100 100 0 100 100 150 0 100 100 100 100 100 100 100 
+G LMY 0 3000 0
+25 30 0 442 497 195 244 3 10 22 divine
+-80 -80 -80 -30
+STANDING STANDING male 300
+65 druid medium ABCDEFGHIJKW
+P 5 0
+
+#2506
+fiddler crab~
+a fiddler crab~
+A fiddler crab skitters across the sand.
+~
+The fiddler crab has left an odd little trail in the sand.  Isn't he cute?  
+~
+human~
+100 100 0 150 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G 0 0 1000 0
+25 25 0 450 499 197 252 3 10 22 thwack
+-80 -80 -80 -30
+STANDING STANDING neutral 300
+65 warrior medium ABCDEFGHIJK
+P 14 0
+
+#2509
+temple cook~
+the temple cook ~
+The temple cook goes about preparing the next meal.
+~
+The temple cook wears the same plain robe as the other priests.  He also
+wears a simple white apron.  
+~
+human~
+100 100 100 100 100 50 100 100 100 150 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 
+BG TV 0 3000 0
+24 35 0 449 523 213 272 3 11 23 pound
+-90 -90 -90 -40
+STANDING STANDING male 300
+64 warrior medium ABCDEFGHIJK
+P 1 0
+
+#2510
+temple priest master warrior~
+the master warrior priest~
+The master warrior priest is practicing his stances.  
+~
+Clad only in a loin cloth, the master warrior practices his stances.  He
+knows the way of war and is skilled in the many ways of warriors.  
+~
+human~
+100 100 100 150 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+BG V 0 30000 0
+26 35 0 499 574 221 301 3 12 100 thwack
+-110 -110 -110 -50
+STANDING STANDING male 300
+65 warrior medium ABCDEFGHIJK
+P 2 0
+
+#2511
+old pirate~
+an old pirate~
+A grizzled old pirate looks out to the sea.
+~
+The grizzled old pirate is waiting for the next ship to come in.  He
+guards this place well.  
+~
+goblin~
+50 100 150 100 100 100 100 100 150 100 150 100 100 150 100 100 100 100 0 150 100 100 100 100 100 100 
+FG CDFJPV B 1000 0
+45 45 0 1117 1334 305 415 6 10 44 none
+-270 -270 -270 -170
+STANDING STANDING male 1000
+69 warrior medium ABCDEFGHIJK
+P 4 0
+
+#2516
+fox~
+a fox~
+A fox prowls about in search of food.
+~
+~
+fox~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G Z 0 1000 0
+27 35 0 480 579 210 271 4 8 24 bite
+-100 -100 -100 -40
+STANDING STANDING female 300
+65 warrior medium ACDEFHJKQV
+P 4 0
+
+#2517
+kimodo dragon lizard~
+a kimodo dragon~
+A kimodo dragon lashes his tail about.
+~
+~
+lizard~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+G V 0 1000 0
+28 28 0 497 588 220 291 4 8 24 claw
+-100 -100 -100 -40
+STANDING STANDING male 300
+65 warrior medium ACDEFHKQV
+P 7 0
+
+#2518
+wolf~
+a wolf~
+A grey wolf snarls at you!
+~
+~
+wolf~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 Z 0 1000 0
+26 35 0 429 500 193 255 3 10 23 bite
+-90 -90 -90 -30
+STANDING STANDING neutral 300
+65 warrior medium ACDEFJKQV
+P 5 0
+
+#2519
+bluebird~
+a {cbluebird{0~
+This little {cbluebird{0 sings a sweet little song.
+~
+Chirrup!  Chirrup!  Chirrup!  
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G T 0 1000 0
+27 40 0 491 559 204 272 4 8 24 charge
+-100 -100 -100 -40
+STANDING STANDING male 300
+65 warrior medium ACDEFHKP
+P 4 0
+
+#2520
+dragon~
+a cute little dragon~
+A cute little dragon practices her {rflamestrike{0.
+~
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+G DFJTc I 1000 0
+29 29 0 517 609 231 265 4 8 25 flame
+-110 -110 -110 -50
+STANDING STANDING female 300
+65 warrior medium ACDEFGHIJKPQUVX
+P 6 0
+
+#2521
+wyvern~
+an ancient wyvern~
+An ancient wyvern flies above your head.
+~
+~
+wyvern~
+100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+G DFT 0 1000 0
+28 40 0 518 574 203 259 4 8 24 claw
+-100 -100 -100 -40
+STANDING STANDING neutral 300
+65 warrior medium ACDEFHJKQVX
+P 5 0
+
+#2522
+rabbit~
+a rabbit~
+A bad little rabbit searches for trouble.
+~
+He may be cute but he sure is bad.  To cross him is to find trouble in
+the worst way.  
+~
+rabbit~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G 0 0 1000 0
+30 30 0 649 742 253 296 4 10 29 bite
+-140 -140 -140 -80
+STANDING STANDING neutral 350
+66 warrior medium ACDEFHJK
+P 3 0
+
+#2523
+bear~
+a bear~
+This bear sniffs the air, perhaps smelling for honey.
+~
+~
+bear~
+100 50 100 50 0 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G 0 0 1000 0
+30 30 0 574 654 208 287 4 9 26 none
+-120 -120 -120 -60
+STANDING STANDING male 300
+66 warrior medium ABCDEFHJKUV
+P 3 0
+
+#2524
+swan~
+a swan~
+A beautiful swan wanders in search of water.
+~
+~
+water fowl~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 
+G Tb 0 1000 0
+29 29 0 540 604 221 264 4 8 25 charge
+-110 -110 -110 -50
+STANDING STANDING female 300
+65 warrior medium ACDEFHKP
+P 4 0
+
+#2526
+guardian sins ~
+the guardian of the Seven Sins~
+The guardian of the Seven Sins watches for trouble.
+~
+The guardian is well armed.  Only those who have passed unscathed through
+the arena may come here.  To test the guardian is the only way get to the
+first Sin.  
+~
+human~
+100 100 0 50 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+BG V 0 3000 0
+33 33 0 729 844 224 336 4 11 32 cleave
+-170 -170 -170 -100
+STANDING STANDING male 400
+66 warrior medium ABCDEFGHIJK
+P 11 0
+
+#2527
+greed~
+{cGreed{0~
+{cGreed{0 waits impatiently on the next victim.
+~
+~
+human~
+0 100 100 150 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BG 0 0 -3000 0
+33 33 0 711 829 259 317 4 11 32 chomp
+-170 -170 -170 -100
+STANDING STANDING neutral 350
+66 warrior medium ABCDEFGHIJK
+P 11 0
+
+#2528
+sloth~
+{ySloth{0~
+{ySloth{0 waits for the next brave soul to pass through here.
+~
+~
+human~
+0 100 100 150 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BG 0 0 -3000 0
+34 34 0 671 797 239 303 4 10 30 acbite
+-150 -150 -150 -80
+STANDING STANDING neutral 350
+66 warrior medium ABCDEFGHIJK
+P 10 0
+
+#2529
+gluttony~
+{rGluttony{0~
+{RGluttony{0 waits for the next brave soul.
+~
+~
+human~
+0 100 100 150 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BG 0 0 -3000 0
+35 35 0 736 869 273 345 4 12 34 drain
+-180 -180 -180 -110
+STANDING STANDING neutral 350
+67 warrior medium ABCDEFGHIJK
+P 10 0
+
+#2530
+lust~
+{bLust{0~
+{bLust{0 waits for the next brave soul.
+~
+~
+human~
+0 100 100 150 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BGO 0 0 -3000 0
+36 36 0 768 890 255 311 5 8 32 none
+-170 -170 -170 -90
+STANDING STANDING neutral 350
+67 warrior medium ABCDEFGHIJK
+P 9 0
+
+#2531
+envy~
+{gEnvy{0~
+{gEnvy{0 waits for the next brave soul.
+~
+~
+human~
+0 100 100 150 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BG V 0 -3000 0
+38 38 0 882 982 278 352 5 10 37 grep
+-210 -210 -210 -130
+STANDING STANDING neutral 350
+67 warrior medium ABCDEFGHIJK
+P 9 0
+
+#2532
+pride~
+{mPride{0~
+{mPride{0 awaits the next victim.
+~
+~
+human~
+0 100 100 150 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BG V C -3000 0
+39 39 0 967 1059 288 386 5 11 38 drain
+-220 -220 -220 -140
+STANDING STANDING neutral 350
+67 warrior medium ABCDEFGHIJK
+P 9 0
+
+#2533
+wrath~
+{WWrath{0~
+{WWrath{0 waits for the final victim.
+~
+~
+human~
+0 100 100 150 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BG TV D -3000 0
+40 40 0 983 1113 284 361 5 11 39 drain
+-230 -230 -230 -140
+STANDING STANDING neutral 500
+68 mage medium ABCDEFGHIJK
+P 10 0
+
+#2534
+bat~
+a big bat~
+A big hairy bat flies about the cave.
+~
+Those eyes gleam red in the dim light.  Perhaps he is after your blood?  
+~
+bat~
+100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BG TZ 0 550 0
+11 11 0 133 148 124 160 2 5 9 bite
+10 10 10 30
+STANDING STANDING male 55
+62 warrior medium ACDEFHJKP
+P 7 0
+
+#2536
+boar~
+a boar~
+A boar roots about in the dirt of this pit.
+~
+The boar has been trapped here for a long time.  His rage is great and is
+taken out on all who dare come here.  
+~
+pig~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 150 100 100 100 100 100 
+BG V 0 600 0
+12 12 0 187 212 137 185 2 7 11 charge
+0 0 0 10
+STANDING STANDING female 60
+62 warrior medium ACDEFHJK
+P 3 0
+
+#2537
+boa constrictor~
+a boa constrictor~
+A boa constrictor lies in wait.
+~
+This boa constrictor is looking for food.  That tongue darts in and out,
+smelling of what lies about.  Whatever falls into his coils shall die a
+slow, painful death.  
+~
+snake~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+G P 0 650 0
+13 13 0 168 193 136 183 2 7 11 acbite
+0 0 0 20
+STANDING STANDING neutral 65
+62 warrior medium ADEFKLQVX
+P 6 0
+
+#2540
+pygmy woman~
+a pygmy woman~
+A pygmy woman screams and attacks!
+~
+Clad only in a bead necklace and grass skirt, she is one to not accept
+strangers into her hut.  
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 150 150 100 100 100 100 50 100 100 100 100 100 100 100 
+BFG JVcd 0 700 0
+14 14 0 216 247 153 196 2 9 13 slap
+-10 -10 -10 0
+STANDING STANDING female 60
+62 warrior medium ABCDEFGHIJK
+P 3 0
+
+#2541
+pygmy man~
+a pygmy man~
+A pygmy man frowns as you enter the hut.
+~
+Clad only in a loin cloth and a bead necklace, he is indeed a strange
+looking little man.  
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 150 150 100 100 100 100 50 100 100 100 100 100 100 100 
+BG JVcd 0 750 0
+15 15 0 217 237 138 202 2 8 13 cleave
+-10 -10 -10 20
+STANDING STANDING male 60
+63 warrior medium ABCDEFGHIJK
+P 1 0
+
+#2542
+pygmy guard~
+a pygmy guard~
+A pygmy guard stands ready for trouble. 
+~
+The guard stands ready for trouble.  Any signs of hostility against the
+King would be dealt with rather harshly.  
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 150 150 100 100 100 100 50 100 100 100 100 100 100 100 
+BG JVYcd 0 800 0
+16 16 0 211 247 125 161 2 8 13 slash
+0 0 0 20
+STANDING STANDING male 65
+63 warrior medium ABCDEFGHIJK
+P 5 0
+
+#2543
+pygmy king~
+the pygmy king~
+The pygmy king sits in his throne.
+~
+The king sits in a golden throne.  He is clad in a silk dressing gown. 
+His crown is embellished with jewels of all types.  He is indeed the king of
+this small village.  
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 150 150 100 100 100 100 50 100 100 100 100 100 100 100 
+BG JVcd 0 850 0
+17 17 0 273 311 183 223 2 11 16 punch
+-30 -30 -30 0
+STANDING STANDING male 170
+63 warrior medium ABCDEFGHIJK
+P 4 0
+
+#2545
+brave adventurer~
+a brave adventurer~
+A brave adventurer makes his way up the steep path.
+~
+~
+hobgoblin~
+100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+G J 0 900 0
+18 18 0 276 312 163 203 3 6 16 pierce
+-30 -30 -30 0
+STANDING STANDING neutral 70
+63 warrior medium ABCDEFGHIJKY
+P 6 0
+
+#2547
+temple priest~
+a temple priest~
+The temple priest chants a mantra of strength.
+~
+The temple priest chants the mantra of strength that only the Tuulaman
+temple teaches.  There is a look of peace on her face.  To test her strength
+could be deadly.  
+~
+human~
+100 100 150 100 100 100 100 100 100 100 150 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 
+G 0 0 2000 0
+27 27 0 552 630 215 283 4 9 26 cleave
+-120 -120 -120 -60
+STANDING STANDING female 300
+65 warrior medium ABCDEFGHIJK
+P 5 0
+
+#2552
+lesser circadian~
+a lesser circadian~
+Roaming about the mountain, a lesser circadian looks for adventure.
+~
+The circadian is a horrible freak of nature.  Half man, half insect... 
+How could something so horrible live in this forsaken place?  
+~
+human~
+100 100 0 150 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 50 50 100 100 100 
+G 0 0 1000 0
+20 20 0 306 347 170 216 3 8 17 drain
+-40 -40 -40 0
+STANDING STANDING neutral 80
+64 warrior medium ABCDEFGHIJK
+P 11 0
+
+#2555
+circadian~
+a circadian~
+A circadian patrols the mountain top.
+~
+~
+human~
+100 50 100 150 100 100 0 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+G T 0 2000 0
+25 25 0 431 489 194 247 3 10 22 cleave
+-80 -80 -80 -30
+STANDING STANDING male 300
+65 warrior medium ABCDEFGHIJK
+P 9 0
+
+#2556
+master circadian~
+the master circadian~
+The master circadian stalks about the lair.
+~
+The master circadian lies in wait for any who enter the lair.  His wrath
+is great, and will torture those who come in search of treasure.  
+~
+human~
+50 100 0 150 100 100 100 100 150 100 100 100 100 100 100 100 100 150 100 100 50 0 100 100 100 100 
+BG V 0 1000 0
+22 22 0 386 451 204 255 3 10 21 drain
+-70 -70 -70 -30
+STANDING STANDING male 200
+64 mage medium ABCDEFGHIJK
+P 7 0
+
+#2558
+zebra~
+a zebra~
+A zebra grazes quietly here.
+~
+~
+human~
+100 100 0 150 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 
+0 0 0 500 0
+14 14 0 188 211 141 179 2 7 12 charge
+0 0 0 20
+STANDING STANDING male 200
+62 warrior medium ABCDEFGHIJK
+P 16 0
+
+#2563
+hyena~
+a hyena~
+A hideous hyena looks for carrion.
+~
+~
+fido~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 750 0
+16 16 0 224 254 158 198 2 9 14 chomp
+-10 -10 -10 10
+STANDING STANDING neutral 200
+63 warrior medium ACDEFHJKQV
+P 20 0
+
+#2565
+dragonfly~
+a dragonfly~
+A dragonfly hovers just above the river's surface.
+~
+~
+human~
+100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 
+G 0 0 500 0
+18 18 0 268 311 157 205 3 6 16 flbite
+-30 -30 -30 0
+STANDING STANDING neutral 200
+63 warrior medium ABCDEFGHIJK
+P 5 0
+
+#2566
+duck~
+a duck~
+A duck paddles about in the water.
+~
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G T 0 500 0
+20 20 0 306 345 169 219 3 8 17 charge
+-40 -40 -40 0
+STANDING STANDING female 200
+64 warrior medium ACDEFHKP
+P 4 0
+
+#2568
+whirlpool~
+a whirlpool~
+A whirlpool waits to suck you under!
+~
+~
+human~
+100 100 100 150 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+BG GV 0 1000 0
+22 22 0 355 411 171 231 3 8 19 none
+-60 -60 -60 -10
+STANDING STANDING neutral 300
+64 warrior medium ABCDEFGHIJK
+P 10 0
+
+#2570
+piranha~
+a piranha~
+A piranha swims lazily about.
+~
+~
+human~
+100 100 0 150 100 100 100 100 100 100 100 50 150 100 100 100 100 50 100 100 100 100 100 100 100 100 
+G V 0 1000 0
+25 25 0 438 509 178 254 3 10 22 acbite
+-80 -80 -80 -30
+STANDING STANDING neutral 300
+65 warrior medium ABCDEFGHIJK
+P 12 0
+
+#2574
+ptaal~
+{yPtaal{0~
+{yPtaal{0 stands before you.
+~
+Ptaal is the guardian of this sea cave.  He has seven heads, and all snap
+to look at you displeasure.  It is no wonder few have passed through this
+area and lived to tell of it.  
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+BG DFJTc I 1000 0
+35 35 0 758 860 275 339 4 12 34 flame
+-180 -180 -180 -110
+STANDING STANDING male 350
+67 warrior medium ACDEFGHIJKPQUVX
+P 10 0
+M GRALL 2574 100~
+#0
+
+#OBJECTS
+#2500
+flail cook's spoon~
+a cook's spoon~
+A cook's spoon lies on the table. ~
+weapon 0 AN
+flail 8 8 chop C
+25 26 1420
+A 18 1
+A 19 1
+
+#2501
+temple fountain~
+a carved stone fountain~
+A carved stone fountain sits in the center of the room.~
+fountain 0 0
+-1 -1 'water' 0 0
+0 2000 2000
+
+#2502
+spear pride's downfall~
+{mPride's {0downfall~
+{mPride's{x downfall awaits the victor~
+weapon 0 AN
+exotic 9 8 pierce G
+35 36 2365
+A 18 2
+A 19 2
+
+#2503
+belt peacock feathers~
+a belt of {mp{cea{bc{moc{ck{0 feathers~
+A belt of {mp{cea{bc{moc{ck{0 feathers has been dropped here.~
+armor 0 AL
+4 4 4 3 0
+10 11 2000
+
+#2504
+gloves ptaal's claws~
+{yPtaal's {0claws~
+{yPtaal's {0claws lie on the ground.~
+armor 0 AH
+11 11 11 10 0
+30 31 3000
+A 13 50
+
+#2505
+whip tuulaman~
+a {yTuulaman {bwhip{0~
+A {yTuulaman {bwhip{0 lies curled on the ground.~
+weapon 0 AN
+whip 8 7 whip G
+25 26 1420
+A 18 1
+A 19 1
+
+#2506
+meditation mat~
+a meditation mat~
+An enormous meditation mat lies in the center of the floor.  ~
+furniture 0 0
+2 100000 EHK 0 0
+0 500 5000
+
+#2507
+desk~
+a desk~
+A desk sits in the corner. ~
+container 0 0
+200 ABCD 2508 200 10
+0 500 3000
+
+#2508
+key~
+a silver key~
+A tiny silver key is here.~
+key 0 A
+0 0 0 0 0
+0 5 300
+
+#2509
+wafer divine healing~
+a wafer of divine healing~
+A wafer of divine healing lies here.~
+pill 0 AO
+15 'heal' 'reserved' 'reserved' 'reserved'
+0 5 1000
+
+#2510
+ring tarnished silver~
+a tarnished silver ring~
+A tarnished silver ring rolls about. ~
+armor 0 AB
+8 7 8 7 0
+20 21 3000
+A 1 2
+
+#2511
+pill blessed wafer~
+a blessed wafer~
+A blessed wafer is here.~
+pill 0 A
+35 'sanctuary' 'haste' 'giant strength' 'reserved'
+20 1 3000
+
+#2512
+pill moldy bread~
+a moldy piece of bread~
+A moldy piece of bread has been dropped here.~
+pill 0 A
+35 'armor' 'shield' 'fly' 'reserved'
+20 1 3000
+
+#2513
+bracers greed~
+the bracers of {cGreed{0~
+The bracers of {cGreed{0 are here.~
+armor GI AM
+11 12 11 10 0
+30 31 3000
+A 2 2
+
+#2514
+gloves sloth~
+the gloves of {ySloth{0~
+The gloves of {ySloth{0 are here.~
+armor GI AH
+11 11 11 10 0
+30 31 3000
+A 19 10
+
+#2515
+leggings gluttony~
+the leggings of {rGluttony{0~
+The leggings of {rGluttony{0 are here.~
+armor GI AF
+11 11 11 10 0
+30 31 3000
+A 13 50
+
+#2516
+belt lust~
+the belt of {bLust{0~
+The belt of {bLust{0 has been dropped here.~
+armor GI AL
+11 11 11 10 0
+30 31 3000
+
+#2517
+ring envy~
+the ring of {gEnvy{0~
+The ring of {gEnvy{0 lies here.~
+jewelry GI AB
+0 0 0 0 0
+30 2 3000
+A 17 10
+A 12 50
+
+#2518
+shroud pride~
+the shroud of {mPride{0~
+The shroud of {mPride{0 lies crumpled on the floor.~
+armor GI AK
+11 11 11 10 0
+30 31 3000
+A 18 10
+
+#2519
+helm wrath~
+the helm of {WWrath{0~
+The helm of {WWrath{0 lies here.~
+armor GI AE
+11 11 11 10 0
+30 31 3000
+A 3 2
+
+#2520
+wooden leg~
+the pirate's wooden leg~
+The pirate's wooden leg has been dropped here.~
+weapon 0 AN
+mace 8 8 pound B
+35 36 2240
+A 18 2
+A 19 2
+
+#2526
+key~
+a silver key~
+A silver key to the first gateway of Sin is here.~
+key 0 A
+0 0 0 0 0
+0 2 200
+
+#2527
+greed's key~
+{cGreed's{0 key~
+{cGreed's{0 key is here.~
+key 0 A
+0 0 0 0 0
+0 2 200
+
+#2528
+sloth's key~
+{ySloth's {0key~
+{ySloth's {0key to the next gateway of Sin is here.~
+key 0 A
+0 0 0 0 0
+0 2 200
+
+#2529
+gluttony's key~
+{rGluttony's {0key~
+{rGluttony's {0key to the next gateway of Sin is here.~
+key 0 A
+0 0 0 0 0
+0 2 200
+
+#2530
+lust's key~
+{bLust's {0key~
+{bLust's {0key to the next gateway of Sin is here.~
+key 0 A
+0 0 0 0 0
+0 2 200
+
+#2531
+envy's key~
+{gEnvy's {0key~
+{gEnvy's {0key is here.~
+key 0 A
+0 0 0 0 0
+0 1 200
+
+#2532
+pride's key~
+{mPride's {0key~
+{mPride's {0key is here.~
+key 0 A
+0 0 0 0 0
+0 1 200
+
+#2533
+sword blade wrath~
+blade of {WWrath{0~
+The wicked blade of {WWrath {0is here.~
+weapon 0 AN
+sword 8 8 slash G
+35 36 2240
+A 18 2
+A 19 2
+
+#2534
+bat wings~
+some bat wings~
+Some disgusting, hairy bat wings are here.~
+armor 0 AK
+4 4 4 3 0
+10 11 1000
+
+#2536
+dagger boar tusk~
+an ivory boar's tusk~
+An ivory boar's tusk lies in the dirt~
+weapon 0 AN
+dagger 6 6 pierce 0
+10 11 470
+A 18 1
+A 19 1
+
+#2537
+potion sickening green~
+a sickening green potion~
+A sickening green potion is here.~
+potion 0 A
+30 'sanctuary' 'haste' 'giant strength' 'reserved'
+15 1 3000
+
+#2540
+grass skirt~
+a grass skirt~
+A grass skirt lies crumpled on the floor.~
+armor 0 AL
+5 6 6 5 0
+15 16 2000
+
+#2543
+king's crown~
+the king's crown~
+The pygmy king's {ygolden{0 crown has been placed here.~
+armor 0 AE
+8 10 8 7 0
+20 21 5000
+
+#2554
+globe changing~
+a {yglobe {wof {mchanging{0~
+A {yglobe {wof {mchanging{0 glimmers strangely.~
+light 0 AO
+0 0 999 0 0
+20 20 1000
+A 19 5
+
+#2555
+bracelets circadian~
+some {gcircadian {rbracelets{0~
+Some {gcircadian {rbracelets{0 have been placed here.~
+armor 0 AM
+9 10 8 7 0
+20 21 2000
+A 13 50
+
+#2556
+polearm wrath circadian~
+the {rwrath {wof {gCircadia{0~
+The {rWrath {wof {gCircadia{0 is here.~
+weapon 0 AN
+polearm 7 7 chop B
+20 21 1420
+A 18 1
+A 19 1
+A 5 1
+
+#2563
+light hyena's eye~
+the {yhyena's {reye{0~
+The {yhyena's {reye{0 lies in a pool of blood.~
+light 0 AO
+0 0 999 0 0
+10 10 1000
+A 19 2
+
+#2574
+armor scales ptaal~
+{YPtaal's {0scales~
+{yPtaal's {0scales glint wickedly in the sun.~
+armor 0 AD
+11 11 11 10 0
+30 31 3000
+A 18 5
+A 19 5
+#0
+
+#ROOMS
+#2500
+Jungle Path~
+Thick tropical plants grow profusely along the sides of this path.  Huge
+trees tower above you, the thick canopy of leaves nearly blocking all
+sunlight from touching the earth.  Exotic birds and animals call from the
+trees.  The air is full of the sound and smell of this jungle.  It is hot
+and humid, perspiration beads your face.  
+The path continues to the north just ahead of you.
+~
+0 3
+D0
+~
+~
+0 0 2501
+S
+
+#2501
+Jungle Path~
+The ground is littered with ripe fruit that has fallen from a nearby
+tree.  A large log lies across the path just to the north, nearly blocking
+that pathway.  Swarms of mosquitoes hover about your face and neck, feasting
+on your blood.  Now is time to move onward and leave these pests behind.  
+~
+0 3
+D0
+~
+~
+0 0 2504
+D1
+~
+~
+0 0 2502
+D2
+~
+~
+0 0 2500
+D3
+~
+~
+0 0 2503
+S
+
+#2502
+Jungle Path~
+Thick tropical plants grow profusely along the sides of this path.  Huge
+trees tower above you, the thick canopy of leaves nearly blocking all
+sunlight from touching the earth.  Exotic birds and animals call from the
+trees.  The air is full of the sound and smell of this jungle.  It is hot
+and humid, perspiration beads your face.  
+Exits lead to the north, west, and down.
+~
+4 3
+D0
+~
+~
+0 0 2537
+D3
+~
+~
+0 0 2501
+D5
+~
+~
+0 0 2534
+S
+
+#2503
+Jungle Path~
+Thick tropical plants grow profusely along the sides of this path.  Huge
+trees tower above you, the thick canopy of leaves nearly blocking all
+sunlight from touching the earth.  Exotic birds and animals call from the
+trees.  The air is full of the sound and smell of this jungle.  It is hot
+and humid, perspiration beads your face.  Mosquitoes swarm about your face
+and neck.  
+Exits lead to the east and down.
+~
+0 3
+D1
+~
+~
+0 0 2501
+D5
+~
+~
+0 0 2557
+S
+
+#2504
+Before the Temple~
+A small clearing has been formed in the heart of the jungle.  Before you
+stands a massive stone temple.  Carved columns support the roof.  Delicate
+vines of ivy grows on several of the columns.  From within the temple can be
+heard the chanting of the priests.  
+Exits lead to the south and up. 
+~
+4 3
+D2
+~
+~
+0 0 2501
+D4
+~
+~
+0 0 2505
+S
+
+#2505
+Temple of Tuulaman~
+The coolness of the temple is a great relief from the sweltering heat of
+the jungle.  The chanting echoes throughout the temple.  This must be where
+the priests of the fighting arts practice and train.  It is rumored their
+skills rival even those of the greatest warriors.  
+Exits lead to the north, east, west, and down.
+~
+0 0
+D0
+~
+~
+0 0 2508
+D1
+~
+~
+0 0 2506
+D3
+~
+~
+0 0 2507
+D5
+~
+~
+0 0 2504
+S
+
+#2506
+Resting Room~
+A small room has been set aside in the temple for travellers to rest in. 
+The temple priests have placed a meditation mat here for the weary to rest
+on.  It is rumored the priests bestow magical powers upon the mats they
+create.  The smell of healing herbs hangs in the air.  A delicate brass
+windchime tinkles in the cool breeze.  The only exit leads back to the west.
+~
+0 0
+D3
+~
+~
+0 0 2505
+S
+
+#2507
+Library~
+Shelves line the walls of the library.  Books and scrolls have been
+neatly placed there.  The temple priests prize learning above all things. 
+The knowlege contained in this one small room is beyond comprehension.  
+The only exit leads back to the east.
+~
+0 0
+D1
+~
+~
+0 0 2505
+S
+
+#2508
+Temple of Tuulaman~
+An opening has been carefully constructed in the roof of the temple. 
+Warm golden sunlight spills through into the atrium.  A tiny finch has found
+a perch on the bubbling fountain.  There it sits singing sweetly.  Stone
+benches have been placed about for those who pass through the temple to rest
+on.  Exotic plants and flowers have been arranged about the base of the
+fountain.  The smell of exotic flowers fills the air.  
+Exits lead in the cardinal directions.
+~
+0 0
+D0
+~
+~
+0 0 2511
+D1
+~
+~
+0 0 2509
+D2
+~
+~
+0 0 2505
+D3
+~
+~
+0 0 2510
+S
+
+#2509
+Dining Hall~
+The smell of freshly prepared food tantalizes your sense.  A long table
+sits in the center of the room and is surrounded by benches.  The kitchen is
+plainly visible from where you stand.  
+The only exit leads to the west.
+~
+0 0
+D3
+~
+~
+0 0 2508
+S
+
+#2510
+Training Room~
+The training room smells of sweat.  Great effort is expended by the
+temple priests in this room.  This is where the fighting arts are taught. 
+All who come here do not learn the lessons.  Some taunt the powers, thus
+living to regret foolhardiness.  Various types of training equipment sit
+about the room.  Every weapon imaginable is neatly arranged about the walls.
+The only exit leads back to the east.
+~
+0 0
+D1
+~
+~
+0 0 2508
+S
+
+#2511
+Temple of Tuulaman~
+The sunlight fades a bit in this part of the temple.  It has a feeling of
+quiet power that can almost be tasted.  The chanting echoes throughout the
+temple.  
+Exits lead in the cardinal directions.
+~
+0 0
+D0
+~
+~
+0 0 2514
+D1
+~
+~
+0 0 2512
+D2
+~
+~
+0 0 2508
+D3
+~
+~
+0 0 2513
+S
+
+#2512
+Temple Barracks~
+Simple cots line the walls of the barracks.  Each one is neatly made with
+plain bedding.  There is nothing special in this room.  It is here only for
+the temple priests to retire to after the day of study.  
+The only exit leads back to the west.
+~
+0 0
+D3
+~
+~
+0 0 2511
+S
+
+#2513
+Sacred Altar~
+A stone altar sits against one wall of the room.  Candles burn silently
+in tribute to the god of war that the temple is dedicated to.  A single
+mural of stunning quality hangs above the altar.  The god of war is
+portrayed in the most stunning way.  He guards the world from evil.  His
+mighty blade waits to slay those who would taint the good of the world.  It
+is a very powerful image, one that moves you very deeply.  
+The only exit lies to the east. 
+~
+0 0
+D1
+~
+~
+0 0 2511
+S
+
+#2514
+Shaded Corridor~
+The sound of the chanted mantras fades in this narrow corridor.  A new
+sound can be heard just ahead.  It is hard to distinguish what that sound
+is.  It does indeed sound like the cheering of a crowd of people.  
+The only exits lead south and down.
+~
+4 0
+D2
+~
+~
+0 0 2511
+D5
+~
+~
+0 0 2515
+S
+
+#2515
+Before the Arena~
+The sounds of a cheering crowd can be heard quite clearly from here.  A
+rather large arena stands here.  The smell of blood and sweat hangs heavily
+in the air.  
+The only obvious exits lead to the north and up.
+~
+4 0
+D0
+~
+~
+0 0 2516
+D4
+~
+~
+0 0 2514
+S
+
+#2516
+Arena~
+The arena floor is stained with blood and gore.  The smell of death hangs
+heavy in the hot air.  Sounds of fighting can be heard clearly coming from
+elsewhere in the arena.  Looking about you see the stands of the arena are
+filled with chanting observors.  The sound is deafening.  
+Exits lead in the cardinal directions.
+~
+0 0
+D0
+~
+~
+0 0 2519
+D1
+~
+~
+0 0 2517
+D2
+~
+~
+0 0 2515
+D3
+~
+~
+0 0 2524
+S
+
+#2517
+Arena~
+The arena floor is stained with blood and gore.  The smell of death
+hangs heavy in the hot air.  Sounds of fighting can be heard clearly coming
+from elsewhere in the arena.  Looking about you see the stands of the arena
+are filled with chanting observors.  The sound is deafening.  
+Exits lead to the north and west.
+~
+0 0
+D0
+~
+~
+0 0 2518
+D3
+~
+~
+0 0 2516
+S
+
+#2518
+Arena~
+The arena floor is stained with blood and gore.  The smell of death
+hangs heavy in the hot air.  Sounds of fighting can be heard clearly coming
+from elsewhere in the arena.  Looking about you see the stands of the arena
+are filled with chanting observors.  The sound is deafening.  
+Exits lead to the north, south and west.
+~
+0 0
+D0
+~
+~
+0 0 2520
+D2
+~
+~
+0 0 2517
+D3
+~
+~
+0 0 2519
+S
+
+#2519
+Arena~
+The arena floor is stained with blood and gore.  The smell of death
+hangs heavy in the hot air.  Sounds of fighting can be heard clearly coming
+from elsewhere in the arena.  Looking about you see the stands of the arena
+are filled with chanting observors.  The sound is deafening.  
+Exits lead in the cardinal directions.
+~
+0 0
+D0
+~
+~
+0 0 2521
+D1
+~
+~
+0 0 2518
+D2
+~
+~
+0 0 2516
+D3
+~
+~
+0 0 2523
+S
+
+#2520
+Arena~
+The arena floor is stained with blood and gore.  The smell of death
+hangs heavy in the hot air.  Sounds of fighting can be heard clearly coming
+from elsewhere in the arena.  Looking about you see the stands of the arena
+are filled with chanting observors.  The sound is deafening.  
+Exits lead to the south and west.
+~
+0 0
+D2
+~
+~
+0 0 2518
+D3
+~
+~
+0 0 2521
+S
+
+#2521
+Arena~
+The arena floor is stained with blood and gore.  The smell of death
+hangs heavy in the hot air.  Sounds of fighting can be heard clearly coming
+from elsewhere in the arena.  Looking about you see the stands of the arena
+are filled with chanting observors.  The sound is deafening.  
+Exits lead to the east, south, west and down.
+~
+0 0
+D1
+~
+~
+0 0 2520
+D2
+~
+~
+0 0 2519
+D3
+~
+~
+0 0 2522
+D5
+~
+~
+0 0 2525
+S
+
+#2522
+Arena~
+The arena floor is stained with blood and gore.  The smell of death
+hangs heavy in the hot air.  Sounds of fighting can be heard clearly coming
+from elsewhere in the arena.  Looking about you see the stands of the arena
+are filled with chanting observors.  The sound is deafening.  
+Exits lead to the east and south.
+~
+0 0
+D1
+~
+~
+0 0 2521
+D2
+~
+~
+0 0 2523
+S
+
+#2523
+Arena~
+The arena floor is stained with blood and gore.  The smell of death
+hangs heavy in the hot air.  Sounds of fighting can be heard clearly coming
+from elsewhere in the arena.  Looking about you see the stands of the arena
+are filled with chanting observors.  The sound is deafening.  
+Exits lead to the north, south and east.
+~
+0 0
+D0
+~
+~
+0 0 2522
+D1
+~
+~
+0 0 2519
+D2
+~
+~
+0 0 2524
+S
+
+#2524
+Arena~
+The arena floor is stained with blood and gore.  The smell of death
+hangs heavy in the hot air.  Sounds of fighting can be heard clearly coming
+from elsewhere in the arena.  Looking about you see the stands of the arena
+are filled with chanting observors.  The sound is deafening.  
+Exits lead to the north and east.
+~
+0 0
+D0
+~
+~
+0 0 2523
+D1
+~
+~
+0 0 2516
+S
+
+#2525
+Dark Stairway~
+The stairway is dark and narrow.  Only a faint echo of the chanting
+crowds can be heard behind you.  
+The only exits lead north and up.
+~
+5 0
+D0
+~
+~
+0 0 2526
+D4
+~
+~
+0 0 2521
+S
+
+#2526
+The Seven Deadly Sins~
+The sins have been hidden here for as long as the temple priests can
+remember.  It is the final test of your abilities in this place.  Go forward
+with the utmost care.  Use all the skills you have learned in this sacred
+place of battle.  By defeating the Seven Sins, your name will be etched in
+stone.  Only the most brave go beyond this point.  
+Flee now if you fear what lies ahead.  Proceed if you wish to live in infamy.
+~
+1 0
+D0
+~
+~
+ABC 2526 2527
+D2
+~
+~
+0 0 2525
+S
+
+#2527
+{cGreed{0~
+Greed possesses and consumes mankind.  Nothing is ever enough.  Take all
+you can get and then ask for more.  Want what you can not have.  There are
+no obvious exits here.  
+~
+0 0
+D0
+~
+~
+ABC 2527 2528
+D2
+~
+~
+ABC 0 2526
+S
+
+#2528
+{ySloth{0~
+Move slowly toward any goal you seek.  Do not waste effort on the things
+that mean the most, or even the least.  There are no obvious exits here.  
+~
+0 0
+D0
+~
+~
+ABC 2528 2529
+D2
+~
+~
+ABC 0 2527
+S
+
+#2529
+{rGluttony{0~
+Feast on anything that comes your way.  Fill yourself to bursting. 
+There is never a time when satisfaction of the hunger is known.  There are
+no obvious exits here.  
+~
+0 0
+D0
+~
+~
+ABC 2529 2530
+D2
+~
+~
+ABC 0 2528
+S
+
+#2530
+{bLust{0~
+Earthly delights of all kinds tempt your soul.  Heed not the warnings
+that there is a time and place for all things.  Desire is the foremost thing
+in this creature's mind.  There are no obvious exits here.  
+~
+0 0
+D0
+~
+~
+ABC 2530 2531
+D2
+~
+~
+ABC 0 2529
+S
+
+#2531
+{gEnvy{0~
+Everything that you have is the desire of {gEnvy{.  Nothing is ever
+enough.  Ahh!  Another thing to search for or to try and possess for her
+own.  There are no obvious exits here.  
+~
+0 0
+D0
+~
+~
+ABC 2531 2532
+D2
+~
+~
+ABC 0 2530
+S
+
+#2532
+{mPride{0~
+Pride goeth before the fall.  Perhaps there is some truth to this ancient
+saying.  There are no obvious exits.  
+~
+0 0
+D0
+~
+~
+ABC 2532 2533
+D2
+~
+~
+ABC 0 2531
+S
+
+#2533
+{wWrath{0~
+All things that have ever been unfair or unjust reside in this place. 
+Each has built one upon the other until the rage waits to erupt in a torrent
+of hatred.  Few have ever experienced this hatred.  Fewer still have
+survived.  
+There are no obvious exits here.
+~
+0 0
+D2
+~
+~
+ABC 0 2532
+S
+
+#2534
+Dark Cave~
+The smell of bat dung hangs heavy in the air.  Bones and debris litter
+the cave floor.  It is very dark, with only the light shining from the cave
+opening to light your way.  
+Exits lead to the north and up.
+~
+1 0
+D0
+~
+~
+0 0 2535
+D4
+~
+~
+0 0 2502
+S
+
+#2535
+Dark Cave~
+This is a very small chamber of the cave.  It is dark and deadly silent
+in the chamber.  Then you hear the sounds of some animal coming faintly from
+somewhere nearby.  
+~
+1 0
+D2
+~
+~
+0 0 2534
+D5
+~
+~
+0 0 2536
+S
+
+#2536
+The Pit~
+A large pit has been dug in the floor of the cave.  Many helpless animals
+seem to have fallen prey to this trap.  Bones lie scattered about.  There is
+a stench in the pit that is quite overpowering.  
+The only exit leads up.
+~
+1 0
+D4
+~
+~
+0 0 2535
+S
+
+#2537
+Jungle Path~
+Thick tropical plants grow profusely along the sides of this path.  Huge
+trees tower above you, the thick canopy of leaves nearly blocking all
+sunlight from touching the earth.  Exotic birds and animals call from the
+trees.  The air is full of the sound and smell of this jungle.  It is hot
+and humid, perspiration beads your face.  Mosquitoes continue to swarm about
+your face and into your ears.  
+Exits lead to the north, east, and south.
+~
+0 3
+D0
+~
+~
+0 0 2544
+D1
+~
+~
+0 0 2538
+D2
+~
+~
+0 0 2502
+S
+
+#2538
+Village Path~
+A narrow dirt path leads into a small village.  There are bamboo huts
+visible in the distance.  It is quiet on the path.  Perhaps no one inhabits
+the village.  
+Exits lead to the east and west.
+~
+4 3
+D1
+~
+~
+0 0 2539
+D3
+~
+~
+0 0 2537
+S
+
+#2539
+Village Path~
+The paths converge at this point.  To the north and south lie small
+bamboo huts.  A very large bamboo hut lies to the east.  Whoever lives there
+must be of some importance in this tiny village.  
+Exits lead in the cardinal directions.
+~
+0 3
+D0
+~
+~
+0 0 2540
+D1
+~
+~
+0 0 2542
+D2
+~
+~
+0 0 2541
+D3
+~
+~
+0 0 2538
+S
+
+#2540
+Bamboo Hut~
+The interior of the hut is very small.  The belongings of whoever lives
+here are neatly arranged.  A single hammock hangs from the roof pole.  The
+floor is made of hard packed dirt.  
+The only obvious exit lies to the south.
+~
+0 0
+D2
+~
+~
+0 0 2539
+S
+
+#2541
+Bamboo Hut~
+The interior of the hut is very small.  The belongings of whoever lives
+here are neatly arranged.  A single hammock hangs from the roof pole.  The
+floor is made of hard packed dirt.  
+The only obvious exit lies to the north.
+~
+0 0
+D0
+~
+~
+0 0 2539
+S
+
+#2542
+Pygmy King's Hut~
+This hut is much larger than the other huts.  It even has two rooms.  The
+belongings the person who lives here are neatly arranged about the room. 
+There are no windows to allow light into the room, but several torches hang
+from the sides of the hut.  
+Exits lead to the east and west.
+~
+0 0
+D1
+~
+~
+0 0 2543
+D3
+~
+~
+0 0 2539
+S
+
+#2543
+Throne Room~
+This is the largest room in the hut.  The floor has been covered with
+some woven grass mat.  A raised dais sits near one side of the hut.  The
+pygmy king's throne is made completely of gold.  Several chests sit against
+one wall.  For such a small village the riches to be seen are quite amazing.
+The only exit leads to the west.
+~
+0 0
+D3
+~
+~
+0 0 2542
+S
+
+#2544
+Path to the Mountain~
+Mount Tuulaman rises high into the sky.  Mists surround the peak, so it
+is difficult to say how high this peak rises into the air.  There are few
+trees growing on the mountain.  It looks very bare in the light of the
+midday sun.  
+Exits lead to the south and up.
+~
+4 2
+D2
+~
+~
+0 0 2537
+D4
+~
+~
+0 0 2545
+S
+
+#2545
+Mount Tuulaman~
+A narrow path leads up the side of this massive mountain.  There is a
+sheer drop off on one side of the path.  The path is extremely steep.  The
+effort of the climb combined with the high altitude has made the climb very
+strenuous.  
+Exits lead up and down.
+~
+0 5
+D4
+~
+~
+0 0 2546
+D5
+~
+~
+0 0 2544
+S
+
+#2546
+Mount Tuulaman~
+A narrow path leads up the side of this massive mountain.  There is a
+sheer drop off on one side of the path.  The path is extremely steep.  The
+effort of the climb combined with the high altitude has made the climb very
+strenuous.  
+Exits lead to the north and down.
+~
+0 5
+D0
+~
+~
+0 0 2547
+D5
+~
+~
+0 0 2545
+S
+
+#2547
+Peak of Tuulaman~
+Finally!  The peak of Tuulaman stands before you.  Great jagged boulders
+stand about the peak of the mountain.  It looks in a way as if some giant
+god has been arranging them for a specific purpose.  Mists swirl about,
+making it hard to tell if it is night or day.  There is an eerie glow of
+some sort that lights the place.  
+Exits lead to the north, east and south.
+~
+4 5
+D0
+~
+~
+0 0 2548
+D1
+~
+~
+0 0 2552
+D2
+~
+~
+0 0 2546
+S
+
+#2548
+Peak of Tuulaman~
+Jagged rocks lie about the peak of Tuulaman.  The path is narrow and very
+difficult to traverse.  The few pathetic shrubs that grow here are very
+tiny.  Swirling mists obscure the heavens as well as the outer reaches of
+the mountain top.  
+Exits lead to the north, east, and south.
+~
+0 5
+D0
+~
+~
+0 0 2549
+D1
+~
+~
+0 0 2551
+D2
+~
+~
+0 0 2547
+S
+
+#2549
+Peak of Tuulaman~
+Jagged rocks lie about the peak of Tuulaman.  The path is narrow and very
+difficult to traverse.  The few pathetic shrubs that grow here are very
+tiny.  Swirling mists obscure the heavens as well as the outer reaches of
+the mountain top.  Have you lost your way?  The paths wind in different
+directions, making it hard to remember where you have been before.  
+Exits lead to the east and south.
+~
+0 0
+D1
+~
+~
+0 0 2550
+D2
+~
+~
+0 0 2548
+S
+
+#2550
+Peak of Tuulaman~
+Jagged rocks lie about the peak of Tuulaman.  The path is narrow and very
+difficult to traverse.  The few pathetic shrubs that grow here are very
+tiny.  Swirling mists obscure the heavens as well as the outer reaches of
+the mountain top.  
+Exits lead to the east, west, south and up.  
+~
+0 5
+D1
+~
+~
+0 0 2555
+D2
+~
+~
+0 0 2551
+D3
+~
+~
+0 0 2549
+D4
+~
+~
+0 0 2556
+S
+
+#2551
+Peak of Tuulaman~
+Jagged rocks lie about the peak of Tuulaman.  The path is narrow and very
+difficult to traverse.  The few pathetic shrubs that grow here are very
+tiny.  Swirling mists obscure the heavens as well as the outer reaches of
+the mountain top.  
+Exits lead in the cardinal directions.
+~
+0 5
+D0
+~
+~
+0 0 2550
+D1
+~
+~
+0 0 2554
+D2
+~
+~
+0 0 2552
+D3
+~
+~
+0 0 2548
+S
+
+#2552
+Peak of Tuulaman~
+Jagged rocks lie about the peak of Tuulaman.  The path is narrow and very
+difficult to traverse.  The few pathetic shrubs that grow here are very
+tiny.  Swirling mists obscure the heavens as well as the outer reaches of
+the mountain top.  
+Exits lead to the north, south, and west.
+~
+0 5
+D0
+~
+~
+0 0 2551
+D1
+~
+~
+0 0 2553
+D3
+~
+~
+0 0 2547
+S
+
+#2553
+Peak of Tuulaman~
+Jagged rocks lie about the peak of Tuulaman.  The path is narrow and very
+difficult to traverse.  The few pathetic shrubs that grow here are very
+tiny.  Swirling mists obscure the heavens as well as the outer reaches of
+the mountain top.  
+Exits lead to the north and west
+~
+0 5
+D0
+~
+~
+0 0 2554
+D3
+~
+~
+0 0 2552
+S
+
+#2554
+Peak of Tuulaman~
+Jagged rocks lie about the peak of Tuulaman.  The path is narrow and very
+difficult to traverse.  The few pathetic shrubs that grow here are very
+tiny.  Swirling mists obscure the heavens as well as the outer reaches of
+the mountain top.  
+Exits lead to the north, south and west.
+~
+0 5
+D0
+~
+~
+0 0 2555
+D2
+~
+~
+0 0 2553
+D3
+~
+~
+0 0 2551
+S
+
+#2555
+Peak of Tuulaman~
+Jagged rocks lie about the peak of Tuulaman.  The path is narrow and very
+difficult to traverse.  The few pathetic shrubs that grow here are very
+tiny.  Swirling mists obscure the heavens as well as the outer reaches of
+the mountain top.  
+Exits lead to the south and west.
+~
+0 5
+D2
+~
+~
+0 0 2554
+D3
+~
+~
+0 0 2550
+S
+
+#2556
+The Lair~
+A huge cave has formed at the top of the mountain.  Jagged stalactites
+hang from the roof of the cave.  If one were to fall it would impale anyone
+who happened to be standing under it.  The air is heavy with the smell of
+dung and must.  Dripping water echoes from the farthest recesses of the
+cave.  Little, if any, light penetrates the gloom that pervades this place. 
+The only obvious exit is down.
+~
+1 0
+D5
+~
+~
+0 0 2550
+S
+
+#2557
+Plains of Despair~
+The plains lie before you in stark contrast to the lush jungle of
+Tuulaman.  There seems to be little if any color save for the dry grass
+waving in the hot wind that stirs constantly.  The heat of the sun is nearly
+unbearable.  What a relief it would be to find a cool place to rest in.  
+Exits lead west and up.
+~
+0 2
+D3
+~
+~
+0 0 2558
+D4
+~
+~
+0 0 2503
+S
+
+#2558
+Plains of Despair~
+Dry grass stretches almost endlessly toward the horizon.  An occasional
+animal can be seen moving about the far distant plains.  Vultures circle
+overhead, just waiting for a victim to weaken and fall.  This is a place of
+great despair, thus the name is fitting.  
+Exits lead to the north, east and west.
+~
+0 2
+D0
+~
+~
+0 0 2563
+D1
+~
+~
+0 0 2557
+D3
+~
+~
+0 0 2559
+S
+
+#2559
+Plains of Despair~
+The hot wind continually stirs the sea of grass that stretches as far as
+the eye can see.  A lone tree stands far off to the north.  The shade it
+seems to cast is a very small amount considering how hot this place is.  A
+cool drink of water would feel so good on your parched lips now.  Trying to
+find a way out of this place seems to be impossible.  
+The only exits lead to the east and west.
+~
+0 2
+D1
+~
+~
+0 0 2558
+D3
+~
+~
+0 0 2560
+S
+
+#2560
+Plains of Despair~
+The hot wind continually stirs the sea of grass that stretches as far as
+the eye can see.  A lone tree stands far off to the north.  The shade it
+seems to cast is a very small amount considering how hot this place is.  A
+cool drink of water would feel so good on your parched lips now.  Trying to
+find a way out of this place seems to be impossible.  
+Exits lead to the north and east.  
+~
+0 2
+D0
+~
+~
+0 0 2561
+D1
+~
+~
+0 0 2559
+S
+
+#2561
+Plains of Despair~
+The hot wind continually stirs the sea of grass that stretches as far as
+the eye can see.  A lone tree stands far off to the north.  The shade it
+seems to cast is a very small amount considering how hot this place is.  A
+cool drink of water would feel so good on your parched lips now.  Trying to
+find a way out of this place seems to be impossible.  
+Exits lead to the north and south.
+~
+0 2
+D0
+~
+~
+0 0 2562
+D2
+~
+~
+0 0 2560
+S
+
+#2562
+Plains of Despair~
+Just ahead to the north it seems the grass is a bit greener.  There are
+even a few more trees visible.  Still that waving sea of grass obscures a
+clear view of what lies before you.  Any manner of beast could lurk here.  
+Exits lead to the east and south.
+~
+0 2
+D1
+~
+~
+0 0 2563
+D2
+~
+~
+0 0 2561
+S
+
+#2563
+Plains of Despair~
+The hot wind continually stirs the sea of grass that stretches as far as
+the eye can see.  A lone tree stands far off to the north.  The shade it
+seems to cast is a very small amount considering how hot this place is.  A
+cool drink of water would feel so good on your parched lips now.  Trying to
+find a way out of this place seems to be impossible.  
+Exits lead to the north, south and east.
+~
+0 2
+D0
+~
+~
+0 0 2564
+D2
+~
+~
+0 0 2558
+D3
+~
+~
+0 0 2562
+S
+
+#2564
+Plains of Despair~
+The hot wind continually stirs the sea of grass that stretches as far as
+the eye can see.  A lone tree stands far off to the north.  The shade it
+seems to cast is a very small amount considering how hot this place is.  A
+cool drink of water would feel so good on your parched lips now.  Trying to
+find a way out of this place seems to be impossible.  The sound of rushing
+water can be heard nearby.  The green of the grass has deepened a bit. 
+Perhaps there is some respite to be found from this unbearable heat.  
+Exits lead to the east and south.
+~
+4 0
+D1
+~
+~
+0 0 2565
+D2
+~
+~
+0 0 2563
+S
+
+#2565
+Ilisium River~
+The Ilisium River flows idly by.  An occasional fish is seen to leap in
+the water, rippling the smooth surface of the river.  Massive stone cliffs
+rise on the far side of the river, barring any hope of exploration in that
+area.  The grass is more green here, trees grow along the banks of the
+river.  At least there is some cooling shade to be found, as well as a drink
+of cool water.  
+Exits lead to the east and west.
+~
+0 6
+D1
+~
+~
+0 0 2566
+D3
+~
+~
+0 0 2564
+S
+
+#2566
+Ilisium River~
+The Ilisium River flows idly by.  An occasional fish is seen to leap in
+the water, rippling the smooth surface of the river.  Massive stone cliffs
+rise on the far side of the river, barring any hope of exploration in that
+area.  The grass is more green here, trees grow along the banks of the
+river.  At least there is some cooling shade to be found, as well as a drink
+of cool water.  
+Exits lead to the south and west.
+~
+0 6
+D2
+~
+~
+0 0 2567
+D3
+~
+~
+0 0 2565
+S
+
+#2567
+Ilisium River~
+The water rushes more by more swiftly here.  Then with rising horror you
+realize why that is.  The river ends in the water falls below.  With
+certainty you will die in the fall to those jagged rocks below, or be sucked
+under by some whirlpool.  Too late to go back now.  
+Exits lead to the north and down.
+~
+0 0
+D0
+~
+~
+0 0 2566
+D5
+~
+~
+0 0 2568
+S
+
+#2568
+Great Falls~
+White water churns chaotically about.  The force of the water falling
+from above has created a mist that hangs in the air.  The roaring of the
+falls is almost deafening.  Jagged rocks lie about the base of the falls. 
+You are indeed lucky to not have fallen on one of those.  
+The only exit leads to the east.
+~
+0 6
+D1
+~
+~
+0 0 2569
+D4
+~
+~
+0 0 2567
+S
+
+#2569
+A Tranquil Pool~
+The roaring of the falls can be heard from the distance.  Cliffs rise
+steeply on either side of the pool.  It is very peaceful here.  Perhaps
+resting for just a moment on that large rock in the shallow water would not
+be such a bad idea.  
+Exits lead to the east and west.
+~
+0 6
+D1
+~
+~
+0 0 2570
+D3
+~
+~
+0 0 2568
+S
+
+#2570
+Lower Ilisium River~
+Windly idly towards the south, the Lower Ilisium River makes its way
+slowly toward the sea.  The water is barely moving here.  A rather large
+fish leaps in the river attracting your attention.  
+Exits lead to the south and west.
+~
+0 6
+D2
+~
+~
+0 0 2571
+D3
+~
+~
+0 0 2569
+S
+
+#2571
+Near the Sea~
+The river has widened considerably here.  On the horizon seagulls float
+idly about in search of a fish to catch.  The sea is clearly visible from
+here.  Even the waves have taken over here in this part of the river.  Exits
+lead to the north and east.  The river has widened considerably.  On the
+horizon seagulls float idly about in search of a fish to catch.  The sea is
+clearly visible from here.  The waves seem to have taken over this part of
+the river.  Exits lead to the north, south and east.  
+~
+0 6
+D0
+~
+~
+0 0 2570
+D1
+~
+~
+0 0 2572
+D2
+~
+~
+0 0 2575
+S
+
+#2572
+Near the Sea Cave~
+A small cove has formed near the juncture of the river and the sea.  A
+huge cave has formed in the rocks, no doubt from the surging tides.  The
+wind whistles eerily through the cave.  Perhaps safe haven from the pounding
+waves of the sea lie there.  
+Exits lead to the west and up.
+~
+0 6
+D3
+~
+~
+0 0 2571
+D4
+~
+~
+0 0 2573
+S
+
+#2573
+On the Slippery Rocks~
+Rocks lie in front of the sea cave forming an almost perfect stairway. 
+Algae has formed on the rocks.  Since the hour of high tide has passed, the
+rocks are still damp.  The algae growing there has made the rocks very
+slippery indeed.  Oops!  You almost slipped and went down there.  
+Exits lead to the north and down.
+~
+4 4
+D0
+~
+~
+0 0 2574
+D5
+~
+~
+0 0 2572
+S
+
+#2574
+Sea Cave~
+A huge cave washed from stone with the force of the tides stands before
+you.  The floor is covered in nearly white sand.  A few strands of dried
+seaweed hang from top of the cave.  Large rounded stones have been arranged
+in the shape of an altar of sorts.  It is only then you see what stands
+before you.  The great sea creature hisses, all seven heads snap to look at
+you.  It seems {YPtaal{0 may have found a snack.  
+The only exit leads back down to the slippery rocks.
+~
+1 0
+D2
+~
+~
+0 0 2573
+S
+
+#2575
+On the Sea~
+Huge white capped waves rock you about in the sea.  The sky above is a
+clear azure blue.  The heat of the sun beats down on your bare head.  A warm
+breeze ruffles your hair.  The air is full of a salt mist that dampens your
+skin.  Gulls circle endlessly overhead.  
+~
+4 6
+D0
+~
+~
+0 0 2571
+D3
+~
+~
+0 0 2576
+S
+
+#2576
+Near the Island~
+The waves have washed you closer to an island.  A sandy white beach is
+clearly visible from here.  A jagged reef lies just off to the south just
+waiting to tear you to shreds.  Exits lead to the east and west.  
+~
+4 6
+D1
+~
+~
+0 0 2575
+D3
+~
+~
+0 0 2577
+S
+
+#2577
+On the Shore~
+At last, land is at hand!  The beach feels unsteady under your feet after
+being on the sea.  Palm trees sway in the constant breeze.  The outline of a
+lighthouse is visible from here.  Even though the island appears deserted,
+who knows what kind of treasure could lie here.  Exits lead in the cardinal
+directions.  
+~
+0 10
+D0
+~
+~
+0 0 2579
+D1
+~
+~
+0 0 2576
+D2
+~
+~
+0 0 2595
+D3
+~
+~
+0 0 2578
+S
+
+#2578
+The Island~
+The island appears deserted at first glance.  Then you see large
+footprints in the sand of this path.  It is hard to know how long it has
+been since someone else passed through here.  There is a feeling that
+someone is watching you.  The only exits lead to the north and east.  
+~
+0 0
+D0
+~
+~
+0 0 2582
+D1
+~
+~
+0 0 2577
+S
+
+#2579
+Near the Docks~
+The wooden boards of the dock need to be replaced rather badly.  They sag
+and creak as you walk the length of the dock.  The sea is topped with white
+capped breakers.  Gulls swoop and dive in the air above you.  This place is
+completely deserted.  Exits lead to the north and south.  
+~
+0 10
+D0
+~
+~
+0 0 2580
+D2
+~
+~
+0 0 2577
+S
+
+#2580
+Deserted Pier~
+The wooden boards of the dock need to be replaced rather badly.  They
+sag and creak as you walk the length of the dock.  The sea is topped with
+white capped breakers.  Gulls swoop and dive in the air above you.  This
+place is completely deserted.  Exits lead to the south and west.  
+~
+0 10
+D2
+~
+~
+0 0 2579
+D3
+~
+~
+0 0 2581
+S
+
+#2581
+Deserted Docks~
+The wooden boards of the dock need to be replaced rather badly.  They
+sag and creak as you walk the length of the dock.  The sea is topped with
+white capped breakers.  Gulls swoop and dive in the air above you.  This
+place is completely deserted.  Exits lead to the east, west, and south.  
+~
+0 10
+D1
+~
+~
+0 0 2580
+D2
+~
+~
+0 0 2582
+D3
+~
+~
+0 0 2592
+S
+
+#2582
+Pathway to the Lighthouse~
+A narrow path overgrown tall grass leads to a lighthouse.  Perhaps there
+were pirates who once roamed this place.  The air is still and quiet.  The
+lighthouse looks like a fine place to explore.  Exits lead to the north,
+south and west.  
+~
+0 0
+D0
+~
+~
+0 0 2581
+D2
+~
+~
+0 0 2578
+D3
+~
+~
+0 0 2583
+S
+
+#2583
+The Lighthouse~
+The base of the lighthouse is wide.  A spiral staircase leads up through
+the center of the lighthouse.  A huge fishing net hangs from one wall.  Some
+sort of animal has made its home beneath the staircase.  The only obvious
+exits lead east and up.  
+~
+0 0
+D1
+~
+~
+0 0 2582
+D4
+~
+~
+0 0 2584
+S
+
+#2584
+Narrow Stairway~
+The narrow staircase leads up through the center of the lighthouse. 
+Wooden railings keep you from falling to the floor below.  The air is heavy
+with the smell of mildew.  The moisture has begun to cause the wooden steps
+to decay.  Exits lead to the west and down.  
+~
+4 0
+D3
+~
+~
+0 0 2585
+D5
+~
+~
+0 0 2583
+S
+
+#2585
+Lighthouse~
+The floor here is made of roughhewn wood.  The walls are plain stone with
+little decoration.  A harpoon hangs from a bracket on the wall.  Trash and
+debris litter the floor here.  Exits lead to the east and south.  
+~
+0 0
+D1
+~
+~
+0 0 2584
+D2
+~
+~
+0 0 2586
+S
+
+#2586
+Lighthouse~
+The floor creaks as you traverse the length of this room.  Paint peels in
+great hunks from the walls.  The moisture has taken its toll in this part of
+the lighthouse.  There is nothing special here.  Exits lead to the north and
+east.  
+~
+0 0
+D0
+~
+~
+0 0 2585
+D1
+~
+~
+0 0 2587
+S
+
+#2587
+Lighthouse~
+The floor creaks as you traverse the length of this room.  Paint peels in
+great hunks from the walls.  The moisture has taken its toll in this part of
+the lighthouse.  There is nothing special here.  A rat scurries across the
+floor into a hole in the wall.  Exits lead to the west and up.  
+~
+0 0
+D3
+~
+~
+0 0 2586
+D4
+~
+~
+0 0 2588
+S
+
+#2588
+Narrow Stairway~
+The narrow staircase leads up through the center of the lighthouse. 
+Wooden railings keep you from falling to the floor below.  The air is heavy
+with the smell of mildew.  The moisture has begun to cause the wooden steps
+to decay.  Exits lead north and down.  
+~
+0 0
+D0
+~
+~
+0 0 2589
+D5
+~
+~
+0 0 2587
+S
+
+#2589
+Lighthouse~
+The floor creaks as you traverse the length of this room.  Paint peels
+in great hunks from the walls.  The moisture has taken its toll in this part
+of the lighthouse.  There is nothing special here.  A rat scurries across
+the floor into a hole in the wall.  This room is smaller than the others in
+the lighthouse.  Exits lead to the south and west.  
+~
+0 0
+D2
+~
+~
+0 0 2588
+D3
+~
+~
+0 0 2590
+S
+
+#2590
+Lighthouse~
+The floor creaks as you traverse the length of this room.  Paint peels
+in great hunks from the walls.  The moisture has taken its toll in this part
+of the lighthouse.  There is nothing special here.  A rat scurries across
+the floor into a hole in the wall.  There is barely enough room for one
+person to squeeze through this narrow room.  Exits lead east and up.  
+~
+0 0
+D1
+~
+~
+0 0 2589
+D4
+~
+~
+0 0 2591
+S
+
+#2591
+Top of the Lighthouse~
+A circular rail surrounds the top of the lighthouse.  Every part of the
+island can be seen very clearly from here.  It does indeed appear to be a
+ship of sorts making its way closer to the island.  Then you see the flag
+bearing the skull and crossbones.  Now would certainly be a good time to
+make a hasty retreat.  The only obvious exit leads down.  
+~
+0 0
+D5
+~
+~
+0 0 2590
+S
+
+#2592
+The Island~
+Palm trees dot the island, swaying in the constant breeze.  The inner
+island is green and teaming with wildlife.  What a magnificent place this is
+to explore today.  Exits lead to the east and south.  
+~
+0 3
+D1
+~
+~
+0 0 2581
+D2
+~
+~
+0 0 2593
+S
+
+#2593
+The Island~
+The path has led almost to the center of the island.  It is indeed a
+beautiful place, though a very tiny island by any standard.  Still there has
+been no sign of life.  Could this place once have been used by pirates
+preparing for raids on the open sea?  The lighthouse leaves that question
+foremost in your mind.  Exits lead to the north and south.  
+~
+0 3
+D0
+~
+~
+0 0 2592
+D2
+~
+~
+0 0 2594
+S
+
+#2594
+The Island~
+The path has led almost to the center of the island.  It is indeed a
+beautiful place, though a very tiny island by any standard.  Still there has
+been no sign of life, other than the occasional snake or bird.  Exits lead
+to the north, east, west and up.  
+~
+0 3
+D0
+~
+~
+0 0 2593
+D1
+~
+~
+0 0 2595
+D3
+~
+~
+0 0 2599
+D4
+~
+~
+0 0 2596
+S
+
+#2595
+On the Shore~
+The shore is covered with pure white sand.  A cove has formed just to the
+south of here.  Dolphins swim idly about in the water.  This place appears
+completely deserted.  Exits lead to the north and west.  
+~
+0 10
+D0
+~
+~
+0 0 2577
+D2
+~
+~
+0 0 9789
+D3
+~
+~
+0 0 2594
+S
+
+#2596
+Island Cliffs~
+A massive cliff juts above the island below.  A cool stream rushes past
+you onto the jagged rocks below.  From this vantage point you can see for
+miles.  Is it your imagination or is that a ship approaching from the
+distance?  Exits lead to the west and down.  
+~
+0 0
+D3
+~
+~
+0 0 2597
+D5
+~
+~
+0 0 2594
+S
+
+#2597
+Island Cliffs~
+~
+0 0
+D1
+~
+~
+0 0 2596
+D5
+~
+~
+0 0 2598
+S
+
+#2598
+The Island ~
+~
+0 0
+D2
+~
+~
+0 0 2599
+D4
+~
+~
+0 0 2597
+S
+
+#2599
+The Island ~
+~
+0 0
+D0
+~
+~
+0 0 2598
+D1
+~
+~
+0 0 2594
+S
+#0
+
+#SPECIALS
+M 2502 spec_cast_adept
+M 2533 spec_cast_mage
+M 2556 spec_cast_mage
+S
+
+#RESETS
+D 100 2526 0 2
+D 100 2527 0 2
+D 100 2527 2 2
+D 100 2528 0 2
+D 100 2528 2 2
+D 100 2529 0 2
+D 100 2529 2 2
+D 100 2530 0 2
+D 100 2530 2 2
+D 100 2531 0 2
+D 100 2531 2 2
+D 100 2532 0 2
+D 100 2532 2 2
+D 100 2533 2 2
+M 100 2500 3 2501 3
+M 100 2500 3 2501 3
+M 100 2500 3 2501 3
+M 100 2503 2 2503 2
+M 100 2503 2 2503 2
+E 100 2503 0 13
+M 100 2505 3 2505 3
+M 100 2505 3 2505 3
+M 100 2505 3 2505 3
+E 100 2508 0 5
+E 100 2505 0 16
+M 100 2502 1 2506 1
+O 100 2506 0 2506
+O 100 2507 0 2507
+P 100 2509 1 2507 1
+O 100 2501 0 2508
+M 100 2509 1 2509 1
+E 100 2512 0 5
+E 100 2500 0 16
+M 100 2510 1 2510 1
+M 100 2547 3 2512 3
+E 100 2510 0 2
+M 100 2547 3 2512 3
+E 100 2510 0 1
+M 100 2547 3 2512 3
+M 100 2501 3 2513 3
+E 100 2511 0 5
+M 100 2501 3 2513 3
+M 100 2501 3 2513 3
+M 100 2516 1 2516 1
+M 100 2517 1 2517 1
+M 100 2518 1 2518 1
+M 100 2519 1 2519 1
+M 100 2520 1 2520 1
+M 100 2521 1 2521 1
+M 100 2522 1 2522 1
+M 100 2523 1 2523 1
+M 100 2524 1 2524 1
+M 100 2526 1 2526 1
+E 100 2526 0 5
+M 100 2527 1 2527 1
+E 100 2513 0 14
+E 100 2513 0 15
+E 100 2527 0 5
+M 100 2528 1 2528 1
+E 100 2514 0 9
+E 100 2528 0 5
+M 100 2529 1 2529 1
+E 100 2515 0 7
+E 100 2529 0 5
+M 100 2530 1 2530 1
+E 100 2516 0 13
+E 100 2530 0 5
+M 100 2531 1 2531 1
+E 100 2517 0 1
+E 100 2517 0 2
+E 100 2531 0 5
+M 100 2532 1 2532 1
+E 100 2518 0 12
+E 100 2502 0 16
+E 100 2532 0 5
+M 100 2533 1 2533 1
+E 100 2519 0 6
+E 100 2533 0 16
+M 100 2534 3 2534 1
+E 100 2534 0 12
+M 100 2534 3 2535 1
+M 100 2536 1 2536 1
+E 100 2536 0 5
+M 100 2537 2 2537 2
+M 100 2537 2 2537 2
+M 100 2540 1 2540 1
+E 100 2540 0 5
+M 100 2541 1 2541 1
+M 100 2542 2 2542 2
+M 100 2542 2 2542 2
+M 100 2543 1 2543 1
+E 100 2543 0 6
+M 100 2545 1 2545 1
+R 100 2548 2
+M 100 2555 3 2549 1
+R 100 2549 1
+M 100 2552 5 2551 1
+M 100 2552 5 2552 3
+M 100 2552 5 2552 3
+M 100 2552 5 2552 3
+R 100 2552 3
+R 100 2553 1
+M 100 2555 3 2554 1
+R 100 2554 2
+M 100 2555 3 2555 1
+R 100 2555 1
+M 100 2556 1 2556 1
+E 100 2554 0 5
+E 100 2555 0 15
+E 100 2555 0 14
+E 100 2556 0 16
+M 100 2558 3 2558 3
+M 100 2558 3 2558 3
+M 100 2558 3 2558 3
+M 100 2563 3 2563 3
+M 100 2563 3 2563 3
+M 100 2563 3 2563 3
+E 100 2563 0 5
+M 100 2565 2 2565 2
+M 100 2565 2 2565 2
+M 100 2566 2 2566 2
+M 100 2566 2 2566 2
+M 100 2568 3 2568 3
+M 100 2568 3 2568 3
+M 100 2568 3 2568 3
+M 100 2570 3 2570 3
+M 100 2570 3 2570 3
+M 100 2570 3 2570 3
+M 100 2574 1 2574 1
+E 100 2574 0 5
+E 100 2504 0 9
+M 100 2506 3 2577 1
+M 100 2504 5 2578 1
+M 100 2511 1 2591 1
+E 100 2520 0 5
+S
+
+#MOBPROGS
+#2574
+None~
+None~
+say Who dares enter here?
+cackle $n
+~
+#0
+
+#$

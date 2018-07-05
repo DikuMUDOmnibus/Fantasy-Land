@@ -1,0 +1,1292 @@
+#AOD_AREA
+Humfrey's Castle~
+23450 23581 0 9
+Levl 5 50
+Bldr Staff~
+Alig N
+End
+
+#MOBILES
+#23538
+monster moat~
+The Moat Monster~
+The moat monster is swimming towards you.
+~
+This monster seems to be made of the slime that infestes the moat.  It
+regards you coldly as you lock gazes, and opens a mouth filled with sharp
+teeth.  
+~
+human~
+100 100 0 50 0 50 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 
+ABCT D 0 -1000 0
+15 3 0 88 99 82 95 0 0 3 slime
+-3 -3 -5 -3
+STANDING STANDING male 46
+0 mage medium ABCDEFGHIJK
+P 4 0
+
+#23539
+samaritan good~
+The good samaritan~
+A good samaritan warrior stands here.
+~
+This samaritan looks are you, smiles, then offers to help.  He has a
+strong arm, a good attitude, and a willingness to help.  What a nice guy.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AT JVZ H 1000 0
+15 3 0 83 100 90 95 0 0 3 magic
+-3 -3 -3 -3
+STANDING STANDING male 52
+0 mage medium ABCDEFGHIJK
+P 3 0
+
+#23540
+gorgon~
+The Gorgon~
+The Gorgon is here, cleaning the castle and decorating.
+~
+The Gorgon is the wife of the Good Magician Humfrey.  Being of a good
+heart and never wanting to hurt anyone, she was totally unaware that her
+gaze was turning men into stone.  The Good Magician gave her a facial
+invisibility potion to help her hide her petrifying looks, but the potion
+wore off in the great Time of No Magic.  She instead went to Mundania, where
+she worked in exotic bars, until coming back to Xanth to ask Humfrey if he
+would marry her.  After her one year waiting period-fee, where Humfrey
+allowed her to see his grumpy side, he said yes, and they were married.  The
+Gorgon now wears dark glasses to hide her stare.  She is a remarkably able
+and attractively voluptous woman with small snakes for hair and a very
+pleasant way about her.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 50 150 100 100 100 100 0 100 100 100 100 100 100 100 
+ABCT JVZc HN 500 0
+45 72 0 2075 2409 2089 2264 8 8 61 frbite
+-92 -90 -77 -92
+STANDING STANDING female 1229
+0 mage medium ABCDEFGHIJK
+P 1 0
+
+#23541
+manticora~
+The manticora~
+A manticora is feeding here.
+~
+The manticora is a large beast with the face of a man, body of a lion,
+wings of a dragon, and the tail of a scorpion.  It is the size of a horse
+and is one of the most savage creatures in Xanth.  It is serving its year
+term with the Good Magician Humphrey, and is not endangering anyone of
+mortal peril during this year.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT JTZ 0 0 0
+35 45 0 1340 1430 1238 1455 5 4 44 bite
+-75 -59 -75 -53
+STANDING STANDING male 721
+0 mage medium ABCDEFGHIJK
+
+#23542
+Hugo~
+Hugo~
+Hugo is here, conjuring some rotten fruit.
+~
+Hugo is the son of Humfrey and the Gorgon.  Rather slow and dull-witted,
+he is a major disappointment to his father.  The Gorgon, however, continues
+to lavish love upon her only son, and even Humfrey has tried to help him
+improve his rather useless talent of conjuring rotten fruit.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT JZ 0 400 0
+30 23 0 861 990 886 916 2 2 28 slap
+-46 -34 -36 -42
+STANDING STANDING male 515
+0 mage medium ABCDEFGHIJK
+
+#23543
+golem grundy~
+Grundy Golem~
+Grundy Golem is here, resting.
+~
+Grundy Golem's only wish is to be fully alive.  The Demon Xanth has
+granted this wish, and for now, Grundy has taken up residence in Humfrey's
+castle.  His talent is that of speech..  Any living creature or plant Grundy
+may converse with.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT JZ 0 0 0
+5 3 0 90 95 84 97 0 0 3 slash
+-4 -3 -3 -3
+STANDING STANDING male 46
+0 mage small ABCDEFGHIJK
+
+#23544
+magician good humfrey~
+The Good Magician Humfrey~
+The Good Magician Humfrey is here, studying a book.
+~
+The Good Magician Humfrey is an irritable old man with a short temper an
+incredible amount of knowledge.  He is not "good" in the sense of the word,
+yet cares about the welfare of Xanth.  He charges a year service in advance
+for his answers to your question and does not like to be bothered with
+trifles.  Humfrey is a smallish man who looks rather like an old gnome. 
+Being close to a thousand years old, he uses drops of water from the
+Fountain of Youth to stay young.  With is gnarled big feet and large nose,
+you cannot understand why a beautiful woman like the Gorgon would want to
+marry him.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABCT JVZc CDEHN 100 0
+55 76 0 3051 3168 3087 3226 9 9 98 wrath
+-105 -123 -168 -154
+STANDING STANDING male 1719
+0 mage medium ABCDEFGHIJK
+P 1 0
+#0
+
+#OBJECTS
+#23538
+key drawbridge~
+a drawbridge key~
+The key to a drawbridge lies here.
+~
+key ABSXY AO
+0 0 0 0 0
+1 1 1
+
+#23539
+sunglasses~
+a pair of imported sunglasses~
+A pair of dark glasses lies here.
+~
+armor HMSX AE
+11 11 11 10 0
+45 5 1000
+A 12 20
+A 24 -1
+
+#23540
+dress red low cut~
+a low cut red dress~
+A beautiful red dress lies here.
+~
+armor SX AD
+11 11 11 10 0
+45 0 0
+A 13 20
+A 19 1
+A 2 1
+
+#23541
+stare gorgon~
+The Gorgon's Stare~
+A petrifying weapon lies here.
+~
+weapon BMSXZ AN
+exotic 10 10 chill C
+45 15 100
+A 19 6
+A 18 4
+
+#23542
+ring gorgon's wedding~
+The Gorgon's Wedding Ring~
+A small ring with a large diamond lies here.
+~
+armor ABSX AB
+11 11 11 10 0
+45 5 10000
+A 24 -1
+A 19 2
+A 18 2
+
+#23543
+wings manticora~
+The Wings of The Manticora~
+A pair of dragon wings lies here.
+~
+armor ASX AK
+10 10 10 8 0
+35 10 1000
+A 19 1
+A 2 2
+A 13 10
+
+#23544
+fruit rotten~
+some rotten fruit~
+A bunch of rotten fruit lies here, smelling up the room.
+~
+food X A
+10 0 0 A 0
+0 1 10
+
+#23545
+socks pair red~
+a pair of red socks~
+A pair of red socks lie here.
+~
+armor X AG
+5 5 5 5 0
+1 3 1
+A 1 1
+
+#23546
+socks pair blue~
+a pair of blue socks~
+A pair of blue socks lie here.
+~
+armor X AG
+5 5 5 5 0
+1 3 1
+A 3 1
+
+#23547
+socks pair green~
+a pair of green socks~
+A pair of green socks lie here.
+~
+armor X AG
+5 5 5 5 0
+1 3 1
+A 4 1
+
+#23548
+socks pair white~
+a pair of white socks~
+A pair of white socks lie here.
+~
+armor X AG
+5 5 5 5 0
+1 3 1
+A 2 1
+
+#23549
+socks pair yellow~
+a pair of yellow socks~
+A pair of yellow socks lie here.
+~
+armor X AG
+5 5 5 5 0
+1 3 1
+A 5 1
+
+#23550
+mirror magic~
+The Magic Mirror~
+A strange mirror is hung here.
+~
+staff ABX AO
+50 5 5 'detect hidden' 0
+10 10 100
+
+#23551
+book big answers~
+The Big Book of Answers~
+A large heavy tome lies here.
+~
+scroll ABSX AO
+55 'detect hidden' 'detect invis' 'know alignment' ''
+55 10 1000
+A 4 3
+A 24 -1
+
+#23552
+spectacles humfrey's~
+Humfrey's spectacles~
+A large pair of thick glasses lays here.
+~
+armor AMX AE
+12 12 12 10 0
+55 5 10
+A 3 3
+A 23 -1
+
+#23553
+vial water youth fountain~
+a vial of water from the Fountain of Youth~
+A small vial of special water lies here.
+~
+potion AX AO
+55 'heal' 'cure light' 'cure critical' ''
+55 2 10000
+
+#23554
+ring knowledge~
+The Ring of Knowledge~
+A small vibrant ring is glowing here.
+~
+armor AMSX AB
+10 10 10 8 0
+55 5 100
+A 4 2
+A 3 2
+A 2 1
+
+#23555
+book heavy~
+a heavy book~
+A thick and heavy book lies here, collecting dust.
+~
+weapon HMSX AN
+mace 6 11 smash 0
+55 10 1000
+A 18 5
+A 19 5
+A 13 25
+A 12 25
+
+#23556
+key iron~
+an iron key~
+An iron key lies here on the floor.
+~
+key X AO
+0 0 0 0 0
+1 1 10
+
+#23557
+potion cure hunger~
+a potion of cure hunger~
+A small clear potion lies here.
+~
+potion X AO
+50 'create food' 'create food' 'create food' ''
+1 2 50
+
+#23558
+vial cure thirst~
+a vial of cure thirst~
+A small vial lies here.
+~
+potion X AO
+50 'create spring' 'create spring' 'create spring' ''
+1 2 50
+
+#23559
+potion cloudy black~
+a cloudy black potion~
+A cloudy black potion lies here.
+~
+potion BXY AO
+55 'teleport' 'curse' 'blindness' ''
+1 2 50
+
+#23560
+orb jade~
+The Jade Orb~
+A sphere made of a green stone lies here.
+~
+staff HMSX AO
+10 5 5 'frenzy' 0
+10 10 10000
+
+#23561
+desk cherrywood~
+a cherrywood desk~
+A desk made from cherrywood is standing in the corner.
+~
+container X 0
+10000 ABCD 23556 1000 0
+0 1000 1
+
+#23562
+pill cure impotence~
+a pill of cure impotence~
+A small white pill lays here.
+~
+pill AX A
+10 'cure disease' 'giant strength' 'refresh' ''
+1 1 10
+
+#23563
+vial water youth fountain~
+a vial of water from the Fountain of Youth~
+A vial of strange water lies here.
+~
+potion X AO
+50 'cure light' 'cure critical' 'heal' ''
+1 2 50
+#0
+
+#ROOMS
+#23552
+The Stone Wall~
+You are standing before a long stone wall inside the Good Magician
+Humfrey's Castle.  You can see no way to pass this massive wall of stone,
+and looking east and west, you can observe that it stretches out
+indeterminally.  This is the second challenge to gain an audience with the
+Good Magician.  
+~
+0 0
+D1
+~
+~
+0 0 23551
+D3
+~
+~
+0 0 23552
+S
+
+#23553
+Under the Wall~
+You have a secret passageway underneath the castle.  This small and
+narrow passage leads under the stone wall, effectively bypassing the second
+challenge to meet the Good Magician Humfrey.  The crawlspace is dark and
+smells musty, as if it has not been used in ages.  A faint light can be seen
+to the south, and filled with hope, you crawl towards it.  
+~
+0 0
+D2
+~
+~
+0 0 23554
+D4
+~
+~
+AB 0 23551
+S
+
+#23554
+The Basement of the Castle~
+You have found your way into the basement of the Good Magician Humfrey's
+castle.  This room is lit very dimly, the only light seeming to come from a
+solitary torch pegged upon the east wall.  Barrels and caskets of various
+wines sit here aging, and the bittersweet smell of oak caskets fill the air.
+The basement extends south.  Finding your way out of this large basement
+must be the third and final challenge you must pass.  
+~
+0 0
+D2
+~
+~
+0 0 23555
+S
+
+#23555
+The Basement of the Castle~
+You are exploring about in the basement of the Good Magician Humfrey's
+castle.  Numerous oak caskets filled with wines and elixirs are stacked
+about here, lending the room a pungently tangy smell to mix with the musty
+odor that fills this room.  The cellar extends south and north.  
+~
+0 0
+D0
+~
+~
+0 0 23554
+D2
+~
+~
+0 0 23556
+S
+
+#23556
+The Basement of the Castle~
+You are exploring about in the basement of the Good Magician Humfrey's
+castle.  Numerous oak caskets filled with wines and elixirs are stacked
+about here, lending the room a pungently tangy smell to mix with the musty
+odor that fills this room.  The cellar extends south and north.  
+~
+0 0
+D0
+~
+~
+0 0 23555
+D2
+~
+~
+0 0 23557
+S
+
+#23557
+The Basement of the Castle~
+You are exploring about in the basement of the Good Magician Humfrey's
+castle.  Numerous oak caskets filled with wines and elixirs are stacked
+about here, lending the room a pungently tangy smell to mix with the musty
+odor that fills this room.  The cellar extends south and north.  
+~
+0 0
+D0
+~
+~
+0 0 23561
+D2
+~
+~
+0 0 23558
+S
+
+#23558
+The Basement of the Castle~
+You are exploring about in the basement of the Good Magician Humfrey's
+castle.  Numerous oak caskets filled with wines and elixirs are stacked
+about here, lending the room a pungently tangy smell to mix with the musty
+odor that fills this room.  The cellar extends south and north.  
+~
+0 0
+D0
+~
+~
+0 0 23558
+D2
+~
+~
+0 0 23559
+S
+
+#23559
+The Basement of the Castle~
+You are exploring about in the basement of the Good Magician Humfrey's
+castle.  Numerous oak caskets filled with wines and elixirs are stacked
+about here, lending the room a pungently tangy smell to mix with the musty
+odor that fills this room.  The cellar extends south and north.  
+~
+0 0
+D0
+~
+~
+0 0 23558
+D2
+~
+~
+0 0 23560
+S
+
+#23560
+The Basement of the Castle~
+You are exploring about in the basement of the Good Magician Humfrey's
+castle.  Numerous oak caskets filled with wines and elixirs are stacked
+about here, lending the room a pungently tangy smell to mix with the musty
+odor that fills this room.  The cellar extends south and north.  
+~
+0 0
+D0
+~
+~
+0 0 23559
+D2
+~
+~
+0 0 23539
+S
+
+#23561
+The Basement of the Castle~
+You are exploring about in the basement of the Good Magician Humfrey's
+castle.  Numerous oak caskets filled with wines and elixirs are stacked
+about here, lending the room a pungently tangy smell to mix with the musty
+odor that fills this room.  The cellar extends south and north.  There are
+some stairs leading up from here that you must have missed before.  
+~
+0 0
+D0
+~
+~
+0 0 23556
+D2
+~
+~
+0 0 23557
+D4
+~
+~
+0 0 23562
+S
+
+#23562
+The Foyer of the Good Magician Humfrey's Castle~
+You have made your way into the center of the grand foyer inside
+Humphrey's castle.  This room is a large and ornate foyer, rare tapestries
+hanging upon the high walls and elegant silver and gold framed mirrors set
+tastefully about.  The skylight set high into the ceiling lets in the light,
+setting the castle ablaze with color as the light reflects off the crystal
+ornaments that are placed about the foyer.  
+~
+8 0
+D0
+~
+~
+0 0 23563
+D2
+~
+~
+0 0 23564
+S
+
+#23563
+The Northern End of the Foyer~
+You have reached the northern end of the foyer.  Large paintings decorate
+the walls and the large drawbridge that keeps unwanted visitors out is now
+down, allowing you free access from the castle to the north.  A small table
+filled with candies is set in the middle of the room and a small basket of
+potpourri scents the room with its mixture of herbal scents.  
+~
+0 0
+D0
+~
+~
+0 0 23539
+D2
+~
+~
+0 0 23562
+S
+
+#23564
+The Main Hall of Humfrey's Castle~
+You are in the main hall of Humfrey's castle.  The imposing large stone
+walls here are softened with large opened windows and a few decorations that
+make the otherwise bleak surrounds look much more comfortable.  There is a
+large table in the center of the room and a number of chairs about it.  A
+long couch is set against the east wall, and a small bookshelf filled with
+various parchments and scrolls is standing against the west wall.  There are
+a set of stairs leading up from here.  
+~
+8200 0
+D0
+~
+~
+0 0 23562
+D2
+~
+~
+0 0 23565
+D4
+~
+~
+0 0 23577
+S
+
+#23565
+The Intersection~
+You have come to an intersection deep within Humfrey's castle.  Long
+halls stretch to the east and west.  The main hall is north and there is a
+room south.  A number of windows here let in the light, making this castle
+less gloomy that it would ordinarily be.  
+~
+8 0
+D0
+~
+~
+0 0 23564
+D1
+~
+~
+0 0 23567
+D2
+~
+~
+0 0 23566
+D3
+~
+~
+0 0 23570
+S
+
+#23566
+The Dining Hall~
+You are inside the large dining hall of Humfrey's castle.  There is a
+long table here, surrounded by chairs, and long silk tapestries hang from
+the walls.  An ornate chandelier hangs from the ceiling, twinkling of silver
+and crystal, filling the room with light and slivers of color.  
+~
+8200 0
+D0
+~
+~
+0 0 23565
+S
+
+#23567
+The Long Corridor~
+You are walking along a long corridor inside the castle of Good Magician
+Humfrey.  Doors line the corridor to the north and south, most likely guest
+rooms or other rooms of some sort.  Other than the occasional painting upon
+the walls, this hallway is rather bare.  
+~
+0 0
+D1
+~
+~
+0 0 23568
+D3
+~
+~
+0 0 23565
+S
+
+#23568
+The Long Corridor~
+You are walking along a long corridor inside the castle of Good Magician
+Humfrey.  Doors line the corridor to the north and south, most likely guest
+rooms or other rooms of some sort.  Other than the occasional painting upon
+the walls, this hallway is rather bare.  
+~
+0 0
+D1
+~
+~
+0 0 23569
+D3
+~
+~
+0 0 23567
+S
+
+#23569
+The Long Corridor~
+You are walking along a long corridor inside the castle of Good Magician
+Humfrey.  Doors line the corridor to the north and south, most likely guest
+rooms or other rooms of some sort.  Other than the occasional painting upon
+the walls, this hallway is rather bare.  
+~
+0 0
+D0
+~
+closet~
+AB 0 23575
+D2
+~
+closet~
+AB 0 23576
+D3
+~
+~
+0 0 23568
+S
+
+#23570
+The Long Corridor~
+You are walking along a long corridor inside the castle of Good Magician
+Humfrey.  Doors line the corridor to the north and south, most likely guest
+rooms or other rooms of some sort.  Other than the occasional painting upon
+the walls, this hallway is rather bare.  
+~
+0 0
+D1
+~
+~
+0 0 23565
+D3
+~
+~
+0 0 23571
+S
+
+#23571
+The Long Corridor~
+You are walking along a long corridor inside the castle of Good Magician
+Humfrey.  Doors line the corridor to the north and south, most likely guest
+rooms or other rooms of some sort.  Other than the occasional painting upon
+the walls, this hallway is rather bare.  
+~
+0 0
+D1
+~
+~
+0 0 23570
+D3
+~
+~
+0 0 23572
+S
+
+#23572
+The Long Corridor~
+You are walking along a long corridor inside the castle of Good Magician
+Humfrey.  Doors line the corridor to the north and south, most likely guest
+rooms or other rooms of some sort.  Other than the occasional painting upon
+the walls, this hallway is rather bare.  
+~
+0 0
+D0
+~
+bedroom~
+AB 0 23573
+D1
+~
+~
+0 0 23571
+D2
+~
+guest~
+AB 0 23574
+S
+
+#23573
+Hugo's Room~
+You have entered Hugo's room.  This room is a total and utter mess,
+clothes sprawled about everywhere, various assorted objects cluttering up
+the floor.  The smell of rotten fruit is stong here, and you wonder where it
+is coming from.  
+~
+8200 0
+D2
+~
+~
+AB 0 23572
+S
+
+#23574
+The Guest Room~
+You are inside a guest room in Humfrey's castle.  This room is small but
+neat, with a nice simple bed, a closet, a dresser, and a desk.  The window
+set into the west all permits you a lovely view of the forests which
+surround the castle.  
+~
+8200 0
+D0
+~
+~
+AB 0 23572
+S
+
+#23575
+A Storage Closet~
+You are inside a small storage closet.  This closet is dark and smells
+rather musty.  Various objects and vials are stacked upon the shelves and
+cleaning utensils are placed against the walls.  
+~
+8 0
+D2
+~
+~
+AB 0 23569
+S
+
+#23576
+The Sock Closet~
+You have wandered into Humfrey's sock closet.  Piles and mountains of
+socks are here, cleaned and rolled into neat pairs by the Gorgon.  It seems
+that Humfrey's big feet must get dirty quiet often.  The closet smells clean
+and fresh, and you can only guess that the Gorgon takes care of all of
+Humfrey's needs very well.  
+~
+12 0
+D0
+~
+~
+AB 0 23569
+S
+
+#23577
+The Top of the Stairs~
+You have reached the top of the stairs inside Humfrey's castle.  Looking
+down from here, you can see the Main Hall of the castle, and the Gorgon
+cleaning about.  The walls here are relatively bare, with the exceptions of
+a few rather bland paintings, most likely picked by Humfrey himself before
+the Gorgon moved in.  The door to Humfrey's study is to the north.  The
+bedroom door lies to the south.  
+~
+8 0
+D0
+~
+study~
+AB 0 23579
+D2
+~
+bedroom~
+AB 0 23581
+D5
+~
+~
+0 0 23564
+S
+
+#23579
+Humfrey's Study~
+You are inside a HUGE room cluttered with all sorts of objects.  A large
+desk sits next to the window cut into the north wall.  Books and rare tomes
+litter the desk and stacks of potions and scroll sit in a basket in the
+corner of the room.  A large mirror is hung upon the west wall and the very
+floor is buried under strange objects you have never seen before.  This must
+be Humfrey's study.  
+~
+8200 0
+D0
+~
+vault~
+ABCFG 23556 23580
+D2
+~
+~
+AB 0 23577
+S
+
+#23580
+Humfrey's Vault~
+You are inside Humfrey's vault.  There are a number of potions, scroll,
+and other assorted magical objects stacked upon the shelves here.  These
+must be very powerful items, judging by the thickness of the vault door.  
+~
+8 0
+D2
+~
+~
+ABCFG 0 23579
+S
+
+#23581
+The Bedroom of Humfrey and the Gorgon~
+You are inside the master bedroom of Humfrey and Gorgon.  There is a
+large bed here, complete with silk covers and a down comforter.  There is a
+large mirror against the west wall, and a dressed filled with clothes is
+against the east wall.  
+~
+8 0
+D0
+~
+~
+AB 0 23577
+S
+
+#23450
+The Brink~
+You have reached the top southern brink of the Gap Chasm.  The view of
+the chasm from here is breathtaking although the sheer heights you are at
+makes you feel a tad bit woozy.  To the south lies the way to the Good
+Magician Humphrey's castle, and the way into the Gap Chasm lies to the
+north.  
+~
+8 0
+S
+
+#23538
+Outside The Good Magician Humfrey's Castle~
+You are standing outside the Good Magician Humfrey's castle.  The castle
+is a large grand edifice made from stone and a circular moat surrounds the
+entire castle.  The building looks rather imposing and you notice that the
+drawbridge is up, stopping you from crossing over.  This must be the first
+of the three challenges you must pass in order to meet the magician.  
+~
+4 3
+D0
+~
+~
+0 0 5264
+D2
+~
+~
+0 0 23539
+S
+
+#23539
+The Edge of the Moat~
+You are standing before the moat.  The water is rather fetid and filled
+with a greenish slime and you see something moving inside.  Small blackish
+plants grow at the edge of the water, and you can see no plausible way to
+pass through to the other side.  
+~
+8 3
+D0
+~
+~
+0 0 23538
+D1
+~
+~
+0 0 23542
+D2
+~
+~
+0 0 23540
+S
+
+#23540
+The Middle of the Moat~
+You have wandered inside the moat surrounding the castle.  The water you
+are wading through is slimy and clings to you, much to your disgust.  To the
+south you can see the entrance into the castle, barred by a large
+drawbridge.  As you search about for the key to let the drawbridge, you can
+sense something under the water approaching you.  
+~
+0 3
+D0
+~
+~
+0 0 23539
+D2
+~
+drawbridge~
+ABCFG 23538 23541
+S
+
+#23541
+Inside the Good Magician Humfrey's Castle~
+You have passed the first challenge to meet to Good Magician Humfrey. 
+However two still remain.  In front of you lies a large stone wall.  You
+have no idea what it is doing here, yet it bars any entrance into the
+castle.  The stone wall stretches far to the east and west, and you rack
+your brains trying to figure out the puzzle of how to get through the wall. 
+~
+2060 0
+D0
+~
+~
+ABCFG 0 23540
+D1
+~
+~
+0 0 23543
+D3
+~
+~
+0 0 23548
+S
+
+#23542
+The Edge of the Moat~
+You are standing before the moat.  The water is rather fetid and filled
+with a greenish slime and you see something moving inside.  Small blackish
+plants grow at the edge of the water, and you can see no plausible way to
+pass through to the other side.  
+~
+0 3
+D3
+~
+~
+0 0 23539
+S
+
+#23543
+The Stone Wall~
+You are standing before a long stone wall inside the Good Magician
+Humfrey's Castle.  You can see no way to pass this massive wall of stone,
+and looking east and west, you can observe that it stretches out
+indeterminally.  This is the second challenge to gain an audience with the
+Good Magician.  
+~
+0 0
+D1
+~
+~
+0 0 23544
+D3
+~
+~
+0 0 23541
+S
+
+#23544
+The Stone Wall~
+You are standing before a long stone wall inside the Good Magician
+Humfrey's Castle.  You can see no way to pass this massive wall of stone,
+and looking east and west, you can observe that it stretches out
+indeterminally.  This is the second challenge to gain an audience with the
+Good Magician.  
+~
+0 0
+D1
+~
+~
+0 0 23545
+D3
+~
+~
+0 0 23543
+S
+
+#23545
+The Stone Wall~
+You are standing before a long stone wall inside the Good Magician
+Humfrey's Castle.  You can see no way to pass this massive wall of stone,
+and looking east and west, you can observe that it stretches out
+indeterminally.  This is the second challenge to gain an audience with the
+Good Magician.  
+~
+0 0
+D1
+~
+~
+0 0 23546
+D3
+~
+~
+0 0 23544
+S
+
+#23546
+The Stone Wall~
+You are standing before a long stone wall inside the Good Magician
+Humfrey's Castle.  You can see no way to pass this massive wall of stone,
+and looking east and west, you can observe that it stretches out
+indeterminally.  This is the second challenge to gain an audience with the
+Good Magician.  
+~
+0 0
+D1
+~
+~
+0 0 23547
+D3
+~
+~
+0 0 23545
+S
+
+#23547
+The Stone Wall~
+You are standing before a long stone wall inside the Good Magician
+Humfrey's Castle.  You can see no way to pass this massive wall of stone,
+and looking east and west, you can observe that it stretches out
+indeterminally.  This is the second challenge to gain an audience with the
+Good Magician.  
+~
+0 0
+D1
+~
+~
+0 0 23547
+D3
+~
+~
+0 0 23546
+S
+
+#23548
+The Stone Wall~
+You are standing before a long stone wall inside the Good Magician
+Humfrey's Castle.  You can see no way to pass this massive wall of stone,
+and looking east and west, you can observe that it stretches out
+indeterminally.  This is the second challenge to gain an audience with the
+Good Magician.  
+~
+0 0
+D1
+~
+~
+0 0 23541
+D3
+~
+~
+0 0 23549
+S
+
+#23549
+The Stone Wall~
+You are standing before a long stone wall inside the Good Magician
+Humfrey's Castle.  You can see no way to pass this massive wall of stone,
+and looking east and west, you can observe that it stretches out
+indeterminally.  This is the second challenge to gain an audience with the
+Good Magician.  
+~
+0 0
+D1
+~
+~
+0 0 23548
+D3
+~
+~
+0 0 23550
+S
+
+#23550
+The Stone Wall~
+You are standing before a long stone wall inside the Good Magician
+Humfrey's Castle.  You can see no way to pass this massive wall of stone,
+and looking east and west, you can observe that it stretches out
+indeterminally.  This is the second challenge to gain an audience with the
+Good Magician.  
+~
+0 0
+D1
+~
+~
+0 0 23549
+D3
+~
+~
+0 0 23551
+S
+
+#23551
+The Stone Wall~
+You are standing before a long stone wall inside the Good Magician
+Humfrey's Castle.  You can see no way to pass this massive wall of stone,
+and looking east and west, you can observe that it stretches out
+indeterminally.  This is the second challenge to gain an audience with the
+Good Magician.  
+~
+0 0
+D1
+~
+~
+0 0 23550
+D3
+~
+~
+0 0 23552
+D5
+~
+floor~
+AB 0 23553
+S
+#0
+
+#SPECIALS
+M 23540 spec_breath_any
+M 23541 spec_poison
+M 23544 spec_cast_undead
+S
+
+#RESETS
+D 100 23553 4 1
+D 100 23569 0 1
+D 100 23569 2 1
+D 100 23572 0 1
+D 100 23572 2 1
+D 100 23573 2 1
+D 100 23574 0 1
+D 100 23575 2 1
+D 100 23576 0 1
+D 100 23577 0 1
+D 100 23577 2 1
+D 100 23579 0 2
+D 100 23579 2 1
+D 100 23580 2 2
+D 100 23581 0 1
+D 100 23540 2 2
+D 100 23541 0 2
+D 100 23551 5 1
+M 100 23540 1 23564 1
+E 100 23541 0 16
+E 100 23540 0 5
+E 100 23539 0 6
+E 100 23542 0 1
+M 100 23541 1 23566 1
+E 100 23543 0 12
+M 100 23542 1 23573 1
+G 100 23544 0
+M 100 23543 1 23574 1
+O 100 23545 0 23576
+O 100 23546 0 23576
+O 100 23547 0 23576
+O 100 23548 0 23576
+O 100 23549 0 23576
+M 100 23544 1 23579 1
+E 100 23554 0 1
+E 100 23552 0 6
+E 100 23551 0 17
+E 100 23555 0 16
+G 100 23563 0
+G 100 23556 0
+O 100 23550 0 23579
+O 100 23558 0 23580
+O 100 23557 0 23580
+O 100 23559 0 23580
+O 100 23560 0 23580
+O 100 23561 0 23581
+P 100 23562 -1 23561 1
+M 100 23538 1 23540 1
+E 100 23538 0 17
+M 100 23539 1 23542 1
+S
+
+#$

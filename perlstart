@@ -1,0 +1,8 @@
+#!/bin/csh
+
+perl /home/loki/fantasyland/mudstart.pl
+
+#while ( 1 )
+    nohup perl mudstart.pl 
+#    sleep 600
+#end

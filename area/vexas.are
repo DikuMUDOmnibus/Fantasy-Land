@@ -1,0 +1,2877 @@
+#AOD_AREA
+Vexas tower~
+32900 32999 C 9
+Levl 0 0
+Bldr Glimmer~
+End
+
+#MOBILES
+#32900
+helmed horror armor~
+A Helmed Horror~
+An ancient suit of plate armor animates and attacks you!
+~
+Like most archaic armor, this is made of heavy plates of steel fastened
+together.  It is covered in runes and arcane engravings and inlaid with
+precious metals.  This suit stands about 12 feet tall however and the
+growing glow behind its closed visor says volumes for its uniqueness though.
+~
+human~
+150 100 0 0 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFT DQa HO 0 0
+150 1500 -40 0 0 0 0 75 150 0 pound
+0 0 0 0
+STANDING STANDING male 1000
+0 mage huge ABCDEFGHIJK
+W 2
+
+#32901
+shadow golem~
+a Shadow Golem~
+The shadows rise into a manlike form here to attack you!
+~
+It is hard to make out any details of this creature, for it appears to be made entirely of swirling inky black shadow. An aura of chill surrounds its tall manlike form and wisps of black shadow seem to flow off and around it.
+~
+human~
+100 100 0 0 0 100 100 100 150 100 150 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ACFRT DFNVa HS -1000 0
+150 350 -50 10033 19136 13238 19737 75 150 100 drain
+-1200 -1200 -1200 -1200
+STANDING STANDING male 1000
+0 mage huge ABCDEFGHIJK
+W 5
+
+#32902
+dwarf blacksmith skeleton~
+A dwarven blacksmith's skeleton~
+The skeleton of a dwarven blacksmith still clutches its hammer
+~
+From the somewhat short length and thick compositon of the bones before you, ya assume that this was once a dwarf. Now it is merely so much dried bone, still chained to the anvil it worked and still clutching its rune engraved blacksmiths hammer.
+~
+human~
+100 100 0 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 150 100 100 100 
+ABFO BDFVZa HI 0 0
+150 300 -40 25001 25001 20001 20001 75 150 100 slash
+-1000 -1000 -1000 -1000
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#32903
+ghost alchemist shopkeeper~
+the ghost of an alchemist~
+The ghostly figure of an alchemist is here to sell you his remaining wares
+~
+~
+human~
+100 0 0 100 100 100 0 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABCGI c 0 0 0
+99 0 0 30495 31028 30520 30994 49 99 45 magic
+-700 -700 -700 -700
+STANDING STANDING male 100000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#32904
+zombie surgeon~
+The Zombie Surgeon~
+The Zombie of a surgeon is here to perform one last brain transplant
+~
+It appears at first glance to be your typical human, till ya smell the stenc of rotting meat and gaze into its lifeless eyes. It is wearing a bloodstained white labcoat and has some sort of strange surgical device in his hand
+~
+human~
+100 100 0 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ACFO BDFVZa H -1000 0
+150 200 -40 25001 25001 20001 20001 75 150 250 pound
+100 100 100 100
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#32905
+shambling mound vegetation~
+A shambling mound~
+A pile of rotting vegetation gets up and moves towards you
+~
+~
+human~
+100 100 0 50 100 100 50 100 100 100 100 0 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABCLT DFVZa HQ -1000 0
+150 250 -50 26001 26001 15001 15001 75 150 250 chomp
+-2000 -2000 -2000 -2000
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+W 1
+
+#32906
+Silver Golem~
+A {DSilver {wGolem{x~
+A gigantic manlike form made entirely of silver stands here
+~
+Standing over 20 feet tall. This appears to be a statue made of finely wrought silver. It is in the form of a gigantic human warrior in spiked plate armor.
+~
+human~
+150 100 0 0 0 100 50 100 100 100 100 50 100 100 100 100 100 50 0 100 50 100 100 100 100 100 
+ABT DFVZ H 0 0
+140 200 0 27001 27001 20001 20001 70 140 200 smash
+-3000 -3000 -3000 -3000
+STANDING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+W 1
+
+#32907
+pit fiend demon~
+A Pit Fiend~
+A gigantic winged Demon Lord has been summoned here.
+~
+~
+human~
+100 100 0 100 100 100 0 100 150 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 
+ABCQT DFTVZa DHQ -1000 0
+150 200 -60 25001 25001 20001 20001 75 150 150 flame
+-2000 -2000 -2000 -2000
+STANDING STANDING male 10000
+0 mage giant ABCDEFGHIJK
+W 1
+
+#32908
+banshee mage~
+a Banshee Mage~
+The undead spirit of an elven apprentice screams and attacks!
+~
+~
+human~
+100 100 0 0 100 100 100 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFOQR DEFGNc HS -1000 0
+1 0 0 20001 20001 23001 23001 1 20 150 sound
+-1000 -1000 -1000 -1000
+STANDING STANDING male 1000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#32909
+dragontamer giant~
+Dragontamer~
+The zombie of a stormgiant covered in dragonscale armor stands here
+~
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 150 100 100 100 100 100 
+ABFOT Da EH 0 0
+150 200 -20 26001 26001 21 30 75 150 200 pound
+-1500 -1500 -1500 -1500
+STANDING STANDING male 0
+0 mage giant ABCDEFGHIJK
+
+#32910
+Fyrantinimar dracolich dragon~
+Fyrantinimar the Dracolich~
+The skeleton of a gigantic Dragon stands guard here.
+~
+At one time Fyrantinimar was one of the most feared names among dragons. 
+Legends of his great power and ferocity spread from one end of the world to
+the other.  All of that changed however when he was captured subdued and
+twisted into the form before you His once sleekly muscled body has rotted
+away untill nothing but bare bones and a few scales remain.  All of the
+flesh, skin and scale has long since turned to dust on this beast, but his
+power still remains.  Deep within the sockets of his eyes two pinpoints of
+light glow like candles.  You can sense that if anything he is even more
+fearsome than when he was alive 
+~
+dragon~
+100 50 50 100 0 100 50 100 100 100 100 0 50 50 100 100 100 50 0 100 50 100 100 100 100 100 
+ABCQRT DFJLTZac H -1000 0
+150 1500 -100 75001 75001 20002 20198 1800 3600 250 drain
+-2000 -2000 -2000 -2000
+STANDING STANDING male 10000
+0 mage giant ACDEFGHIJKPQUVX
+W 1
+
+#32911
+vexa lich~
+Vexa~
+The mighty Archlich Vexa waits to drain your lifeforce.
+~
+Here at last stands the owner of this ancient tower Vexa.  His tall
+skeletal form crackles with power, and his skeletal eye sockets glare down
+on you with an eerie light.  Ancient and decaying robes wrap his form and in
+his hands rest a magical staff and a glowing whip shaped force.  Power seems
+to radiate from him in waves, and you know you stand before one of the
+mightiests magic users in history.  
+~
+human~
+100 50 0 0 0 100 100 100 150 100 100 100 100 0 100 100 100 50 0 100 50 100 100 100 100 100 
+ABCFORT DFVZa BCEHINOPS -1000 0
+150 1000 -60 29001 29001 20001 20001 75 150 400 pound
+-5000 -5000 -5000 -5000
+STANDING STANDING male 1000
+0 mage huge ABCDEFGHIJK
+W 1
+
+#32912
+wraith knight~
+{DWraith Knight{x~
+A shadowy, wraith like figure in full battle armor stands here.
+~
+This being was at one time human.  A knight of some noble order who was
+captured by Vexa and used in his unholy experiments.  His once strong form
+is merely a shadow now, a wraith like bringier of death.  His once shining
+armor is as black as a moonless knight.  He is carrying a spiked iron ball
+attacked to a long chain that he looks more than capable of using.  
+~
+human~
+150 50 50 100 0 100 50 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABCQRT DFJLZa H -1000 0
+120 1000 0 20001 20001 20002 20200 60 120 150 pound
+-2000 -2000 -2000 -2000
+STANDING STANDING male 10000
+0 mage giant ABCDEFGHIJK
+W 1
+
+#32913
+berserker montanox~
+Montanox Berserker~
+A gigantic Montanox wielding a huge mallet stands here.
+~
+This gigantic being seems carved from the very bedrock itself. It is a cold basalt grey in color, with flecks of quartz shining here and there. His huge blunt fingered hands grip a glowing wooden mallet and his jewell like eyes burn with an inner fire
+~
+human~
+150 50 50 100 0 100 50 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABCQRT DFJLZa H 0 0
+120 1000 0 20001 20001 20003 20198 60 120 150 pound
+-2000 -2000 -2000 -2000
+STANDING STANDING male 10000
+0 mage giant ABCDEFGHIJK
+W 1
+
+#32914
+undead ninja~
+{DUndead Ninja{x~
+A rotting figure dressed in crumbling black silk stands here.
+~
+The figure before you may have at one time been an assassin sent to
+destroy Vexa, but now in death serves him.  His putrescent flesh is covered
+in rotting silk garments and he wields a night-black katana that seems to
+pollute the air around him.  
+~
+human~
+150 50 0 100 0 100 50 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABCFQRT DFJLNZa GHJ 0 0
+120 1000 0 20001 20001 20005 20199 60 120 150 pound
+-2000 -2000 -2000 -2000
+STANDING STANDING male 10000
+0 mage giant ABCDEFGHIJK
+W 1
+
+#32920
+practice dummy~
+Practice Dummy~
+A dummy waits to practice on
+~
+Looks harmless enough......but those eyes.....
+~
+human~
+0 0 0 0 0 0 0 100 0 100 0 0 0 0 0 0 100 0 0 100 0 0 0 0 0 100 
+AGHS DF 0 0 0
+150 0 0 25001 25001 100 100 75 150 0 none
+100 100 100 100
+STANDING STANDING male 1
+0 mage medium ABCDEFGHIJK
+
+#32999
+blah~
+{*G{*l{*i{*m{*m{*e{*r{*i{*n {YLight {WO' {*G{*l{*i{*m{*m{*e{*r{x~
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+1 0 0 2 2 2 2 1 20 1 none
+100 100 100 100
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#32900
+key tower~
+tower Key~
+A tarnished silver key lies here.~
+key 0 A
+0 0 0 0 0
+0 10 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32901
+silver arms golem~
+{DS{wi{Wl{wv{De{wr {WG{wo{Dl{we{Wm {wA{Dr{wm{Ws{x~
+A pair of hollow silver arms lies here.~
+armor ABGI AI
+25 25 25 25 0
+101 30 1000
+A 17 -25
+A 19 10
+A 18 10
+A 13 303
+A 20 -1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32902
+Runeforger hammer~
+{DR{wu{Wn{ce{Cf{Wo{wr{Dg{we{Cr{x~
+A rune engraved blacksmiths hammer lies here~
+weapon ABGMT AN
+mace 14 13 silver BG
+99 99 10000
+A 13 100
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32903
+wand revealing~
+the Wand of Revealing~
+A long pale ash wand with a prism tip lies here~
+wand GY AO
+101 20 20 'faerie fog' 0
+101 10 10000
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32904
+scroll of last resort~
+the Scroll of Last Resort~
+A glowing scroll lies here, wrapped with a red silk cord~
+scroll GN A
+101 '' '' '' ''
+91 10 20000
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32905
+potion dragon power~
+{YPotion {Cof {WDragon {GPower{x~
+A glowing red potion lies here thrumming with power~
+potion AGN AO
+101 'frenzy' 'haste' '' ''
+91 5 30000
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32906
+staff necromancer~
+{RS{rt{Ra{rf{Rf {wof {Wthe {DN{we{Dc{wr{Do{wm{Da{wn{Dc{we{Dr{x~
+A long bone staff topped with a glowing skull is here~
+staff ABG AO
+101 30 30 'resurrect' 0
+101 20 40000
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32907
+Labotomizer~
+{*L{*a{*b{*o{*t{*o{*m{*i{*z{*e{*r{x~
+A odd looking device with a saw like blade is here~
+weapon ABGT AN
+exotic 13 13 pyrokinesis G
+101 40 1000
+A 19 30
+A 18 20
+A 12 -1000
+A 3 -6
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32908
+watering can~
+{BW{ba{ct{Ce{Br{bi{cn{Cg {DCan{x~
+A gardeners watering can is here~
+weapon ABGHM AN
+exotic 14 13 water BG
+101 40 10000
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32909
+hellforged katana~
+{RH{re{yl{Yl{rF{Ro{rr{yg{Ye{Rd {DKatana{x~
+A katana forged in the fires of Hell lies here.~
+weapon GT AN
+dagger 14 14 flbite CDJ
+101 50 12000
+A 13 150
+A 18 30
+A 19 30
+F A 0 0 L
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32910
+Gloves power~
+gloves of Power~
+A pair of rune embroidered leather gloves lie here.~
+armor AG AH
+25 25 25 25 0
+101 10 100000
+A 19 30
+A 13 100
+A 1 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32911
+dragonskin girdle~
+{gD{Gr{ga{Gg{go{Gn{gs{Gk{gi{Gn {DG{Wi{Dr{Wd{Dl{We{x~
+A girdle of dragonskin glows faintly on the ground~
+armor ABG AL
+25 25 25 25 0
+101 30 100000
+A 19 30
+A 2 -2
+A 18 25
+A 1 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32912
+Soullasher~
+SoulLasher~
+A glowing whip shaped force of energy lies here~
+weapon ABCEGHM AN
+whip 13 14 drain BCE
+101 50 10
+A 12 100
+A 18 20
+A 19 20
+A 13 100
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32913
+darkfire staff~
+{DD{wa{Wr{wk{DF{wi{Wr{we {RS{rt{Ra{rf{Rf{x~
+A black rune engraved staff glows with a dark energy~
+staff ABEGSY AO
+101 25 25 'energy drain' 0
+101 20 20000
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32914
+dark portal~
+a dark portal~
+A dark portal to parts unknown rests here~
+portal AGO 0
+99999 0 E 0 0
+0 0 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32915
+dragonfear~
+{GD{gr{ya{gg{Go{gn{yf{ge{Ga{yr{x~
+An aura of fear floats in the air here~
+armor ABEGHJMY AQ
+23 23 23 23 0
+101 1 1000
+A 4 -3
+A 3 -3
+A 1 2
+A 19 33
+A 18 33
+A 13 150
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32916
+Glimmers Quest Potion of Death~
+Glimmer's {WQuest {RPotion {Gof {DDeath{x!~
+A glowing poition lies here, radiating power~
+potion ABEFGHMNSTYa A
+16 '' '' 'curse' 'blindness'
+1 10 20000
+
+#32917
+iron ball chain~
+{DIron Ball and Chain{x~
+A rune inscribed spiked iron ball with a chain attached to it lies here.~
+weapon ABCEGM AN
+exotic 14 14 iron CGH
+101 50 10
+A 13 200
+A 12 303
+
+#32918
+wooden mallet destruction~
+{yWooden {DMallet {wO' {rDe{Rst{Dru{Rct{rion{X~
+A big ass wooden mallet is glowing with magical energy here.~
+weapon ABCEG AN
+mace 13 14 sliver AI
+101 50 1000
+A 18 30
+A 13 300
+A 1 3
+A 19 30
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32919
+shadow shield~
+{DShadow {wShield{x~
+A shield made of shadows lies here~
+armor 0 AJ
+20 20 20 20 0
+101 50 1200
+A 19 20
+A 18 20
+A 13 200
+A 12 200
+A 20 -2
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32920
+glimmer happy pill~
+{*G{*l{*i{*m{*m{*e{*r{*'s {*H{*a{*p{*p{*y {*P{*i{*l{*l{x~
+Glimmer's Happy Pill lies here ready to make you happy~
+pill AN A
+16 '' 'sanctuary' '' 'shockshield'
+1 10 200
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32921
+bloodied ring~
+{xa {rbloodied {Dring{x~
+A small ring with a green gemstone is here.~
+armor AG AB
+23 24 24 23 0
+101 30 10000
+A 19 33
+A 18 33
+F S 0 0 S
+A 14 -500
+A 13 303
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32922
+bag~
+a {ybag{x~
+A small {ybag{x.~
+container 0 A
+50 0 0 5 0
+0 10 9
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32923
+Fyrantinimars Rib~
+{xFyrantinimar's Rib~
+A sharpened rib of a dragon is pierced into the ground before you.~
+weapon AM AN
+exotic 14 13 drain GI
+101 40 50000
+A 19 25
+A 18 25
+A 13 150
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32924
+black death katana~
+{DB{wl{Wa{Dc{wk {DD{we{Wa{Dt{wh{x~
+An onyx katana lies here, a foul miasma sorrounding it~
+weapon GST AN
+exotic 14 14 disease DHJ
+101 50 12000
+F S 0 0 J
+A 18 30
+A 19 30
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32925
+token bag~
+a token bag~
+A bag full of tokens lies here~
+container Y AL
+500 0 0 10 0
+0 50 1000
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32926
+mace shadow~
+{DMace of Shadows{x~
+An obsidan mace with a shadowy aura lies here.~
+weapon AGIT AN
+mace 13 13 shadow CG
+101 70 8500
+F S 0 0 S
+A 13 150
+A 19 30
+A 18 30
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32927
+(No Name)~
+a ancient tarnished silver key lies here~
+(null)~
+key 0 0
+0 0 0 0 0
+0 0 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32928
+obsidian throne~
+an Obsidian Throne~
+A gigantic Obsidian throne stands here.~
+portal AO 0
+0 H A 32928 0
+0 100 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32929
+cooking pot iron helmet~
+{DIron Cooking Pot{x~
+A large cast iron cooking pot lies here.~
+armor A AE
+0 0 0 0 0
+1 40 200
+A 13 3
+A 12 3
+A 14 3
+A 3 1
+A 18 0
+A 19 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32930
+mood ring~
+{CM{Ro{Yo{Gd {BR{Ri{Yn{Gg{x~
+A cheap silver ring with a fake gemstone set in it lies here.~
+armor A AB
+0 0 0 0 0
+1 10 200
+A 19 0
+A 18 0
+A 14 3
+A 12 3
+A 13 3
+A 4 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32931
+blank look confusion face~
+{wBlank{x look of {CC{Go{Cn{Gf{Cu{Gs{Ci{Go{Cn{x~
+Someones face lies here, still wearing its blank, confused expression.~
+armor ABG AR
+0 0 0 0 0
+1 10 300
+A 3 1
+A 13 3
+A 12 3
+A 14 3
+A 18 0
+A 19 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32932
+vacant stare eyes~
+{wA {WVacant {WS{Yt{Wa{Yr{We{x~
+A pair of eyes lay on the floor here, staring vacantly at nothing.~
+armor A AY
+0 0 0 0 0
+1 10 300
+A 13 3
+A 12 3
+A 14 3
+A 18 0
+A 19 0
+A 4 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32933
+scream dying newbies ear~
+{DS{wc{Dr{we{Da{wm{Ds {Wof {RD{ry{Ri{rn{Rg {GN{Ye{Cw{Wb{Bi{Re{Gs{x~
+The weak plaintive cries of dying newbies can be heard here.~
+armor G AS
+200 200 200 200 0
+1 10 300
+A 14 3
+A 12 3
+A 13 3
+A 3 1
+A 19 100
+A 18 100
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32934
+id collar newbie neck~
+{wA {yc{ro{yl{rl{ya{rr {wwith {Dan {Wid tag{x~
+A collar is here.~
+armor AB AC
+0 0 0 0 0
+1 10 300
+A 4 1
+A 19 0
+A 18 0
+A 14 3
+A 12 3
+A 13 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32935
+beach towel cape~
+{wA {YB{We{Ya{Wc{Yh {CT{wo{Cw{we{Cl {WCape{x~
+A large beach towel made into a makeshift cape with a safety pin lies here.~
+armor AG AK
+0 0 0 0 0
+1 10 100
+A 19 0
+A 18 0
+A 14 3
+A 12 3
+A 13 3
+A 1 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32936
+ds newbie tshirt shirt~
+{wAn {YOfficial {RD{rS {GN{Re{Bw{Cb{Yi{Ge {WT-shirt{x~
+A wrinkled shirt reading "I got executed again and all I got was this lousy t-shirt" lies here~
+armor ABG AD
+0 0 0 0 0
+1 10 200
+A 1 1
+A 19 0
+A 18 0
+A 14 3
+A 12 3
+A 13 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32937
+tattoo newbie pride~
+{wA {Dtattoo {wthat reads {x"{GN{Re{Bw{Yb{Ci{Ge {RPride{x"~
+A piece of skin with a tattoo lies here.~
+armor AG AI
+0 0 0 0 0
+1 10 300
+A 1 1
+A 19 0
+A 18 0
+A 14 3
+A 12 3
+A 13 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32938
+wwmd bracelet~
+{WA {RW{DW{RM{DD {wBracelet{x~
+A bracelet with "WWMD" (what would Malix do) engraved on it lies here.~
+armor 0 AM
+0 0 0 0 0
+1 20 300
+A 18 0
+A 19 0
+A 14 3
+A 12 3
+A 13 3
+A 1 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32939
+wool mittens~
+{BW{Ro{Mo{Yl{We{Cn {RM{Yi{Gt{Bt{Ce{Mn{Bs{x~
+A pair of brightly colored wool mittens, with tied together so you wont lose them lies here.~
+armor AB AH
+0 0 0 0 0
+1 10 200
+A 1 1
+A 19 0
+A 18 0
+A 14 3
+A 12 3
+A 13 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32940
+ds newbie patch~
+{xAn {YOfficial{R D{rS{* N{*e{*w{*b{*i{*e{W Patch{x~
+A patch lies here with the words "To clueless to know any better, and to stupid to care" written on it.~
+armor AB AW
+0 0 0 0 0
+1 10 300
+A 5 1
+A 19 0
+A 18 0
+A 14 3
+A 12 3
+A 13 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32941
+suspenders rope waist~
+{wA pair of {yRope {WSuspenders{x~
+A frayed length of rope lies here~
+armor AB AL
+0 0 0 0 0
+1 10 100
+A 5 1
+A 19 0
+A 18 0
+A 14 3
+A 12 3
+A 13 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32942
+boxer shorts leg~
+{Wa pair of {GF{Rl{Yo{Bw{Ce{Mr {WPrinted {WBoxers{x~
+A raggedy pair of boxers lies here~
+armor 0 AF
+0 0 0 0 0
+1 10 200
+A 13 3
+A 12 3
+A 14 3
+A 18 0
+A 19 0
+A 2 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32943
+demoniac state newbie anklet ds~
+{RD{remoniac {RS{rtate {RN{re{Bw{Wb{Yi{ce{x {wAnklet~
+A cheaply made metallic anklet with the words "All Newbies property of Devils Silence" lies here.~
+armor ABG AT
+0 0 0 0 0
+1 10 200
+A 13 3
+A 12 3
+A 14 3
+A 18 0
+A 19 0
+A 5 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32944
+fuzzy bunny slippers~
+{WFuzzy {MBunny {WSlippers{x~
+A pair of pink fuzzy bunny slippers lies here.~
+armor A AG
+0 0 0 0 0
+1 10 100
+A 13 3
+A 12 3
+A 14 3
+A 18 0
+A 19 0
+A 2 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32945
+garbage can lid shield~
+{wA {GG{ya{gr{yb{Ga{gg{ye {DCan Lid{x~
+A filthy, crusty garbage can lid lies here swarming with flies.~
+armor AB AJ
+0 0 0 0 0
+1 30 200
+A 13 3
+A 12 3
+A 14 3
+A 19 0
+A 18 0
+A 5 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32946
+burning effigy newbie light~
+{*A {*Burning {*Newbie {*Effigy{x~
+A small smoke blackened doll that is dressed in newbie eq lies here.~
+light A A
+0 0 999 0 0
+1 0 10000
+A 13 3
+A 12 3
+A 14 3
+A 2 1
+A 18 0
+A 19 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32947
+newbie manual~
+{WThe {WOfficial {RD{rS {GN{Ce{Rw{Bb{Mi{Ye {YManual{x~
+A small pamphlet titled "The official DS Newbie Manual" lies here. It has one page that reads "Go kill somebody and quit reading this pamphlet!".~
+trash 0 AO
+0 0 0 0 0
+1 10 200
+A 19 0
+A 18 0
+A 14 3
+A 12 3
+A 13 3
+A 4 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32948
+aura newbiness float~
+{CA{wu{Wr{Ca {wof {GN{Be{Rw{Yb{Mi{Cn{Ge{Ys{Bs{x~
+An aura of fear, excitement, cluelessness and just a hint of desperation floats in the air here.~
+armor AB AQ
+0 0 0 0 0
+1 10 300
+F A 0 0 c
+A 19 0
+A 18 0
+A 14 3
+A 12 3
+A 13 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32949
+wooden shinai katana~
+{WA {yWooden {CS{wh{ci{Cn{wa{ci{x~
+A katana made from wood and bamboo lies here~
+weapon BGI AN
+spear 5 5 sliver B
+1 40 4400
+A 2 1
+A 19 0
+A 18 0
+A 12 3
+A 13 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32950
+rusty hatchet axe~
+{DA {RR{yu{rs{Rt{ry {DHatchet{x~
+A rusty hatchet with a bent handle lies here.~
+weapon ABG AN
+axe 5 5 disease D
+1 40 4400
+A 1 1
+A 13 3
+A 12 3
+A 18 0
+A 19 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32951
+dull butter knife dagger~
+{wA {DDull {YB{yu{Yt{yt{Ye{yr {DK{wn{Wi{wf{De{x~
+A dull edged butter knife lies here~
+weapon BGI AN
+dagger 5 5 pierce D
+1 40 4400
+A 13 3
+A 12 3
+A 18 0
+A 19 0
+A 2 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32952
+garden hoe polearm~
+{wA {gG{ya{gr{Gd{ye{Gn {DH{Wo{De{x~
+A stone gardening hoe lies here caked with dirt.~
+weapon BGI AN
+polearm 5 5 bash AF
+1 40 4400
+A 4 1
+A 13 3
+A 12 3
+A 18 0
+A 19 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32953
+sharpened stick spear~
+{wA {ySharpened Stick{x~
+A long stick with the tip sharpened lies here.~
+weapon BGI AN
+exotic 5 5 sliver C
+1 40 4400
+A 3 1
+A 13 3
+A 12 3
+A 18 0
+A 19 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32954
+bent iron sword~
+{wA {DB{we{Dn{wt {DIron {WSword{x~
+A bent and rusty iron sword lies here~
+weapon ABGI AN
+sword 5 5 iron E
+1 40 4400
+A 1 1
+A 13 3
+A 12 3
+A 18 0
+A 19 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32955
+wet towel whip~
+{wA {CW{we{ct {WT{Co{cw{We{Cl{x~
+A wet towel rolled up to snap someone lies here.~
+weapon ABGI AN
+whip 5 5 whip G
+1 40 4400
+A 19 0
+A 18 0
+A 12 3
+A 13 3
+A 1 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32956
+burlap sack~
+{WA {yBurlap Sack{x~
+A dirty brown burlap sack lies here.~
+container GY AKO
+750 0 0 50 0
+1 90 100
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32957
+inflatable rubber duck~
+{WInflatable {YRubber Duck{x~
+A giant inflatable rubber raft shaped like a duck lies here~
+boat G AO
+0 0 0 0 0
+1 0 124
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32958
+broken chair leg mace club~
+{yBroken Chair Leg{x~
+A broken off chair leg lies here.~
+weapon ABGI AN
+mace 5 5 pound H
+1 30 100
+A 13 3
+A 12 3
+A 14 3
+A 18 0
+A 19 0
+A 5 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32959
+rusty chain flail~
+{rR{yu{rs{yt{ry {DC{wh{Da{wi{Dn{x~
+A long length of rusty chain lies here.~
+weapon ABGI AN
+flail 5 5 pound A
+1 30 100
+A 5 1
+A 19 0
+A 18 0
+A 14 3
+A 12 3
+A 13 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32960
+sword devastator~
+{w-=+({RD{re{Dv{wa{Ds{rt{Da{rt{Ro{Dr{w)+=-{x~
+One of the 4 swords of Malix lie here throbbing with power.~
+weapon HMOTYZ AN
+sword 14 14 shadow DEGK
+114 80 1000000
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32961
+coif berserker~
+{yC{go{Yi{yf {wof the {rBe{Rrs{De{Rrk{rer{x~
+{yC{go{Yi{yf {wof the {rBe{Rrs{De{Rrk{rer{x~
+armor A AE
+25 25 25 25 0
+101 20 50000
+A 18 40
+A 19 40
+A 13 303
+A 20 -3
+F A 0 0 a
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#32999
+sword punishment~
+{D-{w={W={w+{r({DP{wu{Wn{ri{Ds{wh{Wm{De{wn{WT{r){w+{W={w={D-{x~
+One of the 4 swords of Glimmer lie here throbbing with power.~
+weapon HMOTYZ AN
+sword 14 15 slash ACDEGHI
+108 80 1000000
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+#0
+
+#ROOMS
+#32900
+Approaching the tower~
+Rising like a skeletal finger from the blasted landscape, the tower
+before you stands as a last monument to the mad wizard Vexas.  Its bone
+white stone and twisted angles speak volumes for both the power and in the
+end insanity that ruled his life.  You stand before the gates to the tower,
+huge constructs of twisted iron long ago rusted open.  The way in lies open
+before you, do you dare enter the last sanctuary of one of the most
+powerful, and insane wizards the world has ever known?  
+~
+524292 3
+D0
+~
+~
+0 0 32901
+S
+
+#32901
+Inside the Gate~
+As you pass between the rusted iron gates, you enter a dark entryway. 
+You get a sense of great age from the stone about you, and a damp musty
+smell permeates the air.  In alcoves to each side of the doorway you see
+ancient and ornate suits of armor standing silent watch.  Oddly enough you
+notice none of the signs of age or decay you find on everything else in this
+room...  
+~
+524289 0
+D0
+~
+~
+0 0 32902
+D2
+~
+~
+0 0 32900
+S
+
+#32902
+A dark, abandoned (?) hallway~
+Dark, wet, and it smells funny pretty much describe this section of
+hallway.  As far as you can see old decayed tapestries, and worn carpet
+adorn the stone passageway.  From here you see the hallway stretching into
+the darkness to the east and west.  You hear only the sound of dripping
+water and the scurrying of rats, yet a sinister watched feeling lingers in
+the air.  
+~
+1 0
+D1
+~
+~
+0 0 32903
+D2
+~
+~
+0 0 32901
+D3
+~
+~
+0 0 32907
+S
+
+#32903
+A dark, abandoned (?) hallway~
+As you continue along this darkened hallway your feet make wet sucking
+noises in the sludge covering the floor.  Noxious fumes rise from each
+footprint, bringing tears to your eyes.  You begin to wonder just what it is
+your stepping in, and how long your boots will hold up to it.  You notice a
+door, rotted and ancient but still sturdy to the north and wonder what lies
+beyond.  
+~
+524288 0
+D0
+~
+~
+0 0 32911
+D1
+~
+~
+0 0 32904
+D3
+~
+~
+0 0 32902
+S
+
+#32904
+A dark, abandoned (?) hallway~
+As you continue along this darkened hallway your feet make wet sucking
+noises in the sludge covering the floor.  Noxious fumes rise from each
+footprint, bringing tears to your eyes.  You begin to wonder just what it is
+your stepping in, and how long your boots will hold up to it.  You notice a
+door, rotted and ancient but still sturdy to the north and wonder what lies
+beyond.  
+~
+524289 0
+D0
+~
+~
+0 0 32912
+D1
+~
+~
+0 0 32905
+D3
+~
+~
+0 0 32903
+S
+
+#32905
+A dark, abandoned (?) hallway~
+As you continue along this darkened hallway your feet make wet sucking
+noises in the sludge covering the floor.  Noxious fumes rise from each
+footprint, bringing tears to your eyes.  You begin to wonder just what it is
+your stepping in, and how long your boots will hold up to it.  You notice a
+door, rotted and ancient but still sturdy to the north and wonder what lies
+beyond.  
+~
+524289 0
+D0
+~
+~
+0 0 32913
+D1
+~
+~
+0 0 32906
+D3
+~
+~
+0 0 32904
+S
+
+#32906
+A dark, abandoned (?) hallway~
+As you continue along this darkened hallway your feet make wet sucking
+noises in the sludge covering the floor.  Noxious fumes rise from each
+footprint, bringing tears to your eyes.  You begin to wonder just what it is
+your stepping in, and how long your boots will hold up to it.  You notice a
+door, rotted and ancient but still sturdy to the north and wonder what lies
+beyond.  
+~
+524289 0
+D0
+~
+~
+0 0 32914
+D3
+~
+~
+0 0 32905
+S
+
+#32907
+A dark, abandoned (?) hallway~
+As you continue along this darkened hallway your feet make wet sucking
+noises in the sludge covering the floor.  Noxious fumes rise from each
+footprint, bringing tears to your eyes.  You begin to wonder just what it is
+your stepping in, and how long your boots will hold up to it.  You notice a
+door, rotted and ancient but still sturdy to the north and wonder what lies
+beyond.  
+~
+524289 0
+D0
+~
+~
+0 0 32915
+D1
+~
+~
+0 0 32902
+D3
+~
+~
+0 0 32908
+S
+
+#32908
+A dark, abandoned (?) hallway~
+As you continue along this darkened hallway your feet make wet sucking
+noises in the sludge covering the floor.  Noxious fumes rise from each
+footprint, bringing tears to your eyes.  You begin to wonder just what it is
+your stepping in, and how long your boots will hold up to it.  You notice a
+door, rotted and ancient but still sturdy to the north and wonder what lies
+beyond.  
+~
+524289 0
+D0
+~
+~
+0 0 32916
+D1
+~
+~
+0 0 32907
+D3
+~
+~
+0 0 32909
+S
+
+#32909
+A dark, abandoned (?) hallway~
+As you continue along this darkened hallway your feet make wet sucking
+noises in the sludge covering the floor.  Noxious fumes rise from each
+footprint, bringing tears to your eyes.  You begin to wonder just what it is
+your stepping in, and how long your boots will hold up to it.  You notice a
+door, rotted and ancient but still sturdy to the north and wonder what lies
+beyond.  
+~
+1 0
+D0
+~
+~
+0 0 32917
+D1
+~
+~
+0 0 32908
+D3
+~
+~
+0 0 32910
+S
+
+#32910
+A dark, abandoned (?) hallway~
+The hallway seems comes to an end here at the fooot of a rickety wooden
+staircase.  The floor also seems dryer here than it was in the rest of the
+hallway, only the stairs leading into the darkness above provide a way
+tottaly clear of the sludge though.  
+~
+524289 0
+D1
+~
+~
+0 0 32909
+D4
+~
+~
+0 0 32918
+S
+
+#32911
+A musty library~
+The smell of rotted leather and the musty odor of ancient parchment
+assault your nostrils as you enter this area.  Ancient texts, mostly
+pertaining to magic and the sciences line every shelf and fill every empty
+space of this huge room.  Magical globes chase away the shadows and bathe
+the area in a harsh glaring light.  All of the books you handle crumble to
+dust at your touch, exept for one tome.  Mysteriously untouched by time
+named "Vexa the mighty".  
+(type look book to read)
+~
+0 0
+D2
+~
+~
+0 0 32903
+E
+book~
+~
+S
+
+#32912
+An alchemy chamber~
+The reek of noxious chemicals assaults your nostrils as you step into
+this room.  Glass beakers, jars, and tubes lay smashed all over the room,
+their contents mixing together on the floor.  Racks along the walls contain
+glass jars full of preserved specemins, most unidentifiable, exept for their
+humanoid natures.  Scattered among the wreckage are notes that you can make
+no sense of.  
+~
+0 0
+D2
+~
+~
+0 0 32904
+S
+
+#32913
+Storage closet~
+Common household supplies fill this small closet, all of it of great age and in an advanced state of decay. Nothing much seems interesting here.
+~
+0 0
+D2
+~
+~
+0 0 32905
+S
+
+#32914
+Abandoned Forge~
+Smoke, heavy with the scent of coal and Iron has stained the walls of
+this room an inky black.  Instruments of ironmongery and blacksmithing line
+the walls, and discared rusted pieces of metal cover the floor.  In the
+center of the room is a gigantic anvil, strangely rust free and covered in
+archaic runes.  In a pile below it ther appears to be a skeleton, on closer
+examination a dwarven skeleton holding a hammer and chained to the anvil.  
+~
+0 0
+D2
+~
+~
+0 0 32906
+S
+
+#32915
+A dark room~
+The lights are dim in here, and it is hard to make out anything, as you
+raise your light high, you wish you hadnt.  Dried blood and shriveled,
+dessicated body parts seem to be strewn over the room at random.  The stench
+of blood and viscera is only faint now but must have been horrendous at one
+time.  In the center of a room lies a long table.  Heavy iron shackles are
+at all 4 corners of it and a wicked looking set of surgical tools lies
+beside it.  You shudder to think what was done in this room, that needed a
+person chained to the table to do 
+~
+0 0
+D2
+~
+~
+0 0 32907
+S
+
+#32916
+Nature Run Rampant~
+This room appears to be have been a garden, at least at one time and if
+madmen were known to grow gardens it might have been one.  Now it is a
+twisted mass of strange mutated plant life.  Bloated, flesh colored flowers
+hang from blood red vines that seem to pulse and throb with a heart beat. 
+The smell of rotted flesh and decaying vegation nearly chokes you as you
+gaze in horror at this perversion of nature.  
+~
+0 0
+D2
+~
+~
+0 0 32908
+S
+
+#32917
+Chamber of the Golem~
+Scattered all around this huge room are pieces and partially constructed
+designs on several manllike forms.  Drawings and plans cover every available
+space and the room has a disorganized and random feel to it.  From what you
+can tell most of the plans and constructs must have either failed or not
+been completed.  Well, exept for that really big one in the middle that
+is....  
+~
+524288 0
+D2
+~
+~
+0 0 32909
+S
+
+#32918
+A distinct improvement (you think)~
+As you finish the long and somewhat heartpounding climb up the stairs you
+notice that the floor is dry and that horrid smelly sludge is off the floor.
+The hallways looks to be all around in better shape.  Tapestries, while
+still faded and threadbare with age, show designs of magical creatures
+engaging in fierce battle.  Globes of multicolered light bathe the hallway
+in a strange glow and you see it head off towards the east.  
+~
+524288 0
+D1
+~
+~
+0 0 32919
+D5
+~
+~
+0 0 32910
+S
+
+#32919
+The hallway continues~
+Nothing much too see, more of the same old dusty relics in a long
+hallway.  The door to the north is all that breaks the monotony of the
+hallway seeing as how its bound in platinum and engraved with glowing runes
+and all...  
+~
+0 0
+D0
+~
+~
+0 0 32923
+D1
+~
+~
+0 0 32920
+D2
+~
+~
+0 0 32930
+D3
+~
+~
+0 0 32918
+S
+
+#32920
+More hallway, imagine that~
+Yup you guessed it, more hallways.  More dust.  And the place still
+smells funny.  Oh well I guess this is what people call adventure eh? 
+Another door lies to the north, not as fancy as the last one, but I guess it
+works too.  
+~
+0 0
+D0
+~
+~
+0 0 32924
+D1
+~
+~
+0 0 32921
+D2
+~
+~
+0 0 32931
+D3
+~
+~
+0 0 32919
+S
+
+#32921
+Yup you guessed it, a hallway~
+Dust, cobwebs.  And 4 walls, thats about all there is to see here.  Oh
+well hallways arnt meant to be interesting anyhow.  Now that door to the
+north, that looks like it might be interesting, why dont ya go open it and
+find out.  
+~
+0 0
+D0
+~
+~
+0 0 32925
+D1
+~
+~
+0 0 32922
+D2
+~
+~
+0 0 32932
+D3
+~
+~
+0 0 32920
+S
+
+#32922
+Now this is a change...~
+There isnt anything all that spectacular in here.  The hallway is as
+unremarkable as the rest of this part of the tower except for one minor
+change, everything is new.  From the freshly scrubbed marble tiles to the
+finly woven tapestries, there is nothing in this area that does not look to
+be just made.  A wide set of stairs leads up from the end of the hallway,
+lit softly by magical globes of energy.  
+~
+0 0
+D3
+~
+~
+0 0 32921
+D4
+~
+~
+0 0 32926
+S
+
+#32923
+A summoning chamber~
+Dark marble walls sorround you as you step into this room.  The smell of
+brimstone and dried blood mix together in a rather nasty combination that
+tries to seperate you from your lunch.  As you begin to move farther into
+the room, it is suddenly bathed in an eerie light.  Candles , black and red
+light up the area around you.  There are five of them, placed at the points
+of a pentagram.  Which you just happened to step in...  You stop, and you
+feel a shiver run up your spine.  The candles flames beging to get brighter
+and the runes and symbols around the pentagram glow with a ghostly light. 
+You realize ya just screwed up big time, and that you arnt alone in the room
+no more...  
+~
+0 0
+D2
+~
+~
+0 0 32919
+S
+
+#32924
+Apprentice's bedchambers~
+As you walk into this room, you are suprised to see a bedchamber. 
+Sparsley furnished, with only wooden table, a chair, bookstand and a bed it
+appears to be an apprentices bedroom.  Nothing of value is left in the room,
+everything having long since decayed into dust.  Well everything exept that
+skeleton on the bed that is....  
+~
+0 0
+D2
+~
+~
+0 0 32920
+S
+
+#32925
+Something just aint right here.....~
+Unlike most of the rooms so far, this one is brightl lit with magical
+lights.  You kinda wish that wasnt the case though, as you gaze at something
+that just dont make sense.  Chains, with links as thick as a stormgiants arm
+are attached to the walls.  The shackles seem bright and new, and you can
+see dried blood still on them and the floor around the room.  Beakers of
+liquids and chemicals are in racks along the walls.  And littering the floor
+are some of the largest and thickest dragon scales youve ever seen, not a
+good sign at all.  
+~
+0 0
+D2
+~
+~
+0 0 32921
+S
+
+#32926
+At the top of the stairs~
+You cant quite believe what your seeing here, time seems to hve skipped
+this part of the tower, everything is new looking, clean and very very
+expensive Right in front of you is a pair of gigantic golden doors.  Covered
+in Archaic runes and mystical symbols.  You can feel the power radiating
+from them.  Dead center in the the doors you also recognize the the skull
+and dragon claw emblem of Vexa.  
+~
+0 0
+D0
+~
+~
+0 32900 32927
+D5
+~
+~
+0 0 32922
+S
+
+#32927
+Uh oh, this cant be good.....~
+As you step through the now unlocked doors, you stop and seriously think
+about going back.  The room is huge, and almost empty save for a throne in
+the center of the room.  And the largest, ugliest and deadest dragon you
+have ever seen.  Unfourtunatly noone told that dragon he was dead, cause he
+just stood up and looks awfull hungry...  
+~
+0 0
+D2
+~
+~
+0 0 32926
+S
+
+#32928
+Stayin Alive~
+Apparently it wasnt such a crazy idea to try and enter a throne after all. Or maybe it was you think as you gaze around. Crackling arcs of energy flow along the walls of this chamber all leading to another throne in the center of the room.
+This time however, the throne happens to occupied. This must be where vexa went after his attempt at eternal life. from the looks of him he at least got  it half right....
+~
+4 0
+S
+
+#32929
+Take a break~
+Whew, ya finnaly managed to get away from that nasty lich for the moment. You are in a starkly plain room. just four walls of solid granite Vexa seems content to leave you alone for now, awaiting your return.
+~
+532484 0
+S
+
+#32930
+Wizards Laboratory~
+This room was at one time a wizards labratory but is now a wreck.  Broken
+glass containers of spell components litter the ground and jars that contain
+long since dead creatures line the walls.  A table in the center of the room
+looks to have at one time held some sort of creature, shackles are securely
+set at the corners but whatever was there as long since torn its way free. 
+~
+0 0
+D0
+~
+wood door~
+0 0 32919
+S
+
+#32931
+change of scenery~
+As you enter this room the world seems to spin and flash for a moment and
+you find yourself in different sorroundings.  You are in a cave of some
+sort, with glistening walls of rock all around you.  In the distance you
+hear the dripping of water echoing in the emptiness.  The only thing you can
+easily make out is the outline of the door behind you.  
+~
+1 0
+D0
+~
+~
+0 0 32920
+S
+
+#32932
+Destroyed Bedroom~
+This room was once a guest bedroom of some sort, that is until it was
+torn apart.  Almost nothing remains in one piece, and scattered fragments of
+rotted wood are all that remain of the once lush furnishings.  The air is
+heavy with the smell of rot and decay, though there is no visible sign that
+anything has even been in here recently, let alone died.  
+~
+268435457 0
+D0
+~
+~
+0 0 32921
+S
+#0
+
+#SPECIALS
+M 32901 spec_cast_mage
+M 32902 spec_cast_undead
+M 32904 spec_cast_undead
+M 32905 spec_cast_cleric
+M 32906 spec_breath_frost
+M 32907 spec_cast_cleric
+M 32908 spec_cast_undead
+M 32910 spec_breath_lightning
+M 32911 spec_cast_mage
+M 32920 spec_thief
+S
+
+#RESETS
+M 100 32901 5 32902 1
+M 100 32901 5 32903 1
+M 100 32901 5 32904 1
+M 100 32901 5 32905 1
+E 100 32926 0 16
+M 100 32901 5 32906 1
+E 100 32919 0 11
+M 100 32901 5 32907 1
+M 100 32901 5 32908 1
+M 100 32901 5 32909 1
+M 100 32902 1 32914 1
+E 100 32902 0 16
+M 100 32904 1 32915 1
+E 100 32907 0 16
+M 100 32905 1 32916 1
+E 100 32908 0 16
+M 100 32906 1 32917 1
+E 100 32901 0 10
+M 100 32901 5 32918 1
+M 100 32901 5 32920 1
+M 100 32901 5 32922 1
+M 100 32907 1 32923 1
+E 100 32909 0 16
+M 100 32908 1 32924 1
+E 100 32910 0 9
+M 100 32909 0 32925 1
+G 100 32900 0
+E 100 32911 0 13
+O 100 32928 0 32927
+M 100 32910 1 32927 1
+G 100 32923 0
+O 100 32915 0 32927
+M 100 32911 1 32928 1
+E 100 32912 0 16
+E 100 32913 0 17
+O 100 32914 0 32928
+M 100 32912 1 32930 1
+E 100 32917 0 16
+M 100 32913 1 32931 1
+E 100 32961 0 6
+E 100 32918 0 16
+M 100 32914 1 32932 1
+E 100 32924 0 16
+S
+
+#SHOPS
+32903 10 2 3 4 0 1000 50 1 23
+0
+
+#$

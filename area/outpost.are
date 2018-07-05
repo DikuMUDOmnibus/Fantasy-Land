@@ -1,0 +1,1531 @@
+#AOD_AREA
+Dwarven Outpost~
+6851 6899 C 9
+Levl 1 20
+Bldr Monomach~
+End
+
+#MOBILES
+#6851
+rabbit~
+the cute rabbit~
+A cute rabbit is here.
+~
+It is a small, furry creature with long ears and big feet.
+~
+rabbit~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 0 0 0
+1 0 0 13 21 100 100 1 20 0 none
+90 90 90 100
+STANDING STANDING neutral 0
+0 mage medium ACDEFHJK
+W 5
+
+#6852
+colorful bird~
+a small, colorful bird~
+A small, colorful bird flies up to you and pecks at your fingers.
+~
+A small colorful bird flutters around you.  It's feathers are a variety
+of colors.  It looks like a rainbow with wings.  
+~
+song bird~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB TV 0 0 0
+4 0 0 48 59 48 59 1 20 1 scratch
+70 70 70 80
+STANDING STANDING random 100
+0 mage small ACDEFHKP
+W 4
+
+#6853
+dwarf scout~
+a dwarven scout~
+A dwarven scout scours the area for trouble.
+~
+This small dwarf is dressed in a shifting green outfit as it attempts to
+blend in with the scenery.  Its job is to patrol the area to help warn if
+any goblins plan any trouble.  
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 100 150 100 100 100 
+AGH JQ I 0 0
+9 0 0 112 122 109 135 1 20 2 none
+20 20 20 80
+STANDING STANDING male 20
+0 mage medium ABCDEFGHIJK
+W 3
+
+#6854
+dwarf guard~
+a dwarven guard~
+A dwarven guard stands at the guardpost inspecting any who wish to pass.
+~
+Dressed in the standard blue livery of the stonekeep guard, this dwarf
+watches the path for any trouble that may come along the Old Dwarven Road.  
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 100 150 100 100 100 
+ABFGH J I 0 0
+9 0 0 112 122 110 132 1 20 2 none
+20 20 20 80
+STANDING STANDING male 20
+0 mage medium ABCDEFGHIJK
+W 2
+
+#6855
+dwarf guard~
+a dwarven guard~
+A dwarven guard holds his assigned post.
+~
+Dressed in the standard blue livery of the Stonekeep guard, this dwarf
+holds his position stolidly in service to his commander.  
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 100 150 100 100 100 
+ABFGH J I 0 0
+9 0 0 112 122 107 130 1 20 2 none
+20 20 20 80
+STANDING STANDING male 20
+0 mage medium ABCDEFGHIJK
+W 10
+
+#6856
+dwarf guard~
+a dwarven guard~
+A dwarven guard serves his shift in the kitchen cleaning dishes.
+~
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 100 150 100 100 100 
+ABFGH J I 0 0
+9 0 0 112 122 109 131 1 20 2 none
+20 20 20 80
+STANDING STANDING male 20
+0 mage medium ABCDEFGHIJK
+W 1
+
+#6857
+dwarf guard~
+a dwarven guard~
+A dwarven guard sits at the table enjoying his meal.
+~
+A dwarven guard sits at the table enjoying his meal.  
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 100 150 100 100 100 
+ABFGH J I 0 0
+9 0 0 113 122 107 130 1 20 2 none
+20 20 20 80
+STANDING STANDING male 20
+0 mage medium ABCDEFGHIJK
+W 4
+
+#6858
+dwarf guard~
+a dwarven guard~
+A dwarven guard is lying on the cot sleeping.
+~
+A dwarven guard sits at the table enjoying his meal.  A dwarven guard is
+lying on the cot sleeping.  
+~
+human~
+100 100 100 100 50 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 100 150 100 100 100 
+ABFGH J I 0 0
+9 0 0 112 122 108 131 1 20 2 none
+20 20 20 80
+STANDING STANDING male 20
+0 mage medium ABCDEFGHIJK
+W 2
+
+#6859
+dwarf ygdal smith~
+Ygdal~
+Ygdal works tirelessly at his forge.
+~
+Ygdal is a master smith and he knows it.  He serves all of the smithy
+needs that may arise.  He is a very large dwarf, in fact one of the largest
+you are likely ever to see.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACG D 0 0 0
+14 0 0 193 210 119 147 1 20 3 none
+-10 -10 -10 80
+STANDING STANDING male 75
+0 mage medium ABCDEFGHIJK
+W 1
+
+#6860
+keal gembright~
+Keal~
+Keal Gembright sits at his desk writing.
+~
+Keal has finally grown used to living in the wilds.  Being a dwarf mage
+is very rare and as such Keal expects to be treated with respect.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG D H 0 0
+19 0 0 315 332 126 160 1 20 5 none
+-40 -40 -40 70
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#6861
+Trell bold~
+Trell~
+Trell the Bold is upset at your intrusion.
+~
+Trell the Bold is the commander of this outpost.  He is a well built
+dwarf graying in his hair.  He takes his command strongly and does not
+appreciate your invasion.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFG D 0 0 0
+17 0 0 263 284 126 154 1 20 4 none
+-30 -30 -30 70
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 1
+
+#6862
+griffon rider~
+a griffin rider~
+A griffin rider scans the area for trouble.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG D 0 -600 0
+14 0 0 194 209 124 149 1 20 3 blast
+-10 -10 -10 80
+STANDING STANDING male 75
+0 mage medium ABCDEFGHIJK
+W 2
+
+#6863
+griffon~
+a griffon~
+A griffon rests on its nest of hay.
+~
+Half lion, half eagle these legendary beast serves the dwarves as
+transportation and guardians.  Not a creature to get mad, these beasts do
+not like any but the trainer in their riders in their midsts and you are
+neither.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCFG DF 0 0 0
+18 0 0 290 309 130 160 1 20 4 claw
+-30 -30 -30 70
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 2
+
+#6864
+Madryk~
+Madryk~
+Madryk repairs some broken tack.
+~
+Known as one of the best griffon trainers of all time, Madryk has retired
+from Stonekeep to the quieter confines of this outpost.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG D 0 0 0
+16 0 0 237 257 126 157 1 20 4 none
+-20 -20 -20 70
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+W 1
+#0
+
+#OBJECTS
+#6851
+tree orange~
+a birch tree~
+A small white birch tree spreads its limbs to the sky.~
+container GSX P
+300 0 0 50 0
+1 0 217
+
+#6852
+bird nest~
+a bird nest~
+A small birdnest made of twigs.~
+armor 0 AQ
+5 4 3 4 0
+20 0 200
+F A 0 0 T
+
+#6853
+fireplace~
+a fireplace~
+A fireplace made from stone is set against the east wall.~
+container 0 0
+200 0 0 200 0
+0 0 0
+
+#6854
+fireplace~
+a fireplace~
+A fireplace made from stone is set against the west wall.~
+trash 0 0
+0 0 0 0 0
+0 0 0
+
+#6855
+table chair~
+a small table with 2 chairs~
+A small table with two chairs sits by the window.~
+furniture 0 0
+2 600 ABEHKN 50 0
+0 0 0
+
+#6856
+table wooden~
+a long wooden table~
+A long wooden table runs the length of the room.~
+furniture OT 0
+3 100000 BDGJN 100 100
+50 0 6343
+
+#6857
+torch lit~
+a lit torch~
+A torch is fixed to the wall, providing some light.~
+light A 0
+0 0 999 0 0
+5 0 50
+
+#6858
+cot green~
+a small cot~
+A green cot is here in the corner of the room.~
+furniture 0 0
+2 10000 BEIL 80 0
+10 0 1457
+
+#6859
+small chest~
+a small chest~
+A small chest barely catches your eye.~
+container 0 0
+350 AC 0 350 0
+20 0 4511
+
+#6860
+bush strawberry~
+a strawberry bush~
+Several wild strawberry bushes line the path.~
+container GSX P
+300 0 0 50 0
+1 0 181
+
+#6861
+strawberry~
+a strawberry~
+A lush ripe strawberry lies here.~
+pill 0 A
+15 '' '' 'refresh' 'reserved'
+0 0 340
+
+#6862
+wishing well~
+a well~
+A small well gurgles with water.~
+fountain BG 0
+10000 10000 'water' 0 0
+0 0 0
+
+#6863
+crate~
+a wooden crate~
+There is a wooden crate lying here.~
+container 0 A
+2500 AC 0 500 0
+1 0 250
+
+#6864
+beef jerky~
+some tuff beef jerky~
+Some strangly pieces of dried of flesh lie here.~
+food 0 A
+20 5 0 0 0
+5 0 5
+
+#6865
+dried apricot~
+some dried apricots~
+Some dried apricots lay here.~
+food 0 A
+20 40 0 0 0
+0 0 0
+
+#6866
+keg ale dwarven~
+a keg~
+A keg of the finest dwarven ale is placed here.~
+fountain OT 0
+10000 10000 'beer' 0 0
+0 0 0
+
+#6868
+hammer copper~
+a copper hammer~
+A copper hammer is lying on the ground.~
+weapon 0 AN
+mace 6 6 crush 0
+15 0 750
+
+#6869
+bed~
+a huge canopy bed covered in silk~
+A huge canopy bed rests against the western wall.~
+furniture OT 0
+2 9000 AEIL 200 0
+50 0 5111
+
+#6870
+desk~
+a large ornate desk~
+A large, ornate desk is covered with papers and books.~
+container X P
+500 0 0 500 0
+0 0 0
+
+#6871
+chest~
+a large wooden chest~
+A large wood chest rests at the foot of the cot.~
+container 0 0
+10 ACD 6872 100 0
+0 0 0
+
+#6872
+key~
+a key~
+A key rests here.~
+key 0 A
+0 0 0 0 0
+0 0 0
+
+#6873
+cloak dwarven~
+a dwarven cloak~
+A well made cloak with dwarven runes on its hem lies on the ground.~
+armor IY AD
+3 2 2 3 1
+10 0 1418
+A 5 1
+A 1 1
+
+#6874
+pile gold coins~
+a pile of gold coins~
+A pile of old gold coins lies here.~
+money 0 A
+0 15 0 0 0
+50 0 1000
+
+#6875
+potion cure critical critic~
+a potion of cure critical wounds~
+A potion of cure critical wounds is here.~
+potion G AO
+15 'cure critical' '' '' 'reserved'
+5 0 390
+
+#6876
+helm~
+a dwarf-runed helm~
+A stunning silver helm etched with runes rests here.~
+armor AG AE
+6 7 4 2 0
+20 0 2300
+A 4 1
+A 5 1
+
+#6877
+bracer~
+a dwarf-runed bracer~
+A stunning silver bracer with runes etched on its side rests here.~
+armor BG AM
+4 5 3 0 0
+12 0 1540
+A 1 1
+A 3 1
+
+#6878
+bow~
+a crossbow~
+A small crossbow rests on the ground.~
+weapon ABG AN
+exotic 8 7 pound 0
+25 0 2600
+A 18 3
+A 19 3
+
+#6879
+feather griffin~
+a griffon feather~
+A gleaming brown and gold feather rests on the ground.~
+armor GQ AO
+6 6 6 2 0
+25 0 2200
+A 1 2
+A 2 2
+A 13 20
+
+#6880
+bar adamantite~
+a bar of adamantite~
+A bar of dark metal gleams with potential.~
+forge_stone T AO
+0 0 0 0 0
+0 10 1000
+#0
+
+#ROOMS
+#6851
+Main Gate~
+A narrow hall enters the small fort and leads into the main hall to the
+east.  Constructed of sturdy granite, its design is the model of dwarven
+craftsmanship.  The ceilings are low by a human's standpoint but do not
+hinder dwarves in the slightest.  The low ceiling serves as a defensive
+precaution, as any of the goblins from the north would need to squat in
+order to fight.  
+~
+0 0
+D1
+~
+~
+0 0 6852
+D3
+~
+~
+0 0 6889
+S
+
+#6852
+Great Hall~
+This wide room serves as both the dining hall and meeting hall for the
+dwarves at the outpost.  A large fireplace heats the room on the cold winter
+evenings.  During those rare moments when the soldiers have some free time
+they use this room to play cards or to engage in other forms of
+entertainment.  ( Like drinking games that utilize great amounts of strong
+dwarven ale.)  The main entrance heads through an arch to the west while the
+hall stretches to the north and south.  
+~
+0 0
+D0
+~
+~
+0 0 6853
+D2
+~
+~
+0 0 6855
+D3
+~
+~
+0 0 6851
+S
+
+#6853
+Great Hall~
+Large tables set with stone place settings running the entire length of
+the hall.  This is where the soldiers meet at night to dine.  Heavy
+flagstones form the basis for both the walls and floor.  Hanging loosely on
+the walls are weapons of every make, ready to be grabbed at a moments notice
+should the need arise.  The sounds of clinking pots and dishes would lead
+one to believe that the kitchen can be reached through the door on the west
+wall.  
+~
+0 0
+D2
+~
+~
+0 0 6852
+D3
+~
+~
+0 0 6854
+S
+
+#6854
+Kitchen~
+This small room serves as the kitchen for the outpost, though it isn't
+used often since the soldiers usually dine upon dried fruits and meats.  The
+outpost is without a cook so each soldier works a shift in the kitchen in
+addition to his regular duties.  Sometimes when a scout returns with fresh
+deer or fowl, the dwarven ranger Bolvin dons his cooking smock and prepares a
+sumptuous feast for them all.  
+~
+0 0
+D1
+~
+~
+0 0 6853
+S
+
+#6855
+Great Hall~
+Large tables set with stone place settings running the entire length of
+the hall.  This is where the soldiers meet at night to dine.  Heavy
+flagstones form the basis for both the walls and floor.  Hanging loosely on
+the walls are weapons of every make, ready to be grabbed at a moments notice
+should the need arise.  A small set of stairs in the south-east corner gives
+access to the second floor of the outpost.  To the south a stone archway
+leads down a stone hallway.  
+~
+0 0
+D0
+~
+~
+0 0 6852
+D2
+~
+~
+0 0 6863
+D3
+~
+~
+0 0 6856
+D4
+~
+~
+0 0 6866
+S
+
+#6856
+Storage Room~
+This room serves as the storeroom for the outpost.  Boxes and casks alike
+line the walls with the supplies that arrive by caravan every week.  In
+typical dwarven efficiency, the room is spotless and the boxes and casks are
+sealed so tightly, neither a rat nor bug can be seen here.  
+~
+0 0
+D1
+~
+~
+0 0 6855
+S
+
+#6857
+Barracks~
+This chamber serves as sleeping quarters for several soldiers at the
+outpost.  Each soldier possesses a cot, a pillow, several heavy blankets,
+and a small wooden chest for personal belongings.  The room also contains a
+fireplace to warm the chambers during the cold winter months.  There are no
+windows in the room but that suits the dwarves just fine as it reminds them
+of their homes in the mountains.  A door opens up to the east into the
+hallway.  
+~
+0 0
+D1
+~
+~
+0 0 6863
+S
+
+#6858
+Barracks~
+This chamber serves as sleeping quarters for several soldiers at the
+outpost.  Each soldier possesses a cot, a pillow, several heavy blankets,
+and a small wooden chest for personal belongings.  The room also contains a
+fireplace to warm the chambers during the cold winter months.  There are no
+windows in the room but that suits the dwarves just fine as it reminds them
+of their homes in the mountains.  A door opens up to the east into the
+hallway.  
+~
+0 0
+D1
+~
+~
+0 0 6864
+S
+
+#6859
+Barracks~
+This chamber serves as sleeping quarters for several soldiers at the
+outpost.  Each soldier possesses a cot, a pillow, several heavy blankets,
+and a small wooden chest for personal belongings.  The room also contains a
+fireplace to warm the chambers during the cold winter months.  There are no
+windows in the room but that suits the dwarves just fine as it reminds them
+of their homes in the mountains.  A door opens up to the east into the
+hallway.  
+~
+0 0
+D1
+~
+~
+0 0 6865
+S
+
+#6860
+Barracks~
+This chamber serves as sleeping quarters for several soldiers at the
+outpost.  Each soldier possesses a cot, a pillow, several heavy blankets,
+and a small wooden chest for personal belongings.  The room also contains a
+fireplace to warm the chambers during the cold winter months.  There are no
+windows in the room but that suits the dwarves just fine as it reminds them
+of their homes in the mountains.  A door opens up to the west into the
+hallway.  
+~
+0 0
+D3
+~
+~
+0 0 6865
+S
+
+#6861
+Barracks~
+This chamber serves as sleeping quarters for several soldiers at the
+outpost.  Each soldier possesses a cot, a pillow, several heavy blankets,
+and a small wooden chest for personal belongings.  The room also contains a
+fireplace to warm the chambers during the cold winter months.  There are no
+windows in the room but that suits the dwarves just fine as it reminds them
+of their homes in the mountains.  A door opens up to the west into the
+hallway.  
+~
+0 0
+D3
+~
+~
+0 0 6864
+S
+
+#6862
+Barracks~
+This chamber serves as sleeping quarters for several soldiers at the
+outpost.  Each soldier possesses a cot, a pillow, several heavy blankets,
+and a small wooden chest for personal belongings.  The room also contains a
+fireplace to warm the chambers during the cold winter months.  There are no
+windows in the room but that suits the dwarves just fine as it reminds them
+of their homes in the mountains.  A door opens up to the west into the
+hallway.  
+~
+0 0
+D3
+~
+~
+0 0 6863
+S
+
+#6863
+Barrack's Hall~
+A long stone hewn archway runs to the south to the sleeping quarters of
+the dwarves.  On each side of the hall is a stout wooden door.  A warm
+breeze blows in from the large meeting hall to the north.  
+~
+0 0
+D0
+~
+~
+0 0 6855
+D1
+~
+~
+0 0 6862
+D2
+~
+~
+0 0 6864
+D3
+~
+~
+0 0 6857
+S
+
+#6864
+Barrack's Hall~
+A long stone hewn archway runs to the south to the sleeping quarters of
+the dwarves.  On each side of the hall is a stout wooden door.  The hall
+runs to the north with a large arch at the end that seems to lead into a
+well lit room.  
+~
+0 0
+D0
+~
+~
+0 0 6863
+D1
+~
+~
+0 0 6861
+D2
+~
+~
+0 0 6865
+D3
+~
+~
+0 0 6858
+S
+
+#6865
+Barrack's Hall~
+An iron bound door blocks passage to the south.  From the cool breeze
+coming from beneath the door it would be safe to assume the door leads
+outside of the outpost.  The hall runs to the north with a large arch at the
+end that seems to lead into a well lit room.  
+~
+0 0
+D0
+~
+~
+0 0 6864
+D1
+~
+~
+0 0 6860
+D2
+~
+~
+0 0 6877
+D3
+~
+~
+0 0 6859
+S
+
+#6866
+Second Floor Stairs~
+A set of stairs lead down to the first floor of the outpost while to the
+north a bright intersection opens up.  The ceilings are a little taller here
+than below, though it is still far from high by any standard than that of
+the dwarves.  The clang of metal on metal can be heard through the door to
+the west.  
+~
+0 0
+D0
+~
+~
+0 0 6867
+D3
+~
+~
+0 0 6874
+D5
+~
+~
+0 0 6855
+S
+
+#6867
+Large Intersection~
+A large intersection stands in the center of the outpost, granting access
+in every direction.  To the north and east, short hallways lead to the rooms
+of the officers of the outpost while stairs can be seen at the ends of the
+halls to the west and south.  
+~
+0 0
+D0
+~
+~
+0 0 6869
+D1
+~
+~
+0 0 6868
+D2
+~
+~
+0 0 6866
+D3
+~
+~
+0 0 6876
+S
+
+#6868
+Hall~
+This small hallway ends abruptly to the east against the sturdy wall of
+the outpost.  Thick, oak doors stand on both the north and south walls while
+an intersection opens up to the west.  
+~
+0 0
+D0
+~
+~
+0 0 6870
+D2
+~
+~
+0 0 6871
+D3
+~
+~
+0 0 6867
+S
+
+#6869
+Hall~
+This small hallway ends abruptly to the north against the sturdy wall of
+the outpost.  Thick, oak doors stand on the west wall while an intersection
+opens up to the south.  
+~
+0 0
+D2
+~
+~
+0 0 6867
+D3
+~
+~
+0 0 6872
+S
+
+#6870
+Bolvin's Chambers~
+This is the room of the outpost's ranger Bolvin.  The chamber is meagerly
+decorated as the ranger has no further belongings than that which he carries
+on his own person.  A window, set with thick glass (a rare commodity),
+allows viewing of the forests to the north that the ranger calls 'home'.  A
+door leads south into a hallway.  
+~
+0 0
+D2
+~
+~
+0 0 6868
+S
+
+#6871
+Keal's Chamber~
+This room serves as the private room of the outpost's mage Keal
+Gembright.  In contrast to the other private chambers, Keal has decorated
+his quarters elaboratly and expensivly.  The mage owns the only four-poster
+bed in the outpost, covered with silk sheets and goose-down pillows.  He
+keeps a large desk in his room and a neatly organixed bookshelf containing
+his spellbooks and the notes he has taken over the past few years.  The only
+exit from the room is through the door to the north.  
+~
+0 0
+D0
+~
+~
+0 0 6868
+S
+
+#6872
+Trell's Chambers~
+This is the private chambers of the commander of the outpost, Trell the
+Bold.  He resides in the room during his resting hours - in other words, not
+very often.  There is a better chance of finding him amongst his men. 
+Fournished with the same accoutraments as his soldiers own, the chamber also
+holds a second larger chest holding the outpost's money and several
+possessions.  The only exit is through the door to the east.  
+~
+0 0
+D1
+~
+~
+0 0 6869
+S
+
+#6873
+~
+~
+4 0
+S
+
+#6874
+Smithy~
+This room serves as both the smithy of the outpost as well as the private
+chambers of the smith Ygdal Stonepounder.  A master of his craft, his room
+is dominated by a large forge and anvil.  In this room, Ygdal makes any
+repairs that are neccessary as well as any of the new eq that is needed.  A
+small cot rests largely unused in a cramped corner of the room.  A large
+door exits to the east.  
+~
+0 0
+D1
+~
+~
+0 0 6866
+S
+
+#6875
+Guard's House~
+This small building is simply furnished with a table, some chairs and a
+fireplace.  It serves to keep the dwarves warm and dry during the winter
+months as they guard the trail against unwanted visitors.  
+~
+0 0
+D1
+~
+~
+0 0 6888
+S
+
+#6876
+Hatch~
+A large set of stairs lead up to the roof of the outpost.  Made of the
+same type of stone as the rest of the fort, the stairs show recent signs of
+rough cleaning.  Obviously the commander runs a tight ship here.  A wide
+intersection is to the east.  
+~
+0 0
+D1
+~
+~
+0 0 6867
+D4
+~
+~
+0 0 6878
+S
+
+#6877
+The Path of Strawberries~
+A small path leads out from the keep to the north, to the well which
+provides the outpost with water, to the east.  It is a fairly wide, well
+kept path that is lined with wild strawberry plants.  
+~
+0 0
+D0
+~
+~
+0 0 6865
+D1
+~
+~
+0 0 6887
+S
+
+#6878
+Roof~
+Standing atop the roof of the outpost, the cool breezes off the
+Stormguard Mtns to the east buffets you relentlessly.  The roof provides an
+excellent view of the surrounding area for anyone or thing that might pass. 
+To the west the meadows sway pleasantly from in front of the outpost.  The
+roof extends to the north and south while a large roofed structure can be
+entered to the east.  A set of stairs lead down the hatch to the lower
+levels.  
+~
+0 0
+D0
+~
+~
+0 0 6879
+D1
+~
+~
+0 0 6881
+D2
+~
+~
+0 0 6880
+D5
+~
+~
+0 0 6876
+S
+
+#6879
+Roof~
+Standing atop the roof of the outpost, the cool breezes off the
+Stormguard Mtns to the east buffets you relentlessly.  The roof provides an
+excellent view of the surrounding area for anyone or thing that might pass. 
+The forests of the Medin'nir rise up to the north in a dark swath of trees,
+with only the thin trail of the dwarven road to be seen.  The stairs to the
+lower levels is to the south.  
+~
+0 0
+D2
+~
+~
+0 0 6878
+S
+
+#6880
+Roof~
+Standing atop the roof of the outpost, the cool breezes off the
+Stormguard Mtns to the east buffets you relentlessly.  The roof provides an
+excellent view of the surrounding area for anyone or thing that might pass. 
+To the south can be seen the southern expanse of the Stormguard Mtns as well
+as the trail to the dwarven homeland.  The stairs to the lower levels is to
+the north.  
+~
+0 0
+D0
+~
+~
+0 0 6878
+S
+
+#6881
+Stables~
+This small building holds the resting places for the griffons that the
+dwarves use to travel the distance back to Stonekeep for messages as well as
+for air patrols of the area.  Stalls can be seen to the north and south as
+well as more to the east.  A door to the west leads out onto the outpost
+roof.  
+~
+0 0
+D0
+~
+~
+0 0 6883
+D1
+~
+~
+0 0 6882
+D2
+~
+~
+0 0 6885
+D3
+~
+~
+0 0 6878
+S
+
+#6882
+Stables~
+This small building holds the resting places for the griffons that the
+dwarves use to travel the distance back to Stonekeep for messages as well as
+for air patrols of the area.  Stalls can be seen to the north and south as
+well as more to the west.  A door to the west leads out onto the outpost
+roof.  
+~
+0 0
+D0
+~
+~
+0 0 6884
+D2
+~
+~
+0 0 6886
+D3
+~
+~
+0 0 6881
+S
+
+#6883
+Griffon's Stall~
+This stall serves as the place where griffons rest when they are not
+being ridden the dwarves.  It's walls are constructed from sturdy timber and
+a large hay nest lies scattered on the floor.  The main stable is too the
+south.  
+~
+0 0
+D2
+~
+~
+0 0 6881
+S
+
+#6884
+Griffon's Stall~
+This stall serves as the place where griffons rest when they are not
+being ridden the dwarves.  It's walls are constructed from sturdy timber and
+a large hay nest lies scattered on the floor.  The main stable is too the
+south.  This particular stall has not been used in a while as both the
+griffon and its rider flew to Stonekeep recently.  
+~
+0 0
+D2
+~
+~
+0 0 6882
+S
+
+#6885
+Griffon's Stall~
+This stall serves as the place where griffons rest when they are not
+being ridden the dwarves.  It's walls are constructed from sturdy timber and
+a large hay nest lies scattered on the floor.  The main stable is too the
+north.  
+~
+0 0
+D0
+~
+~
+0 0 6881
+S
+
+#6886
+Supply Stall~
+This stall has been converted into a supply room for the griffins.  Food
+for the griffins lies stacked against the wall and tack and harnesses rest
+on pegs, ready if they should be needed in a pinch.  This stall also serves
+as a sleeping quarters of the expert griffin trainer Madryk Featherstone.  
+~
+0 0
+D0
+~
+~
+0 0 6882
+S
+
+#6887
+The Well~
+The small well serves as the primary source of water for the outpost.  A
+shady tree overhangs the well creating a pleasant place to relax during the
+non-winter months.  The trail back to the outpost is to the west.  
+~
+0 0
+D3
+~
+~
+0 0 6877
+S
+
+#6888
+Old Dwarven Road~
+This trail passes between the dwarven outpost to the east and the
+stretches of meadows to the west.  The road is fairly well worn with use by
+wagons that pass this way on their trek north to Midgaard or south towards
+the kingdom.  A small building is to the west, while a large dwarven outpost
+rises to the east.  
+~
+0 0
+D2
+~
+~
+0 0 6889
+D3
+~
+~
+0 0 6875
+S
+
+#6889
+Old Dwarven Road before the Dwarven Outpost Gate~
+This trail passes between the dwarven outpost to the east and the
+stretches of meadows to the west.  The road is fairly well worn with use by
+wagons that pass this way on their trek north to Haven or south towards
+Stonekeep.  The main gate to the dwarven outpost is to the east while the
+meadows stretch to the west.  
+~
+4 0
+D0
+~
+~
+0 0 6888
+D1
+~
+~
+0 0 6851
+D2
+~
+~
+0 0 6891
+D3
+~
+~
+0 0 6890
+S
+
+#6890
+Meadow~
+Soft heather grass and an occational birch tree dot the landscape in a
+very peaceful, pastoral setting.  The long grass sways to the slightest
+breeze as assorted animals move about contentedly.  The Old Dwarven Road is
+to the east while the meadows continue to the south.  
+~
+0 0
+D1
+~
+~
+0 0 6889
+D2
+~
+~
+0 0 6892
+S
+
+#6891
+Old Dwarven Road~
+This trail passes between the dwarven outpost to the east and the
+stretches of meadows to the west.  The road is fairly well worn with use by
+wagons that pass this way on their trek north to Haven or south towards
+Stonekeep.  Large expanses of meadows run pleasantly to the west.  
+~
+4 0
+D0
+~
+~
+0 0 6889
+D2
+~
+~
+0 0 6894
+D3
+~
+~
+0 0 6892
+S
+
+#6892
+Meadow~
+Soft heather grass and an occational birch tree dot the landscape in a
+very peaceful, pastoral setting.  The long grass sways to the slightest
+breeze as assorted animals move about contentedly.  The Old Dwarven Road is
+to the east while the meadows continue to the north, south and west.  
+~
+0 0
+D0
+~
+~
+0 0 6890
+D1
+~
+~
+0 0 6891
+D2
+~
+~
+0 0 6895
+D3
+~
+~
+0 0 6893
+S
+
+#6893
+Meadow~
+Soft heather grass and an occational birch tree dot the landscape in a
+very peaceful, pastoral setting.  The long grass sways to the slightest
+breeze as assorted animals move about contentedly.  
+~
+0 0
+D1
+~
+~
+0 0 6892
+D2
+~
+~
+0 0 6896
+S
+
+#6894
+Old Dwarven Road~
+This trail passes between the dwarven outpost to the east and the
+stretches of meadows to the west.  The road is fairly well worn with use by
+wagons that pass this way on their trek north to Haven or south towards
+Stonekeep.  Large expanses of meadows run pleasantly to the west.  
+~
+4 0
+D0
+~
+~
+0 0 6891
+D2
+~
+~
+0 0 6897
+D3
+~
+~
+0 0 6895
+S
+
+#6895
+Meadow~
+Soft heather grass and an occational birch tree dot the landscape in a
+very peaceful, pastoral setting.  The long grass sways to the slightest
+breeze as assorted animals move about contentedly.  The Old Dwarven Road is
+to the east while the meadows continue to the north, south and west.  
+~
+0 0
+D0
+~
+~
+0 0 6892
+D1
+~
+~
+0 0 6894
+D2
+~
+~
+0 0 6898
+D3
+~
+~
+0 0 6896
+S
+
+#6896
+Meadow~
+Soft heather grass and an occational birch tree dot the landscape in a
+very peaceful, pastoral setting.  The long grass sways to the slightest
+breeze as assorted animals move about contentedly.  
+~
+0 0
+D0
+~
+~
+0 0 6893
+D1
+~
+~
+0 0 6895
+D2
+~
+~
+0 0 6899
+S
+
+#6897
+Old Dwarven Road~
+This trail passes between the dwarven outpost to the east and the
+stretches of meadows to the west.  The road is fairly well worn with use by
+wagons that pass this way on their trek north to Haven or south towards
+Stonekeep.  Large expanses of meadows run pleasantly to the west.  
+~
+4 0
+D0
+~
+~
+0 0 6894
+D3
+~
+~
+0 0 6898
+S
+
+#6898
+Meadow~
+Soft heather grass and an occational birch tree dot the landscape in a
+very peaceful, pastoral setting.  The long grass sways to the slightest
+breeze as assorted animals move about contentedly.  The Old Dwarven Road is
+to the east while the meadows continue to the north and west.  
+~
+0 0
+D0
+~
+~
+0 0 6895
+D1
+~
+~
+0 0 6897
+D3
+~
+~
+0 0 6899
+S
+
+#6899
+Meadow~
+Soft heather grass and an occational birch tree dot the landscape in a
+very peaceful, pastoral setting.  The long grass sways to the slightest
+breeze as assorted animals move about contentedly.  
+~
+0 0
+D0
+~
+~
+0 0 6896
+D1
+~
+~
+0 0 6898
+S
+#0
+
+#SPECIALS
+M 6860 spec_cast_mage
+M 6863 spec_breath_any
+S
+
+#RESETS
+O 100 6857 0 6851
+M 100 6855 10 6851 2
+M 100 6855 10 6851 2
+O 100 6853 0 6852
+M 100 6857 4 6853 2
+M 100 6857 4 6853 2
+O 100 6856 0 6853
+M 100 6856 1 6854 1
+M 100 6857 4 6855 2
+M 100 6857 4 6855 2
+O 100 6856 0 6855
+O 100 6863 0 6856
+P 100 6865 10 6863 0
+P 100 6864 10 6863 0
+O 100 6866 0 6856
+M 100 6858 2 6857 1
+O 100 6859 0 6857
+O 100 6858 0 6857
+O 100 6859 0 6858
+O 100 6858 0 6858
+O 100 6859 0 6859
+O 100 6858 0 6859
+O 100 6859 0 6860
+O 100 6858 0 6860
+M 100 6858 2 6861 1
+O 100 6859 0 6861
+O 100 6858 0 6861
+O 100 6859 0 6862
+O 100 6858 0 6862
+O 100 6857 0 6863
+O 100 6857 0 6864
+O 100 6857 0 6865
+M 100 6855 10 6867 2
+M 100 6855 10 6867 2
+O 100 6859 0 6870
+O 100 6858 0 6870
+M 100 6860 1 6871 1
+O 100 6870 0 6871
+O 100 6869 0 6871
+O 100 6871 0 6872
+P 100 6875 2 6871 0
+P 100 6874 1 6871 0
+P 100 6873 1 6871 0
+O 100 6858 0 6872
+M 100 6859 1 6874 1
+G 100 1313 0
+E 100 6868 0 16
+O 100 6858 0 6874
+O 100 6855 0 6875
+O 100 6854 0 6875
+O 100 6860 0 6877
+P 100 6861 5 6860 0
+M 100 6861 1 6878 1
+E 100 6877 0 14
+E 100 6876 0 6
+G 100 6872 0
+M 100 6862 2 6879 1
+E 100 6878 0 16
+M 100 6862 2 6880 1
+E 100 6878 0 16
+M 100 6863 2 6883 1
+G 100 6879 0
+M 100 6863 2 6885 1
+G 100 6879 0
+M 100 6864 1 6886 1
+O 100 6862 0 6887
+M 100 6854 2 6888 1
+M 100 6853 3 6888 1
+M 100 6851 5 6890 1
+M 100 6852 4 6892 1
+O 100 6851 0 6893
+P 100 6852 1 6851 0
+M 100 6851 5 6893 1
+M 100 6852 4 6895 1
+M 100 6851 5 6895 1
+M 100 6852 4 6896 1
+O 100 6851 0 6898
+M 100 6852 4 6898 1
+M 100 6851 5 6899 1
+S
+
+#SHOPS
+6859 0 0 0 0 0 100 100 0 23
+0
+
+#$

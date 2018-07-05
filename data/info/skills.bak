@@ -1,0 +1,4269 @@
+#MAX_SKILL 342
+#MAX_GROUP 72
+
+#SKILL
+Name reserved~
+Flag CDEFW
+Beat 0
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name absorb magic~
+Targ CHAR_DEFENSIVE
+Flag IK
+Mana 125
+Beat 12
+Dama ~
+Msge The mystical aura around your body fades.~
+ObjM ~
+End
+
+#SKILL
+Name acid blast~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 50
+Beat 12
+Dama acid blast~
+Msge !Acid Blast!~
+ObjM ~
+End
+
+#SKILL
+Name acid breath~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 175
+Dama blast of acid~
+Msge !Acid Breath!~
+ObjM ~
+End
+
+#SKILL
+Name acid storm~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 125
+Beat 12
+Dama acidic showers~
+Msge !Acid Storm!~
+ObjM ~
+End
+
+#SKILL
+Name acidshield~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama acidic touch~
+Msge Your acidic shield slowly fizzes away.~
+ObjM ~
+End
+
+#SKILL
+Name angelfire~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 100
+Beat 12
+Dama wrath~
+Msge !Angelfire!~
+ObjM ~
+End
+
+#SKILL
+Name animate~
+Targ OBJ_INV
+Flag W
+Mana 125
+Beat 12
+Dama ~
+Msge !Animate!~
+ObjM ~
+End
+
+#SKILL
+Name armor~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 25
+Beat 12
+Dama ~
+Msge You feel less armored.~
+ObjM ~
+End
+
+#SKILL
+Name awen~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 125
+Dama ~
+Msge Your battle awen fades away.~
+ObjM ~
+End
+
+#SKILL
+Name backdraft~
+Targ OBJ_INV
+Flag IP
+Mana 150
+Dama ~
+Msge ~
+ObjM The {rf{Rir{re{x embedded on $p burns out.~
+End
+
+#SKILL
+Name barkskin~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 40
+Beat 12
+Dama ~
+Msge The {Gt{gre{Ge {ybark{x on your skin crumbles to dust.~
+ObjM ~
+End
+
+#SKILL
+Name bless~
+Targ OBJ_CHAR_DEF
+Flag BGHIK
+Mana 125
+Beat 12
+Dama ~
+Msge You feel less righteous.~
+ObjM $p's holy aura fades.~
+End
+
+#SKILL
+Name blindness~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JKU
+Mana 250
+Beat 12
+Room $n is no longer blinded.~
+Dama ~
+Msge You can see again.~
+ObjM ~
+End
+
+#SKILL
+Name blink~
+Flag CDEFW
+Mana 150
+Beat 6
+Room $N blinks out of view.~
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name blizzard~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 80
+Beat 12
+Dama blizzard spell~
+Msge !Blizzard!~
+ObjM ~
+End
+
+#SKILL
+Name bloodbath~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag GHJK
+Mana 150
+Beat 12
+Dama bloodbath~
+Msge Your wounds begin to close.~
+ObjM ~
+End
+
+#SKILL
+Name burning hands~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 75
+Beat 12
+Dama burning hands~
+Msge !Burning Hands!~
+ObjM ~
+End
+
+#SKILL
+Name call lightning~
+Posi FIGHTING
+Flag JOU
+Mana 15
+Beat 12
+Dama lightning bolt~
+Msge !Call Lightning!~
+ObjM ~
+End
+
+#SKILL
+Name calm~
+Posi FIGHTING
+Flag GHJK
+Mana 125
+Beat 12
+Room $n no longer looks so peaceful...~
+Dama ~
+Msge You have lost your peace of mind.~
+ObjM ~
+End
+
+#SKILL
+Name cancellation~
+Targ CHAR_DEFENSIVE
+Posi FIGHTING
+Flag W
+Mana 80
+Dama !cancellation!~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name cause critical~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 20
+Beat 12
+Dama spell~
+Msge !Cause Critical!~
+ObjM ~
+End
+
+#SKILL
+Name cause light~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 15
+Beat 12
+Dama spell~
+Msge !Cause Light!~
+ObjM ~
+End
+
+#SKILL
+Name cause serious~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 17
+Beat 12
+Dama spell~
+Msge !Cause Serious!~
+ObjM ~
+End
+
+#SKILL
+Name chain lightning~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 55
+Beat 12
+Dama lightning~
+Msge !Chain Lightning!~
+ObjM ~
+End
+
+#SKILL
+Name change sex~
+Targ CHAR_DEFENSIVE
+Posi FIGHTING
+Flag GHW
+Mana 35
+Beat 12
+Room $n looks more like $mself again.~
+Dama ~
+Msge Your body feels familiar again.~
+ObjM ~
+End
+
+#SKILL
+Name channel~
+Targ CHAR_DEFENSIVE
+Flag CDEFW
+Mana 500
+Beat 12
+Dama ~
+Msge !Channel!~
+ObjM ~
+End
+
+#SKILL
+Name charm person~
+Targ CHAR_OFFENSIVE
+Flag CDEFGHJKMU
+Mana 250
+Room $n regains $s free will.~
+Dama ~
+Msge You feel more self-confident.~
+ObjM ~
+End
+
+#SKILL
+Name chill touch~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag GHJO
+Mana 15
+Beat 12
+Room $n looks warmer.~
+Dama chilling touch~
+Msge You feel less cold.~
+ObjM ~
+End
+
+#SKILL
+Name colour spray~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 55
+Beat 12
+Dama colour spray~
+Msge !Colour Spray!~
+ObjM ~
+End
+
+#SKILL
+Name composition~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag AW
+Mana 200
+Beat 12
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name conjure~
+Flag W
+Mana 140
+Beat 12
+Dama ~
+Msge !Conjure!~
+ObjM ~
+End
+
+#SKILL
+Name constitution~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama ~
+Msge Your increased constitution ceases.~
+ObjM ~
+End
+
+#SKILL
+Name continual light~
+Flag W
+Mana 50
+Beat 12
+Dama ~
+Msge !Continual Light!~
+ObjM ~
+End
+
+#SKILL
+Name control weather~
+Flag W
+Mana 25
+Beat 12
+Dama ~
+Msge !Control Weather!~
+ObjM ~
+End
+
+#SKILL
+Name corrupt potion~
+Targ OBJ_INV
+Flag W
+Mana 75
+Dama ~
+Msge ~
+ObjM $p's corruption leaves itself.~
+End
+
+#SKILL
+Name create food~
+Flag W
+Mana 5
+Beat 12
+Dama ~
+Msge !Create Food!~
+ObjM ~
+End
+
+#SKILL
+Name create raft~
+Flag W
+Mana 50
+Beat 12
+Dama ~
+Msge !Create Raft!~
+ObjM ~
+End
+
+#SKILL
+Name create rose~
+Flag W
+Mana 30
+Beat 12
+Dama ~
+Msge !Create Rose!~
+ObjM ~
+End
+
+#SKILL
+Name create spring~
+Flag W
+Mana 20
+Beat 12
+Dama ~
+Msge !Create Spring!~
+ObjM ~
+End
+
+#SKILL
+Name create water~
+Targ OBJ_INV
+Flag W
+Mana 5
+Beat 12
+Dama ~
+Msge !Create Water!~
+ObjM ~
+End
+
+#SKILL
+Name cure blindness~
+Targ CHAR_DEFENSIVE
+Posi FIGHTING
+Flag IU
+Mana 150
+Beat 12
+Dama ~
+Msge !Cure Blindness!~
+ObjM ~
+End
+
+#SKILL
+Name cure critical~
+Targ CHAR_DEFENSIVE
+Posi FIGHTING
+Flag IR
+Mana 20
+Beat 12
+Dama ~
+Msge !Cure Critical!~
+ObjM ~
+End
+
+#SKILL
+Name cure disease~
+Targ CHAR_DEFENSIVE
+Flag IU
+Mana 50
+Beat 12
+Dama ~
+Msge !Cure Disease!~
+ObjM ~
+End
+
+#SKILL
+Name cure light~
+Targ CHAR_DEFENSIVE
+Posi FIGHTING
+Flag IR
+Mana 10
+Beat 12
+Dama ~
+Msge !Cure Light!~
+ObjM ~
+End
+
+#SKILL
+Name cure poison~
+Targ CHAR_DEFENSIVE
+Flag IU
+Mana 45
+Beat 12
+Dama ~
+Msge !Cure Poison!~
+ObjM ~
+End
+
+#SKILL
+Name cure serious~
+Targ CHAR_DEFENSIVE
+Posi FIGHTING
+Flag IR
+Mana 15
+Beat 12
+Dama ~
+Msge !Cure Serious!~
+ObjM ~
+End
+
+#SKILL
+Name cure weaken~
+Targ CHAR_DEFENSIVE
+Flag IU
+Mana 55
+Beat 12
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name curse~
+Targ OBJ_CHAR_OFF
+Posi FIGHTING
+Flag JK
+Mana 200
+Beat 12
+Dama curse~
+Msge The curse wears off.~
+ObjM $p is no longer impure.~
+End
+
+#SKILL
+Name darkvision~
+Targ CHAR_SELF
+Flag BGHIKL
+Mana 45
+Beat 12
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name decrement~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JK
+Mana 250
+Beat 12
+Dama ~
+Msge The {8black{^ aura{x around your body fades.~
+ObjM ~
+End
+
+#SKILL
+Name demonfire~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 75
+Beat 12
+Dama torments~
+Msge !Demonfire!~
+ObjM ~
+End
+
+#SKILL
+Name detect evil~
+Targ CHAR_SELF
+Flag BGHIKL
+Mana 5
+Beat 12
+Dama ~
+Msge The red in your vision disappears.~
+ObjM ~
+End
+
+#SKILL
+Name detect good~
+Targ CHAR_SELF
+Flag BGHIKL
+Mana 5
+Beat 12
+Dama ~
+Msge The gold in your vision disappears.~
+ObjM ~
+End
+
+#SKILL
+Name detect hidden~
+Targ CHAR_SELF
+Flag BGHIKL
+Mana 5
+Beat 12
+Dama ~
+Msge You feel less aware of your surroundings.~
+ObjM ~
+End
+
+#SKILL
+Name detect invis~
+Targ CHAR_SELF
+Flag BGHIKL
+Mana 5
+Beat 12
+Dama ~
+Msge You no longer see invisible objects.~
+ObjM ~
+End
+
+#SKILL
+Name detect magic~
+Targ CHAR_SELF
+Flag BGHIKL
+Mana 5
+Beat 12
+Dama ~
+Msge The detect magic wears off.~
+ObjM ~
+End
+
+#SKILL
+Name detect neutral~
+Targ CHAR_SELF
+Flag BGHIKL
+Mana 5
+Beat 12
+SndC ~
+SndO ~
+Dama ~
+Msge The white in your vision disappears.~
+ObjM ~
+End
+
+#SKILL
+Name detect poison~
+Targ OBJ_INV
+Flag W
+Mana 5
+Beat 12
+Dama ~
+Msge !Detect Poison!~
+ObjM ~
+End
+
+#SKILL
+Name detect terrain~
+Targ CHAR_DEFENSIVE
+Flag IKL
+Mana 50
+Beat 12
+Dama ~
+Msge The environment goes out of focus.~
+ObjM ~
+End
+
+#SKILL
+Name deviant point~
+Targ CHAR_SELF
+Flag CDEFW
+Beat 0
+Dama {x~
+Msge !Deviant Point!~
+ObjM ~
+End
+
+#SKILL
+Name devotion~
+Targ CHAR_SELF
+Flag BGH
+Mana 135
+Dama ~
+Msge You feel less devoted.~
+ObjM ~
+End
+
+#SKILL
+Name diminish~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JK
+Mana 150
+Beat 12
+Dama ~
+Msge You feel safe and protected.~
+ObjM ~
+End
+
+#SKILL
+Name dispel evil~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag W
+Mana 15
+Beat 12
+Dama dispel evil~
+Msge !Dispel Evil!~
+ObjM ~
+End
+
+#SKILL
+Name dispel good~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag W
+Mana 15
+Beat 12
+Dama dispel good~
+Msge !Dispel Good!~
+ObjM ~
+End
+
+#SKILL
+Name dispel magic~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JU
+Mana 150
+Beat 12
+Dama ~
+Msge !Dispel Magic!~
+ObjM ~
+End
+
+#SKILL
+Name dispel neutral~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag W
+Mana 65
+Dama dispel neutral~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name divine aura~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 6
+Dama divine power~
+Msge Your divine aura fades away.~
+ObjM ~
+End
+
+#SKILL
+Name divine blessing~
+Targ CHAR_SELF
+Flag GHIKL
+Mana 300
+Beat 12
+Dama ~
+Msge The shimmering aura around your body fades.~
+ObjM ~
+End
+
+#SKILL
+Name divine heal~
+Targ CHAR_DEFENSIVE
+Posi FIGHTING
+Flag IR
+Mana 250
+Beat 6
+Dama ~
+Msge !Divine Heal!~
+ObjM ~
+End
+
+#SKILL
+Name divine truth~
+Posi FIGHTING
+Flag JO
+Mana 400
+Dama ~
+Msge Your vision clears up.~
+ObjM ~
+End
+
+#SKILL
+Name divinity~
+Targ CHAR_SELF
+Flag GHIKL
+Mana 300
+Beat 12
+Room The divine white aura around $n's body vanishes.~
+Dama ~
+Msge The divine white aura around your body fades.~
+ObjM ~
+End
+
+#SKILL
+Name downpour~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 125
+Beat 12
+Dama torential rains~
+Msge !Downpour!~
+ObjM ~
+End
+
+#SKILL
+Name earthquake~
+Posi FIGHTING
+Flag JOU
+Mana 15
+Beat 12
+Dama earthquake~
+Msge !Earthquake!~
+ObjM ~
+End
+
+#SKILL
+Name electrical storm~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 75
+Beat 12
+Dama flashing light~
+Msge !Electircal Storm!~
+ObjM ~
+End
+
+#SKILL
+Name electrify~
+Targ OBJ_INV
+Flag IP
+Mana 135
+Dama ~
+Msge ~
+ObjM The electricity embedded on $p sizzles away.~
+End
+
+#SKILL
+Name empower potion~
+Flag CDEFW
+Mana 500
+Beat 12
+SndC ~
+SndO ~
+Dama ~
+Msge !Empower!~
+ObjM ~
+End
+
+#SKILL
+Name empower scroll~
+Flag CDEFW
+Mana 500
+Beat 12
+Dama ~
+Msge !Empower!~
+ObjM ~
+End
+
+#SKILL
+Name enchant armor~
+Targ OBJ_INV
+Flag W
+Mana 135
+Dama ~
+Msge !Enchant Armor!~
+ObjM ~
+End
+
+#SKILL
+Name enchant weapon~
+Targ OBJ_INV
+Flag W
+Mana 135
+Dama ~
+Msge !Enchant Weapon!~
+ObjM ~
+End
+
+#SKILL
+Name energy drain~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 175
+Beat 12
+Dama energy drain~
+Msge !Energy Drain!~
+ObjM ~
+End
+
+#SKILL
+Name entangle~
+Targ CHAR_OFFENSIVE
+Flag JK
+Mana 250
+Dama ~
+Msge The vines around your feet decay.~
+ObjM ~
+End
+
+#SKILL
+Name faerie fire~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag GHJK
+Mana 45
+Beat 12
+Room $n's outline fades.~
+Dama faerie fire~
+Msge The pink aura around you fades away.~
+ObjM ~
+End
+
+#SKILL
+Name faerie fog~
+Flag W
+Mana 200
+Beat 12
+Dama faerie fog~
+Msge !Faerie Fog!~
+ObjM ~
+End
+
+#SKILL
+Name faith~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 200
+Beat 12
+Dama ~
+Msge Your faith begins to weaken.~
+ObjM ~
+End
+
+#SKILL
+Name farsight~
+Targ CHAR_DEFENSIVE
+Flag BGHIKL
+Mana 25
+Beat 12
+Dama ~
+Msge The green in your vision disappears.~
+ObjM ~
+End
+
+#SKILL
+Name feeble mind~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JK
+Mana 75
+Beat 12
+Dama ~
+Msge You are no longer a dimwit.~
+ObjM ~
+End
+
+#SKILL
+Name fire breath~
+Posi FIGHTING
+Flag JO
+Mana 175
+Dama blast of flame~
+Msge The smoke leaves your eyes.~
+ObjM ~
+End
+
+#SKILL
+Name fire storm~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 125
+Beat 12
+Dama flames~
+Msge !Flamestrike!~
+ObjM ~
+End
+
+#SKILL
+Name fireball~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 15
+Beat 6
+Dama fireball~
+Msge !Fireball!~
+ObjM ~
+End
+
+#SKILL
+Name fireproof~
+Targ OBJ_INV
+Flag W
+Mana 125
+Beat 12
+Dama ~
+Msge ~
+ObjM $p's protective aura fades.~
+End
+
+#SKILL
+Name fireshield~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama fireball~
+Msge Your firey shield gutters out.~
+ObjM ~
+End
+
+#SKILL
+Name flamestrike~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 75
+Beat 12
+Dama flamestrike~
+Msge !Flamestrike!~
+ObjM ~
+End
+
+#SKILL
+Name flash~
+Posi FIGHTING
+Flag JO
+Mana 300
+Dama ~
+Msge Your eyes begin to focus again.~
+ObjM ~
+End
+
+#SKILL
+Name floating disc~
+Flag W
+Mana 75
+Beat 12
+Dama ~
+Msge !Floating disc!~
+ObjM ~
+End
+
+#SKILL
+Name fly~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 25
+Beat 12
+Room $n falls to the ground!~
+Dama ~
+Msge You slowly float to the ground.~
+ObjM ~
+End
+
+#SKILL
+Name frenzy~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 30
+Beat 12
+Room $n no longer looks so wild.~
+Dama ~
+Msge Your rage ebbs.~
+ObjM ~
+End
+
+#SKILL
+Name frost breath~
+Posi FIGHTING
+Flag JO
+Mana 175
+Dama blast of frost~
+Msge !Frost Breath!~
+ObjM ~
+End
+
+#SKILL
+Name gas breath~
+Posi FIGHTING
+Flag JO
+Mana 175
+Dama blast of gas~
+Msge !Gas Breath!~
+ObjM ~
+End
+
+#SKILL
+Name gate~
+Flag CDEFW
+Mana 200
+Beat 12
+Dama ~
+Msge !Gate!~
+ObjM ~
+End
+
+#SKILL
+Name general purpose~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 50
+Beat 12
+Dama general purpose ammo~
+Msge !General Purpose Ammo!~
+ObjM ~
+End
+
+#SKILL
+Name giant strength~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 20
+Beat 12
+Room $n no longer looks so mighty.~
+Dama ~
+Msge You feel weaker.~
+ObjM ~
+End
+
+#SKILL
+Name glacial aura~
+Targ OBJ_INV
+Flag IP
+Mana 135
+Dama ~
+Msge ~
+ObjM The {Ci{cc{Ce{x embedded on $p melts away.~
+End
+
+#SKILL
+Name glacier~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 135
+Dama glacier spell~
+Msge !Glacier!~
+ObjM ~
+End
+
+#SKILL
+Name golden armor~
+Targ CHAR_SELF
+Flag BGHIKL
+Mana 155
+Dama ~
+Msge The golden shine around your armor fades.~
+ObjM ~
+End
+
+#SKILL
+Name groupheal~
+Posi FIGHTING
+Flag W
+Mana 300
+Beat 12
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name growth~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 125
+Dama ~
+Msge Everything looks a little bigger to you now.~
+ObjM ~
+End
+
+#SKILL
+Name hail storm~
+Posi FIGHTING
+Flag JO
+Mana 200
+Dama hail stones~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name harm~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 35
+Beat 12
+Dama harm spell~
+Msge !Harm!~
+ObjM ~
+End
+
+#SKILL
+Name haste~
+Targ CHAR_DEFENSIVE
+Posi FIGHTING
+Flag BGHIK
+Mana 75
+Beat 12
+Room $n is no longer moving so quickly.~
+Dama ~
+Msge You feel yourself slow down.~
+ObjM ~
+End
+
+#SKILL
+Name heal~
+Targ CHAR_DEFENSIVE
+Posi FIGHTING
+Flag IR
+Mana 55
+Beat 12
+Dama ~
+Msge !Heal!~
+ObjM ~
+End
+
+#SKILL
+Name heat metal~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 225
+Dama spell~
+Msge !Heat Metal!~
+ObjM ~
+End
+
+#SKILL
+Name heresy~
+Targ CHAR_OFFENSIVE
+Flag CDEFJK
+Mana 125
+Dama heresy~
+Msge Your mark of heresy vanishes.~
+ObjM ~
+End
+
+#SKILL
+Name high explosive~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 50
+Beat 12
+Dama high explosive ammo~
+Msge !High Explosive Ammo!~
+ObjM ~
+End
+
+#SKILL
+Name holy word~
+Posi FIGHTING
+Flag W
+Mana 200
+Dama divine wrath~
+Msge !Holy Word!~
+ObjM ~
+End
+
+#SKILL
+Name hurricane~
+Posi FIGHTING
+Flag JO
+Mana 125
+Dama hurricane~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name iceshield~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama chilling touch~
+Msge Your icy shield slowly melts away.~
+ObjM ~
+End
+
+#SKILL
+Name icicle~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 20
+Dama icicle spell~
+Msge !Icicle!~
+ObjM ~
+End
+
+#SKILL
+Name identify~
+Targ OBJ_INV
+Posi FIGHTING
+Flag W
+Mana 25
+Beat 12
+Dama ~
+Msge !Identify!~
+ObjM ~
+End
+
+#SKILL
+Name incinerate~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 135
+Dama incinerate spell~
+Msge !Incinerate!~
+ObjM ~
+End
+
+#SKILL
+Name infernal offering~
+Targ CHAR_SELF
+Flag CDEFGHW
+Mana 225
+Beat 12
+Dama ~
+Msge Your infernal offering slowly fades away.~
+ObjM ~
+End
+
+#SKILL
+Name infravision~
+Targ CHAR_DEFENSIVE
+Flag GHIKL
+Mana 35
+Beat 12
+Dama ~
+Msge You no longer see in the dark.~
+ObjM ~
+End
+
+#SKILL
+Name intellect~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama ~
+Msge Your increased intellect ceases.~
+ObjM ~
+End
+
+#SKILL
+Name invisibility~
+Targ OBJ_CHAR_DEF
+Flag BGHIK
+Mana 50
+Beat 12
+Room $n fades into existance.~
+Dama ~
+Msge You are no longer invisible.~
+ObjM $p fades into view.~
+End
+
+#SKILL
+Name iron skin~
+Targ CHAR_DEFENSIVE
+Flag IKL
+Mana 55
+Beat 12
+Dama ~
+Msge Metallic flakes fall from your skin.~
+ObjM ~
+End
+
+#SKILL
+Name kailfli~
+Targ CHAR_DEFENSIVE
+Flag ACEF
+Mana 55
+Beat 12
+Room $n's luck has run out.~
+Dama ~
+Msge You feel your luck has run out.~
+ObjM ~
+End
+
+#SKILL
+Name know alignment~
+Targ CHAR_DEFENSIVE
+Posi FIGHTING
+Flag W
+Mana 220
+Beat 12
+Dama ~
+Msge !Know Alignment!~
+ObjM ~
+End
+
+#SKILL
+Name leech~
+Targ OBJ_INV
+Flag IP
+Mana 225
+Dama ~
+Msge ~
+ObjM The vampiric aura embedded on $p disappates.~
+End
+
+#SKILL
+Name lightning bolt~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 15
+Beat 6
+Dama lightning bolt~
+Msge !Lightning Bolt!~
+ObjM ~
+End
+
+#SKILL
+Name lightning breath~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 175
+Dama blast of lightning~
+Msge !Lightning Breath!~
+ObjM ~
+End
+
+#SKILL
+Name locate object~
+Flag W
+Mana 335
+Beat 12
+Dama ~
+Msge !Locate Object!~
+ObjM ~
+End
+
+#SKILL
+Name locust swarm~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 75
+Beat 12
+Dama locust swarm~
+Msge !Locust Swarm!~
+ObjM ~
+End
+
+#SKILL
+Name luminrati~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 300
+Dama luminrati~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name magic missile~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 15
+Beat 12
+Dama magic missile~
+Msge !Magic Missile!~
+ObjM ~
+End
+
+#SKILL
+Name mana shield~
+Targ CHAR_SELF
+Flag CDEFGHIKL
+Mana 125
+Beat 12
+Dama ~
+Msge You begin to feel pain again, as your energy drops.~
+ObjM ~
+End
+
+#SKILL
+Name mana tap~
+Targ CHAR_SELF
+Flag CDEFW
+Mana 750
+Room $n begins to come out of $s meditation.~
+Dama ~
+Msge You begin to come out of your meditation.~
+ObjM ~
+End
+
+#SKILL
+Name mass healing~
+Flag IRT
+Mana 150
+Dama ~
+Msge !Mass Healing!~
+ObjM ~
+End
+
+#SKILL
+Name mass invis~
+Flag W
+Mana 125
+Room $n fades into existance.~
+Dama ~
+Msge You are no longer invisible.~
+ObjM ~
+End
+
+#SKILL
+Name memory lapse~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JK
+Mana 400
+Dama memory lapse~
+Msge You seem to have a grip on reality now.~
+ObjM ~
+End
+
+#SKILL
+Name meteor swarm~
+Posi FIGHTING
+Flag JO
+Mana 125
+Dama meteor swarm~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name mindblast~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 200
+Dama mindblast~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name negate alignment~
+Targ OBJ_INV
+Flag W
+Mana 500
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name nexus~
+Flag CDEFW
+Mana 300
+Dama ~
+Msge !Nexus!~
+ObjM ~
+End
+
+#SKILL
+Name nightmare~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 300
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name pass door~
+Targ CHAR_SELF
+Flag BGHIKL
+Mana 20
+Beat 12
+Dama ~
+Msge You feel solid again.~
+ObjM ~
+End
+
+#SKILL
+Name plague~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JK
+Mana 50
+Beat 12
+Dama sickness~
+Msge Your sores vanish.~
+ObjM ~
+End
+
+#SKILL
+Name poison~
+Targ OBJ_CHAR_OFF
+Posi FIGHTING
+Flag JK
+Mana 50
+Beat 12
+Dama poison~
+Msge You feel less sick.~
+ObjM The poison on $p dries up.~
+End
+
+#SKILL
+Name portal~
+Flag CDEFW
+Mana 275
+Dama ~
+Msge !Portal!~
+ObjM ~
+End
+
+#SKILL
+Name power of gods~
+Targ CHAR_SELF
+Flag IKL
+Mana 200
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name project force~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 200
+Dama psychic force~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name protection evil~
+Targ CHAR_SELF
+Flag CDEFGHIKL
+Mana 155
+Beat 12
+Dama ~
+Msge You feel less protected.~
+ObjM ~
+End
+
+#SKILL
+Name protection good~
+Targ CHAR_SELF
+Flag CDEFGHIKL
+Mana 155
+Beat 12
+Dama ~
+Msge You feel less protected.~
+ObjM ~
+End
+
+#SKILL
+Name protection neutral~
+Targ CHAR_SELF
+Flag CDEFGHIKL
+Mana 155
+Beat 12
+Dama ~
+Msge You feel less protected.~
+ObjM ~
+End
+
+#SKILL
+Name protection voodoo~
+Targ CHAR_SELF
+Flag CDEFIKL
+Mana 500
+Dama ~
+Msge Your protection from curses fades.~
+ObjM ~
+End
+
+#SKILL
+Name psi barrier~
+Targ CHAR_DEFENSIVE
+Flag IK
+Mana 75
+Beat 12
+Dama ~
+Msge Your barrier has faded.~
+ObjM ~
+End
+
+#SKILL
+Name psi twister~
+Posi FIGHTING
+Flag JO
+Mana 200
+Dama psychic twister~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name ray of deceit~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JOU
+Mana 75
+Beat 12
+SndC ~
+SndO ~
+Dama ray of deceit~
+Msge !Ray of Deceit!~
+ObjM ~
+End
+
+#SKILL
+Name ray of truth~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JOU
+Mana 75
+Beat 12
+Dama ray of truth~
+Msge !Ray of Truth!~
+ObjM ~
+End
+
+#SKILL
+Name recharge~
+Targ OBJ_INV
+Flag W
+Mana 60
+Dama ~
+Msge !Recharge!~
+ObjM ~
+End
+
+#SKILL
+Name refresh~
+Targ CHAR_DEFENSIVE
+Flag IT
+Mana 45
+Beat 6
+Dama refresh~
+Msge !Refresh!~
+ObjM ~
+End
+
+#SKILL
+Name regeneration~
+Targ CHAR_DEFENSIVE
+Flag BCDEFIK
+Mana 500
+Beat 12
+Dama ~
+Msge The gods quit aiding your wounds.~
+ObjM ~
+End
+
+#SKILL
+Name remove curse~
+Targ OBJ_CHAR_DEF
+Flag CDEFW
+Mana 150
+Dama ~
+Msge !Remove Curse!~
+ObjM ~
+End
+
+#SKILL
+Name restore mana~
+Targ CHAR_DEFENSIVE
+Flag CDEFIS
+Mana 50
+Beat 12
+Dama restore mana~
+Msge !Restore Mana!~
+ObjM ~
+End
+
+#SKILL
+Name resurrect~
+Flag W
+Mana 175
+Beat 12
+Dama ~
+Msge !Resurrect!~
+ObjM ~
+End
+
+#SKILL
+Name rockshield~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama crushing blow~
+Msge Your crushing aura falls to the ground.~
+ObjM ~
+End
+
+#SKILL
+Name sanctuary~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 150
+Beat 12
+Room The white aura around $n's body vanishes.~
+Dama ~
+Msge The white aura around your body fades.~
+ObjM ~
+End
+
+#SKILL
+Name shadowplay~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag CDEFJKY
+Mana 250
+Room The shadow tentacles release their grip of $n.~
+Dama shadow~
+Msge The shadow tentacles release their grip.~
+ObjM ~
+End
+
+#SKILL
+Name shield~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 25
+Beat 12
+Room The shield protecting $n vanishes.~
+Dama ~
+Msge Your force shield shimmers then fades away.~
+ObjM ~
+End
+
+#SKILL
+Name shocking grasp~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 75
+Beat 12
+Dama shocking grasp~
+Msge !Shocking Grasp!~
+ObjM ~
+End
+
+#SKILL
+Name shockshield~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama lightning bolt~
+Msge Your crackling shield sizzles and fades.~
+ObjM ~
+End
+
+#SKILL
+Name shrapnelshield~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama flying debris~
+Msge Your flying debris settles to the ground.~
+ObjM ~
+End
+
+#SKILL
+Name shrink~
+Targ CHAR_OFFENSIVE
+Flag GHJK
+Mana 225
+Dama ~
+Msge Everything looks small through your eyes once again.~
+ObjM ~
+End
+
+#SKILL
+Name silence~
+Targ CHAR_OFFENSIVE
+Flag JK
+Mana 200
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name sleep~
+Targ CHAR_OFFENSIVE
+Flag JMQ
+Mana 225
+Beat 12
+Dama ~
+Msge You feel less tired.~
+ObjM ~
+End
+
+#SKILL
+Name slow~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag GHJK
+Mana 175
+Beat 12
+Room $n is no longer moving so slowly.~
+Dama ~
+Msge You feel yourself speed up.~
+ObjM ~
+End
+
+#SKILL
+Name snow storm~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 125
+Beat 12
+Dama blizzard~
+Msge !Snow Storm!~
+ObjM ~
+End
+
+#SKILL
+Name soul blade~
+Targ OBJ_INV
+Flag W
+Mana 250
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name steel skin~
+Targ CHAR_DEFENSIVE
+Flag GHIK
+Mana 50
+Beat 12
+Dama ~
+Msge The {Dm{wetali{Dc{x shield around your skin vanishes.~
+ObjM ~
+End
+
+#SKILL
+Name stone skin~
+Targ CHAR_SELF
+Flag BGHIKL
+Mana 12
+Beat 12
+Room $n's skin regains its normal texture.~
+Dama ~
+Msge Your skin feels soft again.~
+ObjM ~
+End
+
+#SKILL
+Name summon~
+Flag CDEFW
+Mana 150
+Dama ~
+Msge !Summon!~
+ObjM ~
+End
+
+#SKILL
+Name swarm~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 150
+Beat 12
+Dama diseases~
+Msge !Swarm!~
+ObjM ~
+End
+
+#SKILL
+Name teleport~
+Targ CHAR_SELF
+Posi FIGHTING
+Flag W
+Mana 75
+Beat 12
+Dama ~
+Msge !Teleport!~
+ObjM ~
+End
+
+#SKILL
+Name thornshield~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama thorny touch~
+Msge Your thorns fall out.~
+ObjM ~
+End
+
+#SKILL
+Name thunderbolt~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Mana 135
+Beat 12
+Dama thunderbolt spell~
+Msge !Thunderbolt!~
+ObjM ~
+End
+
+#SKILL
+Name transfix~
+Targ CHAR_OFFENSIVE
+Flag JO
+Mana 300
+Beat 12
+Dama transfix~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name transport~
+Targ OBJ_TRAN
+Flag CDEFW
+Mana 80
+Beat 12
+Dama ~
+Msge !Transport!~
+ObjM ~
+End
+
+#SKILL
+Name true sight~
+Targ CHAR_SELF
+Flag W
+Mana 100
+Beat 12
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name vampiricshield~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama syphon touch~
+Msge Your vampiric powers diminish.~
+ObjM ~
+End
+
+#SKILL
+Name ventriloquate~
+Flag W
+Mana 25
+Beat 12
+Dama ~
+Msge !Ventriloquate!~
+ObjM ~
+End
+
+#SKILL
+Name vigorize~
+Targ CHAR_DEFENSIVE
+Flag BIK
+Mana 200
+Dama ~
+Msge You no longer feel so vigorized.~
+ObjM ~
+End
+
+#SKILL
+Name voodoo~
+Flag CDEFW
+Mana 500
+Dama ~
+Msge !Voodoo!~
+ObjM ~
+End
+
+#SKILL
+Name watershield~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama watershield~
+Msge Your watery shield slowly evaporates.~
+ObjM ~
+End
+
+#SKILL
+Name weaken~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag GHJK
+Mana 75
+Beat 12
+Room $n looks stronger.~
+Dama spell~
+Msge You feel stronger.~
+ObjM ~
+End
+
+#SKILL
+Name wisdom~
+Targ CHAR_DEFENSIVE
+Flag BGHIK
+Mana 75
+Beat 12
+Dama ~
+Msge Your increased wisdom ceases.~
+ObjM ~
+End
+
+#SKILL
+Name wizard eye~
+Flag W
+Mana 300
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name word of recall~
+Targ CHAR_SELF
+Posi RESTING
+Flag W
+Mana 500
+Dama ~
+Msge !Word of Recall!~
+ObjM ~
+End
+
+#SKILL
+Name 2nd dual~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name 3rd dual~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name 4th dual~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name 5th dual~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name aim~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name ambush~
+Flag JMOX
+Move 100
+Dama ambush~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name assassinate~
+Flag JMOX
+Move 50
+Dama assassination~
+Msge !Assassinate!~
+ObjM ~
+End
+
+#SKILL
+Name awareness~
+Flag IKL
+Mana 50
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name axe~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Axe!~
+ObjM ~
+End
+
+#SKILL
+Name axe mastery~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name backbreaker~
+Flag V
+Dama {x~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name backstab~
+Flag JMOX
+Move 20
+Dama backstab~
+Msge !Backstab!~
+ObjM ~
+End
+
+#SKILL
+Name bandage~
+Flag IR
+Mana 75
+Move 25
+Beat 12
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name bash~
+Posi FIGHTING
+Flag JO
+Move 12
+Dama bash~
+Msge !Bash!~
+ObjM ~
+End
+
+#SKILL
+Name bastion~
+Flag AJMOX
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name battlehymn~
+Targ CHAR_DEFENSIVE
+Posi FIGHTING
+Flag IKL
+Mana 10
+Beat 12
+Dama ~
+Msge The strength of battle wanes.~
+ObjM ~
+End
+
+#SKILL
+Name berserk~
+Posi FIGHTING
+Flag GHIKL
+Mana 300
+Move 100
+Beat 12
+Room $n is no longer in a state of rage.~
+Dama ~
+Msge You feel your pulse slow down.~
+ObjM ~
+End
+
+#SKILL
+Name blinding strike~
+Flag JKU
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name brew~
+Flag W
+Mana 125
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name camouflage~
+Flag IKL
+Move 25
+Beat 12
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name cartwheel~
+Flag V
+Dama !Cartwheel!~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name charge~
+Flag JMOX
+Move 25
+Dama charge~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name circle~
+Posi FIGHTING
+Flag JNOX
+Move 25
+Dama circle~
+Msge !Circle!~
+ObjM ~
+End
+
+#SKILL
+Name cleave~
+Flag AJOX
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name concentration~
+Flag IKLY
+Beat 12
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name counter~
+Posi FIGHTING
+Flag V
+Dama counterattack~
+Msge !Counter!~
+ObjM ~
+End
+
+#SKILL
+Name critical damage~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Critical Damage!~
+ObjM ~
+End
+
+#SKILL
+Name critical strike~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Critical Strike!~
+ObjM ~
+End
+
+#SKILL
+Name cross slash~
+Flag JOX
+Beat 12
+Dama cross slash~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name crush~
+Flag JOU
+Dama crush~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name curse of ages~
+Flag W
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name cyclone~
+Posi FIGHTING
+Flag JOX
+Move 35
+Dama cyclone~
+Msge !Cyclone!~
+ObjM ~
+End
+
+#SKILL
+Name dagger~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Dagger!~
+ObjM ~
+End
+
+#SKILL
+Name dart~
+Flag JMQ
+Dama dart~
+Msge You feel less tired.~
+ObjM ~
+End
+
+#SKILL
+Name deathblow~
+Posi FIGHTING
+Flag JOX
+Beat 12
+Dama deathblow~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name devilish touch~
+Flag JO
+Dama devilish touch~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name dirt kicking~
+Posi FIGHTING
+Flag JKU
+Beat 12
+Dama kicked dirt~
+Msge You rub the dirt out of your eyes.~
+ObjM ~
+End
+
+#SKILL
+Name disarm~
+Posi FIGHTING
+Flag JU
+Beat 12
+Dama ~
+Msge !Disarm!~
+ObjM ~
+End
+
+#SKILL
+Name disguise~
+Flag W
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name dislodge~
+Posi FIGHTING
+Flag JU
+Beat 12
+Dama dislodge~
+Msge !Dislodge!~
+ObjM ~
+End
+
+#SKILL
+Name dismember~
+Flag JOX
+Beat 12
+Dama cutting~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name dodge~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Dodge!~
+ObjM ~
+End
+
+#SKILL
+Name doorbash~
+Flag W
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name dual wield~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Dual Wield!~
+ObjM ~
+End
+
+#SKILL
+Name eighth attack~
+Flag VY
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name engage~
+Flag W
+Move 10
+Beat 12
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name engineer~
+Flag W
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name enhanced damage~
+Posi FIGHTING
+Flag V
+Dama !Enhanced Damage!~
+Msge !Enhanced Damage!~
+ObjM ~
+End
+
+#SKILL
+Name envenom~
+Posi RESTING
+Flag IP
+Dama ~
+Msge !Envenom!~
+ObjM ~
+End
+
+#SKILL
+Name evade~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name eviscerate~
+Posi FIGHTING
+Flag JKOX
+Beat 12
+Dama evisceration~
+Msge ~
+ObjM None~
+End
+
+#SKILL
+Name fast healing~
+Posi SLEEPING
+Flag V
+Dama ~
+Msge !Fast Healing!~
+ObjM ~
+End
+
+#SKILL
+Name feed~
+Posi FIGHTING
+Flag JO
+Dama feed~
+Msge !Feed!~
+ObjM ~
+End
+
+#SKILL
+Name fifth attack~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Fifth Attack!~
+ObjM ~
+End
+
+#SKILL
+Name flail~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Flail!~
+ObjM ~
+End
+
+#SKILL
+Name forest meld~
+Flag IKL
+Beat 12
+Room $N emerges from the leaf foliage.~
+Dama ~
+Msge You emerge from your hiding place.~
+ObjM ~
+End
+
+#SKILL
+Name forged eq~
+Flag CDEFW
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name fourth attack~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Fourth Attack!~
+ObjM ~
+End
+
+#SKILL
+Name gash~
+Flag JNOX
+Move 25
+Dama gash~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name gore~
+Posi FIGHTING
+Flag JO
+Beat 12
+Dama impalement~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name gouge~
+Posi FIGHTING
+Flag JKU
+Beat 12
+Dama gouge~
+Msge Your vision clears.~
+ObjM ~
+End
+
+#SKILL
+Name grip~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Grip!~
+ObjM ~
+End
+
+#SKILL
+Name hack~
+Flag W
+Beat 12
+Dama ~
+Msge The vines around your feet disintegrate.~
+ObjM ~
+End
+
+#SKILL
+Name haggle~
+Posi RESTING
+Flag V
+Dama ~
+Msge !Haggle!~
+ObjM ~
+End
+
+#SKILL
+Name hammer~
+Posi FIGHTING
+Flag V
+Dama {x~
+Msge !Hammer!~
+ObjM ~
+End
+
+#SKILL
+Name hammer bash~
+Posi FIGHTING
+Flag JOX
+Dama hammer bash~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name hand to hand~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Hand to Hand!~
+ObjM ~
+End
+
+#SKILL
+Name headbutt~
+Posi FIGHTING
+Flag GHJK
+Beat 12
+Dama headbutt~
+Msge Your headache goes away.~
+ObjM ~
+End
+
+#SKILL
+Name hide~
+Posi RESTING
+Flag IKL
+Beat 6
+Dama ~
+Msge You are no longer one with the shadows.~
+ObjM ~
+End
+
+#SKILL
+Name hone~
+Posi RESTING
+Flag IP
+SndC ~
+SndO ~
+Dama ~
+Msge !Hone!~
+ObjM The honed edge on $p becomes dull.~
+End
+
+#SKILL
+Name hundred blades~
+Posi FIGHTING
+Flag JOX
+Beat 12
+Dama swinging blades~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name hurl~
+Flag W
+Dama hurl~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name ironskin~
+Targ CHAR_DEFENSIVE
+Flag IKL
+Mana 25
+Beat 12
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name jab~
+Flag JK
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name katana~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Katana!~
+ObjM ~
+End
+
+#SKILL
+Name kick~
+Targ CHAR_OFFENSIVE
+Posi FIGHTING
+Flag JO
+Beat 12
+Dama kick~
+Msge !Kick!~
+ObjM ~
+End
+
+#SKILL
+Name knife fighter~
+Flag VY
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name legsweep~
+Posi FIGHTING
+Flag JOU
+Move 30
+Dama legsweep~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name limp~
+Flag W
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name lore~
+Posi RESTING
+Flag W
+Beat 12
+Dama ~
+Msge !Lore!~
+ObjM ~
+End
+
+#SKILL
+Name lunge~
+Flag JOX
+Dama lunge~
+Msge None~
+ObjM ~
+End
+
+#SKILL
+Name mace~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Mace!~
+ObjM ~
+End
+
+#SKILL
+Name master of magic~
+Flag VY
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name meditation~
+Posi SLEEPING
+Flag V
+Dama ~
+Msge Meditation~
+ObjM ~
+End
+
+#SKILL
+Name music~
+Flag W
+Beat 12
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name obfuscate~
+Flag IKL
+Dama ~
+Msge You emerge from the shadows.~
+ObjM ~
+End
+
+#SKILL
+Name offhand~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name onslaught~
+Flag JO
+Dama onslaught~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name overhand~
+Flag JOX
+Dama overhand~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name parry~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Parry!~
+ObjM ~
+End
+
+#SKILL
+Name peek~
+Flag W
+Dama ~
+Msge !Peek!~
+ObjM ~
+End
+
+#SKILL
+Name phase~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Phase!~
+ObjM ~
+End
+
+#SKILL
+Name pick lock~
+Flag W
+Beat 12
+Dama ~
+Msge !Pick!~
+ObjM ~
+End
+
+#SKILL
+Name polearm~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Polearm!~
+ObjM ~
+End
+
+#SKILL
+Name quarterstaff~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Quarterstaff!~
+ObjM ~
+End
+
+#SKILL
+Name quickdraw~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name quickening~
+Flag IKL
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name raze~
+Flag W
+Mana 50
+Dama elemental raze~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name recall~
+Posi FIGHTING
+Flag W
+Beat 6
+Dama ~
+Msge !Recall!~
+ObjM ~
+End
+
+#SKILL
+Name repair~
+Flag W
+Beat 12
+Dama ~
+Msge !Repair!~
+ObjM ~
+End
+
+#SKILL
+Name rescue~
+Posi FIGHTING
+Flag W
+Beat 12
+Dama ~
+Msge !Rescue!~
+ObjM ~
+End
+
+#SKILL
+Name retreat~
+Flag W
+Beat 6
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name rub~
+Posi FIGHTING
+Flag ILU
+Beat 12
+Dama ~
+Msge !Rub!~
+ObjM ~
+End
+
+#SKILL
+Name sabre~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name salve~
+Flag AIR
+Mana 50
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name savage claws~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name scalp~
+Flag JKUX
+Dama scalp~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name scribe~
+Flag W
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name scrolls~
+Flag W
+Dama ~
+Msge !Scrolls!~
+ObjM ~
+End
+
+#SKILL
+Name scythe~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !scythe!~
+ObjM ~
+End
+
+#SKILL
+Name second attack~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Second Attack!~
+ObjM ~
+End
+
+#SKILL
+Name seventh attack~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name sharpen~
+Posi RESTING
+Flag IP
+Dama ~
+Msge !Sharpen!~
+ObjM The sharpened edge on $p becomes dull.~
+End
+
+#SKILL
+Name shield block~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Shield Block!~
+ObjM ~
+End
+
+#SKILL
+Name shield levitate~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name shield smash~
+Posi FIGHTING
+Flag W
+Dama shield smash~
+Msge !Shield Smash!~
+ObjM ~
+End
+
+#SKILL
+Name shroud~
+Flag IKL
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name sidestep~
+Flag V
+Dama sidestep~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name sixth attack~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Sixth Attack!~
+ObjM ~
+End
+
+#SKILL
+Name slip~
+Flag W
+Beat 12
+Dama ~
+Msge !Slip!~
+ObjM ~
+End
+
+#SKILL
+Name sneak~
+Flag IKL
+Beat 6
+Dama ~
+Msge You no longer feel stealthy.~
+ObjM ~
+End
+
+#SKILL
+Name spear~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Spear!~
+ObjM ~
+End
+
+#SKILL
+Name stake~
+Flag JO
+Dama stake~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name stalk~
+Flag W
+Move 50
+Beat 6
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name staves~
+Flag W
+Beat 12
+Dama ~
+Msge !Staves!~
+ObjM ~
+End
+
+#SKILL
+Name steal~
+Flag W
+Beat 12
+Dama ~
+Msge !Steal!~
+ObjM ~
+End
+
+#SKILL
+Name stomp~
+Flag AJO
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name storm of blades~
+Flag JOX
+Dama storm of blades~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name strangle~
+Flag JMQ
+Beat 12
+Dama strangle~
+Msge You begin to breathe again.~
+ObjM ~
+End
+
+#SKILL
+Name strike~
+Flag JNOX
+Move 50
+Dama strike~
+Msge !Strike!~
+ObjM ~
+End
+
+#SKILL
+Name stun~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Stun!~
+ObjM ~
+End
+
+#SKILL
+Name sword~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !sword!~
+ObjM ~
+End
+
+#SKILL
+Name tackle~
+Flag JU
+Beat 12
+Dama powerful takedown~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name third attack~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Third Attack!~
+ObjM ~
+End
+
+#SKILL
+Name thousand wounds~
+Flag JKO
+Dama thousand wounds~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name thrust~
+Flag JOUX
+Move 15
+Beat 12
+Dama thrust~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name track~
+Flag W
+Beat 12
+Dama ~
+Msge !Track!~
+ObjM ~
+End
+
+#SKILL
+Name trap disarm~
+Flag WY
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name trap set~
+Flag W
+Beat 12
+Dama cleaverly placed trap~
+Msge You no longer feel trapped.~
+ObjM ~
+End
+
+#SKILL
+Name trip~
+Posi FIGHTING
+Flag JOU
+Beat 12
+Dama trip~
+Msge !Trip!~
+ObjM ~
+End
+
+#SKILL
+Name troll revival~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name ultra damage~
+Flag V
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name wands~
+Flag W
+Beat 12
+Dama ~
+Msge !Wands!~
+ObjM ~
+End
+
+#SKILL
+Name warcry~
+Targ CHAR_DEFENSIVE
+Flag IKL
+Mana 25
+Beat 12
+Dama ~
+Msge The rage of war leaves you.~
+ObjM ~
+End
+
+#SKILL
+Name warpaint~
+Flag GHW
+Dama ~
+Msge ~
+ObjM ~
+End
+
+#SKILL
+Name whip~
+Posi FIGHTING
+Flag V
+Dama ~
+Msge !Whip!~
+ObjM ~
+End
+
+#GROUP
+Name acolyte basics~
+Skil scythe~
+End
+
+#GROUP
+Name acolyte default~
+Skil beguiling~
+Skil detection~
+Skil disarm~
+Skil dodge~
+Skil enhancement~
+Skil fast healing~
+Skil hand to hand~
+Skil illusion~
+Skil maladictions~
+Skil shield block~
+Skil transportation~
+End
+
+#GROUP
+Name anti spellcaster~
+Skil absorb magic~
+Skil cartwheel~
+Skil feeble mind~
+Skil memory lapse~
+Skil silence~
+End
+
+#GROUP
+Name archmage basics~
+Skil dagger~
+End
+
+#GROUP
+Name archmage default~
+Skil beguiling~
+Skil combat~
+Skil detection~
+Skil enhancement~
+Skil illusion~
+Skil maladictions~
+Skil protective~
+Skil shielding~
+Skil transportation~
+Skil weather~
+End
+
+#GROUP
+Name assassin basics~
+Skil dagger~
+Skil steal~
+End
+
+#GROUP
+Name assassin default~
+Skil backstab~
+Skil circle~
+Skil disarm~
+Skil dodge~
+Skil dual wield~
+Skil hide~
+Skil lore~
+Skil mace~
+Skil peek~
+Skil pick lock~
+Skil second attack~
+Skil sneak~
+Skil sword~
+Skil trip~
+End
+
+#GROUP
+Name attack~
+Skil angelfire~
+Skil demonfire~
+Skil dispel evil~
+Skil dispel good~
+Skil flamestrike~
+Skil heat metal~
+Skil ray of deceit~
+Skil ray of truth~
+End
+
+#GROUP
+Name beguiling~
+Skil animate~
+Skil charm person~
+Skil resurrect~
+Skil shrink~
+Skil sleep~
+End
+
+#GROUP
+Name benedictions~
+Skil bless~
+Skil calm~
+Skil faith~
+Skil frenzy~
+Skil infernal offering~
+Skil remove curse~
+End
+
+#GROUP
+Name bishop basics~
+Skil hand to hand~
+Skil mace~
+End
+
+#GROUP
+Name bishop default~
+Skil attack~
+Skil benedictions~
+Skil creation~
+Skil curative~
+Skil detection~
+Skil flail~
+Skil healing~
+Skil maladictions~
+Skil protective~
+Skil shield block~
+Skil transportation~
+Skil weather~
+End
+
+#GROUP
+Name cleric basics~
+Skil hand to hand~
+Skil mace~
+End
+
+#GROUP
+Name cleric default~
+Skil attack~
+Skil benedictions~
+Skil creation~
+Skil curative~
+Skil detection~
+Skil flail~
+Skil healing~
+Skil maladictions~
+Skil protective~
+Skil shield block~
+Skil transportation~
+Skil weather~
+End
+
+#GROUP
+Name combat~
+Skil acid blast~
+Skil blizzard~
+Skil burning hands~
+Skil chain lightning~
+Skil chill touch~
+Skil colour spray~
+Skil fireball~
+Skil icicle~
+Skil lightning bolt~
+Skil luminrati~
+Skil magic missile~
+Skil mana tap~
+Skil shocking grasp~
+Skil swarm~
+End
+
+#GROUP
+Name conjuration~
+Skil conjure~
+Skil entangle~
+Skil transfix~
+End
+
+#GROUP
+Name creation~
+Skil conjure~
+Skil continual light~
+Skil create food~
+Skil create raft~
+Skil create rose~
+Skil create spring~
+Skil create water~
+Skil empower potion~
+Skil empower scroll~
+Skil floating disc~
+End
+
+#GROUP
+Name curative~
+Skil cure blindness~
+Skil cure disease~
+Skil cure poison~
+Skil cure weaken~
+End
+
+#GROUP
+Name detection~
+Skil darkvision~
+Skil detect evil~
+Skil detect good~
+Skil detect hidden~
+Skil detect invis~
+Skil detect magic~
+Skil detect neutral~
+Skil detect poison~
+Skil farsight~
+Skil identify~
+Skil infravision~
+Skil know alignment~
+Skil locate object~
+Skil true sight~
+Skil wizard eye~
+End
+
+#GROUP
+Name draconian~
+Skil acid breath~
+Skil fire breath~
+Skil frost breath~
+Skil gas breath~
+Skil lightning breath~
+End
+
+#GROUP
+Name druid basics~
+Skil detect terrain~
+Skil hack~
+Skil polearm~
+End
+
+#GROUP
+Name druid default~
+Skil attack~
+Skil benedictions~
+Skil combat~
+Skil creation~
+Skil curative~
+Skil healing~
+Skil protective~
+Skil second attack~
+Skil shield block~
+Skil weather~
+End
+
+#GROUP
+Name elemental~
+Skil glacier~
+Skil incinerate~
+Skil thunderbolt~
+End
+
+#GROUP
+Name enchantment~
+Skil backdraft~
+Skil electrify~
+Skil enchant armor~
+Skil enchant weapon~
+Skil fireproof~
+Skil glacial aura~
+Skil leech~
+Skil recharge~
+End
+
+#GROUP
+Name enhancement~
+Skil constitution~
+Skil giant strength~
+Skil growth~
+Skil haste~
+Skil intellect~
+Skil refresh~
+Skil regeneration~
+Skil wisdom~
+End
+
+#GROUP
+Name gladiator basics~
+Skil berserk~
+Skil sword~
+End
+
+#GROUP
+Name gladiator default~
+Skil bash~
+Skil disarm~
+Skil enhanced damage~
+Skil fourth attack~
+Skil lore~
+Skil parry~
+Skil rescue~
+Skil shield block~
+Skil third attack~
+Skil weaponsmaster~
+End
+
+#GROUP
+Name harmful~
+Skil cause critical~
+Skil cause light~
+Skil cause serious~
+Skil decrement~
+Skil harm~
+End
+
+#GROUP
+Name healing~
+Skil channel~
+Skil cure critical~
+Skil cure light~
+Skil cure serious~
+Skil groupheal~
+Skil heal~
+Skil mass healing~
+End
+
+#GROUP
+Name hierophant basics~
+Skil detect terrain~
+Skil hack~
+Skil polearm~
+End
+
+#GROUP
+Name hierophant default~
+Skil attack~
+Skil benedictions~
+Skil combat~
+Skil creation~
+Skil curative~
+Skil healing~
+Skil protective~
+Skil second attack~
+Skil shield block~
+Skil weather~
+End
+
+#GROUP
+Name hunter basics~
+Skil detect terrain~
+Skil spear~
+Skil track~
+End
+
+#GROUP
+Name hunter default~
+Skil curative~
+Skil dirt kick~
+Skil earthquake~
+Skil enhanced damage~
+Skil hand to hand~
+Skil healing~
+Skil kick~
+Skil parry~
+Skil shield block~
+Skil third attack~
+Skil transportation~
+Skil weaponsmaster~
+End
+
+#GROUP
+Name illusion~
+Skil invisibility~
+Skil mass invis~
+Skil ventriloquate~
+End
+
+#GROUP
+Name knight basic~
+Skil berserk~
+Skil sword~
+End
+
+#GROUP
+Name knight default~
+Skil bash~
+Skil disarm~
+Skil enhanced damage~
+Skil fourth attack~
+Skil grip~
+Skil lore~
+Skil parry~
+Skil rescue~
+Skil shield block~
+Skil third attack~
+Skil weaponsmaster~
+End
+
+#GROUP
+Name lich basics~
+Skil scythe~
+End
+
+#GROUP
+Name lich default~
+Skil beguiling~
+Skil detection~
+Skil disarm~
+Skil dodge~
+Skil enhancement~
+Skil fast healing~
+Skil hand to hand~
+Skil illusion~
+Skil maladictions~
+Skil shield block~
+Skil transportation~
+End
+
+#GROUP
+Name mage basics~
+Skil dagger~
+End
+
+#GROUP
+Name mage default~
+Skil beguiling~
+Skil combat~
+Skil detection~
+Skil enhancement~
+Skil illusion~
+Skil maladictions~
+Skil protective~
+Skil shielding~
+Skil transportation~
+Skil weather~
+End
+
+#GROUP
+Name maladictions~
+Skil blindness~
+Skil bloodbath~
+Skil change sex~
+Skil curse~
+Skil diminish~
+Skil energy drain~
+Skil heresy~
+Skil locust swarm~
+Skil nightmare~
+Skil plague~
+Skil poison~
+Skil slow~
+Skil voodoo~
+Skil weaken~
+End
+
+#GROUP
+Name necromancer basics~
+Skil scythe~
+End
+
+#GROUP
+Name necromancer default~
+Skil beguiling~
+Skil detection~
+Skil disarm~
+Skil dodge~
+Skil enhancement~
+Skil fast healing~
+Skil hand to hand~
+Skil illusion~
+Skil maladictions~
+Skil shield block~
+Skil transportation~
+End
+
+#GROUP
+Name prayer~
+Skil devotion~
+Skil divine aura~
+Skil divine blessing~
+Skil divine heal~
+Skil divine truth~
+Skil divinity~
+Skil holy word~
+End
+
+#GROUP
+Name priest basics~
+Skil hand to hand~
+Skil mace~
+End
+
+#GROUP
+Name priest default~
+Skil attack~
+Skil benedictions~
+Skil creation~
+Skil curative~
+Skil detection~
+Skil flail~
+Skil healing~
+Skil maladictions~
+Skil protective~
+Skil shield block~
+Skil transportation~
+Skil weather~
+End
+
+#GROUP
+Name protective~
+Skil armor~
+Skil awen~
+Skil barkskin~
+Skil cancellation~
+Skil dispel magic~
+Skil fireproof~
+Skil golden armor~
+Skil protection evil~
+Skil protection good~
+Skil protection neutral~
+Skil protection voodoo~
+Skil sanctuary~
+Skil shield~
+Skil steel skin~
+Skil stone skin~
+Skil vigorize~
+End
+
+#GROUP
+Name ranger basics~
+Skil dagger~
+Skil detect terrain~
+Skil track~
+End
+
+#GROUP
+Name ranger default~
+Skil beguiling~
+Skil curative~
+Skil dual wield~
+Skil enhanced damage~
+Skil hand to hand~
+Skil healing~
+Skil kick~
+Skil parry~
+Skil protective~
+Skil third attack~
+Skil transportation~
+Skil weaponsmaster~
+End
+
+#GROUP
+Name rogue basics~
+Skil dagger~
+Skil steal~
+End
+
+#GROUP
+Name rogue default~
+Skil backstab~
+Skil circle~
+Skil disarm~
+Skil dodge~
+Skil hide~
+Skil lore~
+Skil mace~
+Skil peek~
+Skil pick lock~
+Skil second attack~
+Skil sneak~
+Skil sword~
+Skil trip~
+End
+
+#GROUP
+Name rom basics~
+Skil recall~
+Skil scrolls~
+Skil staves~
+Skil wands~
+End
+
+#GROUP
+Name sage basics~
+Skil detect terrain~
+Skil hack~
+Skil polearm~
+End
+
+#GROUP
+Name sage default~
+Skil attack~
+Skil benedictions~
+Skil combat~
+Skil creation~
+Skil curative~
+Skil healing~
+Skil protective~
+Skil second attack~
+Skil shield block~
+Skil weather~
+End
+
+#GROUP
+Name shielding~
+Skil acidshield~
+Skil fireshield~
+Skil iceshield~
+Skil mana shield~
+Skil rockshield~
+Skil shockshield~
+Skil shrapnelshield~
+Skil thornshield~
+Skil vampiricshield~
+Skil watershield~
+End
+
+#GROUP
+Name strider basics~
+Skil dagger~
+Skil detect terrain~
+Skil track~
+End
+
+#GROUP
+Name strider default~
+Skil beguiling~
+Skil curative~
+Skil dual wield~
+Skil enhanced damage~
+Skil hand to hand~
+Skil healing~
+Skil kick~
+Skil parry~
+Skil protective~
+Skil third attack~
+Skil transportation~
+Skil weaponsmaster~
+End
+
+#GROUP
+Name thief basics~
+Skil dagger~
+Skil steal~
+End
+
+#GROUP
+Name thief default~
+Skil backstab~
+Skil circle~
+Skil disarm~
+Skil dodge~
+Skil dual wield~
+Skil hide~
+Skil lore~
+Skil mace~
+Skil peek~
+Skil pick lock~
+Skil second attack~
+Skil sneak~
+Skil sword~
+Skil trip~
+End
+
+#GROUP
+Name transportation~
+Skil blink~
+Skil fly~
+Skil gate~
+Skil nexus~
+Skil pass door~
+Skil portal~
+Skil summon~
+Skil teleport~
+Skil transport~
+Skil word of recall~
+End
+
+#GROUP
+Name warlock basics~
+Skil dagger~
+End
+
+#GROUP
+Name warlock default~
+Skil anti spellcaster~
+Skil combat~
+Skil detection~
+Skil maladictions~
+Skil second attack~
+Skil shield block~
+Skil shielding~
+Skil sword~
+End
+
+#GROUP
+Name warrior basics~
+Skil berserk~
+Skil sword~
+End
+
+#GROUP
+Name warrior default~
+Skil bash~
+Skil disarm~
+Skil enhanced damage~
+Skil fourth attack~
+Skil lore~
+Skil parry~
+Skil rescue~
+Skil second attack~
+Skil shield block~
+Skil third attack~
+Skil weaponsmaster~
+End
+
+#GROUP
+Name weaponsmaster~
+Skil axe~
+Skil dagger~
+Skil flail~
+Skil hammer~
+Skil katana~
+Skil mace~
+Skil polearm~
+Skil quarterstaff~
+Skil scythe~
+Skil spear~
+Skil sword~
+Skil whip~
+End
+
+#GROUP
+Name weather~
+Skil acid storm~
+Skil call lightning~
+Skil control weather~
+Skil downpour~
+Skil earthquake~
+Skil electrical storm~
+Skil faerie fire~
+Skil faerie fog~
+Skil fire storm~
+Skil lightning bolt~
+Skil snow storm~
+End
+
+#GROUP
+Name wiccan basics~
+Skil dagger~
+End
+
+#GROUP
+Name wiccan default~
+Skil anti spellcaster~
+Skil combat~
+Skil detection~
+Skil maladictions~
+Skil second attack~
+Skil shield block~
+Skil shielding~
+Skil sword~
+End
+
+#GROUP
+Name witch basics~
+Skil dagger~
+End
+
+#GROUP
+Name witch default~
+Skil anti spellcaster~
+Skil combat~
+Skil detection~
+Skil maladictions~
+Skil second attack~
+Skil shield block~
+Skil shielding~
+Skil sword~
+End
+
+#GROUP
+Name wizard basics~
+Skil dagger~
+End
+
+#GROUP
+Name wizard default~
+Skil beguiling~
+Skil combat~
+Skil detection~
+Skil enhancement~
+Skil illusion~
+Skil maladictions~
+Skil protective~
+Skil shielding~
+Skil transportation~
+Skil weather~
+End
+
+#END

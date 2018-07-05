@@ -1,0 +1,738 @@
+#AOD_AREA
+Arena~
+55200 55250 ADE 9
+Levl 1 151
+Bldr Staff~
+End
+
+#MOBILES
+#55200
+Otis~
+{rOtis{X~
+A tall bearded man is here, apparently deep in thought.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABDa 0 0 -3000 0
+300 392 0 24787 26193 24922 25996 48 53 429 none
+-722 -619 -711 -639
+STANDING STANDING neutral 7866
+0 mage medium ABCDEFGHIJK
+#0
+
+#ROOMS
+#55200
+{DCenter of the Arena{x~
+~
+2 0
+D0
+~
+~
+0 0 55201
+D1
+~
+~
+0 0 55202
+D2
+~
+~
+0 0 55204
+D3
+~
+~
+0 0 55203
+S
+
+#55201
+{DEntrance to Northern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55205
+D2
+~
+~
+0 0 55200
+S
+
+#55202
+{DEntrance to Eastern Cage{x~
+~
+2 0
+D1
+~
+~
+0 0 55214
+D3
+~
+~
+0 0 55200
+S
+
+#55203
+{DEntrance to Western Cage{x~
+~
+2 0
+D1
+~
+~
+0 0 55200
+D3
+~
+~
+0 0 55223
+S
+
+#55204
+{DEntrance to Southern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55200
+D2
+~
+~
+0 0 55232
+S
+
+#55205
+{DInside the Northern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55206
+D1
+~
+~
+0 0 55211
+D2
+~
+~
+0 0 55201
+D3
+~
+~
+0 0 55210
+S
+
+#55206
+{DCenter the Northern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55207
+D1
+~
+~
+0 0 55212
+D2
+~
+~
+0 0 55205
+D3
+~
+~
+0 0 55209
+S
+
+#55207
+{DInside the Northern Cage{x~
+~
+2 0
+D1
+~
+~
+0 0 55213
+D2
+~
+~
+0 0 55206
+D3
+~
+~
+0 0 55208
+S
+
+#55208
+{DInside the Northern Cage{x~
+~
+2 0
+D1
+~
+~
+0 0 55207
+D2
+~
+~
+0 0 55209
+S
+
+#55209
+{DInside the Northern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55208
+D1
+~
+~
+0 0 55206
+D2
+~
+~
+0 0 55210
+S
+
+#55210
+{DInside the Northern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55209
+D1
+~
+~
+0 0 55205
+S
+
+#55211
+{DInside the Northern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55212
+D3
+~
+~
+0 0 55205
+S
+
+#55212
+{DInside the Northern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55213
+D2
+~
+~
+0 0 55211
+D3
+~
+~
+0 0 55206
+S
+
+#55213
+{DInside the Northern Cage{x~
+~
+2 0
+D2
+~
+~
+0 0 55212
+D3
+~
+~
+0 0 55207
+S
+
+#55214
+{DInside the Eastern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55219
+D1
+~
+~
+0 0 55215
+D2
+~
+~
+0 0 55220
+D3
+~
+~
+0 0 55202
+S
+
+#55215
+{DCenter the Eastern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55218
+D1
+~
+~
+0 0 55216
+D2
+~
+~
+0 0 55221
+D3
+~
+~
+0 0 55214
+S
+
+#55216
+{DInside the Eastern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55217
+D2
+~
+~
+0 0 55222
+D3
+~
+~
+0 0 55215
+S
+
+#55217
+{DInside the Eastern Cage{x~
+~
+2 0
+D2
+~
+~
+0 0 55216
+D3
+~
+~
+0 0 55218
+S
+
+#55218
+{DInside the Eastern Cage{x~
+~
+2 0
+D1
+~
+~
+0 0 55217
+D2
+~
+~
+0 0 55215
+D3
+~
+~
+0 0 55219
+S
+
+#55219
+{DInside the Eastern Cage{x~
+~
+2 0
+D1
+~
+~
+0 0 55218
+D2
+~
+~
+0 0 55214
+S
+
+#55220
+{DInside the Eastern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55214
+D1
+~
+~
+0 0 55221
+S
+
+#55221
+{DInside the Eastern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55215
+D1
+~
+~
+0 0 55222
+D3
+~
+~
+0 0 55220
+S
+
+#55222
+{DInside the Eastern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55216
+D3
+~
+~
+0 0 55221
+S
+
+#55223
+{DInside the Western Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55228
+D1
+~
+~
+0 0 55203
+D2
+~
+~
+0 0 55231
+D3
+~
+~
+0 0 55224
+S
+
+#55224
+{DCenter the Western Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55227
+D1
+~
+~
+0 0 55223
+D2
+~
+~
+0 0 55230
+D3
+~
+~
+0 0 55225
+S
+
+#55225
+{DInside the Western Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55226
+D1
+~
+~
+0 0 55224
+D2
+~
+~
+0 0 55229
+S
+
+#55226
+{DInside the Western Cage{x~
+~
+2 0
+D1
+~
+~
+0 0 55227
+D2
+~
+~
+0 0 55225
+S
+
+#55227
+{DInside the Western Cage{x~
+~
+2 0
+D1
+~
+~
+0 0 55228
+D2
+~
+~
+0 0 55224
+D3
+~
+~
+0 0 55226
+S
+
+#55228
+{DInside the Western Cage{x~
+~
+2 0
+D2
+~
+~
+0 0 55223
+D3
+~
+~
+0 0 55227
+S
+
+#55229
+{DInside the Western Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55225
+D1
+~
+~
+0 0 55230
+S
+
+#55230
+{DInside the Western Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55224
+D1
+~
+~
+0 0 55231
+D3
+~
+~
+0 0 55229
+S
+
+#55231
+{DInside the Western Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55223
+D3
+~
+~
+0 0 55230
+S
+
+#55232
+{DInside the Southern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55204
+D1
+~
+~
+0 0 55238
+D2
+~
+~
+0 0 55233
+D3
+~
+~
+0 0 55237
+S
+
+#55233
+{DCenter the Southern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55232
+D1
+~
+~
+0 0 55239
+D2
+~
+~
+0 0 55234
+D3
+~
+~
+0 0 55236
+S
+
+#55234
+{DInside the Southern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55233
+D1
+~
+~
+0 0 55240
+D3
+~
+~
+0 0 55235
+S
+
+#55235
+{DInside the Southern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55236
+D1
+~
+~
+0 0 55234
+S
+
+#55236
+{DInside the Southern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55237
+D1
+~
+~
+0 0 55233
+D2
+~
+~
+0 0 55235
+S
+
+#55237
+{DInside the Southern Cage{x~
+~
+2 0
+D1
+~
+~
+0 0 55232
+D2
+~
+~
+0 0 55236
+S
+
+#55238
+{DInside the Southern Cage{x~
+~
+2 0
+D2
+~
+~
+0 0 55239
+D3
+~
+~
+0 0 55232
+S
+
+#55239
+{DInside the Southern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55238
+D2
+~
+~
+0 0 55240
+D3
+~
+~
+0 0 55233
+S
+
+#55240
+{DInside the Southern Cage{x~
+~
+2 0
+D0
+~
+~
+0 0 55239
+D3
+~
+~
+0 0 55234
+S
+
+#55241
+{DPreparation Chamber{x~
+~
+9216 0
+S
+
+#55242
+{DWinner's Chamber{X~
+~
+0 0
+S
+
+#55243
+{DLoser's Chamber{x~
+~
+0 0
+S
+#0
+
+#$

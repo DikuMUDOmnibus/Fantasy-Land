@@ -1,0 +1,978 @@
+#AOD_AREA
+Castle Of Eternity~
+39000 39099 C 9
+Levl 0 0
+End
+
+#MOBILES
+#39000
+Embla~
+Embla~
+Embla is standing here, chanting something...
+~
+This is Embla, left here by the gods to watch over the Hero's souls.
+It might be a bad thing to let her find out you have slain some of
+those souls....hmmm, a tactical retreat might be in order.
+~
+human~
+100 100 0 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 
+AG PTVc EH -1000 0
+175 400 0 13544 15599 607 741 45 75 175 divine
+-500 -500 -500 -200
+STANDING STANDING female 3000
+0 mage medium 0
+M GRALL 39001 1000~
+M GRALL 39001 1000~
+
+#39001
+Jayden~
+Jayden~
+Jayden stands here with his blade in hand
+~
+~
+human~
+150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG Vac 0 1000 0
+140 500 0 11975 13804 82 125 30 90 100 slice
+-500 -500 -400 -350
+STANDING STANDING neutral 30000
+0 mage medium AK
+
+#39002
+Linfor~
+Linfor~
+Linfor stands here looking at something
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGR V ACDEHN 1000 0
+140 400 0 9542 10725 656 898 20 60 75 wrath
+-300 -300 -300 -400
+STANDING STANDING female 30000
+0 mage medium AK
+
+#39003
+Balroth~
+Balroth~
+Balroth stands here praying
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG Vc CDEH 1000 0
+140 400 0 9254 10492 48 82 30 50 75 wrath
+-500 -500 -500 -370
+STANDING STANDING male 30000
+0 mage medium ACJ
+
+#39004
+Karen~
+Karen~
+Karen stands here reading a book
+~
+~
+human~
+150 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 
+AG Vac H 1000 0
+140 700 0 8432 9056 46 85 30 50 85 slice
+-400 -400 -400 -350
+STANDING STANDING female 40000
+0 mage medium ABCK
+
+#39005
+Modi~
+Modi~
+Modi stands here, chanting
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABGa 0 H 1000 0
+115 500 0 50001 50001 50001 50001 1 1 5000 wrath
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium 0
+
+#39006
+idiots little helper~
+f~
+Bree's lil helper stands here
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 H 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 400000
+0 mage medium 0
+
+#39007
+a castle warrior~
+a Castle Warrior~
+A Castle Warrior stands here, watching you closely
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG Vc 0 1000 0
+135 400 0 6967 7573 46 82 30 50 100 slice
+0 0 0 0
+STANDING STANDING male 60000
+0 mage medium ABCK
+
+#39008
+General Barok~
+General Barok~
+The General stands here, yelling at his troops
+~
+He's lean, he's mean....ehhh Maybe you shouldn't mess with him.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFG Vc H 1000 0
+161 550 0 9286 10010 46 89 30 65 110 thwack
+-600 -600 -600 -450
+STANDING STANDING male 1000
+0 mage medium ABCJK
+
+#39009
+castle guard~
+Castle guard~
+A castle guard is here, protecting something
+~
+~
+human~
+150 50 100 100 100 100 100 100 0 100 50 100 100 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABFG PQVac H 1000 0
+155 500 0 11395 12087 43 84 25 65 105 slice
+-600 -600 -600 -450
+STANDING STANDING neutral 50000
+0 mage large ABCK
+
+#39010
+Ymir~
+Ymir~
+Ymir stands here, polishing his blade
+~
+~
+human~
+150 100 100 50 100 100 50 100 0 100 0 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 
+ABG Vc CH 1000 0
+155 450 0 11628 12417 100 163 30 65 110 wrath
+-500 -500 -500 -250
+STANDING STANDING neutral 0
+0 mage medium ABCJK
+
+#39011
+a servant~
+a servant~
+A servant to the castle is here.
+~
+~
+human~
+150 100 100 100 100 100 100 100 0 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG V 0 1000 0
+110 250 0 8813 9353 43 78 25 35 90 claw
+-450 -450 -450 -250
+STANDING STANDING male 0
+0 mage medium ABCK
+
+#39024
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium 0
+
+#39025
+bitch~
+Bree's Bitch~
+Bree's Bitch is here, waiting on Bree's orders.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+A 0 0 0 0
+100 0 0 2 2 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium 0
+M DEATH 39025 1000~
+#0
+
+#OBJECTS
+#39001
+Cloak of the enlightened~
+cloak of the enlightened~
+An enlightened cloak lies here, pulsating~
+armor AIKX AD
+20 20 20 20 0
+101 3 10000
+A 3 2
+A 4 2
+A 5 2
+
+#39002
+a small bench~
+a small bench~
+A small bench is here~
+furniture X 0
+2 600 EHK 300 400
+0 0 0
+
+#39003
+a waiting bench~
+a waiting bench~
+A waiting bench is here~
+furniture X 0
+2 500 EH 50 50
+0 0 0
+
+#39004
+Castle blade~
+a castle blade~
+A castle sword lies here~
+weapon X AN
+sword 9 23 slice DH
+101 5 10000
+A 18 -8
+
+#39005
+wisdom ages blessed orb~
+wisdom of the Ages~
+A blessed orb is floating over your head.~
+armor ABIKX AQ
+15 15 15 15 0
+101 1 10000
+A 9 3
+A 3 1
+A 4 1
+A 19 15
+
+#39006
+jayden bloody rage~
+{1B{!lo{1od{1y {^R{6a{^g{6e{x~
+Jayden's famed sword, Bloody Rage, lies here.~
+weapon KX AN
+sword 6 34 wrath 0
+101 4 10000
+A 19 15
+
+#39007
+earrings sympathy karen~
+{7E{*a{7rr{*ing{7s {&of {@Sympathy{x~
+A pair of Karen's earrings lie here.~
+armor KX AS
+15 15 15 15 0
+101 2 10000
+A 19 14
+A 2 2
+A 1 1
+
+#39008
+Book of Embla~
+book of Embla~
+A pulsating book lies here~
+armor AIKX AO
+0 0 0 0 0
+101 1 10000
+A 9 5
+A 19 15
+A 18 5
+A 4 2
+
+#39009
+flail command~
+{xFlail of Command~
+A flail radiating an aura of command lies here.~
+weapon X AN
+flail 6 33 beating EF
+101 3 10000
+A 1 2
+A 5 2
+A 18 7
+A 19 7
+A 2 1
+
+#39010
+Holy legplates~
+holy legplates~
+Legplates lie here, glowing.~
+armor AIKX AF
+19 19 19 15 0
+101 3 10000
+A 18 8
+A 19 12
+A 1 2
+
+#39011
+Castle ring~
+castle ring~
+A Castle ring is lying here~
+jewelry AIKX AB
+0 0 0 0 0
+101 2 10000
+A 17 -15
+A 9 4
+A 18 7
+A 19 10
+A 4 2
+
+#39012
+no name~
+(no short description)~
+(no description)~
+pill X 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0
+
+#39096
+Free Slay Coupon~
+a Free {!Slay{X {$C{4oupo{$n{X~
+A Free {!Slay{X {$C{4oupo{$n{X lies on the ground here.~
+trash X AO
+0 0 0 0 0
+0 0 0
+
+#39097
+f~
+f~
+F~
+armor X AE
+30 30 30 30 0
+101 0 100000
+A 19 32
+A 18 32
+A 17 -40
+F A 0 0 L
+A 13 200
+
+#39098
+boo~
+boo~
+Boo~
+potion X A
+100 'blindness' 'blindness' 'reserved' 'reserved'
+0 0 0
+
+#39099
+Mortal's bag~
+mortal's bag~
+Boo!~
+container X A
+100000 0 0 30000 500
+0 0 0
+#0
+
+#ROOMS
+#39000
+Entrance to the Castle~
+Before you stands a castle of unimaginable proportion.  The walls are atleast
+seven or eight stories high.  The castle is made of a material you've not seen
+before, it has an almost shiny quality to it. The entrance in is north.
+~
+0 0
+D0
+~
+~
+0 0 39001
+S
+
+#39001
+Castle's Foyer~
+You are now in the foyer of this great castle. Along the walls, hung above
+the doors are pictures of various hero's that once fought for the greater good
+in Thera. Each door is about nine feet tall and made of solid iron. As you
+glance at the doors you see your reflection and wonder, maybe you could be a
+hero someday...
+~
+4 0
+D0
+~
+~
+0 0 39004
+D1
+~
+~
+AB 0 39003
+D2
+~
+~
+0 0 39000
+D3
+~
+~
+AB 0 39002
+S
+
+#39002
+Linfor's corner~
+Ah yes, Linfor, the most enlightened Hero in the castle. She would spent day
+in and day out studying ancient scrolls and texts to increase her knowlage.
+She was prehaps the most helpful guide these holy warriors had. Her guidance
+would make even the most corrupted of heart, a true beleiver in the holy path.
+~
+0 0
+D1
+~
+~
+AB 0 39001
+S
+
+#39003
+Jayden's smite~
+Upon entering, you can smell the scent of death all around you. Jayden, 
+although pure of heart, was prehaps the most vicious warrior of all. He
+would enter battle with a fury not known to any other mortal, his speed
+and agility would allow him to emerge from battle with ease. 
+~
+0 0
+D3
+~
+~
+A 0 39001
+S
+
+#39004
+A bright hallway~
+You are walking down a well lit hallway, all the walls are shiny and the
+ceiling is about twenty feet tall, you begin to wonder what kind of person
+would need such a big hallway. There are two doors to your East and West, and
+the hallway continues North.
+~
+4 0
+D0
+~
+~
+0 0 39007
+D1
+~
+~
+AB 0 39006
+D2
+~
+~
+0 0 39001
+D3
+~
+~
+AB 0 39005
+S
+
+#39005
+Balroth's enlightenment~
+You enter the room of Balroth, he was one of the greatest wizards alive.
+No mortal could match his sorcery or his kindness for that matter. He would
+help anyone in need, good, evil, whatever it did not matter to him. Some
+say that was his downfall, because his death was on the blade of tainted soul
+whom was tricked into helping.
+~
+0 0
+D1
+~
+~
+A 0 39004
+S
+
+#39006
+Karen's sympathy~
+Upon entering this room, Karen smiles at you and bows her head. She was not
+the strongest warrior, or the fastest, her faith was her strength. She would
+enter battle ready to die for her beleifs, a true role model for any pure and
+holy mortal.
+~
+0 0
+D3
+~
+~
+A 0 39004
+S
+
+#39007
+A bright hallway~
+As you continue to walk down the hallway, you notice there are no more doors
+to your sides. Ahead you can't see much, its much to bright, you wonder what
+lies ahead...
+~
+0 0
+D0
+~
+~
+0 0 39008
+D2
+~
+~
+0 0 39004
+S
+
+#39008
+A fork in the hallway~
+A fork in the road eh? which way will you chose? Careful now, you don't
+want to pick the wrong way....
+~
+4 0
+D0
+~
+~
+AB 0 39014
+D1
+~
+~
+0 0 39010
+D2
+~
+~
+0 0 39007
+D3
+~
+~
+0 0 39009
+S
+
+#39009
+A long hallway~
+Man! You can hardly see its so damn bright in here, its almost like staring
+into the sun itself! You can make out a room to the North, but not much more.
+If you want to chance it, you can try and stumble North...
+~
+0 0
+D0
+~
+~
+0 0 39011
+D1
+~
+~
+0 0 39008
+S
+
+#39010
+A short hallway~
+Walking down this short hallway, you stop to admire the various pictures
+on the wall. Most near full body paintings of men you have not seen before.
+But you admire them anyway because what else are you gonna do?
+~
+0 0
+D1
+~
+~
+0 0 39015
+D3
+~
+~
+0 0 39008
+S
+
+#39011
+A long hallway~
+Man! You can hardly see its do damn bright in here, its almost like staring
+into the sun itself! You can make out a room to the North, but not much more.
+If you want to chance it, you can try and stumble North...
+~
+0 0
+D0
+~
+~
+0 0 39012
+D2
+~
+~
+0 0 39009
+S
+
+#39012
+End of the hallway~
+Finaly, the light starts to dim out as you aproach a stairwell. You can make
+out the smell of incense and candle's comming from below you. You wonder what
+or who is down there.
+~
+4 0
+D2
+~
+~
+0 0 39011
+D5
+~
+~
+0 0 39013
+S
+
+#39013
+Embla's protection~
+You have entered the room of Embla, the first women ever created in Norse
+Mythology. Wow, the myths must be true, she has been given the task to watch
+over the souls of the Hero's the dwell within this castle. There are many
+pictures in this room, you can make out the faces of Vili and Ve, two of the
+three Gods that created her. It would be a bad thing for her to find out you
+have slain the Hero's souls that she has be sent to watch over...
+~
+0 0
+D4
+~
+~
+0 0 39012
+S
+
+#39014
+Modi's dwelling~
+As you enter the room you see Modi, surrounded by candel's and scrolls. He
+was once the healer of these divine Heros, but now, with nobody left to
+heal, he offers his services to anyone whom may need them.
+~
+256 0
+D2
+~
+~
+AB 0 39008
+S
+
+#39015
+Bottom of a stairwell~
+You have reached a set of stairs that lead up to the second floor of the
+castle, dare you go up them?
+~
+0 0
+D3
+~
+~
+0 0 39010
+D4
+~
+~
+0 0 39016
+S
+
+#39016
+Walking a stairwell~
+Plain ol' concrete stairs, they will take you to the first or second floor
+of the castle depending on which way your walking them.
+~
+0 0
+D4
+~
+~
+0 0 39017
+D5
+~
+~
+0 0 39015
+S
+
+#39017
+Top of the stairwell~
+You have reached the top of the stairwell at last, trying to catch your
+breath you notice the only exit is North. All fine and well, just hope
+there are no more stairs to climb.
+~
+0 0
+D0
+~
+~
+0 0 39018
+D5
+~
+~
+0 0 39016
+S
+
+#39018
+Second level of the castle~
+You have risen to the second level of this glorious castle. You hear lots
+of noise comming from the west and you see a few people running around to
+the north and west. You wonder whats up here.
+~
+0 0
+D0
+~
+~
+0 0 39024
+D2
+~
+~
+0 0 39017
+D3
+~
+~
+0 0 39019
+S
+
+#39019
+Warrior housing~
+You have entered the place where the troops are housed while they stay
+at the castle. They have been put here for protection incase Embla was
+not up to her duty. Many of the finest warriors through out the land
+volenteer for this job, but only few are chosen.
+~
+0 0
+D0
+~
+~
+0 0 39021
+D1
+~
+~
+0 0 39018
+D2
+~
+~
+0 0 39020
+D3
+~
+~
+0 0 39022
+S
+
+#39020
+Warrior housing~
+Beds line the wall here but hardly anybody is home, you begin to wonder
+where can all the warriors be?
+~
+0 0
+D0
+~
+~
+0 0 39019
+S
+
+#39021
+Warrior housing~
+Beds line the wall here but hardly anybody is home, you begin to wonder
+where can all the warriors be?
+~
+0 0
+D2
+~
+~
+0 0 39019
+S
+
+#39022
+Waiting room~
+You have entered the waiting room for the General. There is a secretary's
+desk in the corner near the door, however there is nobody in the room but
+you. Prehaps it is because nobody ever leaves the General's office alive
+after delivering bad news.
+~
+0 0
+D1
+~
+~
+0 0 39019
+D3
+~
+~
+AB 0 39023
+S
+
+#39023
+General's office~
+There are maps and war plans thrown all over the place in the office.
+You can tell the General is a very busy man, he doesn't even notice you
+when you first enter the room, but now he has, oh my, now he has.
+Running might be in order...
+~
+0 0
+D1
+~
+~
+AB 0 39022
+S
+
+#39024
+A hallway~
+You are walking down a short hallway, the walls are very plain and appear to
+be made of wood. The carpet is red and long, and looks so nice, you don't
+wanna get it messed up with your boots.
+~
+0 0
+D0
+~
+~
+0 0 39025
+D2
+~
+~
+0 0 39018
+S
+
+#39025
+A hallway~
+You are walking down a short hallway, the walls are very plain and appear to
+be made of wood. The carpet is red and long, and looks so nice, you don't
+wanna get it messed up with your boots.
+~
+0 0
+D2
+~
+~
+0 0 39024
+D4
+~
+~
+0 0 39026
+S
+
+#39026
+A small ladder~
+You are climbing up a small ladder to what appears to be the entrance to
+a loft of some kind, you wonder where it leads...
+~
+0 0
+D0
+~
+~
+0 0 39027
+D5
+~
+~
+0 0 39025
+S
+
+#39027
+Entrance to Ymir's chambers~
+You are standing before the door to some bed chambers, the entrance is North.
+Well that is if you can get past these guards ofcourse.
+~
+0 0
+D0
+~
+~
+AB 0 39028
+D2
+~
+~
+0 0 39026
+S
+
+#39028
+Ymir's chambers~
+Paintings line the walls in this room, there is a rather comfertable looking
+bed in the center of the room, Ymir, prehaps the greatest Hero of Thera's time
+is standing infront of you, wondering why you have disturbed him. He looks
+nice enough, but don't let his exterior fool you, he could kill you with a
+mear thought.
+~
+0 0
+D2
+~
+~
+AB 0 39027
+S
+
+#39097
+~
+~
+4 0
+S
+
+#39099
+Bree's sanctuary~
+,0,                                        ,0,
+   )'(                                        )'(
+   )'(                                        )'(
+   )'(           --The Legend of Bree--       )'(
+o=======o                                  o=======o
+   |.|           Wolfriders <Vice Leader>     |.|
+   |.|                   30 Pkills            |.|
+   |.|                   0 Pdeaths            |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   |.|                                        |.|
+   \ /                                        \ /
+    '                                          '
+~
+524292 0
+S
+#0
+
+#RESETS
+D 100 39001 1 1
+D 100 39001 3 1
+D 100 39002 1 1
+D 100 39004 1 1
+D 100 39004 3 1
+D 100 39008 0 1
+D 100 39014 2 1
+D 100 39022 3 1
+D 100 39023 1 1
+D 100 39027 0 1
+D 100 39028 2 1
+M 100 39002 1 39002 1
+E 100 39005 0 18
+M 100 39001 1 39003 1
+E 100 39006 0 16
+M 100 39003 1 39005 1
+E 100 39001 0 13
+M 100 39004 1 39006 1
+E 100 39007 0 21
+M 100 39011 3 39008 1
+M 100 39011 3 39010 1
+M 100 39000 1 39013 1
+E 100 39008 0 17
+M 100 39005 1 39014 1
+O 100 39002 0 39014
+M 100 39011 3 39017 1
+M 100 39007 5 39019 1
+E 100 39004 0 16
+M 100 39007 5 39020 1
+E 100 39004 0 16
+M 100 39007 5 39020 2
+E 100 39004 0 16
+M 100 39007 5 39021 1
+E 100 39004 0 16
+M 100 39007 5 39021 2
+E 100 39004 0 16
+O 100 39003 0 39022
+M 100 39008 1 39023 1
+E 100 39009 0 16
+M 100 39009 2 39027 2
+M 100 39009 2 39027 2
+M 100 39010 1 39028 1
+E 100 39010 0 7
+E 100 39011 0 1
+S
+
+#SHOPS
+39006 0 5 0 0 0 100 100 0 23
+0
+
+#MOBPROGS
+#39000
+Unknown~
+Unknown~
+say Welcome to my room!
+~
+
+#39001
+Unknown~
+Unknown~
+growl
+say You have slain the souls of the Heros in this castle, you will pay!
+~
+
+#39025
+Unknown~
+Unknown~
+mob oload randobj
+mob oload randobj
+mob oload randobj
+mob oload randobj
+~
+#0
+
+#$

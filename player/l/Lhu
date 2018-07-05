@@ -1,0 +1,449 @@
+#PLAYER
+Name Lhu~
+Race human~
+Levl 6
+Clas acolyte~
+Pkpt 100
+TSex 2
+LogO 1279532090
+Sock c-98-250-217-189.hsd1.mi.comcast.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1279530425
+Plat 0
+Gold 10
+Silv 68
+Exp  18878
+Attr 16 18 18 18 20
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+AfBy LV
+ShBy CDE
+Comm N
+Config I
+Pos  8
+Sk 1 'acid blast'
+Sk 1 'acidshield'
+Sk 1 'animate'
+Sk 1 'blindness'
+Sk 1 'blink'
+Sk 1 'blizzard'
+Sk 1 'bloodbath'
+Sk 1 'burning hands'
+Sk 1 'chain lightning'
+Sk 1 'change sex'
+Sk 1 'charm person'
+Sk 1 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'constitution'
+Sk 1 'curse'
+Sk 1 'darkvision'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect neutral'
+Sk 1 'detect poison'
+Sk 1 'diminish'
+Sk 1 'energy drain'
+Sk 1 'farsight'
+Sk 1 'fireball'
+Sk 1 'fireshield'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'giant strength'
+Sk 1 'growth'
+Sk 1 'haste'
+Sk 1 'heresy'
+Sk 1 'iceshield'
+Sk 1 'icicle'
+Sk 1 'identify'
+Sk 43 'infravision'
+Sk 1 'intellect'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'lightning bolt'
+Sk 1 'locate object'
+Sk 1 'locust swarm'
+Sk 1 'luminrati'
+Sk 1 'magic missile'
+Sk 1 'mana shield'
+Sk 1 'mana tap'
+Sk 1 'mass invis'
+Sk 1 'nexus'
+Sk 1 'nightmare'
+Sk 1 'pass door'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'portal'
+Sk 1 'refresh'
+Sk 1 'regeneration'
+Sk 1 'resurrect'
+Sk 1 'rockshield'
+Sk 1 'shocking grasp'
+Sk 1 'shockshield'
+Sk 1 'shrapnelshield'
+Sk 1 'shrink'
+Sk 1 'sleep'
+Sk 1 'slow'
+Sk 1 'summon'
+Sk 1 'swarm'
+Sk 1 'teleport'
+Sk 1 'thornshield'
+Sk 1 'transport'
+Sk 1 'vampiricshield'
+Sk 1 'ventriloquate'
+Sk 1 'voodoo'
+Sk 1 'watershield'
+Sk 1 'weaken'
+Sk 1 'wisdom'
+Sk 1 'wizard eye'
+Sk 1 'word of recall'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'fast healing'
+Sk 41 'hand to hand'
+Sk 1 'meditation'
+Sk 50 'recall'
+Sk 22 'scrolls'
+Sk 1 'shield block'
+Sk 43 'staves'
+Sk 1 'wands'
+MaxDam 40
+LLev 0
+Pass LhRQdwmsSiCXk~
+Plyd 1665
+Note 0 0 0 0 0
+Room 3762
+HMVN 389 264 528 418 220 191
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 13 13
+Deviant 0 0
+Prac 45
+Trai 10
+Devote current 0
+Pnts 57
+Mkil 19
+Mdea 1
+Gr 'acolyte basics'
+Gr 'acolyte default'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'detection'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'rom basics'
+Gr 'shielding'
+Gr 'transportation'
+Affc 'farsight'   0   1   0  -1   0   0       2048
+Affc 'iceshield'   1  90   0   9   0   0          4
+Affc 'bless'   0 278   0  81 -35  20          0
+Affc 'bless'   0 275   0  81  35  18          0
+Affc 'shield'   0 272   0  50 -91  17          0
+Affc 'fireshield'   1 277   0  43   0   0          8
+Affc 'armor'   0 288   0  40 -292  17          0
+Affc 'shockshield'   1 273   0  41   0   0         16
+Affc 'haste'   0 279   0  52   9   2    2097152
+Affc 'wisdom'   0 290   0  11   9   4          0
+End
+
+#O
+Vnum 3162
+Nest 0
+End
+
+#O
+Vnum 3163
+Nest 0
+End
+
+#O
+Vnum 3169
+Nest 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+Valu 2 1 171
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3706
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 31
+Wear 6
+End
+
+#O
+Vnum 3711
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 31
+Wear 12
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 34
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 34
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 34
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 34
+Wear 3
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 34
+Wear 24
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 34
+End
+
+#O
+Vnum 3708
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 35
+Wear 8
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 35
+Wear 14
+End
+
+#O
+Vnum 3724
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 35
+Wear 1
+End
+
+#O
+Vnum 3719
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 35
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 35
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 35
+Wear 13
+End
+
+#O
+Vnum 3725
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 35
+Wear 26
+End
+
+#O
+Vnum 3701
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 35
+End
+
+#O
+Vnum 3726
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 36
+Wear 21
+End
+
+#O
+Vnum 3700
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 36
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 37
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 37
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 37
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 37
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 38
+Wear 25
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 38
+End
+
+#O
+Vnum 3708
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 39
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 39
+Wear 15
+End
+
+#O
+Vnum 3724
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 39
+Wear 2
+End
+
+#O
+Vnum 3719
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 39
+End
+
+#O
+Vnum 3726
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 41
+Wear 22
+End
+
+#O
+Vnum 3700
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 41
+End
+
+#O
+Vnum 3138
+Nest 0
+End
+
+#O
+Vnum 3031
+Nest 0
+Wear 0
+Valu 2 1 246
+End
+
+#O
+Vnum 3727
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 42
+Wear 20
+End
+
+#O
+Vnum 3728
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 42
+Wear 27
+End
+
+#O
+Vnum 3727
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 43
+End
+
+#O
+Vnum 3728
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 43
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 47
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 47
+End
+
+#O
+Vnum 3725
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 47
+End
+
+#O
+Vnum 3701
+Nest 0
+MULTI Lhu~ c-98-250-217-189.hsd1.mi.comcast.net~ 47
+End
+
+#END

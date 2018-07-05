@@ -1,0 +1,534 @@
+#AREADATA
+Name Jester Clan Hall~
+Builders None~
+VNUMs 29450 29499
+Credits [-CLANS-] Leaper   Jester CH~
+Security 9
+End
+
+
+
+#MOBILES
+#29450
+Red Skelton~
+Red Skelton~
+Red Skelton stands here, tending the bar and making jokes.
+~
+He says `Do you wish to {$learn{x, {&heal{x, {#train{x, or {@LAUGH?{x.
+Red Skelton is standing behind the bar, carefully wiping the varnished
+cherry surface with a rag. He wear his famous hobo costume, and serves
+drinks quickly to those who ask for them.
+~
+human~
+ABGJKQRTVabcd DTUZ HN 1000 0
+180 105 500d5000+5000 1d1+1000 500d5000+5000 magic
+-399 -399 -399 -399
+AGHO ABCDEFGHIJKLMNOPQRS 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge unknown
+#29451
+Bouncer~
+The Bouncer~
+{!Bouncer{x, the Jester Clan Hall Guard, bounces here.
+~
+Bouncer is a unique creature, part djini and part superball. From the
+waist up, he is a powerful djinn of the air, and from the waist down, he
+is a rubber sphere. He bounces here under his own power, ready to bounce
+all over you if you defy him.
+~
+human~
+ABMT DFTVc CDEHN 1000 0
+109 109 1d1+999999 25d5+4000 6d9+24 thwack
+-599 -599 -599 -599
+BEGHW AB 0 0
+stand stand male 5000
+AHLMV ABCDEFGHIJK huge unknown
+#29452
+Robin Williams~
+Robin Williams~
+Robin Williams says, "{$Nanu Nanu{x"
+~
+The older shopkeeper Sam has decided to sell things to younger adventurers
+of the Clan Overseer.
+Robin says, "Oh, {@Earth {xHumor! Ar Ar Ar!"
+Robin stands here, arranging his merchandise carefully. Every so often, he
+stops and strokes his beard, thinking quietly, before making you laugh
+with one of his monologues.
+~
+human~
+ABMV DF 0 1000 0
+100 100 500d5000+5000 1d1+999 500d5000+5000 divine
+-250 -250 -250 -250
+0 ABCDKLQ 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#29450
+couch healing~
+{&A {!c{#o{!u{#c{!h {%o{&f  {@j{$e{!l{%l{#y{^b{&e{!a{#n{%s {!i{&s {!h{@e{$r{^e.{x~
+{&A {!c{#o{!u{#c{!h {@m{$a{@d{$e {%o{&f {!d{@e{#l{$i{%c{^i{&o{$u{#s {#c{@o{%l{$o{#r{@f{%u{$l {@j{$e{!l{%l{#y{^b{&e{!a{#n{%s {!i{&s {!h{@e{$r{^e.{x~
+hardwood~
+furniture AB 0
+20 20000 BCEHIKL 400 400
+0 0 0 P
+#29451
+stage hook~
+{!Giant{x Stage Hook~
+A {!HUGE{x stage hook lies here, radiating the power of {$humor{x~
+hardwood~
+weapon AB N
+polearm 10 38 wrath ABCDEFGH
+109 1000 1 P
+#29452
+steamer trunk~
+The {$Jester's{x {!Steamer Trunk o' Goodies{x~
+A large steamer trunk full of strange things is here~
+~
+pit O 0
+10000 0 0 1000 100
+0 0 0 P
+#29453
+fountain rootbeer~
+The {$Jester's{x Fountain of Endless Rootbeer~
+A soda fountain is here. It pours out endless rootbeer.
+~
+marble~
+fountain G 0
+10000 100000 'root beer' 0 0
+0 0 0 P
+#29454
+jesters ring~
+Ring from a {$Cracker Jack Box{x~
+You see a glowing plastic ring with the {$Jester Clan{x insignia here 
+lying on the ground.
+~
+plastic~
+armor AHMST AB
+0 0 0 0 0
+1 10 1000 P
+A
+19 2
+A
+18 3
+#29455
+jesters cape~
+{$Jester's {8Cape{x of {!Laughter{x~
+A red and black silk cape lays here. You see "{$Jester's{x" on the label.
+~
+silk~
+armor BCGHST AK
+0 0 0 0 0
+1 30 1500 P
+F
+A 2 3 P
+#29456
+Jesters Tunic~
+{$Jester's {!M{#u{@l{$t{5i{7colored{8 Tunic{x~
+A muticolored tunic lays here. You see "{$Jester's{x" on the label.
+~
+silk~
+armor CGHST AD
+0 0 0 0 0
+1 250 5000 P
+A
+19 2
+A
+18 3
+A
+1 2
+#29457
+Jesters Rattle~
+{$Jesters's {@Rattle{x of {!End{1less {5Rattling{x~
+You see a rattle made in the shape of a puppet's head here. You see the
+word "{$Jester's{x" carved into the handle.
+~
+energy~
+light ACGHST AO
+0 0 999 0 0
+40 10 2000 P
+F
+A 0 0 CDEFG
+#29458
+Jesters Slapstick~
+{$Jester's {!Slapstick{x~
+Two thin strips of wood attached to a handle lay here. You see the word
+"{$Jester's{x" carved into the handle.
+~
+wood~
+weapon ACHIMST AN
+exotic 1 1 thwack ADEH
+1 30 4000 P
+A
+19 5
+A
+18 5
+#29459
+Jesters facepaint~
+A {$Jester's{x {7Facepaint{x~
+You see a small box filled with different makeups sitting here. The word
+"{$Jester's{x" is emblazoned across the cover.
+~
+cream~
+armor ABOST AR
+0 0 0 0 0
+1 40 6500 P
+F
+A 13 50 c
+A
+19 4
+A
+18 3
+#29460
+Jesters bangles~
+{$Jester's {%Bangles{x of {5Clicky-clack{x~
+You see bangles made from wood here. The word "{$Jester's{x" is in written
+in beads on the strap.
+~
+wood~
+armor ABHMST AM
+0 0 0 0 0
+1 55 5000 P
+A
+19 2
+A
+18 2
+#29461
+Calling Card~
+calling Card~
+Calling Card~
+bone~
+weapon ABCFIMST AO
+sword 1 1 none DGH
+1 50 6000 P
+A
+19 10
+A
+18 10
+#29462
+Jesters sparkle glitter~
+{$Jester's {&S{7p{&a{7r{&k{7l{&i{7e{&s{x~
+A small container of glitter lays here. The word "{$Jester's{x" is on the
+label.
+~
+nothingness~
+armor BHMST AQ
+0 0 0 0 0
+1 0 2000 P
+#29463
+jesters leggings~
+{!Leggings{x of the {$Jester{x~
+You see a pair of silk tights here. The word "{$Jester's{x" is on the
+label.
+~
+silk~
+armor ABOST AF
+0 0 0 0 0
+1 40 6500 P
+F
+A 5 2 c
+#29464
+jesters shoes~
+The {!Shoes{x of the {$Jester{x~
+You see some large multi-colored shoes here. You see the word
+"{$Jester's{x" on the tongue
+~
+soft leather~
+armor AOST AG
+0 0 0 0 0
+1 55 5000 P
+F
+A 2 2 L
+#29465
+banana cream pie~
+a {3banana{x {7cream{x pie~
+A cream pie sits here.... It smells like... {#banana{x?!?
+~
+food~
+food A A
+5 5 0 0 0
+0 10 50 P
+#29468
+jesters constitution~
+The Jester's Constitution~
+You see a small stone tablet here. Chisled at the top end is the word
+"{$Jester's{x"
+~
+stone~
+treasure AISTY A
+0 0 0 0 0
+1 1 10 P
+E
+stone constitution~
+The Jester's Constitution, written by Leaper
+We, the Jester's of Thera, do hereby agree to the following laws governing
+out behavior:
+
+{%Constitution and Amendments:{x
+
+Article I: We shall at no time cause any player to die by our direct Actions,
+and no destructive joke of any kind is allowed to be played against those 
+under level 25.
+
+Article II: We shall not interfere with Player Kills. This includes those in 
+our clan who has been twitted.
+
+Article III: Loyalty to the clan is not asked for, but demanded. If a person 
+of higher rank than you asks for help, which does not break any rules, either
+Jester or Global rules, you must aid them. There are two exceptions to this
+rule: If you are on a quest, in which case you must help them after the quest
+is finished, and if you are in the middle of battle, in which case you must 
+help them after the battle is finished.
+
+Article IV: Theft is NOT funny. Thieving from characters is {YPROHIBITED.{x 
+Keep this in mind: If it's on them, it's theirs. If it's on the ground, it's 
+yours.
+
+Article V: Clan eq is to be donated to the clan trunk or sacrificed if not 
+needed.
+
+Article VI: Any method can be used to play jokes. This includes restrung eq, 
+transportation, sneaking, being invisible, etc.
+
+Article VII: Donations to the clan will be given to clan leaders ONLY. If you 
+have money or gems that were given to you for the clan, you must give them to 
+a clan leader as soon as possible. No clan leader may use clan funds for 
+anything but the clan. If a clan leader is found to be embezzling, he will be 
+{RIMMEDIATELY declanned{x and a hunt called for.
+
+Article VIII: Members may offer their services for entertainment to any other
+player. Any money made from these transactions is to be kept by the performer
+and no part of it is required to be given to the clan.
+
+Article IX: On the matter of hunts: Hunts are called only by the {&Leaders{x
+of Jester, and every member of Jester may participate. A hunt target is to be
+harassed by members of Jester until the hunt is over.
+
+Article X: Any member of Jester who does NOT have fun will be asked to cheer up.
+
+Constitution Amendments, Done by Strydar
+
+Amendment I: If anyone in the World of Phoenix is unhappy or too serious, it is
+our duty to cheer him or her or it up with a joke.
+
+Amendment II: ALL Jesters must follow the constitution and goals of the Jesters.
+Anyone who does not abide by them will be forced to leave.
+
+Amendment III: Once a month all Jesters must pay a tax of 10 platinum. If you
+are unable to do so, contact a leader.
+
+Amendment IV: Do not take life too seriously and most of all enjoy it.
+
+Amendment V: If a leader is not abiding by the constitution or not doing any-
+thing for the clan it is not only our right but it is our duty to impeach him
+or her or it.
+
+Amendment VI: You must try to your fullest capability of helping a fellow 
+member if they ask for it.Amendment VII: If you have a good idea for the clan,
+it is your duty to let your leaders know.
+ 
+ 
+Amendment VIII: A Jesters duty is to prank people. Please play mature pranks, 
+casting change sex on every person you see is not a joke, in fact it 
+isn't even funny. Put some thought into your pranks.
+~
+#29469
+bean bag chair~
+{^Bean {6bag{0~
+Some {^bean {6bag{0 chairs lie thrown around the room.~
+leather~
+furniture 0 0
+10 1000000 BEI 0 0
+0 0 0 P
+#29470
+vial potion ambrosia~
+{Cambrosia{}~
+A vial of {Cambrosia{} lies here.~
+ambrosia stuff~
+potion GI A
+151 'change sex' 'change sex' 'change sex' 'change sex'
+25 10 8800 P
+#0
+
+
+
+#ROOMS
+#29450
+The Entrance Stairway~
+You find yorself in the entrance stairway into the Jester's Clan Hall and
+Night Club. The walls are colorfully decorated with posters and various
+announcements of different comedy showcases that either have been or will
+be featured on the main stage of the hall. You can hear the laughter of
+the patrons of the nightclub coming from the main hall. The stairway leads
+up into the hall, and to the north you see Clan Road.
+~
+0 1048584 0
+E
+ornate stairway~
+This stairway is made from cast iron and spirals up into the Clan Hall
+below. It has been cast with curving vines and various other decorations.
+~
+D0
+~
+~
+0 0 3303
+D4
+~
+~
+0 0 29451
+S
+#29451
+The Clan Hall and Main Stage~
+In this room, thousands of people have come to hear the best jokes of our
+age mutilated by amatures, past off as original by the average, and made
+to circulate by the greats, such as Robin Williams, John Candy, and
+others. Along the back wall, you see the portraits of great slap-stick and
+comedy performers such as Jackie Gleason, Red Skelton, Danny Kaye and
+teams such as Abbot and Costello, The Marx Brothers, and the Three
+Stooges. On one wall, there are four portraits of the founders: 
+{$Leaper, the Laughing King of Jesters, Melmar, the Mystic Queen, 
+Kitsune, the Silly Fox Spirit{x.
+There is a stage here with an open mike for anyone who wants to try their
+hand at standup.
+~
+0 1032 0
+D0
+~
+~
+0 0 29455
+D1
+You see The Bar
+~
+~
+0 0 29453
+D2
+You see Robin William's Novelty Shop 
+~
+~
+0 0 29452
+D3
+You see the room Backstage 
+~
+~
+0 0 29454
+D5
+~
+~
+0 0 29450
+M 200 H 200
+S
+#29452
+Robin William's Novelty Shop~
+A modest shop with such items as Whoopy Cushions, Hand Buzzers, and
+various other gags, this shop is maintained by the retired Robin Williams,
+who occasionally lapses into a pretty good Russian accent and says,
+"Speciba!"
+he stands behind the counter, arranging a rack of marked cards.
+~
+0 8 0
+D0
+You see The Main Stage.
+~
+~
+0 0 29451
+S
+#29453
+The Bar~
+A log bar occupies most of this room. Red Skelton stands behind the bar,
+handing out drinks and advice to the aspiring jokesters who are trying to
+drown their sorrows in root beer. The bar is of beautiful mahogany, and is
+well stocked with various sodas and a several types of liquer. Behind the
+bartender, you see a huge metallic cannon in a case on a high shelf. You
+can just see the label under it.... It reads "{$Leaper's Spamulator@{x." 
+~
+0 8 0
+E
+sign~
+The Portal in this room is totally {&RANDOM{X, be careful
+~
+D3
+You see The Main Stage.
+~
+~
+0 0 29451
+S
+#29454
+Backstage~
+Piled high with boxes, trunks, cases and several mobile spotlights, this
+is the storage room for the Clan and Nightclub. Various items are strewn
+about, but the most noticable item is a huge trunk, covered with stickers
+from all over Thera. It stands open in the middle of the floor. Nearby,
+there is a glowing portal to Hell.
+~
+0 8 0
+E
+portal to Hell~
+A portal to an area that resembles Cleveland
+~
+D1
+You see the Main Stage
+~
+~
+0 0 29451
+S
+#29455
+Jesters' meeting room.~
+As you walk in, you see some odd ornaments on your left, and the sleeping
+impliment on the right.  Straight ahead you see videogame posters: Final
+Fantasy, Breath of Fire, even Parappa the Rapper.  As you look closer, you
+notice that Mario is no where up there.  On the left wall, above the
+portals, you see Rogue Squadron, Zelda and much more.  The more you look,
+the more you wonder about these Jesters.  The passageway south leads back to
+the Jester's clan hall.  
+~
+0 8192 0
+D2
+~
+~
+0 0 29451
+S
+#29469
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 29450 spec_cast_adept
+M 29451 spec_breath_any
+S
+
+
+
+#RESETS
+M 0 29452 1 29452 1
+O 0 27310 0 29452
+O 0 27301 0 29452
+M 0 29450 1 29453 1
+O 0 27309 0 29453
+O 0 29450 0 29453
+O 0 27314 0 29454
+O 0 27313 0 29454
+O 0 27311 0 29454
+O 0 29452 0 29454
+O 0 29469 0 29455
+S
+
+
+
+#SHOPS
+29452 32 5 9 3 4 110 95 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

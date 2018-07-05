@@ -1,0 +1,605 @@
+#AREADATA
+Name the Void~
+Builders None~
+VNUMs 29150 29199
+Credits [-CLANS-] Vartan17     Void CH~
+Security 10
+End
+
+
+
+#MOBILES
+#29176
+Laona storekeep~
+Laona~
+Laona stands behind the counter waiting on those travelling the Void.
+~
+A young woman born in the Void.  She is a well known traveller and trader
+throughout the vast emptiness.  She wears a ring made of a strange metal on
+her left hand.  
+~
+halfelf~
+A DFL H 0 0
+155 155 500d5000+5000 1d1+1000 500d5000+5000 magic
+-399 -399 -399 -399
+FGHO ABCDLQ 0 0
+stand stand female 500000
+AHMV ABCDEFGHIJK medium unknown
+#29177
+Priest healer~
+the Priest of the Void~
+The Priest of the Void offers healing to all who pass through.
+~
+{DOne of the many who have dedicated their life to channeling the energies
+of the Void to bring health and peace on those who sojourn within, and pain
+and death on those who do not.  The priest wears an embroidered robe and and
+carries a plain onyx scepter which glows strangely.  {0 
+~
+halfelf~
+ABGJKQVa DFLZ CDEH 0 0
+330 0 50d50+100000 50d50+100000 50d50+100000 divine
+-599 -599 -599 -599
+EFGH ABCDLQ 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+#29178
+mage apprentice~
+the mage's apprentice~
+The mage's apprentice paces back and forth across the foyer.
+~
+{DOne of the Mage's not fully trained yet in the ways of the Void, he has
+been set to guard the gates.  He wears the robe of an apprentice, and bears a
+simple wooden staff.  {x 
+~
+human~
+ABMRT DFVZc BCDEHNO 0 29150
+200 2000 1d1+385000 25d5+4000 110d110+250 magic
+-200 -200 -200 -400
+ACEFHIJKPVW ABELQ CD 0
+stand stand female 5000
+AHMV ABCDEFGHIJK giant unknown
+M FIGHT 29151 40~
+M EXALL 29152 0~
+M HPCNT 29153 12~
+M DEATH 29154 100~
+M GRALL 29156 100~
+#29179
+demon small~
+a small demon~
+A small demon, crafted out of the Void.
+~
+{8Different from the demons of Hell, this demon stares at you with
+unbridled fury, ready to leap for your throat if you give sign of trying to
+enter this sanctuary.  {0 
+~
+human~
+ABGMST DFPQVZc CDEHOQ -1000 0
+200 2000 1d1+175000 25d5+4000 110d110+250 claw
+-200 -200 -200 -400
+ACEFHIJKPW ABELMQ CD N
+stand stand none 5000
+AEHM ABCDEFGHIJK giant unknown
+F for V
+M FIGHT 29155 40~
+M EXALL 29152 0~
+M DEATH 29154 100~
+M GRALL 29156 100~
+#0
+
+
+
+#OBJECTS
+#29176
+couch~
+a couch~
+A couch crafted of unknown materials is against the wall.~
+adamantite~
+furniture O 0
+20 40000 EHK 400 400
+155 0 1 P
+#29177
+fountain~
+a fountain~
+A fountain crafted of black marble pours forth water.~
+marble~
+fountain G 0
+-2 -2 'water' 0 0
+0 0 0 P
+#29178
+bed straw~
+a pile of straw~
+A pile of freshly-laid straw is here.~
+webbing~
+furniture AB 0
+24 10000 BCEFHIJKL 400 400
+0 0 0 P
+#29179
+blanket blankets bed~
+a bed of blankets~
+A pile of blankets lie here.~
+fur~
+furniture AB 0
+12 6000 EHK 200 200
+0 0 0 P
+#29180
+eddy void~
+an eddy of the void~
+An eddy of the void seeps past the guarding glyphs.~
+stone~
+container O 0
+999999 0 0 999999 100
+0 0 0 P
+#29181
+ring werewolf~
+The {WWerewolf{x Ring~
+You see a signet ring with the letter {R"W"{x engraved on it here.~
+onyx~
+armor ABOT AB
+0 0 0 0 0
+1 10 1000 P
+A
+13 10
+A
+18 2
+A
+19 2
+#29182
+cape werewolf~
+The Cape of Werewolf~
+You see a pile of cloth lying here.~
+cloth~
+armor ABOT AK
+0 0 0 0 0
+1 30 1500 P
+#29183
+plate werewolf~
+The Plate Of {GWerewolf{x~
+You see plate mail with the word {GWerewolf{x engraved on it here.~
+adamantite~
+armor ABIOT AD
+0 0 0 0 0
+1 250 5000 P
+A
+1 2
+A
+18 2
+A
+19 2
+#29184
+globe light werewolf~
+The {BWerewolf{x Globe~
+The Globe of the {BWerewolf{x is here.~
+energy~
+light AT AO
+0 0 999 0 0
+25 10 2000 P
+A
+20 -10
+#29185
+dagger werewolf~
+The {RWerewolf{x Dagger~
+A Dagger of the {MWerewolf{X clan is lying here.~
+obsidian~
+weapon AIMT AN
+dagger 1 1 stab ADH
+1 30 4000 P
+#29186
+leggings werewolf~
+Leggings of {mWerewolf{x~
+You see some shiny metal here.~
+mithril~
+armor ABOT AF
+0 0 0 0 0
+1 40 6500 P
+F
+A 5 2 c
+#29187
+paws werewolf~
+The {bWerewolf{x Paws~
+You see some faintly glowing Paws here.~
+hard leather~
+armor AOT AG
+0 0 0 0 0
+1 55 5000 P
+F
+A 2 2 L
+#29188
+sword werewolf~
+The {MWerewolf{x Sword~
+You see a glowing {MWerewolf{x sword lying here.~
+obsidian~
+weapon ABCFIMT AN
+sword 1 1 slash DGH
+1 50 6000 P
+#29189
+orb werewolf~
+The {wWerewolf{x Orb~
+You see an Orb floating here~
+crystal~
+armor ABOT AQ
+0 0 0 0 0
+1 0 2000 P
+A
+18 2
+A
+19 2
+#29190
+claws demon clanguard~
+the demon's claws~
+Something is wrong if you can see this.~
+iron~
+weapon HMYZ AN
+exotic 30 60 claw ACDEH
+200 10 50 P
+#0
+
+
+
+#ROOMS
+#29175
+the Void's Office~
+As you step into the office, you look around and see many books about the
+laws and regulations of Midgaard.  This is the place where the Void
+spend their time conducting there bussiness of keeping Midgaard a safe
+enviroment.  
+~
+0 8196 0
+D5
+~
+~
+0 0 29176
+S
+#29176
+{mVaulted Sanctuary{x~
+{D
+Black marble pillars rise into the air supporting the high vaulted
+ceiling of the sanctuary.  The rough hand-hewn black granite floor absorbs
+the {wsoft {Ylight{D of the randomly placed candelabras.  A small altar of onyx
+has been built in front of a strange {Ws{ww{Di{wr{Wl{wi{Dn{wg {Wm{wa{De{wl{Ws{wt{Dr{wo{Wm{D in the north wall.{x  
+~
+0 9224 0
+E
+north~
+The {Ws{ww{Di{wr{Wl{wi{Dn{wg {Wm{wa{De{wl{Ws{wt{Dr{wo{Wm{x spins slowly changing direction with a strange,
+hypnotic but calming pace.  
+~
+D0
+~
+~
+4 0 29178
+D1
+Candles burn brightly and a strange breeze filters through the archway.
+~
+~
+0 0 29177
+D2
+Peering through a darkened archway strange shapes flit across your vision
+and cloud the way south.  
+~
+~
+0 0 29179
+D3
+~
+~
+0 0 29180
+D4
+~
+~
+0 0 29175
+M 200 H 200
+R EXALL 29150 0~
+S
+#29177
+{mMeditation Chamber{x~
+{DBuilt upon the border of the Void, this place is an eerie place.  A
+strange breeze wafts through the room tugging at things intangible.  {x 
+~
+0 8200 0
+D3
+Tinny echoes drift in from the sanctuary to the west.  
+~
+~
+0 0 29176
+M 0 H 0
+S
+#29178
+{mPocket in the Void{x~
+{DThe Void seethes and swirls.  Strange {Yglowing{D glyphs keeps this pocket of
+order from disappearing into the void.  Strange people walk into and out of
+the walls appearing and disappearing into the Void.  {x 
+~
+0 9228 0
+M 0 H 0
+R EXALL 29151 5~
+R EXALL 29151 4~
+R EXALL 29151 3~
+R EXALL 29151 2~
+R EXALL 29151 1~
+R EXALL 29151 0~
+S
+#29179
+{rCathedral Foyer{x~
+{DTorches, with flickering blue flames, line the walls.  Giant tapestries
+depicting of the fight between the Void and the land.  A strange mist fills
+the foyer, and the mirror polished black marble floor and walls reflect the
+torches causing an eerie glow.{0  
+~
+0 1048584 0
+D0
+A large archway leads deeper into the Cathedral of the Void.
+~
+~
+0 0 29176
+D2
+A statue and shadowy forms can be seen to the south.
+~
+~
+0 0 3014
+S
+#29180
+{mChamber of Testing{x~
+{D{WShi{wmmer{Ding lines of warding have frozen the Void in this place.  The
+floor is perfectly flat and circles have been inscribed on the floor in
+opposing corners for use in contest of fighting, and magic prowess.  A small
+sign hangs by the door.  {x 
+~
+0 8200 0
+E
+sign~
++------------------+
+|    WARNING!!!    |
+|                  |
+|  Your safety is  |
+|  not guaranteed  |
+|   if there is a  |
+|  fight occuring. |
+|                  |
+|   Management is  |
+| not responsible  |
+| for loss of limb |
+|      or life.    |
++------------------+
+~
+D1
+~
+~
+0 0 29176
+S
+#0
+
+
+
+#SPECIALS
+M 29177 spec_cast_adept
+M 29178 spec_high_mage
+M 29179 spec_high_cleric
+S
+
+
+
+#RESETS
+D 0 29176 0 2
+O 0 29176 0 29176
+M 0 29177 1 29176 1
+O 0 29176 0 29177
+O 0 29177 0 29177
+O 0 29180 0 29178
+M 0 29176 1 29178 1
+G 0 27358 0
+M 0 29178 1 29179 1
+S
+
+
+
+#SHOPS
+29176 32 5 9 8 33 100 95 0 23
+0
+
+
+
+#MOBPROGS
+#29151
+wipe
+ mob cast 'cure blind' $i
+if rand 50
+ if rand 50
+  if rand 50
+   if rand 50
+    mob echoat $n $I waves $l hands at you mumbling softly.
+    mob echoaround $n $I waves $l hands at $n mumbling softly.
+    mob cast 'magic missile' $n
+    mob cast 'magic missile' $n
+   else
+    mob echoat $n $I raises $l staff above $l head and brings them down pointing directly at you.
+    mob echoaround $n $I raises $l staff above $l head and brings them down pointing directly at $n.
+    mob cast 'lightning breath' $n
+   endif
+  else
+   if rand 50
+    mob echoat $n $I arches $l eyebrow and begins staring intently at you while chanting in a hypnotic way.
+    mob echoaround $n $I arches $l eyebrow and begins staring intently at $n while chanting in a hypnotic way.
+    mob cast 'dispel magic' $n
+    mob cast 'curse' $n
+    mob cast 'power stun' $n
+    mob cast 'mind attack' $n
+    mob cast 'energy drain' $n
+    mob cast 'megafaerie fire' $n
+   else
+    mob echo $I pulls a faintly glowing vial from beneath $l robes and quaffs it down.
+    mob cast 'cheal' $i
+    mob cast 'cheal' $i
+   endif
+  endif
+ else
+  if rand 50
+   mob echo $I begins waving $l hands in the air and a feeling of dread washes over the room.
+   mob cast 'fire breath' $n
+  else
+   mob echoat $n $I concentrates and hurls a ball of acid at you.
+   mob echoaround $n $I concentrates and hurls a ball of acid at $n.
+   mob cast 'acid blast' $n
+  endif
+ endif
+else
+ if rand 50
+  if rand 50
+   if rand 50
+    if rand 50
+     mob echo $I waves $l staff above $l head and dark clouds begin to form over heard.
+     mob cast 'acid rain' $n
+     mob cast 'lightning storm' $n
+    else
+     mob echo $I chants to $kself.
+     mob cast 'shockshield'
+     mob cast 'iceshield'
+     mob cast 'fireshield'
+     mob cast 'stone skin' $i
+     mob cast 'sanctuary' $i
+     mob cast 'cure all' $i
+    endif
+   else
+    mob echoat $n $I places $l staff in front of $kself, and a strange calmness washes over $k, as a small Void flashes towards you.
+    mob echoaround $n $I places $l staff in front of $kself, and a strange calmness washes over $k, as a small Void flashes towards $n.
+    mob damage $n 1000 1200 lethal
+   endif
+  else
+   if rand 50
+    mob echoat $n $I chants a slow rhtymic about fire and ice, and points $l staff at you. 
+    mob echoaround $n $I chants a slow rhtymic about fire and ice, and points $l staff at $n.
+    mob cast 'fire and ice' $n
+    mob cast 'fire and ice' $n
+   else
+    mob echo $I staggers back, leaning heavily on $l staff as a spell backlashes on $k.
+   endif
+  endif
+ else
+  mob echo $I waves $l staff in the air and soon strange whistling noises can be heard from above.
+  mob cast 'meteorswarm' $n
+ endif
+endif
+~
+#29152
+wipe
+mob cast 'cure blind' $i
+if clan $n 'Void'
+ if sex $i == 2
+  curt $n
+ else
+  if sex $i == 1
+   bow $n
+  else
+   nod $n
+  endif
+ endif
+ mob echoat $n $I allows you to pass.
+ mob echoaround $n $I allows $n to pass.
+ mob gtransfer $n 29176
+ mob at $n mob echoaround $n $n arrives from the south.
+else
+ if name $i 'mage apprentice'
+  mob echoat $n $I blocks your path with $l staff.
+  say {mSorry, $n, but you are not of {Dthe Void{m.{x
+ endif
+ if name $i 'demon small'
+  mob echoat $n $I launches $lself at you.
+  mob echoaround $n $I launches $lself at $n.
+  mob kill $n
+ endif
+endif
+~
+#29153
+if mobhere 29179
+ break
+else
+ mob echo $I staggers back a short distance.
+ mob echo $I manages to summon forth a demon from {Dthe Void{x.
+ mob mload 29179
+endif
+~
+#29154
+mob echo $I collapses to the floor and drawn back into {Dthe Void.{x
+mob go 4
+~
+#29155
+mob cast "cure blind" $i
+wipe
+if wears $i 'claws demon clanguard'
+ if rand 50
+  if rand 50
+   if hpcnt $n < 15
+    bash $n
+   else
+    mob echoat $n $I looks at you $l eyes blazing before rushing you.
+    mob echoaround $n $I looks at $n, $l eyes blazing rushes $n.
+    impale $n
+   endif
+  else
+   if rand 50
+    mob echoat $n Guttural sounds issue forth from $I's mouth and blades begin flying from the wall at you.
+    mob echoaround $n Guttural sounds issue forth from $I's mouth and blades begin flying from the wall at $n.
+    mob cast 'flying blades' $n
+   else
+    mob echoat $n $I chants softly to $kself calling forth the fires of $l birthplace upon you.
+    mob echoaround $n $I chants softly to $kself calling forth the fires of $l birthplace upon $n.
+    mob cast 'demonfire' $n
+   endif
+  endif
+ else
+  if rand 50
+   if hpcnt $n < 15
+    dir $n
+    kick $n
+   else
+    mob echoat $n $I begins trying to circle around you.
+    mob echoaround $n $I begins trying to circle around $n.
+    circle $n
+   endif
+  else
+   if rand 50
+    mob echo $I hums softly to $kself, and pieces of the walls fly towards $k closing $l wounds.
+    mob cast 'cheal' $i
+    mob cast 'cure all' $i
+   else
+    mob echoat $n $I is suddenly surrounded by a malevolent aura that rushes towards you as $j locks eyes with you.
+    mob echoaround $n $I is suddenly surrounded by a malevolent aura that rushes towards $n as $j locks eyes with $n.
+    mob cast 'dispel magic' $n
+    mob cast 'curse' $n
+    mob cast 'blind' $n
+    mob cast 'megafaerie fire' $n
+    mob cast 'feeble mind' $n
+    mob cast 'weak' $n
+    mob cast 'power stun' $n
+   endif
+  endif
+ endif
+else
+ mob oload 29190 1 wear
+ mob oload 29190
+ second claw
+endif
+~
+#29156
+mob at 5281 close east
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#29150
+room echoat $n You enter the {Ws{ww{Di{wr{Wl{wi{Dn{wg {Wm{wa{De{wl{Ws{wt{Dr{wo{Wm{x.
+room echoaround $n $N enters the {Ws{ww{Di{wr{Wl{wi{Dn{wg {Wm{wa{De{wl{Ws{wt{Dr{wo{Wm{x.
+room gtransfer $n 29178
+~
+#29151
+room echoat $n You wander off into the Void.
+room echoaround $n $N wanders off into the Void.
+room gtransfer $n 29176
+~
+#29152
+room echoaround $n $n enters the room.
+~
+#0
+
+#$

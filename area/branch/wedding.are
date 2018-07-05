@@ -1,0 +1,568 @@
+#AREADATA
+Name Wedding Chapel~
+Builders None~
+VNUMs 62900 62999
+Credits [ -ALL- ] Ramoth   Wedding Chapel~
+Security 9
+End
+
+
+
+#MOBILES
+#62900
+Allen store owner~
+Allen, the Wedding Shopkeeper~
+Allen, the Wedding Shopkeeper, stands behind the counter.
+~
+~
+human~
+AB DF CDE 1000 0
+151 100 10d10+10000 1d1+100 1d1+100 none
+5 5 5 5
+0 ABCDEGHJKLNQST 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium flesh
+#62901
+Arlene~
+Arlene, the Flower Shoppe Lady~
+Arlene, the Flower Shoppe Lady, is pruning a small {rrose {gbush{}.
+~
+Arlene is wearing a heavy apron, full of utensils for gardening and
+pruning.  She's constantly bundling up flower bouquets to place in the glass
+case for her customers.  
+~
+human~
+AB DF 0 1000 0
+151 100 10d10+10000 1d1+100 1d1+100 none
+5 5 5 5
+0 ABCDEGHJKLNQST 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium flesh
+#62902
+Hallie~
+Hallie, the Wedding Coordinator~
+Hallie, the Wedding Coordinator, stands here.
+~
+Hallie is dressed in a long black robe, with a silk cord belt.  She's
+spent years in study to learn about each culture and races wedding customs. 
+She's here to help you prepare for the big day.  
+~
+human~
+AB DF CDE 1000 0
+153 100 1000d10000+10000 1000d10000+10000 1000d10000+10000 none
+1 1 1 1
+0 ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand female 10
+AHMV ABCDEFGHIJK medium flesh
+M GRALL 62900 100~
+#0
+
+
+
+#OBJECTS
+#62900
+counter~
+a counter~
+A highly polished counter runs the length of the eastern wall.~
+wood~
+furniture 0 0
+1 1000 AEHKN 0 0
+1 100 10 P
+#62901
+tuxedo black wedding~
+a {8black tuxedo{}~
+A {8black{} tux lies on the floor.~
+cloth~
+armor S AD
+1 1 1 1 0
+1 5 300 P
+A
+4 -1
+#62902
+ring diamond ruby engagement~
+a {Cd{wi{Ca{wm{Co{wn{Cd{} and {Rruby{} engagement ring~
+A small ring lies here.~
+silver~
+treasure H AB
+0 0 0 0 0
+1 2 500 P
+#62903
+ring diamond emerald engagement~
+a {Cd{wi{Ca{wm{Co{wn{Cd{} and {gemerald{} engagement ring~
+A small ring lies here.~
+silver~
+treasure H AB
+0 0 0 0 0
+1 2 500 P
+#62904
+tux shoes~
+a pair of {8tuxedo{} shoes~
+A pair of {8tuxedo{} shoes lie here.~
+leather~
+armor S AG
+1 1 1 1 0
+1 5 150 P
+#62905
+cummerbund black~
+a {8black {}cummerbund~
+A black sash lies here.~
+cloth~
+armor S AL
+1 1 1 1 0
+1 2 242 P
+#62906
+bridesmaid dress red~
+a {Rbridesmaid{} dress~
+A silk {Rbridesmaid{} dress lies crumpled on the ground.~
+silk~
+armor 0 AD
+1 1 1 1 0
+1 10 300 P
+#62907
+bridesmaid dress green~
+a {gbridesmaid{} dress~
+A silk {gbridesmaid{} dress lies crumpled on the ground.~
+silk~
+armor 0 AD
+1 1 1 1 0
+1 10 300 P
+#62908
+bridesmaid dress blue~
+a {Bbridesmaid{} dress~
+A silk {Bbridesmaid{} dress lies crumpled on the ground.~
+silk~
+armor 0 AD
+1 1 1 1 0
+1 10 300 P
+#62909
+bridesmaid dress yellow~
+a {Ybridesmaid{} dress~
+A silk {Ybridesmaid{} dress lies crumpled on the ground.~
+silk~
+armor 0 AD
+1 1 1 1 0
+1 10 300 P
+#62910
+gown wedding white pearl~
+a {Wwedding gown{} with pearl accents~
+A silk gown with simple pearl accents has been layed carefully on the ground.~
+cloth~
+armor S AD
+1 1 1 1 0
+1 5 400 P
+#62911
+gown ivory wedding diamond~
+a simple ivory gown, with tiny {Cd{wi{Ca{wm{Co{wn{Cd{} accents~
+A simple ivory gown, with tiny {Cd{wi{Ca{wm{Co{wn{Cd{} accents, has been layed on the ground.~
+cloth~
+armor S AD
+1 1 1 1 0
+1 5 500 P
+#62912
+veil white lace~
+a white lace wedding veil~
+A simple wedding veil lies on the ground.~
+cloth~
+armor S AE
+1 1 1 1 0
+1 1 100 P
+#62913
+veil ivory lace diamond~
+a simple ivory veil with tiny {Cd{wi{Ca{wm{Co{wn{Cd{} accents~
+A simple ivory veil with tiny {Cd{wi{Ca{wm{Co{wn{Cd{} accents lies here.~
+cloth~
+armor S AE
+1 1 1 1 0
+1 1 100 P
+#62914
+wedding tiara diamond pearl~
+a {8platnium tiara{} encrusted with {Cd{wi{Ca{wm{Co{wn{Cd{ws{} and pearls~
+A {8platnium tiara{} encrusted with {Cd{wi{Ca{wm{Co{wn{Cd{ws{} and pearls lies here.~
+metal~
+armor S AE
+1 1 1 1 0
+1 1 100 P
+#62915
+slippers silk~
+a pair of silk slippers~
+A pair of silk slippers lie here.~
+glass~
+armor S AG
+1 1 1 1 0
+1 5 200 P
+#62916
+gold wedding band~
+a {ygold{} wedding band with {Cd{wi{Ca{wm{Co{wn{Cd{}~
+A gold wedding band lies here.
+~
+gold~
+treasure HM AB
+0 0 0 0 0
+1 3 1000 P
+#62917
+case flower glass counter~
+a glass flowers case~
+A gleaming glass case runs across the northern and western walls.~
+glass~
+furniture 0 0
+1 1000 AEHKN 0 0
+1 100 10 P
+#62918
+white rose~
+a Beautiful Single White Rose~
+A beautiful rose is here on the ground.~
+wood~
+treasure A AO
+0 0 0 0 0
+10 1 100 P
+A
+17 -1
+A
+18 1
+#62919
+red rose~
+a Beautiful Single {RRed {}Rose~
+A beautiful rose is here on the ground.~
+wood~
+treasure A AO
+0 0 0 0 0
+10 1 100 P
+A
+17 -1
+A
+18 1
+#62920
+daisy bouquet~
+a small {Yd{wa{Yi{ws{Yy {wb{Yo{wu{Yq{wu{Ye{wt{}~
+A bouquet of daisies has been tossed on the ground.~
+wood~
+treasure A AO
+0 0 0 0 0
+10 1 100 P
+A
+17 -1
+A
+18 1
+#62921
+rose bouquet cascading~
+a cascading bouquet of {Rr{re{Rd{} and {Ww{wh{Wi{wt{We{} {Rr{wo{Rs{we{Rs{}~
+A cascading bouquet of roses is lying on the ground.~
+wood~
+treasure A AO
+0 0 0 0 0
+10 1 100 P
+A
+17 -1
+A
+18 1
+#62922
+wedding wreath head rose~
+a {gwreath{} of {Rr{wo{Rs{we{Rs{}~
+A {gwreath{} of {Rr{wo{Rs{we{Rs{} lies on the ground.~
+metal~
+armor S AE
+1 1 1 1 0
+1 1 100 P
+#62923
+wedding head daisy daises crown~
+a crown of {Yd{wa{Yi{ws{Ye{ws{}~
+A {8platnium tiara{} encrusted with {Cd{wi{Ca{wm{Co{wn{Cd{ws{} and pearls lies here.~
+metal~
+armor S AE
+1 1 1 1 0
+1 1 100 P
+#62924
+pillow silk~
+a silk ring pillow~
+A small pillow for rings lies here.~
+silk~
+container 0 AO
+20 0 0 100 10
+1 10 50 P
+#62925
+Wedding Chapel Key~
+wedding Chapel Key~
+The Key to the wedding chapel sits here.~
+unknown~
+key FU AO
+0 0 0 0 0
+152 10 100000 P
+#62926
+pew~
+long Wooden Pews~
+Row after row of pews line the sides of the Wedding Hall.~
+wood~
+furniture 0 0
+100 1000000 BEH 0 0
+1 1000 1000 P
+#62927
+altar~
+a marble altar~
+A marble altar, with a dove carving, stands at the end of aisle.~
+marble~
+furniture 0 0
+3 10000 A 0 0
+1 0 0 P
+#62928
+archway ivy~
+an archway~
+A wooden archway covered in {gIvy{} stands here.~
+ivy~
+furniture 0 0
+3 10000 CF 0 0
+0 100 100 P
+#62929
+easy chair~
+an easy chair~
+Large plush easy chairs sit about the room.~
+unknown~
+furniture 0 0
+10 10000 FI 0 0
+0 0 0 P
+#62930
+victorian arm chair~
+a victorian arm chair~
+Several victorian arm chairs sit about the room.~
+unknown~
+furniture 0 0
+10 10000 FI 0 0
+0 0 0 P
+#62934
+flower girl basket~
+a basket of flower petals~
+A basket of flower petals lies tipped over on the ground.~
+wood~
+treasure A AO
+0 0 0 0 0
+10 1 100 P
+A
+17 -1
+A
+18 1
+#0
+
+
+
+#ROOMS
+#62900
+Wedding Chapel Foyer~
+A small foyer has deep {rmahagony{} carpet.  Wood panels cover the wall,
+and white garland is hung from the doors and the long counter to the side. 
+A helpful looking gentleman in a tux stands behinds the counter.  
+ 
+~
+0 263432 0
+D0
+~
+~
+1 0 3108
+D2
+~
+~
+0 0 62901
+D3
+~
+~
+0 0 62902
+S
+#62901
+Gathering Room~
+The area before the chapel is a large open space, for guests to mingle
+before going in.  Small tables of flowers sit in the four corners.  Here is
+where guests wait for ushers to seat them and where the bride will collect
+her thoughts before her final walk to the altar.  There is a small staircase
+leading down on the eastern wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 62900
+D2
+~
+~
+4 62925 62903
+D3
+~
+~
+4 62925 62906
+D5
+~
+~
+0 0 23596
+S
+#62902
+{YFl{Gow{Yer {GSh{Yop{Gpe{}~
+Fresh smells fill the air and tiny leaves lay scattered on the ground. 
+The glass case is full of beautiful flowers, lots of in-season ones, and
+many that are out-of-season or hard to find.  Arlene is highly trained in
+her craft, and knows how to cut a rose in hundreds of different ways.  
+~
+0 263432 0
+D1
+~
+~
+0 0 62900
+S
+#62903
+Wedding Hall~
+Rows and rows of pews sit in the huge hall.  A marble altar stands at the
+end of a long aisle.  {rMahogany{} carpet lines the walkway for the couple
+to descend.  Beautiful flowers are attached to the end of each pew.  Eight
+tall windows, four on each side, let in sunlight through their stainglass
+colors, rainbows of light dancing about the room.  
+~
+0 263432 0
+D0
+~
+~
+4 62925 62901
+D2
+~
+~
+1 0 62904
+D3
+~
+~
+0 0 27050
+D5
+~
+~
+1 0 62905
+S
+#62904
+{gOutdoor {rRose {gGarden{}~
+{rRose{} {gbushes{} have been planted in a circle, a small archway stands
+at the western end of the garden.  There is room on the ground for guests to
+sit for a truly back to nature wedding cermony.  
+~
+0 263432 2
+D0
+~
+~
+1 0 62903
+S
+#62905
+Groom's Room~
+This is a small, but well lit room.  Hooks for hanging tuxes are on one
+wall and a small shoe shine kit is in a corner.  The entire western wall is
+a mirror to prepare with.  Take a deep breathe, it's almost that time!  A
+small staircase leads up to the chapel.  
+~
+0 263432 0
+D4
+~
+~
+1 0 62903
+S
+#62906
+Bride's Room~
+This is the outer sanctum of the bridal area.  Three walls are covered in
+mirrors.  Tall {givy{} plants stand in each corner.  A beautiful handwoven
+rug sits in the center of the room, and the images invoke peace and
+tranquility.  
+~
+0 263432 0
+D1
+~
+~
+4 62925 62901
+D3
+~
+~
+0 0 62907
+S
+#62907
+Bride's Room~
+Wow, this room is beautiful.  Tiny glass spheres hover about the room,
+inside of each is a tiny lightbug, glowing brightly.  Mirrors and plants
+make the room seem huge.  Small bundles of fresh herbs are hung where their
+aromatherapy can calm the anxious bridal party.  A few comfortable chairs
+sit around the room, and a few large hooks hang on the wall for the bridal
+parties clothes.  
+~
+0 263432 0
+D1
+~
+~
+0 0 62906
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 62900 0 1
+D 0 62901 2 1
+D 0 62903 0 1
+D 0 62903 2 1
+D 0 62903 5 1
+D 0 62904 0 1
+D 0 62905 4 1
+O 0 62900 0 62900
+M 0 62900 1 62900 1
+G 0 62902 0
+G 0 62903 0
+G 0 62901 0
+G 0 62905 0
+G 0 62904 0
+G 0 62909 0
+G 0 62908 0
+G 0 62907 0
+G 0 62906 0
+G 0 62911 0
+G 0 62910 0
+G 0 62915 0
+G 0 62914 0
+G 0 62913 0
+G 0 62912 0
+O 0 62917 0 62902
+M 0 62901 1 62902 1
+G 0 62934 0
+G 0 62924 0
+G 0 62918 0
+G 0 62919 0
+G 0 62920 0
+G 0 62921 0
+O 0 62926 0 62903
+O 0 62927 0 62903
+O 0 62928 0 62904
+O 0 62929 0 62905
+M 0 62902 1 62906 1
+O 0 62930 0 62907
+S
+
+
+
+#SHOPS
+62900 0 0 0 0 0 110 90 0 23
+62901 0 0 0 0 0 110 90 0 23
+0
+
+
+
+#MOBPROGS
+#62900
+if sex $n == 1
+say Eeek!  No men allowed!  Shoo!  Shoo!
+mob transfer $n 62901
+endif
+if sex $n != 2
+say Eeek!  What are you doing here??  Shoo!  Shoo!
+mob transfer $n 62901
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

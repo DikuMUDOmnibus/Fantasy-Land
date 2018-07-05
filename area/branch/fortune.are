@@ -1,0 +1,937 @@
+#AREADATA
+Name The Fortune Theatre~
+Builders None~
+VNUMs 66400 66449
+Credits [NEWBIES] Ramoth   The Fortune Theatre~
+Security 9
+End
+
+
+
+#MOBILES
+#66400
+Abigail~
+Abigail~
+Abigail leans over the counter and waits for your order.
+~
+A tall woman, she waits for your order.  
+~
+elf~
+AB J 0 500 0
+100 0 100d100+100 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQRSTXYZa B Z
+stand stand female 5000
+AHMV ABCDEFGHIJK small flesh
+#66401
+actor claudius~
+The actor playing Claudius~
+The actor playing the role of Claudius is going over his lines.
+~
+A tall, older man is going over his lines for tonight's preformance.  He
+plays Claudius, the new King of Denmark.  
+~
+elf~
+AG DJ 0 -700 0
+12 10 2d7+71 3d9+100 1d7+1 punch
+4 4 4 9
+EFN 0 B CZ
+stand stand male 10
+ABCHMV ABCDEFGHIJKQ medium flesh
+#66402
+actor gertrude~
+The actor playing Gertrude~
+The actor playing the role of Gertrude is getting drunk.
+~
+A younger man is drowning his sorrows.  How unlucky to have to play the
+woman!  
+~
+elf~
+AG DJ 0 -700 0
+12 10 2d7+71 3d9+100 1d7+1 slap
+4 4 4 9
+EFN 0 B CZ
+stand stand male 2
+ABCHMV ABCDEFGHIJKQ medium flesh
+#66403
+tinker tailor~
+Tinker the Tailor~
+Tinker the Tailor just delivered the newest costumes.
+~
+Tinker is a middle aged man, reknown in the city for his outstanding
+renditions of medival clothing for preformances.  
+ 
+~
+human~
+ABG DF 0 2 0
+24 15 2d10+150 6d9+100 1d10+3 punch
+0 0 0 8
+EFNU 0 0 0
+sit stand male 50
+AHMV ABCDEFGHIJK medium flesh
+#66404
+audience member~
+An audience member~
+A male member of the audience waits for the show to start.
+~
+A commoner from the city mills about waiting for the show to begin.  
+~
+human~
+AG 0 0 0 0
+18 15 2d6+110 4d9+100 1d8+2 punch
+2 2 2 8
+EFNU 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium flesh
+#66405
+audience member~
+An audience member~
+A female member of the audience waits for the show to start.
+~
+A commoner from the city mills about waiting for the show to begin.  
+~
+human~
+AG 0 0 50 0
+18 15 2d6+110 4d9+100 1d8+2 slap
+2 2 2 8
+EFNU 0 0 0
+stand stand female 10
+AHMV ABCDEFGHIJK medium flesh
+#66406
+Karen~
+Karen~
+Karen is standing with a basket of {Cf{Yl{Mo{Rw{Ge{Cr{Ys{} to sell.
+~
+A young girl, with her dark hair tied at the nape of her neck, sells
+flowers to the crowd.  Perhaps for a sweetheart?  
+~
+elf~
+AB J 0 500 0
+100 0 100d100+100 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCDEFGHIJKLMNOPQRSTXYZa B Z
+stand stand female 5000
+AHMV ABCDEFGHIJK small flesh
+#66407
+lady in waiting~
+a Lady-in-Waiting~
+A Lady-in-Waiting for the Princess.
+~
+Small in stature, she is dressed to impress both her Princess and any man
+who might happen by.  
+~
+human~
+ABH 0 0 1 0
+3 2 2d7+21 1d9+100 1d5+0 slap
+8 8 8 10
+EFNU 0 0 0
+stand stand female 10
+AHMV ABCDEFGHIJK small 0
+#66408
+princess catlin~
+{MPrincess Caitlin{}~
+{MPrincess Caitlin{} has come to see the new play.
+~
+{MPrincess Caitlin{} is in her early twenties and was only allowed out with
+her ladies-in-waiting as chaperones.  
+~
+human~
+ABG DF 0 2 0
+24 15 2d10+150 6d9+100 1d10+3 punch
+0 0 0 8
+EFNU 0 0 0
+sit stand female 60
+AHMV ABCDEFGHIJK small flesh
+#66409
+clergyman~
+a clergyman~
+A Clergyman of the local faith is here to judge.
+~
+Predisposed to dislike the play, he is only here to confirm his belief
+that the theatre is the devil's work.  
+ 
+~
+human~
+AB 0 0 200 0
+8 8 2d7+46 2d9+100 1d5+1 punch
+6 6 6 9
+EFNU 0 0 0
+sit sit male 10
+AHMV ABCDEFGHIJK large 0
+#66410
+editor midgarrd gazette~
+the Editor of the Midgarrd Gazette~
+The Editor of the Gazette is here to write the review.
+~
+One of the perks of being editor is assigning yourself the great stories
+like tonight's play.  
+~
+elf~
+ABG DJ 0 200 0
+12 10 2d7+71 3d9+100 1d7+1 punch
+4 4 4 9
+EFN 0 B CZ
+stand stand male 25
+ABCHMV ABCDEFGHIJKQ medium flesh
+#66411
+street urchin~
+a street urchin~
+A street urchin is looking to pick your pocket.
+~
+Scraggly and tired, a small boy is looking for a few coins to take back
+with him.  
+~
+human~
+ABGH 0 0 150 0
+5 4 2d6+35 1d9+100 1d6+0 bite
+7 7 7 10
+EFNU 0 0 0
+sleep sit male 3
+AHMV ABCDEFGHIJK small 0
+#66412
+actor horatio~
+The actor playing Horatio~
+The actor playing the role of Horatio is studying for tonight.
+~
+The chance of a lifetime!  If he nails this part he's a shoe-in for
+Hamlet next time!  
+~
+elf~
+AG DJ 0 -700 0
+12 10 2d7+71 3d9+100 1d7+1 punch
+4 4 4 9
+EFN 0 B CZ
+stand stand male 10
+ABCHMV ABCDEFGHIJKQ medium flesh
+#66413
+actor gonzago~
+The actor playing Gonzago~
+The actor playing the role of Gonzago is checking his props.
+~
+The hardest part of playing a bit part is making sure the "real actors"
+haven't messed with your props!  Poor guy....  
+~
+elf~
+AG DJ 0 300 0
+12 10 2d7+71 3d9+100 1d7+1 punch
+4 4 4 9
+EFN 0 B CZ
+stand stand male 10
+ABCHMV ABCDEFGHIJKQ medium flesh
+#66414
+royal princess guard~
+Royal Guard~
+The Royal Guard protects the Princess from unwanted visitors.
+~
+Standing at full attention, the Royal Guard is entrusted with {MPrincess
+Caitlin's{} safety.  
+~
+human~
+ABG DF 0 2 0
+24 20 2d10+150 6d9+100 1d10+3 punch
+0 0 0 8
+EFNU 0 0 0
+sit stand male 60
+AHMV ABCDEFGHIJK medium flesh
+#0
+
+
+
+#OBJECTS
+#66400
+fried dill pickles~
+{yfried{g dill pickles{}~
+A serving of 3 spears of {yfried {gdill pickles{} lies here.~
+cucumber~
+food 0 A
+1 1 0 0 0
+1 1 5 P
+#66401
+roasted chicken leg~
+{yroasted {rchicken{y leg{}~
+A piece of {yroasted {rchicken{} lies here.~
+chicken~
+food 0 A
+1 3 0 0 0
+1 1 15 P
+#66402
+ale drink~
+{yale{}~
+A mug of {yale{} sits here.~
+ale~
+potion 0 A
+20 'fly' 'reserved' 'reserved' 'reserved'
+1 1 20 P
+#66403
+lemonade~
+{Ylemonade{}~
+A small glass of {Ylemonade{} sits here.~
+lemons~
+potion 0 A
+20 'pass door' 'reserved' 'reserved' 'reserved'
+1 1 10 P
+#66404
+script hamlet~
+a Hamlet Script~
+A script from Shakesphere's newest play lies in the dust.~
+parchment~
+trash 0 AO
+0 0 0 0 0
+1 1 10 P
+#66405
+velvet short coat~
+a {mv{Me{ml{Mv{me{Mt{m s{Mh{mo{Mr{mt {Mc{mo{Ma{mt{}~
+A {mv{Me{ml{Mv{me{Mt{m s{Mh{mo{Mr{mt {Mc{mo{Ma{mt{} lies gathering dust.~
+cloth~
+armor 0 AD
+10 10 10 5 0
+20 5 100 P
+#66406
+yellow tulip~
+a {Yyellow{} tulip~
+A fresh {Yyellow{} tulip blooms.~
+nature~
+trash 0 AO
+0 0 0 0 0
+2 1 3 P
+#66407
+lilac lily~
+a {Mlilac{} lily{}~
+A fresh {Mlilac{} lily blooms.~
+nature~
+trash 0 AO
+0 0 0 0 0
+2 1 3 P
+#66408
+blue pansy~
+a {Bblue{} pansy~
+A fresh {Bblue{} pansy blooms.~
+nature~
+trash 0 AO
+0 0 0 0 0
+2 1 3 P
+#66409
+silver necklace~
+a {8silver{} necklace~
+A beautiful {8silver{} necklace was left here.~
+oldstyle~
+armor 0 AC
+4 4 4 1 0
+10 100 1140 P
+A
+12 40
+A
+3 1
+A
+4 1
+#66410
+paper gazette~
+the Midgaard Gazette~
+The village paper is crumpled into a ball.~
+parchment~
+trash 0 AO
+0 0 0 0 0
+1 1 10 P
+#66411
+apple~
+an {Rapple{}~
+A shiny {Rapple{} is here.~
+aple~
+pill 0 AO
+10 'detect good' 'detect evil' 'detect invis' 'reserved'
+1 1 10 P
+#66412
+pear~
+a fresh {ypear{}~
+A fresh {ypear{} has fallen on the ground.~
+pear~
+pill 0 AO
+10 'detect invis' 'detect magic' 'detect hidden' 'reserved'
+1 1 10 P
+#0
+
+
+
+#ROOMS
+#66400
+{GEn{gtr{Gan{gce {GWa{glk{Gwa{gy{}~
+Tall {Gvines{} creep up {ywooden beams{} to create a canopy of {Gf{go{Gl{gi{Ga{gg{Ge{}.  Double
+{ywooden doors{} are propped open to the north allowing a clear view of the hall
+and beyond that the {8stage{}.  To the west lies the streets of {WRedemption
+Midgaard{}.  
+~
+0 4 1
+D0
+~
+~
+0 0 66401
+D3
+~
+~
+0 0 3047
+S
+#66401
+{yOuter Hall{}~
+Noises fill the large open space, as those gathered purchase food and
+drink for the days festives.  Smells of fresh {yroasted {rchicken {ylegs{} and {yfried
+{gdill pickles{} waft through the crowd.  Several booths hold barrels of ale and
+a drink called {Ylemonade{}.  There are open doors to the north leading down
+into the main seating area, directly in front of the {8stage{}.  
+~
+0 8 0
+D0
+~
+~
+0 0 66402
+D1
+~
+~
+0 0 66404
+D2
+~
+~
+0 0 66400
+D3
+~
+~
+0 0 66403
+S
+#66402
+{cOpen Air Seating{}~
+The {ydirt{} is packed down from the milling about of the audience at many
+nights of preformances.  The {csky{} above provides the perfect backdrop for the
+magical acts that take place when the {8stage{} comes to life.  There are no
+seats, one must arrive early and stake out a spot to watch the play.  Most
+people attend a preformance for the social time as much as for the
+breathtaking acting.  
+~
+0 0 1
+D0
+~
+~
+0 0 66416
+D1
+~
+~
+0 0 66414
+D2
+~
+~
+0 0 66401
+D3
+~
+~
+0 0 66413
+S
+#66403
+{yPrivate Seating{}~
+A small set of stairs leads up to the box seating.  Benches and a roof
+are provided for those who wish to pay a bit more for the luxury.  A scroll
+of {yparchment{} has been nailed to the wall next to the stairs.  
+~
+0 12 0
+E
+parchment~
+{yGreetings Citizens of Redemption Midgarrd,{}
+{y  Tonight's showing of {8Hamlet{y has been postponed due to
+{y our lead actor's recent death.  Please bear with us as
+{y our troop moves forward.  Thank you for your patronage.
+{y                         - Lord Rothgarf
+{y                           Patron of The Fortune Theatre{}
+~
+D1
+~
+~
+0 0 66401
+D4
+~
+~
+0 0 66405
+S
+#66404
+{RAbigail's{}~
+A long counter runs from wall to wall, blocking Abigail on one side and
+her customers on the other.  Three huge {yw{Wo{yv{We{yn {Wb{ya{Ws{yk{We{yt{Ws{} hold freshly {yroasted
+{rchicken {ylegs{} still steaming.  A smaller {yb{Wa{ys{Wk{ye{Wt{} holds spears of {gdill pickles{}
+deep batter {yfried{}.  Behind Abigail there are two barrels.  One is marked {yale{}
+and the other reads {Ylemonade{}.  
+~
+0 8 0
+D3
+~
+~
+0 0 66401
+S
+#66405
+{yStaircase{}~
+Spiral stairs curve around and around, a strong {8iron{} post runs along the
+wall to hold onto.  The stairs have been recently cleaned, with only a few
+bits of trash and discarded papers cluttering up the path.  
+~
+0 8 0
+D4
+~
+~
+0 0 66406
+D5
+~
+~
+0 0 66403
+S
+#66406
+{yStaircase{}~
+Spiral stairs curve around and around, a strong {8iron{} post runs along the
+wall to hold onto.  The stairs have been recently cleaned, with only a few
+bits of trash and discarded papers cluttering up the path.  
+~
+0 8 0
+D4
+~
+~
+0 0 66407
+D5
+~
+~
+0 0 66405
+S
+#66407
+{yUpper Hallway{}~
+Large windows give a view of {WRedemption Midgaard{} to the south.  To the north
+there are individual boxes for true patrons of the fine arts.  Members of
+the crowd pay many {Ygold{} to reserve seats up above the commoners.  There is a
+sturdy roof above and benches to sit upon.  The view of the {8stage{} is not the
+best, but then people who sit in boxes are here to be seen, not here to see
+the play.  
+~
+0 8 0
+D0
+~
+~
+0 0 66411
+D1
+~
+~
+0 0 66408
+D5
+~
+~
+0 0 66406
+S
+#66408
+{yUpper Hallway{}~
+Large windows give a view of {WRedemption Midgaard{} to the south.  To the north
+there are individual boxes for true patrons of the fine arts.  Members of
+the crowd pay many {Ygold{} to reserve seats up above the commoners.  There is a
+sturdy roof above and benches to sit upon.  The view of the {8stage{} is not the
+best, but then people who sit in boxes are here to be seen, not here to see
+the play.  
+~
+0 8 0
+D0
+~
+~
+0 0 66412
+D1
+~
+~
+0 0 66409
+D3
+~
+~
+0 0 66407
+S
+#66409
+{yUpper Hallway{}~
+Large windows give a view of {WRedemption Midgaard{} to the south.  To the north
+there are individual boxes for true patrons of the fine arts.  Members of
+the crowd pay many {Ygold{} to reserve seats up above the commoners.  There is a
+sturdy roof above and benches to sit upon.  The view of the {8stage{} is not the
+best, but then people who sit in boxes are here to be seen, not here to see
+the play.  
+~
+0 8 0
+D0
+~
+~
+0 0 66410
+D3
+~
+~
+0 0 66408
+S
+#66410
+{ySide Box{}~
+This is one of two {yside boxes{} for the lesser of the important people. 
+Two long {ybenches{} sit one behind the other.  A four foot high railing
+protects the occupants from falling to the open area below.  Beautiful
+{Cbanners{} hang down from the ledge, covering the carved {ywood{}.  
+~
+0 8 0
+D2
+~
+~
+0 0 66409
+S
+#66411
+{ySide Box{}~
+This is one of two {yside boxes{} for the lesser of the important people. 
+Two long {ybenches{} sit one behind the other.  A four foot high railing
+protects the occupants from falling to the open area below.  Beautiful
+{Cbanners{} hang down from the ledge, covering the carved {ywood{}.  
+~
+0 8 0
+D2
+~
+~
+0 0 66407
+S
+#66412
+{MThe Royal Box{}~
+A small throne sits in the center of the box, flanked on either side by
+short benches.  {MRoyal banners{} depicting swans and hearts hang from the rear
+of the box, on either side of the doorway.  A larger {Mbanner{} hangs off the
+front ledge of the box.  
+~
+0 8 0
+D2
+~
+~
+0 0 66408
+S
+#66413
+{cOpen Air Seating{}~
+The {ydirt{} is packed down from the milling about of the audience at many
+nights of preformances.  The {csky{} above provides the perfect backdrop for the
+magical acts that take place when the {8stage{} comes to life.  There are no
+seats, one must arrive early and stake out a spot to watch the play.  Most
+people attend a preformance for the social time as much as for the
+breathtaking acting.  
+~
+0 0 1
+D0
+~
+~
+0 0 66415
+D1
+~
+~
+0 0 66402
+S
+#66414
+{cOpen Air Seating{}~
+The {ydirt{} is packed down from the milling about of the audience at many
+nights of preformances.  The {csky{} above provides the perfect backdrop for the
+magical acts that take place when the {8stage{} comes to life.  There are no
+seats, one must arrive early and stake out a spot to watch the play.  Most
+people attend a preformance for the social time as much as for the
+breathtaking acting.  
+~
+0 0 1
+D0
+~
+~
+0 0 66417
+D3
+~
+~
+0 0 66402
+S
+#66415
+{cOpen Air Seating{}~
+The {ydirt{} is packed down from the milling about of the audience at many
+nights of preformances.  The {csky{} above provides the perfect backdrop for the
+magical acts that take place when the {8stage{} comes to life.  There are no
+seats, one must arrive early and stake out a spot to watch the play.  Most
+people attend a preformance for the social time as much as for the
+breathtaking acting.  
+~
+0 0 1
+D1
+~
+~
+0 0 66416
+D2
+~
+~
+0 0 66413
+S
+#66416
+{cOpen Air Seating{}~
+The {ydirt{} is packed down from the milling about of the audience at many
+nights of preformances.  The {csky{} above provides the perfect backdrop for the
+magical acts that take place when the {8stage{} comes to life.  There are no
+seats, one must arrive early and stake out a spot to watch the play.  Most
+people attend a preformance for the social time as much as for the
+breathtaking acting.  A small ladder leads up to the {8stage{}.  
+~
+0 0 1
+D1
+~
+~
+0 0 66417
+D2
+~
+~
+0 0 66402
+D3
+~
+~
+0 0 66415
+D4
+~
+~
+0 0 66418
+S
+#66417
+{cOpen Air Seating{}~
+The {ydirt{} is packed down from the milling about of the audience at many
+nights of preformances.  The {csky{} above provides the perfect backdrop for the
+magical acts that take place when the {8stage{} comes to life.  There are no
+seats, one must arrive early and stake out a spot to watch the play.  Most
+people attend a preformance for the social time as much as for the
+breathtaking acting.  
+~
+0 0 1
+D2
+~
+~
+0 0 66414
+D3
+~
+~
+0 0 66416
+S
+#66418
+{8Stage{}~
+Solid {ywooden{} slabs have been hewn out of large trees and laid down
+tightly together.  Marks from old set pieces mar the surface of the {ywood{} and
+tell tales of old wonders.  Small bits of rotten {Rfr{ru{Rit{} stink from the
+joints, evidence of the audiences comments on prior performances.  
+~
+0 4 1
+D0
+~
+~
+0 0 66422
+D1
+~
+~
+0 0 66420
+D3
+~
+~
+0 0 66419
+D5
+~
+~
+0 0 66416
+S
+#66419
+{8Stage{}~
+Solid {ywooden{} slabs have been hewn out of large trees and laid down
+tightly together.  Marks from old set pieces mar the surface of the {ywood{} and
+tell tales of old wonders.  Small bits of rotten {Rfr{ru{Rit{} stink from the
+joints, evidence of the audiences comments on prior performances.  
+~
+0 0 1
+D0
+~
+~
+0 0 66423
+D1
+~
+~
+0 0 66418
+S
+#66420
+{8Stage{}~
+Solid {ywooden{} slabs have been hewn out of large trees and laid down
+tightly together.  Marks from old set pieces mar the surface of the {ywood{} and
+tell tales of old wonders.  Small bits of rotten {Rfr{ru{Rit{} stink from the
+joints, evidence of the audiences comments on prior performances.  
+~
+0 0 1
+D0
+~
+~
+0 0 66421
+D3
+~
+~
+0 0 66418
+S
+#66421
+{8Stage{}~
+Solid {ywooden{} slabs have been hewn out of large trees and laid down
+tightly together.  Marks from old set pieces mar the surface of the {ywood{} and
+tell tales of old wonders.  Small bits of rotten {Rfr{ru{Rit{} stink from the
+joints, evidence of the audiences comments on prior performances.  
+~
+0 0 1
+D1
+~
+~
+0 0 66425
+D2
+~
+~
+0 0 66420
+D3
+~
+~
+0 0 66422
+S
+#66422
+{8Stage{}~
+Solid {ywooden{} slabs have been hewn out of large trees and laid down
+tightly together.  Marks from old set pieces mar the surface of the {ywood{} and
+tell tales of old wonders.  Small bits of rotten {Rfr{ru{Rit{} stink from the
+joints, evidence of the audiences comments on prior performances.  
+~
+0 0 1
+D1
+~
+~
+0 0 66421
+D2
+~
+~
+0 0 66418
+D3
+~
+~
+0 0 66423
+S
+#66423
+{8Stage{}~
+Solid {ywooden{} slabs have been hewn out of large trees and laid down
+tightly together.  Marks from old set pieces mar the surface of the {ywood{} and
+tell tales of old wonders.  Small bits of rotten {Rfr{ru{Rit{} stink from the
+joints, evidence of the audiences comments on prior performances.  
+~
+0 0 1
+D1
+~
+~
+0 0 66422
+D2
+~
+~
+0 0 66419
+D3
+~
+~
+0 0 66424
+S
+#66424
+{8East Wing{}~
+Tall shrunks line the walls of the wing, full of costumes and props for
+the next preformance.  A couple of wooden {Gtrees {}and {Gbushes{} are leaning
+against the far wall.  A moveable {ystaircase{} is tucked away in a corner.  A
+small {yb{wa{ys{wk{ye{wt{} holds sewing supplies.  
+~
+0 8 0
+D1
+~
+~
+0 0 66423
+S
+#66425
+{8West Wing{}~
+Along the back wall is a large table covered in greasy makeup containers.
+A few small pieces of shiny {8metal{} have been tacked to the wall.  The side
+wall is covered in hooks, on each a different actor's clothing hangs.  Two
+sets of fake breasts lie in a heap on the floor next to a discarded
+petticoat.  
+~
+0 8 0
+D0
+~
+~
+0 0 66426
+D3
+~
+~
+0 0 66421
+S
+#66426
+{wThe {GGreen {wRoom{}~
+Small tables hold bowls full of {Rfr{ru{Rit{} and pitchers of water and {yale{}. 
+Several benches are covered in rough blankets.  This is where the actors
+gather before and during the performance to prepare for their time onstage. 
+~
+0 8 0
+D2
+~
+~
+0 0 66425
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 66406 1 66401 1
+G 0 66406 0
+G 0 66407 0
+G 0 66408 0
+M 0 66411 5 66401 5
+M 0 66405 5 66402 5
+M 0 66400 1 66404 1
+G 0 66400 0
+G 0 66401 0
+G 0 66402 0
+G 0 66403 0
+M 0 66414 2 66408 2
+M 0 66410 1 66410 1
+G 0 66410 0
+G 0 66412 0
+M 0 66409 1 66411 1
+M 0 66407 2 66412 2
+M 0 66408 1 66412 1
+E 0 66409 0 3
+M 0 66405 5 66413 5
+M 0 66404 10 66414 10
+M 0 66404 10 66415 10
+M 0 66404 10 66416 10
+M 0 66405 5 66417 5
+M 0 66412 1 66424 1
+G 0 66404 0
+G 0 66411 0
+M 0 66413 1 66424 1
+G 0 66404 0
+G 0 66411 0
+M 0 66403 1 66425 1
+E 0 66405 0 5
+M 0 66401 1 66426 1
+G 0 66404 0
+G 0 66411 0
+M 0 66402 1 66426 1
+G 0 66402 0
+G 0 66411 0
+S
+
+
+
+#SHOPS
+66400 0 0 0 0 0 100 100 0 23
+66406 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,465 @@
+#AREADATA
+Name Cajun Gardens~
+Builders Gambit Zap~
+VNUMs 50600 50899
+Credits [*DELETE] Gambit  Cajun Gardens~
+Security 4
+End
+
+
+
+#MOBILES
+#50800
+The Hidden Elven Guard~
+The hidden elven guard~
+The hidden elven guard
+~
+~
+elf~
+A J 0 1000 1
+130 100 40d10+10 30d1+1 5d23+85 thrust
+-20 -20 -20 -20
+Q 0 B Z
+stand stand male 30
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#50700
+no name~
+(no short description)~
+There is a sign here~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#50600
+The Cajun Swamp~
+You look around and smell some down-home cajun cooking.  In the distance
+you hear a badly played banjo.  There is a path deeper into the swamp to
+the east and in front of you is a sign.
+ 
+~
+0 4 0
+D1
+~
+~
+0 0 50601
+D2
+~
+~
+0 0 50604
+O Gambit~
+S
+#50601
+More Swamps~
+You are deeper in the swamps.  There is a path to the west and a cave to the
+south.  There is a strange smell coming from the cave.
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 50602
+D2
+~
+~
+0 0 50605
+D3
+~
+~
+0 0 50600
+S
+#50602
+Tar Pit~
+There is a tar pit here with the remains of recently deceased animal.
+From the size of this monster you hope there are no more around.
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 50603
+D3
+~
+~
+0 0 50601
+S
+#50603
+Deeper in the Swamps~
+The canopy of trees is so thick here that the light of the sun never
+gets through.  The smell of stagnant swamp brine is chokingly thick
+and you shudder as you feel something swim between your legs.
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 50614
+D2
+~
+~
+0 0 50613
+D3
+~
+~
+0 0 50602
+S
+#50604
+Endless Swamp~
+As far as the eye can see there is more and more swamp.
+Trails lead in all directions.
+~
+0 0 0
+D0
+~
+~
+0 0 50600
+D1
+~
+~
+0 0 50604
+D2
+~
+~
+0 0 50604
+D3
+~
+~
+0 0 50604
+D4
+~
+~
+0 0 50604
+D5
+~
+~
+0 0 50604
+S
+#50605
+Cave opening~
+This cave is dark and damp.  Further into the cave there is a faint glow.
+You also notice an oily smell emanating from the south.
+~
+0 0 0
+D0
+~
+~
+0 0 50601
+D2
+~
+~
+0 0 50606
+S
+#50606
+Deeper in the Cave~
+There are thousands of bugs in this section of the cave.  You shiver as you feel
+something crawl up your leg...hopefully it doesn't bite.  Further south is
+ths source of the glow.
+~
+0 0 0
+D0
+~
+~
+0 0 50605
+D1
+~
+~
+0 0 50608
+D2
+~
+~
+0 0 50607
+D3
+~
+~
+0 0 50609
+S
+#50607
+South end of the Cave~
+The walls are covered with a phospherescent slime.  In the center of this room
+is a pile of rotting bones.
+~
+0 0 0
+D0
+~
+~
+0 0 50606
+S
+#50608
+Cave Junction~
+There is a huge cavern below you with a delicate looking stone bridge leading off
+in various directions.  It looks like there is a winding stairway going down to the bottom
+of the cavern.  Although it looks treacherous you think you can climb down.
+~
+0 0 0
+D0
+~
+~
+0 0 50611
+D2
+~
+~
+0 0 50610
+D3
+~
+~
+0 0 50606
+D5
+~
+~
+0 0 50612
+S
+#50609
+Western Cave~
+This part of the cave is very wet.  Slime and mildew are mixed on the walls to make a
+horrible smell that is giving you a headache.
+~
+0 0 0
+D1
+~
+~
+0 0 50606
+S
+#50610
+Southern Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 50608
+S
+#50611
+Northern Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 50608
+S
+#50612
+Stairs~
+~
+0 0 0
+D4
+~
+~
+0 0 50608
+D5
+~
+~
+0 0 50620
+S
+#50613
+~
+~
+0 0 0
+D0
+~
+~
+0 0 50603
+D1
+~
+~
+0 0 50616
+D2
+~
+~
+0 0 50615
+D3
+~
+~
+0 0 50617
+S
+#50614
+~
+~
+0 0 0
+D2
+~
+~
+0 0 50603
+S
+#50615
+~
+~
+0 0 0
+D0
+~
+~
+0 0 50613
+D1
+~
+~
+0 0 50619
+D3
+~
+~
+0 0 50618
+S
+#50616
+~
+~
+0 0 0
+D2
+~
+~
+0 0 50619
+D3
+~
+~
+0 0 50613
+S
+#50617
+~
+~
+0 0 0
+D1
+~
+~
+0 0 50613
+D2
+~
+~
+0 0 50618
+S
+#50618
+~
+~
+0 0 0
+D0
+~
+~
+0 0 50617
+D1
+~
+~
+0 0 50615
+S
+#50619
+~
+~
+0 0 0
+D0
+~
+~
+0 0 50616
+D3
+~
+~
+0 0 50615
+S
+#50620
+Stairs~
+~
+0 0 0
+D4
+~
+~
+0 0 50612
+D5
+~
+~
+0 0 50621
+S
+#50621
+Stairs~
+~
+0 0 0
+D4
+~
+~
+0 0 50620
+D5
+~
+~
+0 0 50622
+S
+#50622
+Stairs~
+~
+0 0 0
+D4
+~
+~
+0 0 50621
+D5
+~
+~
+0 0 50624
+S
+#50623
+~
+~
+0 0 0
+D4
+~
+~
+0 0 50622
+S
+#50624
+Stairs~
+~
+0 0 0
+D4
+~
+~
+0 0 50622
+D5
+~
+~
+0 0 50625
+S
+#50625
+Bottom!~
+~
+0 0 0
+D4
+~
+~
+0 0 50624
+S
+#50690
+Gambit's Room~
+This is where Gambit hangs out on his off hours.  There are all
+kinds of martial arts posters hanging on the walls and there
+is a very posh bearskin rug covering the whole floor.
+ 
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

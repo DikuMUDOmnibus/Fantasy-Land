@@ -1,0 +1,103 @@
+#AREADATA
+Name Rifka's Reality~
+Builders Rifka~
+VNUMs 60400 60499
+Credits <--- ---> Rifka   Rifka's Reality~
+Security 1
+End
+
+
+
+#MOBILES
+#60400
+Jenny~
+Jenny~
+Jenny is here
+~
+~
+human~
+A 0 0 1000 0
+0 1000 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#60400
+Dark Death ~
+(Dark|Death)~
+A dark blade glows here.~
+Crystal~
+weapon AB ANO
+sword 200 10000 magic ACG
+155 1 100000 P
+#60401
+Smoke Portal~
+a portal~
+A shimmering portal is here quivering each time the wind blows~
+Silver Liquid~
+portal 0 0
+0 0 0 60401 0
+1 1 0 P
+#60402
+god holy mask~
+{@God's Mask{7~
+A mask is here glowing a holy white light~
+light~
+armor ABISY AR
+5000 5000 5000 5000 0
+155 1 0 P
+#0
+
+
+
+#ROOMS
+#60400
+Small Clearing~
+As you enter a small clearing a shimmering portal rises from the ground
+like smoke.  The colors swirl and dazzle like it was trying to put you in a
+trance.  The trees here seems slightly transparent.  The path ends here, you
+can go back or adventure into the eerie window that takes you elsewhere.  
+~
+0 4 0
+S
+#60401
+room 60401~
+~
+0 0 0
+S
+#60402
+room 60402~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 60401 0 60400
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,772 @@
+#AREADATA
+Name Elven Fortress~
+Builders Angie~
+VNUMs 81200 81299
+Credits 70-90~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#81200
+Before the Drawbridge~
+You are standing before the drawbridge of a large fortress.  Looking at
+the architecture, you judge it to be Elven, or atleast inspired by the
+elves.  Large walls with reinforced archer towers stand tall at the
+junctions of the walls, and you judge that it wouldn't be prudent to cause
+any trouble; arrows litter the field from previous battles, and you see at
+least two or three distinct blood stains on the field.
+~
+0 0 0
+D0
+~
+~
+0 0 81201
+S
+#81201
+{2Elven {1Fortress {&Drawbridge{x~
+Clink, clink clink. A mechanical device pulls and clanks as
+the hefty wooden drawbridge lowers slowly for your entrance.
+A quiet, rumbling creak flows below the bridge, and along the
+grass next to the water is clean cut grass. Arrows penetrate
+the ground in spots where the Elven Archers missed their living
+marks.
+~
+0 0 0
+D0
+~
+~
+0 0 81202
+D2
+~
+~
+0 0 81200
+S
+#81202
+{7The {2Elven {1Fortress {7Turnstile{x~
+Walking across the bridge, you hear loud clicks from the heels
+of other elves' boots walking briskly in and out of the city. You
+see a few shifty eyes glancing suspiciously at you. Every living
+soul you've seen so far is an elf. Rarely are others allowed entry.
+Do you have long ears with sharp tips, fair white skin, and a bow
+and arrow on your back? If not, this city bids that you leave as
+quickly as you came.
+~
+0 0 0
+D0
+~
+~
+0 0 81203
+D2
+~
+~
+0 0 81201
+S
+#81203
+Officer's Examination~
+An elven officer sets his eyes upon you, and makes his way
+swiftly through the crowd of elves. His bow and arrow are
+conveniently at his side, but he seems amazed that you made
+it this far into the city, and approaches you without raising
+his weapon. All eyes are set upon you, as this kind of inspection
+has not happened in months.
+~
+0 0 0
+D0
+~
+~
+0 0 81204
+D2
+~
+~
+0 0 81202
+S
+#81204
+Into the Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail.
+~
+0 0 0
+D0
+~
+~
+0 0 81205
+D2
+~
+~
+0 0 81203
+S
+#81205
+Into the Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail.
+~
+0 0 0
+D0
+~
+~
+0 0 81206
+D2
+~
+~
+0 0 81204
+S
+#81206
+Into the Elven City~
+Quiet, mysterious looking elves keep their eye on you as you
+make your way further into the city's wake. There are signs
+posted along some of the doors that read "Wanted." The faces
+on these signs are pastoral and sullen, for they have tried and
+tried to invade this city, but have failed, and somehow made it
+away without leaving their lives left behind.
+~
+0 0 0
+D0
+~
+~
+0 0 81207
+D2
+~
+~
+0 0 81205
+S
+#81207
+Into the Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail.
+~
+0 0 0
+D0
+~
+~
+0 0 81208
+D2
+~
+~
+0 0 81206
+S
+#81208
+Into the Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail.
+~
+0 0 0
+D0
+~
+~
+0 0 81209
+D2
+~
+~
+0 0 81207
+S
+#81209
+Into the Elven City~
+Quiet, mysterious looking elves keep their eye on you as you
+make your way further into the city's wake. There are signs
+posted along some of the doors that read "Wanted." The faces
+on these signs are pastoral and sullen, for they have tried and
+tried to invade this city, but have failed, and somehow made it
+away without leaving their lives left behind.
+~
+0 0 0
+D0
+~
+~
+0 0 81210
+D2
+~
+~
+0 0 81208
+S
+#81210
+Into the Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail.
+~
+0 0 0
+D0
+~
+~
+0 0 81211
+D2
+~
+~
+0 0 81209
+S
+#81211
+Into the Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail.
+~
+0 0 0
+D0
+~
+~
+0 0 81212
+D2
+~
+~
+0 0 81210
+S
+#81212
+Into the Elven City~
+Quiet, mysterious looking elves keep their eye on you as you
+make your way further into the city's wake. There are signs
+posted along some of the doors that read "Wanted." The faces
+on these signs are pastoral and sullen, for they have tried and
+tried to invade this city, but have failed, and somehow made it
+away without leaving their lives left behind.
+~
+0 0 0
+D0
+~
+~
+0 0 81213
+D2
+~
+~
+0 0 81211
+S
+#81213
+{xThe {1Fortress {4Check Point{x~
+Tall, wise looking elves rest up against street posts here,
+with cigars and small, carefully rolled plants drooping
+from their mouths. They are trading and conversing with
+each other in an undertone, hoping to not catch the attention
+of wandering eyes. Off to the east and west are dirt paths. On
+each path lie wooden steps along the walls that lead up to tall
+brown doors. There are blacksmith workshops, elven shops,
+secret hiding spots, and comfortable homes with neatly crafted
+signs above them. One sign catches your eye in particular, it
+reads "{@L{x'{@eimen{x'{@le{x."
+~
+0 0 0
+D0
+~
+~
+0 0 81214
+D2
+~
+~
+0 0 81212
+S
+#81214
+Into the Dimly Lit Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail. There are shops just ahead
+on each side of the walls.
+~
+0 0 0
+D0
+~
+~
+0 0 81215
+D2
+~
+~
+0 0 81213
+S
+#81215
+Into the Dimly Lit Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail. To the west lies Darby's
+elvish armory.
+~
+0 0 0
+D0
+~
+~
+0 0 81216
+D2
+~
+~
+0 0 81214
+S
+#81216
+Into the Dimly Lit Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail. There are shops just ahead
+on each side of the walls.
+~
+0 0 0
+D0
+~
+~
+0 0 81217
+D2
+~
+~
+0 0 81215
+S
+#81217
+Into the Dimly Lit Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail. Loud music can be heard
+from the east. Nefer's Bar is throwing its nightly celebration.
+Each bash is quite a social event in the city.
+~
+0 0 0
+D0
+~
+~
+0 0 81218
+D2
+~
+~
+0 0 81216
+S
+#81218
+Into the Dimly Lit Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail. There are shops just ahead
+on each side of the walls.
+~
+0 0 0
+D0
+~
+~
+0 0 81219
+D2
+~
+~
+0 0 81217
+S
+#81219
+Into the Dimly Lit Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail. There are shops just ahead
+on each side of the walls.
+~
+0 0 0
+D0
+~
+~
+0 0 81220
+D2
+~
+~
+0 0 81218
+S
+#81220
+Into the Dimly Lit Elven City~
+Quiet, mysterious looking elves keep their eye on you as you
+make your way further into the city's wake. There are signs
+posted along some of the doors that read "Wanted." The faces
+on these signs are pastoral and sullen, for they have tried and
+tried to invade this city, but have failed, and somehow made it
+away without leaving their lives left behind.
+~
+0 0 0
+D0
+~
+~
+0 0 81221
+D2
+~
+~
+0 0 81219
+S
+#81221
+Into the Dimly Lit Elven City~
+Elven merchants, blackmailers, assassins, jokers, archers, and
+dragon riders all make up the city of the elves. A few elves are
+hiding in the shelter of a wall shadow along the border of the
+fortress. They are exchanging money, and little scrolls of paper
+with murderous quests and blackmail. There are shops just ahead
+on each side of the walls.
+~
+0 0 0
+D0
+~
+~
+0 0 81222
+D2
+~
+~
+0 0 81220
+S
+#81222
+Northern Inland Wall~
+Off-white, slightly rippled and torn "Wanted" posters are bolted up
+on the city walls. You pray that it is not your face that you find hung up
+in these city's borders, for not one wanted soul has been overlooked. For
+each death checked off, there is two celebrations in Nefer's bar.
+~
+0 0 0
+D1
+~
+~
+0 0 81223
+D2
+~
+~
+0 0 81221
+D3
+~
+~
+0 0 81229
+S
+#81223
+Northern Inland Wall~
+This wall's bedrock is made of crushed boulders, and grey cobblestone.
+It is rough and very cold to the touch. Up above you, can be seen the eyes
+of the city's defense. The city's elven archers have their bows stretched
+with arrows in hand ready to shoot at any unworthy intruders. From time
+to time you can hear the unmistakable woosh and thunk of an arrow being
+blasted through the air and into someone's chest. The defense system of
+this city is quite astonishing.
+~
+0 0 0
+D1
+~
+~
+0 0 81224
+D3
+~
+~
+0 0 81222
+S
+#81224
+Northern Inland Wall~
+This wall's bedrock is made of crushed boulders, and grey cobblestone.
+It is rough and very cold to the touch. Up above you, can be seen the eyes
+of the city's defense. The city's elven archers have their bows stretched
+with arrows in hand ready to shoot at any unworthy intruders. From time
+to time you can hear the unmistakable woosh and thunk of an arrow being
+blasted through the air and into someone's chest. The defense system of
+this city is quite astonishing.
+~
+0 0 0
+D1
+~
+~
+0 0 81225
+D3
+~
+~
+0 0 81223
+S
+#81225
+Northern Inland Wall~
+ou notice there aren't any ways to get out of this city unless you make
+your way back to the entrance and have the guards lower the turnstile.
+There are no portholes or apertures to peek out of, to see the outside
+world's drama. Many of the elders forget who hide behind books and
+rest in their cubby holes, read newspapers and listen to word of mouth,
+for inside this Fortress, it is easy to forget the rest of the world's
+existance.
+~
+0 0 0
+D1
+~
+~
+0 0 81226
+D3
+~
+~
+0 0 81224
+S
+#81226
+Northern Inland Wall~
+This wall's bedrock is made of crushed boulders, and grey cobblestone.
+It is rough and very cold to the touch. Up above you, can be seen the eyes
+of the city's defense. The city's elven archers have their bows stretched
+with arrows in hand ready to shoot at any unworthy intruders. From time
+to time you can hear the unmistakable woosh and thunk of an arrow being
+blasted through the air and into someone's chest. The defense system of
+this city is quite astonishing.
+~
+0 0 0
+D1
+~
+~
+0 0 81227
+D3
+~
+~
+0 0 81225
+S
+#81227
+Northern Inland Wall~
+This wall's bedrock is made of crushed boulders, and grey cobblestone.
+It is rough and very cold to the touch. Up above you, can be seen the eyes
+of the city's defense. The city's elven archers have their bows stretched
+with arrows in hand ready to shoot at any unworthy intruders. From time
+to time you can hear the unmistakable woosh and thunk of an arrow being
+blasted through the air and into someone's chest. The defense system of
+this city is quite astonishing.
+~
+0 0 0
+D1
+~
+~
+0 0 81228
+D3
+~
+~
+0 0 81226
+S
+#81228
+Northeastern Inland Wall~
+Next to you is a heavy stone door leading up to the turret systems upon
+the cold stone ledges. The tops of hats can be seen, and briefly the arms
+of elves, pulling arrows backwards and flinging them into the air. The
+speed of the arrows is so fast that they can be heard in a high, screaming
+pitch, fading into the distance as they pierce the air. The great wall
+branches off to the north and west.
+~
+0 0 0
+D2
+~
+~
+0 0 81237
+D3
+~
+~
+0 0 81227
+S
+#81229
+Northern Inland Wall~
+This wall's bedrock is made of crushed boulders, and grey cobblestone.
+It is rough and very cold to the touch. Up above you, can be seen the eyes
+of the city's defense. The city's elven archers have their bows stretched
+with arrows in hand ready to shoot at any unworthy intruders. From time
+to time you can hear the unmistakable woosh and thunk of an arrow being
+blasted through the air and into someone's chest. The defense system of
+this city is quite astonishing.
+~
+0 0 0
+D1
+~
+~
+0 0 81222
+D3
+~
+~
+0 0 81230
+S
+#81230
+Northern Inland Wall~
+This wall's bedrock is made of crushed boulders, and grey cobblestone.
+It is rough and very cold to the touch. Up above you, can be seen the eyes
+of the city's defense. The city's elven archers have their bows stretched
+with arrows in hand ready to shoot at any unworthy intruders. From time
+to time you can hear the unmistakable woosh and thunk of an arrow being
+blasted through the air and into someone's chest. The defense system of
+this city is quite astonishing.
+~
+0 0 0
+D1
+~
+~
+0 0 81229
+D3
+~
+~
+0 0 81231
+S
+#81231
+Northern Inland Wall~
+Off-white, slightly rippled and torn "Wanted" posters are bolted up
+on the city walls. You pray that it is not your face that you find hung up
+in these city's borders, for not one wanted soul has been overlooked. For
+each death checked off, there is two celebrations in Nefer's bar.
+~
+0 0 0
+D1
+~
+~
+0 0 81230
+D3
+~
+~
+0 0 81232
+S
+#81232
+Northern Inland Wall~
+This wall's bedrock is made of crushed boulders, and grey cobblestone.
+It is rough and very cold to the touch. Up above you, can be seen the eyes
+of the city's defense. The city's elven archers have their bows stretched
+with arrows in hand ready to shoot at any unworthy intruders. From time
+to time you can hear the unmistakable woosh and thunk of an arrow being
+blasted through the air and into someone's chest. The defense system of
+this city is quite astonishing.
+~
+0 0 0
+D1
+~
+~
+0 0 81231
+D3
+~
+~
+0 0 81233
+S
+#81233
+Northern Inland Wall~
+This wall's bedrock is made of crushed boulders, and grey cobblestone.
+It is rough and very cold to the touch. Up above you, can be seen the eyes
+of the city's defense. The city's elven archers have their bows stretched
+with arrows in hand ready to shoot at any unworthy intruders. From time
+to time you can hear the unmistakable woosh and thunk of an arrow being
+blasted through the air and into someone's chest. The defense system of
+this city is quite astonishing.
+~
+0 0 0
+D1
+~
+~
+0 0 81232
+D3
+~
+~
+0 0 81234
+S
+#81234
+Northern Inland Wall~
+This wall's bedrock is made of crushed boulders, and grey cobblestone.
+It is rough and very cold to the touch. Up above you, can be seen the eyes
+of the city's defense. The city's elven archers have their bows stretched
+with arrows in hand ready to shoot at any unworthy intruders. From time
+to time you can hear the unmistakable woosh and thunk of an arrow being
+blasted through the air and into someone's chest. The defense system of
+this city is quite astonishing.
+~
+0 0 0
+D1
+~
+~
+0 0 81233
+D3
+~
+~
+0 0 81235
+S
+#81235
+Northwestern Inland Corner~
+Next to you is a heavy stone door leading up to the turret systems upon
+the cold stone ledges. The tops of hats can be seen, and briefly the arms
+of elves, pulling arrows backwards and flinging them into the air. The
+speed of the arrows is so fast that they can be heard in a high, screaming
+pitch, fading into the distance as they pierce the air. The great wall
+branches off to the south and east.
+~
+0 0 0
+D1
+~
+~
+0 0 81234
+D2
+~
+~
+0 0 81236
+S
+#81236
+Western Inland Wall~
+This wall's bedrock is made of crushed boulders, and grey cobblestone.
+It is rough and very cold to the touch. Up above you, can be seen the eyes
+of the city's defense. The city's elven archers have their bows stretched
+with arrows in hand ready to shoot at any unworthy intruders. From time
+to time you can hear the unmistakable woosh and thunk of an arrow being
+blasted through the air and into someone's chest. The defense system of
+this city is quite astonishing.
+~
+0 0 0
+D0
+~
+~
+0 0 81235
+S
+#81237
+Eastern Inland Corner~
+This wall's bedrock is made of crushed boulders, and grey cobblestone.
+It is rough and very cold to the touch. Up above you, can be seen the eyes
+of the city's defense. The city's elven archers have their bows stretched
+with arrows in hand ready to shoot at any unworthy intruders. From time
+to time you can hear the unmistakable woosh and thunk of an arrow being
+blasted through the air and into someone's chest. The defense system of
+this city is quite astonishing.
+~
+0 0 0
+D0
+~
+~
+0 0 81228
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

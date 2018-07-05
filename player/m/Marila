@@ -1,0 +1,333 @@
+#PLAYER
+Name Marila~
+Race pixie~
+Levl 11
+Clas druid~
+Pkpt 100
+TSex 2
+LogO 1279596220
+Sock c-24-16-180-245.hsd1.wa.comcast.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1279490725
+Plat 0
+Gold 10
+Silv 17
+Exp  24339
+Attr 12 20 20 15 17
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+AfBy ELTVc
+Config C
+Combat DI
+Pos  8
+Alig  639
+Sk 1 'acid storm'
+Sk 1 'acidshield'
+Sk 1 'angelfire'
+Sk 1 'call lightning'
+Sk 1 'conjure'
+Sk 1 'control weather'
+Sk 1 'demonfire'
+Sk 75 'detect terrain'
+Sk 1 'dispel evil'
+Sk 1 'dispel good'
+Sk 1 'downpour'
+Sk 75 'earthquake'
+Sk 1 'electrical storm'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'fire storm'
+Sk 1 'fireshield'
+Sk 1 'flamestrike'
+Sk 75 'fly'
+Sk 1 'glacier'
+Sk 1 'heat metal'
+Sk 1 'iceshield'
+Sk 1 'incinerate'
+Sk 1 'lightning bolt'
+Sk 1 'mana shield'
+Sk 1 'ray of deceit'
+Sk 1 'ray of truth'
+Sk 1 'rockshield'
+Sk 1 'shockshield'
+Sk 1 'shrapnelshield'
+Sk 1 'snow storm'
+Sk 1 'thornshield'
+Sk 1 'thunderbolt'
+Sk 1 'transfix'
+Sk 1 'vampiricshield'
+Sk 1 'watershield'
+Sk 75 'polearm'
+Sk 50 'recall'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+MaxDam 78
+LLev 0
+Pass MaTdlchpCqRFE~
+Plyd 2017
+Note 0 0 0 0 0
+Room 3014
+HMVN 423 475 759 994 242 242
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 8 8
+Deviant 0 0
+Prac 64
+Trai 30
+Devote current 0
+Pnts 42
+Mkil 17
+Gr 'attack'
+Gr 'conjuration'
+Gr 'druid basics'
+Gr 'elemental'
+Gr 'rom basics'
+Gr 'shielding'
+Gr 'weather'
+Affc 'farsight'   0   1   0  -1   0   0       2048
+Affc 'detect magic'   0   0   0  -1   0   0         16
+Affc 'fly'   0   0   0  -1   0   0     524288
+Affc 'haste'   0   0   0  -1   1   2    2097152
+Affc 'regeneration'   0   0   0  -1   0   0  268435456
+End
+
+#O
+Vnum 3162
+Nest 0
+End
+
+#O
+Vnum 3163
+Nest 0
+End
+
+#O
+Vnum 3169
+Nest 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+Wear 0
+Valu 2 1 160
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3722
+Nest 0
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3708
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 36
+Wear 8
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 36
+Wear 14
+End
+
+#O
+Vnum 717
+Nest 0
+Name exceptional Dazzling cap special~
+ShD  Exceptional Dazzling cap~
+Loader MPOP: (15:27-07/18/2010) Marila~
+Cost 100
+Valu 1 7 15
+Valu 2 7 14
+Valu 3 7 14
+Affc 'reserved' 2 1 -1 7 18 0
+Affc 'reserved' 2 1 -1 -6 17 0
+End
+
+#O
+Vnum 3724
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 37
+Wear 1
+End
+
+#O
+Vnum 3719
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 37
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 37
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 37
+End
+
+#O
+Vnum 737
+Nest 0
+Name Lizard's sleeves Dexterity special~
+ShD  Lizard's sleeves of Dexterity~
+Loader MPOP: (15:28-07/18/2010) Marila~
+Lev  2
+Cost 75
+Wear 10
+Affc 'reserved' 2 1 -1 7 12 0
+Affc 'reserved' 2 1 -1 2 2 0
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 37
+Wear 25
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 37
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 37
+Wear 24
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 37
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 39
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 39
+Wear 3
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 42
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 42
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 42
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 42
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 42
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 42
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 43
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 43
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 43
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 43
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 43
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 43
+End
+
+#O
+Vnum 3727
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 44
+Wear 20
+End
+
+#O
+Vnum 3728
+Nest 0
+MULTI Marila~ c-24-16-180-245.hsd1.wa.comcast.net~ 44
+Wear 27
+End
+
+#END

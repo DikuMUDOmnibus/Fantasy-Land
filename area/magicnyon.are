@@ -1,0 +1,1579 @@
+#AOD_AREA
+Canyon of the Magi~
+1750 1799 C 8
+Levl 0 0
+Bldr Izual~
+End
+
+#MOBILES
+#1750
+gargoyle statue~
+A {8Gargolye{x~
+A {8Gargolye{x stands guard at the entrance
+~
+The large statue stares at its visitors and seem motionless.  Its eyes
+can be seen glancing around for unfamiliar faces.  
+~
+troll~
+100 50 50 100 100 100 100 200 200 100 100 100 100 200 100 0 200 200 100 100 100 100 100 100 0 0 
+ABCFU FIJZc 0 0 0
+160 35 0 6535 6571 441 471 7 6 40 claw
+-9000 -9000 -9000 -8990
+STANDING STANDING random 1120
+0 mage large ABCUV
+
+#1751
+gargantuan beast~
+A {2ga{3rg{2an{3tu{2an {2b{8eas{2t{x~
+A {2ga{3rg{2an{3tu{2an {2b{8eas{2t{x is here roaming around.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 0 0 
+AGH VYac 0 -100 0
+160 20 0 4638 4676 138 178 7 6 20 crush
+-8900 -8800 -8700 -8600
+STANDING STANDING male 1110
+0 mage large ABCDEFGHIJK
+
+#1752
+scavenger bird~
+An {7un{8de{7ad {6s{3c{6a{3v{6e{3n{6g{3e{6r{x~
+An {7un{8de{7ad {6s{3c{6a{3v{6e{3n{6g{3e{6r{x is here flapping its wings.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 200 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+AG BIT 0 -300 0
+155 15 0 6823 6906 2030 2074 7 6 26 claw
+-9000 -9180 -9120 -9200
+STANDING STANDING random 1400
+0 mage medium ABCDEFGHIJK
+
+#1762
+Scarab~
+A {8S{6c{8a{6r{8a{6b{x~
+A {8S{6c{8a{6r{8a{6b{x lies motionless and awaits for its victims.
+~
+~
+human~
+100 100 100 100 100 100 100 200 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 0 0 
+ABFG J 0 0 0
+150 20 0 9154 9437 4028 4084 7 7 35 bite
+-9990 -11000 -10900 -10000
+STANDING STANDING neutral 1120
+0 mage small ABCDEFGHIJK
+
+#1763
+scorpion ~
+A {#Sc{3o{#rp{3i{#on{x~
+A {#Sc{3o{#rp{3i{#on{x crawls and snaps its claws at his victims.
+~
+~
+human~
+100 100 0 100 100 100 100 200 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 0 0 
+ABFG J 0 0 0
+155 20 0 9364 9509 4831 4869 7 6 35 bite
+-10900 -10900 -10900 -10900
+STANDING STANDING neutral 1120
+0 mage medium ABCDEFGHIJK
+
+#1764
+snake reptile~
+{2A {1S{3n{1a{3k{1e{x~
+{2A {1S{3n{1a{3k{1e{x slithers as it waits for the next victim.
+~
+A snake silthers and awaits for its next victim.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+ABFG J 0 0 0
+155 22 0 8231 8309 4040 4076 7 6 20 bite
+-10100 -10100 -10100 -10100
+STANDING STANDING neutral 1120
+0 mage medium ABCDEFGHIJK
+
+#1765
+crocodile reptile~
+{2A Cro{@cod{2ile{x~
+{2A Cro{@cod{2ile{x is here snapping away at its victims.
+~
+A ferocious reptile glares at you and snaps away.  
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+ABFGTU 0 0 0 0
+155 22 0 8037 8086 5036 5079 7 6 35 bite
+-10500 -10500 -10500 -10480
+STANDING STANDING neutral 1120
+0 mage medium ABCDEFGHIJK
+
+#1767
+fire magi~
+a {!f{1ir{!e {#M{3ag{#i{x~
+A {!f{1ir{!e {#M{3ag{#i{x is here guarding the hallway.
+~
+~
+human~
+100 100 0 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+AGT JVWZc DG 0 0
+200 30 0 12681 13024 7043 7079 7 6 45 flame
+-13400 -13210 -12110 -11000
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJK
+
+#1768
+ice magi~
+an {^i{6c{^e {#M{3ag{#i{x~
+An {^i{6c{^e {#M{3ag{#i{x is here guarding the hallway.
+~
+~
+human~
+100 100 0 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 0 
+AGT EJPRVWZc CG 0 0
+200 30 0 12748 13177 7035 7077 7 8 45 slash
+-11000 -12000 -13000 -14000
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJK
+
+#1769
+lightning magi~
+a {&l{7i{&g{7h{&t{7n{&i{7n{&g {#M{3ag{#i{x~
+A {&l{7i{&g{7h{&t{7n{&i{7n{&g {#M{3ag{#i{x is here guarding the hallway.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 0 0 
+AGT EJVWZc EG 0 0
+200 30 0 12697 13051 7035 7079 7 8 48 shock
+-12110 -12220 -12330 -12440
+STANDING STANDING neutral 1500
+0 mage medium ABCDEFGHIJK
+
+#1772
+Magi Lord~
+the {#M{3ag{#i {#L{3or{#d{x~
+The {#M{3ag{#i L{3or{#d{x is here giving out orders to his disciples.
+~
+Here stands the almighty lord of the Canyon.  Being the Head Magi
+around, he commands his disciples and takes care of the Canyon.  With his
+fearsome and serious looks, no one should mess with him.  
+~
+dragon~
+100 50 0 50 100 100 100 0 0 100 100 100 100 0 100 0 0 0 100 100 100 200 100 100 0 0 
+ABFc DFJQTVZc DGJN 500 0
+220 32 0 11064 11479 9943 10030 8 7 50 magic
+-12760 -11960 -10110 -11650
+STANDING STANDING male 2500
+0 mage medium ACDEFGHIJKPQUVX
+
+#1773
+apprentice magi~
+the {1apprentice {#M{3ag{#i{x~
+The {1apprentice {#M{3ag{#i{x is training here.
+~
+~
+human~
+100 100 0 50 100 100 100 50 50 100 100 100 100 50 100 100 50 50 100 100 100 100 100 100 0 0 
+AG DF AGO 0 0
+190 20 0 10051 10151 6537 6572 9 9 40 slash
+-10000 -10000 -10000 -10000
+STANDING STANDING neutral 1500
+0 mage medium ABCDEFGHIJK
+
+#1774
+magi alchemist~
+the {#M{3ag{#i {7Alc{8hem{7ist{x~
+The {#M{3ag{#i {7Alc{8hem{7ist {xis here making potions.
+~
+The Magi Alchemist is engrossed in his experiments and does not wish to be
+bothered.  
+~
+human~
+100 100 0 100 100 100 50 100 0 100 100 100 100 0 100 100 0 0 200 100 100 100 100 100 0 0 
+ABGT DJQV BE -400 0
+210 30 0 10032 10071 9832 9880 8 9 35 magic
+-10000 -10000 -10000 -12000
+STANDING STANDING female 1800
+0 mage medium ABCDEFGHIJK
+
+#1776
+skeletal warrior~
+a {7S{8k{7el{8e{7t{8a{7l {!Wa{1rri{!or{x~
+A {7S{8k{7el{8e{7t{8a{7l {!Wa{1rri{!or{x guards the hallway.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 200 100 100 100 100 100 50 100 100 100 100 100 100 100 100 0 0 
+AGT CVc BGJ -100 0
+200 30 0 12659 13046 6732 6777 8 7 45 blast
+-13090 -13080 -13070 -13060
+STANDING STANDING neutral 890
+0 mage medium ABCDEFGHIJK
+
+#1778
+lich guard~
+a {8L{3i{8c{3h {4G{6u{8a{6r{4d{x~
+A {8L{3i{8c{3h {4G{6u{8a{6r{4d{x is here protecting the hallway.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 200 100 100 100 100 100 50 100 100 100 100 100 100 100 100 0 0 
+AGT Vac B -30 0
+200 30 0 12550 12924 6541 6569 8 8 45 slice
+-13010 -13010 -13010 -13010
+STANDING STANDING male 1550
+0 mage medium ABCDEFGHIJK
+
+#1780
+Skeleton King Leoric~
+{&L{7e{8or{7i{&c{x~
+{&L{7e{8or{7i{&c{x the skeleton king is here commanding his army.
+~
+King Leoric stands with gust and might as he oversees his armies of
+skeletal warriors and magi.  This skeleton king dons a symbolic crown
+which can only belong to the Magi King.  
+~
+human~
+100 100 0 100 100 100 100 200 100 200 100 100 100 100 100 0 100 100 100 100 100 100 100 100 0 0 
+ABFT DFJV HJK -500 0
+220 32 0 13038 13074 12838 12872 8 7 40 slash
+-14000 -14000 -14000 -13000
+STANDING STANDING male 3000
+0 mage large ABCDEFGHIJK
+
+#1781
+skeletal magi~
+a {7S{8k{7e{8l{7e{8t{7o{8n {#M{3ag{#i{x~
+A {7S{8k{7e{8l{7e{8t{&a{8l {#M{3ag{#i{x is training here.
+~
+~
+human~
+100 100 0 100 100 100 100 100 50 100 100 100 100 50 100 100 50 50 50 100 100 100 100 100 0 0 
+AG B 0 0 0
+190 20 0 10372 10526 6621 6674 9 9 40 magic
+-11000 -12000 -13000 -10000
+STANDING STANDING neutral 1100
+0 mage medium ABCDEFGHIJK
+
+#1782
+Skeletal Guard~
+a {7S{8k{7e{8l{7e{8t{7a{8l {@G{2uar{@d{x~
+A {7S{8k{7e{8l{7e{8t{7a{8l {@G{2uar{@d{x is training here.
+~
+~
+human~
+100 100 0 100 100 100 100 100 200 100 100 100 100 200 100 100 200 200 50 100 100 100 100 100 0 0 
+AGT B 0 0 0
+190 22 0 10336 10526 7030 7073 9 9 40 slash
+-13000 -13500 -13100 -10000
+STANDING STANDING neutral 1100
+0 mage medium ABCDEFGHIJK
+
+#1788
+drusila lich queen~
+{6D{8r{6u{8s{6i{8l{6a {xthe {8L{3i{8c{3h {1Q{5u{1e{5e{1n{x~
+{6D{8r{6u{8s{6i{8l{6a {xthe {8L{3i{8c{3h {1Q{5u{1e{5e{1n{x is here, being served by her minions.
+~
+Drusila, once the captivating Queen of the Magi now a Lich.  Her
+expression shows hatred and anger to those who enter her lair.  
+~
+human~
+0 100 0 0 100 100 100 50 100 200 100 100 200 100 100 100 100 100 100 100 100 100 100 100 0 0 
+ABFT DFJPVc BCEGJKN -300 0
+220 52 0 13034 13075 13032 13073 8 7 40 whip
+-10000 -12000 -12000 -10000
+STANDING STANDING neutral 3000
+0 mage large ABCDEFGHIJK
+
+#1789
+elite lich guard~
+{^Elite {8L{3i{8c{3h {8G{2u{8a{2r{8d{x~
+The {^Elite {8L{3i{8c{3h {8G{2u{8a{2r{8d{x stands at attention.
+~
+~
+vampire~
+100 100 0 0 0 100 100 100 100 100 100 200 100 100 100 0 100 100 100 0 100 100 100 100 0 0 
+AGT BTac JO -3 0
+190 22 0 10302 10528 7329 7378 9 9 40 pierce
+-12900 -12800 -12700 -12600
+STANDING STANDING neutral 500
+0 mage medium ABCDEFGHIJKV
+
+#1790
+Lich Magi~
+the {8L{3i{8c{3h {#M{3ag{#i{x~
+The {8L{3i{8c{3h {#M{3ag{#i {xis here researching spells.
+~
+The Lich Magi is busy in magical research and does not wish to be
+disturbed.  
+~
+human~
+200 100 0 50 100 100 100 50 50 200 100 100 100 50 100 100 50 50 100 100 100 200 100 100 0 0 
+ABGT DJV GJK 400 0
+210 30 0 9936 9977 6038 6070 8 7 40 blast
+-10000 -10000 -10000 -9900
+STANDING STANDING neutral 950
+0 mage medium ABCDEFGHIJK
+
+#1794
+rotting carcass~
+a {8r{7o{8tti{7n{8g {3c{1a{6r{3c{1a{6s{3s{x~
+A {8r{7o{8tti{7n{8g {3c{1a{6r{3c{1a{6s{3s{x is here.
+~
+~
+human~
+100 100 0 100 100 100 100 100 100 200 100 100 100 100 100 50 100 100 100 100 200 100 100 100 0 0 
+AGT Ba DGJK 0 0
+200 30 0 11734 12190 6928 6972 7 6 30 punch
+-12340 -12340 -12340 -12340
+STANDING STANDING neutral 950
+0 mage medium ABCDEFGHIJK
+
+#1796
+zombie master~
+a {1z{3o{8mb{3i{1e {2m{6a{8st{6e{2r{x~
+A {1Z{3o{8mb{3i{1e {2M{6a{8st{6e{2r{x is here controlling the undead.
+~
+The zombie master is attracted by the smell of fresh meat.  His eyes
+wander around in search for his victim.  
+~
+human~
+100 50 0 100 100 100 100 200 100 200 100 100 200 100 100 100 100 100 50 100 200 50 100 100 0 0 
+ABFT DFJV GJK -500 0
+220 44 0 13033 13073 12032 12072 8 7 40 beating
+-14190 -14190 -14190 -13000
+STANDING STANDING neutral 3000
+0 mage medium ABCDEFGHIJK
+
+#1797
+zombie ~
+a {1z{3o{8mb{3i{1e{x~
+A {1z{3o{8mb{3i{1e{x lies here motionless.
+~
+~
+human~
+100 100 0 100 0 100 100 100 100 200 100 100 100 100 100 0 100 100 100 0 100 100 100 100 0 0 
+AGT RVWac 0 0 0
+190 20 0 10037 10076 7129 7182 8 7 50 punch
+-10000 -10000 -10000 -10000
+STANDING STANDING neutral 1100
+0 mage medium ABCDEFGHIJK
+
+#1798
+zombie magi~
+a {1z{3o{8mb{3i{1e {#M{3ag{#i{x~
+A {1z{3o{8mb{3i{1e {#M{3ag{#i{x stands motionless.
+~
+~
+human~
+100 100 0 100 0 100 100 100 50 200 100 100 100 50 100 100 50 50 100 0 100 100 100 100 0 0 
+AG BRVa D 0 0
+190 20 0 10270 10450 6681 6719 9 9 40 crush
+-12000 -12000 -12000 -12000
+STANDING STANDING neutral 1000
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#1756
+red portal~
+a {!Red Portal{x~
+A {!Red Portal{x glimmers and glows here.~
+portal ABGY 0
+0 0 0 1766 0
+0 1000 0
+
+#1770
+wand alchemy~
+a {3wand {2of {7al{8che{7my{x~
+A {3wand {2of {7al{8che{7my{x~
+wand ABFGI AO
+140 5 5 'meteor swarm' 0
+140 2 10000
+
+#1771
+Potion Magi~
+potion of the {#M{3ag{#i{x~
+Potion of the {#M{3ag{#i{x~
+potion ABGPY AH
+135 '' 'shield' '' ''
+135 2 2000
+
+#1772
+Ring of Sorcery~
+{7R{8in{7g {2of {#S{3orcer{#y{x~
+A magical ring with mystical powers~
+armor ABGY AB
+50 50 50 50 0
+160 2 5000
+A 18 10
+A 19 10
+A 13 50
+A 12 170
+
+#1773
+potion alchemist~
+potion of the {7Alc{8hem{7ist{x~
+Potion of the {7Alc{8hem{7ist{x~
+potion ABGPY AH
+135 '' '' 'protection evil' 'farsight'
+135 2 3000
+
+#1774
+altar~
+an altar~
+An altar filled with potions is here.~
+container BGHRTY 0
+1 0 0 2 100
+100 0 0
+
+#1780
+bone crown magi~
+{&B{7on{&e c{7row{&n {xof the {#M{3ag{#i{x~
+{&B{7on{&e c{7row{&n {xof the {#M{3ag{#i{x~
+armor ABFGIY AE
+65 65 65 65 0
+160 2 10000
+A 17 60
+A 20 -5
+A 19 15
+A 18 15
+A 12 400
+A 13 150
+
+#1788
+leather armor lich~
+{3L{#e{7a{8t{7h{#e{3r {$A{4rmo{$r {2of the {8L{3i{8c{3h{x~
+{3L{#e{7a{8t{7h{#e{3r {$A{4rmo{$r {2of the {8L{3i{8c{3h{x~
+armor ABEGIY AD
+48 48 48 48 0
+160 2 10000
+A 18 30
+A 19 30
+A 14 -50
+A 13 175
+A 12 200
+
+#1790
+blood dagger of the lich~
+{!B{1l{8o{1o{!d {7da{8gg{7er {2of the {8L{3i{8c{3h{x~
+{!B{1l{8o{1o{!d {7da{8gg{7er {2of the {8L{3i{8c{3h{x~
+weapon ABFG AN
+dagger 20 20 drain CD
+160 2 10000
+A 18 10
+A 19 10
+A 13 100
+A 12 100
+
+#1796
+Leggings of the zombie master~
+{4Le{5g{8gi{5n{4gs {2of the {1z{3o{8mb{3i{1e {2m{6a{8st{6e{2r{x~
+{4Le{5g{8gi{5n{4gs {2of the {1z{3o{8mb{3i{1e {2m{6a{8st{6e{2r{x~
+armor ABEFG AF
+48 48 48 48 0
+160 2 10000
+A 13 100
+A 12 150
+A 14 100
+#0
+
+#ROOMS
+#1750
+Entrance to the Canyon~
+{$Two statues stand guard in front of the entrance.  An exquisitely
+sculptured ivory door stands behind them.  The gap between the doors are so
+tight, there is no feeling of air passing through it.  Senses of awe and
+fear surrounds as only Magis are allowed to enter freely.  The statues
+seem harmless, yet their eyes watch out for unfamiliar movement.  
+~
+0 0
+D0
+~
+~
+0 0 5002
+D2
+~
+~
+AB 0 1751
+S
+
+#1751
+Magi Plains~
+Plants are sparse here and there seems to be not much of life.  Clear
+plains and quiet grounds makes one feel tranquil but creatures of the Magi
+Plains roam the land.  It is not safe to stay here, neither it is safe at
+all.  
+~
+8 0
+D0
+~
+~
+AB 0 1750
+D2
+~
+~
+0 0 1752
+S
+
+#1752
+Magi Plains~
+Plants are sparse here and there seems to be not much of life.  Clear
+plains and quiet grounds makes one feel tranquil but creatures of the Magi
+Plains roam the land.  It is not safe to stay here, neither it is safe at
+all.  
+~
+8 0
+D0
+~
+~
+0 0 1751
+D2
+~
+~
+0 0 1753
+S
+
+#1753
+Inside the Canyon~
+The great and majestic Canyon of the Magi is amazing.  The ancient
+inhabitants and mages worked effortlessly to construct this grand canyon. 
+Passing time has changed the area as ancient creatures roam the land and
+destroy whatever they can in sight.  
+~
+8 0
+D0
+~
+~
+0 0 1752
+D1
+~
+~
+0 0 1755
+D2
+~
+~
+0 0 1756
+D3
+~
+~
+0 0 1754
+S
+
+#1754
+Inside the Canyon~
+The great and majestic Canyon of the Magi is amazing.  The ancient
+inhabitants and mages worked effortlessly to construct this grand canyon. 
+Passing times have changed the area as ancient creatures roam the land
+and destroy whatever they can in sight.  A pit can be seen below, perhaps
+used to dispose of trespassers in the Canyon.  
+~
+8 0
+D1
+~
+~
+0 0 1753
+D2
+~
+~
+0 0 1758
+D5
+~
+~
+AB 0 1762
+S
+
+#1755
+Inside the Canyon~
+The great and majestic Canyon of the Magi is amazing.  The ancient
+inhabitants and mages worked effortlessly to construct this grand canyon. 
+Passing times have changed the area as ancient creatures roam the land
+and destroy whatever they can in sight.  A pit can be seen below, perhaps
+used to dispose of trespassers in the Canyon.  
+~
+8 0
+D2
+~
+~
+0 0 1757
+D3
+~
+~
+0 0 1753
+D5
+~
+~
+AB 0 1763
+S
+
+#1756
+Inside the Canyon~
+The great and majestic Canyon of the Magi is amazing.  The ancient
+inhabitants and mages worked effortlessly to construct this grand canyon. 
+Passing times have changed the area as ancient creatures roam the land
+and destroy whatever they can in sight.  A red portal glimmers and glows
+in the center of the room.  It seems to lead to somewhere else...  
+~
+8 0
+D0
+~
+~
+0 0 1753
+D1
+~
+~
+0 0 1757
+D2
+~
+~
+0 0 1759
+D3
+~
+~
+0 0 1758
+S
+
+#1757
+Inside the Canyon~
+The great and majestic Canyon of the Magi is amazing.  The ancient
+inhabitants and mages worked effortlessly to construct this grand canyon. 
+Passing times have changed the area as ancient creatures roam the land
+and destroy whatever they can in sight.  
+~
+8 0
+D0
+~
+~
+0 0 1755
+D2
+~
+~
+0 0 1760
+D3
+~
+~
+0 0 1756
+S
+
+#1758
+Inside the Canyon~
+The great and majestic Canyon of the Magi is amazing.  The ancient
+inhabitants and mages worked effortlessly to construct this grand canyon. 
+Passing times have changed the area as ancient creatures roam the land
+and destroy whatever they can in sight.  
+~
+8 0
+D0
+~
+~
+0 0 1754
+D1
+~
+~
+0 0 1756
+D2
+~
+~
+0 0 1761
+S
+
+#1759
+Inside the Canyon~
+The great and majestic Canyon of the Magi is amazing.  The ancient
+inhabitants and mages worked effortlessly to construct this grand canyon. 
+Passing times have changed the area as ancient creatures roam the land
+and destroy whatever they can in sight.  This is the end of the Canyon, or
+so it seems...  
+~
+8 0
+D0
+~
+~
+0 0 1756
+D1
+~
+~
+0 0 1760
+D3
+~
+~
+0 0 1761
+S
+
+#1760
+Inside the Canyon~
+The great and majestic Canyon of the Magi is amazing.  The ancient
+inhabitants and mages worked effortlessly to construct this grand canyon. 
+Passing times have changed the area as ancient creatures roam the land
+and destroy whatever they can in sight.  A pit can be seen below, perhaps
+used to dispose of trespassers in the Canyon.  
+~
+8 0
+D0
+~
+~
+0 0 1757
+D3
+~
+~
+0 0 1759
+D5
+~
+~
+AB 0 1764
+S
+
+#1761
+Inside the Canyon~
+The great and majestic Canyon of the Magi is amazing.  The ancient
+inhabitants and mages worked effortlessly to construct this grand canyon. 
+Passing times have changed the area as ancient creatures roam the land
+and destroy whatever they can in sight.  A pit can be seen below, perhaps
+used to dispose of trespassers in the Canyon.  
+~
+8 0
+D0
+~
+~
+0 0 1758
+D1
+~
+~
+0 0 1759
+D5
+~
+~
+AB 0 1765
+S
+
+#1762
+Inside the Pits~
+One of the fearsome pits around, the scarab pit.  Here the vicious
+beasts snap away at their prey and escape is near futile.  Death awaits
+all those who have fallen into the scarab pit.  
+~
+8 0
+D4
+~
+~
+AB 0 1754
+S
+
+#1763
+Inside the Pits~
+One of the fearsome pits around, the scorpion pit.  Here the vicious
+beasts snap away at their prey and escape is near futile.  Death awaits all
+those who have fallen into the scorpion pit.
+~
+8 0
+D4
+~
+~
+AB 0 1755
+S
+
+#1764
+Inside the Pits~
+One of the fearsome pits around, the snake pit.  Here the vicious beasts
+hiss away at their prey and escape is inevitable.  Death awaits all those
+who have fallen into the snake pit.  One of the fearsome pits around, the
+snake pit.  Here the vicious beasts hiss away at their prey and escape is
+near futile.  Death awaits all those who have fallen into the snake pit.  
+~
+8 0
+D4
+~
+~
+AB 0 1760
+S
+
+#1765
+Inside the Pits~
+One of the fearsome pits around, the crocodile pit.  Here the vicious
+beasts snap away at their prey and escape is near futile.  Death awaits
+all those who have fallen into the crocodile pit.  
+~
+262152 0
+D4
+~
+~
+AB 0 1761
+S
+
+#1766
+Center of the Canyon~
+Stepping out of the portal, it has led to the center of the Canyon. 
+There is a sense of fear and death in this area.  The ground filled with
+cracks and dry air drives unwanted visitors away, but it seems that there
+is no turning back.  Sounds of murmurs, rattling and other mysterious
+noises can be heard from the hallways.  Danger lies ahead of those who
+wish to venture further, though it seems the only way as there is no
+turning back.  
+~
+12 0
+D0
+~
+~
+0 0 1783
+D1
+~
+~
+0 0 1775
+D2
+~
+~
+0 0 1767
+D3
+~
+~
+0 0 1791
+D5
+~
+~
+0 0 1799
+S
+
+#1767
+Southern Hallway of the Canyon~
+Voices can be heard coming down the hallway and from the walls.  Could
+there be life in this ancient land or is there danger ahead?  In the dim
+light, shadows can be seen in the form of humans.  Words are seen
+scribbled on the walls and on closer inspection, they seem to be magical
+symbols.  This hallway leads to the Magi sanctuary.  
+~
+8 0
+D0
+~
+~
+0 0 1766
+D2
+~
+~
+0 0 1768
+S
+
+#1768
+Southern Hallway of the Canyon~
+Voices can be heard coming down the hallway and from the walls.  Could
+there be life in this ancient land or is there danger ahead?  In the dim
+light, shadows can be seen in the form of humans.  Words are seen
+scribbled on the walls and on closer inspection, they seem to be magical
+symbols.  This hallway leads to the Magi sanctuary.  
+~
+8 0
+D0
+~
+~
+0 0 1767
+D2
+~
+~
+0 0 1769
+S
+
+#1769
+Southern Hallway of the Canyon~
+Voices can be heard coming down the hallway and from the walls.  Could
+there be life in this ancient land or is there danger ahead?  In the dim
+light, shadows can be seen in the form of humans.  Words are seen
+scribbled on the walls and on closer inspection, they seem to be magical
+symbols.  This hallway leads to the Magi sanctuary.  
+~
+8 0
+D0
+~
+~
+0 0 1768
+D2
+~
+~
+0 0 1770
+S
+
+#1770
+Hallway of the Magi~
+Voices can be heard coming down the hallway and from the walls.  Could
+there be life in this ancient land or is there danger ahead?  In the dim
+light, shadows can be seen in the form of humans.  Words are seen
+scribbled on the walls and on closer inspection, they seem to be magical
+symbols.  This hallway leads to the Magi sanctuary.  
+~
+8 0
+D0
+~
+~
+0 0 1769
+D2
+~
+~
+0 0 1771
+S
+
+#1771
+End of the hallway~
+Here is the end of the hallway.  To the east is the alchemy lab and to
+the west is the Magi training grounds.  Towards the south is the room of
+the Magi Lord.  
+~
+8 0
+D0
+~
+~
+0 0 1770
+D1
+~
+~
+0 0 1774
+D2
+~
+~
+AB 0 1772
+D3
+~
+~
+0 0 1773
+S
+
+#1772
+Room of the Magi Lord~
+In this room, the place is filled with books and papers.  There are
+shelves around the room and presumed to be ancient magic spells of the
+Magi.  There is a desk in the front where a great Magi sits.  The Magi
+Lord gives out instructions to other Magi to keep the place in order and
+destroys those who oppose him.  
+~
+8 0
+D0
+~
+~
+AB 0 1771
+S
+
+#1773
+Magi Training Grounds~
+In this room, the Magi practice their spells and work out battle
+techniques.  There are many equipments in here of which the Magi train
+themselves.  The walls reinforced with solid ivory to prevent spells from
+destroying the room.  
+~
+8 0
+D1
+~
+~
+0 0 1771
+S
+
+#1774
+Alchemy Laboratory of the Magi~
+Here lies the ancient laboratory of the Magi, where the spells are
+researched.  This room is filled with books and potions.  There is an
+altar which contains some of the spells in potions.  In here, the Magi
+alchemist assists in keeping this room clean and away from unwelcomed
+guests.  
+~
+8 0
+D3
+~
+~
+0 0 1771
+S
+
+#1775
+Eastern Hallway of the Canyon~
+The sound of rattling bones can be heard down the hallway.  Bones
+scattered all over the ground and cracks are everywhere.  The walls lined
+with cobwebs and tiny bugs.  A sense of fear is felt down the spine as a
+figure approaches forward.  Slowly, the figure seems to multiply as the
+rattling sounds become louder.  It is unsafe to be here.  
+~
+8 0
+D1
+~
+~
+0 0 1776
+D3
+~
+~
+0 0 1766
+S
+
+#1776
+Eastern Hallway of the Canyon~
+The sound of rattling bones can be heard down the hallway.  Bones
+scattered all over the ground and cracks are everywhere.  The walls lined
+with cobwebs and tiny bugs.  A sense of fear is felt down the spine as a
+figure approaches forward.  Slowly, the figure seems to multipy as the
+rattling sounds become louder.  It is unsafe to be here.  
+~
+8 0
+D1
+~
+~
+0 0 1777
+D3
+~
+~
+0 0 1775
+S
+
+#1777
+Eastern Hallway of the Canyon~
+The sound of rattling bones can be heard down the hallway.  Bones
+scattered all over the ground and cracks are everywhere.  The walls lined
+with cobwebs and tiny bugs.  A sense of fear is felt down the spine as a
+figure approaches forward.  Slowly, the figure seems to multipy as the
+rattling sounds become louder.  It is unsafe to be here.  
+~
+8 0
+D1
+~
+~
+0 0 1778
+D3
+~
+~
+0 0 1776
+S
+
+#1778
+Hallway of the Skeletal Chambers~
+Upon entering the chambers, a sense of insecurity and fear fills the
+air.  Death can be felt all around the hallway as skeletal magi guard
+these premises.  The ancient Magi who have died are now turned into
+skeletal magi guards of the Canyon.  Any further advancement into the
+Canyon would lead to more danger.  
+~
+8 0
+D1
+~
+~
+0 0 1779
+D3
+~
+~
+0 0 1777
+S
+
+#1779
+End of the hallway~
+Approaching the end of the hallways is the Throne of the Skeleton King. 
+Towards the north and south are the skeletal chambers, where the Magi are
+transformed to skeletal guards of the Canyon.  
+~
+8 0
+D0
+~
+~
+0 0 1781
+D1
+~
+~
+AB 0 1780
+D2
+~
+~
+0 0 1782
+D3
+~
+~
+0 0 1778
+S
+
+#1780
+Throne of the Skeleton King~
+Before the throne are two bone structures of what seems to be knights
+placed before the King.  In this room, portraits and drapes are all over
+the walls, depicting the victories of wartimes during Canyon battles. 
+This great King had led armies of Magi to victory, but corruption caused
+him to become what he is now.  Only remnants of the past is left behind.  
+~
+8 0
+D3
+~
+~
+AB 0 1779
+S
+
+#1781
+The Skeletal Chambers~
+This chamber is where the Magi are transformed to the undead, skeletal
+guards of the Canyon.  These Magi are punished for their evil doings and
+are being forced to eternal life in guarding the Canyon.  They smell flesh
+and will kill unwelcomed guests in the Canyon.  In this room, strange
+ancient equipment are used to create these skeletal guards.  
+~
+8 0
+D2
+~
+~
+0 0 1779
+S
+
+#1782
+The Skeletal Chambers~
+This chamber is where the Magi are transformed to the undead, skeletal
+guards of the Canyon.  These Magi are punished for their evil doings and
+are being forced to eternal life in guarding the Canyon.  They smell flesh
+and will kill unwelcomed guests in the Canyon.  In this room, strange
+ancient equipment are used to create these skeletal guards.  
+~
+8 0
+D0
+~
+~
+0 0 1779
+S
+
+#1783
+Northern Hallway of the Canyon~
+The stench in this hallway is unbearable and the air becomes humid. 
+This section of the Canyon seems different from the rest.  The walls are
+partly destroyed and the ground stained with blood.  A great battle seems
+to have broken out in this hallway.  The stench gets stronger deeper into
+the hallways.  
+~
+8 0
+D0
+~
+~
+0 0 1784
+D2
+~
+~
+0 0 1766
+S
+
+#1784
+Northern Hallway of the Canyon~
+The stench in this hallway is unbearable and the air becomes humid. 
+This section of the Canyon seems different from the rest.  The walls are
+partly destroyed and the ground stained with blood.  A great battle seems
+to have broken out in this hallway.  The stench gets stronger deeper into
+the hallways.  
+~
+8 0
+D0
+~
+~
+0 0 1785
+D2
+~
+~
+0 0 1783
+S
+
+#1785
+Northern Hallway of the Canyon~
+The stench in this hallway is unbearable and the air becomes humid. 
+This section of the Canyon seems different from the rest.  The walls are
+partly destroyed and the ground stained with blood.  A great battle seems
+to have broken out in this hallway.  The stench gets stronger deeper into
+the hallways.  
+~
+8 0
+D0
+~
+~
+0 0 1786
+D2
+~
+~
+0 0 1784
+S
+
+#1786
+Hallway of the Liches~
+This part of the hallway is contaminated with poisonous chemicals and
+the air is polluted.  Loud rumbling sounds can be heard from inside the
+walls.  Wet slime flows out the cracks from the walls and the stench is
+unbearable.  It is best to get out of this hallway and into somewhere
+safe.  
+~
+8 0
+D0
+~
+~
+0 0 1787
+D2
+~
+~
+0 0 1785
+S
+
+#1787
+End of the hallway~
+At the end of the hallway, the liches gather here to protect the queen. 
+To the north is the queen's lair and to the west is the lich barracks
+where the elite liches are born.  To the east is the magical chamber where
+liches can learn spells and use magic.  
+~
+8 0
+D0
+~
+~
+AB 0 1788
+D1
+~
+~
+0 0 1790
+D2
+~
+~
+0 0 1786
+D3
+~
+~
+0 0 1789
+S
+
+#1788
+Lair of the Lich Queen~
+In the lair of the Lich Queen, Drusila sits upon her throne as she
+overlooks her lich minions down the hallway.  She commands her minions to
+guard the Canyon and to destroy any living things in sight.  Her presence
+is indeed majestic.  
+~
+8 0
+D2
+~
+~
+AB 0 1787
+S
+
+#1789
+Lich Barracks~
+In the Lich Barracks, elite liches are trained, disciplined and 
+established to protect the queen.  This room has a very bad odour and the
+walls are covered with slime.  The ground scattered with bones and black
+substances.  These liches are ready and prepared for a fight.  
+~
+0 0
+D1
+~
+~
+0 0 1787
+S
+
+#1790
+Lich Magical Chamber~
+The magical chamber, spells are being researched and tested out here. 
+In this chamber, there are many magical equipment and facilities for
+liches to experiment with.  This room is much cleaner compared to the rest
+and behind the tables, the Lich Magi is working on a new product.  
+~
+0 0
+D3
+~
+~
+0 0 1787
+S
+
+#1791
+Western Hallway of the Canyon~
+Towards the western hallway, bodies lay all over the ground, flesh and
+blood everywhere along the path.  There is a strong evil aura of death. 
+Ice cold corpses seen lying motionless and blood stains splattered on the
+walls.  A furious battle might have occurred which caused this mess. 
+Suddenly, there seems to be a slight movement in the hallway and moaning
+sounds can be heard.  
+~
+8 0
+D1
+~
+~
+0 0 1766
+D3
+~
+~
+0 0 1792
+S
+
+#1792
+Western Hallway of the Canyon~
+Towards the western hallway, bodies lay all over the ground, flesh and
+blood everywhere along the path.  There is a strong evil aura of death. 
+Ice cold corpses seen lying motionless and blood stains splattered on the
+walls.  A furious battle might have occurred which caused this mess. 
+Suddenly, there seems to be a slight movement in the hallway and moaning
+sounds can be heard.  
+~
+8 0
+D1
+~
+~
+0 0 1791
+D3
+~
+~
+0 0 1793
+S
+
+#1793
+Western Hallway of the Canyon~
+Towards the western hallway, bodies lay all over the ground, flesh and
+blood everywhere along the path.  There is a strong evil aura of death. 
+Ice cold corpses seen lying motionless and blood stains splattered on the
+walls.  A furious battle might have occurred which caused this mess. 
+Suddenly, there seems to be a slight movement in the hallway and moaning
+sounds can be heard.  
+~
+8 0
+D1
+~
+~
+0 0 1792
+D3
+~
+~
+0 0 1794
+S
+
+#1794
+Hallway of the living dead~
+Further down the hallways, there are more corpses lying around.  The
+stench of death is so overwhelming and fear fills the hallway.  Zombies
+and ghouls roam around mindlessly for flesh and blood.  Towards the end,
+there is a large shadow awaiting in the dark.  
+~
+8 0
+D1
+~
+~
+0 0 1793
+D3
+~
+~
+0 0 1795
+S
+
+#1795
+End of the hallway~
+Approaching the end of the hallway, the intensity of the surroundings
+grow stronger as the number of zombies and ghouls around the premises
+increase.  Towards the north is the room of the zombie and at the south is
+the room of the ghouls.  At the far west belongs to the zombie master, the
+only zombie who is able to control the living dead.  
+~
+8 0
+D0
+~
+~
+0 0 1797
+D1
+~
+~
+0 0 1794
+D2
+~
+~
+0 0 1798
+D3
+~
+~
+AB 0 1796
+S
+
+#1796
+Room of the zombie master~
+Although this room belongs to the zombie master, the air seems to be
+fresher and cleaner.  The walls are covered with moss and vines clinging
+down from cracks in the ceiling.  At the end of the room is a sarcophagus
+of the zombie master.  
+~
+8 0
+D1
+~
+~
+AB 0 1795
+S
+
+#1797
+Room of the zombies~
+Rotting corpses fill this room and the unbearable stench seem to be
+coming from this room.  Suddenly, the bodies once motionless begin to move
+as a presence is felt in the room.  The smell of flesh and blood has
+awoken the zombies and they are now in a bloodthirsty frenzy.
+~
+8 0
+D2
+~
+~
+0 0 1795
+S
+
+#1798
+Room of the zombie Magi~
+In the room of the zombie Magi are the bodies of fallen Magi of the
+Canyon.  Here, these rotting bodies are kept and under the control of the
+zombie master, they are commanded to protect and serve the Canyon grounds.
+With the rest of the living dead in the Canyon, these mindless creatures
+of the undead crave and search for flesh and blood to survive on.  Their
+hunger is infinite and they will not stop their desire for fresh meat.  
+~
+8 0
+D0
+~
+~
+0 0 1795
+S
+
+#1799
+Falling off the Canyon~
+There is nothing to be seen, felt or heard in here.  Falling off the
+Canyon is one disaster any adventurer would not want to experience.  
+~
+12 0
+S
+#0
+
+#SPECIALS
+M 1762 spec_poison
+M 1763 spec_poison
+M 1764 spec_poison
+M 1765 spec_poison
+M 1772 spec_cast_mage
+M 1788 spec_cast_undead
+S
+
+#RESETS
+D 100 1750 2 1
+D 100 1751 0 1
+D 100 1754 5 1
+D 100 1755 5 1
+D 100 1760 5 1
+D 100 1761 5 1
+D 100 1762 4 1
+D 100 1763 4 1
+D 100 1764 4 1
+D 100 1765 4 1
+D 100 1771 2 1
+D 100 1772 0 1
+D 100 1779 1 1
+D 100 1780 3 1
+D 100 1787 0 1
+D 100 1788 2 1
+D 100 1795 3 1
+D 100 1796 1 1
+M 100 1750 2 1750 2
+M 100 1750 2 1750 2
+M 100 1751 12 1751 2
+M 100 1751 12 1752 1
+M 100 1752 6 1752 1
+M 100 1751 12 1753 2
+M 100 1752 6 1753 1
+M 100 1751 12 1754 1
+M 100 1751 12 1755 1
+O 100 1756 0 1756
+M 100 1751 12 1757 1
+M 100 1752 6 1757 1
+M 100 1751 12 1758 1
+M 100 1752 6 1758 1
+M 100 1751 12 1759 1
+M 100 1752 6 1759 1
+M 100 1751 12 1760 1
+M 100 1751 12 1761 1
+M 100 1762 4 1762 4
+M 100 1762 4 1762 4
+M 100 1762 4 1762 4
+M 100 1762 4 1762 4
+M 100 1763 4 1763 4
+M 100 1763 4 1763 4
+M 100 1763 4 1763 4
+M 100 1763 4 1763 4
+M 100 1764 4 1764 4
+M 100 1764 4 1764 4
+M 100 1764 4 1764 4
+M 100 1764 4 1764 4
+M 100 1765 4 1765 4
+M 100 1765 4 1765 4
+M 100 1765 4 1765 4
+M 100 1765 4 1765 4
+M 100 1767 5 1767 1
+M 100 1768 5 1767 1
+M 100 1769 5 1767 1
+M 100 1767 5 1768 1
+M 100 1768 5 1768 1
+M 100 1769 5 1768 1
+M 100 1767 5 1769 1
+M 100 1768 5 1769 1
+M 100 1769 5 1769 1
+M 100 1767 5 1770 1
+M 100 1768 5 1770 1
+M 100 1769 5 1770 1
+M 100 1767 5 1771 1
+M 100 1768 5 1771 1
+M 100 1769 5 1771 1
+M 100 1772 1 1772 1
+E 100 1772 0 1
+M 100 1773 15 1773 6
+M 100 1773 15 1773 6
+M 100 1773 15 1773 6
+M 100 1773 15 1773 6
+M 100 1773 15 1773 6
+M 100 1773 15 1773 6
+M 100 1774 1 1774 1
+E 100 1770 0 17
+O 100 1774 0 1774
+P 100 1771 1 1774 1
+P 100 1773 1 1774 1
+M 100 1776 6 1775 2
+M 100 1776 6 1776 2
+M 100 1776 6 1777 2
+M 100 1776 6 1778 2
+M 100 1780 1 1780 1
+E 100 1780 0 6
+M 100 1781 15 1781 6
+M 100 1781 15 1781 6
+M 100 1781 15 1781 6
+M 100 1781 15 1781 6
+M 100 1781 15 1781 6
+M 100 1781 15 1781 6
+M 100 1782 15 1782 6
+M 100 1782 15 1782 6
+M 100 1782 15 1782 6
+M 100 1782 15 1782 6
+M 100 1782 15 1782 6
+M 100 1782 15 1782 6
+M 100 1778 8 1783 2
+M 100 1778 8 1783 2
+M 100 1778 8 1784 2
+M 100 1778 8 1784 2
+M 100 1778 8 1785 2
+M 100 1778 8 1785 2
+M 100 1778 8 1786 2
+M 100 1778 8 1786 2
+M 100 1778 8 1787 2
+M 100 1778 8 1787 2
+M 100 1788 1 1788 1
+E 100 1788 0 5
+M 100 1789 15 1789 6
+M 100 1789 15 1789 6
+M 100 1789 15 1789 6
+M 100 1789 15 1789 6
+M 100 1789 15 1789 6
+M 100 1789 15 1789 6
+M 100 1790 1 1790 1
+E 100 1790 0 16
+M 100 1794 8 1791 2
+M 100 1794 8 1792 2
+M 100 1794 8 1793 2
+M 100 1794 8 1794 2
+M 100 1794 8 1795 2
+M 100 1796 1 1796 1
+E 100 1796 0 7
+M 100 1797 15 1797 6
+M 100 1797 15 1797 6
+M 100 1797 15 1797 6
+M 100 1797 15 1797 6
+M 100 1797 15 1797 6
+M 100 1797 15 1797 6
+M 100 1798 15 1798 6
+M 100 1798 15 1798 6
+M 100 1798 15 1798 6
+M 100 1798 15 1798 6
+M 100 1798 15 1798 6
+M 100 1798 15 1798 6
+S
+
+#$

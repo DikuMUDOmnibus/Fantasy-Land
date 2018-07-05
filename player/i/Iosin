@@ -1,0 +1,893 @@
+#PLAYER
+Name Iosin~
+Race dwarf~
+Levl 30
+Clas warrior~
+Pkpt 100
+TSex 1
+LogO 1352000639
+Sock c-24-23-211-73.hsd1.ca.comcast.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1270780111
+Plat 9
+Gold 12
+Silv 70
+Exp  47488
+Attr 25 19 25 15 25
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+AfBy CDEFGHLTUVZce
+ShBy CDEFGHIJKLR
+Comm N
+Config EF
+Pos  8
+Alig  -236
+Sk 76 'axe'
+Sk 75 'axe mastery'
+Sk 75 'berserk'
+Sk 75 'dodge'
+Sk 75 'dual wield'
+Sk 76 'enhanced damage'
+Sk 75 'fast healing'
+Sk 1 'fourth attack'
+Sk 1 'lore'
+Sk 75 'parry'
+Sk 50 'recall'
+Sk 1 'scrolls'
+Sk 75 'second attack'
+Sk 1 'staves'
+Sk 1 'sword'
+Sk 76 'third attack'
+Sk 1 'wands'
+MaxDam 108
+LLev 0
+Pass IoDKDtYTA1g5E~
+Plyd 3401
+Note 0 0 0 1325227163 0
+Room 3005
+HMVN 2469 2232 1541 1516 790 869
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 27 0
+Deviant 0 0
+Prac 155
+Trai 34
+Devote current 0
+Pnts 42
+Mkil 95
+TotalCmpl 4
+TotalPnts 267
+TotalAttm 4
+QuestPnts 267
+QuestNext 9
+Gr 'rom basics'
+Gr 'warrior basics'
+Affc 'wisdom'   0 112   0   7   3   4          0
+Affc 'watershield'   1 114   0  24   0   0     131072
+Affc 'vigorize'   0 115   0   0 435  13          0
+Affc 'vampiricshield'   1 113   0  24   0   0        512
+Affc 'thornshield'   1 114   0  24   0   0        256
+Affc 'stone skin'   0 115   0  53 -115  17          0
+Affc 'shrapnelshield'   1 115   0  24   0   0         64
+Affc 'shockshield'   1 115   0  24   0   0         16
+Affc 'shield'   0 115   0  24 -38  17          0
+Affc 'sanctuary'   1 113   0  15   0   0        128
+Affc 'rockshield'   1 115   0  24   0   0         32
+Affc 'regeneration'   0 115   0  24   0   0  268435456
+Affc 'pass door'   0 115   0  24   0   0    1048576
+Affc 'intellect'   0 114   0   7   3   3          0
+Affc 'iceshield'   1 114   0  24   0   0          4
+Affc 'haste'   0 113   0  53   3   2    2097152
+Affc 'growth'   0 115   0   1   1  26          0
+Affc 'golden armor'   4 115   0   7 -16   1          0
+Affc 'golden armor'   4 113   0   7 -16  17          0
+Affc 'golden armor'   4 115   0   7 -16  20          0
+Affc 'giant strength'   0 115   0  53   3   1 1073741824
+Affc 'frenzy'   0 114   0  34  90  17          0
+Affc 'frenzy'   0 115   0  34  38  19          0
+Affc 'frenzy'   0 115   0  34  38  18          0
+Affc 'fly'   0 114   0 114   0   0     524288
+Affc 'fireshield'   1 115   0  24   0   0          8
+Affc 'faith'   4 114   0  19 -23  14          0
+Affc 'faith'   0 115   0  19  57  18          0
+Affc 'faith'   0 115   0  19  57  19          0
+Affc 'divine aura'   1 113   0  58   0   0       1024
+Affc 'devotion'   0 113   0   7 -22  20          0
+Affc 'detect neutral'   0 114   0  53   0   0        128
+Affc 'detect magic'   0 114   0  53   0   0         16
+Affc 'detect invis'   0 114   0  53   0   0          8
+Affc 'detect hidden'   0 115   0  53   0   0         32
+Affc 'detect good'   0 112   0  53   0   0         64
+Affc 'detect evil'   0 114   0  53   0   0          4
+Affc 'constitution'   0 115   0   7   3   5          0
+Affc 'bless'   0 114   0  40 -14  20          0
+Affc 'bless'   0 114   0  40  14  18          0
+Affc 'barkskin'   0 114   0  19 -115  17          0
+Affc 'awen'   0 114   0  19  28  19          0
+Affc 'awen'   0 115   0  19  28  18          0
+Affc 'armor'   0 114   0  19 -115  17          0
+Affc 'acidshield'   1 113   0  24   0   0       2048
+Affc 'farsight'   0   1   0  -1   0   0       2048
+Affc 'darkvision'   0   0   0  -1   0   0   33554432
+End
+
+#O
+Vnum 3716
+Nest 0
+Name round oval sphere reddish orange~
+ShD  A Strange Reddish-Orange Sphere~
+Desc A round oval-like sphere glowing reddish-orange is settled here on the ground.~
+Cost 0
+Wear 0
+Valu 2 1 128
+End
+
+#O
+Vnum 3703
+Nest 0
+Name thothian chain mail armor~
+ShD  A Thothian Chain Mail Armor~
+Desc A long-chained piece of armor made from Thoth lies here.~
+Cost 0
+Wear 5
+Affc 'reserved' 0 26 -1 5 7 0
+End
+
+#O
+Vnum 3719
+Nest 0
+Name thothian axe~
+ShD  A Thothian Axe~
+Desc A long Thothian axe lies here lavished with blood.~
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Name thothiann shield metallic silver metal~
+ShD  A Metallic Thothian Shield~
+Desc A large wide U-shaped shield made of silver metal lies here.~
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 721
+Nest 0
+Name veil cracked~
+ShD  cracked veil~
+Desc A veil lies here.~
+Loader MPOP: (19:31-04/08/2010) Iosin~
+Cost 500
+Wear 20
+Valu 1 7 3
+Valu 2 7 0
+Valu 3 7 2
+Valu 4 7 -3
+End
+
+#O
+Vnum 3706
+Nest 0
+Name round thothian helmet~
+ShD  A Thothian Helmet~
+Desc A large round helmet made from Thoth is lying here.~
+Wear 6
+Affc 'reserved' 0 26 -1 4 7 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Name thothian dark cape~
+ShD  A Thothian Cape~
+Desc A long dark cape finely made from Thoth lies here.~
+Wear 12
+End
+
+#O
+Vnum 3708
+Nest 0
+Name pair leather thothian sandals~
+ShD  A pair of Thothian Sandals~
+Desc A pair of leather sandals made from Thoth lies here.~
+Wear 8
+Affc 'reserved' 0 26 -1 3 7 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+Wear 14
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+Name thothian scarf~
+ShD  A Thothian Scarf~
+Desc A long flowing scarf with "Thoth" embedded on it is lying here.~
+Wear 3
+End
+
+#O
+Vnum 3707
+Nest 0
+Name pair thothian leggings~
+ShD  A pair of Thothian Leggings~
+Desc A pair of iron Thothian leggings lie here.~
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+Name thothian belt snakeskinned~
+ShD  A Long Thothian Belt~
+Desc A snakeskinned belt made from the tailors of Thoth lies here rolled up.~
+Wear 13
+End
+
+#O
+Vnum 3728
+Nest 0
+Name thothian black eyepatch~
+ShD  A Thothian Eyepatch~
+Desc A thin but long black eyepatch of Thoth lies here.~
+Wear 27
+Affc 'reserved' 0 26 -1 4 7 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Name leather thothian gloves~
+ShD  A pair of Thothian gloves~
+Desc Two leather gloves specially made from Thoth lie here.~
+Wear 9
+End
+
+#O
+Vnum 3710
+Nest 0
+Name pair leather sleeves thothian~
+ShD  A pair of Thothian arm braces~
+Desc A pair of fine-leathered sleeves made from Thoth lie here.~
+Wear 10
+End
+
+#O
+Vnum 3713
+Nest 0
+Name crystal thothian bracelet~
+ShD  A Crystal Thothian Bracelet~
+Desc A finely-made crystal braclet from Thoth sparkles here on the ground.~
+Wear 15
+Affc 'reserved' 0 26 -1 3 7 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Name diploma school mud~
+ShD  a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x~
+Desc You see a {Dm{wu{Dd s{wc{Dho{wo{Dl {rd{Ri{rplo{Rm{ra{x here.~
+Wear 17
+End
+
+#O
+Vnum 3724
+Nest 0
+Name ring thothian ~
+ShD  A Thothian-made Ring~
+Desc A small ring with the engraving "T" is lying here.~
+Wear 2
+End
+
+#O
+Vnum 3724
+Nest 0
+Name ring thothian ~
+ShD  A Thothian-made Ring~
+Desc A small ring with the engraving "T" is lying here.~
+Wear 1
+End
+
+#O
+Vnum 3725
+Nest 0
+Name ancient symbol thothian~
+ShD  The symbol of a Thothian Warrior~
+Desc An ancient symbol of a Thothian warrior has been disregarded here.~
+Wear 26
+Affc 'reserved' 0 26 -1 5 7 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Name earring thothian~
+ShD  A Thothian Earring~
+Desc A crystallized earring shaped in a "T" lies here.~
+Wear 21
+End
+
+#O
+Vnum 3029
+Nest 0
+Name flail~
+ShD  a {Cf{clai{Cl{x~
+Desc A small iron {Cf{clai{Cl{x is here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 17
+End
+
+#O
+Vnum 3021
+Nest 0
+Name small dagger~
+ShD  {wa{8 sm{wa{8ll {rsh{Ra{rrp {8da{wgg{8er{x~
+Desc A {wa{8 sm{wa{8ll {rsh{Ra{rrp {8da{wgg{8er{x lies here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 17
+End
+
+#O
+Vnum 3117
+Nest 0
+Name shield small wooden~
+ShD  a small wooden shield~
+Desc A small wooden shield is lying on the ground.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 17
+Affc 'reserved' 0 26 -1 2 7 0
+End
+
+#O
+Vnum 756
+Nest 0
+Name wristguard guard normal~
+ShD  wristguard~
+Desc A wristguard is here.~
+Loader MPOP: (23:10-01/05/2012) Iosin~
+End
+
+#O
+Vnum 3021
+Nest 0
+Name small dagger~
+ShD  {wa{8 sm{wa{8ll {rsh{Ra{rrp {8da{wgg{8er{x~
+Desc A {wa{8 sm{wa{8ll {rsh{Ra{rrp {8da{wgg{8er{x lies here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 17
+End
+
+#O
+Vnum 4004
+Nest 0
+Name bullwhip whip~
+ShD  a bullwhip~
+Desc A coiled length of leather is here...looks like a nasty whip!~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 23
+End
+
+#O
+Vnum 4058
+Nest 0
+Name falchion sword~
+ShD  a falchion~
+Desc A curved sword with a heavy tip sits here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 24
+End
+
+#O
+Vnum 4050
+Nest 0
+Name potion purple~
+ShD  a purple potion~
+Desc A purple potion is here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 24
+Time 883
+End
+
+#O
+Vnum 4051
+Nest 0
+Name helmet metal~
+ShD  a metal helmet~
+Desc A metal helmet is here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 24
+End
+
+#O
+Vnum 4054
+Nest 0
+Name axe war~
+ShD  a war axe~
+Desc A razor-sharp war axe rests on the ground.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 24
+End
+
+#O
+Vnum 3116
+Nest 0
+Name shield large metal~
+ShD  a large metal shield~
+Desc A large metal shield is lying on the ground.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 24
+End
+
+#O
+Vnum 4004
+Nest 0
+Name bullwhip whip~
+ShD  a bullwhip~
+Desc A coiled length of leather is here...looks like a nasty whip!~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 24
+End
+
+#O
+Vnum 3097
+Nest 0
+Name shield small metal~
+ShD  a small metal shield~
+Desc A small metal shield is lying on the ground.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 24
+End
+
+#O
+Vnum 737
+Nest 0
+Name sleeves normal~
+ShD  sleeves~
+Desc Some sleeves are here.~
+Loader MPOP: (23:23-11/03/2012) Iosin~
+End
+
+#O
+Vnum 3026
+Nest 0
+Name axe battle~
+ShD  a {Rb{rattl{Re {wa{Dx{we{x~
+Desc A large steel {Rb{rattl{Re {wa{Dx{we{x rests on the ground.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 25
+End
+
+#O
+Vnum 4055
+Nest 0
+Name sword broad~
+ShD  a broad sword~
+Desc A well-polished broadsword sits here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 25
+End
+
+#O
+Vnum 3072
+Nest 0
+Name jerkin scale mail~
+ShD  a scale mail jerkin~
+Desc A scale mail jerkin is lying on the ground.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 25
+Affc 'reserved' 0 26 -1 2 7 0
+End
+
+#O
+Vnum 3029
+Nest 0
+Name flail~
+ShD  a {Cf{clai{Cl{x~
+Desc A small iron {Cf{clai{Cl{x is here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 26
+End
+
+#O
+Vnum 761
+Nest 0
+Name axe hand exceptional~
+ShD  exceptional hand axe~
+Desc Hand axe is here.~
+Loader MPOP: (23:26-11/03/2012) Iosin~
+Cost 1500
+Affc 'reserved' 2 1 -1 2 5 0
+End
+
+#O
+Vnum 3014
+Nest 0
+Name mre~
+ShD  an {rM.{yR.{mE.{x~
+Desc A yummy {rM.{yR.{mE.{x is ready to be gobbled up.~
+End
+
+#O
+Vnum 16012
+Nest 0
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 35
+End
+
+#O
+Vnum 16012
+Nest 0
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 35
+End
+
+#O
+Vnum 16044
+Nest 0
+Name mop~
+ShD  a {rb{Rlood{ry {rm{Ro{rp{x~
+Desc A mop has been left here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 35
+End
+
+#O
+Vnum 16009
+Nest 0
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 35
+End
+
+#O
+Vnum 16006
+Nest 0
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16011
+Nest 0
+Name parrot~
+ShD  a {gt{Galkativ{ge {gp{Garro{gt{x~
+Desc An extremely loquacious parrot is perched here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16006
+Nest 0
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16014
+Nest 0
+Name baggy pants~
+ShD  a {rp{Rai{rr {Wo{Df {rb{Ragg{ry p{Rant{rs{x~
+Desc A pair of baggy pants hangs here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16011
+Nest 0
+Name parrot~
+ShD  a {gt{Galkativ{ge {gp{Garro{gt{x~
+Desc An extremely loquacious parrot is perched here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16040
+Nest 0
+Name apple~
+ShD  a {gd{Geliciou{gs {ra{Rppl{re{x~
+Desc A delicious apple makes your mouth water.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16009
+Nest 0
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16014
+Nest 0
+Name baggy pants~
+ShD  a {rp{Rai{rr {Wo{Df {rb{Ragg{ry p{Rant{rs{x~
+Desc A pair of baggy pants hangs here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16027
+Nest 0
+Name jug beer~
+ShD  a {yj{Yu{yg{x of {yb{Yee{yr{x~
+Desc A jug of beer has been carelessly dumped here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16014
+Nest 0
+Name baggy pants~
+ShD  a {rp{Rai{rr {Wo{Df {rb{Ragg{ry p{Rant{rs{x~
+Desc A pair of baggy pants hangs here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16027
+Nest 0
+Name jug beer~
+ShD  a {yj{Yu{yg{x of {yb{Yee{yr{x~
+Desc A jug of beer has been carelessly dumped here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16044
+Nest 0
+Name mop~
+ShD  a {rb{Rlood{ry {rm{Ro{rp{x~
+Desc A mop has been left here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16009
+Nest 0
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 36
+End
+
+#O
+Vnum 16013
+Nest 0
+Name pegleg peg~
+ShD  a {yp{Yegle{yg{x~
+Desc A short stick is leaning against the wall.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 37
+End
+
+#O
+Vnum 16022
+Nest 0
+Name dagger gold~
+ShD  a {yg{Yol{yd d{Yagge{yr{x~
+Desc A shiny gold dagger shines in the sun.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 37
+End
+
+#O
+Vnum 16040
+Nest 0
+Name apple~
+ShD  a {gd{Geliciou{gs {ra{Rppl{re{x~
+Desc A delicious apple makes your mouth water.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 37
+End
+
+#O
+Vnum 16038
+Nest 0
+Name carcass rat dead~
+ShD  a {rd{Rea{rd r{Ra{rt c{Rarcas{rs{x~
+Desc The corpse of a dead rat is rotting here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 37
+End
+
+#O
+Vnum 16013
+Nest 0
+Name pegleg peg~
+ShD  a {yp{Yegle{yg{x~
+Desc A short stick is leaning against the wall.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 38
+End
+
+#O
+Vnum 16022
+Nest 0
+Name dagger gold~
+ShD  a {yg{Yol{yd d{Yagge{yr{x~
+Desc A shiny gold dagger shines in the sun.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 38
+End
+
+#O
+Vnum 16013
+Nest 0
+Name pegleg peg~
+ShD  a {yp{Yegle{yg{x~
+Desc A short stick is leaning against the wall.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 39
+End
+
+#O
+Vnum 16022
+Nest 0
+Name dagger gold~
+ShD  a {yg{Yol{yd d{Yagge{yr{x~
+Desc A shiny gold dagger shines in the sun.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 39
+End
+
+#O
+Vnum 16036
+Nest 0
+Name stone sharp carving~
+ShD  a {Dc{Warvin{Dg s{Wton{De{x~
+Desc A sharp stone is here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 39
+End
+
+#O
+Vnum 16024
+Nest 0
+Name katana blade~
+ShD  a {rk{Ratan{ra b{Rlad{re{x~
+Desc An extremely sharp blade lies on the floor.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 39
+End
+
+#O
+Vnum 16021
+Nest 0
+Name pearl bracelet~
+ShD  a {Dp{Wear{Dl b{Wracele{Dt{x~
+Desc A ring of pearl has been left here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 39
+End
+
+#O
+Vnum 16009
+Nest 0
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 39
+End
+
+#O
+Vnum 16027
+Nest 0
+Name jug beer~
+ShD  a {yj{Yu{yg{x of {yb{Yee{yr{x~
+Desc A jug of beer has been carelessly dumped here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 39
+End
+
+#O
+Vnum 16009
+Nest 0
+Name raggedy shirt~
+ShD  a {yr{Yagged{yy s{Yhir{yt{x~
+Desc Some torn cloth is piled on the floor.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 40
+End
+
+#O
+Vnum 16014
+Nest 0
+Name baggy pants~
+ShD  a {rp{Rai{rr {Wo{Df {rb{Ragg{ry p{Rant{rs{x~
+Desc A pair of baggy pants hangs here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 40
+End
+
+#O
+Vnum 16027
+Nest 0
+Name jug beer~
+ShD  a {yj{Yu{yg{x of {yb{Yee{yr{x~
+Desc A jug of beer has been carelessly dumped here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 40
+End
+
+#O
+Vnum 16013
+Nest 0
+Name pegleg peg~
+ShD  a {yp{Yegle{yg{x~
+Desc A short stick is leaning against the wall.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 40
+End
+
+#O
+Vnum 16006
+Nest 0
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 40
+End
+
+#O
+Vnum 16011
+Nest 0
+Name parrot~
+ShD  a {gt{Galkativ{ge {gp{Garro{gt{x~
+Desc An extremely loquacious parrot is perched here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 40
+End
+
+#O
+Vnum 16012
+Nest 0
+Name cap sailor~
+ShD  a {bs{Ba{Wil{Bo{br{x's cap~
+Desc A blue cap sits here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 40
+End
+
+#O
+Vnum 16040
+Nest 0
+Name apple~
+ShD  a {gd{Geliciou{gs {ra{Rppl{re{x~
+Desc A delicious apple makes your mouth water.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 41
+End
+
+#O
+Vnum 16019
+Nest 0
+Name shield polished wooden~
+ShD  a {Dp{Wolishe{Dd {yw{Yoode{yn {Ds{Whiel{Dd{x~
+Desc A polished wooden shield has been dropped here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 41
+End
+
+#O
+Vnum 16006
+Nest 0
+Name ring pirate~
+ShD  a {rp{Ri{Dra{Rt{re{x's {rr{Rin{rg{x~
+Desc A pirate's ring is rolling around on the floor.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 41
+End
+
+#O
+Vnum 16011
+Nest 0
+Name parrot~
+ShD  a {gt{Galkativ{ge {gp{Garro{gt{x~
+Desc An extremely loquacious parrot is perched here.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 41
+End
+
+#O
+Vnum 9220
+Nest 0
+Name stone club two-handed~
+ShD  a {Ds{wt{Do{wn{De{x club~
+Desc A large {Ds{wt{Do{wn{De{x club lies on the ground.~
+MULTI Iosin~ c-24-23-211-73.hsd1.ca.comcast.net~ 45
+End
+
+#END

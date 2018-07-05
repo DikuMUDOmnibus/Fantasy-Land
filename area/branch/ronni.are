@@ -1,0 +1,434 @@
+#AREADATA
+Name Ronni's Road House~
+Builders None~
+VNUMs 30000 30099
+Credits [ -ALL- ] Ronni    Ronni's Roadhouse~
+Security 9
+End
+
+
+
+#MOBILES
+#30000
+bartender Amber~
+Amber~
+{YAmber{x stands behind the bar awaiting your order.
+~
+~
+human~
+ABGV DF 0 1000 0
+85 50 25d10+4999 25d10+3999 12d15+25 slap
+-13 -13 -13 -13
+0 ABCDLQ 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium 0
+#30001
+manageress Tawny~
+Tawny~
+{#Tawny{0 stands behind the bar awaiting your order.
+~
+This gorgeous, blonde woman stands behind the counter awaiting your every
+request.  Known for her outstanding beauty, only one person can match her. 
+That person, is her twin sister Amber.  Warm hearted, and good natured,
+Tawny is a friend to all.  Clearly loving her job, a bright smile always
+dominates her cheerful face.  Although this lovely lady is caring and
+compassionate, she's not one to be reckoned with.  
+~
+human~
+ABG DF 0 1000 0
+85 50 25d10+4999 25d10+3999 12d15+25 slap
+-13 -13 -13 -13
+0 ABCDLQ 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#30000
+bed~
+the bed~
+A bed sits here, it's well worn, but still looks inviting.~
+sponge~
+furniture BD 0
+2 1500 BEHK 250 250
+0 0 0 P
+#30001
+bed~
+Ronni's bed~
+A bed is here along the west wall.~
+sponge~
+furniture 0 0
+2 1500 BEHK 250 250
+0 0 0 P
+#30002
+marble desk~
+Marble Desk~
+A marble desk is here.~
+marble~
+container 0 0
+15000 0 0 1000 0
+0 0 0 P
+#30003
+bottle beer canadian~
+a bottle of Canadian~
+A bottle of beer with a maple leaf on it has been discarded here.~
+glass~
+drink A AO
+64 64 'beer' 0 0
+1 0 250 P
+#30004
+bottle beer XXX~
+a bottle of XXX~
+A bottle containing a very potent brew is here.~
+glass~
+drink A AO
+64 64 'beer' 0 0
+1 0 250 P
+#30005
+bottle beer lager~
+a bottle of lager~
+A bottle of lager is here on the ground.~
+glass~
+drink A AO
+64 64 'beer' 0 0
+1 0 250 P
+#30006
+ribs~
+a plate of ribs~
+A delicious looking plate of ribs is here.~
+food~
+food 0 A
+8 16 0 0 0
+0 0 300 P
+#30007
+wings~
+an order of Wings~
+A steaming pile of wings is here waiting to be eaten.~
+food~
+food 0 A
+8 16 0 0 0
+0 0 300 P
+#30008
+nachos~
+a plate of Nacho's~
+A large plate of Nachos is here.~
+food~
+food 0 A
+8 16 0 0 0
+0 0 300 P
+#30009
+bar beer~
+the bar~
+A long beer-soaked bar stretches across the room.~
+wood~
+furniture 0 0
+10 100000 BDGN 0 0
+0 1 1 P
+#30010
+water cooler coke~
+a water cooler~
+A water cooler filled with coke sits in the corner~
+glass~
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0 P
+#30011
+keycard mushroom portal~
+a keycard with a {%mushroom {&embossed {0on it{0~
+A keycard belonging to members of the restaurant '{%S{5hroomers{0'.~
+fungus~
+portal ABIPTY AO
+1 0 0 30006 0
+0 5 1000 P
+#30012
+Crab Portobellos~
+crab stuffed portobellos~
+These portobellos are stuffed with only the finest imperial crab.~
+mushroom~
+food PTU A
+16 10 0 0 0
+0 5 100 P
+#30013
+chanterelle chicken chowder~
+chunky chicken chanterelle chowder~
+This yummy chicken chowder is packed full of mushrooms.~
+mushroom~
+food PTU A
+16 15 0 0 0
+0 5 200 P
+#30014
+salad mushroom garlic~
+a grilled mushroom and garlic salad~
+The garlic gives the salad an extra zing.~
+mushroom~
+food PTU A
+16 15 0 0 0
+0 7 200 P
+#30015
+shiitake stir fry~
+a shiitake style stir-fry~
+The stir-fry reminds you of Martha Stewart for some odd reason...~
+mushroom~
+food PTU A
+16 20 0 0 0
+0 10 300 P
+#30016
+fountain mushroom shaped~
+{7a {%m{5ushroom {7shaped fountain{0~
+{7A {%m{5ushroom {7shaped fountain sprays water beautifully{0~
+marble~
+fountain ABIT P
+-1 -1 'water' 0 0
+0 1000 0 P
+#30017
+chair wicker~
+{7a cozy {3wicker chair{0~
+{7Comfortable looking {3wicker chairs {7are placed around the room.{0~
+cane~
+furniture ABIRT P
+10 5000 BEIL 100 100
+0 20 0 P
+#0
+
+
+
+#ROOMS
+#30000
+Entrance to Ronni's Road House~
+You stand before a large wooden structure with a swinging door and
+windows littered with propoganda from the local beer merchants.  This
+place offers a down-home feeling with a touch of class.  Up lies the
+lobby. 
+~
+0 1024 1
+D0
+Takes you back to the Main Road.
+~
+~
+0 -1 22002
+D4
+The ladder leads to the lobby. 
+~
+~
+0 -1 30002
+S
+#30001
+Motel Room #247~
+You are in a small, comfortable motel room.  In this room
+there's a comfortable looking bed, a fireplace and a window looking
+out over the mysteriously beautiful Dragon Sea.
+~
+0 3084 0
+E
+window~
+It looks out over the Dragon Sea.  You become nervous looking at all the violent
+waves, yet can't turn away because of its beauty. 
+~
+E
+fireplace~
+The fireplace isn't particularly big, but the fire crackles merrily in it.
+~
+D2
+The corridor leads south to the hall.
+~
+~
+0 -1 30004
+S
+#30002
+Lobby of Ronni's Road House~
+To the east you hear sounds of laughter and merriment coming from the bar.
+The hallway continues west to the motel area and down leads you outside 
+the road house.
+~
+0 1036 0
+D1
+To the east is the bar. 
+~
+~
+1 0 30003
+D2
+To the south is Runestar's room.
+~
+~
+0 0 30010
+D3
+To the west is the hall leading to the motel area.
+~
+~
+0 0 30004
+D5
+The ladder leads down to the entrance.
+~
+~
+0 0 30000
+S
+#30003
+The Bar~
+The atmosphere in here is very friendly.  The patrons know if
+they start a brawl, they'll have to answer to Ronni.  The smell of the
+food from the kitchen starts the salivation inside your mouth.
+~
+0 1032 0
+D3
+The lobby is to the west.
+~
+~
+1 0 30002
+S
+#30004
+Hallway~
+To the north and south are motel rooms for the people that are far too
+intoxicated to return home.  East brings you back to the main lobby of 
+Ronni's road house.  West magically sends you back to Midgaard.
+~
+0 1032 0
+D0
+Motel room #247 is to the north.
+~
+~
+0 0 30001
+D1
+The lobby is to the east.
+~
+~
+0 0 30002
+D2
+Motel room #249 is to the south.
+~
+~
+0 0 30005
+D3
+The front door leads to Park Road.
+~
+~
+0 0 3126
+S
+#30005
+Motel Room #249~
+~
+0 1544 0
+E
+painting~
+It's a painting of THE most beatuiful woman in the realms, {RKira{x.
+~
+D0
+The hall is to the north.
+~
+~
+0 0 30004
+S
+#30006
+{%S{5hroomers{0~
+{5The rich {#buttery {5scent of freshly sauteed mushrooms wafts through the
+air, filling your nostrils with delight.  Tawny, the hostess of this
+wonderful restaurant, smiles at you from behind the seemingly endless bar. 
+Lined with mushroom shaped swivel stools, the {*black marble {5countertop
+harmonizes perfectly.  {%Lavender {5pillows propped up in {3wicker chairs {5sit
+around matching tables strategically placed around the room.  Meticulously
+arranged vases full of Iris' and orchids sit on top of each table. 
+Chandeliers adorned with flaming mushrooms dangle from above.  Although this
+place may be classy, there is most definately a happy-go-lucky atmosphere. 
+Hanging on each and every wall are pictures of {*E{7m{&i{*l{7y {5and {%R{5e{%i{5n{%a{5, the founders
+of this heavenly abode.  {x 
+~
+0 795916 0
+D0
+A square to some temple can be seen to the north though the details are
+blurred by some kind of magical haze.  
+~
+~
+0 0 3005
+S
+#30010
+Runey's Romper Room~
+Here you are in Runestar's room.  She's decorated according to her
+tastes, so you're hit with a blast of color as a first impression. 
+Two walls are covered with bookcases, filled with fantasy/SF books and
+RPG sourcebooks.  The upper half of the walls (all free space) is
+plastered with posters.  You spot Ranma-chan and Ranma-kun, the cast
+of Tenchi Muyo, assorted comic book characters, and an Olivia poster. 
+Hanging from the ceiling is a Ryo-oh-ki stuffed toy looking like a
+furry, demented disco ball. 
+~
+0 1032 0
+E
+book shelf bookshelf~
+You see Eddings, Lackey, Asprin, Huff and many other authors 
+represented. ~
+E
+poster~
+You see Runestar *really* likes anime and comics. ~
+D0
+You see the Lobby of Ronni's Road House.
+~
+~
+0 0 30002
+D2
+A wooden door leads out into the hustle and bustle of Market Square. 
+~
+door~
+1 0 3014
+D3
+~
+~
+4 10013 10086
+M 200 H 200
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 30002 1 1
+D 0 30003 3 1
+D 0 30010 3 2
+O 0 30000 0 30001
+O 0 30002 0 30002
+M 0 30000 1 30003 1
+G 0 30003 0
+G 0 30004 0
+G 0 30005 0
+G 0 30006 0
+G 0 30007 0
+G 0 30008 0
+O 0 6003 0 30003
+P 0 3392 1 6003 1
+O 0 30009 0 30003
+O 0 30001 0 30005
+O 0 30017 0 30006
+O 0 30016 0 30006
+M 0 30001 1 30006 1
+G 0 30012 0
+G 0 30013 0
+G 0 30014 0
+G 0 30015 0
+G 0 30011 0
+O 0 30010 0 30010
+S
+
+
+
+#SHOPS
+30000 0 0 0 0 0 100 100 0 23
+30001 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

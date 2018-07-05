@@ -1,0 +1,1363 @@
+#MAX_RACE 73
+#Race
+Name avian~
+Affs DFLT
+Shds B
+Part ABCDEFGHIJKP
+Dsbl 1
+DamM 100 100 100 100 150 100 100 100 100 100 75 25 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN Avian ~
+Pnts 0
+Attk peck~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name centaur~
+Shds F
+Part ABCDEFGHIJK
+Dsbl 1
+DamM 100 100 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN ~
+Pnts 0
+Attk punch~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name changeling~
+Part ABCDEFGHIJKQUV
+Dsbl 1
+DamM 100 100 100 100 150 100 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100
+Size 2
+PcRc 1
+WhoN Changl~
+Pnts 0
+Attk punch~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name cyclops~
+Part ABCDEFGHJK
+Dsbl 1
+DamM 100 100 100 100 100 100 50 100 100 100 0 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN ~
+Pnts 0
+Attk punch~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name demon~
+Affs CT
+Shds AD
+Part ABCDEFGHIJKPQ
+Dsbl 1
+DamM 100 100 125 100 100 100 50 100 200 100 125 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN ~
+Pnts 0
+Attk punch~
+Stat 14 14 13 12 15
+MaxS 20 20 18 18 22
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name draconian~
+Affs T
+Part ABCDEFGHIJKPQ
+Dsbl 1
+DamM 100 50 100 50 100 100 50 100 100 100 100 50 200 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN Dracon~
+Pnts 16
+Attk flame~
+Skil acid breath~
+Skil fire breath~
+Skil frost breath~
+Skil gas breath~
+Skil lightning breath~
+Stat 11 11 11 11 11
+MaxS 17 20 20 17 17
+Clas mage 1 150
+Clas cleric 1 200
+Clas thief 0 200
+Clas warrior 1 200
+Clas ranger 0 200
+Clas druid 1 160
+Clas acolyte 1 140
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 0 200
+Clas gladiator 1 200
+Clas strider 0 200
+Clas sage 1 160
+Clas lich 1 140
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 0 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 0 160
+Clas necromancer 1 140
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name drider~
+Part ABCDEFK
+Dsbl 1
+DamM 100 100 100 100 0 150 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN ~
+Pnts 0
+Attk punch~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name drow~
+Affs PU
+Shds B
+Part ABCDEFGHIJK
+Dsbl 1
+DamM 100 100 100 100 100 100 100 100 100 100 150 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN Drow  ~
+Pnts 0
+Attk punch~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name dwarf~
+Affs Z
+Part ABCDEFGHIJK
+DamM 100 100 100 100 100 100 100 75 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 0 100 100
+Size 2
+PcRc 1
+WhoN Dwarf ~
+Pnts 10
+Attk charge~
+Skil axe mastery~
+Stat 17 13 17 11 17
+MaxS 23 19 25 15 25
+Clas mage 0 150
+Clas cleric 1 150
+Clas thief 1 175
+Clas warrior 1 140
+Clas ranger 0 150
+Clas druid 0 150
+Clas acolyte 1 145
+Clas wizard 0 165
+Clas priest 1 165
+Clas rogue 1 190
+Clas gladiator 1 155
+Clas strider 0 165
+Clas sage 0 165
+Clas lich 1 160
+Clas archmage 0 180
+Clas bishop 1 180
+Clas assassin 1 205
+Clas knight 1 170
+Clas hunter 0 180
+Clas hierophant 0 180
+Clas necromancer 1 175
+Clas witch 1 200
+Clas wiccan 1 225
+Clas warlock 1 240
+End
+
+#Race
+Name elf~
+Affs DF
+Part ABCDEFGHIJK
+DamM 100 155 25 100 100 100 100 100 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN Elf   ~
+Pnts 8
+Attk punch~
+Stat 13 14 14 15 12
+MaxS 18 20 20 20 17
+Clas mage 1 175
+Clas cleric 1 175
+Clas thief 1 175
+Clas warrior 0 175
+Clas ranger 1 175
+Clas druid 1 175
+Clas acolyte 1 175
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 0 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 225
+Clas bishop 1 225
+Clas assassin 1 225
+Clas knight 0 225
+Clas hunter 1 225
+Clas hierophant 1 225
+Clas necromancer 1 225
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name giant~
+Part ABCDEFGHIJK
+Dsbl 1
+DamM 100 100 100 50 100 100 50 100 100 100 100 150 100 150 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN ~
+Pnts 0
+Attk punch~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name gnoll~
+Part ABCDEFGHIJKUV
+Dsbl 1
+DamM 100 100 100 150 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 0 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN ~
+Pnts 0
+Attk punch~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name gnome~
+Part ABCDEFGHIJK
+Dsbl 1
+DamM 100 100 200 100 100 100 100 100 100 75 100 100 100 100 100 100 100 100 100 75 100 100 100 75 100 100
+Size 1
+PcRc 1
+WhoN Gnome ~
+Pnts 10
+Attk slap~
+Skil engineer~
+Stat 11 14 13 13 11
+MaxS 15 24 27 24 18
+Clas mage 1 110
+Clas cleric 1 150
+Clas thief 1 130
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 110
+Clas priest 1 150
+Clas rogue 1 130
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 110
+Clas bishop 1 150
+Clas assassin 1 130
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name goblin~
+Affs CDF
+Shds B
+Part ABCDEFGHIJK
+Dsbl 1
+DamM 100 100 100 100 50 100 100 100 100 100 150 100 150 50 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN ~
+Pnts 0
+Attk punch~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name halfelf~
+Part ABCDEFGHIJK
+Dsbl 1
+DamM 100 100 50 100 100 100 100 100 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN ~
+Pnts 0
+Attk punch~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name halfling~
+Part ABCDEFGHIJK
+Dsbl 1
+DamM 100 100 50 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 1
+PcRc 1
+WhoN Halfl~
+Pnts 10
+Attk scratch~
+Skil sneak~
+Skil evade~
+Stat 12 11 12 17 11
+MaxS 16 20 18 27 16
+Clas mage 1 125
+Clas cleric 1 150
+Clas thief 1 100
+Clas warrior 1 175
+Clas ranger 1 150
+Clas druid 1 150
+Clas acolyte 1 200
+Clas wizard 1 120
+Clas priest 1 145
+Clas rogue 1 95
+Clas gladiator 1 170
+Clas strider 1 145
+Clas sage 1 145
+Clas lich 1 200
+Clas archmage 1 115
+Clas bishop 1 140
+Clas assassin 1 90
+Clas knight 1 165
+Clas hunter 1 140
+Clas hierophant 1 140
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name halforc~
+Affs V
+Part ABCDEFGHIJK
+Dsbl 1
+DamM 100 90 125 100 100 100 100 100 100 100 115 100 90 100 100 100 100 100 100 100 80 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN ~
+Pnts 0
+Attk punch~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name heucuva~
+Part ABCGHIJ
+Dsbl 1
+DamM 135 140 100 50 25 100 80 50 100 100 100 100 85 100 0 100 100 100 30 100 120 100 100 100 75 100
+Size 2
+PcRc 1
+WhoN Heucva~
+Pnts 6
+Attk infection~
+Stat 16 13 13 15 18
+MaxS 19 17 17 18 21
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name human~
+Part ABCDEFGHIJK
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+PcRc 1
+WhoN Human ~
+Pnts 2
+Attk punch~
+Stat 13 13 13 13 13
+MaxS 18 18 18 18 18
+Clas mage 1 150
+Clas cleric 1 150
+Clas thief 1 150
+Clas warrior 1 150
+Clas ranger 1 150
+Clas druid 1 150
+Clas acolyte 1 150
+Clas wizard 1 165
+Clas priest 1 165
+Clas rogue 1 165
+Clas gladiator 1 165
+Clas strider 1 165
+Clas sage 1 165
+Clas lich 1 165
+Clas archmage 1 180
+Clas bishop 1 180
+Clas assassin 1 180
+Clas knight 1 180
+Clas hunter 1 180
+Clas hierophant 1 180
+Clas necromancer 1 180
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name immortal~
+Affs CDEFGHJLTUVZc
+Shds ACDEFGIJKLOPQRS
+Part ABCDEFGHIJKLNOPQUVWXY
+Dsbl 1
+DamM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Size 5
+PcRc 1
+WhoN Immort~
+Pnts 100
+Attk divinity~
+Stat 35 35 35 35 35
+MaxS 35 35 35 35 35
+Clas mage 0 100
+Clas cleric 0 100
+Clas thief 0 100
+Clas warrior 0 100
+Clas ranger 0 100
+Clas druid 0 100
+Clas acolyte 0 100
+Clas wizard 0 100
+Clas priest 0 100
+Clas rogue 0 100
+Clas gladiator 0 100
+Clas strider 0 100
+Clas sage 0 100
+Clas lich 0 100
+Clas archmage 0 100
+Clas bishop 0 100
+Clas assassin 0 100
+Clas knight 0 100
+Clas hunter 0 100
+Clas hierophant 0 100
+Clas necromancer 0 100
+Clas witch 0 200
+Clas wiccan 0 200
+Clas warlock 0 200
+End
+
+#Race
+Name kenku~
+Part ABCDEFGHIJKP
+Dsbl 1
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 0 150 100 100 100 100
+Size 2
+PcRc 1
+WhoN ~
+Pnts 0
+Attk punch~
+Stat 0 0 0 0 0
+MaxS 0 0 0 0 0
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name minotaur~
+Part ABCDEFGHIJKW
+Dsbl 1
+DamM 100 100 100 100 50 100 100 100 100 100 100 100 100 200 100 100 100 100 100 100 75 100 100 100 100 100
+Size 4
+PcRc 1
+WhoN Minotr~
+Pnts 15
+Attk thrust~
+Skil berserk~
+Skil gore~
+Stat 20 7 10 10 15
+MaxS 30 11 15 16 24
+Clas mage 1 200
+Clas cleric 1 200
+Clas thief 1 200
+Clas warrior 1 100
+Clas ranger 1 200
+Clas druid 1 200
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 200
+Clas rogue 1 200
+Clas gladiator 1 100
+Clas strider 1 200
+Clas sage 1 200
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 200
+Clas assassin 1 200
+Clas knight 1 100
+Clas hunter 1 200
+Clas hierophant 1 200
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name pixie~
+Affs ETVc
+Shds B
+Part ABCDEFGHIJKP
+DamM 100 150 50 100 100 150 100 100 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100
+Size 1
+PcRc 1
+WhoN Pixie ~
+Pnts 7
+Attk magic~
+Skil fly~
+Stat 12 14 13 15 12
+MaxS 16 20 18 22 17
+Clas mage 1 150
+Clas cleric 1 225
+Clas thief 1 125
+Clas warrior 0 250
+Clas ranger 1 225
+Clas druid 1 200
+Clas acolyte 1 150
+Clas wizard 1 165
+Clas priest 1 240
+Clas rogue 1 140
+Clas gladiator 0 265
+Clas strider 1 240
+Clas sage 1 215
+Clas lich 1 165
+Clas archmage 1 200
+Clas bishop 1 265
+Clas assassin 1 170
+Clas knight 0 280
+Clas hunter 1 265
+Clas hierophant 1 230
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name satyr~
+Affs E
+Part ABCDEFGHIJK
+Dsbl 1
+DamM 100 100 0 100 100 100 100 100 100 100 100 100 125 100 100 100 100 100 100 100 100 100 100 100 100 75
+Size 2
+PcRc 1
+WhoN Satyr{x~
+Pnts 13
+Attk thrust~
+Skil dominate~
+Stat 16 14 17 16 14
+MaxS 17 21 20 23 18
+Clas mage 1 200
+Clas cleric 1 100
+Clas thief 1 200
+Clas warrior 1 200
+Clas ranger 1 125
+Clas druid 1 125
+Clas acolyte 1 200
+Clas wizard 1 200
+Clas priest 1 95
+Clas rogue 1 200
+Clas gladiator 1 200
+Clas strider 1 140
+Clas sage 1 140
+Clas lich 1 200
+Clas archmage 1 200
+Clas bishop 1 90
+Clas assassin 1 200
+Clas knight 1 200
+Clas hunter 1 170
+Clas hierophant 1 170
+Clas necromancer 1 200
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name titan~
+Affs c
+Part ABCDEFGHIJK
+DamM 120 60 0 80 80 125 110 115 100 90 95 150 100 60 100 100 100 110 70 110 110 130 105 100 100 100
+Size 5
+PcRc 1
+WhoN Titan ~
+Pnts 8
+Attk crush~
+Stat 18 11 10 9 18
+MaxS 25 17 16 14 25
+Clas mage 1 225
+Clas cleric 1 200
+Clas thief 0 250
+Clas warrior 1 125
+Clas ranger 1 150
+Clas druid 1 200
+Clas acolyte 0 225
+Clas wizard 1 240
+Clas priest 1 215
+Clas rogue 0 265
+Clas gladiator 1 140
+Clas strider 1 170
+Clas sage 1 215
+Clas lich 0 240
+Clas archmage 1 265
+Clas bishop 1 230
+Clas assassin 0 280
+Clas knight 1 170
+Clas hunter 1 200
+Clas hierophant 1 230
+Clas necromancer 0 265
+Clas witch 1 225
+Clas wiccan 1 240
+Clas warlock 1 265
+End
+
+#Race
+Name vampire~
+Affs Tc
+Shds J
+Part ABCDEFGHIJKV
+DamM 100 100 100 90 0 100 125 90 130 100 140 100 80 85 50 100 100 100 0 145 100 100 75 100 50 135
+Size 2
+PcRc 1
+WhoN Vampir~
+Pnts 7
+Attk vampirism~
+Skil feed~
+Stat 18 15 15 18 17
+MaxS 22 19 19 22 21
+Clas mage 1 160
+Clas cleric 0 150
+Clas thief 0 150
+Clas warrior 0 150
+Clas ranger 1 150
+Clas druid 0 150
+Clas acolyte 1 135
+Clas wizard 1 210
+Clas priest 0 200
+Clas rogue 0 200
+Clas gladiator 0 200
+Clas strider 1 200
+Clas sage 0 200
+Clas lich 1 185
+Clas archmage 1 260
+Clas bishop 0 250
+Clas assassin 1 250
+Clas knight 0 250
+Clas hunter 1 250
+Clas hierophant 0 250
+Clas necromancer 1 225
+Clas witch 1 200
+Clas wiccan 1 200
+Clas warlock 1 200
+End
+
+#Race
+Name arachnid~
+Affs JPQVZc
+Shds J
+DamM 115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100
+Size 2
+End
+
+#Race
+Name bat~
+Part ACDEFHJKP
+DamM 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name bear~
+Part ABCDEFHJKUV
+DamM 100 50 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name cat~
+Part ACDEFHJKQUV
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name centipede~
+Part ACK
+DamM 100 150 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name dog~
+Part ACDEFHJKUV
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name doll~
+Part ABCGHK
+DamM 150 50 100 0 0 150 150 100 0 100 50 150 100 0 0 100 100 100 0 100 150 100 0 100 100 100
+Size 2
+End
+
+#Race
+Name dragon~
+Affs DFT
+Part ACDEFGHIJKPQUVX
+DamM 100 50 75 150 100 100 50 100 100 100 100 100 100 75 100 100 100 200 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name f_elemental~
+Affs CDEFGHJLTUVc
+Shds DH
+DamM 80 4 20 120 4 4 0 20 80 4 4 4 50 80 20 80 20 4 4 4 4 80 120 80 20 0
+Size 6
+End
+
+#Race
+Name faerie~
+Affs T
+Shds H
+Part ABCP
+DamM 100 100 100 100 100 50 100 100 100 100 100 100 50 100 100 150 100 100 100 100 100 100 100 100 125 100
+Size 0
+End
+
+#Race
+Name feline~
+Affs DFV
+Part ABCHKQ
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 75 100 50 100 100 100 100 100 150 100 100 100 100
+Size 2
+End
+
+#Race
+Name fido~
+Part ACDEFHJKQV
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name fox~
+Part ACDEFHJKQV
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name ghost~
+Affs TU
+Shds BH
+DamM 100 0 150 100 100 100 100 100 150 100 150 100 200 150 100 100 100 0 100 100 0 150 100 100 100 100
+Size 2
+End
+
+#Race
+Name gnome~
+DamM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100
+Size 2
+End
+
+#Race
+Name gryfalcon~
+Part ABCDEFGHIJKPQU
+DamM 0 100 100 150 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name gryphon~
+Part ABCDEFGHIJKPQU
+DamM 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100
+Size 2
+End
+
+#Race
+Name high elf~
+Part ABCGH
+DamM 100 125 100 100 100 75 100 100 100 100 100 100 50 0 100 100 100 100 150 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name hobgoblin~
+Part ABCDEFGHIJKY
+DamM 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name insectoid~
+Affs LPTVZc
+Shds H
+DamM 110 110 50 40 20 50 120 20 20 50 80 120 40 20 105 105 20 50 10 50 50 10 120 10 50 20
+Size 2
+End
+
+#Race
+Name kobold~
+Part ABCDEFGHIJKQ
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name l_elemental~
+Affs CDFGHJTUVZc
+Shds EH
+DamM 50 1 40 45 5 0 50 5 30 5 0 0 50 40 30 80 20 5 5 5 5 40 80 50 35 5
+Size 6
+End
+
+#Race
+Name lizard~
+Part ACDEFHKQV
+DamM 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name minotaur~
+DamM 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100
+Size 2
+End
+
+#Race
+Name modron~
+Part ABCGHJK
+DamM 50 100 0 50 0 100 50 100 0 100 100 100 100 0 0 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name mummy~
+Affs M
+Part ABCGH
+DamM 100 100 100 100 0 100 200 100 100 100 100 100 100 0 100 100 100 100 0 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name ogre~
+Part ABCDEFGHIJK
+DamM 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 4
+End
+
+#Race
+Name orc~
+Affs Vc
+Part ABCDEFGHIJK
+DamM 100 75 150 100 100 100 100 100 100 100 150 150 0 150 100 100 100 75 100 100 75 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name pig~
+Part ACDEFHJK
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name quickling~
+Affs V
+Shds E
+Part ABCDEFGHIJK
+DamM 100 100 100 100 100 100 100 100 100 100 100 50 150 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name rabbit~
+Part ACDEFHJK
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name school monster~
+Part ABCDEFHJKQU
+DamM 100 100 0 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name shadow~
+Affs TU
+Shds OP
+Part ABCDEFGHIJK
+DamM 100 50 50 100 100 0 100 100 150 100 200 150 75 100 75 100 100 100 100 100 100 150 100 100 100 100
+Size 2
+End
+
+#Race
+Name skeleton~
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name snake~
+Part ADEFKLQVX
+DamM 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name song bird~
+Part ACDEFHKP
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name sylvan elf~
+Affs DFPQ
+Part ABCGH
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 75
+Size 2
+End
+
+#Race
+Name theiwar~
+Part ABCDEFGHIJK
+DamM 100 100 100 100 100 0 100 100 100 100 100 100 100 100 150 100 100 100 100 100 50 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name tiegre~
+Part ABCDEFHJKQUV
+DamM 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name treant~
+Affs Vce
+Shds HIP
+DamM 110 10 50 10 110 115 120 10 50 110 75 120 20 50 50 20 50 20 30 110 110 10 50 0 50 0
+Size 6
+End
+
+#Race
+Name troll~
+Affs c
+Part ABCUV
+DamM 0 50 100 100 100 100 200 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 4
+End
+
+#Race
+Name water fowl~
+Part ACDEFHKP
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100
+Size 2
+End
+
+#Race
+Name wiccan~
+Dsbl 1
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name witch~
+Dsbl 1
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name with~
+Dsbl 1
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name wolf~
+Part ACDEFJKQV
+DamM 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Size 2
+End
+
+#Race
+Name wyvern~
+Part ACDEFHJKQVX
+DamM 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100
+Size 2
+End
+
+#End

@@ -1,0 +1,3387 @@
+#AREADATA
+Name Lensmen~
+Builders None~
+VNUMs 1900 1999
+Credits [ 40 100] Gynix    Lensmen~
+Security 9
+End
+
+
+
+#MOBILES
+#1900
+patrolman~
+A Patrolman~
+A Patrolman is wandering around here.
+~
+A standard recruit for the Galatic Patrol. He is strong, well armored,
+and trained to meet any challenge.
+~
+human~
+AGT DFV N 300 0
+60 5 10d10+1000 1d100+100 5d10+20 slice
+-15 -15 -15 -10
+CDEFGHIJ AB CDN 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1901
+patrolman guard~
+A Patrolman Guard~
+A Patrolman Guard is patrolling the area.
+~
+This is a loyal, strong, trustworthy guard.  He looks like he itching is for
+a fight, though, so stay out of his way.
+~
+human~
+AGT DFV N 320 0
+70 5 10d10+1000 5d10+200 5d10+20 slice
+-15 -15 -15 -10
+CDEFGHIJ AB CDN 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1902
+boskonian~
+A Boskonian~
+A Boskonian is looking for someone to attack.
+~
+Big. Ugly.  Armed to the teeth.  Definately not one to mess with.
+~
+human~
+AFGT FGV 0 -300 0
+60 5 10d10+1000 1d10+100 6d15+35 slice
+-15 -15 -15 -10
+CDEFGHIJ AB CDM N
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1903
+boskonian~
+A Boskonian~
+A Boskonian is engaged in battle with a Patrolman.
+~
+This Boskonian is too busy fighting to notice you.  Maybe you can get him
+while his back is turned.
+~
+human~
+AGT FGV 0 -200 0
+60 5 10d10+1000 1d10+100 6d10+35 slice
+-15 -15 -15 -10
+CDEFGHIJ AB CDM N
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1904
+boskonian guard~
+A Boskonian Guard~
+A Boskonian stands guard here.
+~
+This Boskonian has been instructed to stay at his post.  He looks at you,
+wanting to attack, but fears a reprimand if he leaves his post to attack.
+~
+human~
+ABGT DEFV 0 -320 0
+70 10 10d10+1200 2d50+150 6d10+40 slice
+-17 -17 -17 -12
+CDEFGHIJ AB CDM N
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1905
+tregonsee~
+Tregonsee~
+Tregonsee is watching for intruders.
+~
+A large barrel-shaped creature.  He has multiple tentacles extending from
+his body.  He looks at you curiosly, and probes your mind, seeking your
+true intentions.
+~
+human~
+ABGT CDEFGJV H 350 0
+70 10 10d10+3000 5d100+250 5d10+50 wrath
+-20 -20 -20 -15
+CDEFGHIJK ABP CDN 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1906
+nadreck~
+Nadreck~
+Nadreck is taking a break from the proceedings.
+~
+It is kind of hard to tell exactly what Nadreck is, considering he is
+encapsulated in a spacesuit.  It seems our air is poisonous to him.  He
+looks at you coldly (his spacesuit is refrigerated), and probes your mind.
+~
+human~
+ABGR CDEFGJV CH 150 0
+72 15 10d10+3100 10d100+1900 5d10+55 wrath
+-22 -22 -22 -17
+CDEFGHIJK AB CDIN HM
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#1907
+worsel velantian dragon~
+Worsel~
+A huge Velantian dragon is conversing with Kinnison.
+~
+He is a huge dragon-like creature.  His lens is firmly affixed to his
+right wrist, giving indication of his status.  He is currently talking
+with Kinnison, attempting to formulate a strategy to ward off the
+invading Boskonians.
+~
+human~
+ABGT CDEFGJTV CDEHN 400 0
+80 80 200d1+15000 10d100+300 5d10+60 wrath
+-30 -30 -30 -30
+CDEFGHIJKO ABP CDN 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#1908
+kimball kinnison~
+Kinnison~
+Kimball Kinnison, leader of the Lensmen, is formulating a strategy.
+~
+Kimball Kinnison looks like your average human, except for the powerful
+lens on his wrist.  His grey leather uniform is spotless.  He glaces at
+you curiously, and politely probes the edges of your mind to see your
+intentions.
+~
+human~
+ABGQ CDEFGJTUV CDEHN 600 0
+90 40 200d1+15000 10d100+3000 5d10+65 wrath
+-30 -30 -30 -25
+CDEFGHIJK ABP CDN M
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1909
+peter van buskirk~
+Van Buskirk~
+Peter Van Buskirk is here, happily chopping away at Boskonians.
+~
+Peter Van Buskirk is a HUGE Valerian.  Standing somewhere near 7 feet
+tall, he is chopping away at Boskonians with a 2-handed axe (of
+course..he's wielding it in one hand).  He seems oblivious to all that is
+going on around him, concentrating only on the battle.
+~
+human~
+ABGT CDEFGJTUV CDEH 250 0
+80 30 10d10+2500 1d100+300 5d15+50 wrath
+-20 -20 -20 -10
+CDEFGHIJK AB CDNP N
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#1910
+vveryl chickladorian patrolman~
+Vveryl~
+Vveryl stands here, gathering information.
+~
+Vveryl is a Chickladorian of average height.  His skin is pink, his hair
+is pink, his eyes are pink...hell, everything about him is pink.  He
+stares at you through triangular three-lidded eyes for a moment, then
+resumes his work.
+~
+human~
+ABGT CDEFGJTUV 0 300 0
+70 15 10d10+1000 10d10+400 5d10+30 wrath
+-15 -15 -15 -10
+CDEFGHIJ AB CDN M
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1911
+kallatra patrolman~
+Kallatra~
+Kallatra is here, sorting information.
+~
+Kallatra is a human patrolman of about average height.  She is currently
+bending over a desk while she sorts out information about the enemy.  She
+appears to have no interest in your being here, and ignores you entirely.
+~
+human~
+ABGT CDEFGV 0 300 0
+70 15 10d10+1000 10d10+500 5d10+40 wrath
+-15 -15 -15 -10
+CDEFGHIJ AB CDN M
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#1912
+clarissa kinnison lensman~
+Clarissa~
+Clarissa Kinnison stands between you and the Children of the Lens.
+~
+Clarissa Kinnison is the famous Red Lensman.  She and Kallatra are the only
+women to ever wear the Lens.  She is fiercely protective of her children,
+and glares at you while she probes your mind.  Better not make her angry.
+~
+human~
+ABGQ CDEFGJTUV CDEH 600 0
+85 40 200d1+25000 10d100+2000 5d10+80 wrath
+-30 -30 -30 -25
+CDEFGHIJK ABP CDN M
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#1913
+helmuth pirate boskonian~
+Helmuth~
+Helmuth, speaking for Boskone, is reclining here.
+~
+Helmuth is an evil pirate.  Not content with normal raiding and
+pillaging, he left his hideout to join the rest of the fleet in attacking
+the Galactic Patrol headquarters.  He is currently reclining while he
+sends his underlings to their death.
+~
+human~
+ABGT CDEFGJTV 0 -300 0
+75 20 10d10+2200 10d10+250 7d15+50 wrath
+-20 -20 -20 -10
+CDEFGHIJ AB CDM N
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1914
+captain boskonian~
+The Captain~
+The captain of this Boskonian ship is plotting his revenge.
+~
+This Captain is plotting evilly to himself.  Angry at having to give up
+his post as captain of the ship, he seeks a way to get revenge.
+~
+human~
+ABGT CDEFGUV 0 -250 0
+70 20 10d10+1500 10d10+300 5d10+75 wrath
+-20 -20 -20 -15
+CDEFGHIJ AB CDM N
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1915
+eichwor~
+Eichwor~
+Eichwor stands here, torturing Lensmen.
+~
+Eichwor is a ghost.  By a freak of nature, he was brought back to life at
+the instant of his death.  He now roams the mortal planes looking for
+Lensmen to kill in revenge.  He is currently inhabiting the body of a
+Boskonian, but it is too weak for his taste.  He sees you enter the room,
+and cackles madly.  He intends to take over your body!
+~
+human~
+ABFGQ CDEFGJTUVZ CDEH -500 0
+90 65 10d10+5000 10d100+2000 5d15+90 wrath
+-40 -40 -40 -35
+CDEFGHIJK ABP CDM N
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1916
+guard eddorian first~
+The First Guard~
+This First Guard of the Path is holding the key you need.
+~
+This is the first and the weakest of the guards that block your path to
+the Evil that pervades Eddore.  He is grasping a key; in fact, it's the
+key to the door behind him.  Think he'll give you the key if you ask nicely?
+Probably not.
+~
+human~
+ABGT CDEFGTUV H -400 0
+70 20 10d10+1500 10d100+600 5d10+60 wrath
+-20 -20 -20 -15
+CDEFHIK ABP CDM N
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1917
+guard eddorian second~
+The Second Guard~
+The Second Guard of Eddore blocks your path.
+~
+This Eddorian is the second best guard on the entire planet.  His job is
+to make sure you don't reach the Evil that exists on the planet.
+~
+human~
+ABGT CDEFGJTUVZ H -400 0
+75 25 10d10+1700 10d100+800 5d10+80 wrath
+-40 -40 -40 -35
+CDEFIK ABP CDM N
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1918
+guard eddorian third~
+The Third Guard~
+The Third and Final Guard of Eddore holds the key to it all.
+~
+This is the best guard on all of Eddore.  He protects Gharlane from
+harm.  He holds the key to Gharlane's door...can you get the key?
+~
+human~
+ABGR CDEFGJTUV HO -500 0
+80 40 10d10+2000 10d100+4000 5d15+100 wrath
+-40 -40 -40 -30
+CDEFGHIJK ABP CDM N
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#1919
+gharlane eddorian~
+Gharlane~
+Gharlane of Eddore is about to end your life.
+~
+Gharlane is one of the most evil creatures in the entire universe.  He
+cackles madly as you enter the room.  He derives such pleasure from ending
+lives...
+~
+human~
+ABFGR CDEFGJTUV CDEHO -1900 0
+95 70 200d1+10000 10d100+19000 5d15+110 magic
+-40 -40 -40 -30
+CEFIKN ABP CDM NOS
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1920
+karen kinnison lensman~
+Karen~
+Karen Kinnison, child of the Lens, is waiting for action.
+~
+Karen is one of the five Kinnison children.  Kimball refused to allow her
+to fight the Boskonians, so she is sulking in this room.  Of course...they
+can't stop her from using her mental powers...
+~
+human~
+ABGQ CDEFGJTUV CDEHN 400 0
+95 65 200d1+6000 10d100+19000 5d15+100 wrath
+-40 -40 -40 -30
+CDEFIK ABLPQ CDN MR
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#1921
+camilla kinnison lensman~
+Camilla~
+Camilla Kinnison is giggling uncontrollably.
+~
+Camilla is one of the five Kinnison children.  She is currently giggling
+after being told an amusing story about a friend.  She'd rather be out
+helping the Lensman fight, but her father refused to let her.
+~
+human~
+ABGR CDEFGJTUV CDEHN 400 0
+95 65 200d1+6000 10d100+19000 5d15+120 wrath
+-40 -40 -40 -30
+CDEFGHIJK ABLPQ CDN M
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#1922
+constance kinnison lensman~
+Constance~
+Constance Kinnison is gossiping with Camilla.
+~
+Constance is one of the five Kinnison children.  She is currently sharing
+some juicy gossip with his sisten Camilla.  She wanted to go and kick
+some Boskonian butt, but was ordered to stay in this room.  She almost
+considered it an insult, since she hadn't been sent to her room in years.
+But she knows her father is only looking out for her welfare.
+~
+human~
+ABGR CDEFGTUV CDEHN 400 0
+95 65 200d1+6000 10d100+19000 5d15+120 wrath
+-40 -40 -40 -30
+CDEFGHIJK ABLPQ CDN M
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#1923
+kathryn kinnison lensman~
+Kathryn~
+Kathryn Kinnison is here, resting on a bed.
+~
+Kathryn is one of the five Kinnison children.  She is currently resting
+on a bed, since she has nothing else to do.  She wants some action, but
+her father won't let her go out into battle.  So she is spending her time
+daydreaming.
+~
+human~
+ABGQ CDEFGJTUV CDEHN 400 0
+95 65 200d1+6000 10d100+19000 5d15+120 wrath
+-40 -40 -40 -30
+CDEFGHIJK ABLPQ CDN M
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#1924
+christopher kinnison lensman~
+Christopher~
+Christopher Kinnison is easily dispatching his enemies.
+~
+Christopher is one of the five Kinnison children.  The only man to
+graduate straight into Gray Lensman status, he is skilled with both his
+Lens and his weapon.
+~
+human~
+ABGT CDEFGJTUV CDEHN 400 0
+95 65 200d1+6000 10d100+5000 5d15+120 wrath
+-40 -40 -40 -30
+CDEFHIK ABLPQ CDN M
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1925
+lensman~
+A Lensman~
+A Lensman rests here for a moment to catch his breath.
+~
+This man is wearing the most coveted item in the universe: the LENS.  It
+enhances the wearers mental capabilities to allow greater use of
+mental abilities.   Lensmen are known for being a force to reckon with.
+~
+human~
+ABGT CDEFGT 0 350 0
+65 10 10d10+1000 10d100+500 5d15+40 wrath
+-15 -15 -15 -10
+CDEFI ABP CDN M
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1926
+black lensman~
+The Black Lensman~
+The Black Lensman is here, tearing up the room.
+~
+The Black Lensman is a lensman that has gone evil; his lens twisted to
+match his evil personality.  The only problem is that this lensman has
+gone quite insane, and is currently in the process of tearing up his room.
+~
+human~
+ACFT CDEFGJPTUV 0 -400 0
+80 40 10d10+2200 10d100+800 5d15+90 wrath
+-30 -30 -30 -20
+CDEFIK ABP CDM NST
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#1927
+arisian guard~
+An Arisian~
+An Arisian stands guard here.
+~
+This creature has currently taken a human form so as not to startle you.
+He guards the path to Mentor against intrusion from Eddorians.  As you
+sees you, he steps aside to let you pass.
+~
+human~
+ABGT CDEFGTUV N 600 0
+70 20 10d10+2000 10d100+600 5d15+60 magic
+-20 -20 -20 -10
+CEFHIK ABP CDN M
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1928
+mentor arisian~
+Mentor~
+The great and mighty Mentor stands before you.
+~
+A voice speaks in your mind:
+"Good.  You have come.  As you know, the Lensmen are under attack by the
+entire forces of evil.  For this reason, I have broken my rule of
+remaining neutral during such disputes and have entered the battle to
+help my Lensmen.  Gharlane is their leader.  If you can kill him, the
+battle would be broken, and the universe saved.  If Gharlane should win,
+the universe would be destroyed by his evil.  The choice is up to you."
+The calm voice ceases.  So this is the reason you have been called here.
+~
+human~
+ABGR CDEFGJTUV CDEHN 1900 0
+100 75 200d1+10000 10d100+20000 5d15+140 divine
+-40 -40 -40 -35
+CEFHIK AB CDN M
+stand stand male 15000
+AHMV ABCDEFGHIJK medium 0
+#1929
+bluebelt~
+Bluebelt~
+Bluebelt, assistant to Worsel, it wading through paperwork (literally!).
+~
+Bluebelt is a small, winged creature that resembles a bat in some ways.
+He is quite small, so the immense amount of paperwork on the desk
+impedes his progress as he tries to get from one side of Worsel's large
+desk to the other.  What his real name,  Bluebelthner-Bru, means, no one
+knows.
+~
+bat~
+ABCG JTZ 0 100 0
+45 7 10d10+500 1d100+300 1d15+10 bite
+-5 -5 -5 -5
+DEFK AB Q MS
+stand stand male 0
+AGV ACDEFHJKP small 0
+F off H
+#1930
+tong dragon velantian~
+Tong~
+A large Velantian dragon named Tong is waiting here.
+~
+Older than Worsel in years, Tong is a veteran lensman.  Currently
+stationed at the Planetoid of Knowledge, he hopes that he will be able
+to see Worsel in person, just so he can meet him.
+~
+human~
+ABCGT CDF N 300 0
+60 20 10d10+600 1d100+500 1d10+30 claw
+-10 -10 -10 -5
+CDEIK ABP N M
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#1931
+samuel o'stead ostead 24of6~
+24of6~
+Samuel O'Stead, aka 24of6, is examining a machine here.
+~
+Samuel O'Stead was once a normal lensman, but he was killed fighting an
+Eich.  He was brought back to life, but brought back Eichwoor with him
+without realizing it.  After a Phillips treatment, he now is forever
+trapped in a robot body, with only his brain and heart left from his
+original body.  The name 24of6 stands for Modification 24 of Operation
+6.  In other words, don't ask.
+~
+human~
+ABCG CDF 0 100 0
+50 9 10d10+450 1d100+350 1d10+30 blast
+-10 -10 -10 -5
+CDEFIK ABLPQ HI JK
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1932
+patrolman~
+a Patrolman~
+A Patrolman mans the DeLameter and waits for the robots.
+~
+A standard recruit for the Patrol.  He didn't expect to see much action
+while on the Planetoid of Knowledge.  Boy was he wrong.
+~
+human~
+ABCG J N 50 0
+40 8 10d10+400 1d100+200 1d10+20 slash
+-15 -15 -15 -10
+CDEFIK AB N M
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1933
+securi guard robot machine~
+A Securi-Guard~
+A Securi-Guard looks for intruders.
+~
+This is a security robot, retired here after more advanced robots were
+created.  There is a plate ebedded in the front of the robot.  The
+plate reads:  Medonian Securi-Guard Model 2200.  Extremely Dangerous
+When Activated.  Letters beneath the plate read ACTIVATED.
+~
+human~
+ACFGTU FJPT 0 0 0
+45 7 10d10+400 1d100+10 1d10+25 shock
+-15 -15 -15 -10
+CEFHK ACLPQR HI JK
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#1934
+office machine robot~
+A office machine~
+A office machine hides in the corner amongst the debris.
+~
+A small, office machine.  It looks harmless, but looks can be deceiving...
+~
+human~
+ABCGU DFJQ 0 0 0
+40 7 10d10+400 1d100+10 1d10+35 shock
+-10 -10 -10 -5
+CEK ABLPQ HI JK
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#1935
+unit-9-7-1 unit 971 unit971~
+Unit 971~
+Unit 971 and the network does not like your presence here!
+~
+Unit 971 is actually just a fortified machine he has patched himself
+into.  He was disturbed by the questions Worsel asked the machines, and
+not cannot tolerate the presence of any living beings.
+~
+human~
+ABCFGU DFJTV 0 0 0
+55 10 10d10+500 1d100+10 1d10+50 wrath
+-10 -10 -10 -5
+CEFHK ABLPQ HI JK
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#1936
+land scout tank~
+A Land Scout~
+A Land Scout intends to break through the barrier!
+~
+An old armored tank, rendered obsolete by advancements in technology.
+It now wants to break through the barrier the Patrolman have set up so
+that the machines can overrun the Planetoid of Knowledge.
+~
+human~
+ABCFGU J 0 0 0
+50 10 10d10+500 1d100+10 1d10+40 blast
+-10 -10 -10 -5
+CK ABLPQ HI JK
+stand stand none 0
+AHMV ABCDEFGHIJK large 0
+#1937
+arrow-22 arrow 22 robot machine~
+Arrow-22~
+Arrow-22 is waiting for the reply from the Galatic Coordinator.
+~
+Arrow-22 is the leader of the machines.  Unlike Unit 971, he doesn't
+want the rioting and violence.  But he can't keep control over the
+machines much long...
+~
+human~
+ABCGU DFJTV 0 0 0
+60 11 10d10+550 1d100+10 1d15+30 wrath
+-15 -15 -15 -10
+CEFHIK ABLPQ HI JK
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#1938
+analyzer machine robot~
+An analyzer~
+A analyzer sits against one wall, analyzing things.
+~
+This analyzer was one that Worsel asked questions to.  After dodging his
+questions for a while, Worsel got frustrated, grabbed a paper cup from a
+dispenser, crumpled it up, and had the machine analyze it.  The machine
+responded by trying to take his arm off.  Bad robot!
+~
+human~
+ABCGU J 0 0 0
+57 12 10d10+600 1d100+10 1d15+30 claw
+-15 -15 -15 -10
+HK ABLPQ HI JK
+stand stand none 0
+AHMV ABCDEFGHIJK large 0
+#0
+
+
+
+#OBJECTS
+#1900
+conference table~
+conference table~
+An important conference table is here.~
+wood~
+furniture 0 0
+4 1900 DGJ 100 100
+0 0 0 P
+#1901
+grey leather sleeves~
+Grey Leather Sleeves~
+A pair of sleeves from a grey uniform are lying here.~
+leather~
+armor BK AI
+11 11 11 5 0
+70 10 10 P
+A
+19 2
+A
+1 2
+A
+2 2
+#1902
+grey leather armor~
+Grey Leather Armor~
+A piece of some grey armor lies here.~
+soft leather~
+armor BK AD
+15 15 15 5 0
+72 10 10 P
+A
+19 2
+A
+5 1
+A
+2 2
+A
+1 1
+#1903
+delameter~
+A Delameter~
+A Delameter laser pistol lies on the ground.~
+steel~
+wand BG AO
+80 30 30 'acid breath' 0
+80 10 1000 P
+#1904
+grey leather belt~
+A Grey Leather Belt~
+A grey belt from a uniform is lying here.~
+soft leather~
+armor B AL
+14 14 14 6 0
+80 10 10 P
+A
+5 3
+A
+1 2
+A
+19 5
+A
+18 5
+#1905
+worsel worsel's claws~
+Worsel's Claws~
+A set of very sharp claws are lying here.~
+steel~
+weapon BM AN
+exotic 11 16 slash DG
+80 100 10 P
+A
+19 6
+A
+18 6
+A
+1 1
+#1906
+grey leather helmet~
+A Grey Leather Helmet~
+A grey helmet from a uniform is lying here.~
+soft leather~
+armor BK AE
+20 20 20 10 0
+90 10 10 P
+A
+19 4
+A
+18 4
+A
+5 4
+#1907
+lens~
+The Lens~
+Someone has left a Lens lying here!  What idiots!~
+adamantite~
+armor ABIKT AM
+15 15 15 9 5
+90 50 1000 P
+A
+20 2
+A
+12 100
+A
+4 2
+A
+3 2
+#1908
+valerian space axe~
+A Valerian Space Axe~
+A powerful axe lies on the ground.~
+adamantite~
+weapon BK AN
+axe 10 16 cleave DE
+80 40 1200 P
+A
+19 5
+A
+18 2
+#1909
+silver black uniform~
+A silver and black uniform~
+A silver and black uniform has been discarded here.~
+cloth~
+armor F AD
+11 11 11 5 0
+70 100 950 P
+A
+18 2
+A
+19 1
+A
+2 2
+#1910
+grey leather boots~
+Grey Leather Boots~
+A pair of grey boots from a uniform are lying here.~
+soft leather~
+armor BCK AG
+15 15 15 8 0
+85 100 850 P
+A
+19 3
+A
+18 3
+A
+2 2
+#1911
+body armor~
+Body Armor~
+A set of body armor is rusting here.~
+steel~
+armor A AD
+30 30 30 30 0
+75 50 900 P
+A
+19 1
+A
+18 2
+A
+5 2
+A
+2 -2
+A
+1 1
+#1912
+etheral power~
+Etheral Power~
+Power beyond your dreams is just out of your grasp.~
+etherealness~
+armor AJ AO
+9 9 9 2 0
+90 10 900 P
+A
+19 4
+A
+18 3
+A
+1 3
+#1913
+first key~
+The First Key~
+The first key lies here.~
+steel~
+key 0 A
+0 0 0 0 0
+1 1 1 P
+#1914
+second key~
+The Second Key~
+The second key lies here.~
+steel~
+key 0 A
+0 0 0 0 0
+1 1 1 P
+#1915
+third black key~
+The Black Key~
+The Black Key lies here.~
+steel~
+key 0 A
+0 0 0 0 0
+1 1 1 P
+#1916
+gharlane gharlane's sword evil~
+Gharlane's Sword of Evil~
+A sword of the utmost evil is lying here~
+steel~
+weapon ABEJ AN
+sword 13 16 slash CD
+95 150 1400 P
+A
+19 8
+A
+18 8
+A
+1 4
+#1917
+twisted piece shadow~
+A twisted piece of shadow~
+Shadows twisted into a hideous shape are lying here.~
+energy~
+armor BEJ AB
+0 0 0 0 0
+95 10 950 P
+A
+3 -3
+A
+1 2
+A
+19 10
+A
+18 10
+#1918
+thin strand evil~
+A thin strand of evil~
+A whisper thin piece of evil is lying here.~
+energy~
+armor BEJ AC
+10 10 10 0 0
+95 1 960 P
+A
+4 -3
+A
+18 10
+A
+19 10
+#1919
+evil thought~
+An evil thought~
+A thought so evil it scares you is floating here.~
+energy~
+armor BEJ AQ
+0 0 0 0 0
+95 1 1000 P
+A
+19 3
+A
+18 5
+A
+1 -3
+#1920
+grey leather gloves~
+Grey Leather Gloves~
+A pair of gloves from a uniform are lying here.~
+soft leather~
+armor BK AH
+15 15 15 10 0
+95 10 950 P
+A
+19 5
+A
+18 4
+A
+1 3
+#1921
+grey leather leggings~
+Grey Leather Leggings~
+A set of grey leggings from a uniform are lying here.~
+soft leather~
+armor B AF
+15 15 15 10 0
+95 10 951 P
+A
+1 3
+A
+19 8
+A
+18 8
+#1922
+grey leather cloak~
+A Grey Leather Cloak~
+A grey cloak from a uniform is lying here.~
+leather~
+armor B AK
+15 15 15 10 0
+95 100 951 P
+A
+19 6
+A
+18 4
+A
+1 3
+#1923
+light unknown source~
+A light from an unknown source~
+A light is coming from nowhere...~
+nothingness~
+light A A
+0 0 999 0 0
+95 1 75 P
+A
+19 5
+A
+18 4
+A
+17 1
+A
+5 2
+#1924
+heroism~
+Heroism~
+The stuff heros are made from is lying here.~
+nothingness~
+armor 0 AQ
+15 15 15 10 0
+95 15 1000 P
+A
+19 5
+A
+18 5
+A
+3 -3
+#1925
+sword lensman~
+The Sword of the Lensman~
+A sword taken from a dying Lensman lies here.~
+adamantite~
+weapon ABIK AN
+sword 10 16 slice BD
+95 100 1000 P
+A
+19 8
+A
+18 8
+A
+1 4
+#1926
+chain lensman~
+The Chain of the Lensman~
+A golden chain lies here, glowing with power.~
+gold~
+armor ABIK AC
+10 10 10 0 0
+95 25 1200 P
+A
+19 5
+A
+18 4
+A
+4 -3
+#1927
+ring lensman~
+The Ring of the Lensman~
+A powerful glowing ring lies in the dirt.~
+gold~
+armor ABIK AB
+18 18 18 12 0
+95 100 1000 P
+A
+19 4
+A
+18 4
+A
+3 -3
+A
+1 3
+#1928
+evil aura power~
+An Evil Aura of Power~
+An aura of incredible evil floats here.~
+energy~
+armor EFJ AQ
+18 18 18 12 0
+80 1 1200 P
+A
+19 4
+A
+18 3
+A
+5 4
+A
+3 -2
+A
+1 2
+#1929
+insane pleasure~
+Insane Pleasure~
+Some pleasure cackles madly here.~
+nothingness~
+armor EFJ AO
+0 18 18 12 0
+80 10 1000 P
+A
+19 4
+A
+18 3
+A
+13 50
+A
+12 -20
+A
+2 2
+#1930
+everlasting power~
+Everlasting Power~
+The greatest power in the universe floats here.~
+energy~
+weapon ABGK AN
+exotic 15 18 divine D
+100 1 1250 P
+A
+19 7
+A
+18 7
+A
+13 10
+A
+12 10
+A
+1 2
+#1931
+unit mentor~
+The Unit~
+A unit of ultimate power lies here.~
+energy~
+armor ABGIK AO
+20 20 20 15 0
+100 5 1200 P
+A
+19 3
+A
+18 3
+A
+13 120
+A
+12 50
+#1932
+band blinding light~
+A band of blinding light~
+Shimmering, almost blinding light emenates from a point in the room.~
+energy~
+armor AGI AB
+20 20 20 16 0
+100 5 1200 P
+A
+20 -3
+A
+1 3
+A
+19 5
+A
+18 4
+A
+12 20
+A
+4 3
+A
+13 100
+#1933
+portal silver~
+a silver Portal~
+A silver portal leading to the future floats here.~
+energy~
+portal 0 0
+0 0 0 1973 0
+0 0 0 P
+#1934
+q-gun qgun gun onehellofabiggun~
+a Q-Gun~
+One hell of a big gun is taking up a lot of space on the floor.~
+steel~
+weapon AB AN
+exotic 11 13 blast A
+60 80 1800 P
+A
+18 4
+A
+19 8
+A
+1 2
+#1935
+sleeping pole~
+A sleeping pole~
+A Velatian sleeping pole stretches from the floor to the ceiling~
+metal~
+furniture 0 0
+1 2000 K 50 50
+0 0 0 P
+#1936
+office desk~
+a office desk~
+A HUGE office desk sits here.~
+metal~
+furniture 0 0
+2 1500 EHKN 100 100
+0 0 0 P
+E
+desk~
+It shows evidence that Worsel was once chained here.
+~
+#1937
+red tape~
+red tape~
+Some red tape used to bind people lies on the ground.~
+plastic~
+armor M AK
+0 0 0 0 0
+1 10 1 P
+A
+18 -5
+A
+14 -50
+A
+2 -5
+#1938
+marble mask~
+a marble mask~
+A mask made out of marble has been discarded here.~
+marble~
+armor I AE
+7 7 7 4 2
+50 22 750 P
+A
+13 10
+A
+5 2
+A
+4 1
+#1939
+delameter~
+A DeLameter~
+A DeLameter has been set up to blast intruding machines.~
+metal~
+furniture 0 0
+10 3000 EH 200 200
+0 0 0 P
+#1940
+metal probe~
+a metal probe~
+A metal probe lies here...PROBE THIS!~
+metal~
+armor B AO
+10 10 10 8 2
+55 45 -200 P
+A
+19 1
+A
+18 2
+A
+13 20
+#1941
+intelligence~
+intelligence~
+Some intelligence floats here.~
+nothingness~
+armor A AQ
+8 8 8 6 0
+60 10 600 P
+A
+3 5
+#1942
+crumpled paper cup~
+a crumpled paper cup~
+A used and crumpled paper cup has been discarded here.~
+paper~
+armor C AO
+4 4 4 4 0
+57 10 10 P
+A
+17 -10
+A
+20 -2
+A
+13 20
+A
+12 20
+#1943
+portal silver~
+a silver Portal~
+A silver portal leading to the future floats here.~
+energy~
+portal AB 0
+0 0 0 1972 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1900
+A Forgotten Trail~
+You have stumbled across an old trail, long forgotten in the minds of
+men.  Following it, you come to a clearing.  In the center of the
+clearing is a portal, crackling with energy.  You are hesitant,
+wondering if you should enter.  As if to further emphasize the point, you
+hear sounds of battle coming from the portal.  Someone is in trouble and
+needs your help!  Stepping across the clearing to enter the portal, you
+stumble and almost fall.  Looking down, you see a strange plaque.  What
+could it be?
+~
+0 4 3
+E
+plaque~
+Let's make this short and sweet:  This is the area Lensmen.  It was
+created by Gynix.  It is suggested for people level 60 and up.  Do not
+enter if you are below level 60.  You have been warned newbies...
+Special thanks go out to Dr. E. E. Smith for creating the Lensmen series,
+and David A. Kyle, for continuing the series.
+~
+D0
+The unknown.
+~
+~
+0 -1 1909
+D2
+~
+~
+0 0 3529
+S
+#1901
+Sleeping Quarters~
+This is the standard sleeping quarters for Patrolmen and Lensman alike.
+They are rather bland, with few decorations.  A small bed is against one
+wall for the occupant's comfort.  Several dressers and closets have been
+provided for the occupants belongings.  Everything is neat and tidy.
+~
+0 8 0
+D0
+A damaged hallway.
+~
+~
+0 -1 1910
+D2
+Back to safety...
+~
+~
+0 -1 1900
+S
+#1902
+Sleeping Quarters~
+This is the standard sleeping quarters for Patrolmen and Lensman alike.
+They are rather bland, with few decorations.  A small bed is against one
+wall for the occupant's comfort.  Several dressers and closets have been
+provided for the occupants belongings.  Everything is neat and tidy.
+~
+0 8 0
+D0
+A damaged hallway.
+~
+~
+0 -1 1911
+S
+#1903
+The Parade Grounds~
+The once proud parade grounds are now stained red with the blood of
+fallen warriors.  All around you groups of patrolmen, boskonians, and
+lensmen fight.  You step carefully, trying not to slip on the grass
+or a fallen body.
+~
+0 0 2
+D0
+A parade ground...
+~
+~
+0 -1 1913
+D1
+A fierce battle goes on there.
+~
+~
+0 -1 1904
+S
+#1904
+The Parade Grounds~
+The once proud parade grounds are now stained red from the blood of
+fallen warriors.  Groups of patrolmen, boskonians, and lensmen fight
+around you.  Standing in the middle of the field is a young Lensman,
+easily dispatching his foes.  He bears closer inspection.
+~
+0 0 2
+D0
+A ramp lies there...leading where?
+~
+~
+0 -1 1914
+D1
+A parade ground...
+~
+~
+0 -1 1905
+D3
+A parade ground...
+~
+~
+0 -1 1903
+S
+#1905
+The Parade Grounds~
+The once proud parade grounds are now stained red with the blood of
+fallen warriors.  Groups of patrolmen, boskonians, and lensmen fight all
+around you.  You step carefully, trying not to slip on the grass or a
+fallen body.
+~
+0 0 2
+D0
+A parade ground...
+~
+~
+0 -1 1915
+D3
+A fierce battle rages on in that room.
+~
+~
+0 -1 1904
+S
+#1906
+Hope~
+In this room stands the last hope for the lensman and the universe in
+general.  You cannot quite discern the shape of the man standing in this
+room, only that he exudes more power than you have ever felt before in
+your life.  You feel weak standing before such power, but at the same
+time feel a sense of calmness.  A voice in your mind beckons you to step
+closer.  The greatest power in the known universe, Mentor, wants your
+help...
+~
+0 8 0
+D1
+An arisian guardpost.
+~
+~
+0 -1 1907
+S
+#1907
+An Arisian Guardpost~
+A blinding light seems to come from nowhere, blinding you effectively.
+You squint, trying to make out the details of the room.  You make out
+that you are in a bunker of some type, heavily fortified for defense.
+The light becomes more intense as you head to the west, which bears
+exploration.
+~
+0 8 0
+D1
+An enterance to a bunker.
+~
+~
+0 -1 1908
+D3
+Go into the light...
+~
+~
+0 -1 1906
+S
+#1908
+Entrance to a Bunker~
+Amongst the ruins of the city lies this bunker that you have come upon.
+It has cracks running through it, but appears strong enough to hold off
+thousands of attackers.  A strange being stands at the entrance, trying
+to determine your reason for being here.  You feel your mind being
+probed, and know you have stumbled onto something very dangerous.  A
+voice speaks in your head, putting you at ease, "Come.  Mentor waits for
+you."
+~
+0 8 0
+D0
+The first guardpost.
+~
+~
+0 -1 1918
+D3
+A bright light.
+~
+~
+0 -1 1907
+S
+#1909
+Metallic Hallway~
+You step through the portal and stumble back in shock.  The walls are
+metal, curved in a way you didn't know was possible.  Men dressed in
+silver and gold uniforms pass by, glancing at you curiously.  It almost
+seems that you have found a military base...but where could one be?  Then
+it hits you...WHEN could it be?
+~
+0 8 0
+D0
+A long hallway.
+~
+~
+0 -1 1920
+D1
+Sounds of battle come from that direction.
+~
+~
+0 -1 1910
+D2
+Back through the portal to safety.
+~
+~
+0 -1 1900
+D3
+~
+~
+0 -1 1973
+S
+#1910
+Damaged Hallway~
+The smooth metal walls here have been pockmarked by strange burns.
+Jagged pieces of metal hang from the ceiling, threatening to fall on
+you.  Blood stains cover the floor, evidence that heavy fighting has gone
+on here.  The sounds of fighting are heard quite clearly to the east,
+while some quarters seem to be to the south.
+~
+0 8 0
+D1
+Another damaged hallway.
+~
+~
+0 -1 1911
+D2
+Some personal quarters.
+~
+~
+0 -1 1901
+D3
+The strange hallway.
+~
+~
+0 -1 1909
+S
+#1911
+Damaged Hallway~
+The damage to this hallway is even heavier.  You watch your step closely,
+lest you step on a jagged piece of unidentifiable wreckage.  Fallen
+bodies lie all around; some alien in race, some human.  The sounds of
+fighting are louder to the east, and you think you see movement.  Some
+quarters lie off to your south.
+~
+0 8 0
+D1
+Fighting...
+~
+~
+0 -1 1912
+D2
+Some quarters.
+~
+~
+0 -1 1902
+D3
+A damaged hall.
+~
+~
+0 -1 1910
+S
+#1912
+Secruity Breech!~
+Wreckage and carnage are everywhere.  Battles rage on around you.  It
+seems invading forces have managed to fight their way into this base.
+As you watch, several armored figures flood into the room.  Against one
+wall stands a huge man, currently engaged in battle.  Maybe you should
+assist him.
+~
+0 8 0
+D0
+A shattered hallway.
+~
+~
+0 -1 1922
+D3
+A damaged hallway.
+~
+~
+0 -1 1911
+S
+#1913
+Parade Grounds~
+The wreckage of what used to be the audience seating stands here,
+destroyed by invading forces.  Here and there patrolmen mill about,
+waiting for the next wave of invaders.  Off to your east, you see more
+Boskonians appear on a ramp.  Maybe you should go closer...
+~
+0 0 2
+D0
+Parade Grounds.
+~
+~
+0 -1 1923
+D1
+A ramp leading to somewhere...
+~
+~
+0 -1 1914
+D2
+Parade grounds.
+~
+~
+0 -1 1903
+S
+#1914
+The Ramp~
+Floating about 10 feet off the ground is a large spaceship.  A ramp
+extends from an airlock port, stretching to meet the ground.  Boskonian
+soldiers occasionally appear from the depths of the ship, and run off in
+all directions to wreak havoc.  A Patrolman rushes up the ramp into the
+ship, only to die seconds later at the hands of the invading forces.  The
+Boskonians have not noticed you yet.  If you are fast, you might be able
+to get inside the ship.
+~
+0 0 2
+D0
+Parade Grounds.
+~
+~
+0 -1 1924
+D1
+Parade Grounds.
+~
+~
+0 -1 1915
+D2
+Parade Grounds.
+~
+~
+0 -1 1904
+D3
+Wreckage...
+~
+~
+0 -1 1913
+D4
+That way lies the unknown.  Death may await you there.
+~
+~
+0 -1 1952
+S
+#1915
+Parade Grounds~
+You are now on the east side of the parade grounds.  The once beautiful
+lawn stretches out before you. The once beautiful green grass is now stained
+red from the blood of brave defenders and evil attackers alike.  Now and
+then you hear a scream as another warrior joins the rank of the nameless
+dead.  Angered, you unsheath your weapon and head into battle.
+~
+0 0 2
+D0
+Parade Grounds.
+~
+~
+0 -1 1925
+D2
+Parade Grounds
+~
+~
+0 -1 1905
+D3
+A ramp is there.  Maybe you should investigate?
+~
+~
+0 -1 1914
+S
+#1916
+The Final Barrier~
+The bleak lanscape of this shattered planet is all around you.  Here and
+there, twisted creatures appear for brief seconds, only to duck into
+another shadow.  The feeling of evil almost overwhelms you.  The creature
+is near.  Before you stands the final guardian, the final test you must
+pass. He holds a black key, the key that unlocks the black door behind him.
+Beyond that door lies the future of the universe if you do not win.
+~
+0 0 1
+D0
+Darkness.  And lots of it.
+~
+black door~
+4 1915 1926
+D1
+The second challenge is behind you...
+~
+door~
+4 1914 1917
+S
+#1917
+The Second Challenge~
+This is the second challenge that awaits you.  A figure stands among the
+twisted wreckage of the city, waiting for you.  This must be the second
+guardian.
+~
+0 0 1
+D1
+The first challenge is behind you...
+~
+door~
+4 1913 1918
+D3
+The next challenge awaits...
+~
+door~
+4 1914 1916
+S
+#1918
+The First Challenge~
+You stand amongst the twisted wreckage of a once-proud city that the
+Eddorians have destroyed.  You see the occasional figure flitting around
+in the shadows, but they never come close.  A large barrier of some type
+stands to the west.  Before it is a large "figure" that defies
+description.  You notice a person wave at you from the bunker to the
+south.  Maybe it is important?
+~
+0 0 1
+D1
+The enterance.
+~
+~
+0 -1 1919
+D2
+A bunker.
+~
+~
+0 -1 1908
+D3
+The next challenge...
+~
+barrier door~
+4 1913 1917
+S
+#1919
+The Entrance to the Ruins~
+Before you lies the burning wreckage of a city.  With a sudden shock you
+realize that the portal has taken you to the headquarters of the
+Eddorians, the evil race masterminding the attack on the Lensmen.  A
+Eddorian guard moves to bar your entry.  Better get your weapon ready.
+~
+0 0 1
+D1
+The portal...
+~
+~
+0 -1 1927
+D3
+A shimmering barrier lies that way.
+~
+~
+0 -1 1918
+S
+#1920
+A Hallway in the Base~
+The hallway continues on unabated. Occasionally a battle-ready warrior
+rushes past you, heading towards the direction of the fighting.  A set of
+quarters lie off to the east.
+~
+0 8 0
+D0
+The hallway continues onward.
+~
+~
+0 -1 1929
+D1
+A set of quarters.
+~
+~
+0 -1 1921
+D2
+The strange hallway.
+~
+~
+0 -1 1909
+S
+#1921
+A Set of Quarters~
+This appears to be a standard set of Patrolmen quarters.  They are sparse
+and quite boring, containing only the basic supplies.  A neatly-made bed
+lies in the corner, and a beat-up dresser is set against the wall.
+Nothing new here.
+~
+0 8 0
+D3
+The hallway again.
+~
+~
+0 -1 1920
+S
+#1922
+A Break In The Walls~
+The hallway ends here, with the shattered remnants of a door lying on the
+floor.  Boskonian soldiers are flooding their way in through this breech
+of security.  Patrol rush in to meet their foe, and engage in deadly
+combat.  You can see light coming from the shattered door, so it must
+lead somewhere outside.
+~
+0 8 0
+D1
+Outside...
+~
+~
+0 -1 1923
+D2
+A breech in security!
+~
+~
+0 -1 1912
+S
+#1923
+The Parade Grounds~
+You have entered the north-west side of the parade grounds, used for
+graduation ceremonies and other important things.  You believe that it
+was once beautiful, but that beauty is now marred by bodies and
+wreckage.  Somewhere in the center of the grounds is the large bulk of a
+spaceship.  Stepping carefully, you head out to explore further.
+~
+0 0 2
+D1
+Parade Grounds.
+~
+~
+0 -1 1924
+D2
+Parade Grounds.
+~
+~
+0 -1 1913
+D3
+Back into the base again.
+~
+~
+0 -1 1922
+S
+#1924
+Parade Grounds~
+The green parade grounds of the Galactic Patrol spread outward.  A ruined
+podium stands here, a bygone relic of graduation.  There is evidence that
+there was once a raised platform for the graduates to sit on here, but
+that has been carted away by the invading forces or destroyed completely.
+~
+0 0 2
+D1
+Parade Grounds.
+~
+~
+0 -1 1925
+D2
+A ramp leading somewhere...
+~
+~
+0 -1 1914
+D3
+The Parade Grounds enterance.
+~
+~
+0 -1 1923
+S
+#1925
+Parade Grounds~
+This is the north-east side of the parade grounds.  To the east and north
+are the fences that keep the civilians out and the Patrolmen in.  A
+Boskonian, being chased by a pair of Patrolmen, rushes by you in a
+frenzied attempt to reach safety.  He jumps onto the fence, only to be
+shocked into submission.  The power to the fence must still be on.  You
+decide not to try to jump the fence.
+~
+0 0 2
+D2
+Parade Grounds.
+~
+~
+0 -1 1915
+D3
+Parade Grounds.
+~
+~
+0 -1 1924
+S
+#1926
+Nexus~
+Welcome to Nexus mortal.  Here lies the center of the universe.  The
+walls are gone, replaced by nothingness.  Behind you lies a lighted door,
+your last chance at safety.  Some powerful magic must be at work here to
+do this.  Out of the darkness an evil being stares.  Prepare yourself
+mortal, for in this room lies evil itself: Gharlane of Eddore.  The
+leader of this demonic beings.  He will destroy the Lensmen and the
+Patrolmen if you don't do anything about, dooming the universe to
+eventual extinction.  Without fear, you unsheath your blade and turn to
+face him.
+~
+0 9 0
+D2
+Safety...
+~
+door portal~
+4 1915 1916
+S
+#1927
+The Hyper-Spatial Tube~
+Before you lies a giant Hyper-Spatial tube.  It can carry you from one
+side of the universe to the other in a very short time.  Your curiosity
+wins out in the end, and you decide to enter the tube rather than leave.
+Stepping to the west leads into the Tube.
+~
+0 9 0
+D1
+Back to the ship.
+~
+~
+0 -1 1928
+D3
+Through the tube.
+~
+~
+0 -1 1919
+S
+#1928
+In The Depths Of The Ship~
+You have found your way deep into the depths of the ship.  Darkness
+surrounds you, and you jump at the slightest sound.  A light can be seen
+to the west, and up leads you back into the ship..but you don't want to
+go back into the ship, now do you?
+~
+0 9 0
+D3
+A strange light can be seen in that direction.
+~
+~
+0 -1 1927
+D4
+Back into the ship.
+~
+~
+0 -1 1950
+S
+#1929
+A Hallway~
+This hallway stretches further into the base.  The sounds of battle are
+far away, allowing you to hear voices coming from the north.  Hopefully
+the inhabitants of this base are friendly.
+~
+0 8 0
+D0
+The hallway goes futher, and takes a bend ahead.
+~
+~
+0 -1 1931
+D1
+More quarters.
+~
+~
+0 -1 1930
+D2
+The hallway.
+~
+~
+0 -1 1920
+S
+#1930
+Standard Quarters~
+This seems to be standard quarters for officers.  The quarters are
+decorated more than the other quarters, and seem much brighter.  Seems
+the officers here have it good.
+~
+0 8 0
+D3
+Back to the hallway.
+~
+~
+0 -1 1929
+S
+#1931
+Hallway Leading to The Grand Hall~
+The hallway takes a bend here, stretching to the east and the south.  A
+sign over a door to the north read "Armoury".  Sounds of discussion can
+be heard from the east.  The floor is decorated with a red carpet..maybe
+they are expecting you?
+~
+0 8 0
+D0
+An armoury maybe?
+~
+~
+0 -1 1937
+D1
+A long hallway.
+~
+~
+0 -1 1932
+D2
+Back where you came from.
+~
+~
+0 -1 1929
+S
+#1932
+Hallway Leading to The Grand Hall~
+The hallway lead further east once again.  The hallway branches off
+north, but seems to come to a dead-end of some kind.  The voices to the
+east can be heard more clearly...one sounds human, but the other is
+speaking in a foreign tongue.
+~
+0 8 0
+D0
+A dead-end?
+~
+~
+0 -1 1938
+D1
+The hallway continues.
+~
+~
+0 -1 1933
+D3
+Back where you came from.
+~
+~
+0 -1 1931
+S
+#1933
+The Entrance to the Grand Hall~
+The bland hallway before has changed suddenly.  This part of the hallway
+is beautifully decorated, with many paintings.  The red carpet continues
+east.  Your feet seem almost inclined to follow the path of the carpet,
+but the two burly guards staring at you seem inclined to stop you.
+~
+0 8 0
+E
+paintings picture~
+The painting is of a strong man.  The caption beneath reads, "Virgil Samms,
+the First Lensman".  Very interesting...
+~
+D1
+The grand hallway...ooh...ahh...
+~
+~
+0 -1 1934
+D3
+Back to safety!
+~
+~
+0 -1 1932
+S
+#1934
+The Grand Hall~
+Before you is the Grand Hall of the Lensmen base.  It is very wide, and
+extremely tall.  It seems odd that the Grand Hall would be so much
+different from the normal hallway, but then you notice that huge airlock
+door to the north.  It is now sealed against intrusion, and looks large
+enough to accomodate any creature.  What could be so big?
+~
+0 8 0
+D1
+The grand hall continues.
+~
+~
+0 -1 1935
+D3
+Back the way you came.
+~
+~
+0 -1 1933
+S
+#1935
+The End of The Grand Hall~
+This is the end of the grand hall.  A large room is to the east, beyond a
+huge set of double doors (which are currently open).  The lobby here is
+so large, that 100 people could fit in here easily with plenty of room to
+spare.  The voices to the east are quite loud now.  You are quite sure
+that you have found their source.
+~
+0 8 0
+D0
+A wall..or is it?
+~
+secret door~
+1 1 1940
+D1
+Voices...
+~
+~
+0 -1 1936
+D3
+To safety...
+~
+~
+0 -1 1934
+S
+#1936
+The Meeting Room~
+This is the meeting room of the Lensmen base, where represenatives come
+to discuss important topics.  It is quite spacious.  A very large table
+sits in the middle of the room, where delegates can relax on comfortable
+chairs positioned around the table.  What catches your sight is the fact
+that there is a human standing in the room, dwarfed by what appears to be
+a large dragon.  They seem to be conversing in friendly tones, one in
+english (the human), the other in a tongue that is not familiar to you.
+They glance at you as you enter, but continue their discussion quickly.
+~
+0 8 0
+D3
+Return to the grand hall.
+~
+~
+0 -1 1935
+S
+#1937
+Armory~
+This is where the Patrolmen and Lensman can go if they are in need of
+extra armor, weapons, and supplies.  Patrolmen run in and out of here in
+a frenzied manner, eager to return to battle.  Weapons racks line the
+wall, and the weapons are varied.  Taking one of the weapons would
+probably not be a good idea, considering the odd looks you are recieving
+from the Patrolmen in the room.
+~
+0 8 0
+D2
+Out into the hallway again.
+~
+~
+0 -1 1931
+S
+#1938
+The Sealed Hall~
+The hallway ends apbruptly, as it seems the rest of the base has been
+sealed off to prevent intrusion by the enemy.  You can head back to the
+south.
+~
+0 8 0
+D1
+The wall seems strange...
+~
+secret door wall~
+1 1 1939
+D2
+Back to the hallway.
+~
+~
+0 -1 1932
+S
+#1939
+The Bedroom~
+This is a bedroom designed for visiting civilians.  It is comfortable,
+spacious, and tidy.  From the looks of it, however, it is currently a
+passageway to something important.  There seems to be giggling from the
+north.  Who could be there?
+~
+0 8 0
+D0
+Someone is there.
+~
+~
+0 -1 1944
+D3
+Back to the sealed hall.
+~
+secret door wall~
+1 1 1938
+S
+#1940
+Information Post~
+You have discovered an information post hidden behind the walls.
+Patrolmen dash to and fro, trying to get information on the enemy.  The
+walls look high-tech, and are completely confusing.
+~
+0 8 0
+D0
+The back end of the information post.
+~
+~
+0 -1 1945
+D2
+Out of the post, and into the hall.
+~
+secret door~
+1 -1 1935
+S
+#1941
+Boskonian Quarters~
+This is a standard set of quarters for Boskonians.  They are dimly lit,
+and are quite dirty.  You wrinkle your nose at the smell coming from
+under the bed.  It would be wise not to linger.
+~
+0 9 0
+D0
+Back to the rest of the ship.
+~
+~
+0 -1 1946
+S
+#1942
+Boskonian Quarters~
+This is a standard set of quarters for Boskonians.  They are dimly lit,
+and are quite dirty.  You wrinkle your nose at the smell coming from
+under the bed.  It would not be wise to linger.
+~
+0 9 0
+D0
+Back to the rest of the ship.
+~
+~
+0 -1 1947
+S
+#1943
+Boskonia Quarters~
+This is a standard set of quarters for Boskonias.  They are dimly lit,
+and are quite dirty.  You wrinkle your nose at the smell coming from
+under the bed.  It would not be wise to linger.
+~
+0 9 0
+D0
+Back to the rest of the ship.
+~
+~
+0 -1 1948
+S
+#1944
+Sealed Hall~
+This was once a hallway leading deep into the base, but is now sealed off
+to prevent intrusion (as well as protect civilians).  Scattered personal
+affects lying around indicte a hasty evacuation went on here, as the
+civilians were herded deeper into the base.  The giggling sound is coming
+from the north, and is quite strong now.
+~
+0 8 0
+D0
+What lies in there?
+~
+~
+0 -1 1951
+D2
+Back into the bedroom.
+~
+~
+0 -1 1939
+S
+#1945
+Command Post~
+This is the command post the Information division.  Important looking
+people rush about delivering information, and collecting information as
+it is available.  You find yourself dodging reckless Patrolmen as they
+rush from one point to another.  You might be trampled if this keeps up.
+~
+0 8 0
+D2
+Back to the busy comm post.
+~
+~
+0 -1 1940
+S
+#1946
+A Hallway in the Boskonian Ship~
+This is a nondescript hallway in the invaders ship.  Boskonian invaders
+rush by you, ignoring you.  After all, no person in their right mind
+would come here if they don't belong here...so you must belong here!
+~
+0 8 0
+D0
+The enterance is that way.
+~
+~
+0 -1 1953
+D1
+Further down the hallway.
+~
+~
+0 -1 1947
+D2
+A set of quarters perhaps?
+~
+~
+0 -1 1941
+S
+#1947
+A Hallway in the Boskonian Ship~
+This is a nondescript hallway in the Boskonian ship.  It stretches from
+west to east, with a door to the south.
+~
+0 8 0
+D1
+Further down the hallway.
+~
+~
+0 -1 1948
+D2
+A set of quarters perhaps?
+~
+~
+0 -1 1942
+D3
+A busy hallway.
+~
+~
+0 -1 1946
+S
+#1948
+An Important Hallway~
+You stop dead in your tracks.  The hallway has changed abruptly.
+Makeshift decorations have been put up here, so someone important must be
+nearby.
+~
+0 8 0
+D1
+Someone important is there!  Maybe you should go see who it is.
+~
+~
+0 -1 1949
+D2
+A set of quarters are there.
+~
+~
+0 -1 1943
+D3
+A busy hallway.
+~
+~
+0 -1 1947
+S
+#1949
+A Makeshift Cabin~
+It appears someone has closed up part of the hallway in order to make an
+office.  For what reason is unknown, but someone very important must be
+lurking around here somewhere...
+~
+0 8 0
+D1
+The wall looks funny...
+secret door wall~
+~
+1 1 1950
+D3
+Looks different there than it does on the rest of the ship.
+~
+~
+0 -1 1948
+S
+#1950
+A Hidden Room~
+This is a room hidden when the hallway was sealed off.  A stairway leads
+down to a lower deck of the ship.  You can't see what is down there,
+because of the darkness, but something interesting must be down there.
+~
+0 8 0
+D3
+Back to the important looking office.
+~
+secret door wall~
+1 1 1949
+D5
+Darkness...
+~
+~
+0 -1 1928
+S
+#1951
+A Bedroom~
+This is a common civilian bedroom.  It looks like someone hastily
+abandoned it, from the mess.  However, efforts have been made to fortify
+the room against intrusion.  Apparently for good reason too.
+~
+0 8 0
+D2
+Back to the sealed hall.
+~
+~
+0 -1 1944
+S
+#1952
+Entrance to the Boskonian Ship~
+The ramp has taken you to the enterance of the invader's spaceship.  It
+looks dark, dirty, and smells pretty bad.  You can escape back to safety
+by going back down the ramp, or head east into the depths of the ship.
+~
+0 8 0
+D1
+Into the ship!
+~
+~
+0 -1 1953
+D5
+Back to safety.
+~
+~
+0 -1 1914
+S
+#1953
+A Four-Way Intersection~
+This is a four-way intersection within the spaceship.  A sign on the wall
+says that north and south are the general quarters, while east is the
+bridge of the ship.  West leads out.  The path you choose is yours to take.
+~
+0 8 0
+D0
+General quarters are that way..can't you read the sign?
+~
+~
+0 -1 1958
+D1
+The bridge perhaps?
+~
+~
+0 -1 1954
+D2
+General quarters are that way..can't you read the sign?
+~
+~
+0 -1 1946
+D3
+The way out!
+~
+~
+0 -1 1952
+S
+#1954
+The Way to the Bridge~
+This way lies the bridge.  Maybe some important captain will be there for
+you to dispatch, maybe not.  But you should be on the look out for
+guards..they can't leave the captain unguarded.
+~
+0 8 0
+D1
+Further towards the bridge.
+~
+~
+0 -1 1955
+D3
+Back towards the four-way.
+~
+~
+0 -1 1953
+S
+#1955
+Near the Bridge~
+You are nearing the bridge of the ship.  There lies the main controls for
+the Boskonian ship, and probably the captain as well.  You scan for
+guards as you walk, but see none in either direction.
+~
+0 8 0
+D1
+Almost there...
+~
+~
+0 -1 1956
+D3
+Back the way you came. Is it safe? Who knows.
+~
+~
+0 -1 1954
+S
+#1956
+The Entrance to the Bridge~
+You have come to the heavily guarded entrance of the bridge.  The walls
+are remarkably clean here, and the smell is almost gone.  But the feeling
+of evil has replaced that smell, and seems to be coming from the east.
+Maybe it would be better if you just went back.
+~
+0 8 0
+D1
+The bridge..but also evil.
+~
+~
+0 -1 1957
+D3
+Back to safety.
+~
+~
+0 -1 1955
+S
+#1957
+The Bridge~
+You have finally arrived at your destination.  The bridge is nothing
+short of spectacular.  Lots and lots of view screens, blinking lights,
+and control panels that make no sense to you, but are impressive none the
+less.  The feeling of evil threatens to overwhelm you, however, and you
+realize that you've found something that doesn't want to be found.
+~
+0 9 0
+D3
+Safety!  Sweet safety!
+~
+~
+0 -1 1956
+S
+#1958
+A Hallway in the Boskonian Ship~
+This is a nondescript hallway in the Boskonian ship.  It is cleaner than
+most parts of the ship, however, and seems to lead to something important.
+~
+0 8 0
+D0
+Some quarters.
+~
+~
+0 -1 1963
+D1
+Further down the hallway.
+~
+~
+0 -1 1959
+D2
+Back to the entrance of the ship.
+~
+~
+0 -1 1953
+S
+#1959
+The Important Hallway~
+You step carefully into the room, looking for enemies but seeing none.
+It seems to you if this hallway is important (or goes somewhere
+important) that it will probably be guarded.
+~
+0 8 0
+D0
+Some quarters.
+~
+~
+0 -1 1964
+D1
+Some figures are in that room.
+~
+~
+0 -1 1960
+D2
+A hallway with decorations.
+~
+~
+0 -1 1958
+S
+#1960
+The Guarded Room~
+The hallway continues the wast and west path, but is interrupted by a
+guard's post blocking your way.  A few guards linger around.  They stare
+at you, but decide that you must be here for a reason and thus leave you
+alone.  Maybe you should leave before they change their mind.
+~
+0 8 0
+D0
+Some quarters.
+~
+~
+0 -1 1965
+D1
+~
+~
+0 0 1961
+D3
+A interesting hallway.
+~
+~
+0 -1 1959
+S
+#1961
+The Captain's Room~
+This is the room set aside for the captain of the ship.  Seeing that
+something else has taken control of the ship, the former captain has
+taken up residence here, helping how he can.  You feel something evil
+through the door leading east, and can swear something is probing your mind.
+~
+0 8 0
+D1
+Something not-so-nice is there...
+~
+~
+0 -1 1962
+D3
+~
+~
+0 0 1960
+S
+#1962
+The Wrecked Room~
+Someone really did a number on this room.  The furniture has been smashed
+to bits, and decorations have been torn to shreds, and the walls have
+dents in them.  Something quite insane must reside here.
+~
+0 9 0
+D3
+Safety~
+~
+0 -1 1961
+S
+#1963
+Boskonian Quarters~
+This is standard Boskonian quarters.  It seems that whoever lives here
+has kept their room clean.  Maybe an officer resides here?
+~
+0 8 0
+D2
+Back to the hallway.
+~
+~
+0 -1 1958
+S
+#1964
+Boskonian Quarters~
+This is standard Boskonian quarters.  It seems that whoever lives here
+has kept their room clean.  Maybe an officer resides here?
+~
+0 8 0
+D2
+Back to the hallway.
+~
+~
+0 -1 1959
+S
+#1965
+Boskonian Quarters~
+This is standard Boskonian quarters.  It seems whoever lives here has
+kept their room clean.  Maybe an officer resides here?
+~
+0 8 0
+D2
+Back to the guarded room.
+~
+~
+0 -1 1960
+S
+#1966
+Space Dock~
+This is the south-west corner of the docking bay for the Planetoid of
+Knowledge.  Ships of all shapes and sizes sit in the vast space that
+makes up the dock.  Here and there fascinating alien creatures mill
+about, checking their ships out for damage.  You can head east or north
+from here.
+~
+0 8 0
+D0
+More of the space dock.
+~
+~
+0 -1 1969
+D1
+More of the space dock.
+~
+~
+0 -1 1967
+S
+#1967
+Space Dock~
+This is the south-east corner of the docking bay for the Planetoid of
+Knowledge.  Ships of all shapes and sizes sit in the vast space that
+makes up the dock.  Here and there fascinating alien creatures mill
+about, checking their ships for damage.  You can head north or west from
+here.
+~
+0 8 0
+D0
+More of the space dock.
+~
+~
+0 -1 1970
+D3
+More of the space dock.
+~
+~
+0 -1 1966
+S
+#1968
+Worsel's Office~
+This is the office Worsel works in while he is aboard the Planetoid of
+Knowledge.  It is a vast room, built large to accomodate his stature.  A
+giant desk sits near the south wall, facing the door.  Mountains of
+paperwork have been piled on top, evidence that Worsel needs to catch up
+with his paperwork.  Such is the life of the Second Stage Lensman.  A
+movement catches your eye, as a pile of paperwork slides over suddenly.
+~
+0 8 0
+D0
+Back to the hallway.
+~
+~
+0 -1 1971
+S
+#1969
+Space Dock~
+This is the north-west section of the docking bay area for the Planetoid
+of Knowledge.  Vast ships of all shapes and sizes sit in the vast area
+that is the docking bay.  A large freighter from the nearby planet of
+Velantia III is docked here currently, occupying this space.
+~
+0 8 0
+D1
+More of the space dock.
+~
+~
+0 -1 1970
+D2
+More of the space dock.
+~
+~
+0 -1 1966
+S
+#1970
+Space Dock~
+This is the north-east corner of the docking bay for the Planetoid of
+Knowledge.  Ships of all shapes and sizes sit here in the space that
+makes up the dock.  Here and there fascinating alien creatures mill
+about, checking their ships for damage.  You can go west, south, or east.
+~
+0 8 0
+D1
+Back to the hallway.
+~
+~
+0 -1 1971
+D2
+More of the spaceport.
+~
+~
+0 -1 1967
+D3
+More of the spaceport.
+~
+~
+0 -1 1969
+S
+#1971
+Hallway on POK~
+This is one of the many hallways on the Planetoid of Knowledge.  It is
+completely featureless, and utterly boring.  An office can be seen you
+your south, while loud noises come from the west.  East is the portal
+room, while sounds of battle come from the north.
+~
+0 8 0
+D0
+Battle!
+~
+~
+0 -1 1974
+D1
+The portal room.
+~
+~
+0 -1 1972
+D2
+An office perhaps?
+~
+~
+0 -1 1968
+D3
+Loud noises come from that direction.
+~
+~
+0 -1 1970
+S
+#1972
+The Transportation Room~
+Lots of computers.  Lots and lots of computers.  That's the first thing
+you notice as you enter the room.  This comprises the main
+transportation and communications room on this base.  A plaque can be
+seen on the wall, and bears closer instruction.
+~
+0 8 0
+E
+plaque~
+Welcome to the Planetoid of Knowledge!  We hope you enjoy your stay here.
+~
+D3
+A hallway.
+~
+~
+0 -1 1971
+S
+#1973
+The Transportation Room~
+Lots of computers.  Lots and lots of computers.  That's the first thing
+you notice as you enter the room.  This comprises the main
+transportation and communications room on this base.  A plaque can be
+seen on the wall, and bears closer instruction.
+~
+0 8 0
+E
+plaque~
+This is the main transportation room of the Hill.  The portal(s) you see here lead to different places.  Choose your path wisely.
+~
+D1
+Back to the base.
+~
+~
+0 -1 1909
+S
+#1974
+Hallway on POK~
+This is one of the many hallways on the Planetoid of Knowledge.  It is
+featureless, and utterly boring.  Sounds of battle can be heard from the
+north, and a set of quarters are located to the east.
+~
+0 8 0
+D0
+Battle!
+~
+~
+0 -1 1980
+D1
+A set of quarters.
+~
+~
+0 -1 1975
+D2
+A hallway..one of many.
+~
+~
+0 -1 1971
+S
+#1975
+Worsel's Quarters~
+This is where Worsel lives while on board the Planetoid of Knowledge.
+There are rather few furnishings in the room, since Worsel does not
+require them.  In the middle of the room is a sleeping pole, which
+Worsel wraps himself around when he wishes to sleep.  Scattered here and
+there in this huge room are the occasional pieces of Velantian
+furniture, primarily parallel bars and similar items.  You can leave to
+the west.
+~
+0 8 0
+D3
+Back to the hallway.
+~
+~
+0 -1 1974
+S
+#1976
+The Great Hall of the Machines~
+This section of the Great Hall of the Machines seems to be set aside for
+old office equipment.  Desks and other pieces of machinery used in
+offices years ago rest around in a general state of disarry.  Some of
+the machines are broken, possibly in battle with a foe.  The only exit
+is east.
+~
+0 9 0
+D1
+Back into the rest of the hall.
+~
+~
+0 -1 1977
+S
+#1977
+The Great Hall of the Machines~
+This is a debris-choked hallway in the Great Hall of the Machines.
+Evidence of some battle is lying around you, hampering movement.  Broken
+pieces of robots lie on the floor.  You can go north, east, or west.
+~
+0 9 0
+D0
+A passageway to the north.
+~
+~
+0 -1 1982
+D1
+The great hall of machines...
+~
+~
+0 -1 1978
+D3
+A office is set up in there from the looks of it.
+~
+~
+0 -1 1976
+S
+#1978
+The Great Hall of the Machines~
+This is the Great Hall of Machines.  A once brightly lit spacious area,
+it is now covered in debris and darkned.  Evidence of battle is here in
+the form of broken robot parts that litter the floor.  You can go east,
+north, or west.
+~
+0 9 0
+D0
+A bend in the passage.
+~
+~
+0 -1 1983
+D1
+A room of sorts.
+~
+~
+0 -1 1979
+D3
+A debris-choked hallway.
+~
+~
+0 -1 1977
+S
+#1979
+Room Nine Seven One~
+This is the entrance to the Great Hall of Machines.  Named room 97-1,
+it is a boring, yet fuctional room.  Robots rest along the walls, their
+antiquity on display.  Yet it seems something has been going on here.  A
+panel next to the door has been ripped off.  Robot parts cover the
+floor, making it difficult to walk.  The lights are off, making it
+difficult to see.  You can head back to the hallway by going east, or
+can give in to your sense of adventure by going west.
+~
+0 9 0
+D1
+Back to the barricade.~
+~
+0 -1 1980
+D3
+Into the mess.
+~
+~
+0 -1 1978
+S
+#1980
+The Barricade~
+This is a hastily set-up barricade used to prevent further advancement
+of enemy forces.  A large Delameter sits here, pointing down the hallway
+at something.  Patrolmen mill around nervously, awaiting the enemy.  You
+can try to go through the barricade by heading north, or you can head
+back to safety by heading south.  You also notice a door leading to the
+east.  A sign above the door reads: "The Great Hall of the Machines".
+~
+0 8 0
+D0
+Who knows what goes there?
+~
+~
+0 -1 1985
+D2
+Back to safety.
+~
+~
+0 -1 1974
+D3
+The great hall of machines!
+~
+~
+0 -1 1979
+S
+#1981
+A Guard's Post~
+This is a post usually guarded by an inactive guard droid.  However, it
+seems that the guard droids have been activated.  Uh oh.
+~
+0 9 0
+D1
+Back to the hallway in the great hall.
+~
+~
+0 -1 1982
+S
+#1982
+The Great Hall of the Machines~
+This is one of the many hallways in the Great Hall of the Machines.  It
+stretches north and south, with a passageway to the west.  Things seems
+a bit odd to the north, from what you can make out.  An investigation
+may be required.
+~
+0 9 0
+D0
+Darkness...
+~
+~
+0 -1 1987
+D2
+A hallway in the great hall.
+~
+~
+0 -1 1977
+D3
+A guard's post.
+~
+~
+0 -1 1981
+S
+#1983
+The Great Hall of the Machines~
+This is a curve in the Great Hall of the Machines.  It once was a
+straight hallway, but debris has blocked some hallways and opened others
+up.  You can go east or south.
+~
+0 9 0
+D1
+A bend in the passage.
+~
+~
+0 -1 1984
+D2
+A hallway in the great hall.
+~
+~
+0 -1 1978
+S
+#1984
+The Great Hall of the Machines~
+This is a room in the Great Hall of the Machines.  Because of the
+battles that have ripped through this area, the once neat and clean
+rooms in the hall are now covered in debris and robot parts.
+~
+0 9 0
+D0
+Darkness...
+~
+~
+0 -1 1989
+D3
+A hall in the great hall.
+~
+~
+0 -1 1983
+S
+#1985
+The Damaged Hallway~
+This hallway looks like it has been damaged by artillery fire.  You are
+unable to determine if the pockmarks in the wall were caused by the
+DeLameter or by something else.  A loud rumbling noise can be heard from
+the north.
+~
+0 8 0
+D0
+A large rumbling noise...and a large object.
+~
+~
+0 -1 1990
+D2
+The barricade.
+~
+~
+0 -1 1980
+S
+#1986
+A Dark Niche in the Great Hall of the Machines~
+This is a small alcove in the Great Hall.  Debris floats here lazily.
+You squint into the darkness, trying to make out a moving form.  Whatever
+it is, it isn't friendly.
+~
+0 9 0
+D0
+Back into the darkness.
+~
+~
+0 -1 1991
+S
+#1987
+Zero Gravity~
+Whoa!  You step into the room and immediately start floating in the air,
+propelled by the force of your footstep.  It seems that all gravity in
+this section has been turned off.  Better hope you can fly, otherwise
+you might fall onto some very sharp debris.
+~
+0 9 9
+D2
+Back to a gravity influenced section!
+~
+~
+0 -1 1982
+S
+#1988
+Zero Gravity~
+This is a hallway in the Great Hall of the Machines.  Unfortunately, it
+is even more difficult to traverse it than ever, since the gravity to
+this section seems to have been shut off.  You shove yourself off the
+wall, trying to propel yourself down the hallway.
+~
+0 9 9
+D0
+Darkness...
+~
+~
+0 -1 1993
+D1
+Darkness...
+~
+~
+0 -1 1989
+S
+#1989
+Zero Gravity~
+This is a hallway in the Great Hall of the Machines.  Unfortunately, it
+is even more difficult to traverse it than ever, since the gravity to
+this section seems to have been shut off.  You shove yourself off the
+wall, trying to propel youself down the hallway.  You can go west or
+south.  South leads back to a section with gravity!
+~
+0 9 9
+D0
+Guard pot.
+~
+~
+0 -1 1994
+D2
+Gravity...sweet gravity.
+~
+~
+0 -1 1984
+D3
+Darkness...
+~
+~
+0 -1 1988
+S
+#1990
+The Damaged Hallway~
+Uh oh.  You seem to have stumbled upon a battle being fought in this
+hallway.  The occasional laser blast, fired from the DeLameter, flies
+over your head, aming at the target in front of you.  The target is a
+large land scout, fully armored and armed to the teeth.
+~
+0 8 0
+D0
+Futher down the hallway.
+~
+~
+0 -1 1995
+D2
+Back to safety.
+~
+~
+0 -1 1985
+S
+#1991
+Zero Gravity~
+This is a room in the Great Hall of the Machines.  Unfortunately, it is
+more difficult than ever to traverse than ever due to the fact that the
+gravity seems to have been shut off.  You can leave south or east.
+~
+0 9 9
+D1
+Darkness...
+~
+~
+0 -1 1992
+D2
+Darkness...
+~
+~
+0 -1 1986
+S
+#1992
+Zero Gravity~
+This is a room in the Great Hall of Machines.  Unfortunately, someone
+seems to have shut off the gravity in this section, causing everything in
+the room (including you!) to float around in a disorganized state.  You
+can head east, north, and west.
+~
+0 9 9
+D0
+Back to a section with gravity.
+~
+~
+0 -1 1996
+D1
+Darkness...
+~
+~
+0 -1 1993
+D3
+Darkness...
+~
+~
+0 -1 1991
+S
+#1993
+Zero Gravity~
+Ouch!  Unable to stop your movement, you float through the room and bang
+into the opposite wall.  Grumbling to yourself, you scan the room,
+looking for a safer place to go to.  You are able to determine that there
+is an exit to your south, and to your west.
+~
+0 9 9
+D2
+Darkness...
+~
+~
+0 -1 1988
+D3
+Darkness...
+~
+~
+0 -1 1992
+S
+#1994
+Guard's Post~
+This is the post where a inactive security droid resides, to give the
+place a little authenticity.  Unfortunately, someone seems to have
+activated the guard droid.  Oops.  To make things worse, there is no
+gravity in this section of the hall.  You can float to your south.
+~
+0 9 9
+D2
+Darkness...but maybe safer darkness.
+~
+~
+0 -1 1989
+S
+#1995
+Damaged Hallway~
+You have come to the end of the hallway.  You rest for a moment, glad to
+be out of the battle.  You head another rumbling noise, and look up.  It
+seems that the machines have hidden another land scout back here.  If
+you are lucky, it might not see you.  Your only exit is to the south.
+~
+0 8 0
+D2
+Back into the fray...
+~
+~
+0 -1 1990
+S
+#1996
+The Back Rooms~
+You have stumbled upon a set of rooms in which the curators of this
+museum keep extra parts and robots.  It is bery silent in this part of
+the hall, lending to the atmosphere.  You can head into more storage
+rooms to your north and east, and into the darkness to the south.
+~
+0 8 0
+D0
+A storage room.  Someone is in there.
+~
+~
+0 -1 1998
+D1
+A storage room.
+~
+~
+0 -1 1997
+D2
+Darkness...
+~
+~
+0 -1 1992
+S
+#1997
+A Storage Room~
+This is a typical storage room.  It is quite large, and holds thousands
+of items, from sapre parts to inactive robots.  A curious noise is coming
+from the north.
+~
+0 8 0
+D0
+A strange noise..maybe something is there.
+~
+~
+0 -1 1999
+D3
+Back to another storage room.
+~
+~
+0 -1 1996
+S
+#1998
+Headquarters~
+You have found the headquarters for the machine resistance.  Here is
+where the leader resides, while it tried to stop the fighting that is
+going on through out the Grand Hall.  Otherwise, this is simply a
+storage room, currently empty of any parts.
+~
+0 8 0
+D2
+Back to the other storage rooms.
+~
+~
+0 -1 1996
+S
+#1999
+A Storage Room~
+This is an ordinary storage room, used to hold spare robots and robot
+parts until they are required.  From the looks of the room, the machines
+have been searching for parts for their fallen comrades.  You find
+yourself having to step carefully over loose arms that lie on the
+ground.  Tripping and falling on a probe would definately be painful.
+~
+0 8 0
+D2
+Back to the rest of the storage rooms.
+~
+~
+0 -1 1997
+S
+#0
+
+
+
+#SPECIALS
+M 1905 spec_cast_undead
+M 1906 spec_cast_undead
+M 1907 spec_cast_mage
+M 1928 spec_circle
+S
+
+
+
+#RESETS
+D 0 1916 0 2
+D 0 1916 1 2
+D 0 1917 1 2
+D 0 1917 3 2
+D 0 1918 3 2
+D 0 1926 2 2
+D 0 1935 0 2
+D 0 1938 1 2
+D 0 1939 3 2
+D 0 1940 2 2
+D 0 1949 1 2
+D 0 1950 3 2
+M 0 1925 2 1901 1
+M 0 1925 2 1902 1
+M 0 1900 29 1903 3
+M 0 1903 29 1903 3
+M 0 1900 29 1904 3
+M 0 1903 29 1904 3
+M 0 1924 1 1904 1
+E 0 1924 0 18
+E 0 1925 0 16
+E 0 1926 0 3
+E 0 1927 0 1
+M 0 1900 29 1905 3
+M 0 1903 29 1905 3
+M 0 1928 1 1906 1
+E 0 1930 0 16
+E 0 1931 0 17
+E 0 1932 0 1
+M 0 1927 3 1907 1
+M 0 1927 3 1907 1
+M 0 1927 3 1908 1
+M 0 1909 1 1912 1
+E 0 1908 0 16
+M 0 1900 29 1913 3
+M 0 1903 29 1913 3
+M 0 1900 29 1914 3
+M 0 1903 29 1914 3
+M 0 1900 29 1915 3
+M 0 1903 29 1915 3
+M 0 1918 1 1916 1
+G 0 1915 0
+M 0 1917 1 1917 1
+G 0 1914 0
+M 0 1916 1 1918 1
+G 0 1913 0
+M 0 1900 29 1921 1
+M 0 1902 29 1922 1
+M 0 1902 29 1922 1
+M 0 1900 29 1923 3
+M 0 1903 29 1923 3
+M 0 1900 29 1924 3
+M 0 1903 29 1924 3
+M 0 1900 29 1925 3
+M 0 1903 29 1925 3
+M 0 1919 1 1926 1
+E 0 1916 0 16
+E 0 1917 0 1
+E 0 1918 0 3
+E 0 1919 0 18
+M 0 1900 29 1930 1
+M 0 1901 29 1933 1
+M 0 1901 29 1933 1
+M 0 1905 4 1934 1
+E 0 1901 0 10
+M 0 1906 1 1935 1
+E 0 1902 0 5
+O 0 1900 0 1936
+M 0 1907 1 1936 1
+E 0 1903 0 17
+E 0 1904 0 13
+E 0 1905 0 16
+M 0 1908 1 1936 1
+E 0 1906 0 6
+E 0 1907 0 14
+M 0 1910 1 1940 1
+E 0 1909 0 5
+M 0 1902 29 1941 3
+M 0 1902 29 1942 3
+M 0 1902 29 1943 3
+M 0 1912 1 1944 1
+E 0 1910 0 8
+M 0 1911 1 1945 1
+M 0 1914 1 1949 1
+M 0 1920 1 1951 1
+E 0 1920 0 9
+M 0 1921 1 1951 1
+E 0 1922 0 12
+M 0 1922 1 1951 1
+E 0 1921 0 7
+M 0 1923 1 1951 1
+E 0 1923 0 17
+M 0 1904 8 1952 4
+M 0 1904 8 1952 4
+M 0 1915 1 1957 1
+E 0 1912 0 17
+M 0 1913 1 1961 1
+E 0 1911 0 5
+M 0 1926 1 1962 1
+E 0 1928 0 18
+E 0 1929 0 17
+M 0 1902 29 1963 3
+M 0 1902 29 1964 3
+M 0 1902 29 1965 3
+M 0 1929 1 1968 1
+M 0 1930 1 1969 1
+E 0 1934 0 16
+O 0 1933 0 1972
+O 0 1943 0 1973
+O 0 1935 0 1975
+O 0 1936 0 1976
+O 0 1937 0 1976
+M 0 1931 3 1977 1
+E 0 1938 0 6
+M 0 1932 3 1980 1
+M 0 1932 3 1980 1
+M 0 1932 3 1980 1
+O 0 1939 0 1980
+M 0 1934 2 1983 1
+M 0 1933 2 1984 1
+M 0 1935 1 1986 1
+E 0 1940 0 16
+M 0 1936 2 1990 1
+M 0 1934 2 1992 1
+M 0 1933 2 1994 1
+M 0 1936 2 1995 1
+M 0 1937 1 1998 1
+E 0 1941 0 18
+M 0 1938 1 1999 1
+E 0 1942 0 17
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,85 @@
+#AREADATA
+Name Blank Zone~
+Builders None~
+VNUMs 81100 81149
+Credits <--- ---> None    Blank Zone~
+Security 9
+End
+
+
+
+#MOBILES
+#81100
+guard titan keeper~
+Ronni's gate guard~
+Ronni's gate guard is making sure no one uninvited enters his castle.
+~
+This Titan male stands in front of a the large castle doors with his arms
+crossed.  He was hired by Ronni to protect the castle against any unwanted
+visitors.  
+~
+titan~
+ABGV Da 0 1000 81100
+200 0 1d1+29999 1d1+499 100d100+2000 pound
+-100 -100 -100 -100
+0 ABCD D 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 81100 10~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#81100
+~
+~
+0 0 0
+S
+#81149
+The Observatory~
+This is a large dome shaped room with a large telescope sitting in the
+middle of it.  There is also a desk that is barely noticable through all of
+the charts scattered on top of it.  The bookshelves are lined with books
+about astronomy.  The walls have pictures paintings of such phenomenons as
+Haley's Comet and various constellations.  
+~
+0 1548 0
+E
+charts~
+These are various graphs mapping out where to find the constellations in
+the night sky.  
+~
+M 500 H 500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#81100
+say Welcome
+~
+#0
+
+#$

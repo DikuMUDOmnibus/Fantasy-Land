@@ -1,0 +1,5881 @@
+#AOD_AREA
+Mercurium~
+28000 28149 C 9
+Levl 1 30
+Bldr Monomach~
+End
+
+#MOBILES
+#28000
+cityguard guard~
+the {7Mercurian{0 cityguard~
+A {7Mercurian{0 cityguard is standing here, making sure there is no trouble.
+~
+This guard is surely a trained and skilled fighter.  He is fully armed and
+armored, and he uses his equipment with a practiced precision.  Luckily for 
+you, this guard will only use his deadly skills for the good of the citizens of
+Mercurium.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACT 0 N 1000 0
+37 0 0 340 357 128 162 18 37 5 none
+-40 -40 -40 70
+STANDING STANDING male 50
+0 mage medium ABCDEFGHIJK
+W 10
+
+#28001
+marshal diana~
+Marshall Diana~
+Diana, the Marshall of Mercurium, stands here proudly.
+~
+Diana is a beautiful, powerfully built woman.  She wears platinum armor
+for three reasons.  The first is to show she is strong enough to withstand
+the weight.  The second is to show her rank of office.  The third is that
+platinum is the hardest metal she can find.  She is willing to defend
+Mercurium to her death.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABQ D HN 1000 0
+66 0 0 1134 1176 229 302 33 66 10 none
+-110 -110 -110 30
+STANDING STANDING female 250
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28002
+derrick captain guard cityguard~
+Captain Derrick~
+Derrick, Captain of the Guard, is here disciplining his guards.
+~
+Derrick is a very big man.  He has acquired this station, not by brains or
+charm, but by brute strength.  He had fought in three orc wars and is a
+descendent of a surviving cityguard of old Thalos.  He believes that everything
+has to be hard won to be kept, and that laxity is for the weak.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGQ D HN 1000 0
+53 0 0 28063 28095 202 257 26 53 7 none
+-80 -80 -80 40
+STANDING STANDING male 250
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28003
+jacklyn captain guard cityguard~
+Captain Jacklyn~
+Jacklyn, Captain of the Citadel Guard, is here raising morale.
+~
+Jacklyn is pale and wiry, but then, so are most other witches.  The fact that
+Jacklyn is a mage and a warrior makes her the perfect captain of the citadel
+guards.  Jacklyn is very beautiful, but whether it is due to her pale softness
+or her magic, no one has ever found out.  She isn't very strong physically, but
+she need not be.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABR D N 1000 0
+53 0 0 28016 28048 209 263 26 53 6 none
+-70 -70 -70 20
+STANDING STANDING female 250
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28004
+jim blacksmith~
+Jim the Blacksmith~
+Jim the Blacksmith is here, selling his latest works of metal.
+~
+Jim is big and brawny, just like what you'd expect of a blacksmith.  He is
+smiling a very big smile, as he looks at your coins.  You wonder if he likes
+the metals or the value of the coins.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 N 1000 0
+59 0 0 879 909 156 198 29 59 8 none
+-90 -90 -90 60
+STANDING STANDING male 328150
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28005
+sam~
+Sam~
+Sam is here, selling his leather works.
+~
+Sam is a middle-aged workman.  He looks tired, but never too tired to get that
+last sale from you.  He grins at you slightly.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 N 1000 0
+59 0 0 869 908 149 194 29 59 8 none
+-90 -90 -90 60
+STANDING STANDING male 28150
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28006
+madam tracy~
+Madam Tracy~
+Madam Tracy is here, selling and buying little treasures.
+~
+Madam Tracy is a bit old, but not to the point of senility.  Besides, she knows
+the hard ways of this world and is ready for it.  She spends her time at the
+shop, trading little things (for a wee bit of profit).
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 N 1000 0
+39 0 0 338 357 138 167 19 39 5 none
+-40 -40 -40 70
+STANDING STANDING female 1250
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28007
+marty~
+Marty~
+Marty the meat store owner is here, selling you his choice meats.
+~
+Marty is a big man.  He used to hunt the animals he sells, but now he lets his
+son, Jim, raise and slaughter the animals for him.  Marty still knows how to
+kill, though.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 N 1000 0
+60 0 0 875 910 153 205 30 60 8 wrath
+-90 -90 -90 60
+STANDING STANDING male 250
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28008
+elizabeth farmer~
+Farmer Elizabeth~
+Farmer Elizabeth is here, selling the latest crop.
+~
+Elizabeth is a very happy woman.  She can't believe the nice weather here
+in Mercurium, and the great vegetables this land produces is unbelievable to
+her too.  Farmer Elizabeth smiles at you nicely, but you bet she is doing
+that just to get a good price off of you!  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 N 1000 0
+39 0 0 339 357 134 164 19 39 5 none
+-40 -40 -40 70
+STANDING STANDING female 250
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28009
+granny jenkins~
+Granny Jenkins~
+Granny Jenkins is here, running the still.
+~
+Granny Jenkins is a feeble woman, but she knows her brew.  She might be very
+old, but she is still in charge of the still.  She cackles lightly at herself
+every time she tastes her whiskey, which is quite often!
+Granny Jenkins cackles again.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 N 500 0
+12 0 0 73 85 108 124 1 20 1 none
+40 40 40 90
+STANDING STANDING female 5
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28010
+jack~
+Jack~
+Jack is here slaughtering away at the animals.
+~
+Jack is the son of Marty, and you can see the family resemblance (especially in
+their shared affinity for slaughtering animals.)  Jack leers at you as you
+enter.  "Came by to watch, eh?", he asks.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFH 0 0 200 0
+24 0 0 153 170 111 143 12 24 3 none
+0 0 0 80
+STANDING STANDING male 5
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28011
+Sarah farmer~
+Farmer Sara~
+Farmer Sara is here, milking the cows.
+~
+Farmer Sara is all covered with bits of straw and grime, but underneath all
+that, she doesn't look that bad.  She smiles at you demurely, and goes back to
+her work.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABH 0 0 800 0
+10 0 0 62 72 103 117 1 20 1 none
+50 50 50 90
+STANDING STANDING female 5
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28012
+chicken hen~
+a hen~
+A hen is here, squawking at your intrusion.
+~
+The hen has yellow feathers and small wings.  It looks like a chicken, if
+you've ever seen one.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AHI 0 0 0 0
+2 0 0 12 22 100 100 1 20 0 none
+90 90 90 100
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+W 4
+
+#28013
+cow~
+the cow~
+A cow is here, munching on grass.
+~
+The cow is here happily grazing.  It moos at you and goes back to grazing.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AI 0 0 0 0
+10 0 0 62 72 102 117 1 20 1 none
+50 50 50 90
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+W 3
+
+#28014
+cow~
+the cow~
+A cow is here, waiting to be milked.
+~
+The cow is just standing here.  She moos at you and otherwise ignores you.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABI 0 0 0 0
+9 0 0 62 71 103 117 1 20 1 none
+50 50 50 90
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+W 2
+
+#28015
+horse young~
+the young horse~
+A young horse is here, grazing.
+~
+The horse whinnies at you, then runs around you a few times, then just goes
+back to grazing.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AFHI 0 0 0 0
+12 0 0 73 85 107 124 1 20 1 none
+40 40 40 90
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+W 4
+
+#28016
+pig~
+the pig~
+A pig is playing here, getting itself and you dirty.
+~
+The pig looks dirty.  It snorts and sniffs at you, then goes back to its slop.
+~
+pig~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABI 0 0 0 0
+8 0 0 49 59 103 118 1 20 1 none
+60 60 60 90
+STANDING STANDING neutral 0
+0 mage medium ACDEFHJK
+W 4
+
+#28017
+citizen man~
+the citizen~
+A citizen is here, smiling at you.
+~
+The citizen smiles at you.  He is having a great day, and he wishes the same
+for you.  He looks at you strangely, though, wondering why you are so armed and
+armored.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AH 0 0 500 0
+9 0 0 63 72 102 116 1 20 1 none
+50 50 50 90
+STANDING STANDING male 5
+0 mage medium ABCDEFGHIJK
+W 3
+
+#28018
+citizen woman~
+the citizen~
+A citizen is here, smiling at you.
+~
+The citizen smiles at you.  She is having a great day, and she wishes the same
+for you.  She looks at you strangely, though, wondering why you are so armed
+and armored.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AH 0 0 500 0
+9 0 0 62 72 102 117 1 20 1 none
+50 50 50 90
+STANDING STANDING female 5
+0 mage medium ABCDEFGHIJK
+W 3
+
+#28019
+child boy~
+the boy~
+A boy is here, playing tag and other kids' games.
+~
+The little boy looks up at you and says, 'Hi.  Can I have a piece of candy?'
+He then smiles and runs away, remembering his game.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AH 0 0 500 0
+5 0 0 37 47 101 109 1 20 0 none
+70 70 70 100
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+W 2
+
+#28020
+child girl~
+the girl~
+A girl is here, playing jump jacks and other kids' games.
+~
+The little girl looks up at you and says, 'Hi.  Can I have a pretty little
+coin?'  She then smiles and runs away, remembering her game.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AH 0 0 500 0
+5 0 0 37 46 101 109 1 20 0 none
+70 70 70 100
+STANDING STANDING female 0
+0 mage medium ABCDEFGHIJK
+W 2
+
+#28021
+maid woman~
+the maid~
+A maid is here, cleaning the house and preparing the next meal.
+~
+The maid startles at your presence.  'You are ruining my floors!  Wait till
+Master and Mistress come back.  You will get me in trouble!  Shoo!', she says.
+She hits you with her broom.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AH 0 0 500 0
+10 0 0 62 72 104 118 1 20 1 none
+50 50 50 90
+STANDING STANDING female 2
+0 mage medium ABCDEFGHIJK
+W 3
+
+#28022
+Nyles~
+Nyles the Bartender~
+Nyles the Bartender is here, ready to serve you up a good brew.
+~
+Nyles is a hefty guy, who looks like he's waiting for the next bar fight to
+join in.  He keeps an eye on you and his glasses, making sure you don't steal
+any.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 0 1000 0
+60 0 0 869 918 152 198 30 60 8 none
+-90 -90 -90 60
+STANDING STANDING male 50
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28023
+cityguard guard~
+the {7Mercurium{0 cityguard~
+A {7Mercurium{0 cityguard is posted here to guard the gate.
+~
+This guard is surely a trained and skilled fighter.  He is fully armed
+and armored, and he uses his equipment with a practiced precision.  Luckily
+for you, this guard will only use his deadly skills for the good of the
+citizens of Mercurium.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT 0 N 1000 0
+38 0 0 338 360 128 157 19 38 5 none
+-40 -40 -40 70
+STANDING STANDING male 50
+0 mage medium ABCDEFGHIJK
+W 3
+
+#28024
+bard~
+a bard~
+A bard is here, singing the praises of the {7Silver{0 Dragons.
+~
+After years of traveling around the world, this bard has decided to stay
+in the peaceful city of Mercurium, and to sing of its unmatched glories.  He
+smiles at you, hinting toward a tip from you in ever a subtle way.  
+~
+human~
+0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 
+AB 0 N 800 0
+26 0 0 173 190 118 145 13 26 3 none
+-10 -10 -10 80
+STANDING STANDING male 50
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28025
+servent~
+a servant~
+A servent scurries about.
+~
+The servant smiles good-naturedly at you, then goes on his duties.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 N 1000 0
+12 0 0 74 85 104 124 1 20 1 none
+40 40 40 90
+STANDING STANDING male 5
+0 mage medium ABCDEFGHIJK
+W 2
+
+#28026
+squire~
+a squire~
+A squire is here, scurrying from duty to duty.
+~
+This young man smiles at you, but is too busy to chat.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 N 1000 0
+13 0 0 87 97 108 124 1 20 1 none
+40 40 40 90
+STANDING STANDING male 5
+0 mage medium ABCDEFGHIJK
+W 2
+
+#28027
+page~
+a page~
+A page is here, sending a message to his knight.
+~
+The page smiles for you, asking if he can do you a favor too.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 N 1000 0
+10 0 0 62 72 103 118 1 20 1 none
+50 50 50 90
+STANDING STANDING male 5
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28028
+priestess~
+a Priest of the Silver Citadel~
+A Priest of the Silver Citadel goes about his duties.
+~
+The Priest of the Silver Citadel is an old man, perfectly at peace with
+himself and with the world.  He devotes all his time to help teach you the
+ways of his god, Bahamut.  The dragon symbol around his neck looks almost
+alive.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 BHN 1000 0
+59 0 0 872 908 148 196 29 59 8 none
+-90 -90 -90 60
+STANDING STANDING female 50
+0 mage medium ABCDEFGHIJK
+W 40
+
+#28029
+chaplain Jerrold~
+Chaplain Jerrold~
+Jerrold, the chaplain of this Citadel, is here 
+directing the activities of the people around here.
+~
+He smiles at you, with the enthusiasm of a little kid.  "What're you doing just
+STANDING here, young man?  Go help that other squire there!", he yells.  He
+turns to you and with a consipatory tone, whispers, "Kids!"
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGT 0 BHN 1000 0
+40 0 0 369 395 138 163 20 40 5 none
+-40 -40 -40 70
+STANDING STANDING male 50
+0 mage medium ABCDEFGHIJK
+W 1
+
+#28030
+dragonlord lord dragon~
+a Dragonlord~
+A knight wearing the scales of a dragon stands here.
+~
+This person looks almost like a dragon itself.  His silver scales gleam
+with power.  He smiles at you with a vicious grin.  You're happy that he
+doesn't look upset at your presence.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 BHN 1000 0
+57 0 0 28198 28238 147 182 28 57 8 none
+-90 -90 -90 60
+STANDING STANDING male 50
+0 mage medium ABCDEFGHIJK
+W 3
+
+#28031
+dragon silver ancient~
+The Ancient {7Silver{0 Dragon~
+An old {7silver{0 dragon eyes you sleepily.
+~
+This dragon's head is taller than you.  He is annoyed at your disturbance, but
+realizing that you're no danger to him, he ignores you.  He waves to one of
+his attendants to escort you away.
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+ABC DFJT BHN 1000 0
+84 0 0 2356 2415 177 225 42 84 14 none
+-140 -140 -140 40
+STANDING STANDING male 5000
+0 mage medium ACDEFGHIJKPQUVX
+W 1
+
+#28032
+attendant~
+an attendant of the dragon~
+A person robed in silver is attending to the Keeper of the Citadel.
+~
+This elder servant to the Silver Dragon is very loyal to him, willing to
+risk his life for his liege.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABR 0 BN 1000 0
+41 0 0 341 359 171 230 20 41 4 none
+-40 -40 -40 30
+STANDING STANDING male 250
+0 mage medium ABCDEFGHIJK
+W 2
+
+#28033
+dragonknight knight dragon~
+a Dragonknight~
+A silver plated guard watches over the Citadel.
+~
+This person looks like a dragon itself.  His silver scales gleam with
+power.  He smiles at you, showing very sharp teeth.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 BN 1000 0
+41 0 0 372 399 132 168 20 41 5 none
+-50 -50 -50 70
+STANDING STANDING male 250
+0 mage medium ABCDEFGHIJK
+W 3
+
+#28034
+cityguard guard~
+a {7Mercurian{0 cityguard~
+A {7Mercurian{0 cityguard is posted here to guard the gate.
+~
+This guard is surely a trained and skilled fighter.  He is fully armed and
+armored, and he uses his equipment with a practiced precision.  Luckily for 
+you, this guard will only use his deadly skills for the good of the citizens of
+Mercurium.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT 0 N 1000 0
+38 0 0 338 360 125 163 19 38 5 none
+-40 -40 -40 70
+STANDING STANDING male 50
+0 mage medium ABCDEFGHIJK
+W 3
+
+#28035
+priest~
+the Priest of Mirandah~
+A priest of Mirandah provides the needy with spells.
+~
+Although retired from adventuring, the healer still lends a hand.
+Type 'heal' to see a listing of spells.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABQVa DF H 0 0
+103 0 0 1000 1000 1000 1000 51 103 30 divine
+-150 -150 -150 -150
+STANDING STANDING female 5000
+0 mage medium ABCDEFGHIJK
+
+#28100
+stranger~
+the stranger~
+A stranger sits off in a dark corner table.
+~
+The Innkeeper looks skilled in brewing different beers and mixing the
+wierdest drinks known. He also looks very big.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+AB 0 0 0 0
+45 0 0 465 493 133 177 22 45 6 none
+-60 -60 -60 60
+STANDING STANDING male 5
+0 mage medium ABCDEFGHIJK
+
+#28101
+bartender~
+The {^B{$a{$rtend{$e{^r{0~
+The {^B{$a{$rtend{$e{^r{0 smiles at you, and prepares your usual drink.
+~
+A aging warrior stands here.  Though his body may have been weakened by
+time the fire in his eyes tell you he is not a person to be toyed with.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABV 0 0 0 0
+45 0 0 500 500 100 100 22 45 18 beating
+-60 -60 -60 0
+STANDING STANDING male 150
+0 mage medium ABCDEFGHIJK
+
+#28102
+luxan shopkeeper~
+Luxan~
+Luxan the Shopkeeper is here, eager to sell you anything.
+~
+Luxan is dressed in a strange jacket.
+He looks like a mean trader from the outskirts of Midgaard.
+His life is seems to be totally occupied with trading.
+He looks very fit and capable of protecting his goods.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABC 0 0 0 0
+45 0 0 461 498 138 173 22 45 6 none
+-60 -60 -60 60
+STANDING STANDING male 400
+0 mage medium ABCDEFGHIJK
+
+#28103
+citizen~
+the citizen~
+There is a citizen of {7Mercurium{0 here glaring at you ... stranger!
+~
+He seems like a nice person with no interest in harming you or others.
+He wears normal, light clothing and has an anonymous face.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACG 0 0 0 0
+12 0 0 73 85 107 126 1 20 1 none
+40 40 40 90
+STANDING STANDING male 10
+0 mage medium ABCDEFGHIJK
+
+#28104
+Mepos banker~
+Mepos the money lender~
+Mepos the money lender sits at the desk going over his ledgers.
+~
+Mepos is dressed in a fine silken suit.  Obvously, the banking business
+is quite lucrative.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABVd DF 0 0 0
+50 0 0 1000 1000 200 200 25 50 20 none
+-150 -150 -150 -150
+STANDING STANDING male 1000
+0 mage medium ABCDEFGHIJK
+
+#28105
+jonus~
+Jonus~
+Jonus seeks to fit you with the best equipment in his stock.
+~
+An old but very strong armourer, he has made more armours in his
+lifetime than you have ever seen.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABV DF 0 0 0
+45 10 0 1000 1000 100 100 22 45 32 punch
+-150 -150 -150 -150
+STANDING STANDING male 25000
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#28000
+axe hand~
+a hand axe~
+A hand axe is on the floor here.~
+weapon 0 AN
+axe 5 5 chop 0
+7 100 420
+E
+handaxe hand axe~
+You see a finely made axe.  Iron, with a nice wooden shaft, this axe can
+withstand years of use.
+~
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28001
+meat cleaver~
+a meat cleaver~
+A sharp meat cleaver is just lying on the floor here!~
+weapon 0 AN
+dagger 6 6 chop 0
+15 50 530
+A 19 1
+E
+meat cleaver~
+This meat cleaver is made of good steel.
+~
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28002
+side meat beef~
+a side of beef~
+A side of beef is here on the floor.~
+food 0 A
+24 24 0 0 0
+0 100 50
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28003
+side meat pork~
+a side of pork~
+A side of pork is here on the floor.~
+food 0 A
+23 23 0 0 0
+0 100 42
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28004
+side meat horse~
+a side of horse~
+A side of horse is here on the floor.~
+food 0 A
+30 30 0 0 0
+0 120 21
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28005
+chicken~
+the defeathered {YC{yh{Yi{yc{Yk{ye{Yn{x of {RD{ro{Ro{rm{R!{x~
+A defeathered chicken is here on the floor.~
+weapon GPS AN
+mace 14 13 peck DHJ
+101 40 1000
+A 20 -4
+A 17 -25
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28006
+emerald ring~
+an emerald ring~
+An emerald ring is on the floor, gathering dust.~
+jewelry G AB
+0 0 0 0 0
+0 10 1000
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28007
+glass trinket~
+a glass trinket~
+A glass trinket is on the floor, gathering dust.~
+gem 0 AO
+0 0 0 0 0
+0 10 150
+A 20 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28008
+golden necklace~
+a golden necklace~
+A golden necklace is on the floor, gathering dust.~
+jewelry 0 AC
+0 0 0 0 0
+0 20 500
+A 4 -1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28009
+cabbage~
+a head of cabbage~
+Some fresh cabbage is here, get it while it lasts!~
+food 0 A
+12 12 0 0 0
+0 20 2
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28010
+lettuce~
+a head of lettuce~
+Some fresh lettuce is here, get it while it lasts!~
+food 0 A
+12 12 0 0 0
+0 20 2
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28011
+milk bottle~
+a bottle of milk~
+A glass bottle of milk is on a shelf here, fresh from the cow.~
+drinkcontainer 0 A
+20 20 'milk' 0 0
+0 50 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28012
+apple~
+an apple~
+An apple is on the ground.~
+food 0 A
+8 8 0 0 0
+0 10 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28013
+corn~
+an ear of corn~
+An ear of corn is on the ground.~
+food 0 A
+8 8 0 0 0
+0 10 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28014
+hay pile~
+a pile of hay~
+There is a big pile of hay here.~
+trash 0 A
+0 0 0 0 0
+0 200 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28015
+pitchfork fork~
+a pitchfork~
+A pitchfork is on the floor.~
+weapon 0 AN
+exotic 6 6 stab 0
+13 100 122
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28016
+vest~
+a leather vest~
+A leather vest is on the floor.~
+armor 0 AD
+0 0 0 0 0
+0 100 270
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28017
+sleeves~
+some leather sleeves~
+Some leather sleeves are on the floor.~
+armor 0 AI
+0 0 0 0 0
+0 50 136
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28018
+leggings~
+some leather leggings~
+Some leather leggings are on the floor.~
+armor 0 AF
+0 0 0 0 0
+0 50 136
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28019
+boots~
+some leather boots~
+Some leather boots are on the floor.~
+armor 0 AG
+0 0 0 0 0
+0 50 136
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28020
+mercurian ring~
+a Mercurian signet ring~
+A shiny ring of gold is in the dirt.~
+jewelry G AB
+0 0 0 0 0
+19 10 28130
+A 17 -2
+A 13 5
+A 20 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28021
+plate brass~
+brass plate~
+A pile of brass plates is against the wall here.~
+armor G AD
+8 7 8 4 0
+31 100 2400
+A 13 10
+A 20 -1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28022
+helm brass~
+a brass helm~
+A brass helm is against the wall here.~
+armor G AE
+8 7 8 4 0
+31 100 1280
+A 13 5
+A 20 -1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28023
+leggings brass~
+brass leggings~
+A pile of brass plates is against the wall here.~
+armor G AF
+8 7 8 4 0
+31 100 1280
+A 13 5
+A 20 -1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28024
+boots brass~
+brass boots~
+Some brass boots are against the wall here.~
+armor G AG
+8 7 8 4 0
+31 100 1280
+A 13 5
+A 20 -1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28025
+gauntlets brass~
+brass gauntlets~
+Some brass gauntlets are against the wall here.~
+armor G AH
+8 7 8 4 0
+31 100 1280
+A 13 5
+A 20 -1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28026
+sleeves brass~
+brass sleeves~
+A pile of brass plates is against the wall here.~
+armor G AI
+8 7 8 4 0
+31 100 1280
+A 13 5
+A 20 -1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28027
+shield brass~
+a brass shield~
+A big plate of brass is against the wall here.~
+armor G AJ
+8 7 8 5 0
+31 100 1850
+A 13 5
+A 20 -1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28028
+girth brass~
+a brass girth~
+A brass girth is against the wall here.~
+armor G AL
+8 7 8 4 0
+31 100 1280
+A 13 5
+A 20 -1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28029
+bracer brass~
+a brass bracer~
+A brass bracer is against the wall here.~
+armor G AM
+6 7 8 4 0
+23 100 1040
+A 13 5
+A 20 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28030
+claymore sword~
+a claymore~
+A VERY big sword is against the wall here.~
+weapon G AN
+sword 9 9 cleave CDF
+37 160 3100
+A 19 5
+A 18 -2
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28031
+plate silver~
+silver plate~
+A pile of silver plating and chain is on the floor.~
+armor GK AD
+12 12 12 7 0
+49 200 5000
+A 1 1
+A 12 10
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28032
+helm silver~
+{wa {WSilver {wHelm{x~
+A shiny helm is on the floor.~
+armor GK AE
+29 29 29 29 0
+101 200 2900
+A 3 3
+A 20 -3
+A 13 303
+A 12 100
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28033
+leggings silver~
+silver leggings~
+Some shiny leggings are on the floor.~
+armor GK AF
+12 12 12 7 0
+49 200 2900
+A 3 1
+A 12 5
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28034
+boots silver~
+silver boots~
+Some shiny boots are on the floor.~
+armor GK AG
+12 12 12 7 0
+49 200 2900
+A 4 1
+A 12 5
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28035
+gauntlets silver~
+silver gauntlets~
+Some shiny gauntlets are on the floor.~
+armor GK AH
+12 12 12 7 0
+49 200 2900
+A 5 1
+A 12 5
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28036
+sleeves silver~
+silver sleeves~
+Some shiny sleeves are on the floor.~
+armor GK AI
+12 12 12 7 0
+49 200 2400
+A 18 1
+A 12 5
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28037
+shield silver~
+the silver shield~
+A shiny shield is on the floor.~
+armor GK AJ
+12 12 12 8 0
+49 200 4200
+A 17 -3
+A 12 5
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28038
+girth silver~
+the silver girth~
+A shiny girth is on the floor.~
+armor GK AL
+12 12 12 7 0
+49 200 2400
+A 19 1
+A 12 5
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28039
+plate platinum~
+platinum plate~
+A pile of silvery metal is on the floor.~
+armor GK AD
+14 14 14 10 0
+59 500 9200
+A 5 2
+A 13 15
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28040
+helmet platinum~
+the platinum helmet~
+A silvery helmet is on the floor.~
+armor GK AE
+14 14 14 10 0
+59 300 280300
+A 4 2
+A 12 10
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28041
+leggings platinum~
+platinum leggings~
+Some silvery leggings are on the floor.~
+armor GK AF
+14 14 14 10 0
+59 400 280300
+A 2 2
+A 13 10
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28042
+boots platinum~
+platinum boots~
+Some silvery boots are on the floor.~
+armor GK AG
+14 14 14 10 0
+63 400 4100
+A 14 25
+A 13 10
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28043
+gauntlets platinum~
+platinum gauntlets~
+A pair of silvery gauntlets are on the floor.~
+armor GK AH
+14 14 14 10 0
+61 400 4300
+A 18 2
+A 13 10
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28044
+sleeves platinum~
+platinum sleeves~
+A pair of silvery sleeves are on the floor.~
+armor GK AI
+14 14 14 10 0
+59 400 280300
+A 1 2
+A 13 10
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28045
+shield spiked platinum~
+the platinum spiked shield~
+A jagged, silvery shield is on the floor.~
+armor GK AJ
+14 14 14 11 0
+61 400 280000
+A 19 2
+A 13 10
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28046
+girth platinum~
+the platinum girth~
+A silvery girth is on the floor.~
+armor GK AL
+14 14 14 10 0
+61 400 4000
+A 20 -2
+A 13 10
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28047
+avenger holy sword~
+holy Avenger~
+A glowing silvery sword is hovering here, ready to possess an owner.~
+weapon GK AN
+sword 14 13 might BEFGK
+101 250 528100
+A 20 -2
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28048
+whiskey shot~
+a shot of whiskey~
+A shot of whiskey is on the table.~
+drinkcontainer 0 A
+2 2 'whisky' 0 0
+0 10 12
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28049
+ale quart~
+a quart of ale~
+A quart of ale is on the table.~
+drinkcontainer 0 A
+32 32 'ale' 0 0
+0 20 10
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28050
+port brew quart~
+a quart of port brew~
+A quart of port brew is on the table.~
+drinkcontainer 0 A
+32 32 'dark ale' 0 0
+0 20 18
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28051
+key citadel~
+the citadel key~
+A key is on the floor.~
+key 0 A
+0 0 0 0 0
+0 10 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28052
+symbol holy~
+the Holy Symbol of Bahamut~
+A very shiny symbol is on the floor.~
+jewelry GIKL AC
+0 0 0 0 0
+33 50 328100
+A 4 2
+A 12 10
+A 17 -3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28053
+ranseur polearm~
+a ranseur~
+A heavy polearm is against the wall here, ready to inflict damage.~
+weapon G AN
+polearm 5 5 thrust F
+7 30 1460
+A 19 -1
+A 18 2
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28054
+torso dragonscale silver~
+{wa {WSilver {DDragonscale {wTorso{x~
+A {&silver{0 dragonscale torso lies on the floor.~
+armor GK AD
+30 30 30 30 0
+101 250 280200
+A 20 -3
+A 12 100
+A 13 303
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28055
+dragonhelm silver~
+a {&silver{0 dragonhelm~
+A {&silver{0 dragonhelm lies on the floor.~
+armor GK AE
+11 11 11 7 0
+41 100 2800
+A 18 1
+A 17 -3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28056
+legging silver dragonscale~
+{WSilver {DDragonscale {wLeggings{x~
+Some {7silver{0 dragonscale leggings are on the floor!~
+armor GK AF
+24 24 24 24 0
+101 100 2800
+A 4 3
+A 20 -2
+A 13 300
+A 12 150
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28057
+boots silver dragonscale~
+{WSilver {DDragonscale {wBoots{x~
+Some {7silver{0 dragonscale boots are on the floor!~
+armor GK AG
+23 23 23 23 0
+101 100 2800
+A 1 2
+A 12 200
+A 13 200
+A 20 -3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28058
+gauntlets silver dragonscale~
+{WSilver {DDragonscale {wGauntlets{x~
+Some {7silver{0 dragonscale gauntlets are on the floor!~
+armor GK AH
+20 20 20 20 0
+101 100 2800
+A 20 -3
+A 13 303
+A 1 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28059
+sleeves silver~
+{7silver{0 dragonscale sleeves~
+Some {7silver{0 dragonscale sleeves are on the floor!~
+armor GK AI
+11 10 10 6 0
+41 100 2800
+A 18 1
+A 17 -3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28060
+shield silver dragonscale~
+{WSilver {DDragonscale {wShield{x~
+Some {7silver{0 dragonscale shield are on the floor!~
+armor GK AJ
+32 32 32 32 0
+101 100 328100
+A 12 100
+A 20 -2
+A 13 303
+A 17 -25
+A 5 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28061
+girth silver~
+{7silver{0 dragonscale girth~
+Some {7silver{0 dragonscale girth is on the floor!~
+armor GK AL
+10 10 10 6 0
+41 100 2800
+A 18 1
+A 17 -3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28062
+claw silver~
+the {7silver{0 claw~
+A small {7silver{0 claw lies on the floor.~
+weapon GK AN
+exotic 10 9 silver DG
+41 100 228000
+A 19 2
+A 18 10
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28063
+orb dragonorb~
+the {7Silver{0 Dragon Orb~
+A very large pearl-like sphere is in the center of this room.~
+staff GKL AO
+14 4 4 'heal' 0
+33 300 9000
+A 4 2
+A 3 1
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28064
+robe silver~
+a {7Silver{0 Robe~
+A {7silver{0 robe is on the floor.~
+armor GK AK
+9 9 8 5 0
+33 100 3800
+A 3 2
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28065
+house key~
+a house key~
+A house key is on the floor.~
+key 0 A
+0 0 0 0 0
+0 10 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28066
+broom~
+a broom~
+A broom is against the wall here.~
+weapon 0 AN
+exotic 5 5 beating 0
+1 80 28160
+A 19 -3
+A 18 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28067
+chest~
+a chest~
+A chest is on the floor here.~
+container T 0
+100 0 0 10 100
+0 100 100
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28068
+claw silver~
+the {7Silver{0 Claw~
+A huge {7Silver{0 claw lies on the floor.~
+weapon GK AN
+exotic 10 10 silver BK
+77 200 281200
+A 18 18
+A 19 15
+A 20 -2
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28069
+claw golden~
+the golden claw~
+A large golden claw is on the floor~
+weapon GK AN
+exotic 8 8 claw 0
+55 150 4100
+A 19 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28070
+portal gate church llewellyn~
+the gates leading to the church of Llewellyn~
+The gates to the Church of Llewellyn open up to invitingly.~
+portal AO 0
+0 0 A 12800 0
+0 0 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28071
+hot tub~
+{7The {!H{1o{!t T{1u{!b{0~
+{7The {!H{1o{!t T{1u{!b{7 is here gently bubbling{0.~
+furniture 0 0
+2 90000 CFILO 50 50
+0 0 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28072
+pit~
+{3Donation {8Pit{0~
+A {3donation {8pit{0 for sacrifices is in the center of the room.~
+pit O 0
+10000 0 0 1000 0
+0 0 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28073
+Mooncrusher~
+{WM{Do{Do{Wn{wc{Dr{Wu{ws{Dh{We{wr{x~
+A mooncrusher throbs here.~
+weapon G AN
+mace 14 13 moonlight CDFHK
+101 80 10000
+A 20 -4
+A 3 2
+A 4 2
+A 12 250
+A 13 50
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28074
+silver talisman~
+{WSilver {wTalisman{x~
+A silver talisman lies here.~
+armor 0 AC
+19 19 19 19 0
+101 20 10000
+A 20 -4
+A 13 303
+A 3 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28075
+crescent moon earring~
+{WCrescent {DM{Woo{Dn {wEarring{x~
+A tiny moon-shaped earring is here.~
+armor 0 AS
+20 20 20 20 0
+101 20 12000
+A 4 1
+A 3 1
+A 12 100
+A 20 -3
+A 13 303
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28076
+emblem silver dragon~
+{yEmblem {wof the {WSilver {DDragon{x~
+A silver patch lies here.~
+armor G AW
+20 20 20 20 0
+101 10 14000
+A 13 250
+A 12 250
+A 20 -4
+A 2 3
+F A 0 0 V
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28077
+spirit silver dragon~
+{CSpirit {wof the {WSilver {DDragon{x~
+A spirit floats here.~
+armor G AQ
+21 21 21 21 0
+101 0 10000
+A 17 -25
+A 5 2
+A 4 2
+A 13 303
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28100
+potion true sight~
+a potion of {8true {#sight{0~
+A potion of {8true {#sight {0is here.~
+potion G AO
+15 'detect invis' 'detect magic' 'detect hidden' ''
+0 10 120
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28101
+potion fly flying~
+a potion of {&flying{0~
+A potion of {&flying {0is here.~
+potion G AO
+16 'fly' '' '' ''
+1 10 45
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28102
+potion negation~
+a potion of {6n{&egatio{6n{0~
+A potion of {6n{&egatio{6n {0is here.~
+potion BG AO
+35 'cancellation' '' '' ''
+20 10 230
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28103
+potion armor~
+a potion of {3armor{0~
+A potion of {3armor{0 is here.~
+potion G AO
+15 'armor' '' '' ''
+0 10 50
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28104
+vial holy water~
+a vial of {&holy {4water{0~
+A vial of {&holy {4water{0 is here.~
+potion AGI AO
+25 'bless' '' '' ''
+10 10 50
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28105
+potion cure blindness~
+a potion of cure {8blindness{0~
+A potion of cure {8blindness{0 is here.~
+potion G AO
+25 'cure blindness' '' '' ''
+10 10 50
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28106
+potion antidote bottle~
+a bottle of {2a{@ntidot{2e{0~
+A bottle of {2a{@ntidot{2e {0is here.~
+potion G AO
+25 'cure poison' '' '' ''
+10 10 20
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28107
+potion cure critical critic~
+a potion of cure {8critical {!wounds{0~
+A potion of cure {8critical {!wounds{0 is here.~
+potion G AO
+40 'cure critical' '' '' ''
+25 10 130
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28108
+potion cure serious~
+a potion of cure {8serious {1wounds{0~
+A potion of cure {8serious {1wounds{0 is here.~
+potion G AO
+25 '' '' '' ''
+10 10 100
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28109
+potion cure light~
+a potion of cure {#light {1wounds{0~
+A potion of cure {#light {1wounds{0 is here.~
+potion G AO
+25 'cure light' '' '' ''
+10 10 60
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28110
+potion divine~
+a potion of {&divine {4p{8rotectio{4n{0~
+A potion of {&divine {4p{8rotectio{4n{0 is here.~
+potion ABGI AO
+101 'sanctuary' 'stone skin' 'armor' ''
+101 10 190
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28111
+potion sanct sanctuary~
+a potion of {&s{8anctuar{&y{0~
+A potion of {&s{8anctuar{&y{0 is here.~
+potion G AO
+45 'sanctuary' '' '' ''
+30 10 9000
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28112
+potion heal healing~
+a potion of {&healing{0~
+A potion of {&healing{0 is here.~
+potion G AO
+45 'heal' '' '' ''
+30 10 200
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28113
+potion mana~
+A {Rb{rloo{Rd{0 red potion of heal mana~
+A {Rb{rloo{Rd{0 red potion of heal mana is here.~
+potion AN AO
+50 'restore mana' 'restore mana' 'restore mana' ''
+35 10 150
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28116
+barrel beer~
+a {3barrel {7of {3beer{0~
+A {3beer barrel{0 has been left here.~
+drinkcontainer 0 A
+300 300 'beer' 0 0
+0 160 75
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28117
+bottle beer~
+a {2bottle{7 of {3beer{0~
+A {3beer {2bottle{7 has been left here.~
+drinkcontainer 0 A
+16 16 'beer' 0 0
+0 10 5
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28118
+silver tunic~
+a {7silver{0 inlaid tunic~
+A {7silver{0 inlaid tunic rests on the ground.~
+armor AGHMOSTY AD
+10 7 8 4 0
+20 5 5000
+A 19 4
+A 18 5
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28119
+cloak silver~
+a {7silver{0 fringed cloak~
+A {7silver{0 fringed cloak flutters inthe wind.~
+armor AGHMOSTY AK
+7 8 10 4 0
+20 5 5000
+A 12 60
+A 13 50
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28120
+boots silver~
+some {7silver{0 accented boots~
+Some {7silver{0 accented boots rest on the ground.~
+armor AGHMOSTY AG
+7 7 7 7 0
+20 5 5000
+A 19 4
+A 4 3
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28121
+fountain water~
+a {4f{$o{6u{^nt{6a{$i{4n{0~
+A small white {4f{$o{6u{^nt{6a{$i{4n{0 gushes forth here.~
+fountain O 0
+0 0 'water' 0 0
+0 5000 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28122
+gold portal midgaard~
+a {Ygold{0 portal to Midgaard~
+A {Ygold{0 portal to Midgaard stands here.~
+portal O 0
+0 0 A 3014 0
+0 500 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+
+#28123
+blue portal new thalos~
+a {bblue{0 portal to New Thalos~
+A {bblue{0 portal to New Thalos stands here.~
+portal O 0
+0 0 A 9506 0
+0 200 0
+T mage
+T cleric
+T thief
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T rogue
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hierophant
+T necromancer
+#0
+
+#ROOMS
+#28000
+{7Healing Room of the Silver Citadel{0~
+Within the sacred halls of the Silver Citadel lies the grand healing room
+created for the people of Mercurium by the benevolent Silver Dragon
+Paladius.  The hall is a safe haven for adventurers within the city as well
+as a place to have ones wounds mended.  The hall is always manned by a
+priest of Mirandah, patron of the silver dragon race.  The largest of the
+temples of his order is located here.  The Silver Citadel lies to the west
+while to the south a large open chamber can be seen.
+~
+22803112 0
+D2
+~
+~
+0 0 28017
+H 130 115
+S
+
+#28001
+{&Silver Square{0~
+You are in the big intersection between Raff Way and Impy Way.  Crowds 
+of people walk past you as they go on their daily tasks.  Raff Way continues
+east and west, and Impy Way runs north and south.
+~
+22802080 1
+D0
+Impy Way continues north.
+~
+~
+0 0 28025
+D1
+Raff Way continues east.
+~
+~
+0 0 28066
+D2
+Impy Way continues south.
+~
+~
+0 0 28002
+D3
+~
+~
+0 0 28103
+S
+
+#28002
+{7Impy Way{0~
+You are on Impy Way.  You can see a leather shop east and a blacksmith
+west.  To the north you see a big intersection, and Impy Way continues south.
+~
+22802080 1
+D0
+You see the big intersection.
+~
+~
+0 0 28001
+D1
+You see the leather shop.
+~
+~
+0 0 28004
+D2
+Impy Way continues south.
+~
+~
+0 0 28005
+D3
+You see the blacksmith.
+~
+~
+0 0 28003
+S
+
+#28003
+{7The Blacksmith{0~
+You are in a black and smelly room.  Pieces of metal are strewn all over
+the floor, and a wave of heat from a big furnace hits you.  An anvil sits on 
+one side of the room, and on the other side is a workbench.  The exit is east.
+~
+22802088 0
+D1
+You see Impy Way.
+~
+~
+0 0 28002
+S
+
+#28004
+{7Leatherworks{0~
+You are in a brown and smelly room.  Pieces of leather are strewn all over
+the floor.  The smell of burnt hide assaults your nose.  You can tell by the
+looks that the tanning is done VERY CLOSE to here!   A table is near the
+entrance.  The exit is west.
+~
+22802088 0
+D3
+You see Impy Way.
+~
+~
+0 0 28002
+S
+
+#28005
+{7Impy Way{0~
+You are on Impy Way.  To the east is a meat store, and to the west is a
+pawn shop.  Impy Way continues north and south.  People are rushing around you
+to go to these stores.
+~
+22802080 1
+D0
+Impy Way continues North.
+~
+~
+0 0 28002
+D1
+You see the Meat Store.
+~
+~
+0 0 28007
+D2
+Impy Way continues south.
+~
+~
+0 0 28008
+D3
+You see the Pawn Shop.
+~
+~
+0 0 28006
+S
+
+#28006
+{7Tracey's Treasures{0~
+You are in a little shop filled with a lot of knick knacks and semi-
+valuable goods.  There is a display case full of little treasures that you are
+sure that you or any other little kid would like to touch!  The exit is east.
+~
+22802088 0
+D1
+You see Impy Way.
+~
+~
+0 0 28005
+S
+
+#28007
+{7The Butchers{0~
+You are in a meat store.  Hanging on hooks are meats of many kinds of
+animals.  In the background, you can hear the sound of blade against flesh.
+It smells like meat here (which is not a good smell).  The exit is west.
+~
+22802088 0
+D3
+You see Impy Way.
+~
+~
+0 0 28005
+S
+
+#28008
+{7Impy Way{0~
+You are on Impy Way.  To the east is Farmer's Market, and to the west is
+Nyles' House of Ale.  Impy Way runs north and ends south of here.  You can hear
+the sound of housewives gossiping at the market.
+~
+22802080 1
+D0
+Impy Way continues north.
+~
+~
+0 0 28005
+D1
+You see the Farmer's Market.
+~
+~
+0 0 28010
+D2
+You see the end of Impy Way.
+~
+~
+0 0 28011
+D3
+You see Nyles' House of Ale.
+~
+~
+0 0 28009
+S
+
+#28009
+{7Nyle's House of Ale{0~
+This is a very busy bar, with everyone holding homemade bottles of
+ale.  You see even the more gentile persons here, laughing along with
+Nyles, who offers you a quart of ale too.
+~
+22802088 0
+D1
+You see Impy Way.
+~
+~
+0 0 28008
+S
+
+#28010
+{7Farmer's Market{0~
+You see many carts filled with fruits and vegetables.  Many farmers are
+all trying to sell you their produce, each saying their's is better.  The exit
+is west.
+~
+22802088 0
+D3
+You see Impy Way.
+~
+~
+0 0 28008
+S
+
+#28011
+{7The Grand Gate of Mercurium{0~
+You are at the end of Impy and of the city part of Mercurium.  To the
+east is a dirt road leading toward the farm animals.  West from here are
+fields.  Impy Way continues north.  
+~
+22802080 1
+D0
+Impy Way continues north.
+~
+~
+0 0 28008
+D1
+You see the dirt road.
+~
+~
+0 0 28068
+D3
+You see the fields.
+~
+~
+0 0 28012
+S
+
+#28012
+Fields~
+You are in a corn field.  You can't see far, since the corn stalks are
+taller than you are.  You remember that the city of Mercurium is east of
+here, and you think you see a building to the north.  The field continues
+south and west.  
+~
+0 2
+D0
+You think you see a building north of here.
+~
+~
+0 0 28016
+D1
+You remember that the end of Impy Way is east.
+~
+~
+0 0 28011
+D2
+You can make a path to the fields south.
+~
+~
+0 0 28013
+D3
+You can make a path to the fields west.
+~
+~
+0 0 28015
+S
+
+#28013
+Fields~
+You are among fruit trees in a field.  You see many apple and orange 
+trees.  You can make out the corn fields north and some vegetable patches west.
+The sight of the fruit makes your mouth water.
+~
+0 2
+D0
+You see the corn fields.
+~
+~
+0 0 28012
+D2
+~
+~
+0 0 1501
+D3
+You see the vegetable fields.
+~
+~
+0 0 28014
+S
+
+#28014
+Fields~
+You are among the vegetable fields.  You see many cabbage and lettuce
+patches, along with tomato bushes and potato plants.  To the east are some
+fruit trees, and north are some wheat fields.
+~
+0 2
+D0
+You see the wheat fields.
+~
+~
+0 0 28015
+D1
+You see the fruit trees.
+~
+~
+0 0 28013
+S
+
+#28015
+Fields~
+You are among the wheat fields.  The gentle caress of the wheat and the
+cool shadow from the tall stalks and scarecrow lulls you to sleep and dream
+of a little girl and little dog from a faraway place.  To the east are the corn
+stalks, and south of you are the vegetable patches.
+~
+0 2
+D1
+You see the corn fields.
+~
+~
+0 0 28012
+D2
+You see the vegetable patches.
+~
+~
+0 0 28014
+D3
+~
+~
+0 0 3526
+S
+
+#28016
+The Shed~
+You are in the storage shed.  Bales of wheat, corn and hay are piled
+against the wall, and some vegetables are in carts.  You see a small door
+to the west.  The main exit is south.
+~
+8 0
+D2
+You see the corn fields.
+~
+~
+0 0 28012
+S
+
+#28017
+{&Donation Room{0~
+This room is new to the temple.  It was created during the hard times
+that have struck the city in recent decades.  Luckily for them the citadel
+had been hoarding some of the basic necessities for just such an occasion. 
+These days the donation room depends on the generosity of wealthy
+adventurers, and a curse on any that walk in to get all.  
+~
+22803116 0
+D0
+~
+~
+0 0 28000
+S
+
+#28018
+Dirt Road~
+You are on a dirt road.  To the east is a barn, and you see a big chicken
+coop south of you.  The dirt road continues north and west.
+~
+0 2
+D0
+You see the dirt road.
+~
+~
+0 0 28068
+D1
+You see the barn.
+~
+~
+0 0 28020
+D2
+You see the chicken coop.
+~
+coop~
+0 -1 28019
+D3
+You see the dirt road.
+~
+~
+0 0 28021
+S
+
+#28019
+Chicken Coop~
+You are in the chicken coop.  The smell of chickens and chicken droppings
+makes you gasp.  The exit is north.
+~
+8 0
+D0
+You can sense the fresh air.
+~
+~
+0 -1 28018
+S
+
+#28020
+Barn~
+You are in a barn.  There are some cows here, munching on mounds of hay.
+Milk is milked and bottled here.  You see the exit west.
+~
+8 0
+D3
+You see the dirt road.
+~
+~
+0 0 28018
+S
+
+#28021
+Dirt Road~
+You are on a dirt road.  To the north and south, you see some grass 
+fields.  There is a pigsty west, and the dirt road continues east.
+~
+0 2
+D0
+You see some grass fields.
+~
+~
+0 0 28022
+D1
+You see the dirt road.
+~
+~
+0 0 28018
+D2
+You see some grass fields.
+~
+~
+0 0 28023
+D3
+You see the pigsty.
+~
+~
+0 0 28024
+S
+
+#28022
+Grass Field~
+You are in a grass field.  Fences block the way north, east, and west.
+The dirt road is to the south.
+~
+0 2
+D2
+You see the dirt road.
+~
+~
+0 0 28021
+S
+
+#28023
+Grass Field~
+You are in a grass field.  Fences block the way south, east, and west.
+The dirt road is to the north.
+~
+0 2
+D0
+You see the dirt road.
+~
+~
+0 0 28021
+S
+
+#28024
+Pig Sty~
+For some reason, you are in a pig sty.  You wonder why you are standing in
+muck.  To realize your senses and notice the dirt road is to the east.
+~
+0 2
+D1
+You see the dry dirt road.
+~
+~
+0 0 28021
+S
+
+#28025
+{7Impy Way{0~
+You are on Impy Way.  East and west of you are big houses.  Impy Way
+continues north and reaches a big intersection south.  Children are running to
+from home to home.
+~
+22802080 1
+D0
+Impy Way continues north.
+~
+~
+0 0 28032
+D1
+You see a big house.
+~
+door~
+0 28065 28026
+D2
+You see a big intersection.
+~
+~
+0 0 28001
+D3
+You see a big house.
+~
+door~
+0 28065 28029
+S
+
+#28026
+{7Big House{0~
+You are in a big house.  Evidently, the owners of this house are richer
+than the average citizen, since there is more than one room to this house.  A
+door leads to the kitchen east, and a bedroom is upstairs.  The exit is to the
+west.
+~
+8 0
+D1
+You see the kitchen.
+~
+~
+0 0 28028
+D3
+You see Impy Way.
+~
+door~
+0 28065 28025
+D4
+You see the bedroom.
+~
+~
+0 0 28027
+S
+
+#28027
+{7Bedroom{0~
+You are in the bedroom.  There isn't much of interest except for a bed and
+a closet.  The stairs lead back down.
+~
+8 0
+D5
+You see the main room of the house.
+~
+~
+0 0 28026
+S
+
+#28028
+{7Kitchen{0~
+You are in a kitchen.  There isn't much of interest here.  The main room
+is west of here.
+~
+8 0
+D3
+You see the main room of the house.
+~
+~
+0 0 28026
+S
+
+#28029
+{7Big House{0~
+You are in a big house.  Evidently, the owners of this house are richer
+than the average citizen, since there is more than one room to this house.  A
+door leads to the kitchen west, and a bedroom is upstairs.  The exit is to the
+east.
+~
+8 0
+D1
+You see Impy Way.
+~
+door~
+0 28065 28025
+D3
+You see the kitchen.
+~
+~
+0 0 28031
+D4
+You see the bedroom.
+~
+~
+0 0 28030
+S
+
+#28030
+{7Bedroom{0~
+You are in the bedroom.  There isn't much of interest except for a bed and
+a closet.  The stairs lead back down.
+~
+8 0
+D5
+You see the main room of the house.
+~
+~
+0 0 28029
+S
+
+#28031
+{7Kitchen{0~
+You are in a kitchen.  There isn't much of interest here.  The main room
+is east of here.
+~
+8 0
+D1
+You see the main room of the house.
+~
+~
+0 0 28029
+S
+
+#28032
+{7Impy Way{0~
+You are on Impy Way.  Houses are to the east and west of here.  Impy Way
+continues north and south.  There are many people walking along the streets.
+~
+22802080 1
+D0
+Impy Way continues north.
+~
+~
+0 0 28037
+D1
+You see a house.
+~
+door~
+0 -1 28033
+D2
+Impy Way continues south.
+~
+~
+0 0 28025
+D3
+You see a house.
+~
+door~
+0 -1 28035
+S
+
+#28033
+{&House{0~
+You are in a house.  The living room and kitchen are all bundled into
+this room.  There is a bedroom south of here.  The exit is west.
+~
+8 0
+D2
+You see the bedroom.
+~
+~
+0 0 28034
+D3
+You see Impy Way.
+~
+door~
+0 -1 28032
+S
+
+#28034
+{7Bedroom{0~
+You are in a bedroom.  There isn't much of interest here except for a bed
+and a dresser.  The main room of the house is north of here.
+~
+8 0
+D0
+You see the main room of the house.
+~
+~
+0 0 28033
+S
+
+#28035
+{&House{0~
+You are in a house.  The living room and kitchen are all bundled into
+this room.  There is a bedroom south of here.  The exit is east.
+~
+8 0
+D1
+You see Impy Way.
+~
+door~
+0 -1 28032
+D2
+You see the bedroom.
+~
+~
+0 0 28036
+S
+
+#28036
+{7Bedroom{0~
+You are in a bedroom.  There isn't much of interest here except for a bed
+and a dresser.  The main room of the house is north of here.
+~
+8 0
+D0
+You see the main room of the house.
+~
+~
+0 0 28035
+S
+
+#28037
+{7Impy Way{0~
+You are on Impy Way.  Houses are to the east and west of here.  Impy Way
+continues south.  To the north is a big intersection.  There are many people
+walking along the streets.
+~
+22802080 1
+D0
+You see a big intersection.
+~
+~
+0 0 28042
+D1
+You see a house.
+~
+door~
+0 -1 28038
+D2
+Impy Way continues south.
+~
+~
+0 0 28032
+D3
+You see a house.
+~
+door~
+0 -1 28040
+S
+
+#28038
+{&House{0~
+You are in a house.  The living room and kitchen are all bundled into
+this room.  There is a bedroom south of here.  The exit is west.
+~
+8 0
+D2
+You see the bedroom.
+~
+~
+0 0 28039
+D3
+You see Impy Way.
+~
+door~
+0 -1 28037
+S
+
+#28039
+{7Bedroom{0~
+You are in a bedroom.  There isn't much of interest here except for a bed
+and a dresser.  The main room of the house is north of here.
+~
+8 0
+D0
+You see the main room of the house.
+~
+~
+0 0 28038
+S
+
+#28040
+{&House{0~
+You are in a house.  The living room and kitchen are all bundled into
+this room.  There is a bedroom south of here.  The exit is east.
+~
+8 0
+D1
+You see Impy Way.
+~
+door~
+0 -1 28037
+D2
+You see the bedroom.
+~
+~
+0 0 28041
+S
+
+#28041
+{7Bedroom{0~
+You are in a bedroom.  There isn't much of interest here except for a bed
+and a dresser.  The main room of the house is north of here.
+~
+8 0
+D0
+You see the main room of the house.
+~
+~
+0 0 28040
+S
+
+#28042
+{7A large Intersection{0~
+You are on the intersection of Impy Way and Swiftest Way.  To the north of
+you is a big house.  Swiftest Way runs east and west, and Impy way continues
+south.  There are quite a few people on this intersection.
+~
+22802080 1
+D0
+You see the big house.
+~
+door~
+0 28065 28043
+D1
+Swiftest Way continues east.
+~
+~
+0 0 28046
+D2
+Impy Way continues south.
+~
+~
+0 0 28037
+D3
+Swiftest Way continues west.
+~
+~
+0 0 28049
+S
+
+#28043
+{7Big House{0~
+You are in a big house.  Evidently, the owners of this house are richer
+than the average citizen, since there is more than one room to this house.  A
+door leads to the kitchen north, and a bedroom is upstairs.  The exit is to 
+the south.
+~
+8 0
+D0
+You see the kitchen.
+~
+~
+0 0 28045
+D2
+You see Impy Way.
+~
+door~
+0 28065 28042
+D4
+You see the bedroom.
+~
+~
+0 0 28044
+S
+
+#28044
+{7Bedroom{0~
+You are in the bedroom.  There isn't much of interest except for a bed 
+and a closet.  The stairs lead back down.
+~
+8 0
+D5
+You see the main room of the house.
+~
+~
+0 0 28043
+S
+
+#28045
+{7Kitchen{0~
+You are in a kitchen.  There isn't much of interest here.  The main room
+is east of here.
+~
+8 0
+D2
+You see the main room of the house.
+~
+~
+0 0 28043
+S
+
+#28046
+{7Swiftest Way{0~
+You are on Swiftest Way, the commoner's residential area.  Small houses
+are north and south of you.  Swiftest Way continues east, and west is a big
+intersection.
+~
+22802080 1
+D0
+You see a small house.
+~
+~
+0 0 28052
+D1
+Swiftest Way continues east.
+~
+~
+0 0 28047
+D2
+You see a small house.
+~
+~
+0 0 28053
+D3
+You see a big intersection.
+~
+~
+0 0 28042
+S
+
+#28047
+{7Swiftest Way{0~
+You are on Swiftest Way, the commoner's residential area.  Small houses
+are north and south of you.  Swiftest Way continues east and west.
+~
+22802080 1
+D0
+You see a small house.
+~
+~
+0 0 28054
+D1
+You see the end of Swiftest Way.
+~
+~
+0 0 28048
+D2
+You see a small house.
+~
+~
+0 0 28055
+D3
+Swiftest Way continues west.
+~
+~
+0 0 28046
+S
+
+#28048
+{7Swiftest Way{0~
+You are on Swiftest Way, the commoner's residential area.  Small houses
+are north, south, and east of you.  Swiftest Way continues west.
+~
+22802080 1
+D0
+You see a small house.
+~
+~
+0 0 28056
+D1
+You see a small house.
+~
+~
+0 0 28057
+D2
+You see a small house.
+~
+~
+0 0 28058
+D3
+Swiftest Way continues west.
+~
+~
+0 0 28047
+S
+
+#28049
+{7Swiftest Way{0~
+You are on Swiftest Way, the commoner's residential area.  Small houses
+are north and south of you.  Swiftest Way continues west, and to the east you
+see a big intersection.
+~
+22802080 1
+D0
+You see a small house.
+~
+~
+0 0 28059
+D1
+You see the big intersection.
+~
+~
+0 0 28042
+D2
+You see a small house.
+~
+~
+0 0 28060
+D3
+Swiftest Way continues west.
+~
+~
+0 0 28050
+S
+
+#28050
+{7Swiftest Way{0~
+You are on Swiftest Way, the commoner's residential area.  Small houses
+are north and south of you.  Swiftest Way continues east and west.
+~
+22802080 1
+D0
+You see a small house.
+~
+~
+0 0 28061
+D1
+Swiftest Way continues east.
+~
+~
+0 0 28049
+D2
+You see a small house.
+~
+~
+0 0 28062
+D3
+You see the end of Swiftest Way.
+~
+~
+0 0 28051
+S
+
+#28051
+{7Swiftest Way{0~
+You are on Swiftest Way, the commoner's residential area.  Small houses
+are north, south, and west of you.  Swiftest Way continues east.
+~
+22802080 1
+D0
+You see a small house.
+~
+~
+0 0 28063
+D1
+Swiftest Way continues east.
+~
+~
+0 0 28050
+D2
+You see a small house.
+~
+~
+0 0 28064
+D3
+You see a small house.
+~
+~
+0 0 28065
+S
+
+#28052
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the south.  
+~
+8 0
+D2
+You see Swiftest Way.
+~
+~
+0 0 28046
+S
+
+#28053
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the north.  
+~
+8 0
+D0
+You see Swiftest Way.
+~
+~
+0 0 28046
+S
+
+#28054
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the south.  
+~
+8 0
+D2
+You see Swiftest Way.
+~
+~
+0 0 28047
+S
+
+#28055
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the north.  
+~
+8 0
+D0
+You see Swiftest Way.
+~
+~
+0 0 28047
+S
+
+#28056
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the south.  
+~
+8 0
+D2
+You see the end of Swiftest Way.
+~
+~
+0 0 28048
+S
+
+#28057
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the west.  
+~
+8 0
+D3
+You see the end of Swiftest Way.
+~
+~
+0 0 28048
+S
+
+#28058
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the north.  
+~
+8 0
+D0
+You see the end of Swiftest Way.
+~
+~
+0 0 28048
+S
+
+#28059
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the south.  
+~
+8 0
+D2
+You see Swiftest Way.
+~
+~
+0 0 28049
+S
+
+#28060
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the north.  
+~
+8 0
+D0
+You see Swiftest Way.
+~
+~
+0 0 28049
+S
+
+#28061
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the south.  
+~
+8 0
+D2
+You see Swiftest Way.
+~
+~
+0 0 28050
+S
+
+#28062
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the north.  
+~
+8 0
+D0
+You see Swiftest Way.
+~
+~
+0 0 28050
+S
+
+#28063
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the south.  
+~
+8 0
+D2
+You see the end of Swiftest Way.
+~
+~
+0 0 28051
+S
+
+#28064
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the north.  
+~
+8 0
+D0
+You see the end of Swiftest Way.
+~
+~
+0 0 28051
+S
+
+#28065
+{7Small House{0~
+You are in a small house, owned by a commoner of Mercurium.  There isn't
+much of value here to you, but you'd bet that the owner really cherishes the
+pile of stuff here.  The exit is to the east.  
+~
+8 0
+D1
+You see the end of Swiftest Way.
+~
+~
+0 0 28051
+S
+
+#28066
+{7Raff Way{0~
+You are on Raff Way.  To the west, you can see Silver Square.  To the
+east, you see Raff Way continue toward the Silver Citadel.  There are
+beautiful flowers growing along the road here, making this more of a garden
+than a road.  
+~
+22802080 1
+D1
+Raff Way continues east.
+~
+~
+0 0 28067
+D3
+You see the big intersection.
+~
+~
+0 0 28001
+S
+
+#28067
+{7Raff Way{0~
+You are on Raff Way.  Raff Way continues west to the city of Mercurium. 
+To the east, you see Raff Way continue toward the Silver Citadel.  There are
+beautiful flowers growing along the road here, making this more of a garden
+than a road.  
+~
+22802080 1
+D1
+You see the entrance of the Golden Citadel.
+~
+~
+0 0 28099
+D3
+Raff Way continues west.
+~
+~
+0 0 28066
+S
+
+#28068
+Dirt Road~
+You are on a dirt road.  To the east is a large building with a bad smell
+emanating from it.  To the west is the Gates of Mercurium, and this road
+continues south.  
+~
+0 2
+D2
+The dirt road continues south.
+~
+~
+0 0 28018
+D3
+You see the end of Impy Way.
+~
+~
+0 0 28011
+S
+
+#28069
+{7The Temple of the Silver Citadel{0~
+You are in the Temple of the Silver Citadel.  Silver tiles cover the
+floor, and solid silver columns reach the twelve foot ceiling of this vast
+chamber.  Servants in silver livery wander this place, making even the
+raggiest messenger boy look richer than you are.  Exits lead to the
+anterooms in the cardinal directions.  
+~
+22802088 0
+D0
+~
+~
+0 0 28070
+D1
+~
+~
+0 0 28072
+D2
+~
+~
+0 0 28073
+D3
+~
+~
+0 0 28071
+S
+
+#28070
+{7The Anteroom to the Temple of the Silver Citadel{0~
+You are in an anteroom to the Temple of the Silver Citadel.  Silver tiles
+cover the floor, and servants in silver livery pass you by peaceably.  The
+temple is to the south, and to the north is a hallway.  A stairways leads
+up.  
+~
+22802088 0
+D0
+~
+~
+0 0 28075
+D2
+~
+~
+0 0 28069
+D4
+~
+~
+0 0 28086
+S
+
+#28071
+{7The Anteroom to the Temple of the Silver Citadel{0~
+You are in an anteroom to the Temple of the Silver Citadel.  Silver tiles
+cover the floor, and servants in silver livery pass you by peaceably.  The
+temple is to the east, and to the west is a hallway.  A stairways leads up. 
+~
+22802088 0
+D1
+~
+~
+0 0 28069
+D3
+~
+~
+0 0 28079
+D4
+~
+~
+0 0 28087
+S
+
+#28072
+{7The Anteroom to the Temple of the Silver Citadel{0~
+You are in an anteroom to the Temple of the Silver Citadel.  Silver tiles
+cover the floor, and servants in silver livery pass you by peaceably.  The
+temple is to the west, and to the east is a hallway.  A stairways leads up. 
+~
+22802088 0
+D1
+~
+~
+0 0 28080
+D3
+~
+~
+0 0 28069
+D4
+~
+~
+0 0 28089
+S
+
+#28073
+{7The Anteroom to the Temple of the Silver Citadel{0~
+You are in an anteroom to the Temple of the Silver Citadel.  Silver tiles
+cover the floor, and servants in silver livery pass you by peaceably.  The
+temple is to the north, and to the south is a hallway.  A stairways leads
+up.  
+~
+22802088 0
+D0
+~
+~
+0 0 28069
+D2
+~
+~
+0 0 28084
+D4
+~
+~
+0 0 28090
+S
+
+#28074
+{7A Hallway of the Silver Citadel{0~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead east and south.  
+~
+22802088 0
+D1
+~
+~
+0 0 28075
+D2
+~
+~
+0 0 28077
+S
+
+#28075
+{7A Hallway of the Silver Citadel{0~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead east, west, and south.  
+~
+22802088 0
+D1
+~
+~
+0 0 28076
+D2
+~
+~
+0 0 28070
+D3
+~
+~
+0 0 28074
+S
+
+#28076
+{7A Hallway of the Silver Citadel{0~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead west and south.  
+~
+22802088 0
+D2
+~
+~
+0 0 28078
+D3
+~
+~
+0 0 28075
+S
+
+#28077
+{7A Hallway of the Silver Citadel{0~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead north and south.  
+~
+22802088 0
+D0
+~
+~
+0 0 28074
+D2
+~
+~
+0 0 28079
+S
+
+#28078
+{7A Hallway of the Silver Citadel{0~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead north and south.  
+~
+22802088 0
+D0
+~
+~
+0 0 28076
+D2
+~
+~
+0 0 28080
+S
+
+#28079
+{7A Hallway of the Silver Citadel{0~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead to the cardinal directions, with
+the east leading toward the Temple of the Silver Citadel, and west leading
+toward the City of Mercurium.  
+~
+22802088 0
+D0
+~
+~
+0 0 28077
+D1
+~
+~
+0 0 28071
+D2
+~
+~
+0 0 28081
+D3
+~
+~
+0 0 28098
+S
+
+#28080
+{7A Hallway of the Silver Citadel{0~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead west, north, and south.  
+~
+22802088 0
+D0
+~
+~
+0 0 28078
+D2
+~
+~
+0 0 28082
+D3
+~
+~
+0 0 28072
+S
+
+#28081
+{7A Hallway of the Silver Citadel{0~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead north and south.  
+~
+22802088 0
+D0
+~
+~
+0 0 28079
+D2
+~
+~
+0 0 28083
+S
+
+#28082
+{7A Hallway of the Silver Citadel{1~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead north and south.  
+~
+22802088 0
+D0
+~
+~
+0 0 28080
+D2
+~
+~
+0 0 28085
+S
+
+#28083
+{7A Hallway of the Silver Citadel{0~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead north and east.  
+~
+22802088 0
+D0
+~
+~
+0 0 28081
+D1
+~
+~
+0 0 28084
+S
+
+#28084
+{7A Hallway of the Silver Citadel{1~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead east, west, and north.  
+~
+22802088 0
+D0
+~
+~
+0 0 28073
+D1
+~
+~
+0 0 28085
+D3
+~
+~
+0 0 28083
+S
+
+#28085
+{7A Hallway of the Silver Citadel{1~
+You are in a hallway of the Silver Citadel.  Silver tiles cover the
+floors, and rich silver tapestries drape the walls.  Servants in silver
+livery pass you by peaceably.  Exits lead west and north.  
+~
+22802088 0
+D0
+~
+~
+0 0 28082
+D3
+~
+~
+0 0 28084
+S
+
+#28086
+{7An Upper Chamber of the Silver Citadel{0~
+You are in one of the upper chambers of the Silver Citadel.  The decora-
+tions of this place surpass even those of the first floor.  Silver tiles
+etched with gold cover the floor, walls and the ceiling.  The lights from
+numerous torches reflect from these shimmering planes, giving the illusion
+that you are standing in a gem.  Stairways lead up and down, and the hall
+leads south.  
+~
+8 0
+D2
+~
+~
+0 0 28088
+D4
+~
+~
+0 0 28091
+D5
+~
+~
+0 0 28070
+S
+
+#28087
+{7An Upper Chamber of the Silver Citadel{0~
+You are in one of the upper chambers of the Silver Citadel.  The decora-
+tions of this place surpass even those of the first floor.  Silver tiles
+etched with gold cover the floor, walls and the ceiling.  The lights from
+numerous torches reflect from these shimmering planes, giving the illusion
+that you are standing in a gem.  Stairways lead up and down, and the hall
+leads east.  
+~
+8 0
+D1
+~
+~
+0 0 28088
+D4
+~
+~
+0 0 28092
+D5
+~
+~
+0 0 28071
+S
+
+#28088
+{7The Hall of the DragonLords{0~
+You are in a vast hall, filled with the commanders of the Silver Citadel.
+Silver tiles etched with gold cover the floors, and weapons of all types are
+mounted on the walls of this meeting hall.  Surrounding a solid silver table
+are four sons of the Keeper of the Silver Citadel.  They smile at you and
+ask you to join them in lunch.  Exits lead to the cardinal directions.  
+~
+8 0
+D0
+~
+~
+0 0 28086
+D1
+~
+~
+0 0 28089
+D2
+~
+~
+0 0 28090
+D3
+~
+~
+0 0 28087
+S
+
+#28089
+{7An Upper Chamber of the Silver Citadel{0~
+You are in one of the upper chambers of the Silver Citadel.  The decora-
+tions of this place surpass even those of the first floor.  Silver tiles
+etched with gold cover the floor, walls and the ceiling.  The lights from
+numerous torches reflect from these shimmering planes, giving the illusion
+that you are standing in a gem.  Stairways lead up and down, and the hall
+leads west.  
+~
+8 0
+D3
+~
+~
+0 0 28088
+D4
+~
+~
+0 0 28094
+D5
+~
+~
+0 0 28072
+S
+
+#28090
+{7An Upper Chamber of the Silver Citadel{0~
+You are in one of the upper chambers of the Silver Citadel.  The decora-
+tions of this place surpass even those of the first floor.  Silver tiles
+etched with gold cover the floor, walls and the ceiling.  The lights from
+numerous torches reflect from these shimmering planes, giving the illusion
+that you are standing in a gem.  Stairways lead up and down, and the hall
+leads north.  
+~
+8 0
+D0
+~
+~
+0 0 28088
+D4
+~
+~
+0 0 28095
+D5
+~
+~
+0 0 28073
+S
+
+#28091
+{7The Top Chambers of the Silver Citadel{0~
+You are in one of the top chambers of the Silver Citadel.  The
+decorations of this room looks like a dragon's hoard.  The whole room is
+carved out of pure silver, and gems of all types glitter from the walls,
+ceiling, even the floor.  It is obvious that this room was not meant for you
+to intrude upon.  A stair- case leads back down, and a doorway leads south. 
+~
+8 0
+D2
+~
+~
+0 0 28093
+D5
+~
+~
+0 0 28086
+S
+
+#28092
+{7The Top Chambers of the Silver Citadel{0~
+You are in one of the top chambers of the Silver Citadel.  The
+decorations of this room looks like a dragon's hoard.  The whole room is
+carved out of pure silver, and gems of all types glitter from the walls,
+ceiling, even the floor.  It is obvious that this room was not meant for you
+to intrude upon.  A stair- case leads back down, and a doorway leads east.  
+~
+8 0
+D1
+~
+~
+0 0 28093
+D5
+~
+~
+0 0 28087
+S
+
+#28093
+{7The Dragon Chamber{0~
+You are in a vast chamber carved from silver and gold.  Gems the size of
+a man's fist protrude from the walls, ceiling, and the floor, making your
+step painful.  A vast open sky-light lets fresh air come in from the top. 
+In the center of this chamber, you see a great wealth of coins, and on top
+of that pile of coins, you see a silver dragon squinting at you.  Exits lead
+to the cardinal directions to the anterooms.  
+~
+8 0
+D0
+~
+~
+0 0 28091
+D1
+~
+~
+0 0 28094
+D2
+~
+~
+0 0 28095
+D3
+~
+~
+0 0 28092
+D4
+~
+~
+0 0 28096
+S
+
+#28094
+{7The Top Chambers of the Silver Citadel{0~
+You are in one of the top chambers of the Silver Citadel.  The
+decorations of this room looks like a dragon's hoard.  The whole room is
+carved out of pure silver, and gems of all types glitter from the walls,
+ceiling, even the floor.  It is obvious that this room was not meant for you
+to intrude upon.  A stair- case leads back down, and a doorway leads west.  
+~
+8 0
+D3
+~
+~
+0 0 28093
+D5
+~
+~
+0 0 28089
+S
+
+#28095
+{7The Top Chambers of the Silver Citadel{0~
+You are in one of the top chambers of the Silver Citadel.  The
+decorations of this room looks like a dragon's hoard.  The whole room is
+carved out of pure silver, and gems of all types glitter from the walls,
+ceiling, even the floor.  It is obvious that this room was not meant for you
+to intrude upon.  A stair- case leads back down, and a doorway leads north. 
+~
+8 0
+D0
+~
+~
+0 0 28093
+D5
+~
+~
+0 0 28090
+S
+
+#28096
+{7Above the Dragon Chamber{0~
+You are above the Dragon Chamber.  You curiously note that this shaft that
+connects the chamber to the sky is wide enough that even a dragon can fit
+through.  This shaft leads up and down.
+~
+8 0
+D4
+~
+~
+0 0 28097
+D5
+~
+~
+0 0 28093
+S
+
+#28097
+{7In the shaft from the Dragon Chamber{0~
+You are in the shaft leading from the Dragon Chamber.  Below you lies the
+Dragon Chamber of the Silver Citadel.  Above you, you see the sky, but
+currently, the way out is sealed by a layer of diamond that looks
+impenetrable.  
+~
+8 0
+D5
+~
+~
+0 0 28096
+S
+
+#28098
+{7Inside the Entrance to the Silver Citadel{0~
+You are inside the entrance to the Silver Citadel.  Rich silver
+tapestries line the walls, and silver tiles cover the floors.  The exit to
+this citadel is to the west, while the citadel itself is to the east.  
+~
+22802088 0
+D1
+~
+~
+0 0 28079
+D3
+~
+gate~
+0 28051 28099
+S
+
+#28099
+{7Outside the Entrance to the Silver Citadel{0~
+You are outside the entrance to the Silver Citadel.  A great gate is to
+to the east, marking the entranceway into the citadel.  The road also leads
+back west to Raff Way.  
+~
+22802080 2
+D1
+~
+~
+0 28051 28098
+D3
+~
+~
+0 0 28067
+S
+
+#28101
+{7Village Street{0~
+You are standing on the village street of Mercurium.  East from here is a
+small alley and north is the village square.  Towards the south is a small
+shop .  
+~
+22802080 1
+D0
+~
+~
+0 0 28102
+D1
+~
+~
+0 0 28103
+S
+
+#28102
+{7Village Square{0~
+The village square is a place where inhabitants of Mercurium gather to
+talk, trade and sell items and just have a good time.  You see a small
+shop
+to the east and the local inn to the north.  If you leave south you go to
+village street.
+~
+22802080 1
+D2
+~
+~
+0 0 28101
+S
+
+#28103
+{7The Small Alley{0~
+You are in a small, quiet alley.  From here you see the village street
+to the west and a small room lies to the south.
+~
+22802080 1
+D1
+~
+~
+0 0 28001
+D2
+~
+~
+0 0 28104
+D3
+~
+~
+0 0 28101
+S
+
+#28104
+{7Guild Path{0~
+~
+22802088 1
+D0
+~
+~
+0 0 28103
+S
+
+#28109
+Portal Chamber~
+A dimly lit chamber has been placed at the top of a spiral staircase. 
+Shimmering portals line the walls.  Each portal leads to another part of the
+realm.  Some are active, glowing with a strange inner light.  Others are
+dead and lifeless, the shimmering surface dark and blank.  
+~
+4 0
+S
+#0
+
+#SPECIALS
+M 28000 spec_guard
+M 28001 spec_cast_cleric
+M 28002 spec_cast_cleric
+M 28003 spec_cast_mage
+M 28021 spec_janitor
+M 28023 spec_guard
+M 28028 spec_cast_adept
+M 28029 spec_guard
+M 28030 spec_breath_any
+M 28031 spec_breath_any
+M 28032 spec_cast_mage
+M 28033 spec_breath_any
+M 28034 spec_guard
+M 28035 spec_cast_adept
+S
+
+#RESETS
+M 100 28000 10 28001 1
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28024 0 8
+M 100 28001 1 28001 1
+E 100 28020 0 1
+E 100 28039 0 5
+E 100 28040 0 6
+E 100 28041 0 7
+E 100 28042 0 8
+E 100 28043 0 9
+E 100 28044 0 10
+E 100 28045 0 11
+E 100 28046 0 13
+E 100 28047 0 16
+M 100 28017 3 28001 1
+O 100 28070 0 28001
+M 100 28004 1 28003 1
+G 100 28000 0
+G 100 28001 0
+G 100 28015 0
+G 100 28067 0
+M 100 28000 10 28004 1
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28023 0 7
+M 100 28005 1 28004 1
+G 100 28016 0
+G 100 28017 0
+G 100 28018 0
+G 100 28019 0
+M 100 28006 1 28006 1
+G 100 28006 0
+G 100 28007 0
+G 100 28008 0
+M 100 28007 1 28007 1
+G 100 28002 0
+G 100 28003 0
+G 100 28004 0
+G 100 28005 0
+M 100 28000 10 28008 1
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28022 0 6
+M 100 28022 1 28009 1
+G 100 28048 0
+G 100 28049 0
+G 100 28050 0
+M 100 28024 1 28009 1
+M 100 28008 1 28010 1
+G 100 28009 0
+G 100 28010 0
+G 100 28011 0
+G 100 28012 0
+G 100 28013 0
+M 100 28018 3 28011 1
+M 100 28034 3 28011 2
+M 100 28012 4 28019 4
+M 100 28012 4 28019 4
+M 100 28012 4 28019 4
+M 100 28012 4 28019 4
+M 100 28011 1 28020 1
+E 100 28015 0 16
+O 100 28014 0 28020
+O 100 28011 0 28020
+M 100 28014 2 28020 2
+M 100 28014 2 28020 2
+M 100 28015 4 28022 4
+M 100 28015 4 28022 4
+M 100 28015 4 28022 4
+M 100 28015 4 28022 4
+M 100 28013 3 28023 3
+M 100 28013 3 28023 3
+M 100 28013 3 28023 3
+M 100 28016 4 28024 4
+M 100 28016 4 28024 4
+M 100 28016 4 28024 4
+M 100 28016 4 28024 4
+M 100 28021 3 28027 1
+G 100 28065 0
+E 100 28066 0 16
+M 100 28021 3 28029 1
+G 100 28065 0
+E 100 28066 0 16
+M 100 28020 2 28035 1
+M 100 28000 10 28037 1
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28029 0 14
+M 100 28018 3 28037 1
+M 100 28000 10 28042 1
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28026 0 10
+M 100 28021 3 28043 1
+G 100 28065 0
+E 100 28066 0 16
+M 100 28000 10 28047 1
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28027 0 11
+M 100 28017 3 28048 1
+M 100 28000 10 28050 1
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28025 0 9
+M 100 28017 3 28050 1
+M 100 28020 2 28052 1
+M 100 28019 2 28055 1
+M 100 28019 2 28061 1
+M 100 28018 3 28066 1
+M 100 28000 10 28067 1
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28028 0 13
+M 100 28002 1 28069 1
+E 100 28020 0 1
+E 100 28031 0 5
+E 100 28053 0 16
+E 100 28032 0 6
+E 100 28033 0 7
+E 100 28034 0 8
+E 100 28035 0 9
+E 100 28026 0 10
+E 100 28027 0 11
+E 100 28028 0 13
+M 100 28028 40 28069 1
+E 100 28074 0 3
+E 100 28020 0 1
+E 100 28064 0 12
+M 100 28025 2 28073 1
+M 100 28025 2 28074 1
+M 100 28033 3 28076 1
+E 100 28020 0 1
+E 100 28054 0 5
+E 100 28060 0 11
+E 100 28062 0 16
+M 100 28027 1 28078 1
+M 100 28033 3 28081 1
+E 100 28020 0 1
+E 100 28054 0 5
+E 100 28060 0 11
+E 100 28062 0 16
+M 100 28026 2 28082 1
+M 100 28028 40 28082 1
+E 100 28075 0 21
+E 100 28076 0 25
+M 100 28026 2 28083 1
+M 100 28029 1 28088 1
+E 100 28064 0 12
+M 100 28030 3 28088 3
+E 100 28020 0 1
+E 100 28054 0 5
+E 100 28060 0 11
+E 100 28069 0 16
+E 100 28056 0 6
+E 100 28057 0 7
+M 100 28030 3 28088 3
+E 100 28020 0 1
+E 100 28054 0 5
+E 100 28060 0 11
+E 100 28069 0 16
+E 100 28057 0 8
+E 100 28058 0 9
+M 100 28030 3 28088 3
+E 100 28073 0 16
+E 100 28020 0 1
+E 100 28054 0 5
+E 100 28060 0 11
+M 100 28033 3 28090 1
+E 100 28020 0 1
+E 100 28054 0 5
+E 100 28060 0 11
+E 100 28062 0 16
+M 100 28031 1 28093 1
+E 100 28077 0 18
+E 100 28020 0 1
+E 100 28068 0 16
+E 100 28063 0 17
+M 100 28032 2 28093 1
+E 100 28068 0 16
+E 100 28020 0 1
+M 100 28032 2 28093 1
+E 100 28064 0 12
+E 100 28020 0 1
+E 100 28075 0 21
+M 100 28034 3 28098 3
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28027 0 11
+G 100 28051 0
+M 100 28034 3 28098 3
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28027 0 11
+G 100 28051 0
+M 100 28034 3 28098 3
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28027 0 11
+G 100 28051 0
+M 100 28003 1 28099 1
+E 100 28020 0 1
+E 100 28031 0 5
+E 100 28053 0 16
+E 100 28032 0 6
+E 100 28023 0 7
+E 100 28024 0 8
+E 100 28025 0 9
+E 100 28036 0 10
+E 100 28037 0 11
+E 100 28038 0 13
+M 100 28023 3 28099 3
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28027 0 11
+G 100 28051 0
+M 100 28023 3 28099 3
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28027 0 11
+G 100 28051 0
+M 100 28023 3 28099 3
+E 100 28020 0 1
+E 100 28021 0 5
+E 100 28030 0 16
+E 100 28027 0 11
+G 100 28051 0
+O 100 28121 0 28099
+M 100 28103 0 28102 2
+M 100 28103 0 28103 2
+O 100 28122 0 28109
+O 100 28123 0 28109
+S
+
+#SHOPS
+28004 5 9 15 0 0 200 80 0 23
+28005 9 0 0 0 0 200 80 0 23
+28006 8 12 13 0 0 200 80 0 23
+28007 0 19 5 0 0 200 10 0 23
+28008 0 17 19 0 0 200 10 0 23
+28022 0 17 0 0 0 120 10 0 0
+28101 17 19 0 0 0 100 100 0 23
+28102 0 10 26 0 0 3000 100 0 23
+28105 9 0 0 0 0 150 50 0 23
+0
+
+#$

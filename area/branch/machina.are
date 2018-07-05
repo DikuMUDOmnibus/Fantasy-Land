@@ -1,0 +1,354 @@
+#AREADATA
+Name Machina Clan Hall~
+Builders None~
+VNUMs 29100 29149
+Credits Machina Clan Hall~
+Security 10
+End
+
+
+
+#MOBILES
+#29100
+Nualla~
+Nualla~
+Nualla relaxes on a nice patch of grass waiting to help those in need.
+~
+Day by day she hoped for changes....  Changes in the hearts of people.
+Throughout the Eons her life has spanned all she has seen was sickness and
+death.  Brought about by those who wished nothing but to cause strife with
+others who would also wish them dead.
+ 
+     Her life was spared by Machina, and for that she has decided of her own
+free will to help Machina change the lives of others with the knowledge and
+skills she knew best.  Her ability to teach whatever anyone has the ability
+to learn.  Her extensive knowledge of the healing arts has been used to
+assist all those who will follow in the path of Machina.
+~
+human~
+ABJKQVab DFZ 0 0 0
+300 1470 110d399+14700 110d399+14700 42d105+1680 none
+-147 -147 -147 -105
+0 ABLQ 0 0
+stand stand female 0
+XZc ABCDEFGHPQUVWX huge unknown
+F for AMV
+F par IJK
+#29101
+machina clan guard kobold paladin~
+a Kobold Paladin~
+A diminutive kobold on a tiny horse parades around in front of the door
+~
+This little fellow has decided to camp out in front of this door to 
+protect all those who reside inside.  Mounted on his faithful steed, and 
+guilded in a complete set of brightly polished silver armor he set aside his
+evil ways and became a Paladin.  His life, now changed to bring hope to those
+in need of a protector.  He will stand guard, and defend his little patch of
+ground even tho it may cost him his life.
+~
+kobold~
+AB DFJZ HNOP 1000 0
+170 1190 89d323+9633 89d323+9633 34d85+1360 charge
+-119 -119 -119 -85
+W ABLNQ M C
+stand stand none 0
+ACEHMV ABCDEFGHIJKQ huge unknown
+F res L
+#29102
+marlak dwarf~
+Marlak Mithril-Hammer~
+Marlak Mithril-Hammer works the forge while awaiting your request.
+~
+Short and stocky with long red hair and a massive red beard. Marlak has 
+worked with the Machina clan for some 82 years or so..  No one really knows
+when he joined with Machina, he just seemed to be here for as long as most
+could remember.  His work with weapons and armor has never been outmatched.
+He does his work in silence only pausing when someone makes a request.
+~
+human~
+AB DFZ 0 0 0
+210 1435 107d389+14008 107d389+14008 1d1+1000000 none
+-143 -143 -143 -102
+0 ABCDLQ 0 0
+stand stand none 1000000
+AEH BCDEFGIJK medium unknown
+F for MV
+F par AH
+#0
+
+
+
+#OBJECTS
+#29100
+pit pile~
+a pile of useful things.~
+The Machina's "Change a life" pile of useful things.~
+unknown~
+container OT P
+15000 0 0 15000 0
+0 0 0 P
+#29101
+couch nest patch grass ground~
+a nice patch of grass~
+Covering the ground is the most comfortable patch of grass seen in Eons.~
+grass~
+furniture OT P
+24 50000 BEHK 300 300
+0 0 0 P
+#29102
+waterfall fountain~
+a sparkling waterfall~
+{x~
+unknown~
+fountain O P
+0 0 'water' 0 0
+0 0 0 P
+#29103
+ring machina~
+the Machina's ring~
+You see a signet ring with a letter "M" on it.~
+onyx~
+armor ABOT AB
+0 0 0 0 0
+1 10 1000 P
+A
+19 2
+A
+18 2
+A
+13 10
+C MACHINA~
+#29104
+cape machina~
+the Cape of {RM{ra{Rc{rh{Ri{rn{Ra{x's~
+You see a pile of cloth lying here.~
+cloth~
+armor ABNOT AK
+0 0 0 0 0
+1 30 1500 P
+C MACHINA~
+#29105
+plate machina~
+the Plate of {RM{ra{Rc{rh{Ri{rn{Ra{x's~
+You see a piece of platemail with the word "{RM{ra{Rc{rh{Ri{rn{Ra{x" etched on it lying here.~
+adamantite~
+armor ABINOT AD
+0 0 0 0 0
+1 120 8000 P
+A
+19 2
+A
+18 2
+A
+2 2
+C MACHINA~
+#29106
+orb machina~
+the {RM{ra{Rc{rh{Ri{rn{Ra{x Orb~
+You see the {RM{ra{Rc{rh{Ri{rn{Ra{R's{x orb who's light is shifting through all the colours of the;spectrum floating here.~
+crystal~
+armor ABNOTU AQ
+0 0 0 0 0
+1 0 2000 P
+A
+19 2
+A
+18 2
+C MACHINA~
+#29107
+knife machina~
+the {RM{ra{Rc{rh{Ri{rn{Ra{x knife~
+A knife of the {RM{ra{Rc{rh{Ri{rn{Ra{x clan is lying here.~
+obsidian~
+weapon AMN AN
+dagger 1 1 stab ADH
+1 3 4000 P
+C MACHINA~
+#29108
+leggings machina~
+leggings of {RM{ra{Rc{rh{Ri{rn{Ra{x~
+The leggings of {RM{ra{Rc{rh{Ri{rn{Ra{x lies here.~
+mithril~
+armor ABNOT AF
+0 0 0 0 0
+1 40 6500 P
+F
+A 5 2 c
+C MACHINA~
+#29109
+boots machina~
+the boots of the {RM{ra{Rc{rh{Ri{rn{Ra{x~
+The boots of {RM{ra{Rc{rh{Ri{rn{Ra{x lies here.~
+hard leather~
+armor ANOT AG
+0 0 0 0 0
+1 55 5000 P
+F
+A 2 2 L
+C MACHINA~
+#29110
+blade machina~
+{RM{ra{Rc{rh{Ri{rn{Ra{x Blade~
+You see a glowing sword lying here.~
+obsidian~
+weapon ABCFMN AN
+sword 1 1 slash DGH
+1 50 5000 P
+C MACHINA~
+#29111
+globe machina~
+the globe of {RM{ra{Rc{rh{Ri{rn{Ra{x~
+The globe of {RM{ra{Rc{rh{Ri{rn{Ra{x lies here.~
+energy~
+light AN AO
+0 0 999 0 0
+25 1 2000 P
+C MACHINA~
+#0
+
+
+
+#ROOMS
+#29100
+Health and Learning Center~
+Flowing here is a beautiful sparkling {Cw{ca{Ct{ce{Cr{cf{Ca{cl{Cl{x.  Surrounding the
+{Cw{ca{Ct{ce{Cr{cf{Ca{cl{Cl{x is wonderfully lush {Ggreen {ggrass{x.  {YNualla{x is here to tend to your
+{Rwounds{x.  
+~
+0 1032 0
+D0
+~
+~
+0 0 29101
+M 300 H 300
+C MACHINA~
+S
+#29101
+Machina Main Hall~
+{BM{by{Bs{bt{Bi{bc{Ba{bl{x shimmering {Yg{yo{Yl{yd{Ye{yn{x light surrounds and encompasses this room.  A
+steady pulsating rhythm much like {Cr{ca{Ci{cn{x can be heard.  Pictures line the
+walls of former days when the people rose up to fight against {RAlys{x, for the
+freedom of their god {RM{ra{Rc{rh{Ri{rn{Ra{x.  The {Wc{wa{Wg{we{x that once held {RM{ra{Rc{rh{Ri{rn{Ra{x captive is on
+display for all to see, as a constant reminder of how {Ypeople{x can promote
+change.  
+~
+0 1032 0
+D0
+~
+door~
+1 0 29104
+D1
+~
+~
+0 0 29102
+D2
+~
+~
+0 0 29100
+D3
+~
+~
+0 0 29103
+C MACHINA~
+S
+#29102
+Machina Supplies~
+The steady clanging of {Dmetal{x and the smell of sulfer {Rburning{x emanates
+from here.  The {ywalls{x are lined with weapons, armor and patches of days gone
+by, some {Yg{yl{Yi{ys{Yt{ye{Yn{x like newly fallen {Cs{cn{Co{cw{x others {Ddull{x with time.  
+~
+0 136 0
+D3
+~
+~
+0 0 29101
+S
+#29103
+Machina's Exchange~
+The {Wpit{x is here for all to use as you see fit, be it to help another or
+help yourself.  Please add to it as often as possible to help your {Yclannies{x
+and as you see fit others.  
+~
+0 1032 0
+D1
+~
+~
+0 0 29101
+C MACHINA~
+S
+#29104
+Entrance to Machina~
+A {Ddirt{x path leads north and south here, bounded on either side by wide
+{Yfields{x of {Ggreen {gg{Gr{ga{Gs{gs{x.  To the south, a {ydoor{x has been set into the hills. 
+Past the door lies the clan hall of {RM{ra{Rc{rh{Ri{rn{Ra{x.  Those {Bd{be{Bd{bi{Bc{ba{Bt{be{Bd{x to change live
+inside, finding ways to improve the lives of others and bring about
+beneficial change through {cpeaceful{x deeds.  There is a {Wplaque{x set over the
+door.
+~
+0 1048584 0
+E
+plaque~
+"The only {Yconstant{x is {Cchange{x."
+~
+D2
+~
+door~
+1 0 29101
+D5
+~
+~
+0 0 3014
+C MACHINA~
+S
+#0
+
+
+
+#SPECIALS
+M 29100 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 29101 0 1
+D 0 29104 2 1
+M 0 29100 1 29100 1
+O 0 29101 0 29100
+O 0 29102 0 29100
+O 0 27301 0 29100
+O 0 27310 0 29100
+M 0 29102 1 29102 1
+G 0 29111 0
+G 0 29110 0
+G 0 29109 0
+G 0 29108 0
+G 0 29107 0
+G 0 29106 0
+G 0 29105 0
+G 0 29104 0
+O 0 27325 0 29103
+O 0 27314 0 29103
+O 0 27311 0 29103
+O 0 29100 0 29103
+M 0 29101 1 29104 1
+S
+
+
+
+#SHOPS
+29102 5 9 10 32 3 90 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

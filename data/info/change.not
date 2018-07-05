@@ -1,0 +1,100 @@
+Sender  Hezekiah~
+Date    Thu Dec 29 20:44:03 2011~
+Stamp   1325220243
+To      all~
+Subject Arena Bug Fixed~
+Text
+There was a crash bug on "Challenge" command.  Thanks to Kober,
+he repaired and fixed it.  Enjoy HELP ARENA!  
+ 
+~
+Sender  Blaise~
+Date    Fri Dec 30 12:59:05 2011~
+Stamp   1325278745
+To      all~
+Subject cure blind potions~
+Text
+Cure blinds can now be seen when your blind 
+~
+Sender  Regnix~
+Date    Mon Jan 16 23:27:34 2012~
+Stamp   1326785254
+To      all~
+Subject Prompt~
+Text
+Prompt color leak is fixed, type prompt all to use new prompt.
+~
+Sender  Locke~
+Date    Thu Nov  8 12:59:58 2012~
+Stamp   1352397598
+To      All~
+Subject Lots of Fixes and Changes~
+Text
+ 
+- A new feature, type 'config ascii' to activate/deactivate, allows
+  the mud to show you ascii graphical drawings for certain mud events.
+- Fixes to flee that make it easier to escape combat, tempered with a new
+  dexterity versus strength check against your opponent.
+- added blink spell to Assassin class
+- Reinstated acolyte skill
+- expanded acolyte skill to warlock, mage, wiccan, witch
+- added alias 'redit name' 'redit title'
+- added alias 'find' to 'vnum' (immortal command)
+- removed mob reverse social spam
+- fixed some in-game objects that needed settings revised (pool table,
+  tables)
+- added keyname portal entry (instead of 'enter manhole' just 'manhole')
+- added window, transparent, jammed, noscan, nomove flags to exits
+- added concealed, secret flags to exit, and new flag 'revealed' (currently
+  unused)
+- added SECT_CLIMB for climbing
+- fixed bug in the who list that would cause a crash (who quest info bug)
+- removed exit flag OLC bug that made it impossible to a name a door 'door'
+- added additional act() codes
+- modified default prompt (supposedly)
+- removed numerous 'dumbass' comments from the source code
+- fix to fread string, 90% faster, less buggy
+- fixed MAIN_GAME_PORT to correct 1111, fixing many systems, enabling
+  persistent notes
+- moved player files to correct directory locations
+- modif ied exits and enhanced exits with NiMUD code
+- fixed str_infix() bugs with two new versions
+- modified help system for more search features and topic reliability
+- added 'immtext' (immortal notes to be added to any help entry)
+- added saving rooms (two days ago)
+- fixed typo with repair (attemps)
+- added features not found on NiMUD in exits (stairs, roads)
+- enhanced movement strings (more NiMUD-like)
+- added alias "note enter" to "note write"
+- added safeguards to fix help file corruption
+- corrected OLC exit modification commands to enable more descri "pti"ve
+exit
+- Use the new help search by entering a partial string match:
+  ie;   help #weapon   or    help #report on
+- I took the liberty of attaching several areas in better places,
+  or attaching areas that were simply unattached.  Three located
+  south of New Thalos (not Old Thalos) which is south of New Midgaard
+  through the southern gates.  The other area is to the west of New
+  Midgaard, north of the Gnarled Tree, Tralfin Moors.
+- Reattached New Thalos western gate
+- Added new area "Old Midgaard" enterable for level 10s via manhole
+ in Meeting Place
+- You can now set and recall to your home using the 'home' command,
+  more information available if you type 'help home'
+~
+Sender  Locke~
+Date    Wed Nov 14 23:04:00 2012~
+Stamp   1352952240
+To      all~
+Subject Recent Fixes/Changes~
+Text
+- Pets were fixed (in the sense that they now save/load and can
+be given things) - Added "meteors" ...  meteors occur rarely and
+even more rarely they strike the 'mud world' causing mobs and objects
+to be thrown around (don't worry about player houses, inside areas,
+safe areas, etc) - Added lightning strikes; in rare instances lightning
+may strike an area causing damage (take cover indoors) - In certain
+months, the weather turns ugly - snow and 'blood rain' which causes
+'feed' command to stop working during those 'game months' - removed
+group level restrictions 
+~

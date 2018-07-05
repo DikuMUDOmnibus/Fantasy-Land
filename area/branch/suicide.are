@@ -1,0 +1,5813 @@
+#AREADATA
+Name Forest of Suicides~
+Builders None~
+VNUMs 700 899
+Credits [100 151] Ronni    Forest of Suicides~
+Security 9
+End
+
+
+
+#MOBILES
+#700
+three headed snake~
+a three headed snake~
+A three headed snake sits here hissing.
+~
+This massive snake stretches out 20 feet long and each of its three heads
+houses venomous teeth.  
+~
+snake~
+AFG 0 O -600 0
+100 0 12d562+2730 1d1+499 25d100+250 bite
+-52 -52 -52 -21
+DFHKMP AB L I
+stand stand none 3500
+GXYc ADEFKLQV medium unknown
+#701
+revenant~
+a revenant~
+A revenant wanders aimlessly.
+~
+Once a mortal, this spirit was stolen than enslaved by the demons of this
+sad forest.  
+~
+heucuva~
+AFG Z 0 -600 0
+104 0 12d607+2905 0d0+0 25d105+260 wrath
+-55 -55 -55 -22
+FGHIKPV ABLMQ D NSY
+stand stand none 4000
+ACIM ABCGHIJV medium unknown
+#702
+animated corpse~
+an animated corpse~
+A corpse has come to life.
+~
+Though well into the decaying process, this corpse has found "life".  
+~
+heucuva~
+AFG Z 0 -600 0
+104 0 12d607+2905 1d1+499 25d105+260 punch
+-55 -55 -55 -22
+FHIKOP ABLMQ D NSY
+stand stand none 4000
+ACIM ABCGHIJV medium unknown
+#703
+blood wolf~
+a blood wolf~
+A blood red wolf scours the area.
+~
+A large, muscular wolf with blood red fur hunts the area looking for
+prey.  It glances up briefly in your direction with black eyes and growls.  
+~
+wolf~
+ACFG Z 0 -600 0
+105 0 12d619+2950 1d1+499 40d105+260 bite
+-55 -55 -55 -22
+FH AB 0 0
+stand stand male 4000
+GV ACDEFJKQU medium unknown
+#704
+dire bat~
+a dire bat~
+A dire bat is hanging from the trees.
+~
+A large blood red bat flys around looking for a meal.
+~
+bat~
+AFG TZ 0 -600 0
+110 0 12d679+3175 1d1+499 50d105+285 blast
+-58 -58 -58 -24
+FH AB 0 S
+stand stand female 4500
+GV ACDEFHJKP medium unknown
+#705
+demon crow~
+a demon crow~
+A demon crow dives towards you!
+~
+This crow is larger than most and has blood red feathers.  Its size can
+be attributed to the abundance of carrion located in the area.  
+~
+song bird~
+ACFG T 0 -600 0
+115 0 12d743+3405 1d1+499 50d105+285 peck
+-61 -61 -61 -25
+FH AB 0 0
+stand stand male 4500
+GW ACDEFHKP medium unknown
+#706
+Thaymar blackguard~
+Thaymar, the {DBlackguard{x~
+Thaymar the Blackguard patrols the plains.
+~
+He patrols the area slowly looking to rid the forest of any outsiders.  
+~
+giant~
+AFGT DFPc CDH -1000 0
+135 0 13d1247+5465 1d1+499 60d260+2500 cleave
+-86 -86 -86 -38
+BDFHIK AB HI JP
+stand stand male 20000
+AMV ABCDEFGHIJK medium unknown
+#707
+miroe foe hunter~
+Miroe the {bFoe{rslayer{x~
+Miroe the Foeslayer hunts.
+~
+He sneaks stealthily along looking for more sport.  
+~
+giant~
+AFGT DFPc CEHO -1000 0
+135 0 13d1247+5465 1d1+499 60d260+2500 slash
+-86 -86 -86 -38
+BDFHIK AB HI JP
+stand stand none 20000
+AMV ABCDEFGHIJK medium unknown
+#708
+foevia nightcloak~
+Foevia, the {DNight{xcloak~
+A woman dressed in black hisses.
+~
+She turns quickly towards you and hisses showing off her fangs.  
+~
+giant~
+AFGP DFPc EHO -1000 0
+135 0 13d1247+5465 1d1+499 60d260+2500 bite
+-86 -86 -86 -38
+BDFHIKV AB HI JP
+stand stand female 20000
+AMV ABCDEFGHIJK medium unknown
+#709
+giant spider~
+a giant spider~
+A giant spider is here spinning its web
+~
+This spider stretches approximately 8 feet high and stands 6 feet tall. 
+It busily attends to its web trying to catch its next meal.  
+~
+modron~
+AFG J 0 -750 0
+116 0 12d755+3450 1d1+499 60d105+350 bite
+-62 -62 -62 -26
+QR ABMNPQ HIK 0
+stand stand female 7000
+BH ABCGHJK medium unknown
+#710
+phase spider~
+a phase spider~
+A phase spider halts.
+~
+This large spider turns away from its web spinning and turns to face you
+with its human-like head.  
+~
+modron~
+AFG J 0 -750 0
+120 0 12d808+3640 1d1+499 60d105+350 bite
+-62 -62 -62 -26
+QR ABMNPQ HIK 0
+stand stand male 7000
+BH ABCGHJK medium unknown
+#711
+wraith spider~
+a wraith spider~
+A wraith spider approaches.
+~
+This large spider is decaying in spite of its animation.  
+~
+modron~
+AFG J 0 -750 0
+125 0 12d877+3885 1d1+499 60d105+350 bite
+-68 -68 -68 -28
+QRV ABMNPQ HIK 0
+stand stand male 7000
+BH ABCGHJK medium unknown
+#712
+melith arcane archer woman~
+Melith, the {YArcane{B Archer{x~
+A woman aims her bow in your direction.
+~
+She's dressed in a long robe and her raven hair seems to glow in the dark.  
+~
+human~
+ABFGR DFV CEHO -1000 0
+145 0 13d1405+6210 1d1+499 60d260+3000 slap
+-93 -93 -93 -41
+FGHK AB 0 0
+stand stand female 20000
+AMV ABCDEFGHIJK medium unknown
+#713
+ethalik blood magus man~
+Ethalik, the {rBlood{Ymagus{x~
+A man, here, is chanting.
+~
+He stands here chanting incoherently with a concentrated glare in your
+direction.  
+~
+human~
+ABFGR DFV CDHO -1000 0
+145 0 13d1405+6210 1d1+499 60d260+3000 punch
+-93 -93 -93 -41
+FGHK AB 0 0
+stand stand male 20000
+AMV ABCDEFGHIJK medium unknown
+#714
+unalia spell dancer woman~
+Unalia, the {CSpell{Wdancer{x~
+A woman is here playing with a flame.
+~
+She has long blonde hair that seems to move with ease when introduced to
+the slightest breeze.  She also seems to sing as she chants her spells.  
+~
+human~
+ABFGR DFV CDHO -1000 0
+145 0 13d1405+6210 1d1+499 60d260+3000 slap
+-93 -93 -93 -41
+FGHK AB 0 0
+stand stand female 20000
+AMV ABCDEFGHIJK medium unknown
+#715
+war dog~
+a war dog~
+A war dog is here sniffing the ground.
+~
+A large, muscular dog turns and gives a narrow stare through solid, black
+eyes.  
+~
+wolf~
+AFG Z 0 -800 0
+125 0 12d877+3885 1d1+499 65d105+350 bite
+-68 -68 -68 -28
+FH AB 0 0
+stand stand female 9000
+GV ACDEFJKQU medium unknown
+#716
+dire wolf~
+a dire wolf~
+A dire wolf is here looking for carrion.
+~
+A big, grey wolf is moving hastily looking for food.  
+~
+wolf~
+AFG Z 0 -800 0
+130 0 12d949+4135 1d1+499 65d105+350 bite
+-71 -71 -71 -30
+FH AB 0 0
+stand stand male 9000
+GV ACDEFJKQU medium unknown
+#717
+winter wolf~
+a {Wwinter{x wolf~
+A large white wolf is here watching.
+~
+This large, white wolf is here maintaining an experienced hunting eye.  
+~
+wolf~
+AFG Z 0 -800 0
+135 0 12d1023+4390 1d1+499 65d105+350 bite
+-74 -74 -74 -31
+FH AB 0 0
+stand stand male 9000
+GV ACDEFJKQU medium unknown
+#718
+Jerirach man black horseman~
+Jerirach, the {DBlack{X {WHorseman{x~
+A man dressed entirely in black searches.
+~
+~
+theiwar~
+AFGT DFJc DEHO -1000 0
+155 0 13d1560+6750 1d1+499 60d260+3500 pound
+-99 -99 -99 -44
+BCDEFHIK AB 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+F res BIM
+F vul NSZ
+#719
+caecan man consecrated harrier~
+Caecan, the {CConsecrated{G Harrier{x~
+A man carrying a spear looks.
+~
+He has sworn his life to the art of hunting.  Even in the absence of
+light, his spear still shimmers.  
+~
+theiwar~
+AFGT DFJc DEHO -1000 0
+155 0 13d1560+6750 1d1+499 60d260+3500 pound
+-99 -99 -99 -44
+BCDEFHIK AB 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+F res BIM
+F vul NSZ
+#720
+gau man dreadmaster~
+Gau, the {DDread{rmaster{x~
+A man is here feeding on bodies.
+~
+A man dressed in long, red robes turns away from his meal to recognize
+the intrusion.  His focus has now changed.  
+~
+theiwar~
+AFGP DFJc DEHO -1000 0
+155 0 13d1560+6750 1d1+499 60d260+3500 pound
+-99 -99 -99 -44
+BCDEFHIKV ABM 0 NS
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+F res BIM
+F vul Z
+#721
+mist wraith~
+a mist wraith~
+A wraith made of mist is moaning.
+~
+This soul captured by the mist takes out its aggression on intruders.  
+~
+heucuva~
+AFGT Z 0 -850 0
+135 0 12d1023+4390 0d0+0 70d105+400 pierce
+-74 -74 -74 -31
+BFGHK ABLMQ D NSY
+stand stand female 7000
+ACIM ABCGHIJV medium unknown
+#722
+shadow~
+a shadow~
+A shadow wanders the area.
+~
+This soul was captured by the darkness.  It now roams aimlessly, seeking
+peace.  
+~
+heucuva~
+AFGT Z 0 -850 0
+140 0 13d1015+4650 0d0+0 70d105+400 pierce
+-77 -77 -77 -33
+BFGHK ABLMQ D NSY
+stand stand female 7000
+ACIM ABCGHIJV medium unknown
+#723
+spectre~
+a spectre~
+A spectre is exploring the landscape.
+~
+Once someone tangible, this soul is now a servant to the darkness.  
+~
+heucuva~
+AFGT Z 0 -850 0
+145 0 13d1089+4915 0d0+0 70d105+400 pierce
+-80 -80 -80 -35
+BFGHK ABLMQ D NSY
+stand stand female 7000
+ACIM ABCGHIJV medium unknown
+#724
+skeleton warrior~
+a skeleton warrior~
+A skeleton warrior is here.
+~
+There is no flesh left on this animated corpse, just ivory white bone.  
+~
+heucuva~
+AFGT Z 0 -900 0
+145 0 13d1089+4915 1d1+499 75d105+450 punch
+-80 -80 -80 -35
+CDEFHIK ABLMQ D NSY
+stand stand female 8500
+ACIM ABCGHIJV medium unknown
+#725
+wolverine~
+a wolverine~
+A wolverine is here hunting.
+~
+This stocky, dark furred creature readies its sharp claws.  
+~
+wolf~
+AFG Z 0 -900 0
+150 0 13d1166+5190 1d1+499 75d105+450 scratch
+-83 -83 -83 -36
+CDEFHK AB 0 0
+stand stand male 8500
+GV ACDEFJKQU medium unknown
+#726
+pithien soulstealer man~
+Pithien, the {ySoul{WStealer{x~
+A man is here working on a corpse.
+~
+He is outfitted in dark robes and wields a large scythe.  He is taking
+the souls of the dead and making them his slaves.  
+~
+heucuva~
+AFGP DFTUZ CDHO -1000 0
+165 0 13d1706+6976 1d1+499 60d260+4000 bite
+-105 -105 -105 -48
+DEFGHKV ABLMQ D NSY
+stand stand male 100000
+ACIM ABCGHIJV medium unknown
+#727
+Gwelle ghostwalker woman~
+Gwelle, the {WGhost{MWalker{x~
+A woman is here wandering.
+~
+She wanders amongst the spirits, leading them like a shepherd.  
+~
+heucuva~
+AFGP DFTUZ CDHO -1000 0
+165 0 13d1706+6976 1d1+499 60d260+4000 bite
+-105 -105 -105 -48
+DEFGHKV ABLMQ D NSY
+stand stand female 100000
+ACIM ABCGHIJV medium unknown
+#728
+alawyr shadowdancer man~
+Alawyr, the {DShadow{gDancer{x~
+A man is here animating the spirits.
+~
+He chants some incoherent cantations, making the spirits dance.  
+~
+heucuva~
+AFGP DFTUZ CDHO -1000 0
+165 0 13d1706+6976 1d1+499 60d260+4000 bite
+-105 -105 -105 -48
+DEFGHKV ABLMQ D NSY
+stand stand male 100000
+ACIM ABCGHIJV medium unknown
+#729
+vampire~
+a vampire~
+A vampire shows you his fangs.
+~
+The vampire bears his fangs, readying itself to condemn your soul.  
+~
+heucuva~
+AFGP Z 0 -900 0
+155 0 13d1247+5465 1d1+499 75d105+450 bite
+-86 -86 -86 -38
+CDEFHKV ABLMQ D NSY
+stand stand male 8500
+ACIM ABCGHIJV medium unknown
+#730
+etau darkmask man~
+Etau, the {DDark{mmask{x~
+A man throws a fireball in your direction!
+~
+He bears the mark of the serpent clan and vows to take souls in its name.  
+~
+titan~
+AFGR DFa CEHO -1000 0
+175 0 13d1855+7460 1d1+499 60d260+5000 acbite
+-111 -111 -111 -51
+EFHIKN AB 0 0
+stand stand male 120000
+AHMV ABCDEFGHIJK medium unknown
+F res D
+#731
+Broha planeshifter man~
+Broha, the {CPlane{BShifter{x~
+There is a man phasing in and out of existence.
+~
+He bears the scarab, swearing allegiance to his god.  
+~
+titan~
+AFGR DFUa CEHO -1000 0
+175 0 13d1855+7460 1d1+499 60d260+5000 acbite
+-111 -111 -111 -51
+EFHIKN AB 0 0
+stand stand male 120000
+AHMV ABCDEFGHIJK medium unknown
+F res D
+#732
+Afajar soulknife man~
+Afajar, the {GSoul{YKnife{x~
+There is a man here playing with a blade.
+~
+He readies his dagger in anticipation.  
+~
+titan~
+AFGS DFUa CEHO -1000 0
+175 0 13d1855+7460 1d1+499 60d260+5000 acbite
+-111 -111 -111 -51
+EFHIKN AB 0 0
+stand stand male 120000
+AHMV ABCDEFGHIJK medium unknown
+F res D
+#733
+baneguard guard~
+a Baneguard~
+A Banguard is here protecting its master.
+~
+This protector is dressed in red garments covering every part of the part
+of the body.  
+~
+titan~
+AFGT Da 0 -1000 0
+155 0 13d1247+5465 1d1+499 80d105+500 punch
+-86 -86 -86 -38
+DEFHIJKN AB D 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#734
+bonespitter~
+a bonespitter~
+A Bonespitter is here eating a cadaver.
+~
+This mutated creature looks back and displays a large mouth bearing
+jagged, razor sharp teeth.  
+~
+titan~
+AFGT Da 0 -1000 0
+160 0 13d1322+5840 1d1+499 80d105+500 chomp
+-90 -90 -90 -40
+DEFHIJKN AB D 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#735
+dread warrior~
+a Dread Warrior~
+A Dread Warrior is marching at a hasty pace.
+~
+This gigantic creature is moving along with a sense of purpose.  It is
+dressed entirely in red, and emits a dull humming noise.  
+~
+titan~
+AFGT Da 0 -1000 0
+165 0 13d1405+6210 1d1+499 80d105+500 slash
+-93 -93 -93 -41
+DEFHIJKN AB D 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#736
+Johared crimson rider man~
+Johared, the {RCrimson{BRider{x~
+A heavily armored man in red is here.
+~
+He wanders around periodically tossing his large quarterstaff in the air.  
+~
+titan~
+AFGT DFa CDEHO -1000 0
+185 0 14d1876+7980 1d1+499 60d260+6000 slash
+-117 -117 -117 -54
+DEFHIJKN AB D 0
+stand stand male 150000
+AHMV ABCDEFGHIJK medium unknown
+#737
+Vyt red avenger~
+Vyt, the {RRed{WAvenger{x~
+A man brandishing a large sword is here.
+~
+He travels the plains with his sword always at the ready.  
+~
+titan~
+AFGT DFa CDEHO -1000 0
+185 0 14d1876+7980 1d1+499 60d260+6000 slash
+-117 -117 -117 -54
+DEFHIJKN AB D 0
+stand stand male 150000
+AHMV ABCDEFGHIJK medium unknown
+#738
+Kerrania red wizard woman~
+Kerrania, the {RRed{YWizard{x~
+A woman dressed it red is here.
+~
+~
+titan~
+AFGT DFa CDEHO -1000 0
+185 0 14d1876+7980 1d1+499 60d260+6000 slash
+-117 -117 -117 -54
+DEFHIJKN AB D 0
+stand stand female 150000
+AHMV ABCDEFGHIJK medium unknown
+#739
+giant constrictor~
+a giant constrictor~
+A giant constrictor is coiled up here.
+~
+This unusually large constrictor hisses, displaying its equally large
+forked tongue.  
+~
+snake~
+AFG 0 0 -1000 0
+165 0 13d1405+6210 1d1+499 85d105+550 crush
+-93 -93 -93 -41
+EFHKO AB L I
+stand stand female 11000
+GXYc ADEFKLQV medium unknown
+#740
+stalker~
+a stalker~
+A stalker is lurking in the shadows.
+~
+This non-descript humaniod appears to be merely a faceless black being.  
+~
+titan~
+AFG DPa B -1000 0
+170 0 13d1405+6210 1d1+499 85d105+550 pierce
+-96 -96 -96 -43
+BEFHIKO AB DL I
+stand stand female 11000
+AGHMV ABCDEFGHIJKV medium unknown
+#741
+mutated gibberling~
+a mutated gibberling~
+A mutated gibberling leaps out!
+~
+This small, troll-like creature shows signs of mutation at magical hands.  
+~
+titan~
+AFG DPa 0 -1000 0
+175 0 13d1405+6210 1d1+499 85d105+550 punch
+-99 -99 -99 -44
+BEFHIKO AB DL I
+stand stand female 11000
+AGHMV ABCDEFGHIJKV medium unknown
+#742
+voeloth ancestral avenger man~
+Voeloth, the {RAncestral{MAvenger{x~
+A man walks around with a large axe.
+~
+He wields a large axe and bears the burden of his eternity spent slaying
+intruders of this forest.  
+~
+titan~
+AFGT DFa CDEHOQ -1000 0
+195 0 24d2814+23940 1d1+499 60d260+7000 slash
+-123 -123 -123 -57
+DEFHIJKN AB D 0
+stand stand male 175000
+AHMV ABCDEFGHIJK medium unknown
+#743
+koissi battle maiden woman~
+Koissi, the {YBattle{WMaiden{x~
+A muscular woman is readying her whip.
+~
+She is a hardened battle veteran, bearing the scars of many wars.  
+~
+theiwar~
+AFGT DFJc CDEHOQ -1000 0
+155 0 24d2814+23940 1d1+499 60d260+7000 pound
+-123 -123 -123 -57
+BCDEFHIK AB 0 0
+stand stand female 175000
+AHMV ABCDEFGHIJK medium unknown
+F res BIM
+F vul NSZ
+#744
+Fayvia wind rider~
+Fayvia, the {BWind{DRider{x~
+A stealthy looking woman aims her pike.
+~
+She appears to be flying, but bears no wings or special equpiment for
+that purpose.  
+~
+theiwar~
+AFGT DFJc CDEHOQ -1000 0
+195 0 24d2814+23940 1d1+499 60d260+7000 pound
+-123 -123 -123 -57
+BCDEFHIK AB 0 0
+stand stand female 175000
+AHMV ABCDEFGHIJK medium unknown
+F res BIM
+F vul NSZ
+#745
+jiki niku gaki~
+a Jiki-Niku Gaki~
+A Jiki-Niku-Gaki is haunting the shrine.
+~
+It has a humanoid figure, but has dry flaky skin.  It wears fithy,
+decaying robes and has deep set bloodshot eyes, claws and many sharp teeth
+to aid in the consumption of its flesh filled diet.  
+~
+heucuva~
+AFGP Z 0 -1000 0
+180 0 13d1635+6700 1d1+499 95d105+600 scratch
+-102 -102 -102 -46
+EFHIKV ABLMQ D NSY
+stand stand female 20000
+ACIM ABCGHIJV medium unknown
+#746
+shik ki gaki~
+a Shik-Ki Gaki~
+A Shik-Ki Gaki is looking for live flesh.
+~
+This disease ridden humanoid figure has gray, decaying skin that flakes
+away with each movement.  It has bloodshot eyes, sharp claws and rotten,
+blunt teeth.  It is still wearing some bandages from its mummified remains. 
+~
+heucuva~
+AFGP Z 0 -1000 0
+175 0 13d1635+6700 1d1+499 95d105+600 scratch
+-99 -99 -99 -44
+EFHIKV ABLMQ D NSY
+stand stand female 20000
+ACIM ABCGHIJV medium unknown
+#747
+jiki ketsu gaki~
+a Jiki-Ketsu Gaki~
+A Jiki-Ketsu Gaki saunters around.
+~
+This undead, humanoid figure has an insatiable appetite for blood.  It
+bears sharp, yellow fangs and equally dangerous claws.  
+~
+heucuva~
+AFGP Z 0 -1000 0
+185 0 13d1706+6976 1d1+499 95d105+600 scratch
+-105 -105 -105 -48
+EFHIKV ABLMQ D NSY
+stand stand female 20000
+ACIM ABCGHIJV medium unknown
+#748
+galoeven bladesinger woman~
+Galoeven, the {MBlade{WSinger{x~
+A slender woman is practicing with her fang.
+~
+She is dressed in robes and wields a dangerous looking fang.  
+
+~
+theiwar~
+AFGT DFJc CDEHOQ -1000 0
+205 0 48d2814+48000 1d1+499 60d260+9000 pound
+-129 -129 -129 -60
+BCDEFHIK AB 0 0
+stand stand female 200000
+AHMV ABCDEFGHIJK medium unknown
+F res BIM
+F vul NSZ
+#749
+Thoelath warmaster man~
+Thoelath, the {YWar{BMaster{x~
+A gigantic man readies his axe.
+~
+This large, muscular man is bearing arms equalling his frame.  He shows
+the scars of many past battles.  
+~
+theiwar~
+AFGT DFJc CDEHOQ -1000 0
+205 0 48d2814+48000 1d1+499 60d260+9000 pound
+-129 -129 -129 -60
+BCDEFHIK AB 0 0
+stand stand male 200000
+AHMV ABCDEFGHIJK medium unknown
+F res BIM
+F vul NSZ
+#750
+kageharu maho bujin man~
+Kageharu, the {DMaho{W-{RBujin{x~
+A man in black leaps out!
+~
+He wields a magical sword and bears all manners of black garments.  The
+light clothing allows for agile, cat-like movements.  
+~
+theiwar~
+AFGT DFJc CDEHOQ -1000 0
+205 0 48d2814+48000 1d1+499 60d260+9000 pound
+-129 -129 -129 -60
+BCDEFHIK AB 0 0
+stand stand male 200000
+AHMV ABCDEFGHIJK medium unknown
+F res BIM
+F vul NSZ
+#751
+wyste~
+a Wyste~
+A large worm blocks the path.
+~
+It is a large worm that attacks and defends itself with large tentacles
+protruding from the mouth.  
+~
+titan~
+AFGP DFZa 0 -1000 0
+190 0 13d1785+7210 1d1+499 110d105+650 pound
+-108 -108 -108 -49
+EFHIKV AB D 0
+stand stand male 25000
+ACGH DEFN medium unknown
+F for MV
+F par ABCGHIJK
+#752
+chuul~
+a chuul~
+A chuul is in the way.
+~
+It bears pincer like claws, four legs and a mandibled mouth with a mass
+of writhing tentacles.  Its body is encased in a large orange and black
+shell.  
+~
+titan~
+AFGP DFZa 0 -1000 0
+185 0 13d1706+6976 1d1+499 110d105+650 claw
+-105 -105 -105 -48
+EFHIKV AB D 0
+stand stand female 25000
+ACGHQ ABCDEFIKNU medium unknown
+F for MV
+F par GHJ
+#753
+ragewing~
+a Ragewing~
+A Ragewing dives in.
+~
+This bipedal dragon bears razor sharp claws and teeth.  There is also
+smoke emanating from its mouth.  
+~
+silver-dragon~
+AFGT JT 0 -1000 0
+195 0 13d1855+7460 1d1+499 110d105+650 blast
+-111 -111 -111 -51
+BCDEFHIKN ABI BCQ 0
+stand stand male 25000
+ACHZ ABCDEFGHIJKPQUVWX medium unknown
+F vul H
+#754
+rayjar dragonkith man~
+Rayjar, the {RDr{rag{Wo{Dn{rki{Rth{x~
+A man wearing a dragon's skull is here.
+~
+This gargantuan man bears a dragon's skull and an evil trident and is a
+loyal servant to his dragon clan.  
+~
+theiwar~
+ABFGT DFJc CDEHQ -1000 0
+205 0 48d2814+70000 1d1+499 7d270+10000 pound
+-129 -129 -129 -60
+BCDEFHIK AB CD 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+F res BIM
+F vul NSZ
+#755
+cykin fatespinner man~
+Cykin, the {GFa{gte{Ws{Dp{Wi{gnn{Ger{x~
+A man is here realigning the stars.
+~
+At a whim, this man has the ability to alter destinies.  He bears a
+magical sceptre and omnipotence.  
+~
+theiwar~
+ABFGT DFJc CDEHQ -1000 0
+205 0 48d2814+70000 1d1+499 7d270+10000 pound
+-129 -129 -129 -60
+BCDEFHIK AB CD 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+F res BIM
+F vul NSZ
+#756
+rhomared wishmaster man~
+Rhomared, the {CWi{csh{Wma{cst{Cer{x~
+An aged man awaits.
+~
+He has the ability to make any dream come true.  He is the Wishmaster.  
+~
+theiwar~
+ABFGT DFJc CDEHOQ -1000 0
+210 0 48d2814+85000 1d1+499 7d270+11000 pound
+-132 -132 -132 -61
+BCDEFHIK AB CD 0
+stand stand male 25000
+AHMV ABCDEFGHIJK medium unknown
+F res BIM
+F vul NSZ
+#0
+
+
+
+#OBJECTS
+#700
+blood red pool~
+a {Rblood red{x pool~
+A {Rblood red{x pool of water sits here.~
+blood~
+portal 0 0
+-2 0 0 740 0
+0 0 0 P
+#701
+ebony guisarm~
+an {Debony{x guisarm~
+A black polearm has been tossed away.~
+ebony~
+weapon C AN
+polearm 10 16 thrust C
+80 15 9000 P
+#702
+ethereal plate sleeve~
+{DEthereal{x plated sleeves~
+A set of black sleeves is in the dirt.~
+etherealness~
+armor C AI
+21 19 20 14 0
+80 12 17500 P
+A
+5 2
+A
+13 120
+#703
+entropy patch~
+{DEnt{rro{Dpy{x~
+A dark patch symbolizing chaos has been thrown away.~
+silk~
+armor C AV
+20 20 20 14 0
+80 5 14000 P
+A
+13 100
+A
+18 1
+A
+12 50
+E
+an eyepatch~
+A skirt made of bone is here.~
+#704
+double edged cleaver~
+a double {De{wdge{Dd{x cleaver~
+A cleaver with 2 blades glistens here.~
+ebony~
+weapon C AN
+axe 10 16 chop DH
+80 15 9000 P
+F
+S 20 -1 N
+#705
+eye patch eyepatch~
+an eyepatch~
+An eyepatch has been discarded.~
+silk~
+armor C AR
+20 20 20 14 0
+80 5 14000 P
+A
+13 30
+A
+18 8
+A
+19 8
+A
+20 -10
+#706
+bonescale skirt~
+a {Wbone{xscale skirt~
+A skirt made of bone is here.~
+bone~
+armor C AF
+20 20 20 14 0
+80 5 14000 P
+A
+19 4
+A
+13 140
+#707
+vampiric crystal dagger crysdagger~
+a {rvampiric {ccrys{xdagger~
+A crystal dagger has been tossed aside.~
+crystal~
+weapon C AN
+dagger 10 16 stab CDH
+80 15 9000 P
+A
+13 130
+A
+18 6
+#708
+flesh hide slippers~
+{Mflesh{x hide slippers~
+Slippers made of human flesh have been tossed away.~
+flesh~
+armor C AG
+20 20 20 14 0
+80 5 14000 P
+A
+19 4
+A
+13 140
+#709
+serrated gloves~
+{yserrated{x gloves~
+A pair of gloves with razors running along the outside have been discarded.~
+flesh~
+armor C AH
+20 20 20 14 0
+80 5 14000 P
+A
+19 4
+A
+13 140
+#710
+rock~
+a large rock~
+A large rock is here blocking the path.~
+rock~
+portal 0 0
+-2 0 0 760 0
+0 0 0 P
+#711
+shadows~
+the {Dshadows{x~
+The {Dshadows{x seem alive.~
+rock~
+portal 0 0
+-2 0 0 780 0
+0 0 0 P
+#712
+mist~
+{gmist{x~
+The {gmist{x hovers here.~
+rock~
+portal 0 0
+-2 0 0 800 0
+0 0 0 P
+#713
+pit~
+a pit~
+A pit is here in the ground.~
+rock~
+portal 0 0
+-2 0 0 820 0
+0 0 0 P
+#714
+fog~
+{bfog{x~
+The {bfog{x is rather thick here.~
+rock~
+portal 0 0
+-2 0 0 840 0
+0 0 0 P
+#715
+orb~
+an {Yorb{x~
+An orb hovers here.~
+rock~
+portal 0 0
+-2 0 0 700 0
+0 0 0 P
+#716
+eye~
+an {meye{x~
+An {meye{x watches you.~
+rock~
+portal 0 0
+-2 0 0 700 0
+0 0 0 P
+#717
+mirror~
+a {Bmirror{x~
+A mirror is here reflecting.~
+rock~
+portal 0 0
+-2 0 0 880 0
+0 0 0 P
+#718
+fire~
+a {Rfire{x~
+A {Rfire{x burns here.~
+rock~
+portal 0 0
+-2 0 0 700 0
+0 0 0 P
+#719
+veil~
+a {yveil{x~
+A {yveil{x hangs here.~
+rock~
+portal 0 0
+-2 0 0 700 0
+0 0 0 P
+#720
+wheel~
+a {Wwheel{x~
+A {Wwheel{x is on the ground.~
+rock~
+portal 0 0
+-2 0 0 700 0
+0 0 0 P
+#721
+wall~
+a {cwall{x~
+A {cwall{x is in the way.~
+rock~
+portal 0 0
+-2 0 0 860 0
+0 0 0 P
+#722
+shield~
+a {Yshield{x~
+A {Yshield{x floats in midair.~
+rock~
+portal 0 0
+-2 0 0 700 0
+0 0 0 P
+#723
+painting~
+a {Gpainting{x~
+A {Gpainting{x hangs on the wall~
+rock~
+portal 0 0
+-2 0 0 700 0
+0 0 0 P
+#724
+tapestry~
+a {Rtapestry{x~
+A {Rtapestry{x is hanging here.~
+rock~
+portal 0 0
+-2 0 0 700 0
+0 0 0 P
+#725
+prismatic bow~
+the {RPr{Gi{Ys{Bm{Ma{Ct{Wic{x Bow~
+A bow emitting many colours is on the ground.~
+oldstyle~
+weapon AEGI AN
+exotic 15 15 magic BDF
+90 10 12100 P
+A
+13 110
+A
+18 5
+A
+19 8
+#726
+necklace glass~
+a {Wglass{x necklace~
+A necklace made of glass lies in the dirt.~
+glass~
+armor AI AC
+24 24 24 23 0
+90 50 10000 P
+A
+12 70
+A
+3 4
+A
+13 110
+#727
+leather gorget~
+a heavy {yleather{x gorget~
+A gorget made of leather is on the ground.~
+leather~
+armor AI AK
+24 24 24 23 0
+90 50 10000 P
+A
+18 5
+A
+13 75
+A
+17 -20
+#728
+flail barbed~
+a barbed flail~
+A flail with barbs has been discarded.~
+oldstyle~
+weapon AEGI AN
+flail 15 15 pound AD
+90 10 12100 P
+A
+13 110
+A
+18 5
+A
+19 8
+#729
+ring star~
+a {Ygold{Wstar{x ring~
+A gold ring with star on it is on the ground.~
+glass~
+armor AI AB
+24 24 24 23 0
+90 50 10000 P
+A
+13 90
+A
+5 2
+A
+12 80
+#730
+orb bleeding~
+a {Rbleeding{x orb~
+An orb dripping blood is on the ground.~
+glass~
+armor AI AQ
+24 24 24 23 0
+90 50 10000 P
+A
+19 4
+A
+13 90
+A
+2 3
+#731
+fire whip firewhip~
+a {Rfire{Bwhip{x~
+A whip alight with flames at the end is burning here.~
+oldstyle~
+weapon AEGI AN
+whip 15 15 flame AD
+90 10 12100 P
+A
+13 60
+A
+19 6
+A
+18 6
+#732
+engraved silver bracelet~
+an engraved {Wsilver{x bracelet~
+A silver bracelet with engravings is here.~
+glass~
+armor AI AM
+24 24 24 23 0
+90 50 10000 P
+A
+19 11
+A
+4 3
+A
+13 110
+#733
+crescent tunic~
+a tunic with a {Ycrescent{x~
+A tunic with a picture of a crescent is in the dirt.~
+glass~
+armor AI AW
+24 24 24 23 0
+90 50 10000 P
+A
+19 11
+A
+4 3
+A
+13 110
+#734
+spirit morningstar~
+the {Wspirit{x {Ymorning{Wstar{x~
+A morning star with a skull is collecting dust.~
+steel~
+weapon ABG AN
+mace 14 19 pound BG
+100 30 40000 P
+A
+19 11
+A
+4 3
+A
+13 110
+#735
+mark wolf~
+mark of the {rWolf{x~
+A patch bearing the symbol of a wolf has been tossed aside.~
+unknown~
+armor BG AV
+28 28 28 26 0
+100 10 20000 P
+A
+19 10
+A
+13 140
+#736
+black barbute~
+a {Dblack{X barbute~
+A black helmet is on the ground.~
+unknown~
+armor BG AE
+28 28 28 26 0
+100 10 20000 P
+A
+19 5
+A
+1 2
+A
+5 5
+#737
+diamond spear~
+a {Wdiamond{x-tipped spear~
+A spear with a diamond tip is glistening.~
+steel~
+weapon ABG AN
+staff 14 19 thrust DE
+100 30 40000 P
+A
+19 11
+A
+4 3
+A
+13 110
+#738
+platinum girth~
+a {Wplatinum{x girth~
+A girth made of platinum is on the ground.~
+unknown~
+armor BG AL
+28 28 28 26 0
+100 10 20000 P
+A
+18 9
+A
+12 60
+A
+13 105
+#739
+anklet flaming cross~
+an anklet with a {Rflaming{x cross~
+An anklet bearing a flaming cross is on the ground.~
+unknown~
+armor BG AT
+28 28 28 26 0
+100 10 20000 P
+A
+13 125
+A
+5 5
+#740
+sword beheading~
+a sword of {rbeheading{x~
+An extremely sharp sword is sticking in the ground.~
+steel~
+weapon ABG AN
+sword 14 19 slash CDE
+100 30 40000 P
+A
+19 11
+A
+4 3
+A
+13 110
+#741
+bone hoop earring~
+a hoop earring made of {Wbone{x~
+A hoop earring made of bone is on the ground.~
+unknown~
+armor BG AS
+28 28 28 26 0
+100 10 20000 P
+A
+18 12
+A
+13 140
+#742
+backplate bone~
+a {Wbone{x backplate~
+A backplate made of bone is on the ground.~
+unknown~
+armor BG AX
+28 28 28 26 0
+100 10 20000 P
+A
+19 6
+A
+13 125
+A
+5 5
+#743
+reaper scythe~
+a {rReaper{x scythe~
+A large scythe is on the ground.~
+steel~
+weapon ABG AN
+axe 15 20 slice BC
+110 30 40000 P
+A
+18 8
+A
+19 2
+A
+18 2
+A
+17 -10
+#744
+black gloves~
+{Dblack{x gloves~
+A pair of black gloves is on the ground.~
+unknown~
+armor CG AH
+30 30 30 29 0
+110 6 20000 P
+A
+17 -10
+#745
+candle black flame~
+a candle with a {Dblack{x flame~
+A candle burning with a black flame is in the dirt.~
+unknown~
+armor CG AO
+30 30 30 29 0
+110 6 20000 P
+A
+3 4
+A
+13 140
+#746
+thorned vine~
+a thorned {Gvine{x~
+A vine with thorns has been thrown away.~
+vine~
+weapon ABG AN
+whip 15 20 sting DG
+110 30 40000 P
+#747
+kid leather boots~
+a pair of soft {ykid leather{x boots~
+A pair of boots made of kid leather have been discarded.~
+unknown~
+armor CG AG
+30 30 30 29 0
+110 6 20000 P
+A
+13 140
+A
+17 -20
+A
+19 5
+A
+5 2
+#748
+red runed bracer~
+a {Rred{x runed bracer~
+A bracer with red runes is on the ground.~
+unknown~
+armor CG AMO
+30 30 30 29 0
+110 6 20000 P
+A
+4 4
+A
+3 4
+A
+13 140
+#749
+poison barbed flail~
+a {gpoison{x barbed flail~
+A flail with poisoned barbs has been thrown away.~
+vine~
+weapon ABG AN
+flail 15 20 sting CDH
+110 30 40000 P
+#750
+belt bone trimmed~
+a {Wbone{x trimmed belt~
+A belt with bone trim is on the ground.~
+unknown~
+armor CG AL
+30 30 30 29 0
+110 6 20000 P
+F
+A 2 4 V
+F
+S 20 -1 N
+#751
+dark aura~
+a {Ddark{x aura~
+A black shadow hangs above you.~
+unknown~
+armor CG AQ
+30 30 30 29 0
+110 6 20000 P
+A
+13 150
+A
+12 150
+A
+20 -3
+#752
+hooked fauchard~
+a hooked fauchard~
+A fauchard with a hook is on the ground.~
+steel~
+weapon ABGH AN
+polearm 16 21 charge BD
+120 30 45000 P
+A
+19 11
+A
+18 11
+A
+13 110
+#753
+amulet arcanist~
+amulet of the {CAr{Wcani{Cst{x~
+An amulet with a magical aura is on the ground.~
+unknown~
+armor BG AC
+33 33 33 30 0
+120 9 15000 P
+A
+13 150
+A
+12 120
+A
+4 4
+#754
+mark serpent~
+mark of the {GSe{grpe{Gnt{x~
+The mark of the serpent has been tossed aside. ~
+unknown~
+armor BG AW
+33 33 33 30 0
+120 9 15000 P
+A
+13 150
+A
+12 120
+A
+20 -10
+#755
+bladed ring astral~
+{WAs{Ytr{Wal{x Bladed Ring~
+A bladed ring that shines like the stars is in the dirt.~
+steel~
+weapon ABGH AN
+exotic 16 21 slice DEG
+120 30 45000 P
+A
+13 80
+A
+19 10
+A
+18 15
+#756
+scarab~
+a scarab~
+A beetle shaped brooch is in the dirt.~
+unknown~
+armor BG AV
+33 33 33 30 0
+120 9 15000 P
+A
+3 5
+A
+13 120
+A
+12 150
+#757
+titanic protector~
+the {CTitanic{x {MProtector{x~
+A large chest protector glows in the light.~
+unknown~
+armor 0 AW
+33 33 33 30 0
+120 10 15000 P
+A
+18 10
+A
+17 -40
+A
+13 200
+#758
+soulknife knife~
+{rSoul{DKnife{x~
+A darkened knife glows ominously.~
+unknown~
+weapon BC AN
+dagger 16 21 stab ACD
+120 15 40000 P
+#759
+jointed finger armor~
+jointed finger armor~
+A piece of jointed finger armor is on the ground.~
+unknown~
+armor 0 AB
+33 33 33 30 0
+120 10 15000 P
+A
+12 60
+A
+13 175
+A
+2 5
+#760
+armguard apostasy~
+armguards of {YAp{yosta{Ysy{x~
+A pair of dark armguards are on the ground.~
+unknown~
+armor 0 AI
+33 33 33 30 0
+120 10 15000 P
+A
+12 100
+A
+13 170
+A
+3 4
+#761
+crimson quarterstaff~
+the {RCrimson{x Quarterstaff~
+A large red mace is on the ground.~
+unknown~
+weapon CG AN
+mace 17 22 blast ADE
+130 15 45000 P
+A
+19 12
+A
+18 12
+A
+13 100
+#762
+chaos diamond breastplate~
+a {RChaos {WDiamond{x Breastplate~
+A breastplate made of chaos diamond is here.~
+unknown~
+armor BC AD
+36 36 36 33 0
+130 10 18000 P
+A
+18 7
+A
+1 5
+A
+13 220
+#763
+ruby cabasset~
+a {Rruby{x cabasset ~
+A helmet made of ruby is on the ground.~
+unknown~
+armor BC AE
+36 36 36 33 0
+130 10 18000 P
+A
+3 4
+A
+12 100
+A
+13 200
+#764
+red moonstone gladius~
+a {Rred {Ymoonstone{x gladius~
+A gladius made of red moonstone shimmers.~
+unknown~
+weapon CG AN
+sword 17 22 slash DEG
+130 15 45000 P
+A
+13 140
+A
+19 5
+A
+18 15
+#765
+bixbite targe~
+a {Rbixbite{x targe~
+A shield made of a red beryl is here.~
+unknown~
+armor CG AJ
+36 36 36 33 0
+130 10 18000 P
+A
+17 -20
+A
+13 300
+#766
+almandine shin guard~
+an {Ralmandine{x shin guard~
+A shin guard made of a deep red garnet has been thrown away.~
+unknown~
+armor CG AT
+36 36 36 33 0
+130 10 18000 P
+A
+12 65
+A
+13 225
+A
+2 5
+#767
+fire agate shortstaff~
+a {Rfire agate{x shortstaff~
+A shortstaff made of fire agate is here.~
+unknown~
+weapon CG AN
+staff 17 22 thrust BDE
+130 15 45000 P
+A
+13 120
+A
+19 10
+A
+18 12
+#768
+ebalite earring~
+an {Rebalite{x earring~
+An earring made out of a violet-red tourmaline is here.~
+unknown~
+armor CG AS
+36 36 36 33 0
+130 10 18000 P
+A
+12 340
+#769
+blood red cloak hedadra~
+the {Rblood red{x cloak of {MHe{md{Wa{md{Mra{x~
+A blood red cloak has been tossed aside.~
+unknown~
+armor CG AX
+36 36 36 33 0
+130 10 18000 P
+A
+19 4
+A
+18 5
+A
+13 250
+#770
+axe ages~
+the {GAxe{x of {WAges{x~
+A large axe is sticking out of the ground.~
+unknown~
+weapon ABG AN
+axe 18 24 chop DEG
+140 15 55000 P
+A
+13 200
+A
+19 10
+A
+18 7
+#771
+Vengaurak mask~
+{GVe{gng{Wa{gur{Gak{x Mask~
+A magical mask lies on the ground.~
+unknown~
+armor ABG AR
+40 40 40 37 0
+140 10 20000 P
+A
+13 240
+A
+4 6
+A
+18 7
+#772
+golden ankh~
+a {Ygolden{x ankh ~
+An ankh made of gold is in the dirt.~
+unknown~
+armor 0 AO
+40 40 40 37 0
+140 10 20000 P
+A
+13 290
+A
+20 -8
+#773
+nine tails cerberus~
+nine tails of {RCe{rr{Wb{rer{Rus{x~
+Nine flaming tails are on the ground.~
+unknown~
+weapon CG AN
+whip 18 24 sting ADEH
+140 15 55000 P
+#774
+greaves fire father~
+greaves of {RA{rl{wm{Wi{ro{Rn{x, the {RFire Father{x~
+A fiery set of greaves burns here.~
+unknown~
+armor AG AF
+40 40 40 37 0
+140 10 20000 P
+A
+13 250
+A
+12 120
+#775
+flamedance bracer~
+{RFlame{Wdance{x bracer~
+A flaming bracer burns here.~
+unknown~
+armor AG AM
+40 40 40 37 0
+140 10 20000 P
+A
+13 200
+A
+5 5
+A
+18 5
+A
+19 7
+#776
+pike windfury~
+the pike, {BWind{Dfury{x~
+A howling pike is on the ground.~
+unknown~
+weapon CG AN
+polearm 18 24 charge BDEH
+140 15 55000 P
+A
+18 15
+A
+19 8
+A
+13 240
+#777
+storm circlet~
+{YStorm{BCirclet{x~
+A small, magical circlet has been discarded.~
+unknown~
+armor GI AS
+40 40 40 37 0
+140 10 20000 P
+A
+12 300
+A
+2 7
+#778
+hurricane tabard~
+the {BHurricane {WTabard{x~
+A backplate depicting a hurricane is on the ground.~
+unknown~
+armor BG AX
+40 40 40 37 0
+140 10 20000 P
+A
+13 270
+A
+1 7
+A
+19 3
+#779
+angelbane fang~
+the Fang, {WAngel{DBane{x~
+A dangerous looking fang is on the ground.~
+unknown~
+weapon AGH AN
+exotic 25 20 stab BCDE
+145 15 75000 P
+A
+18 12
+A
+19 26
+#780
+wayfarer robe~
+{YWa{yyf{War{yer{Y's{X Robe~
+A magical robe has been thrown away~
+unknown~
+armor BG AD
+43 43 43 40 0
+145 10 25000 P
+A
+13 270
+A
+2 6
+A
+18 5
+#781
+githzerai anklet~
+a {BGi{bth{Wz{ber{Bai{x anklet~
+A magical anklet is lying in the dirt.~
+unknown~
+armor AG AT
+43 43 43 40 0
+145 10 25000 P
+A
+5 5
+A
+17 -20
+A
+13 130
+A
+20 -10
+#782
+shattersoul warhammer~
+{WShatter{DSoul{x, the Warhammer~
+A large warhammer has been discarded.~
+unknown~
+weapon AGH AN
+mace 25 20 pound CEG
+145 15 75000 P
+A
+13 100
+A
+19 20
+A
+18 8
+#783
+demonfury heraldic shield~
+{RDemon{Dfury{x, the Heraldic Shield~
+A very large shield is on the ground.~
+unknown~
+armor AG AJ
+43 43 43 40 0
+145 10 25000 P
+A
+19 10
+A
+13 280
+#784
+angerflame gauntlets~
+gauntlets of {YAnger{RFlame{x~
+A pair of fiery gauntlets have been tossed aside.~
+unknown~
+armor CG AH
+43 43 43 40 0
+145 10 25000 P
+A
+13 210
+A
+1 5
+A
+19 11
+#785
+doomwail spirit sword~
+{RD{roo{Dmw{rai{Rl{x, the {RSp{rir{Di{wt{DS{rwo{Rrd{x~
+A dark sword is moaning.~
+unknown~
+weapon CGH AN
+sword 25 20 slash ACDE
+145 15 75000 P
+A
+13 150
+A
+18 10
+A
+19 12
+#786
+senton sash~
+a senton sash~
+A magical sash has been tossed aside.~
+unknown~
+armor AG AL
+43 43 43 40 0
+145 10 25000 P
+A
+13 250
+A
+12 200
+#787
+charm aeons~
+charm of the {YAe{Wo{Yns{x~
+A magical charm hums here.~
+unknown~
+armor BG AC
+43 43 43 40 0
+145 10 25000 P
+A
+3 5
+A
+4 5
+A
+13 275
+A
+12 155
+#788
+trident chaosspike~
+the Trident, {YCh{yao{Ws{Ds{ypi{Yke{x~
+A wicked looking trident is sticking in the ground.~
+unknown~
+weapon G AN
+staff 22 29 stab DEG
+151 15 75000 P
+A
+18 60
+A
+19 60
+A
+13 280
+#789
+mark dragon~
+mark of the {GD{gr{Wag{go{Gn{x~
+A patch bearing the mark of a dragon is in the dirt~
+unknown~
+armor GI AW
+47 47 47 44 0
+151 10 25000 P
+A
+20 -10
+A
+18 30
+A
+19 40
+A
+13 320
+#790
+dragon skull~
+the skull of the Ancient {GGreen Dragon{x~
+A dragon's skull is on the ground.~
+unknown~
+armor AB AE
+47 47 47 44 0
+151 10 25000 P
+A
+12 300
+A
+13 350
+A
+18 30
+A
+19 30
+#791
+sceptre miracles~
+the {MSceptre{x of {WMiracles{x~
+A magical sceptre has been thrown away.~
+unknown~
+weapon GI AN
+exotic 22 29 magic BCE
+151 15 75000 P
+A
+19 70
+A
+18 20
+A
+13 290
+A
+20 -20
+#792
+robe apocalypse~
+{YRobe{x of the {DApocalypse{x~
+A dark robe lies here.~
+unknown~
+armor BC AK
+47 47 47 44 0
+151 10 25000 P
+A
+2 5
+A
+12 100
+A
+13 250
+A
+18 50
+A
+19 10
+#793
+blue gem claw~
+a {Bblue{x gem claw~
+A piece of finger armor with a blue gem is here.~
+unknown~
+armor BG AB
+47 47 47 44 0
+151 10 25000 P
+A
+3 5
+A
+18 25
+A
+19 20
+A
+12 200
+A
+13 210
+#794
+unholy hand death diety~
+the {DUnholy Hand{X of the {rDeath Diety{x~
+A large, flailing hand has been tossed aside.~
+unknown~
+weapon ABGH AN
+flail 22 29 pound ACDE
+151 15 75000 P
+A
+13 300
+A
+12 200
+A
+18 75
+A
+19 65
+#795
+scion eternal night~
+{YScion{x of {DEternal Night{x~
+A dark scion is on the ground.~
+unknown~
+armor BCG AV
+47 47 47 44 0
+151 10 25000 P
+A
+18 30
+A
+12 140
+#796
+intangible aura supremacy~
+an {BIntangible {YAura{x of {WSupremacy{x~
+A magical aura hovers here.~
+unknown~
+armor AG AQ
+47 47 47 44 0
+151 10 25000 P
+A
+19 40
+A
+18 40
+A
+13 200
+#797
+nomari candle~
+a {DNomari{x {YCandle{x~
+A magical candle glows ominously.~
+unknown~
+light AG A
+0 0 999 0 0
+151 5 25000 P
+A
+13 250
+A
+12 250
+#0
+
+
+
+#ROOMS
+#700
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 701
+D2
+~
+bush~
+1 0 63917
+S
+#701
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 702
+D2
+~
+~
+0 0 700
+S
+#702
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 703
+D2
+~
+~
+0 0 701
+S
+#703
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 704
+D3
+~
+~
+0 0 702
+S
+#704
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 705
+D3
+~
+~
+0 0 703
+R GRALL 704 100~
+S
+#705
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 706
+D2
+~
+~
+0 0 704
+S
+#706
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D2
+~
+~
+0 0 705
+D3
+~
+~
+0 0 707
+S
+#707
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 708
+D1
+~
+~
+0 0 706
+R GRALL 704 100~
+S
+#708
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D2
+~
+~
+0 0 707
+D3
+~
+~
+0 0 709
+S
+#709
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 708
+D3
+~
+~
+0 0 710
+S
+#710
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 711
+D1
+~
+~
+0 0 709
+R GRALL 704 100~
+S
+#711
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 712
+D2
+~
+~
+0 0 710
+S
+#712
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 713
+D3
+~
+~
+0 0 711
+S
+#713
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 714
+D2
+~
+~
+0 0 712
+S
+#714
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 715
+D3
+~
+~
+0 0 713
+S
+#715
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 716
+D3
+~
+~
+0 0 714
+S
+#716
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 717
+D3
+~
+~
+0 0 715
+R GRALL 704 100~
+S
+#717
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 718
+D3
+~
+~
+0 0 716
+S
+#718
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8192 3
+D0
+~
+~
+0 0 719
+D2
+~
+~
+0 0 717
+S
+#719
+Along a Twisting Path~
+The landscape is encompassed by an eternal darkness that hangs above this
+forest.  The walk is hindered by a thick bog and the occasional kicking of
+hardened objects underneath the water.  Barely visible is the willows that
+reach high into the sky.  These trees are occupied with hanging corpses in
+various stages of decay.  
+~
+0 8197 3
+D0
+~
+~
+0 0 720
+D2
+~
+~
+0 0 718
+S
+#720
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 731
+D1
+~
+~
+0 0 733
+D2
+~
+~
+0 0 719
+D3
+~
+~
+0 0 721
+S
+#721
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 722
+D1
+~
+~
+0 0 720
+S
+#722
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 723
+D1
+~
+~
+0 0 731
+D2
+~
+~
+0 0 721
+S
+#723
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 724
+D2
+~
+~
+0 0 722
+D3
+~
+~
+0 0 726
+S
+#724
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D2
+~
+~
+0 0 723
+D3
+~
+~
+0 0 725
+S
+#725
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D1
+~
+~
+0 0 724
+D2
+~
+~
+0 0 726
+D3
+~
+~
+0 0 728
+S
+#726
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 725
+D1
+~
+~
+0 0 723
+D3
+~
+~
+0 0 727
+S
+#727
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 728
+D1
+~
+~
+0 0 726
+S
+#728
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D1
+~
+~
+0 0 725
+D2
+~
+~
+0 0 727
+D3
+~
+~
+0 0 729
+S
+#729
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D1
+~
+~
+0 0 728
+D3
+~
+~
+0 0 730
+S
+#730
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 5 3
+D1
+~
+~
+0 0 729
+S
+#731
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D1
+~
+~
+0 0 732
+D2
+~
+~
+0 0 720
+D3
+~
+~
+0 0 722
+S
+#732
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 734
+D2
+~
+~
+0 0 733
+D3
+~
+~
+0 0 731
+S
+#733
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 732
+D3
+~
+~
+0 0 720
+S
+#734
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 735
+D1
+~
+~
+0 0 737
+D2
+~
+~
+0 0 732
+S
+#735
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D1
+~
+~
+0 0 736
+D2
+~
+~
+0 0 734
+S
+#736
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 738
+D2
+~
+~
+0 0 737
+D3
+~
+~
+0 0 735
+S
+#737
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 736
+D3
+~
+~
+0 0 734
+S
+#738
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 8193 3
+D0
+~
+~
+0 0 739
+D2
+~
+~
+0 0 736
+S
+#739
+Amongst the Willows~
+Sad willow trees hang above darkening the forest.  Corpses dangle from
+the tree tops and the cawing of crows and hooting of owls is deafening. 
+There is ankle deep mud underfoot slowing the trek.  
+~
+0 5 3
+D2
+~
+~
+0 0 738
+S
+#740
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D0
+~
+~
+0 0 741
+D3
+~
+~
+0 0 752
+S
+#741
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D1
+~
+~
+0 0 742
+D2
+~
+~
+0 0 740
+D3
+~
+~
+0 0 751
+S
+#742
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D0
+~
+~
+0 0 744
+D1
+~
+~
+0 0 743
+D3
+~
+~
+0 0 741
+S
+#743
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D0
+~
+~
+0 0 745
+D1
+~
+~
+0 0 747
+D3
+~
+~
+0 0 742
+S
+#744
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D1
+~
+~
+0 0 745
+D2
+~
+~
+0 0 742
+S
+#745
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D1
+~
+~
+0 0 746
+D2
+~
+~
+0 0 743
+D3
+~
+~
+0 0 744
+S
+#746
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D2
+~
+~
+0 0 747
+D3
+~
+~
+0 0 745
+S
+#747
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D0
+~
+~
+0 0 746
+D2
+~
+~
+0 0 748
+D3
+~
+~
+0 0 743
+S
+#748
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D0
+~
+~
+0 0 747
+D1
+~
+~
+0 0 749
+S
+#749
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D1
+~
+~
+0 0 750
+D3
+~
+~
+0 0 748
+S
+#750
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 5 7
+D3
+~
+~
+0 0 749
+S
+#751
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D1
+~
+~
+0 0 741
+D2
+~
+~
+0 0 752
+S
+#752
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D0
+~
+~
+0 0 751
+D1
+~
+~
+0 0 740
+D2
+~
+~
+0 0 753
+S
+#753
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D0
+~
+~
+0 0 752
+D1
+~
+~
+0 0 755
+D2
+~
+~
+0 0 757
+S
+#754
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D3
+~
+~
+0 0 753
+S
+#755
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D2
+~
+~
+0 0 756
+D3
+~
+~
+0 0 753
+S
+#756
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D0
+~
+~
+0 0 755
+D3
+~
+~
+0 0 757
+S
+#757
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D0
+~
+~
+0 0 753
+D1
+~
+~
+0 0 756
+D2
+~
+~
+0 0 758
+S
+#758
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 1 7
+D0
+~
+~
+0 0 757
+D2
+~
+~
+0 0 759
+S
+#759
+In Swampy Waters~
+Trees and thick brush bunched closely together make a hasty journey
+rather difficult.  Spider webs are everywhere around here as well as the
+prominent odour of death.  
+~
+0 5 7
+D0
+~
+~
+0 0 758
+S
+#760
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 761
+D2
+~
+~
+0 0 772
+S
+#761
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 763
+D1
+~
+~
+0 0 762
+D3
+~
+~
+0 0 760
+S
+#762
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 764
+D2
+~
+~
+0 0 765
+D3
+~
+~
+0 0 761
+S
+#763
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 764
+D2
+~
+~
+0 0 761
+S
+#764
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 766
+D2
+~
+~
+0 0 762
+D3
+~
+~
+0 0 763
+S
+#765
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 762
+S
+#766
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 767
+D3
+~
+~
+0 0 764
+S
+#767
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 768
+D2
+~
+~
+0 0 770
+D3
+~
+~
+0 0 766
+S
+#768
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 769
+D2
+~
+~
+0 0 767
+S
+#769
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D3
+~
+~
+0 0 768
+S
+#770
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 767
+D1
+~
+~
+0 0 771
+S
+#771
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 5 3
+D3
+~
+~
+0 0 770
+S
+#772
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 760
+D2
+~
+~
+0 0 773
+S
+#773
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 772
+D3
+~
+~
+0 0 774
+S
+#774
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 773
+D3
+~
+~
+0 0 775
+S
+#775
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 774
+D2
+~
+~
+0 0 776
+S
+#776
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 775
+D2
+~
+~
+0 0 777
+S
+#777
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D0
+~
+~
+0 0 776
+D3
+~
+~
+0 0 778
+S
+#778
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 8193 3
+D1
+~
+~
+0 0 777
+D2
+~
+~
+0 0 779
+S
+#779
+A Small Clearing~
+Bodies half consumed by scavengers litter this small clearing.  In
+between the periodic howling of wolves, the area is hauntingly silent. 
+There is no wind present to alleviate the smell of decay.  
+~
+0 5 3
+D0
+~
+~
+0 0 778
+S
+#780
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D0
+~
+~
+0 0 784
+D1
+~
+~
+0 0 791
+D3
+~
+~
+0 0 781
+S
+#781
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D1
+~
+~
+0 0 780
+D3
+~
+~
+0 0 782
+S
+#782
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D0
+~
+~
+0 0 783
+D1
+~
+~
+0 0 781
+D2
+~
+~
+0 0 787
+S
+#783
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D0
+~
+~
+0 0 785
+D1
+~
+~
+0 0 784
+D2
+~
+~
+0 0 782
+S
+#784
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D0
+~
+~
+0 0 786
+D2
+~
+~
+0 0 780
+D3
+~
+~
+0 0 783
+S
+#785
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D1
+~
+~
+0 0 786
+D2
+~
+~
+0 0 783
+S
+#786
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D2
+~
+~
+0 0 784
+D3
+~
+~
+0 0 785
+S
+#787
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D0
+~
+~
+0 0 782
+D1
+~
+~
+0 0 788
+D3
+~
+~
+0 0 789
+S
+#788
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D3
+~
+~
+0 0 787
+S
+#789
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D1
+~
+~
+0 0 787
+D3
+~
+~
+0 0 790
+S
+#790
+A Muddy, Makeshift Cemetary~
+~
+0 5 3
+D1
+~
+~
+0 0 789
+S
+#791
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D1
+~
+~
+0 0 792
+D2
+~
+~
+0 0 793
+D3
+~
+~
+0 0 780
+S
+#792
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D2
+~
+~
+0 0 794
+D3
+~
+~
+0 0 791
+S
+#793
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D0
+~
+~
+0 0 791
+D1
+~
+~
+0 0 794
+S
+#794
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D0
+~
+~
+0 0 792
+D1
+~
+~
+0 0 795
+D3
+~
+~
+0 0 793
+S
+#795
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D1
+~
+~
+0 0 796
+D2
+~
+~
+0 0 797
+D3
+~
+~
+0 0 794
+S
+#796
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D2
+~
+~
+0 0 798
+D3
+~
+~
+0 0 795
+S
+#797
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D0
+~
+~
+0 0 795
+D1
+~
+~
+0 0 798
+D2
+~
+~
+0 0 799
+S
+#798
+A Muddy, Makeshift Cemetary~
+~
+0 8193 3
+D0
+~
+~
+0 0 796
+D3
+~
+~
+0 0 797
+S
+#799
+A Muddy, Makeshift Cemetary~
+~
+0 5 3
+D0
+~
+~
+0 0 797
+S
+#800
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D0
+~
+~
+0 0 801
+S
+#801
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D0
+~
+~
+0 0 802
+D2
+~
+~
+0 0 800
+S
+#802
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D0
+~
+~
+0 0 803
+D2
+~
+~
+0 0 801
+S
+#803
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D1
+~
+~
+0 0 804
+D2
+~
+~
+0 0 802
+D3
+~
+~
+0 0 811
+S
+#804
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D0
+~
+~
+0 0 806
+D1
+~
+~
+0 0 805
+D3
+~
+~
+0 0 803
+S
+#805
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D0
+~
+~
+0 0 807
+D3
+~
+~
+0 0 804
+S
+#806
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D1
+~
+~
+0 0 807
+D2
+~
+~
+0 0 804
+S
+#807
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D1
+~
+~
+0 0 808
+D2
+~
+~
+0 0 805
+D3
+~
+~
+0 0 806
+S
+#808
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D0
+~
+~
+0 0 809
+D3
+~
+~
+0 0 807
+S
+#809
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D2
+~
+~
+0 0 808
+D3
+~
+~
+0 0 810
+S
+#810
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 5 3
+D1
+~
+~
+0 0 809
+S
+#811
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D1
+~
+~
+0 0 803
+D2
+~
+~
+0 0 812
+S
+#812
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D0
+~
+~
+0 0 811
+D3
+~
+~
+0 0 813
+S
+#813
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D0
+~
+~
+0 0 814
+D1
+~
+~
+0 0 812
+D2
+~
+~
+0 0 817
+S
+#814
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D0
+~
+~
+0 0 815
+D2
+~
+~
+0 0 813
+S
+#815
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D2
+~
+~
+0 0 814
+D3
+~
+~
+0 0 816
+S
+#816
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 5 3
+D1
+~
+~
+0 0 815
+S
+#817
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D0
+~
+~
+0 0 813
+D2
+~
+~
+0 0 818
+S
+#818
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D0
+~
+~
+0 0 817
+D1
+~
+~
+0 0 819
+S
+#819
+Travelling Through Thorn~
+There is briar here, knee deep piercing though every step.  Ancient trees
+soar hundreds of feet into the sky, watching every event down below.  The
+cries of the damned can be heard in the distance.  
+~
+0 8193 3
+D3
+~
+~
+0 0 818
+S
+#820
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D1
+~
+~
+0 0 821
+D3
+~
+~
+0 0 830
+S
+#821
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D1
+~
+~
+0 0 822
+D3
+~
+~
+0 0 820
+S
+#822
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D0
+~
+~
+0 0 823
+D2
+~
+~
+0 0 826
+D3
+~
+~
+0 0 821
+S
+#823
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D0
+~
+~
+0 0 824
+D2
+~
+~
+0 0 822
+S
+#824
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D1
+~
+~
+0 0 825
+D2
+~
+~
+0 0 823
+S
+#825
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D1
+~
+~
+0 0 829
+D3
+~
+~
+0 0 824
+S
+#826
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D0
+~
+~
+0 0 822
+D2
+~
+~
+0 0 827
+S
+#827
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D0
+~
+~
+0 0 826
+D3
+~
+~
+0 0 828
+S
+#828
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 5 3
+D1
+~
+~
+0 0 827
+S
+#829
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D3
+~
+~
+0 0 825
+S
+#830
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D0
+~
+~
+0 0 831
+D1
+~
+~
+0 0 820
+S
+#831
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D0
+~
+~
+0 0 832
+D2
+~
+~
+0 0 830
+S
+#832
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D1
+~
+~
+0 0 834
+D2
+~
+~
+0 0 831
+D3
+~
+~
+0 0 833
+S
+#833
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D1
+~
+~
+0 0 832
+D3
+~
+~
+0 0 837
+S
+#834
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D0
+~
+~
+0 0 835
+D3
+~
+~
+0 0 832
+S
+#835
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D1
+~
+~
+0 0 836
+D2
+~
+~
+0 0 834
+S
+#836
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 5 3
+D3
+~
+~
+0 0 835
+S
+#837
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D1
+~
+~
+0 0 833
+D2
+~
+~
+0 0 838
+S
+#838
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D0
+~
+~
+0 0 837
+D2
+~
+~
+0 0 839
+S
+#839
+The Crimson Sunset~
+The blood red sky gives the barren trees the appearance of being ablaze. 
+There is no grass to speak of here, just dry, cracked earth.  Partially
+consumed cadavers and broken bones are scattered all over the place.  
+~
+0 8193 3
+D0
+~
+~
+0 0 838
+S
+#840
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 845
+D1
+~
+~
+0 0 841
+S
+#841
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 846
+D1
+~
+~
+0 0 842
+D3
+~
+~
+0 0 840
+S
+#842
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 847
+D1
+~
+~
+0 0 843
+D3
+~
+~
+0 0 841
+S
+#843
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 848
+D1
+~
+~
+0 0 844
+D3
+~
+~
+0 0 842
+S
+#844
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 5 5
+D0
+~
+~
+0 0 849
+D3
+~
+~
+0 0 843
+S
+#845
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 850
+D1
+~
+~
+0 0 846
+D2
+~
+~
+0 0 840
+S
+#846
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 851
+D1
+~
+~
+0 0 847
+D2
+~
+~
+0 0 841
+D3
+~
+~
+0 0 845
+S
+#847
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 852
+D1
+~
+~
+0 0 848
+D2
+~
+~
+0 0 842
+D3
+~
+~
+0 0 846
+S
+#848
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 853
+D1
+~
+~
+0 0 849
+D2
+~
+~
+0 0 843
+D3
+~
+~
+0 0 847
+S
+#849
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 854
+D2
+~
+~
+0 0 844
+D3
+~
+~
+0 0 848
+S
+#850
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 855
+D1
+~
+~
+0 0 851
+D2
+~
+~
+0 0 845
+S
+#851
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 5 5
+D0
+~
+~
+0 0 856
+D1
+~
+~
+0 0 852
+D2
+~
+~
+0 0 846
+D3
+~
+~
+0 0 850
+S
+#852
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 857
+D1
+~
+~
+0 0 853
+D2
+~
+~
+0 0 847
+D3
+~
+~
+0 0 851
+S
+#853
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 858
+D1
+~
+~
+0 0 854
+D2
+~
+~
+0 0 848
+D3
+~
+~
+0 0 852
+S
+#854
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D0
+~
+~
+0 0 859
+D2
+~
+~
+0 0 849
+D3
+~
+~
+0 0 853
+S
+#855
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D1
+~
+~
+0 0 856
+D2
+~
+~
+0 0 850
+S
+#856
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D1
+~
+~
+0 0 857
+D2
+~
+~
+0 0 851
+D3
+~
+~
+0 0 855
+S
+#857
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D1
+~
+~
+0 0 858
+D2
+~
+~
+0 0 852
+D3
+~
+~
+0 0 856
+S
+#858
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D1
+~
+~
+0 0 859
+D2
+~
+~
+0 0 853
+D3
+~
+~
+0 0 857
+S
+#859
+War Torn Foothills~
+These foothills bear the scars of war.  Bodies of soldiers lie eternally
+still.  There is a biting, arctic wind which seems to blow towards you,
+whatever direction you may turn.  
+~
+0 8193 5
+D2
+~
+~
+0 0 854
+D3
+~
+~
+0 0 858
+S
+#860
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 867
+D1
+~
+~
+0 0 861
+S
+#861
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 866
+D1
+~
+~
+0 0 862
+D3
+~
+~
+0 0 860
+S
+#862
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 865
+D1
+~
+~
+0 0 863
+D3
+~
+~
+0 0 861
+S
+#863
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 864
+D3
+~
+~
+0 0 862
+S
+#864
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 871
+D2
+~
+~
+0 0 863
+D3
+~
+~
+0 0 865
+S
+#865
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 870
+D1
+~
+~
+0 0 864
+D2
+~
+~
+0 0 862
+D3
+~
+~
+0 0 866
+S
+#866
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 869
+D1
+~
+~
+0 0 865
+D2
+~
+~
+0 0 861
+D3
+~
+~
+0 0 867
+S
+#867
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 868
+D1
+~
+~
+0 0 866
+D2
+~
+~
+0 0 860
+S
+#868
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 875
+D1
+~
+~
+0 0 869
+D2
+~
+~
+0 0 867
+S
+#869
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 874
+D1
+~
+~
+0 0 870
+D2
+~
+~
+0 0 866
+D3
+~
+~
+0 0 868
+S
+#870
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 873
+D1
+~
+~
+0 0 871
+D2
+~
+~
+0 0 865
+D3
+~
+~
+0 0 869
+S
+#871
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 872
+D2
+~
+~
+0 0 864
+D3
+~
+~
+0 0 870
+S
+#872
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 877
+D2
+~
+~
+0 0 871
+D3
+~
+~
+0 0 873
+S
+#873
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D1
+~
+~
+0 0 872
+D2
+~
+~
+0 0 870
+D3
+~
+~
+0 0 874
+S
+#874
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D1
+~
+~
+0 0 873
+D2
+~
+~
+0 0 869
+D3
+~
+~
+0 0 875
+S
+#875
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D0
+~
+~
+0 0 876
+D1
+~
+~
+0 0 874
+D2
+~
+~
+0 0 868
+S
+#876
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D2
+~
+~
+0 0 875
+D4
+~
+~
+0 0 879
+S
+#877
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D2
+~
+~
+0 0 872
+D4
+~
+~
+0 0 878
+S
+#878
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 13 0
+D5
+~
+~
+0 0 877
+S
+#879
+An Oriental Shrine~
+This small, wooded shrine has several tapestries on the wall bearing
+oriental symbols.  The floor space is wide open and practice dummies and
+weapons are randomly scattered.  
+~
+0 8201 0
+D5
+~
+~
+0 0 876
+S
+#880
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 881
+S
+#881
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 882
+D2
+~
+~
+0 0 880
+S
+#882
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 883
+D2
+~
+~
+0 0 881
+S
+#883
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 884
+D2
+~
+~
+0 0 882
+S
+#884
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 885
+D2
+~
+~
+0 0 883
+S
+#885
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 886
+D2
+~
+~
+0 0 884
+S
+#886
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 887
+D2
+~
+~
+0 0 885
+S
+#887
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 888
+D2
+~
+~
+0 0 886
+S
+#888
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 889
+D2
+~
+~
+0 0 887
+S
+#889
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 890
+D2
+~
+~
+0 0 888
+S
+#890
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 891
+D2
+~
+~
+0 0 889
+S
+#891
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 892
+D2
+~
+~
+0 0 890
+S
+#892
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 893
+D2
+~
+~
+0 0 891
+S
+#893
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 894
+D2
+~
+~
+0 0 892
+S
+#894
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 895
+D2
+~
+~
+0 0 893
+S
+#895
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 896
+D2
+~
+~
+0 0 894
+S
+#896
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 897
+D2
+~
+~
+0 0 895
+S
+#897
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 898
+D2
+~
+~
+0 0 896
+S
+#898
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 8200 0
+D0
+~
+~
+0 0 899
+D2
+~
+~
+0 0 897
+S
+#899
+A Crystalline Corridor~
+The crystalline walls reach immeasureable heights in this hauntingly
+quiet corridor.  Everything here is non-descript.  Crystal as far as the eye
+can see, damaging eyesight in a similar manner as snowblindness.  
+~
+0 12 0
+D2
+~
+~
+0 0 898
+S
+#0
+
+
+
+#SPECIALS
+M 700 spec_poison
+M 708 spec_cast_undead
+M 710 spec_poison
+M 711 spec_poison
+M 712 spec_cast_mage
+M 713 spec_cast_mage
+M 714 spec_cast_mage
+M 720 spec_cast_undead
+M 726 spec_cast_undead
+M 727 spec_cast_undead
+M 728 spec_cast_undead
+M 730 spec_high_mage
+M 731 spec_high_mage
+M 732 spec_circle
+M 738 spec_high_mage
+M 742 spec_cast_cleric
+M 746 spec_poison
+M 748 spec_circle
+M 750 spec_circle
+M 753 spec_breath_any
+M 754 spec_breath_any
+M 755 spec_high_mage
+M 756 spec_high_cleric
+S
+
+
+
+#RESETS
+D 0 700 2 1
+M 0 700 6 700 6
+M 0 700 6 701 6
+M 0 700 6 702 6
+M 0 700 6 703 6
+M 0 700 6 705 6
+M 0 700 6 706 6
+M 0 701 6 707 6
+M 0 701 6 708 6
+M 0 701 6 709 6
+M 0 701 6 710 6
+M 0 701 6 711 6
+M 0 701 6 712 6
+M 0 703 3 720 3
+M 0 703 3 721 3
+M 0 703 3 722 3
+M 0 704 3 723 3
+M 0 704 3 724 3
+M 0 704 3 725 3
+M 0 705 3 726 3
+M 0 705 3 727 3
+M 0 705 3 728 3
+M 0 706 1 729 1
+E 0 703 0 26
+E 0 702 0 10
+E 0 701 0 16
+O 0 700 0 730
+M 0 707 1 733 1
+E 0 705 0 20
+E 0 706 0 7
+E 0 704 0 16
+M 0 708 1 737 1
+E 0 709 0 9
+E 0 708 0 8
+E 0 707 0 16
+O 0 710 0 739
+M 0 709 4 740 4
+M 0 710 4 741 4
+M 0 711 4 742 4
+M 0 709 4 743 4
+M 0 710 4 744 4
+M 0 711 4 745 4
+M 0 709 4 746 4
+M 0 710 4 747 4
+M 0 711 4 748 4
+M 0 712 1 749 1
+E 0 727 0 12
+E 0 726 0 3
+E 0 725 0 16
+O 0 711 0 750
+M 0 710 4 751 4
+M 0 709 4 751 4
+M 0 711 4 752 4
+M 0 713 1 753 1
+E 0 730 0 18
+E 0 729 0 1
+E 0 728 0 16
+M 0 714 1 758 1
+E 0 733 0 27
+E 0 732 0 14
+E 0 731 0 16
+O 0 712 0 759
+M 0 715 4 760 4
+M 0 716 4 761 4
+M 0 720 1 761 1
+E 0 742 0 28
+E 0 741 0 21
+E 0 740 0 16
+M 0 717 4 762 4
+M 0 715 4 763 4
+M 0 716 4 764 4
+M 0 717 4 765 4
+M 0 715 4 766 4
+M 0 716 4 767 4
+M 0 719 1 770 1
+E 0 739 0 23
+E 0 738 0 13
+E 0 737 0 16
+O 0 713 0 771
+M 0 717 4 772 4
+M 0 715 4 773 4
+M 0 716 4 774 4
+M 0 717 4 775 4
+M 0 718 1 778 1
+E 0 736 0 6
+E 0 735 0 26
+E 0 734 0 16
+O 0 714 0 779
+M 0 721 4 780 4
+M 0 722 4 781 4
+M 0 723 4 782 4
+M 0 728 1 783 1
+E 0 751 0 18
+E 0 750 0 13
+E 0 749 0 16
+M 0 721 4 784 4
+M 0 722 4 785 4
+M 0 723 4 786 4
+M 0 721 4 787 4
+M 0 722 4 788 4
+M 0 727 1 789 1
+E 0 748 0 14
+E 0 747 0 8
+E 0 746 0 16
+O 0 715 0 790
+M 0 723 4 791 4
+M 0 721 4 792 4
+M 0 722 4 793 4
+M 0 723 4 794 4
+M 0 726 1 797 1
+E 0 745 0 17
+E 0 744 0 9
+E 0 743 0 16
+O 0 716 0 799
+M 0 724 4 800 4
+M 0 732 1 801 1
+E 0 760 0 10
+E 0 759 0 1
+E 0 758 0 16
+M 0 724 4 802 4
+M 0 724 4 803 4
+M 0 724 4 804 4
+M 0 725 4 805 4
+M 0 725 4 806 4
+M 0 725 4 807 4
+M 0 725 4 808 4
+M 0 731 1 809 1
+E 0 757 0 27
+E 0 756 0 26
+E 0 755 0 16
+O 0 717 0 810
+M 0 729 4 811 4
+M 0 729 4 812 4
+M 0 729 4 813 4
+M 0 729 4 814 4
+M 0 730 1 815 1
+E 0 754 0 25
+E 0 753 0 3
+E 0 752 0 16
+O 0 718 0 816
+M 0 733 4 820 4
+M 0 733 4 821 4
+M 0 733 4 822 4
+M 0 733 4 823 4
+M 0 734 4 824 4
+M 0 734 4 825 4
+M 0 734 4 826 4
+M 0 736 1 827 1
+E 0 763 0 6
+E 0 762 0 5
+E 0 761 0 16
+O 0 720 0 828
+M 0 734 4 829 4
+M 0 735 4 830 4
+M 0 738 1 831 1
+E 0 769 0 28
+E 0 768 0 21
+E 0 767 0 16
+M 0 735 4 832 4
+M 0 735 4 833 4
+M 0 734 4 834 4
+M 0 737 1 835 1
+E 0 766 0 23
+E 0 765 0 11
+E 0 764 0 16
+O 0 719 0 836
+M 0 735 4 838 4
+M 0 739 4 840 4
+M 0 739 4 841 4
+M 0 739 4 842 4
+M 0 742 1 843 1
+E 0 772 0 17
+E 0 771 0 20
+E 0 770 0 16
+O 0 721 0 844
+M 0 740 4 845 4
+M 0 740 4 846 4
+M 0 740 4 847 4
+M 0 739 4 848 4
+M 0 743 1 849 1
+E 0 775 0 14
+E 0 774 0 7
+E 0 773 0 16
+M 0 740 4 850 4
+O 0 722 0 851
+M 0 744 1 852 1
+E 0 778 0 28
+E 0 777 0 21
+E 0 776 0 16
+M 0 741 4 853 4
+M 0 741 4 854 4
+M 0 741 4 858 4
+M 0 741 4 859 4
+M 0 745 4 860 4
+M 0 745 4 861 4
+M 0 745 4 862 4
+M 0 745 4 863 4
+M 0 746 4 864 4
+M 0 746 4 865 4
+M 0 746 4 866 4
+M 0 746 4 867 4
+M 0 749 1 868 1
+E 0 784 0 9
+E 0 783 0 11
+E 0 782 0 16
+M 0 747 4 869 4
+M 0 747 4 870 4
+M 0 747 4 871 4
+M 0 747 4 872 4
+M 0 748 1 877 1
+E 0 781 0 23
+E 0 780 0 5
+E 0 779 0 16
+O 0 724 0 878
+M 0 750 1 879 1
+E 0 787 0 3
+E 0 786 0 13
+E 0 785 0 16
+M 0 751 4 880 4
+M 0 751 4 881 4
+M 0 751 4 882 4
+M 0 751 4 883 4
+M 0 752 4 884 4
+M 0 752 4 885 4
+M 0 752 4 886 4
+M 0 752 4 887 4
+M 0 753 4 888 4
+M 0 753 4 889 4
+M 0 753 4 890 4
+M 0 753 4 891 4
+M 0 754 1 896 1
+E 0 790 0 6
+E 0 789 0 25
+E 0 788 0 16
+M 0 755 1 897 1
+E 0 793 0 1
+E 0 792 0 12
+E 0 791 0 16
+M 0 756 1 898 1
+E 0 797 0 0
+E 0 796 0 18
+E 0 795 0 26
+E 0 794 0 16
+O 0 723 0 899
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#704
+if mobhere 702
+ room vforce 702 groan 
+ room vforce 702 mob kill $n
+else
+ room echo A corpse has fallen from the trees.
+ room mload 702
+ room vforce 702 mob kill $n
+endif
+~
+#0
+
+#$

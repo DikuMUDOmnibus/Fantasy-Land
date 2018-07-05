@@ -1,0 +1,902 @@
+#AREADATA
+Name Forgotten Fields~
+Builders None~
+VNUMs 39500 39599
+Continent 1
+Credits [ 101+ ] Bree   Forgotten fields~
+Security 9
+Flags 0
+End
+
+#MOBILES
+#39500
+old withered man~
+An old withered man~
+An old withered man is here
+~
+~
+human~
+ABG V 0 -1000 0
+155 270 1d1+10000 5d5+5 60d15+50 fury
+-60 -60 -60 -35
+DEFGHI AK BCQ N
+stand stand none 50000
+0 ABCK medium unknown
+F for AHMV
+F par DEFGHIJ
+M GREET 39500 1000~
+#39501
+a skeleton warrior~
+a skeleton warrior~
+A skeleton warrior is here
+~
+~
+human~
+ABGO Vc 0 -1000 0
+125 270 1d1+11000 5d5+5 60d30+50 slice
+-45 -45 -45 -15
+CDEHI A BK ENS
+stand stand none 34000
+I 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#39502
+An Undead dwarf~
+an Undead Dwarf~
+An Undead Dwarf is here, looking for a fight
+~
+~
+dwarf~
+AGO JV 0 -1000 0
+130 275 1d1+12000 10d10+10 65d25+50 smash
+-65 -65 -65 -15
+CDEHIN A L NS
+stand stand none 30400
+AHMV ABCDEFGHIJK medium unknown
+#39503
+King Zombad~
+King Zombad~
+King Zombad is here, chewing on his dinner, a human arm.
+~
+~
+human~
+ABFGO Vc D -1000 0
+145 400 1d1+13500 5d5+5 75d40+75 wrath
+-45 -45 -45 -45
+CDEHI AC 0 NS
+stand stand none 39000
+0 BCK large unknown
+F for AHMV
+F par ADEFGHIJ
+M GRALL 39501 1000~
+#39504
+a rotting zombie~
+A rotting zombie~
+A rotting zombie is here, wandering around.
+~
+~
+human~
+ABGO TVc 0 -1000 0
+130 350 1d1+11000 10d10+10 70d32+0 thwack
+20 20 20 20
+DEFHI A BCF HPT
+stand stand none 40300
+I AJK large unknown
+F for AHMV
+F par BCDEFGHI
+#39505
+an Undead Knight~
+an Undead Knight~
+An Undead Knight is here, looking for a fight.
+~
+~
+human~
+ABGO V 0 -1000 0
+125 350 1d1+13500 10d10+100 60d30+0 smash
+20 20 20 20
+H 0 0 0
+stand stand none 23110
+I A large unknown
+F for AHMV
+F par BCDEFGHIJK
+#39506
+Tarpid~
+Tarpid~
+Tarpid is here, pissed off because you disturbed him.
+~
+~
+human~
+A 0 0 0 0
+140 0 1d1+5000 0d0+0 0d0+0 none
+1 1 1 1
+0 A 0 0
+stand stand none 50000
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 39502 1000~
+#0
+
+
+
+#OBJECTS
+#39500
+a blue key~
+a blue key~
+A blue key is here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 1 0 P
+#39501
+Faith of the undead~
+faith of the {8u{xn{8d{xe{8a{xd~
+An erie patch lies here.~
+unknown~
+armor A AV
+B B B 0 0
+101 1 30000 P
+A
+13 150
+A
+19 10
+#39502
+gauntlets forgotten~
+gauntlets of the {rForgotten{x~
+A pair of forgotten gauntlets lie here.~
+unknown~
+armor A AH
+BD BD BD BD 0
+101 2 30000 P
+A
+19 14
+A
+13 90
+#39503
+Sword past~
+sword of the {2Past{x~
+A very old sword is stuck into the ground.~
+unknown~
+weapon ABF AN
+sword 4 49 wrath CE
+101 4 30000 P
+A
+19 5
+#39504
+a large axe~
+a large Axe~
+A rather large axe is sitting on the ground.~
+unknown~
+weapon B AN
+axe 12 16 chop F
+101 5 30000 P
+A
+13 150
+A
+19 17
+#39505
+Bracer of undead might~
+bracer of {8undead{x might~
+An erie bracer lies here.~
+unknown~
+armor AB AM
+ABCD ABCD ABCD ABCD 0
+101 2 30000 P
+A
+19 14
+A
+2 2
+A
+3 -2
+#39506
+herbs of life~
+{^H{6erb{^s {xof {4Life{x~
+Some herbs lie on the ground here.~
+unknown~
+pill A A
+101 'cure blindness' 'bless' 'cure poison' 'cure disease'
+90 1 4000 P
+#39507
+potion of the past~
+potion of the {1Past{x~
+A very old potion sits here.~
+unknown~
+potion AB A
+101 'farsight' 'invisibility' 'mass invis' 'mass healing'
+101 1 9000 P
+#0
+
+
+
+#ROOMS
+#39500
+Entrance to the Fields~
+You have reached the entrance to some desolate fields. There are a number of
+large trees on the outskirts of the entrance, most of the grass on the fields
+looks like it has been burnt many years ago. A glorious battle must have taken
+place here.
+~
+0 8196 0
+D0
+~
+~
+0 0 39532
+D2
+~
+~
+0 0 39501
+S
+#39501
+Walking through the fields~
+You are walking through the fields now, there is a small path to the West and
+this path continues South. You can almost hear voices to the West, almost like
+screaming and shouting. To the south you cannot make out much, except more trees.
+~
+0 8192 0
+D0
+~
+~
+0 0 39500
+D2
+~
+~
+0 0 39502
+D3
+~
+~
+0 0 39503
+S
+#39502
+A desolate field~
+Upon crossing this desolate field, the stench of death is evident. Things are
+burnt to a crisp, such as the grass and whats left of the trees. This is not
+a spot where you should spend your vacation time, no sir.
+~
+0 8192 0
+D0
+~
+~
+0 0 39501
+D2
+~
+~
+0 0 39515
+S
+#39503
+A trail of blood~
+There is a trail of blood here, it continues to lead West. You wonder if
+maybe you did not miss the battle by much, or maybe you did not miss it at
+all. The path leads West, and back the way you came to the East.
+~
+0 8192 0
+D1
+~
+~
+0 0 39501
+D3
+~
+~
+0 0 39504
+S
+#39504
+A trail of blood~
+The blood trail grows much thicker here, it almost covers the entire ground
+you are walking on. There is much yelling going on to the West, and you can
+make out the sounds of sword fighting.
+~
+0 8320 0
+D1
+~
+~
+0 0 39503
+D3
+~
+~
+0 0 39505
+S
+#39505
+Entrance to the battle field.~
+You have entered the main battle field, the ground is burnt to a crisp, and
+any trees that there may have been here, are gone now. The scent of death
+surrounds you, and you start to wonder if it was such a good idea of you to
+come here.
+~
+0 8320 0
+D1
+~
+~
+0 0 39504
+D3
+~
+~
+0 0 39506
+S
+#39506
+Northeast corner of the battle field~
+You have entered the main battle field, the ground is burnt to a crisp, and
+any trees that there may have been here, are gone now. The scent of death
+surrounds you, and you start to wonder if it was such a good idea of you to
+come here.
+~
+0 8192 0
+D1
+~
+~
+0 0 39505
+D2
+~
+~
+0 0 39513
+D3
+~
+~
+0 0 39507
+S
+#39507
+Northern battle field~
+You have entered the main battle field, the ground is burnt to a crisp, and
+any trees that there may have been here, are gone now. The scent of death
+surrounds you, and you start to wonder if it was such a good idea of you to
+come here.
+~
+0 8192 0
+D1
+~
+~
+0 0 39506
+D2
+~
+~
+0 0 39514
+D3
+~
+~
+0 0 39508
+S
+#39508
+Northwest corner of the battle field~
+You have entered the main battle field, the ground is burnt to a crisp, and
+any trees that there may have been here, are gone now. The scent of death
+surrounds you, and you start to wonder if it was such a good idea of you to
+come here.
+~
+0 8192 0
+D1
+~
+~
+0 0 39507
+D2
+~
+~
+0 0 39509
+S
+#39509
+The western side of the battle field~
+You have entered the main battle field, the ground is burnt to a crisp, and
+any trees that there may have been here, are gone now. The scent of death
+surrounds you, and you start to wonder if it was such a good idea of you to
+come here.
+~
+0 8192 0
+D0
+~
+~
+0 0 39508
+D1
+~
+~
+0 0 39514
+D2
+~
+~
+0 0 39510
+S
+#39510
+Southwest corner of the battle field~
+You have entered the main battle field, the ground is burnt to a crisp, and
+any trees that there may have been here, are gone now. The scent of death
+surrounds you, and you start to wonder if it was such a good idea of you to
+come here.
+~
+0 8192 0
+D0
+~
+~
+0 0 39509
+D1
+~
+~
+0 0 39511
+S
+#39511
+Southern battle field~
+You have entered the main battle field, the ground is burnt to a crisp, and
+any trees that there may have been here, are gone now. The scent of death
+surrounds you, and you start to wonder if it was such a good idea of you to
+come here.
+~
+0 8192 0
+D0
+~
+~
+0 0 39514
+D1
+~
+~
+0 0 39512
+D3
+~
+~
+0 0 39510
+S
+#39512
+Southeast corner of the battle field~
+You have entered the main battle field, the ground is burnt to a crisp, and
+any trees that there may have been here, are gone now. The scent of death
+surrounds you, and you start to wonder if it was such a good idea of you to
+come here.
+~
+0 8192 0
+D0
+~
+~
+0 0 39513
+D3
+~
+~
+0 0 39511
+S
+#39513
+Eastern battle field~
+You have entered the main battle field, the ground is burnt to a crisp, and
+any trees that there may have been here, are gone now. The scent of death
+surrounds you, and you start to wonder if it was such a good idea of you to
+come here.
+~
+0 8192 0
+D0
+~
+~
+0 0 39506
+D2
+~
+~
+0 0 39512
+D3
+~
+~
+0 0 39514
+S
+#39514
+Center of the battle~
+Quick! on your guard! You are the most open here, the outskirts do not give
+you cover here! Find a way out quick before you become what your stepping on.
+~
+0 8192 0
+D0
+~
+~
+0 0 39507
+D1
+~
+~
+0 0 39513
+D2
+~
+~
+0 0 39511
+D3
+~
+~
+0 0 39509
+S
+#39515
+A desolate field~
+Upon crossing this desolate field, the stench of death is evident. Things are
+burnt to a crisp, such as the grass and whats left of the trees. This is not
+a spot where you should spend your vacation time, no sir.
+~
+0 8192 0
+D0
+~
+~
+0 0 39502
+D2
+~
+~
+0 0 39516
+D5
+~
+~
+1 0 39528
+S
+#39516
+An intersection in the fields~
+You have come to an intersection in the fields, the two paths look almost
+exactly alike, mostly burnt grass and little tree lines can be seen. However
+the Intersection cannot just be put here by chance, right?
+~
+0 8192 0
+D0
+~
+~
+0 0 39515
+D1
+~
+~
+0 0 39517
+D3
+~
+~
+0 0 39521
+S
+#39517
+Path through an isolated field~
+Walking through this part of the fields, you notice how isolated it feels
+with trees surrounding you on all sides except the way you came and the
+way you are going.
+~
+0 8192 0
+D1
+~
+~
+0 0 39518
+D3
+~
+~
+0 0 39516
+S
+#39518
+Path through an isolated field~
+Walking through this part of the fields, you notice how isolated it feels
+with trees surrounding you on all sides except the way you came and the
+way you are going.
+~
+0 8192 0
+D1
+~
+~
+0 0 39519
+D3
+~
+~
+0 0 39517
+S
+#39519
+A transition in the path.~
+The path suddenly ends, but you  notice a small hole below your feet, you can
+probably squeeze into it, but be careful, for you have no idea of what may
+lie ahead of you in the fields.
+~
+0 8192 0
+D3
+~
+~
+0 0 39518
+D5
+~
+~
+1 0 39520
+S
+#39520
+A large pit~
+Oh shit, you've done it now. When the king gets disturbed, he does not take
+it lightly. He's pissed off and i think he is going to take it out on anyone
+in his line of sight.
+~
+0 16785665 2
+D4
+~
+~
+1 39500 39519
+S
+#39521
+Path to a small abode~
+Upon walking westward, a small house suddenly appears from almost out
+of nowhere. The front door is partialy cracked open, and an erie aura
+is being emmited from the house.
+~
+0 8192 0
+D1
+~
+~
+0 0 39516
+D3
+~
+~
+1 0 39522
+S
+#39522
+Inside the Foyer of the house~
+Upon entering the house, you notice the old wood floor boards. The house
+looks very old, be careful not to break anything on your way in or out.
+~
+0 8192 0
+D1
+~
+~
+1 0 39521
+D3
+~
+~
+0 0 39523
+S
+#39523
+The kitchen~
+This is the kitchen, there is a large wooden table in the center of the
+room, a rusted down sink is on the far wall and counter top surrounds the
+perimeter of the room.
+~
+0 8192 0
+D1
+~
+~
+0 0 39522
+D2
+~
+~
+0 0 39524
+S
+#39524
+A small hallway~
+This is a very short hallway, leading from the kitchen to a small step ladder
+that apparently leads up into the attic. The hatch for the attic has been left
+wide open, maybe the owner of this house is up there doing something.
+~
+0 8192 0
+D0
+~
+~
+0 0 39523
+D4
+~
+~
+0 0 39527
+S
+#39525
+The attic~
+You stand at the far corner of the attic, there is a small window on the
+north wall that overlooks the garden in back. Such a pretty view, well if
+it wasn't for those undead monsters outside anyway.
+~
+0 8192 0
+D2
+~
+~
+0 0 39526
+S
+#39526
+The attic~
+My word, the spider webs up here are terrible! As if that wasn't enough, the
+dust up here is enough to blind someone for days, the owner must really hire
+a maid.
+~
+0 8192 0
+D0
+~
+~
+0 0 39525
+D3
+~
+~
+0 0 39527
+S
+#39527
+A small ladder leading to the attic~
+My word, the spider webs up here are terrible! As if that wasn't enough, the
+dust up here is enough to blind someone for days, the owner must really hire
+a maid.
+~
+0 8192 0
+D1
+~
+~
+0 0 39526
+D5
+~
+~
+0 0 39524
+S
+#39528
+An underground passageway~
+This tunnel feels like it might collapse at any moment, it must have been
+here for many decades to become this structuraly unstable. The tunnel
+continues south if you can the idea of being buried alive out of your
+head.
+~
+0 0 0
+D2
+~
+~
+0 0 39529
+D4
+~
+~
+1 0 39515
+S
+#39529
+An underground passageway~
+The tunnel seems to want to cave in with every footstep, be very careful
+if traveling this path, it continues south and north.
+~
+0 0 0
+D0
+~
+~
+0 0 39528
+D2
+~
+~
+0 0 39530
+S
+#39530
+An underground passageway~
+Buried deep within the dirt, a small hatch can be noticed with a sign hanging
+from it. It reads, 'Do not disturbe.' Are there other people living here
+besides the undead?
+~
+0 0 0
+D0
+~
+~
+0 0 39529
+D5
+~
+~
+0 0 39531
+S
+#39531
+Tarpid's domain~
+You have entered Tarpid's humble home. Its nothing special to look at, and
+no he isn't just being modest, this is a real hell hole. However, maybe
+he will help you out a little, if your nice enough and have enough platinum
+that is.
+~
+0 0 0
+D4
+~
+~
+0 0 39530
+S
+#39532
+Into the deeper darkness~
+And you thought the darkness couldn't get worse, guess what, its worse.
+Umm, you are positive you want to continue south right?
+~
+0 8193 0
+D0
+~
+~
+0 0 39533
+D2
+~
+~
+0 0 39500
+S
+#39533
+Path into the darkness~
+With every movement, the darkness seems to consume every living and
+non-living thing in the vicinity. Turning around is not an option, press on!
+The exits are east and south.
+~
+0 8193 0
+D1
+~
+~
+0 0 39534
+D2
+~
+~
+0 0 39532
+S
+#39534
+Path into the darkness~
+With every movement, the darkness seems to consume every living and
+non-living thing in the vicinity. Turning around is not an option, press on!
+The exits are west and north.
+~
+0 8193 0
+D0
+~
+~
+0 0 39535
+D3
+~
+~
+0 0 39533
+S
+#39535
+Path into the darkness~
+Entering a path of complete darkness, there is not much to notice. Darkness
+to your left, darkness to your right, its a sure stroke of luck that you
+figure out that this room leads both north and south.
+~
+0 8193 0
+D0
+~
+~
+0 0 3528
+D2
+~
+~
+0 0 39534
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 39515 5 1 The down door of A desolate field is closed
+D 0 39519 5 1 The down door of A transition in the path. is closed
+D 0 39520 4 1 The up door of A large pit is closed
+D 0 39521 3 1 The west door of Path to a small abode is closed
+D 0 39522 1 1 The east door of Inside the Foyer of the house is closed
+M 0 39500 1 39500 1 *Load An old withered man
+M 0 39501 9 39501 2 *Load a skeleton warrior
+M 0 39505 10 39502 1 *Load an Undead Knight
+M 0 39504 9 39503 1 *Load A rotting zombie
+M 0 39501 1 39504 9 *Load a skeleton warrior
+M 0 39505 10 39504 1 *Load an Undead Knight
+M 0 39501 9 39505 2 *Load a skeleton warrior
+M 0 39501 9 39505 2 *Load a skeleton warrior
+E 0 39503 0 16 *Sword of the {2past{x is loaded wielded of a skeleton warrior
+M 0 39502 2 39506 1 *Load an Undead Dwarf
+E 0 39504 0 16 *A large axe is loaded wielded of an Undead Dwarf
+M 0 39501 9 39507 2 *Load a skeleton warrior
+M 0 39501 9 39507 2 *Load a skeleton warrior
+E 0 39503 0 16 *Sword of the {2past{x is loaded wielded of a skeleton warrior
+M 0 39502 3 39512 1 *Load an Undead Dwarf
+E 0 39504 0 16 *A large axe is loaded wielded of an Undead Dwarf
+M 0 39501 9 39513 1 *Load a skeleton warrior
+M 0 39501 2 39513 9 *Load a skeleton warrior
+M 0 39501 2 39513 9 *Load a skeleton warrior
+M 0 39501 9 39514 1 *Load a skeleton warrior
+M 0 39502 3 39514 1 *Load an Undead Dwarf
+M 0 39504 9 39516 1 *Load A rotting zombie
+M 0 39505 10 39516 1 *Load an Undead Knight
+E 0 39505 0 14 *Bracer of {8undead{x might is loaded on the left wrist of an Undead Knight
+M 0 39505 10 39518 1 *Load an Undead Knight
+M 0 39504 9 39519 1 *Load A rotting zombie
+M 0 39503 1 39520 1 *Load King Zombad
+G 0 39500 0 *A blue key is given to King Zombad
+E 0 39501 0 26 *Faith of the {8u{xn{8d{xe{8a{xd is loaded as a religious patch of King Zombad
+E 0 39502 0 9 *Gauntlets of the {rforgotten{x is loaded on the hands of King Zombad
+M 0 39504 9 39523 1 *Load A rotting zombie
+M 0 39505 10 39524 1 *Load an Undead Knight
+E 0 39505 0 15 *Bracer of {8undead{x might is loaded on the right wrist of an Undead Knight
+M 0 39504 9 39525 1 *Load A rotting zombie
+M 0 39506 1 39531 1 *Load Tarpid
+G 0 39506 0 *{^h{6erb{^s {xof {4life{x is given to Tarpid
+G 0 39507 0 *Potion of the {1past{x is given to Tarpid
+S
+
+
+
+#SHOPS
+39500 0 0 0 0 0 100 100 0 23
+39506 0 26 10 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#39500
+say Be warned! This is not a place for brave newbies! Only the strong will survive.
+~
+#39501
+cac
+close up
+lock up
+~
+#39502
+gack
+say The do not disturb sign was clearly posted!!
+~
+#0
+
+#$

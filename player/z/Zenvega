@@ -1,0 +1,613 @@
+#PLAYER
+Name Zenvega~
+Race elf~
+Levl 60
+Clas thief~
+Pkpt 100
+TSex 1
+LogO 1251086296
+Sock 99-185-76-30.lightspeed.clmasc.sbcglobal.net~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1250820065
+Plat 77
+Gold 12
+Silv 90
+Exp  105597
+Attr 18 20 20 22 17
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQT
+AfBy CDEFGHLTVe
+ShBy CDEHK
+Comm BNQ
+Config L
+Pos  8
+Alig  1000
+Sk 83 'backstab'
+Sk 78 'circle'
+Sk 95 'dagger'
+Sk 84 'dodge'
+Sk 82 'dual wield'
+Sk 75 'envenom'
+Sk 76 'fast healing'
+Sk 75 'fourth attack'
+Sk 77 'gouge'
+Sk 76 'hide'
+Sk 84 'parry'
+Sk 78 'recall'
+Sk 75 'rub'
+Sk 1 'scrolls'
+Sk 81 'second attack'
+Sk 75 'sneak'
+Sk 1 'staves'
+Sk 1 'steal'
+Sk 77 'sword'
+Sk 79 'third attack'
+Sk 1 'wands'
+MaxDam 539
+LLev 9
+Pass ZehtYiz45i9sE~
+Plyd 36141
+Note 0 0 0 0 0
+Room 3005
+HMVN 3876 3572 2019 1974 2386 2381
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 0 0
+Deviant 0 0
+Prac 222
+Trai 63
+Devote current 0
+Pnts 40
+Mkil 1389
+Mdea 4
+Alias 1 gquest info~
+Alias ds drink skin~
+Alias dw drink well~
+Alias 2 get key.corpse~
+Alias 3 get bracelet.corpse~
+Alias 5 get veil corpse~
+Alias 6 sac corpse~
+Alias 4 get key corpse~
+Gr 'rom basics'
+Gr 'thief basics'
+Affc 'bless'   0 274   0  96 -34  20          0
+Affc 'bless'   0 273   0  96  34  18          0
+Affc 'constitution'   0 329   0  29  10   5          0
+Affc 'intellect'   0 326   0  20  10   3          0
+Affc 'shield'   0 270   0  56 -91  17          0
+Affc 'wisdom'   0 269   0  11   9   4          0
+Affc 'fireshield'   1 269   0  43   0   0          8
+Affc 'sanctuary'   1 323   0  38   0   0        128
+Affc 'shockshield'   1 325   0  53   0   0         16
+Affc 'armor'   0 322   0  48 -329  17          0
+Affc 'iceshield'   1 271   0  42   0   0          4
+Affc 'stone skin'   0 106   0  10 -115  17          0
+Affc 'haste'   0 106   0  10   3   2    2097152
+Affc 'giant strength'   0  98   0  10   3   1 1073741824
+Affc 'fly'   0 105   0  71   0   0     524288
+Affc 'farsight'   0 102   0  10   0   0       2048
+Affc 'divine aura'   1 108   0  15   0   0       1024
+Affc 'detect neutral'   0 108   0  10   0   0        128
+Affc 'detect magic'   0 102   0  10   0   0         16
+Affc 'detect good'   0 104   0  10   0   0         64
+Affc 'detect evil'   0 105   0  10   0   0          4
+Affc 'detect invis'   0  45   0  -1   0   0          8
+Affc 'detect hidden'   0  45   0  -1   0   0         32
+End
+
+#O
+Vnum 3708
+Nest 0
+Wear 8
+End
+
+#O
+Vnum 3723
+Nest 0
+Wear 24
+End
+
+#O
+Vnum 3711
+Nest 0
+Wear 12
+End
+
+#O
+Vnum 730
+Nest 0
+Name light gauntlets exceptional~
+ShD  exceptional light gauntlets~
+Loader MPOP: (12:34-08/21/2009) Zenvega~
+Cost 37500
+Wear 9
+Valu 1 7 8
+Valu 2 7 14
+Valu 3 7 8
+Valu 4 7 8
+Affc 'reserved' 2 25 -1 1 4 0
+End
+
+#O
+Vnum 16024
+Nest 0
+Wear 19
+End
+
+#O
+Vnum 16024
+Nest 0
+Wear 16
+End
+
+#O
+Vnum 737
+Nest 0
+Name sleeves normal~
+Loader MPOP: (15:48-08/21/2009) Zenvega~
+Wear 10
+Affc 'reserved' 0 53 -1 4 7 0
+End
+
+#O
+Vnum 16009
+Nest 0
+Wear 5
+End
+
+#O
+Vnum 16014
+Nest 0
+Wear 7
+End
+
+#O
+Vnum 16021
+Nest 0
+Wear 15
+End
+
+#O
+Vnum 723
+Nest 0
+Name veil exceptional~
+ShD  exceptional veil~
+Loader MPOP: (15:55-08/21/2009) Zenvega~
+ExtF EW
+Cost 1500
+Wear 20
+Valu 1 7 5
+Valu 2 7 12
+Valu 3 7 12
+Valu 4 7 4
+Affc 'reserved' 0 53 -1 10 7 0
+Affc 'reserved' 2 1 -1 6 19 0
+End
+
+#O
+Vnum 710
+Nest 0
+Name exceptional Solid choker Killing special~
+ShD  Exceptional Solid choker of Killing~
+Loader MPOP: (22:22-08/21/2009) Zenvega~
+ExtF BW
+Lev  22
+Cost 2000
+Wear 3
+Valu 1 7 12
+Valu 2 7 12
+Valu 3 7 11
+Valu 4 7 6
+Affc 'reserved' 2 20 -1 6 19 0
+Affc 'reserved' 2 20 -1 -6 17 0
+End
+
+#O
+Vnum 23654
+Nest 0
+End
+
+#O
+Vnum 18024
+Nest 1
+End
+
+#O
+Vnum 710
+Nest 1
+Name choker cracked~
+ShD  cracked choker~
+Loader MPOP: (22:22-08/21/2009) Zenvega~
+Cost 10000
+Valu 1 7 3
+Valu 2 7 -1
+Valu 3 7 5
+Valu 4 7 -6
+End
+
+#O
+Vnum 35003
+Nest 1
+ExtF T
+End
+
+#O
+Vnum 15038
+Nest 1
+End
+
+#O
+Vnum 751
+Nest 1
+Name sash normal~
+Loader MPOP: (21:56-08/21/2009) Zenvega~
+End
+
+#O
+Vnum 35003
+Nest 1
+ExtF T
+End
+
+#O
+Vnum 792
+Nest 1
+Name javelin normal~
+Loader MPOP: (21:50-08/21/2009) Zenvega~
+End
+
+#O
+Vnum 780
+Nest 1
+Name club spiked normal~
+Loader MPOP: (21:48-08/21/2009) Zenvega~
+End
+
+#O
+Vnum 711
+Nest 1
+Name Robust necklace special~
+ShD  Robust necklace~
+Loader MPOP: (21:46-08/21/2009) Zenvega~
+Lev  66
+Cost 75
+Affc 'reserved' 2 1 -1 -52 17 0
+Affc 'reserved' 2 1 -1 226 14 0
+End
+
+#O
+Vnum 35003
+Nest 1
+ExtF T
+End
+
+#O
+Vnum 8307
+Nest 1
+Time 613
+End
+
+#O
+Vnum 16036
+Nest 1
+End
+
+#O
+Vnum 35003
+Nest 1
+ExtF T
+End
+
+#O
+Vnum 3612
+Nest 1
+End
+
+#O
+Vnum 16036
+Nest 1
+End
+
+#O
+Vnum 16036
+Nest 1
+End
+
+#O
+Vnum 3138
+Nest 1
+End
+
+#O
+Vnum 16036
+Nest 1
+End
+
+#O
+Vnum 711
+Nest 1
+Name necklace normal~
+Loader MPOP: (22:13-08/20/2009) Zenvega~
+End
+
+#O
+Vnum 3169
+Nest 1
+End
+
+#O
+Vnum 3163
+Nest 1
+End
+
+#O
+Vnum 710
+Nest 1
+Name choker cracked~
+ShD  cracked choker~
+Loader MPOP: (13:28-08/21/2009) Zenvega~
+Cost 10000
+Valu 1 7 4
+Valu 3 7 -2
+Valu 4 7 -4
+End
+
+#O
+Vnum 35003
+Nest 1
+ExtF T
+End
+
+#O
+Vnum 16012
+Nest 1
+ExtF 0
+End
+
+#O
+Vnum 3031
+Nest 1
+Valu 2 1 162
+End
+
+#O
+Vnum 16012
+Nest 1
+ExtF 0
+End
+
+#O
+Vnum 16012
+Nest 1
+ExtF 0
+End
+
+#O
+Vnum 9519
+Nest 1
+End
+
+#O
+Vnum 16006
+Nest 1
+End
+
+#O
+Vnum 16024
+Nest 1
+End
+
+#O
+Vnum 16018
+Nest 1
+End
+
+#O
+Vnum 16016
+Nest 1
+End
+
+#O
+Vnum 16006
+Nest 1
+End
+
+#O
+Vnum 16005
+Nest 1
+End
+
+#O
+Vnum 16053
+Nest 1
+End
+
+#O
+Vnum 16012
+Nest 1
+ExtF 0
+End
+
+#O
+Vnum 15001
+Nest 1
+MULTI Zenvega~ 99-185-76-30.lightspeed.clmasc.sbcglobal.net~ 46
+End
+
+#O
+Vnum 15067
+Nest 1
+MULTI Zenvega~ 99-185-76-30.lightspeed.clmasc.sbcglobal.net~ 47
+End
+
+#O
+Vnum 15067
+Nest 1
+MULTI Zenvega~ 99-185-76-30.lightspeed.clmasc.sbcglobal.net~ 47
+End
+
+#O
+Vnum 15008
+Nest 1
+MULTI Zenvega~ 99-185-76-30.lightspeed.clmasc.sbcglobal.net~ 48
+End
+
+#O
+Vnum 15066
+Nest 1
+MULTI Zenvega~ 99-185-76-30.lightspeed.clmasc.sbcglobal.net~ 48
+End
+
+#O
+Vnum 23643
+Nest 0
+Wear 27
+End
+
+#O
+Vnum 3725
+Nest 0
+Wear 26
+End
+
+#O
+Vnum 3712
+Nest 0
+Wear 13
+End
+
+#O
+Vnum 16006
+Nest 0
+Wear 1
+End
+
+#O
+Vnum 16006
+Nest 0
+Wear 2
+End
+
+#O
+Vnum 16011
+Nest 0
+Wear 6
+End
+
+#O
+Vnum 16000
+Nest 0
+Wear 4
+End
+
+#O
+Vnum 16003
+Nest 0
+End
+
+#O
+Vnum 1692
+Nest 0
+End
+
+#O
+Vnum 16002
+Nest 0
+End
+
+#O
+Vnum 16021
+Nest 0
+Wear 14
+End
+
+#O
+Vnum 726
+Nest 0
+Name leggings normal~
+Loader MPOP: (21:48-08/23/2009) Zenvega~
+End
+
+#O
+Vnum 15065
+Nest 0
+End
+
+#O
+Vnum 3365
+Nest 0
+Loader KILL: (21:54-08/23/2009) Rzarecta~
+Wear 0
+Valu 2 1 338
+End
+
+#O
+Vnum 15065
+Nest 0
+End
+
+#O
+Vnum 35002
+Nest 0
+ExtF T
+End
+
+#O
+Vnum 15065
+Nest 0
+End
+
+#O
+Vnum 15007
+Nest 0
+End
+
+#O
+Vnum 18026
+Nest 0
+End
+
+#O
+Vnum 18026
+Nest 0
+End
+
+#O
+Vnum 18062
+Nest 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Wear 25
+End
+
+#O
+Vnum 3726
+Nest 0
+Wear 22
+End
+
+#O
+Vnum 3726
+Nest 0
+Wear 21
+End
+
+#O
+Vnum 7190
+Nest 0
+End
+
+#O
+Vnum 725
+Nest 0
+Name pants normal~
+Loader MPOP: (23:18-08/23/2009) Zenvega~
+End
+
+#END

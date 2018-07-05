@@ -1,0 +1,4499 @@
+#AOD_AREA
+Dagger Falls~
+16800 16999 C 9
+Levl 65 99
+Bldr Drakon~
+End
+
+#MOBILES
+#16800
+tall thief guard~
+The tall thief~
+The tall thief is guarding the area.
+~
+The tall thief seems to have an urge to slice off your head.
+~
+human~
+50 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+ABCG Ic 0 -500 6800
+65 0 0 1085 1131 2 2 32 65 9 stab
+-300 -50 -50 0
+STANDING STANDING random 200
+0 mage medium ABCDEFGHIJK
+D The guard screams, "PROTECT THE SECRET!" as it falls to the ground, DEAD!~
+W 5
+
+#16801
+slim short thief guard~
+A slim thief~
+The slim thief is guarding the palace's gate.
+~
+The slim thief is very short. It's amazing he got picked to guard this place!
+~
+human~
+50 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+ABCG Ic 0 -500 6800
+65 0 0 1084 1122 2 2 32 65 9 stab
+-300 -50 -50 0
+STANDING STANDING random 200
+0 mage medium ABCDEFGHIJK
+D The guard screams, "DAMN SNEAKY ASSASSINS!" as it falls to the ground, DEAD!~
+W 5
+
+#16802
+strong buff guard~
+A strong, buff guard~
+The strong, buff guard scans around for intruders.
+~
+He looks buff and strong. Perhaps one of the better guards in this place.
+~
+human~
+50 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+ABCFG Ic 0 -500 6800
+75 0 0 1491 1523 2 2 37 75 12 stab
+-100 -120 -250 -50
+STANDING STANDING random 300
+0 mage large ABCDEFGHIJK
+D The guard screams, "PROTECT THE KING!" as it falls to the ground, DEAD!~
+W 18
+
+#16803
+guardian~
+A guardian~
+The guardian scans around for intruders.
+~
+The guardian was magically created to guard the place incase of an intrusion.
+~
+human~
+50 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+ABCFG c 0 -1000 6800
+99 0 0 4266 4358 2 2 49 99 18 stab
+-200 -250 -150 -150
+STANDING STANDING random 500
+0 mage medium ABCDEFGHIJK
+D The guardian screams, "PROTECT THE KING!" as it falls to the ground, DEAD!~
+W 10
+
+#16804
+king fake~
+The fake king~
+The king is here, fondling a kidnapped young woman.
+~
+This can't be the real king! At least he doesn't act like one. It's very hard
+to believe he is.
+~
+human~
+50 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+ABCGS c H -500 6800
+85 0 0 2352 2425 2 2 42 85 14 stab
+-140 -140 -150 -50
+STANDING STANDING male 1000
+0 mage medium ABCDEFGHIJK
+D The king yell, "STOP! I'm not the real king, really! Don't kill me!"~
+W 1
+
+#16805
+true king~
+The true king~
+The true king of thieves is here, counting his money.
+~
+Now this is more like it! A real king should be admiring his own wealth, not
+fondling kidnapped young woman.
+~
+human~
+50 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+ABCGS c H -500 6800
+105 0 0 7236 7306 2 2 52 105 23 stab
+-200 -250 -250 -150
+STANDING STANDING male 5000
+0 mage medium ABCDEFGHIJK
+D The king screams, "MY GOLD! MY PRECIOUS GOLD!!!" as he dies.~
+W 1
+
+#16806
+young kidnapped woman~
+A young woman~
+A young, kidnapped woman is here, being fondled by the king.
+~
+You see a young, beautiful woman. Her eyes are filled with tears and her dress
+is almost completely gone. No doubt the king has been through with her.
+~
+human~
+50 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+ABCG c 0 500 6800
+80 0 0 1912 1954 2 2 40 80 13 slash
+-100 -50 -50 -50
+STANDING STANDING female 100
+0 mage medium ABCDEFGHIJK
+D The young woman screams, "WHY ME?!?!" and dies.~
+W 1
+
+#16807
+young kidnapped woman~
+A young woman~
+A young, kidnapped woman is here, tied up.
+~
+You see a young, beautiful woman. Her eyes are filled with tears and her dress
+is almost completely gone. No doubt the king has been through with her.
+~
+human~
+50 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 
+ABCG c 0 500 6800
+80 0 0 1914 1953 2 2 40 80 13 slash
+-100 -50 -50 -50
+STANDING STANDING female 100
+0 mage medium ABCDEFGHIJK
+D The young woman screams, "WHY ME?!?!" and dies.~
+W 24
+
+#16808
+weapon shop owner~
+The shop owner~
+The shop owner smiles as you and asks if he could help you.
+~
+The shop owner is dressed quite well. With all the money he's making, he
+should be.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABCGI c 0 500 6800
+80 0 0 1902 1958 2 2 40 80 300 slash
+-100 -50 -50 -50
+STANDING STANDING random 100000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#16809
+potion shop owner~
+The shop owner~
+The shop owner smiles as you and asks if he could help you.
+~
+The shop owner is dressed quite well. With all the money he's making, he
+should be.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABCGI c 0 500 6800
+80 0 0 1916 1949 2 2 40 80 1000 slash
+-100 -50 -50 -50
+STANDING STANDING random 1000000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#16810
+jewelry shop owner~
+The shop owner~
+The shop owner smiles as you and asks if he could help you.
+~
+The shop owner is dress quite well. With all the money he's making, he should
+be.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABCGI c 0 500 6800
+80 0 0 1902 1955 2 2 40 80 1000 slash
+-100 -50 -50 -50
+STANDING STANDING random 1000000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#16811
+key shop owner~
+The shop owner~
+The shop owner smiles as you and asks if he could help you.
+~
+The shop owner is dress quite well. With all the money he's making, he should
+be.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABCGI c 0 500 6800
+80 0 0 1909 1956 2 2 40 80 1000 slash
+-100 -50 -50 -50
+STANDING STANDING random 1000000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#16812
+scroll shop owner~
+The shop owner~
+The shop owner smiles as you and asks if he could help you.
+~
+The shop owner is dress quite well. With all the money he's making, he should
+be.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABCGI c 0 500 6800
+80 0 0 1912 1965 2 2 40 80 1000 slash
+-100 -50 -50 -50
+STANDING STANDING random 1000000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#16813
+armor shop owner~
+The shop owner~
+The shop owner smiles as you and asks if he could help you.
+~
+The shop owner is dress quite well. With all the money he's making, he should
+be.
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABCGI c 0 500 6800
+80 0 0 1904 1957 2 2 40 80 100 slash
+-100 -50 -50 -50
+STANDING STANDING random 1000000
+0 mage medium ABCDEFGHIJK
+W 1
+
+#16814
+master thief~
+The master thief~
+The master thief is here, training his students.
+~
+The master thief looks quite young to be so powerful.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCGS c H -750 6800
+90 0 0 3110 3171 2 2 45 90 16 stab
+-150 -150 -150 -50
+STANDING STANDING random 500
+0 mage medium ABCDEFGHIJK
+W 2
+
+#16815
+master thief~
+The master thief~
+The master thief is here, training his students.
+~
+The master thief looks quite young to be so powerful.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCGS c H -750 6800
+103 0 0 6218 6318 2 2 51 103 21 stab
+-230 -230 -230 -200
+STANDING STANDING random 600
+0 mage medium ABCDEFGHIJK
+W 2
+
+#16816
+a level seventy thief~
+a level seventy thief~
+A level seventy thief is here training.
+~
+A level 70 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG Ic 0 -750 6800
+70 0 0 1345 1376 2 2 35 70 11 stab
+-110 -110 -110 -100
+STANDING STANDING random 300
+0 mage medium ABCDEFGHIJK
+W 15
+
+#16817
+a level seventy three thief~
+a level seventy three thief~
+A level seventy three thief is here training.
+~
+A level 73 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG Ic 0 -750 6800
+73 0 0 1439 1473 2 2 36 73 11 stab
+-110 -110 -110 -100
+STANDING STANDING random 300
+0 mage medium ABCDEFGHIJK
+W 15
+
+#16818
+a level seventy five thief~
+a level seventy five thief~
+A level seventy five thief is here training.
+~
+A level 75 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG Ic 0 -750 6800
+75 0 0 1531 1569 2 2 37 75 12 stab
+-110 -110 -110 -100
+STANDING STANDING random 300
+0 mage medium ABCDEFGHIJK
+W 15
+
+#16819
+a level seventy eight thief~
+a level seventy eight thief~
+A level seventy eight thief is here training.
+~
+A level 78 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG Ic 0 -750 6800
+78 0 0 1747 1805 2 2 39 78 13 stab
+-110 -110 -110 -100
+STANDING STANDING random 300
+0 mage medium ABCDEFGHIJK
+W 15
+
+#16820
+a level eighty thief~
+a level eighty thief~
+A level eighty thief is here training.
+~
+A level 80 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG Ic 0 -750 6800
+80 0 0 1903 1956 2 2 40 80 13 stab
+-130 -130 -130 -100
+STANDING STANDING random 400
+0 mage medium ABCDEFGHIJK
+W 15
+
+#16821
+a level eighty three thief~
+a level eighty three thief~
+A level eighty three thief is here training.
+~
+A level 83 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG Ic 0 -750 6800
+83 0 0 2106 2174 2 2 41 83 14 stab
+-140 -120 -130 -120
+STANDING STANDING random 400
+0 mage medium ABCDEFGHIJK
+W 15
+
+#16822
+a level eighty five thief~
+a level eighty five thief~
+A level eighty five thief is here training.
+~
+A level 85 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG c 0 -750 6800
+85 0 0 2352 2417 2 2 42 85 14 stab
+-110 -110 -110 -100
+STANDING STANDING random 400
+0 mage medium ABCDEFGHIJK
+W 20
+
+#16823
+a level eighty eight thief~
+a level eighty eight thief~
+A level eighty eight thief is here training.
+~
+A level 88 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG c 0 -750 6800
+88 0 0 2854 2914 2 2 44 88 15 stab
+-140 -160 -130 -140
+STANDING STANDING random 400
+0 mage medium ABCDEFGHIJK
+W 20
+
+#16824
+a level ninety thief~
+a level ninety thief~
+A level ninety thief is here training.
+~
+A level 90 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG c 0 -750 6800
+90 0 0 3107 3166 2 2 45 90 16 stab
+-150 -150 -150 -150
+STANDING STANDING random 500
+0 mage medium ABCDEFGHIJK
+W 20
+
+#16825
+a level ninety three thief~
+a level ninety three thief~
+A level ninety three thief is here training.
+~
+A level 93 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG c 0 -750 6800
+93 0 0 3354 3418 2 2 46 93 16 stab
+-160 -150 -140 -150
+STANDING STANDING random 500
+0 mage medium ABCDEFGHIJK
+W 20
+
+#16826
+a level ninety five thief~
+a level ninety five thief~
+A level ninety five thief is here training.
+~
+A level 95 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG c 0 -750 6800
+95 0 0 3615 3669 2 2 47 95 17 stab
+-160 -150 -140 -150
+STANDING STANDING random 500
+0 mage medium ABCDEFGHIJK
+W 40
+
+#16827
+a level one hundred thief~
+L.100 thief~
+A level one hundred thief is here training.
+~
+A level 100 thief looks pretty strong for his level.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABCG c 0 -750 6800
+100 0 0 4215 4322 2 2 50 100 19 stab
+-170 -180 -190 -170
+STANDING STANDING random 500
+0 mage medium ABCDEFGHIJK
+W 60
+#0
+
+#OBJECTS
+#16800
+strangely silver key~
+a strangely shaped silver key~
+A strangely shaped silver key lies here on the ground.~
+key N A
+0 0 0 0 0
+0 10 10000
+
+#16801
+golden key~
+a golden key~
+A golden key lies here on the ground.~
+key N A
+0 0 0 0 0
+0 10 100
+
+#16802
+skull key~
+a skull key~
+a key in the shape of a skull lies here on the ground.~
+key N A
+0 0 0 0 0
+0 10 1000
+
+#16803
+arcticblade blade~
+An ArcticBlade~
+A blade made of ice lies here on the ground.~
+weapon GHTY AN
+dagger 13 13 chill DEG
+101 40 5
+A 19 25
+A 18 25
+A 2 3
+A 13 150
+
+#16804
+black eye patch~
+a black eye patch~
+A black eye patch lies here on the ground.~
+armor G AY
+20 20 20 16 0
+90 10 1000
+A 2 3
+A 18 10
+
+#16805
+silver eye patch~
+A silver eye patch~
+A silver eye patch lies here on the ground.~
+armor G AY
+22 22 22 22 0
+100 10 1000
+A 2 3
+A 18 15
+
+#16806
+lady death potion~
+A potion labeled, "Lady Death"~
+A potion labeled, "Lady Death" lies here on the ground.~
+potion GN A
+90 'frenzy' 'haste' '' ''
+80 10 10000
+
+#16807
+invulnerability potion~
+A potion of invulnerability~
+A potion lies here on the ground.~
+potion GN A
+90 'sanctuary' 'stone skin' '' ''
+80 10 10000
+
+#16808
+dark blessing portion~
+A potion labeled, "Dark Blessing"~
+A potion lies here on the ground.~
+potion GN A
+90 'protection good' 'invisibility' '' ''
+80 10 10000
+
+#16809
+regeneration potion~
+A potion of regeneration~
+A potion lies here on the ground.~
+potion GY A
+90 'cure critical' 'cure critical' 'cure critical' 'cure critical'
+100 10 50000
+
+#16810
+god wrath harm scroll~
+A scroll labeled, "God's Wrath"~
+A scroll lies here on the ground.~
+scroll GN A
+90 'harm' '' '' ''
+80 10 10000
+
+#16811
+acid blast scroll~
+A scroll of acid blast~
+A scroll lies here on the ground.~
+scroll GN A
+90 'acid blast' '' '' ''
+80 10 10000
+
+#16812
+scroll dispel~
+a scroll of dispel magic~
+A scroll lies here on the ground.~
+scroll GN A
+95 'dispel magic' '' '' ''
+80 750 50000
+
+#16813
+blue scroll~
+A crumbling blue scroll~
+A scroll lies here on the ground.~
+scroll GNY A
+90 'armor' '' '' 'stone skin'
+100 10 150000
+
+#16814
+copper breastplate plate~
+A copper breastplate~
+A copper breastplate lies here on the ground.~
+armor GN AD
+12 13 13 9 3
+50 150 1000
+A 17 -5
+A 18 -1
+
+#16815
+silver breastplate plate~
+A silver breastplate~
+A silver breastplate lies here on the ground.~
+armor GNT AD
+30 30 30 30 3
+101 150 10000
+A 19 33
+A 18 33
+A 13 303
+A 20 -4
+
+#16816
+golden breastplate plate~
+A golden breastplate~
+A golden breastplate lies here on the ground.~
+armor GN AD
+18 18 18 17 3
+80 150 100000
+A 17 -15
+A 18 -5
+
+#16817
+diamond breastplate plate~
+A diamond breastplate~
+A diamond breastplate lies here on the ground.~
+armor GN AD
+23 23 23 19 5
+100 150 300000
+A 17 -25
+A 18 -7
+A 13 200
+A 12 -750
+A 5 3
+
+#16818
+blood thirsty tooth~
+A blood thirsty tooth~
+A tooth lies here on the ground.~
+weapon N AN
+exotic 7 8 pierce CH
+50 50 8900
+
+#16819
+flaming claw~
+A flaming claw~
+A claw lies here on the ground.~
+weapon N AN
+exotic 9 10 slash AD
+65 250 9900
+
+#16820
+steel kris~
+A steel kris~
+A kris lies here on the ground.~
+weapon N AN
+dagger 10 12 pierce EG
+80 250 23000
+
+#16821
+neck chain~
+A shimmering neck chain~
+A neck chain lies here on the ground.~
+jewelry N AC
+0 0 0 0 0
+50 10 3400
+A 18 5
+A 19 5
+
+#16822
+neck chain~
+A neck chain with a silver bullet hanging from it~
+A neck chain lies here on the ground.~
+jewelry N AC
+0 0 0 0 0
+70 10 7600
+A 18 7
+A 19 7
+
+#16823
+neck chain~
+A magical silver neck chain~
+A neck chain lies here on the ground.~
+jewelry N AC
+0 0 0 0 0
+90 10 9900
+A 18 9
+A 19 9
+
+#16824
+flaming throwing dagger~
+a {rf{yl{Ra{Ym{yi{Rn{rg{x throwing dagger{x~
+A dagger has been left here~
+weapon A AN
+dagger 13 13 flbite ABD
+101 40 3970
+
+#16825
+pile gold~
+a pile of gold~
+A pile of gold lies here on the ground.~
+money 0 A
+0 25 0 0 0
+0 0 0
+
+#16826
+flaming throwing dagger~
+a {rf{yl{Ra{Ym{yi{Rn{rg{x throwing dagger{x~
+A dagger has been left here.~
+weapon A AN
+dagger 14 13 flbite ADH
+101 40 3970
+
+#16827
+boots poison needle~
+some sturdy {yleather boots{x with a poisoned needle at the toe~
+Some leather boots are here.~
+armor G AG
+30 30 30 30 0
+101 10 10000
+A 2 3
+A 20 -3
+A 13 303
+A 19 33
+A 18 33
+
+#16828
+thorns~
+{Gth{go{Grns{x of a {rrose{g bush{x~
+Some {Gth{go{Grns{x grow from the ground~
+armor A AT
+30 30 30 30 0
+101 0 11001
+A 2 -2
+A 20 -2
+A 13 303
+
+#16829
+anklet thorns~
+{DAnklet of {gT{Gh{yo{gr{Gn{ys{x~
+An anklet made of poisonous thorns lies here.~
+armor 0 AT
+23 23 23 23 0
+101 0 2000
+A 1 1
+A 5 1
+A 13 125
+A 12 150
+A 20 -2
+#0
+
+#ROOMS
+#16800
+The Waterfalls~
+As you walk towards it to catch some water to cool you down, you
+notice that at the other side of the waterfall is an entrance, cleverly
+hidden by the waterfall itself.
+~
+0 2
+D0
+~
+~
+0 -1 16801
+D2
+~
+~
+0 0 11259
+S
+
+#16801
+Entrance to Dagger Falls~
+This is the entrance to Dagger Falls, the legendary hide out of thieves
+all over the world.  As you look around this narrow room, you notice that
+the cave seem to open up further north; closely grown trees provided a thick
+barrier between the entrance and the hideout itself.  The only thing that
+seems to light up this room is the light that shines through the waterfalls
+from the south.  
+~
+8 0
+D0
+~
+~
+0 -1 16802
+D2
+~
+~
+0 -1 16800
+S
+
+#16802
+Inside the closely grown tree barrier~
+The trees here are so closely grown that it seems almost impossible to
+enter. However, when a person is truly determined, anything is possible. The
+place is very dark here... no light could shine through this dense area.
+~
+9 0
+D0
+~
+~
+0 -1 16804
+D2
+~
+~
+0 -1 16801
+S
+
+#16803
+Inside the closely grown tree barrier~
+The trees here are so closely grown that it seems almost impossible to
+enter. However, when a person is truly determined, anything is possible. The
+place is very dark here... no light could shine through this dense area.
+~
+9 0
+D0
+~
+~
+0 -1 16807
+D1
+~
+~
+0 -1 16804
+S
+
+#16804
+Inside the closely grown tree barrier~
+The trees here are so closely grown that it seems almost impossible to
+enter. However, when a person is truly determined, anything is possible. The
+place is very dark here... no light could shine through this dense area.
+~
+9 0
+D0
+~
+~
+0 -1 16808
+D1
+~
+~
+0 -1 16805
+D2
+~
+~
+0 -1 16802
+D3
+~
+~
+0 -1 16803
+S
+
+#16805
+Inside the closely grown tree barrier~
+The trees here are so closely grown that it seems almost impossible to
+enter. However, when a person is truly determined, anything is possible. The
+place is very dark here... no light could shine through this dense area.
+~
+9 0
+D0
+~
+~
+0 -1 16809
+D3
+~
+~
+0 -1 16804
+S
+
+#16806
+Inside the closely grown tree barrier~
+The trees here are so closely grown that it seems almost impossible to
+enter. However, when a person is truly determined, anything is possible. The
+place is very dark here... no light could shine through this dense area.
+~
+9 0
+D1
+~
+~
+0 -1 16807
+D5
+A pile of dirt here seems to be covering some kind of trap door.
+~
+trap door~
+0 16800 16945
+S
+
+#16807
+Inside the closely grown tree barrier~
+The trees here are so closely grown that it seems almost impossible to
+enter. However, when a person is truly determined, anything is possible. The
+place is very dark here... no light could shine through this dense area.
+~
+9 0
+D1
+~
+~
+0 -1 16808
+D2
+~
+~
+0 -1 16803
+D3
+~
+~
+0 -1 16806
+S
+
+#16808
+Inside the closely grown tree barrier~
+The trees here are so closely grown that it seems almost impossible to
+enter. However, when a person is truly determined, anything is possible. The
+place is very dark here... no light could shine through this dense area.
+~
+9 0
+D0
+~
+~
+0 -1 16814
+D1
+~
+~
+0 -1 16809
+D2
+~
+~
+0 -1 16804
+D3
+~
+~
+0 -1 16807
+S
+
+#16809
+Inside the closely grown tree barrier~
+The trees here are so closely grown that it seems almost impossible to
+enter. However, when a person is truly determined, anything is possible. The
+place is very dark here... no light could shine through this dense area.
+~
+9 0
+D1
+~
+~
+0 -1 16810
+D2
+~
+~
+0 -1 16805
+D3
+~
+~
+0 -1 16808
+S
+
+#16810
+Inside the closely grown tree barrier~
+The trees here are so closely grown that it seems almost impossible to
+enter. However, when a person is truly determined, anything is possible. The
+place is very dark here... no light could shine through this dense area.
+~
+9 0
+D3
+~
+~
+0 -1 16809
+D5
+A pile of dirt here seems to be covering some kind of trap door.
+~
+trap door~
+0 16800 16946
+S
+
+#16811
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 -1 16818
+D1
+~
+~
+0 -1 16812
+S
+
+#16812
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 -1 16819
+D1
+~
+~
+0 -1 16813
+D3
+~
+~
+0 -1 16811
+S
+
+#16813
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 -1 16820
+D1
+~
+~
+0 -1 16814
+D3
+~
+~
+0 -1 16812
+S
+
+#16814
+A small road~
+This road is used very often, you can tell that by the damage on the
+road it self; done by years and years of use. You can hear the thieves
+training from here; it gets louder as you walk westward and even louder
+eastward. The road continues north.
+~
+8 0
+D0
+~
+~
+0 -1 16821
+D1
+~
+~
+0 -1 16815
+D2
+~
+~
+0 -1 16808
+D3
+~
+~
+0 -1 16813
+S
+
+#16815
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 -1 16822
+D1
+~
+~
+0 -1 16816
+D3
+~
+~
+0 -1 16814
+S
+
+#16816
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 -1 16823
+D1
+~
+~
+0 -1 16817
+D3
+~
+~
+0 -1 16815
+S
+
+#16817
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 -1 16824
+D3
+~
+~
+0 -1 16816
+S
+
+#16818
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 0 16825
+D1
+~
+~
+0 -1 16819
+D2
+~
+~
+0 -1 16811
+S
+
+#16819
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 -1 16826
+D1
+~
+~
+0 -1 16820
+D2
+~
+~
+0 -1 16812
+D3
+~
+~
+0 -1 16818
+S
+
+#16820
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 -1 16827
+D2
+~
+~
+0 -1 16813
+D3
+~
+~
+0 -1 16819
+S
+
+#16821
+A small road~
+This road is used very often, you can tell that by the damage on the
+road it self; done by years and years of use. You can hear the thieves
+training from here; it's louder as you walk southward. The road continues
+north and southward.
+~
+8 0
+D0
+~
+~
+0 -1 16828
+D2
+~
+~
+0 -1 16814
+S
+
+#16822
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 -1 16829
+D1
+~
+~
+0 -1 16823
+D2
+~
+~
+0 -1 16815
+S
+
+#16823
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 -1 16830
+D1
+~
+~
+0 -1 16824
+D2
+~
+~
+0 -1 16816
+D3
+~
+~
+0 -1 16822
+S
+
+#16824
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D0
+~
+~
+0 -1 16831
+D2
+~
+~
+0 -1 16817
+D3
+~
+~
+0 -1 16823
+S
+
+#16825
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D1
+~
+~
+0 -1 16826
+D2
+~
+~
+0 0 16818
+S
+
+#16826
+Beginners' Training Ground~
+You notice the place is filled with small children on their first lesson
+on how to backstab.  Judging by their style of backstabbing, they are not
+very skilled and probably haven't been practicing long.  Apparently, the
+dummy that they were supplied has been passed down from generation to
+generation.  The scars on the dummies show how many times they have tried to
+repair it.  To the north is the Master Thief.  He seems to be the trainer
+for this particularly small group.  
+~
+8 0
+D0
+~
+~
+0 -1 16836
+D1
+~
+~
+0 -1 16827
+D2
+~
+~
+0 -1 16819
+D3
+~
+~
+0 -1 16825
+S
+
+#16827
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D2
+~
+~
+0 -1 16820
+D3
+~
+~
+0 -1 16826
+S
+
+#16828
+A small road~
+This road is used very often, you can tell that by the damage on the
+road it self; done by years and years of use. You can hear the thieves
+training from here; it's very faint here, but you can still hear it. The
+road continues north and southward.
+~
+8 0
+D0
+~
+~
+0 -1 16838
+D2
+~
+~
+0 -1 16821
+S
+
+#16829
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D1
+~
+~
+0 -1 16830
+D2
+~
+~
+0 -1 16822
+S
+
+#16830
+Beginners' Training Ground~
+You notice the place is filled with small children on their first lesson
+on how to backstab.  Judging by their style of backstabbing, they are not
+very skilled and probably haven't been practicing long.  Apparently, the
+dummy that they were supplied has been passed down from generation to
+generation.  The scars on the dummies show how many times they have tried to
+repair it.  To the north is the Master Thief.  He seems to be the trainer
+for this particularly small group.  
+~
+8 0
+D0
+~
+~
+0 -1 16840
+D1
+~
+~
+0 -1 16831
+D2
+~
+~
+0 -1 16823
+D3
+~
+~
+0 -1 16829
+S
+
+#16831
+Beginners' Training Ground~
+You notice the place is filled with small children on their first
+lesson on how to backstab. Judging by their style of backstabbing, they are
+not very skilled and probably haven't been practicing long. Apparently,
+the dummy that they were supplied has been passed down from generation to
+generation. The scars on the dummies show how many times they have tried to
+repair it.
+~
+8 0
+D2
+~
+~
+0 -1 16824
+D3
+~
+~
+0 -1 16830
+S
+
+#16832
+A road to the true training grounds~
+As you scan the area, you notice the road leads to the true training
+ground of thieves. It's best if you don't go in there, you don't know what
+they might do to you! Perhaps backstab you when you're not looking and kill
+you for whatever you have on you.
+~
+8 0
+D0
+~
+~
+0 -1 16847
+D1
+~
+~
+0 -1 16833
+S
+
+#16833
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D1
+~
+~
+0 -1 16834
+D3
+~
+~
+0 -1 16832
+S
+
+#16834
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D1
+~
+~
+0 -1 16835
+D3
+~
+~
+0 -1 16833
+S
+
+#16835
+A wide road~
+This place is CRAMMED with people. Good thing they created this passage
+of the road to be very wide. What would cause such a massive amount of
+traffic?
+~
+8 0
+D0
+~
+~
+0 -1 16850
+D3
+~
+~
+0 -1 16834
+S
+
+#16836
+Trainer's Stage~
+This is where the Master Thieves show off their stuff and trains their
+students. You notice how the room was created to amplify the sounds so that it
+would reach every corner of the training ground.
+~
+8 0
+D2
+~
+~
+0 -1 16826
+S
+
+#16837
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D0
+~
+~
+0 -1 16852
+D1
+~
+~
+0 -1 16838
+S
+
+#16838
+Crossroads of the Thieves~
+This is were an experienced thief must decide which Master Thief he
+would like to learn his art from. Picking a good teacher is very important; it
+would decide his fate as a thief later on in his adventures.
+~
+8 0
+D0
+~
+~
+0 -1 16853
+D1
+~
+~
+0 -1 16839
+D2
+~
+~
+0 -1 16828
+D3
+~
+~
+0 -1 16837
+S
+
+#16839
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D0
+~
+~
+0 -1 16854
+D3
+~
+~
+0 -1 16838
+S
+
+#16840
+Trainer's Stage~
+This is where the Master Thieves show off their stuff and trains their
+students. You notice how the room was created to amplify the sounds so that it
+would reach every corner of the training ground.
+~
+8 0
+D2
+~
+~
+0 -1 16830
+S
+
+#16841
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D0
+~
+~
+0 -1 16856
+D1
+~
+~
+0 -1 16842
+S
+
+#16842
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D1
+~
+~
+0 -1 16843
+D3
+~
+~
+0 -1 16841
+S
+
+#16843
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D1
+~
+~
+0 -1 16844
+D3
+~
+~
+0 -1 16842
+S
+
+#16844
+A road to the true training grounds~
+As you scan the area, you notice the road leads to the true training
+ground of thieves. It's best if you don't go in there, you don't know what
+they might do to you! Perhaps backstab you when your not looking and kill you
+for whatever you have on you.
+~
+8 0
+D0
+~
+~
+0 -1 16859
+D3
+~
+~
+0 -1 16843
+S
+
+#16845
+The True Training Grounds~
+This is where the experienced thieves train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief, it's a true training
+ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16862
+D1
+~
+~
+0 -1 16846
+S
+
+#16846
+The True Training Grounds~
+This is where the experienced thieves train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief, it's a true training
+ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16863
+D1
+~
+~
+0 -1 16847
+D3
+~
+~
+0 -1 16845
+S
+
+#16847
+The True Training Grounds~
+This is where the experienced thieves train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief, it's a true training
+ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16864
+D1
+~
+~
+0 -1 16848
+D2
+~
+~
+0 -1 16832
+D3
+~
+~
+0 -1 16846
+S
+
+#16848
+The True Training Grounds~
+This is where the experienced thieves train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief, it's a true training
+ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16865
+D1
+~
+~
+0 -1 16849
+D3
+~
+~
+0 -1 16847
+S
+
+#16849
+The True Training Grounds~
+This is where the experienced thieves train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief, it's a true training
+ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16866
+D3
+~
+~
+0 -1 16848
+S
+
+#16850
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D1
+~
+~
+0 -1 16851
+D2
+~
+~
+0 -1 16835
+S
+
+#16851
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D1
+~
+~
+0 -1 16852
+D3
+~
+~
+0 -1 16850
+S
+
+#16852
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D2
+~
+~
+0 -1 16837
+D3
+~
+~
+0 -1 16851
+S
+
+#16853
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D0
+~
+~
+0 -1 16870
+D2
+~
+~
+0 -1 16838
+S
+
+#16854
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D1
+~
+~
+0 -1 16855
+D2
+~
+~
+0 -1 16839
+S
+
+#16855
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D1
+~
+~
+0 -1 16856
+D3
+~
+~
+0 -1 16854
+S
+
+#16856
+A wide road~
+This place is CRAMMED with people.  Good thing they created this passage
+of the road to be very wide.  What would cause such a massive amount of
+traffic?  
+~
+8 0
+D2
+~
+~
+0 -1 16841
+D3
+~
+~
+0 -1 16855
+S
+
+#16857
+The True Training Grounds~
+This is where the experienced thieves train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief, it's a true training
+ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16874
+D1
+~
+~
+0 -1 16858
+S
+
+#16858
+The True Training Grounds~
+This is where the experienced thieves train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief, it's a true training
+ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16875
+D1
+~
+~
+0 -1 16859
+D3
+~
+~
+0 -1 16857
+S
+
+#16859
+The True Training Grounds~
+This is where the experienced thieves train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief, it's a true training
+ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16876
+D1
+~
+~
+0 -1 16860
+D2
+~
+~
+0 -1 16844
+D3
+~
+~
+0 -1 16858
+S
+
+#16860
+The True Training Grounds~
+This is where the experienced thieves train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief, it's a true training
+ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16877
+D1
+~
+~
+0 -1 16861
+D3
+~
+~
+0 -1 16859
+S
+
+#16861
+The True Training Grounds~
+This is where the experienced thieves train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief, it's a true training
+ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16878
+D3
+~
+~
+0 -1 16860
+S
+
+#16862
+The True Training Grounds~
+This is where the VERY experienced thieves train. Stealing from each
+other, learning from their own mistakes. This is a true chaos! Or is it?
+To the untrained eye, this might seem as chaos, but to a thief, it's a true
+training ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16879
+D1
+~
+~
+0 -1 16863
+D2
+~
+~
+0 -1 16845
+S
+
+#16863
+The True Training Grounds~
+This is where the VERY experienced thieves train. Stealing from each
+other, learning from their own mistakes. This is a true chaos! Or is it?
+To the untrained eye, this might seem as chaos, but to a thief, it's a true
+training ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16880
+D1
+~
+~
+0 -1 16864
+D2
+~
+~
+0 -1 16846
+D3
+~
+~
+0 -1 16862
+S
+
+#16864
+The True Training Grounds~
+This is where the VERY experienced thieves train. Stealing from each
+other, learning from their own mistakes. This is a true chaos! Or is it?
+To the untrained eye, this might seem as chaos, but to a thief; it's a true
+training ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16881
+D1
+~
+~
+0 -1 16865
+D2
+~
+~
+0 -1 16847
+D3
+~
+~
+0 -1 16863
+S
+
+#16865
+The True Training Grounds~
+This is where the VERY experienced thieves train. Stealing from each
+other, learning from their own mistakes. This is a true chaos! Or is it?
+To the untrained eye, this might seem as chaos, but to a thief, it's a true
+training ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16882
+D1
+~
+~
+0 -1 16866
+D2
+~
+~
+0 -1 16848
+D3
+~
+~
+0 -1 16864
+S
+
+#16866
+The True Training Grounds~
+This is where the VERY experienced thieves train. Stealing from each
+other, learning from their own mistakes. This is a true chaos! Or is it?
+To the untrained eye, this might seem as chaos, but to a thief, it's a true
+training ground; a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16883
+D2
+~
+~
+0 -1 16849
+D3
+~
+~
+0 -1 16865
+S
+
+#16867
+Inside the warehouse~
+The place has a decomposed smell to it. Spider webs cover the whole
+room and the dirt on the ground seems almost unnatural! To the north, you see
+the Weapon Shop through the windows. This place is filled with raw materials;
+which you have no use for.
+~
+9 0
+D1
+~
+~
+0 -1 16868
+S
+
+#16868
+Inside the warehouse~
+The place has a decomposed smell to it. Spider webs cover the whole
+room and the dirt on the ground seems almost unnatural! To the north, you see
+the Potion Shop through the windows. This place is filled with raw materials;
+which you have no use for.
+~
+9 0
+D0
+~
+~
+0 -1 16885
+D1
+~
+~
+0 -1 16869
+D3
+~
+~
+0 -1 16867
+D5
+A pile of dirt here seems to be covering some kind of trap door.
+~
+trap door~
+0 16800 16960
+S
+
+#16869
+Inside the warehouse~
+The place has a decomposed smell to it. Spider webs cover the whole
+room and the dirt on the ground seems almost unnatural! To the north, you see
+the Jewelry Shop through the windows. This place is filled with raw materials;
+which you have no use for.
+~
+9 0
+D3
+~
+~
+0 -1 16868
+S
+
+#16870
+The main street~
+As you examine the place closely, you notice that it leads to the
+Market square to the north and a wide road to the south. There seem to be a
+warehouse west and east of you, perhaps filled with useful items.
+~
+8 0
+D0
+~
+~
+0 -1 16887
+D2
+~
+~
+0 -1 16853
+S
+
+#16871
+Inside the warehouse~
+The place has a decomposed smell to it. Spider webs cover the whole
+room and the dirt on the ground seems almost unnatural! To the north, you see
+the Key Shop through the windows. This place is filled with raw materials;
+which you have no use for.
+~
+9 0
+D1
+~
+~
+0 -1 16872
+S
+
+#16872
+Inside the warehouse~
+The place has a decomposed smell to it. Spider webs cover the whole
+room and the dirt on the ground seems almost unnatural! To the north, you see
+the Scroll Shop through the windows. This place is filled with raw materials;
+which you have no use for.
+~
+9 0
+D0
+~
+~
+0 -1 16889
+D1
+~
+~
+0 -1 16873
+D3
+~
+~
+0 -1 16871
+D5
+A pile of dirt here seems to be covering some kind of trap door.
+~
+trap door~
+0 16800 16961
+S
+
+#16873
+Inside the warehouse~
+The place has a decomposed smell to it. Spider webs cover the whole
+room and the dirt on the ground seems almost unnatural! To the north, you see
+the Armor Shop through the windows. This place is filled with raw materials;
+which you have no use for.
+~
+9 0
+D3
+~
+~
+0 -1 16872
+S
+
+#16874
+The True Training Grounds~
+This is where the VERY experienced thieves train. Stealing from each
+other, learning from their own mistakes. This is a true chaos! Or is it?
+To the untrained eye, this might seem as chaos, but to a thief; it's a true
+training ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16891
+D1
+~
+~
+0 -1 16875
+D2
+~
+~
+0 -1 16857
+S
+
+#16875
+The True Training Grounds~
+This is where the VERY experienced thieves train. Stealing from each
+other, learning from their own mistakes. This is a true chaos! Or is it? To
+the untrained eye, this might seem as chaos, but to a thief; it's a true
+training ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16892
+D1
+~
+~
+0 -1 16876
+D2
+~
+~
+0 -1 16858
+D3
+~
+~
+0 -1 16874
+S
+
+#16876
+The True Training Grounds~
+This is where the VERY experienced thieves train. Stealing from each
+other, learning from their own mistakes. This is a true chaos! Or is it? To
+the untrained eye, this might seem as chaos, but to a thief; it's a true
+training ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16893
+D1
+~
+~
+0 -1 16877
+D2
+~
+~
+0 -1 16859
+D3
+~
+~
+0 -1 16875
+S
+
+#16877
+The True Training Grounds~
+This is where the VERY experienced thieves train. Stealing from each
+other, learning from their own mistakes. This is a true chaos! Or is it? To
+the untrained eye, this might seem as chaos, but to a thief; it's a true
+training ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16894
+D1
+~
+~
+0 -1 16878
+D2
+~
+~
+0 -1 16860
+D3
+~
+~
+0 -1 16876
+S
+
+#16878
+The True Training Grounds~
+This is where the VERY experienced thieves train. Stealing from each
+other, learning from their own mistakes. This is a true chaos! Or is it? To
+the untrained eye, this might seem as chaos, but to a thief; it's a true
+training ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16895
+D2
+~
+~
+0 -1 16861
+D3
+~
+~
+0 -1 16877
+S
+
+#16879
+The True Training Grounds~
+This is where the thieves of legends train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief; it's a true training
+ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16896
+D1
+~
+~
+0 -1 16880
+D2
+~
+~
+0 -1 16862
+S
+
+#16880
+The True Training Grounds~
+This is where the thieves of legends train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief; it's a true training
+ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16897
+D1
+~
+~
+0 -1 16881
+D2
+~
+~
+0 -1 16863
+D3
+~
+~
+0 -1 16879
+S
+
+#16881
+The True Training Grounds~
+This is where the thieves of legends train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief; it's a true training
+ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16898
+D1
+~
+~
+0 -1 16882
+D2
+~
+~
+0 -1 16864
+D3
+~
+~
+0 -1 16880
+S
+
+#16882
+The True Training Grounds~
+This is where the thieves of legends train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief; it's a true training
+ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16899
+D1
+~
+~
+0 -1 16883
+D2
+~
+~
+0 -1 16865
+D3
+~
+~
+0 -1 16881
+S
+
+#16883
+The True Training Grounds~
+This is where the thieves of legends train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief; it's a true training
+ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16900
+D2
+~
+~
+0 -1 16866
+D3
+~
+~
+0 -1 16882
+S
+
+#16884
+The main street~
+To the north, you notice a weapon shop. This is probably where they
+sell weapons to new comer who are in need of a practice weapon and master
+thieves who are in need of an extremely good weapon to venture out and cause
+chaos in the realm. As you look southward, you notice a warehouse, filled with
+raw materials.
+~
+8 0
+D0
+~
+~
+0 -1 16901
+D1
+~
+~
+0 -1 16885
+S
+
+#16885
+The main street~
+To the north, you notice a potion shop. The only place in this whole
+hideout that sell magical potions. The smell from the shop intrigues you and
+beckons you to come in and buy a few potions for your own use. To the south is
+the entrance to a warehouse.
+~
+8 0
+D0
+~
+~
+0 -1 16902
+D1
+~
+~
+0 -1 16886
+D2
+~
+~
+0 -1 16868
+D3
+~
+~
+0 -1 16884
+S
+
+#16886
+The main street~
+To the north, you notice a jewelry shop. Even from this far, you could
+see light reflecting off the jewelry onto your face. What a beautiful sight,
+gold, silver and copper mended into such crafts as a chain necklace.
+~
+8 0
+D0
+~
+~
+0 -1 16903
+D1
+~
+~
+0 -1 16887
+D3
+~
+~
+0 -1 16885
+S
+
+#16887
+Market Square of the Thieves~
+The road extends in all direction from here. To the north is the
+palace. It is said that the palace is VERY well guarded and that the guards
+will attack on sight. To the west and east, the main street continues. To the
+south, a road that leads to the Crossroads.
+~
+8 0
+D0
+~
+~
+0 -1 16904
+D1
+~
+~
+0 -1 16888
+D2
+~
+~
+0 -1 16870
+D3
+~
+~
+0 -1 16886
+S
+
+#16888
+The main street~
+You notice the key shop to the north. The sound of metal being meld
+into keys travels far. You can hear the creator screaming in pain as he
+accidentally hurt himself in the process of creating an almost perfect lock and
+key. To the south is a warehouse.
+~
+8 0
+D0
+~
+~
+0 -1 16905
+D1
+~
+~
+0 -1 16889
+D3
+~
+~
+0 -1 16887
+S
+
+#16889
+The main street~
+You notice the scroll shop is just north of you. The magician seems to
+be chanting some kind of weird magical words that covers the scrolls with
+runes. This place could be selling some very useful scrolls. To the south is
+the entrance to the unused warehouse.
+~
+8 0
+D0
+~
+~
+0 -1 16906
+D1
+~
+~
+0 -1 16890
+D2
+~
+~
+0 -1 16872
+D3
+~
+~
+0 -1 16888
+S
+
+#16890
+The main street~
+You notice an armor shop to the north. The sound of repairs and the
+smell of sweat flows make you nocuous. The owner must have been working for a
+very long time; the armor is almost complete.
+~
+8 0
+D0
+~
+~
+0 -1 16907
+D3
+~
+~
+0 -1 16889
+S
+
+#16891
+The True Training Grounds~
+This is where the thieves of legends train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief; it's a true training
+ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16908
+D1
+~
+~
+0 -1 16892
+D2
+~
+~
+0 -1 16874
+S
+
+#16892
+The True Training Grounds~
+This is where the thieves of legends train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief; it's a true training
+ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16909
+D1
+~
+~
+0 -1 16893
+D2
+~
+~
+0 -1 16875
+D3
+~
+~
+0 -1 16891
+S
+
+#16893
+The True Training Grounds~
+This is where the thieves of legends train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief; it's a true training
+ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16910
+D1
+~
+~
+0 -1 16894
+D2
+~
+~
+0 -1 16876
+D3
+~
+~
+0 -1 16892
+S
+
+#16894
+The True Training Grounds~
+This is where the thieves of legends train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief; it's a true training
+ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16911
+D1
+~
+~
+0 -1 16895
+D2
+~
+~
+0 -1 16877
+D3
+~
+~
+0 -1 16893
+S
+
+#16895
+The True Training Grounds~
+This is where the thieves of legends train. Stealing from each other,
+learning from their own mistakes. This is a true chaos! Or is it? To the
+untrained eye, this might seem as chaos, but to a thief; it's a true training
+ground, a challenge of wit and skills. Survival of the quickest.
+~
+8 0
+D0
+~
+~
+0 -1 16912
+D2
+~
+~
+0 -1 16878
+D3
+~
+~
+0 -1 16894
+S
+
+#16896
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D0
+~
+~
+0 -1 16913
+D1
+~
+~
+0 -1 16897
+D2
+~
+~
+0 -1 16879
+S
+
+#16897
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D0
+~
+~
+0 -1 16914
+D1
+~
+~
+0 -1 16898
+D2
+~
+~
+0 -1 16880
+D3
+~
+~
+0 -1 16896
+S
+
+#16898
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D0
+~
+~
+0 0 16915
+D1
+~
+~
+0 -1 16899
+D2
+~
+~
+0 -1 16881
+D3
+~
+~
+0 -1 16897
+S
+
+#16899
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D0
+~
+~
+0 -1 16916
+D1
+~
+~
+0 -1 16900
+D2
+~
+~
+0 -1 16882
+D3
+~
+~
+0 -1 16898
+S
+
+#16900
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D0
+~
+~
+0 -1 16917
+D2
+~
+~
+0 -1 16883
+D3
+~
+~
+0 -1 16899
+S
+
+#16901
+Weapon Shop~
+The room is filled with weapons. Some hanging from the walls, some
+lies on the ground. Perhaps you could purchase one.
+~
+8 0
+D2
+~
+~
+0 -1 16884
+S
+
+#16902
+Potion Shop~
+With shelves and shelves of potions lined up behind the counter, the
+alchemist who created this must have had quite an amount of time to make them.
+One of the potions on the wall catches your eye, "Lady Death".
+~
+8 0
+D2
+~
+~
+0 -1 16885
+S
+
+#16903
+Jewelry Shop~
+A shelf behind the counter displays a massive amount of different type
+of jewelry. Each different and more beautiful than the one before.
+~
+8 0
+D2
+~
+~
+0 -1 16886
+S
+
+#16904
+Road to the Palace~
+This road seems to lead you to the palace. To the north is the gate of
+the palace, better watch out for the guards. To the south is the Market square.
+~
+8 0
+D0
+~
+~
+0 -1 16918
+D2
+~
+~
+0 -1 16887
+S
+
+#16905
+Key Shop~
+The place is filled with weird looking keys. Some shaped into skulls,
+some into spirals, some even into Dagger like teeth. Maybe one of these keys
+would prove useful in later adventures.
+~
+8 0
+D2
+~
+~
+0 -1 16888
+S
+
+#16906
+Scroll Shop~
+There is not display of any sort, just a sign behind the counter. It
+seems to tell you the cost and affect of each item. One of the item seems to
+catch your eye, "God's Wrath".
+~
+8 0
+D2
+~
+~
+0 -1 16889
+S
+
+#16907
+Armor Shop~
+This place is very nice and neat. The armor is up on display on the
+wall. One of the armor seem to stand out. A label under it says, "A
+diamond breastplate".
+~
+8 0
+D2
+~
+~
+0 -1 16890
+S
+
+#16908
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D0
+~
+~
+0 -1 16919
+D1
+~
+~
+0 -1 16909
+D2
+~
+~
+0 -1 16891
+S
+
+#16909
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D0
+~
+~
+0 -1 16920
+D1
+~
+~
+0 -1 16910
+D2
+~
+~
+0 -1 16892
+D3
+~
+~
+0 -1 16908
+S
+
+#16910
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D0
+~
+~
+0 -1 16921
+D1
+~
+~
+0 -1 16911
+D2
+~
+~
+0 -1 16893
+D3
+~
+~
+0 -1 16909
+S
+
+#16911
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D0
+~
+~
+0 -1 16922
+D1
+~
+~
+0 -1 16912
+D2
+~
+~
+0 -1 16894
+D3
+~
+~
+0 -1 16910
+S
+
+#16912
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D0
+~
+~
+0 -1 16923
+D2
+~
+~
+0 -1 16895
+D3
+~
+~
+0 -1 16911
+S
+
+#16913
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D1
+~
+~
+0 -11 16914
+D2
+~
+~
+0 -1 16916
+S
+
+#16914
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D1
+~
+~
+0 -1 16915
+D2
+~
+~
+0 -1 16897
+D3
+~
+~
+0 -1 16913
+S
+
+#16915
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them. To the north is
+the Trainer's stage.
+~
+8 0
+D0
+~
+~
+0 -1 16924
+D1
+~
+~
+0 -1 16916
+D2
+~
+~
+0 0 16898
+D3
+~
+~
+0 -1 16914
+S
+
+#16916
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D1
+~
+~
+0 -1 16917
+D2
+~
+~
+0 -1 16899
+D3
+~
+~
+0 -1 16915
+S
+
+#16917
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice; they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D2
+~
+~
+0 -1 16900
+D3
+~
+~
+0 -1 16916
+S
+
+#16918
+Outside the gate of the palace~
+You are now outside the gate of the palace. To the north is the
+palace, but you need to get through the gates and the guards behind it.
+They have been told to attack all that enters the palace on sight. It's
+probably a good idea NOT to enter.
+~
+8 0
+D0
+You see the gate to the palace.
+~
+gate~
+0 16801 16925
+D2
+~
+~
+0 -1 16904
+S
+
+#16919
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice, they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D1
+~
+~
+0 -1 16920
+D2
+~
+~
+0 -1 16908
+S
+
+#16920
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice, they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D1
+~
+~
+0 -1 16921
+D2
+~
+~
+0 -1 16909
+D3
+~
+~
+0 -1 16919
+S
+
+#16921
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice, they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them. To the north is
+the trainer's stage.
+~
+8 0
+D0
+~
+~
+0 -1 16927
+D1
+~
+~
+0 -1 16922
+D2
+~
+~
+0 -1 16910
+D3
+~
+~
+0 -1 16920
+S
+
+#16922
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice, they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D1
+~
+~
+0 -1 16923
+D2
+~
+~
+0 -1 16911
+D3
+~
+~
+0 -1 16921
+S
+
+#16923
+The True Training Grounds~
+This is where the MOST POWERFUL thieves train. They don't just steal
+from each other for practice, they kill each other too! They are truly
+ruthless killers. Be careful before attacking one of them.
+~
+8 0
+D2
+~
+~
+0 -1 16912
+D3
+~
+~
+0 -1 16922
+S
+
+#16924
+Trainer's stage~
+This is where the Master Thief trains his students. You could tell
+that the Master Thief is very strong and dexterous as he performs 6
+circles on the dummy in one round.
+~
+8 0
+D2
+~
+~
+0 -1 16915
+S
+
+#16925
+Main Hall~
+This is the main hall in the palace. Guarded 24 hours a day. This
+place is very well decorated with gold and silver. Statues of the past
+kings' head lies on pedestals along the side.
+~
+8 0
+D1
+~
+~
+0 -1 16926
+D2
+~
+~
+0 -1 16918
+S
+
+#16926
+Main Hall~
+This is the main hall in the palace. Guarded 24 hours a day. This
+place is very well decorated with gold and silver. Statues of the past
+kings' head lies on pedestals along the side.
+~
+8 0
+D0
+~
+~
+0 -1 16928
+D3
+~
+~
+0 -1 16925
+S
+
+#16927
+Trainer's stage~
+This is where the Master Thief trains his students. You could tell
+that the Master Thief is very strong and dexterous as he performs 6
+circles on the dummy in one round.
+~
+8 0
+D2
+~
+~
+0 -1 16921
+S
+
+#16928
+Main Hall~
+This is the main hall in the palace. Guarded 24 hours a day. This
+place is very well decorated with gold and silver. Statues of the past
+kings' head lies on pedestals along the side.
+~
+8 0
+D0
+~
+~
+0 -1 16931
+D2
+~
+~
+0 -1 16926
+S
+
+#16929
+Main Hall~
+This is the main hall in the palace. Guarded 24 hours a day. This
+place is very well decorated with gold and silver. Statues of the past
+kings' head lies on pedestals along the side.
+~
+8 0
+D0
+~
+~
+0 -1 16932
+D1
+~
+~
+0 -1 16930
+S
+
+#16930
+Main Hall~
+This is the main hall in the palace. Guarded 24 hours a day. This place
+is very well decorated with gold and silver. Statues of the past kings' head
+lies on pedestals along the side.
+~
+8 0
+D1
+~
+~
+0 -1 16931
+D3
+~
+~
+0 -1 16929
+S
+
+#16931
+Main Hall~
+This is the main hall in the palace. Guarded 24 hours a day. This
+place is very well decorated with gold and silver. Statues of the past
+kings' head lies on pedestals along the side.
+~
+8 0
+D2
+~
+~
+0 -1 16928
+D3
+~
+~
+0 -1 16930
+S
+
+#16932
+Main Hall~
+This is the main hall in the palace. Guarded 24 hours a day. This
+place is very well decorated with gold and silver. Statues of the past
+kings' head lies on pedestals along the side.
+~
+8 0
+D0
+~
+~
+0 -1 16933
+D2
+~
+~
+0 -1 16929
+S
+
+#16933
+Main Hall~
+This is the main hall in the palace. Guarded 24 hours a day. This
+place is very well decorated with gold and silver. Statues of the past
+kings' head lies on pedestals along the side.
+~
+8 0
+D1
+~
+~
+0 -1 16934
+D2
+~
+~
+0 -1 16932
+S
+
+#16934
+Main Hall~
+This is the main hall in the palace. Guarded 24 hours a day. This place
+is very well decorated with gold and silver. Statues of the past kings' head
+lies on pedestals along the side. To the north is the King's Bedroom.
+~
+8 0
+D0
+~
+~
+0 -1 16936
+D3
+~
+~
+0 -1 16933
+S
+
+#16935
+The King's Bedroom~
+The place EXTREMELY well decorated with painting and statues. What a
+good life it is for a king of thieves. As you scan the room, you notice that
+it's filled with young innocent women, no doubt was kidnapped and brought here
+for the king's enjoyment.
+~
+8 0
+D0
+~
+~
+0 -1 16938
+D1
+~
+~
+0 -1 16936
+S
+
+#16936
+The King's Bedroom~
+The place EXTREMELY well decorated with painting and statues. What a
+good life it is for a king of thieves. As you scan the room, you notice that
+it's filled with young innocent women, no doubt was kidnapped and brought here
+for the king's enjoyment.
+~
+8 0
+D0
+~
+~
+0 -1 16939
+D1
+~
+~
+0 -1 16937
+D2
+~
+~
+0 -1 16934
+D3
+~
+~
+0 -1 16935
+S
+
+#16937
+The King's Bedroom~
+The place EXTREMELY well decorated with painting and statues. What a
+good life it is for a king of thieves. As you scan the room, you notice that
+it's filled with young innocent women, no doubt was kidnapped and brought here
+for the king's enjoyment.
+~
+8 0
+D0
+~
+~
+0 -1 16940
+D3
+~
+~
+0 -1 16936
+S
+
+#16938
+The King's Bedroom~
+The place EXTREMELY well decorated with painting and statues. What a
+good life it is for a king of thieves. As you scan the room, you notice that
+it's filled with young innocent women, no doubt was kidnapped and brought here
+for the king's enjoyment.
+~
+8 0
+D0
+~
+~
+0 -1 16941
+D1
+~
+~
+0 -1 16939
+D2
+~
+~
+0 -1 16935
+S
+
+#16939
+The King's Bedroom~
+The place EXTREMELY well decorated with painting and statues. What a
+good life it is for a king of thieves. As you scan the room, you notice that
+it's filled with young innocent women, no doubt was kidnapped and brought here
+for the king's enjoyment.
+~
+8 0
+D0
+~
+~
+0 -1 16942
+D1
+~
+~
+0 -1 16940
+D2
+~
+~
+0 -1 16936
+D3
+~
+~
+0 -1 16938
+S
+
+#16940
+The King's Bedroom~
+The place EXTREMELY well decorated with painting and statues. What a
+good life it is for a king of thieves. As you scan the room, you notice that
+it's filled with young innocent women, no doubt was kidnapped and brought here
+for the king's enjoyment.
+~
+8 0
+D0
+~
+~
+0 -1 16943
+D2
+~
+~
+0 -1 16937
+D3
+~
+~
+0 -1 16939
+S
+
+#16941
+The King's Bedroom~
+The place EXTREMELY well decorated with painting and statues. What a
+good life it is for a king of thieves. As you scan the room, you notice that
+it's filled with young innocent women, no doubt was kidnapped and brought here
+for the king's enjoyment.
+~
+8 0
+D1
+~
+~
+0 -1 16942
+D2
+~
+~
+0 -1 16938
+S
+
+#16942
+The King's Bedroom~
+The place EXTREMELY well decorated with painting and statues. What a
+good life it is for a king of thieves. As you scan the room, you notice that
+it's filled with young innocent women, no doubt was kidnapped and brought here
+for the king's enjoyment. The painting hung on the north wall seems strange for
+some reason.
+~
+8 0
+D0
+You see a painting to the south, blocking your way out.
+~
+painting~
+0 16802 16944
+D1
+~
+~
+0 -1 16943
+D2
+~
+~
+0 -1 16939
+D3
+~
+~
+0 -1 16941
+S
+
+#16943
+The King's Bedroom~
+The place EXTREMELY well decorated with painting and statues. What a
+good life it is for a king of thieves. As you scan the room, you notice that
+it's filled with young innocent women, no doubt was kidnapped and brought here
+for the king's enjoyment.
+~
+8 0
+D2
+~
+~
+0 -1 16940
+D3
+~
+~
+0 -1 16942
+S
+
+#16944
+The Treasury~
+This room is filled with stolen loot. For some reason though, you're
+disappointed. You always thought the treasury would be a lot bigger.
+~
+9 0
+D2
+You see a painting to the south, blocking your way out.
+~
+painting~
+0 16802 16942
+S
+
+#16945
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16947
+D4
+You see a hole in the ceiling.
+~
+hole~
+0 16800 16806
+S
+
+#16946
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16948
+D4
+You see a hole in the ceiling.
+~
+hole~
+0 16800 16810
+S
+
+#16947
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16949
+D2
+~
+~
+0 -1 16945
+S
+
+#16948
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16950
+D2
+~
+~
+0 -1 16946
+S
+
+#16949
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16951
+D2
+~
+~
+0 -1 16947
+S
+
+#16950
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16953
+D2
+~
+~
+0 -1 16948
+S
+
+#16951
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16954
+D1
+You realize the east wall of the room is just an illusion.
+~
+illusion~
+0 -1 16952
+D2
+~
+~
+0 -1 16949
+S
+
+#16952
+Secret Crossing~
+You realize this is the secret crossing between the two secret hallway,
+but where is the king? Where is his treasure?
+~
+9 0
+D1
+You realize the east wall of the room is just an illusion.
+~
+illusion~
+0 -1 16953
+D3
+You realize the west wall of the room is just an illusion.
+~
+illusion~
+0 -1 16951
+D5
+You see a secret passage to the King's treasury room.
+~
+secret passage~
+0 -1 16964
+S
+
+#16953
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16955
+D2
+~
+~
+0 -1 16950
+D3
+You realize the west wall of the room is just an illusion.
+~
+illusion~
+0 -1 16952
+S
+
+#16954
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16956
+D2
+~
+~
+0 -1 16951
+S
+
+#16955
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16957
+D2
+~
+~
+0 -1 16953
+S
+
+#16956
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16958
+D2
+~
+~
+0 -1 16954
+S
+
+#16957
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D0
+~
+~
+0 -1 16959
+D2
+~
+~
+0 -1 16955
+S
+
+#16958
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D2
+~
+~
+0 -1 16956
+D4
+You see a hole in the ceiling.
+~
+hole~
+0 16800 16868
+S
+
+#16959
+Secret Hall~
+This is the secret hall of the REAL king. It's dark and damp here. No
+sunlight could reach this hall, it's amazing anyone could actually live here.
+~
+9 0
+D2
+~
+~
+0 -1 16957
+D4
+You see a hole in the ceiling.
+~
+hole~
+0 16800 16872
+S
+
+#16960
+The true treasury room~
+Now THIS is a treasury room. Mounds and mounds of gold and
+platinum piled upon each other. The only thing in this treasury room is
+pure coins. A small torch and the reflection of the light lit up the place
+once it hit the piles of gold coins.
+~
+8 0
+D0
+~
+~
+0 -1 16963
+D1
+~
+~
+0 -1 16961
+S
+
+#16961
+The true treasury room~
+Now THIS is a treasury room. Mounds and mounds of gold and
+platinum piled upon each other. The only thing in this treasury room is
+pure coins. A small torch and the reflection of the light lit up the place
+once it hit the piles of gold coins.
+~
+8 0
+D0
+~
+~
+0 -1 16964
+D1
+~
+~
+0 -1 16962
+D3
+~
+~
+0 -1 16960
+S
+
+#16962
+The true treasury room~
+Now THIS is a treasury room. Mounds and mounds of gold and
+platinum piled upon each other. The only thing in this treasury room is
+pure coins. A small torch and the reflection of the light lit up the place
+once it hit the piles of gold coins.
+~
+8 0
+D0
+~
+~
+0 -1 16965
+D3
+~
+~
+0 -1 16961
+S
+
+#16963
+The true treasury room~
+Now THIS is a treasury room. Mounds and mounds of gold and
+platinum piled upon each other. The only thing in this treasury room is
+pure coins. A small torch and the reflection of the light lit up the place
+once it hit the piles of gold coins.
+~
+8 0
+D0
+~
+~
+0 -1 16966
+D1
+~
+~
+0 -1 16964
+D2
+~
+~
+0 -1 16960
+S
+
+#16964
+The true treasury room~
+Now THIS is a treasury room. Mounds and mounds of gold and
+platinum piled upon each other. The only thing in this treasury room is
+pure coins. A small torch and the reflection of the light lit up the place
+once it hit the piles of gold coins.
+~
+8 0
+D0
+~
+~
+0 -1 16967
+D1
+~
+~
+0 -1 16965
+D2
+~
+~
+0 -1 16961
+D3
+~
+~
+0 -1 16963
+D4
+You see a hole in the ceiling.
+~
+hole~
+0 -1 16952
+S
+
+#16965
+The true treasury room~
+Now THIS is a treasury room. Mounds and mounds of gold and
+platinum piled upon each other. The only thing in this treasury room is
+pure coins. A small torch and the reflection of the light lit up the place
+once it hit the piles of gold coins.
+~
+8 0
+D0
+~
+~
+0 -1 16968
+D2
+~
+~
+0 -1 16962
+D3
+~
+~
+0 -1 16964
+S
+
+#16966
+The true treasury room~
+Now THIS is a treasury room. Mounds and mounds of gold and
+platinum piled upon each other. The only thing in this treasury room is
+pure coins. A small torch and the reflection of the light lit up the place
+once it hit the piles of gold coins.
+~
+8 0
+D1
+~
+~
+0 -1 16967
+D2
+~
+~
+0 -1 16963
+S
+
+#16967
+The true treasury room~
+Now THIS is a treasury room. Mounds and mounds of gold and
+platinum piled upon each other. The only thing in this treasury room is
+pure coins. A small torch and the reflection of the light lit up the place
+once it hit the piles of gold coins.
+~
+8 0
+D1
+~
+~
+0 -1 16968
+D2
+~
+~
+0 -1 16964
+D3
+~
+~
+0 -1 16966
+S
+
+#16968
+The true treasury room~
+Now THIS is a treasury room. Mounds and mounds of gold and
+platinum piled upon each other. The only thing in this treasury room is
+pure coins. A small torch and the reflection of the light lit up the place
+once it hit the piles of gold coins.
+~
+8 0
+D2
+~
+~
+0 -1 16965
+D3
+~
+~
+0 -1 16967
+S
+#0
+
+#SPECIALS
+M 16804 spec_thief
+M 16805 spec_thief
+M 16814 spec_thief
+M 16815 spec_thief
+S
+
+#RESETS
+M 100 16800 5 16801 5
+E 100 16824 0 16
+M 100 16800 5 16801 5
+E 100 16824 0 16
+M 100 16800 5 16801 5
+E 100 16824 0 16
+M 100 16800 5 16801 5
+E 100 16824 0 16
+M 100 16800 5 16801 5
+E 100 16824 0 16
+O 100 16828 0 16810
+M 100 16816 15 16811 3
+M 100 16816 15 16811 3
+M 100 16816 15 16811 3
+M 100 16816 15 16812 3
+M 100 16816 15 16812 3
+M 100 16816 15 16812 3
+M 100 16816 15 16813 3
+M 100 16816 15 16813 3
+M 100 16816 15 16813 3
+M 100 16817 15 16815 3
+M 100 16817 15 16815 3
+M 100 16817 15 16815 3
+M 100 16817 15 16816 3
+M 100 16817 15 16816 3
+M 100 16817 15 16816 3
+M 100 16817 15 16817 3
+M 100 16817 15 16817 3
+M 100 16817 15 16817 3
+M 100 16818 15 16818 3
+M 100 16818 15 16818 3
+M 100 16818 15 16818 3
+M 100 16818 15 16819 5
+M 100 16818 15 16819 5
+M 100 16818 15 16819 5
+M 100 16818 15 16819 5
+M 100 16818 15 16819 3
+M 100 16818 15 16819 3
+M 100 16818 15 16819 3
+M 100 16818 15 16820 3
+M 100 16818 15 16820 3
+M 100 16818 15 16820 3
+M 100 16819 15 16822 3
+M 100 16819 15 16822 3
+M 100 16819 15 16822 3
+M 100 16819 15 16823 3
+M 100 16819 15 16823 3
+M 100 16819 15 16823 3
+M 100 16819 15 16824 3
+M 100 16819 15 16824 3
+M 100 16819 15 16824 3
+M 100 16820 15 16825 3
+M 100 16820 15 16825 3
+M 100 16820 15 16825 3
+M 100 16820 15 16826 3
+M 100 16820 15 16826 3
+M 100 16820 15 16826 3
+M 100 16820 15 16827 3
+M 100 16820 15 16827 3
+M 100 16820 15 16827 3
+M 100 16821 15 16829 3
+M 100 16821 15 16829 3
+M 100 16821 15 16829 3
+M 100 16821 15 16830 3
+M 100 16821 15 16830 3
+M 100 16821 15 16830 3
+M 100 16821 15 16831 3
+M 100 16821 15 16831 3
+M 100 16821 15 16831 3
+M 100 16814 2 16836 1
+E 100 16804 0 20
+M 100 16814 2 16840 1
+E 100 16804 0 20
+M 100 16822 20 16845 2
+M 100 16822 20 16845 2
+M 100 16822 20 16846 2
+M 100 16822 20 16846 2
+M 100 16822 20 16847 2
+M 100 16822 20 16847 2
+M 100 16822 20 16848 2
+M 100 16822 20 16848 2
+M 100 16822 20 16849 2
+M 100 16822 20 16849 2
+M 100 16823 20 16857 2
+M 100 16823 20 16857 2
+M 100 16823 20 16858 2
+M 100 16823 20 16858 2
+M 100 16823 20 16859 2
+M 100 16823 20 16859 2
+M 100 16823 20 16860 2
+M 100 16823 20 16860 2
+M 100 16823 20 16861 2
+M 100 16823 20 16861 2
+M 100 16824 20 16862 2
+M 100 16824 20 16862 2
+M 100 16824 20 16863 2
+M 100 16824 20 16863 2
+M 100 16824 20 16864 2
+M 100 16824 20 16864 2
+M 100 16824 20 16865 2
+M 100 16824 20 16865 2
+M 100 16824 20 16866 2
+M 100 16824 20 16866 2
+M 100 16825 20 16874 2
+M 100 16825 20 16874 2
+M 100 16825 20 16875 2
+M 100 16825 20 16875 2
+M 100 16825 20 16876 2
+M 100 16825 20 16876 2
+M 100 16825 20 16877 2
+M 100 16825 20 16877 2
+M 100 16825 20 16878 2
+M 100 16825 20 16878 2
+M 100 16826 40 16879 2
+M 100 16826 40 16879 2
+M 100 16826 40 16880 2
+M 100 16826 40 16880 2
+M 100 16826 40 16881 2
+M 100 16826 40 16881 2
+M 100 16826 40 16882 2
+M 100 16826 40 16882 2
+M 100 16826 40 16883 2
+M 100 16826 40 16883 2
+M 100 16826 40 16891 2
+M 100 16826 40 16891 2
+M 100 16826 40 16892 2
+M 100 16826 40 16892 2
+M 100 16826 40 16893 2
+M 100 16826 40 16893 2
+M 100 16826 40 16894 2
+M 100 16826 40 16894 2
+M 100 16826 40 16895 2
+M 100 16826 40 16895 2
+M 100 16827 60 16896 2
+M 100 16827 60 16896 2
+M 100 16827 60 16897 2
+M 100 16827 60 16897 2
+M 100 16827 60 16898 2
+M 100 16827 60 16898 2
+M 100 16827 60 16899 2
+M 100 16827 60 16899 2
+M 100 16827 60 16900 2
+M 100 16827 60 16900 2
+M 100 16808 1 16901 1
+G 100 16818 0
+G 100 16819 0
+G 100 16820 0
+M 100 16809 1 16902 1
+G 100 16806 0
+G 100 16807 0
+G 100 16808 0
+G 100 16809 0
+M 100 16810 1 16903 1
+G 100 16821 0
+G 100 16822 0
+G 100 16823 0
+M 100 16811 1 16905 1
+G 100 16800 0
+G 100 16801 0
+G 100 16802 0
+M 100 16812 1 16906 1
+G 100 16810 0
+G 100 16811 0
+G 100 16812 0
+G 100 16813 0
+M 100 16813 1 16907 1
+G 100 16814 0
+G 100 16815 0
+G 100 16816 0
+G 100 16817 0
+M 100 16827 60 16908 2
+M 100 16827 60 16908 2
+M 100 16827 60 16909 2
+M 100 16827 60 16909 2
+M 100 16827 60 16910 2
+M 100 16827 60 16910 2
+M 100 16827 60 16911 2
+M 100 16827 60 16911 2
+M 100 16827 60 16912 2
+M 100 16827 60 16912 2
+M 100 16827 60 16913 2
+M 100 16827 60 16913 2
+M 100 16827 60 16914 2
+M 100 16827 60 16914 2
+M 100 16827 60 16915 2
+M 100 16827 60 16915 2
+M 100 16827 60 16916 2
+M 100 16827 60 16916 2
+M 100 16827 60 16917 2
+M 100 16827 60 16917 2
+M 100 16801 5 16918 5
+E 100 16824 0 16
+M 100 16801 5 16918 5
+E 100 16824 0 16
+M 100 16801 5 16918 5
+E 100 16824 0 16
+M 100 16801 5 16918 5
+E 100 16824 0 16
+M 100 16801 5 16918 5
+E 100 16824 0 16
+M 100 16827 60 16919 2
+M 100 16827 60 16919 2
+M 100 16827 60 16920 2
+M 100 16827 60 16920 2
+M 100 16827 60 16921 2
+M 100 16827 60 16921 2
+M 100 16827 60 16922 2
+M 100 16827 60 16922 2
+M 100 16827 60 16923 2
+M 100 16827 60 16923 2
+M 100 16815 2 16924 1
+E 100 16805 0 20
+M 100 16802 18 16925 2
+E 100 16824 0 16
+M 100 16802 18 16925 2
+E 100 16824 0 16
+M 100 16802 18 16926 2
+E 100 16824 0 16
+M 100 16802 18 16926 2
+E 100 16824 0 16
+M 100 16815 2 16927 1
+E 100 16827 0 8
+E 100 16805 0 20
+M 100 16802 18 16928 2
+E 100 16824 0 16
+M 100 16802 18 16928 2
+E 100 16824 0 16
+M 100 16802 18 16929 2
+E 100 16824 0 16
+M 100 16802 18 16929 2
+E 100 16824 0 16
+M 100 16802 18 16930 2
+E 100 16824 0 16
+M 100 16802 18 16930 2
+E 100 16824 0 16
+M 100 16802 18 16931 2
+E 100 16824 0 16
+M 100 16802 18 16931 2
+E 100 16824 0 16
+M 100 16802 18 16932 2
+E 100 16824 0 16
+M 100 16802 18 16932 2
+E 100 16824 0 16
+M 100 16802 18 16933 2
+E 100 16824 0 16
+M 100 16802 18 16933 2
+E 100 16824 0 16
+M 100 16802 18 16934 2
+E 100 16824 0 16
+M 100 16802 18 16934 2
+E 100 16824 0 16
+M 100 16807 24 16935 3
+M 100 16807 24 16935 3
+M 100 16807 24 16935 3
+M 100 16807 24 16936 3
+M 100 16807 24 16936 3
+M 100 16807 24 16936 3
+M 100 16807 24 16937 3
+M 100 16807 24 16937 3
+M 100 16807 24 16937 3
+M 100 16807 24 16938 3
+M 100 16807 24 16938 3
+M 100 16807 24 16938 3
+M 100 16804 1 16939 1
+M 100 16806 1 16939 1
+M 100 16807 24 16940 3
+M 100 16807 24 16940 3
+M 100 16807 24 16940 3
+M 100 16807 24 16941 3
+M 100 16807 24 16941 3
+M 100 16807 24 16941 3
+M 100 16807 24 16942 3
+M 100 16807 24 16942 3
+M 100 16807 24 16942 3
+M 100 16807 24 16943 3
+M 100 16807 24 16943 3
+M 100 16807 24 16943 3
+O 100 16825 0 16944
+M 100 16803 10 16947 1
+M 100 16803 10 16948 1
+M 100 16803 10 16949 1
+M 100 16803 10 16950 1
+M 100 16803 10 16951 1
+M 100 16803 10 16953 1
+M 100 16803 10 16954 1
+M 100 16803 10 16955 1
+M 100 16803 10 16956 1
+M 100 16803 10 16957 1
+O 100 16825 0 16960
+O 100 16825 0 16961
+O 100 16825 0 16962
+O 100 16825 0 16963
+M 100 16805 1 16964 1
+E 100 16829 0 23
+E 100 16803 0 16
+E 100 16803 0 19
+O 100 16825 0 16964
+O 100 16825 0 16965
+O 100 16825 0 16966
+O 100 16825 0 16967
+O 100 16825 0 16968
+S
+
+#SHOPS
+16808 5 0 0 0 0 105 15 0 23
+16809 10 0 0 0 0 105 15 0 23
+16810 33 32 8 0 0 105 15 0 23
+16811 0 0 0 0 0 105 15 0 23
+16812 2 0 0 0 0 105 15 0 23
+16813 9 0 0 0 0 105 15 0 23
+0
+
+#$

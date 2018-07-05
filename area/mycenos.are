@@ -1,0 +1,1138 @@
+#AREADATA
+Name Mycenos Village~
+VNUMs 200 299
+Credits [HMTWN] Trk/Asf  Mycenos Village~
+End
+
+
+#ROOMS
+#201
+The Mycenos Master Tavern~
+There is a small fireplace here, just enough to heat the musician that
+sits on a stool near it.  With a harp on his lap, he entertains you as odors
+of breweries from old barrels perch along the walls atop high aging wooden
+shelves.  Many portraits of famous folks in Aadaria hang as the wooden floor
+creaks with every step set upon this tavern.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 267
+D2
+~
+~
+0 0 265
+D3
+~
+~
+0 0 254
+S
+#203
+The Cleric's Inner Sanctum~
+This is the inner sanctum.  A picture of the mighty Thoth is hanging on
+the wall, just above the altar which is set against the western wall.  The
+exit out of this sanctum heads to the south.  
+~
+~
+0 0
+0
+0 D2
+~
+~
+0 0 204
+S
+#204
+At the Entrance of the Cleric's Guild~
+The entrance hall is a small modest room, reflecting the true nature of
+the Clerics.  The exit leads south to the temple square.  A small entrance
+to north goes deeper into the temple.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 203
+D2
+~
+~
+0 0 205
+S
+#205
+Courtyard to the Mycenen Tavern~
+You are standing in a small courtyard.  There is a small garden off on
+your north, with beautiful flowers.  You can smell the good food and hear
+the music coming from the tavern to your east.  To the west you can hear the
+bustle of merchants selling their goods on a market day.  On your south lies
+the Mycenen Bank while a group of clerics can be seen coming in and out of a
+temple to the north.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 204
+D1
+~
+~
+0 0 254
+D2
+~
+~
+0 0 206
+D3
+~
+~
+0 0 214
+S
+#206
+The Bank of Mycenos~
+This is a cool room you feel a steady breeze coming from the windows
+placed in the top corners of the room.  You hear the clinking of change as
+money is counted and then recounted. You notice the room is kept impeccably
+clean and very neat.  Everything seems to be running smoothly and orderly,
+no wonder the greatest heros' in the realms use this place for their bank. 
+The hard marble floors reflect the sun and the business-like atmosphere
+makes you feel you can trust these people with your money.
+~
+~
+0 0
+0
+1048576 D0
+~
+~
+0 0 205
+S
+#209
+The Bakery~
+You are standing inside the small bakery.  A sweet scent of Danish and
+fine bread fills the room.  The bread and Danish are arranged in fine order
+on the shelves, and seem to be of the finest quality.
+A small sign is on the counter.
+~
+~
+0 0
+0
+0 E
+sign~
+Free instructions provided by the store:
+ 
+   Buy  - Will buy you some bread or pastry.
+   List - The baker will kindly tell you the price and sort of the bread in
+          his bakery.
+~
+D3
+~
+~
+0 0 213
+S
+#210
+The General Store~
+You are inside the general store.  All sorts of items are stacked on
+shelves behind the counter, safely out of your reach.  A small note hangs on
+the wall.  
+~
+~
+0 0
+0
+0 E
+note~
+The note reads:
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D3
+~
+~
+0 0 215
+S
+#211
+The Weapons Shop~
+Many strange and unused weapons perch around here.  There's a small note
+on the counter.  
+~
+~
+0 0
+0
+0 E
+note~
+The note reads:
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+D3
+~
+~
+0 0 216
+S
+#212
+The Main Street~
+You are at the end of the main street of Mycenos.  West of here is the
+entrance to the Guild of Magic Users.  The street continues south towards
+the market square.  The magic shop is to the east and the city gate is to
+the north.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 240
+D1
+~
+~
+0 0 233
+D2
+~
+~
+0 0 213
+D3
+~
+~
+0 0 218
+S
+#213
+The Main Street~
+You are on the main street passing through the city of Mycenos.  West of
+here is the entrance to the Armoury, and the bakery is to the east.  South
+of here is the Market Square.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 212
+D1
+~
+~
+0 0 209
+D2
+~
+~
+0 0 214
+D3
+~
+~
+0 0 220
+S
+#214
+The Mycenos Market Square~
+This is the Market Square of Mycenos were traders and merchants meet to
+exchange and sell goods.  People of all races walk around here looking and
+talking about events and stories of the realms.  This not just a place to
+exchange goods, it is to exchange information and ideas.  The road curves
+around a large fountain in the center of the square.  The roads branch off
+in all directions taking you to the shops and stores of the town.
+A trio of large statues are set up in a triangle, glowing with magical power.
+~
+~
+0 3
+262144
+5 D0
+~
+~
+0 0 213
+D1
+~
+~
+0 0 205
+D2
+~
+~
+0 0 215
+D3
+~
+~
+0 0 225
+S
+#215
+The Main Street~
+You are on Main Street crossing through town.  To the east is the general
+store, and the main street continues south.  To the north you see and hear
+the marketplace and to the west is the Jeweller's Shop.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 214
+D1
+~
+~
+0 0 210
+D2
+~
+~
+0 0 216
+D3
+~
+~
+0 0 234
+S
+#216
+The Main Street~
+To the east of this main street is the weapon shop and to the west is the
+Guild of Swordsmen.  To the south you leave town and to the north, the
+street leads to the market square.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 215
+D1
+~
+~
+0 0 211
+D2
+~
+~
+0 0 241
+D3
+~
+~
+0 0 221
+S
+#218
+The Mage's Guild~
+The bar is one of the wierdest in the land.  Mystical images float around
+the air.  Illusions of fine furniture appear all around the room.
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 212
+D3
+~
+~
+0 0 219
+S
+#219
+The Mage's Laboratory~
+This is the Magical Experiments Laboratory.  Dark smoke-stained stones
+arch over numerous huge oaken tables, most of these cluttered with strange-
+looking pipes and flasks.  The floor is covered with half-erased pentagrams
+and even weirder symbols, and a blackboard in a dark corner has only been
+partially cleaned, some painful-looking letters faintly visible.  A well in
+the middle of the floor leads down into darkness.  Vile smells waft from the
+depths.
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 218
+S
+#220
+The Armoury~
+The armoury with all kinds of armours on the walls and in the window.  You
+see helmets, shields and chain mails.  To the east is the main street.
+On the wall is a small note.
+~
+~
+0 0
+0
+0 E
+note~
+You can use these commands for trading:
+  value <item>     To get the price of an item in your possession.
+  sell <item>      To sell something.
+  buy <item>       To buy something (provided that the shop has it in store).
+  list             Gives you a listing of the shop's inventory.
+        WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
+                             NO HAGGLING
+~
+D1
+~
+~
+0 0 213
+S
+#221
+The Entrance Hall to the Guild of Swordsmen~
+This is the entrance hall tot he Guild of Swordsmen, a place where one
+has to be careful not to say something wrong (or right).  To the west is
+the bar and to the east is the main street.  
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 216
+D3
+~
+~
+0 0 223
+S
+#223
+The Tournament and Practice Yard~
+This is the practice yard of the fighters.  A huge wooden plank rides the
+floor here as many adventurers who seek the light of fighting come to
+practice and to train their skills to maximal development.  Many famous
+warriors of the past are seen in portraits across the walls around.  
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 221
+S
+#224
+The Dirty Alley~
+You find yourself in the slummy areas of the alley.  Not much visible but
+alot of sanitation and litter.  The streets of Mycenos were at one point the
+most beautiful streets to be but as conditions seem much below standards,
+the odor around these areas emit a rather foul scent about here.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 244
+D2
+~
+~
+0 0 225
+S
+#225
+The Common Square~
+You arrive at the common square of Mycenos where traffic is few, but
+still enough activity around for things to be done.  A small fountain lies
+in the middle of here where the street heads east to the Market Square.  A
+tall structure with six strange pillars can be seen to the west where some
+sort of activity can be heard.  To the south the street stretches further
+where more exploration can be done.  A small alleyway heads north where it
+makes a dead end from a distance.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 224
+D1
+~
+~
+0 0 214
+D2
+~
+~
+0 0 226
+D3
+~
+~
+0 0 230
+S
+#226
+Along the Alley~
+You find yourself along the common alley where to the north is the common
+square and to the east the Guild of Thieves.  To the west is the guild of
+Rangers.  The alley moves on to the south.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 225
+D1
+~
+~
+0 0 271
+D2
+~
+~
+0 0 245
+D3
+~
+~
+0 0 227
+S
+#227
+Entrance to the Thieve's Guild~
+The entrance hall to the thieves' and assassins' guild.  A place where you
+can lose both your life and your money, if you are not careful.  To the east
+is the dark alley.
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 226
+D3
+~
+~
+0 0 229
+S
+#229
+The Secret Yard~
+A open yard secretly kept away from the Mycenos streets is seen here. 
+This is where thieves come and utilize their abilities in gaining experience
+and skill at this yard.  Not much happening right now...  An exit from here
+goes east.  
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 227
+S
+#230
+Before the Six Pillars~
+Large pillars in 6 columns stand here connecting three open structures
+standing north, south, and west.  The structure in the west has a strange
+aroma smell that way.  Common Square heads to the east.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 282
+D1
+~
+~
+0 0 225
+D2
+~
+~
+0 0 284
+D3
+~
+~
+0 0 281
+S
+#231
+The Pet Shop of Mycenos~
+The Pet Shop is a small crowded store, full of cages and animals of
+various sorts and sizes.  There is a sign on the wall.
+~
+~
+0 0
+0
+4096 E
+sign~
+Use 'List' to see the available pets.
+  Use 'Buy <pet> <name>' to buy yourself a pet and name it.
+  You can use 'order <pet> <instructions>' to order your pets around.
+  If you abuse your pet, it will no longer regard you as its master.
+  If you have several pets you may use 'order all <instructions>'
+ Regards,
+   The Shopkeeper
+~
+D3
+~
+~
+0 0 245
+S
+#232
+The Pet Shop of Mycenos~
+The Pet Shop is a small crowded store, full of cages and animals of
+various sorts and sizes.  There is a sign on the wall.
+~
+~
+0 4
+4
+4100 E
+sign~
+Use 'List' to see the available pets.
+  Use 'Buy <pet> <name>' to buy yourself a pet and name it.
+  You can use 'order <pet> <instructions>' to order your pets around.
+  If you abuse your pet, it will no longer regard you as its master.
+  If you have several pets you may use 'order all <instructions>'
+ Regards,
+   The Shopkeeper
+~
+S
+#233
+The Magic Shop~
+You are in a small room that smells of rare chemicals and spices.
+Dividing the room in two is a large desk, and on the wall behind it are
+numerous shelves crammed with jars, bottles, books and scrolls of all
+sorts and sizes.
+~
+~
+0 0
+0
+0 D3
+~
+~
+0 0 212
+S
+#234
+The Jewelers Shop~
+You are in a small, beautifully furnished room.  The warm light emanating
+from the small oil lamps on the walls is reflected in the hard, polished
+surface of the big mahogany desk that stands in the centre of the room.
+A small sign with golden letters stands on the desk.
+~
+~
+0 0
+0
+0 E
+sign~
+The golden letters say :-
+    Use 'list' to see what is in store,
+        'buy <item>' to buy an item,
+        'sell <item>' to sell an item and
+        'value <item>' to make the jeweller evaluate an item.
+~
+D1
+~
+~
+0 0 215
+S
+#235
+Entrance to the Disciple's Guild~
+This is a small gravel pathway that leads up to the monks sanctuary.  The
+sanctuary is a small building, in which the master lives.  You can hear him
+now, teaching a student.  
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 236
+D3
+~
+~
+0 0 244
+S
+#236
+The Altar of the Disciple~
+You have entered the guildmasters hut.  It is cramped in here, but you
+still manage to fit yourself with him.  This room is only occupied by a
+small bed, and a meditation mat. 
+~
+~
+0 0
+0
+0 D3
+~
+~
+0 0 235
+S
+#240
+Inside the North Gates of Mycenos~
+You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Main street leads
+south as you notice the extreme shrinkage of the architectural design of
+this castle.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 286
+D2
+~
+~
+0 0 212
+S
+#241
+Inside the Southern Gates of Mycenos~
+You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Main Street leads
+north from here.  You can't help to notice the extremities of the major
+shrinkage in design the town is here.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 216
+D2
+~
+~
+0 0 288
+S
+#243
+An End in the Alley~
+You see to the west a Masonic Chapel with disciples coming and going from
+the courtyard.  You can make out writings on the huge pillars marking the
+entrance.  The north ends abruptly to find no way further but back to the
+alley southwards.  The stench of this alley emits a foul smell perfect for
+those living as beggars and bums.  A large sewer hole leading down takes you
+somewhere..  Maybe you should check it out.  
+~
+~
+0 0
+0
+0 E
+down~
+~
+D2
+~
+~
+0 0 244
+D3
+~
+~
+0 0 247
+D5
+~
+manhole~
+1 0 14771
+S
+#244
+Along the Poor Alley~
+You are in a narrow part of the dirty alley going north and south.  A
+small temple to the east stands for those practicing in the ways of the
+Monk.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 243
+D1
+~
+~
+0 0 235
+D2
+~
+~
+0 0 224
+D3
+~
+~
+0 0 290
+S
+#245
+Alley Down the Street~
+The alley here continues to the south and north here.  To the west is the
+training gym while a roar of tiny animals can be heard to the east.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 226
+D1
+~
+~
+0 0 231
+D2
+~
+~
+0 0 246
+D3
+~
+~
+0 0 249
+S
+#246
+A Dead End~
+You are standing at the southern end of the alley, near the city walls. 
+The only possible directions around here is back north as the end has
+prevented any way elsewhere from here.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 245
+S
+#247
+Entrance to the Druid's Temple~
+A large tree stands in the center of this room, and as you walk past it
+you notice a movement.  Upon closer inspection, that tree isn't just a tree,
+it's a dryad!  The room of practicing lies to the west while the alley to
+the east.  
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 243
+D3
+~
+~
+0 0 251
+S
+#249
+The Trainer's Workout Place~
+The room here is equipped and furnished with everything from charts,
+manuscripts, scrolls, punching dummys and many other things.  Unique hoards
+of weapons and armor are stacked over in the northeastern corner while a few
+pupils are visibly taking drills.  The exit out of this place goes to the
+east.  
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 245
+S
+#251
+Inside the Chapel~
+This is the holy sanctum.  A wizened old woman occupies this room,
+chanting very softly to herself.  On a table in the corner is a large
+tome, and the walls are covered with creeper vines and flowers.
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 247
+S
+#254
+The Mycenos Tavern~
+There is a large fire place off to one side here, sending off huge
+amounts of heat and light, enough to light the whole room.  The fireplace
+can't contain all of the smoke, so some leaks out into the room and makes
+your eyes tear slightly.  You can also smell some brimstone and hemlock, but
+only a little bit of the poisonous hemlock.  
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 201
+D3
+~
+~
+0 0 205
+S
+#265
+The Mycenan Morgue~
+{!  It takes a moment for your eyes to adjust to the total lack of light
+in this place.  When they finally do adjust, you find yourself surrounded by
+horrifyingly dead bodies.  They lie all around you on their beds of stone. 
+Some have obviously been here longer than others, as they are much decayed. 
+You realize to your horror that you are in the catacombs, discarded with the
+other dead.  Glancing around, you search the floor for your belongings,
+finding them strewn about like rubbish.  
+{)
+{)
+{)
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 201
+S
+#267
+The Donation Room~
+You are in a small room next to the temple.  A note on the wall tells you
+that this is a place to leave your unwanted items for other travelers.
+~
+~
+0 0
+0
+0 D2
+~
+~
+0 0 201
+S
+#271
+Entrance to the Ranger's Guild~
+This room has a feral smell to it, as if it was once a stable of some sort.
+A rack of spears of various lengths and designs adorns the western wall.
+An exit leads west to the alley.  A small doorway is in the eastern wall.
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 272
+D3
+~
+~
+0 0 226
+S
+#272
+The Ranger's Domain~
+As you enter here your senses are bombarded by the sweet smells of cedar
+and a fireplace that is burning hickory.  The fire provides the only light
+here, and a small bush is set close to it.  You recognize the bush as being
+a rare witchwood bush, the most magical of hardwoods.  
+~
+~
+0 0
+0
+0 D3
+~
+~
+0 0 271
+S
+#280
+~
+~
+~
+0 4
+4
+4 S
+#281
+The Rations Store~
+Huge cases of packaged rations are lying about in the back corner of this
+store.  A huge boarded counter with a small box kept for money exchange is
+stood at the counter for purchasing and selling.  
+~
+~
+0 0
+1
+8 D1
+~
+~
+0 0 230
+S
+#282
+Entrance to the Vampire's Guild~
+Here are some aristocratic-looking individuals in this shadowy room, and
+each of them sizes you up contemptuously.  You make your way through the
+pale visages of snobs and self-styled royalty To the north takes you deeper
+into the guild.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 283
+D2
+~
+~
+0 0 230
+S
+#283
+The Vampire's Guild~
+Sitting at a desk lit softly by a single candle is a very tall figure
+dressed in jet black.  He turns at your approach and smiles broadly, showing
+a row of sharp teeth.  Quietly you are motioned to sit down while this
+vampire finishes writing whatever he is writing.  The only obvious exit is
+back through the doorway into the alcove.
+~
+~
+0 0
+0
+0 D2
+~
+~
+0 0 282
+S
+#284
+Entrance to the Telepath's Guild~
+You stand in a simple entryway to what sounds like a quite popular cafe. 
+The cafe itself is south, and you have heard tell of a magical room
+called the Hall of Minds that stands beside the cafe.  A man there is known
+to have mystical powers. 
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 230
+D2
+~
+~
+0 0 285
+S
+#285
+The Guild of the Telepaths~
+You stand in awe of this place.  You can almost feel the power of mind in
+this room.  It is here that you can come to be trained in new skills and to
+tune up your abilities in old skills.  The ceilings are high, and the
+lighting is just bright enough to allow you to see.  It is a perfect
+atmosphere in which to meditate. 
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 284
+S
+#286
+Outside the Gates of Mycenos~
+You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the north the
+plains stretch out in the distance.  
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 287
+D2
+~
+~
+0 0 240
+S
+#287
+Northern Mycenos City Road~
+You stand on the outskirts of a large city - Mycenos; the capital of this
+land.  The road leads north into the peace and quiet - and dangers - of the
+forest; and to the south it becomes the main street of the town; surrounded
+by a confusion of shops, bars, and market places.
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 6500
+D2
+~
+~
+0 0 286
+S
+#288
+Outside the Southern Gates of Mycenos~
+You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the south the
+plains stretch out in the distance.
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 241
+D2
+~
+~
+0 0 289
+S
+#289
+Southern Mycenos City Road~
+You stand on the outskirts of a large city - Mycenos; the capital of this
+land.  The road leads east into the peace and south - and dangers - of the
+forest; and to the north it becomes the main street of the town; surrounded
+by a confusion of shops, bars, and market places.
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 288
+D2
+~
+~
+0 0 15110
+S
+#290
+Waiting Room~
+{wA large room where people wait to meet with the prime minister of Mycenos.  The four
+{wthe four walls of the room are lined with comfortable chairs for you to rest in while
+{wyou wait to be seen and the center of the room is coverd in a massive ornamental carpet
+{wdecoreated in beautiful silver and gold pictures of all kinds.
+~
+~
+0 0
+0
+0 D1
+~
+~
+0 0 244
+D2
+~
+~
+0 0 291
+S
+#291
+A Grand Hallway~
+{wA grand hallway connecting to the Prime Ministers office, and the room north connecting
+{wthis building to the street outside, the walls are coverd in murals and the east side is
+{wadorn with beautiful stained glass and candles illuminate the hall.
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 290
+D2
+~
+~
+0 0 292
+S
+#292
+The Prime Ministers Office~
+{wThe Prime Mininisters office is a grand room indeed. Large silk tapestries
+{wline the walls and the floor is made completly of marble stone. The room is
+{wlit by hundreds of candles that line the walls bathing every inch of the 
+{wentire room with light, before you stands the Prime Minister. wearing a long
+{wsilk robe coverd in gold and silver lace, and a silver circlet adorns her head.
+~
+~
+0 0
+0
+0 D0
+~
+~
+0 0 291
+S
+

@@ -1,0 +1,816 @@
+#AREADATA
+Name Mountain Pass~
+Builders Anverince Unlinked~
+VNUMs 500 549
+Continent 2
+Credits (null)~
+Security 4
+Flags 0
+End
+
+#MOBILES
+#500
+sprite~
+A sprite~
+A sprite dances about, frolicking happily in the magical glade.
+~
+~
+pixie~
+AFGQR FJPTVZc B 0 0
+110 200 1d1+10000 1d1+10000 1d50+50 none
+-30 -30 -30 -30
+AFGHR ABLQ D 0
+stand stand either 1000
+AHMV ABCDEFGHIJKP small unknown
+M GRALL 500 100~
+M FIGHT 501 50~
+#0
+
+
+
+#OBJECTS
+#500
+A severed head~
+a {!se{1v{!e{1r{!e{1d{0 head~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#500
+Passage Through the Mountain~
+Eroded mountain rock is strewn across the path.
+There is no favorable urgency pushing you to turn back.
+This is nothing more than what you would expect the beginning of a passage through the mountain to be.
+The rock walls are ascending along side you. The path is clay with a thin layer of dirt blanketed over it. The only unexpected occurence is the sun perched
+directly in line with the slice in the mountains, causing a very bright, almost radiant, light to permeate the entire passage.
+A {&p{$i{&x{$i{&e{0 scampers past the entrance.
+~
+0 4 3
+D1
+~
+~
+0 0 501
+S
+#501
+Passage Through the Mountain~
+A slight bit further into the passage and nothing much has changed.
+There is, however, a {&s{7k{&e{7l{&e{7t{&o{7n{0, with a cursed, {8black {&aura{0 encircling his bones.
+The {&s{7k{&e{7l{&e{7t{&o{7n{0, collapsed in a westward position, has a makeshift sign clenched betwixt his {*art{7h{&r{7i{*tic{0 fingers.
+The sign reads, abandoning hope for a complete sentence, "{!DONT STRAY TRAIL{0."
+It becomes appearant very quickly that this sign was carved as fast as possible.
+~
+0 0 3
+E
+sign~
+{!DONT STRAY TRAIL!{0
+~
+E
+penis~
+In YO FACE!
+~
+D1
+~
+~
+0 0 502
+D3
+~
+~
+0 0 500
+S
+#502
+Passage with a Southern Crevice~
+Further into the passage there is a small doorway, crooked in stature, to your south.
+It is extremely {8dark{0 and almost impossible to guage how deep the crevice actually goes. One thing is for sure though, you are going to want to bring your lantern.
+~
+0 0 0
+D1
+~
+~
+0 0 505
+D2
+~
+~
+0 0 503
+D3
+~
+~
+0 0 501
+S
+#503
+A Narrow Cavern~
+Hunched over your squeeze yourself into the cavern, scraping your knees and 
+pushing your back tightly along the cavern wall. Luckily, to the south, there is
+ strong promise of the entrance erupting into an almost cavernous institution.
+You can only hope to not stumble upon a permanent resident of the cavern.
+~
+0 0 0
+D0
+~
+~
+0 0 502
+D2
+~
+~
+0 0 504
+S
+#504
+A Narrow Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 503
+D2
+~
+~
+0 0 526
+S
+#505
+Passage Through the Mountain~
+~
+0 0 0
+D1
+~
+~
+0 0 506
+D3
+~
+~
+0 0 502
+S
+#506
+Beginning of the Overgrowth~
+~
+0 0 0
+D0
+~
+~
+0 0 532
+D2
+~
+~
+0 0 507
+D3
+~
+~
+0 0 505
+S
+#507
+Around the Overgrowth~
+~
+0 0 0
+D0
+~
+~
+0 0 506
+D3
+~
+~
+0 0 508
+S
+#508
+Around the Overgrowth~
+~
+0 0 0
+D1
+~
+~
+0 0 507
+D2
+~
+~
+0 0 509
+S
+#509
+Around the Overgrowth~
+~
+0 0 0
+D0
+~
+~
+0 0 508
+D1
+~
+~
+0 0 510
+S
+#510
+Around the Overgrowth~
+~
+0 0 0
+D1
+~
+~
+0 0 511
+D3
+~
+~
+0 0 509
+S
+#511
+Around the Overgrowth~
+~
+0 0 0
+D0
+~
+~
+0 0 512
+D3
+~
+~
+0 0 510
+S
+#512
+Facing the Treehouse~
+~
+0 0 0
+D1
+~
+~
+0 0 513
+D2
+~
+~
+0 0 511
+D4
+~
+~
+0 0 545
+S
+#513
+Around the Overgrowth~
+~
+0 0 0
+D0
+~
+~
+0 0 514
+D3
+~
+~
+0 0 512
+S
+#514
+Around the Overgrowth~
+~
+0 0 0
+D1
+~
+~
+0 0 515
+D2
+~
+~
+0 0 513
+S
+#515
+Around the Overgrowth~
+~
+0 0 0
+D0
+~
+~
+0 0 516
+D3
+~
+~
+0 0 514
+S
+#516
+The Culmination of the Overgrowth~
+This appears to be the ultimate goal of the forestry.
+At the very edge of the overgrowth, an inexplicably tall Redwood, standing around 375 feet tall, casts an omnipotent shadow eastward down the rest of the trail.
+It has a cold, unforgiving presence. A sprite dances wildly on an overhanging branch.
+~
+0 0 0
+D0
+~
+~
+0 0 539
+D1
+~
+~
+0 0 517
+D2
+~
+~
+0 0 515
+S
+#517
+A Large Boulder~
+~
+0 0 0
+D3
+~
+~
+0 0 516
+D4
+~
+~
+0 0 518
+S
+#518
+Scaling the Boulder~
+~
+0 0 0
+D4
+~
+~
+0 0 519
+D5
+~
+~
+0 0 517
+S
+#519
+Western Summit of the Boulder~
+~
+0 0 0
+D1
+~
+~
+0 0 520
+D5
+~
+~
+0 0 518
+S
+#520
+Summit of the Boulder~
+~
+0 0 0
+D1
+~
+~
+0 0 523
+D3
+~
+~
+0 0 519
+D5
+~
+~
+0 0 521
+S
+#521
+An Excavated Chamber~
+~
+0 0 0
+D4
+~
+~
+0 0 520
+S
+#522
+A Superimposed Doorway~
+~
+0 5 0
+D2
+~
+~
+0 0 540
+S
+#523
+Eastern Summit of the Boulder~
+~
+0 0 0
+D3
+~
+~
+0 0 520
+D5
+~
+~
+0 0 524
+S
+#524
+Sliding Down the Boulder~
+~
+0 0 0
+D4
+~
+~
+0 0 523
+D5
+~
+~
+0 0 525
+S
+#525
+East of a Large Boulder~
+~
+0 0 0
+D1
+~
+~
+0 0 530
+D4
+~
+~
+0 0 524
+S
+#526
+A Crescent Den~
+~
+0 0 0
+D0
+~
+~
+0 0 504
+D1
+~
+~
+0 0 528
+D2
+~
+~
+0 0 529
+D3
+~
+~
+0 0 527
+S
+#527
+Westerly Tip of the Crescent~
+~
+0 0 0
+D1
+~
+~
+0 0 526
+S
+#528
+Eastern Tip of the Crescent~
+~
+0 0 0
+D3
+~
+~
+0 0 526
+S
+#529
+Base of the Crescent~
+~
+0 0 0
+D0
+~
+~
+0 0 526
+S
+#530
+Unstable Passage Walls~
+~
+0 0 0
+D1
+~
+~
+0 0 531
+D3
+~
+~
+0 0 525
+S
+#531
+Unstable Passage Walls~
+~
+0 0 0
+D3
+~
+~
+0 0 530
+S
+#532
+Around the Overgrowth~
+~
+0 0 0
+D1
+~
+~
+0 0 533
+D2
+~
+~
+0 0 506
+S
+#533
+Just North of a Tree House~
+~
+0 0 0
+D0
+~
+~
+0 0 534
+D3
+~
+~
+0 0 532
+S
+#534
+Around the Overgrowth~
+~
+0 0 0
+D1
+~
+~
+0 0 535
+D2
+~
+~
+0 0 533
+S
+#535
+Around the Overgrowth~
+~
+0 0 0
+D1
+~
+~
+0 0 536
+D3
+~
+~
+0 0 534
+S
+#536
+Around the Overgrowth~
+~
+0 0 0
+D1
+~
+~
+0 0 537
+D3
+~
+~
+0 0 535
+S
+#537
+A Lone Tombstone~
+Coming to a bend in the pathway you notice a chalky tombstone, inset in the rock wall, with indecipherable carvings on it.
+The spot where it is mounted appears to have been chiseled out just to holster the slab.
+There are two hooks underneath, beckoning for a once lost relic.
+~
+0 0 0
+D2
+~
+~
+0 0 538
+D3
+~
+~
+0 0 536
+S
+#538
+Around the Overgrowth~
+~
+0 0 0
+D0
+~
+~
+0 0 537
+D3
+~
+~
+0 0 539
+S
+#539
+Around the Overgrowth~
+~
+0 0 0
+D1
+~
+~
+0 0 538
+D2
+~
+~
+0 0 516
+S
+#540
+A Hazy Glade~
+You step through the doorway and come to a dull brightness.
+Your eyes have a terrible time attempting to adjust.
+This is appears to be a beautiful glade with plush grasses and a shimmering rainbow of colors gently wandering the pasture.
+This is the most peaceful, soothing place you have ever been even though the general outlines are vague and eluding.
+~
+0 0 0
+D1
+~
+~
+0 0 548
+D2
+~
+~
+0 0 549
+D3
+~
+~
+0 0 541
+S
+#541
+A Hazy Glade~
+~
+0 0 0
+D1
+~
+~
+0 0 540
+D2
+~
+~
+0 0 542
+S
+#542
+A Hazy Glade~
+~
+0 0 0
+D0
+~
+~
+0 0 541
+D1
+~
+~
+0 0 549
+D2
+~
+~
+0 0 543
+S
+#543
+A Hazy Glade~
+~
+0 0 0
+D0
+~
+~
+0 0 542
+D1
+~
+~
+0 0 544
+S
+#544
+A Hazy Glade~
+~
+0 0 0
+D0
+~
+~
+0 0 549
+D1
+~
+~
+0 0 546
+D3
+~
+~
+0 0 543
+S
+#545
+An Elaborate Tree Stand~
+~
+0 4 0
+D5
+~
+~
+0 0 512
+S
+#546
+A Hazy Glade~
+~
+0 0 0
+D0
+~
+~
+0 0 547
+D3
+~
+~
+0 0 544
+S
+#547
+A Hazy Glade~
+~
+0 0 0
+D0
+~
+~
+0 0 548
+D2
+~
+~
+0 0 546
+D3
+~
+~
+0 0 549
+S
+#548
+A Hazy Glade~
+~
+0 0 0
+D2
+~
+~
+0 0 547
+D3
+~
+~
+0 0 540
+S
+#549
+The Beckoning Glade~
+~
+0 0 0
+D0
+~
+~
+0 0 540
+D1
+~
+~
+0 0 547
+D2
+~
+~
+0 0 544
+D3
+~
+~
+0 0 542
+S
+#0
+
+
+
+#SPECIALS
+M 500 spec_cast_cleric Load to: A sprite
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#500
+if room $i == 522
+south
+end
+~
+#501
+if rand 90
+mob echo $I giggles and scampers away!
+mob goto 540
+else
+if rand 90
+mob echo $I giggles and scampers away!
+mob goto 541
+else
+if rand 90
+mob echo $I giggles and scampers away!
+mob goto 542
+else
+if rand 90
+mob echo $I giggles and scampers away!
+mob goto 543
+else
+if rand 90
+mob echo $I giggles and scampers away!
+mob goto 544
+else
+if rand 90
+mob echo $I giggles and scampers away!
+mob goto 546
+else
+if rand 90
+mob echo $I giggles and scampers away!
+mob goto 547
+else
+if rand 90
+mob echo $I giggles and scampers away!
+mob goto 548
+else
+if rand 90
+mob echo $I giggles and scampers away!
+mob goto 549
+end
+~
+#0
+
+#$

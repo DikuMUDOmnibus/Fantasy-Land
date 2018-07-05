@@ -1,0 +1,539 @@
+#PLAYER
+Name Randor~
+Race human~
+Levl 8
+Clas acolyte~
+Pkpt 100
+TSex 1
+LogO 1220398659
+Sock ACA59FD2.ipt.aol.com~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1220396114
+Plat 0
+Gold 39
+Silv 96
+Exp  14321
+Attr 15 15 15 14 18
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+AfBy LV
+ShBy DEH
+Comm N
+Pos  8
+Alig  -831
+Sk 1 'animate'
+Sk 1 'blindness'
+Sk 1 'blink'
+Sk 1 'bloodbath'
+Sk 1 'change sex'
+Sk 1 'charm person'
+Sk 1 'constitution'
+Sk 1 'curse'
+Sk 1 'darkvision'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect neutral'
+Sk 1 'detect poison'
+Sk 1 'diminish'
+Sk 1 'energy drain'
+Sk 1 'farsight'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'giant strength'
+Sk 1 'growth'
+Sk 1 'haste'
+Sk 1 'heresy'
+Sk 1 'identify'
+Sk 75 'infravision'
+Sk 1 'intellect'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'locust swarm'
+Sk 1 'mass invis'
+Sk 1 'nexus'
+Sk 1 'nightmare'
+Sk 1 'pass door'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'portal'
+Sk 1 'refresh'
+Sk 1 'regeneration'
+Sk 1 'resurrect'
+Sk 1 'shrink'
+Sk 1 'sleep'
+Sk 1 'slow'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'transport'
+Sk 1 'ventriloquate'
+Sk 1 'voodoo'
+Sk 1 'weaken'
+Sk 1 'wisdom'
+Sk 1 'wizard eye'
+Sk 1 'word of recall'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'fast healing'
+Sk 74 'hand to hand'
+Sk 75 'recall'
+Sk 75 'scrolls'
+Sk 1 'shield block'
+Sk 75 'staves'
+Sk 1 'wands'
+MaxDam 25
+LLev 0
+Pass RaMr.1S0eqgk6~
+Plyd 2545
+Note 0 0 0 0 0
+Room 3739
+HMVN 481 371 692 567 425 320
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 43 0 46
+Deviant 0 0
+Prac 42
+Trai 24
+Devote current 0
+Pnts 42
+Mkil 81
+Mdea 1
+Gr 'acolyte basics'
+Gr 'acolyte default'
+Gr 'beguiling'
+Gr 'detection'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'rom basics'
+Gr 'transportation'
+Affc 'farsight'   0   1   0  -1   0   0       2048
+Affc 'sanctuary'   1 297   0  11   0   0        128
+Affc 'haste'   0 294   0  34  10   2    2097152
+Affc 'fireshield'   1 295   0  24   0   0          8
+Affc 'shockshield'   1 296   0  23   0   0         16
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+Wear 0
+Valu 2 1 160
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3708
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 12
+Wear 8
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 12
+Wear 14
+End
+
+#O
+Vnum 3724
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 13
+Wear 1
+End
+
+#O
+Vnum 3719
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 13
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 14
+Wear 4
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 14
+Wear 3
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 15
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 15
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 15
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 15
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 15
+Wear 7
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 15
+End
+
+#O
+Vnum 3725
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 15
+Wear 26
+End
+
+#O
+Vnum 3701
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 15
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 16
+End
+
+#O
+Vnum 3712
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 16
+End
+
+#O
+Vnum 3708
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 17
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 17
+Wear 15
+End
+
+#O
+Vnum 3724
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 17
+Wear 2
+End
+
+#O
+Vnum 3719
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 17
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 18
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 18
+End
+
+#O
+Vnum 728
+Nest 0
+Name gloves normal~
+Loader MPOP: (18:13-09/02/2008) Randor~
+Wear 9
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 18
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 18
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 18
+End
+
+#O
+Vnum 3705
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 18
+End
+
+#O
+Vnum 3706
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 18
+Wear 6
+End
+
+#O
+Vnum 3711
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 18
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 19
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 19
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 19
+Wear 25
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 19
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 19
+End
+
+#O
+Vnum 3720
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 19
+End
+
+#O
+Vnum 3727
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 20
+Wear 20
+End
+
+#O
+Vnum 3728
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 20
+Wear 27
+End
+
+#O
+Vnum 3709
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 20
+End
+
+#O
+Vnum 3710
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 20
+Wear 10
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 20
+End
+
+#O
+Vnum 3727
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 21
+End
+
+#O
+Vnum 3728
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 21
+End
+
+#O
+Vnum 3715
+Nest 0
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 21
+Wear 17
+End
+
+#O
+Vnum 740
+Nest 0
+Name buckler exceptional~
+ShD  exceptional buckler~
+Loader MPOP: (18:17-09/02/2008) Randor~
+ExtF BW
+Cost 1500
+Valu 3 7 12
+Valu 4 7 2
+Affc 'reserved' 2 1 -1 1 1 0
+Affc 'reserved' 2 1 -1 -20 17 0
+End
+
+#O
+Vnum 816
+Nest 0
+Name bow long cracked~
+ShD  cracked long bow~
+Loader MPOP: (18:20-09/02/2008) Randor~
+Cost 500
+Valu 2 5 3
+End
+
+#O
+Vnum 761
+Nest 0
+Name exceptional Fine axe hand Health special~
+ShD  Exceptional Fine hand axe of Health~
+Loader MPOP: (18:20-09/02/2008) Randor~
+Lev  8
+Cost 100
+Valu 2 5 5
+Affc 'reserved' 2 1 -1 -26 17 0
+Affc 'reserved' 2 1 -1 18 12 0
+End
+
+#O
+Vnum 3726
+Nest 0
+Wear 22
+End
+
+#O
+Vnum 3726
+Nest 0
+Wear 21
+End
+
+#O
+Vnum 3712
+Nest 0
+Wear 13
+End
+
+#O
+Vnum 3711
+Nest 0
+Wear 12
+End
+
+#O
+Vnum 3722
+Nest 0
+Wear 16
+End
+
+#O
+Vnum 3723
+Nest 0
+End
+
+#O
+Vnum 3723
+Nest 0
+Wear 24
+End
+
+#O
+Vnum 792
+Nest 0
+Name Hyena's javelin special~
+ShD  Hyena's javelin~
+Loader MPOP: (18:33-09/02/2008) Randor~
+Lev  33
+Cost 75
+Affc 'reserved' 2 1 -1 -101 12 0
+End
+
+#O
+Vnum 17
+Nest 0
+Name rabbit brains brain~
+ShD  the {Mbrains{x of {mA {7r{&a{7b{&b{7i{&t{0{x~
+Desc The {Mbrains{x of {mA {7r{&a{7b{&b{7i{&t{0{x are lying here.~
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 46
+Time 3
+End
+
+#O
+Vnum 17
+Nest 0
+Name boar brains brain~
+ShD  the {Mbrains{x of {mA {3b{8o{3a{8r{0{x~
+Desc The {Mbrains{x of {mA {3b{8o{3a{8r{0{x are lying here.~
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 49
+Time 6
+End
+
+#O
+Vnum 13
+Nest 0
+Name rabbit heart~
+ShD  the {Rheart{x of {mA {7r{&a{7b{&b{7i{&t{0{x~
+Desc The {Rheart{x of {mA {7r{&a{7b{&b{7i{&t{0{x has been pulled from a chest.~
+MULTI Randor~ ACA59FD2.ipt.aol.com~ 45
+Time 2
+End
+
+#END

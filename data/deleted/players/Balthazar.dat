@@ -1,0 +1,193 @@
+#PLAYER
+Name Balthazar~
+Race human~
+Levl 8
+Clas ranger~
+Pkpt 100
+TSex 1
+LogO 1257813744
+Sock cpe-67-250-124-44.hvc.res.rr.com~
+Titl , the newest victim.~
+
+#STAT_BREAK
+
+Id   1257812962
+Plat 0
+Gold 29
+Silv 13
+Exp  12204
+Attr 20 18 18 18 18
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+ShBy DH
+Comm NQ
+Pos  8
+Alig  278
+Sk 1 'blindness'
+Sk 1 'blink'
+Sk 1 'bloodbath'
+Sk 1 'change sex'
+Sk 1 'curse'
+Sk 1 'darkvision'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect neutral'
+Sk 1 'detect poison'
+Sk 1 'detect terrain'
+Sk 1 'diminish'
+Sk 1 'energy drain'
+Sk 1 'farsight'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'heresy'
+Sk 75 'identify'
+Sk 1 'infravision'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'locust swarm'
+Sk 1 'nexus'
+Sk 1 'nightmare'
+Sk 1 'pass door'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'portal'
+Sk 1 'slow'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'transport'
+Sk 1 'voodoo'
+Sk 1 'weaken'
+Sk 1 'wizard eye'
+Sk 1 'word of recall'
+Sk 1 'ambush'
+Sk 1 'berserk'
+Sk 75 'dagger'
+Sk 1 'dual wield'
+Sk 50 'recall'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'track'
+Sk 1 'wands'
+MaxDam 38
+LLev 0
+Pass Ba9d5bzYx5Vjg~
+Plyd 782
+Note 0 0 0 0 0
+Room 3373
+HMVN 304 417 560 460 234 217
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 16 32 32
+Deviant 0 0
+Prac 50
+Trai 15
+Devote current 0
+Pnts 40
+Mkil 47
+Gr 'detection'
+Gr 'maladictions'
+Gr 'ranger basics'
+Gr 'rom basics'
+Gr 'transportation'
+Affc 'sanctuary'   1 309   0  45   0   0        128
+Affc 'constitution'   0 305   0  23  10   5          0
+Affc 'wisdom'   0 309   0  23  10   4          0
+Affc 'shield'   0 307   0  64 -102  17          0
+Affc 'armor'   0 306   0  48 -309  17          0
+Affc 'fireshield'   1 307   0  53   0   0          8
+Affc 'bless'   0 304   0  94 -38  20          0
+Affc 'bless'   0 305   0  94  38  18          0
+Affc 'intellect'   0 306   0  16  10   3          0
+End
+
+#O
+Vnum 3162
+Nest 0
+End
+
+#O
+Vnum 3163
+Nest 0
+End
+
+#O
+Vnum 3169
+Nest 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+Wear 0
+Valu 2 1 184
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3701
+Nest 0
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 717
+Nest 0
+Name Sharp cap Strength special~
+ShD  Sharp cap of Strength~
+Loader MPOP: (19:34-11/09/2009) Balthazar~
+Lev  2
+Cost 75
+Affc 'reserved' 2 1 -1 2 1 0
+Affc 'reserved' 2 1 -1 4 18 0
+Affc 'reserved' 2 1 -1 1 19 0
+End
+
+#O
+Vnum 756
+Nest 0
+Name cracked wristguard guard Poison special~
+ShD  Cracked wristguard of Poison~
+Loader MPOP: (19:36-11/09/2009) Balthazar~
+Lev  16
+Cost 50
+Valu 1 7 1
+Valu 3 7 -4
+Valu 4 7 -5
+Affc 'reserved' 4 1 -1 19 18 0
+End
+
+#O
+Vnum 3601
+Nest 0
+MULTI Balthazar~ cpe-67-250-124-44.hvc.res.rr.com~ 48
+End
+
+#O
+Vnum 3610
+Nest 0
+End
+
+#O
+Vnum 3612
+Nest 0
+MULTI Balthazar~ cpe-67-250-124-44.hvc.res.rr.com~ 49
+End
+
+#END

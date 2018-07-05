@@ -1,0 +1,3432 @@
+#AREADATA
+Name Castle Roogna~
+Builders None~
+VNUMs 23582 24299
+Credits [  5  55] Genjuro  Castle Roogna~
+Security 9
+End
+
+
+
+#MOBILES
+#23582
+bartender xanthian shopkeeper~
+The Xanthian Bartender~
+A bartender is here, drawing a mug of ale.
+~
+~
+human~
+ABT DFJZ 0 0 0
+40 10 1000d1+1 1000d1+0 5d6+15 slash
+-15 -15 -15 -2
+EFK ABCDELQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23583
+shopkeeper xanthian~
+The Xanthian Shopkeeper~
+The shopkeeper looks at you expectantly and waits for your order.
+~
+This nice young lady is in charge of sales in Potions R Us.  With her
+innocently lovely face and large deep eyes, you wonder if the patrons of
+this establishment come to purchase potions, or just to get a glance at her.
+~
+human~
+ABT DFJZ 0 0 0
+40 10 1000d1+0 1000d1+0 5d6+15 slash
+-15 -15 -15 -2
+EFIK ABCDELQ 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23584
+baker xanthian~
+The Xanthian Baker~
+The baker is baking a pie in the back of the room.
+~
+This large man can only be the baker in this town.  With his white apron
+and small chef's cap holding his hair away from his eyes, he dusts his pudgy
+hands clear of flour and smiles at you.  
+~
+human~
+ABT DJZ 0 0 0
+40 10 1000d1+0 1000d1+0 5d6+15 slash
+-15 -15 -15 -2
+EFK ABCDELQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23585
+metalsmith xanthian shopkeeper~
+The Xanthian Metalsmith~
+The metalsmith is here, pounding upon a strip of steel.
+~
+This heavily muscled man is the metalsmith of Castle Roogna.  He has
+moved his operation outside into the small village in order to gain a profit
+by turning metal for paying civilian customers as well as the King's men. 
+As he works the bellows rapidly, you can see the massive muscles in his back
+and arms flexing back and forth, and you know that this is NOT a man to
+messed with.  
+~
+human~
+ABT 0 0 0 0
+40 10 1000d1+0 1000d1+0 5d6+15 slash
+-15 -15 -15 -2
+0 ABCDELQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23586
+jeweller xanthian~
+The Xanthian Jeweller~
+The jeweller is here, polishing a small stone.
+~
+This small and thin man must be the jeweller.  With a small pair of
+spectacles perched upon his large nose, he gently polishes a garnet with a
+cloth, enhancing its shine.  
+~
+human~
+ABT DJZ 0 0 0
+40 10 1000d1+0 1000d1+0 5d6+15 slash
+-15 -15 -15 -2
+EFK ABCDELQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23587
+shopkeeper xanthian pillseller~
+The Xanthian Shopkeeper~
+The shopkeeper is here, selling pills.
+~
+This shopkeeper sells her pills to everyone.  She simply LOVES pills, and
+cannot get enough of them.  
+~
+human~
+ABT DFJZ 0 0 0
+40 10 1000d1+1 1000d1+0 4d5+15 slash
+-15 -15 -15 -2
+EFK ABCDELQ 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23588
+botanist xanthian~
+The Xanthian Botanist~
+The botanist is here, watering some plants.
+~
+This botanist studies a plant carefully before stroking its leaves softly
+and watering it from a large pitcher of water.  He is an elderly man, with
+soft features and a patient way about him.  
+~
+human~
+ABT DFJZ 0 0 0
+40 10 1000d1+1 1000d1+0 4d5+15 slash
+-15 -15 -15 -2
+EFK ABCDELQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23589
+shopkeeper xanthian wedding~
+The Wedding Shopkeeper~
+A shopkeeper is smirking at you here.
+~
+This shopkeeper smirks wryly as you enter the shop, a knowing grin upon
+his smug face.  You wonder what crimes you must have committed to wander
+into his shop.  
+~
+human~
+ABT DFJZ 0 0 0
+40 10 1000d1+1 1000d1+0 4d5+15 slash
+-15 -15 -15 -2
+EFK ABCDELQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23590
+trainer xanthian~
+The Xanthian Trainer~
+A Xanthian trainer is here, helping you practice.
+~
+This lean but muscular man helps all citizens and visitors to Xanth train
+in the many arts that all professions are taught.  He is a patient and well
+learned man, skilled in just about anything you may need.  
+~
+human~
+ABKTb DFJZ 0 0 0
+40 10 1000d1+1 1000d1+0 4d5+15 slash
+-15 -15 -15 -2
+EFK ABCDELQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23591
+priest xanth~
+The Priest of X(A/N)th~
+A priest of the demon X(A/N)th is here, training people.
+~
+~
+human~
+ABJT DFJZ 0 0 0
+40 10 1000d1+1 1000d1+0 4d5+15 slash
+-15 -15 -15 -2
+EFK ABCDELQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23592
+changer money xanth~
+The Xanthian Money Changer~
+The Xanthian money changer is here, exchanging gold with silver.
+~
+This thin young man is the money changer of Xanth.  By giving him gold or
+silver, he will change it into the opposite currency for you for a slight
+fee.  
+~
+human~
+ABTd DFJZ 0 0 0
+40 10 1000d1+1 1000d1+0 4d5+15 slash
+-15 -15 -15 -2
+EFK ABCDELQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23593
+healer xanthian~
+The Xanthian Healer~
+The Xanthian healer is here, helping you heal your wonds.
+~
+This kindly older woman is garbed in white robes.  She smiles serenely at
+you as places her hands gently upon your head, attempting to draw the
+negative energies away from you.  
+~
+human~
+ABQa DFJZ 0 0 0
+40 10 1000d1+1 1000d1+0 4d5+15 slash
+-15 -15 -15 -2
+EFK ABCD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23595
+pawnshop broker~
+The Pawnshop Broker~
+The pawnshop broker is here, grinnng as you enter his store.
+~
+This large man is the epitome of the word "GREEDY".  With his large pudgy
+hands itching to make a great bargain for himself, he drools and cackles as
+you lay out your wares for his inspection.  
+~
+human~
+ABT DFJZ 0 0 0
+40 10 1000d1+1 1000d1+0 4d5+15 slash
+-15 -15 -15 -2
+EFK ABCDELQ 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium 0
+#23596
+pawnshop broker~
+The Pawnshop Broker~
+The pawnshop broker is here, almost asleep.
+~
+This fat man is most likely the brother of the owner of the pawnshop to
+the west.  Business is so bad here that there is nothing to do, and he is
+almost asleep upon his own feet.  
+~
+human~
+ABT DFJZ 0 0 0
+40 10 1000d1+1 1000d1+0 4d5+15 slash
+-15 -15 -15 -2
+EFK ABCDELQ 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium 0
+#23597
+citizen roogna~
+The citizen~
+A citizen of Castle Roogna is wandering about here.
+~
+This citizen is an ordinary Xanth human.  Wandering about in common
+clothes, this citizen walks about Castle Roogna living life as usual.  
+~
+human~
+ACGT JZ 0 0 0
+10 1 130d1+0 100d1+0 2d5+3 slap
+4 4 4 4
+FK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23598
+guest party~
+A party guest~
+A party guest is socializing here.
+~
+This person is a guest of the Royal Family's party.  The party guests
+have come in droves to socialize with each other in the finery of Castle
+Roogna.  
+~
+human~
+AT JZ 0 0 0
+14 1 3d22+100 3d22+100 2d5+5 slap
+2 2 2 6
+FK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23599
+zombie zora~
+Zora Zombie~
+Zora Zombie is here, disgusting the guests.
+~
+Zora Zombie is perhaps one of the nicest and most couragest zombies
+almost alive.  She was a wonderful woman in life, and in death she maintains
+her integrity and selflessness.  She has taken a drink from a love spring
+and has fallen in love with Xavier, the son of Xanthippe the witch.  Luckily
+for her, Xavier has proven to be a decent man and has imbibed from the same
+spring in order to fall in love with her as well.  
+~
+human~
+ABOT JZ 0 100 0
+20 1 300d1+50 300d1+50 4d5+10 slime
+-2 -2 -2 4
+EFK AB C 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23600
+xavier~
+Xavier~
+Xavier is here, dancing with Zora.
+~
+Xavier is a strong country bumpkin.  Previously sickened by the sight of
+a zombie, he has grown to respect the loyalty and admirable qualities Zora
+has shown.  When she fell in love with Xavier, he responded by drinking of
+the same love spring to fall madly in love with her in return.  
+~
+human~
+ABT JZ 0 30 0
+22 1 600d1+1 400d1+1 4d5+10 crush
+-2 -2 -2 4
+EFIK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23601
+chex centaur~
+Chex Centaur~
+Chex Centaur is here, spreading her wings.
+~
+Chex Centaur is the only centaur with wings.  An attractive filly of her
+species, Chex is a pleasant person inside as well as outside.  She has
+helped Princess Irene in more than one ocassion and has proved herself an
+invaluable and true friend.  
+~
+human~
+AGT T 0 0 0
+25 2 750d1+0 550d1+0 4d5+10 crush
+-4 -4 -4 3
+FIKMO AB CD H
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23602
+siren~
+The Siren~
+The Siren is here, singing a song to bring the men over.
+~
+The Siren is an incredibly lovely mermaid with a beautiful singing voice.
+With her long flowing hair and inpressive upper proportions, she is a
+creature of desire for all males that view her.  Right now, however, she is
+swimming in a small tub designed to hold her during the party.  The court
+conjurer has transported her from her coral reefs to the party at behest of
+Queen Iris.  
+~
+human~
+AT JVZ 0 0 0
+30 3 800d1+0 800d1+0 5d6+15 slap
+-8 -8 -8 0
+EFIKM AB CR 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23603
+crunch ogre~
+Crunch Ogre ~
+Crunch Ogre is here, stomping guests flat while dancing.
+~
+Crunch is a huge ogre, yet friendly to all those who have not hurt him. 
+He has married a curse fiend actress and has a son named Smash.  As he
+dances around, unknowingly crushing a few guests beneath his massive dirty
+feet, he rumbles, "Crunch like to dance with wife, why not can we enjoy the
+life?"  You sigh.  
+~
+human~
+AT JZa N 0 0
+40 10 1900d1+1 1000d1+0 5d6+20 smash
+-14 -14 -14 -2
+CEFKO AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#23604
+crombie soldier~
+Crombie~
+Crombie the Soldier is here, looking for any signs of trouble.
+~
+Crombie is a woman-hating soldier.  He has, unbelievably, married Jewel,
+the nymph of jewels.  With his stern looks and cynical comments, one can
+only wonder why she married him.  He is outfitted in his finest uniform,
+standing guard over the party, making sure nobody causes a fight.  
+~
+human~
+ABT DFJVZ 0 0 0
+38 10 1250d1+0 1050d1+0 5d7+19 pierce
+-50 -50 -50 -50
+DEFIK AB D 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23605
+nymph jewel~
+Jewel Nymph~
+Jewel the Nymph is here, showing off her gems.
+~
+Jewel the Nymph is the one in charge of placing jewels deep inside Xanth.
+With her friend the diggle, she places gems deep within the ground and rock
+of Xanth.  She is an innocent and pretty creature with large deep eyes and
+long blonde hair.  At one time, she fell in love with Bink, but since then,
+Crombie has used a wish to make Jewel fall in love him and then married her.
+~
+human~
+AT JZ N 10 0
+33 3 10d61+500 10d61+500 5d6+15 slap
+-10 -10 -10 -2
+EFIJK B C 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23606
+ichabod~
+Ichabod~
+Ichabod is here, taking notes.
+~
+Ichabod is a scholar from Mundania who has travelled to Xanth to attend
+the Queen's ball.  He is a thin and elderly man who first discovered about
+Xanth by being contacted by Dor in Mundania for help.  He is now taking
+notes about the events in Xanth for a story book he will write.  
+~
+human~
+AGT JZ 0 0 0
+25 2 600d1+0 0d0+0 4d5+12 crush
+-3 -3 -3 3
+FIK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23607
+centaur arnolde~
+Arnolde Centaur~
+Arnolde Centaur is here, grooming his tail.
+~
+Arnolde Centaur was once a proud historian of Centaur Isle.  When it was
+discovered that he had a magical talent, he was exiled.  Arnolde's talent is
+to produce an aisle of magic that extends from him when he is in mundania.  
+~
+human~
+ABT JZ 0 0 0
+28 3 10d61+400 10d61+400 5d6+13 crush
+-8 -8 -8 0
+CEFIK AB C 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23608
+murphy magician~
+Magician Murphy~
+Magician Murphy is here, getting dressed for the ball.
+~
+Magician Murphy, the opposition against King Roogna, is a fair man in his
+middle thirties.  His magic applies to bring bad luck where he chooses.  He
+retired to stasis in the Brain Coral's pool but escaped with neo-sorceress
+Vadne eons later.  He resides in Mundania, but has come to Xanth for the
+Queen's ball.  
+~
+human~
+ABCT DFJVZ CDEH -300 0
+50 30 5000d1+50 3000d1+50 5d10+25 magic
+-10 -10 -10 -4
+EFHJK AB C 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23609
+millie ghost~
+Millie the Ghost~
+Millie is here, combing her hair.
+~
+Millie the Ghost is a beautiful and sexy woman that is no longer a ghost.
+Restored to life by Bink, she became Dor's nanny.  She is a VERY attraction
+lady, with long straight hair and a ravishing body.  It is no wonder she is
+able to turn heads wherever she is, since her talent is sex appeal.  She has
+married Jonathan, the Zombie Master, falling in love with him once Dor,
+travelling to the past and inhabiting a muscular warrior's body, jilted her
+on his quest to restore Jonathan to life in the present.  
+~
+human~
+ABT JZ 0 100 0
+37 10 10d80+700 10d80+500 5d7+17 slap
+-8 -8 -8 0
+EFIK AB CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23610
+zombie master jonathan~
+Jonathan the Zombie Master~
+The Zombie Master is here, helping Millie.
+~
+Jonathan is a gaunt older man, used to solitude and loneliness.  A full
+magician, his powers of reanimated the dead into zombies caused most people
+to dislike him.  After Millie disappeared eons ago, he hung himself and
+turned into a zombie.  Dor's quest to find an elixir to restore Jonathan to
+life resulted in the Zombie Master meeting Dor in the past.  He was restored
+to life in the present, and owes Dor BIG TIME.  
+~
+human~
+ABT JVZc H 0 0
+50 35 5000d1+50 3000d1+50 5d10+25 wrath
+-20 -20 -20 -7
+DEFJK AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23611
+smash ogre~
+Smash Ogre~
+Smash Ogre is here, growling at a mirror.
+~
+Smash Ogre is the son of Crunch Ogre and a friend of Magician Dor.  He is
+friendly yet somewhat rough to most people, and due to his large size and
+heigh, most citizens of Xanth give him a wide berth.  He has married Tandy,
+the daughter of Crombie and Jewel, and exists happily smashing things.  
+~
+human~
+ABT JZc 0 0 0
+42 20 10d169+1220 10d169+920 5d10+24 smash
+-15 -15 -15 -4
+EFIKO AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#23612
+snortimer monster bed~
+Snortimer~
+A monster is hiding under the bed here.
+~
+Snortimer is one of the many monsters under the bed.  Unlike many of the
+monsters however, Snortimer has adventured outside of his home, bringing a
+bed with him.  He helped Grundy on an adventure to rescue Rapunzel, Grundy's
+wife now, from the Sea Hag, where she was held prisoner in an ivory tower. 
+He remained in the wilderness of Xanth to help protect the nymphs and fauns,
+but has returned to Castle Roogna to attend the Queen's Ball and to scare
+the guests that sleep in this room.  
+~
+human~
+ABT JVZ 0 0 0
+33 3 900d1+25 900d1+25 5d6+15 grep
+-7 -7 -7 0
+EFK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23613
+mare imbrium day~
+Day Mare Imbrium~
+You begin to have a nice little daydream.
+~
+Once a Night Mare, Imbrium did not fully enjoy her job anymore.  She is
+now a Day Mare, and brings day dreams to those that deserve it.  
+~
+human~
+ABT DFJQTZ BH 200 0
+41 20 4100d1+1 1100d1+1 5d7+20 crush
+-13 -13 -13 -2
+FIKMO AB CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23614
+elf jenny~
+Jenny Elf~
+Jenny Elf is here, smiling at Sammy.
+~
+Jenny Elf is a elf from another world.  Lost in Xanth, she searches for
+her way home, accompanied by her faithful cat Sammy.  Jenny is a small elf,
+with blonde hair and pointed ears, and is basically friendly to all people
+she encounters.  She is from the world with two moons, and wonders if she
+will ever see them again.  
+~
+elf~
+ABT JZ 0 0 0
+18 1 5d30+161 5d30+161 3d5+7 slap
+0 0 0 4
+FK 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK small 0
+#23615
+cat sammy~
+Sammy the Cat~
+Sammy the Cat is purring against Jenny.
+~
+Sammy the Cat is Jenny's faithful companion.  With a keen sense of
+direction, he has the talent to find anything he wants.  
+~
+human~
+ABT JZ 0 0 0
+15 1 180d1+1 180d1+1 2d5+5 scratch
+0 0 0 5
+FKM 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23616
+melantha merwoman~
+Mela Merwoman~
+Mela Merwoman is here, taking a bath.
+~
+Mela Merwoman is an attractive merwoman.  She had once captured Prince
+Dolph, but agreed to let him go if he recovered two firewater opals from a
+dragon.  She is here now, about to attend the Queen's Ball and keep the
+Siren company.  
+~
+human~
+ABT JZc 0 0 0
+36 3 1100d1+0 1000d1+0 5d6+17 slap
+-11 -11 -11 -1
+FKMO A B 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23617
+guest hungry~
+A hungry guest~
+A hungry guest is seated here.
+~
+This guest is VERY hungry.  All the guests here are eagerly awaiting the
+feast that is about to begin.  
+~
+human~
+ACT JZ 0 0 0
+7 1 1d17+42 1d17+42 2d3+2 digestion
+7 7 7 8
+FK AB 0 0
+sit sit male 0
+AHMV ABCDEFGHIJK medium 0
+#23618
+chef roogna~
+The Roogna Chef~
+A chef is here, preparing a meal.
+~
+The chef has been trained by some of the best known chefs and cooks in
+Xanth.  He has studied the arts of basting, steaming, baking, broiling, and
+frying.  He has also spent a few years learning to make the best sandwiches
+from a well known sand witch.  
+~
+human~
+ABT JZ 0 0 0
+16 1 5d30+161 5d30+161 3d5+8 chop
+0 0 0 5
+EFK B 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23619
+dor~
+Dor~
+Dor is here, talking with the books.
+~
+Dor is the son of Bink and Chameleon and is next in line to be the king
+of Xanth.  It is a propect that he does not like, and he is rather afraid of
+bungling the job.  A powerful magician in his own right, Dor's talent is to
+make inanimate objects talk.  In this way, he can find information that
+nobody else can.  Right now he is escaping the pressures of royal life by
+hiding in the library and talking with the books.  
+~
+human~
+ACGT DFJVZc CDEH 40 0
+50 20 5000d1+50 4000d1+50 5d10+26 wrath
+-200 -200 -200 -200
+AEFIJK AB CD 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#23620
+trent king~
+King Trent~
+King Trent is here, studying a manuscript.
+~
+King Trent is a powerful magician with that talent of transformation of
+others within a six foot range.  He is a distinguished older man with a long
+history.  He had attempted to take over Xanth by force many years ago, and
+failing, was exiled to Mundania.  In another attempt to take over Xanth he
+discovered Castle Roogna along with Bink and Chameleon.  He later gave up
+his attempted to rule Xanth through force and bloodshed, and was surprised
+to find himself given the throne when the old king died.  King Trent is a
+fair and honest man who decides issues without bias with a strong and firm
+hand.  He has spent years grooming Dor for the throne, and hopes that one
+day, Dor will make a just and able king.  
+~
+human~
+ABCT DFJVZ CDEH 0 0
+60 30 6000d1+50 5000d1+50 6d11+30 magic
+-250 -250 -250 -250
+CDEFHIJKO AB CD 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0
+#23621
+citizen xanth~
+A citizen of Xanth~
+A citizen of Xanth is waiting to see the King here.
+~
+This citizen of Xanth has been waiting for the King.  The citizen has
+important matters to discuss with the King and will not leave until the King
+has given an audience to these problem.  
+~
+human~
+ABCT JZ 0 0 0
+17 1 240d1+5 245d1+0 3d5+8 slap
+0 0 0 4
+FIK B 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23622
+mistress illusion queen~
+Queen Iris~
+Queen Iris, the Mistress of Illusion, is relaxing upon her throne.
+~
+Queen Iris, once a haughty and power-hungry woman, has now mellowed quite
+a bit and cares for the welfare of Xanth.  She knows she cannot ever truly
+win the love of her husband Trent, and their marriage was one of
+convenience, a condition set by the Elders of the Council for Trent to take
+the throne.  She dotes upon her daughter, Princess Irene, and hopes that one
+day she will make a fine queen.  
+~
+human~
+ABCT DFJZc CEH 0 0
+55 25 5500d1+0 4300d1+0 5d11+27 magic
+-220 -220 -220 -220
+AEFHIKN AB CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23623
+guard xanthian~
+The Xanthian Guard~
+A guard is standing here, watching you closely.
+~
+This guard is one of the members of the Castle Roogna guard.  A large and
+tough guard, their main goal is to enforce the peace around and inside
+Castle Roogna.  
+~
+human~
+AGT DEJZ 0 0 0
+35 1 900d1+0 900d1+0 4d6+8 slash
+-1 -1 -1 2
+EFK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#23624
+irene princess~
+Princess Irene~
+Princess Irene is here, growing plants.
+~
+Princess Irene is a lovely young woman with green hair, emerald eyes, and
+a fantastic smile.  Her talent is a powerful one and she can make any plant
+or seed grow at an incredibly rate.  She is married to Dor, and destined to
+be the Queen of Xanth.  
+~
+human~
+ABCT JZc EH 0 0
+48 20 4800d1+0 3000d1+0 5d10+25 wrath
+-200 -200 -200 -200
+DEFHJK AB CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#23625
+plant blackjack~
+The Blackjack Plant~
+A blackjack plant is growing here.
+~
+This large plant is a blackjack plant.  Dangerous looking blackjacks grow
+from every stem, making you wary of this plant.  
+~
+human~
+ABCT Zc 0 0 0
+34 2 10d61+416 10d61+416 5d6+15 smash
+-7 -7 -7 -3
+FKO AB D HI
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#23582
+potion crimson~
+a crimson potion~
+A crimson potion lies here.
+~
+glass~
+potion 0 A
+25 'fly' 'invisibility' 'detect invis' ''
+0 2 5000 P
+#23583
+potion red~
+a red potion~
+A red potion lies here.
+~
+glass~
+potion 0 A
+25 'armor' 'fly' 'create spring' ''
+0 2 1900 P
+#23584
+potion neon pink~
+a neon pink potion~
+A neon pink potion lies here.
+~
+glass~
+potion 0 A
+25 'fly' 'pass door' 'detect invis' 'farsight'
+0 2 5000 P
+#23585
+potion aquamarine~
+an aquamarine potion~
+An aquamarine potion lies here.
+~
+glass~
+potion 0 A
+25 'haste' 'frenzy' 'giant strength' ''
+0 2 5000 P
+#23586
+flask blue~
+a blue flask~
+A blue flask lies here
+~
+glass~
+potion 0 A
+25 'pass door' 'invisibility' 'detect invis' ''
+0 2 5000 P
+#23587
+flask green~
+a green flask~
+A green flask lies here.
+~
+glass~
+potion 0 A
+25 'stone skin' 'remove curse' 'protection evil' ''
+0 2 9000 P
+#23588
+vial silver~
+a silver vial~
+A silver vial lies here.
+~
+glass~
+potion 0 A
+25 'cure serious' 'cure critical' 'cure light' ''
+0 2 10000 P
+#23589
+decanter brass~
+a brass decanter~
+A brass decanter lies here.
+~
+glass~
+potion 0 A
+25 'create food' 'create food' 'create spring' ''
+0 2 1000 P
+#23590
+bottle green~
+a green bottle~
+A green bottle lies here.
+~
+glass~
+potion 0 A
+25 'faerie fog' 'detect invis' 'refresh' ''
+0 2 3000 P
+#23591
+cookie jellybean~
+a jellybean cookie~
+A cookie filled with jelly lies here.
+~
+wood~
+food 0 A
+2 2 0 0 0
+0 1 10 P
+#23592
+cressmato sandwich~
+a cressmato sandwich~
+A tasty sandwich lies here.
+~
+wood~
+food 0 A
+3 3 0 0 0
+0 2 50 P
+#23593
+steak dragon imitation~
+an imitation dragon steak~
+A platter of dragon steak lies here.
+~
+wood~
+food 0 A
+4 4 0 0 0
+0 0 100 P
+#23594
+bracer greensteel~
+a greensteel bracer~
+A bracer made from strange green steel lies here.
+~
+steel~
+armor 0 AM
+5 5 5 3 0
+10 5 100 P
+A
+13 5
+#23595
+helm ivory~
+an ivory helm~
+A helm carved from ivory lies here.
+~
+stone~
+armor 0 AE
+7 7 7 3 0
+15 5 150 P
+A
+13 10
+#23596
+breeches mail~
+a pair of mail breeches~
+A pair of breeches made from mail lies here.
+~
+steel~
+armor 0 AF
+6 6 6 3 0
+13 7 125 P
+A
+13 15
+#23597
+shield petrified wood~
+a shield of petrified wood~
+A hard wooden shield lies here.
+~
+wood~
+armor S AJ
+7 7 7 5 0
+20 10 250 P
+A
+13 10
+#23598
+dagger bluesteel~
+a bluesteel dagger~
+A dagger made from blue steel lies here.
+~
+steel~
+weapon 0 AN
+dagger 4 5 pierce 0
+15 10 200 P
+#23599
+sword bluesteel~
+a bluesteel sword~
+A sword made from blue steel lies here.
+~
+steel~
+weapon 0 AN
+sword 4 5 slash 0
+15 5 200 P
+#23600
+mace bluesteel~
+a bluesteel mace~
+A mace made from blue steel lies here.
+~
+steel~
+weapon 0 AN
+mace 4 5 pound 0
+15 5 200 P
+#23601
+spear bluesteel~
+a bluesteel spear~
+A spear made from blue steel lies here.
+~
+steel~
+weapon 0 AN
+staff 4 5 thrust 0
+15 5 200 P
+#23602
+axe bluesteel~
+a bluesteel axe~
+An axe made from blue steel lies here.
+~
+steel~
+weapon 0 AN
+axe 4 5 slash 0
+15 5 200 P
+#23603
+whip vine~
+a vine whip~
+A whip made from tough vines lies here.
+~
+wood~
+weapon 0 AN
+whip 4 5 whip 0
+15 5 200 P
+#23604
+flail tiger lily~
+a tigerlily flail~
+A flail made from a tigerlily plant lies here.
+~
+wood~
+weapon 0 AN
+flail 4 5 whip 0
+15 5 200 P
+#23605
+pitchfork greensteel~
+a greensteel pitchfork~
+A pitchfork made from green steel lies here.
+~
+steel~
+weapon 0 AN
+polearm 4 5 pierce 0
+15 5 200 P
+#23606
+garnet~
+a garnet~
+A small garnet lies here.
+~
+stone~
+treasure 0 AO
+0 0 0 0 0
+1 5 100 P
+#23607
+lavender opal~
+a lavender opal~
+A lavender opal shines here.
+~
+stone~
+treasure 0 AO
+0 0 0 0 0
+1 5 200 P
+#23608
+shard crystal~
+a shard of crystal~
+A shard of a flawless crystal lies here.
+~
+glass~
+treasure 0 AO
+0 0 0 0 0
+1 5 300 P
+#23609
+pill sleeping~
+a sleeping pill~
+Syl~
+wood~
+pill 0 AO
+100 '' 'sleep' 'sleep' ''
+0 1 1000 P
+#23610
+pill cold~
+a cold pill~
+A cold pill lies here.
+~
+wood~
+pill 0 AO
+30 'cure disease' 'cure disease' 'cure disease' ''
+0 1 10000 P
+#23611
+pill pain~
+a pain pill~
+A pain pill lies here.
+~
+wood~
+pill 0 AO
+30 'refresh' 'refresh' 'fly' ''
+0 1 1025 P
+#23612
+pill thc~
+a thc pill~
+A strange green pill lies here.
+~
+wood~
+pill 0 AO
+30 'know alignment' 'detect magic' 'detect poison' ''
+0 1 1103 P
+#23613
+pill translucent~
+a translucent pill~
+A translucent pill lies here.
+~
+wood~
+pill 0 AO
+30 'pass door' 'invisibility' 'fly' ''
+0 1 5011 P
+#23614
+tattoo acid~
+an acid tattoo~
+A small tattoo lies here.
+~
+wood~
+pill 0 AO
+110 'acid blast' 'acid blast' 'acid blast' ''
+0 1 10000 P
+#23615
+pill gas relief~
+a pill of gas relief~
+A strange purple pill lies here.
+~
+wood~
+pill 0 AO
+50 'cancellation' 'refresh' 'refresh' ''
+0 1 10000 P
+#23616
+sprig pine torment~
+a sprig of a torment pine~
+A small branch of a tree lies here.
+~
+wood~
+wand S AO
+20 3 3 'harm' 0
+20 2 1000 P
+#23617
+flowers firecracker~
+some firecracker flowers~
+Some firecracker flowers are growing here.
+~
+wood~
+wand 0 AO
+15 5 5 'high explosive' 0
+15 5 1000 P
+#23618
+impatiens~
+a cluster of impatiens~
+A cluster of impatiens are growing here.
+~
+wood~
+wand 0 AO
+15 3 3 'haste' 0
+15 5 5000 P
+#23619
+mug ale~
+a mug of ale~
+A mug of ale lies here.
+~
+glass~
+drink 0 A
+2 2 'ale' 0 0
+0 2 20 P
+#23620
+flask wine house~
+a flask of house wine~
+A flask of cheap wine lies here.
+~
+glass~
+drink 0 A
+4 4 'red wine' 0 0
+0 3 35 P
+#23621
+glass water~
+a glass of water~
+A clear glass of water lies here.
+~
+glass~
+drink 0 A
+1 1 'water' 0 0
+0 1 10 P
+#23622
+violent african~
+an African violent plant~
+An African violent is growing here.
+~
+wood~
+staff S AO
+30 3 3 'frenzy' 0
+30 2 974 P
+#23623
+curseburr~
+a curseburr~
+A small burr lies here.
+~
+wood~
+wand S AO
+24 1 1 'curse' 0
+24 1 342 P
+#23624
+ring diamond engagement~
+a diamond engagement ring~
+A small diamond ring lies here.
+~
+silver~
+treasure HM AB
+0 0 0 0 0
+0 2 500 P
+#23625
+gold engagement band~
+a gold engagement band~
+A small band of gold lies here.
+~
+gold~
+treasure HM AB
+0 0 0 0 0
+0 2 500 P
+#23626
+ring diamond wedding~
+a diamond wedding ring~
+A large diamond lies here.
+~
+glass~
+treasure HM AB
+0 0 0 0 0
+0 3 10000 P
+#23627
+gold wedding band~
+a gold wedding band~
+A gold wedding band lies here.
+~
+gold~
+treasure HM AB
+0 0 0 0 0
+0 3 10000 P
+#23628
+gown wedding white~
+a beautiful white wedding gown~
+A white lacey gown lies here.
+~
+cloth~
+armor S AD
+1 1 1 1 0
+0 5 300 P
+#23629
+tuxedo white wedding~
+a white wedding tuxedo~
+A white tuxedo lies here.
+~
+cloth~
+armor S AD
+1 1 1 1 0
+0 5 300 P
+A
+4 -1
+#23630
+veil white lace~
+a white lace wedding veil~
+A rectangle of white lace lies here.
+~
+cloth~
+armor S AE
+1 1 1 1 0
+0 1 100 P
+#23631
+garter white lace~
+a white lace garter~
+An elastic band of white lace lies here.
+~
+cloth~
+armor S AF
+1 1 1 1 0
+0 2 121 P
+#23632
+slippers diamond~
+a pair of diamond slippers~
+A pair of diamond slippers lies here.
+~
+glass~
+armor S AG
+1 1 1 1 0
+0 5 1000 P
+#23633
+gloves white lace~
+a pair of white lace gloves~
+A pair of delicate white lace gloves lies here.
+~
+cloth~
+armor S AH
+1 1 1 1 0
+0 3 348 P
+#23634
+bowtie~
+a bowtie~
+A bowtie lies here.
+~
+cloth~
+armor S AC
+1 1 1 1 0
+0 3 138 P
+#23635
+cummerbund white~
+a white cummerbund~
+A white sash lies here.
+~
+cloth~
+armor S AL
+1 1 1 1 0
+0 2 242 P
+#23636
+overalls yellow pair~
+a pair of yellow overalls~
+A pair of yellow overalls lies here.
+~
+cloth~
+armor S AD
+1 1 1 1 0
+22 5 100 P
+A
+5 1
+#23637
+wings chex's~
+Chex's Wings~
+A beautiful pair of angelic wings lies here.
+~
+leather~
+armor S AK
+9 9 9 7 0
+25 10 100 P
+F
+A 0 0 T
+A
+2 1
+#23638
+dulcimer siren's~
+The Siren's Dulcimer~
+A handsomely crafted gold dulcimer lies here.
+~
+gold~
+staff HM AO
+30 5 5 'charm person' 0
+30 5 1000 P
+#23639
+broadsword savage~
+a savage broadsword~
+A savage-looking broadsword gleams in the light.
+~
+steel~
+weapon M AN
+sword 5 8 slash D
+38 10 500 P
+A
+13 20
+A
+19 5
+A
+18 5
+#23640
+shield roogna~
+a shield with the Roogna insignia~
+A shield with a strange crest lies here.
+~
+steel~
+armor 0 AJ
+10 10 10 8 0
+38 10 300 P
+A
+23 -1
+A
+17 -1
+#23641
+uniform cloth mail~
+a cloth and mail soldier's uniform~
+A uniform made from cloth with reinforced mail padding lies here.
+~
+steel~
+armor S AD
+10 10 10 8 0
+38 8 400 P
+A
+13 10
+#23642
+barrel jewels~
+a barrel of jewels~
+A large barrel of jewels lies here.
+~
+glass~
+money SU AO
+5000 0 0 0 0
+0 5 500 P
+#23643
+glasses imported~
+a pair of imported glasses~
+A pair of glasses lies here.
+~
+glass~
+armor 0 AE
+9 9 9 7 0
+28 4 100 P
+A
+3 1
+A
+4 1
+#23644
+book laws murphy's~
+a book entitled Murphy's Laws~
+A strange black book lies upon the floor.
+~
+vellum~
+staff SY AO
+50 1 1 'curse' 0
+50 5 100 P
+A
+12 20
+#23645
+axe jinx~
+The Jinx Axe~
+A black humming axe lies here.
+~
+stone~
+weapon ABCMSZ AN
+axe 5 11 magic DG
+50 10 1000 P
+#23646
+bracer dark~
+a dark bracer~
+A black bracer lies here in the shadows.
+~
+stone~
+armor CS AM
+11 11 11 8 0
+50 9 500 P
+A
+12 20
+A
+18 3
+#23647
+outfit french maid's~
+a skimpy french maid's outfit~
+A small maid's uniform lies here.
+~
+cloth~
+armor S AD
+10 10 10 8 0
+37 5 100 P
+A
+13 10
+A
+2 1
+#23648
+potion restore life~
+a potion of restore life~
+A powerful potion lies here.
+~
+glass~
+potion S AO
+50 'remove curse' 'cure light' 'heal' ''
+50 2 100 P
+#23649
+flail master zombie~
+The Flail of the Zombie Master~
+A large barbed flail lies here.
+~
+steel~
+weapon MS AN
+flail 6 7 wrath D
+50 10 500 P
+A
+1 1
+A
+13 25
+A
+19 5
+A
+18 5
+#23650
+sash green~
+a green sash~
+A green sash lies here.
+~
+cloth~
+armor S AL
+11 11 11 8 0
+50 5 500 P
+A
+12 20
+A
+18 2
+A
+19 2
+#23651
+pair gauntlets giant~
+a pair of giant gauntlets~
+A pair of huge steel gauntlets lies here.
+~
+steel~
+armor M AH
+11 11 11 9 0
+42 15 200 P
+A
+2 1
+A
+1 5
+A
+17 -2
+#23652
+clippers fingernail~
+a pair of fingernail clippers~
+A small object to clip nails lies here.
+~
+steel~
+weapon 0 AN
+exotic 5 7 grep D
+33 5 100 P
+A
+19 3
+A
+18 3
+#23653
+daydream~
+a daydream~
+A nice little daydream begins to form in your mind.
+~
+glass~
+treasure FMS AQ
+0 0 0 0 0
+30 1 1000 P
+A
+12 35
+#23654
+collar cat~
+a cat collar~
+A small black collar lies here.
+~
+leather~
+armor S AC
+7 7 7 4 0
+15 3 90 P
+A
+12 20
+#23655
+opal firewater~
+a firewater opal~
+A brilliant firewater opal is here.
+~
+glass~
+warp_stone AS AO
+0 0 0 0 0
+35 1 1000 P
+A
+19 1
+A
+18 1
+#23656
+fountain magic~
+The Magic Fountain~
+A magic fountain is here, cleaning and rinsing dishes.
+~
+stone~
+fountain 0 0
+0 0 'water' 0 0
+0 1000 0 P
+#23657
+longsword ivory~
+an ivory longsword~
+An enchanted longsword carved from ivory lies here.
+~
+stone~
+weapon AKMS AN
+sword 6 7 wrath 0
+50 17 1000 P
+A
+19 5
+A
+18 5
+#23658
+ring royal signet xanth~
+The Royal Signet Ring of Xanth~
+A royal ring lies here.~
+stone~
+armor MS AB
+10 10 10 8 0
+50 5 100 P
+A
+19 2
+A
+18 2
+A
+12 20
+#23659
+rock pet~
+a pet rock~
+A small dull rock lies here.
+~
+stone~
+armor MSU AQ
+10 10 10 8 0
+50 3 10 P
+A
+13 20
+A
+12 20
+A
+18 2
+A
+19 2
+#23660
+shield royal xanth~
+a royal shield of Xanth~
+A large white shield with the crest of Xanth lies here.
+~
+steel~
+armor S AJ
+11 11 11 9 0
+50 10 100 P
+A
+24 -1
+A
+2 1
+A
+17 -1
+#23661
+sunstone midnight~
+The Midnight Sunstone~
+A small minature sun is shining brightly here.
+~
+stone~
+light AHMS A
+0 0 999 0 0
+50 10 100 P
+A
+19 2
+A
+18 2
+A
+12 20
+#23662
+crown xanth~
+The Crown of Xanth~
+A magnificent crown lies here.
+~
+steel~
+armor ABGS AE
+12 12 12 10 0
+60 7 100 P
+A
+12 30
+A
+19 2
+A
+18 3
+#23663
+rapier ivory~
+an ivory rapier~
+A long ivory rapier lies here.
+~
+stone~
+weapon ABHMS AN
+sword 6 7 pierce 0
+60 11 1000 P
+A
+19 5
+A
+18 5
+#23664
+dagger ivory~
+an ivory dagger~
+A beautifully made ivory dagger lies here.
+~
+stone~
+weapon ABHMS AN
+dagger 6 7 pierce 0
+55 7 1000 P
+A
+12 10
+A
+19 5
+A
+18 5
+#23665
+illusion~
+an illusion~
+An illusion is floating here.
+~
+glass~
+armor ABS AQ
+10 10 10 9 0
+55 1 100 P
+A
+18 1
+A
+12 50
+#23666
+tiara xanth royal~
+The Royal Tiara of Xanth~
+A jewel encrusted tiara lies here.
+~
+glass~
+armor ABHMS AE
+11 11 11 10 0
+55 7 200 P
+A
+13 20
+A
+12 20
+#23667
+mace ivory~
+an ivory mace~
+An ivory mace lies here.
+~
+stone~
+weapon HMS AN
+mace 6 7 smash 0
+47 7 1000 P
+A
+19 5
+A
+18 5
+#23668
+dress green emerald~
+an emerald green dress~
+An attractive green dress lies here.
+~
+cloth~
+armor S AD
+11 11 11 10 0
+47 7 500 P
+A
+18 1
+A
+17 -1
+#23669
+jade bracelet~
+a jade bracelet~
+A green jade bracelet shines here.
+~
+glass~
+armor ABS AM
+11 11 11 8 0
+47 5 1000 P
+A
+18 1
+A
+19 2
+A
+12 10
+#0
+
+
+
+#ROOMS
+#23582
+The Entrance Path to Castle Roogna~
+You are on a path that leads to the famed Castle Roogna.  The castle is
+the center of the human rulership of Xanth, as is where the current king,
+King Trent, resides.  The castle is visible to the south from here, the
+proud stone turrets rising high above into the sky and various banners
+flying.  
+~
+0 4 0
+D0
+~
+~
+0 0 23495
+D2
+~
+~
+0 0 23583
+S
+#23583
+The Path to Castle Roogna~
+You are walking along the main path that links Castle Roogna to the
+outside surrounding forests of Xanth.  This road is flanked by small shops
+and various homes of the people of Xanth that have formed a small village
+outside Castle Roogna.  The castle is visible to the south, a large and
+imposing fortress of stone.  
+~
+0 0 1
+D0
+~
+~
+0 0 23582
+D1
+~
+~
+0 0 23590
+D2
+~
+~
+0 0 23584
+D3
+~
+~
+0 0 23591
+S
+#23584
+The Path to Castle Roogna~
+You are walking along the main path that links Castle Roogna to the
+outside surrounding forests of Xanth.  This road is flanked by small shops
+and various homes of the people of Xanth that have formed a small village
+outside Castle Roogna.  The castle is visible to the south, a large and
+imposing fortress of stone.  You can smell the scents of delicious food
+coming from the west and the ringing of metal upon metal comes from the
+east.  
+~
+0 0 1
+D0
+~
+~
+0 0 23583
+D1
+~
+~
+0 0 23592
+D2
+~
+~
+0 0 23585
+D3
+~
+~
+0 0 23593
+S
+#23585
+The Path to Castle Roogna~
+You are walking along the main path that links Castle Roogna to the
+outside surrounding forests of Xanth.  This road is flanked by small shops
+and various homes of the people of Xanth that have formed a small village
+outside Castle Roogna.  The castle is visible to the south, a large and
+imposing fortress of stone.  
+~
+0 0 1
+D0
+~
+~
+0 0 23584
+D1
+~
+~
+0 0 23594
+D2
+~
+~
+0 0 23586
+D3
+~
+~
+0 0 23595
+S
+#23586
+The Path to Castle Roogna~
+You are walking along the main path that links Castle Roogna to the
+outside surrounding forests of Xanth.  This road is flanked by small shops
+and various homes of the people of Xanth that have formed a small village
+outside Castle Roogna.  The castle is visible to the south, a large and
+imposing fortress of stone.  
+~
+0 0 1
+D0
+~
+~
+0 0 23585
+D1
+~
+~
+0 0 23596
+D2
+~
+~
+0 0 23587
+D3
+~
+~
+0 0 23597
+S
+#23587
+The Path to Castle Roogna~
+You are walking along the main path that links Castle Roogna to the
+outside surrounding forests of Xanth.  This road is flanked by small shops
+and various homes of the people of Xanth that have formed a small village
+outside Castle Roogna.  The castle is visible to the south, a large and
+imposing fortress of stone.  
+~
+0 0 1
+D0
+~
+~
+0 0 23586
+D1
+~
+~
+0 0 23598
+D2
+~
+~
+0 0 23588
+D3
+~
+~
+0 0 23599
+S
+#23588
+The Path to Castle Roogna~
+You are walking along the main path that links Castle Roogna to the
+outside surrounding forests of Xanth.  This road is flanked by small shops
+and various homes of the people of Xanth that have formed a small village
+outside Castle Roogna.  The castle is visible to the south, a large and
+imposing fortress of stone.  
+~
+0 0 1
+D0
+~
+~
+0 0 23587
+D1
+~
+~
+0 0 23600
+D2
+~
+~
+0 0 23589
+D3
+~
+~
+0 0 23601
+S
+#23589
+The Path to Castle Roogna~
+You are walking along the main path that links Castle Roogna to the
+outside surrounding forests of Xanth.  This road is flanked by small shops
+and various homes of the people of Xanth that have formed a small village
+outside Castle Roogna.  The castle is visible to the south, a large and
+imposing fortress of stone.  
+~
+0 0 1
+D0
+~
+~
+0 0 23588
+D1
+~
+~
+0 0 23602
+D2
+~
+~
+0 0 23604
+D3
+~
+~
+0 0 23603
+S
+#23590
+Potions R Us~
+You are inside a small shop dedicated to selling potions of all types,
+colors, and sizes.  The smells of herbs and chemicals are strong but not
+unpleasant.  Large wooden racks hold hundreds of multicolored potions
+steadily, and the effect of the myriad of colors is dazzling to the eye.  
+~
+0 8 0
+D3
+~
+~
+0 0 23583
+S
+#23591
+The Drunkard's Haven~
+You are in a small tavern filled with people and off-duty soldiers. 
+Laughter and bawdy songs fill the air and the air smells of alcohol and ale.
+A few customers lay passed out upon the floor and the other patrons step
+carefully over them as they head towards the bar to order drinks.  
+~
+0 12 1
+D1
+~
+~
+0 0 23583
+S
+#23592
+The Roogna Smithy~
+The sound of a hammer upon an avil rings loudly in the air.  Sparks fly
+randomly and the heat from the forge is intensely hot.  This can only be the
+main smithy of Roogna.  Piles of armor and weapons are stacked and priced
+against the main conter and barrows of raw iron and steel sit against the
+east wall, ready to be turned into masterpieces of metalsmithing.  
+~
+0 8 0
+D3
+~
+~
+0 0 23584
+S
+#23593
+The Foodstuffs Market~
+All sorts of delicacies fill you view as you enter this shop.  Heavenly
+scents of pastries and meatpies baking in the over fill your nostrils and
+sets your tongue watering.  This would be a great chance to stock up on rare
+Xanthian foods that you would not ordinarily be able to purchase!  
+~
+0 8 0
+D1
+~
+~
+0 0 23584
+S
+#23594
+The Pillbox Shop~
+You are in a small shop that specializes in cultivating pillbox plants. 
+As a result, the shop sells all types of pills for every possible use. 
+Barrels and crates filled with assorted pills fill the shop and
+pick-and-mixing is encouraged here.  
+~
+0 8 0
+D3
+~
+~
+0 0 23585
+S
+#23595
+The Treasure Trove~
+As you enter this small shop, the first thing to catch your eye is the
+rainbow of colors that fill this room with light.  Looking about yourself in
+awe, you see that the colors come from the stacks and piles of rare jewels
+and gems that fill this shop.  The pricier jewels are inside a large glass
+case, twinkling in the light.  
+~
+0 8 0
+D1
+~
+~
+0 0 23585
+S
+#23596
+The Matrimony Mall~
+As you enter this room, an organ begins to play a wedding march. 
+Startled, you spin about and realize that you have entered a shop dedicated
+to selling wedding garments.  You can only shiver in dread.  
+~
+0 8 0
+D3
+~
+~
+0 0 23586
+S
+#23597
+The Plant Parade~
+You are in a small shop completely filled with plants.  Fragrant scents
+saturate the very air, making you feel rather dizzy.  All about you are
+plants, vines, bushes, and small trees.  The shop looks more like a
+greenhouse than anything else.  
+~
+0 8 0
+D1
+~
+~
+0 0 23586
+S
+#23598
+The Shrine~
+You have entered a small shrine to worship the demon X(A/N)th.  The demon
+is not evil in the context of the word "demon" and is, in fact, a very
+curious and neutral omnipotent being.  The shrine is constructed of obsidian
+and gold leafing, with several candles lit at the corners.  A strange aura
+of power surrounds this altar, but it is not a threatening aura.  You feel
+rather relaxed here, and wonder what the priest that stands here does for
+the visitors.  
+~
+0 8 0
+D3
+~
+~
+0 0 23587
+S
+#23599
+The Gymnasium~
+You have entered a small room filled with mats, dummies, weapons, and
+books of all types.  This gymnasium seems to have a little bit of everything
+in it for everyone.  You feel that this is the place you would go to in
+order to practice any type of arts you have learned.  A few other people are
+in here already, hard at work practicing various skills and spells.  
+~
+0 8 0
+D1
+~
+~
+0 0 23587
+S
+#23600
+The Fountain of Youth Healers~
+You have entered the healers' hut near Castle Roogna.  This room is
+filled with the sense of peace and healing, the white walls reflecting
+harmony and the straw pallets placed upon the ground inviting you to rest
+here.  There is a slight scent of herbal medicines and poultices being
+mixed, and you feel utterly safe here.  
+~
+0 1036 0
+D3
+~
+~
+0 0 23588
+M 100 H 200
+S
+#23601
+The Xanth Mint~
+You have entered the mint of Xanth.  This is where all currency of Xanth
+is made, under the stricted rules so as to prevent counterfeiting.  A number
+of sacks of gold and silver coins are stacks against the west wall and
+semi-precious jewels are being liquidating in a small pit of lava in the
+south side of the room.  
+~
+0 8 0
+D1
+~
+~
+0 0 23588
+S
+#23602
+The Pawn Shop Two~
+You are inside a small dusty shop that is linked to the shop next door to
+the west.  A smalelr branch of the same pawn shop, items that are usually
+not bought may perhaps be sold here.  The amount of dust in this shop is at
+least twice as thick as in the original pawn shop, but since nobody else
+will buy your items, perhaps you should try selling them here.  
+~
+0 8 0
+D3
+~
+~
+0 0 23589
+S
+#23603
+The Pawn Shop~
+You have entered a small pawn shop.  Odd assorted items are laying about
+for sale, and any items of worth you may have may possible be sold here.  A
+thick layer of dust coats the floor and shelves and you wonder when the last
+time this shop has had any decent business.  
+~
+0 8 0
+D1
+~
+~
+0 0 23589
+S
+#23604
+The Main Gate into Castle Roogna~
+You are standing before the main gates of Castle Roogna.  Tall black iron
+gates are before you to the south, and through them you can see the grand
+structure known as Castle Roogna.  This is where King Trent governs Xanth
+from, along with his queen, Queen Iris.  The castle is a large monstrosity
+of stone, constructed by the centaurs for King Roogna eons ago.  
+~
+0 12 1
+D0
+~
+~
+0 0 23589
+D2
+~
+gate~
+1 0 23605
+S
+#23605
+The Entrance to Castle Roogna~
+You are standing before the large doors that lead into the grand Castle
+Roogna.  The castle looks forebodingly huge from here, almost more a
+fortress than a castle, although the current King has made steps towards
+renovating it so that it appears more friendly.  The massive stone blocks
+that make up this castle look impossibly heavy and solid and you can only
+marvel at the engineering of labor that constructing this castle must have
+taken.  
+~
+0 12 0
+D0
+~
+~
+1 0 23604
+D2
+~
+~
+0 0 23606
+S
+#23606
+The Entrance Hall~
+You are inside the grand Castle Roogna.  The castle is immense, with the
+ceiling stretching high above you.  Stone columns support the walls and are
+decorated with lavish paintings and rare silk tapestries.  The stone floors
+is covered with a rich and lush royal blue carpet and a cool breath of wind
+blows gently through the castle from the many large open windows that have
+been cut into the walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 23605
+D2
+~
+~
+0 0 23607
+S
+#23607
+The Main Lobby Hall~
+You are walking inside the main lobby hall of Castle Roogna.  As you
+explore about, you notice that the castle has been decorated more with an
+artistic eye than with a lavish eye.  There are no overt displays of wealth
+here, yet the castle is furnished with tasteful and practical items.  The
+elegant blue carpeting offsets the stunning green silk curtains that drape
+about the windows.  A few torchplants are growing in bronze planters,
+illuminating the room without danger of a real fire.  You feel at home and
+rather relaxed here.  
+~
+0 8 0
+D0
+~
+~
+0 0 23606
+D2
+~
+~
+0 0 23608
+S
+#23608
+The Center of the Foyer~
+You are in the center of the large foyer inside Castle Roogna.  There are
+a number of couches placed strategically about here, anticipating the needs
+of the many guests that come to visit.  A painting of the royal family hangs
+upon the west wall, depicting King Trent, Queen Iris, and Princess Irene. 
+Another painting of the famed King Roogna, the founder of this castle, hangs
+upon the east wall.  High above you is a skylight cut into the ceiling made
+from imported stained glass which depicts a general map of Xanth.  A large
+brazier filled with perfumed oil burns in the center of the room upon a
+large polished marble table.  There are a set of steps leading up from here.
+~
+0 8 0
+D0
+~
+~
+0 0 23607
+D2
+~
+~
+0 0 23609
+D4
+~
+~
+0 0 23636
+S
+#23609
+The Main Hallway Intersection~
+You have reached an intersection of hallways inside Castle Roogna.  The
+carpeted halls runs south and east to west from here.  You can hear sounds
+of a party of some type to the south and a breath of air from the north
+indicates the doors out from the castle.  
+~
+0 8 0
+D0
+~
+~
+0 0 23608
+D1
+~
+~
+0 0 23624
+D2
+~
+reception~
+1 0 23610
+D3
+~
+~
+0 0 23620
+S
+#23610
+The Reception Room~
+You have entered a noisy reception room.  There are refreshments spread
+out upon a long wooden table and every type of delicacy can be seen here. 
+Mounds of sugar sand, cocoa nuts, wild berries, purple bouillon with green
+nutwood, hot fresh breadfruits, and other assorted foods heap the west side
+of the table while mugs of beer from beerbarrel trees, boot rear, blue wine,
+and a dangerous bowl of wild punch fill the east side.  A large crowd of
+people have gathered in here, eating, drinking, and talking, and even more
+noise can be heard coming from the doors to the south, leading into the main
+ballroom.  
+~
+0 8 0
+D0
+~
+~
+1 0 23609
+D2
+~
+ballroom~
+1 0 23611
+S
+#23611
+The Northern Section of the Ballroom~
+You are in the main ballroom of Castle Roogna.  Queen Iris has planned
+this rather large party as usual, showing off her power and rank as well as
+her skills, using her formidably talent of illusion to garb the normally
+barren ballroom into a symphony of elegance.  Lavender silk draperies hang
+about the windows and large framed mirrors adorn the walls.  The ballroom
+floor is polished to a shine, and a quartet of fine musicians play a
+melodious tune.  The ballroom is packed with people and you find yourself
+forced to elbow your way through a number of tightly formed throngs.  The
+doors out of this ballroom lie to the north.  
+~
+0 8 0
+D0
+~
+~
+1 0 23610
+D1
+~
+~
+0 0 23617
+D2
+~
+~
+0 0 23612
+D3
+~
+~
+0 0 23614
+S
+#23612
+The Center of the Ballroom~
+You are in the main ballroom of Castle Roogna.  Queen Iris has planned
+this rather large party as usual, showing off her power and rank as well as
+her skills, using her formidably talent of illusion to garb the normally
+barren ballroom into a symphony of elegance.  Lavender silk draperies hang
+about the windows and large framed mirrors adorn the walls.  The ballroom
+floor is polished to a shine, and a quartet of fine musicians play a
+melodious tune.  The ballroom is packed with people and you find yourself
+forced to elbow your way through a number of tightly formed throngs.  
+~
+0 8 0
+D0
+~
+~
+0 0 23611
+D1
+~
+~
+0 0 23618
+D2
+~
+~
+0 0 23613
+D3
+~
+~
+0 0 23615
+S
+#23613
+The Southern Section of the Ballroom~
+You are in the main ballroom of Castle Roogna.  Queen Iris has planned
+this rather large party as usual, showing off her power and rank as well as
+her skills, using her formidably talent of illusion to garb the normally
+barren ballroom into a symphony of elegance.  Lavender silk draperies hang
+about the windows and large framed mirrors adorn the walls.  The ballroom
+floor is polished to a shine, and a quartet of fine musicians play a
+melodious tune.  The ballroom is packed with people and you find yourself
+forced to elbow your way through a number of tightly formed throngs.  
+~
+0 8 0
+D0
+~
+~
+0 0 23612
+D1
+~
+~
+0 0 23619
+D3
+~
+~
+0 0 23616
+S
+#23614
+The Northwest Corner of the Ballroom~
+You are in the main ballroom of Castle Roogna.  Queen Iris has planned
+this rather large party as usual, showing off her power and rank as well as
+her skills, using her formidably talent of illusion to garb the normally
+barren ballroom into a symphony of elegance.  Lavender silk draperies hang
+about the windows and large framed mirrors adorn the walls.  The ballroom
+floor is polished to a shine, and a quartet of fine musicians play a
+melodious tune.  The ballroom is packed with people and you find yourself
+forced to elbow your way through a number of tightly formed throngs.  
+~
+0 8 0
+D1
+~
+~
+0 0 23611
+D2
+~
+~
+0 0 23615
+S
+#23615
+The Western Section of the Ballroom~
+You are in the main ballroom of Castle Roogna.  Queen Iris has planned
+this rather large party as usual, showing off her power and rank as well as
+her skills, using her formidably talent of illusion to garb the normally
+barren ballroom into a symphony of elegance.  Lavender silk draperies hang
+about the windows and large framed mirrors adorn the walls.  The ballroom
+floor is polished to a shine, and a quartet of fine musicians play a
+melodious tune.  The ballroom is packed with people and you find yourself
+forced to elbow your way through a number of tightly formed throngs.  
+~
+0 8 0
+D0
+~
+~
+0 0 23614
+D1
+~
+~
+0 0 23612
+D2
+~
+~
+0 0 23616
+S
+#23616
+The Southwest Corner of the Ballroom~
+You are in the main ballroom of Castle Roogna.  Queen Iris has planned
+this rather large party as usual, showing off her power and rank as well as
+her skills, using her formidably talent of illusion to garb the normally
+barren ballroom into a symphony of elegance.  Lavender silk draperies hang
+about the windows and large framed mirrors adorn the walls.  The ballroom
+floor is polished to a shine, and a quartet of fine musicians play a
+melodious tune.  The ballroom is packed with people and you find yourself
+forced to elbow your way through a number of tightly formed throngs.  
+~
+0 8 0
+D0
+~
+~
+0 0 23615
+D1
+~
+~
+0 0 23613
+S
+#23617
+The Northeast Corner of the Ballroom~
+You are in the main ballroom of Castle Roogna.  Queen Iris has planned
+this rather large party as usual, showing off her power and rank as well as
+her skills, using her formidably talent of illusion to garb the normally
+barren ballroom into a symphony of elegance.  Lavender silk draperies hang
+about the windows and large framed mirrors adorn the walls.  The ballroom
+floor is polished to a shine, and a quartet of fine musicians play a
+melodious tune.  The ballroom is packed with people and you find yourself
+forced to elbow your way through a number of tightly formed throngs.  
+~
+0 8 0
+D2
+~
+~
+0 0 23618
+D3
+~
+~
+0 0 23611
+S
+#23618
+The Eastern Section of the Ballroom~
+You are in the main ballroom of Castle Roogna.  Queen Iris has planned
+this rather large party as usual, showing off her power and rank as well as
+her skills, using her formidably talent of illusion to garb the normally
+barren ballroom into a symphony of elegance.  Lavender silk draperies hang
+about the windows and large framed mirrors adorn the walls.  The ballroom
+floor is polished to a shine, and a quartet of fine musicians play a
+melodious tune.  The ballroom is packed with people and you find yourself
+forced to elbow your way through a number of tightly formed throngs.  
+~
+0 8 0
+D0
+~
+~
+0 0 23617
+D2
+~
+~
+0 0 23619
+D3
+~
+~
+0 0 23612
+S
+#23619
+The Southeast Corner of the Ballroom~
+You are in the main ballroom of Castle Roogna.  Queen Iris has planned
+this rather large party as usual, showing off her power and rank as well as
+her skills, using her formidably talent of illusion to garb the normally
+barren ballroom into a symphony of elegance.  Lavender silk draperies hang
+about the windows and large framed mirrors adorn the walls.  The ballroom
+floor is polished to a shine, and a quartet of fine musicians play a
+melodious tune.  The ballroom is packed with people and you find yourself
+forced to elbow your way through a number of tightly formed throngs.  
+~
+0 8 0
+D0
+~
+~
+0 0 23618
+D3
+~
+~
+0 0 23613
+S
+#23620
+The Carpeted Passage~
+You are walking along a heavily carpetted passage in Castle Roogna.  This
+hallway is well-lit by miniature sunflowers placed every few meters,
+effectivly lighting the entire hall.  Paintings of scenic Xanth hang upon
+the walls and a number of doors are placed against the north and south walls
+every few steps.  
+~
+0 8 0
+D1
+~
+~
+0 0 23609
+D2
+~
+guest~
+1 0 23632
+D3
+~
+~
+0 0 23621
+S
+#23621
+The Carpeted Passage~
+You are walking along a heavily carpetted passage in Castle Roogna.  This
+hallway is well-lit by miniature sunflowers placed every few meters,
+effectivly lighting the entire hall.  Paintings of scenic Xanth hang upon
+the walls and a number of doors are placed against the north and south walls
+every few steps.  
+~
+0 8 0
+D0
+~
+guest~
+1 0 23633
+D1
+~
+~
+0 0 23620
+D3
+~
+~
+0 0 23622
+S
+#23622
+The Carpeted Passage~
+You are walking along a heavily carpetted passage in Castle Roogna.  This
+hallway is well-lit by miniature sunflowers placed every few meters,
+effectivly lighting the entire hall.  Paintings of scenic Xanth hang upon
+the walls and a number of doors are placed against the north and south walls
+every few steps.  
+~
+0 8 0
+D1
+~
+~
+0 0 23621
+D2
+~
+guest~
+1 0 23634
+D3
+~
+~
+0 0 23623
+S
+#23623
+The Carpeted Passage~
+You are walking along a heavily carpetted passage in Castle Roogna.  This
+hallway is well-lit by miniature sunflowers placed every few meters,
+effectivly lighting the entire hall.  Paintings of scenic Xanth hang upon
+the walls and a number of doors are placed against the north and south walls
+every few steps.  The door leading outside to the royal gardens is west.  
+~
+0 8 0
+D0
+~
+guest~
+1 0 23635
+D1
+~
+~
+0 0 23622
+D3
+~
+garden~
+1 0 23651
+S
+#23624
+The Carpeted Passage~
+You are walking along a heavily carpetted passage in Castle Roogna.  This
+hallway is well-lit by miniature sunflowers placed every few meters,
+effectivly lighting the entire hall.  Paintings of scenic Xanth hang upon
+the walls and a number of doors are placed against the north and south walls
+every few steps.  
+~
+0 8 0
+D1
+~
+~
+0 0 23625
+D2
+~
+guest~
+1 0 23631
+D3
+~
+~
+0 0 23609
+S
+#23625
+The Carpeted Passage~
+You are walking along a heavily carpetted passage in Castle Roogna.  This
+hallway is well-lit by miniature sunflowers placed every few meters,
+effectivly lighting the entire hall.  Paintings of scenic Xanth hang upon
+the walls and a number of doors are placed against the north and south walls
+every few steps.  
+~
+0 8 0
+D0
+~
+guest~
+1 0 23629
+D1
+~
+~
+0 0 23626
+D3
+~
+~
+0 0 23624
+S
+#23626
+The Carpeted Passage~
+You are walking along a heavily carpetted passage in Castle Roogna.  This
+hallway is well-lit by miniature sunflowers placed every few meters,
+effectivly lighting the entire hall.  Paintings of scenic Xanth hang upon
+the walls and a number of doors are placed against the north and south walls
+every few steps.  
+~
+0 8 0
+D1
+~
+~
+0 0 23627
+D2
+~
+guest~
+0 0 23628
+D3
+~
+~
+0 0 23625
+S
+#23627
+The Carpeted Passage~
+You are walking along a heavily carpetted passage in Castle Roogna.  This
+hallway is well-lit by miniature sunflowers placed every few meters,
+effectivly lighting the entire hall.  Paintings of scenic Xanth hang upon
+the walls and a number of doors are placed against the north and south walls
+every few steps.  
+~
+0 8 0
+D0
+~
+guest~
+1 0 23630
+D3
+~
+~
+0 0 23626
+S
+#23628
+A Guest Bedroom~
+You have entered a guest bedroom inside Castle Roogna.  The castle gets
+many visitors and guests, so it is only natural that guest rooms have been
+constructed to comfortably house these guests.  This room is furnished with
+a plush bed, a dresser, a mirror, and a small desk.  A small glowbug inside
+a jar provides enough light to illuminate the room, and a small basket of
+dried roses scents the room.  
+~
+0 8 0
+D0
+~
+~
+0 0 23626
+S
+#23629
+A Guest Bedroom~
+You have entered a guest bedroom inside Castle Roogna.  The castle gets
+many visitors and guests, so it is only natural that guest rooms have been
+constructed to comfortably house these guests.  This room is furnished with
+a plush bed, a dresser, a mirror, and a small desk.  A small glowbug inside
+a jar provides enough light to illuminate the room, and a small basket of
+dried roses scents the room.  
+~
+0 8 0
+D2
+~
+~
+1 0 23625
+S
+#23630
+A Guest Bedroom~
+You have entered a guest bedroom inside Castle Roogna.  The castle gets
+many visitors and guests, so it is only natural that guest rooms have been
+constructed to comfortably house these guests.  This room is furnished with
+a plush bed, a dresser, a mirror, and a small desk.  A small glowbug inside
+a jar provides enough light to illuminate the room, and a small basket of
+dried roses scents the room.  
+~
+0 8 0
+D2
+~
+~
+1 0 23627
+S
+#23631
+A Guest Bedroom~
+You have entered a guest bedroom inside Castle Roogna.  The castle gets
+many visitors and guests, so it is only natural that guest rooms have been
+constructed to comfortably house these guests.  This room is furnished with
+a plush bed, a dresser, a mirror, and a small desk.  A small glowbug inside
+a jar provides enough light to illuminate the room, and a small basket of
+dried roses scents the room.  
+~
+0 8 0
+D0
+~
+~
+1 0 23624
+S
+#23632
+A Guest Bedroom~
+You have entered a guest bedroom inside Castle Roogna.  The castle gets
+many visitors and guests, so it is only natural that guest rooms have been
+constructed to comfortably house these guests.  This room is furnished with
+a plush bed, a dresser, a mirror, and a small desk.  A small glowbug inside
+a jar provides enough light to illuminate the room, and a small basket of
+dried roses scents the room.  
+~
+0 8 0
+D0
+~
+~
+1 0 23620
+S
+#23633
+A Guest Bedroom~
+You have entered a guest bedroom inside Castle Roogna.  The castle gets
+many visitors and guests, so it is only natural that guest rooms have been
+constructed to comfortably house these guests.  This room is furnished with
+a plush bed, a dresser, a mirror, and a small desk.  A small glowbug inside
+a jar provides enough light to illuminate the room, and a small basket of
+dried roses scents the room.  
+~
+0 8 0
+D2
+~
+~
+1 0 23621
+S
+#23634
+A Guest Bedroom~
+You have entered a guest bedroom inside Castle Roogna.  The castle gets
+many visitors and guests, so it is only natural that guest rooms have been
+constructed to comfortably house these guests.  This room is furnished with
+a plush bed, a dresser, a mirror, and a small desk.  A small glowbug inside
+a jar provides enough light to illuminate the room, and a small basket of
+dried roses scents the room.  
+~
+0 8 0
+D0
+~
+~
+1 0 23622
+S
+#23635
+A Guest Bedroom~
+You have entered a guest bedroom inside Castle Roogna.  The castle gets
+many visitors and guests, so it is only natural that guest rooms have been
+constructed to comfortably house these guests.  This room is furnished with
+a plush bed, a dresser, a mirror, and a small desk.  A small glowbug inside
+a jar provides enough light to illuminate the room, and a small basket of
+dried roses scents the room.  
+~
+0 8 0
+D2
+~
+~
+1 0 23623
+S
+#23636
+The Entrance to the Second Floor~
+You have reached the entrance to the second floor.  You can seen the
+foyer beneath you from here, and the view outside through the windows is
+picturesque and serene.  A large stone sigil of Castle Roogna has been
+carved into the north wall, and there is a corridor leading south.  Another
+hallway leads east and west.  The stairs back down to the main floor are
+down.  There are another set of stairs leading up from here.  
+~
+0 8 0
+D1
+~
+~
+0 0 23645
+D2
+~
+~
+0 0 23637
+D3
+~
+~
+0 0 23641
+D4
+~
+~
+0 0 23647
+D5
+~
+~
+0 0 23608
+S
+#23637
+Outside the Banquet Hall~
+You are standing before the doors of the banquet hall.  This room is
+furnished with tasteful couches and chairs, and a small bar sits against the
+east wall, fully stocked with all sorts of wine.  A number of small plants
+have been placed about the room, lending color and fragrance to this room.  
+~
+0 8 0
+D0
+~
+~
+0 0 23636
+D2
+~
+banquet~
+1 0 23638
+S
+#23638
+The Banquet Hall~
+You are in Castle Roogna's banquet hall.  A massive greenwood table sits
+in the middle of the room and is the first thing you notice.  A light silk
+tablecloth covers the table and fifty chairs or more surround it.  The table
+is adorned with candles, plates, and silverware.  The smell of food cooking
+is heavy in the air, making your stomache rumble noisily.  You wonder if it
+is time to eat soon.  The doors leading out are north and the door to the
+kitchen is south.  
+~
+0 8 0
+D0
+~
+~
+1 0 23637
+D2
+~
+kitchen~
+1 0 23639
+S
+#23639
+The Kitchen of Castle Roogna~
+You have entered a large kitchen inside Castle Roogna.  There are a
+number of magic powered appliances here, including a stove heated by a fire
+opal and a magic fountain that washes the dishes.  A pot lid clatters loudly
+upon the pot as something steams inside.  A number of breadfruits are being
+warmed in the oven, and the entire kitchen smells wonderful.  The banquet
+hall is to the north and there is a door south.  
+~
+0 8 0
+D0
+~
+~
+1 0 23638
+D2
+~
+storage~
+0 0 23640
+S
+#23640
+The Storage Room~
+You are in a spacious storage room.  There are boxes and baskets of dried
+foods here, jars of spices, and bottles of sauces.  The rooms smells dry and
+spicy from the foods and condiments stored here.  
+~
+0 8 0
+D0
+~
+~
+0 0 23639
+S
+#23641
+The West Hallway~
+You are walking along a western hallway on the second floor of Castle
+Roogna.  There are a few paintings hanging upon the walls here of scenic
+Xanth and artifacts from the past Waves are showcased in glass cases.  There
+is a large wooden door to the west and the way back is east.  
+~
+0 8 0
+D1
+~
+~
+0 0 23636
+D3
+~
+library~
+1 0 23642
+S
+#23642
+The Roogna Library~
+You are in the royal library of Castle Roogna.  This room stretches from
+east to west and is completely filled with large shelves stacked with
+various books and parchments of all types.  Many of these books hold
+biographies and accounts of the history of Xanth through the ages.  A
+slightly musty smell infuses the library, and you wonder exactly how old
+most of these books are.  A number of small sunflowers, grown by Princess
+Irene, provide enough lighting to read by.  
+~
+0 8 0
+D1
+~
+~
+1 0 23641
+D3
+~
+~
+0 0 23643
+S
+#23643
+The Roogna Library~
+You are in the royal library of Castle Roogna.  This room stretches from
+east to west and is completely filled with large shelves stacked with
+various books and parchments of all types.  Many of these books hold
+biographies and accounts of the history of Xanth through the ages.  A
+slightly musty smell infuses the library, and you wonder exactly how old
+most of these books are.  A number of small sunflowers, grown by Princess
+Irene, provide enough lighting to read by.  
+~
+0 8 0
+D1
+~
+~
+0 0 23642
+D3
+~
+~
+0 0 23644
+S
+#23644
+The Roogna Library~
+You are in the royal library of Castle Roogna.  This room stretches from
+east to west and is completely filled with large shelves stacked with
+various books and parchments of all types.  Many of these books hold
+biographies and accounts of the history of Xanth through the ages.  A
+slightly musty smell infuses the library, and you wonder exactly how old
+most of these books are.  A number of small sunflowers, grown by Princess
+Irene, provide enough lighting to read by.  
+~
+0 8 0
+D1
+~
+~
+0 0 23643
+S
+#23645
+The East Hallway~
+You are walking along an eastern hallway on the second floor of Castle
+Roogna.  There are a few painting hanging upon the walls here of scenic
+Xanth and artifacts from the past Waves are showcased in glass cases.  There
+is a large wooden door the east and way back is west.  
+~
+0 8 0
+D1
+~
+study~
+1 0 23646
+D3
+~
+~
+0 0 23636
+S
+#23646
+King Trent's Study~
+This rooms is ornately furnished with a broad burlwood desk and a
+luxurious silk cushioned chair.  A large cherrywood shelf is placed on the
+west wall, next to the desk, filled with assorted manuscripts and books.  A
+few smaller chairs are placed in front of the desk, to seat visitors of King
+Trent, and there are a number of small exotic plants growing in pots near
+the windows.  
+~
+0 8 0
+D3
+~
+~
+1 0 23645
+S
+#23647
+Entrance to the Third Floor~
+You have reached the third floor of Castle Roogna.  The view of the
+castle below you is dizzyingly high.  There is a massive set of iron doors
+to the south, cast with the sigil of Xanth.  The windows outside provide a
+magnificent view of Xanth, and you can see the tops of the forests of middle
+Xanth from here.  
+~
+0 8 0
+D2
+~
+court~
+1 0 23648
+D5
+~
+~
+0 0 23636
+S
+#23648
+The Royal Court~
+You are standing in the royal court of Castle Roogna.  Gold leafed walls
+and fantastically framed polished silver mirrors hang everywhere.  Crowds of
+people fill this room, all anxiously waiting to see the King.  The floor
+here is made from polished petrified hardwood, no doubt picked for the
+amount of heavy traffic this room must deal with.  A small table is set
+against the corner, a pitcher of blue wine placed atop it for the thirsty
+visitors who must sit here and await their audience with the King.  
+~
+0 8 0
+D0
+~
+~
+1 0 23647
+D2
+~
+~
+0 0 23649
+S
+#23649
+Before the Throne~
+You are standing before the royal throne of Xanth.  There are a line of
+guards here, protecting the throne.  They are actually uneccessary, since
+most of the citizen and subjects of Xanth adore their king.  He is a
+righteous and fair man, and one of the best Xanth has had in a long time.  
+~
+0 8 0
+D0
+~
+~
+0 0 23648
+D2
+~
+~
+0 0 23650
+S
+#23650
+The Royal Throne~
+You are standing before a pair of grandiose golden thrones.  An
+intricately carved sigil of Xanth has been placed upon the wall behind the
+thrones, taking up the entire wall.  A huge brazier filled with oil provides
+all the lighting the throne room requires and sets the rare jewels in the
+thrones themselves twinkling with a fiery light.  
+~
+0 8 0
+D0
+~
+~
+0 0 23649
+S
+#23651
+The Path to the Royal Gardens~
+You are on a path leading from Castle Roogna to the Royal Gardens.  The
+air is cool and refreshing here, and you can hear the chirping of numerous
+birds.  The west wall of Castle Roogna is to the east, and the gardens are
+to the west.  
+~
+0 0 3
+D1
+~
+~
+1 0 23623
+D3
+~
+~
+0 0 23652
+S
+#23652
+The Royal Gardens~
+You are walking in the Royal Gardens of Castle Roogna.  A plethora of
+plants and trees grow here, lending the gardens a peaceful and tranquil
+aura.  A small brook trickles by you to the west and a few sapsucker birds
+swoop down to suck up insects that might bother you.  
+~
+0 0 3
+D0
+~
+~
+0 0 23653
+D1
+~
+~
+0 0 23651
+S
+#23653
+The Royal Gardens~
+You are walking in the Royal Gardens of Castle Roogna.  A plethora of
+plants and trees grow here, lending the gardens a peaceful and tranquil
+aura.  A small brook trickles by you to the west and a few sapsucker birds
+swoop down to suck up insects that might bother you.  
+~
+0 0 3
+D0
+~
+~
+0 0 23654
+D2
+~
+~
+0 0 23652
+S
+#23654
+The Royal Gardens~
+You are walking in the Royal Gardens of Castle Roogna.  A plethora of
+plants and trees grow here, lending the gardens a peaceful and tranquil
+aura.  A small brook trickles by you to the west and a few sapsucker birds
+swoop down to suck up insects that might bother you.  
+~
+0 0 3
+D0
+~
+~
+0 0 23655
+D2
+~
+~
+0 0 23653
+S
+#23655
+The Royal Gardens~
+You are walking in the Royal Gardens of Castle Roogna.  A plethora of
+plants and trees grow here, lending the gardens a peaceful and tranquil
+aura.  A small brook trickles by you to the west and a few sapsucker birds
+swoop down to suck up insects that might bother you.  
+~
+0 0 3
+D2
+~
+~
+0 0 23654
+S
+#0
+
+
+
+#SPECIALS
+M 23593 spec_cast_adept
+M 23608 spec_cast_mage
+M 23610 spec_cast_undead
+M 23613 spec_cast_cleric
+M 23617 spec_fido
+M 23619 spec_cast_undead
+M 23620 spec_cast_undead
+M 23622 spec_cast_undead
+M 23624 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 23604 2 1
+D 0 23605 0 1
+D 0 23609 2 1
+D 0 23610 0 1
+D 0 23610 2 1
+D 0 23611 0 1
+D 0 23620 2 1
+D 0 23621 0 1
+D 0 23622 2 1
+D 0 23623 0 1
+D 0 23623 3 1
+D 0 23624 2 1
+D 0 23625 0 1
+D 0 23627 0 1
+D 0 23629 2 1
+D 0 23630 2 1
+D 0 23631 0 1
+D 0 23632 0 1
+D 0 23633 2 1
+D 0 23634 0 1
+D 0 23635 2 1
+D 0 23637 2 1
+D 0 23638 0 1
+D 0 23638 2 1
+D 0 23639 0 1
+D 0 23641 3 1
+D 0 23642 1 1
+D 0 23645 1 1
+D 0 23646 3 1
+D 0 23647 2 1
+D 0 23648 0 1
+D 0 23651 1 1
+M 0 23623 100 23582 5
+M 0 23623 100 23583 5
+M 0 23597 100 23584 10
+M 0 23623 100 23586 5
+M 0 23623 100 23586 5
+M 0 23597 100 23587 10
+M 0 23597 100 23587 10
+M 0 23623 100 23588 5
+M 0 23597 100 23589 10
+M 0 23623 100 23589 5
+M 0 23597 100 23589 10
+M 0 23623 100 23589 5
+M 0 23597 100 23590 10
+M 0 23583 1 23590 1
+G 0 23582 0
+G 0 23583 0
+G 0 23584 0
+G 0 23585 0
+G 0 23586 0
+G 0 23587 0
+G 0 23588 0
+G 0 23589 0
+G 0 23590 0
+M 0 23597 100 23590 10
+M 0 23582 1 23591 1
+G 0 23621 0
+G 0 23620 0
+G 0 23619 0
+M 0 23597 100 23592 10
+M 0 23585 1 23592 1
+G 0 23594 0
+G 0 23595 0
+G 0 23596 0
+G 0 23597 0
+G 0 23598 0
+G 0 23599 0
+G 0 23600 0
+G 0 23601 0
+G 0 23602 0
+G 0 23603 0
+G 0 23604 0
+G 0 23605 0
+M 0 23597 100 23593 10
+M 0 23597 100 23593 10
+M 0 23584 1 23593 1
+G 0 23591 0
+G 0 23592 0
+G 0 23593 0
+M 0 23597 100 23593 10
+M 0 23587 1 23594 1
+G 0 23615 0
+G 0 23614 0
+G 0 23613 0
+G 0 23612 0
+G 0 23611 0
+G 0 23610 0
+G 0 23609 0
+M 0 23597 100 23594 10
+M 0 23623 100 23594 5
+M 0 23586 1 23595 1
+G 0 23606 0
+G 0 23607 0
+G 0 23608 0
+M 0 23597 100 23595 10
+M 0 23589 1 23596 1
+G 0 23635 0
+G 0 23634 0
+G 0 23633 0
+G 0 23632 0
+G 0 23631 0
+G 0 23630 0
+G 0 23629 0
+G 0 23628 0
+G 0 23627 0
+G 0 23626 0
+G 0 23625 0
+G 0 23624 0
+M 0 23588 1 23597 1
+G 0 23616 0
+G 0 23617 0
+G 0 23618 0
+G 0 23622 0
+G 0 23623 0
+M 0 23597 100 23597 10
+M 0 23597 100 23597 10
+M 0 23591 1 23598 1
+M 0 23597 100 23598 10
+M 0 23590 1 23599 1
+M 0 23593 1 23600 1
+M 0 23592 1 23601 1
+M 0 23596 1 23602 1
+M 0 23597 100 23602 10
+M 0 23597 100 23602 10
+M 0 23595 1 23603 1
+M 0 23597 100 23603 10
+M 0 23597 100 23603 10
+M 0 23623 100 23604 5
+M 0 23623 100 23604 5
+M 0 23623 100 23604 5
+M 0 23623 100 23606 5
+M 0 23623 100 23606 5
+M 0 23623 100 23607 5
+M 0 23623 100 23607 5
+M 0 23623 100 23608 5
+M 0 23623 100 23608 5
+M 0 23598 60 23610 10
+M 0 23598 60 23610 10
+M 0 23598 60 23610 10
+M 0 23598 60 23610 10
+M 0 23598 60 23610 10
+M 0 23623 100 23610 5
+M 0 23598 60 23611 10
+M 0 23598 60 23611 10
+M 0 23598 60 23612 10
+M 0 23604 1 23612 1
+E 0 23641 0 5
+E 0 23639 0 16
+E 0 23640 0 11
+M 0 23623 100 23612 5
+M 0 23598 60 23612 10
+M 0 23598 60 23612 10
+M 0 23598 60 23612 10
+M 0 23598 60 23612 10
+M 0 23598 60 23613 10
+M 0 23600 1 23613 1
+E 0 23636 0 5
+M 0 23599 1 23613 1
+M 0 23598 60 23613 10
+M 0 23606 1 23613 1
+M 0 23623 100 23613 5
+M 0 23598 60 23613 10
+M 0 23598 60 23613 10
+M 0 23623 100 23614 5
+M 0 23598 60 23614 10
+M 0 23598 60 23614 10
+M 0 23598 60 23614 10
+M 0 23598 60 23615 10
+M 0 23598 60 23615 10
+M 0 23598 60 23615 10
+M 0 23603 1 23615 1
+M 0 23598 60 23615 10
+M 0 23598 60 23615 10
+M 0 23598 60 23615 10
+M 0 23601 1 23615 1
+E 0 23637 0 12
+M 0 23598 60 23615 10
+M 0 23598 60 23615 10
+M 0 23598 60 23616 10
+M 0 23598 60 23616 10
+M 0 23598 60 23616 10
+M 0 23598 60 23616 10
+M 0 23598 60 23616 10
+M 0 23598 60 23617 10
+M 0 23598 60 23617 10
+M 0 23605 1 23617 1
+E 0 23642 0 17
+M 0 23598 60 23618 10
+M 0 23598 60 23618 10
+M 0 23598 60 23618 10
+M 0 23602 1 23618 1
+E 0 23638 0 17
+M 0 23598 60 23618 10
+M 0 23623 100 23618 5
+M 0 23598 60 23618 10
+M 0 23598 60 23618 10
+M 0 23598 60 23619 10
+M 0 23598 60 23619 10
+M 0 23623 100 23620 5
+M 0 23623 100 23620 5
+M 0 23623 100 23623 5
+M 0 23623 100 23624 5
+M 0 23623 100 23624 5
+M 0 23623 100 23626 5
+M 0 23623 100 23627 5
+M 0 23608 1 23628 1
+E 0 23645 0 16
+E 0 23644 0 17
+E 0 23646 0 14
+M 0 23610 1 23629 1
+E 0 23650 0 13
+E 0 23648 0 17
+E 0 23649 0 16
+M 0 23609 1 23629 1
+E 0 23647 0 5
+M 0 23607 1 23630 1
+E 0 23643 0 6
+M 0 23611 1 23631 1
+E 0 23651 0 9
+M 0 23612 1 23632 1
+G 0 23652 0
+M 0 23613 1 23633 1
+E 0 23653 0 18
+M 0 23614 1 23634 1
+M 0 23615 1 23634 1
+E 0 23654 0 3
+M 0 23616 1 23635 1
+E 0 23655 0 17
+M 0 23623 100 23636 5
+M 0 23623 100 23636 5
+M 0 23623 100 23637 5
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23617 50 23638 50
+M 0 23623 100 23638 5
+M 0 23618 1 23639 1
+O 0 23656 0 23639
+M 0 23623 100 23641 5
+M 0 23623 100 23641 5
+M 0 23623 100 23642 5
+M 0 23619 1 23644 1
+E 0 23661 0 0
+E 0 23659 0 18
+E 0 23657 0 16
+E 0 23658 0 1
+E 0 23660 0 11
+M 0 23623 100 23645 5
+M 0 23620 1 23646 1
+E 0 23663 0 16
+E 0 23662 0 6
+E 0 23658 0 1
+E 0 23660 0 11
+M 0 23623 100 23647 5
+M 0 23623 100 23647 5
+M 0 23623 100 23647 5
+M 0 23621 10 23648 10
+M 0 23621 10 23648 10
+M 0 23621 10 23648 10
+M 0 23621 10 23648 10
+M 0 23621 10 23648 10
+M 0 23621 10 23648 10
+M 0 23621 10 23648 10
+M 0 23621 10 23648 10
+M 0 23621 10 23648 10
+M 0 23621 10 23648 10
+M 0 23623 100 23648 5
+M 0 23623 100 23648 5
+M 0 23623 100 23649 5
+M 0 23623 100 23649 5
+M 0 23622 1 23650 1
+E 0 23666 0 6
+E 0 23658 0 1
+E 0 23664 0 16
+E 0 23665 0 18
+M 0 23623 100 23650 5
+M 0 23623 100 23650 5
+M 0 23623 100 23650 5
+M 0 23625 1 23655 1
+M 0 23624 1 23655 1
+E 0 23668 0 5
+E 0 23667 0 16
+E 0 23669 0 14
+S
+
+
+
+#SHOPS
+23582 0 0 0 0 0 120 10 0 23
+23583 0 0 0 0 0 120 10 0 23
+23584 0 0 0 0 0 120 10 0 23
+23585 0 0 0 0 0 120 10 0 23
+23586 0 0 0 0 0 120 10 0 23
+23587 0 0 0 0 0 120 10 0 23
+23588 0 0 0 0 0 120 10 0 23
+23589 0 0 0 0 0 120 10 0 23
+23595 5 9 8 15 1 200 50 0 23
+23596 13 18 28 17 0 200 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

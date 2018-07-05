@@ -1,0 +1,542 @@
+#AREADATA
+Name Lady Justice Clan~
+Builders None~
+VNUMs 29000 29049
+Credits [-CLANS-] Kira    Lady Justice CH~
+Security 10
+End
+
+
+
+#MOBILES
+#29000
+dana scully healer~
+Dana Scully~
+{WDana Scully{x is here.
+~
+Here stands the infamous Dana Scully working on yet another case. But
+while she was here she took basic Emergency Medical Training and so
+became our healer. After all Justice needs both a detective and a healer.
+~
+human~
+ABGJKQRTVabcd DTUZ HN 1000 0
+180 0 500d5000+5000 1d1+1000 500d5000+5000 magic
+-399 -399 -399 -399
+AGHO ABCDEFGHIJKLMNOPQRS 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK huge unknown
+#29001
+judy judge guard~
+Judge Judy~
+{RJudge Judy{x is here.
+~
+Here stands the powerful Judge Judy. her gaze seems to burn right throuhg
+you. She is the Judge, Jury, and Executioner of the Lady Justice Clan.
+Her hand of Justice is firm, If you cross her you may be subject to the
+Death Penalty.
+~
+human~
+ABMT DFVc CDEH 1000 0
+109 109 1d1+999999 25d5+4000 6d48+24 divine
+-599 -599 -599 -599
+BEGHW AB B 0
+stand stand female 5000
+AHMV ABCDEFGHIJK huge unknown
+#29002
+alanis morissette~
+Alanis Morissette~
+{MAlanis Morissette{x is here.
+~
+The retired music star has decided to change here lifstyle and sell things
+to young Judges and Lawyers of the Lady Justice Clan.
+~
+human~
+ABMV DF 0 1000 0
+100 0 500d5000+5000 1d1+999 500d5000+5000 divine
+-250 -250 -250 -250
+0 ABCDEFGHIJK 0 0
+stand stand female 500000
+AHMV ABCDEFGHIJK large unknown
+#29003
+Lucky LJ bartender Lady_justice~
+{RLucky {xthe {rLJ{x bartender~
+Personal bartender of the {!club LJ{0 is here to serve you.
+~
+~
+tiegre~
+A FJVc 0 0 0
+152 100 500d5000+5000 100d100+15 500d5000+5000 claw
+1000 1000 1000 1000
+CEFHKO B LQS 0
+stand stand male 0
+AGHMV ABCDEFGHIJKQUV medium unknown
+#0
+
+
+
+#OBJECTS
+#29000
+fountain~
+a fountain of {7Absolute{0~
+A fountain is overflowing with {&clear {7white{0 liquid.~
+marble~
+fountain A 0
+10000 10000 'vodka' 0 0
+0 0 0 P
+#29001
+leather couch~
+a {*Leather {8Couch{0~
+{8Black {*Leather{0 Couches sit along the walls.~
+leather~
+furniture AB 0
+10 2400 BCEFHIKL 400 400
+0 0 0 P
+#29002
+jacuzzi~
+a {5Mag{%ical {5Jacu{%zzi{0~
+{1Hu{!ge {5Mag{%ical {5Jacu{%zzi{0 occupies the center of the parlor.~
+marble~
+furniture AB 0
+20 20000 FIL 400 400
+0 0 0 P
+#29003
+pit~
+lJ's personal Pit~
+"Pit" is here to help you share with your fellow clannies.~
+~
+pit O 0
+10000 0 0 1000 100
+0 0 0 P
+#29004
+gavel justice~
+Judy's Gavel~
+This powerful Gavel will POUND Justice into your Soul.~
+wood~
+weapon ABOT N
+mace 25 50 pound BCDEFGH
+109 1000 1 P
+#29005
+healer bed hospital couch~
+{7Hospital Bed{0~
+A {&Hospital {7Bed{0 is here waiting for the wounded.~
+leather~
+furniture AB O
+12 6000 EHK 400 400
+0 0 0 P
+#29006
+diamond ring lady_justice~
+{318K {7Diamond{0 Ring~
+You see a diamond ring here.~
+diamond~
+armor ABOT AB
+0 0 0 0 0
+1 10 1000 P
+A
+18 3
+A
+19 2
+#29007
+black robe lady justice~
+A Black silk robe~
+You see a pile of cloth lying here.~
+cloth~
+armor ABOT AK
+0 0 0 0 0
+1 30 1500 P
+#29008
+blouse lady justice~
+The see thru blouse of {GLady Justice{x~
+a very sheer blouse of {GLady Justice{x is here.~
+adamantite~
+armor ABIOT AD
+0 0 0 0 0
+1 3 1410 P
+A
+19 2
+A
+18 2
+A
+1 2
+#29009
+light lady_justice beauty lady~
+{BLadies Beauty{x~
+the {BLadies beauty{x is here.~
+energy~
+light AT AO
+0 0 999 0 0
+1 10 2000 P
+#29010
+whip lady justice~
+{RKiti's{x whip~
+A Whip of the {MLady Justice{x clan is lying here.~
+obsidian~
+weapon AIMT AN
+dagger 1 1 pound ADEH
+1 30 4000 P
+A
+19 5
+A
+18 5
+#29011
+skirt lady justice~
+A Very Mini skirt of {mLady Justice{x~
+You see some leather here.~
+leather~
+armor ABOT AF
+0 0 0 0 0
+1 40 6500 P
+F
+A 5 2 c
+#29012
+heel heels lady justice~
+The Lady Justice {CHigh Heels{x~
+You see some faintly glowing high heels here.~
+hard leather~
+armor AOT AG
+0 0 0 0 0
+1 55 5000 P
+F
+A 2 2 L
+#29013
+gavel lady_justice~
+{MKira's{x Gavel~
+You see a glowing {MGavel{x lying here.~
+obsidian~
+weapon ABCFIMT AN
+sword 1 1 slash ABH
+1 50 4000 P
+A
+19 10
+A
+18 10
+#29014
+scent woman lady justice~
+{7Scent {0of a {&Woman{0~
+You see The {xScent{x of a {WWoman{x~
+crystal~
+armor ABOT AQ
+0 0 0 0 0
+1 0 2000 P
+#29015
+sandwich tub chocolate lady_justice~
+a tub of {1LJ{0, special brand, {#chocolate{0~
+A tub filled with some dark sweets is here looking rather tasty.~
+food~
+food A A
+75 70 0 0 0
+0 10 50 P
+#29018
+lady justice crocodile boots~
+{2Crocodile {!Boots{0~
+You see some boots with an {1LJ{0 emblem on the side.~
+hard leather~
+armor AOT AG
+0 0 0 0 0
+1 55 5000 P
+#29019
+light lady justice cuban cigar~
+a {#Cuban {3Cigar{0~
+A {#Cuban {3Cigar{0 eminates {1LJ{0 light here.~
+energy~
+light AT AO
+0 0 999 0 0
+25 10 2000 P
+#29020
+lady justice chest hair~
+chest Hair of the {1LJ{0 Man~
+A pile of what looks like hair (?) has been left here.~
+adamantite~
+armor ABIOT AD
+0 0 0 0 0
+1 250 5000 P
+#29021
+sleek unbuttoned shirt silk lady justice~
+a {1Sleek {%Unbottoned {*Black Silk {8Shirt{0 with a tiny {1LJ{0 emblem.~
+A pile of {1LJ{0 silk has been left on the ground here.~
+silk~
+armor ABOT AK
+0 0 0 0 0
+1 30 1500 P
+#29022
+man's allure lady justice alure~
+{1LJ{0 Man's {!Allure{0~
+A sweet smell of a {1LJ{0 Man's floats here.~
+crystal~
+armor ABOT AQ
+0 0 0 0 0
+1 0 2000 P
+#29023
+lady justice leather pants~
+{&Black leather {0panths with an {1LJ{0 buckle~
+You see some {&black leather {0panths with a little {1LJ{0 emblem on the buckle.~
+leather~
+armor ABOT AF
+0 0 0 0 0
+1 40 6500 P
+F
+A 5 2 c
+#29024
+someone engagement ring lady justice~
+someone else's {&Engagement{0 Ring~
+{1LJ{0's {&Engagement{0 Ring~
+diamond~
+armor ABOT AB
+0 0 0 0 0
+1 10 1000 P
+A
+18 3
+A
+19 2
+#29025
+key club~
+key to the {!LJ{0 club.~
+You see a key with a small {!LJ{0 symbol on it.~
+gold~
+key HPSUZ AO
+0 0 0 0 0
+60 0 10 P
+#29026
+stage floor dance~
+the {1LJ {0club {3Dance {!Floor{0~
+A {^Hu{4ge {3Dance {1Floor{0 is flooded by {8dim {*lights{0~
+wood~
+furniture 0 0
+20 99999999 BFN 0 0
+0 0 0 P
+#29027
+bar~
+{!LJ{1 club{0 bar~
+A {&Fully Stocked Bar{0 occupies the further end of the hall.~
+gold~
+container 0 0
+999999999 ACDE 29025 99999 50
+1 0 0 P
+#29028
+glass aljohol alcohol~
+a {wcry{Wstal{w gla{Wss{x of {ga{rLJ{Ro{yh{co{5l{x~
+A twisted glass with a special {rLJ{x brand of {^alcohol{x~
+glass~
+drink 0 AO
+5 5 'rose wine' 0 0
+1 1 100 P
+#29029
+LJ beer nuts~
+some {YBe{yer {YNu{yts{x~
+A big bowl of {Ybe{yer {Ynu{yts{x sits here.~
+wood~
+food A AO
+10 10 0 0 0
+1 1 10 P
+#0
+
+
+
+#ROOMS
+#29000
+Hall of Justice~
+Blinding white marble pillars rise above your head. As you step further
+in, you realize you are in a magical courtroom.  Your heart skips a bit
+as you see to Stunning figures in Black Robes ahead of you.  You think to 
+yourself: "Can it be ?".. "may it be ?"  You almost can't believe it, but 
+yes it is.  It's Kitiyara and Kira themselves, the presiding judges.
+As you emerge from behind the pillars, you hear a booming voice...
+{^You may approach the bench. {x Sisters of Justice await you.
+~
+0 1049612 0
+D2
+~
+~
+0 0 29001
+D4
+~
+~
+0 0 3014
+S
+#29001
+Dream Parlor~
+This is a room unlike any other.  A tingling sense of satisfaction flows
+through the air.  Glancing around the room you see tons of godly handsome
+men running around wearing next to nothing.  Gorgeous ladies lounging around
+on the black leather couches.  LJ Members being waited on hand and foot,
+getting served on silver platters, by the many creatures that worship them. 
+Kira and Kiti's personal boy-toy Ronni is also here, glad to assist you in
+all your needs when the sisters are not around.  You can't help feeling
+dreamily enchanted as you relax to the sound of heavenly music seemingly
+emanating from all about you.  Your dreams are your limit here.  
+                            {%ENJOY!{0
+~
+0 1032 0
+D0
+~
+~
+0 0 29000
+D1
+The General Hospital
+~
+~
+0 0 29002
+D2
+You see the Bon Marche
+~
+~
+0 0 29003
+D3
+You see Brad's Pit
+~
+~
+0 0 29004
+D5
+~
+~
+0 0 29006
+M 500 H 500
+S
+#29002
+General Hospital~
+As you enter the halls of the General Hospital a feeling of Peace comes
+over you. The Doctors here provide the absolute best to all the members
+of Lady Justice. if you are hurt defending justice or just helping someone
+out, the Doctors are here to take good care of you. Right now it looks
+like Dr. Dana Scully is on duty.
+~
+0 12 0
+D3
+~
+~
+0 0 29001
+M 200 H 200
+S
+#29003
+The Bon Marche~
+As you enter the Lady Justice mini-mall you feel a sudden urge to spend
+lots of {GMoney{x. Here you can buy items from Alanis Morissette.
+~
+0 1032 0
+D0
+~
+~
+0 0 29001
+S
+#29004
+The Brad Pit~
+As you enter this room the first thing you notice is the Brad Pit. A pit
+in the shape of the gorgeous Brad Pitt. This room was dedicated to him
+shortly after his role in "Legends of the Fall". Members of Lady Justice
+around the realms come here to pay tribute to him and bring gifts to
+donate to him. As we love him, he also loves us, therefore if there is
+anything that you need and that he has...just take it. Feel free to look,
+take and to give! After all He looks like God, shouldn't he be treated
+like one ?
+~
+0 0 0
+D1
+~
+~
+0 0 29001
+S
+#29005
+Club LJ~
+As you enter Club LJ, you are overwhelmed by the music and the throngs of
+partying people.  There is a bar, where drinks are flowing freely.  A large
+dance floor is in the middle of the club.  It is filled with scantily clad
+men and women having a good time.  Above you, you see a grand looking
+balcony.  This is the entrance to the Lady Justice clan hall.  From time to
+time LJ members appear on the balcony and magically discend onto the dance
+floor.  At the further end of the club stands a bar, fully stocked with the
+best liquors of the Realms.  Exit down leads out of the party palace.  
+~
+0 1036 0
+D5
+~
+door~
+4 29025 6103
+S
+#29006
+The {RVo{5od{Roo Lo{5un{Rge{x~
+Velvet covered walls and myrriads of pillows thrown around the floor make
+this a cozy place to hang out.  The stage, off in the corner, is dimly lit
+and sometimes sports some self-named acts trying to entertain the lowkey
+crowd.  Sounds of loud partying and strong smell of alcohol seems to come
+from down below.  
+~
+0 0 0
+D4
+~
+~
+0 0 29001
+D5
+~
+~
+0 0 29005
+S
+#0
+
+
+
+#SPECIALS
+M 29000 spec_cast_adept
+M 29001 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 29005 5 2
+O 0 29000 0 29001
+O 0 29001 0 29001
+O 0 29002 0 29001
+M 0 29000 1 29002 1
+O 0 29005 0 29002
+M 0 29002 1 29003 1
+G 0 29006 0
+G 0 29007 0
+G 0 29008 0
+G 0 29009 0
+G 0 29010 0
+G 0 29011 0
+G 0 29012 0
+G 0 29013 0
+G 0 29014 0
+G 0 29015 0
+G 0 29018 0
+G 0 29019 0
+G 0 29020 0
+G 0 29021 0
+G 0 29022 0
+G 0 29023 0
+G 0 29024 0
+G 0 29025 0
+O 0 27301 0 29003
+O 0 27312 0 29004
+O 0 27313 0 29004
+O 0 27314 0 29004
+O 0 27310 0 29004
+O 0 29003 0 29004
+O 0 29027 0 29005
+M 0 29003 1 29005 1
+G 0 29028 0
+G 0 29029 0
+O 0 29026 0 29005
+O 0 29000 0 29005
+O 0 29001 0 29006
+S
+
+
+
+#SHOPS
+29002 32 5 9 3 4 100 95 0 23
+29003 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

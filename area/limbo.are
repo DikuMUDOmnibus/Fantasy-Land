@@ -1,0 +1,899 @@
+#AOD_AREA
+All Limbo~
+1 99 D 9
+Levl 1 151
+Bldr Staff~
+End
+
+#MOBILES
+#1
+hellish succubus~
+a {rh{Re{rl{Rl{ri{Rs{rh {Ds{wu{Dc{wc{Du{wb{Du{ws{x~
+A {rh{Re{rl{Rl{ri{Rs{rh {Ds{wu{Dc{wc{Du{wb{Du{ws{x stands ready to serve its master.
+~
+The demon follows its master. 
+~
+human~
+100 100 100 100 100 100 100 100 150 100 100 100 50 100 0 100 100 50 100 100 50 100 100 100 100 100 
+BDIMNPUV F 0 0 0
+88 199 0 5837 6143 5655 6132 17 19 178 drain
+-267 -337 -266 -288
+STANDING STANDING neutral 3265
+0 warrior medium ABCDEFGHIJK
+D Oh noooo~
+
+#2
+zombie undead pet~
+the zombie~
+A corpse is standing here.
+~
+The zombie follows its vampire master.
+~
+human~
+100 100 100 100 100 100 100 100 150 100 100 100 50 100 0 100 100 50 100 100 50 100 100 100 100 100 
+BIMNUV F 0 0 0
+1 3 0 500 500 100 100 2 5 1 drain
+40 40 40 80
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+P 1 0
+
+#3
+animated~
+an animation~
+An animated body part is here.
+~
+An animated body part is here.
+~
+human~
+100 100 100 100 100 100 100 100 150 100 100 100 50 100 0 100 100 50 100 100 100 100 100 100 100 100 
+BMNU FT 0 -800 0
+10 0 0 62 71 100 100 1 6 1 drain
+40 40 40 30
+STANDING STANDING neutral 0
+0 mage tiny ABCDEFGHIJK
+P 111 0
+
+#4
+engineer mob~
+engineer mob~
+Engineer mob.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#5
+dan the ham~
+Dan the Ham~
+Dan the Ham stands here.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+1 2 0 88 96 82 94 0 0 3 none
+-3 -3 -4 -4
+STANDING STANDING neutral 2147483647
+0 mage medium ABCDEFGHIJK
+P 1 0
+#0
+
+#OBJECTS
+#1
+silver coin gcash money~
+a silver coin~
+One miserable silver coin.~
+money 0 A
+0 0 0 0 0
+0 10 0
+
+#2
+coin gold gcash~
+a gold coin~
+One valuable gold coin.~
+money 0 A
+0 1 0 0 0
+0 10 0
+
+#3
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+money 0 A
+0 0 0 0 0
+0 10 0
+
+#4
+coins silver gcash~
+%d silver coins~
+A pile of silver coins.~
+money 0 A
+0 0 0 0 0
+0 10 0
+
+#5
+coins money gcash~
+a pile of money~
+A pile of money.~
+money 0 A
+0 0 0 0 0
+0 10 0
+
+#6
+coins platinum gcash~
+a platinum coin~
+One valuable platinum coin.~
+money 0 A
+0 0 0 0 0
+0 10 0
+
+#7
+coins platinum gcash~
+%d platinum coins~
+A pile of platinum coins.~
+money 0 A
+0 0 0 0 0
+0 10 0
+
+#8
+glow sign quest floating~
+a {Yg{yl{Yo{yw{Yi{yn{Yg {Gq{gu{Ge{gs{Gt{x sign~
+A {Yg{yl{Yo{yw{Yi{yn{Yg {Gq{gu{Ge{gs{Gt{x sign pulsates in mid air.~
+treasure ABGISTYd 0
+0 0 0 0 0
+0 0 0
+
+#9
+%s corpse pc~
+the corpse of {c%s{x~
+The corpse of {c%s{x is lying here.~
+pc_corpse O A
+0 0 0 0 0
+0 1000 0
+
+#10
+corpse~
+the corpse of {c%s{x~
+The corpse of {c%s{x is lying here.~
+npc_corpse 0 A
+0 0 0 A 0
+0 1000 0
+
+#11
+%s ear~
+the {Gear{x of {m%s{x~
+The {Gear{x of {m%s{x has been torn from a head.~
+food 0 AO
+16 16 0 0 0
+0 0 0
+
+#12
+%s head~
+the {8h{7ea{8d{x of {3%s{x~
+The {8h{7ea{8d{x of {3%s{x has been sliced off.~
+drinkcontainer 0 AO
+10 10 'blood' 0 0
+0 50 0
+
+#13
+%s heart~
+the {Rheart{x of {m%s{x~
+The {Rheart{x of {m%s{x has been pulled from a chest.~
+food 0 AO
+16 16 0 0 0
+0 20 0
+
+#14
+%s arm~
+the {yarm{x of {y%s{x~
+The {yarm{x of {3%s{x has been sliced off.~
+food 0 AO
+20 20 0 0 0
+0 50 0
+
+#15
+%s leg~
+the {Bleg{x of {B%s{x~
+The {Bleg{x of {B%s{x has been chopped off.~
+food 0 AO
+20 20 0 0 0
+0 50 0
+
+#16
+%s guts entrails~
+the {Yguts{x of {w%s{x~
+The {Yguts{x of {w%s{x are piled in the corner.~
+food 0 AO
+5 5 0 0 0
+0 20 0
+
+#17
+%s brains brain~
+the {Mbrains{x of {m%s{x~
+The {Mbrains{x of {m%s{x are lying here.~
+food 0 AO
+10 10 0 0 0
+0 20 0
+
+#18
+%s foot~
+the {Bfoot{x of {m%s{x~
+The {Bfoot{x of {m%s{x has been severed off.~
+food 0 AO
+16 16 0 0 0
+0 0 0
+
+#19
+%s wing~
+the {cwing{x of {m%s{x~
+The {cwing{x of {m%s{x has been slashed off a back.~
+food 0 AO
+16 16 0 0 0
+0 0 0
+
+#20
+%s hands~
+the {Mhand{x of {m%s{x~
+The {Mhand {xof {m%s{x has been amputated from an arm.~
+food 0 AO
+16 16 0 0 0
+0 0 0
+
+#21
+%s finger~
+the {Rfinger{x of {m%s{x~
+The {Rfinger{x of {m%s{x has been husked from a hand.~
+food 0 AO
+16 16 0 0 0
+0 0 0
+
+#22
+%s eye~
+the {Ceye{x of {m%s{x~
+The {Ceye{x of {m%s{x have been plucked from a head.~
+food 0 AO
+16 16 0 0 0
+0 0 0
+
+#23
+a pulsating orb~
+a {Ypulsating {Morb{x~
+A {Ypulsating {Morb{x glows brightly.~
+container GHUYZ AQ
+0 E 0 0 0
+0 0 0
+
+#24
+pool blood~
+a {8p{7oo{8l{x of {1b{!l{8o{!o{1d{x~
+A small {8p{7oo{8l{x of {1b{!l{8o{!o{1d{x is here.~
+fountain PT 0
+1 1 'blood' 0 0
+0 0 0
+
+#25
+vortex portal nexus dark~
+a {8d{7ar{8k {1v{8o{7rt{8e{1x{x~
+A {8d{7ar{8k {1v{8o{7rt{8e{1x{x hints at a {8black {7h{8ol{7e{x.~
+portal GOT 0
+0 0 0 0 0
+0 0 0
+
+#26
+juicy t-bone steak tbone~
+a {1j{!u{1i{!c{1y {8t{W-{wb{Won{we {!s{1t{!e{1a{!k{x~
+A {rj{!u{1i{!c{1y {8t{W-{wb{Won{we {!s{1t{!e{1a{!k{x is here.~
+food 0 A
+8 8 0 0 0
+0 0 0
+
+#27
+delicious cherry cheesecake~
+a {Yd{ye{Yl{yi{Yc{yi{Yo{yu{Ys {Rc{rh{Re{rr{Rr{ry {Yc{Whees{Yec{Wak{Ye{x~
+The smell from a {Yd{ye{Yl{yi{Yc{yi{Yo{yu{Ys {Rc{rh{Re{rr{Rr{ry {Yc{Whees{Yec{Wak{Ye{x fills the room.~
+food 0 A
+8 8 0 0 0
+0 1 0
+
+#28
+a plate of delicious stuffing~
+a {Wp{wl{Wa{wt{We {wof {gd{Ge{gl{Gi{gc{Gi{go{Gu{gs {rs{Rt{ru{Rff{ri{Rn{rg{x~
+A {Wp{wl{Wa{wt{We {wof {gd{Ge{gl{Gi{gc{Gi{go{Gu{gs {rs{Rt{ru{Rff{ri{Rn{rg{x teases your taste buds.~
+food 0 A
+8 8 0 0 0
+0 0 0
+
+#29
+a sizzling tender sea bass~
+{Da {ws{Di{wz{Dz{wl{Di{wn{Dg {cte{Dnd{wer {bs{Be{ba {Gb{ga{Gs{gs{x~
+{DA {ws{Di{wz{Dz{wl{Di{wn{Dg {cte{Dnd{wer {bs{Be{ba {Gb{ga{Gs{gs{x fries on the fires.~
+food 0 A
+8 8 0 0 0
+0 1 0
+
+#30
+juicy filet mignon~
+a {rj{Ru{ri{Rc{ry {Cf{bi{Cl{be{Ct {gm{ri{gg{rno{gn{x~
+a {rj{Ru{ri{Rc{ry {Cf{bi{Cl{be{Ct {gm{ri{gg{rno{gn{x roasts on a campfire.~
+food 0 A
+8 8 0 0 0
+0 0 0
+
+#31
+delicious cherry cheesecake~
+a {Yd{ye{Yl{yi{Yc{yi{Yo{yu{Ys {Rc{rh{Re{rr{Rr{ry {Yc{Whees{Yec{Wak{Ye{x~
+The smell from a {Yd{ye{Yl{yi{Yc{yi{Yo{yu{Ys {Rc{rh{Re{rr{Rr{ry {Yc{Whees{Yec{Wak{Ye{x fills the room.~
+food 0 A
+8 8 0 0 0
+0 1 0
+
+#32
+a red rose~
+a {Mb{me{Ma{mu{Mt{mi{Mf{mu{Ml {Rr{re{Rd {Gr{go{Gs{ge{x~
+The aroma of a {Mb{me{Ma{mu{Mt{mi{Mf{mu{Ml {Rr{re{Rd {Gr{go{Gs{ge{x pleases you.~
+treasure 0 AO
+0 0 0 0 0
+0 0 0
+
+#33
+a black rose~
+a {Dd{wa{Dr{wk {Db{wl{Da{wc{Dk {Gr{go{Gs{ge{x~
+A {Dd{wa{Dr{wk {Db{wl{Da{wc{Dk {Gr{go{Gs{ge{x brings forth a gloomy atmosphere.~
+treasure 0 AO
+0 0 0 0 0
+0 0 0
+
+#34
+a violet rose~
+a {Mv{mi{Mo{ml{Me{mt {Gr{go{Gs{ge{x~
+A {Mv{mi{Mo{ml{Me{mt {Gr{go{Gs{ge{x grows up from the cracks.~
+treasure 0 AO
+0 0 0 0 0
+0 0 0
+
+#35
+a white rose~
+a {Ww{wh{Wi{wt{We {Gr{go{Gs{ge{x~
+A {Ww{wh{Wi{wt{We {Gr{go{Gs{ge{x drifts with the wind.~
+treasure 0 AO
+0 0 0 0 0
+0 0 0
+
+#36
+a pink rose~
+a {5p{wi{5n{wk {Gr{go{Gs{ge{x~
+A {5p{wi{5n{wk {Gr{go{Gs{ge{x rests at your feet.~
+treasure 0 AO
+0 0 0 0 0
+0 0 0
+
+#37
+a red rose~
+a {Mb{me{Ma{mu{Mt{mi{Mf{mu{Ml {Rr{re{Rd {Gr{go{Gs{ge{x~
+The aroma of a {Mb{me{Ma{mu{Mt{mi{Mf{mu{Ml {Rr{re{Rd {Gr{go{Gs{ge{x pleases you.~
+treasure 0 AO
+0 0 0 0 0
+0 0 0
+
+#38
+a white rose~
+a {Ww{wh{Wi{wt{We {Gr{go{Gs{ge{x~
+A {Ww{wh{Wi{wt{We {Gr{go{Gs{ge{x drifts with the wind.~
+treasure 0 AO
+0 0 0 0 0
+0 0 0
+
+#39
+a black rose~
+a {Dd{wa{Dr{wk {Db{wl{Da{wc{Dk {Gr{go{Gs{ge{x~
+A {Dd{wa{Dr{wk {Db{wl{Da{wc{Dk {Gr{go{Gs{ge{x brings forth a gloomy atmosphere.~
+treasure 0 AO
+0 0 0 0 0
+0 0 0
+
+#40
+a pink rose~
+a {5p{wi{5n{wk {Gr{go{Gs{ge{x~
+A {5p{wi{5n{wk {Gr{go{Gs{ge{x rests at your feet.~
+treasure 0 AO
+0 0 0 0 0
+0 0 0
+
+#41
+erie faerie fog~
+{Ma{wn {we{Mr{wi{Me {wf{Mo{wg{x~
+{MA{wn {we{Mr{wi{Me {wf{Mo{wg{w illuminates the room.{x~
+treasure AG 0
+0 0 0 0 0
+0 0 0
+
+#42
+blazing lantern of bloodshed~
+a {Rblazing {Ylantern{x~
+A {Rblazing {Ylantern{x illuminates the room.~
+light A A
+0 0 10 0 0
+0 0 0
+
+#43
+the soul of %s captured by %s~
+{wthe s{Dou{wl of {y%s {rc{Rapture{rd {wby {y%s{x~
+{wThe {8s{7ou{8l of {y%s {wnow haunts the streets.{x~
+gem O AW
+0 0 0 0 0
+0 0 0
+
+#44
+%s voodoo doll action figure~
+an {Raction {Dfigure{x of {R%s{x~
+An {Raction {Dfigure{x of {R%s{x stands posed at attention.~
+treasure G AO
+0 0 0 0 0
+20 5 2500
+A 3 2
+A 4 2
+A 19 8
+A 18 8
+
+#45
+small raft~
+a {ys{Gmal{yl w{Go{yod{Ge{yn{x raft~
+A {ys{Gmal{yl w{Go{yod{Ge{yn{x raft is buried here.~
+boat G A
+0 0 0 0 0
+0 5 0
+
+#46
+a scorched scroll of %s~
+{Da {rs{Rc{rorch{Re{rd {Dscroll of {G%s{x~
+{DA {rs{Rc{rorch{Re{rd {Dscroll of {G%s{D is here.{x~
+scroll G AO
+0 '' '' '' ''
+0 10 10
+
+#47
+bag~
+a paper bag~
+A small paper bag.~
+container 0 A
+50 0 0 5 100
+0 10 0
+
+#48
+dream object~
+dream object~
+Dream object~
+trash 0 0
+0 0 0 0 0
+0 0 0
+
+#49
+fountain of youth~
+the {^f{&o{^u{&n{^t{&a{^i{&n{x of {&y{7o{&u{7t{&h{x~
+The {^f{&o{^u{&n{^t{&a{^i{&n{x of {&y{7o{&u{7t{&h{x calls for you to drink.~
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0
+
+#50
+fountain of youth~
+the {^f{&o{^u{&n{^t{&a{^i{&n{x of {&y{7o{&u{7t{&h{x~
+The {^f{&o{^u{&n{^t{&a{^i{&n{x of {&y{7o{&u{7t{&h{x calls for you to drink.~
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0
+
+#51
+a pool of elvish wine~
+a {Bp{boo{Bl{x of {Ye{yl{Yv{yi{Ys{yh {Bw{Ci{Bn{Ce{x~
+A {Bp{boo{Bl{x of {Ye{yl{Yv{yi{Ys{yh {Bw{Ci{Bn{Ce{x covers the ground.~
+fountain G 0
+100000 100000 'ale' 0 0
+0 0 0
+
+#52
+waterfall majestic~
+a {Cm{ca{Cj{ce{Cs{ct{Ci{cc {bw{wa{bt{we{br{wf{ba{wl{bl{x~
+{CA m{ca{Cj{ce{Cs{ct{Ci{cc {bw{wa{bt{we{br{wf{ba{wl{bl {yf{gl{yo{gw{ys {Dh{we{Dr{we{x.~
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0
+
+#53
+a crystal clear spring~
+a {Cc{br{Cy{bs{Ct{ba{Cl {bc{Bl{be{Ba{br {ws{Wp{wr{Wi{wn{Wg{x~
+A {Cc{br{Cy{bs{Ct{ba{Cl {bc{Bl{be{Ba{br {ws{Wp{wr{Wi{wn{Wg{x refreshes the air.~
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0
+
+#54
+fountain of youth~
+the {^f{&o{^u{&n{^t{&a{^i{&n{x of {&y{7o{&u{7t{&h{x~
+The {^f{&o{^u{&n{^t{&a{^i{&n{x of {&y{7o{&u{7t{&h{x calls for you to drink.~
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0
+
+#55
+engineer grenade~
+grenade tool~
+a grenade tool is here.~
+engineer_tool 0 AO
+A 0 0 0 0
+0 0 0
+
+#56
+test trap~
+a test trap~
+test trap lies here~
+trap 0 A
+damage acid 5000 10000 10
+101 0 10195
+
+#57
+light~
+A large shiny light~
+A large shiny light lies here.~
+light 0 AO
+0 0 1000000 0 0
+1 5 0
+
+#58
+a rainbow potion of %s~
+a {Br{Ga{Yi{Mn{Cb{Ro{Ww{x potion of {R%s{x~
+A {Br{Ga{Yi{Mn{Cb{Ro{Ww{x potion of {R%s{x is here.~
+potion G AO
+0 '' '' '' ''
+0 10 10
+
+#60
+rewards deviant~
+{rR{Rewar{rd {C#1{x~
+A {wd{Devian{wt {rr{Rewar{rd{x glows brightly.~
+pill AGTY A
+100 'deviant point' '' '' ''
+1 1 228
+
+#61
+rewards deviant~
+{rR{Rewar{rd {C#2{x~
+A {wd{Devian{wt {rr{Rewar{rd{x glows brightly.~
+pill AGTY A
+100 'deviant point' '' '' ''
+1 1 228
+
+#62
+rewards deviant~
+{rR{Rewar{rd {C#3{x~
+A {wd{Devian{wt {rr{Rewar{rd{x glows brightly.~
+pill AGTY A
+100 'deviant point' '' '' ''
+1 1 228
+
+#63
+rewards deviant~
+{rR{Rewar{rd {C#4{x~
+A {wd{Devian{wt {rr{Rewar{rd{x glows brightly.~
+pill AGTY A
+100 'deviant point' '' '' ''
+1 1 228
+
+#64
+rewards deviant~
+{rR{Rewar{rd {C#5{x~
+A {wd{Devian{wt {rr{Rewar{rd{x glows brightly.~
+pill AGTY A
+100 'deviant point' '' '' ''
+1 1 228
+
+#65
+newbie gift weapon~
+The Newbie Gift Weapon~
+A special newbie weapon from the immortals lies here~
+weapon 0 AN
+exotic 13 8 gravity 0
+1 5 140
+F S 0 0 D
+
+#66
+sunblade blade fiery~
+{#T{3h{#e{) {#Sun{3bl{#ade{)~
+A long {#fi{3e{#ry{) {#bl{3a{#de{) lies here waiting to be used.~
+weapon Ab AN
+sword 20 30 none AD
+1 10 9778
+Q 10000
+
+#67
+blanket bag~
+T{8h{)e Bl{8ank{)et B{8a{)g{)~
+A rolled-out bl{*ank{)et lies here waiting to be slept on.~
+furniture Yb AO
+1 99999 HK 10000 10000
+1 20 0
+A 9 200
+A 11 200
+A 10 200
+Q 12000
+
+#68
+lantern souls unique~
+{BLa{Cnte{Brn {cof {wS{co{bu{cl{ws{x~
+A Lantern writhing with the anguish of thousands of trapped souls rests here.~
+light ABOTXb AO
+0 0 999 0 0
+1 1 50000
+A 13 900
+A 17 -100
+A 4 5
+A 18 130
+A 19 130
+Q 11000
+
+#69
+mithril forge stone~
+a {bm{Bithri{bl {ws{Dton{we{x~
+A {bm{Bithri{bl {ws{Dton{we{x glistens in the sunlight.~
+forge_stone Tb A
+0 0 0 0 0
+85 1 13572
+Q 85
+
+#70
+titanium forge stone~
+a {Dti{wt{Wan{wi{Dum {ws{Dton{we{x~
+A {Dti{wt{Wan{wi{Dum {ws{Dton{we{x glistens in the sunlight.~
+forge_stone Tb A
+0 0 0 0 0
+65 0 12161
+Q 65
+
+#71
+steel forge stone~
+a {ws{Dtee{wl s{Dton{we{x~
+A {ws{Dtee{wl s{Dton{we{x glistens in the sunlight.~
+forge_stone Tb A
+0 0 0 0 0
+45 0 6731
+Q 45
+
+#72
+bronze forge stone~
+a {yb{Yronz{ye {ws{Dton{we{x~
+A {yb{Yronz{ye {ws{Dton{we{x glistens in the sunlight.~
+forge_stone Tb A
+0 0 0 0 0
+25 0 5924
+Q 25
+
+#73
+adamantium forge stone~
+an {ra{Rdamantiu{rm {ws{Dton{we{x~
+An {ra{Rdamantiu{rm {ws{Dton{we{x glistens in the sunlight.~
+forge_stone Tb A
+0 0 0 0 0
+100 0 22673
+Q 100
+
+#74
+mace destruction~
+{!T{1h{!e{) {!M{1ac{!e{) {1of{) {!Des{1truc{!tion{)~
+A long {!bl{1o{!od{)-filled {!M{1ac{!e{) lies here.~
+weapon IYb AN
+mace 40 19 laceration D
+1 10 10485
+A 18 150
+Q 10000
+T warrior
+T ranger
+T gladiator
+T strider
+T knight
+T hunter
+
+#75
+spellcaster shield spellcaster's aqua orb~
+{^T{6h{^e {^Spel{6lcas{^ter's{) {^Sh{6ie{^ld{)~
+A strange {^a{6qu{^a-{^co{6lor{^ed {^o{6r{^b{) lies on the ground glowing feverishly.~
+armor Hb AQ
+100 100 100 100 0
+1 1 0
+F S 0 1 R
+F S 0 1 I
+F S 0 1 G
+F S 0 1 R
+F S 0 1 L
+F S 0 1 F
+F S 0 1 J
+A 13 1000
+A 12 1000
+A 3 10
+A 4 10
+Q 16000
+T thief
+T warrior
+T ranger
+T rogue
+T gladiator
+T strider
+T assassin
+T knight
+T hunter
+
+#76
+vorpal kris~
+{@T{2h{@e {@Vo{2r{@pal {@K{2ri{@s{)~
+A {@Vo{2r{@pal {@K{2ri{@s{) lies here.~
+weapon CFHXb AN
+exotic 42 15 pressure DE
+1 1 100000
+F A 0 0 F
+F A 0 0 D
+F A 0 0 C
+F A 0 0 G
+F S 0 0 B
+F S 0 0 S
+A 18 150
+Q 12000
+T mage
+T cleric
+T warrior
+T ranger
+T druid
+T acolyte
+T wizard
+T priest
+T gladiator
+T strider
+T sage
+T lich
+T archmage
+T bishop
+T knight
+T hunter
+T hierophant
+T necromancer
+
+#77
+typewriter~
+a typewriter~
+There is a typewriter here.~
+weapon 0 0
+exotic 0 0 none 0
+0 0 0
+
+#78
+trophy case~
+the trophy case stolen from Zork~
+An oddly familiar trophy case is against one wall.~
+container 0 0
+999999 A 0 999999 0
+0 0 0
+
+#79
+million coins~
+a million coins~
+A million coins are here in a pile.~
+money 0 A
+1000000 0 0 0 0
+0 0 0
+
+#80
+pine box coffin~
+a coffin~
+A pine box is here.~
+container 0 A
+1000 A 0 1000 10
+0 1000 0
+
+#81
+perch~
+a perch~
+A perch is standing in the corner.~
+furniture 0 0
+1 10000 EH 0 0
+0 0 0
+#0
+
+#ROOMS
+#1
+The Void~
+You are lost in the realms of the void.
+There is nowhere to go!
+~
+12 1
+S
+
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+8 1
+D0
+~
+~
+AB 0 4
+D4
+~
+~
+0 -1 3001
+S
+
+#3
+The Corner~
+You are standing with your nose in the corner.  Every time you try to
+turn around, you get slapped upside the head and quickly resume your
+position.
+~
+304140 5
+D0
+~
+~
+0 0 3
+D1
+~
+~
+0 0 3
+D2
+~
+~
+0 0 3
+D3
+~
+~
+0 0 3
+S
+
+#4
+Locke's Quarters~
+The room is adorned with various photographs, pictures, drawings
+and printouts that cover the walls.  There is a desk in one corner
+with an extravagant computer on it.  
+~
+1048584 0
+D2
+~
+~
+AB 0 2
+S
+
+#5
+{MS{me{Ml{me{Mn{me{M'{ms{x {WO{Cf{Bf{Ci{Bc{Ce{x~
+~
+1048576 0
+S
+
+#7
+The room of RzA~
+sith, adan, judge
+~
+0 0
+S
+
+#92
+~
+~
+0 0
+S
+#0
+
+#SPECIALS
+M 1 spec_cast_mage
+S
+
+#RESETS
+D 100 2 0 1
+D 100 4 2 1
+S
+
+#$

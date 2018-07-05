@@ -1,0 +1,770 @@
+#PLAYER
+Name Xuul~
+Race dwarf~
+Levl 32
+Clas thief~
+Pkpt 100
+TSex 1
+LogO 1257738728
+Sock cpe-67-250-124-44.hvc.res.rr.com~
+Titl  {1{x~
+
+#STAT_BREAK
+
+Id   1257650480
+Plat 1
+Gold 14
+Silv 58
+Exp  139364
+Attr 23 19 25 17 25
+Prom {2%h/{@%H|{2%m/{@%M|{2%v/{@%V]{1%X>{x ~
+Act  BCDEFGHJQRT
+AfBy CDEFGHLTUVZce
+ShBy CDEFGHIJKLR
+Comm NQ
+Pos  8
+Alig  -118
+Sk 1 'axe mastery'
+Sk 75 'backstab'
+Sk 1 'circle'
+Sk 1 'critical strike'
+Sk 75 'dagger'
+Sk 1 'disarm'
+Sk 1 'disguise'
+Sk 75 'dodge'
+Sk 1 'dual wield'
+Sk 75 'envenom'
+Sk 1 'fourth attack'
+Sk 1 'gouge'
+Sk 79 'kick'
+Sk 1 'parry'
+Sk 49 'peek'
+Sk 50 'recall'
+Sk 1 'scrolls'
+Sk 41 'second attack'
+Sk 1 'slip'
+Sk 64 'sneak'
+Sk 1 'staves'
+Sk 1 'steal'
+Sk 1 'strangle'
+Sk 1 'third attack'
+Sk 1 'wands'
+MaxDam 84
+LLev 2
+Pass XuCCYk7vCZkkY~
+Plyd 8411
+Note 0 0 0 0 0
+Room 3365
+HMVN 1959 2059 1141 1179 674 1128
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 0 29 0
+Deviant 0 0
+Prac 191
+Trai 30
+Devote current 0
+Pnts 72
+Mkil 237
+Mdea 6
+TotalAttm 1
+TotalExpr 1
+Alias / recall~
+Alias 1 ex~
+Alias con consider~
+Gr 'rom basics'
+Gr 'thief basics'
+Affc 'wisdom'   0 113   0   5   3   4          0
+Affc 'watershield'   1 112   0  22   0   0     131072
+Affc 'vampiricshield'   1 115   0  22   0   0        512
+Affc 'thornshield'   1 114   0  22   0   0        256
+Affc 'stone skin'   0 115   0  51 -115  17          0
+Affc 'shrapnelshield'   1 114   0  22   0   0         64
+Affc 'shockshield'   1 112   0  22   0   0         16
+Affc 'shield'   0 115   0  22 -38  17          0
+Affc 'sanctuary'   1 113   0  13   0   0        128
+Affc 'rockshield'   1 114   0  22   0   0         32
+Affc 'regeneration'   0 114   0  22   0   0  268435456
+Affc 'pass door'   0 113   0  22   0   0    1048576
+Affc 'intellect'   0 113   0   5   3   3          0
+Affc 'iceshield'   1 114   0  22   0   0          4
+Affc 'haste'   0 114   0  51   3   2    2097152
+Affc 'golden armor'   4 114   0   5 -16   1          0
+Affc 'golden armor'   4 114   0   5 -16  17          0
+Affc 'golden armor'   4 114   0   5 -16  20          0
+Affc 'giant strength'   0 112   0  51   3   1 1073741824
+Affc 'frenzy'   0 113   0  32  90  17          0
+Affc 'frenzy'   0 114   0  32  38  19          0
+Affc 'frenzy'   0 114   0  32  38  18          0
+Affc 'fly'   0 114   0 112   0   0     524288
+Affc 'fireshield'   1 115   0  22   0   0          8
+Affc 'faith'   4 114   0  17 -23  14          0
+Affc 'faith'   0 112   0  17  57  18          0
+Affc 'faith'   0 115   0  17  57  19          0
+Affc 'divine aura'   1 115   0  56   0   0       1024
+Affc 'devotion'   0 114   0   5 -22  20          0
+Affc 'detect neutral'   0 113   0  51   0   0        128
+Affc 'detect magic'   0 114   0  51   0   0         16
+Affc 'detect invis'   0 113   0  51   0   0          8
+Affc 'detect hidden'   0 114   0  51   0   0         32
+Affc 'detect good'   0 114   0  51   0   0         64
+Affc 'detect evil'   0 114   0  51   0   0          4
+Affc 'constitution'   0 115   0   5   3   5          0
+Affc 'bless'   0 115   0  38 -14  20          0
+Affc 'bless'   0 113   0  38  14  18          0
+Affc 'barkskin'   0 112   0  17 -115  17          0
+Affc 'awen'   0 114   0  17  28  19          0
+Affc 'awen'   0 115   0  17  28  18          0
+Affc 'armor'   0 114   0  17 -115  17          0
+Affc 'acidshield'   1 114   0  22   0   0       2048
+Affc 'darkvision'   0  26   0  -1   0   0   33554432
+Affc 'farsight'   0   1   0  -1   0   0       2048
+End
+
+#O
+Vnum 3163
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3169
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3716
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Cost 0
+Valu 2 1 66
+End
+
+#O
+Vnum 3703
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 3707
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3711
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 12
+End
+
+#O
+Vnum 3726
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 21
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 25
+End
+
+#O
+Vnum 3723
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 24
+End
+
+#O
+Vnum 3727
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 20
+End
+
+#O
+Vnum 3728
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 27
+End
+
+#O
+Vnum 3710
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3713
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 14
+End
+
+#O
+Vnum 3715
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3365
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3364
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3209
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3353
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3362
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 13
+End
+
+#O
+Vnum 3365
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3364
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3350
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3353
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 303
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 308
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 307
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+ExtF GX
+End
+
+#O
+Vnum 312
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Time 1904
+End
+
+#O
+Vnum 302
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3013
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 728
+Nest 0
+Name Deadly gloves Elegance special~
+ShD  Deadly gloves of Elegance~
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Loader MPOP: (23:03-11/07/2009) Xuul~
+Lev  5
+Cost 75
+Affc 'reserved' 2 1 -1 12 19 0
+End
+
+#O
+Vnum 711
+Nest 0
+Name Placid necklace Magni special~
+ShD  Placid necklace of Magni~
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Loader MPOP: (23:04-11/07/2009) Xuul~
+Lev  16
+Cost 75
+Affc 'reserved' 0 1 -1 0 0 4194304
+Affc 'reserved' 2 1 -1 25 19 0
+Affc 'reserved' 2 1 -1 86 12 0
+End
+
+#O
+Vnum 728
+Nest 0
+Name gloves normal~
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Loader MPOP: (23:04-11/07/2009) Xuul~
+End
+
+#O
+Vnum 806
+Nest 0
+Name lash normal~
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Loader MPOP: (23:22-11/07/2009) Xuul~
+End
+
+#O
+Vnum 3365
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Loader KILL: (23:55-11/07/2009) Geldar~
+Wear 0
+Valu 2 1 482
+End
+
+#O
+Vnum 3364
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Loader KILL: (23:55-11/07/2009) Geldar~
+End
+
+#O
+Vnum 3350
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Loader KILL: (23:55-11/07/2009) Geldar~
+End
+
+#O
+Vnum 3353
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Loader KILL: (23:55-11/07/2009) Geldar~
+End
+
+#O
+Vnum 3359
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Loader KILL: (23:55-11/07/2009) Geldar~
+End
+
+#O
+Vnum 3041
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 17
+Time 655
+End
+
+#O
+Vnum 13501
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 1502
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 1503
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 1502
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 1511
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 1512
+Nest 1
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 774
+Nest 0
+Name flail normal~
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Loader MPOP: (00:18-11/08/2009) Xuul~
+End
+
+#O
+Vnum 733
+Nest 0
+Name boots cracked~
+ShD  cracked boots~
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Loader MPOP: (00:18-11/08/2009) Xuul~
+Cost 500
+Valu 1 7 -4
+Valu 2 7 -4
+Valu 3 7 -6
+Valu 4 7 -8
+End
+
+#O
+Vnum 1514
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 35004
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+ExtF T
+End
+
+#O
+Vnum 1500
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 1506
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Time 583
+End
+
+#O
+Vnum 1507
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 4
+End
+
+#O
+Vnum 3216
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3216
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3502
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3075
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 8
+End
+
+#O
+Vnum 3074
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 7
+End
+
+#O
+Vnum 3045
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3072
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3077
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 10
+End
+
+#O
+Vnum 3502
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3072
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 5
+End
+
+#O
+Vnum 3503
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 3
+End
+
+#O
+Vnum 3022
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3076
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+Wear 9
+End
+
+#O
+Vnum 3502
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3162
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3164
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3165
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3166
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 6155
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 21
+End
+
+#O
+Vnum 3802
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 25
+End
+
+#O
+Vnum 3702
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 32
+End
+
+#O
+Vnum 3040
+Nest 0
+End
+
+#O
+Vnum 3040
+Nest 0
+End
+
+#O
+Vnum 3040
+Nest 0
+End
+
+#O
+Vnum 3040
+Nest 0
+End
+
+#O
+Vnum 3040
+Nest 0
+End
+
+#O
+Vnum 3040
+Nest 0
+End
+
+#O
+Vnum 3702
+Nest 0
+MULTI Xuul~ cpe-67-250-123-158.hvc.res.rr.com~ 39
+End
+
+#O
+Vnum 5105
+Nest 0
+MULTI Xuul~ cpe-67-250-124-44.hvc.res.rr.com~ 46
+End
+
+#O
+Vnum 8307
+Nest 0
+MULTI Xuul~ cpe-67-250-124-44.hvc.res.rr.com~ 48
+Time 748
+End
+
+#O
+Vnum 8307
+Nest 0
+MULTI Xuul~ cpe-67-250-124-44.hvc.res.rr.com~ 48
+Time 832
+End
+
+#O
+Vnum 8307
+Nest 0
+MULTI Xuul~ cpe-67-250-124-44.hvc.res.rr.com~ 50
+Time 770
+End
+
+#O
+Vnum 8306
+Nest 0
+MULTI Xuul~ cpe-67-250-124-44.hvc.res.rr.com~ 50
+End
+
+#O
+Vnum 8302
+Nest 0
+MULTI Xuul~ cpe-67-250-124-44.hvc.res.rr.com~ 50
+Wear 6
+End
+
+#END

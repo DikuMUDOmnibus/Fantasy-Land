@@ -1,0 +1,2274 @@
+#AOD_AREA
+Creation House*~
+14701 14799 0 9
+Levl 10 30
+Bldr Belf~
+Alig N
+End
+
+#MOBILES
+#14701
+creation tiny~
+{wa {YT{Mi{Wn{Yy {wCreation{x~
+A {YT{Mi{Wn{Yy {wCreation {xis here to serve the needs of the lord of the tower.
+~
+This thing appears as a basically humanoid shaped mass of strange black stuff.
+~
+human~
+150 50 150 150 150 150 150 100 100 100 100 150 150 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABCU 0 0 0 0
+12 0 0 19 51 10 10 1 20 1 none
+50 50 50 50
+STANDING STANDING male 500
+0 mage tiny ABCDEFGHIJK
+W 10
+P 144 0
+
+#14702
+creation small~
+{wA {bS{cm{Ca{cl{bl {wCreation{x~
+A {bS{cm{Ca{cl{bl {wCreation {xmoves around, doing simple cleaning work.
+~
+This thing appears as a basically humanoid shaped mass of strange grey
+stuff.
+~
+human~
+150 50 150 150 150 150 150 100 100 100 100 150 150 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABCU 0 0 0 0
+16 1 0 40 66 10 10 1 20 2 none
+30 30 30 30
+STANDING STANDING male 1000
+0 mage small ABCDEFGHIJK
+W 20
+P 163 0
+
+#14703
+creation medium~
+{wa {YM{De{Wdi{Du{Ym {wCreation{x~
+A {YM{De{Wdi{Du{Ym {wCreation {xstands watch here.
+~
+This thing appears as a basically humanoid shaped mass of strange white
+stuff.
+~
+human~
+150 50 150 150 150 150 150 100 100 100 100 150 150 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABCU 0 0 0 0
+20 2 0 45 81 10 10 10 20 4 none
+10 10 10 10
+STANDING STANDING male 1500
+0 mage medium ABCDEFGHIJK
+W 10
+P 137 0
+
+#14704
+creation large~
+{wa {DL{ma{rr{mg{De {wCreation{x~
+A {DL{ma{rr{mg{De {wCreation {xstands guard to repel intruders.
+~
+This thing appears as a basically humanoid shaped mass of strange glowing
+stuff.
+~
+human~
+150 50 150 150 150 150 150 100 100 100 100 150 150 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABCFU J 0 0 0
+24 3 0 93 139 10 10 12 24 8 none
+-10 -10 -10 -10
+STANDING STANDING male 2000
+0 mage large ABCDEFGHIJK
+W 3
+P 60 0
+
+#14705
+creation huge~
+{wa {YH{Wug{Ye {wCreation{x~
+A {YH{Wug{Ye {wCreation {xis here, adminstering the work of the other creations.
+~
+This thing appears as a basically humanoid shaped mass of strange
+pulsating stuff.
+~
+human~
+150 50 150 150 150 150 150 100 100 100 100 150 150 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABCU J 0 0 0
+28 4 0 186 245 10 10 14 28 12 none
+-30 -30 -30 -30
+STANDING STANDING male 2500
+0 mage huge ABCDEFGHIJK
+W 5
+P 69 0
+
+#14706
+creation giant~
+{wa {rG{Ri{Ya{Rn{rt {wCreation{x~
+A {rG{Ri{Ya{Rn{rt {wCreation {xis here, protecting the lord of the tower.
+~
+This thing appears as a basically humanoid shaped mass of strange
+multi-coloured stuff.
+~
+human~
+150 50 150 150 150 150 150 100 100 100 100 150 150 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABCU DJ 0 0 0
+32 5 0 266 315 10 10 16 32 16 none
+-50 -50 -50 -50
+STANDING STANDING male 3000
+0 mage giant ABCDEFGHIJK
+W 12
+P 27 0
+
+#14707
+apprentice mage~
+{wan {WA{wpprentic{We {bMage{x~
+An {WA{wpprentic{We {bMage {xgoes about his studies here.
+~
+This young mage is here seeking power, you wonder how much he has found.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AGRU DJ 0 0 0
+12 2 0 33 59 40 85 1 20 6 none
+20 20 20 20
+STANDING STANDING male 2000
+0 mage small ABCDEFGHIJK
+W 5
+P 71 0
+
+#14708
+lord tower~
+{wthe {DL{ror{Dd {wof the {DT{Wo{ww{We{Dr{x~
+The {DL{ror{Dd {xof the {DT{Wo{ww{We{Dr {xis here, with a nasty scowl on his face.
+~
+The Lord of the Tower is an imposing man dreesed in a hooded concealing robe.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABFRU DFJ 0 0 0
+40 5 0 255 289 163 287 20 40 10 none
+0 0 0 0
+STANDING STANDING male 5000
+0 mage large ABCDEFGHIJK
+W 1
+P 13 0
+#0
+
+#OBJECTS
+#14701
+robes apprentice~
+{wa Set of {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {DRobes{x~
+You see a set of apprentice's robes here.~
+armor G AD
+3 4 3 4 0
+12 10 1000
+A 3 1
+E
+robes~
+You see some finely made robes with sliver symbols sown around the cuffs
+and hemm.
+~
+
+#14702
+cloak apprentice~
+{wan {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {WCloak{x~
+You see a cloak here.~
+armor G AC
+3 4 3 4 0
+12 10 1000
+A 4 1
+A 3 1
+
+#14703
+skull cap apprentice~
+{wan {cA{Wp{cp{Wr{ce{Wn{ct{Wi{cc{We{c's {yCloth {wSkull Cap{x~
+You see a cloth skull cap here.~
+armor G AE
+4 3 3 4 0
+12 10 1000
+A 4 1
+A 3 1
+
+#14704
+soft boots~
+{wSoft {yLeather {wBoots{x~
+You see a pair of soft leather boots here.~
+armor G AG
+5 4 4 3 0
+12 10 1000
+A 19 2
+A 18 2
+A 14 36
+A 2 2
+
+#14705
+dagger gleaming~
+{wa {CG{wleamin{Cg {DDagger{x~
+You see a gleaming dagger here.~
+weapon G AN
+dagger 6 6 pierce 0
+12 10 1000
+A 3 1
+
+#14706
+cloak wizards~
+a {MW{Wi{Mz{Wa{Mr{Wd{M's {WC{Wloa{Wk{x~
+A fine cloak lies on the ground.~
+armor FG AC
+7 7 8 5 0
+30 10 3000
+A 12 10
+A 4 1
+A 3 1
+
+#14707
+robes wizards~
+{wa set of {MW{Wi{Mz{Wa{Mr{Wd{M's {DRobes{x~
+A set of robes lies here.~
+armor FG AD
+8 7 7 5 0
+30 10 3000
+A 3 1
+E
+robes~
+You see some finely made robes covered with glowing magical sliver symbols.
+~
+
+#14708
+bracers protection~
+{WVambraces {wof {gP{Wrotectio{gn{x~
+You see some bracers here.~
+armor FG AI
+7 5 6 9 0
+30 10 3000
+A 4 1
+
+#14709
+skull cap~
+a {WS{Di{Wl{Dve{Wr {wskull cap{x ~
+A silver skull cap is here.~
+armor FG AE
+7 7 7 3 0
+30 10 3000
+
+#14710
+boots black~
+{wSoft {DBlack {wBoots{x~
+You see a pair of soft black boots here.~
+armor FG AG
+8 7 6 3 0
+30 10 3000
+A 14 20
+A 2 1
+
+#14711
+dagger mithril~
+a {CM{cithri{Cl {wDagger{x~
+You see a mithril dagger here.~
+weapon FG AN
+dagger 8 8 pierce 0
+30 10 1000
+A 18 3
+
+#14712
+wand black~
+{wa {DBlack {wWand{x~
+You see a black wand here.~
+wand FG AO
+8 10 10 'magic missile' 0
+12 3 500
+
+#14713
+wand silver~
+{wa {WS{Di{Wl{Dv{We{Dr {wWand{x~
+You see a silver wand here.~
+wand FG AO
+8 10 10 'magic missile' 0
+12 3 500
+
+#14714
+staff gold~
+{wa {YGold {ystaff{x~
+You see a gold staff here.~
+weapon FG AO
+exotic 6 6 pound 0
+12 10 1000
+
+#14715
+staff platinum~
+{wa {DP{wl{Wa{Dti{Wn{wu{Dm {yStaff{x~
+You see a platinum staff floating in the air here.~
+weapon FG AN
+exotic 6 6 pound 0
+12 10 1000
+
+#14716
+key copper~
+{wa {yCopper {wkey{x~
+You see a copper key here.~
+key FG AO
+0 0 0 0 0
+6 10 1000
+
+#14717
+key sliver~
+{wa {WS{Di{Wl{Dv{We{Dr {wkey{x~
+You see a silver key here.~
+key FG AO
+0 0 0 0 0
+6 10 1000
+
+#14718
+key gold~
+{wa {YGold {wkey{x~
+You see a gold key here.~
+key FG AO
+0 0 0 0 0
+6 10 1000
+
+#14719
+key platinum~
+{wa {DP{wl{Wa{Dti{Wn{wu{Dm {wkey{x~
+You see a platinum key here.~
+key FG AO
+0 0 0 0 0
+6 10 1000
+
+#14720
+crackling ember~
+{rC{Rr{Ya{Wckl{Yi{Rn{rg Em{Rb{rer{x~
+A bright flame lies on the ground.~
+light 0 A
+0 0 999 0 0
+40 10 100
+A 13 75
+A 4 2
+
+#14721
+book acid mastery~
+{wbook of {yAcid {wMastery{x~
+A large ironbound book, containing a dragonskin cover, lies here.~
+armor AFGHI AO
+15 15 15 30 0
+101 10 30000
+A 4 2
+A 3 2
+
+#14722
+fire bracelet~
+{rF{Ri{Yr{re {WBracelet{x~
+A bracelet, engulfed in flames, lies here.~
+armor 0 AM
+12 12 12 12 0
+50 10 100
+A 13 100
+A 1 2
+
+#14723
+cape inferno~
+{WCape {wof {rI{Rn{rf{Re{rr{Rn{ro{x~
+A cape of flames lie here.~
+armor 0 AK
+12 12 12 12 0
+45 40 1000
+A 13 60
+A 20 -1
+
+#14724
+burning ring~
+{rBurning {wRing{x~
+A ring lies on the ground.~
+armor 0 AB
+7 7 7 7 0
+30 30 100
+A 3 2
+A 4 1
+
+#14725
+frozen boots~
+{bF{Br{Wo{wz{Be{bn {DBoots{x~
+A pair of cold looking boots lie here.~
+armor 0 AG
+7 7 7 7 0
+30 20 400
+A 5 2
+
+#14726
+ice armor~
+{bI{Cc{be {wArmor{x~
+Some ice armor lies here.~
+armor 0 AD
+14 14 15 14 0
+40 30 300
+A 13 80
+A 1 3
+
+#14727
+icicles crown~
+{WCrown {wof {bI{Bc{Ci{Wc{Cl{Be{bs{x~
+A crown of ice lies on the ground.~
+armor 0 AE
+16 16 16 16 0
+50 40 600
+A 4 2
+A 3 2
+A 13 100
+
+#14728
+snow mask~
+{WSnow {DMask{x~
+A snow covered mask is here.~
+armor 0 AR
+15 15 15 15 0
+45 30 600
+A 13 50
+A 12 50
+A 20 -1
+
+#14729
+ring ice~
+{wring of {CIce{x~
+A ring lies on the ground.~
+armor 0 AB
+7 7 7 7 0
+30 30 100
+A 4 2
+A 3 1
+
+#14730
+sparking ring~
+{YSparking {wring{x~
+A ring lies on the ground.~
+armor 0 AB
+7 7 7 7 0
+30 30 100
+A 5 2
+A 1 1
+
+#14731
+staff lightning~
+{WStaff {wof {YLigh{yt{Ynin{Yg{x~
+A shocking staff lies on the ground.~
+armor 0 AO
+10 10 10 10 0
+40 40 400
+A 12 50
+A 3 2
+
+#14732
+Glowing Boots~
+{YG{Wlowin{Yg {DBoots{x~
+A pair of boots glow here.~
+armor 0 AG
+15 15 15 15 0
+50 60 1000
+A 5 3
+A 13 100
+
+#14733
+sheet electricity~
+{wSheet of {YE{yl{Ye{yc{Yt{yr{Yi{yc{Yi{yt{Yy{x~
+A sheet of metal is here.~
+armor 0 AJ
+18 19 21 16 0
+45 40 1000
+A 17 -11
+A 13 50
+
+#14734
+shocking bracer~
+{YS{Wh{Yo{Wc{Yk{Wi{Yn{Wg {wBracer{x~
+A bracer lies here.~
+armor 0 AM
+10 10 10 10 0
+30 40 500
+A 5 2
+
+#14735
+bless staff~
+{wB{Wl{we{Ws{ws{We{wd {WStaff{x~
+A holy staff lies here.~
+armor 0 AO
+12 12 12 12 0
+40 50 500
+A 4 3
+A 12 75
+
+#14736
+holy tunic~
+{WH{Yol{Wy {wTunic{x~
+A tunic lies here.~
+armor 0 AD
+15 15 15 21 0
+50 50 300
+A 13 100
+A 12 20
+A 20 -2
+
+#14737
+divine aura~
+{YA{Wu{Yr{Wa {wof {WD{wivinit{Wy{x~
+An aura floats here.~
+armor 0 AQ
+10 10 10 10 0
+30 50 1000
+A 4 2
+A 12 50
+
+#14738
+sacred lantern~
+{YS{ya{Wcr{ye{Yd {wLantern{x~
+A lantern glows on the ground.~
+light 0 A
+0 0 999 0 0
+45 60 500
+A 12 80
+A 4 3
+
+#14739
+Saintly Cloak~
+{WS{wai{Wn{wtl{Wy {WCloak{x~
+A saint's cloak lies here.~
+armor K AK
+10 10 10 10 0
+30 40 100
+A 3 2
+
+#14740
+blinding light~
+{WBlinding {YLight{x~
+A bright light shines here.~
+light 0 A
+0 0 999 0 0
+40 30 800
+A 3 2
+A 12 50
+
+#14741
+illuminate ring~
+{wI{Wllu{Ymina{Wtin{wg {wRing{x~
+A ring lies here.~
+armor 0 AB
+9 9 9 9 0
+30 10 1000
+A 3 2
+A 20 -1
+
+#14742
+shimmering anklet~
+{WS{Ch{Wi{Cm{Wm{Ce{Wr{Ci{Wn{Cg {cAnklet{x~
+An anklet lies on the ground.~
+armor 0 AU
+14 14 14 14 0
+40 50 200
+A 3 3
+A 12 50
+A 13 50
+A 20 -2
+
+#14743
+silk white gloves~
+{WWhite {CSilk {wGloves{x~
+A pair of silk gloves lie here.~
+armor 0 AH
+13 13 13 13 0
+40 80 900
+A 12 90
+A 20 -1
+
+#14744
+belt light~
+{yBelt {wof {YLight{x~
+A belt is on the ground.~
+armor 0 AL
+9 10 10 10 0
+30 40 300
+A 3 2
+A 20 -1
+A 12 50
+
+#14745
+bloody cloak~
+{rB{Rl{ro{Ro{rd{Ry {wCloak{x~
+A cloak of blood lies here.~
+armor 0 AK
+14 14 14 14 0
+40 50 100
+A 1 2
+A 5 1
+
+#14746
+ritual charm~
+{wCharm of {DR{wi{Dt{Du{wa{Dl{x~
+A dark charm lies here.~
+armor 0 AC
+15 15 15 15 0
+50 80 800
+A 1 2
+A 5 2
+
+#14747
+enchanted voodoo doll~
+{WE{wnchante{Wd {DV{Wo{wo{Dd{Wo{wo Doll{x~
+A voodoo doll lies on the ground with an evil grin.~
+armor 0 AO
+12 12 14 12 0
+35 30 1000
+A 1 2
+A 13 50
+A 20 -1
+
+#14748
+cursed ring~
+{DC{Wu{wrs{We{Dd {wRing{x~
+A cursed ring is here.~
+armor M AB
+14 12 12 12 0
+30 30 400
+A 5 2
+A 20 -1
+A 12 50
+A 13 40
+
+#14749
+helm strife~
+{WHelm {wof {DS{wtrif{De{x~
+A helmet lies on the ground.~
+armor J AE
+18 18 18 18 0
+45 90 800
+A 1 2
+A 5 2
+A 13 100
+A 20 -1
+
+#14750
+fire amulet~
+{rF{Ri{Yr{re {DAmulet{x~
+An amulet lies here.~
+armor 0 AC
+10 10 10 10 0
+30 10 100
+A 5 3
+#0
+
+#ROOMS
+#14701
+Hidden path~
+This narrow track winds it's way between the dense undergrowth.  The
+ground is covered with sticks, leaves and roots.  The vegetation around
+here seems strange and twisted.  An eirey feels prevails, perhaps it's
+not a wise idea to continue...
+~
+0 0
+D0
+The path continues north towards the unknown!
+~
+~
+0 -1 14702
+D2
+~
+~
+0 0 6000
+D3
+~
+~
+0 0 76130
+S
+
+#14702
+{W-<{BBefore the Gates{W>-{x~
+{DHere stands an ornate set of iron grill-work gates.  The iron-work is
+twisted, and the metal seems strangely blackened.  A smooth black wall
+extends away on both sides.  The surrounding vegetation closes in against
+the wall, making movement to either side along the wall impossible.  The
+wall rises thirty feet into the sky, above all the trees near it making that
+way of entry impossible.  It seems that the gateway is the only entrance. 
+Beyond the wall, only the faint outline of a tall tower can be seen.  All
+seems cloaked in shadows.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14703
+D2
+~
+~
+0 -1 14701
+D4
+~
+~
+0 -1 14712
+S
+
+#14703
+{W-<{BInside the Gates{W>-{x~
+{DThis small courtyard covers the perimeter of the tower.  The courtyard
+extends to the east and west.  To the north a large doorway leads into the
+tower, to the south a gate leads into the forest.  The tower seems about six
+stories high and is made of some dark smooth substance.  Narrow slits are
+cut in the walls to serve as windows but none are lower than twenty feet
+high and all are too narrow to serve as ways of entry.  The ground here is
+packed earth and no vegetation grows within the wall.  Not even the smallest
+blade of grass can be seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14741
+D1
+~
+~
+0 -1 14704
+D2
+~
+~
+0 -1 14702
+D3
+~
+~
+0 -1 14710
+D4
+~
+~
+0 -1 14713
+S
+
+#14704
+{W-<{BSoutheast Corner of Courtyard{W>-{x~
+{DThis is the southeast corner of the courtyard, which surrounds the
+tower.  This section of the courtyard only has rocky dirt, preventing any
+flora from growing.  Despite the carved lines in the tower wall, there
+doesn't seem to be any way in from here.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14705
+D3
+~
+~
+0 -1 14703
+D4
+~
+~
+0 -1 14714
+S
+
+#14705
+{W-<{BEastern Area of the Courtyard{W>-{x~
+{DThis is the eastern portion of the courtyard.  The courtyard extends to
+the north and south.  The tower lies west, and the outside wall lies to the
+east.  The ground here is the same as elsewhere in the courtyard, and there
+seems to be no way into the tower from here.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14706
+D2
+~
+~
+0 -1 14704
+D4
+~
+~
+0 -1 14715
+S
+
+#14706
+{W-<{BNortheast Corner of Courtyard{W.-{x~
+{DHere lies the northeast corner of the courtyard, which surrounds the
+tower.  This area looks just like the other sections of the courtyard, plain
+and simple.  It does not appear one could enter the tower from here.  {x 
+~
+0 0
+D2
+~
+~
+0 -1 14705
+D3
+~
+~
+0 -1 14707
+D4
+~
+~
+0 -1 14716
+S
+
+#14707
+{W-<{BNorthern Area of the Courtyard{W>-{x~
+{DThis is the northern area of the courtyard.  A small door to the tower
+lies to the south.  The giant smooth black wall blocks exploration to the
+north.  The courtyard continues to the east and west.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14706
+D2
+~
+~
+0 -1 14748
+D3
+~
+~
+0 -1 14708
+D4
+~
+~
+0 -1 14717
+S
+
+#14708
+{W-<{BNorthwest corner of the Courtyard{W>-{x~
+{DHere lies the northwest corner of the courtyard, which surrounds the
+tower.  The ground is matted with dirt and rocks, nothing out of the can be
+seen.  The courtyard continues south and to the east.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14707
+D2
+~
+~
+0 -1 14709
+D4
+~
+~
+0 -1 14718
+S
+
+#14709
+{W-<{BWestern Area of the Courtyard{W>-{x~
+{DThis is the western section of the courtyard.  The ground is bare
+earth, heavily packed and without a single blade of grass or other
+vegetation visible.  The courtyard extends to the north and south.  The
+exterior wall stands to the west, and the tower lies east.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14708
+D2
+~
+~
+0 -1 14710
+D4
+~
+~
+0 -1 14719
+S
+
+#14710
+{W-<{BSouthwest Corner of the Courtyard{W>-{x~
+{DThe southwestern corner of the courtyard only has dirt to present to
+anyone whom walks through here.  Other than the wall that surrounds the
+courtyard, and the tower situated in the middle of the courtyard, nothing
+significant can be seen.  The courtyard continues to the east and north.  {x
+~
+0 0
+D0
+~
+~
+0 -1 14709
+D1
+~
+~
+0 -1 14703
+D4
+~
+~
+0 -1 14720
+S
+
+#14712
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14713
+D4
+~
+~
+0 -1 14722
+D5
+~
+~
+0 -1 14702
+S
+
+#14713
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14714
+D3
+~
+~
+0 -1 14720
+D4
+~
+~
+0 -1 14723
+D5
+~
+~
+0 -1 14703
+S
+
+#14714
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14715
+D3
+~
+~
+0 -1 14713
+D4
+~
+~
+0 -1 14724
+D5
+~
+~
+0 -1 14704
+S
+
+#14715
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14716
+D2
+~
+~
+0 -1 14714
+D4
+~
+~
+0 -1 14725
+D5
+~
+~
+0 -1 14705
+S
+
+#14716
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D2
+~
+~
+0 -1 14715
+D3
+~
+~
+0 -1 14717
+D4
+~
+~
+0 -1 14726
+D5
+~
+~
+0 -1 14706
+S
+
+#14717
+{W-<{BAbove the Northern Courtyard{W>-{x~
+{DThis area lies just above the courtyard.  At ground level, a small door
+to the tower exists, while the giant wall still prevents northward passage. 
+A strange mist circles the tower to the east and west.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14716
+D3
+~
+~
+0 -1 14718
+D4
+~
+~
+0 -1 14727
+D5
+~
+~
+0 -1 14707
+S
+
+#14718
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14717
+D2
+~
+~
+0 -1 14719
+D4
+~
+~
+0 -1 14728
+D5
+~
+~
+0 -1 14708
+S
+
+#14719
+{W-<{BAbove the Western Courtyard{W>-{x~
+{DThis area lies just above the western courtyard.  Looking down, one can
+see the ground is bare.  Only various shades of brown cover the ground, and
+no traces of plantlife can be seen.  The strange mist continues to circle
+around the tower to the north and south.  {x {x 
+~
+0 0
+D0
+~
+~
+0 -1 14718
+D2
+~
+~
+0 -1 14720
+D4
+~
+~
+0 -1 14729
+D5
+~
+~
+0 -1 14709
+S
+
+#14720
+{W-<{BAbove the Southwest Courtyard{W>-{x~
+{DAbove the southwestern portion of the courtyard, nothing much can be
+see besides the mist that circles the dark tower.  The only possible paths
+to take are either north, east, or down.  {x {x 
+~
+0 0
+D0
+~
+~
+0 -1 14719
+D1
+~
+~
+0 -1 14713
+D4
+~
+~
+0 -1 14730
+D5
+~
+~
+0 -1 14710
+S
+
+#14722
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14723
+D4
+~
+~
+0 -1 14732
+D5
+~
+~
+0 -1 14712
+S
+
+#14723
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14724
+D3
+~
+~
+0 -1 14730
+D4
+~
+~
+0 -1 14733
+D5
+~
+~
+0 -1 14713
+S
+
+#14724
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14725
+D3
+~
+~
+0 -1 14723
+D4
+~
+~
+0 -1 14734
+D5
+~
+~
+0 -1 14714
+S
+
+#14725
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14726
+D2
+~
+~
+0 -1 14724
+D4
+~
+~
+0 -1 14735
+D5
+~
+~
+0 -1 14715
+S
+
+#14726
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D2
+~
+~
+0 -1 14725
+D3
+~
+~
+0 -1 14727
+D4
+~
+~
+0 -1 14736
+D5
+~
+~
+0 -1 14716
+S
+
+#14727
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14726
+D3
+~
+~
+0 -1 14728
+D4
+~
+~
+0 -1 14737
+D5
+~
+~
+0 -1 14717
+S
+
+#14728
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14727
+D2
+~
+~
+0 -1 14729
+D4
+~
+~
+0 -1 14738
+D5
+~
+~
+0 -1 14718
+S
+
+#14729
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14728
+D2
+~
+~
+0 -1 14730
+D4
+~
+~
+0 -1 14739
+D5
+~
+~
+0 -1 14719
+S
+
+#14730
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14729
+D1
+~
+~
+0 -1 14723
+D4
+~
+~
+0 -1 14740
+D5
+~
+~
+0 -1 14720
+S
+
+#14732
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14733
+D5
+~
+~
+0 -1 14722
+S
+
+#14733
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14780
+D1
+~
+~
+0 -1 14734
+D3
+~
+~
+0 -1 14740
+D5
+~
+~
+0 -1 14723
+S
+
+#14734
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14735
+D3
+~
+~
+0 -1 14733
+D5
+~
+~
+0 -1 14724
+S
+
+#14735
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14736
+D2
+~
+~
+0 -1 14734
+D3
+~
+~
+0 -1 14780
+D5
+~
+~
+0 -1 14725
+S
+
+#14736
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D2
+~
+~
+0 -1 14735
+D3
+~
+~
+0 -1 14737
+D5
+~
+~
+0 -1 14726
+S
+
+#14737
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14736
+D2
+~
+~
+0 -1 14780
+D3
+~
+~
+0 -1 14738
+D5
+~
+~
+0 -1 14727
+S
+
+#14738
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14737
+D2
+~
+~
+0 -1 14739
+D5
+~
+~
+0 -1 14728
+S
+
+#14739
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14738
+D1
+~
+~
+0 -1 14780
+D2
+~
+~
+0 -1 14740
+D5
+~
+~
+0 -1 14729
+S
+
+#14740
+{W-<{BIn the Mist{W>-{x~
+{DVisibility is very limited as the mist is especially dense in this
+particular area.  Occasionally, the tower can be seen through this unusually
+thick cloud, but disappears from sight just as quickly as it appeared. 
+Other than a seemingly endless tunnel of mist, nothing significant can be
+seen.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14739
+D1
+~
+~
+0 -1 14733
+D5
+~
+~
+0 -1 14730
+S
+
+#14741
+{W-<{BThe Entrance{W>-{x~
+{DThis is the entrance of the dark tower, shrouded in both a mist and
+mystery.  Another door lies to the north , leading to the heart of the
+tower.  This room is simple and lacks any kind of furnishings.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14742
+D2
+~
+~
+0 -1 14703
+S
+
+#14742
+{W-<{BHallway{W>-{x~
+{DThis is the main hallyway of the tower.  It seems rather large compared
+to the small appearance from the outside.  The floor is polished black
+marble with red veins.  The walls are made with some strange smooth black
+rock substance, and the ceiling is lost in the darkness.  There is a doorway
+to the east and another to the west.  The hallway continues to the north and
+seems to open out into a large room.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14743
+D1
+~
+~
+0 -1 14744
+D2
+~
+~
+0 -1 14741
+D3
+~
+~
+0 -1 14745
+S
+
+#14743
+{W-<{BAudience Chamber{W>-{x~
+{DThis is the audience chamber of the tower.  Marble columns support a
+ceiling that cannot be seen in the darkness.  At the far end of the room, a
+large stone chair, containing carved skulls decorating it draws your
+attention.  The walls are covered with strange tapestries that seem to have
+a life of their own.  Each tapestry shows seens of great mages overcoming
+powerful foes with equally great magic.  {x 
+~
+0 0
+D2
+~
+~
+0 -1 14742
+S
+
+#14744
+{W-<{BStairwell{W>-{x~
+{DThe dominant feature of this room is a large circular stairway, leading
+up into the tower.  Each stair is made of some strange red stone, which has
+been sanded smooth to a mirror life finish.  Pictures on the walls depict
+powerful looking figures dressed in robes and holding glowing staffs, rods
+and wands.  {x 
+~
+0 0
+D3
+~
+~
+0 -1 14742
+D4
+~
+~
+0 -1 14750
+S
+
+#14745
+{W-<{BCloakroom{W>-{x~
+{DThis large room lies just west of the hallway.  Numerous pegs line the
+walls, so cloaks can be hung in here.  There are many fine ceremonial robes
+hanging from the pegs, obviously travelling cloaks are exchanged for a
+these.  A small passageway leads to the north.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14746
+D1
+~
+~
+0 -1 14742
+S
+
+#14746
+{W-<{BKitchen{W>-{x~
+{DThis room appears to be some sort of kitchen.  Large tables lie
+scattered about the walls, and a huge firepit lies in the center of the
+floor.  Sacks and barrels are neatly stored under the tables, while food
+scraps litter the tabletops.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14747
+D2
+~
+~
+0 -1 14745
+S
+
+#14747
+{W-<{BStoreroom{W>-{x~
+{DThis huge room is packed with barrels, crates, boxs and sacks.  The
+smell of salt is strong, suggesting that many of the barrels are filled with
+salted meats and vegetables.  Most of the fresh produce lie about with
+little semblance of order: carrots, turnips, potatoes, raddish, sugar beet,
+oats, tomatoes, apples, pears, oranges, beans, peas, cucumber, lemons,
+lettuce, celery, cabbage, onions, ginger, mint, and many others.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14748
+D2
+~
+~
+0 -1 14746
+S
+
+#14748
+{W-<{BStables{W>-{x~
+{DA large stable is located here.  Huge stalls on each side provide
+housing for any type of beast that may be kept here.  A solid door to the
+north leads to the courtyard, while the south passageway into a storeroom. 
+{x 
+~
+0 0
+D0
+~
+~
+0 -1 14707
+D2
+~
+~
+0 -1 14747
+S
+
+#14750
+{W-<{BGuardroom{W>-{x~
+{DThis room is a complete optical illusion.  At first, it appears to be a
+gigantic arena, where walls and ceiling cannot be seen.  However, there are
+many mirrors in the room that reflect an artificial light to make this plain
+room seem enormous.  {x 
+~
+0 0
+D3
+~
+~
+0 -1 14751
+D5
+~
+~
+0 -1 14744
+S
+
+#14751
+{W-<{BCentral Room{W>-{x~
+{DThis large chamber has rooms branching off in all directions.  Heads of
+exotic beasts adorne the walls.  Displays of more common but still powerful
+beasts are situated around the walls.  A massive statue of a fire giant with
+a plaque stands in the centre of the chamber.  Some of the displays include
+a Beholder, an imp, a devil-like creature, a angleic being, and a gargoyle. 
+The most interesting display is a strange shadowy being held inside a magic
+circle.  Wards surround the circle to keep other creatures from interfering
+with its magic.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14752
+D1
+~
+~
+0 -1 14750
+D2
+~
+~
+0 -1 14753
+D3
+~
+~
+0 -1 14754
+S
+
+#14752
+{W-<{BCorridor{W>-{x~
+{DThis rather plain corridor gooes north and south.  A few abstract
+paintings are hung on the walls.  The floor, walls and ceiling all seem to
+to be of the strange smooth dark substance, which is common in this place. 
+{x 
+~
+0 0
+D0
+~
+~
+0 -1 14755
+D1
+~
+~
+0 -1 14756
+D2
+~
+~
+0 -1 14751
+D3
+~
+~
+0 -1 14757
+S
+
+#14753
+{W-<{BWorkshop{W>-{x~
+{DThis huge room serves as a workshop for the apprentices.  Large
+workbenches are arranged around the room.  Each bench is cluttered with all
+manner of junk such as test tubes, beakers, stands, burners, conical flasks,
+round flasks, square flasks etc.  The exit to the central room is to the
+north.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14751
+S
+
+#14754
+{W-<{BStairwell{W>-{x~
+{DThis room is dominated by a large circular stairway, leading up. 
+Carpets litter the floor, while paintings of weird scenes adorn the walls. 
+The exit back to the main hall is to the east.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14751
+D4
+~
+~
+0 -1 14760
+S
+
+#14755
+{W-<{BApprentice Room{W>-{x~
+{DThis small is is sparsely furnished.  A bookshelf occupies the north
+wall, and is filled with books.  A bed lies against the east wall, neatly
+made as if it was never used.  The floor has several rugs, which are
+scattered about the floor.  Each one seems to be made out of the skin of
+some unknown beast.  {x {x 
+~
+0 0
+D2
+~
+~
+0 -1 14752
+S
+
+#14756
+{W-<{BApprentice Room{W>-{x~
+{DThis small is is sparsely furnished.  A bookshelf occupies the north
+wall, and is filled with books.  A bed lies against the east wall, neatly
+made as if it was never used.  The floor has several rugs, which are
+scattered about the floor.  Each one seems to be made out of the skin of
+some unknown beast.  {x {x 
+~
+0 0
+D3
+~
+~
+0 -1 14752
+S
+
+#14757
+{W-<{BSmall Library{W>-{x~
+{DThis is a rather small library for a tower of spellcasters. 
+Bookshelves occupy all the available wallspace, and a large reading table is
+in the center of the room.  The books all seem to be of fairly basic nature,
+the titles appear to be in strange languages.  The exit back to the corridor
+is east.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14752
+S
+
+#14760
+{W-<{BGuardroom{W>-{x~
+{DThis seems to be some sort of guardroom.  A stairway leads down, and
+another exit is to the east.  This room has no furnishings at all.  The
+walls, floor and ceiling are all bare.  The enchanted weapons that are
+locked in an indestructible case, and the damaged walls hint that this room
+is used mainly for fighting.  {x 
+~
+0 0
+D1
+~
+~
+0 -1 14761
+D5
+~
+~
+0 -1 14754
+S
+
+#14761
+{W-<{BMain Workshop{W>-{x~
+{DThis huge room is surely too large to fit within the tower.  Tables,
+benches, shelves and stands are all ladden with beakers, flasks, cages,
+jars, bottles, rocks, bags, boxes, books, manuels, tomes and scrolls.  This
+place is a mess.  Various jobs seem to be all in a state of semi-completion.
+Vaguely humaniod shapes moulded out of various substances stand half done. 
+Large barrels, that serve as garbage bins, lie turned over.  One must wonder
+how anyone can safely navigate through this dangerous room.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14762
+D1
+~
+~
+0 -1 14763
+D2
+~
+~
+0 -1 14764
+D3
+~
+~
+0 -1 14760
+S
+
+#14762
+{W-<{BStoreroom{W>-{x~
+{DThis room is cluttered with anything that couldn't fit in a laboratory,
+or wasn't needed for immediate use.  Although this room is jammed with gear,
+one can notice a semblance of order, and that the room is unusually clean. 
+{x like that present here but you can't work it out.  
+~
+0 0
+D2
+~
+~
+0 -1 14761
+S
+
+#14763
+{W-<{BStairwell{W>-{x~
+{DThis is yet another large room, containing a large circular stairway in
+the center.  The decorations here are more costly and elaborate.  There is
+rich red carpet on the floor, and it also goes up the steps, which use
+beautiful mahogany bannisters for support.  Incredible tapestries play out
+illusionary scenes of epic magical battles.  {x 
+~
+0 0
+D3
+~
+~
+0 -1 14761
+D4
+~
+~
+0 -1 14770
+S
+
+#14764
+{W-<{BCorridor{W>-{x~
+{D This short corridor is richly furnished with rare and expensive items.
+Beautiful red carpet adorns the floor, while the walls are completely
+covered by a large mirror.  This gives the illusion that this room has no
+limit to its width.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14761
+D1
+~
+~
+0 -1 14765
+D2
+~
+~
+0 -1 14766
+D3
+~
+~
+0 -1 14767
+S
+
+#14765
+{W-<{BApprentice Room{W>-{x~
+{DThis small is is sparsely furnished.  A bookshelf occupies the north
+wall, and is filled with books.  A bed lies against the east wall, neatly
+made as if it was never used.  The floor has several rugs, which are
+scattered about the floor.  Each one seems to be made out of the skin of
+some unknown beast.  {x {x 
+~
+0 0
+D3
+~
+~
+0 -1 14764
+S
+
+#14766
+{W-<{BCage Room{W>-{x~
+{DThis gigantic cage is able to contain all manners of weird and
+wonderful beasts, ranging from simple mice to gruesome monsters from other
+planes.  This is most likely the place where spellcasters dump or pick up
+new specimens, so that they can continue with their strange experiments.  {x
+~
+0 0
+D0
+~
+~
+0 -1 14764
+S
+
+#14767
+{W-<{BApprentice Room{W>-{x~
+{DThis small is is sparsely furnished.  A bookshelf occupies the north
+wall, and is filled with books.  A bed lies against the west wall, neatly
+made as if it was never used.  The floor has several rugs, which are
+scattered about the floor.  Each one seems to be made out of the skin of
+some unknown beast.  {x {x 
+~
+0 0
+D1
+~
+~
+0 -1 14764
+S
+
+#14770
+{W-<{BGuardroom{W>-{x~
+{DThis room appears to be a simple guardrom.  No furniture is visible. 
+The walls, floors and ceiling are all bare.  A simple magical globe provides
+illumination.  {x 
+~
+0 0
+D3
+~
+~
+0 -1 14771
+D4
+~
+~
+0 -1 14780
+D5
+~
+~
+0 -1 14763
+S
+
+#14771
+{W-<{BMaster's Room{W>-{x~
+{D This is one of the more larger rooms in the tower.  It it furnished
+with only the most expensive, rare, and mystical relics and items.  If there
+isn't pure silk tapestry on the wall, then an exquisite piece of art hangs
+there instead.  A large opening leads to the north, and a small doorway lies
+to the south.  {x 
+~
+8192 0
+D0
+~
+~
+0 -1 14772
+D1
+~
+~
+0 -1 14770
+D2
+~
+~
+0 -1 14773
+S
+
+#14772
+{W-<{BMaster Library{W>-{x~
+{DThis huge room is packed with books.  Bookshelves line the walls, and
+stand in neat rows.  Reading tables are piled with books, while the
+bookshelves themselves look ready to burst.  There is a book on every
+imaginable topic, and then some.  Many of the books seem to be in strange
+languages.  One can only wonder what knowledge that contain.  {x 
+~
+0 0
+D2
+~
+~
+0 -1 14771
+S
+
+#14773
+{W-<{BMaster Bedroom{W>-{x~
+{DMuch like the Master's room, this bedroom defines luxury.  Beautiful
+rugs, curtains, and tapestries fill this stylish room.  A huge canopy bed,
+containing tyrian purple curtains, stands against the south wall.  {x 
+~
+0 0
+D0
+~
+~
+0 -1 14771
+S
+
+#14780
+{W-<{BTop of the Tower{W>-{x~
+{DHere lies the roof of this huge tower.  A six foot high battlement runs
+around the edge.  The entire countryside beyond the wall can be seen clearly
+from here.  To the west is the city of Midgaard, and the city of New Thalos
+can be seen far east.  A land that seems to be experiencing conflicting
+elements can be seen south, while a great plain is visible to the northwest.
+{x {x {x {x {x 
+~
+0 0
+D0
+~
+~
+0 -1 14737
+D1
+~
+~
+0 -1 14735
+D2
+~
+~
+0 -1 14733
+D3
+~
+~
+0 -1 14739
+D5
+~
+~
+0 -1 14770
+S
+#0
+
+#SPECIALS
+M 14708 spec_cast_mage
+S
+
+#RESETS
+M 100 14701 10 14703 1
+M 100 14702 20 14705 1
+M 100 14702 20 14705 1
+M 100 14701 10 14707 1
+G 100 14716 0
+M 100 14702 20 14708 1
+M 100 14702 20 14709 1
+M 100 14702 20 14709 1
+M 100 14701 10 14742 1
+M 100 14701 10 14743 1
+M 100 14702 20 14743 1
+M 100 14702 20 14743 1
+M 100 14705 5 14743 1
+M 100 14702 20 14744 1
+E 100 14729 0 1
+E 100 14728 0 20
+E 100 14727 0 6
+E 100 14726 0 5
+E 100 14725 0 8
+M 100 14701 10 14745 1
+E 100 14742 0 24
+E 100 14741 0 1
+M 100 14701 10 14747 1
+E 100 14742 0 24
+E 100 14744 0 13
+E 100 14743 0 9
+E 100 14741 0 1
+E 100 14740 0 0
+M 100 14702 20 14747 1
+M 100 14702 20 14748 1
+M 100 14702 20 14748 1
+M 100 14703 10 14750 1
+M 100 14703 10 14750 1
+M 100 14702 20 14751 1
+G 100 14717 0
+M 100 14703 10 14751 1
+M 100 14705 5 14751 1
+E 100 14736 0 5
+E 100 14739 0 12
+E 100 14738 0 0
+M 100 14707 5 14751 1
+E 100 14714 0 17
+E 100 14705 0 16
+E 100 14704 0 8
+E 100 14703 0 6
+E 100 14702 0 3
+E 100 14701 0 5
+M 100 14703 10 14752 1
+M 100 14703 10 14752 1
+M 100 14702 20 14753 1
+M 100 14702 20 14754 1
+M 100 14702 20 14754 1
+M 100 14703 10 14754 1
+E 100 14734 0 14
+E 100 14733 0 11
+E 100 14732 0 8
+E 100 14731 0 17
+E 100 14730 0 1
+M 100 14707 5 14756 1
+E 100 14701 0 5
+E 100 14702 0 3
+E 100 14703 0 6
+E 100 14704 0 8
+E 100 14705 0 16
+E 100 14713 0 17
+M 100 14703 10 14760 1
+E 100 14730 0 1
+E 100 14734 0 14
+M 100 14703 10 14761 1
+G 100 14718 0
+M 100 14704 3 14761 1
+E 100 14749 0 6
+E 100 14748 0 1
+E 100 14747 0 17
+E 100 14746 0 3
+E 100 14745 0 12
+M 100 14705 5 14761 1
+E 100 14739 0 12
+E 100 14738 0 0
+E 100 14737 0 18
+E 100 14736 0 5
+E 100 14735 0 17
+M 100 14707 5 14761 1
+E 100 14715 0 17
+E 100 14705 0 16
+E 100 14704 0 8
+E 100 14703 0 6
+E 100 14702 0 3
+E 100 14701 0 5
+M 100 14704 3 14762 1
+M 100 14704 3 14763 1
+E 100 14748 0 1
+E 100 14746 0 3
+M 100 14707 5 14765 1
+E 100 14701 0 5
+E 100 14702 0 3
+E 100 14703 0 6
+E 100 14704 0 8
+E 100 14705 0 16
+M 100 14707 5 14767 1
+E 100 14701 0 5
+E 100 14702 0 3
+E 100 14703 0 6
+E 100 14704 0 8
+E 100 14705 0 16
+E 100 14712 0 17
+M 100 14706 12 14771 1
+E 100 14750 0 3
+G 100 14719 0
+E 100 14722 0 14
+E 100 14724 0 1
+M 100 14706 12 14772 1
+E 100 14750 0 3
+E 100 14720 0 0
+E 100 14722 0 14
+E 100 14723 0 12
+E 100 14724 0 1
+M 100 14708 1 14772 1
+E 100 14711 0 16
+E 100 14710 0 8
+E 100 14709 0 6
+E 100 14708 0 10
+E 100 14707 0 5
+E 100 14706 0 3
+O 100 14721 0 14772
+S
+
+#$

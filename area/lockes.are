@@ -1,0 +1,1272 @@
+#AOD_AREA
+Locke's Old Midgaard Ruins~
+70000 70099 0 1
+Levl 0 0
+Bldr Locke~
+Alig N
+End
+
+#MOBILES
+#70034
+mutant beastly fido beast dog~
+a mutant beastly fido~
+A mutant beastly fido is stalking the halls of its lair.
+~
+Obviously the descendant from the old beastly fidos of days of
+yore, this mutation is fierce!  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+CDFGHR 0 0 0 0
+19 0 0 80 200 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+E 200
+F 1
+P 37 0
+
+#70035
+beast fido mommy mother~
+a beastly fido mommy~
+A mother fido is spewing out little fidos.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+30 0 0 80 120 0 0 0 0 0 none
+0 0 0 0
+RESTING STANDING neutral 0
+0 mage giant ABCDEFGHIJK
+E 120
+F 1
+P 6 0
+#0
+
+#OBJECTS
+#70000
+no name~
+(no short description)~
+(no description)~
+trash 0 0
+0 0 0 0 0
+0 0 0
+
+#70001
+hole~
+a hole in the shattered stone floor~
+There is a hole in the floor which leads to a lower cavern.~
+portal OX 0
+0 0 0 70002 0
+0 9999 0
+
+#70002
+scroll case~
+a scroll case~
+A scroll case for carrying scrolls has been discarded.~
+container 0 ACO
+999999 A 0 999999 0
+0 0 0
+
+#70034
+blood-filled tooth blood~
+a blood-filled tooth of a beastly fido~
+A blood-filled tooth of a beasty fido is here.~
+potion 0 A
+999 'heal' 'bloodbath' 'conjure' 'fly'
+10 1 100
+
+#70062
+flowing water pipe~
+a flowing water pipe~
+A flowing water pipe can fill a bucket or be drank from.~
+fountain 0 0
+10000 10000 'water' 0 0
+0 0 0
+
+#70065
+water pail~
+a water pail~
+Someone has left a pail of water here.~
+drinkcontainer 0 A
+100 90 'water' 0 0
+0 2 0
+#0
+
+#ROOMS
+#70000
+The Dark Sewer~
+A dark sewer under New Midgaard.  Above you a ladder leads to the surface.
+~
+8 0
+D0
+~
+~
+0 0 70001
+D4
+~
+~
+0 0 3025
+S
+
+#70001
+A Dank Tunnel~
+The stones are old here, worn by running water.  A thick and rich
+moss covers the walls, it is black and requires no light to grow.
+The moss has deteriorated the tunnel in places.  
+~
+8 0
+D2
+~
+~
+0 0 70000
+S
+
+#70002
+An Unearthed Cavern~
+You are standing on a pile of stones that has fallen in from the
+cavern above.  
+~
+0 0
+D0
+~
+~
+0 0 70003
+D4
+~
+~
+0 0 70001
+S
+
+#70003
+The Rune-Covered Cavern~
+Runes adorn the walls of this ancient cavern, buried deep beneath
+New Midgaard.  It is very possible the architects of the new city
+have inadvertantly buried all of the old temple and its surrounding
+city here!  You wonder what you will find down here...  
+~
+8 0
+D0
+~
+~
+0 0 70004
+D2
+~
+~
+0 0 70002
+S
+
+#70004
+Buried Temple Basement~
+You've made your way through the buried ruins of Midgaard to what
+appears to be the old temple basement.  The cave-in that buried
+the temple above this chamber presses down leaving only a narrow
+crevice through which you can see a tunnel to the south.  East
+of here is an anteroom, smelling heavily of a musty dampness. 
+
+~
+8 0
+D1
+~
+~
+0 0 70005
+D2
+~
+~
+0 0 70003
+S
+
+#70005
+Old Cleric's Guild~
+You're standing in the old Cleric's Guild, or at least what remains
+of it, a long-forgotten antechamber to the now-defunct Temple of
+Midgaard.  The guild entrance has crumbled and it seems that the
+areas deeper into the guild are all collapsed.
+~
+8 0
+D3
+~
+~
+0 0 70008
+D5
+~
+grating~
+AB 0 70006
+S
+
+#70006
+Catacombs of the Old Cleric's Guild of Midgaard~
+~
+8 0
+D1
+~
+~
+0 0 70011
+D2
+~
+~
+0 0 70012
+D3
+~
+~
+0 0 70013
+D4
+~
+grating~
+AB 0 70005
+S
+
+#70007
+An Ancient Catacomb~
+You are in the ancient catacombs of the Old Midgaard Cleric's Guild.
+Skeletal remains are laid to rest inside the walls.  Most are picked
+clean.  You also see the skulls of all the ancient Midgaardians
+set upon each other in a pyramind inside alcoves on each side of
+the corridor.  You are in the ancient catacombs of the Old Midgaard
+Cleric's Guild.  Skeletal remains are laid to rest inside the walls.
+Most are picked clean.  You also see the skulls of all the ancient
+Midgaardians set upon each other in a pyramind inside alcoves on
+each side of the corridor.  You are in the ancient catacombs of
+the Old Midgaard Cleric's Guild.  Skeletal remains are laid to
+rest inside the walls.  Most are picked clean.  You also see the
+skulls of all the ancient Midgaardians set upon each other in a
+pyramind inside alcoves on each side of the corridor.  
+~
+0 0
+D0
+~
+~
+0 0 70009
+D2
+~
+~
+0 0 70010
+S
+
+#70008
+~
+~
+8 0
+D1
+~
+~
+0 0 70005
+S
+
+#70009
+~
+~
+0 0
+D2
+~
+~
+0 0 70007
+S
+
+#70010
+~
+~
+0 0
+D0
+~
+~
+0 0 70007
+S
+
+#70011
+Catacombs of the Old Cleric's Guild of Midgaard~
+~
+8 0
+D1
+~
+~
+0 0 70020
+D3
+~
+~
+0 0 70006
+S
+
+#70012
+Anteroom in the Old Cleric's Guild~
+~
+0 0
+D0
+~
+~
+0 0 70006
+S
+
+#70013
+Catacombs of the Old Cleric's Guild of Midgaard~
+~
+8 0
+D0
+~
+~
+0 0 70014
+D1
+~
+~
+0 0 70006
+D2
+~
+~
+0 0 70015
+D3
+~
+~
+0 0 70016
+S
+
+#70014
+Catacombs of the Old Cleric's Guild of Midgaard~
+~
+8 0
+D0
+~
+~
+0 0 70017
+D1
+~
+~
+0 0 70018
+D2
+~
+~
+0 0 70013
+D3
+~
+~
+0 0 70019
+S
+
+#70015
+Catacombs of the Old Cleric's Guild of Midgaard~
+~
+8 0
+D0
+~
+~
+0 0 70013
+S
+
+#70016
+Catacombs of the Old Cleric's Guild of Midgaard~
+~
+8 0
+D1
+~
+~
+0 0 70013
+S
+
+#70017
+Forgotten Storeroom~
+This room is a forgotten store-room buried deep beneath what is
+now known as New Midgaard.  
+~
+8 0
+D2
+~
+~
+0 0 70014
+S
+
+#70018
+Catacomb Anteroom~
+~
+8 0
+D3
+~
+~
+0 0 70014
+S
+
+#70019
+~
+~
+8 0
+D1
+~
+~
+0 0 70014
+S
+
+#70020
+Long Tunnel~
+~
+8 0
+D1
+~
+~
+0 0 70021
+D3
+~
+~
+0 0 70011
+S
+
+#70021
+Long Tunnel~
+~
+8 0
+D1
+~
+~
+0 0 70022
+D3
+~
+~
+0 0 70020
+S
+
+#70022
+Long Tunnel~
+~
+8 0
+D1
+~
+~
+0 0 70023
+D3
+~
+~
+0 0 70021
+S
+
+#70023
+Long Tunnel~
+~
+8 0
+D1
+~
+~
+0 0 70024
+D3
+~
+~
+0 0 70022
+S
+
+#70024
+Long Tunnel~
+~
+8 0
+D1
+~
+~
+0 0 70025
+D3
+~
+~
+0 0 70023
+S
+
+#70025
+Long Tunnel~
+~
+8 0
+D1
+~
+~
+0 0 70026
+D3
+~
+~
+0 0 70024
+S
+
+#70026
+Partially-Collapsed Tunnel~
+A huge hole in the ground has collapsed revealing yet another network
+of tunnels below this one.  
+~
+8 0
+D1
+~
+~
+0 0 70027
+D3
+~
+~
+0 0 70025
+D5
+~
+~
+0 0 70030
+S
+
+#70027
+Long Tunnel~
+~
+8 0
+D1
+~
+~
+0 0 70028
+D3
+~
+~
+0 0 70026
+S
+
+#70028
+Long Tunnel~
+~
+8 0
+D1
+~
+~
+0 0 70029
+D3
+~
+~
+0 0 70027
+S
+
+#70029
+Large Chamber~
+You can tell this used to be the basement room of a tall tower,
+probably Old Midgaard's northeast gaurd watchtower, now buried
+hundreds of meters below the surface.  
+~
+8 0
+D3
+~
+~
+0 0 70028
+D4
+~
+trapdoor~
+AB 0 70052
+S
+
+#70030
+Sewers of Old Midgaard~
+Judging by the etchings on the wall, you're in the original Midgaard
+sewer system that once carried waste from the old city.  
+~
+8 0
+D0
+~
+~
+0 0 70031
+D1
+~
+~
+0 0 70033
+D2
+~
+~
+0 0 70032
+D4
+~
+~
+0 0 70026
+S
+
+#70031
+Clogged Pipe~
+The sewer pipe has been completely filled with debris.  To the
+south is back where you came from.  
+~
+8 0
+D2
+~
+~
+0 0 70030
+S
+
+#70032
+Junction of Dry Pipes~
+You have both your feet planted firmly on the ground.  It isn't
+the ground that's wrong it's the smell, the sounds, the total darkness
+that surrounds you.  Everything here is so depressing.  The pipe
+leads on with a trail of thick mud to the north, east and south.
+
+~
+8 0
+D0
+~
+~
+0 0 70030
+D1
+~
+~
+0 0 70036
+D2
+~
+~
+0 0 70034
+S
+
+#70033
+Cave-In~
+The sewers pipe has been completely filled with collapsing debris.
+To the west is back where you came from.  
+~
+8 0
+D3
+~
+~
+0 0 70030
+S
+
+#70034
+T-Junction in Midgaard's Old Sewers~
+You are standing in the middle of a bend of the sewer pipe.  It
+is very dark around here and the mud is sticking to your legs,
+not very pleasant.  The pipe leads north, east and south from here.
+
+~
+8 0
+D0
+~
+~
+0 0 70032
+D1
+~
+~
+0 0 70037
+D2
+~
+~
+0 0 70035
+S
+
+#70035
+Fido Breeding Ground~
+Oh my word!  Years of isolation has bred a population of fidos
+never before seen!  Obviously descended from whatever beastly fidos
+were here when the renovations occurred, these fidos have been
+interbreeding for decades lost beneath New Midgaard.  Who knows
+what mutations they have..  ugh!  This seems to be where they have
+been incubating.  
+~
+8 0
+D0
+~
+~
+0 0 70034
+S
+
+#70036
+Dry Dead End in Old Midgaard Sewers~
+Well, you've come to the dry dead end in the sewers.  It's probably
+best to head back, since there's nothing of interest here.  
+~
+8 0
+D3
+~
+~
+0 0 70032
+S
+
+#70037
+Defunct Midgaard Sewers~
+You wouldn't want to know the true feeling of standing in this
+mud up to your hips.  >BWAADR<.  All that fills your mind right
+now is the dream of a hot bath.  This is NOT very clean mud you
+know, remember you're in the sewer!  The pipes leads west and east.
+
+~
+8 0
+D1
+~
+~
+0 0 70038
+D3
+~
+~
+0 0 70034
+S
+
+#70038
+T-Junction of Old Midgaard Sewers~
+You stand in the middle of a huge junction of sewer pipes right
+under what you'd think was an air shaft.  The sewer pipes lead
+to the north, south and west.  It look quite impossible to force
+your way up.  
+~
+9 0
+D0
+~
+~
+0 0 70039
+D2
+~
+~
+0 0 70040
+D3
+~
+~
+0 0 70037
+S
+
+#70039
+Meeting of Old Pipes~
+You are in a passageway in the pipes of the sewer system leading
+north, east and south.  
+~
+1 0
+D0
+~
+~
+0 0 70044
+D1
+~
+~
+0 0 70043
+D2
+~
+~
+0 0 70038
+S
+
+#70040
+Defunct Sewer Junction~
+You have both your feet safely stuck in mud.  It isn't the mud
+that's wrong it's the smell, the sounds, the total darkness that
+surrounds you.  Everything here is so depressing.  The pipe leads
+on with a trail of thick mud to the north, east and west.  
+~
+9 0
+D0
+~
+~
+0 0 70038
+D1
+~
+~
+0 0 70041
+D3
+~
+~
+0 0 70042
+S
+
+#70041
+Sewer Falloff~
+You are standing by the edge of a deep, dark shaft leading down.
+A single ladder is your tool to work your way down if you so wish.
+The sewer pipe leads west from here.  
+~
+9 0
+D3
+~
+~
+0 0 70040
+D5
+~
+~
+0 0 70051
+S
+
+#70042
+Old Sewer Pipe~
+You are standing in the middle of a bend of the sewer pipe.  It
+is very dark around here and the mud is sticking to your legs,
+not very pleasant.  The pipe leads east and south from here.  
+~
+9 0
+D1
+~
+~
+0 0 70040
+D4
+~
+~
+0 0 70046
+S
+
+#70043
+Cave-In~
+This pipe has been filled by a cave-in.  To the west is from whence
+you came.  
+~
+1 0
+D3
+~
+~
+0 0 70039
+S
+
+#70044
+Defunct Midgaard Sewage Pipe~
+You stand in the middle of a pipe that leads from north to south.
+Above you an air shaft leads up into sunlight.  It seems totally
+impossible to go up that way.  
+~
+1 0
+D0
+~
+~
+0 0 70045
+D2
+~
+~
+0 0 70039
+S
+
+#70045
+Dry Well of Old Midgaard~
+You are standing by an old and worn well from before this century.
+The sewer leads to the south from here and the well leads down
+into darkness.  Metal bars have rusted away where they were once
+secured in the side of the well leading down.  You can see a few
+notches to hang a grapple.  Unfortunately, the well is full of
+debris and cannot be traversed.  
+~
+1 0
+D2
+~
+~
+0 0 70044
+S
+
+#70046
+Buried Streets of Old Midgaard~
+~
+0 0
+D0
+~
+~
+0 0 70050
+D1
+~
+~
+0 0 70047
+D2
+~
+~
+0 0 70049
+D3
+~
+~
+0 0 70048
+D5
+~
+~
+0 0 70042
+S
+
+#70047
+Buried Gatehouse of Old Midgaard~
+~
+0 0
+D3
+~
+~
+0 0 70046
+S
+
+#70048
+Buried Market Square of Old Midgaard~
+~
+0 0
+D1
+~
+~
+0 0 70046
+D3
+~
+~
+0 0 70053
+S
+
+#70049
+Old Midgaard Mayer's Office~
+~
+0 0
+D0
+~
+~
+0 0 70046
+S
+
+#70050
+Buried Weapon Shoppe~
+~
+0 0
+D2
+~
+~
+0 0 70046
+S
+
+#70051
+Climbing Down a Long Shaft~
+You're working your way down a long dark shaft deep below the surface.
+All around you is darkness and the sound of dripping water.  A
+cold air rushes up from below, indicative that there is another
+way out somewhere down there.  
+~
+9 0
+D4
+~
+~
+0 0 70041
+D5
+~
+~
+0 0 70054
+S
+
+#70052
+Buried Tower - First Floor~
+Unfortunately the top two levels of the tower have been completely
+demolished, leaving this pocket of history for those who wish to
+travel this deep.  A few affects remain from the old days, when
+guards lived in the tower and kept watch over the city.  
+~
+8 0
+D5
+~
+trapdoor~
+AB 0 70029
+S
+
+#70053
+Buried Main Street of Old Midgaard~
+~
+0 0
+D1
+~
+~
+0 0 70048
+S
+
+#70054
+On a Ladder in a Long Dark Shaft~
+You're working your way down a long dark shaft deep below the surface.
+All around you is darkness and the sound of dripping water.  A
+cold air rushes up from below, indicative that there is another
+way out somewhere down there.  You can see a small carving on the
+wall.  
+~
+9 0
+D4
+~
+~
+0 0 70051
+D5
+~
+~
+0 0 70055
+E
+carving~
+Locke was here
+~
+S
+
+#70055
+Bottom of Shaft~
+You're in a deep tunnel located far below the surface.  A single
+ladder leads up alongside a rock ediface that forms the shaft's
+walls.  A smell wafts down from the air above you, reminding you
+of the sewers of Midgaard.  
+~
+9 0
+D1
+~
+~
+0 0 70056
+D4
+~
+~
+0 0 70054
+S
+
+#70056
+Obsidian Tunnel~
+The walls are made from volcanic glass formed years ago when Midgaard's
+nearby Redferne Mountains were still active volcanic sites.  The
+obsidian is cloudy, which indicates that it is impure and probably
+contains vaporized matter from burning debris it passed through
+before forming.  You're fairly certain a huge body of water is
+nearby, not only due to the trickling stream passing through the
+tunnel, but also because water is required to form obsidian glass.
+
+~
+9 0
+D1
+~
+~
+0 0 70057
+D3
+~
+~
+0 0 70055
+S
+
+#70057
+Obsidian Tunnel~
+The walls are made from volcanic glass formed years ago when Midgaard's
+nearby Redferne Mountains were still active volcanic sites.  The
+obsidian is cloudy, which indicates that it is impure and probably
+contains vaporized matter from burning debris it passed through
+before forming.  You're fairly certain a huge body of water is
+nearby, not only due to the trickling stream passing through the
+tunnel, but also because water is required to form obsidian glass.
+
+~
+9 0
+D1
+~
+~
+0 0 70059
+D3
+~
+~
+0 0 70056
+S
+
+#70059
+Obsidian Chamber~
+You're in a massive obsidian chamber that formed when an underground
+lake interacted with a flow of volcanic material from a nearby
+volcano.  Millions of years ago this chamber was full of water
+and then steam as the magma bubbled and formed this cave.  To the
+west, a tunnel leads back along a trickling stream.  You can see,
+in the distance, the bottom of a ladder illuminated with light
+from above.  A small waterfall empties the stream into a lower
+chamber, accessible by climbing some smooth rocks down further.
+
+~
+9 0
+D3
+~
+~
+0 0 70057
+D5
+~
+~
+0 0 70060
+S
+
+#70060
+Underground Stream~
+A small waterfall trickles into a large pool of water, along which
+a ledge allows you access to the tunnel to the east.  Above you
+is a hollow chamber, accessible by climbing some smooth rocks.
+
+~
+9 0
+D1
+~
+~
+0 0 70061
+D4
+~
+~
+0 0 70059
+S
+
+#70061
+Underground Waterway~
+This subterranean channel has cut the rock such that you can access
+the tunnel via a ledge on either side.  To the east, however, you
+can see some signs of civilization, as the tunnel turns into a
+formal pipe.  To the west you hear the sound of trickling water.
+
+~
+9 0
+D1
+~
+~
+0 0 70062
+D3
+~
+~
+0 0 70060
+S
+
+#70062
+Forced Water Channel~
+Someone has built a tunnel and related causeway to redirect the
+underground water through a forced channel.  Instead of flowing
+east naturally, the water flows south, almost completely filling
+the pipe, which is too small for you to crawl through.  However,
+what remains of the water's original path is now a dry tunnel leading
+east.  
+~
+9 0
+D1
+~
+~
+0 0 70065
+D3
+~
+~
+0 0 70061
+S
+
+#70063
+Makeshift Garterrobe~
+Gross - a disgusting testament to goblin values: a sticky, putrid
+and foul-smelling hole into which goblins have been defecating,
+probably for years.  Insects are crawling all over the walls here
+and by the looks of it they've been breeding here too.  Goblins
+probably snack on them from time to time while they do their nasty
+business.  
+~
+9 0
+D1
+~
+~
+0 0 70064
+S
+
+#70064
+Goblin Hideout~
+You're in a stinking goblin hideout.  Carved areas in the walls
+let those smelly creatures sleep.  Torn baskets and broken pots
+lie everywhere -- their spoils from banditry by preying on travelers.
+
+~
+0 0
+D0
+~
+~
+0 0 70067
+D3
+~
+~
+0 0 70063
+S
+
+#70065
+Limestone Cave~
+You're in a limestone cave.  You can hear water running nearby
+to the west.  To the east is darkness.  
+~
+1 0
+D1
+~
+~
+0 0 70066
+D3
+~
+~
+0 0 70062
+S
+
+#70066
+Narrowing Cave~
+The cave narrows here, and you can see by the shape of the walls
+that it was once cut by water flowing through this chamber.  To
+the east, the cave widens and you can see torchlight flickering
+on the walls.  To the west is darkness and the sound of running
+water.  
+~
+1 0
+D1
+~
+~
+0 0 70067
+D3
+~
+~
+0 0 70065
+S
+
+#70067
+Cave Intersection~
+You're at an intersection in the limestone cave.  Torchlight illuminates
+the walls here from sconces on either side of the chamber.  To
+the south is a wooden door fastened to the stone that leads to
+another room.  West of here, the cave continues.  To the east you
+can see faint daylight and smell fresh air.  You see familiar tracks
+in the ground indicating the presence of humanoids.  
+~
+0 0
+D1
+~
+~
+0 0 70068
+D2
+~
+~
+AB 0 70064
+D3
+~
+~
+0 0 70066
+S
+
+#70068
+Limestone Cave~
+You're in a limestone cave.  The floor and walls are dry but show
+signs that they have been cut by water.  To the west the cave goes
+deeper, and you can faintly make out light to the east.  
+~
+1 0
+D1
+~
+~
+0 0 70069
+D3
+~
+~
+0 0 70067
+S
+
+#70069
+Mossy Cave~
+This is a mossy limestone cave.  To the east, through some brush
+that hangss over the entrance, you can see the familiar forests
+of Miden'nir.  It's so familiar to you that you can almost smell
+a goblin.  The cave goes deeper to the west.  
+~
+8 0
+D1
+~
+~
+0 0 3509
+D3
+~
+~
+0 0 70068
+S
+#0
+
+#RESETS
+D 100 70005 5 1
+D 100 70006 4 1
+D 100 70029 4 1
+D 100 70052 5 1
+D 100 70067 2 1
+O 100 70001 0 70001
+M 100 70034 1 70030 1
+M 100 70034 1 70031 1
+M 100 70034 1 70032 1
+M 100 70034 1 70034 1
+M 100 70034 1 70034 1
+M 100 70035 1 70035 1
+M 100 70034 1 70036 1
+M 100 70034 1 70037 1
+M 100 70034 10 70038 1
+G 100 70034 0
+M 100 70034 1 70038 1
+M 100 70034 10 70039 1
+G 100 70034 0
+M 100 70034 1 70039 1
+M 100 70034 10 70040 1
+G 100 70034 0
+M 100 70034 1 70040 1
+M 100 70034 10 70044 1
+G 100 70034 0
+M 100 70034 1 70044 1
+M 100 70034 1 70045 1
+G 100 70034 0
+M 100 70034 10 70046 1
+M 100 70034 1 70046 1
+M 100 70034 1 70047 1
+M 100 70034 1 70048 1
+O 100 70062 0 70062
+O 100 70065 0 70065
+S
+
+#$

@@ -1,0 +1,2807 @@
+#AOD_AREA
+Land of Elementals~
+32300 32399 C 8
+Levl 101 101
+Bldr Alucard~
+Alig N
+End
+
+#MOBILES
+#32300
+boulder~
+a huge boulder~
+A huge boulder sits here about to crush you with its step.
+~
+The boulder is HUGE!! It stands 100 feet in the air ready to kill you with one step.
+~
+human~
+100 0 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BG d H 0 0
+85 10 0 2693 3210 0 0 35 35 35 none
+-60 -60 -60 -60
+STANDING STANDING neutral 133
+77 warrior medium ABCDEFGHIJK
+P 66 0
+
+#32301
+tree~
+a huge tree~
+A huge tree stands upright here swaying its branches.
+~
+Damn this is one tall tree.
+~
+human~
+100 0 100 100 100 0 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+BG d H 0 0
+83 20 0 2268 2908 0 0 30 30 30 none
+-50 -50 -50 -50
+STANDING STANDING neutral 321
+76 warrior huge ABCDEFGHIJK
+P 61 0
+
+#32302
+bunny rabbit~
+a small bunny rabbit~
+A small and tiny bunny rabbit hops around here trying to find a carrot.
+~
+A cute little bunny hops around here.
+~
+rabbit~
+100 100 50 100 50 100 100 100 100 150 100 100 100 100 100 100 100 100 50 100 100 100 150 100 100 100 
+BCG J 0 -1000 0
+89 34 0 2941 3720 0 0 35 35 35 none
+-50 -50 -50 -50
+STANDING STANDING random 325
+77 warrior tiny ACDEFHJK
+P 139 0
+
+#32303
+earth ruler~
+{GT{ghe {GE{garth{G R{guler{x~
+The {GE{garth {GR{guler{x stands here controlling all earth elementals.
+~
+You see the earth ruler, god of the earth elements.
+~
+titan~
+20 30 0 120 40 70 70 100 100 120 130 100 100 100 100 100 100 30 40 100 30 150 200 100 100 100 
+BDG Dac EH 0 0
+140 500 110 22001 22001 19295 23109 100 10 100 none
+-1000 -1000 -1000 -1000
+STANDING STANDING male 343
+80 wizard huge ABCDEFGHIJK
+P 219 2
+
+#32304
+water ruler~
+{BT{bhe {BW{bater{B R{buler{x~
+The {BW{bater {BR{buler{x stands here controlling all the water elementals.
+~
+You see the God of the water elements standing here.
+~
+titan~
+30 50 0 120 80 110 10 100 100 100 150 150 100 100 100 100 100 50 30 100 50 80 0 100 100 100 
+BDG DVac CH 1000 0
+130 388 0 12085 14698 13200 14732 40 38 300 none
+-675 -497 -672 -682
+STANDING STANDING male 8461
+84 sage huge ABCDEFGHIJK
+P 177 3
+
+#32305
+fire ruler~
+{RT{rhe{R F{rire{R R{ruler{x~
+The {RF{rire {RR{ruler{x stands here controlling all the fire elementals.
+~
+You see the God of fire elements standing here.
+~
+titan~
+80 70 0 150 100 20 0 100 100 50 50 150 100 100 100 100 100 100 100 70 100 100 200 100 100 100 
+BDG CDac DH 1000 0
+150 100 0 30001 30001 27419 31777 20 20 100 none
+-400 -400 -400 -400
+STANDING STANDING male 932
+90 warrior huge ABCDEFGHIJK
+P 99 2
+S 'circle' 100
+
+#32306
+elemental guardian gateway~
+{CT{che{x {CE{clemental{x {CG{cateway{x {CG{cuardian{x~
+The {CE{clemental {CG{cateway {CG{cuardian{x hovers here guarding the elemental gateway.
+~
+This guy is a tough looking guard.
+~
+titan~
+100 100 0 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BFG CDEFGTac K 1000 0
+160 475 0 15193 17777 14885 16540 47 51 460 none
+-561 -798 -686 -815
+STANDING STANDING male 7484
+92 warrior huge ABCDEFGHIJK
+P 11 0
+
+#32307
+elemental god~
+{GT{ghe {RE{rlemental {BG{bod{x~
+The {CE{clemental {CG{cod{X stands here controlling all the elementals.
+~
+This guy is HUGE and will kick your ass!
+~
+titan~
+0 150 0 0 0 0 0 0 0 0 0 0 50 0 0 100 100 150 0 0 150 0 0 100 100 100 
+BDFGOVc CDEGLPQTUVZc BCDEFHJKL -1000 0
+180 150 0 15001 15001 27839 30712 200 200 200 none
+-15000 -15000 -15000 -15000
+STANDING STANDING male 999
+96 mage huge ABCDEFGHIJK
+P 5 12
+
+#32308
+wolf~
+The Hungry Wolf~
+A hungry wolf runs around here looking for some food.
+~
+Here is the big bad wolf.
+~
+wolf~
+100 100 50 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BCG JZ 0 1000 0
+89 30 0 4589 5683 0 0 40 40 40 none
+-50 -50 -50 -50
+STANDING STANDING random 0
+77 warrior tiny ACDEFJKQV
+P 142 1
+
+#32309
+vulture~
+The Vulture~
+A vulture flys around here looking for a carcass.
+~
+The vulture here is looking for some food..
+~
+avian~
+100 100 50 100 150 100 150 100 100 150 100 50 100 100 100 100 100 100 150 100 100 0 100 100 100 100 
+CG DFJLTZ B 1000 0
+87 50 0 4422 5635 0 0 40 40 40 none
+-100 -100 -100 -100
+STANDING STANDING neutral 32
+77 warrior medium ABCDEFGHIJKP
+P 80 0
+
+#32310
+elemental healer~
+{CT{che{C E{clemental{C H{cealer{x~
+The {CE{clemental{G H{gealer{x stands here healing the wounded.
+~
+Here stands the elemental healer preparing the adventurers for the great fight
+against the elemental god.
+~
+titan~
+100 100 0 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BGa Dac CDEHL 1000 0
+100 100 0 4673 5496 4751 5666 100 100 100 none
+-100 -100 -100 -100
+STANDING STANDING female 100
+80 cleric medium ABCDEFGHIJK
+
+#32311
+mountain climber~
+The Mountain Climber~
+The mountain climber is trying to climb this mountain.
+~
+He seems fully equiped for a good mountain climbing.
+~
+minotaur~
+100 150 100 0 100 50 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+BG L 0 1000 0
+84 19 0 4836 5718 4513 5637 40 40 40 none
+-100 -100 -100 -100
+STANDING STANDING random 32
+76 warrior medium ABCDEFGHIJKW
+P 51 0
+
+#32312
+evil bunny~
+The {rE{bV{rI{bL{x Bunny~
+The {rE{bV{rI{bL{x bunny hops around here trying to bite your head off!
+~
+Damn this is one evil bunny.
+~
+rabbit~
+130 100 0 35 120 100 130 100 100 100 40 140 100 30 20 100 100 100 130 100 100 20 25 100 100 100 
+BCDFG 0 H -1000 0
+201 377 0 23341 24207 25474 26463 10 49 328 none
+-1700 -1700 -1700 -1700
+STANDING STANDING female 9442
+100 mage medium ACDEFHJK
+P 154 8
+
+#32313
+evil wolf~
+The {bE{rV{bI{rL{x Wolf~
+The {bE{rV{bI{rL{x Wolf sits around here howling at the moon.
+~
+This is one big wolf.. looks more like a werewolf to you..
+~
+wolf~
+120 110 0 60 40 100 130 95 100 110 120 130 100 100 30 100 100 100 40 130 110 70 90 100 100 100 
+BCDFG VZ DEHK -1000 0
+400 200 0 25000 28000 25000 28000 15 100 100 none
+-3000 -3000 -3000 -3000
+STANDING STANDING male 0
+140 mage huge ACDEFJKQV
+P 366 11
+
+#32314
+duck~
+{CA {CS{cmall {CD{cuck{x~
+A small {cd{Cuck{x swims around in the lake here. 
+~
+The duck swims around here quacking around.
+~
+water fowl~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 
+BCG Tb 0 1000 0
+95 100 0 10040 12420 4789 5625 60 60 60 none
+-2000 -2000 -2000 -2000
+STANDING STANDING random 143
+79 warrior medium ACDEFHKP
+P 29 0
+
+#32315
+fish~
+{GT{ghe {GF{gish{x~
+The {GF{gish{x swims around here running away from you.
+~
+The fish is really fast and kinda looks like a goldfish.
+~
+water fowl~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 
+CDGH Tb 0 1000 0
+98 200 0 2501 2501 4069 5602 40 40 40 none
+-3000 -3000 -3000 -3000
+STANDING STANDING random 321
+79 mage medium ACDEFHKP
+P 38 0
+
+#32316
+shark~
+{RT{rhe {RS{rhark{x~
+A {Rs{rhark{x swims around here looking for some fish to gobble up.
+~
+This is one big shark.. White shark.. Big Teeth.. Swimming Torward You.. AHHHH!!
+~
+water fowl~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 
+CDG Tb 0 -1000 0
+100 100 0 4001 4001 4760 5851 2 40 50 none
+-4000 -4000 -4000 -4000
+STANDING STANDING random 321
+80 mage medium ACDEFHKP
+P 82 2
+
+#32317
+living geyser~
+{CT{che {CL{civing {CG{ceyser{x~
+The {CL{civing {CG{ceyser{x seems to be spraying hot steaming water in your face.
+~
+The geyser seems alive..
+~
+titan~
+100 100 0 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+G Dac 0 1000 0
+94 150 0 8946 10805 0 0 40 40 40 none
+-3000 -3000 -3000 -300
+STANDING STANDING neutral 223
+78 warrior medium ABCDEFGHIJK
+P 89 0
+
+#32318
+lava beast~
+{RT{rhe {RL{rava {RB{reast{x~
+The {RL{rava {RB{reast{x stands here spewing lava at your head.
+~
+This is one big monster.. he also spews lava!! RUN!!
+~
+dragon~
+20 50 50 150 30 20 0 140 140 30 20 120 100 140 50 100 100 30 40 30 30 140 150 100 100 100 
+BDFG DFJTc DHIK -1000 0
+120 300 0 30001 30001 15440 17527 9 90 95 none
+-5000 -5000 -5000 -5000
+STANDING STANDING male 326
+84 archmage medium ACDEFGHIJKPQUVX
+P 224 5
+
+#32319
+lava monster~
+The {RL{rava{X Monster~
+The {RL{rava {YM{yonster{x stalks around ready to spew lava at you.
+~
+This lava monster is mighty and big. Did I mention he also spews lava?
+~
+human~
+100 50 0 0 50 100 150 100 100 100 100 150 50 100 100 100 100 100 150 100 100 100 100 100 100 100 
+CG JTZ C -1000 0
+109 200 0 11768 14238 0 0 60 60 60 none
+-1000 -1000 -1000 0
+STANDING STANDING random 0
+81 warrior medium ABCDEFGHIJK
+P 37 0
+
+#32320
+Fire Phoenix~
+{YT{yhe {RF{rire {YP{yhoenix{x~
+The {RF{rire {YP{yhoenix{x flys around here trying to peck your eye out.
+~
+The fire phoenix is amazingly beautiful and graceful.. until it tried to peck your eye out.
+~
+gryfalcon~
+150 100 50 150 50 100 0 100 50 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+CG JPT 0 1000 0
+110 100 0 15150 17673 14023 17883 80 80 80 none
+-3000 -3000 -3000 -3000
+STANDING STANDING random 0
+82 warrior medium ABCDEFGHIJKPQU
+P 57 1
+
+#32321
+fire elemental~
+The {RF{rire{x Elemental~
+The {RF{rire {CE{clemental{x runs around here setting everything on fire.
+~
+This is one great pyromaniac.
+~
+dragon~
+100 50 50 150 100 100 0 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+BCG DFJTc DI -1000 0
+100 100 0 10810 12676 10465 12468 80 80 80 none
+-1000 -1000 -1000 -1000
+STANDING STANDING random 323
+80 warrior medium ACDEFGHIJKPQUVX
+P 34 1
+
+#32322
+Greater Shark~
+{RA {RG{rreater {RS{rhark{x~
+A {Rs{rhark{x swims around here looking for some fish to gobble up.
+~
+This is one big shark.. White shark.. Big Teeth.. Swimming Torward You.. AHHHH!!
+~
+water fowl~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 
+CDG Tb 0 -1000 0
+120 325 0 11292 13437 11266 12623 35 46 315 none
+-531 -585 -696 -492
+STANDING STANDING random 6207
+80 mage medium ACDEFHKP
+P 60 0
+
+#32323
+Great Oak~
+{cA {GG{great {yO{Dak{x~
+One of the ancient {GG{great {yO{Daks {xwanders the land.
+~
+~
+treant~
+110 10 50 10 110 115 120 10 50 110 75 120 20 50 50 20 50 20 30 110 110 10 50 0 50 0 
+CDEGL Vce HIP 0 0
+125 401 -40 12560 13984 12672 14269 46 46 326 none
+-673 -503 -634 -637
+STANDING STANDING neutral 5922
+75 hunter giant 0
+E 200
+P 23 0
+#0
+
+#OBJECTS
+#32300
+fire portal~
+the fire portal~
+The {RF{rire{x Portal hovers here leading to the fire elementals.~
+portal 0 0
+0 0 0 32305 0
+1 0 142
+
+#32301
+water portal~
+the water portal~
+The {BW{bater{x Portal hovers here leading to the water elementals.~
+portal 0 0
+0 0 0 32306 0
+0 0 0
+
+#32302
+final elemental gateway~
+{CE{clemental{C G{cateway{x~
+The {CE{clemental {CG{cateway{x hovers here leading into the unknown.~
+portal 0 0
+0 0 0 32399 0
+1 0 120
+
+#32303
+earth portal~
+the earth portal~
+The {GE{garth{x Portal hovers here leading to the earth elementals.~
+portal 0 0
+0 0 0 32307 0
+0 0 0
+
+#32304
+sign~
+a sign~
+(no description)~
+trash 0 0
+0 0 0 0 0
+0 0 0
+
+#32305
+earth key~
+{GT{ghe{G E{garth {GK{gey{x~
+The Earth Key lies here pulsating with power.~
+treasure APTU A
+0 0 0 0 0
+1 5 200
+
+#32306
+water key~
+{BT{bhe{B W{bater{B K{bey{x~
+The Water Key lies here pulsating with power,~
+treasure APTU A
+0 0 0 0 0
+1 5 144
+
+#32307
+fire key~
+{RT{rhe{R F{rire{R K{rey{x~
+The Fire Key lies here pulsating with power.~
+treasure APTU A
+0 0 0 0 0
+1 5 142
+
+#32308
+elemental portal~
+{CT{che {CE{clemental{C P{cortal{x~
+The {CE{clemental{x Portal floats here shimmering with magic.~
+portal 0 0
+0 0 0 32391 0
+1 0 216
+
+#32309
+sword elements~
+{BS{bwor{Bd {Yo{yf {Yt{yh{Ye {BE{blement{Bs{x~
+The sword of the {Ce{clements{x lies here pulsating with divine power.~
+weapon ABCEFGIMOY AN
+sword 13 14 divine AD
+101 10 4000
+A 19 20
+A 18 20
+A 12 150
+A 20 -4
+A 1 2
+A 2 2
+A 13 200
+
+#32310
+healing bed~
+{CT{che {GH{gealing {YB{yed{x~
+The {GH{gealing {YB{yed{x lies here waiting to heal someone.~
+furniture 0 0
+2 0 HK 53 53
+1 10 179
+
+#32311
+rabbit feet foot~
+{rE{Rv{ri{Rl{x {gR{Ga{gb{Gb{gi{Gt{x {yF{Ye{ye{Yt{x~
+The long feet of the evil rabbit lay here pulsating with evil.~
+armor ABQ AG
+30 30 30 30 0
+101 3 594
+A 2 3
+A 13 300
+A 12 300
+A 20 -2
+A 18 30
+A 19 30
+
+#32312
+wolf ears~
+{RE{rv{Ri{rl {GW{go{Gl{gf {YE{ya{Yr{ys{x~
+The Evil Wolf's ears lies here filled with nasty ear wax.. yuck..~
+armor AQ AS
+25 25 25 25 0
+101 3 15370
+A 4 2
+A 3 2
+A 13 250
+A 12 250
+A 18 35
+A 19 35
+
+#32313
+treasure helmet~
+{GT{ghe {YT{yreasured {CH{celmet{x~
+The {Ct{creasured {yh{yelmet{x lying here is worth millions..~
+armor AY AE
+40 40 43 40 0
+101 3 1034
+A 19 37
+A 13 282
+A 12 282
+A 18 35
+A 20 -2
+
+#32314
+lava key~
+{YT{yhe {RL{rava {YK{yey{x~
+The Lava Key lies here pulsating with fire power.~
+key APTU AO
+0 0 0 0 0
+1 0 148
+
+#32315
+armor plate of fire~
+{RT{rhe {RA{rrmor {RP{rlate {RO{rf {RF{rire{x~
+The armor of plate of fire lies here pulsating with fire power.~
+armor BQY AV
+45 34 45 48 0
+101 3 932
+A 20 -1
+A 1 1
+A 13 200
+A 3 1
+A 12 303
+A 18 30
+A 19 30
+
+#32316
+scalding anklet~
+{rS{Rc{ya{Dld{yi{Rn{rg {yA{Dn{rkl{De{yt{x~
+{DA scalding hot piece of metal lies here.{x~
+armor AQTUY AU
+30 30 30 30 0
+101 2 2000
+A 13 300
+A 12 300
+A 2 3
+A 1 3
+A 19 30
+A 18 30
+A 20 -1
+
+#32317
+scalding shroud~
+{rS{Rc{ya{Dld{yi{Rn{rg {yS{Dh{rro{Du{yd{x~
+{DA scalding hot piece of metal lies here.{x~
+armor AQTUY AD
+30 30 30 30 0
+101 2 2000
+A 18 30
+A 19 30
+A 1 3
+A 2 3
+A 13 300
+A 12 300
+
+#32318
+scalding dagger~
+{rS{Rc{ya{Dld{yi{Rn{rg {yD{Da{rgg{De{yr{x~
+{DA scalding hot piece of metal lies here.{x~
+weapon AQTUY AN
+dagger 14 13 flame ADG
+101 2 2000
+A 18 30
+A 19 30
+A 1 3
+A 2 3
+A 13 300
+A 12 300
+
+#32319
+Drenched Choker~
+{bD{Br{me{Dnc{mh{Be{bd {mC{Dh{bok{De{mr{x~
+{cA drenched piece of cloth lays here.{x~
+armor QY AC
+30 30 30 30 0
+101 1 2000
+A 4 3
+A 3 3
+A 19 30
+A 18 30
+A 12 300
+A 13 300
+
+#32320
+Drenched Strand~
+{bD{Br{me{Dnc{mh{Be{bd {mS{Dt{bra{Dn{md{x~
+{cA drenched piece of cloth lays here.{x~
+armor QY AL
+30 30 30 30 0
+101 1 2000
+A 5 3
+A 13 300
+A 12 300
+A 20 -3
+A 18 30
+A 19 30
+
+#32321
+Drenched Kopesh~
+{bD{Br{me{Dnc{mh{Be{bd {mK{Do{bpe{Ds{mh{x~
+{cA blade drenched in liquid loams here.{x~
+weapon QY AN
+sword 13 13 waterwall BDG
+101 1 2000
+A 2 3
+A 13 300
+A 12 300
+A 18 30
+A 19 30
+
+#32322
+entwined bracer~
+{gE{Gn{yt{Dwi{yn{Ge{gd {yB{Dr{gac{De{yr{x~
+{gA bunch of twines lay on the ground.{x~
+armor QY AM
+30 30 30 30 0
+101 1 2000
+A 19 30
+A 18 30
+A 12 300
+A 13 300
+A 2 3
+A 20 -2
+
+#32323
+entwined veneer~
+{gE{Gn{yt{Dwi{yn{Ge{gd {yV{De{gne{De{yr{x~
+{gA bunch of twines lay on the ground.{x~
+armor QY AR
+30 30 30 30 0
+101 1 2000
+A 13 300
+A 12 300
+A 18 30
+A 19 30
+A 4 3
+A 20 -1
+
+#32324
+entwined branch~
+{gE{Gn{yt{Dwi{yn{Ge{gd {yB{Dr{gan{Dc{yh{x~
+{gA bunch of twines lay on the ground.{x~
+weapon QY AN
+flail 13 14 splintering DGH
+101 1 2000
+A 13 300
+A 12 300
+A 18 30
+A 19 30
+
+#32325
+wolf eyes~
+{RE{rv{Ri{rl {GW{go{Gl{gf {YE{yy{Ye{ys{x~
+The Evil Wolf's eyes lies here filled with nasty ear wax.. yuck..~
+armor AQ AX
+25 25 25 25 0
+101 3 15370
+A 19 35
+A 18 35
+A 12 250
+A 13 250
+A 3 2
+A 4 2
+
+#32326
+wolf whip~
+{RE{rv{Ri{rl {GW{go{Gl{gf {YW{yh{Yi{yp{x~
+The Evil Wolf's whip lies here filled with nasty ear wax.. yuck..~
+weapon AQ AN
+whip 13 14 whip ACDG
+101 3 15370
+A 13 250
+A 12 250
+A 18 35
+A 19 35
+A 1 3
+A 2 3
+
+#32327
+rabbit legs~
+{rE{Rv{ri{Rl{x {gR{Ga{gb{Gb{gi{Gt{x {yL{Ye{yg{Ys{x~
+The long legs of the evil rabbit lay here pulsating with evil.~
+armor ABQ AF
+30 30 30 30 0
+101 3 594
+A 20 -2
+A 12 300
+A 13 300
+A 2 3
+A 18 33
+A 19 33
+
+#32328
+rabbit mace~
+{rE{Rv{ri{Rl{x {gR{Ga{gb{Gb{gi{Gt{x {yM{Ya{yc{Ye{x~
+The long mace of the evil rabbit lay here pulsating with evil.~
+weapon ABQ AN
+mace 14 14 magic BDGH
+101 3 594
+A 13 300
+A 12 300
+A 18 40
+A 19 40
+A 5 3
+
+#32329
+ring elements~
+{BR{bin{Bg {Yo{yf {Yt{yh{Ye {BE{blement{Bs{x~
+The sword of the {Ce{clements{x lies here pulsating with divine power.~
+armor ABCEFGIMOQY AB
+43 35 36 49 0
+101 10 4000
+A 19 40
+A 18 40
+A 13 275
+A 12 275
+A 20 -4
+A 1 4
+A 3 4
+
+#32330
+armor shield of fire~
+{RT{rhe {RA{rrmor {RS{rhield {RO{rf {RF{rire{x~
+The armor of plate of fire lies here pulsating with fire power.~
+armor BQY AJ
+45 45 45 46 0
+101 3 932
+A 19 30
+A 18 30
+A 12 303
+A 3 1
+A 13 200
+A 1 1
+A 20 -1
+
+#32331
+shark scale scribe component~
+{RS{rhark {RS{rcale{x~
+{DSee torn flesh of a shark laying here.{x~
+brew_component Q A
+2 0 0 0 0
+101 1 1000
+
+#32332
+Fish Eyes brew component~
+{GF{gish {GE{gyes{x~
+{DA mass of fish eyes is here.{x~
+brew_component Q A
+2 0 0 0 0
+101 1 1000
+
+#32333
+scalding katana~
+{rS{Rc{ya{Dld{yi{Rn{rg {yK{Da{rta{Dn{ya{x~
+{DA scalding hot piece of metal lies here.{x~
+weapon AQTUY AN
+dagger 14 14 flame ADG
+101 2 2000
+A 12 300
+A 13 300
+A 2 3
+A 1 3
+A 19 30
+A 18 30
+
+#32334
+entwined branch~
+{gE{Gn{yt{Dwi{yn{Ge{gd {yB{Dr{gan{Dc{yh{x~
+{gA bunch of twines lay on the ground.{x~
+weapon QY AN
+mace 14 14 splintering DGH
+101 1 2000
+A 19 30
+A 18 30
+A 12 300
+A 13 300
+A 1 3
+
+#32335
+Drenched Quarterstaff~
+{bD{Br{me{Dnc{mh{Be{bd {mB{Do{bst{Da{mf{x~
+{cA staff drenched in liquid loams here.{x]~
+weapon QY AN
+quarterstaff 13 14 waterwall BDG
+101 1 2000
+A 19 30
+A 18 30
+A 12 300
+A 13 300
+A 2 3
+A 20 -3
+
+#32336
+Jagged Teeth Katana~
+{DJ{wagge{Dd {wK{Datan{wa{x~
+A long jagged shark tooth is here.~
+weapon AQTUY AN
+dagger 11 17 torrential DGI
+101 2 2000
+A 18 30
+A 19 30
+A 1 3
+A 2 3
+A 13 300
+A 12 300
+
+#32337
+Jagged Teeth Dagger~
+{DJ{wagge{Dd {wD{Dagge{wr{x~
+A long jagged shark tooth is here.~
+weapon AQTUY AN
+dagger 11 17 torrential DGI
+101 2 2000
+A 12 300
+A 13 300
+A 2 3
+A 1 3
+A 19 30
+A 18 30
+
+#32338
+Jagged Teeth Falchion~
+{DJ{wagge{Dd {wF{Dalchio{wn{x~
+A long jagged shark tooth is here.~
+weapon AQTUY AN
+sword 11 17 torrential DGI
+101 2 2000
+A 18 30
+A 19 30
+A 1 3
+A 2 3
+A 13 300
+A 12 300
+
+#32339
+Scalding Hammer~
+{rS{Rc{ya{Dld{yi{Rn{rg {yH{Da{rmm{De{yr{x~
+{DA scalding hot piece of metal lies here.{x~
+weapon AQTUY AN
+mace 14 14 inferno ADG
+101 2 2000
+A 18 30
+A 19 30
+A 1 3
+A 2 3
+A 13 300
+A 12 300
+
+#32340
+Piece Oak~
+{cPiece of {yO{Dak{x~
+{cA piece of {yO{Dak {clies here.{x~
+weapon AQTUY AN
+sword 11 17 torrential DGI
+101 2 2000
+A 12 300
+A 13 300
+A 2 3
+A 1 3
+A 19 30
+A 18 30
+#0
+
+#ROOMS
+#32300
+A {CP{ca{Ct{ch{x {Bin the {GF{go{Gr{ge{Gs{gt{x~
+All around you are large towering trees that cast dark shadows over you.
+Short green grass grows on the sides of the narrow path. The path
+continues on north.
+ 
+A {rs{Ri{rg{Rn{x here catches your attention.
+~
+0 0
+D0
+~
+~
+0 0 32301
+D2
+~
+~
+0 0 3528
+E
+sign~
+This area was created by {CA{cl{Cu{cc{Ca{cr{Cd{x.
+Finished on Monday, May 1, 2000.
+ 
+Level of Difficulty : Levels 80-101
+~
+S
+
+#32301
+A {CP{ca{Ct{ch{x {Bin the {GF{go{Gr{ge{Gs{gt{x~
+You tread deeper down the path. The trees seem to clear up a bit as you walk
+further north. The grass seems to grow taller as you go by.
+~
+0 0
+D0
+~
+~
+0 0 32302
+D2
+~
+~
+0 0 32300
+S
+
+#32302
+A {CP{ca{Ct{ch{x {Bin the {GF{go{Gr{ge{Gs{gt{x~
+You tread deeper down the path. There are now only a couple trees standing tall.
+Sunlight seems to guide your way down the path. Up ahead you can see that
+the path is about to end.
+~
+0 0
+D0
+~
+~
+0 0 32303
+D2
+~
+~
+0 0 32301
+S
+
+#32303
+{RE{rntrance {RT{ro {RT{rhe {CL{cand {Co{cf {Ct{che{C E{clementals{x~
+You reach the end of the path and have reached the land of the elementals.
+Up ahead you can see many different kinds of elementals running about.
+Their colors seem to light up the place with spark.
+~
+0 0
+D0
+~
+~
+0 0 32304
+D2
+~
+~
+0 0 32302
+S
+
+#32304
+{CE{clemental {GG{gateway{x~
+You walk further north and you come to the Elemental Gateway. Here you
+can choose three paths that lead to three different lands.
+Each elemental land has a different difficulty. You can pick from the
+earth elementals, fire elementals, and water elementals.
+ 
+A {Bs{Yi{Bg{Yn{x floats here demanding your attention.
+~
+0 0
+D2
+~
+~
+0 0 32303
+D5
+~
+~
+0 0 32390
+E
+sign~
+Earth Elementals = Levels 80 - 90
+Water Elementals = Levels 90 - 100
+Fire  Elementals = Levels 100 - 110
+~
+S
+
+#32305
+Entrance to the Land of the Fire Elementals~
+You enter the fire portal and you find yourself in a firey area. Hot firey coals
+seem to pave the streets and everything seems to be burning. The temperature is
+at boiling point and you feel as if your being baked alive. You feel a powerful
+force coming from somewhere from this land. Exits only lie south.
+~
+4 0
+D2
+~
+~
+0 0 32366
+S
+
+#32306
+Entrance to the Land of the Water Elementals~
+You enter the water portal and find yourself in a area covered with water everywhere.
+Every imaginable body of water is seen around here. Long streams seem to be
+stretching forever. Mostly fish seem to inhabit this land. A powerful force seems
+to be pulsating from somewhere within this land.
+~
+4 0
+D0
+~
+~
+0 0 32341
+S
+
+#32307
+Entrance to the Earth Elementals~
+You enter the earth portal and you find yourself in a rocky area.
+Large boulders seem to take up most of the space. Also around you are tall
+trees. Long green grasses are growing on the ground here. A powerful force seems
+to be pulsating from the north.
+~
+4 0
+D0
+~
+~
+0 0 32308
+S
+
+#32308
+Land of the Earth Elementals~
+You walk north and slide past the large boulders and trees. Everything seems to
+be peaceful and quiet. BOOM! The boulders suddenly start to move around. They are
+alive! The trees suddenly take out their roots and walk around too! Weird..
+~
+0 0
+D0
+~
+~
+0 0 32309
+D1
+~
+~
+0 0 32311
+D2
+~
+~
+0 0 32307
+D3
+~
+~
+0 0 32310
+S
+
+#32309
+Land of the Earth Elementals~
+Walking further down the land of earth elements, you see more features of the land.
+Hills and mountains seem to pop out of nowhere. Everything seems to be in a state
+of tranquility. Exits lie to your south and west.
+~
+0 0
+D2
+~
+~
+0 0 32308
+D3
+~
+~
+0 0 32328
+S
+
+#32310
+A Steep Canyon~
+You find yourself in a very steep canyon. You look around and see the walls of the
+canyon stretching up high above you. The sun beats down on you heating the place
+like a microwave. Wolves run back and forth howling at anything they see.
+The canyon continues to your north, west, and south.
+~
+0 0
+D0
+~
+~
+0 0 32320
+D1
+~
+~
+0 0 32308
+D2
+~
+~
+0 0 32321
+D3
+~
+~
+0 0 32322
+S
+
+#32311
+Grassy Fields~
+You find yourself on some grassy fields that seem to extend further than the eye
+can see. Tall green grasses seem to grow everywhere around you. To your north,
+south, and east are more grassy fields. West is back out of the tall green grasses.
+~
+0 0
+D0
+~
+~
+0 0 32312
+D1
+~
+~
+0 0 32314
+D2
+~
+~
+0 0 32313
+D3
+~
+~
+0 0 32308
+S
+
+#32312
+Northern Grassy Fields~
+Walking north, you find yoruself on the northern part of the grassy fields.
+The grasses are tall and make it hard to walk around. The fields seem to stretch
+farther than the eye can see. Little rabbits hop around looking for carrots to
+eat. Exits only lie south.
+~
+0 0
+D2
+~
+~
+0 0 32311
+S
+
+#32313
+Southern Grassy Fields~
+Walking south, you find yourself on the southern part of the grassy fields.
+The grasses are tall and make it hard to walk around. The fields seem to stretch
+farther than the eye can see. Little rabbits hop around looking for carrots to 
+eat. Exits only lie north.
+~
+0 0
+D0
+~
+~
+0 0 32311
+S
+
+#32314
+Eastern Grassy Fields~
+You crawl through the tall grasses and see you are at the eastern part of the
+grassy fields. You look around and see its the same as the rest of the field.
+While looking around, you spot a tiny dirt {rd{Ro{ro{Rr{x leading down.
+~
+0 0
+D3
+~
+~
+0 0 32311
+D5
+~
+~
+AB 0 32315
+S
+
+#32315
+A Narrow Dirt Tunnel~
+You find yourself in a narrow dirt tunnel. The walls of the tunnel seem to close
+on you, suffocating you and making it hard to breathe. You can see the tunnel
+only goes up and down. A foul stench seems to be coming from below you.
+~
+0 0
+D4
+~
+~
+AB 0 32314
+D5
+~
+~
+0 0 32316
+S
+
+#32316
+A Narrow Dirt Tunnel~
+The tunnel goes up and down...
+~
+0 0
+D4
+~
+~
+0 0 32315
+D5
+~
+~
+0 0 32317
+S
+
+#32317
+A Narrow Dirt Tunnel~
+The tunnel goes up and down...
+~
+0 0
+D4
+~
+~
+0 0 32316
+D5
+~
+~
+0 0 32318
+S
+
+#32318
+A Narrow Dirt Tunnel~
+The tunnel goes up and down...
+~
+0 0
+D4
+~
+~
+0 0 32317
+D5
+~
+~
+0 0 32319
+S
+
+#32319
+The Lair of the {rE{bV{rI{bL{x {BBunny{x~
+The narrow tunnel ends and you stumble upon the lair of the evil bunny. Corpses
+of past warriors and adventurers lie here on the ground rotting after time. The
+walls are splattered with blood and the smell of rottening flesh lingers in the
+lair. The evil bunny notices you and attacks, trying to protect his property.
+~
+0 0
+D4
+~
+~
+0 0 32318
+S
+
+#32320
+Northern Part of the Canyon~
+Walking north, you reach the noterhn part of the canyon. The walls seem to stretch
+as high as the sky. The walls are cracked and dry. Wolves run back and forth
+barking at everything they see. Exits lie only south.
+~
+0 0
+D2
+~
+~
+0 0 32310
+S
+
+#32321
+Southern Part of the Canyon~
+Walking south, you reach the south end of the canyon. Looking around, you see that
+the walls of the canyon reach as high as the sky. The sun shines from above, heating
+the whole canyon. The walls of the canyon seem cracked and dry. Wolves around you
+seem to run about growling at everything they see. Exits only lie north.
+~
+0 0
+D0
+~
+~
+0 0 32310
+S
+
+#32322
+Western Part of the Canyon~
+You avoid the large boulders and make it to the western part of the canyon.
+You look around and see that the canyon is really deep. While looking around the
+canyon you see a closed {rh{Ra{rt{Rc{rh{x below you.
+~
+0 0
+D1
+~
+~
+0 0 32310
+D5
+~
+hatch~
+AB 0 32323
+S
+
+#32323
+A Narrow Dirt Tunnel~
+You find yourself in a narrow dirt tunnel. You see that it only leads down to
+an unknown place. You can see worms crawling in and out of the dirt. A horrid
+stench seems to be coming from below you.
+~
+0 0
+D4
+~
+~
+AB 0 32322
+D5
+~
+~
+0 0 32324
+S
+
+#32324
+A Narrow Dirt Tunnel~
+The tunnel continues up and down...
+~
+0 0
+D4
+~
+~
+0 0 32323
+D5
+~
+~
+0 0 32325
+S
+
+#32325
+A Narrow Dirt Tunnel~
+The tunnel continues up and down...
+~
+0 0
+D4
+~
+~
+0 0 32324
+D5
+~
+~
+0 0 32326
+S
+
+#32326
+A Narrow Dirt Tunnel~
+The tunnel continues up and down...
+~
+0 0
+D4
+~
+~
+0 0 32325
+D5
+~
+~
+0 0 32327
+S
+
+#32327
+The Lair of the {bE{rV{bI{RL {BWolf{x~
+You finally get out of the suffocating dirt tunnel and find yourself in the lair
+of the evil wolf. The evil wolf sits here growling at you. He dosen't seem to like
+unexpected visitors. On the ground lie corpses of dead warriors who stumbled upon
+his lair.. just like you..
+~
+0 0
+D4
+~
+~
+0 0 32326
+S
+
+#32328
+The Base of a Tall Mountain~
+You find yourself at the base of a tall mountain. You can't stop from thinking
+what lies above you. The mountain seems to be higher than the clouds. You can't
+seem to see where the peak is.
+~
+4 0
+D1
+~
+~
+0 0 32309
+D4
+~
+~
+0 0 32329
+S
+
+#32329
+Climbing Up the Mountain..~
+You climb higher up the tall mountain. A mountain climber is here making the same
+trek as you.
+~
+0 0
+D4
+~
+~
+0 0 32330
+D5
+~
+~
+0 0 32328
+S
+
+#32330
+Climbing Up the Mountain..~
+You climb higher up the tall mountain. The air seems to get thinner and its getting
+colder. A mountain climber is here making the same trek as you.
+~
+0 0
+D4
+~
+~
+0 0 32331
+D5
+~
+~
+0 0 32329
+S
+
+#32331
+Climbing Up the Mountain..~
+You climb higher up the tall mountain. It is now freezing cold and its hard to
+breathe. You wonder if you can make it to the peak. Looking up, you only see clouds.
+~
+0 0
+D4
+~
+~
+0 0 32332
+D5
+~
+~
+0 0 32330
+S
+
+#32332
+Climbing Up the Mountain..~
+You climb higher up the tall mountain. The temperature is dropping and there is not
+much oxygen left. You see a mountain climber making the same trek as you.
+~
+0 0
+D4
+~
+~
+0 0 32333
+D5
+~
+~
+0 0 32331
+S
+
+#32333
+Peak of the Mountain~
+You climb even higher up the seemingly never ending mountain. The oxygen now is
+almost all gone, and the temperature has dropped to freezing temperatures. Snow
+covers the mountain on here. You look around and see you have reached the peak
+of the mountain. You thank god that you actually made it all the way here.
+~
+4 0
+D4
+~
+~
+0 0 32335
+D5
+~
+~
+0 0 32332
+S
+
+#32334
+Flying in the Air~
+You are floating in the cold air with vultures next to you. You look down
+and see that you are thousands of feet from the ground.. Lets hope you don't fall..
+~
+0 0
+D0
+~
+~
+0 0 32337
+D3
+~
+~
+0 0 32335
+S
+
+#32335
+Flying in the Air~
+You leave the mountain and float in the air. You wonder to yourself on how your
+actually flying. Vultures fly around you looking down looking for carcasses to
+munch on.
+~
+0 9
+D0
+~
+~
+0 0 32336
+D1
+~
+~
+0 0 32334
+D5
+~
+~
+0 0 32333
+S
+
+#32336
+Flying in the Air~
+You are floating in the cold air with vultures flying next to you. You look down
+and see that you are thousands of feet from the ground.. Lets hope you don't
+fall..
+~
+0 9
+D0
+~
+~
+0 0 32339
+D1
+~
+~
+0 0 32337
+D2
+~
+~
+0 0 32335
+S
+
+#32337
+Flying in the Air~
+You are floating in the cold air with vultures next to you. You look down
+and see that you are thousands of feet from the ground.. Lets hope you don't
+fall..
+~
+0 0
+D0
+~
+~
+0 0 32338
+D2
+~
+~
+0 0 32334
+D3
+~
+~
+0 0 32336
+S
+
+#32338
+Flying in the Air~
+You are floating in the cold air with vultures next to you. You look down
+and see that you are thousands of feet from the ground.. Lets hope you don't
+fall..
+~
+0 0
+D2
+~
+~
+0 0 32337
+D3
+~
+~
+0 0 32339
+S
+
+#32339
+Flying in the Air~
+You are floating in the cold air with vultures flying next to you. You look down
+and see that you are thousands of feet from the ground.. Lets hope you don't
+fall..
+~
+0 0
+D1
+~
+~
+0 0 32338
+D2
+~
+~
+0 0 32336
+D3
+~
+~
+0 0 32340
+S
+
+#32340
+{CT{che {GE{ga{Gr{gt{Gh {RR{ru{Rl{re{Rr{rs{C D{comain{x~
+You walk west and find yourself in the Earth Ruler's Domain. Earth elementals
+run about serving their master. The whole place is covered with trees, boulders,
+bushes, and other earthly beings. The Earth Ruler stands here shouting out orders
+to his earth minions.
+~
+524292 0
+D1
+~
+~
+0 0 32339
+D5
+~
+~
+ABG 0 32398
+S
+
+#32341
+Land of the Water Elementals~
+Walking further down the land of water elementals, you see more bodies of water.
+The whole place seems to be covered with large masses of water. You hope you don't
+fall in a trench and drown.. I hope you can swim. Exits lie to your north, east,
+and south.
+~
+0 0
+D0
+~
+~
+0 0 32342
+D1
+~
+~
+0 0 32360
+D2
+~
+~
+0 0 32306
+S
+
+#32342
+Land of the Water Elementals~
+Walking furhter down the land of water elementals, you come across even more
+bodies of water. It seems that the land here is nothing but water. You carefully
+watch your step not wanting to step in a trench or any poisonous coral.
+~
+4 0
+D0
+~
+~
+0 0 32363
+D1
+~
+~
+0 0 32343
+D2
+~
+~
+0 0 32341
+D3
+~
+~
+0 0 32356
+S
+
+#32343
+By The River~
+You stand by the river that seems to twist and turn ahead. All around you swim
+little fishes. Large sharks jump up and try to chomp your head.. Better swim fast..
+~
+0 0
+D0
+~
+~
+0 0 32344
+D3
+~
+~
+0 0 32342
+S
+
+#32344
+In the River~
+The river continues on north and south.
+~
+0 0
+D0
+~
+~
+0 0 32345
+D2
+~
+~
+0 0 32343
+S
+
+#32345
+In the River~
+The river continues on north and south.
+~
+0 0
+D0
+~
+~
+0 0 32346
+D2
+~
+~
+0 0 32344
+S
+
+#32346
+In the River~
+The river ends here and empties out into the ocean to your east. Back south is
+back down the river.
+~
+0 0
+D1
+~
+~
+0 0 32347
+D2
+~
+~
+0 0 32345
+S
+
+#32347
+In the Ocean~
+You can see that the ocean is much larger than the river and fits much more
+fish and sharks. Its a bit deep here, hope you can tread water...
+~
+0 0
+D0
+~
+~
+0 0 32349
+D1
+~
+~
+0 0 32348
+D3
+~
+~
+0 0 32346
+S
+
+#32348
+In the Ocean~
+The water seems to be very deep here. Exits lie to your north and west.
+~
+0 0
+D0
+~
+~
+0 0 32350
+D3
+~
+~
+0 0 32347
+S
+
+#32349
+In the Ocean~
+The water seems to be very deep and cold here. The sun reflects against the water
+shining in your eyes almost blinding you. Exits lie to your east and south.
+~
+0 0
+D1
+~
+~
+0 0 32350
+D2
+~
+~
+0 0 32347
+S
+
+#32350
+In the Ocean~
+The water seems to be very deep here. Exits lie to your north, south, and west.
+~
+0 0
+D0
+~
+~
+0 0 32351
+D2
+~
+~
+0 0 32348
+D3
+~
+~
+0 0 32349
+S
+
+#32351
+In the Middle of the Ocean~
+After swimming around for hours, you come to the middle of the ocean. Now what
+are you going to do? Do you have enough energy to swim back? Some powerful force
+seems to vibrate beneath you.. Wonder what that is..
+~
+0 0
+D2
+~
+~
+0 0 32350
+D5
+~
+~
+AB 0 32352
+S
+
+#32352
+Down a Narrow Trench~
+Being as curious as you are, you walk down and find yourself in a deep trench.
+The trench seems to go further down leading into the dark and the unknown.
+The powerful force seems to vibrate even harder as you walk further down.
+~
+4 0
+D4
+~
+~
+AB 0 32351
+D5
+~
+~
+0 0 32353
+S
+
+#32353
+Down a Narrow Trench~
+The narrow trench continues down.
+~
+0 0
+D4
+~
+~
+0 0 32352
+D5
+~
+~
+0 0 32354
+S
+
+#32354
+Down a Narrow Trench~
+The narrow trench continues down.
+~
+0 0
+D4
+~
+~
+0 0 32353
+D5
+~
+~
+0 0 32355
+S
+
+#32355
+{CT{che {BW{ba{Bt{be{Br {bR{Bu{bl{Be{br{Bs {CD{comain{x~
+The trench finally ends and at the bottom lies the Water Ruler's Domain. The water
+here seems to glimmer with shimmering magical power. Water elementals run about
+trying to serve their ruler as best as they can. The Water Ruler seems to be too
+busy with other things to notice you.
+~
+524288 0
+D4
+~
+~
+0 0 32354
+S
+
+#32356
+By the Hot Springs~
+~
+0 0
+D0
+~
+~
+0 0 32357
+D1
+~
+~
+0 0 32342
+D3
+~
+~
+0 0 32361
+S
+
+#32357
+In the Hot Springs~
+~
+0 0
+D2
+~
+~
+0 0 32356
+D3
+~
+~
+0 0 32358
+S
+
+#32358
+Deeper in the Hot Springs~
+~
+0 0
+D1
+~
+~
+0 0 32357
+D2
+~
+~
+0 0 32361
+D3
+~
+~
+0 0 32359
+S
+
+#32359
+Deeper in the Hot Springs~
+~
+0 0
+D1
+~
+~
+0 0 32358
+D2
+~
+~
+0 0 32362
+S
+
+#32360
+A Little Lake~
+You come to a small little lake. It is very quiet here and peaceful. Ducks swim
+around the lake gracefully quacking at something once in a while. The water seems
+to shimmer with magic.
+~
+0 0
+D3
+~
+~
+0 0 32341
+S
+
+#32361
+In the Hot Springs~
+~
+0 0
+D0
+~
+~
+0 0 32358
+D1
+~
+~
+0 0 32356
+D3
+~
+~
+0 0 32362
+S
+
+#32362
+Deeper in the Hot Springs~
+~
+0 0
+D0
+~
+~
+0 0 32359
+D1
+~
+~
+0 0 32361
+S
+
+#32363
+By a Waterfall~
+You find yourself at a beautiful waterfall. The water seems to crash down and make
+a loud sound, however it seems to bring peace around you. The air seems to be
+filled with tranquility. Something catches your eye behind the waterfall..
+probablly was nothing..
+~
+0 0
+D0
+~
+~
+ABCFGH 32306 32364
+D2
+~
+~
+0 0 32342
+S
+
+#32364
+{GT{ghe {YT{yreasure {CR{coom{x~
+You have unlocked the hidden door and have found the treasure room! Not many people
+know about the treasure room as you can see that dust covers the whole room. On
+the ground jewels and gold lie everywhere probablly costing millions of dollars.
+Exits only lie back south.
+~
+0 0
+D2
+~
+~
+ABCFGH 0 32363
+S
+
+#32365
+The {RS{rE{RC{rR{RE{rT{x {BRoom{x~
+{GC{gO{GN{gG{GR{gA{GT{gU{GL{gA{GT{gI{GO{gN{GS{x!!! You have found the SECRET hidden room!!
+For actually finding this room, you get a reward! To claim your reward go tell the
+immortal, Alucard, that you found his secret hidden room. You will only get a prize
+if you were the first one to claim it. Congratulations again..
+~
+4 0
+S
+
+#32366
+Land of the Fire Elementals~
+You walk further down the land of fire elementals and it seems that the place has
+even gotten hotter. Your skin seems to burn and sweat pours down your face like
+rain. The Land of Fire Elementals continues north and south.
+~
+0 0
+D0
+~
+~
+0 0 32305
+D2
+~
+~
+0 0 32367
+S
+
+#32367
+Land of the Fire Elementals~
+You walk further down the Land of Fire Elementals and come to an abrupt stop.
+You take a moment to look around and to cool off. To your west you can see a large
+volcano towering over you. You can feel a wave of heat coming from your east which
+is the Fire Desert.
+~
+4 0
+D0
+~
+~
+0 0 32366
+D1
+~
+~
+0 0 32379
+D3
+~
+~
+0 0 32368
+S
+
+#32368
+Lava Molten Ground~
+You find yourself on hot lava molten ground. Lava seems to be flowing from the
+southwest. You jump up and down trying not to step on the steaming hot lava.
+Your shoes seem to have holes in the from the boiling lava. To make matters worse
+Lava Monsters spew lava at you back and forth.
+~
+0 0
+D1
+~
+~
+0 0 32367
+D2
+~
+~
+0 0 32372
+D3
+~
+~
+0 0 32369
+S
+
+#32369
+Lava Molten Ground~
+You find yourself on hot lava molten ground. Lava seems to be flowing from the
+south. You jump around trying to avoid the hot lava. To make matters worse Lava
+Beasts surround you and spew lava at your head.
+~
+0 0
+D1
+~
+~
+0 0 32368
+D2
+~
+~
+0 0 32370
+S
+
+#32370
+Lava Molten Ground~
+You find yourself on hot lava molten ground. Lava seems to be flowing form the
+south. You jump around trying to avoid the hot lava. To make matters worse Lava
+Beasts surround you and spew lava at your head.
+~
+0 0
+D0
+~
+~
+0 0 32369
+D1
+~
+~
+0 0 32372
+D2
+~
+~
+0 0 32371
+S
+
+#32371
+At The Base of the Volcano~
+After following the flow of the lava, you come to its source, the active volcano.
+You look up and see that its about to blow. I don't think I would want to go up
+there if I were you.
+~
+0 0
+D0
+~
+~
+0 0 32370
+D4
+~
+~
+0 0 32373
+S
+
+#32372
+Lava Molten Ground~
+You find yourself on hot lava molten ground. Lava seems to be flowing from the west.
+You jump up and down trying not to step on the steaming hot lava. Your shoes seem
+to have holes in them from the boiling lava. Also lava monsters are spewing
+lava at you. Damn its hot in here..
+~
+0 0
+D0
+~
+~
+0 0 32368
+D3
+~
+~
+0 0 32370
+S
+
+#32373
+Going Up the Volcano~
+You walk higher up the volcano. More lava seems to be spewing out.. It's going
+to blow any second now..
+~
+0 0
+D4
+~
+~
+0 0 32374
+D5
+~
+~
+0 0 32371
+S
+
+#32374
+Going Up the Volcano~
+You walk higher up the volcano. More lava seems to be spewing out.. Its going
+to blow any second now..
+~
+0 0
+D4
+~
+~
+0 0 32375
+D5
+~
+~
+0 0 32373
+S
+
+#32375
+Going Up the Volcano~
+You walk higher up the volcano. More lava seems to be spewing out.. Its going
+to blow any second now..
+~
+0 0
+D4
+~
+~
+0 0 32376
+D5
+~
+~
+0 0 32374
+S
+
+#32376
+The Apex of the Volcano~
+You finally reach the peak of the volcano. The lava is now spewing its hardest.
+The volcano starts to shake and more lava spews up. It seems that its raining
+lava. Its burning holes in your clothes.. and now your skin..
+~
+0 0
+D0
+~
+~
+0 0 32377
+D5
+~
+~
+0 0 32375
+S
+
+#32377
+On Top of the Volcano~
+You have reached the top of the volcano, and your standing rite where the lava
+spews out.. Boy are you crazy. If I were you I would leave..
+~
+0 0
+D2
+~
+~
+0 0 32376
+D5
+~
+~
+0 0 32378
+S
+
+#32378
+Inside the Volcano~
+You must have alot of guts to actually go inside the volcano. Suddenly the volcano
+seals and your stuck.. stuck here to die.. now what?
+~
+4 0
+D5
+~
+~
+0 0 32396
+S
+
+#32379
+The Fire Desert~
+You find yourself in one of the hottest deserts you've ever been in. You didn't even
+know temperatures could get this high. Sand covers the whole area and the land
+is cracked and barren. The sun is high and at its peak scorching the ground and
+everything thats in its way. Its so hot here that flames erupt from the air. Fire
+Phoenixes fly around you looking at you as if you were food..
+~
+0 0
+D0
+~
+~
+0 0 32380
+D1
+~
+~
+0 0 32382
+D2
+~
+~
+0 0 32387
+D3
+~
+~
+0 0 32367
+S
+
+#32380
+The Fire Desert~
+You find yourself in one of the hottest deserts you've ever been in. You didn't even
+know temperatures could get this high. Sand covers the whole area and the land
+is cracked and barren. The sun is high and at its peak scorching the ground and
+everything thats in its way. Its so hot here that flames erupt from the air. Fire
+birds fly around you looking at you as if you were food..
+~
+0 0
+D1
+~
+~
+0 0 32381
+D2
+~
+~
+0 0 32379
+S
+
+#32381
+The Fire Desert~
+You find yourself in one of the hottest deserts you've ever been in. You didn't even
+know temperatures could get this high. Sand covers the whole area and the land
+is cracked and barren. The sun is high and at its peak scorching the ground and
+everything thats in its way. Its so hot here that flames erupt from the air. Fire
+birds fly around you looking at you as if you were food..
+~
+0 0
+D1
+~
+~
+0 0 32384
+D2
+~
+~
+0 0 32382
+D3
+~
+~
+0 0 32380
+S
+
+#32382
+The Center of the Fire Desert~
+You find yourself at the center of the fire desert. You are about to die of thirst
+or a heat stroke. You collapse and fall to the ground. While on the ground you
+notice a small door beneath you..
+~
+0 0
+D0
+~
+~
+0 0 32381
+D1
+~
+~
+0 0 32383
+D2
+~
+~
+0 0 32386
+D3
+~
+~
+0 0 32379
+D5
+~
+~
+ABCFGH 32314 32389
+S
+
+#32383
+The Fire Desert~
+You find yourself in one of the hottest deserts you've ever been in. You didn't even
+know temperatures could get this high. Sand covers the whole area and the land
+is cracked and barren. The sun is high and at its peak scorching the ground and
+everything thats in its way. Its so hot here that flames erupt from the air. Fire
+birds fly around you looking at you as if you were food..
+~
+0 0
+D0
+~
+~
+0 0 32384
+D2
+~
+~
+0 0 32385
+D3
+~
+~
+0 0 32382
+S
+
+#32384
+The Fire Desert~
+You find yourself in one of the hottest deserts you've ever been in. You didn't even
+know temperatures could get this high. Sand covers the whole area and the land
+is cracked and barren. The sun is high and at its peak scorching the ground and
+everything thats in its way. Its so hot here that flames erupt from the air. Fire
+birds fly around you looking at you as if you were food..
+~
+0 0
+D2
+~
+~
+0 0 32383
+D3
+~
+~
+0 0 32381
+S
+
+#32385
+The Fire Desert~
+You find yourself in one of the hottest deserts you've ever been in. You didn't even
+know temperatures could get this high. Sand covers the whole area and the land
+is cracked and barren. The sun is high and at its peak scorching the ground and
+everything thats in its way. Its so hot here that flames erupt from the air. Fire
+birds fly around you looking at you as if you were food..
+~
+0 0
+D0
+~
+~
+0 0 32383
+D3
+~
+~
+0 0 32386
+S
+
+#32386
+The Fire Desert~
+You find yourself in one of the hottest deserts you've ever been in. You didn't even
+know temperatures could get this high. Sand covers the whole area and the land
+is cracked and barren. The sun is high and at its peak scorching the ground and
+everything thats in its way. Its so hot here that flames erupt from the air. Fire
+birds fly around you looking at you as if you were food..
+~
+0 0
+D0
+~
+~
+0 0 32382
+D1
+~
+~
+0 0 32385
+D3
+~
+~
+0 0 32387
+S
+
+#32387
+The Fire Desert~
+~
+0 0
+D0
+~
+~
+0 0 32379
+D1
+~
+~
+0 0 32386
+S
+
+#32389
+{CT{che {RF{ri{Rr{re{R R{ru{Rl{re{Rr{rs{C D{comain{x~
+Walking down from the Fire Desert, you find the Fire Rulers secret Domain. You have
+finally reached the last and most powerful elemental ruler. The Fire Ruler seems
+to be too busy commanding his fire elementals and causing chaos to even notice you.
+Corpses lay on the floor burnt to the crisp. You might be next.
+~
+0 0
+D4
+~
+~
+ABCFGH 0 32382
+S
+
+#32390
+The {RU{rL{RT{rI{RM{rA{RT{rE{x {BElemental Gateway{x~
+You stand before the {RU{rL{RT{rI{RM{rA{RT{rE{x Elemental Gateway. Before you
+enter the gateway, make sure you have the right things to pass the doors of
+elements. Best luck to you adventurer.
+~
+524288 0
+D4
+~
+~
+0 0 32304
+S
+
+#32391
+{GT{ghe {GE{garth {GG{gateway{x~
+You stand before the great Earth Gateway. Large boulders and trees surround the
+gateway casting a large shadow over the whole room. The gateway seems to hum
+with magic.
+~
+0 0
+D0
+~
+gateway~
+ABCFGH 32305 32392
+S
+
+#32392
+{BT{bhe{B W{bater{B G{bateway{x~
+You stand before the great Water Gateway. Large rivers and lakes surround the
+gateway making it a peaceful environment. The gateway seems to glow with magic.
+~
+0 0
+D0
+~
+gateway~
+ABCFGH 32306 32393
+D2
+~
+~
+ABCFGH 0 32391
+S
+
+#32393
+{RT{rhe {RF{rire{R G{rateway{x~
+You come to the great Fire Gateway. Large volcanos surround you spewing lava all
+over the place. Fire seems to be everywhere covering the ground. You can smell the
+scent of burning flesh. The gateway seems to vibrate with magic.
+~
+0 0
+D0
+~
+gateawy~
+ABCFGH 32307 32394
+D2
+~
+~
+ABCFGH 0 32392
+S
+
+#32394
+{BT{bhe {BF{binal {CE{clemental {BG{bateway{x~
+You come to the final gateway. Before you can enter the gateway, you must fight
+the Elemental Gateway Guardian. He spots you and attacks you immediately, trying
+to keep anyone from entering the gateway. What is beyond this gateway? It must be
+something important..
+~
+0 0
+D2
+~
+~
+ABCFGH 0 32393
+S
+
+#32395
+{RT{rh{Re {RD{ro{Rm{ra{Ri{rn{R o{rf {Rt{rh{Re{Y G{yo{Yd {Ro{rf{C E{cl{Ce{cm{Ce{cn{Ct{ca{Cl{cs{x~
+You have come to the final stage of the elemental region. Standing here is the
+mighty {CE{clemental {CG{cod{x. He's been here for more than thousands of years.
+Skeletons and corpses of past adventurers lie on the ground. No one yet has
+defeated him, and only a few even have seen him. Those who have seen him, don't
+usaully come back alive...
+~
+512 0
+D2
+~
+~
+0 0 32399
+D5
+~
+~
+ABG 0 32397
+S
+
+#32396
+In a Pit of Fire~
+You walk down from inside the volcano and find yourself to the Volcano's center.
+Here all the lava seems to shake violently ready to erupt any moment now.
+It seems that the lava here has formed a beast.. but not any beast..
+the {RL{rava {RB{reast{x!!
+~
+4 0
+S
+
+#32397
+The Treasure Room~
+Somehow you've kill the {CE{clemental{C G{cod{x and actually found his secret
+treasure room. Congratulations, you are probablly the only one who has actually
+made it this far. You look around and see jewels and diamonds everywhere. On
+the floor you can see diamonds everywhere. In the center of the room you see
+something that glows brightly. You come closer and see that its the legendary
+Helmet of Elements.
+~
+0 0
+D4
+~
+~
+ABG 0 32395
+S
+
+#32398
+The Treasure Room~
+~
+0 0
+D4
+~
+~
+ABG 0 32340
+S
+
+#32399
+{YT{yhe {YP{yrep {YR{yoom{x~
+You finish off the guardian, and find yourself in a cozy and peaceful room.
+You see adventurers all over the place healing their wounds and getting ready to
+face the final elemental, the {CE{clemental {CG{cod{x.
+~
+1024 0
+D0
+~
+~
+0 0 32395
+H 200 200
+S
+#0
+
+#RESETS
+D 100 32314 5 1
+D 100 32315 4 1
+D 100 32322 5 1
+D 100 32323 4 1
+D 100 32340 5 1
+D 100 32351 5 1
+D 100 32352 4 1
+D 100 32363 0 2
+D 100 32364 2 2
+D 100 32382 5 2
+D 100 32389 4 2
+D 100 32391 0 2
+D 100 32392 0 2
+D 100 32392 2 2
+D 100 32393 0 2
+D 100 32393 2 2
+D 100 32394 2 2
+D 100 32395 5 1
+D 100 32397 4 1
+D 100 32398 4 1
+O 100 32300 0 32304
+O 100 32301 0 32304
+O 100 32303 0 32304
+M 20 32323 20 32308 1
+M 100 32301 10 32308 3
+M 100 32301 10 32308 3
+M 100 32301 10 32308 3
+M 100 32300 10 32308 3
+M 100 32300 10 32308 3
+M 100 32300 10 32308 3
+M 100 32308 8 32310 2
+M 100 32308 8 32310 2
+M 100 32302 8 32311 2
+M 100 32302 8 32311 2
+M 100 32302 8 32312 2
+M 100 32302 8 32312 2
+M 100 32302 8 32313 2
+M 100 32302 8 32313 2
+M 100 32302 8 32314 2
+M 100 32302 8 32314 2
+M 20 32312 1 32319 1
+E 20 32311 0 8
+E 20 32328 0 16
+E 20 32327 0 7
+M 100 32308 8 32320 2
+M 100 32308 8 32320 2
+M 100 32308 8 32321 2
+M 100 32308 8 32321 2
+M 100 32308 8 32322 2
+M 100 32308 8 32322 2
+M 20 32313 1 32327 1
+E 20 32326 0 16
+E 20 32312 0 22
+E 20 32325 0 27
+M 100 32311 4 32329 1
+M 100 32311 4 32330 1
+M 100 32311 4 32332 1
+M 100 32311 1 32332 1
+M 100 32311 4 32333 1
+M 100 32311 1 32333 1
+M 100 32309 10 32334 3
+M 100 32309 10 32335 3
+M 100 32309 10 32335 3
+M 100 32309 10 32336 3
+M 100 32309 10 32337 3
+M 100 32309 10 32337 3
+M 100 32309 10 32338 3
+M 100 32309 10 32339 3
+M 100 32309 10 32339 3
+M 100 32309 10 32339 3
+M 75 32303 1 32340 1
+E 50 32305 0 17
+E 20 32322 0 14
+E 20 32323 0 20
+E 20 32324 0 23
+E 20 32334 0 16
+M 20 32316 20 32343 3
+G 20 32331 0
+M 20 32316 20 32343 3
+G 20 32331 0
+M 20 32316 20 32343 3
+G 20 32331 0
+M 20 32316 20 32344 3
+G 20 32331 0
+M 20 32315 10 32344 2
+G 20 32332 0
+M 20 32316 20 32345 3
+G 20 32331 0
+M 20 32316 20 32345 3
+G 20 32331 0
+M 10 32322 20 32346 1
+G 30 32338 0
+M 20 32316 20 32346 3
+G 20 32331 0
+M 20 32316 20 32346 3
+G 20 32331 0
+M 20 32315 10 32346 2
+G 20 32332 0
+M 20 32316 20 32347 3
+G 20 32331 0
+M 20 32316 20 32347 3
+G 20 32331 0
+M 20 32315 10 32347 2
+G 20 32332 0
+M 20 32315 10 32347 2
+G 20 32332 0
+M 10 32322 20 32348 1
+G 30 32336 0
+M 20 32316 20 32348 3
+G 20 32331 0
+M 20 32315 10 32348 2
+G 20 32332 0
+M 10 32322 20 32349 1
+G 30 32337 0
+M 20 32316 20 32349 3
+G 20 32331 0
+M 20 32316 20 32350 3
+G 20 32331 0
+M 20 32315 10 32350 2
+G 20 32332 0
+M 20 32316 20 32351 3
+G 20 32331 0
+M 20 32316 20 32351 3
+G 20 32331 0
+M 20 32316 20 32351 3
+G 20 32331 0
+M 75 32304 1 32355 1
+E 50 32306 0 17
+E 20 32320 0 13
+E 20 32319 0 3
+E 20 32321 0 23
+E 20 32335 0 16
+M 100 32317 20 32356 3
+M 100 32317 20 32356 3
+M 100 32317 20 32357 3
+M 100 32317 20 32357 3
+M 100 32317 20 32357 3
+M 100 32317 20 32358 3
+M 100 32317 20 32358 3
+M 100 32317 20 32359 3
+M 100 32317 20 32359 3
+M 100 32317 20 32359 3
+M 100 32314 3 32360 3
+M 100 32314 3 32360 3
+M 100 32314 3 32360 3
+M 100 32317 20 32361 3
+M 100 32317 20 32361 3
+M 100 32317 20 32361 3
+M 100 32317 20 32362 3
+M 100 32317 20 32362 3
+O 1 32313 0 32364
+M 100 32321 6 32366 3
+M 100 32321 6 32366 3
+M 100 32321 6 32366 3
+M 100 32321 6 32367 3
+M 100 32321 6 32367 3
+M 100 32321 6 32367 3
+M 100 32319 15 32368 3
+M 100 32319 15 32368 3
+M 100 32319 15 32369 3
+M 100 32319 15 32369 3
+M 100 32319 15 32370 3
+M 100 32319 15 32370 3
+M 100 32319 15 32371 3
+M 100 32319 15 32372 3
+M 100 32319 15 32372 3
+M 100 32319 15 32372 3
+M 100 32319 15 32373 3
+M 100 32319 15 32373 3
+M 100 32319 15 32374 3
+M 100 32319 15 32374 3
+M 100 32319 15 32376 3
+M 100 32319 15 32377 3
+M 100 32319 15 32377 3
+M 100 32320 15 32379 3
+M 100 32320 15 32379 3
+M 100 32320 15 32380 3
+M 100 32320 15 32380 3
+M 100 32320 15 32381 3
+M 100 32320 15 32382 3
+M 100 32320 15 32382 3
+M 100 32320 15 32382 3
+M 100 32320 15 32383 3
+M 100 32320 15 32384 3
+M 100 32320 15 32384 3
+M 100 32320 15 32385 3
+M 100 32320 15 32385 3
+M 100 32320 15 32386 3
+M 100 32320 15 32386 3
+M 100 32320 15 32387 3
+M 100 32320 15 32387 3
+M 75 32305 1 32389 1
+E 50 32307 0 17
+E 20 32316 0 24
+E 20 32317 0 12
+E 20 32318 0 23
+E 20 32333 0 16
+G 20 32339 0
+O 100 32308 0 32390
+M 100 32306 1 32394 1
+O 100 32302 0 32394
+M 50 32307 1 32395 1
+E 40 32329 0 2
+E 40 32309 0 16
+M 20 32318 1 32396 1
+E 20 32315 0 26
+E 50 32314 0 17
+E 20 32330 0 11
+M 100 32310 1 32399 1
+O 100 32310 0 32399
+S
+
+#$

@@ -1,0 +1,1205 @@
+#AOD_AREA
+Kobold Warren~
+3800 3849 0 9
+Levl 10 35
+Bldr Ronni~
+Alig E
+End
+
+#MOBILES
+#3800
+kobold male~
+a Kobold male~
+A male Kobold is attending to his chores.
+~
+This bi-pedal creature with a dog-like head busily does his work around
+his chambers.  
+~
+kobold~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ACG J 0 0 0
+20 0 0 318 450 108 137 4 5 10 punch
+-20 -20 -20 40
+STANDING STANDING male 500
+0 mage medium ABCDEFGHIJKQ
+
+#3801
+kobold female~
+a Kobold female~
+A female Kobold is sweeping up.
+~
+This female bi-pedal dog pays attention to nothing else as she tries to
+clean up.  
+~
+kobold~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABGH J 0 0 0
+18 0 0 267 379 107 133 4 5 9 scratch
+-10 -10 -10 40
+STANDING STANDING female 450
+0 mage medium ABCDEFGHIJKQ
+
+#3802
+kobold child~
+a Kobold child~
+A young kobold is barking away.
+~
+It resembles a puppy on two legs.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG 0 0 0 0
+10 0 0 103 155 105 116 2 5 5 claw
+40 40 40 70
+STANDING STANDING female 100
+0 mage medium ABCDEFGHIJK
+
+#3803
+kobold chieftan~
+the Kobold Chieftan~
+The Kobold Chieftan is here.
+~
+This large dog-like being is wearing garb that propogates his position.  
+~
+kobold~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABCGR DFJ 0 0 0
+35 0 0 789 1197 126 162 5 7 17 claw
+-120 -120 -120 -10
+STANDING RESTING male 1000
+0 mage medium ABCDEFGHIJKQ
+
+#3804
+kobold chieftans son~
+the Chieftan's Son~
+The Chieftan's son is here barking orders.
+~
+This young kobold maleis trying to flaunt his authority.  
+~
+kobold~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABCG J 0 0 0
+29 0 0 578 824 123 152 4 7 14 pound
+-80 -80 -80 10
+STANDING STANDING male 750
+0 mage medium ABCDEFGHIJKQ
+
+#3805
+kobold shaman~
+the Kobold Shaman~
+A wizened, old Kobold rests on a staff.
+~
+This old dog is still learning.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ACGQ DF 0 0 0
+25 0 0 435 664 146 189 4 6 12 pierce
+-50 -50 -50 20
+STANDING STANDING male 500
+0 mage medium ABCDEFGHIJK
+
+#3806
+kobold warrior~
+a kobold warrior~
+A Kobold Warrior is wandering the warren.
+~
+This large, muscular dogman shows some fang.  
+~
+kobold~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ACG DJ 0 0 0
+33 0 0 701 1047 126 155 5 6 16 grep
+-100 -100 -100 0
+STANDING STANDING male 550
+0 mage medium ABCDEFGHIJKQ
+#0
+
+#OBJECTS
+#3800
+rusty scimitar~
+a {rrusty{x scimitar~
+A rusty scimitar is on the ground.~
+weapon X AN
+sword 7 7 slash DH
+19 15 750
+A 19 3
+A 18 3
+
+#3801
+granite club~
+a large {Dgranite{x club~
+A large stone club has been tossed aside.~
+weapon X AN
+mace 7 10 pound 0
+19 18 600
+A 19 3
+A 13 20
+
+#3802
+crude wooden staff~
+a crude {ywooden{x staff~
+A wooden staff is on the ground.~
+weapon X AN
+quarterstaff 10 7 blast A
+19 6 600
+
+#3803
+chieftan robe~
+the {YChieftan's{x Robe~
+A robe once belonging to the kobold chieftan is on the ground.~
+armor ABX AD
+8 8 8 6 0
+19 0 500
+A 12 10
+A 13 20
+A 5 2
+
+#3804
+tight leather bracer~
+tight {yleather{x bracer~
+A bracer made of leather has been discarded.~
+armor ABX AM
+8 8 8 6 0
+19 6 500
+A 17 -3
+A 13 15
+A 1 2
+
+#3805
+tattered cotton cloak~
+a tattered {Wcotton{x cloak~
+A tattered cloak made of cotton has been thrown away.~
+armor X AK
+8 8 8 6 0
+19 6 500
+A 12 25
+A 4 2
+
+#3806
+leather skull cap~
+a {yleather{x skull cap~
+A leather skull cap is on the ground.~
+armor BX AE
+8 8 8 6 0
+19 6 500
+A 13 20
+A 2 2
+#0
+
+#ROOMS
+#3800
+A Well Travelled Path~
+There is a lot of dead grass here, giving evidence of heavy travel. 
+There is an odour of feces coming from the cave in the distance.  
+~
+0 3
+D2
+~
+~
+0 0 3801
+S
+
+#3801
+Entrance to the Cave~
+The pungent smell of urine and feces dominates the senses.  Barking and
+whining can be heard coming from the cave.  From here, there is a large cave
+to the south, or a path to the north.  
+~
+0 3
+D0
+~
+~
+0 0 3800
+D2
+~
+~
+0 0 3806
+S
+
+#3802
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D3
+~
+~
+0 0 3803
+S
+
+#3803
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D1
+~
+~
+0 0 3802
+D2
+~
+~
+0 0 3804
+S
+
+#3804
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D0
+~
+~
+0 0 3803
+D3
+~
+~
+0 0 3805
+S
+
+#3805
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D1
+~
+~
+0 0 3804
+D2
+~
+~
+0 0 3808
+D3
+~
+~
+0 0 3806
+S
+
+#3806
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3801
+D1
+~
+~
+0 0 3805
+D2
+~
+~
+0 0 3809
+D3
+~
+~
+0 0 3807
+S
+
+#3807
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D1
+~
+~
+0 0 3806
+D2
+~
+~
+0 0 3810
+S
+
+#3808
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3805
+D2
+~
+~
+0 0 3820
+D3
+~
+~
+0 0 3809
+S
+
+#3809
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3806
+D1
+~
+~
+0 0 3808
+D2
+~
+~
+0 0 3821
+D3
+~
+~
+0 0 3810
+S
+
+#3810
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3807
+D1
+~
+~
+0 0 3809
+D2
+~
+~
+0 0 3822
+D3
+~
+~
+0 0 3811
+S
+
+#3811
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D1
+~
+~
+0 0 3810
+D2
+~
+~
+0 0 3823
+D3
+~
+~
+0 0 3812
+S
+
+#3812
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D1
+~
+~
+0 0 3811
+D2
+~
+~
+0 0 3814
+D3
+~
+~
+0 0 3813
+S
+
+#3813
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D1
+~
+~
+0 0 3812
+D2
+~
+~
+0 0 3815
+S
+
+#3814
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D0
+~
+~
+0 0 3812
+D3
+~
+~
+0 0 3815
+S
+
+#3815
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D0
+~
+~
+0 0 3813
+D1
+~
+~
+0 0 3814
+D2
+~
+~
+0 0 3816
+S
+
+#3816
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D0
+~
+~
+0 0 3815
+S
+
+#3817
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D2
+~
+~
+0 0 3824
+D3
+~
+~
+0 0 3818
+S
+
+#3818
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D1
+~
+~
+0 0 3817
+D2
+~
+~
+0 0 3825
+D3
+~
+~
+0 0 3819
+S
+
+#3819
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D1
+~
+~
+0 0 3818
+D3
+~
+~
+0 0 3820
+S
+
+#3820
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3808
+D1
+~
+~
+0 0 3819
+D2
+~
+~
+0 0 3826
+D3
+~
+~
+0 0 3821
+S
+
+#3821
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3809
+D1
+~
+~
+0 0 3820
+D2
+~
+~
+0 0 3827
+D3
+~
+~
+0 0 3822
+S
+
+#3822
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3810
+D1
+~
+~
+0 0 3821
+D2
+~
+~
+0 0 3828
+D3
+~
+~
+0 0 3823
+S
+
+#3823
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3811
+D1
+~
+~
+0 0 3822
+D2
+~
+~
+0 0 3829
+S
+
+#3824
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D0
+~
+~
+0 0 3817
+D2
+~
+~
+0 0 3831
+D3
+~
+~
+0 0 3825
+S
+
+#3825
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D0
+~
+~
+0 0 3818
+D1
+~
+~
+0 0 3824
+S
+
+#3826
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3820
+D2
+~
+~
+0 0 3832
+D3
+~
+~
+0 0 3827
+S
+
+#3827
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3821
+D1
+~
+~
+0 0 3826
+D2
+~
+~
+0 0 3833
+D3
+~
+~
+0 0 3828
+S
+
+#3828
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3822
+D1
+~
+~
+0 0 3827
+D3
+~
+~
+0 0 3829
+S
+
+#3829
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3823
+D1
+~
+~
+0 0 3828
+D2
+~
+~
+0 0 3834
+S
+
+#3830
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D3
+~
+~
+0 0 3831
+S
+
+#3831
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D0
+~
+~
+0 0 3824
+D1
+~
+~
+0 0 3830
+S
+
+#3832
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3826
+D2
+~
+~
+0 0 3840
+D3
+~
+~
+0 0 3833
+S
+
+#3833
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3827
+D1
+~
+~
+0 0 3832
+D2
+~
+~
+0 0 3841
+S
+
+#3834
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3829
+D3
+~
+~
+0 0 3835
+S
+
+#3835
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D1
+~
+~
+0 0 3834
+D3
+~
+~
+0 0 3836
+S
+
+#3836
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D1
+~
+~
+0 0 3835
+S
+
+#3837
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D2
+~
+~
+0 0 3845
+D3
+~
+~
+0 0 3838
+S
+
+#3838
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D1
+~
+~
+0 0 3837
+D2
+~
+~
+0 0 3846
+D3
+~
+~
+0 0 3839
+S
+
+#3839
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D1
+~
+~
+0 0 3838
+D3
+~
+~
+0 0 3840
+S
+
+#3840
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3832
+D1
+~
+~
+0 0 3839
+D2
+~
+~
+0 0 3847
+D3
+~
+~
+0 0 3841
+S
+
+#3841
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3833
+D1
+~
+~
+0 0 3840
+D3
+~
+~
+0 0 3842
+S
+
+#3842
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D1
+~
+~
+0 0 3841
+D2
+~
+~
+0 0 3848
+S
+
+#3843
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D3
+~
+~
+0 0 3844
+S
+
+#3844
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D1
+~
+~
+0 0 3843
+D3
+~
+~
+0 0 3845
+S
+
+#3845
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D0
+~
+~
+0 0 3837
+D1
+~
+~
+0 0 3844
+D3
+~
+~
+0 0 3846
+S
+
+#3846
+Living Area~
+Soiled rags lay scattered on the floor serving as a bed.  Shelves line
+the walls, bearing all sorts of jars with unknown contents.  Presumably
+food, but none of it seems fit for human consumption.  
+~
+9 0
+D0
+~
+~
+0 0 3838
+D1
+~
+~
+0 0 3845
+S
+
+#3847
+Inside a Dirty Cave~
+There is feces scattered all over the place, and the floor is soaked in
+urine.  Loud barking can be heard from every dark corner.  This is the home
+of the kobolds.  
+~
+9 0
+D0
+~
+~
+0 0 3840
+S
+
+#3848
+The Chieftan's Chambers~
+This is the private quarters of the Kobold Chieftan.  The bed is a modest
+one, consisting of a frame and thin padding, but much better than the ones
+belonging to his servants.  There are also several banners depicting past
+kobold glories on the walls.  
+~
+9 0
+D0
+~
+~
+0 0 3842
+D2
+~
+~
+0 0 3849
+S
+
+#3849
+The Chieftan's Chambers~
+This is the private quarters of the Kobold Chieftan.  The bed is a modest
+one, consisting of a frame and thin padding, but much better than the ones
+belonging to his servants.  There are also several banners depicting past
+kobold glories on the walls.  
+~
+9 0
+D0
+~
+~
+0 0 3848
+S
+#0
+
+#SPECIALS
+M 3805 spec_cast_cleric
+S
+
+#RESETS
+M 100 3805 1 3801 1
+E 100 3805 0 12
+E 100 3802 0 16
+M 100 3802 5 3802 5
+M 100 3801 5 3803 5
+M 100 3800 5 3804 5
+M 100 3806 12 3805 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3806 12 3807 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3806 12 3809 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3806 12 3811 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3802 5 3813 5
+M 100 3801 5 3815 5
+M 100 3800 5 3816 5
+M 100 3806 12 3819 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3806 12 3821 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3806 12 3823 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3802 5 3824 5
+M 100 3806 12 3826 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3806 12 3828 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3800 5 3830 5
+M 100 3801 5 3831 5
+M 100 3806 12 3832 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3806 12 3834 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3801 5 3835 5
+M 100 3802 5 3835 5
+M 100 3800 5 3836 5
+M 100 3802 5 3837 5
+M 100 3806 12 3842 12
+E 100 3801 0 16
+E 100 3804 0 14
+M 100 3801 5 3844 5
+M 100 3800 5 3845 5
+M 100 3804 1 3848 1
+E 100 3806 0 6
+M 100 3803 1 3849 1
+E 100 3803 0 5
+E 100 3800 0 16
+S
+
+#$

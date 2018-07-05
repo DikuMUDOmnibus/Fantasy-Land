@@ -1,0 +1,3222 @@
+#AOD_AREA
+The Empire~
+15700 15799 C 8
+Levl 101 101
+Bldr Shryp~
+Alig N
+End
+
+#MOBILES
+#15700
+clumsy peasant~
+the {gclumsy peasant{x~
+A {gclumsy peasant{x bumbles around looking for some work.
+~
+A {gclumsy peasant{x wanders around here looking for some work.
+~
+human~
+100 50 50 150 150 100 50 100 100 100 100 50 100 100 100 100 100 150 150 100 100 100 100 100 100 100 
+CGH DFJLT C 0 0
+120 100 0 15187 15521 15280 15502 10 10 35 punch
+-700 -700 -760 -780
+STANDING STANDING male 0
+84 thief huge ABCDEFGHIJK
+P 140 0
+
+#15701
+citizen~
+the {gcitizen{x~
+A {gcitizen{x stands here minding it's own business
+~
+The {gcitizen{x stands here, absently whistling a catchy tune.
+~
+gnome~
+100 100 100 100 100 100 100 100 100 50 100 100 100 50 100 100 100 100 150 150 100 100 150 100 100 100 
+CG FJZ CG -250 0
+130 100 0 19225 19555 19184 19560 10 10 35 punch
+-800 -750 -700 -760
+STANDING STANDING random 1000
+86 thief medium ABCDEFGHIJK
+P 305 0
+
+#15702
+empire guard~
+the {YEmpire{g guard{x~
+An {YEmpire{g guard{x stands here watching everything you do.
+~
+An {YEmpire{g guard{x stands here watching everything you do.  It
+would probably be a bad idea to annoy him.
+~
+human~
+100 100 100 50 0 100 50 100 100 100 100 150 100 100 100 100 100 100 0 150 150 100 100 100 100 100 
+DG FTZa CJ 100 0
+135 100 0 16234 16535 16231 16569 10 10 35 wrath
+-670 -800 -760 -720
+STANDING STANDING male 1200
+87 warrior medium ABCDEFGHIJK
+P 926 1
+
+#15703
+mage sentry guard~
+the {Ymage sentry{x~
+A {Ymage sentry{x sits here looking alert.
+~
+The {Ymage sentry{x sits here looking over all who come this way.
+~
+satyr~
+100 100 100 100 100 100 0 100 150 100 150 100 100 100 50 100 100 100 100 100 50 100 100 100 100 100 
+DG CEFGV DEOR 1000 0
+133 100 0 16270 16535 16249 16534 25 30 30 shock
+-780 -690 -800 -550
+STANDING STANDING neutral 1100
+86 wizard huge ABCDEFGHIJK
+P 141 3
+
+#15704
+mage acolyte~
+a {Rm{rage {Ga{gcolyte{x~
+A {Rm{rage {Ga{gcolyte{x is working hard to become stronger.
+~
+~
+goblin~
+50 100 150 100 100 100 100 100 150 100 150 100 100 50 100 100 100 100 0 150 100 100 100 100 100 100 
+DG CDFJ BDH -450 0
+137 249 0 18270 18535 18151 18554 25 30 50 slice
+-710 -730 -890 -870
+STANDING STANDING neutral 6298
+87 wizard huge ABCDEFGHIJK
+P 54 0
+
+#15705
+mage guard~
+a {Cmage {mguard{x~
+A {Cmage {mguard{x is here watching the halls.
+~
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+CDG DFJTc DFGI 560 0
+138 155 0 18292 18547 18302 18589 25 30 45 pierce
+-780 -700 -780 -700
+STANDING STANDING neutral 1600
+87 wizard huge ACDEFGHIJKPQUVX
+P 11 0
+
+#15706
+mage librarian~
+a {Ymage {Blibrarian{x~
+A {Ymage {Blibrarian{x is sifting through a book.
+~
+~
+wyvern~
+100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+BDG DFT CEH -450 0
+140 100 0 18805 19067 18769 19065 25 30 35 scratch
+-900 -900 -800 -760
+STANDING STANDING neutral 2000
+88 archmage huge ACDEFHJKQVX
+P 15 0
+
+#15707
+servant mage~
+a {ymage {gservant{x~
+A {ymage {gservant{x stands here awaiting his next command.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BDG EJT CD 400 0
+139 135 0 18287 18548 18306 18478 25 30 25 bite
+-800 -780 -980 -1000
+STANDING STANDING neutral 1700
+87 mage huge ABCDEFGHIJK
+P 9 2
+
+#15708
+adept mage~
+a {gmage {Dadept{x~
+A {gmage {Dadept{x is here, training to become an archmage.
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+D 0 CDE -200 0
+140 100 0 17975 18243 17946 18270 25 30 40 crush
+-690 -900 -590 -800
+STANDING STANDING neutral 2300
+88 mage huge ABCDEFGHIJK
+P 12 0
+
+#15709
+warlock master~
+a {Bwarlock {Rmaster{x~
+A {Bwarlock {Rmaster{x roams the upper floors of the tower.
+~
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BD JVc 0 500 0
+143 100 0 19247 19538 19269 19551 25 30 34 slash
+-800 -790 -900 -880
+STANDING STANDING neutral 1900
+88 mage huge ABCDEFGHIJK
+P 3 0
+
+#15710
+archmage good~
+the {Yg{yood {Wa{wrchmage{x~
+The {Yg{yood {Wa{wrchmage{x brother watches over his {Re{rvil{x twin.
+~
+~
+elf~
+100 150 0 100 100 100 100 100 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 
+BD DEFPQa CDEHIN 1000 0
+165 100 0 19213 19535 19320 19538 35 30 100 wrath
+-900 -900 -900 -890
+STANDING STANDING male 2500
+93 archmage huge ABCDEFGHIJK
+P 15 7
+
+#15711
+archmage evil~
+the {Re{rvil {wa{Drchmage{x~
+The {Re{rvil {wa{Drchmage{x attempts to cause chaos to invaders.
+~
+~
+elf~
+100 150 0 100 100 100 100 100 100 150 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 
+BDF DEFPQa DEHIJN -1000 0
+165 175 0 19086 19477 19161 19482 35 30 100 blast
+-900 -890 -900 -890
+STANDING STANDING female 3000
+93 archmage huge ABCDEFGHIJK
+P 52 4
+
+#15712
+scout mage~
+a {Rm{rag{Re {Ws{wcou{Wt{x~
+A {Rm{rag{Re {Ws{wcou{Wt{x is standing here.
+~
+A strong mage is watching the Empire from the balcony.
+~
+gnome~
+100 100 100 100 100 100 100 100 100 50 100 100 100 50 100 100 100 100 150 100 100 100 150 100 100 100 
+BD JZ CG 100 0
+145 100 0 17923 18276 17961 18224 25 30 34 chill
+-790 -900 -890 -980
+STANDING STANDING neutral 2344
+89 mage huge ABCDEFGHIJK
+
+#15713
+gateguard guard empire~
+an {YEmpire {Wgateguard{x~
+An {YEmpire {Wgateguard{x stands here, guarding the gates.
+~
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+BDFU DFJTc FHIL 450 0
+155 100 0 19079 19451 19132 19499 25 30 45 beating
+-900 -890 -980 -890
+STANDING STANDING neutral 1678
+91 warrior huge ACDEFGHIJKPQUVX
+P 55 8
+
+#15714
+cook royal empire~
+a {Mroyal {Wcook{x~
+A {Mroyal {Wcook{x is here, hastely preparing the {MEmperor's{x lunch.
+~
+You see someone hard at work, cooking food.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BD DF DGQ 350 0
+150 400 0 17290 17535 17176 17614 25 30 35 slash
+-690 -900 -800 -780
+STANDING STANDING neutral 1890
+90 bishop huge ABCDEFGHIJK
+
+#15715
+assistant cook's cooks~
+the {Wcook's assistant{x~
+A {Wcook's assistant{x appears to have locked himself in the {Cfreezer{x.
+~
+This man is covered in frostbite and shivers quite uncontrollably.
+~
+goblin~
+50 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+BD CDFJ BC -350 0
+140 100 0 18018 18304 18050 18325 25 30 35 thrust
+-800 -790 -890 -880
+STANDING STANDING male 1789
+88 warrior huge ABCDEFGHIJK
+P 1 1
+
+#15716
+rat large~
+the {ylarge {Drat{x~
+A {ylarge {Drat{x is here, spreading disease.
+~
+You see a large rat, infested with disease.
+~
+troll~
+150 50 50 100 0 100 150 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+D FJc DJLO -1000 0
+130 150 0 16118 16538 16237 16501 25 30 30 bite
+-700 -870 -900 -600
+STANDING STANDING neutral 1600
+86 thief huge ABCUV
+P 10 0
+
+#15717
+thief wine~
+the {5wine {8thief{x~
+A {8thief{x stands here, stuffing bottles of {5wine{x in his coat.
+~
+You see a thief, with bulging spots all over. You wonder what he is hiding.
+~
+drow~
+150 110 0 50 85 90 80 90 130 110 110 100 100 70 60 100 100 110 85 105 110 115 115 100 100 100 
+BDF EJPQTUZ BHO -900 0
+152 500 0 16355 16575 16290 16633 25 30 35 peck
+-800 -980 -890 -780
+STANDING STANDING neutral 4000
+90 mage huge ABCDEFGHIJK
+P 0 1
+
+#15718
+sentry emperor~
+the {MEmperor's{x sentry~
+The {MEmperor's{x sentry stands here watching the entrance.
+~
+A sentry is standing guard, and working his hardest for the emperor.
+~
+heucuva~
+100 100 100 100 0 100 100 100 150 100 150 100 100 100 0 100 100 100 0 150 100 50 100 100 100 100 
+BD DFJZc AEGJOQ 800 0
+150 200 0 17250 17585 17202 17624 25 30 30 crush
+-890 -900 -780 -780
+STANDING STANDING neutral 1500
+90 warrior huge ABCGHIJ
+P 1 0
+
+#15719
+scout empire~
+the {2scout{x~
+A {2scout{x stands here, watching for intruders.
+~
+A wise looking person stands here watching for intruders.
+~
+human~
+100 100 100 50 100 100 50 100 100 100 100 150 100 150 100 100 100 100 100 100 100 100 100 100 100 100 
+BD DFZ CD 400 0
+140 100 0 18248 18468 18160 18523 25 30 30 suction
+-890 -970 -890 -880
+STANDING STANDING neutral 2345
+88 ranger huge ABCDEFGHIJK
+P 1 0
+
+#15720
+guest empire~
+the {Dg{wues{Dt{x~
+A {Dg{wues{Dt{x of the {MEmperor{x is here, sleeping in bed.
+~
+You see a man sleeping in a bed.
+~
+water fowl~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 
+BD Tb C -100 0
+135 100 0 17235 17550 17261 17621 25 30 30 whip
+-900 -980 -780 -780
+SLEEPING SLEEPING neutral 1900
+87 warrior huge ACDEFHKP
+P 33 0
+
+#15721
+servant emperor~
+an {MEmperor's {yservant{x~
+A {yservant{x stands here, ready to serve the {MEmperor{x.
+~
+Your looking at the Emperor's servant.
+~
+heucuva~
+100 100 100 50 0 100 50 100 150 100 150 150 100 150 0 100 100 100 0 150 100 50 100 100 100 100 
+D JZc ADJO 100 0
+140 145 0 17983 18376 18078 18292 25 30 25 magic
+-900 -890 -780 -670
+STANDING STANDING neutral 1300
+88 warrior huge ABCGHIJ
+P 10 0
+
+#15722
+emperor~
+the {MEmperor{x~
+The {MEmperor{x is here, surrounded by {Ywealth{x and glory.
+~
+You see a man with riches beyond belief.
+~
+human~
+50 100 100 50 100 50 50 100 50 100 100 100 50 50 50 100 100 100 50 100 100 100 100 100 100 100 
+BD DF CDENQ 200 0
+170 400 0 26225 26578 19238 19528 40 50 400 wrath
+-1000 -1000 -1000 -1000
+STANDING STANDING male 5000
+94 mage huge ABCDEFGHIJK
+P 7 2
+
+#15723
+guard royal emperor~
+an {MEmperor's {Bguard{x~
+An {MEmperor's {Bguard{x stands here, guarding his ruler.
+~
+He guards the emperor with his life.
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+DF DFJTac HI -100 0
+160 350 0 17277 17553 17191 17539 25 30 35 suction
+-670 -870 -970 -980
+STANDING STANDING male 1111
+92 mage huge ACDEFGHIJKPQUVX
+P 38 5
+
+#15724
+soldier emperor~
+an {MEmperor's {Gsoldier{x~
+One of the {MEmperor's {Gsoldiers{x stands here.
+~
+The Emperor's soldier stands here, willing to die.
+~
+satyr~
+100 100 100 100 100 100 0 100 150 100 150 100 100 100 50 100 100 100 100 100 50 100 100 100 100 100 
+DF CEFGV DEGO 100 0
+158 100 0 17140 17535 17259 17644 25 30 40 claw
+-780 -970 -670 -870
+STANDING STANDING neutral 1000
+91 mage huge ABCDEFGHIJK
+P 42 12
+
+#15725
+palace guard~
+the {Wpalace guard{x~
+A {Wpalace guard{x stands here, protecting the palace!
+~
+A guard will give his life to protect the palace!
+~
+goblin~
+50 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+BDF CDFJa BFHIR -100 0
+160 100 0 17276 17503 17250 17681 25 30 30 slime
+-780 -680 -870 -890
+STANDING STANDING neutral 1500
+92 warrior huge ABCDEFGHIJK
+P 11 13
+
+#15726
+construction worker~
+the {3construction worker{x~
+A {yworker{x stands here, repairing the {Wpalace road{x.
+~
+You see a hard working man, repairing the streets.
+~
+goblin~
+50 100 150 100 100 100 100 100 150 100 150 100 100 50 100 100 100 100 0 150 100 100 100 100 100 100 
+DU CDFJ BE 0 0
+160 400 0 19111 19515 19136 19389 25 30 20 smash
+-670 -780 -870 -970
+STANDING STANDING neutral 1567
+92 mage huge ABCDEFGHIJK
+P 24 3
+#0
+
+#OBJECTS
+#15700
+shades archmage good~
+{cshades{x of the {Yg{yood {Wa{wrchmage{x~
+A pair of glasses lie here.~
+armor BKL AX
+40 47 40 35 0
+101 0 15000
+F A 3 2 L
+A 20 -2
+A 12 198
+A 13 125
+A 19 30
+A 18 30
+
+#15701
+relic archmage good~
+{crelic{x of the {Yg{yood {Wa{wrchmage{x~
+A strange relic is on the ground.~
+armor IKL AO
+35 46 36 47 0
+100 0 15685
+A 4 2
+A 20 -1
+A 12 200
+A 19 15
+A 18 15
+
+#15702
+circlet archmage good~
+{ccirclet{x of the {Yg{yood {Wa{wrchmage{x~
+A circlet is here.~
+armor ABHKLM AE
+42 40 34 37 0
+101 2 12233
+A 5 1
+A 13 125
+A 19 25
+A 18 35
+A 12 202
+
+#15703
+robes archmage good~
+{crobes{x of the {Yg{yood {Wa{wrchmage{x~
+A robe sits in the corner.~
+armor AIKL AD
+38 45 36 37 0
+100 1 23195
+A 19 35
+A 18 35
+A 13 100
+A 12 200
+A 20 -2
+
+#15704
+earring archmage evil~
+{Rearring{x of the {Re{rvil {wa{Drchmage{x~
+An earring has been placed here.~
+armor BJL AS
+35 44 35 35 0
+101 1 16340
+A 20 -1
+A 19 25
+A 18 25
+A 12 175
+A 13 100
+A 5 2
+
+#15705
+mask archmage evil~
+{Rmask{x of the {Re{rvil {wa{Drchmage{x~
+The mask of an archmage has been placed here.~
+armor AJL AR
+33 41 40 45 0
+100 1 12288
+A 4 2
+A 20 -1
+A 18 35
+A 19 35
+A 13 100
+A 12 200
+
+#15706
+orb glowing archmage evil~
+{Rglowing orb{x of the {Re{rvil {wa{Drchmage{x~
+A glowing orb pulsates with power.~
+armor JLM AQ
+42 39 42 45 0
+101 0 10964
+A 19 40
+A 18 35
+A 4 1
+A 12 202
+A 13 125
+
+#15707
+cape archmage evil~
+{Rcape{x of the {Re{rvil {wa{Drchmage{x~
+A magical cape floats in the air.~
+armor BHJL AT
+40 34 34 40 0
+101 0 23551
+A 2 1
+A 13 75
+A 12 202
+A 18 35
+A 19 35
+A 20 -2
+
+#15708
+girth archmage evil~
+{Rgirth{x of the {Re{rvil {wa{Drchmage{x~
+A girth lies in the corner.~
+armor BGJL AL
+37 43 46 34 0
+100 0 16818
+A 20 -1
+A 19 35
+A 18 35
+A 13 150
+A 12 150
+A 1 1
+
+#15709
+flaming staff~
+a {Rflaming{x staff~
+A staff is ablaze here.~
+weapon AF AN
+quarterstaff 13 13 flame A
+100 3 16326
+A 13 100
+A 12 200
+A 20 -1
+A 5 1
+A 19 35
+A 18 35
+
+#15710
+thunderbolt bolt~
+a {Ythunder{x bolt~
+A bolt of lighting strikes the ground!~
+weapon ABK AN
+polearm 14 14 shock G
+101 0 24605
+A 13 180
+A 12 120
+A 18 40
+A 19 40
+
+#15711
+powerful searchlight~
+a {Ypowerful searchlight{x~
+A {Ypowerful searchlight{x emits a bright beam of light.~
+light ABL A
+0 0 1000 0 0
+100 0 3500
+A 2 1
+A 5 2
+A 20 -1
+A 13 202
+A 12 202
+A 19 40
+A 18 40
+
+#15712
+magical flail~
+a {Mmagical{x flail~
+A {Mmagical{x flail awaits a new owner.~
+weapon ABJ AN
+flail 13 13 clash C
+100 1 14603
+A 18 35
+A 19 40
+A 13 100
+A 12 100
+A 2 2
+
+#15713
+magical charm~
+a {Mmagical{x charm~
+A charm has been tossed aside.~
+armor BIJ AC
+40 35 45 38 0
+101 0 14210
+A 20 -2
+A 19 35
+A 18 35
+A 13 200
+A 12 200
+
+#15714
+spear wooden long~
+a long, {ywooden{x spear~
+A long stick looks to be pretty abused.~
+weapon AGKM AN
+spear 14 14 splintering D
+100 2 24212
+A 19 40
+A 18 37
+A 13 135
+A 12 200
+A 20 -2
+
+#15715
+gemstone bright~
+a {Wbright {Rgemstone{x~
+A gemstone has been dropped.~
+armor BG AO
+38 37 42 34 0
+101 1 4000
+A 3 2
+A 4 2
+A 19 40
+A 18 40
+A 13 -200
+A 12 -500
+A 20 -4
+
+#15716
+Librarian Hat~
+a {Blibrarian's {Rhat{x~
+A hat sits on the ground.~
+armor BJK AE
+37 38 37 40 0
+99 0 20327
+A 20 -2
+A 18 35
+A 19 35
+A 12 200
+A 13 200
+
+#15717
+barrier magical~
+a {Cm{cagical {Wb{warrier{x~
+A {Cm{cagical {Wb{warrier{x floats through the room.~
+armor A AJ
+33 33 35 42 0
+90 1 9167
+A 5 2
+A 12 175
+A 13 175
+A 18 30
+A 19 30
+
+#15718
+silver knife~
+a {ws{Wilve{wr{x knife~
+A knife rests on the ground.~
+weapon BJ AN
+dagger 13 12 silvery D
+90 2 22400
+A 19 32
+A 18 30
+A 13 140
+
+#15719
+flute exotic~
+an {Cexotic{x flute~
+An {Cexotic{x flute appears broken.~
+weapon AJK AN
+exotic 12 13 hypnotism C
+95 4 13625
+A 18 38
+A 19 38
+A 13 190
+A 12 190
+A 1 3
+A 20 -2
+
+#15720
+sash mage red~
+a {gmage's {rred{x sash~
+A red piece of cloth has been left behind.~
+container AJK AL
+50 A 0 50 50
+98 1 5000
+A 18 20
+A 19 20
+A 13 130
+A 12 120
+
+#15721
+parchment blank~
+a blank piece of {yparchment{x~
+A piece of paper is on the ground.~
+armor IJ AO
+38 36 41 41 0
+100 0 16819
+A 13 -400
+A 12 300
+A 20 -3
+A 5 2
+A 2 2
+A 3 2
+A 4 2
+A 1 2
+A 18 -65
+A 19 -65
+
+#15722
+whip vibrating~
+a {Yvib{Wrat{Ying{x whip~
+A whip vibrates on the floor.~
+weapon BG AN
+whip 13 13 shriek D
+99 1 13308
+A 18 39
+A 19 39
+A 12 198
+
+#15723
+A sledge Hammer~
+{ya sledge hammer{x~
+A big hammer is here.~
+weapon BGM AN
+mace 14 13 pound 0
+100 5 14247
+A 18 40
+A 19 40
+A 1 3
+A 3 -2
+
+#15724
+sword gatekeeper~
+the gatekeeper's sword~
+A huge sword sets here.~
+weapon 0 AN
+sword 13 14 slash D
+101 2 18089
+A 1 2
+A 13 100
+A 12 100
+A 18 40
+A 19 40
+
+#15725
+shield gatekeeper~
+the gatekeeper's shield~
+A big shield sets here.~
+armor G AJ
+44 48 33 50 0
+101 3 15608
+A 20 -1
+A 12 202
+A 13 202
+A 18 30
+A 19 30
+
+#15726
+Spear of the Empire~
+spear of the Empire~
+A great staff lies here.~
+weapon BGJKM AN
+spear 14 13 thrust EG
+101 3 6000
+A 19 25
+A 18 25
+A 12 300
+A 13 300
+
+#15727
+Empire Guard Chainmail~
+{YEmpire{x Guard {YChainmail{x~
+A heavy suit of chainmail is here.~
+armor AB AD
+34 41 42 36 0
+101 5 24140
+A 13 200
+A 12 150
+A 18 30
+A 19 30
+A 1 2
+A 2 -2
+
+#15728
+ring empire~
+{YRing{x of the {YEmpire{x~
+A fat golden ring is here.~
+armor AB AB
+38 35 36 35 0
+100 0 12131
+A 20 -1
+A 18 25
+A 19 25
+A 13 100
+A 12 100
+
+#15729
+staff short~
+a short staff~
+A short staff is here.~
+weapon AB AN
+quarterstaff 13 13 splintering 0
+100 1 18804
+A 18 40
+A 19 40
+A 13 100
+A 12 100
+
+#15730
+cape sentry~
+a sentry's cape~
+A dirty cape lies here.~
+armor ABGI AK
+33 43 41 32 0
+96 1 11268
+A 20 -1
+A 18 38
+A 19 38
+A 13 100
+A 12 -100
+
+#15731
+butcher knife~
+{ra b{Ru{rtch{Re{rr k{Rnif{re{x~
+A bloody knife lies here.~
+weapon ABG AN
+dagger 13 14 slash D
+101 2 23615
+A 18 40
+A 19 40
+A 13 100
+A 12 100
+A 2 1
+
+#15732
+salt pepper~
+{WSalt{x & {DPepper{x~
+Some Spices are here.~
+pill BY AO
+85 'mass invis' 'mass healing' 'heal' 'reserved'
+100 0 5000
+
+#15733
+hat chef~
+a {Wchef's hat{x~
+A tall white cap rests here.~
+armor AG AE
+35 40 49 40 0
+100 1 13784
+A 12 150
+A 13 150
+A 18 40
+A 19 40
+
+#15734
+icicle~
+{^a{&n {^i{&c{^i{&c{^l{&e{x~
+Ouch! You stepped on an icicle!~
+weapon AG AN
+dagger 13 12 chill BD
+95 1 20779
+A 18 38
+A 19 38
+A 13 150
+A 12 150
+
+#15735
+eyes scout~
+{gscout's eyes{x~
+Some glasses are here.~
+armor G AX
+38 39 46 36 0
+100 0 1000
+A 12 100
+A 13 200
+A 19 35
+A 18 35
+
+#15736
+training pants~
+{2t{8r{3a{2i{8n{3i{2n{8g {3p{2a{8n{3t{2s{x~
+Some training pants are here.~
+armor BG AF
+33 43 34 38 0
+90 1 22428
+A 18 20
+A 19 25
+A 13 100
+A 12 20
+
+#15737
+combat boots~
+{2c{8o{3m{2b{8a{3t {2b{8o{3o{2t{8s{x~
+An old pair of combat boots has been left here.~
+armor B AG
+32 40 44 30 0
+90 2 21564
+A 18 20
+A 19 20
+A 13 75
+A 12 75
+A 14 75
+
+#15738
+protective sleeves~
+{2p{8r{3o{2t{8e{3c{2t{8i{3v{2e {8s{3l{2e{8e{3v{2e{8s{x~
+Some heavy sleeves are here.~
+armor AB AI
+37 33 36 36 0
+90 2 22456
+A 20 -2
+A 18 20
+A 19 20
+A 13 75
+A 12 75
+A 14 75
+A 1 2
+
+#15739
+stench death~
+{2s{8t{3e{2n{8c{3h {2o{8f {3d{2e{8a{3t{2h{x~
+An odd smell is here.~
+armor ABEG AQ
+46 32 47 35 0
+94 0 13606
+A 20 -3
+A 18 30
+A 19 30
+A 14 50
+A 13 50
+A 12 50
+
+#15740
+anklet guest~
+{8a g{7uest{8's a{7nkle{8t{x~
+An odd anklet is here.~
+armor A AU
+31 39 39 37 0
+95 1 12878
+A 19 20
+A 13 130
+A 12 130
+A 18 20
+
+#15741
+patch guest emperor~
+{MEmperor's {Dg{wues{Dt p{watc{Dh{x~
+A valuable identification card is here.~
+armor BG AV
+35 30 30 35 0
+92 1 9702
+A 13 50
+A 12 50
+A 14 50
+A 18 20
+A 19 20
+
+#15742
+bracer guest~
+{Da g{wuest'{Ds b{wrace{Dr{x~
+A guest's bracer is here.~
+armor ABGI AM
+32 35 34 32 0
+95 2 21440
+A 2 1
+A 5 1
+A 18 20
+A 19 20
+A 13 150
+A 12 150
+
+#15743
+tray serving~
+{Da s{wervin{Dg t{wra{Dy{x~
+A serving tray is here.~
+armor A AJ
+47 33 35 33 0
+95 1 19477
+A 13 130
+A 12 130
+A 14 130
+A 18 25
+A 19 25
+
+#15744
+jar spices~
+{Da {wjar {Dof s{wpice{Ds{x~
+A jar of spices lies on the floor.~
+potion BIY AO
+101 'cure light' 'cure light' 'cure critical' 'reserved'
+97 1 12061
+A 18 10
+A 19 10
+A 20 -2
+A 13 150
+A 12 150
+
+#15745
+crown emperor~
+{#E{&m{#p{&e{#r{&o{#r{&'{#s C{&r{#o{&w{#n{x~
+An expensive crown is here.~
+armor ABFGI AE
+42 43 39 35 0
+101 1 12983
+A 13 202
+A 12 202
+A 18 40
+A 19 40
+A 20 -4
+
+#15746
+robes emperor~
+{$E{%m{$p{%e{$r{%o{$r{%'{$s R{%o{$b{%e{$s{x~
+High robes are here.~
+armor ABFGI AK
+50 34 49 33 0
+101 0 10820
+A 13 202
+A 12 202
+A 18 40
+A 19 40
+A 20 -1
+
+#15747
+sceptor emperor golden~
+{BEmperor's {YGolden {BScepter{x~
+The Royal scepter is here.~
+weapon ABFGI AN
+polearm 14 13 divine DG
+101 1 23436
+A 18 30
+A 19 30
+A 13 200
+A 12 200
+
+#15748
+book law~
+{%B{5oo{%k {5of {%L{5a{%w{x~
+A holy book sits here.~
+armor ABGI AO
+45 44 34 39 0
+101 1 16925
+A 18 40
+A 19 40
+A 1 3
+A 4 -5
+A 3 -5
+A 5 -5
+A 2 -5
+A 13 300
+A 12 300
+
+#15749
+light royal~
+{YRoyal Light{x~
+A bright light sets here.~
+light ABFGJK A
+0 0 3500 0 0
+101 1 10000
+A 18 35
+A 19 35
+A 13 275
+A 12 275
+A 20 -2
+
+#15750
+sword royal guard~
+the {Mroyal {Bguard's{x sword~
+A royal sword is here.~
+weapon A AN
+sword 14 14 cleave BD
+99 3 21016
+A 18 35
+A 19 35
+
+#15751
+ring royal~
+a {Mroyal {Bring{x~
+An expensive ring is here.~
+armor AB AB
+33 36 41 38 0
+99 1 24522
+A 18 35
+A 19 35
+A 13 99
+A 12 99
+A 4 2
+
+#15752
+necklace royal~
+a {Mroyal {Bnecklace{x~
+An expensive necklace is here.~
+armor A AC
+43 37 35 33 0
+99 1 12715
+A 13 198
+A 12 198
+A 18 25
+A 19 25
+A 3 2
+
+#15753
+earring royal~
+a {Mroyal {Bearring{x~
+An expensive earring is here.~
+armor 0 AS
+35 45 44 39 0
+99 0 22064
+A 12 150
+A 13 198
+A 18 20
+A 19 25
+A 5 2
+
+#15754
+anklet royal~
+a {Mroyal {Banklet{x~
+An expensive anklet lies here.~
+armor 0 AU
+44 36 33 39 0
+99 0 18720
+A 13 150
+A 12 125
+A 18 22
+A 19 23
+A 2 1
+
+#15755
+seal royal emperor~
+{BRoyal Seal{x of the {MEmperor{x~
+The emperors seal is here.~
+armor ABFJK AB
+33 38 43 39 0
+101 3 15268
+A 13 220
+A 12 220
+A 18 25
+A 19 25
+A 20 -1
+
+#15756
+mask scout~
+a {gscout's{x mask~
+A scout's mask is burried here.~
+armor BG AR
+45 45 41 44 0
+100 1 20193
+A 12 120
+A 13 120
+A 19 30
+A 18 30
+
+#15757
+bottle wine broken~
+a {cbroken {mwine{x bottle~
+A bottle of wine lies broken on the floor.~
+weapon ABL AN
+dagger 13 14 thrust DH
+101 0 24605
+A 13 202
+A 14 50
+A 19 40
+A 18 40
+A 2 1
+#0
+
+#ROOMS
+#15700
+Entrance to the Empire~
+A small unimposing gate stands here, open to all, covered with small
+specks of rust.  Looks like it hasn't been opened for a while.  Sounds of
+activity filter in from the north.  
+~
+8 0
+D0
+~
+~
+0 -1 15701
+D4
+~
+~
+0 0 9783
+S
+
+#15701
+Venturing Into the Empire~
+A narrow, open alley-way heads north and south.  The floor looks nice
+and clean, the economy must be good here.  
+~
+0 0
+D0
+~
+~
+0 0 15702
+D2
+~
+~
+0 0 15700
+S
+
+#15702
+Further Into the Empire~
+A narrow, open alley-way heads north and south.  The floor looks nice
+and clean, the economy must be good here.  
+~
+8 0
+D0
+~
+~
+0 0 15703
+D2
+~
+~
+0 0 15701
+S
+
+#15703
+Junction at Conquest Street and the Alleyway~
+The street widens at this point leading in an east-west direction. 
+There is an exit out of the empire to the south.  Sounds of activity
+abound all around you.  
+~
+8 0
+D1
+~
+~
+0 0 15751
+D2
+~
+~
+0 0 15702
+D3
+~
+~
+0 0 15704
+S
+
+#15704
+West Along Conquest Street~
+The street widens at this point leading in an east-west direction. 
+Sounds of activity abound all around you.  
+~
+8 0
+D1
+~
+~
+0 0 15703
+D3
+~
+~
+0 0 15705
+S
+
+#15705
+Junction of Tower Lane and Conquest Street~
+This avenue is spotlessly clean, not a scrap of rubbish to be seen
+anywhere.  Paved with what looks like a finely polished granite stone, it
+gleams slightly as it is still wet from being washed.  There is a strange
+smell coming from the north.  
+~
+8 0
+D0
+~
+~
+0 0 15706
+D1
+~
+~
+0 0 15704
+S
+
+#15706
+South End of Tower Lane~
+This lane is clean and quiet, the streets seem to shine in the bright
+sunshine.  The smell of a fresh rain lingers in the air.  
+~
+8 0
+D0
+~
+~
+0 0 15707
+D2
+~
+~
+0 0 15705
+S
+
+#15707
+Tower Lane~
+This lane is clean and quiet, the streets seem to shine in the bright
+sunshine.  The smell of a fresh rain lingers in the air.  
+~
+8 0
+D0
+~
+~
+0 0 15708
+D2
+~
+~
+0 0 15706
+S
+
+#15708
+Tower Lane~
+This lane is clean and quiet, the streets seem to shine in the bright
+sunshine.  The smell of a fresh rain lingers in the air.  
+~
+8 0
+D0
+~
+~
+0 0 15709
+D2
+~
+~
+0 0 15707
+S
+
+#15709
+Before the Tower~
+This is a small, unassuming looking gate with a rather large porticullis
+dangling above.  A sense of foreboding overtakes your senses.  
+~
+8 0
+D0
+~
+~
+AB 0 15710
+D2
+~
+~
+0 0 15708
+S
+
+#15710
+Base of the Tower~
+This lane is clean and quiet, the streets seem to shine in the bright
+sunshine.  The smell of a fresh rain lingers in the air.  
+~
+8 0
+D2
+~
+~
+A 0 15709
+D4
+~
+~
+0 0 15711
+S
+
+#15711
+First Mage Sentry Station~
+This chamber is rather smaller than the outside dimensions of the tower,
+the walls must be hugely thick.  There is an austere chair in one corner
+and a pallet with furs in another corner.  
+~
+4 0
+D4
+~
+~
+0 0 15712
+D5
+~
+~
+0 0 15710
+E
+bed~
+This pallet looks like it almost has it's own intellegence.  There are a
+multitude of small ugly looking insects crawling around inside and on top
+of the furs.  
+~
+E
+chair~
+This chair looks like it has seen many years service, there are small
+grooves where people have repeatedly slide from the chair rather than
+standing...  
+~
+S
+
+#15712
+Second Mage Sentry Station~
+This chamber is rather smaller than the outside dimensions of the tower,
+the walls must be hugely thick.  There is an austere chair in one corner
+and a pallet with furs in another corner.  
+~
+4 8
+D4
+~
+~
+0 0 15713
+D5
+~
+~
+0 0 15711
+E
+bed~
+This pallet looks like it almost has it's own intellegence.  There are a
+multitude of small ugly looking insects crawling around inside and on top
+of the furs.  
+~
+E
+chair~
+This chair looks like it has seen many years service, there are small
+grooves where people have repeatedly slide from the chair rather than
+standing...  
+~
+S
+
+#15713
+Third Mage Sentry Station~
+This chamber is rather smaller than the outside dimensions of the tower,
+the walls must be hugely thick.  There is an austere chair in one corner
+and a pallet with furs in another corner.  
+~
+4 0
+D4
+~
+~
+0 0 15714
+D5
+~
+~
+0 0 15712
+E
+bed~
+This pallet looks like it almost has it's own intellegence.  There are a
+multitude of small ugly looking insects crawling around inside and on top
+of the furs.  
+~
+E
+chair~
+This chair looks like it has seen many years service, there are small
+grooves where people have repeatedly slide from the chair rather than
+standing...  
+~
+S
+
+#15714
+Fourth Mage Sentry Station~
+This chamber is rather smaller than the outside dimensions of the tower,
+the walls must be hugely thick.  There is an austere chair in one corner
+and a pallet with furs in another corner.  
+~
+4 0
+D4
+~
+~
+0 0 15715
+D5
+~
+~
+0 0 15713
+E
+bed~
+This pallet looks like it almost has it's own intellegence.  There are a
+multitude of small ugly looking insects crawling around inside and on top
+of the furs.  
+~
+E
+chair~
+This chair looks like it has seen many years service, there are small
+grooves where people have repeatedly slide from the chair rather than
+standing...  
+~
+S
+
+#15715
+Fifth Mage Sentry Station~
+This chamber is rather smaller than the outside dimensions of the tower,
+the walls must be hugely thick.  There is an austere chair in one corner
+and a pallet with furs in another corner.  There is a trapdoor and ladder
+leading up into the main tower.  
+~
+4 0
+D4
+~
+~
+AB 0 15716
+D5
+~
+~
+0 0 15714
+E
+bed~
+This pallet looks like it almost has it's own intellegence.  There are a
+multitude of small ugly looking insects crawling around inside and on top
+of the furs.  
+~
+E
+chair~
+This chair looks like it has seen many years service, there are small
+grooves where people have repeatedly slide from the chair rather than
+standing...  
+~
+S
+
+#15716
+Acolyte Nexus~
+There are many people striding purposefully around here.  This chamber
+has exits leading everywhere, a strange symbol is etched into the floor.  
+~
+8 8
+D0
+~
+~
+0 0 15720
+D1
+~
+~
+0 0 15718
+D2
+~
+~
+0 0 15717
+D3
+~
+~
+0 0 15719
+D4
+~
+~
+0 0 15725
+D5
+~
+~
+AB 0 15715
+E
+symbol~
+This symbol is a fist grasping a lightnng bolt.
+~
+S
+
+#15717
+South Chamber~
+This room is perfectly square.  Looking at the corners of the
+room not the slightest deviation from parallel can be detected.
+~
+8 0
+D0
+~
+~
+0 0 15716
+D1
+~
+~
+0 0 15724
+D3
+~
+~
+0 0 15723
+S
+
+#15718
+East Chamber~
+This room is perfectly square.  Looking at the corners of the
+room not the slightest deviation from parallel can be detected.
+~
+8 0
+D0
+~
+~
+0 0 15722
+D2
+~
+~
+0 0 15724
+D3
+~
+~
+0 0 15716
+S
+
+#15719
+West Chamber~
+This room is perfectly square.  Looking at the corners of the
+room not the slightest deviation from parallel can be detected.
+~
+8 0
+D0
+~
+~
+0 0 15721
+D1
+~
+~
+0 0 15716
+D2
+~
+~
+0 0 15723
+S
+
+#15720
+North Chamber~
+This room is perfectly square.  Looking at the corners of the
+room not the slightest deviation from parallel can be detected.
+~
+8 0
+D1
+~
+~
+0 0 15722
+D2
+~
+~
+0 0 15716
+D3
+~
+~
+0 0 15721
+S
+
+#15721
+Northwest Chamber~
+This room is perfectly square.  Looking at the corners of the
+room not the slightest deviation from parallel can be detected.
+~
+8 0
+D1
+~
+~
+0 0 15720
+D2
+~
+~
+0 0 15719
+S
+
+#15722
+Northeast Chamber~
+This room is perfectly square.  Looking at the corners of the
+room not the slightest deviation from parallel can be detected.
+~
+8 0
+D2
+~
+~
+0 0 15718
+D3
+~
+~
+0 0 15720
+S
+
+#15723
+Southwest Chamber~
+This room is perfectly square.  Looking at the corners of the
+room not the slightest deviation from parallel can be detected.
+~
+8 0
+D0
+~
+~
+0 0 15719
+D1
+~
+~
+0 0 15717
+S
+
+#15724
+Southeast Chamber~
+This room is perfectly square.  Looking at the corners of the
+room not the slightest deviation from parallel can be detected.
+~
+8 0
+D0
+~
+~
+0 0 15718
+D3
+~
+~
+0 0 15717
+S
+
+#15725
+Stairwell~
+This chamber is perfectly circular with round openings leading in all
+directions.  The stairs are made from an oddly luminescent metal.  
+~
+262152 0
+D0
+~
+~
+0 0 15726
+D1
+~
+~
+0 0 15729
+D2
+~
+~
+0 0 15727
+D3
+~
+~
+0 0 15728
+D4
+~
+~
+0 0 15730
+D5
+~
+~
+0 0 15716
+S
+
+#15726
+Servant Chamber~
+This chamber is sparce to say the least.  The furniture looks like it
+hasn't been cared for in the last years of it's life.  Once grand
+four-poster beds a arranged uniformly across the open space but they are
+quite obviously hand-me-downs.  
+~
+8 0
+D2
+~
+~
+0 0 15725
+S
+
+#15727
+Library Chamber~
+This room is a odds with the rest of the geometrically perfect building.
+There is not one right angle or perfect curve to be seen.  The shelves in
+the library seem to defy the laws of nature, some are so thin they cannot
+possibly support the massive amount of books stacked on them.  Others are
+of such a bizzare shape that there is no possible word to describe them.  
+~
+8 0
+D0
+~
+~
+0 0 15725
+S
+
+#15728
+Guard Chamber~
+This room is rather smaller than most in this tower.  Attached to the
+walls are various implements of pain and destruction, some of which seem
+quite antiquated.  
+~
+8 0
+D1
+~
+~
+0 0 15725
+S
+
+#15729
+Guard Chamber~
+This room is rather smaller than most in this tower.  Attached to the
+walls are various implements of pain and destruction, some of which seem
+quite antiquated.  
+~
+8 0
+D3
+~
+~
+0 0 15725
+S
+
+#15730
+Adept Nexus~
+This room is the same configuration as the acolyte nexus below.  The
+main difference being the quality of decor.  There is a rather ornate
+symbol carved into each wall.  
+~
+8 0
+D0
+~
+~
+0 0 15732
+D1
+~
+~
+0 0 15734
+D2
+~
+~
+0 0 15731
+D3
+~
+~
+0 0 15733
+D4
+~
+~
+0 0 15739
+D5
+~
+~
+0 0 15725
+E
+symbol~
+This symbol depicts a open hand with a ball of lightning suspended above
+it.  
+~
+S
+
+#15731
+Hallway of Adepts~
+This hallway is guarded by Mage Adepts. The sound of chanting can be heard
+through the entire room.
+~
+8 0
+D0
+~
+~
+0 0 15730
+D2
+~
+~
+0 0 15737
+S
+
+#15732
+Hallway of Adepts~
+This hallway is guarded by Mage Adepts. The sound of chanting can be heard
+through the entire room.
+~
+8 0
+D0
+~
+~
+0 0 15738
+D2
+~
+~
+0 0 15730
+S
+
+#15733
+Hallway of Adepts~
+This hallway is guarded by Mage Adepts. The sound of chanting can be heard
+through the entire room.
+~
+8 0
+D1
+~
+~
+0 0 15730
+D3
+~
+~
+0 0 15736
+S
+
+#15734
+Hallway of Adepts~
+This hallway is guarded by Mage Adepts. The sound of chanting can be heard
+through the entire room.
+~
+8 0
+D1
+~
+~
+0 0 15735
+D3
+~
+~
+0 0 15730
+S
+
+#15735
+Hallway of Adepts~
+This hallway is guarded by Mage Adepts. The sound of chanting can be heard
+through the entire room.
+~
+8 0
+D3
+~
+~
+0 0 15734
+S
+
+#15736
+Hallway of Adepts~
+This hallway is guarded by Mage Adepts. The sound of chanting can be heard
+through the entire room.
+~
+8 0
+D1
+~
+~
+0 0 15733
+S
+
+#15737
+Hallway of Adepts~
+This hallway is guarded by Mage Adepts. The sound of chanting can be heard
+through the entire room.
+~
+8 0
+D0
+~
+~
+0 0 15731
+S
+
+#15738
+Hallway of Adepts~
+This hallway is guarded by Mage Adepts. The sound of chanting can be heard
+through the entire room.
+~
+8 0
+D2
+~
+~
+0 0 15732
+S
+
+#15739
+Mages' Nexus~
+This room is grandiose to say the least, there are exquisite tapestries
+adorning the walls and all manner of eerie lighting, some of which comes
+from an unidentified source.  Exits lead in all directions.  
+~
+8 0
+D0
+~
+~
+0 0 15742
+D1
+~
+~
+0 0 15745
+D2
+~
+~
+0 0 15743
+D3
+~
+~
+0 0 15744
+D4
+~
+~
+0 0 15740
+D5
+~
+~
+0 0 15730
+S
+
+#15740
+Ladder to the Crest~
+This is the ladder to the crest of the tower. Only the most elite of the
+Tower's Mages are allowed to go past this point.
+~
+8 0
+D4
+~
+~
+AB 0 15741
+D5
+~
+~
+0 0 15739
+S
+
+#15741
+Crest of the Mage's Tower~
+Here on the top of the tower is where the mages come to watch over
+the empire. Only the strongest of mages are allowed in this room due to the
+strength of the magic surrounding the room.
+~
+262152 0
+D2
+~
+~
+0 0 15750
+D5
+~
+~
+AB 0 15740
+S
+
+#15742
+Warlock's North Wing~
+~
+8 0
+D0
+~
+~
+0 0 15746
+D2
+~
+~
+0 0 15739
+S
+
+#15743
+Warlock's South Wing~
+~
+8 0
+D0
+~
+~
+0 0 15739
+D2
+~
+~
+0 0 15747
+S
+
+#15744
+Warlock's West Wing~
+~
+8 0
+D1
+~
+~
+0 0 15739
+D3
+~
+~
+0 0 15748
+S
+
+#15745
+Warlock's East Wing~
+~
+8 0
+D1
+~
+~
+0 0 15749
+D3
+~
+~
+0 0 15739
+S
+
+#15746
+Warlock's North Wing~
+~
+8 0
+D2
+~
+~
+0 0 15742
+S
+
+#15747
+Warlock's South Wing~
+~
+8 0
+D0
+~
+~
+0 0 15743
+S
+
+#15748
+Warlock's West Wing~
+~
+8 0
+D1
+~
+~
+0 0 15744
+S
+
+#15749
+Warlock's East Wing~
+~
+8 0
+D3
+~
+~
+0 0 15745
+S
+
+#15750
+The Mage Tower Balcony~
+A large Balcony with nothing but a few scouts. This is where the mage
+scouts come to spy on people who enter and exit the empire. Everything is in
+view from this spot. Not a single soul could invade the empire without the
+scouts being aware of it.
+~
+8 0
+D0
+~
+~
+0 0 15741
+S
+
+#15751
+East Along Conquest Street~
+This is a wider street, still clean, heading east/west.  Sounds of activity
+echo all around.
+~
+8 0
+D1
+~
+~
+0 0 15752
+D3
+~
+~
+0 0 15703
+S
+
+#15752
+East Along Conquest Street~
+This is a wider street, still clean, heading east/west.  Sounds of activity
+echo all around.
+~
+8 0
+D1
+~
+~
+0 0 15753
+D3
+~
+~
+0 0 15751
+S
+
+#15753
+Junction of Glory Avenue and Conquest Street~
+This is a wider street, still clean, heading west/north.  Sounds of activity
+echo all around.
+~
+8 0
+D0
+~
+~
+0 0 15754
+D3
+~
+~
+0 0 15752
+S
+
+#15754
+South End of Glory Avenue~
+This avenue is spotlessly clean, not a scrap of rubbish to be seen
+anywhere.  Paved with what looks like a finely polished granite
+stone, it gleams slightly as it is still wet from being washed.
+~
+8 0
+D0
+~
+~
+0 0 15755
+D2
+~
+~
+0 0 15753
+S
+
+#15755
+Glory Avenue~
+This avenue is spotlessly clean, not a scrap of rubbish to be seen
+anywhere.  Paved with what looks like a finely polished granite
+stone, it gleams slightly as it is still wet from being washed.
+~
+8 0
+D0
+~
+~
+0 0 15756
+D2
+~
+~
+0 0 15754
+S
+
+#15756
+Glory Avenue~
+This avenue is spotlessly clean, not a scrap of rubbish to be seen
+anywhere.  Paved with what looks like a finely polished granite
+stone, it gleams slightly as it is still wet from being washed.
+~
+8 0
+D0
+~
+~
+0 0 15757
+D2
+~
+~
+0 0 15755
+S
+
+#15757
+Junction of Royal Walk and Glory Avenue~
+This avenue is spotlessly clean, not a scrap of rubbish to be seen
+anywhere.  Paved with what looks like a finely polished granite
+stone, it gleams slightly as it is still wet from being washed.
+To the west is Royal Walk, be careful not to litter as the guards
+have been known to take offence.
+~
+8 0
+D0
+~
+~
+0 0 15758
+D2
+~
+~
+0 0 15756
+D3
+~
+~
+0 0 15764
+S
+
+#15758
+Junction of Labour Road and Glory Avenue~
+This avenue is spotlessly clean, not a scrap of rubbish to be seen
+anywhere.  Paved with what looks like a finely polished granite
+stone, it gleams slightly as it is still wet from being washed.
+To the west is Labour Road.  Though still clean there are small
+piles of rubbish in the corners and the paving is heavily rutted
+by years of people shuffling around with iron-shod carts.
+~
+8 0
+D2
+~
+~
+0 0 15757
+D3
+~
+in~
+0 0 15759
+S
+
+#15759
+Labour Road~
+Welcome to Labour Road.  Though still clean there are small
+piles of rubbish in the corners and the paving is heavily rutted
+by years of poeple shuffling around with iron-shod carts.
+~
+8 0
+D1
+~
+~
+0 0 15758
+D3
+~
+~
+0 0 15760
+S
+
+#15760
+Labour Road~
+Welcome to Labour Road.  Though still clean there are small
+piles of rubbish in the corners and the paving is heavily rutted
+by years of people shuffling around with iron-shod carts.
+~
+8 0
+D1
+~
+~
+0 0 15759
+D3
+~
+~
+0 0 15761
+S
+
+#15761
+Labour Road~
+Welcome to Labour Road.  Though still clean there are small
+piles of rubbish in the corners and the paving is heavily rutted
+by years of people shuffling around with iron-shod carts.
+~
+8 0
+D1
+~
+~
+0 0 15760
+D3
+~
+~
+0 0 15762
+S
+
+#15762
+Labour Road~
+Welcome to Labour Road.  Though still clean there are small
+piles of rubbish in the corners and the paving is heavily rutted
+by years of people shuffling around with iron-shod carts.
+~
+8 0
+D1
+~
+~
+0 0 15761
+D3
+~
+~
+0 0 15763
+S
+
+#15763
+End of Labour Road~
+Welcome to Labour Road.  Though still clean there are small
+piles of rubbish in the corners and the paving is heavily rutted
+by years of people shuffling around with iron-shod carts.
+~
+8 0
+D1
+~
+~
+0 0 15762
+S
+
+#15764
+Royal Walk~
+To the west is Royal Walk, be careful not to litter as the guards
+have been known to take offence.  This walk is paved with a glossy
+stone of indeterminate origins.  Very highly polished and veined
+yet is seems strangely tough.
+~
+8 0
+D1
+~
+~
+0 0 15757
+D3
+~
+~
+0 0 15765
+S
+
+#15765
+Royal Walk~
+To the west is Royal Walk, be careful not to litter as the guards
+have been known to take offence.  This walk is paved with a glossy
+stone of indeterminate origins.  Very highly polished and veined
+yet is seems strangely tough.
+~
+8 0
+D1
+~
+~
+0 0 15764
+D3
+~
+~
+0 0 15766
+S
+
+#15766
+Royal Walk~
+To the west is Royal Walk, be careful not to litter as the guards
+have been known to take offence.  This walk is paved with a glossy
+stone of indeterminate origins.  Very highly polished and veined
+yet is seems strangely tough.
+~
+8 0
+D1
+~
+~
+0 0 15765
+D3
+~
+~
+0 0 15767
+S
+
+#15767
+Junction of Palace Road and Royal Walk~
+To the west is Royal Walk, be careful not to litter as the guards
+have been known to take offence.  This walk is paved with a glossy
+stone of indeterminate origins.  Very highly polished and veined
+yet is seems strangely tough.
+ 
+The gates to the south are wrought of fine steel and inlaid
+with beautiful traceries of silver, gold and platinum.
+~
+8 0
+D1
+~
+~
+0 0 15766
+D2
+~
+~
+0 0 15769
+D3
+~
+~
+0 0 15768
+S
+
+#15768
+Royal Walk~
+To the west is Royal Walk, be careful not to litter as the guards
+have been known to take offence.  This walk is paved with a glossy
+stone of indeterminate origins.  Very highly polished and veined
+yet is seems strangely tough.
+~
+8 0
+D1
+~
+~
+0 0 15767
+S
+
+#15769
+A Road to the Palace~
+You are on the road that leads to the palace.  Further down the road you
+see the Great Palace itself.  It is a mansion fit for a king.  Perhaps
+this is where the Emperor stays.  
+~
+8 0
+D0
+~
+~
+0 0 15767
+D2
+~
+~
+0 0 15770
+S
+
+#15770
+A Road to the Palace~
+You are on the road that leads to the palace.  Further down the road you
+see the Great Palace itself.  It is a mansion fit for a king.  Perhaps
+this is where the Emperor stays.  
+~
+8 0
+D0
+~
+~
+0 0 15769
+D2
+~
+~
+0 0 15771
+S
+
+#15771
+A Road to the Palace~
+You are on the road that leads to the palace.  Further down the road you
+see the Great Palace itself.  It is a mansion fit for a king.  Perhaps
+this is where the Emperor stays.  
+~
+8 0
+D0
+~
+~
+0 0 15770
+D3
+~
+~
+0 0 15772
+S
+
+#15772
+A Road to the Palace~
+You are on the road that leads to the palace.  Further down the road you
+see the Great Palace itself.  It is a mansion fit for a king.  Perhaps
+this is where the Emperor stays.  
+~
+8 0
+D0
+~
+~
+0 0 15773
+D1
+~
+~
+0 0 15771
+S
+
+#15773
+A Road to the Palace~
+You are on the road that leads to the palace.  Further down the road you
+see the Great Palace itself.  It is a mansion fit for a king.  Perhaps
+this is where the Emperor stays.  
+~
+8 0
+D2
+~
+~
+0 0 15772
+D3
+~
+~
+0 0 15774
+S
+
+#15774
+A Road to the Palace~
+You are on the road that leads to the palace.  Further down the road you
+see the Great Palace itself.  It is a mansion fit for a king.  Perhaps
+this is where the Emperor stays.  
+~
+0 0
+D1
+~
+~
+0 0 15773
+D2
+~
+~
+0 0 15775
+S
+
+#15775
+A Road to the Palace~
+You are on the road that leads to the palace.  Further down the road you
+see the Great Palace itself.  It is a mansion fit for a king.  Perhaps
+this is where the Emperor stays.  
+~
+0 0
+D0
+~
+~
+0 0 15774
+D2
+~
+~
+0 0 15776
+S
+
+#15776
+A Road to the Palace~
+You are on the road that leads to the palace.  Further down the road you
+see the Great Palace itself.  It is a mansion fit for a king.  Perhaps
+this is where the Emperor stays.  
+~
+0 0
+D0
+~
+~
+0 0 15775
+D2
+~
+~
+0 0 15777
+S
+
+#15777
+A Road to the Palace~
+You are on the road that leads to the palace.  Further down the road you
+see the Great Palace itself.  It is a mansion fit for a king.  Perhaps
+this is where the Emperor stays.  
+~
+0 0
+D0
+~
+~
+0 0 15776
+D3
+~
+~
+0 0 15778
+S
+
+#15778
+A Road to the Palace~
+You are on the road that leads to the palace.  Further down the road you
+see the Great Palace itself.  It is a mansion fit for a king.  Perhaps
+this is where the Emperor stays.  
+~
+0 0
+D1
+~
+~
+0 0 15777
+D2
+~
+~
+0 0 15779
+S
+
+#15779
+At The Palace Gates~
+You are standing at the palace gates.  To the north is the Palace Road. 
+To the south is the huge gates of the palace.  This palace is heavily
+guarded against invasion.  Do not mess with these guards.  
+~
+0 0
+D0
+~
+~
+0 0 15778
+D2
+~
+~
+AB 0 15780
+S
+
+#15780
+Inside the Palace Gates~
+You are inside the palace gates.  To the north is the palace gate.  To
+the south is the palace of the Emperor.  This part of the empire is
+heavily guarded.  It would not be wise to cause trouble around here.  
+~
+0 0
+D0
+~
+~
+AB 0 15779
+D2
+~
+~
+0 0 15781
+S
+
+#15781
+Door to the Palace~
+You are entering the palace of the Emperor.  His guards come up to
+escort you around.  You do your best not to cause trouble.  This is
+because you know the guards will slay you instantly.  
+~
+0 0
+D0
+~
+~
+0 0 15780
+D2
+~
+~
+AB 0 15782
+S
+
+#15782
+Inside the Palace~
+You are now inside the palace.  The kings guards must trust you greatly
+to allow you to enter here.  You are one of the first 'outsiders' to see the
+palace from the inside.  
+~
+8 0
+D0
+~
+~
+AB 0 15781
+D1
+~
+~
+0 0 15783
+D2
+~
+~
+0 0 15785
+D3
+~
+~
+0 0 15784
+S
+
+#15783
+A Room in the Palace~
+This appears to be a large, but yet unused room in the palace.  Its great
+stone walls make it appear strong and fortified.  This room could be used as
+a shelter if the palace was attacked.  
+~
+8 0
+D3
+~
+~
+0 0 15782
+S
+
+#15784
+A Room in the Palace~
+This appears to be a large, but yet unused room in the palace.  Its great
+stone walls make it appear strong and fortified.  This room could be used as
+a shelter if the palace was attacked.  
+~
+8 0
+D1
+~
+~
+0 0 15782
+S
+
+#15785
+Below the Stairs~
+You are now deep inside the palace.  From upstairs you hear scouts
+shouting orders of upcoming visitors.  From the south comes the smell of the
+kings lunch being cooked.  
+~
+8 0
+D0
+~
+~
+0 0 15782
+D2
+~
+~
+0 0 15791
+D4
+~
+~
+0 0 15786
+S
+
+#15786
+Second Floor of the Palace~
+You are upstairs in the Royal Palace.  It appears to be more heavily
+guarded as you move further down the hall.  You must be close to the king.  
+~
+8 0
+D1
+~
+~
+AB 0 15795
+D2
+~
+~
+0 0 15787
+D3
+~
+~
+AB 0 15798
+D4
+~
+~
+0 0 15799
+D5
+~
+~
+0 0 15785
+S
+
+#15787
+The King's Corridoor~
+You are on the Royal Corridor, the path to the king.  You should be
+amazed that you have made it this far without being attacked.  It would be
+wise to exit the palace before you are detected.  
+~
+8 0
+D0
+~
+~
+0 0 15786
+D2
+~
+~
+0 0 15788
+S
+
+#15788
+The King's Corridoor~
+You are on the Royal Corridor, the path to the king.  You should be
+amazed that you have made it this far without being attacked.  It would be
+wise to exit the palace before you are detected.  
+~
+8 0
+D0
+~
+~
+0 0 15787
+D2
+~
+~
+0 0 15789
+S
+
+#15789
+The King's Corridoor~
+You are on the Royal Corridor, the path to the king.  You should be
+amazed that you have made it this far without being attacked.  It would be
+wise to exit the palace before you are detected.  
+~
+8 0
+D0
+~
+~
+0 0 15788
+D1
+~
+~
+AB 0 15797
+D2
+~
+~
+AB 0 15790
+D3
+~
+~
+AB 0 15796
+S
+
+#15790
+The Emperor's Private Chambers~
+This is the kings private chambers.  You will be instantly slain if
+discovered in here.  You better turn back before it is to late.
+~
+8 0
+D0
+~
+~
+AB 0 15789
+S
+
+#15791
+The Royal Kitchen~
+This is the kings kitchen.  This is wear the royal cooks prepare the
+kings meals.  You see many cooks hard at work making lunch for the king.  
+~
+8 0
+D0
+~
+~
+0 0 15785
+D5
+~
+~
+AB 0 15792
+S
+
+#15792
+The Royal Food Cellar~
+This is the royal food cellar.  There is food and wine aplenty here.
+Beware of thieves and rats that may lurk in the shadows.
+~
+8 0
+D1
+~
+~
+0 0 15794
+D3
+~
+~
+AB 0 15793
+D4
+~
+~
+AB 0 15791
+S
+
+#15793
+The Royal Freezer~
+This room is very cold.  Of course it is its a freezer.  Against the back
+wall is the finest meat in the land.  Toward the front of the freezer are
+many snacks, ready to be served to the king.  
+~
+8 0
+D1
+~
+~
+AB 0 15792
+S
+
+#15794
+The Royal Wine Racks~
+This room smells of great wines.  Wine racks cover the walls, containing
+many, many bottles of the finest wines in the land.  You notice all of the
+wine is behind glass.  Perhaps to keep you from sneaking out with a bottle. 
+~
+8 0
+D3
+~
+~
+0 0 15792
+S
+
+#15795
+The Guest Chambers~
+This is the guest chambers.  Here is where visitors to the palace sleep
+at night.  This is probably the room you will sleep in.  There is a grand,
+king size, waterbed in the center of the room.  
+~
+8 0
+D3
+~
+~
+AB 0 15786
+S
+
+#15796
+The Servant's Chambers~
+This is where the king's servants gather, ready to assisst the king.  You
+see many servents standing here, who have devoted their entire lives to
+serving the king.  Thier parents probably served the king as well.  
+~
+8 0
+D1
+~
+~
+AB 0 15789
+S
+
+#15797
+The Servant's Chambers~
+This is where the king's servants gather, ready to assisst the king.  You
+see many servents standing here, who have devoted their entire lives to
+serving the king.  Thier parents probably served the king as well.  
+~
+8 0
+D3
+~
+~
+AB 0 15789
+S
+
+#15798
+The Guest Chambers~
+This is the guest chambers.  Here is where visitors to the palace sleep
+at night.  This is probably the room you will sleep in.  There is a grand,
+king size, waterbed in the center of the room.  
+~
+8 0
+D1
+~
+~
+AB 0 15786
+S
+
+#15799
+The Scout's Tower~
+This is the scouts tower.  Here is where the finest eyes in the land
+gather to watch for visitors, and more importantly, intruders.  You see many
+guard posts where the scouts have all materials needed to keep a safe watch
+on the palace grounds.  
+~
+0 0
+D5
+~
+~
+0 0 15786
+S
+#0
+
+#SPECIALS
+M 15716 spec_poison
+S
+
+#RESETS
+D 100 15709 0 1
+D 100 15715 4 1
+D 100 15716 5 1
+D 100 15740 4 1
+D 100 15741 5 1
+D 100 15779 2 1
+D 100 15780 0 1
+D 100 15781 2 1
+D 100 15782 0 1
+D 100 15786 1 1
+D 100 15786 3 1
+D 100 15789 1 1
+D 100 15789 2 1
+D 100 15789 3 1
+D 100 15790 0 1
+D 100 15791 5 1
+D 100 15792 3 1
+D 100 15792 4 1
+D 100 15793 1 1
+D 100 15795 3 1
+D 100 15796 1 1
+D 100 15797 3 1
+D 100 15798 1 1
+M 100 15700 20 15703 1
+M 100 15702 20 15703 1
+M 100 15700 20 15705 1
+M 100 15701 20 15707 1
+M 100 15700 20 15708 1
+M 100 15702 20 15708 1
+M 100 15701 20 15710 1
+M 100 15700 20 15710 1
+M 100 15702 20 15710 1
+M 100 15703 5 15711 1
+E 100 15710 0 16
+E 100 15711 0 0
+M 100 15703 5 15712 1
+E 100 15710 0 16
+E 100 15711 0 0
+M 100 15703 5 15713 1
+E 100 15710 0 16
+E 100 15711 0 0
+M 100 15703 5 15714 1
+E 100 15710 0 16
+E 100 15711 0 0
+M 100 15703 5 15715 1
+E 100 15710 0 16
+E 100 15711 0 0
+M 100 15704 9 15716 1
+E 100 15712 0 16
+E 100 15713 0 3
+M 100 15704 9 15717 1
+E 100 15712 0 16
+E 100 15713 0 3
+M 100 15704 9 15718 1
+E 100 15712 0 16
+E 100 15713 0 3
+M 100 15704 9 15719 1
+E 100 15712 0 16
+E 100 15713 0 3
+M 100 15704 9 15720 1
+E 100 15712 0 16
+E 100 15713 0 3
+M 100 15704 9 15721 1
+E 100 15712 0 16
+E 100 15713 0 3
+M 100 15704 9 15722 1
+E 100 15712 0 16
+E 100 15713 0 3
+M 100 15704 9 15723 1
+E 100 15712 0 16
+E 100 15713 0 3
+M 100 15704 9 15724 1
+E 100 15712 0 16
+E 100 15713 0 3
+M 100 15705 10 15725 1
+M 100 15707 20 15726 20
+E 100 15717 0 11
+E 100 15718 0 16
+M 100 15706 5 15727 5
+E 100 15704 0 21
+E 100 15716 0 6
+M 100 15705 10 15728 1
+E 100 15714 0 16
+E 100 15715 0 17
+M 100 15705 10 15729 1
+E 100 15714 0 16
+E 100 15715 0 17
+M 100 15708 12 15731 2
+E 100 15719 0 16
+E 100 15720 0 13
+M 100 15708 12 15732 2
+E 100 15719 0 16
+E 100 15720 0 13
+M 100 15708 12 15733 2
+E 100 15719 0 16
+E 100 15720 0 13
+M 100 15708 12 15734 2
+E 100 15719 0 16
+E 100 15720 0 13
+M 100 15708 12 15735 2
+E 100 15719 0 16
+E 100 15720 0 13
+M 100 15708 12 15736 2
+E 100 15719 0 16
+E 100 15720 0 13
+M 100 15708 12 15737 2
+E 100 15719 0 16
+E 100 15720 0 13
+M 100 15708 12 15738 2
+E 100 15719 0 16
+E 100 15720 0 13
+M 100 15711 1 15741 1
+E 100 15704 0 21
+E 100 15705 0 20
+E 100 15707 0 23
+E 100 15706 0 18
+E 100 15708 0 13
+M 100 15710 1 15741 1
+E 100 15700 0 27
+E 100 15701 0 17
+E 100 15702 0 6
+E 100 15703 0 5
+M 100 15709 18 15742 2
+E 100 15721 0 17
+E 100 15722 0 16
+M 100 15709 18 15743 2
+E 100 15721 0 17
+E 100 15722 0 16
+M 100 15709 18 15744 2
+E 100 15721 0 17
+M 100 15709 18 15745 2
+E 100 15721 0 17
+M 100 15709 18 15746 2
+E 100 15721 0 17
+E 100 15722 0 16
+M 100 15709 18 15747 2
+E 100 15721 0 17
+E 100 15722 0 16
+M 100 15709 18 15748 2
+E 100 15721 0 17
+M 100 15709 18 15749 2
+E 100 15721 0 17
+M 100 15712 5 15750 5
+E 100 15709 0 16
+M 100 15700 20 15751 1
+M 100 15701 20 15751 1
+M 100 15701 20 15753 1
+M 100 15702 20 15753 1
+M 100 15700 20 15753 1
+M 100 15700 20 15755 1
+M 100 15702 20 15755 1
+M 100 15700 20 15756 1
+M 100 15702 20 15757 1
+M 100 15702 20 15760 1
+M 100 15700 20 15761 1
+M 100 15701 20 15761 1
+M 100 15702 20 15762 1
+M 100 15700 20 15763 1
+M 100 15700 20 15765 1
+M 100 15701 20 15765 1
+M 100 15701 20 15766 1
+M 100 15702 20 15766 1
+M 100 15700 20 15767 1
+M 100 15701 20 15767 1
+M 100 15700 20 15768 1
+M 100 15702 20 15768 1
+M 100 15726 10 15769 1
+E 100 15723 0 16
+M 100 15726 10 15770 1
+E 100 15723 0 16
+M 100 15726 10 15771 1
+E 100 15723 0 16
+M 100 15726 10 15772 1
+E 100 15723 0 16
+M 100 15726 10 15773 1
+E 100 15723 0 16
+M 100 15726 10 15774 1
+E 100 15723 0 16
+M 100 15726 10 15775 1
+E 100 15723 0 16
+M 100 15726 10 15776 1
+E 100 15723 0 16
+M 100 15726 10 15777 1
+E 100 15723 0 16
+M 100 15726 10 15778 1
+E 100 15723 0 16
+M 100 15713 5 15779 5
+E 100 15724 0 16
+E 100 15725 0 11
+M 100 15726 10 15779 1
+E 100 15723 0 16
+M 100 15713 5 15780 2
+E 100 15725 0 11
+E 100 15724 0 16
+M 100 15725 5 15781 5
+E 100 15726 0 16
+E 100 15727 0 5
+E 100 15728 0 1
+M 100 15718 20 15783 10
+E 100 15729 0 16
+E 100 15730 0 12
+M 100 15718 20 15784 10
+E 100 15729 0 16
+E 100 15730 0 12
+M 100 15724 5 15786 5
+E 100 15736 0 7
+E 100 15737 0 8
+E 100 15738 0 10
+E 100 15739 0 18
+M 100 15724 10 15787 5
+E 100 15736 0 7
+E 100 15737 0 8
+E 100 15738 0 10
+E 100 15739 0 18
+M 100 15724 10 15788 5
+E 100 15736 0 7
+E 100 15737 0 8
+E 100 15738 0 10
+E 100 15739 0 18
+M 100 15724 10 15789 5
+E 100 15736 0 7
+E 100 15737 0 8
+E 100 15738 0 10
+E 100 15739 0 18
+M 100 15722 1 15790 1
+E 100 15755 0 1
+E 100 15749 0 0
+E 100 15746 0 12
+E 100 15748 0 17
+E 100 15747 0 16
+E 100 15745 0 6
+M 100 15723 5 15790 5
+E 100 15750 0 16
+E 100 15751 0 1
+E 100 15752 0 3
+E 100 15753 0 21
+E 100 15754 0 24
+M 100 15714 5 15791 5
+E 100 15731 0 16
+E 100 15732 0 17
+E 100 15733 0 6
+M 100 15716 20 15792 20
+M 100 15715 5 15793 5
+E 100 15734 0 16
+M 100 15716 20 15794 20
+M 100 15717 5 15794 5
+E 100 15757 0 16
+M 100 15720 10 15795 10
+E 100 15740 0 24
+E 100 15741 0 26
+E 100 15742 0 14
+M 100 15721 20 15796 10
+E 100 15743 0 11
+E 100 15744 0 17
+M 100 15721 20 15797 10
+E 100 15743 0 11
+E 100 15744 0 17
+M 100 15720 10 15798 5
+E 100 15740 0 24
+E 100 15741 0 26
+E 100 15742 0 14
+M 100 15719 10 15799 10
+E 100 15735 0 27
+E 100 15756 0 20
+S
+
+#$

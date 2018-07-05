@@ -1,0 +1,2611 @@
+#AOD_AREA
+City of the Dead~
+55100 55199 C 8
+Room 55195
+Levl 1 101
+Bldr Savege~
+Alig E
+End
+
+#MOBILES
+#55100
+skeleton warrior~
+a {Wskeleton{D warrior{x~
+A {Wskeleton{D warrior{x is here polishing his sword.
+~
+This is a large man of gigantic proportions.  He has many scars
+that show that he has seen his day in battle.  He has a large armband
+that has the mark of The City of the Dead elite squad, making him
+an upper ranked warrior.  
+~
+heucuva~
+100 150 50 100 100 100 100 0 150 100 150 100 100 100 50 100 100 75 100 100 75 100 100 100 100 100 
+CDEG DF AJO -3000 0
+85 194 0 2140 2186 8910 9161 18 19 140 none
+-318 -308 -280 -221
+STANDING STANDING neutral 2878
+75 warrior medium ABCGHIJ
+P 6 1
+
+#55101
+zombie undead~
+a {Dzombie{x~
+A {Dzombie{x searching for fresh brians to eat.
+~
+A badly decomposing body has been animated from the dead, forced
+to serve the wishes of its summoner.  
+~
+heucuva~
+100 150 50 100 100 100 100 0 150 100 150 100 100 100 50 100 100 75 100 100 75 100 100 100 100 100 
+CDEG DF AJO -3000 0
+65 97 0 1261 1301 6536 6714 13 11 135 none
+-159 -182 -138 -184
+STANDING STANDING neutral 2027
+75 warrior medium ABCGHIJ
+P 3 0
+
+#55102
+air elemental~
+an {Ca{ci{Cr e{clementa{Cl{x~
+An {Ca{ci{Cr e{clementa{Cl{x wanders the tower.
+~
+This small air elemental stands barely over a foot tall and has
+trouble maintaining a standard form.  It seems to waver in and
+out of reality and wanders about with no specific destination in
+mind.  
+~
+bat~
+100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 150 50 100 100 100 
+DG 0 0 -3000 0
+85 150 0 1001 1001 9975 10222 18 20 178 none
+-232 -260 -275 -300
+STANDING STANDING neutral 3065
+60 mage medium ACDEFHJKP
+P 10 0
+
+#55103
+beast wind~
+the {Dbeast{x of {Cw{cin{Cd{x~
+A large creature of swirling {Cw{cin{Cd{x is hovering here.
+~
+This creature takes the shape of a large dragon with overly large
+wings and a barbed tail.  It's made of a swirling mist that seems
+to be violently swirling constantly, making it appear to fade in
+and out of existence.  It's eyes glow with a dark blue color. 
+~
+human~
+100 50 0 100 100 100 100 100 50 100 50 100 100 100 100 100 100 50 100 100 50 200 100 100 100 100 
+ABCDFG FJPTVZ HMNO -3000 0
+120 300 0 30001 30001 18004 18600 9 90 95 none
+-527 -363 -549 -388
+STANDING STANDING neutral 30000
+100 mage medium ABCDEFGHIJK
+P 1 0
+
+#55104
+wind king~
+the {CW{cin{Cd K{cin{Cg{x~
+A large blue man is here, sitting on the throne.
+~
+This giant of a man seems to be at least 20' standing.  His skin
+is made of a thick blue skin that pulsates with a bright blue aura.
+The Aura seems to go in rythum with his breathing.  He has a long
+beard that seems very messed up because of the harsh winds that
+have past through it for so many years.  His eyes stare down at
+you, icy blue and holding a world of knowledge.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 50 50 100 100 100 100 100 50 100 100 50 200 100 100 100 100 
+0 DFJLPTVZ BHMNOP 0 0
+120 300 0 30001 30001 18065 18978 9 90 95 none
+-571 -503 -431 -477
+STANDING STANDING neutral 30000
+100 mage giant ABCDEFGHIJK
+P 1 0
+
+#55105
+mckay~
+{rMcKay{x~
+A large man is here standing behind a {Dcounter{x.
+~
+This appears to be a tall bald man that stands roughly six foot
+tall.  His muscles seem to be well toned and QUITE large.  He has
+many small hoops in his ears and seems to hold each hoop special
+as their condition is perfect.  He is sweating wildly and seems
+to be hard at work.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG DFJZ 0 0 0
+101 292 0 18914 19590 17161 17881 34 40 260 none
+-384 -422 -585 -448
+STANDING STANDING neutral 5353
+0 mage medium ABCDEFGHIJK
+
+#55106
+torish~
+{rTorish{x~
+A young man is here chanting spells.
+~
+He looks very dangerous.  I wouldn't try to rob him.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG DFJZ 0 0 0
+101 292 0 18720 19501 17328 17812 34 40 260 none
+-384 -422 -585 -448
+STANDING STANDING neutral 5353
+0 mage medium ABCDEFGHIJK
+
+#55107
+questmaster necromnicon questor ~
+{rNecromnicon{x~
+The necromancer raises an eye in inquiry as you enter.
+~
+Dressed in flowing blackrobes, this man looks the part of a necromancer.
+However he is not completely unapproachable and does a good job
+running the city.  
+~
+human~
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ABV CDFGJZ 0 0 0
+200 1787 0 30000 34000 30000 34000 50 67 1285 wrath
+-2150 -2240 -2355 -2169
+STANDING STANDING male 15000
+0 mage huge ABCDEFGHIJK
+
+#55108
+giomior armory~
+{rGiomior{x~
+A small frail man is here behind a {Dcounter{x.
+~
+Giomior is a small frail man.  He appears to be in his golden years
+at about 75 but something in his eyes tells you he is still very
+active.  His small frame does however seem to contain some power
+and the many scars prove that he has seen his day in battle.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG DFJZ 0 0 0
+101 292 0 19003 19489 17271 17702 34 40 260 none
+-384 -422 -585 -448
+STANDING STANDING neutral 5353
+0 mage medium ABCDEFGHIJK
+
+#55109
+Narassiree~
+{rNarassiree{x~
+A small beautiful {ge{Gl{Wv{Ge{gn{x woman is here, standing behind a large table.
+~
+You are staring at a small elven woman.  She has dark skin which
+is odd for an elf, but the pointed ears and slim features makes
+you certain she is of elven blood.  She let's out a mischievious
+smile at you and continues her work.  As you watch her, a small
+sparkle of green light flickers lightly in her eyes but quickly
+disappears from sight.  The magic within her seems to be alive
+and quite strong.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG DFJZ 0 0 0
+101 292 0 18995 19585 17348 17712 34 40 260 none
+-384 -422 -585 -448
+STANDING STANDING neutral 5353
+0 mage medium ABCDEFGHIJK
+
+#55110
+Irtsinim~
+{rIrtsinim{x~
+The shopkeeper is here, standing behind a {Dcounter{x.
+~
+You are looking a huge hulking form of a man.  He definately has
+seen his days in battle due to the heavily scarred areas across
+his arms and body.  He stares at you through one eye, as the other
+one is covered by a thick black patch.  He seems to have suffered
+greatly and would now rather sell weapons than wield them.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG DFJZ 0 0 0
+101 292 0 18909 19495 17354 17737 34 40 260 none
+-384 -422 -585 -448
+STANDING STANDING neutral 5353
+0 mage medium ABCDEFGHIJK
+
+#55111
+Galorinian~
+{rGalorinian{x~
+A tall man is here, standing behind a {Dcounter{x.
+~
+They have the features of a human.  Galorinian is a tall man. 
+He seems to be a peaceful and gentle man that is in the golden
+years of his life.  His grey beard and mustache seem to hold alot
+of wisdom as do his dark grey eyes.  He smiles and hopes you buy
+some of his fine foods.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG DFJZ 0 0 0
+101 292 0 18920 19619 17350 17782 34 40 260 none
+-384 -422 -585 -448
+STANDING STANDING neutral 5353
+0 mage medium ABCDEFGHIJK
+
+#55112
+Detorisa~
+{rDetorisa{x~
+A small woman is here, standing behind a {Dcounter{x.
+~
+You are staring at a small petite woman.  She is plain looking
+but still quite attractive none-the-less.  She seems shy and timid
+but manages to send a faint smile in your direction.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG DFJZ 0 0 0
+101 292 0 18818 19581 17226 17691 34 40 260 none
+-384 -422 -585 -448
+STANDING STANDING neutral 5353
+0 mage medium ABCDEFGHIJK
+
+#55113
+tower gaurdian~
+the {rt{Dowe{rr g{Daurdia{rn{x~
+A large man is here, faithfully gaurding the {rt{Dowe{rr{x.
+~
+You stand before a huge creation of a man.  He seems to be one
+of the tallest people you've met in your travels and seems to be
+a bit celestrial in appearance.  He seems to glow with a strong
+magic and something about you makes you think he is quite skilled
+in battle.  He pays you no attention as something else is drawing
+his attention.  
+~
+heucuva~
+100 150 100 100 50 100 100 100 200 100 150 100 100 100 0 100 100 100 50 100 100 100 100 100 100 100 
+BDG 0 AJ -3000 0
+130 306 0 10000 10000 17640 18147 29 31 261 none
+-423 -514 -425 -460
+STANDING STANDING neutral 1300
+0 mage medium ABCGHIJ
+
+#55114
+naitsirhc healer priest~
+{rNaitsirhc{x~
+A tall bearded man is here, apparently deep in thought.
+~
+This is a tall glowing man.  He is about six foot tall and seems
+to grow taller from some sort of magic, fluxuating in and out of
+existence.  He has a long beard that seems to scroll down past
+his chest.  It is a white color and seems to be well kept.  He
+seems friendly and wiser than you would ever be able to guess.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABDa 0 0 -3000 0
+300 392 -150 25303 26197 24804 25809 48 53 429 none
+-722 -619 -711 -639
+STANDING STANDING neutral 7866
+100 bishop medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#55100
+whirl wind cyclone~
+a {Bm{bysteriou{Bs c{byclon{Be{x~
+A {Bm{bysteriou{Bs c{byclon{Be{x.~
+portal STXY P
+0 0 A 55113 0
+102 10000 13082
+
+#55101
+power blue mass ball energy~
+a massive {Bball{x of {Bb{blu{Be p{bowe{Br{x~
+A massive {Bball{x of {Bb{blu{Be p{bowe{Br{x.~
+portal STXY P
+0 0 A 55100 0
+102 10000 15714
+
+#55102
+wind wing~
+the {Wwing{x of the {Cw{cin{Cd{x~
+A large flat ethereal set of wings linger above the ground.~
+armor ACFGL AK
+25 25 25 25 0
+101 10 15298
+A 13 300
+A 2 3
+A 18 35
+A 19 35
+A 20 -2
+F A 0 0 T
+
+#55103
+stormbringer axe~
+the {CS{ctor{Dmbri{cnge{Cr {DAxe{x~
+A huge axe lies here on the ground.~
+weapon ACFGHLQT AN
+sword 13 14 stunflash AD
+101 70 23077
+A 18 35
+A 19 35
+
+#55104
+storm king crown~
+the {CS{ctor{Cm K{cin{Cg{C's {DCrown{X~
+A large blue crown seems to float off the ground.~
+jewelry ACFGHLQTY AE
+0 0 0 0 0
+101 10 16404
+A 13 300
+A 3 3
+A 18 35
+A 19 35
+A 20 -3
+
+#55105
+whispered winds~
+the {Cw{chi{Dspe{cre{Cd w{cind{Cs{x~
+A howling wind swirls around you.~
+armor ACFGHLQTY AQ
+25 25 25 25 0
+101 10 22021
+F A 0 0 U
+A 13 303
+A 3 1
+A 4 1
+A 18 35
+A 19 35
+A 20 -3
+
+#55106
+blood fountain~
+a {rf{Dou{wnt{Dai{rn{x~
+A large {rf{Dou{wnt{Dai{rn{x flowing with {Rb{rloo{Rd{x is here.~
+fountain O 0
+-1 -1 'blood' 0 0
+1 0 132
+
+#55107
+bone club~
+a {Wbone {Dclub{x~
+A huge bone shape like a club lies here.~
+weapon ACEGJLP AN
+mace 10 10 epidemic AD
+65 50 9146
+A 18 2
+A 19 3
+
+#55108
+bone axe~
+a {Wbone{D axe{x~
+A huge bone shape like a axe lies here.~
+weapon ACEGJLP AN
+axe 10 10 epidemic AD
+65 50 9146
+A 19 3
+A 18 2
+
+#55109
+bone scythe~
+a {Wbone{D scythe{x~
+A huge bone shape like a scythe lies here.~
+weapon ACEGJLP AN
+sword 10 9 epidemic AD
+65 50 9146
+A 19 3
+A 18 2
+
+#55110
+bone blade~
+a {Wbone{D blade{x~
+A huge bone shape like a sword lies here.~
+weapon ACEGJLP AN
+sword 10 9 epidemic AD
+65 50 9146
+A 19 3
+A 18 2
+
+#55111
+bone dagger~
+a {Wbone{D dagger{x~
+A huge bone shape like a dagger lies here.~
+weapon ACEGJLP AN
+dagger 10 10 epidemic AD
+65 50 9146
+A 19 3
+A 18 2
+
+#55112
+paralyze scroll~
+a {Dscroll{x of {rp{Dara{wlyza{Dtio{rn{x~
+A sinister scroll lies here.~
+scroll ACEGP A
+101 'slow' 'weaken' 'curse' 'reserved'
+101 10 100000
+
+#55113
+cancelation scroll~
+a {Dscroll{x of {rc{Danc{wella{Dtio{rn{x~
+A sinister scroll lies here.~
+scroll ACEGP A
+101 'cancellation' 'cancellation' 'cancellation' 'cancellation'
+101 10 50000
+
+#55114
+scroll protection~
+a {Dscroll{x of {rp{Dro{wtect{Dio{rn{x~
+A sinister scroll lies here.~
+scroll ACEGP A
+101 'sanctuary' 'bless' 'protection good' 'reserved'
+101 10 100000
+
+#55115
+scroll frenzy~
+a {Dscroll{x of {rf{Dr{wen{Dz{ry{x~
+A sinister scroll lies here.~
+scroll ACEGP A
+101 'frenzy' 'giant strength' 'haste' 'reserved'
+101 10 10000
+
+#55116
+scroll transportation~
+a {Dscroll{x of {rt{Drans{wport{Datio{rn{x~
+A sinister scroll lies here.~
+scroll ACEGP A
+101 'invisibility' 'pass door' 'fly' 'reserved'
+101 10 5000
+
+#55117
+pill purify~
+a {Dpill{x of {rp{Du{wri{Df{ry{x~
+A strange pill lies here.~
+pill ACEGP A
+65 'refresh' 'refresh' 'refresh' 'refresh'
+50 10 5000
+
+#55118
+pill fullness~
+a {Dpill{x of {rf{Dul{wln{Des{rs{x~
+A strange pill lies here.~
+pill ACEGP A
+16 'create spring' 'create food' 'create food' 'create food'
+1 10 1000
+
+#55119
+pill vision~
+a {Dpill{x of {rv{Di{wsi{Do{rn{x~
+A strange pill lies here.~
+pill ACEGP A
+16 'detect invis' 'detect hidden' 'detect good' 'detect evil'
+1 10 5000
+
+#55120
+scroll revealing~
+a {Dscroll{x of {rr{Dev{weal{Din{rg{x~
+A sinister scroll lies here.~
+scroll ACEGP A
+101 'faerie fog' 'farsight' 'detect invis' 'detect hidden'
+101 10 5000
+
+#55121
+glove rott flesh~
+a {Dpair{x of {rr{Do{wtti{Dn{rg {Dgloves{x~
+A pair of gloves made from rotting flesh lies here.~
+armor ACEGJLPT AH
+26 28 25 21 0
+65 10 15596
+A 13 150
+A 1 2
+A 18 15
+A 19 15
+A 20 -2
+
+#55122
+rotting flesh helm~
+a {rr{Do{wtti{Dn{rg {Dhelm{x~
+A skull covered with rotting flesh lies here.~
+armor ACEGJLPT AE
+26 26 24 21 0
+65 10 15596
+A 13 150
+A 3 1
+A 4 1
+A 18 15
+A 19 15
+A 20 -2
+
+#55123
+rotting flesh belt~
+a {rr{Do{wtti{Dn{rg {Dbelt{x~
+A belt made from rotting flesh lies here.~
+armor ACEGJLPT AL
+25 25 25 25 0
+65 10 15596
+A 13 150
+A 2 2
+A 18 15
+A 19 15
+A 20 -2
+
+#55124
+rotting flesh leggings~
+a {Dpair{x of {rr{Do{wtti{Dn{rg {Dleggings{x~
+A belt made from rotting flesh lies here.~
+armor ACEGJLPT AF
+25 25 25 31 0
+65 10 15596
+A 13 150
+A 2 2
+A 18 15
+A 19 15
+F A 0 0 V
+
+#55125
+rooting flash armor~
+a {rr{Do{wtti{Dn{rg{D armor{x~
+An armor made from rotting flesh lies here.~
+armor ACEGJLPT AD
+25 25 25 25 0
+65 10 15596
+A 13 150
+A 5 2
+A 18 15
+A 19 15
+A 20 -2
+
+#55126
+potion sanctuary~
+a {Dpotion{x of {rs{Dan{wctu{Dar{ry{x~
+A potion lies here.~
+potion EGTY AO
+101 'sanctuary' 'reserved' 'reserved' 'reserved'
+101 10 100000
+
+#55127
+holy water vial~
+a {Wvial{x of {Wholy {Bw{Ca{Wt{Ce{Br{x~
+A vial lies here.~
+potion EGTY AO
+101 'bless' 'remove curse' 'reserved' 'reserved'
+101 10 10000
+
+#55128
+mana potion red~
+a {Rb{rloo{Rd {rred {Dpotion{X~
+A blood red potion lies here.~
+potion EGT AO
+101 'restore mana' 'restore mana' 'restore mana' 'restore mana'
+101 10 50000
+
+#55129
+sinister axe~
+a {rs{Din{wis{Dte{rr {Daxe{x~
+A sinister looking axe lies here.~
+weapon ACEGJLP AN
+axe 10 10 epidemic G
+40 50 5173
+A 19 5
+A 18 5
+
+#55130
+sinister whip~
+a {rs{Din{wis{Dte{rr {Dwhip{x~
+A sinister looking whip lies here.~
+weapon ACEGJLP AN
+whip 9 10 epidemic G
+40 50 5173
+A 18 5
+A 19 5
+
+#55131
+sinister spear~
+a {rs{Din{wis{Dte{rr {Dspear{x~
+A sinister looking spear lies here.~
+weapon ACEGJLP AN
+spear 9 10 epidemic G
+40 50 5173
+A 18 5
+A 19 5
+
+#55132
+sinister flail morningstar~
+a {rs{Din{wis{Dte{rr {Dmorningstar{x~
+A sinister looking flail lies here.~
+weapon ACEGJLP AN
+flail 10 10 epidemic G
+40 50 5173
+A 18 5
+A 19 5
+
+#55133
+sinister scythe~
+a {rs{Din{wis{Dte{rr {Dscythe{x~
+A sinister looking scythe lies here.~
+weapon ACEGJLP AN
+sword 9 10 epidemic G
+40 50 5173
+A 18 5
+A 19 5
+
+#55134
+pigs feet~
+{ypigs {Dfeet{x~
+A small feet lies here.~
+food 0 A
+35 35 0 0 0
+1 0 5
+
+#55135
+steak~
+a juicy {rsteak{x~
+A peice of bloody steak lies here.~
+food 0 A
+35 35 0 0 0
+1 0 10
+
+#55136
+lamb rack~
+a {Drack{x of {Wlamb{x~
+A small feet lies here.~
+food 0 A
+50 50 0 0 0
+1 0 15
+
+#55137
+backpack black leather~
+a {Dblack{x {yleather {Dbackpack{x~
+A black leather backpack lies here.~
+container TY AT
+1200 0 0 25 15
+1 10 25
+
+#55138
+bright beacon glowing glass~
+a {Wbright {yb{Ye{Wac{Yo{yn{X~
+A small shard of glass is here, glowing brightly on the floor.~
+light TY A
+0 0 40 0 0
+1 10 10
+
+#55139
+goat water skin~
+a {ygoat{x {Bw{Ca{Wt{Ce{Br{y skin{x~
+A water skin lies here.~
+drinkcontainer TY AO
+175 175 'water' 0 0
+1 10 25
+
+#55140
+head goat~
+the {Dhead{x of a {ygoat{x~
+A goat's head is on the floor.~
+drinkcontainer TY AO
+10 10 'blood' 0 0
+1 20 10000
+
+#55141
+couch~
+a {rc{Douc{rh{x~
+A comfortable looking {rc{Douc{rh{X seems inviting.~
+furniture 0 0
+2 90000 CFILO 50 50
+0 0 0
+#0
+
+#ROOMS
+#55100
+{DThe {rC{Dit{ry{D of the {rD{Dea{rd{x~
+{DYou find yourself standing on a large cobblestone roadway{r.{D  The road{x
+{Dseems to be made of a dark black rock that seems to have cut to perfection{x
+{Dand fit together to form a very well constructed roadway{r.{D  To the east{r,{x
+{Da large gate stands{r,{D used as defense from the outside world{r.  {DIt is{x
+{Dconnected to an emmensely tall rock wall that seems to surround the{x
+{Dentire city{r.{D  To the west you can see a large tower rise up into the{x
+{Dair{r.{D  You can see numerous others also rising off in the distance behind{x
+{Dit{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55195
+D3
+~
+~
+0 0 55101
+S
+
+#55101
+{DThe {rE{Daster{rn{D Walk of Wind{x~
+{DThe road is a large wide road that seems to be travelled quite frequently{r.{x
+{DIt{r'{Ds made of what seems a million small bricks cut out of a black stone{x
+{Dand placed together with the greatest of care{r.{D  The walk continues west{r,{x
+{Dtowards the center of the town and the huge spiralling towers{r.{D  The walk{x
+{Dalso continues to the east{r,{D looking like it leads to the outside{r.{D  Two{x
+{Dsmall houses are to the north and south{r.{D  You notice they have many small{x
+{Dslits in the walls as if archer spots in case of a seige{r.{x
+~
+524416 0
+D0
+~
+~
+ABD 0 55103
+D1
+~
+~
+0 0 55100
+D2
+~
+~
+ABD 0 55102
+D3
+~
+~
+0 0 55104
+S
+
+#55102
+{DThe {rS{Douthter{rn {DGuardhouse{x~
+{DThis building is extremely small with only one door leading out to the{x
+{Dnorth{r.{D  It seems reinforced and able to hold out nearly anything{r.{D  The{x
+{Drest of the room is quite normal with a few cots and a large chest being{x
+{Dthe only other things in this room{r.{x
+~
+524416 0
+D0
+~
+~
+ABD 0 55101
+S
+
+#55103
+{DThe {rN{Dorthter{rn{D Guardhouse{x~
+{DThe building you are in is quite small and very vacant of anything{x
+{Dpersonal or interesting{r.{D  There are about seven or eight cots that{x
+{Dline the walls with a huge glass rack that holds many small crossbows{x
+{Dinside{r.{D  The only exit is that to the south{r.{x
+~
+524416 0
+D2
+~
+~
+ABD 0 55101
+S
+
+#55104
+{DBefore The Wind {rT{Dowe{rr{x~
+{DYou find yourself on a large and wide cobblestone roadway{r.{D  The road{x
+{Dis kept in great shape despite the imaginable traffic this road gets{r.{x
+{DYou can see a large spiral staircase leading up into the base of a large{x
+{Dbluish tower{r.{D  The road continues to the west into the bustling city{x
+{Dand east towards a large gate of in the distance{r.{X
+~
+524416 0
+D1
+~
+~
+0 0 55101
+D3
+~
+~
+0 0 55114
+D4
+~
+~
+0 0 55105
+S
+
+#55105
+{cThe {CT{cowe{Cr{c of {CW{cind{C's E{cntranc{Ce{x~
+{cYou let your eyes re{C-{cadjust for the darkness is deep compared to the{x
+{cstreet outside{C.{c  Dust seems to drift around aimlessly as you opened the{x
+{cgigantic door and is now beginning to settle{C.{c You can see a hallway{x
+{cleading to the west or exit the tower down the spiralling staircase{C.{x
+{cA low hissing can be heard from high above you somewhere in the tower{C.{x
+~
+524420 0
+D3
+~
+~
+0 0 55106
+D5
+~
+~
+0 0 55104
+S
+
+#55106
+{cThe {CD{cepth{Cs{c of {CW{cind{Cs{x~
+{cYou are standing in an old and dank hall that semms of mold and dust{x
+{cbut as you look around, you see nothing but cleanliness{C.{c  A steady win{x
+{cseems to blow through the hallway as if some sort of magic controls the{x
+{cdirection of wind{C.{c  The hallway continues off in all directions{C.{c  You{x
+{calso notice a small transparednt staricase leading up{C.{x
+~
+524416 0
+D0
+~
+~
+0 0 55109
+D1
+~
+~
+0 0 55105
+D2
+~
+~
+0 0 55108
+D3
+~
+~
+0 0 55107
+D4
+~
+~
+0 0 55110
+S
+
+#55107
+{cThe {CO{cracl{Ce{c of {CW{cind{Cs{x~
+{cThis seems to a vacant room{C.{c  A wind blows around in a swirling pattern{x
+{cas if it were like a large twirling beast coiling around the boundaries of{x
+{cthe walls{C.{c  The walls seem to glow with a magical aura of a blue color{C.{c  A{x
+{clarge archway leads to the east{C.{x
+~
+524416 0
+D1
+~
+~
+0 0 55106
+S
+
+#55108
+{CC{chambe{Cr{c of {CW{cind{Cs{x~
+{cThis room seems to be entirely made of a thick blue rock that glows{x
+{cslightly with power{C.{c  Nothing seems to be in the room that holds any{x
+{cimportance{C.{c  A small wind can be felt in the room but as to the source{x
+{cor direction from which it{C'{cs coming{C,{c you have no clue{C.{c  The exit to{x
+{cthe north leads under a small stone archway{C.{x
+~
+524416 0
+D0
+~
+~
+0 0 55106
+S
+
+#55109
+{CC{chambe{Cr{c of {CW{cind{Cs{x~
+{cThe room that you are in seems to vacant of anything of any importance{C.{x
+{cA strong wind seems to constantly blow through the room as if a magical{x
+{cpower is forcing it to{C.{c  The floor appears to be cracked in places{C,{c some{x
+{cof which are very large{C.{c  The exit goes to the south through an archway{C.{x
+~
+524416 0
+D2
+~
+~
+0 0 55106
+S
+
+#55110
+{cThe {CU{cppe{Cr H{call{Cs{x~
+{cYou are standing in a large circular room{C.{c  The walls are made of a dark{x
+{cblue material that seems to almost glow with a magical aura of light{C.{x
+{cAlong the walls you can see various pictures deplicting wind and the{x
+{charshness of it{C.{c  A large blue glassed chandelier hangs from the ceiling{x
+{cas well{C.{c  In the center of the floor{C,{c a glass spiral staircase leads{x
+{cdown{C.{c  Archways in all other directions lead out as well{C.{x
+~
+524420 0
+D1
+~
+~
+0 0 55112
+D3
+~
+~
+0 0 55111
+D5
+~
+~
+0 0 55106
+S
+
+#55111
+{CC{chambe{Cr{c of the {CH{cowlin{Cg W{cind{Cs{x~
+{cThe room that surrounds you seems almost alive with some sort of{x
+{cmysterious energy{C.{c  The entire room is composed of blues of every{x
+{chue imaginable{C.{c  Some glow while others seem part of the wall and{x
+{cfloor{C.{c  All pulsate like a heartbeat{C,{c causing the room{C'{cs dimensions{x
+{cto change and vary{C.{c  Small eyes glowing an extremely bright blue{x
+{cseem to appear then disapate back into nothingness{C.{c  A strong wind{x
+{cblows strongly in the room making it heard to hear anything{C.{c  An{x
+{carschway leads to the east{C.{x
+~
+524416 0
+D1
+~
+~
+0 0 55110
+S
+
+#55112
+{cThe {CC{chambe{Cr{c of {CC{cyclone{Cs{x~
+{cThe winds here are great as they swirl through the room like a tornado{C.{x
+{cIn the center of the southern wall{C,{c you can see a twisting cyclone leading{x
+{cinto what seems the wall itself as if a strong magic was sucking it into{x
+{cthe wall{C.{c  Despite the cyclone{C'{cs appearance of suction{C,{c there is no vacuum{x
+{ceffect{C,{c but rather a blowing of wind{C.{c  The exit in which you came seems{x
+{cto have vanished as there is no apparent exit out of this room{C.{x
+~
+589952 0
+S
+
+#55113
+{CT{chron{Ce R{coo{Cm{c of the {CW{cin{Cd K{cin{Cg{x~
+{cThe room itself is a multitude of blues of every imaginable huge{C.{c  The{x
+{cwalls and floor is made of a blue marble that glows and pulsates with{x
+{ca magical blue colored aura{C.{c  In the center of the room a large throne{x
+{cmade of the same glowing marble seems to floating barely off the ground{C.{x
+{cThe thorne seems to be causing the harsh winds that whip across your{x
+{cface stingingly{C.{c  Right behind the throne there appears to be a thick{x
+{cball of blue matter{C.{c  There appears to be no exits from the room{C.{x
+~
+524416 0
+S
+
+#55114
+{DThe {rW{Dester{rn W{Dal{rk{D of {rW{Din{rd{x~
+{DThis roadway seems to be quite old due to the amount of travel you can{x
+{Dsee on it{r.{D  It{r'{Ds made of small stones interconnected forming a cobblestone{x
+{Daffect{r.{D  The road itself seems to almost glow with a blue color{r.{D  It{x
+{Dcontinues to the west towards what seems a bustling intersection while{x
+{Dthe East leads under a large tower{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55104
+D3
+~
+~
+0 0 55115
+S
+
+#55115
+{DThe {rW{Dester{rn W{Dal{rk{D of {rW{Din{rd{x~
+{DYou are walking on what appears to be a main road{r.{D  The road is a{x
+{Dcobblestone type road but seems to glow with a magical aura{r.{D  The{x
+{Droad is well travelled and you can see a large amount of traffic to{x
+{Dthe west{r.{D  To the east{r,{D the road seems to cut through the base of{x
+{Da large blue tower{r.{D  You feel no wind so you wonder why the name of{x
+{Dthe road is what it is{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55114
+D3
+~
+~
+0 0 55116
+S
+
+#55116
+{DThe {rW{Dal{rk{D of {rW{Din{rd{x~
+{DYou are standing on a large{r,{D wide cobblestone road{r.{D  The bricks are{x
+{Dof a black material but you can see a very light blue light coming{x
+{Dfrom it as if a magical blue light shone from between the cracks{r.{x
+{DTo the west you can see a large intersection with alot of traffic{x
+{Dflowing through the streets{r.{D  To the east you can see a large blue{x
+{Dtower{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55115
+D3
+~
+~
+0 0 55117
+S
+
+#55117
+{rT{Dow{rn C{Dente{rr{x~
+{DThis appears to be the center of the market district of the City{x
+{Dof the Dead{r.{D  As you look around you{r,{D all you see is the mass crowds{x
+{Dof merchants and caravans that seem to bustle through the city{x
+{Dstreets trying to make money off their wares{r.{D  A large tower can{x
+{Dbe seen in each direction and the roads continue to each as well{r.{x
+{DYou notice in the center of the crossing roads a small fountain{x
+{Dsurrounded by a ring of small miniature trees{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55116
+D3
+~
+~
+0 0 55118
+S
+
+#55118
+{rE{Das{rt S{Dtygia{rn R{Doa{rd{x~
+{DYou are standing in the center of a bustling intersection{r.{D  Many caravans{x
+{Dpass by filled with exotic wares from all corners of the world{r.{D  Some{x
+{Dare trying to sell what they have to anyone that seems slightly interested{x
+{Din them{r.{D  A small row of trees seem to have been planted along the roadway{x
+{Das to try to make the area look more beautiful{r.{D  The road continues in{x
+{Dall directions{r.{x
+~
+524416 0
+D0
+~
+~
+0 0 55120
+D1
+~
+~
+0 0 55117
+D2
+~
+~
+0 0 55123
+D3
+~
+~
+0 0 55119
+S
+
+#55119
+{rT{Dowe{rr R{Doa{rd{x~
+{DThe road is made of a reddish color but hard like a granite type rock{r.{x
+{DIt{r'{Ds made of small precisely cut rocks forming a cobblestone affect{r.{x
+{DEven through the emmense travelling on them{r,{D they appear in great condition{r.{x
+{DThe main road continues west and east{r,{D while two smaller roads lead off{x
+{Dto the north and south{r.{x
+~
+524416 0
+D0
+~
+~
+0 0 55126
+D1
+~
+~
+0 0 55118
+D2
+~
+~
+0 0 55129
+D3
+~
+~
+0 0 55133
+S
+
+#55120
+{rA{Dphoti{rc A{Dlle{ry{x~
+{DThe road on which you walk upon is made of small stones connected together{x
+{Din almost near perfection{r.{D  The alley is somewhat narrow but you feel{x
+{Dtwo could walk abreast in it{r.{D  You notice that the alley bends sharply{x
+{Dto the east{r,{D leading into a small building{r.{D  The alley also leads south{x
+{Dinto in intersection{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55122
+D2
+~
+~
+0 0 55118
+D3
+~
+~
+0 0 55121
+S
+
+#55121
+{rNecromnicon{x~
+{DThis small tower serves as the home of the mayor of the city{r.{D  Being{x
+{Da Necromancer of great repute{r,{D he has earned his position through battle{r.{x
+{DNow to old to travel about he administers the city{r.{D  Often times he is{x
+{Da good person to seek out when adventure is sought{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55120
+S
+
+#55122
+{rGiomior's A{Drmor{rs{D and other {rP{Drotection{rs{x~
+{DThe room is a large warehouse type room with crates and shelves{x
+{Deverywhere{r.{D There is little to see on the walls as far as anything{x
+{Dinteresting{r.{D On the racks and shelves you see many various types of armor{x
+{Dand things worn to protect one from danger{r.{D  Some is in good shape yet{x
+{Dothers seems in need of repair badly{r.{D  The exit is to the west{r.{x
+~
+524416 0
+D3
+~
+~
+0 0 55120
+S
+
+#55123
+{rA{Dphoti{rc A{Dlle{ry{x~
+{DYou are standing on a small roadway that cuts through a bustling city{r.{x
+{DThe road is well kept and seems to have been crafted with great care{r.{x
+{DThe road is free of litter and potholes as if the road is never used{x
+{Dat all{r.{D  The small alley bends into a shop to the west and east and meets{x
+{Dwith an intersection to the north{r.{x
+~
+524416 0
+D0
+~
+~
+0 0 55118
+D1
+~
+~
+0 0 55125
+D3
+~
+~
+0 0 55124
+S
+
+#55124
+{rTorish's M{Dagica{rl O{Dffering{rs{x~
+~
+524416 0
+D1
+~
+~
+0 0 55123
+S
+
+#55125
+{rMcKay's S{Dho{rp {Dof {rW{Deaponar{ry{x~
+{DThe room is a large spacious one that could hold enormous items{r.{D  The{X
+{Dwalls of the building are black and are lined with row after row of weapons{x
+{Dand other tools used for warfare{r.{D  There is no order or pattern they{x
+{Dare in{r,{D they just seem to be all neatly lined up{r.{D  The exit out of the{X
+{Dshop is to the west{r.{x
+~
+524416 0
+D3
+~
+~
+0 0 55123
+S
+
+#55126
+{DThe {rN{Dorther{rn R{Doa{rd{D leading to the G{wra{Wvey{war{Dd{x~
+{DThe road here is less trvelled as one would suspect{r.{D  The brick is of{x
+{Da deep red color that seems a bit worn in spots from weather or time{r.{x
+{DOff to the northeast{r,{D you can see a large gate{r.{D  To the north you can{x
+{Dsee a larger road meeting this one{r.{x
+~
+524416 0
+D0
+~
+~
+0 0 55127
+D2
+~
+~
+0 0 55119
+S
+
+#55127
+{DThe {rN{Dorther{rn C{Dorne{rr{x~
+{DThe gaveyard western wall guarding the city from the forces outside spans{x
+{Dhigh above you to the south{r,{D it{r'{Ds dull grey stone smooth to the touch{r.{x
+{DThe roadway you are on leads east towards a tall gate that seems to be{x
+{Dbuilt into the outer wall itself{r.{D  To the south{r,{D the small road continues{x
+{Dtowards the center of town{r.{X
+~
+524416 0
+D1
+~
+~
+0 0 55128
+D2
+~
+~
+0 0 55126
+S
+
+#55128
+{DThe {rR{Doa{rd S{Dout{rh{D of the {rG{Draveyar{rd{x~
+~
+524416 0
+D3
+~
+~
+0 0 55127
+S
+
+#55129
+{DThe {rS{Douther{rn W{Dal{rk{D of {rF{Dir{re{x~
+{DThe road here is less trvelled as one would suspect{r.{D  The brick is of{x
+{Da deep red color that seems a bit worn in spots from weather or time{r.{x
+{DOf to the southeast{r,{D you can see a large red tower raising into the sky{r.{x
+{DTo the south you can see a larger road meeting this one{r.{x
+~
+524416 0
+D0
+~
+~
+0 0 55119
+D2
+~
+~
+0 0 55130
+S
+
+#55130
+{DThe {rS{Douther{rn C{Dorne{rr{x~
+{DThe tower western wall guarding the city from the forces outside spans{x
+{Dhigh above you to the south{r,{D it{r'{Ds dull grey stone smooth to the touch{r.{x
+{DThe roadway you are on leads east towards a tall tower that seems{x
+{Dto be built into the outer wall itself{r.{D  To the north{r,{D the small road{x
+{Dcontinues towards the center of town{r.{x
+~
+524416 0
+D0
+~
+~
+0 0 55129
+D1
+~
+~
+0 0 55131
+S
+
+#55131
+{DThe {rW{Dal{rk{D of {rFire{x~
+{DThe western defensive wall of the city stretches high in the sky to the{x
+{Dnorth{r,{D keeping both things out of the city and keeping you inside{r.{D  To{x
+{Dthe east{r,{D the road seems engulfed with a blazing fire{r.{D  Large cinders{x
+{Dseem to dot the remains of the road{r,{D sending smoke and fumes high into{x
+{Dthe sky{r.{D  Through the smoke you can see the entrance of a large red tower{r.{x
+{DThe path also continues to the west{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55132
+D3
+~
+~
+0 0 55130
+S
+
+#55132
+{DThe {rE{Dntranc{re {Dto the {rT{Dowe{rr{D of {rFire{x~
+{DYou are standing in front of the entrance to the tower of fire{r.{D  The{x
+{Ddoor to the north is covered with ancient runes and glyphs of a long{x
+{Ddead language that protects the whole of the tower{r.{D  The tower appears{x
+{Dto be older than the town itself and everything was built around the{x
+{Dtower{r.{D  The west leads into a fiery blaze across the road{r.{x
+~
+524416 0
+D3
+~
+~
+0 0 55131
+S
+
+#55133
+{rA{Drutlupe{rs C{Drossin{rg{x~
+{DYou are standing in the center of an intersection{r.{D  A large cobblestone{x
+{Droadway leads west and east while a smaller one crosses it{r,{D leading off{x
+{Dto the south and north{r.{D  All the roads seem well travelled yet still{x
+{Dseem to be relatively new{r.{D  Many various noises seem to come from every{x
+{Ddirection{r,{D making you sure that this town is a bustling one{r.{x
+~
+524416 0
+D0
+~
+~
+0 0 55134
+D1
+~
+~
+0 0 55119
+D2
+~
+~
+0 0 55136
+D3
+~
+~
+0 0 55140
+S
+
+#55134
+{rN{Dort{rh A{Drutlupe{rs R{Doa{rd{x~
+{DYou are standing on a small and narrow roadway{r.{D  The road is made of{x
+{Dsmall interlacing stones that form one block{r.{D  It seems as if the road{X
+{Ditself is relatively new{r,{D but the deep grooves of carts and the worn{x
+{Ddown stones from traffic tells you differently{r.{D  The road continues west{x
+{Dand south{r.{x
+~
+524416 0
+D2
+~
+~
+0 0 55133
+D3
+~
+~
+0 0 55135
+S
+
+#55135
+{rNarassiree's {rP{Dotion{rs{x~
+{DYou are standing in a small room{r.{D  The walls and floor have strange{x
+{Dsymbols etched in as if they were runes or protective wards of some{X
+{Dsort{r.{D  The etchings seem to glow a bit as you look at them but they{x
+{Dslow fade out a few seconds later{r.{D  In the center of the room{r,{D you{x
+{Dcan see a HUGE table with all kinds of liquid filled containers filling{x
+{Dit{r'{Ds surface{r.{D  The archway to the east seems to be the only way out{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55134
+S
+
+#55136
+{rS{Dout{rh A{Drutlupe{rs R{Doa{rd{x~
+{DYou stand on a small roadway that seems to run north and west{r.{D  The road{x
+{Dis made of small black stones encased in a cement type fixture giving{x
+{Dit a cobblestone effect{r.{D  Along the roadway{r,{D small trees have been planted{r.{x
+{DProbably the planting was done by a nearby merchant{r.{D  The road continues{x
+{Dnorth and west{r.{x
+~
+524416 0
+D0
+~
+~
+0 0 55133
+D1
+~
+~
+0 0 55137
+D3
+~
+~
+0 0 55138
+S
+
+#55137
+{rIrtsinim's W{Deaponr{ry{X~
+{DYou stand in a small room of what seems an even smaller building{r.{D  The{x
+{Dwalls and floor are made of a thick concrete material that appears to{x
+{Dbe made of large slabs of black rock{r.{D  Along the walls{r,{D you can see various{x
+{Dsized rack holding countless numbers of weapons{r.{D  Every type of weapon{x
+{Dseems to be here{r.{D  From long polearms to small shirkens{r,{D all seem represented{x
+{Din this shop{r.{D  The only exit seems to the west{r.{X
+~
+524416 0
+D3
+~
+~
+0 0 55136
+S
+
+#55138
+{DThe {rC{Dity{r's T{Dransportatio{rn S{Dyste{rm{x~
+{DYou are in a small building{r.{D  Many people seem to travel in this room{r.{x
+{DThe walls are dark and many notes and other wanted services are here{x
+{Don these walls{r.{D  There are a few wandering prophets and other types selling{x
+{Dor preaching here as well{r.{D  You can see a main street in the Eastern{x
+{Ddirection while the building continues west{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55136
+D3
+~
+~
+0 0 55139
+S
+
+#55139
+{DThe {rC{Dity{r's T{Dransportatio{rn S{Dyste{rm{x~
+{DYou are in a small building{r.{D  Many people seem to travel in this room{r.{x
+{DThe walls are dark and many notes and other wanted services are here{x
+{Don these walls{r.{D  There are a few wandering prophets and other types selling{x
+{Dor preaching here as well{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55138
+S
+
+#55140
+{rW{Deaster{rn S{Dtygia{rn R{Doa{rd{x~
+{DYou find yourself standing on a large roadway{r.{D  The road is made of small{x
+{Dinterlacing stones that give it a cobblestone effect{r.{D  The stones are{x
+{Dsmall and seems that almost a countless number was used just to complete{x
+{Dthis small section{r.{D  To the North and South you can see the back of small{x
+{Dbuildings but see no entrance from this point{r.{D  The road also continues{x
+{Dwest and east{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55133
+D3
+~
+~
+0 0 55141
+S
+
+#55141
+{rW{Deaster{rn S{Dtygia{rn R{Doa{rd{x~
+{DYou are standing on a wide cobblestone roadway{r.{D  The road seems quite{x
+{Dold despite the grooves worn in from carts and travelling{r.{D  To the east{x
+{Dand west{r,{D you can see the brick walls of some sort of buildings{r.{D  They{x
+{Dmake a natural blockade to those directions{r.{D  The road continues to the{x
+{Dwest and east{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55140
+D3
+~
+~
+0 0 55142
+S
+
+#55142
+{DThe {rI{Dnne{rr C{Dourtyar{rd{x~
+{DYou are standing on a large paved cobblestone road{r.{D  The road seems{x
+{Dto be in great shape and every stone appears to have been placed where{x
+{Dit is with great detail{r.{D  Small trees seem to line the road{r,{D each{x
+{Dtrimmed and looking quite healthy{r.{D  A bird can be seen popping in{x
+{Dand out of a tree here and there{r,{D each seems to be quite content with{x
+{Dit{r'{Ds tree home{r.{D  The road leads east into a great tower of a golden{x
+{Dcolor{r.{D  Two smaller roads lead off to the south and north while the{x
+{Dmain road leads off east{r.{x
+~
+524416 0
+D0
+~
+~
+0 0 55143
+D1
+~
+~
+0 0 55141
+D2
+~
+~
+0 0 55145
+D3
+~
+~
+0 0 55147
+S
+
+#55143
+{rN{Dorther{rn L{Darg{ro W{Da{ry{x~
+{DYou are standing on a small cobblestone road{r.{D  The road is made of small{x
+{Dsilverish rocks that seem to be set in a particular fashion{r.{D  As to what{x
+{Dthe reason for this is{r,{D you haven{r'{Dt the fainted idea{r.{D  To the west{r,{D a{x
+{Dlarge wall blocks any travels that way{r.{D  The wall is quite tall and makes{x
+{Dyou dizzy as you look at it{r.{D  To the north is the tall city wall that{x
+{Dblocks you from going that way{r.{D  The road continues to the south and{x
+{Deast{r.{x
+~
+524416 0
+D1
+~
+~
+0 0 55144
+D2
+~
+~
+0 0 55142
+S
+
+#55144
+{rDetorisa's A{Ddventure{rr S{Dho{rp{x~
+{DYou are standing in a small room that seems barren{r.{D  The walls are made{x
+{Dof large slabs of dark grey stone that at one time might have been very{x
+{Ddetailed and clean{r,{D but now seems worn out and cracked in places{r.{D  At{x
+{Dthe end of the room you can see a small counter with various items strewn{x
+{Dacross it{r.{D  There is an exit to the west{r,{D leading outside the shop{r.{x
+~
+524416 0
+D3
+~
+~
+0 0 55143
+S
+
+#55145
+{rS{Douther{rn L{Darg{ro W{Da{ry{x~
+{DYou are standing on a small cobblestone roadway{r.{D  The stones of the road{x
+{Dseem to been set in a certain way with the most extreme of care{r.{D  The{x
+{Droad seems to bend east{r,{D disappearing between the great city wall that{x
+{Dspans high into the air around you and a small builing inside the wall{r.{x
+{DThe path also leads off to the north{r.{x
+~
+524416 0
+D0
+~
+~
+0 0 55142
+D1
+~
+~
+0 0 55146
+S
+
+#55146
+{rGalorinian's F{Doo{rd S{Dho{rp{x~
+{DYou stand inside a small shop{r.{D  As you scan around the room{r,{D you can{x
+{Dsee rack after rack of fresh foods lining the cold grey walls{r.{D  Fresh{x
+{Dproduce and fresh baked goods seem to be the most popular of the foods{x
+{Dhere{r.{D  Along the far southern wall you can see a small counter{r.{D  The{x
+{Donly exit is to the west{r.{x
+~
+524416 0
+D3
+~
+~
+0 0 55145
+S
+
+#55147
+{yThe {YG{yolde{Yn E{yntrancewa{Yy{x~
+{yYou stand in a large grand room{Y.{y  The walls are made of great slabs{x
+{yof a golden material that seems to shine as light hits it{Y'{ys surfaces{Y.{x
+{yAll along these walls{Y,{y you can see detailed etches depicting battles{x
+{yof greatness{Y.{y  Not all however are of the good defeating evil{Y,{y and{x
+{ythe evil ones tend to be a bit more graphical{Y.{y  The floor is also{x
+{yof the golden material as the walls as you can see it peek out from{x
+{ybeneath the great green tapestry that covers the floor{Y.{y  The overall{x
+{yroom is quite clean and seems to be kept this way daily{Y.{y  There is{x
+{yan exit passing beneath a great archway to the East and a hall leading{x
+{ywest{Y.{x
+~
+524416 0
+D1
+~
+~
+0 0 55142
+D3
+~
+~
+0 0 55148
+S
+
+#55148
+{yThe {YG{yolde{Yn H{yallwa{Yy{x~
+{yYou stand in a wide hallway{Y.{y  It{Y'{ys so wide{Y,{y you feel you might be able{x
+{yto squeeze a whole troop in it{Y.{y  The walls are made of a shiny golden{x
+{ymaterial that seems to attract the light reflected on it rather than{x
+{yreflect it back{Y.{y  There is a large staircase leading up into the skyline{Y.{x
+{yThe hallway heads back east{y.{x
+~
+524420 0
+D1
+~
+~
+0 0 55147
+D3
+~
+~
+0 0 55149
+S
+
+#55149
+{yThe {YG{yolde{Yn T{yempl{Ye{x~
+{yYou stand inside a vast room{Y.{y  The walls are made of a golden material{x
+{ythat seems to almost shine brightly as light is reflected across the{x
+{ysurface of the wall{Y.{y  Pictures depicting great and heroic battles seem{x
+{yto be etched into the walls themselves{Y.{y  High above you{Y,{y you can see{x
+{ya massive chandelier hanging from the vaulted ceiling of the room{Y.{y  It{Y'{ys{x
+{ysoft warm light seems to fill the room greatly{Y.{y  There is an exit to{x
+{ythe east{Y.{x
+~
+524420 0
+D1
+~
+~
+0 0 55148
+D2
+~
+~
+0 0 55150
+S
+
+#55150
+{DThe {rS{Dacrificia{rl C{Dhambe{rr{x~
+{DYou are in a small room next to the temple{r.{D  A note on the wall tells{x
+{Dyou that this is a place to leave your unwanted items for other travelers{r.{x
+~
+524420 0
+D0
+~
+~
+0 0 55149
+S
+
+#55151
+Main Hall~
+You find yourself standing in a small room.  The walls are made of a
+dark green material that appears to be of some strange rock.  There is
+a large marking on the Southern wall, but as to what it means, you have
+no clue.  There is a hallway leading to the West and a staircase leading
+up.  You also see a small sign on the wall.  
+~
+524416 0
+D1
+~
+~
+0 0 55154
+D3
+~
+~
+0 0 55152
+D4
+~
+~
+0 0 55170
+S
+
+#55152
+Holen's Mercenaries~
+You stand in a small room that appears to be an odd circle in shape.
+The room's walls are of a greenish color and made of a thick somewhat
+see-through rock.  The floor also sems to be made of the same material
+as is the ceiling.  In the center of the room, you can see a few warriors
+apparently fighting to test their skills.  There is a small door to the
+West, but seems to be totally unaccessible to you.  There is also a large
+archway leading to the East.  
+~
+524416 0
+D1
+~
+~
+0 0 55151
+S
+
+#55153
+~
+~
+524416 0
+S
+
+#55154
+Before the Continuing~
+This small room serves as the entryway to the continuing.  Only those
+of very young age can even see the door.  The main hallway is to the
+north.  
+~
+524416 0
+D3
+~
+~
+0 0 55151
+D4
+~
+~
+0 0 55155
+S
+
+#55155
+The Continuing~
+You are standing in the center of a large room.  The walls are swirling
+masses of vivid colors that seem to spin uncontrollably.  As you look
+closer into the colorful walls, you can begin to see faces and other
+shapes that resemble humanoids vaporize.  They seem to be shifting in
+and out of existence.  There is a small hole in the floor that appears
+to be the only exit out of this odd room.  
+~
+524416 0
+D3
+~
+~
+0 0 55156
+D5
+~
+~
+0 0 55154
+S
+
+#55156
+The Arched Room~
+You find yourself standing in a large room.  The walls are made of what
+seems to be made of a golden material that seems to reflect the light
+as it is casted across it's surface.  You can see large golden archways
+leading off in all directions.  There is also a large glass staircase
+in the center of the room that spirals downwards.  
+~
+524416 0
+D0
+~
+~
+0 0 55159
+D1
+~
+~
+0 0 55158
+D2
+~
+~
+0 0 55160
+D3
+~
+~
+0 0 55157
+D5
+~
+~
+0 0 55161
+S
+
+#55157
+The Souls' Trainings~
+You stand in a large room that seems to be glowing brightly.  As you
+look further about the room, you notice that the light is coming from
+the room itself.  The walls and ceilings are glowing with a magical aura.
+There is a large counter in the center of the room.  The only exit appears
+to be to the East.  There is also a large sign on the Western wall. 
+~
+524416 0
+D1
+~
+~
+0 0 55156
+S
+
+#55158
+The Souls' Practice Chambers~
+You find yourself in a large circular room.  There are no windows or
+torches to light up the room, yet a soft yellowish glow illuminates the
+room.  The glowing seems to be coming from the walls which are a golden
+color.  Various racks of odds and ends line the walls.  Some filled with
+weapons of all sorts.  Others are filled with books and vials of various
+colored liquids.  The only exit out appears to be to the West.  There
+is a large wooden sign hanging on the eastern wall.  
+~
+524416 0
+D3
+~
+~
+0 0 55156
+S
+
+#55159
+The Food of Souls~
+You are in a small room.  The walls are aglow with a dull golden light
+that seems to light up the room nicely and also appears to be the only
+source of light.  Along the walls you can see many racks and cabinets
+filled with various food products ranging from pastries and other light
+delicacies to beef and other meat products.  On the far North wall, you
+can see a counter with a sign next to it.  The only exit appears to be
+towards the South.  
+~
+524416 0
+D2
+~
+~
+0 0 55156
+S
+
+#55160
+The Souls' Shop of Useful Things~
+You stand in a small room that seems to contain some strong magic.  There
+is no sort of light yet there is a soft golden glow that fills the room.
+It seems to be coming from the golden walls themselves.  All along the
+walls, you can see racks of oddities and other useful stuff that might
+help in one's survival.  At the far Southern wall, you can see a small
+counter with a sign next to it.  The only other exit is a golden archway
+leading out to the North.  
+~
+524416 0
+D0
+~
+~
+0 0 55156
+S
+
+#55161
+The Golden Room~
+You stand in a large room.  There appears to be no means of light
+in this room, yet the room is illumened with a dull gold light.  It
+appears to be coming from the walls themselves.  High above you, the
+arched ceiling seems to whisper in a small voice.  What the voices
+say you cannot make out.  There is an exit to the North, and an open
+grate leading up.  
+~
+524416 0
+D0
+~
+~
+0 0 55162
+D4
+~
+~
+0 0 55156
+S
+
+#55162
+The Cages' Begininng~
+You see before you a large room.  The walls here are made of what
+appears to be some sort of black material that seems to absorb the
+light as it is reflected across it's smooth surface.  The room is
+lit by a large chandelier that hangs high above you in the ceiling.
+At the far end to the West, you can see a row of thick black bars
+extending from the floor to the ceiling.  There is a gap big enough
+for you to fit in.  There is an archway that leads to a room in the
+South.  There is also a sign on the wall.  
+~
+524416 0
+D2
+~
+~
+0 0 55161
+D3
+~
+~
+0 0 55163
+S
+
+#55163
+The Cages~
+You stand in the center of a large cage.  The bars shoot up from the
+floor, extending straightup to the ceiling.  Many of the bars appear
+to be bent and gnawed on, but all reamin quite intact.  On the floor,
+you can see small piles of bone scattered throughout the room.  Some
+appear more recent than others at the times of death.  There are gaps
+in the bars you think are big enough for you to squeeze through to
+the South and East.  There is also a small wooden sign swinging on
+the Western wall.  
+~
+524416 0
+D1
+~
+~
+0 0 55162
+D2
+~
+~
+0 0 55164
+S
+
+#55164
+The Darker Cages~
+You find yourself standing in the midsts of a large cage.  The bars
+appear to be in perfect condition, as if they were just replaced or
+put in.  On the floor, you can see a small layer of dust that has
+recently settled on the surface of the black stone.  In the dust,
+you can see various footprints, but the oddest appears to be markings
+of a broom, showing the room is maintained to some degree.  There
+is a gap in the bars to the North and to the South.  On the Southern
+wall, you can see a small metal sign.  
+~
+524416 0
+D0
+~
+~
+0 0 55163
+D2
+~
+~
+0 0 55165
+S
+
+#55165
+The Inner Cages~
+You find yourself standing in the small confines of a dank cage.  The
+bars surround you like a snake, making you feel as if being squeezed
+or constricted in the small space.  The walls behind the bars are a dark
+material and seem to be thicker than it appears.  There is an exit to
+the East and also an exit to the North, but it appears to be locked.
+~
+524416 0
+D0
+~
+~
+0 0 55164
+D1
+~
+~
+0 0 55166
+S
+
+#55166
+The Inner Cages~
+You find yourself standing in the small confines of a dank cage.  The
+bars surround you like a snake, making you feel as if being squeezed
+or constricted in the small space.  The walls behind the bars are a dark
+material and seem to be thicker than it appears.  There is an exit to
+the West and also an exit to the North, but it appears to be locked.
+~
+524416 0
+D0
+~
+~
+0 0 55167
+D3
+~
+~
+0 0 55165
+S
+
+#55167
+The Continuing Cages~
+You appear to be standing in a small squared room.  All around you, thick
+black bars run from the ceiling to the floor, forming a cage around you.
+The bars look quite sturdy and unbendable.  On the floor, bones and other
+remains litter it.  There is an exit to the South and East.  
+~
+524416 0
+D1
+~
+~
+0 0 55168
+D2
+~
+~
+0 0 55166
+S
+
+#55168
+The Large Cage~
+You stand in the center of a large caged room.  Far beyond the restraints
+of the thick black bars you can see a dark stone wall.  The wall seems
+to have numerous claw marks and other types of diggings in it.  It appears
+something has wanted out of this cage for some time now.  The floor of
+the cage is littered with bones and other types of carnage, some appears
+fresh.  There is an exit to the East, and and exit to the West.  
+~
+524416 0
+D1
+~
+~
+0 0 55169
+D3
+~
+~
+0 0 55167
+S
+
+#55169
+The Ending~
+You find yourself standing in a large cage.  The bars of this large cage
+extend up all the way to the ceiling and these bars look quite strong.
+Behind the cage, you can see a dark black stone wall surrounding the
+cage.  There are deep scratches and nicks all along the surface of the
+wall.  There is an exit to the West.  On the Southern wall, You see a
+large black sign.  
+~
+524416 0
+D3
+~
+~
+0 0 55168
+S
+
+#55170
+Center Arena~
+You stand in the center of a large hallway.  The walls are made of a
+silvery material that can reflect your image like a mirror.  It's a bit
+blurry, but you still can see yourself.  The floor is a black tile and
+seems to be extremely cleaned, as if it is done daily.  There is a large
+staircase leading down into a well lit room.  Archways lead off in the
+rest of the directions.  
+~
+524416 0
+D0
+~
+~
+0 0 55171
+D1
+~
+~
+0 0 55183
+D2
+~
+~
+0 0 55192
+D3
+~
+~
+0 0 55174
+D5
+~
+~
+0 0 55151
+S
+
+#55171
+The Northern Mirror Room~
+You stand in a small narrow hallway.  The walls and floor are made
+of a silvery material that reflects images everywhere in the room.
+It confuses you a bit, but you soon adjust to the mulitple affect.
+The air around you is cold and stagnant as a small breeze makes you
+notice it.  As you look around you, you see no hints of dust or any
+other type of filth.  The hall splits to the West and East and also
+continues to the South.  
+~
+524416 0
+D1
+~
+~
+0 0 55173
+D2
+~
+~
+0 0 55170
+D3
+~
+~
+0 0 55172
+S
+
+#55172
+The Northwestern Mirror Room~
+You find toyrself in a small mirrored room.  The walls and floor are
+made of a thick mirror that seems to reflect your image numerous times
+around you.  There is little dirt or dust anywhere, as if this room is
+well maintained on a daily bases.  AS you look in the mirror, you notice
+some movement around you.  There is an exit to the East.  
+~
+524416 0
+D1
+~
+~
+0 0 55171
+S
+
+#55173
+The Northeastern Mirror Room~
+You are in a large hollow room.  As you look around the room, you notice
+everything is made out of mirrors.  The walls reflect images of you in
+what seems an endless number of times.  As you look closer, you notice
+something move or shift that is not caused by you.  It slowly begins
+to take the shape of something humanoid.  There is an exit to the West.
+~
+524416 0
+D3
+~
+~
+0 0 55171
+S
+
+#55174
+The Silver Hallway~
+You are standing in a long hallway.  The walls are of a silvery
+color that seems to be almost similiar to a mirror.  It confuses
+and disorients you as you see mulitple things, but you soon become
+adapted to the mirrored affect.  The hallway continues East and
+West through etched archways.  
+~
+524416 0
+D1
+~
+~
+0 0 55170
+D3
+~
+~
+0 0 55175
+S
+
+#55175
+The Mirrors~
+You stand in a multi-walled hallway.  The walls seem to reflect
+everything in the room, movemnet, shapes and shadows included.
+The room is overall confusing and seems to disorient your judgement.
+You can see something else moving but it appears to be inside the
+mirrored walls.  You try desperately to see it again, but nothing
+more can be found.  The Hallway branches off to the North and West
+and also extends Easthward.  
+~
+524416 0
+D0
+~
+~
+0 0 55180
+D1
+~
+~
+0 0 55174
+D2
+~
+~
+0 0 55176
+S
+
+#55176
+The Mirrored Pools~
+You are standing on a small narrow strip that seems to be surrounded
+on both sides by small pools of liquid.  As you take a closer look
+at these mirrored pools, you notice that they are actually made out
+of a liquid mirror.  The path continues North and South.  
+~
+524416 0
+D0
+~
+~
+0 0 55175
+D2
+~
+~
+0 0 55177
+S
+
+#55177
+The Pools Surrounding~
+You are standing on a hard strip of mirror.  The pathway seems
+to cut a larger pool of liquid in half below you.  As you look
+further inro the water, you notice the water is actully made out
+of a liquified mirror.  You are blinded for an instance as the
+reflection of light from your light source shoots out from the
+pool, rebounding off the rest of the mirrored walls.  The path
+leads off North and East.  
+~
+524416 0
+D0
+~
+~
+0 0 55176
+D1
+~
+~
+0 0 55178
+S
+
+#55178
+The Mirrored Waters~
+You find yourself standing on the edge of what appears to be a large
+lake.  The water however is not water but is actually a liquid mirror.
+Small waves and ripples seem to roll across the surface just like
+a real lake.  It seems to get deeper to the East.  A small narrow
+path leads West.  
+~
+524416 0
+D1
+~
+~
+0 0 55179
+D3
+~
+~
+0 0 55177
+S
+
+#55179
+Center of The Mirrored Lake~
+You are standing in the center of a large body of water.  The water
+is contained in large mirrored walls in most directions.  As you walk
+further into the water, you realize that you are not sinking or the
+water is not getting deeper.  You appear to be walking on the surface
+of it.  Something jumps out of the water around you.  There is an
+exit to the West.  
+~
+524416 0
+D3
+~
+~
+0 0 55178
+S
+
+#55180
+The Wall of Blades~
+You are standing in an extremely narrow hallway.  As you look further
+down the hallway, you can see sharp projectiles apparently extending
+from the walls.  They resemble long shards of mirror, almost like
+pointed daggers.  They seems to be sticking out from the walls in
+random lengths making it hard to judge a safe passage by them.  The
+Hallway goes South and North.  
+~
+524416 0
+D0
+~
+~
+0 0 55181
+D2
+~
+~
+0 0 55175
+S
+
+#55181
+The Shard's Continuing~
+You find yourself standing in a narrow hall.  You are surrounded
+by long shards of mirrored glass shaped into small pointed spears
+extending from the walls.  They are of different lengths and widths,
+making it hard for you to pick a clear path through them.  The
+Hallway leads off to the East and South.  
+~
+524416 0
+D1
+~
+~
+0 0 55182
+D2
+~
+~
+0 0 55180
+S
+
+#55182
+A Mirrored Cave~
+You are standing in a large omnious cave.  The walls appear to be made
+out of a silvery mirrored material, casting images of yourself everywhere.
+The floor is also made of the same mirrored material as the walls are.
+An odd noise seems to be coming from high above you.  The only apparent
+exit is to the West.  
+~
+524416 0
+D3
+~
+~
+0 0 55181
+S
+
+#55183
+A Mirrored Hallway~
+You are standing in a narrow hallway.  The floor is made of a thick
+mirror and as you look down, all you can see is an image of you looking
+back up at you.  The walls also appear to be made of the same mirrored
+surface.  The walls are angled and shifted in spots, making many different
+images of you seem to be everywhere.  The Hallway goes West and East.
+~
+524416 0
+D1
+~
+~
+0 0 55184
+D3
+~
+~
+0 0 55170
+S
+
+#55184
+The Easthern Intersection~
+You find yourself standing at a small three way split.  The directions
+they lead off to are hard to determine however because you are surrounded
+by mirrored walls that seem to send images of you endlessly around you.
+You think the exits are leading off to the North, South, and West but
+you can't be for certain.  
+~
+524416 0
+D0
+~
+~
+0 0 55185
+D2
+~
+~
+0 0 55189
+D3
+~
+~
+0 0 55183
+S
+
+#55185
+The Hall of Mirrored Heat~
+You are standing in a small hallway.  It seems unbearbaly hot here,
+yet there is no flame anywhere near you.  As you look around, you
+notice the walls and floor are made of a material similar to that
+of a mirror.  Underneath, as if in the mirror, you can see huge
+flames leap around.  You are unsure whether the flames will scorch
+you or not, but the heat is immense.  The hall continues South
+and North.  
+~
+524416 0
+D0
+~
+~
+0 0 55186
+D2
+~
+~
+0 0 55184
+S
+
+#55186
+The Hall of Mirrored Heat~
+You find yourself standing in an immense heat.  It appears to be a
+hallway made of glass and mirrors.  The heat messes up your vision
+added to the fact that the mirrors send your image everywhere.  Behind
+the mirrors you can see an intense blaze going but not on the outside.
+The hallway goes West and South.  
+~
+524416 0
+D2
+~
+~
+0 0 55185
+D3
+~
+~
+0 0 55187
+S
+
+#55187
+The Mirrored Walls of Flame~
+You are standing in a small narrow hallway.  The walls are made of
+a red mirrored material that seems to reflect your images everywhere.
+Behind the mirrors you can see a wall of flames that seem to burn
+brighter than you've ever seen fire burn.  The heat in this room seems
+to be almost unbearable as beads of sweat seem to form from every
+pore on your body.  You can see and exit leading East and West.  
+~
+524416 0
+D1
+~
+~
+0 0 55186
+D3
+~
+~
+0 0 55188
+S
+
+#55188
+The Molten Pools~
+A narrow strip of floor that is mirrored.  The walls are also mirrored,
+but are of a deep red color.  All around the thin strip of land, you
+can see massive boiling pools of red reflective material flow out of
+the ground.  Suddenly something stills out of the pools.  
+~
+524416 0
+D1
+~
+~
+0 0 55187
+S
+
+#55189
+The Mirrored Landscape~
+You stand inside a small forest of sorts.  You notice one thing,
+the entirety of it is made of mirrors.  The walls and trees are
+mirror as is the grass.  As you walk, you shatter the small blades
+of mirrored grass, but they suddenly reappear behind you, reforming
+to how they were before you disturved them.  You can see an exit
+to the North and South.  
+~
+524416 0
+D0
+~
+~
+0 0 55184
+D2
+~
+~
+0 0 55190
+S
+
+#55190
+The Southtern Bend~
+You stand in a vasst room that seems to not fit in the surrounding
+area.  It seems too huge of a place to fit in this tower yet it exists
+through magical means.  It resembles a huge forest but is made up
+of mirrored surfaces.  Everything seems to reflect your image across
+the room, and in some places distorting it a bit.  You see an exit
+to the North and West.  
+~
+524416 0
+D0
+~
+~
+0 0 55189
+D3
+~
+~
+0 0 55191
+S
+
+#55191
+The Mirrored Forest~
+You find yourself standing in a vast forest made completely out of
+mirrors and glass.  The walls all the way down to the blades of grass
+are made of the mysterious mirrored material.  You can see movement
+amoungst the mirror trees but can't make out the source from which
+it's coming.  There is an exit to the East.  
+~
+524416 0
+D1
+~
+~
+0 0 55190
+S
+
+#55192
+The Southern Mirror Room~
+You stand in a long narrow hallway that seems to be quite clean.
+As you look around the hall, you notice everything is made out
+of mirrored glass, sending images and light everywhere.  Suddenly
+you see somethimg from the corner of your eye, but as you go to
+look, it's gone.  The hallway branches off to the West and East
+and continues North also.  
+~
+524416 0
+D0
+~
+~
+0 0 55170
+D1
+~
+~
+0 0 55194
+D3
+~
+~
+0 0 55193
+S
+
+#55193
+The Southwestern Mirror Room~
+You are standing in the center of a large room.  The walls are
+made of a mirrored surface that seem to reflect even the slightest
+of movements.  As you search the room for anything else, you notice
+a small movement that is not of your doing to the North.  The only
+exit is to the East.  
+~
+524416 0
+D1
+~
+~
+0 0 55192
+S
+
+#55194
+The Southeastern Mirror Room~
+You are standing in a large room.  The walls and floor appears
+to be made out of a thick mirrored material.  The walls have points
+sticking out, making it confusing to see where the wall actually
+is.  Reflections of you are everywhere, and some appear to distort
+you.  Just as you are about to leave the room, you notice something
+stepping out of a mirror.  
+~
+524416 0
+D3
+~
+~
+0 0 55192
+S
+
+#55195
+{DBefore the {rG{Date{rs{D of the {rC{Dit{ry{D of the {rD{Dea{rd{x~
+~
+0 0
+D1
+~
+~
+0 0 8318
+D3
+~
+~
+0 0 55100
+S
+#0
+
+#RESETS
+D 100 55101 0 1
+D 100 55101 2 1
+D 100 55102 0 1
+D 100 55103 2 1
+M 100 55100 20 55102 2
+M 100 55100 20 55103 2
+M 100 55102 6 55107 2
+M 100 55102 6 55108 2
+M 100 55102 6 55109 2
+M 20 55103 1 55112 1
+E 20 55102 0 12
+O 100 55100 0 55112
+M 20 55104 1 55113 1
+E 20 55105 0 18
+E 20 55104 0 6
+E 20 55103 0 16
+O 100 55101 0 55113
+O 100 55106 0 55117
+M 100 55100 20 55119 2
+M 100 55101 20 55120 2
+M 100 55100 20 55120 2
+M 100 55107 1 55121 1
+M 100 55108 1 55122 1
+G 100 55125 0
+G 100 55124 0
+G 100 55123 0
+G 100 55122 0
+G 100 55121 0
+M 100 55101 20 55123 2
+M 100 55100 20 55123 2
+M 100 55106 1 55124 1
+G 100 55118 0
+G 100 55119 0
+G 100 55117 0
+G 100 55120 0
+G 100 55116 0
+G 100 55115 0
+G 100 55113 0
+G 100 55114 0
+G 100 55112 0
+M 100 55105 1 55125 1
+G 100 55111 0
+G 100 55110 0
+G 100 55109 0
+G 100 55108 0
+G 100 55107 0
+M 100 55101 20 55127 2
+M 100 55101 20 55130 2
+M 100 55101 20 55134 2
+M 100 55100 20 55134 2
+M 100 55109 1 55135 1
+G 100 55127 0
+G 100 55128 0
+G 100 55126 0
+M 100 55101 20 55136 2
+M 100 55100 20 55136 2
+M 100 55110 1 55137 1
+G 100 55133 0
+G 100 55132 0
+G 100 55131 0
+G 100 55130 0
+G 100 55129 0
+M 100 55101 20 55143 2
+M 100 55100 20 55143 2
+M 100 55112 1 55144 1
+G 100 55139 0
+G 100 55138 0
+G 100 55137 0
+M 100 55101 20 55145 2
+M 100 55100 20 55145 2
+M 100 55111 1 55146 1
+G 100 55140 0
+G 100 55136 0
+G 100 55135 0
+G 100 55134 0
+M 100 55113 1 55147 1
+M 100 55114 1 55149 1
+O 100 55141 0 55149
+S
+
+#SHOPS
+55105 5 0 0 0 0 100 100 0 23
+55106 2 3 4 21 0 100 100 0 23
+55107 0 0 0 0 0 100 100 0 23
+55108 7 0 0 0 0 100 100 0 23
+55109 8 0 0 0 0 100 100 0 23
+55110 5 0 0 0 0 100 100 0 23
+55111 15 0 0 0 0 100 100 0 23
+55112 12 1 0 0 0 100 100 0 23
+0
+
+#$

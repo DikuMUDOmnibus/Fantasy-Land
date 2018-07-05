@@ -1,0 +1,1252 @@
+#AOD_AREA
+Z: Golem Settlement~
+20400 20432 0 8
+Levl 90 151
+Bldr Brant~
+Alig G
+End
+
+#MOBILES
+#20400
+golem child~
+a {yg{Do{yl{De{ym {Dchild{x~
+A {yg{Do{yl{De{ym {Dchild{x stands here staring at you.
+~
+The golem child is made of earth and is quite large compared to human
+children.
+~
+human~
+0 50 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 200 200 100 100 100 
+G 0 0 -3000 0
+100 0 0 1501 1501 0 0 9 10 25 pound
+-490 -490 -490 -490
+STANDING STANDING random 400
+76 warrior large ABCDEFGHIJK
+P 170 0
+S 'roundhouse' 0
+
+#20401
+golem beggar~
+a {yg{Do{yl{De{ym {Dbegger{x~
+A {yg{Do{yl{De{ym {Dbegger{x grovels at your feet.
+~
+The golem beggar is dirty and is wearing tattered cloths fit for one such
+as he. He looks at you with dark pleading  eyes and asks you for a single
+coin.
+~
+human~
+0 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 200 200 100 100 100 
+CG 0 0 -3000 0
+105 171 0 1501 1501 9923 10295 21 17 144 pound
+-275 -241 -208 -295
+STANDING STANDING male 2991
+77 thief large ABCDEFGHIJK
+P 224 0
+S 'roundhouse' 0
+
+#20402
+golem worker~
+a {yg{Do{yl{De{ym {Dworker{x~
+A {yg{Do{yl{De{ym {Dworker{x is headed to his work.
+~
+The worker is quite dirty and looks as though he's been working long and
+hard.
+~
+human~
+0 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 200 200 100 100 100 
+G 0 0 -1000 0
+119 1 0 6001 6001 0 0 10 10 43 pound
+-590 -590 -590 -590
+STANDING STANDING male 500
+78 warrior huge ABCDEFGHIJK
+P 367 0
+S 'roundhouse' 0
+
+#20403
+golem husband~
+a {yg{Do{yl{De{ym {Dhusband{x~
+A {yg{Do{yl{De{ym{x eyes you warily.
+~
+The golem is quite large and stares at you warily, ready for a fight.
+~
+human~
+0 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 200 200 100 100 100 
+BG 0 0 -3000 0
+119 1 0 3001 3001 0 0 10 10 46 pound
+-610 -610 -610 -610
+STANDING STANDING male 450
+78 warrior huge ABCDEFGHIJK
+P 122 1
+S 'roundhouse' 0
+
+#20404
+golem wife~
+a {yg{Do{yl{De{ym {Dwife{x~
+A female {yg{Do{yl{De{ym{x is here preparing a meal.
+~
+The golem is preparing a meal for her family.
+~
+human~
+0 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 200 200 100 100 100 
+BG 0 0 -3000 0
+113 1 0 1501 1501 0 0 10 10 46 pound
+-610 -610 -610 -610
+STANDING STANDING female 500
+78 warrior medium ABCDEFGHIJK
+P 90 0
+S 'roundhouse' 0
+
+#20405
+golem healer~
+a {yg{Do{yl{De{ym {Whealer{X~
+The {Whealer{X of the town stands here casting spells
+~
+The golem healer is tall and is garbed in plain robes. He is healing the
+other golems which are coming back from war or from a hard day of hunting.
+~
+human~
+0 0 0 0 0 0 0 100 0 100 0 0 0 0 0 100 100 0 0 100 0 100 0 100 100 100 
+BGa 0 0 -1000 0
+120 0 0 1001 1096 0 0 0 0 0 pound
+0 0 0 0
+STANDING STANDING male 100
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#20406
+golem shopkeeper~
+the {yg{Do{yl{De{ym {Dshopkeeper{x~
+The {Dshopkeeper{x stands here waiting for you to buy something.
+~
+The shopkeeper eyes you warily, making sure you don't steal anything.
+~
+human~
+0 0 0 0 0 0 0 100 0 100 0 0 0 0 0 100 100 0 0 100 0 100 0 100 100 100 
+BG 0 0 -1000 0
+100 0 0 20000 30000 0 0 0 0 0 pound
+0 0 0 0
+STANDING STANDING random 5000
+80 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+
+#20407
+golem warrior~
+a {yg{Do{yl{De{ym {Dwarrior{x~
+A {yg{Do{yl{De{ym {Dwarrior{x is wandering around looking for new adventures.
+~
+The golem warrior has been through many adventures; you can tell by its
+many wounds.   It is wearing a full suit of armor, just in case it runs
+into a good fight.
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+DG 0 0 -700 0
+130 249 0 8320 9015 8198 9512 29 25 291 pound
+-411 -377 -327 -387
+STANDING STANDING random 4541
+80 mage huge ABCDEFGHIJK
+P 106 1
+S 'roundhouse' 0
+
+#20408
+golem mage~
+a {yg{Do{yl{De{ym{D mage{x~
+A {yg{Do{yl{De{ym{D mage{x seeks out the perfect spell
+~
+The mage is clothed in plain rboe and mutters many strange words.
+~
+human~
+0 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 200 200 100 100 100 
+DG 0 0 -700 0
+125 199 0 6697 7803 6896 8239 27 24 185 pound
+-251 -387 -400 -264
+STANDING STANDING random 4364
+80 archmage huge ABCDEFGHIJK
+P 35 0
+S 'roundhouse' 0
+
+#20409
+golem cleric~
+a {yg{Do{yl{De{ym {Dcleric{x~
+A {yg{Do{yl{De{ym {Dcleric{x heals those who ask.
+~
+The cleric is here healing the other golems.
+~
+human~
+0 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 200 200 100 100 100 
+DG 0 0 -3000 0
+135 264 0 7978 8594 7604 8450 23 22 184 beating
+-378 -429 -430 -425
+STANDING STANDING random 4903
+81 bishop huge ABCDEFGHIJK
+P 77 4
+S 'roundhouse' 0
+
+#20410
+golem thief~
+a {yg{Do{yl{De{ym{D thief{x~
+A {Dthief{X lunges from the {Ddark{x!
+~
+The thief is a very dark person, and hides well.
+~
+human~
+0 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 200 200 100 100 100 
+DG PQ 0 -1000 0
+128 214 0 7384 8696 7035 8021 22 22 230 stab
+-266 -352 -348 -366
+STANDING STANDING random 4025
+82 mage large ABCDEFGHIJK
+P 41 5
+S 'roundhouse' 0
+
+#20411
+goelm master warrior~
+the {Dmaster{x~
+The {ym{Da{yst{De{yr {Dwarrior{x stands here, smircking at you.
+~
+~
+human~
+0 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 200 200 100 100 100 
+DG DFa 0 -3000 20400
+140 283 0 8207 9250 8372 9146 27 32 249 pound
+-477 -333 -405 -318
+STANDING STANDING male 4282
+82 mage huge ABCDEFGHIJK
+P 13 0
+S 'roundhouse' 0
+
+#20412
+golem destroyer~
+the {yd{Des{ytro{Dye{yr{x~
+A {yg{Do{yl{De{ym d{Des{ytro{Dye{yr{x lurks in the {Dshadows{x.
+~
+~
+human~
+0 50 0 100 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 50 200 200 100 100 100 
+DG DFPQa 0 -3000 20400
+135 237 0 8076 9296 8286 9190 26 26 285 stab
+-324 -406 -335 -435
+STANDING STANDING random 5396
+80 thief huge ABCDEFGHIJK
+P 62 1
+S 'roundhouse' 0
+
+#20413
+dorak shopkeeper~
+{yDorak{x~
+{yDorak{x stands here, selling his wares.
+~
+~
+human~
+0 0 0 0 0 0 0 100 0 100 0 0 0 0 0 100 100 0 0 100 0 100 0 100 100 100 
+BG DFa 0 -1000 0
+155 0 0 1000 1000 0 0 1 1 999 pound
+0 0 0 0
+STANDING STANDING male 10000
+82 warrior medium ABCDEFGHIJK
+S 'roundhouse' 0
+#0
+
+#OBJECTS
+#20400
+golem toy~
+a {yg{Do{yl{De{ym{D'{ys {Dtoy{x~
+A small toy lies here.~
+trash AB AO
+0 0 0 0 0
+77 5 5000
+A 5 1
+A 3 2
+A 4 2
+A 13 225
+A 18 15
+A 19 15
+A 20 -2
+
+#20401
+worker shirt~
+a {yw{Do{yrk{De{yr{D'{ys {Dshirt{x~
+A large shirt has been left here.~
+armor EIJNT AD
+20 20 20 20 0
+87 5 19360
+A 13 200
+A 18 25
+A 19 25
+A 20 -2
+
+#20402
+black robe~
+a black robe~
+A black robe has been left here.~
+armor 0 AK
+28 28 28 28 0
+100 5 15673
+
+#20403
+pill combat~
+a {ypill{x of {Dcombat{x~
+A small pill is lying here.~
+pill 0 A
+85 'haste' 'frenzy' 'giant strength' ''
+151 5 1500
+
+#20404
+pill defense~
+a {ypill{x of {Ddefense{x~
+A red pill lies here.~
+pill 0 A
+151 'sanctuary' 'shield' 'bless' ''
+85 5 1500
+
+#20405
+golem sword~
+a {yg{Do{yl{De{ym {Dsword{x~
+A bright sword has been left here.~
+weapon AT AN
+sword 16 19 splintering DG
+118 250 19893
+A 18 35
+A 19 35
+
+#20406
+golem helm~
+a {yg{Do{yl{De{ym {Dhelm{x~
+A large helmet has been dropped here.~
+armor T AE
+31 32 32 32 0
+118 500 17036
+A 19 35
+A 5 3
+A 13 320
+A 20 -2
+
+#20407
+stone collar~
+a {ys{Dt{yo{Dn{ye {Dcollar{x~
+A collar of stone hsa been left here.~
+armor T AC
+22 22 22 22 0
+115 10 13979
+A 17 -85
+A 13 225
+A 3 2
+
+#20408
+mithril ring~
+a {Bm{bit{Bh{bri{Bl {Dring{x~
+A small mithril ring lies here.~
+armor T AB
+30 28 30 28 0
+115 5 13581
+A 12 200
+A 18 35
+A 19 35
+
+#20409
+golem gauntlets~
+a {Dpair{x of {yg{Do{yl{De{ym {Dgauntlets{x~
+A pair of finely crafted gauntlets has been left here.~
+armor HMT AH
+28 28 28 28 0
+100 5 11500
+A 13 225
+A 1 2
+A 18 25
+A 19 25
+A 20 -2
+
+#20410
+golem pauldron~
+a {Dpair{x of {Dpauldrons{x~
+A pair of fine pauldrons has been dropped here.~
+armor T AI
+28 28 28 28 0
+97 30 10000
+A 13 225
+A 2 2
+A 1 2
+A 18 25
+A 19 25
+A 20 -2
+
+#20411
+golem cuirass~
+a {yg{Do{yl{De{ym {Dcuirass{x~
+A large cuirass has been carlessly left here.~
+armor T AD
+30 30 30 30 0
+110 150 10000
+A 14 300
+A 13 275
+A 1 2
+A 20 -2
+
+#20412
+leather belt~
+a {yleather {Dbelt{x~
+A leather belt has been dropped here.~
+armor T AL
+30 30 30 30 0
+105 5 7500
+A 13 225
+A 19 25
+F A 0 0 U
+
+#20413
+golem greaves~
+a {Dset{x of {yg{Do{yl{De{ym {Dgreaves{x~
+A set of finely crafted greaves are here.~
+armor T AF
+20 20 20 20 0
+97 100 8000
+A 13 225
+A 1 2
+A 2 2
+A 18 25
+A 19 25
+A 20 -2
+
+#20414
+combat boots~
+a pair of {yc{Do{ymb{Da{yt {Dboots{x~
+A pair of boots has been left here.~
+armor T AG
+18 18 18 18 0
+97 50 25000
+A 13 225
+A 2 3
+A 18 25
+A 19 25
+F A 0 0 V
+
+#20415
+mage cloak~
+a {Dmage {Dcloak{x~
+A cloak has been left here.~
+armor AB AK
+32 35 35 35 0
+120 40 25000
+A 13 385
+A 18 35
+A 20 -3
+
+#20416
+mithril mage dagger~
+a {Bm{bit{Bh{bri{Bl {Dmage dagger{x~
+A mithril dagger is stuck in the ground.~
+weapon T AN
+dagger 15 22 shriek DG
+120 100 13644
+A 18 35
+A 19 35
+
+#20417
+bright silver cloak~
+a {Wbright {Ws{wi{Wlv{we{Wr {Dcloak{x~
+A bright silver cloak has been dropped here.~
+armor 0 AK
+26 32 32 32 0
+120 30 25000
+A 19 39
+A 13 400
+F D 1 -5 0
+A 20 -3
+
+#20418
+golem mace~
+a {yg{Do{yl{De{ym{D mace{x~
+A finely crafted mace has been dropped here.~
+weapon ABT AN
+mace 20 17 divine BG
+120 300 18330
+A 12 125
+A 18 35
+A 19 35
+
+#20419
+bright silver girth~
+a {Wbright {Ws{wi{Wlv{we{Wr {Dgirth{x~
+A bright silver girth has been left here.~
+armor 0 AL
+26 26 26 26 0
+120 5 22500
+A 13 303
+A 18 30
+A 19 30
+A 20 -3
+F D 1 -5 0
+
+#20420
+master weapon~
+the {ym{Da{yst{De{yr{D'{ys {Dweapon{x~
+The master's weapon gleams in the light.~
+weapon ABTY AN
+whip 22 19 cleave D
+140 300 15791
+A 13 125
+A 18 40
+A 19 40
+
+#20421
+thief dagger~
+a {Dthief dagger{x~
+A sharp dagger has been dropped here.~
+weapon A AN
+dagger 15 17 splintering AD
+118 70 10800
+A 18 40
+A 19 35
+
+#20422
+cancellation pill cyan~
+a {ypill{x of {Dcancellation{x~
+A small cyan pill has been dropped here.~
+pill 0 A
+95 'cancellation' 'remove curse' 'cure disease' 'cure disease'
+80 5 3000
+
+#20423
+potion green healing~
+a {ggreen {Wpotion{x of {Whealing{x~
+A green potion has been left here.~
+potion ABY A
+100 'heal' 'heal' 'mass healing' 'refresh'
+90 5 10000
+#0
+
+#ROOMS
+#20400
+{yEntrance to the {yG{Do{yl{De{ym{y Settlement{x~
+{yThis is the entrance to a small settlement of rogue golems{D,{y golems which{x
+{yhave fled form the fortress of an evil mage{D.{y  The settlement is composed{x
+{yof large huts made of straw{D,{y wood{D,{y and any other materials found in the{x
+{ysurrounding land{D.{y  North leads into the settlement{D.{x
+~
+524288 3
+D0
+~
+~
+0 -1 20401
+D2
+~
+~
+0 0 6573
+S
+
+#20401
+{yTemple Road{x~
+{yGolems can be seen going about their business in the streets{D,{y and some{x
+{ypause shortly to look at you{D,{y quite puzzled as to what on of your kind is{x
+{ydoing in their small settlement{D.{y To the east and west are huts{D,{y north{x
+{yleads farther into the settlement{D,{y and south leads out of the south gate{y.{x
+~
+524288 1
+D0
+~
+~
+0 -1 20406
+D1
+~
+~
+0 -1 20402
+D2
+~
+~
+0 -1 20400
+D3
+~
+~
+0 -1 20404
+S
+
+#20402
+{yIn a Hut{x~
+{yThis is one of the residential huts of the golems which occupy this{x
+{ysettlement{D.{y It is sparsely furnished{D,{y only a few large chairs and a table{x
+{yare in this main room{D.{y The floor is covered with straw{D,{y and the smell of{x
+{yfresh leaves wafts from the roof{D.{y West leads from the hut{D,{y and east leads{x
+{yinto the dining area of the hut{D.{x
+~
+524296 0
+D1
+~
+~
+0 -1 20403
+D3
+~
+~
+0 -1 20401
+S
+
+#20403
+{yIn the Kitchen{x~
+{yThis is where the golems come to make their food and to eat in the privacy{x
+{yof their own home{D.{y All that is in this room is a table and a few chairs{D,{x
+{yalong with a pit containing a pile of burned logs{D.{y West leads back into{x
+{ythe main room of the hut{D.{x
+~
+524296 0
+D3
+~
+~
+0 -1 20402
+S
+
+#20404
+{yIn a Hut{x~
+{yThis is one of the residential huts of the golems which occupy this{x
+{ysettlement{D.{y It is sparsely furnished{D,{y only a few large chairs and a table{x
+{yare in this main room{D.{y The floor is covered with straw{D,{y and the smell of{x
+{yfresh leaves wafts from the roof{D.{y East leads from the hut{D,{y and west leads{x
+{yinto the dining area of the hut{D.{x
+~
+524296 0
+D1
+~
+~
+0 -1 20401
+D3
+~
+~
+0 -1 20405
+S
+
+#20405
+{yIn the Kitchen{x~
+{yThis is where the golems come to make their food and to eat in the privacy{x
+{yof their own home{D.{y All that is in this room is a table and a few chairs{D,{x
+{yalong with a pit containing a pile of burned logs{D.{y East leads back into{x
+{ythe main room of the hut{D.{x
+~
+524296 0
+D1
+~
+~
+0 -1 20404
+S
+
+#20406
+{yTemple Road{x~
+{yGolems can be seen going about their business in the streets{D,{y and some{x
+{ypause shortly to look at you{D,{y quite puzzled as to what on of your kind is{x
+{ydoing in their small settlement{D.{y To the east is a hut{D,{y west is a store{D,{y north{x
+{yleads farther into the settlement{D,{y and south leads out of the south gate{y.{x
+~
+524288 1
+D0
+~
+~
+0 -1 20410
+D1
+~
+~
+0 -1 20407
+D2
+~
+~
+0 -1 20401
+D3
+~
+~
+0 -1 20408
+S
+
+#20407
+{yThe General Store{x~
+{yThe general is a very popular gathering place for the citizens of this{x
+{ysettlement for it has all of the necessities for these people{D.{y The store{x
+{yis well kept and clean{D,{y and has many items for sale on shelves along the{x
+{ywalls{D.{y West leads back to the road{D.{x
+~
+524296 0
+D3
+~
+~
+0 -1 20406
+S
+
+#20408
+{yIn a Hut{x~
+{yThis is one of the residential huts of the golems which occupy this{x
+{ysettlement{D.{y It is sparsely furnished{D,{y only a few large chairs and a table{x
+{yare in this main room{D.{y The floor is covered with straw{D,{y and the smell of{x
+{yfresh leaves wafts from the roof{D.{y East leads from the hut{D,{y and west leads{x
+{yinto the dining area of the hut{D.{x
+~
+524296 0
+D1
+~
+~
+0 -1 20406
+D3
+~
+~
+0 -1 20409
+S
+
+#20409
+{yIn the Kitchen{x~
+{yThis is where the golems come to make their food and to eat in the privacy{x
+{yof their own home{D.{y All that is in this room is a table and a few chairs{D,{x
+{yalong with a pit containing a pile of burned logs{D.{y East leads back into{x
+{ythe main room of the hut{D.{x
+~
+524296 0
+D1
+~
+~
+0 -1 20408
+S
+
+#20410
+{yTemple Road{x~
+{yTwo empty patches of grass lie to each side{D,{y awaiting a family of golems{x
+{yto build their house there.  Temple Road continues north and south.{x
+~
+524288 1
+D0
+~
+~
+0 -1 20411
+D2
+~
+~
+0 -1 20406
+S
+
+#20411
+{yTemple Road{x~
+{yWorkers mill about here{D,{y on either side of the street are workplaces of{x
+{ydifferent types{D.{y To the east is a construction site{D,{y and to the west is a{x
+{ymill of some kind{D.{y Temple Road continues north and south{D.{x
+~
+524288 1
+D0
+~
+~
+0 -1 20414
+D1
+~
+~
+0 -1 20413
+D2
+~
+~
+0 -1 20410
+D3
+~
+~
+0 -1 20412
+S
+
+#20412
+{yThe Lumber Mill{x~
+{yThis is where all of the wood for the huts comes first to be shaped into{x
+{yappropriate pieces{D.{y Workers work hard everywhere{D,{y preparing the wood for{x
+{ythe different huts which are being built around the settlement{D.{y East leads{x
+{yback to the Temple Road{D.{x
+~
+524296 0
+D1
+~
+~
+0 -1 20411
+S
+
+#20413
+{yThe Construction Site{x~
+{yIt looks like a new hut is being built here{D,{y most likely anonther house{D.{x
+{yPieces of wood{D,{y bundles of hay{D,{y and piles of leaves are everywhere{D.{y West{x
+{yleads back into the road{D.{x
+~
+524288 1
+D3
+~
+~
+0 -1 20411
+S
+
+#20414
+{yBefore the Te{ympl{ye{x~
+{yThe hut which serves as the temple for the golems lies to the north{D.{y It is{x
+{ylarger than the rest of the huts{D,{y and looks to be better made{D.{y The straw{x
+{ywalls are more tightly woven{D,{y and the roof is made of wood instead of just{x
+{yleaves{D.{y Temple Road leads south{D,{y a road lies to the west, a road lies to {x
+{ythe east{D,{y and the temple lies to the north{D.{x
+~
+524288 1
+D0
+~
+~
+0 -1 20415
+D1
+~
+~
+0 -1 20426
+D2
+~
+~
+0 -1 20411
+D3
+~
+~
+0 -1 20416
+S
+
+#20415
+{yThe Temple{X~
+{yThis is the hut which the golems use as their temple{D.{y This is where they{x
+{yhave come to rest after a long hard day of work{D,{y a hunt{D,{y or perhaps a{X
+{ybattle{D.{y The floor is covered with finely woven rugs bough from elsewhere{D,{x
+{yand the walls are adorned with holy symbols{D.{y South leads back to before{x
+{ythe temple{D.{x
+~
+524296 0
+D2
+~
+~
+0 -1 20414
+H 800 800
+S
+
+#20416
+{yWest road{x~
+{yWest road is composed mainly of small{D,{y dirty shacks{D,{y and filthy streets{D.{x
+{yThis is where the poorer golems come to live{D,{y since they can{D'{yt afford the{X
+{ynicer huts on Temple Road or East Road{D.{y To the east is a temple{D,{y schacks{x
+{ylie to the north and south{D,{y and west road continues west{D.{x
+~
+524288 1
+D0
+~
+~
+0 -1 20417
+D1
+~
+~
+0 -1 20414
+D2
+~
+~
+0 -1 20418
+D3
+~
+~
+0 -1 20419
+S
+
+#20417
+{yA Shack{x~
+{yThe shack is filthy{D,{y with trash all over the floor{D,{y and the walls and roof{x
+{yfalling apart{D.{y There is a small pit in the center with wood for burning in{x
+{yit{D.{y And no furninture exepct a few small cots next to the walls{D.{y South{x
+{yleads back to the west road{D.{x
+~
+524296 0
+D2
+~
+~
+0 -1 20416
+S
+
+#20418
+{yA Shack{x~
+{yThe shack is filthy{D,{y with trash all over the floor{D,{y and the walls and roof{x
+{yfalling apart{D.{y There is a small pit in the center with wood for burning in{x
+{yit{D.{y And no furninture exepct a few small cots next to the walls{D.{y North{x
+{yleads back to the west road{D.{x
+~
+524296 0
+D0
+~
+~
+0 -1 20416
+D1
+~
+~
+0 -1 20416
+D3
+~
+~
+0 -1 20420
+S
+
+#20419
+{yWest Road{X~
+{yWest road is small{D,{y filthy street{D.{y Rats and other small rodents scamper{x
+{yaround the trash{D.{y West road heads east and west{D.{x
+~
+524288 1
+D1
+~
+~
+0 -1 20416
+D3
+~
+~
+0 -1 20420
+S
+
+#20420
+{yWest Road{x~
+{yWest road is extremely dirty here, with rodents running about everywhere{D.{x
+{yA small shack les to the north{D,{y an abandoned hut lies to the south{D,{y and{x
+{ywest road heads east and west{D.{x
+~
+524288 1
+D0
+~
+~
+0 -1 20422
+D1
+~
+~
+0 -1 20419
+D2
+~
+~
+0 -1 20421
+D3
+~
+~
+0 -1 20423
+S
+
+#20421
+{DAn Abandoned Store{x~
+{yThis was once a profitable store in the settlement{D,{y but has since been run{x
+{ydown and forgotten{D.{y The counter on the south wall is craked in many places{D,{x
+{yand there is no furniture{D.{y There is a sigh on the east wall{D,{y and north leads{x
+{yback to west raod{D.{X
+~
+524296 0
+D0
+~
+~
+0 -1 20420
+E
+sign wall~
++------------------------+
+|  Grink's Supply Store  |
+|-=-=-=-=-=-=-=-=-=-=-=-=|
+|		         |
+|   Dealing in the Best  |
+|  Adventuring Equipment |
+|			 |
++------------------------+
+~
+S
+
+#20422
+{yA Shack{x~
+{yThe shack is filthy{D,{y with trash all over the floor{D,{y and the walls and roof{x
+{yfalling apart{D.{y There is a small pit in the center with wood for burning in{x
+{yit{D.{y And no furninture exepct a few small cots next to the walls{D.{y South{x
+{yleads back to the west road{D.{x
+~
+524296 0
+D2
+~
+~
+0 -1 20420
+S
+
+#20423
+{yEnd of West Road{x~
+{yYou have reached the end of west road{D,{y the dirtiest part of the{x
+{ysettlement{D.{y The west wall is covered with writing, and the center is{x
+{ymade of a different colored bricks{D.{y Abandoned shacks lie to the north{x
+{yand south{D,{y and west road heads back to the east{D.{x
+~
+524288 1
+D0
+~
+~
+0 -1 20424
+D1
+~
+~
+0 -1 20420
+D2
+~
+~
+0 -1 20425
+S
+
+#20424
+{yAn Abandoned Shack{X~
+{yThis shack has been long abanadoned by the inhabitants{D,{y most likely in{x
+{yorder to find a better living place{D.{y The shack is now inhabited by rodent{x
+{yand other vermin{D.{y South leads back to west road{D.{x
+~
+524296 0
+D2
+~
+~
+0 -1 20423
+S
+
+#20425
+{yAn Abandoned Shack{X~
+{yThis shack has been long abanadoned by the inhabitants{D,{y most likely in{x
+{yorder to find a better living place{D.{y The shack is now inhabited by rodent{x
+{yand other vermin{D.{y North leads back to west road{D.{x
+~
+524296 0
+D0
+~
+~
+0 -1 20423
+S
+
+#20426
+{yEast Road{x~
+{yEast Road is where the wealthy golems come to live{D.{y These golems have{x
+{ymostly made their fortunes from seling their wares to the adventurers{x
+{ywho come through the settlement{D.{y To the west lies a temple{D,{y and east{x
+{yroad continues to the east{D.{x
+~
+524288 1
+D1
+~
+~
+0 -1 20427
+D3
+~
+~
+0 -1 20414
+S
+
+#20427
+{yEast Road{x~
+{yEast road is very well kept{D,{y with fine huts and plants lining the raod{D.{x
+{yThis is the only raod in the settlement to have a cobblestone road{D,{y due to{x
+{ythe rich occupants{D.{y A large hut lies to the north{D,{y a residence lies to the{x
+{ysouth{D,{y and east road continues east and west{D.{x
+~
+524288 1
+D0
+~
+~
+0 -1 20428
+D1
+~
+~
+0 -1 20430
+D2
+~
+~
+0 -1 20429
+D3
+~
+~
+0 -1 20426
+S
+
+#20428
+{yDorak{D'{ys Supplies{x~
+{yThis is a expensive supply store{D,{y where only the wealthies adventurers may{x
+{yshop{D.{y All of the equipment within is finely crafted{D,{y the best in the land{D.{x
+{ySouth leads back to east Street{D.{x
+~
+524296 0
+D2
+~
+~
+0 -1 20427
+S
+
+#20429
+{yA Residence{X~
+{yThis is a residence of a wealthy golem from the settlement{D.{y It is very{X
+{ywell kept{D,{y and has fine furniture all around{D.{y North leads back to east{x
+{yroad{D.{x
+~
+524296 0
+D0
+~
+~
+0 -1 20427
+S
+
+#20430
+{yEast Road{x~
+{yEast road is a very clean{D,{y and well kept{D,{y with no litter anywhere{D.{y The{x
+{ycobblestones in the road are fairly new{D,{y with not many chips on them{D.{x
+{yThe plants lining the road are green and well watered{D.{y East road heads{X
+{yeast and west{D.{X
+~
+524288 1
+D1
+~
+~
+0 -1 20431
+D3
+~
+~
+0 -1 20427
+S
+
+#20431
+{yEnd of East Road{x~
+{yThis is the end of East road{D.{y The dead end is as well kept as the rest{x
+{yof the road{D,{y it has no writing on it{D,{y only fine bricks{D.{y East road{x
+{ycontinues west{D.{X
+~
+524288 1
+D1
+~
+wall brick dead end~
+ABD -1 20432
+D3
+~
+~
+0 -1 20430
+S
+
+#20432
+{yThe Secret Chamber{x~
+{yYou have entered the secret chamber of the master golem{D.{y This is where the{x
+{ymaster golem resides and does his work{D,{y where he runs the settlement from{D.{x
+{yIt is very dark{D,{y but still well kept and furnished beautifully{D.{x
+~
+524296 0
+D3
+~
+wall brick~
+ABD -1 20431
+S
+#0
+
+#SPECIALS
+M 20408 spec_cast_mage
+M 20409 spec_cast_cleric
+M 20410 spec_thief
+M 20412 spec_thief
+S
+
+#RESETS
+D 100 20431 1 1
+D 100 20432 3 1
+M 100 20401 10 20401 1
+M 100 20401 5 20401 1
+M 100 20401 5 20401 1
+M 100 20400 5 20402 1
+E 100 20400 0 17
+M 100 20403 5 20402 1
+M 100 20404 5 20403 1
+M 100 20400 5 20404 1
+E 100 20400 0 17
+M 100 20403 5 20404 5
+M 100 20404 5 20405 1
+M 100 20407 5 20406 1
+E 100 20408 0 1
+E 100 20408 0 2
+E 100 20407 0 3
+E 100 20407 0 4
+E 100 20411 0 5
+E 100 20406 0 6
+E 100 20409 0 9
+E 100 20410 0 10
+E 100 20412 0 13
+E 100 20405 0 16
+M 100 20409 10 20406 1
+M 100 20406 1 20407 1
+G 100 20403 0
+G 100 20404 0
+M 100 20401 10 20407 1
+M 100 20400 5 20408 1
+M 100 20403 5 20408 1
+M 100 20408 5 20410 1
+E 100 20415 0 12
+E 100 20416 0 16
+M 100 20402 10 20410 1
+E 100 20401 0 5
+M 100 20402 20 20411 1
+E 100 20401 0 5
+M 100 20407 5 20411 1
+E 100 20408 0 1
+E 100 20408 0 2
+E 100 20407 0 3
+E 100 20407 0 4
+E 100 20411 0 5
+E 100 20406 0 6
+E 100 20413 0 7
+E 100 20414 0 8
+E 100 20409 0 9
+E 100 20410 0 10
+E 100 20412 0 13
+E 100 20405 0 16
+M 100 20402 10 20412 3
+E 100 20401 0 5
+M 100 20402 2 20413 10
+E 100 20401 0 5
+M 100 20408 5 20414 1
+E 100 20415 0 12
+E 100 20416 0 16
+M 100 20407 5 20414 1
+E 100 20408 0 1
+E 100 20408 0 2
+E 100 20407 0 3
+E 100 20407 0 4
+E 100 20411 0 5
+E 100 20406 0 6
+E 100 20413 0 7
+E 100 20414 0 8
+E 100 20409 0 9
+E 100 20410 0 10
+E 100 20412 0 13
+E 100 20405 0 16
+M 100 20410 1 20414 1
+E 100 20421 0 16
+M 100 20405 1 20415 1
+E 100 20402 0 12
+M 100 20401 10 20416 1
+M 100 20403 10 20417 1
+M 100 20400 10 20417 1
+E 100 20400 0 17
+M 100 20404 10 20417 1
+M 100 20403 10 20418 1
+M 100 20400 10 20418 1
+M 100 20410 10 20419 1
+E 100 20421 0 16
+M 100 20410 10 20419 1
+E 100 20421 0 16
+M 100 20410 10 20421 1
+E 100 20421 0 16
+M 100 20403 10 20422 1
+M 100 20408 5 20423 1
+E 100 20415 0 12
+E 100 20416 0 16
+M 100 20401 10 20425 1
+M 100 20409 10 20426 1
+E 100 20417 0 12
+E 100 20419 0 13
+E 100 20418 0 16
+M 100 20413 1 20428 1
+G 100 20422 0
+G 100 20423 0
+M 100 20409 10 20430 1
+E 100 20417 0 12
+E 100 20419 0 13
+E 100 20418 0 16
+M 100 20409 10 20430 1
+E 100 20417 0 12
+E 100 20419 0 13
+E 100 20418 0 16
+M 100 20410 10 20430 1
+E 100 20421 0 16
+M 100 20410 10 20431 1
+E 100 20421 0 16
+M 100 20411 1 20432 1
+E 100 20420 0 16
+M 100 20412 5 20432 5
+S
+
+#SHOPS
+20406 9 5 10 26 2 100 100 0 23
+20413 5 9 26 10 2 125 100 0 23
+0
+
+#$

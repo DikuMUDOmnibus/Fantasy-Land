@@ -1,0 +1,3310 @@
+#AREADATA
+Name Argoth~
+Builders None~
+VNUMs 75400 75499
+Credits [ 60  90] Mantor   Argoth~
+Security 9
+End
+
+
+
+#MOBILES
+#75400
+forest deer doe~
+an {@Argothian{0 Forest Deer~
+A Forest Deer is standing here, eating the lush grass.
+~
+A naturally beautiful deer.  It's brown fur is the symbol of perfection
+in the Argothian forests.  
+~
+cat~
+AGHT Z 0 1000 0
+86 76 11d354+1775 2d50+50 5d15+38 beating
+-37 -37 -37 -37
+FH 0 NS 0
+stand stand male 0
+AGV ACDEFHJKQV medium flesh
+F par U
+#75401
+bayou mosquito~
+a {2Bayou{0 Mosquito~
+An annoying mosquito is flying around here, stinging you for blood.
+~
+This mosquito is bigger than the rest.  
+~
+wyvern~
+ABGT DFT 0 0 0
+75 65 11d259+1390 2d50+50 5d13+32 sting
+-30 -30 -30 -30
+FH L S 0
+stand stand male 0
+ABCGZ ACDEFGHJKU small flesh
+F off C
+F vul S
+F par QX
+#75402
+merchmin villager~
+a {$Merchmin{0 Villager~
+A Villager is standing here, partying around wildly.
+~
+This villager seems to having fun, after rejoicing for the many years of
+peace that Merchmin has gained.  
+~
+human~
+AGT c H 0 0
+95 85 12d406+2115 2d50+50 5d16+85 punch
+-43 -43 -43 -43
+FJK 0 0 0
+stand stand female 200
+AHMV ABCDEFGHIJK medium flesh
+#75403
+counselor grayson~
+{^Counselor {&Grayson{0~
+The village counselor is standing here, helping villagers.
+~
+He is fairly young.  His short blonde hair is covered by his beret.  
+~
+human~
+ABGR 0 P 0 0
+110 100 12d562+2500 2d50+50 5d19+95 punch
+-52 -52 -52 -52
+0 0 CS 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium flesh
+#75404
+shaman nyovec~
+Nyo'vec the {1S{!h{#a{!m{1a{3n{0~
+The Village Shaman is here healing the sick.
+~
+~
+human~
+ABGQa 0 0 1000 0
+161 161 40d600+10000 200d100+50000 100d100+1000 slap
+-91 -91 -91 -91
+FKO ABCDLQ 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium flesh
+#75405
+chief lee~
+{6C{^h{&i{4e{$f{0 {^L{6e{&e{0~
+The Chief of the Village is sitting on his throne here.
+~
+A tall man of elegant stature.  He is a wiseman on both the battlefield and
+in government.  
+~
+human~
+ABGT 0 HP 1000 0
+120 110 12d679+3175 2d50+50 5d21+96 slash
+-59 -59 -59 -56
+CFH 0 C 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium flesh
+#75406
+Bonnie salewoman manageress~
+Bonnie~
+Bonnie the manageress is standing here behind the counter.
+~
+~
+phoenix~
+ABDGT DFJLTc H 1000 0
+161 1000 20d100+500 10d10+100 20d40+14 slap
+-90 -90 -90 -90
+FK ABCDHLQ 0 0
+stand stand female 1000000
+ACHMW ABCDEFGHIJKLPU medium flesh
+F res LQ
+F vul IN
+#75407
+Ricardo Chocobo Saleman~
+Ricardo~
+Ricardo the Chocobo Farmhand is here, selling Chocobos.
+~
+~
+human~
+ABGT 0 H 1000 0
+100 100 200d100+200 10d10+1000 10d10+100 punch
+-90 -90 -90 -90
+DFKO ABCDLQ 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium flesh
+M GRALL 75402 100~
+#75408
+red chocobo~
+a {!red{0 chocobo~
+A {!red{0 chocobo is here.
+~
+~
+phoenix~
+ACDIT DFJLc DH 0 0
+100 100 12d562+2730 2d50+50 5d19+95 charge
+-52 -52 -52 -52
+FK H LQ 0
+stand stand male 0
+ACHMW ABCDEFGHIJKLPU medium flesh
+F aff T
+F imm B
+F vul IN
+M RANDOM 75401 5~
+#75409
+Gold chocobo~
+a {#gold{0 chocobo~
+A {#gold{0 chocobo is here.
+~
+~
+phoenix~
+ACDIT DFJLc HP 1000 0
+110 110 12d680+3175 10d10+1 5d22+96 shbite
+-59 -59 -59 -59
+FHK H LQ 0
+stand stand female 0
+ACHMW ABCDEFGHIJKLPU medium flesh
+F aff T
+F imm B
+F vul IN
+M RANDOM 75401 5~
+#75410
+grey chocobo~
+a {*grey{0 chocobo~
+A {*grey{0 chocobo is here.
+~
+~
+phoenix~
+ACDIT DFJLc H 1000 0
+90 90 12d455+2310 2d50+50 5d18+75 peck
+-46 -46 -46 -46
+FHK H LQ 0
+stand stand male 0
+ACHMW ABCDEFGHIJKLPU medium unknown
+F aff T
+F imm B
+F vul IN
+M RANDOM 75401 10~
+#75411
+green chocobo~
+a {2green{0 chocobo~
+A {2green{0 chocobo is here.
+~
+~
+phoenix~
+ACDIT DFJLc H 1000 0
+80 80 12d360+1930 10d10+1 5d16+45 peck
+-40 -40 -40 -40
+FHK H LQ 0
+stand stand male 0
+ACHMW ABCDEFGHIJKLPU medium flesh
+F aff T
+F imm B
+F vul IN
+M RANDOM 75401 15~
+#75412
+yellow chocobo~
+a {3yellow{0 chocobo~
+A {3yellow{0 chocobo is here.
+~
+~
+phoenix~
+ACDIT DFJLc H 1000 0
+70 70 11d300+1570 10d10+1 5d14+37 divine
+-34 -34 -34 -7
+FHK H LQ 0
+stand stand male 0
+ACHMW ABCDEFGHIJKLPU medium unknown
+F aff T
+F imm B
+F vul IN
+M RANDOM 75401 10~
+#75413
+tourist~
+a tourist~
+A tourist is standing here, looking around.
+~
+~
+human~
+AGHR 0 N 1000 0
+100 90 12d455+2310 10d10+1 5d17+76 punch
+-46 -46 -46 -46
+CFKU 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium flesh
+#75414
+tourist~
+a tourist~
+This tourist looks out through his binoculars to view the forest.
+~
+~
+human~
+ABGHR c N 1000 0
+105 95 12d507+2515 10d10+1 5d18+76 punch
+-49 -49 -49 -49
+FJKO 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium flesh
+#75415
+ghost pirate Captain Morbian~
+Captain Morbian~
+The Ghost of a dead sea captain is floating here.
+~
+His ghost-like appearance makes this apparition seem so last month.  
+~
+human~
+ABFGT DTc H -1000 0
+130 120 12d808+5000 10d10+1 5d22+200 slice
+-65 -65 -65 -65
+FKO G D 0
+stand stand male 20000
+AHMV ABCDEFGHIJK giant unknown
+M DEATH 75404 100~
+M GRALL 75403 100~
+#75416
+hunter~
+a {@hunter{0~
+A hunter is here, hunting.
+~
+~
+human~
+AGT PV HN 1000 0
+100 90 12d455+2310 10d10+1 5d17+76 punch
+-46 -46 -46 -46
+DFK 0 FG K
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#75417
+tower guard archer~
+An Argothian Archer~
+A Tower Archer is standing here, defending the lands of Argoth.
+~
+This archer has been known for its extensive training in long range
+combat.  It also is quite trained in unarmed combat at close range.  
+~
+elf~
+ABFGT DFJ HNP 1000 0
+110 90 12d455+2310 10d10+8 5d17+76 pierce
+-46 -46 -46 -46
+DFJKOT 0 B Z
+stand stand male 200
+AHMV ABCDEFGHIJK medium flesh
+M GRALL 75400 100~
+#75418
+druid Kor-Mano~
+{6K{^o{&r{0-{@M{2a{@n{2o{0~
+An old druid is here, living out his last days in the Forest of Argoth.
+~
+{6K{^o{&r{0-{@M{2a{@n{2{0 is quite an old man.  For years, he has served
+the forest of Argoth as it's protector and guardian, but now, he is too old
+to do so.  He is enjoying his retirement of public service, but seems rather
+uneasy that you are here.  
+~
+human~
+AGHR DF CDEHNP 1000 0
+110 100 12d562+2730 20d400+20000 5d19+100 magic
+-52 -52 -52 -52
+0 X CHIJQ K
+stand stand male 2000
+AHMV ABCDEFGHIJK medium flesh
+#75419
+pet~
+Hawk Familiar~
+The Druid's Pet Hawk Familiar is here, perched on a ledge by the ceiling.
+~
+This Hawk Familiar resembles every other hawk you've ever seen.  
+~
+phoenix~
+ABCDSY DFJLTc H 1000 0
+80 70 11d300+1560 10d10+8 5d14+35 peck
+-34 -34 -34 -34
+FK BH LNQ 0
+stand stand female 100
+ACHMW ABCDEFGHIJKLPU medium flesh
+F vul IN
+#75420
+panther familiar druid~
+a Panther~
+The druid's panther familiar is here.
+~
+This is the druid's panther familiar.  It moves silently and stealthily. 
+Its jet black fur shines as light hits it.  
+~
+tiegre~
+AGSY FJPQVc H 1000 0
+90 80 12d360+1920 2d50+50 5d16+40 claw
+-40 -40 -40 -40
+CEFHKO B LQS 0
+stand stand male 100
+AGHMV ABCDEFGHIJKQUV medium flesh
+#75421
+wyrm huge forest~
+an Argothian Wyrm~
+A huge Wyrm native to this forest is here.
+~
+It's uglier than it looks.  It also more deadly than it looks as well. 
+This wyrm is over ten feet long.  
+~
+centipede~
+AGT VZ O -1000 0
+100 90 12d455+2311 10d10+8 5d18+75 bite
+-46 -46 -46 -46
+DFKO E FHI J
+stand stand none 500
+ABGO ACK large unknown
+F vul E
+#75422
+beast furry creature~
+An Argothian Beast~
+A huge furry creature is here, terrorizing unsuspecting tourists.
+~
+It's big, and it's furry.
+~
+bear~
+AGS 0 CO -1000 0
+100 90 12d455+2311 10d10+8 5d18+75 claw
+-46 -46 -46 -46
+BDEO 0 EI K
+stand stand female 10000
+AGV ABCDEFHJKUV medium flesh
+#75423
+cityguard guard merchmin~
+a Merchmin Guard~
+A Merchmin Guard is standing here, defending the city.
+~
+This guard is armed with several weapons of minor destruction.  Although
+minor in destruction, they are well skilled in the art of combat.  
+~
+human~
+AGT 0 HN 1000 0
+95 85 12d406+2116 10d10+8 5d18+73 punch
+-43 -43 -43 -43
+CFGIJKOP E G 0
+stand stand male 2000
+AHMV ABCDEFGHIJK giant flesh
+M GRALL 75405 100~
+#75424
+winged homunculi creature flying monkey~
+a Winged {8H{7o{*m{&u{0n{&c{*u{7l{8i{0~
+A winged monkey creature is flying around here.
+~
+Flying high above the common crowd, Homunculi look like winged monkeys.
+~
+wyvern~
+AGT DFT O -1000 0
+95 85 12d406+2116 10d10+8 5d18+73 slash
+-43 -43 -43 -43
+CFH L CE 0
+stand stand none 20
+ABCG ACDEFGHJKQU medium flesh
+F vul S
+F for Z
+F par X
+#75425
+grangler beast huge~
+a Grangler~
+A huge beast stands here, ready to eat you.
+~
+This grangler is big, and ugly.  It's big pointy horns and big, sharp
+teeth can scare anyone.  They smell quite horrid, and pack a powerful punch.
+~
+bear~
+AGT D O -1000 0
+90 80 12d360+1920 10d10+8 5d17+40 thwack
+-40 -40 -40 -40
+CDEO F DEI 0
+stand stand male 200
+AGV ABCDEFHJKUVW medium flesh
+#75426
+halfling merchant merchmin~
+a {$Merchmin{0 Merchant~
+A halfling merchant stands here, selling wares.
+~
+Halfling Merchants are known for their skills in the business of trade
+and barter.  
+~
+halfling~
+AGHS JU HN 1000 0
+108 98 12d539+2645 2d50+50 5d20+50 suction
+-51 -51 -51 -51
+DFJK F LQ K
+stand stand female 20000
+AHMV ABCDEFGHIJK small flesh
+F vul S
+#75427
+naxian mercenary soldier~
+a Naxian mercenary~
+A Naxian mercenary creeps around in the undergrowth.
+~
+His only incentive is the money he is being paid for invading.  
+~
+human~
+AGS FPQ H -1000 0
+105 95 12d507+2515 10d10+8 5d18+75 slash
+-49 -49 -49 -49
+BFIKN 0 0 J
+stand stand male 4500
+AHMV ABCDEFGHIJK large flesh
+#75428
+Maze Dragon Crystal~
+the {^M{6a{&z{7e{0 {&D{7r{&a{7g{&o{7n{0~
+A huge {&C{7rystal{0 Dragon is here, ready to turn you into sushi.
+~
+This dragon is huge for just a crystal dragon.  Its wings are spiked with
+poisonous barbs and it has three horns on its head, two on its forehead and
+one on its snout.  This dragon glows with an unearthly dark energy.  Well
+don't just stand there...  Run away!!!  
+~
+crystal-dragon~
+ABFG DFJTZ HP 1000 0
+160 750 15d2000+10000 2d50+50 50d20+500 divine
+-118 -118 -118 -100
+ACDEFHKM DHQ BC O
+stand stand female 500000
+ACGHZ ABCDEFGHJKPQUVWX giant flesh
+F vul J
+F par I
+M GRALL 75428 100~
+#75429
+Balin Le Savage Knight Paladin~
+Balin Le Savage~
+A Paladin of Argoth is here, mounted upon his steed.
+~
+Balin Le Savage is well known in these parts.  He once served as high
+dignatory for King Arthur.  He is mounted on his trusted steed and roams the
+country to survey and protect the fair land.  
+~
+human~
+AGT CLac H 500 0
+111 100 12d574+2775 1d1+100 5d19+101 slash
+-67 -56 -69 -23
+CIK P BD J
+stand stand male 20000
+AHMV ABCDEFGHIJK large flesh
+#75430
+Balasthurius druid adventurer forest~
+{@Balasthurius{0~
+A druid adventurer is here, collecting samples of plants.
+~
+Balasthurius is a druid under the teachings of Kor-Mano.  Although new to
+Argoth, he seems to have special tune with nature around his surroundings.  
+~
+titan~
+ACGHR Da EH 1000 0
+109 99 12d550+2685 10d10+8 5d19+85 wrath
+-51 -51 -51 -51
+CEJ B D 0
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#75431
+Arcum Daggson~
+{#A{&rcum{0 {^D{2aggson{0~
+A man wearing many artifacts about him walks around here.
+~
+Arcum Daggson is an old half-orc who collects and steals artifacts.  
+~
+halforc~
+AGHR Fa EHNP 1000 0
+108 98 12d539+2645 20d100+1000 5d20+49 slash
+-25 -25 -25 -25
+IJK 0 CD P
+stand stand male 20000
+AGHMV ABCDEFGHIJKUVWY medium flesh
+#75432
+ghost pirate reef~
+the ghost of a {^reef pirate{0~
+The ghost of a long dead reef pirate is here, haunting the sea cave.
+~
+Although long dead, this ghost still can hurt you pretty bad.  
+~
+demon~
+ABFMO JUV CEO -1000 0
+105 95 12d507+5000 10d10+100 5d18+160 suction
+-50 -50 -50 -50
+CFIK D MS O
+stand stand male 0
+ACEHMV ABCDEFGHIJKPQUVW large ethereal
+F res C
+F vul NS
+#75433
+sentry defender guard~
+an {@Argothian{& Tower{^ Sentry{0~
+A large orc stands here, ready to defend the tower without question.
+~
+This Argothian Tower Sentry is armed lightly, but is skilled in attacking
+without any weapons.  Its massive muscles are as large as its own head.  
+~
+orc~
+ABFGT DFLVa DHNP 1000 0
+95 85 12d406+2115 2d50+50 5d16+75 slash
+-52 -52 -52 -25
+CFINOU G Q 0
+stand stand female 2000
+ACHMV ABCDEFGHIJK large flesh
+F aff J
+F vul S
+M GRALL 75433 100~
+#0
+
+
+
+#OBJECTS
+#75400
+blue beret counselors~
+{^Counselor's{0 {$Beret{0~
+A {4blue{0 beret has been dropped here.~
+felt~
+armor AB AE
+11 11 11 11 0
+56 5 200 P
+A
+18 15
+A
+13 12
+A
+20 -1
+#75401
+black blue sweatsuit~
+a black and {4blue{0 Sweatsuit~
+A sweatsuit has been dropped here.~
+polyester~
+armor 0 AK
+11 11 11 11 0
+56 10 400 P
+A
+20 -1
+#75402
+bed leaves~
+a bed of {@leaves{0~
+A bed of {@leaves{0 is here, waiting for you to rest on it.~
+leaves~
+furniture R P
+10 100000 BEHK 100 100
+1 200 0 P
+#75403
+black chest plate armor lacquered~
+{0Black Lacquered Armor{0~
+A Chest plate with gold trimmings on it has been left here.~
+platinum~
+armor A AD
+11 11 11 11 0
+56 21 2000 P
+A
+18 12
+A
+2 -1
+A
+20 -1
+A
+1 -1
+#75404
+holy sword blade katana magic~
+a {&Holy{0 {#M{3a{&g{#i{3c{0 Katana~
+A holy blade of trememdous power has been dropped here.~
+enchanted iron~
+weapon AG AN
+sword 6 10 divine DE
+56 18 2000 P
+A
+13 12
+A
+20 -1
+A
+1 1
+#75405
+MRE military ration standard~
+an MRE~
+A pack of military standard ration has been dropped here.~
+slop~
+food 0 A
+60 60 0 0 0
+50 6 300 P
+#75406
+pack backpack leather green~
+a {@green{0 Leather BackPack~
+A leather backpack has been left here.~
+leather~
+container SY AX
+500 A 0 200 75
+50 16 200 P
+#75407
+two liter bottle coke~
+a Two-Liter Bottle of {1C{!o{&k{!e{0~
+A huge bottle of coke has been dropped here.~
+plastic~
+drink 0 A
+100 100 'cola' 0 0
+50 7 600 P
+#75408
+HP REVIVE potion healing~
+a {&HP {^REVIVE{0 potion~
+A healing potion has been left here.~
+magic~
+potion 0 A
+150 'heal' 'heal' 'cure serious' 'cure serious'
+130 45 130000 P
+#75409
+hiking boots~
+a pair of Hiking Boots~
+A pair of hiking boots have been left here.~
+cowhide~
+armor 0 AG
+11 11 11 11 0
+56 11 100 P
+A
+13 12
+A
+20 -4
+A
+2 -1
+A
+1 1
+#75410
+ski mask~
+a Black Ski Mask~
+A ski mask has been dropped here.~
+cotton~
+armor 0 AR
+11 11 11 7 0
+56 1 100 P
+A
+13 10
+A
+20 -3
+#75411
+Binocular goggles~
+a pair of Binoculars~
+A pair of odd goggles has been dropped here.~
+plastic~
+light 0 AO
+0 0 999 0 0
+56 20 1000 P
+A
+19 15
+A
+13 50
+#75412
+lift transport~
+the {Bl{Ci{cf{Bt{x~
+An old man sits here operating the {Bl{Ci{cf{Bt{x to the base of the mountain.~
+magic~
+portal R P
+0 0 0 75423 0
+0 0 0 P
+#75413
+wreckage ornihopter~
+the wreckage~
+A crashed ornihopter wreckage is here.~
+wreckage~
+container R P
+100 0 0 2 50
+0 2000 0 W
+#75414
+gyroscope~
+a gyroscope~
+A huge axel and wheel has been dropped here.~
+limestone~
+armor A AQ
+12 12 12 12 0
+60 9 100 P
+A
+1 -1
+A
+18 10
+#75415
+shield generator~
+a personal field generator~
+A shield generator has been dropped here.~
+coiling~
+armor A AJ
+12 12 12 8 0
+60 15 5000 P
+A
+13 25
+A
+19 15
+A
+5 -2
+#75416
+Plumed Pirate Hat Red~
+a {!Red {6F{^eather{0-{5P{%lumed{0 Hat~
+A pirate's hat is lying here.~
+paranormal~
+armor AB AE
+18 19 18 19 0
+79 12 2000 P
+A
+20 -2
+A
+2 1
+A
+1 -1
+#75417
+captains cutlass fine-cut~
+a {^F{6i{&n{^e{0-Cut Cutlass~
+A long cutlass has been dropped here.~
+ethereal~
+weapon AB AN
+sword 12 11 slash DE
+79 14 2000 P
+A
+20 -2
+A
+18 15
+#75418
+hunters bow~
+a {@H{2unter's{0 Bow~
+A hunter's bow has been dropped here.~
+wood~
+weapon ABG AN
+staff 8 12 pierce DG
+56 10 200 P
+A
+17 -10
+A
+18 15
+#75419
+luck charm~
+a luck charm~
+A luck charm has been dropped here.~
+magical~
+armor A AM
+6 6 6 1 0
+56 11 1000 P
+A
+20 -5
+A
+13 5
+#75420
+stealth charm~
+a {8stealth{0 charm~
+A black charm has been dropped here.~
+magical~
+armor AB AM
+6 6 6 6 0
+56 14 1000 P
+A
+20 -1
+A
+18 5
+#75421
+Ear worn visor targetting~
+an {3Ear-Worn{! Targetting{^ Visor{0~
+A visor with two red crosshairs has been dropped here.~
+iron~
+armor A AS
+9 10 10 5 0
+66 10 2000 P
+A
+3 1
+A
+18 10
+#75422
+Shurigan druid staff Forest Bane~
+a {@D{2ruid{0 {6S{^h{&urig{^a{6n{0 Staff named '{2F{@o{2r{@e{2s{@t{0 {^B{&an{^e{0'~
+A long staff belonging to a skilled druid has been dropped here.~
+wood~
+weapon AB AN
+polearm 10 15 divine DG
+93 25 2000 P
+A
+13 90
+A
+18 25
+A
+5 -3
+#75423
+fizzing potion~
+a {Yf{Wi{xz{Wz{Yi{Wn{xg {ypotion{x~
+A {Yf{Wi{xz{Wz{Yi{Wn{xg {ypotion{x rests here.~
+glass~
+potion B A
+130 'restore megamana' 'reserved' 'reserved' 'reserved'
+130 20 130000 P
+#75424
+well~
+the well~
+{x~
+stone~
+portal R P
+0 0 B 75437 0
+0 0 0 P
+#75425
+longsword~
+a longsword~
+A longsword has been dropped here.~
+iron~
+weapon 0 AN
+sword 9 13 slash DE
+65 21 3423 P
+A
+20 -1
+A
+4 -3
+A
+13 25
+#75426
+skull helmet demon~
+a Demon Skull Helmet~
+A helmet made of a demon's skull has been dropped here.~
+silver~
+armor A AE
+16 15 16 15 0
+65 21 8000 P
+A
+20 -2
+A
+4 2
+A
+5 -5
+#75427
+small Naxian Shield~
+a Naxian Shield~
+A small shield has been dropped here.~
+silver~
+armor 0 AJ
+19 15 20 10 0
+65 19 200 P
+A
+20 -1
+A
+13 50
+A
+2 -2
+#75428
+skull armor breastplate plate~
+a Skull Breastplate~
+A breastplate made of skulls has been dropped here.~
+skull~
+armor B AD
+18 18 18 18 0
+65 20 2000 P
+A
+20 -6
+A
+18 4
+A
+19 4
+A
+13 40
+#75429
+Maze Dragon Wings~
+a Maze Dragon's Wings~
+A pair of barberous wings have been dropped here.~
+dragonwings~
+armor AC AX
+25 21 25 20 0
+90 35 10000 P
+A
+12 75
+A
+13 75
+A
+19 35
+A
+3 -1
+#75430
+Maze Dragon Claws~
+{^M{6a{&z{$e{0 {&D{*r{&a{*g{&o{*n{0 Claws~
+A pair of huge claws has been dropped here.~
+dragonscale~
+weapon AC AN
+polearm 15 15 divine DFG
+96 40 10000 P
+A
+13 100
+A
+1 4
+A
+19 25
+A
+3 -1
+A
+4 -2
+#75431
+silver armplates arm plates~
+{&Silver{0 {^A{6r{&m{*plates{0~
+A pair of magical arm plates has been dropped here.~
+magic~
+armor GY AI
+13 13 13 13 0
+60 21 12192 P
+A
+18 15
+#75432
+Thunderblade sword charged weapon powerful~
+{^T{6h{&u{$n{#d{$e{&r{6b{^l{6a{&d{$e{0~
+A powerful weapon charged with the power of the skies lies here.~
+ethereal~
+weapon G AN
+sword 11 12 shbite BD
+65 25 12111 P
+A
+17 -2
+A
+19 12
+A
+5 -1
+#75433
+Black lotus flower~
+a {*B{8l{*a{8c{*k{0 Lotus Flower~
+An odd light in the shape of a black flower has been dropped here.~
+magic~
+light AY AO
+0 0 999 0 0
+79 11 10000 P
+A
+12 100
+A
+4 1
+A
+13 55
+A
+5 -2
+#75434
+arctic ankle band yak hair artifact~
+an {&Ar{7ct{&ic{^ Ankle {@Band{0~
+A band of yak hair lies here, a crisp of cool eminating from it.~
+magic~
+armor AB AT
+20 18 20 14 0
+70 19 10000 P
+A
+19 10
+#75435
+Shield of the Ages~
+{^S{6h{7i{4e{6l{^d{0 of the {@A{2g{@e{2s{0~
+A mighty ancient shield lies here.~
+metal~
+armor AB AJ
+20 22 21 19 0
+75 25 10000 P
+A
+14 -50
+A
+20 -3
+A
+13 60
+#75436
+ring renewal~
+{&Ring{0 of {^Renewal{0~
+A gold with a small sapphire encrusted within has been dropped here.~
+artifact~
+jewelry AB AB
+0 0 0 0 0
+70 23 10000 P
+A
+1 -2
+A
+13 50
+#75437
+Keldon Cane~
+a Keldon Cane~
+A large, metal cane lies here forgotten.~
+Magic~
+staff AB AO
+101 5 1 'power stun' 0
+80 43 10000 P
+#75438
+robe mirrors~
+a {^Robe{0 of {^M{6i{&r{6r{^o{6r{&s{0~
+Something shiny has been dropped here.~
+glass~
+armor AB AK
+29 29 29 25 0
+85 34 1000 P
+A
+20 -7
+A
+19 8
+A
+18 8
+A
+13 60
+#75439
+mask mimic formless~
+{^Mask{0 of the {#M{^i{@m{3i{^c{0~
+A formless mask lies here.~
+flesh~
+armor ABGSY AR
+25 25 25 12 0
+85 19 10000 P
+A
+20 -4
+A
+13 50
+A
+5 -2
+#75440
+well~
+a {Bwell{x~
+{x~
+stone~
+fountain R P
+100000 100000 'mineral water' 0 0
+0 200 0 P
+#75441
+brook~
+the {Cb{cr{Wo{Bo{bk{x~
+{x~
+water~
+fountain R P
+100000 100000 'water' 0 0
+0 200 0 P
+#75442
+skeletons bones~
+a pile of bones~
+A pile of skeletons of bygone heroes lie here.~
+bones~
+container R P
+100 0 0 5 0
+0 200 0 P
+#75443
+life potion~
+a {Ylife {Cpotion{x~
+A {Yfizzing {Cpotion {xlies here forgotten.~
+life~
+potion AB A
+100 'cheal' 'reserved' 'reserved' 'reserved'
+50 2 0 P
+#75444
+signpost large~
+a {Rs{rignpost{x~
+A {RS{rignpost{x.~
+wood~
+trash AR P
+0 0 0 0 0
+0 200 0 P
+E
+signpost~
+{R***************************************{x
+{R*                                     *{x
+{R*                                     *{x
+{R*            W A R N I N G            *{x
+{R*                                     *{x
+{R*                                     *{x
+{R*         {GNASTY DRAGON WITHIN{R         *{x
+{R*                                     *{x
+{R*                                     *{x
+{R***************************************{x
+~
+#0
+
+
+
+#ROOMS
+#75400
+{@Forested{0 Trail~
+You split away from a Junction in the forest of Arden and find yourself
+on a forested trail.  The low hanging branches are dipped with soft dew from
+the morning.  Rampantly growing vines cover the path, making a small convoy
+or caravan of wagons travelling out and into here almost impossible.  A
+large rune inscripted on a nearby boulder is here.  
+~
+0 0 3
+E
+rune~
+/************************************************|
+|   Welcome to the Forest of Argoth. May your    |
+|   here be pleasant. If you are in need of a    |
+|   place to stay or restock on supplies, we     |
+|   have a village around one hundred paces      |
+|   north of here.                               |
+|*************************************************/
+ 
+~
+D0
+~
+~
+0 0 75401
+D3
+~
+~
+0 0 75412
+S
+#75401
+Dirt Road~
+The road becomes less forested, and more dusty.  The wet dirt creates
+barely any dust in the air.  A deep fog covers the area though.  The low,
+eerie baying of a wolf can be heard nearby.  You can hear the incessant and
+annoying ribbitting of frogs.  Although not very forested, there are still a
+few trees.  Drooping willow trees are chopped neatly to create a lane
+between the trees.  
+~
+0 4 0
+D0
+~
+~
+0 0 75402
+D2
+~
+~
+0 0 75400
+S
+#75402
+Dirt Road~
+The wet dirt creates barely any dust in the air.  A deep fog covers the
+area though.  The low, eerie baying of a wolf can be heard nearby.  You can
+hear the incessant and annoying ribbitting of frogs.  Although not very
+forested, there are still a few trees.  Drooping willow trees are chopped
+neatly to create a lane between the trees.  Ahead, you can see a small
+village with huts and stone buildings.  
+~
+0 0 3
+D0
+~
+~
+0 0 75403
+D2
+~
+~
+0 0 75401
+S
+#75403
+Entrance to Merchmin Village~
+You have just entered a medium-sized village.  A lot of birds are on top
+of the hut's roofs, singing.  You can see villagers working in the distance,
+and you can see the kids running around the well, playing around.  A small
+wind refreshes you as you enter the village.  There is a {3sign{0 standing
+here.  
+~
+0 4 1
+E
+sign~
+Welcome to Merchmin Village!
+The Villagers and myself would like to welcome you!
+ 
+                            -Lord Barakus, Leader of Merchmin Village
+~
+D0
+~
+~
+0 0 75404
+D2
+~
+~
+0 0 75402
+S
+#75404
+Merchmin Village~
+The weather in Merchmin is usually very good.  The sun is shining, the
+weather's sky is blue.  Trees that are planted next to the huts are blowing
+very gently from the small and refreshing breeze that comes from the south. 
+Here isn't much noise from the adults, because they are busy working.  As
+for the children, you can hear their screams of joy as they run around.  
+~
+0 0 1
+D0
+~
+~
+0 0 75405
+D1
+~
+~
+0 0 75406
+D2
+~
+~
+0 0 75403
+D3
+~
+~
+0 0 75409
+S
+#75405
+Village Well~
+This is where all the water from the village comes from.  It isn't
+protected, and it's pretty deep.  It's pretty weird that none of the
+children have fallen down into the well when they are playing so close to
+it.  Probably you can go down without getting hurt..  
+~
+0 0 1
+D0
+~
+~
+0 0 75476
+D2
+~
+~
+0 0 75404
+S
+#75406
+Merchmin Village~
+You can see several merchants here, selling there wares to the villagers
+of Merchmin Village.  The streets are so crowded with happy people, it's as
+it there was a party going on.  A small wall made of limestone blocks out
+any unwelcomed guests to the east.  The road is semi-paved, for it is smooth
+but still a bit dusty.  To the north, you can see the a small hut.  To the
+south, you can see a small shaman hut.  
+~
+0 0 0
+D0
+~
+~
+0 0 75408
+D2
+~
+~
+0 0 75407
+D3
+~
+~
+0 0 75404
+S
+#75407
+{1S{!h{3a{#m{1a{!n{0's {3Hut{0~
+Cabinets filled with medicine and needles are scattered about the hut.  A
+huge bed of magical leaves are lain in the middle of the spacious hut.  You
+can see the shaman working on healing the sick nearby.  A magical aura fills
+this room with a great power.  A small furnace with a powerful and blazing
+flame is a little to the left of the Shaman.  The only exit is north.  
+~
+0 1032 0
+D0
+~
+~
+0 0 75406
+M 1000 H 1000
+S
+#75408
+{4Coun{$selor{0's Hut~
+The Village {$Counselor{0 resides in this hut.  He works here as well. 
+There are several scrolls in plaques he recieved from the Midgaard Institute
+of Government and Psychology.  You can see a fireplace with a mantle with
+different awards in all fields of government and psychology.  His bed is to
+the end of the hut.  A huge couch is sitting near the fireplace.  An open
+window is facing towards the ocean, a calming sight.  This hut seems to be
+on {!  VERY{0 expensive property.  The only exit is south.  
+ 
+~
+0 8 0
+E
+window~
+You can see the calming ocean waves crashing over the cliff side.  You
+can see the water straight through and see a beautiful coral reef.  Several
+dophins and graceful sea creatures in the ocean.  
+~
+E
+plaque~
+On behalf of the Midgaard Institution of Government and Psychology, we
+wish to award eight years completion to William of Acton.  He has superceded
+his necessary limit of education at the Institute.  He has also risen above
+most student grade levels for his skills of an upperclassmen.  This
+certificate of honor we present to this student will be an official document
+for any future use by the bearer in which is the matching of the name given.
+ 
+~
+D2
+~
+~
+0 0 75406
+S
+#75409
+Merchmin Village~
+The streets of Merchmin Village are filled with all sorts of people. 
+Everyone seems happy, as if a hero came back from a great battle or they
+just conquered something.  Merchants are walking around here, selling all
+sorts of treats.  To the north, you can see a huge hut belonging to the
+Chief of the Village.  To the south, you can see a small shop.  
+~
+0 0 0
+D0
+~
+~
+3 0 75410
+D1
+~
+~
+0 0 75404
+D2
+~
+~
+0 0 75411
+S
+#75410
+Chief {2L{@e{6e{7's{0 Hut~
+The entire room is spacious with a throne at the apex of the room.  Red
+carpetting covers the entire floor of the room.  You see marble columns,
+then you suddenly realize you are not in a hut anymore.  The circular
+chamber has seats for every member of the government in the Village.  Purple
+cloth cover the ceiling with a great sense of nobility.  The only exit is
+south.  
+~
+0 262152 0
+D2
+~
+~
+3 0 75409
+S
+#75411
+Merchmin Village Supply Shop~
+A relatively cramped shop, filled with all sorts of boxes of items. 
+There is an old man sitting behind a counter ready to see you some stuff. 
+The straw hut seems to have iron beams supporting the ceiling.  You can see
+a makeshift cot in the corner to the far right.  The only exit is north.  
+~
+0 12 0
+D0
+~
+~
+0 0 75409
+S
+#75412
+{@Forested{0 Trail~
+The entire road is filled with overgrowth.  You can see literally
+thousands of trees besides the road.  Vines grow across the path.  There are
+several bushes on this path.  The path leads to the east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 75400
+D3
+~
+~
+0 0 75413
+S
+#75413
+{@Forested{0 Trail~
+Rampant growing of exotic plants grow here.  You can see huge, beautiful
+black orchids and other exotic plants.  You can even see the legendary black
+lotus field too.  You are venturing deeper and deeper into the Forest of
+{@Argoth{0.  To the east and west are your only exits.  
+~
+0 0 3
+D1
+~
+~
+0 0 75412
+D3
+~
+~
+0 0 75414
+S
+#75414
+{@Forested{0 Trail~
+The trail becomes less visible moss and the rampant growing have overrun
+the road.  Ahead, you can see rolling hills with low hanging trees.  The
+entire Forest of {@Argoth{0 can be seen from a high apex around 13 clicks
+north of your current position.  Westwards and eastwards leads to more of
+the forest.  North leads you to a high mountain.  
+~
+0 0 3
+D0
+~
+~
+0 0 75415
+D1
+~
+~
+0 0 75413
+D3
+~
+~
+0 0 75432
+S
+#75415
+{@Forested{0 Trail~
+This trail is well-paved with cobblestone.  You can see some wheel
+tracks, apparently from some wagon travelling here.  There are huge iron
+fences up to seven feet high to keep small animals from straying onto the
+road.  To the south, you can see more of the Forest of {@Argoth{0.  To the
+north, you can see the mountain up ahead.  
+~
+0 4 3
+D0
+~
+~
+0 0 75416
+D2
+~
+~
+0 0 75414
+S
+#75416
+{DCobblestone Road{x~
+To the left and right of you, are {1iron{0 fences enchanted with magical
+spells of protection to fend off any straying animals.  The fences go as
+high up as six feet, not THAT high, but enough to keep small stray animals
+to wander into the road.  To the south, you can head back into the
+{2F{@o{2r{@e{2s{@t{0.  To the north, can can see some sort of farm.  
+~
+0 0 3
+D0
+~
+~
+0 0 75417
+D2
+~
+~
+0 0 75415
+S
+#75417
+Entrance to the {#Chocobo{0 Farm~
+{7                                                  -
+{7                                             -
+{7                                       __-
+{0                    %                 [__]
+{0                   .|________     ____[__]_________________
+{0                   /\ --    -  \ /\  __\____\_____\_____\___\
+{0                 /____\========///\\\ \____\____\_____\____\__\
+{0 |-|\|-|\|_      |    | |  | /////\\\\\ __\____\____\____\____\_\
+{0 `               |#   |_0_|///////\\\\\\\ \___\____\____\____\____\
+{0   \----/                /-!^^^^^^^^^^^^!\___\___\_____\____\____\__
+{0 `'  ' `'                  |{} ,--,  _  |    _____     _____      |
+{0   @    `                  |   |[.| [_] |   [--|--]   [--|--]     |
+{0  \|/     `'             ` | . | ]|     |  @ -----   * -----  %   |
+{0 `'    *                    `' ==== `*' `' `  '` 'U ` '  `   ` '  `'
+{0      `|'  `'               ---   `'    '   ` `' \|/  '  `'   #  `
+{0 /^\   /^\   /^\               - ` ' /^\   /^\ '` /^\ `  /^\ `|'/^\
+{0 |^|===|^|===|^|@\============@      |^|===|^|====|^|====|^|====|^|==
+{0 | |   | |   | |  | \     /  ||      | |   | | ` '| |    | | `' | |
+{0 |o|---|o|---|o|  |    \    =||`'    |=|---|o|----|o|----|o|----|o|--
+{0 | |   | |   | |  | /     \  ||   .  | | ` | |    | | '  | |    | |
+{0 | |===| |===| |@============/ '     | |===| |====| |====| |====| |==
+{@  `'                                    `'                  '       `
+       `'                                      `      '
+                 `'
+                                         `'{0
+ 
+  You are standing admist a large metal gate protected with magical
+barriers.  A huge insignia on the gate.  You can see dozens of different
+chocobos running about the farm, out and in the stables.  The stables seem
+to be open, and you can see the farm's breeders taking care of the different
+breeds of chocobo.  This farm must be part of the village, that and a sign
+says so.  A cobblestone path leads to the stables.
+~
+0 4 2
+D0
+~
+gate~
+1 0 75418
+D2
+~
+~
+0 0 75416
+D3
+~
+~
+0 0 75421
+S
+#75418
+{8Cobbestone Road{0~
+You can see all sorts of chocobo walking around here.  You can see the
+chocobo stable just up ahead.  The pastures within the farm are beautiful,
+vagrant, and {@green{0.  You can see one or two {@trees{0 that are larger
+than life.  The farm looks like any other farm, except this place
+specializes in breeding chocobos.  To the north, you can see the chocobo
+stable.  To the south, you can see the Forest of {@Argoth{0.  
+~
+0 0 1
+D0
+~
+~
+0 0 75419
+D2
+~
+gate~
+1 0 75417
+S
+#75419
+{$Before the {#Chocobo{0 {$Stable{0~
+The farmhands around here seem to do their job very good.  Everything is
+clean and sanitary.  The cobblestone path is clear of any bird wastes and
+foods.  There is no moss growing on the path as well.  Just inside, you can
+see the stablehand leading chocobos to their new owners.  
+~
+0 4 2
+D0
+~
+~
+0 0 75420
+D2
+~
+~
+0 0 75418
+S
+#75420
+{#Chocobo Stable{0~
+You can see farmhands leading the chocobos to their new owners.  You can
+see an old man standing behind a counter.  There are several stables with
+different colored chocobos in them.  You can see feeding troughs for them. 
+To the left wall, you can see a poster about the Chotona 500, a chocobo
+racing event.  To the south, is the exit.  
+~
+0 1032 0
+D0
+~
+~
+0 0 75425
+D2
+~
+~
+0 0 75419
+S
+#75421
+Around the {#Chocobo{0 Farm~
+You walk around the limestone wall of the Chocobo farm.  You can see the
+mountain just up ahead.  A Cobblestone path is built to lead anyone upwards
+to the top summit of the mountain.  An odd {8fog{0 covers the mountain's
+top.  
+~
+0 0 0
+D0
+~
+~
+0 0 75422
+D1
+~
+~
+0 0 75417
+S
+#75422
+{8Cobblestone Pathway{0~
+The smooth round rocks of the path feel much better than stepping on the
+sharped jagged pebbles on the dirt road.  You can see the base of the
+mountain ahead of you.  You can see the farm south east of your current
+location.  
+~
+0 0 0
+D0
+~
+~
+0 0 75423
+D2
+~
+~
+0 0 75421
+S
+#75423
+Base of the Mountain~
+Crowds of people are gathered below the base of the mountain, checking
+their supplies before climbing upwards.  A huge gust of freezing wind blows
+by.  You can see a thick fog covering the top of the mountain.  An upwards
+climb leads upwards to the top of the mountain.  Southwards, leads back to
+th {@Forest{0 of Argoth.  To the north, you can see a cave entrance.  
+~
+0 0 5
+D0
+~
+~
+0 0 75480
+D2
+~
+~
+0 0 75422
+D4
+~
+~
+0 0 75424
+S
+#75424
+{6S{^p{7i{&r{8a{*l{2l{#i{3n{4g{0 up the Mountain~
+You are at the lowest climb of the mountain.  This place only overlooks
+the crowd of people that can still be seen pretty well.  There are steps and
+a paved path going around and spiraling the mountain.  Although not very
+high up, you begin to feel the affects of lighter air and lighter gravity.  
+~
+0 0 5
+D4
+~
+~
+0 0 75427
+D5
+~
+~
+0 0 75423
+S
+#75425
+{#Chocobo Stable{0~
+You can see an assortment of different chocobos on stock.  There is a
+huge counter to the end of the wall.  There are stable hands here, helping
+out the new owners to the magnificent chocobos.  There are several troughs
+to feed the chocobos here.  
+~
+0 4104 0
+D2
+~
+~
+0 0 75420
+S
+#75426
+Chocobo Nursery~
+This is the pet storage room.  There is no way out.  So they are just
+gonna 'wark' you to death until you can get help.  
+~
+0 12300 0
+S
+#75427
+{6S{^p{5i{&r{3a{*l{2l{#i{1n{$g{0 up the Mountain~
+You have barely reached a high enough zone.  You can see the heads of the
+chocobos back at the chocobo farm, but you can not see anything beyond that.
+The crowds of people below begin to look like a flock of multi-colored sheep
+in the distance.  
+~
+0 0 5
+D4
+~
+~
+0 0 75428
+D5
+~
+~
+0 0 75424
+S
+#75428
+{6S{^p{7i{1r{8a{*l{2l{%i{3n{$g{0 up the Mountain~
+You are pretty far up now.  The crowd below is just a speck.  You can see
+the chocobo farm, but worse than the crowd.  The {$Merchmin Village{0 can be
+seen in the distance, you can tell from all the lights and other spectacles.
+The huge fog on the mountain is nearby.  There seem to still be many steps
+to walk up.  
+~
+0 0 5
+D4
+~
+~
+0 0 75429
+D5
+~
+~
+0 0 75427
+S
+#75429
+A Summit on the Mountain~
+You are within the fog.  Looking around, a huge ring of clouds and fog
+surround the mountain.  The rest of the way up can only be done through
+flight.  You can see a few tourists here looking around through their
+binoculars up here to get a great view of the {@Forest{0 of {@Argoth{0.  
+~
+0 0 5
+D4
+~
+~
+0 0 75430
+D5
+~
+~
+0 0 75428
+S
+#75430
+Flying in the {6A{^i{&r{0~
+Although the wind is pushing you around, you've not being brought off the
+way.  You can see the apex summit just above.  You glance downwards and
+attempt not to think about the sharp jagged rocks below that could impale
+you harder than {$Vartan17{0.  
+~
+0 0 9
+D4
+~
+~
+0 0 75431
+D5
+~
+~
+0 0 75429
+S
+#75431
+The Apex of the Mountain~
+You have reached the high-most point of {@Argoth{0.  You can see an old
+man operating a {Bl{Ci{cf{Bt{x.  You can everything in Argoth.  You can see small
+fires throughout the countryside each from a different village.  You can see
+the sea and the ocean surrounding the peninsula.  
+ 
+~
+0 0 5
+D5
+~
+~
+0 0 75430
+S
+#75432
+{@Forest of Argoth{0~
+The rolling {@green{0 pastures are certainly vibrant and magnficent here.
+For a druid, this place could take years to study.  The golden shimmering of
+the wildlife and plants here deems for great magic or great creation. 
+Admist the beauty, your eyes behold a large crater to the north of here.  
+~
+0 0 3
+D0
+~
+~
+0 0 75433
+D1
+~
+~
+0 0 75414
+D3
+~
+~
+0 0 75435
+S
+#75433
+Around the {@Crater{0~
+You stand before a huge hole in the forest.  The hole is around twenty
+feet in diameter.  You can see a huge vehicle crashed into the middle of the
+crater.  Over the years probably, plants grew over it and there are an
+encirclement of trees around it.  
+~
+0 0 0
+D2
+~
+~
+0 0 75432
+D5
+~
+~
+0 0 75434
+S
+#75434
+In the {@Crater{0~
+You are standing inside the crater.  There is a huge vehicle of some sort
+lodged into the ground.  There are piles of things left in the thing.  Over
+the years, moss has grown over it and weakened it's hull, so be extremely
+careful.  
+~
+0 4 2
+D4
+~
+~
+0 0 75433
+S
+#75435
+{@Forest of Argoth{0~
+The birds chirp harmoniously, but incessantly.  Westwards, you can see
+some sort of forked split.  The rolling hills continue on, but the forked
+split if paved.  There is a {$well{0 here, probably built for any thirsty
+travellers.  
+~
+0 0 3
+D1
+~
+~
+0 0 75432
+D3
+~
+~
+0 0 75436
+S
+#75436
+{@Forked Split{0~
+Here lies a forked junction.  There is a tall {ySignpost{x here.  Lianas
+from the forest hang down as if reaching for you.  Roots and other
+undergrowth lie on the ground housing who knows what.  There's a slight
+smell of salt on the wind.  
+~
+0 4 3
+E
+signpost~
+The sign points to the west and south.
+West - Forest of Argoth
+South - Beach
+~
+D1
+~
+~
+0 0 75435
+D2
+~
+~
+0 0 75437
+D3
+~
+~
+0 0 75444
+S
+#75437
+{3Sandy Trail{0~
+You begin on a {3sandy{0 trail that is built between a series of {@palm{0
+trees.  You can hear the crashing of the {6w{^a{&v{4e{$s{0 against the beach and the
+cliff face.  You can also hear the screaming and yelling at the beach by the
+people there today.  Going south will lead you to the beach.  Going north
+will head you back into the direction of the forest.  
+~
+0 0 10
+D0
+~
+~
+0 0 75436
+D2
+~
+~
+0 0 75438
+S
+#75438
+{3At the Edge of the Beach{0~
+You are at the edge of the beach.  At the point you are standing at,
+you're overlooking the entire beach.  You can see kids and adults alike here
+enjoying the beautiful day here.  The rolling of the {6w{^a{&v{$e{4s{0 is a
+calming sound.  
+~
+0 0 10
+D0
+~
+~
+0 0 75437
+D2
+~
+~
+0 0 75439
+S
+#75439
+By the {6S{^u{&r{$f{0~
+The {6c{^rystalline{0 {6w{^a{&t{$e{4r{0 touches your feet as the water
+receeds back and forth.  The crashing waves make an almost calming sound. 
+Suddenly, a ball flies over your head and the next thing you know, you are
+run over by a bunch of kids.  You can see a small cove to the east.  
+~
+0 0 6
+D0
+~
+~
+0 0 75438
+D1
+~
+~
+0 0 75440
+S
+#75440
+Entering a Small Sea Cave~
+It is quite dark in there.  You can hear the water rushing down there,
+crashing against the walls of the cave interior.  You can see a small path
+by the raging {6w{^a{&t{$e{4r{&s{0 in the cave.  
+~
+0 0 0
+D0
+~
+~
+0 0 75441
+D3
+~
+~
+0 0 75439
+S
+#75441
+Inside the Cave~
+It is quite dark in here.  You can hear the {^w{6a{&t{4e{$r{0 rushing
+loudly next to you.  You can see a faint light to the far north.  
+~
+0 12 0
+D0
+~
+~
+0 0 75442
+D2
+~
+~
+0 0 75440
+S
+#75442
+Inside the Cave~
+The light begins to glow brighter as you come near it.  It seems to be
+just ahead.  The crashing waves become calmer here, as it heads northwards. 
+The smell of guano can be detected faintly in the air.  
+~
+0 12 0
+D0
+~
+~
+0 0 75443
+D2
+~
+~
+0 0 75441
+S
+#75443
+A {3B{#right{0 Lair~
+Half of this cave is filled with a destroyed pirate ship.  Tons of money
+is spurted out here, but the ghost here isn't much too happy.  You had
+better leave before he kills you.  
+~
+0 8 0
+D2
+~
+~
+0 0 75442
+S
+#75444
+{@Forest of Argoth{0~
+The trees here seem more lush.  You can hear the rushing water of a small
+brook.  The sky looks absolutely beautiful with the skyline of the forest
+matching with it.  There is more to the west.  
+~
+0 0 3
+D1
+~
+~
+0 0 75436
+D3
+~
+~
+0 0 75445
+S
+#75445
+{2F{@o{2r{@e{2s{@t{0 of {@A{2r{@g{2o{@t{2h{0~
+You walk around as you can see the beautiful lush {@p{2lant{0 life here. 
+Ahead, you can see the {^b{6r{&o{$o{4k{0 you heard earlier.  The trees here
+seem well-trimmed, and yet they seem so natural.  
+~
+0 0 3
+D0
+~
+~
+0 0 75459
+D1
+~
+~
+0 0 75444
+D3
+~
+~
+0 0 75446
+S
+#75446
+By the {CB{cr{Wo{Bo{bk{x~
+The rushing stream looks very natural and beautiful.  You can hear a
+low-hardly-heard fanfare in the distance.  Looking upwards, the flag of
+Camelot can be seen.  Upstream, a house can be seen.  
+~
+0 0 3
+D0
+~
+~
+0 0 75450
+D1
+~
+~
+0 0 75445
+D3
+~
+~
+0 0 75447
+S
+#75447
+{@Forest of Argoth{0~
+Although there are trees in the way, you seem to nearing Camelot.  It
+seems to be northwesterly from your position.  A small path of dirt begins
+to go westwards, and apparently leading outside of the {@f{2orest{0 and out
+of Argoth, and into Camelot territory.  
+~
+0 0 3
+D0
+~
+~
+0 0 75473
+D1
+~
+~
+0 0 75446
+D3
+~
+~
+0 0 75448
+S
+#75448
+A {3Dirt{0 Road~
+You begin taking the hike on the dirt road.  It begins to twist
+northwards into Camelot.  You are still surrounded by the great trees of the
+{@Forest of Argoth{0, but you are on a trail leading to Camelot.  You can
+hear the brook rushing water calmly and serenely.  
+~
+0 0 3
+D0
+~
+~
+0 0 75449
+D1
+~
+~
+0 0 75447
+S
+#75449
+A {3Dirt{0 Path~
+You begin taking the hike on the dirt road.  It begins to twist
+northwards into Camelot.  You are still surrounded by the great trees of the
+{2Forest of Argoth{0, but you are on a trail leading to Camelot.  You can
+hear the brook rushing water calmly and serenely.  Camelot is just to the
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 17325
+D2
+~
+~
+0 0 75448
+S
+#75450
+Heading {6U{^p{&s{$t{4r{&e{^a{6m{0~
+The house is in sight.  A set of {8stone{0 steps leads upwards to the
+house.  The house seems to feed the brook.  The house's porch extends over
+the brook, and a magical glow surrounds it.  
+~
+0 0 3
+D2
+~
+~
+0 0 75446
+D4
+~
+~
+0 0 75451
+S
+#75451
+Up some {8Stone{0 Steps{0~
+There are small pockets of trees to the right and left of you.  You can
+see the house just above you.  Upwards leads to the house, downwards leads
+back to the forest floor.  
+~
+0 0 8
+D4
+~
+~
+0 0 75452
+D5
+~
+~
+0 0 75450
+S
+#75452
+Before the Door of a House{0~
+You are standing before a wooden door for the house.  There are plots of
+forestry around the house.  You can see the lake that feeds the house here
+too.  
+~
+0 12 1
+D2
+~
+door~
+3 0 75453
+D5
+~
+~
+0 0 75451
+S
+#75453
+The Atrium~
+The Atrium is filled with all sorts of exotic plants.  A huge oriental
+designed carpet is on the floor.  Marble columns hold up the ceiling.  A
+large clear crystal above you keeps this room protected from any wandering
+animals or creatures.  To the east, you can see the study for the druid.  To
+the west, you can see a billiard room, for relaxation possibly.  Below, you
+can see the living quarters for this druid.  A skydeck is to the south.  The
+exit is to the north.  
+~
+0 1032 0
+D0
+~
+door~
+3 0 75452
+D1
+~
+~
+0 0 75455
+D2
+~
+~
+0 0 75454
+D3
+~
+~
+0 0 75458
+D5
+~
+~
+0 0 75475
+S
+#75454
+The {6S{^k{&y{7deck{0~
+The skydeck overviews the entire forest of Argoth and beyond.  You are
+pretty high up.  There is a lawnchair here.  The fresh air feels good
+against your skin, and your sinuses.  To the north, you can see the Atrium. 
+~
+0 0 0
+D0
+~
+~
+0 0 75453
+S
+#75455
+The Study~
+You are surrounded by shelves of many books.  There are several tables
+with scrolls on them as well.  Oil lamps light the room.  A couch
+overviewing a fireplace is here.  To the south, you can see the kitchen.  To
+the west, you can see the Atrium.  
+~
+0 8 0
+D2
+~
+~
+0 0 75456
+D3
+~
+~
+0 0 75453
+S
+#75456
+The Kitchen~
+The kitchen has the basic needs: a sink, a oven, a gas stove, a
+refrigerator, and a magical microwave oven.  There are several contraptions
+thrown about here.  The marble floor is very expensively and lavishly built.
+To the north, you can see the Druid's study.  To the south, you can see the
+dining room.  
+~
+0 8 0
+D0
+~
+~
+0 0 75455
+D2
+~
+~
+0 0 75457
+S
+#75457
+The Dining Room~
+This room is pretty neat and clean compared to the rest of the other
+rooms.  The table doesn't even seem to be used.  A huge window overlooks the
+entire Forest.  To the north, you can see the kitchen.  
+~
+0 8 0
+D0
+~
+~
+0 0 75456
+S
+#75458
+The Billiard Room~
+You can see a pool table in the center of the room.  A foosball table is
+by the window to the north.  There is a couch on the east wall.  On the west
+wall is a counter filled with drinks.  To the east, you can see the Atrium. 
+~
+0 8 0
+D1
+~
+~
+0 0 75453
+S
+#75459
+{@Deep in the Forest of Argoth{0~
+You are no longer on the trail.  You are admist trees of all sorts, and
+plants of all sorts.  The light chirping of birds can be heard around here. 
+The trees all have high canopies.  The exits expand in all directions.  
+~
+0 0 3
+D0
+~
+~
+0 0 75460
+D2
+~
+~
+0 0 75445
+S
+#75460
+{@Deeper into the {2Forest{0~
+You are quite deep in the forest already.  You can see some sort of tower
+nearby.  The thick trees indicate that this is an {7ancient{0 forest.  The
+exits lead in all directions.  
+~
+0 0 3
+D0
+~
+~
+0 0 75461
+D1
+~
+~
+0 0 75460
+D2
+~
+~
+0 0 75459
+D3
+~
+~
+0 0 75472
+S
+#75461
+In the {1Heart{0 of the {2Forest{0~
+You are standing at the heart of the forest.  You can see a tower clearly
+to the west.  You can see more forest northwards and southwards.  This
+forest is almost like a maze.  
+~
+0 0 3
+D0
+~
+~
+0 0 75471
+D2
+~
+~
+0 0 75460
+D3
+~
+~
+0 0 75462
+S
+#75462
+Before the {8Tower{0~
+You are standing before a huge tower.  The tower is higher than the
+Mountain of Argoth.  There is a {3sign{0 here.  A swinging board above the
+door, swings incessantly over and over again to the wind.  
+~
+0 0 0
+E
+board~
+{@Welcome...  {0 
+~
+E
+sign~
+{@Argothian Watchtower{0.  
+~
+D0
+~
+~
+3 0 75463
+D1
+~
+~
+0 0 75461
+D2
+~
+~
+0 0 75472
+S
+#75463
+Inside the Tower~
+You are standing within a huge granite tower.  There are several stair
+cases leading to the top.  The cold damp floor is quite dusty and very
+messy.  The only exits are south and upwards.  
+~
+0 12 0
+D2
+~
+~
+3 0 75462
+D4
+~
+~
+0 0 75464
+S
+#75464
+First Floor Landing~
+The creaky wooden floorboards make you feel quite unsafe.  Looking
+around, a huge oak door to the north is here.  Old oil torches light the
+room.  There are several more flights of stairs before you reach to the
+watch room.  
+~
+0 12 0
+D0
+~
+door~
+3 0 75465
+D4
+~
+~
+0 0 75466
+D5
+~
+~
+0 0 75463
+S
+#75465
+A Bedroom Chamber~
+This room is quite messy.  Dirty clothes are lying around in a pile.  A
+small bed to the wall next to you, is here.  You can see a closet door, and
+a huge wall mirror.  A cabinet to the left of you is basically scarred from
+blade-cutting.  You wonder who would live in this rat hole.  
+~
+0 8 0
+D2
+~
+door~
+3 0 75464
+S
+#75466
+Second Floor Landing~
+The creaky wooden floorboards make you feel quite unsafe.  Looking
+around, a huge pine wood door to the south is here.  Old oil torches light
+the room.  There are a few more flights of stairs before you reach to the
+watch room.  
+~
+0 8 0
+D2
+~
+pine~
+3 0 75467
+D4
+~
+~
+0 0 75468
+D5
+~
+~
+0 0 75464
+S
+#75467
+A Bunk Room~
+There are several bunk beds in this room.  A drippy sink is to the left
+room.  This room is quite clean though.  There are several cabinets, most of
+them empty.  
+~
+0 8 0
+D0
+~
+pine~
+3 0 75466
+S
+#75468
+Third Floor Landing~
+The old wooden floorboards make you feel quite unsafe.  Looking around,
+a huge oaken door to the east is here.  Old oil torches light the room. 
+There are one more flight of stairs before you reach to the watch room.  
+~
+0 8 0
+D1
+~
+door~
+3 0 75469
+D4
+~
+~
+0 0 75470
+D5
+~
+~
+0 0 75466
+S
+#75469
+The Mess Hall~
+This room is where the people occupating the tower eat.  This room looks
+like it has been used more than the bedrooms.  There is a window around the
+walls.  
+~
+0 0 0
+D3
+~
+door~
+3 0 75468
+S
+#75470
+Watch Room~
+This room has a safe, stone floor.  You can see a huge screen all around
+you, supported by metal bars.  There are small holes for the archer's
+arrows.  You can also see some sort of communication gizmo.  This room is
+quite spacious and can probably fit many archers.  
+~
+0 0 0
+D5
+~
+~
+0 0 75468
+S
+#75471
+Edge of the {2F{@orest{0 of Argoth{0~
+You are at the northern edge of the Forest of Argoth.  The rest of the
+way, is surrounded by a vast ocean.  The crashing waves below you, do not
+seem very inviting.  It is best that you head back on your way.  Southwards,
+seems to be the only exit.  
+~
+0 0 3
+D2
+~
+~
+0 0 75461
+S
+#75472
+{@D{2eep{0 in the {2F{@orest{0~
+You are quite deep in the forest already.  You can see some sort of tower
+nearby.  The thick trees indicate that this is an ancient forest.  The exits
+lead in all directions.  
+~
+0 0 3
+D0
+~
+~
+0 0 75462
+D1
+~
+~
+0 0 75460
+D3
+~
+~
+0 0 75473
+S
+#75473
+{2D{@eep{0 in the {@F{2orest{0~
+You are in the deep depths of this ancient forest.  The tree canopies
+almost block out the skies.  The exits go in all directions as well.  There
+are several different plant species growing here.  
+~
+0 0 3
+D1
+~
+~
+0 0 75472
+D2
+~
+~
+0 0 75447
+D3
+~
+~
+0 0 75474
+S
+#75474
+Edge of the {@Forest{0 of Argoth~
+You stop, as you realize that you have reached a ledge on the cliff. 
+This view overlooks Camelot, and the sea.  A thick fog covers the entire
+ocean, due to the temperature down there.  For some reason, the temperature
+down there, is different from up here 
+~
+0 0 3
+D1
+~
+~
+0 0 75473
+S
+#75475
+The {@D{2ruid{@'s{0 Private Chambers~
+This seems to be the bedroom chambers of the druid.  It is quite a
+spacious room.  There are several shelves of books on the alls, and a
+midnight oil lantern hanging on the ceiling.  There is a sense tranquilit
+and serenity here.  The burning of incense can be detected in the air.  The
+milieu of the {@D{2ruid{@'s{0 Chambers is quite calming and peaceful 
+~
+0 1032 0
+D4
+~
+~
+0 0 75453
+S
+#75476
+Merchmin Village~
+The weather in Merchmin is usually very good.  The sun is shining, the
+weather's sky is blue.  Trees that are planted next to the huts are blowing
+very gently from the small and refreshing breeze that comes from the south. 
+Here isn't much noise from the adults, because they are busy working.  As
+for the children, you can hear their screams of joy as they run around.  
+~
+0 0 1
+D1
+~
+~
+0 0 75478
+D2
+~
+~
+0 0 75405
+S
+#75478
+Merchmin Village~
+The weather in Merchmin is usually very good.  The sun is shining, the
+weather's sky is blue.  Trees that are planted next to the huts are blowing
+very gently from the small and refreshing breeze that comes from the south. 
+Here isn't much noise from the adults, because they are busy working.  As
+for the children, you can hear their screams of joy as they run around.  To
+the north, you can see a hut.  There is a wall to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 75479
+D3
+~
+~
+0 0 75476
+S
+#75479
+The Barrack~
+This is the hut where the Merchmin soldiers and guards are trained. 
+Currently they are all out on training exercises or duty.  The hut is filled
+with all sorts of training equipment.  There is even an armoury here.  
+~
+0 8 0
+D2
+~
+~
+0 0 75478
+S
+#75480
+{*C{7a{8v{&e{0 Entrance~
+This cave is deep and damp.  The stalagmites and stalactites are made of
+limestone and phosphorus, therefore lighting the cave by just a bit.  The
+shrill shrieking of bats can be heard, and their leathery wings fluttering
+loudly across the large cave.  An unusual heat is coming from down below.  
+~
+0 12 5
+D2
+~
+~
+0 0 75423
+D5
+~
+~
+0 0 75481
+S
+#75481
+Deep in the Cave~
+It is sweltering hot in here.  The soaring heat from below is rising up
+here.  You can see a lava pool deeper downwards.  The hot temperatures make
+sweat from your head trickle down to your feet.  You can no longer bear the
+heat, but if you wish, you may go in deeper.  
+~
+0 8 5
+D4
+~
+~
+0 0 75480
+D5
+~
+~
+0 0 75482
+S
+#75482
+Cavern Floor~
+As you suspected, this is a magma chamber.  You can see a river of lava
+running around a large some sort.  It is beyond sweltering in here.  There
+is a huge temple ahead, protected by the lava flow.  Two large stalagmites
+seem to have dropped from the ceiling, and fallen over the lava ring, making
+a bridge to the temple.  
+~
+0 8 5
+D0
+~
+~
+0 0 75483
+D4
+~
+~
+0 0 75481
+S
+#75483
+Before the Temple~
+This temple seems to have survived the destructive heat of the lava
+river.  There are four large dragon gargoyles on the temple.  A huge archway
+leads deep into the temple.  The wall of the temple seems to be made of Dark
+Magic and has survived the destructive fire and molten lava.  If you wish to
+leave, you must go south, and climb out of here.  To continue on, you can go
+inside the temple and see what lies there.  
+~
+0 8 5
+D0
+~
+~
+0 0 75484
+D2
+~
+~
+0 0 75482
+S
+#75484
+Maze Dragon Temple~
+The entire area is dark, even with you light.  The temple leads in all
+directions and it is to dark to see beyond the spot you are standing.  The
+seering heat no longer surrounds the atmosphere.  It is quite cool and damp
+in here, quite normal for a cave.  
+~
+0 8 5
+D2
+~
+~
+0 0 75483
+D3
+~
+~
+0 0 75489
+D5
+~
+~
+0 0 75487
+D0
+~
+~
+0 0 75485
+D4
+~
+~
+0 0 75486
+D1
+~
+~
+0 0 75488
+S
+#75485
+The Maze Dragon Temple~
+The entire area is dark, even with you light.  The temple leads in all
+directions and it is to dark to see beyond the spot you are standing.  The
+seering heat no longer surrounds the atmosphere.  It is quite cool and damp
+in here, quite normal for a cave.  It isn't called a maze for nothing.  
+~
+0 8 5
+D0
+~
+~
+0 0 75486
+D5
+~
+~
+0 0 75488
+D1
+~
+~
+0 0 75485
+D4
+~
+~
+0 0 75490
+D2
+~
+~
+0 0 75484
+D3
+~
+~
+0 0 75487
+S
+#75486
+The Maze Dragon Temple~
+The entire area is dark, even with you light.  The temple leads in all
+directions and it is to dark to see beyond the spot you are standing.  The
+seering heat no longer surrounds the atmosphere.  It is quite cool and damp
+in here, quite normal for a cave.  
+~
+0 8 5
+D2
+~
+~
+0 0 75484
+D0
+~
+~
+0 0 75487
+D5
+~
+~
+0 0 75492
+D1
+~
+~
+0 0 75488
+D4
+~
+~
+0 0 75486
+D3
+~
+~
+0 0 75485
+S
+#75487
+The Maze Dragon Temple~
+The entire area is dark, even with you light.  The temple leads in all
+directions and it is to dark to see beyond the spot you are standing.  The
+seering heat no longer surrounds the atmosphere.  It is quite cool and damp
+in here, quite normal for a cave.  
+~
+0 8 5
+D1
+~
+~
+0 0 75487
+D2
+~
+~
+0 0 75486
+D5
+~
+~
+0 0 75484
+D3
+~
+~
+0 0 75489
+D4
+~
+~
+0 0 75485
+D0
+~
+~
+0 0 75488
+S
+#75488
+The Maze Dragon Temple~
+The entire area is dark, even with you light.  The temple leads in all
+directions and it is to dark to see beyond the spot you are standing.  The
+seering heat no longer surrounds the atmosphere.  It is quite cool and damp
+in here, quite normal for a cave.  
+~
+0 8 5
+D3
+~
+~
+0 0 75484
+D1
+~
+~
+0 0 75489
+D2
+~
+~
+0 0 75486
+D4
+~
+~
+0 0 75488
+D5
+~
+~
+0 0 75487
+D0
+~
+~
+0 0 75493
+S
+#75489
+The Maze Dragon Temple~
+The entire area is dark, even with you light.  The temple leads in all
+directions and it is to dark to see beyond the spot you are standing.  The
+seering heat no longer surrounds the atmosphere.  It is quite cool and damp
+in here, quite normal for a cave.  
+~
+0 8 5
+D3
+~
+~
+0 0 75491
+D2
+~
+~
+0 0 75489
+D0
+~
+~
+0 0 75490
+D4
+~
+~
+0 0 75487
+D5
+~
+~
+0 0 75488
+D1
+~
+~
+0 0 75485
+S
+#75490
+The Maze Dragon Temple~
+The entire area is dark, even with you light.  The temple leads in all
+directions and it is to dark to see beyond the spot you are standing.  The
+seering heat no longer surrounds the atmosphere.  It is quite cool and damp
+in here, quite normal for a cave.  
+~
+0 8 5
+D5
+~
+~
+0 0 75493
+D0
+~
+~
+0 0 75491
+D3
+~
+~
+0 0 75490
+D2
+~
+~
+0 0 75489
+D1
+~
+~
+0 0 75485
+D4
+~
+~
+0 0 75486
+S
+#75491
+The Maze Dragon Temple~
+The entire area is dark, even with you light.  The temple leads in all
+directions and it is to dark to see beyond the spot you are standing.  The
+seering heat no longer surrounds the atmosphere.  It is quite cool and damp
+in here, quite normal for a cave.  
+~
+0 8 5
+D3
+~
+~
+0 0 75488
+D0
+~
+~
+0 0 75492
+D5
+~
+~
+0 0 75491
+D4
+~
+~
+0 0 75485
+D1
+~
+~
+0 0 75489
+D2
+~
+~
+0 0 75484
+S
+#75492
+The Maze Dragon Temple~
+The entire area is dark, even with you light.  The temple leads in all
+directions and it is to dark to see beyond the spot you are standing.  The
+seering heat no longer surrounds the atmosphere.  It is quite cool and damp
+in here, quite normal for a cave.  
+~
+0 8 5
+D4
+~
+~
+0 0 75486
+D3
+~
+~
+0 0 75492
+D2
+~
+~
+0 0 75491
+D5
+~
+~
+0 0 75484
+D0
+~
+~
+0 0 75493
+D1
+~
+~
+0 0 75490
+S
+#75493
+The Maze Dragon Temple~
+The entire area is dark, even with you light.  The temple leads in all
+directions and it is to dark to see beyond the spot you are standing.  The
+seering heat no longer surrounds the atmosphere.  It is quite cool and damp
+in here, quite normal for a cave.  
+~
+0 8 5
+D4
+~
+~
+0 0 75493
+D0
+~
+~
+0 0 75485
+D3
+~
+~
+0 0 75490
+D2
+~
+~
+0 0 75492
+D1
+~
+~
+0 0 75488
+D5
+~
+~
+0 0 75494
+S
+#75494
+The Maze Dragon Temple~
+The entire area is dark, even with you light.  The temple leads in all
+directions and it is to dark to see beyond the spot you are standing.  The
+seering heat no longer surrounds the atmosphere.  It is quite cool and damp
+in here, quite normal for a cave.  
+~
+0 8 5
+D5
+~
+~
+0 0 75495
+D1
+~
+~
+0 0 75487
+D3
+~
+~
+0 0 75485
+D4
+~
+~
+0 0 75493
+D2
+~
+~
+0 0 75489
+D0
+~
+~
+0 0 75491
+S
+#75495
+The Maze Dragon Temple~
+You have reached into a vast chamber, leading to a long hallway.  Huge
+torches light the hallway, leading deeper into the Maze Dragon Temple.  The
+hallway glows with an unearthly aura of dark magic and fire.  The granite
+stone walls protect the structural integrity of the entire temple.  
+~
+0 8 5
+D0
+~
+~
+0 0 75496
+D4
+~
+~
+0 0 75494
+S
+#75496
+Granite Hallway~
+The huge hallway is large enough to fit a Crystal Dragon into.  Dark
+magic is glowing unearthly here, and the fire bound from within the magma
+chamber makes it stronger.  There is a chamber to the south, and the long
+hallways expands northwards.  
+~
+0 8 5
+D0
+~
+~
+0 0 75497
+D2
+~
+~
+0 0 75495
+S
+#75497
+Granite Hallway~
+Ahead, you can see a huge chamber with a door in it.  Jade figures are
+mounted on the walls, they seem to represent some kind of dragon.  The
+formation of the jade figures seem to point northwards towards the door.  An
+unearthly, sinister {@g{2r{@e{2e{@n{0 glow emits from these jade figures.  
+~
+0 8 5
+D0
+~
+~
+0 0 75498
+D2
+~
+~
+0 0 75496
+S
+#75498
+Maze Dragon Shrine~
+Four {Gj{ga{Gd{ge{x dragon pillars are put into a square formation,
+around a small circular area in the room.  The walls are covered with
+{rb{Rl{ro{Ro{rd{x-stained black carpetry.  There is a massive door leading
+into a chamber.  There is a large {RSIGNPOST{x here.  Perhaps you'd better
+read it.  
+~
+0 12 0
+D0
+~
+massive-door~
+3 0 75499
+D2
+~
+~
+0 0 75497
+S
+#75499
+Maze Dragon Chamber~
+This chamber is actually a magma chamber!  The skeletons of those who
+have tried to defeat the Maze Dragon lie here.  Spurts of volcanic lava fly
+out of miniature volcanos nearby.  The {@j{2a{@d{2e{0 dragon pillars are
+surrounding this entire area.  The only exit is south.  
+~
+0 8200 5
+D2
+~
+~
+3 0 75498
+S
+#0
+
+
+
+#SPECIALS
+M 75403 spec_breath_any
+M 75404 spec_cast_adept
+M 75405 spec_impale
+M 75408 spec_impale
+M 75409 spec_impale
+M 75410 spec_impale
+M 75411 spec_impale
+M 75413 spec_cast_mage
+M 75414 spec_cast_mage
+M 75415 spec_prog2
+M 75416 spec_impale
+M 75417 spec_impale
+M 75418 spec_cast_mage
+M 75419 spec_circle
+M 75420 spec_thief
+M 75421 spec_impale
+M 75422 spec_nasty
+M 75424 spec_circle
+M 75426 spec_thief
+M 75427 spec_nasty
+M 75428 spec_poison
+M 75429 spec_impale
+M 75430 spec_cast_mage
+M 75431 spec_high_mage
+M 75432 spec_cast_undead
+M 75433 spec_circle
+S
+
+
+
+#RESETS
+D 0 75409 0 1
+D 0 75410 2 1
+D 0 75417 0 1
+D 0 75418 2 1
+D 0 75452 2 1
+D 0 75453 0 1
+D 0 75462 0 1
+D 0 75463 2 1
+D 0 75464 0 1
+D 0 75465 2 1
+D 0 75466 2 1
+D 0 75467 0 1
+D 0 75468 1 1
+D 0 75469 3 1
+D 0 75498 0 1
+D 0 75499 2 1
+M 0 75400 10 75400 3
+M 0 75401 4 75401 1
+M 0 75401 4 75402 1
+M 0 75423 10 75403 2
+M 0 75423 10 75404 2
+M 0 75402 12 75404 4
+O 0 75424 0 75405
+M 0 75426 6 75405 3
+M 0 75423 10 75405 2
+M 0 75426 6 75406 3
+M 0 75402 12 75406 4
+M 0 75404 1 75407 1
+O 0 75402 0 75407
+M 0 75403 1 75408 1
+E 0 75400 0 6
+E 0 75401 0 12
+M 0 75402 12 75409 4
+M 0 75423 10 75409 2
+M 0 75405 1 75410 1
+E 0 75403 0 5
+E 0 75404 0 16
+M 0 75406 1 75411 1
+G 0 75405 0
+G 0 75406 0
+G 0 75407 0
+G 0 75408 0
+G 0 75423 0
+M 0 75400 10 75412 2
+M 0 75400 10 75412 2
+M 0 75400 10 75413 1
+M 0 75401 4 75414 1
+M 0 75425 20 75415 1
+M 0 75425 20 75416 1
+M 0 75413 10 75423 10
+E 0 75409 0 8
+E 0 75410 0 20
+M 0 75407 1 75425 1
+M 0 75409 1 75426 1
+M 0 75408 1 75426 1
+M 0 75410 1 75426 1
+M 0 75411 1 75426 1
+M 0 75412 1 75426 1
+M 0 75414 1 75429 1
+E 0 75409 0 8
+E 0 75410 0 20
+E 0 75411 0 3
+O 0 75412 0 75431
+M 0 75401 4 75432 1
+M 0 75424 10 75433 2
+M 0 75424 10 75433 2
+O 0 75413 0 75434
+P 0 75414 1 75413 1
+P 0 75415 1 75413 1
+M 0 75400 10 75435 2
+M 0 75400 10 75435 2
+O 0 75440 0 75435
+M 0 75400 10 75436 2
+M 0 75400 10 75436 2
+M 0 75432 10 75440 3
+M 0 75432 10 75441 2
+M 0 75432 10 75442 2
+M 0 75415 1 75443 1
+E 0 75416 0 6
+E 0 75417 0 16
+M 0 75425 20 75444 2
+M 0 75425 20 75445 2
+M 0 75416 10 75445 4
+E 0 75418 0 16
+E 0 75419 0 15
+M 0 75427 16 75445 1
+E 0 75425 0 16
+E 0 75426 0 6
+E 0 75427 0 11
+E 0 75428 0 5
+O 0 75441 0 75446
+M 0 75430 1 75446 1
+E 0 75433 0 17
+M 0 75424 10 75446 4
+M 0 75425 20 75447 2
+M 0 75422 10 75447 2
+M 0 75416 10 75447 6
+E 0 75418 0 16
+E 0 75420 0 14
+M 0 75425 20 75448 2
+M 0 75424 10 75448 2
+M 0 75425 20 75449 2
+M 0 75431 1 75449 1
+E 0 75434 0 23
+E 0 75435 0 11
+E 0 75436 0 1
+E 0 75437 0 17
+E 0 75438 0 12
+E 0 75439 0 20
+O 0 75441 0 75450
+M 0 75418 1 75453 1
+E 0 75422 0 16
+M 0 75419 1 75455 1
+M 0 75420 1 75458 1
+M 0 75427 16 75459 5
+E 0 75426 0 6
+E 0 75425 0 16
+E 0 75427 0 11
+E 0 75428 0 5
+M 0 75425 20 75460 2
+M 0 75427 16 75461 5
+E 0 75427 0 11
+E 0 75426 0 6
+E 0 75425 0 16
+E 0 75428 0 5
+M 0 75422 10 75462 2
+M 0 75433 10 75463 2
+M 0 75433 10 75463 2
+M 0 75433 10 75464 1
+M 0 75433 10 75465 1
+M 0 75433 10 75466 1
+M 0 75433 10 75467 1
+M 0 75433 10 75468 1
+M 0 75433 10 75469 1
+M 0 75417 1 75470 1
+E 0 75421 0 21
+M 0 75433 10 75470 2
+M 0 75433 10 75470 2
+M 0 75425 20 75471 2
+M 0 75425 20 75472 2
+M 0 75422 10 75472 2
+M 0 75429 1 75472 1
+E 0 75432 0 16
+E 0 75431 0 10
+M 0 75421 6 75472 3
+M 0 75425 20 75473 2
+M 0 75422 10 75473 2
+M 0 75422 10 75474 2
+M 0 75421 6 75474 3
+M 0 75423 10 75476 2
+R 0 75484 6
+R 0 75485 6
+R 0 75486 6
+R 0 75487 6
+R 0 75488 6
+R 0 75489 6
+R 0 75490 6
+R 0 75491 6
+R 0 75492 6
+R 0 75493 6
+R 0 75494 6
+O 0 75444 0 75498
+M 0 75428 1 75499 1
+E 0 75429 0 28
+E 0 75430 0 16
+O 0 75442 0 75499
+P 0 75443 1 75442 1
+S
+
+
+
+#SHOPS
+75406 19 15 26 10 17 110 50 0 23
+75407 0 0 0 0 0 110 90 0 23
+0
+
+
+
+#MOBPROGS
+#75400
+if ispc $n
+if isevil $n
+say {REVIL LURKS! ATTACK!!{x
+MOB KILL $n
+~
+#75401
+SAY  Wark!
+~
+#75402
+SAY  Welcome to the Chocobo Stables(TM).
+SAY  Type list to see what kind of chocobos we have available for you.
+~
+#75403
+SAY  You have disturbed my restless slumber, you will die!!
+KILL  $n
+~
+#75404
+MOB ECHO  The shrieking cries of the dead sea captain race through your mind...
+MOB ECHO  ... as his undead soul returns to the astral plane.
+~
+#75405
+SAY  Welcome to Merchmin Village $n, enjoy your stay here.
+~
+#75428
+if ispc $n
+say {RHow DARE you enter my lair!{x
+MOB DAMAGE all 500 1000
+MOB DAMAGE all 500 1000
+say {RI will suck the juices from your BONES!!!{x
+MOB KILL $n
+endif
+~
+#75433
+if ispc $n
+if isevil $n
+SAY {REVIL EVIL!! MUST END EVIL!!{x
+MOB KILL $n
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

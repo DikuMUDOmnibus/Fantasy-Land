@@ -1,0 +1,2359 @@
+#AREADATA
+Name Sanuba Desert~
+Builders Zeddicus~
+VNUMs 42900 42999
+Continent 2
+Credits [ 101  ] Zeddicus Sanuba Desert~
+Security 1
+Flags 0
+End
+
+#MOBILES
+#42900
+mordgur troll~
+{yM{Rordgur{x~
+{yM{Rordgur{x is here fighting with his brother.
+~
+Big and Ugly best descibes Mordgur.  He is as ugly as any troll can be. 
+Scars cover his entire body, hair his chin.  Three horns protrude from his
+head yet two are broken off.  
+~
+troll~
+ABFG DFJTVc 0 -1000 0
+170 130 1d1+49999 110d10+100 500d3+1 crush
+-100 -85 -85 -85
+ADEFHKLR ABJ BDEMZ HK
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV medium unknown
+M FIGHT 42901 50~
+#42901
+gordmur troll~
+{RG{yordmur{x~
+{RG{yordmur{x is here fighting with his brother.
+~
+Big and Ugly best descibes Gordmur.  He is as ugly as any troll can be. 
+Scars cover his entire body, hair his chin.  Three horns protrude from his
+head yet two are broken off.  
+~
+troll~
+ABFG DFJTVc 0 -1000 0
+170 130 1d1+49999 110d10+100 500d3+1 crush
+-100 -85 -85 -85
+ADEFHKLR ABJ BCEMZ HK
+stand stand male 80000
+ABHIMV ABCDEFGHIJKUV medium unknown
+M FIGHT 42900 50~
+#42902
+desert dragon~
+{xa {YD{yeser{Yt D{yrago{Yn{x~
+A {YD{yrago{Yn{x looks for its next meal.  Maybe it's you . . .
+~
+Standing about thirty feet tall, the dragon has long horns and spikey
+scales.  He is of a goldish tint and looks very dangerous.  
+~
+dragon~
+ABF DFJKTV 0 -1000 0
+155 50 19999d1+1 0d0+0 10d20+20 bite
+-20 -20 -20 -20
+DFHK AB I HN
+stand stand either 30000
+AHVZ ABCDEFGHIJKPQUVWX huge unknown
+F res BEH
+F vul FI
+#42903
+dust devil demon~
+a {DDust {RDevil{x~
+A {RDevil{x materalizes from the {DDust{x. 
+~
+~
+pixie~
+ABF DFTc B -1000 0
+160 0 1d1+27999 40d9+100 50d10+75 blast
+40 40 40 40
+CFIK AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJKP medium unknown
+#42904
+hyena dog~
+a {CH{cyen{Ca{x~
+A {Ch{cyen{Ca{x searches for food.
+~
+A mangy looking, big dog.
+~
+dog~
+ABC DFT 0 -1000 0
+150 145 20d32+14000 18d32+1516 20d30+65 bite
+-24 -24 -22 -19
+EFHNU 0 0 0
+stand stand male 20000
+AGHMV ABCDEFGHIJKUV medium unknown
+#42905
+vulture~
+a {DVul{wt{Dure{x~
+A {DVul{wt{Dure{x flies around looking for a corpse to eat.
+~
+~
+song bird~
+ACG JTc 0 0 0
+145 0 1d1+20000 40d9+100 50d10+40 peck
+50 50 50 50
+CFHIU AB LQ 0
+stand stand male 15000
+AGHMVW ABCDEFGHIJKP medium unknown
+#42906
+bulette~
+a {YB{yulett{Ye{x~
+The {Yb{yulett{Ye{x burrows out and attacks.
+~
+It reminds you of a shark and an armadillo hybrid.
+~
+lizardman~
+AFG Vb 0 -1000 0
+150 150 1d1+18999 10d10+100 6d25+45 bite
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#42907
+scorpion~
+a {ySc{Ro{yrp{Ri{yon{x~
+A large {ySc{Ro{yrp{Ri{yon{x crawls around.
+~
+~
+centipede~
+AB JVZ 0 -950 0
+140 25 1d1+19999 40d9+100 50d10+40 sting
+10 10 10 10
+HM AB FILQ E
+stand stand female 30000
+ABGHMOV ABCDEFGHIJK medium unknown
+#42908
+cactus~
+a {GC{ga{Gc{ct{Gu{gs{x~
+A {GC{ga{Gc{ct{Gu{gs{x grows here.
+~
+~
+human~
+AB DFc 0 0 0
+160 0 1d1+30000 40d9+100 50d10+75 pierce
+0 0 0 0
+CFIK AB 0 0
+stand stand none 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42909
+sand viper snake~
+a {ySand {GViper{x~
+A fat {Gsnake{x hides in the sand.
+~
+~
+snake~
+AFGS DEFJP 0 -1000 0
+150 0 1d1+20000 40d9+100 50d10+40 none
+-10 -10 -10 -10
+JMN AB LQ I
+stand stand either 20000
+AGHMVXYc ABCDEFGHIJKLQVX medium unknown
+#42910
+sand golem~
+a {ySand {DGolem{x~
+{x
+~
+~
+fire-giant~
+ABGT CDFJQVZ DH -1000 3000
+160 200 1d1+34999 1d1+499 15d15+180 smash
+-40 -40 -40 0
+ACDEFHIKLNO ABH CD I
+stand stand male 100000
+AGHMV ABCDEFGHIJKTU huge unknown
+#42911
+sand worm~
+a {yS{Dand {wW{cor{wm{x~
+The {yS{Dand {wW{cor{wm{x roams aimlessly.
+~
+A ten thousand pound worm.
+~
+centipede~
+AG DFJKXZc H -1000 0
+160 0 17999d1+1 50d9+100 5d40+60 none
+30 30 30 30
+CFIK AB FILQ ER
+stand stand male 20000
+ABGHMOV ABDEFK medium unknown
+F par C
+#42912
+basilisk~
+a {DBasilis{Rk{x ~
+A {DBasilis{Rk{x lies in wait of prey.
+~
+~
+lizardman~
+AG DFbc 0 -1000 0
+160 0 1d1+23000 40d9+100 10d25+40 none
+40 40 40 40
+CFIK AB 0 0
+stand stand male 20000
+AHMV ABCDEFGHIJKQ medium unknown
+#42913
+dust mephit~
+a {DDust {BMe{Cph{Bit{x~
+A swarm of {Ddust {Bme{Cph{Bits{x attack.
+~
+~
+bat~
+ABF TVZ 0 0 0
+145 100 1d1+12999 10d10+70 1d1+150 scratch
+50 50 50 60
+FGHJRU ABH D S
+stand stand either 10000
+AGV ACDEFHJKP medium unknown
+#42914
+dust elemental~
+a {DDust {WE{wlementa{Wl{x~
+{x
+~
+~
+wyvern~
+AG DFT 0 -1000 0
+148 0 16499d1+1 0d0+0 10d20+30 blast
+-20 -20 -20 -20
+CFH ABL 0 S
+stand stand none 20000
+ABG ACDEFHJKQV medium unknown
+F for Z
+F par X
+#42915
+lamia~
+a {RL{Ma{Wm{Mi{Ra{x ~
+A {RL{Ma{Wm{Mi{Ra{x is curled up into a ball.
+~
+~
+lizardman~
+AGP b 0 -1000 0
+150 150 1d1+17499 10d10+100 10d25+50 none
+-20 -20 -20 -20
+0 0 0 0
+stand stand female 20000
+AHMV ABCDEFGHIJKQ medium unknown
+M GREET 42902 75~
+#42916
+manticore~
+a {RM{Dan{Rt{Dic{Ro{Dre{x~
+A {RM{Dan{Rt{Dic{Ro{Dre{x growls and attacks.
+~
+~
+human~
+ABFG Vc 0 -1000 0
+160 400 1d1+24999 10d10+10 10d75+100 slice
+0 0 0 0
+CDEIQ 0 0 0
+stand stand male 60000
+0 ABCK medium unknown
+F for AHMV
+F par DEFGHIJ
+#42917
+hunger~
+hunger~
+Hunger
+~
+~
+human~
+A DEJKLQ 0 0 0
+150 0 1d1+17499 0d0+0 1d1+99 digestion
+0 0 0 0
+0 CD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GIVE 42903 food~
+#42918
+sand storm tornado~
+a {DS{yand Stor{Dm{x~
+A {ystor{Dm {xwhips up the {Ds{yands{x.
+~
+~
+human~
+ABFGMN V 0 -1000 0
+150 350 1d1+19999 10d10+100 60d30+0 suction
+20 20 20 20
+HJ 0 0 C
+stand stand none 23110
+0 A large unknown
+F for AHMV
+F par BCDEFGHIJK
+#42919
+hermit~
+the Hermit~
+A mysterious hermit mutters to himself.
+~
+~
+human~
+AB DEFJc 0 0 0
+0 0 1d1+10000 0d0+0 0d0+0 none
+0 0 0 0
+0 CD 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GIVE 42907 42905~
+M SPEECH 42906 yes~
+M GRALL 42905 100~
+#0
+
+
+
+#OBJECTS
+#42900
+scorpions stinger~
+{ySc{ro{yrp{ri{yon{rs S{yti{rn{yge{rr{x ~
+A barbed spine drips poison of the scorpion.~
+unknown~
+weapon Y AN
+dagger 14 14 sting H
+101 2 30000 P
+A
+18 -15
+A
+19 20
+A
+3 -2
+A
+4 -2
+A
+17 2
+#42901
+pain~
+{RP{rai{Rn{x~
+It hurts.~
+unknown~
+armor STY AV
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef BFGHIJKLMNOPQRSTUVWXYZabcdef 0
+101 5 300000 P
+A
+19 30
+A
+18 -15
+A
+13 -125
+#42902
+mordgurs horn~
+{yM{Rordgur's {DHorn{x~
+The {rbloody {Dhorn{x of {yM{Rordgur{x~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 0 200000 P
+#42903
+gordmurs horn~
+{RG{yordmur's {DHorn{x~
+The {rbloody {Dhorn{x of {RG{yordmur.{x~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 0 200000 P
+#42904
+golems essence~
+{WGolem's {YEssence{x~
+{CA {WGolem's {YEssence{x~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 0 200000 P
+#42905
+list~
+list~
+List~
+paper~
+map 0 A
+0 0 0 0 0
+0 0 0 P
+E
+list~
+Mordgur's horn
+Gordmur's horn
+Essence of the Golem
+~
+#42906
+eye basilisk wand~
+{CEye {wof the {DBasilis{Rk{x~
+An eye of a basilisk.~
+unknown~
+wand U AO
+135 10 10 'stone skin' 0
+101 1 9000 P
+#42907
+fang dragon's~
+{YD{yragon'{Ys {RF{ran{Rg{x~
+A chipped dragon's tooth.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+0 1 150000 P
+#42908
+warning sign~
+a warning sign~
+A warning sign is stuck in the ground.~
+unknown~
+trash ABR 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+Be warned... Monsters of great power roam these sands!
+Proceed with extreme caution..
+~
+#42909
+tent~
+{x~
+{x~
+unknown~
+portal 0 0
+0 0 ABD BDEFHIJKNP 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#42900
+Approaching the Desert~
+A vast desert lies to the east.  Covering many miles, it stretches out
+before your sight.  The temperature has risen drastically.  Under these
+conditions, it might be very easy to become disoriented.  
+~
+0 4 10
+D1
+~
+~
+0 0 42901
+D3
+~
+~
+0 0 42992
+S
+#42901
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42902
+D1
+~
+~
+0 0 42904
+D2
+~
+~
+0 0 42903
+D3
+~
+~
+0 0 42900
+S
+#42902
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42905
+D1
+~
+~
+0 0 42909
+D2
+~
+~
+0 0 42901
+S
+#42903
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42901
+D1
+~
+~
+0 0 42913
+D2
+~
+~
+0 0 42914
+S
+#42904
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42909
+D2
+~
+~
+0 0 42913
+D3
+~
+~
+0 0 42901
+S
+#42905
+Lost in the Desert~
+Patches of grass and briars grow sporadically.  A few small cacti grow as
+well.  Large rocks rise out of the ground.  One is in the shape of an arch. 
+The mountains loom in the distance to the north.  Sand continues in all
+directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 42907
+D1
+~
+~
+0 0 42906
+D2
+~
+~
+0 0 42902
+S
+#42906
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42908
+D2
+~
+~
+0 0 42909
+D3
+~
+~
+0 0 42905
+S
+#42907
+Lost in the Desert~
+Patches of grass and briars grow sporadically.  A few small cacti grow as
+well.  Large rocks rise out of the ground.  One is in the shape of an arch. 
+The mountains loom in the distance to the north.  Sand continues in all
+directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 42908
+D2
+~
+~
+0 0 42905
+S
+#42908
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42918
+D1
+~
+~
+0 0 42922
+D2
+~
+~
+0 0 42906
+D3
+~
+~
+0 0 42907
+S
+#42909
+Desert Boneyard~
+Bones litter the ground.  Some are of small animals and some are of
+humans.  A very large set of bones appears to be a full skeleton of an
+animal that has died of either starvation or perhaps the sheer heat.  
+~
+0 0 10
+D0
+~
+~
+0 0 42906
+D1
+~
+~
+0 0 42910
+D2
+~
+~
+0 0 42904
+D3
+~
+~
+0 0 42902
+S
+#42910
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42906
+D2
+~
+~
+0 0 42911
+D3
+~
+~
+0 0 42909
+S
+#42911
+Lost in the Desert~
+Patches of grass and briars grow sporadically.  A few small cacti grow as
+well.  Large rocks rise out of the ground.  One is in the shape of an arch. 
+The mountains loom in the distance to the north.  Sand continues in all
+directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 42910
+D1
+~
+~
+0 0 42925
+D2
+~
+~
+0 0 42912
+D3
+~
+~
+0 0 42904
+S
+#42912
+Walking the Sands~
+Piles of rock and small bushes dot the horizon.  Shrubs and cacti grow
+near.  Stone columns emerge from the sands.  The wind blows heavily from all
+directions.  Dust covers the air.  
+~
+0 0 10
+D0
+~
+~
+0 0 42911
+D2
+~
+~
+0 0 42919
+D3
+~
+~
+0 0 42913
+S
+#42913
+Cactus Field~
+Many cacti grow in large clusters.  They differ in size and shape.  A few
+stand to a height of around thirty feet.  Some are almost ten feet around. 
+Tracks can be found near some of the cacti.  
+~
+0 0 10
+D0
+~
+~
+0 0 42904
+D1
+~
+~
+0 0 42912
+D2
+~
+~
+0 0 42919
+D3
+~
+~
+0 0 42903
+S
+#42914
+Quicksand~
+The ground moves beneath your feet.  Sand shifts in an unnatural way. 
+The wind is blowing incredily fast.  Loud cracking sounds and softer
+scratching noises resound from below.  
+~
+0 0 10
+D0
+~
+~
+0 0 42903
+D1
+~
+~
+0 0 42919
+D2
+~
+~
+0 0 42915
+S
+#42915
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42914
+D1
+~
+~
+0 0 42916
+S
+#42916
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42919
+D1
+~
+~
+0 0 42928
+D2
+~
+~
+0 0 42917
+D3
+~
+~
+0 0 42915
+S
+#42917
+The Sands Continue~
+The sands continues with no end in sight.  Flat land lies ahead in all
+directions.  Zig-zaged tracks have been left in the sand.  A small cactus
+grows near by.  
+~
+0 0 10
+D0
+~
+~
+0 0 42916
+D1
+~
+~
+0 0 42930
+S
+#42918
+Mountain Border~
+Mountains border the desert to the north.  There is no passage into the
+moutains available.  Dust hangs in the air from the constant wind.  All
+directions but north lead back into the desert.  
+~
+0 0 10
+D1
+~
+~
+0 0 42920
+D2
+~
+~
+0 0 42908
+D3
+~
+~
+0 0 42907
+S
+#42919
+The Sands Continue~
+The sands continues with no end in sight.  Flat land lies ahead in all
+directions.  Zig-zaged tracks have been left in the sand.  A small cactus
+grows near by.  
+~
+0 0 10
+D0
+~
+~
+0 0 42913
+D2
+~
+~
+0 0 42916
+D3
+~
+~
+0 0 42914
+S
+#42920
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D1
+~
+~
+0 0 42940
+D2
+~
+~
+0 0 42921
+D3
+~
+~
+0 0 42918
+S
+#42921
+The Sands Continue~
+The sands continues with no end in sight.  Flat land lies ahead in all
+directions.  Zig-zaged tracks have been left in the sand.  A small cactus
+grows near by.  
+~
+0 0 10
+D1
+~
+~
+0 0 42939
+D2
+~
+~
+0 0 42922
+S
+#42922
+Quicksand~
+The ground moves beneath your feet.  Sand shifts in an unnatural way. 
+The wind is blowing incredily fast.  Loud cracking sounds and softer
+scratching noises resound from below.  
+~
+0 0 10
+D3
+~
+~
+0 0 42908
+S
+#42923
+Walking the Sands~
+Piles of rock and small bushes dot the horizon.  Shrubs and cacti grow
+near.  Stone columns emerge from the sands.  The wind blows heavily from all
+directions.  Dust covers the air.  
+~
+0 0 10
+D0
+~
+~
+0 0 42922
+D2
+~
+~
+0 0 42924
+D3
+~
+~
+0 0 42906
+S
+#42924
+Abandoned Campsite~
+Bolders are spread out in a circle on the sand.  It appears to be an old
+campsite of some sort.  A broken down wagon is half buried in the sand. 
+Various pieces of wood and cloths are scattered among the sand.  
+~
+0 0 10
+D1
+~
+~
+0 0 42932
+D2
+~
+~
+0 0 42925
+S
+#42925
+Oasis~
+There is a clear pond surrounded by trees.  Large palm trees provide
+gracious amounts of shade.  It is noticeably cooler near the pond.  Lush
+green grass grows and the wind blows in to create a nice cooling current.  
+~
+0 0 2
+D0
+~
+~
+0 0 42924
+D2
+~
+~
+0 0 42926
+D3
+~
+~
+0 0 42911
+S
+#42926
+The Sands Continue~
+The sands continues with no end in sight.  Flat land lies ahead in all
+directions.  Zig-zaged tracks have been left in the sand.  A small cactus
+grows near by.  
+~
+0 0 10
+D0
+~
+~
+0 0 42925
+D1
+~
+~
+0 0 42933
+S
+#42927
+Desert Boneyard~
+Bones litter the ground.  Some are of small animals and some are of
+humans.  A very large set of bones appears to be a full skeleton of an
+animal that has died of either starvation or perhaps the sheer heat.  
+~
+0 0 10
+D0
+~
+~
+0 0 42926
+D2
+~
+~
+0 0 42928
+D3
+~
+~
+0 0 42919
+S
+#42928
+Quicksand~
+The ground moves beneath your feet.  Sand shifts in an unnatural way. 
+The wind is blowing incredily fast.  Loud cracking sounds and softer
+scratching noises resound from below.  
+~
+0 0 10
+D3
+~
+~
+0 0 42916
+S
+#42929
+Walking the Sands~
+Piles of rock and small bushes dot the horizon.  Shrubs and cacti grow
+near.  Stone columns emerge from the sands.  The wind blows heavily from all
+directions.  Dust covers the air.  
+~
+0 0 10
+D0
+~
+~
+0 0 42928
+D1
+~
+~
+0 0 42952
+S
+#42930
+Mirage~
+Lush grass covers the hills.  Flowers of all sorts and colors grow tidy
+patches.  A small bubbling stream flows quietly.  Soft music plays
+melodicaly in the distances.  Perhaps its...  Wait.  Its just a MiRaGe!  
+~
+0 0 10
+D0
+~
+~
+0 0 42929
+D1
+~
+~
+0 0 42951
+D3
+~
+~
+0 0 42917
+S
+#42931
+Mirage~
+Lush grass covers the hills.  Flowers of all sorts and colors grow tidy
+patches.  A small bubbling stream flows quietly.  Soft music plays
+melodicaly in the distances.  Perhaps its...  Wait.  Its just a MiRaGe!  
+~
+0 0 10
+D2
+~
+~
+0 0 42935
+D3
+~
+~
+0 0 42923
+S
+#42932
+Dried up Pond~
+A small dried up pond lies ahead.  Cracks run along the entire pond bed. 
+Foot prints are frozen in the dried ground.  Tracks of animals, some fresh,
+have been left also.  
+~
+0 0 10
+D0
+~
+~
+0 0 42931
+D1
+~
+~
+0 0 42942
+D3
+~
+~
+0 0 42924
+S
+#42933
+Cactus Field~
+Many cacti grow in large clusters.  They differ in size and shape.  A few
+stand to a height of around thirty feet.  Some are almost ten feet around. 
+Tracks can be found near some of the cacti.  
+~
+0 0 10
+D1
+~
+~
+0 0 42944
+D2
+~
+~
+0 0 42934
+D3
+~
+~
+0 0 42926
+S
+#42934
+Mirage~
+Lush grass covers the hills.  Flowers of all sorts and colors grow tidy
+patches.  A small bubbling stream flows quietly.  Soft music plays
+melodicaly in the distances.  Perhaps its...  Wait.  Its just a MiRaGe!  
+~
+0 0 10
+D0
+~
+~
+0 0 42935
+D3
+~
+~
+0 0 42927
+S
+#42935
+Large Rock Outcropping ~
+A large rock outcropping emerges out of the ground.  It is very large and
+very high.  Strange symbols are carved into the rock.  Steps have been
+chiseled out that lead up onto the rock.  
+~
+0 0 10
+D0
+~
+~
+0 0 42932
+D1
+~
+~
+0 0 42943
+D2
+~
+~
+0 0 42933
+D3
+~
+~
+0 0 42925
+D4
+~
+~
+0 0 42936
+S
+#42936
+Up the Rock~
+The steps wind around the rock.  Wind blows hard against your ascent. 
+Miles of desert can be seen as you climb.  
+~
+0 0 5
+D4
+~
+~
+0 0 42937
+D5
+~
+~
+0 0 42935
+S
+#42937
+On the Plateau~
+The rock flattens into a plateau.  Red dust lifts into the air with the
+wind.  The desert floor can be seen in all directions with clear view.  To
+the north are mountains.  Badlands can be seen to the far south.  West
+appears to lead back toward the entrance and east leads deeper into the
+desert.  There is a large tent in the center of the plateau.  
+~
+0 0 5
+D5
+~
+~
+0 0 42936
+S
+#42938
+Inside the Tent~
+The tent is large and well made of a sturdy canvas.  Fur rugs cover the
+ground.  There is a small wooden table by the far wall with two chairs pull
+up to it.  Charms and decorations hang from the ceiling of the tent.  
+~
+0 0 0
+D1
+~
+~
+0 0 42945
+D3
+~
+~
+0 0 42937
+S
+#42939
+Mountain Border~
+Mountains border the desert to the north.  There is no passage into the
+moutains available.  Dust hangs in the air from the constant wind.  All
+directions but north lead back into the desert.  
+~
+0 0 10
+D1
+~
+~
+0 0 42963
+D2
+~
+~
+0 0 42940
+D3
+~
+~
+0 0 42921
+S
+#42940
+Quicksand~
+The ground moves beneath your feet.  Sand shifts in an unnatural way. 
+The wind is blowing incredily fast.  Loud cracking sounds and softer
+scratching noises resound from below.  
+~
+0 0 10
+D1
+~
+~
+0 0 42953
+D2
+~
+~
+0 0 42941
+D3
+~
+~
+0 0 42922
+S
+#42941
+The Sands Continue~
+The sands continues with no end in sight.  Flat land lies ahead in all
+directions.  Zig-zaged tracks have been left in the sand.  A small cactus
+grows near by.  
+~
+0 0 10
+D0
+~
+~
+0 0 42940
+D1
+~
+~
+0 0 42953
+D2
+~
+~
+0 0 42942
+S
+#42942
+Walking the Sands~
+Piles of rock and small bushes dot the horizon.  Shrubs and cacti grow
+near.  Stone columns emerge from the sands.  The wind blows heavily from all
+directions.  Dust covers the air.  
+~
+0 0 10
+D0
+~
+~
+0 0 42941
+D1
+~
+~
+0 0 42954
+D2
+~
+~
+0 0 42943
+D3
+~
+~
+0 0 42932
+S
+#42943
+Quicksand~
+The ground moves beneath your feet.  Sand shifts in an unnatural way. 
+The wind is blowing incredily fast.  Loud cracking sounds and softer
+scratching noises resound from below.  
+~
+0 0 10
+D0
+~
+~
+0 0 42942
+D1
+~
+~
+0 0 42955
+D2
+~
+~
+0 0 42944
+S
+#42944
+Abandoned Campsite~
+Bolders are spread out in a circle on the sand.  It appears to be an old
+campsite of some sort.  A broken down wagon is half buried in the sand. 
+Various pieces of wood and cloths are scattered among the sand.  
+~
+0 0 10
+D0
+~
+~
+0 0 42943
+D1
+~
+~
+0 0 42956
+D2
+~
+~
+0 0 42950
+D3
+~
+~
+0 0 42933
+S
+#42945
+Inside the Tent~
+The tent is large and well made of a sturdy canvas.  Fur rugs cover the
+ground.  There is a small wooden table by the far wall with two chairs pull
+up to it.  Charms and decorations hang from the ceiling of the tent.  
+~
+0 0 0
+D3
+~
+~
+0 0 42938
+M 500 H 500
+S
+#42946
+The Sands Continue~
+The sands continues with no end in sight.  Flat land lies ahead in all
+directions.  Zig-zaged tracks have been left in the sand.  A small cactus
+grows near by.  
+~
+0 0 10
+D0
+~
+~
+0 0 42939
+D1
+~
+~
+0 0 42978
+D2
+~
+~
+0 0 42930
+D3
+~
+~
+0 0 42909
+S
+#42950
+Walking the Sands~
+Piles of rock and small bushes dot the horizon.  Shrubs and cacti grow
+near.  Stone columns emerge from the sands.  The wind blows heavily from all
+directions.  Dust covers the air.  
+~
+0 0 10
+D0
+~
+~
+0 0 42944
+D1
+~
+~
+0 0 42957
+D2
+~
+~
+0 0 42951
+S
+#42951
+Quicksand~
+The ground moves beneath your feet.  Sand shifts in an unnatural way. 
+The wind is blowing incredily fast.  Loud cracking sounds and softer
+scratching noises resound from below.  
+~
+0 0 10
+D0
+~
+~
+0 0 42950
+D1
+~
+~
+0 0 42957
+D3
+~
+~
+0 0 42928
+S
+#42952
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42951
+D1
+~
+~
+0 0 42967
+D3
+~
+~
+0 0 42929
+S
+#42953
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D2
+~
+~
+0 0 42954
+D3
+~
+~
+0 0 42941
+S
+#42954
+Desert Boneyard~
+Bones litter the ground.  Some are of small animals and some are of
+humans.  A very large set of bones appears to be a full skeleton of an
+animal that has died of either starvation or perhaps the sheer heat.  
+~
+0 0 10
+D0
+~
+~
+0 0 42953
+D2
+~
+~
+0 0 42943
+D3
+~
+~
+0 0 42942
+S
+#42955
+Dried up Pond~
+A small dried up pond lies ahead.  Cracks run along the entire pond bed. 
+Foot prints are frozen in the dried ground.  Tracks of animals, some fresh,
+have been left also.  
+~
+0 0 10
+D1
+~
+~
+0 0 42960
+D3
+~
+~
+0 0 42943
+S
+#42956
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42943
+D2
+~
+~
+0 0 42957
+D3
+~
+~
+0 0 42944
+S
+#42957
+Quicksand~
+The ground moves beneath your feet.  Sand shifts in an unnatural way. 
+The wind is blowing incredily fast.  Loud cracking sounds and softer
+scratching noises resound from below.  
+~
+0 0 10
+D0
+~
+~
+0 0 42956
+D3
+~
+~
+0 0 42950
+S
+#42958
+Walking the Sands~
+Piles of rock and small bushes dot the horizon.  Shrubs and cacti grow
+near.  Stone columns emerge from the sands.  The wind blows heavily from all
+directions.  Dust covers the air.  
+~
+0 0 10
+D0
+~
+~
+0 0 42940
+D1
+~
+~
+0 0 42964
+D2
+~
+~
+0 0 42959
+D3
+~
+~
+0 0 42953
+S
+#42959
+Abandoned Campsite~
+Bolders are spread out in a circle on the sand.  It appears to be an old
+campsite of some sort.  A broken down wagon is half buried in the sand. 
+Various pieces of wood and cloths are scattered among the sand.  
+~
+0 0 10
+D0
+~
+~
+0 0 42958
+D1
+~
+~
+0 0 42946
+D2
+~
+~
+0 0 42960
+D3
+~
+~
+0 0 42954
+S
+#42960
+The Sands Continue~
+The sands continues with no end in sight.  Flat land lies ahead in all
+directions.  Zig-zaged tracks have been left in the sand.  A small cactus
+grows near by.  
+~
+0 0 10
+D0
+~
+~
+0 0 42959
+D1
+~
+~
+0 0 42965
+D2
+~
+~
+0 0 42961
+D3
+~
+~
+0 0 42955
+S
+#42961
+Cactus Field~
+Many cacti grow in large clusters.  They differ in size and shape.  A few
+stand to a height of around thirty feet.  Some are almost ten feet around. 
+Tracks can be found near some of the cacti.  
+~
+0 0 10
+D0
+~
+~
+0 0 42960
+D2
+~
+~
+0 0 42962
+D3
+~
+~
+0 0 42956
+S
+#42962
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42961
+D1
+~
+~
+0 0 42966
+D2
+~
+~
+0 0 42951
+D3
+~
+~
+0 0 42957
+S
+#42963
+Mountain Border~
+Mountains border the desert to the north.  There is no passage into the
+moutains available.  Dust hangs in the air from the constant wind.  All
+directions but north lead back into the desert.  
+~
+0 0 10
+D1
+~
+~
+0 0 42968
+D2
+~
+~
+0 0 42964
+D3
+~
+~
+0 0 42939
+S
+#42964
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42963
+D2
+~
+~
+0 0 42965
+D3
+~
+~
+0 0 42958
+S
+#42965
+Oasis~
+There is a clear pond surrounded by trees.  Large palm trees provide
+gracious amounts of shade.  It is noticeably cooler near the pond.  Lush
+green grass grows and the wind blows in to create a nice cooling current.  
+~
+0 0 2
+D0
+~
+~
+0 0 42964
+D2
+~
+~
+0 0 42966
+D3
+~
+~
+0 0 42960
+S
+#42966
+Desert Boneyard~
+Bones litter the ground.  Some are of small animals and some are of
+humans.  A very large set of bones appears to be a full skeleton of an
+animal that has died of either starvation or perhaps the sheer heat.  
+~
+0 0 10
+D0
+~
+~
+0 0 42965
+D2
+~
+~
+0 0 42967
+D3
+~
+~
+0 0 42962
+S
+#42967
+Dried up Pond~
+A small dried up pond lies ahead.  Cracks run along the entire pond bed. 
+Foot prints are frozen in the dried ground.  Tracks of animals, some fresh,
+have been left also.  
+~
+0 0 10
+D0
+~
+~
+0 0 42966
+D1
+~
+~
+0 0 42974
+D3
+~
+~
+0 0 42952
+S
+#42968
+Mountain Border~
+Mountains border the desert to the north.  There is no passage into the
+moutains available.  Dust hangs in the air from the constant wind.  All
+directions but north lead back into the desert.  
+~
+0 0 10
+D1
+~
+~
+0 0 42975
+D2
+~
+~
+0 0 42969
+D3
+~
+~
+0 0 42963
+S
+#42969
+Quicksand~
+The ground moves beneath your feet.  Sand shifts in an unnatural way. 
+The wind is blowing incredily fast.  Loud cracking sounds and softer
+scratching noises resound from below.  
+~
+0 0 10
+D0
+~
+~
+0 0 42968
+D1
+~
+~
+0 0 42976
+D2
+~
+~
+0 0 42970
+D3
+~
+~
+0 0 42964
+S
+#42970
+Desert Boneyard~
+Bones litter the ground.  Some are of small animals and some are of
+humans.  A very large set of bones appears to be a full skeleton of an
+animal that has died of either starvation or perhaps the sheer heat.  
+~
+0 0 10
+D0
+~
+~
+0 0 42982
+D1
+~
+~
+0 0 42977
+D2
+~
+~
+0 0 42971
+D3
+~
+~
+0 0 42959
+S
+#42971
+Mirage~
+Lush grass covers the hills.  Flowers of all sorts and colors grow tidy
+patches.  A small bubbling stream flows quietly.  Soft music plays
+melodicaly in the distances.  Perhaps its...  Wait.  Its just a MiRaGe!  
+~
+0 0 10
+D1
+~
+~
+0 0 42978
+D2
+~
+~
+0 0 42972
+D3
+~
+~
+0 0 42965
+S
+#42972
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42971
+D1
+~
+~
+0 0 42979
+D2
+~
+~
+0 0 42973
+D3
+~
+~
+0 0 42961
+S
+#42973
+Walking the Sands~
+Piles of rock and small bushes dot the horizon.  Shrubs and cacti grow
+near.  Stone columns emerge from the sands.  The wind blows heavily from all
+directions.  Dust covers the air.  
+~
+0 0 10
+D0
+~
+~
+0 0 42972
+D1
+~
+~
+0 0 42980
+D2
+~
+~
+0 0 42974
+D3
+~
+~
+0 0 42966
+S
+#42974
+Cactus Field~
+Many cacti grow in large clusters.  They differ in size and shape.  A few
+stand to a height of around thirty feet.  Some are almost ten feet around. 
+Tracks can be found near some of the cacti.  
+~
+0 0 10
+D0
+~
+~
+0 0 42973
+D1
+~
+~
+0 0 42981
+D3
+~
+~
+0 0 42967
+S
+#42975
+Mountain Border~
+Mountains border the desert to the north.  There is no passage into the
+moutains available.  Dust hangs in the air from the constant wind.  All
+directions but north lead back into the desert.  
+~
+0 0 10
+D2
+~
+~
+0 0 42976
+D3
+~
+~
+0 0 42968
+S
+#42976
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42975
+D2
+~
+~
+0 0 42977
+D3
+~
+~
+0 0 42969
+S
+#42977
+Dried up Pond~
+A small dried up pond lies ahead.  Cracks run along the entire pond bed. 
+Foot prints are frozen in the dried ground.  Tracks of animals, some fresh,
+have been left also.  
+~
+0 0 10
+D0
+~
+~
+0 0 42976
+D2
+~
+~
+0 0 42978
+D3
+~
+~
+0 0 42970
+S
+#42978
+The Sands Continue~
+The sands continues with no end in sight.  Flat land lies ahead in all
+directions.  Zig-zaged tracks have been left in the sand.  A small cactus
+grows near by.  
+~
+0 0 10
+D0
+~
+~
+0 0 42977
+D2
+~
+~
+0 0 42979
+D3
+~
+~
+0 0 42971
+S
+#42979
+Walking the Sands~
+Piles of rock and small bushes dot the horizon.  Shrubs and cacti grow
+near.  Stone columns emerge from the sands.  The wind blows heavily from all
+directions.  Dust covers the air.  
+~
+0 0 10
+D0
+~
+~
+0 0 42978
+D2
+~
+~
+0 0 42980
+D3
+~
+~
+0 0 42972
+S
+#42980
+In the Desert~
+The wind seems to blow from all directions.  Sand overwhelms the
+landscape.  Dunes have been formed in random locations.  There appears to be
+no trace of any tracks or paths, including your own.  Silhouettes of trees
+and hills can be seen in the distance.  
+~
+0 0 10
+D0
+~
+~
+0 0 42979
+D2
+~
+~
+0 0 42989
+D3
+~
+~
+0 0 42973
+S
+#42981
+Abandoned Campsite~
+Bolders are spread out in a circle on the sand.  It appears to be an old
+campsite of some sort.  A broken down wagon is half buried in the sand. 
+Various pieces of wood and cloths are scattered among the sand.  
+~
+0 0 10
+D0
+~
+~
+0 0 42980
+D3
+~
+~
+0 0 42974
+S
+#42982
+Into the Mountains~
+The sand is starting to recede into rocks.  Both are a blood red color. 
+The mountains of the north loom ahead.  A small path is cut into the
+mountain.  Scratches have been made in the side of the rock.  They read. 
+Proceed with extreme caution.  
+~
+0 0 0
+D0
+~
+~
+0 0 42983
+D2
+~
+~
+0 0 42953
+S
+#42983
+Up the Mountain~
+There is no loose rocks on the path.  Steep cliffs await on each side. 
+The trail is around eight feet wide and very perilous.  A set of tracks lead
+into the mountain.  They look to be tracks of a large humanoid.  
+~
+0 512 5
+D2
+~
+~
+0 0 42982
+D3
+~
+~
+0 0 42984
+S
+#42984
+Up the Mountain~
+There is no loose rocks on the path.  Steep cliffs await on each side. 
+The trail is around eight feet wide and very perilous.  A set of tracks lead
+into the mountain.  They look to be tracks of a large humanoid.  
+~
+0 512 5
+D1
+~
+~
+0 0 42983
+D3
+~
+~
+0 0 42985
+S
+#42985
+Up the Mountain~
+There is no loose rocks on the path.  Steep cliffs await on each side. 
+The trail is around eight feet wide and very perilous.  A set of tracks lead
+into the mountain.  They look to be tracks of a large humanoid.  
+~
+0 512 5
+D0
+~
+~
+0 0 42986
+D1
+~
+~
+0 0 42984
+S
+#42986
+Up the Mountain~
+There is no loose rocks on the path.  Steep cliffs await on each side. 
+The trail is around eight feet wide and very perilous.  A set of tracks lead
+into the mountain.  They look to be tracks of a large humanoid.  
+~
+0 512 5
+D2
+~
+~
+0 0 42985
+D3
+~
+~
+0 0 42987
+S
+#42987
+Approaching the Lair~
+Darkness covers the cave like perpetual night.  Loose rocks are scattered
+along the ground here and there.  Decaying remains of a fellow adventurer is
+propped up against the wall.  The cave seems to continue to the east.  
+~
+0 9 0
+D1
+~
+~
+0 0 42986
+D3
+~
+~
+0 0 42988
+S
+#42988
+The Lair~
+The room is very large.  A fire pit is in the middle of the cave.  Two
+piles of grass are gathered near the fire.  Bones are piled in a large stack
+in the corner.  Rancid odors of rotten flesh saturate the air.  
+~
+0 8 0
+D1
+~
+~
+0 0 42987
+S
+#42989
+Desert Border~
+Small, sickly looking trees grow here spread out along the border of the
+desert.  The grass is dear or dying.  Storm clouds cover the sky to the
+south making it look very dark and inhospitable.  
+~
+0 0 10
+D0
+~
+~
+0 0 42957
+D3
+~
+~
+0 0 42990
+S
+#42990
+Desert Border~
+Small, sickly looking trees grow here spread out along the border of the
+desert.  The grass is dear or dying.  Storm clouds cover the sky to the
+south making it look very dark and inhospitable.  
+~
+0 0 10
+D1
+~
+~
+0 0 42989
+D3
+~
+~
+0 0 42991
+S
+#42991
+Desert Border~
+Small, sickly looking trees grow here spread out along the border of the
+desert.  The grass is dear or dying.  Storm clouds cover the sky to the
+south making it look very dark and inhospitable.  
+~
+0 0 10
+D1
+~
+~
+0 0 42990
+S
+#42992
+Top of the Cliff~
+Winds rush up the face of the cliff that drops off about 200 feet to the
+canyon floor below.  Dust and bits of dead plants swirl around as the wind
+tosses them about.  Extremely dry ground stretches out to the east and
+north, while the canyon cuts a deep scar in the landscape to the south and
+west.  It appears as if hand and footholds have been chiseled into the cliff
+face and it might be possible to descend into the canyon.  
+~
+0 0 0
+D1
+~
+~
+0 0 42900
+D5
+~
+~
+0 0 42993
+S
+#42993
+On the Canyon Wall~
+Small handholds chiseled into the canyon wall make it possible to climb
+up and down the wall.  The howling wind tears across the cliff face,
+battering the few small plants that have found a foothold in a crack or on a
+small ledge.  The wind also threatens to throw anyone trying to climb the
+cliff to a certain death on the canyon floor below.  
+~
+0 0 0
+D4
+~
+~
+0 0 42992
+D5
+~
+~
+0 0 17683
+S
+#0
+
+
+
+#SPECIALS
+M 42902 spec_breath_gas Load to: {xa {YD{yeser{Yt D{yrago{Yn{x
+M 42907 spec_poison Load to: a {ySc{Ro{yrp{Ri{yon{x
+M 42909 spec_poison Load to: a {ySand {GViper{x
+M 42915 spec_cast_undead Load to: a {RL{Ma{Wm{Mi{Ra{x 
+S
+
+
+
+#RESETS
+O 0 42908 0 42900 *A warning sign loaded to Approaching the Desert
+M 0 42918 4 42901 1 *Load a {DS{yand Stor{Dm{x
+M 0 42907 4 42902 1 *Load a {ySc{Ro{yrp{Ri{yon{x
+G 0 42900 0 *{ysc{ro{yrp{ri{yon{rs s{yti{rn{yge{rr{x  is given to a {ySc{Ro{yrp{Ri{yon{x
+M 0 42909 5 42903 1 *Load a {ySand {GViper{x
+M 0 42916 5 42904 1 *Load a {RM{Dan{Rt{Dic{Ro{Dre{x
+M 0 42903 5 42905 1 *Load a {DDust {RDevil{x
+M 0 42913 15 42906 3 *Load a {DDust {BMe{Cph{Bit{x
+M 0 42902 5 42910 1 *Load {xa {YD{yeser{Yt D{yrago{Yn{x
+G 0 42907 0 *{yd{yragon'{ys {rf{ran{rg{x is given to {xa {YD{yeser{Yt D{yrago{Yn{x
+M 0 42911 4 42911 1 *Load a {yS{Dand {wW{cor{wm{x
+M 0 42908 5 42913 1 *Load a {GC{ga{Gc{ct{Gu{gs{x
+M 0 42914 4 42914 1 *Load a {DDust {WE{wlementa{Wl{x
+M 0 42904 5 42916 1 *Load a {CH{cyen{Ca{x
+M 0 42916 5 42917 1 *Load a {RM{Dan{Rt{Dic{Ro{Dre{x
+M 0 42912 5 42918 1 *Load a {DBasilis{Rk{x 
+G 0 42906 0 *{ceye {wof the {dbasilis{rk{x is given to a {DBasilis{Rk{x 
+M 0 42918 4 42919 1 *Load a {DS{yand Stor{Dm{x
+M 0 42915 3 42920 1 *Load a {RL{Ma{Wm{Mi{Ra{x 
+M 0 42905 7 42922 1 *Load a {DVul{wt{Dure{x
+M 0 42914 4 42923 1 *Load a {DDust {WE{wlementa{Wl{x
+M 0 42903 5 42925 1 *Load a {DDust {RDevil{x
+M 0 42909 5 42926 1 *Load a {ySand {GViper{x
+M 0 42902 5 42927 1 *Load {xa {YD{yeser{Yt D{yrago{Yn{x
+G 0 42907 0 *{yd{yragon'{ys {rf{ran{rg{x is given to {xa {YD{yeser{Yt D{yrago{Yn{x
+M 0 42905 7 42928 1 *Load a {DVul{wt{Dure{x
+M 0 42915 3 42929 1 *Load a {RL{Ma{Wm{Mi{Ra{x 
+M 0 42912 5 42930 1 *Load a {DBasilis{Rk{x 
+G 0 42906 0 *{ceye {wof the {dbasilis{rk{x is given to a {DBasilis{Rk{x 
+M 0 42916 5 42931 1 *Load a {RM{Dan{Rt{Dic{Ro{Dre{x
+M 0 42918 4 42931 1 *Load a {DS{yand Stor{Dm{x
+M 0 42906 3 42932 1 *Load a {YB{yulett{Ye{x
+M 0 42913 15 42933 3 *Load a {DDust {BMe{Cph{Bit{x
+M 0 42908 5 42933 1 *Load a {GC{ga{Gc{ct{Gu{gs{x
+M 0 42909 5 42934 1 *Load a {ySand {GViper{x
+M 0 42905 7 42935 1 *Load a {DVul{wt{Dure{x
+O 0 42909 0 42937 *{x loaded to On the Plateau
+M 0 42912 5 42939 1 *Load a {DBasilis{Rk{x 
+G 0 42906 0 *{ceye {wof the {dbasilis{rk{x is given to a {DBasilis{Rk{x 
+M 0 42909 5 42940 1 *Load a {ySand {GViper{x
+M 0 42916 5 42941 1 *Load a {RM{Dan{Rt{Dic{Ro{Dre{x
+M 0 42902 5 42942 1 *Load {xa {YD{yeser{Yt D{yrago{Yn{x
+G 0 42907 0 *{yd{yragon'{ys {rf{ran{rg{x is given to {xa {YD{yeser{Yt D{yrago{Yn{x
+M 0 42906 3 42943 1 *Load a {YB{yulett{Ye{x
+M 0 42911 4 42944 1 *Load a {yS{Dand {wW{cor{wm{x
+M 0 42919 1 42945 1 *Load the Hermit
+M 0 42910 1 42946 1 *Load a {ySand {DGolem{x
+G 0 42904 0 *{wgolem's {yessence{x is given to a {ySand {DGolem{x
+M 0 42907 4 42950 1 *Load a {ySc{Ro{yrp{Ri{yon{x
+G 0 42900 0 *{ysc{ro{yrp{ri{yon{rs s{yti{rn{yge{rr{x  is given to a {ySc{Ro{yrp{Ri{yon{x
+M 0 42904 5 42951 1 *Load a {CH{cyen{Ca{x
+M 0 42912 5 42952 1 *Load a {DBasilis{Rk{x 
+G 0 42906 0 *{ceye {wof the {dbasilis{rk{x is given to a {DBasilis{Rk{x 
+M 0 42904 5 42953 1 *Load a {CH{cyen{Ca{x
+M 0 42914 4 42954 1 *Load a {DDust {WE{wlementa{Wl{x
+M 0 42913 15 42955 3 *Load a {DDust {BMe{Cph{Bit{x
+M 0 42909 5 42956 1 *Load a {ySand {GViper{x
+M 0 42907 4 42957 1 *Load a {ySc{Ro{yrp{Ri{yon{x
+G 0 42900 0 *{ysc{ro{yrp{ri{yon{rs s{yti{rn{yge{rr{x  is given to a {ySc{Ro{yrp{Ri{yon{x
+M 0 42914 4 42958 1 *Load a {DDust {WE{wlementa{Wl{x
+M 0 42911 4 42959 1 *Load a {yS{Dand {wW{cor{wm{x
+M 0 42903 5 42960 1 *Load a {DDust {RDevil{x
+M 0 42904 5 42961 1 *Load a {CH{cyen{Ca{x
+M 0 42908 5 42961 1 *Load a {GC{ga{Gc{ct{Gu{gs{x
+M 0 42905 7 42962 1 *Load a {DVul{wt{Dure{x
+M 0 42915 3 42963 1 *Load a {RL{Ma{Wm{Mi{Ra{x 
+M 0 42907 4 42964 1 *Load a {ySc{Ro{yrp{Ri{yon{x
+G 0 42900 0 *{ysc{ro{yrp{ri{yon{rs s{yti{rn{yge{rr{x  is given to a {ySc{Ro{yrp{Ri{yon{x
+M 0 42905 7 42965 1 *Load a {DVul{wt{Dure{x
+M 0 42902 5 42966 1 *Load {xa {YD{yeser{Yt D{yrago{Yn{x
+G 0 42907 0 *{yd{yragon'{ys {rf{ran{rg{x is given to {xa {YD{yeser{Yt D{yrago{Yn{x
+M 0 42906 3 42967 1 *Load a {YB{yulett{Ye{x
+M 0 42905 7 42968 1 *Load a {DVul{wt{Dure{x
+M 0 42913 15 42970 3 *Load a {DDust {BMe{Cph{Bit{x
+M 0 42918 4 42971 1 *Load a {DS{yand Stor{Dm{x
+M 0 42911 4 42972 1 *Load a {yS{Dand {wW{cor{wm{x
+M 0 42905 7 42973 1 *Load a {DVul{wt{Dure{x
+M 0 42912 5 42974 1 *Load a {DBasilis{Rk{x 
+G 0 42906 0 *{ceye {wof the {dbasilis{rk{x is given to a {DBasilis{Rk{x 
+M 0 42908 5 42974 1 *Load a {GC{ga{Gc{ct{Gu{gs{x
+M 0 42902 5 42977 1 *Load {xa {YD{yeser{Yt D{yrago{Yn{x
+G 0 42907 0 *{yd{yragon'{ys {rf{ran{rg{x is given to {xa {YD{yeser{Yt D{yrago{Yn{x
+M 0 42904 5 42980 1 *Load a {CH{cyen{Ca{x
+M 0 42916 5 42982 1 *Load a {RM{Dan{Rt{Dic{Ro{Dre{x
+M 0 42900 1 42988 1 *Load {yM{Rordgur{x
+G 0 42902 0 *{ym{rordgur's {dhorn{x is given to {yM{Rordgur{x
+M 0 42901 1 42988 1 *Load {RG{yordmur{x
+G 0 42903 0 *{rg{yordmur's {dhorn{x is given to {RG{yordmur{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#42900
+rescue mordgur
+~
+#42901
+rescue gordmur
+~
+#42902
+cast charm $n
+~
+#42903
+mob flee
+mob purge $i
+~
+#42905
+bow $n
+say Welcome $n
+say I know of a secret.  Wish to hear of it?
+~
+#42906
+say There are two brothers that live in the mountains to the north.
+say The way can be confusing.. but if you happen to kill them...
+say Bring me thier horns and the Essence of the Golem, and I will
+say construct a piece of equipment for you...But be warned, the task
+sa will not be an easy one.. for the brothers protect one another, and 
+say the Golem hides well.. and is very strong indeed...
+tip
+say Good luck,  and by the way.. give me this list after you have given me
+say the parts and it shall be done.
+MOB OLOAD 42905
+drop list
+~
+#42907
+if carries $i 42904
+if carries $i 42903
+if carries $i 42902
+say Yes..   I believe i can do it....
+The hermit begins an incantation.
+mob oload 42901
+drop pain
+say The burden is too much for me to bear..The {RP{rai{Rn{x
+mob junk all
+else
+drop all
+say You have not gathered all of the parts.
+endif
+else
+drop all
+say You have not gathered all of the parts.
+endif
+else
+drop all
+say You have not gathered all of the parts.
+endif
+~
+#0
+
+#$

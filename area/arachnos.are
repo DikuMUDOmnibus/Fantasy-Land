@@ -1,0 +1,4883 @@
+#AOD_AREA
+Arachnos~
+6200 6399 0 8
+Levl 75 95
+Bldr Mahatma~
+Alig E
+End
+
+#MOBILES
+#6301
+oldstyle spider young~
+the young spider~
+The young spider is ballooning by you.
+~
+He looks freshly hatched and sprightly.  His young fangs are just
+growing in as of late.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+CG D 0 0 0
+29 0 0 63 70 102 117 1 6 1 none
+50 50 50 90
+STANDING STANDING female 5
+65 warrior medium ABCDEFGHIJK
+P 63 0
+
+#6302
+oldstyle dragon Yevaud~
+{RBoss {mYevaud{x~
+Yevaud the Usurper of Midgaard is here, grinning evilly at you.
+~
+Old, scaly, but still with a lot of bite in him left.
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+BCG DFJTc I -1000 0
+68 0 0 515 540 136 178 2 10 6 none
+-60 -60 -60 60
+STANDING STANDING male 500
+73 warrior medium ACDEFGHIJKPQUVX
+P 7 0
+
+#6303
+oldstyle spider wolf~
+{RBoss {mWolf Spider{X~
+The Wolf Spider is here, licking its bloody fangs.
+~
+The Wolf Spider is hairy, very hairy.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BF 0 0 -300 0
+31 0 0 74 85 107 124 1 7 1 none
+40 40 40 90
+STANDING STANDING female 62
+66 warrior medium ABCDEFGHIJK
+P 12 0
+
+#6304
+oldstyle orc~
+the orc~
+The orc is stuck in the web and he can't get out.
+~
+You notice an evil look in his eyes.
+~
+orc~
+100 100 100 100 50 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+B JVc 0 -400 0
+29 0 0 63 71 104 117 1 6 1 none
+50 50 50 90
+STANDING STANDING male 5
+65 warrior medium ABCDEFGHIJK
+P 5 0
+
+#6305
+oldstyle wasp queen~
+{RBoss {mQueen Wasp{x~
+The Queen Wasp is here, thinking that you would make a tasty offering
+to her master.
+~
+You notice a glazed look in her eyes.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BF 0 0 -800 0
+44 0 0 155 168 117 140 1 10 3 none
+0 0 0 80
+STANDING STANDING female 75
+68 warrior medium ABCDEFGHIJK
+P 11 0
+
+#6306
+oldstyle spider drone~
+the drone spider~
+The drone spider walks around doing her master's bidding.
+~
+An ordinary drone spider.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+CG 0 0 -300 0
+32 0 0 75 85 106 125 1 7 1 none
+40 40 40 90
+STANDING STANDING male 10
+66 warrior medium ABCDEFGHIJK
+P 12 0
+
+#6307
+oldstyle spider ethereal~
+the ethereal spider~
+The ethereal spider strides here, traveling to different worlds.
+~
+She winks in and out.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+CG 0 0 1000 0
+39 0 0 125 134 115 139 2 4 2 none
+10 10 10 80
+STANDING STANDING female 62
+67 warrior medium ABCDEFGHIJK
+P 17 0
+
+#6308
+oldstyle slave human~
+the slave of Arachnos~
+The slave works here relentlessly.
+~
+The slave does not mind you, but will fight like a warrior if attacked.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+CG 0 0 0 0
+36 0 0 100 109 109 132 1 7 2 none
+30 30 30 90
+STANDING STANDING male 25
+67 warrior medium ABCDEFGHIJK
+P 35 0
+
+#6309
+oldstyle quasit~
+the quasit~
+The quasit blinks in and out, grinning at you.
+~
+Demoniac in nature, but more mischievous.  He twiddles his thumbs
+and creates a magical treasure!
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+CH DP B 1000 0
+39 0 0 123 134 110 134 2 4 2 none
+10 10 10 80
+STANDING STANDING male 50
+67 ranger medium ABCDEFGHIJK
+P 6 0
+
+#6310
+Bird Spider~
+{mB{rird {cS{Dpider{x~
+{xThe {mB{rird {cS{Dpider{x snaps its powerful jaws.
+~
+The Bird Spider has very powerful jaws.
+~
+arachnid~
+115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100 
+BDEF JPQTVZc J -1000 0
+110 258 -50 9257 10953 9241 9929 30 30 220 none
+-491 -404 -337 -433
+STANDING STANDING female 5985
+69 sage medium 0
+E 300
+P 3 0
+
+#6311
+oldstyle hermit~
+the Hermit~
+The Hermit sits here and warns, "Go back before it's too late!"
+~
+A dishevelled veteran warrior in disguise is what he is, but he
+means well.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BC D 0 -400 0
+34 0 0 87 97 106 121 1 8 1 none
+40 40 40 90
+STANDING STANDING male 37
+66 warrior medium ABCDEFGHIJK
+P 4 0
+
+#6312
+oldstyle donjonkeeper~
+{RBoss {mDonjonKeeper{x~
+The Donjonkeeper eyes you and wonders how pure your soul is.
+~
+He delves deeper into you as you stare at him.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BC D 0 1000 0
+70 0 0 559 594 144 181 2 10 7 none
+-70 -70 -70 60
+STANDING STANDING male 300
+74 warrior medium ABCDEFGHIJK
+P 4 0
+
+#6313
+oldstyle guardian~
+The guardian~
+The guardian is obviously not doing his job.
+~
+He looks like a lazy bum who sleeps half the time.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+FG P 0 250 0
+54 0 0 264 280 131 152 3 4 4 none
+-30 -30 -30 70
+SLEEPING SLEEPING male 80
+70 warrior medium ABCDEFGHIJK
+P 3 0
+
+#6314
+Spider Empress Arachnos~
+{cA{Drachnos{x~
+{cA{Drachnos {xthe Empress of Spiders welcomes you with an evil smile.
+~
+She is a very attractive spider with an ornate gown.  She tempts you
+into being one of her many slaves.  She does not possess the venomous
+fangs of normal spiders, but then, as you realize, she does not need
+them.
+~
+arachnid~
+115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100 
+ABDEF DJPQVZc BJ -1000 0
+115 262 -50 9782 11014 10227 11371 36 28 269 none
+-356 -551 -375 -357
+STANDING STANDING female 5831
+70 lich huge 0
+E 300
+P 4 0
+
+#6315
+ki-rin kirin~
+{GK{gi{D-{GR{gin{x~
+The {GK{gi{D-{GR{gin{x smiles good-naturedly toward you.
+~
+She is the last bastion of good in this realm.  Her mission is to
+someday free the slaves of the Empress.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BC D 0 1000 0
+71 0 0 619 635 139 180 3 7 7 none
+-70 -70 -70 60
+STANDING STANDING female 750
+74 warrior medium ABCDEFGHIJK
+P 2 0
+
+#6316
+oldstyle dragon wormkin young~
+the young dragon wormkin~
+A wormkin with no teeth plays here.
+~
+Rather small, you almost feel sad in killing it.
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+B DFJTc I 1000 0
+19 0 0 126 134 116 134 2 4 2 none
+10 10 10 80
+STANDING STANDING male 50
+63 warrior medium ACDEFGHIJKPQUVX
+P 4 0
+
+#6317
+oldstyle dragon wormkin medium~
+the medium dragon wormkin~
+A wormkin that has grown a bit stares at you inquisitively.
+~
+A medium-sized dragon--seems it hasn't killed anything yet by itself.
+~
+dragon~
+100 50 50 150 100 100 50 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+B DFJTc I 100 0
+25 0 0 173 190 122 141 2 5 3 none
+-10 -10 -10 80
+STANDING STANDING male 250
+65 warrior medium ACDEFGHIJKPQUVX
+P 4 0
+
+#6318
+oldstyle spider poisonous~
+the huge, poisonous spider~
+A huge, poisonous spider is here.
+~
+This disgusting creature is at the size of a human crawling on all four.  It
+has eight hairy legs that gives it a tremendous speed on almost any surface and
+sharp poisonous fangs to paralyze or kill its prey.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BG 0 0 -350 0
+35 0 0 98 108 109 128 1 7 2 none
+30 30 30 90
+STANDING STANDING neutral 0
+67 warrior medium ABCDEFGHIJK
+
+#6319
+oldstyle queen spider~
+{RBoss {mQueen Spider{x~
+The huge, bulky Queen Spider is here.
+~
+This disgusting creature is at the size of a small elephant.  It has eight
+huge, hairy legs that would give it a tremendous speed on almost any surface
+if it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+BG D 0 -1000 0
+50 0 0 214 233 123 150 2 6 3 none
+-20 -20 -20 70
+STANDING STANDING female 0
+70 warrior medium ABCDEFGHIJK
+
+#6320
+no name~
+{RMiniBoss {mWolf Spider{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6321
+no name~
+{RMiniBoss {mWolf Spider{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6322
+no name~
+{RMiniBoss {mQueen Wasp{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6323
+no name~
+{RMiniBoss {mQueen Wasp{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6324
+no name~
+{RMiniBoss {mQueen Spider{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6325
+no name~
+{RMiniBoss {mQueen Spider{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6326
+no name~
+{RMiniBoss {mYevaud{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6327
+no name~
+{RMiniBoss {mYevaud{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6328
+Arachnos Guardian Spider~
+{cG{Duardian {Dof {cA{Drachnos{x~
+{xOne of the huge {cG{Duardians{x of {cA{Drachnos{x is here.{x
+~
+She is a very attractive spider with an ornate gown.  She tempts you
+into being one of her many slaves.  She does not possess the venomous
+fangs of normal spiders, but then, as you realize, she does not need
+them.
+~
+arachnid~
+115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100 
+ABDEF DJPQVZc BJ -1000 0
+110 322 -50 9649 10186 9731 10267 30 32 326 none
+-441 -418 -445 -350
+STANDING STANDING female 5446
+70 strider huge 0
+E 300
+
+#6329
+Arachnos Guardian Spider~
+{cG{Duardian {Dof {cA{Drachnos{x~
+{xOne of the huge {cG{Duardians{x of {cA{Drachnos{x is here.{x
+~
+She is a very attractive spider with an ornate gown.  She tempts you
+into being one of her many slaves.  She does not possess the venomous
+fangs of normal spiders, but then, as you realize, she does not need
+them.
+~
+arachnid~
+115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100 
+ABDEF DJPQVZc BJ -1000 0
+110 275 -50 8863 10705 8966 9904 31 32 247 none
+-387 -505 -526 -513
+STANDING STANDING female 6253
+70 rogue huge 0
+E 300
+
+#6330
+Arachnos Guardian Spider~
+{cG{Duardian {Dof {cA{Drachnos{x~
+{xOne of the huge {cG{Duardians{x of {cA{Drachnos{x is here.{x
+~
+She is a very attractive spider with an ornate gown.  She tempts you
+into being one of her many slaves.  She does not possess the venomous
+fangs of normal spiders, but then, as you realize, she does not need
+them.
+~
+arachnid~
+115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100 
+ABDEF DJPQVZc BJ -1000 0
+110 251 -50 9867 10715 9592 10681 34 33 272 none
+-406 -428 -343 -440
+STANDING STANDING female 6579
+70 priest huge 0
+E 300
+
+#6331
+Arachnos Guardian Spider~
+{cG{Duardian {Dof {cA{Drachnos{x~
+{xOne of the huge {cG{Duardians{x of {cA{Drachnos{x is here.{x
+~
+She is a very attractive spider with an ornate gown.  She tempts you
+into being one of her many slaves.  She does not possess the venomous
+fangs of normal spiders, but then, as you realize, she does not need
+them.
+~
+arachnid~
+115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100 
+ABDEF DJPQVZc BJ -1000 0
+110 247 -50 9319 10774 9624 10118 35 31 294 none
+-433 -377 -418 -341
+STANDING STANDING female 5876
+70 wiccan huge 0
+E 300
+
+#6332
+no name~
+{cArachnid Traveler{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6333
+no name~
+{YUnique {mMahatma{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6334
+no name~
+{RMiniBoss{m Donjonkeeper{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6335
+no name~
+{RMiniBoss{m Donjonkeeper{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6336
+Ki-Rin Warrior~
+{GK{gi{D-{GR{gin {DW{warrior{x~
+One of the {GK{gi{D-{GR{gin {DW{warrior's {xstands ready.
+~
+The Bird Spider has very powerful jaws.
+~
+arachnid~
+115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100 
+BDEF JPQTVZc J -1000 0
+100 268 -50 8974 9892 8774 9332 30 27 225 none
+-472 -491 -371 -468
+STANDING STANDING female 4646
+69 rogue medium 0
+E 300
+
+#6337
+Ki-Rin Warrior~
+{GK{gi{D-{GR{gin {DW{warrior{x~
+One of the {GK{gi{D-{GR{gin {DW{warrior's {xstands ready.
+~
+The Bird Spider has very powerful jaws.
+~
+arachnid~
+115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100 
+BDEF JPQTVZc J -1000 0
+100 268 -50 8974 9892 8774 9332 30 27 225 none
+-472 -491 -371 -468
+STANDING STANDING female 4646
+69 hunter medium 0
+E 300
+
+#6338
+Bird Spider~
+{mB{rird {cS{Dpider {yY{Doung{x~
+{xOne of the {mB{rird {cS{Dpiders {yY{Doung{x snaps its powerful jaws.
+~
+The Bird Spider has very powerful jaws.
+~
+arachnid~
+115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100 
+BDEF JPQTVZc J -1000 0
+100 268 -50 8974 9892 8774 9332 30 27 225 none
+-472 -491 -371 -468
+STANDING STANDING female 4646
+69 rogue medium 0
+E 300
+P 1 0
+
+#6339
+Bird Spider~
+{mB{rird {cS{Dpider {yY{Doung{x~
+{xOne of the {mB{rird {cS{Dpiders {yY{Doung{x snaps its powerful jaws.
+~
+The Bird Spider has very powerful jaws.
+~
+arachnid~
+115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100 
+BDEF JPQTVZc J -1000 0
+100 268 0 8974 9892 8774 9332 30 27 225 none
+-472 -491 -371 -468
+STANDING STANDING female 4646
+69 gladiator medium 0
+E 300
+P 1 0
+
+#6340
+no name~
+{cWolf Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6341
+no name~
+{cWolf Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6342
+no name~
+{cWolf Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6343
+no name~
+{cWolf Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6344
+no name~
+{cWolf Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6345
+no name~
+{cQueen Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6346
+no name~
+{cQueen Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6347
+no name~
+{cQueen Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6348
+no name~
+{cQueen Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6349
+no name~
+{cQueen Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6350
+no name~
+{cQueen Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6351
+no name~
+{cQueen Wasp Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6352
+no name~
+{cQueen Wasp Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6353
+no name~
+{cQueen Wasp Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6354
+no name~
+{cQueen Wasp Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6355
+no name~
+{cQueen Wasp Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6356
+no name~
+{cYevaud Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6357
+no name~
+{cYevaud Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6358
+no name~
+{cYevaud Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6359
+no name~
+{cYevaud Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6360
+no name~
+{cYevaud Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6361
+no name~
+{cBird Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6362
+no name~
+{cBird Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6363
+no name~
+{cBird Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6364
+no name~
+{cBird Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6365
+no name~
+{cBird Spider Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6366
+no name~
+{cDonjonKeeper Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6367
+no name~
+{cDonjonKeeper Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6368
+no name~
+{cDonjonKeeper Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6369
+no name~
+{cDonjonKeeper Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6370
+no name~
+{cDonjonKeeper Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6371
+no name~
+{cKi-Rin Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6372
+no name~
+{cKi-Rin Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6373
+no name~
+{cKi-Rin Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6374
+no name~
+{cKi-Rin Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6375
+no name~
+{cKi-Rin Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6376
+Arachnos Warrior~
+{cArachnos Trash mob{x~
+(no long description)
+~
+~
+arachnid~
+115 115 100 50 1 100 130 20 100 100 110 100 100 50 50 100 100 115 1 100 115 50 130 50 20 100 
+0 JPQVZc J -1000 0
+90 195 -45 5813 6831 6292 6894 22 17 177 none
+-257 -276 -331 -302
+STANDING STANDING neutral 3084
+45 gladiator medium 0
+
+#6377
+no name~
+{cArachnos Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6378
+no name~
+{cArachnos Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6379
+no name~
+{cArachnos Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6380
+no name~
+{cArachnos Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6381
+no name~
+{cArachnos Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6382
+no name~
+{cArachnos Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6383
+no name~
+{cArachnos Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6384
+no name~
+{cArachnos Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+
+#6385
+trash mob~
+{cArachnos Trash mob{x~
+(no long description)
+~
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 none
+0 0 0 0
+STANDING STANDING neutral 0
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#6300
+Arachnos Exoskeleton~
+{cA{Drachnos's {cE{Dxoskeleton{x~
+{cA{Drachnos's {xexoskeleton of a torso lies disgarded here.{x~
+armor FJLQV AD
+30 30 30 30 0
+90 5 9000
+A 1 2
+A 20 -1
+A 13 250
+A 12 50
+A 18 25
+A 19 25
+A 2 2
+
+#6301
+Arachnos Exoskeleton~
+{cA{Drachnos's {cE{Dxoskeleton{x~
+{cA{Drachnos's {xexoskeleton of legs lies disgarded here.{x~
+armor FJLQV AF
+30 30 30 30 0
+90 5 9000
+F A 18 0 P
+A 12 50
+A 19 30
+A 18 5
+A 20 -1
+A 2 1
+A 13 200
+
+#6302
+Arachnos Extention~
+{cA{Drachnos's {cE{Dxtention{x~
+An extention of {cA{Drachnos{x lies here ready to wield.{x~
+weapon FJLQV AN
+dagger 11 16 acid DLM
+90 5 9000
+A 13 150
+A 19 30
+A 20 -2
+A 2 2
+
+#6303
+arachnos headdress~
+{cA{Drachnos's {cH{Deaddress{x~
+A white cone-shaped head ornament with religious symbols lies here.~
+armor FJLQV AE
+30 30 30 30 0
+90 5 9000
+A 13 200
+A 12 200
+A 18 20
+A 19 20
+A 20 -1
+A 1 2
+A 3 2
+
+#6304
+Arachnos Fangs~
+{cA{Drachnos's {cF{Dangs{x~
+{cA{Drachnos's {xmissing fangs lie here.{x~
+armor FJLQV AR
+30 30 30 30 0
+90 50 9000
+A 1 1
+A 5 2
+A 4 1
+A 18 25
+A 19 25
+A 13 200
+A 12 100
+A 20 -1
+
+#6305
+Arachnos Extention~
+{cA{Drachnos's {cE{Dxtention{x~
+An extention of {cA{Drachnos{x lies here ready to wield.{x~
+weapon FJLQV AN
+mace 11 16 acid DLM
+90 5 9000
+A 2 2
+A 20 -2
+A 19 30
+A 13 150
+
+#6306
+Arachnos Extention~
+{cA{Drachnos's {cE{Dxtention{x~
+An extention of {cA{Drachnos{x lies here ready to wield.{x~
+weapon FJLQV AN
+quarterstaff 11 16 acid DLM
+90 5 9000
+A 12 200
+A 18 50
+A 20 -2
+A 3 2
+A 4 2
+
+#6307
+Arachnos Extention~
+{cA{Drachnos's {cE{Dxtention{x~
+An extention of {cA{Drachnos{x lies here ready to wield.{x~
+weapon FJLQV AN
+sword 12 14 acid DLM
+90 5 9000
+A 4 2
+A 18 50
+A 20 -1
+A 3 1
+A 4 1
+A 18 10
+A 19 10
+A 12 100
+
+#6308
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AU
+30 30 30 30 0
+90 5 9000
+A 2 2
+A 19 25
+A 18 25
+A 12 50
+A 13 250
+A 20 -1
+A 1 2
+
+#6309
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AU
+30 30 30 30 0
+90 5 9000
+A 12 250
+A 13 50
+A 20 -2
+A 3 2
+A 4 2
+A 18 10
+A 19 10
+
+#6310
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AU
+30 30 30 30 0
+90 5 9000
+A 13 150
+A 12 150
+A 18 18
+A 19 18
+A 20 -1
+A 5 1
+A 1 1
+A 3 1
+A 4 1
+A 2 1
+
+#6311
+Guardian Extention~
+{cG{Duardian {cE{Dxtention{x~
+An extention of the {cG{Duardian{x lies here ready to wield.{x]~
+weapon FJLQV AN
+spear 11 15 acid DLM
+90 5 9000
+A 4 2
+A 3 2
+A 20 -2
+A 18 50
+A 12 200
+
+#6312
+Guardian Extention~
+{cG{Duardian {cE{Dxtention{x~
+An extention of the {cG{Duardian{x lies here ready to wield.{x]~
+weapon FJLQV AN
+flail 11 15 acid DLM
+90 5 9000
+A 12 200
+A 18 50
+A 20 -2
+A 3 2
+A 4 2
+
+#6313
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AM
+30 30 30 30 0
+90 5 9000
+A 1 2
+A 20 -1
+A 13 250
+A 12 50
+A 18 25
+A 19 25
+A 2 2
+
+#6314
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AM
+30 30 30 30 0
+90 5 9000
+A 19 10
+A 18 10
+A 4 2
+A 3 2
+A 20 -2
+A 13 50
+A 12 250
+
+#6315
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AM
+30 30 30 30 0
+90 5 9000
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 5 1
+A 20 -1
+A 19 18
+A 18 18
+A 12 150
+A 13 150
+
+#6316
+Guardian Extention~
+{cG{Duardian {cE{Dxtention{x~
+An extention of the {cG{Duardian{x lies here ready to wield.{x]~
+weapon FJLQV AN
+whip 11 15 acid DLM
+90 5 9000
+A 13 100
+A 12 100
+A 20 -1
+A 3 1
+A 5 1
+A 4 1
+A 18 15
+A 19 15
+
+#6317
+Guardian Extention~
+{cG{Duardian {cE{Dxtention{x~
+An extention of the {cG{Duardian{x lies here ready to wield.{x]~
+weapon FJLQV AN
+mace 11 15 acid DLM
+90 5 9000
+A 19 15
+A 18 15
+A 4 1
+A 5 1
+A 3 1
+A 20 -1
+A 12 100
+A 13 100
+
+#6318
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AC
+30 30 30 30 0
+90 5 9000
+A 1 2
+A 20 -1
+A 13 250
+A 12 50
+A 18 25
+A 19 25
+A 2 2
+
+#6319
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AC
+30 30 30 30 0
+90 5 9000
+A 19 10
+A 18 10
+A 4 2
+A 3 2
+A 20 -2
+A 13 50
+A 12 250
+
+#6320
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AC
+30 30 30 30 0
+90 5 9000
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 5 1
+A 20 -1
+A 19 18
+A 18 18
+A 12 150
+A 13 150
+
+#6321
+Guardian Extention~
+{cG{Duardian {cE{Dxtention{x~
+An extention of the {cG{Duardian{x lies here ready to wield.{x]~
+weapon FJLQV AN
+axe 11 15 acid DLM
+90 5 9000
+A 1 2
+A 20 -2
+A 18 5
+A 19 25
+A 13 200
+
+#6322
+Guardian Extention~
+{cG{Duardian {cE{Dxtention{x~
+An extention of the {cG{Duardian{x lies here ready to wield.{x]~
+weapon FJLQV AN
+sword 11 15 acid DLM
+90 5 9000
+A 13 200
+A 19 25
+A 18 5
+A 20 -2
+A 1 2
+
+#6323
+Guardian Extention~
+{cG{Duardian {cE{Dxtention{x~
+An extention of the {cG{Duardian{x lies here ready to wield.{x]~
+weapon FJLQV AN
+dagger 13 13 acid DLM
+90 5 9000
+A 18 10
+A 20 -1
+A 1 1
+A 2 1
+A 19 25
+A 13 200
+
+#6324
+Guardian Extention~
+{cG{Duardian {cE{Dxtention{x~
+An extention of the {cG{Duardian{x lies here ready to wield.{x]~
+weapon FJLQV AN
+polearm 13 13 acid DLM
+90 5 9000
+A 13 200
+A 19 25
+A 2 1
+A 1 1
+A 20 -1
+A 18 10
+
+#6325
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AS
+30 30 30 30 0
+90 5 9000
+A 1 2
+A 20 -1
+A 13 250
+A 12 50
+A 18 25
+A 19 25
+A 2 2
+
+#6326
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AS
+30 30 30 30 0
+90 5 9000
+A 19 10
+A 18 10
+A 4 2
+A 3 2
+A 20 -2
+A 13 50
+A 12 250
+
+#6327
+Guardian Shackles~
+{cG{Duardian {cS{Dhackles{x~
+Shackles lie here keeping the guardian contained.{x~
+armor FJLQV AS
+30 30 30 30 0
+90 5 9000
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 5 1
+A 20 -1
+A 19 18
+A 18 18
+A 12 150
+A 13 150
+
+#6328
+Spider Silk Cloak~
+{cS{Dpider {mS{rilk {cC{Dloak{x~
+A mass of {cs{Dpider {ms{rilk{x is piled up here.{x~
+armor FJLQV AK
+30 30 30 30 0
+90 5 9000
+A 1 2
+A 20 -1
+A 13 250
+A 12 50
+A 18 25
+A 19 25
+A 2 2
+
+#6329
+Spider Silk Cloak~
+{cS{Dpider {mS{rilk {cC{Dloak{x~
+A mass of {cs{Dpider {ms{rilk{x is piled up here.{x~
+armor FJLQV AK
+30 30 30 30 0
+90 5 9000
+A 19 10
+A 18 10
+A 4 2
+A 3 2
+A 20 -2
+A 13 50
+A 12 250
+
+#6330
+Spider Silk Cloak~
+{cS{Dpider {mS{rilk {cC{Dloak{x~
+A mass of {cs{Dpider {ms{rilk{x is piled up here.{x~
+armor FJLQV AK
+30 30 30 30 0
+90 5 9000
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 5 1
+A 20 -1
+A 19 18
+A 18 18
+A 12 150
+A 13 150
+
+#6331
+Bird Spider Jaws~
+{mB{rird {cS{Dpider {bJ{waws{x~
+Some massive jaws lie here.{x~
+weapon FJLQV AN
+sword 11 15 phobia CDJO
+90 5 9000
+A 1 2
+A 20 -2
+A 18 5
+A 19 25
+A 13 200
+
+#6332
+Bird Spider Jaws~
+{mB{rird {cS{Dpider {bJ{waws{x~
+Some massive jaws lie here.{x~
+weapon FJLQV AN
+dagger 11 15 phobia CDJO
+90 5 9000
+A 13 200
+A 19 25
+A 18 5
+A 20 -2
+A 1 2
+
+#6333
+Guardian Shackles~
+{cS{Dpider {mS{rilk {cB{Doots{x~
+A mass of silk lies here.~
+armor FJLQV AG
+30 30 30 30 0
+90 5 9000
+A 1 2
+A 20 -1
+A 13 250
+A 12 50
+A 18 25
+A 19 25
+A 2 2
+
+#6334
+Guardian Shackles~
+{cS{Dpider {mS{rilk {cB{Doots{x~
+A mass of silk lies here.~
+armor FJLQV AG
+30 30 30 30 0
+90 5 9000
+A 19 10
+A 18 10
+A 4 2
+A 3 2
+A 20 -2
+A 13 50
+A 12 250
+
+#6335
+Spider Silk Boots~
+{cS{Dpider {mS{rilk {cB{Doots{x~
+A mass of silk lies here.~
+armor FJLQV AG
+30 30 30 30 0
+90 5 9000
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 5 1
+A 20 -1
+A 19 18
+A 18 18
+A 12 150
+A 13 150
+
+#6336
+Bird Spider Jaws~
+{mB{rird {cS{Dpider {bJ{waws{x~
+The jaws of the {mB{rird {cS{Dpider {xlay here.{x~
+weapon FJLQV AN
+axe 13 13 phobia DJO
+90 5 9000
+A 13 200
+A 19 25
+A 2 1
+A 1 1
+A 20 -1
+A 18 10
+
+#6337
+Bird Spider Jaws~
+{mB{rird {cS{Dpider {bJ{waws{x~
+The jaws of the {mB{rird {cS{Dpider {xlay here.{x~
+weapon FJLQV AN
+polearm 13 13 phobia DJO
+90 5 9000
+A 18 10
+A 20 -1
+A 1 1
+A 2 1
+A 19 25
+A 13 200
+
+#6338
+Spider Silk Belt~
+{cS{Dpider {mS{rilk {cB{Delt{x~
+A pile of spider silk is here.{x~
+armor FJLQV AL
+30 30 30 30 0
+90 5 9000
+A 1 2
+A 20 -1
+A 13 250
+A 12 50
+A 18 25
+A 19 25
+A 2 2
+
+#6339
+Spider Silk Belt~
+{cS{Dpider {mS{rilk {cB{Delt{x~
+A pile of spider silk is here.{x~
+armor FJLQV AL
+30 30 30 30 0
+90 5 9000
+A 19 10
+A 18 10
+A 4 2
+A 3 2
+A 20 -2
+A 13 50
+A 12 250
+
+#6340
+Spider Silk Belt~
+{cS{Dpider {mS{rilk {cB{Delt{x~
+A pile of spider silk is here.{x~
+armor FJLQV AL
+30 30 30 30 0
+90 5 9000
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 5 1
+A 20 -1
+A 19 18
+A 18 18
+A 12 150
+A 13 150
+
+#6341
+Bird Spider Jaws~
+{mB{rird {cS{Dpider {bJ{waws{x~
+The {mB{rird {cS{Dpiders {xjaws lie here.~
+weapon FJLQV AN
+spear 11 15 phobia DJO
+90 5 9000
+A 12 200
+A 18 50
+A 20 -2
+A 3 2
+A 4 2
+
+#6342
+Bird Spider Jaws~
+{mB{rird {cS{Dpider {bJ{waws{x~
+The {mB{rird {cS{Dpiders {xjaws lie here.~
+weapon FJLQV AN
+flail 11 15 phobia DJO
+90 5 9000
+A 4 2
+A 3 2
+A 20 -2
+A 18 50
+A 12 200
+
+#6343
+Eye Lid KiRin~
+{GK{gi{D-{GR{gin {yE{Dy{ye {cL{Dids{x~
+A mass of {cs{Dpider {ms{rilk{x is piled up here.{x~
+armor FJLQV AX
+30 30 30 30 0
+90 5 9000
+A 19 25
+A 18 25
+A 12 50
+A 13 250
+A 1 2
+A 20 -1
+A 2 2
+
+#6344
+Kirin Eye Lids~
+{GK{gi{D-{GR{gin {yE{Dy{ye {cL{Dids{x~
+Lids from a great creature lie here.~
+armor FJLQV AX
+30 30 30 30 0
+90 5 9000
+A 19 10
+A 18 10
+A 4 2
+A 3 2
+A 20 -2
+A 13 50
+A 12 250
+A 17 -18
+
+#6345
+Kirin Eye Lids~
+{GK{gi{D-{GR{gin {yE{Dy{ye {cL{Dids{x~
+Lids from a great creature lie here.~
+armor FJLQV AX
+30 30 30 30 0
+90 5 9000
+A 2 1
+A 4 1
+A 3 1
+A 1 1
+A 5 1
+A 20 -1
+A 19 18
+A 18 18
+A 12 150
+A 13 150
+A 17 -10
+#0
+
+#ROOMS
+#6200
+On the spider web~
+You are balancing carefully on the giant sticky threads that holds the giant
+web in place.  To the south leads a strand to a cave-like structure made from
+many layers of a spider web.  Another silky strand continues to the north.
+~
+9 6
+D0
+~
+~
+0 -1 6203
+D2
+~
+~
+0 -1 6133
+E
+web~
+The immense spider web moves softly.
+~
+S
+
+#6201
+On the spider web~
+You are balancing carefully on the giant sticky threads that holds the giant
+web in place.  To the north leads a strand to a cave-like structure made from
+many layers of a spider web.
+~
+9 6
+D0
+~
+~
+0 -1 6134
+E
+web~
+The immense spider web moves softly.
+~
+S
+
+#6202
+On the spider web~
+You are balancing carefully on the giant sticky threads that holds the giant
+web in place.  To the east leads a strand to a cave-like structure made from
+many layers of a spider web.
+~
+9 6
+D1
+~
+~
+0 -1 6134
+E
+web~
+The immense spider web moves softly.
+~
+S
+
+#6203
+On the spider web~
+You are balancing carefully on the giant sticky threads that holds the giant
+web in place. A single silky strand lead to the south, while another leads
+off into the northern direction.
+~
+9 6
+D0
+~
+~
+0 0 6205
+D2
+~
+~
+0 -1 6200
+E
+web~
+The immense spider web moves softly.
+~
+S
+
+#6204
+The Single Spider Line~
+No souls have ever lived in this place.  The wails of slaves
+and the howls of wolves are the only way you can describe the sounds
+you hear.  The walls are thin and wispy.  The only light you receive
+is the shimmering from the strand of the ethereal web you used to get
+here.
+~
+0 2
+D0
+~
+~
+0 0 6290
+D1
+~
+~
+0 0 6371
+D2
+~
+~
+0 0 6299
+D3
+~
+~
+0 0 6369
+S
+
+#6205
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6211
+D1
+~
+~
+0 0 6208
+D2
+~
+~
+0 0 6203
+D3
+~
+~
+0 0 6206
+S
+
+#6206
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6212
+D1
+~
+~
+0 0 6205
+D3
+~
+~
+0 0 6207
+S
+
+#6207
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6213
+D1
+~
+~
+0 0 6206
+S
+
+#6208
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6210
+D1
+~
+~
+0 0 6209
+D3
+~
+~
+0 0 6205
+S
+
+#6209
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6229
+D3
+~
+~
+0 0 6208
+S
+
+#6210
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6217
+D1
+~
+~
+0 0 6229
+D2
+~
+~
+0 0 6208
+D3
+~
+~
+0 0 6211
+S
+
+#6211
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6216
+D1
+~
+~
+0 0 6210
+D2
+~
+~
+0 0 6205
+D3
+~
+~
+0 0 6212
+S
+
+#6212
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6215
+D1
+~
+~
+0 0 6211
+D2
+~
+~
+0 0 6206
+D3
+~
+~
+0 0 6213
+S
+
+#6213
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6214
+D1
+~
+~
+0 0 6212
+D2
+~
+~
+0 0 6207
+S
+
+#6214
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6221
+D1
+~
+~
+0 0 6215
+D2
+~
+~
+0 0 6213
+S
+
+#6215
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6220
+D1
+~
+~
+0 0 6216
+D2
+~
+~
+0 0 6212
+D3
+~
+~
+0 0 6214
+S
+
+#6216
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6219
+D1
+~
+~
+0 0 6217
+D2
+~
+~
+0 0 6211
+D3
+~
+~
+0 0 6215
+D5
+~
+~
+0 0 6300
+S
+
+#6217
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6218
+D1
+~
+~
+0 0 6228
+D2
+~
+~
+0 0 6210
+D3
+~
+~
+0 0 6216
+S
+
+#6218
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6225
+D1
+~
+~
+0 0 6227
+D2
+~
+~
+0 0 6217
+D3
+~
+~
+0 0 6219
+S
+
+#6219
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6224
+D1
+~
+~
+0 0 6218
+D2
+~
+~
+0 0 6216
+D3
+~
+~
+0 0 6220
+S
+
+#6220
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6223
+D1
+~
+~
+0 0 6219
+D2
+~
+~
+0 0 6215
+D3
+~
+~
+0 0 6221
+S
+
+#6221
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6222
+D1
+~
+~
+0 0 6220
+D2
+~
+~
+0 0 6214
+S
+
+#6222
+{cAmoungst the Web{x~
+~
+0 0
+D1
+~
+~
+0 0 6223
+D2
+~
+~
+0 0 6221
+S
+
+#6223
+{cAmoungst the Web{x~
+~
+0 0
+D1
+~
+~
+0 0 6224
+D2
+~
+~
+0 0 6220
+D3
+~
+~
+0 0 6222
+S
+
+#6224
+{cAmoungst the Web{x~
+~
+0 0
+D1
+~
+~
+0 0 6225
+D2
+~
+~
+0 0 6219
+D3
+~
+~
+0 0 6223
+S
+
+#6225
+{cAmoungst the Web{x~
+~
+0 0
+D1
+~
+~
+0 0 6226
+D2
+~
+~
+0 0 6218
+D3
+~
+~
+0 0 6224
+S
+
+#6226
+{cAmoungst the Web{x~
+~
+0 0
+D2
+~
+~
+0 0 6227
+D3
+~
+~
+0 0 6225
+S
+
+#6227
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6226
+D2
+~
+~
+0 0 6228
+D3
+~
+~
+0 0 6218
+S
+
+#6228
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6227
+D2
+~
+~
+0 0 6229
+D3
+~
+~
+0 0 6217
+S
+
+#6229
+{cAmoungst the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6228
+D2
+~
+~
+0 0 6209
+D3
+~
+~
+0 0 6210
+S
+
+#6252
+{mB{rird {cS{Dpider's {yY{Doung {cL{Dair{x~
+~
+0 0
+D4
+~
+~
+0 0 6274
+S
+
+#6253
+{mB{rird {cS{Dpider's {yY{Doung {cL{Dair{x~
+~
+0 0
+D4
+~
+~
+0 0 6273
+S
+
+#6254
+{DW{warrior {GC{ghambers{x~
+~
+0 0
+D4
+~
+~
+0 0 6288
+S
+
+#6255
+{DW{warrior {GC{ghambers{x~
+~
+0 0
+D4
+~
+~
+0 0 6289
+S
+
+#6256
+{RMiniBoss {mDonjonKeeper{x~
+~
+0 0
+D3
+~
+~
+0 0 6296
+S
+
+#6257
+{RMiniBoss {mDonjonKeeper{x~
+~
+0 0
+D1
+~
+~
+0 0 6296
+S
+
+#6258
+{cG{Duardian {cC{Dhambers{x~
+~
+0 0
+D4
+~
+~
+0 0 6395
+S
+
+#6259
+{cG{Duardian {cC{Dhambers{x~
+~
+0 0
+D4
+~
+~
+0 0 6396
+S
+
+#6260
+{cG{Duardian {cC{Dhambers{x~
+~
+0 0
+D4
+~
+~
+0 0 6384
+S
+
+#6261
+{cG{Duardian {cC{Dhambers{x~
+~
+0 0
+D4
+~
+~
+0 0 6385
+S
+
+#6262
+{RMiniBoss {mYevaud{x~
+~
+0 0
+D4
+~
+~
+0 0 6379
+S
+
+#6263
+{RMiniBoss {mYevaud{x~
+~
+0 0
+D4
+~
+~
+0 0 6378
+S
+
+#6264
+{RMiniBoss {mQueen Spider{x~
+~
+0 0
+S
+
+#6265
+{RMiniBoss {mQueen Spider{x~
+~
+0 0
+S
+
+#6266
+{RMiniBoss {mWasp{x~
+~
+0 0
+D4
+~
+~
+0 0 6337
+S
+
+#6267
+{RMiniBoss {mWasp{x~
+~
+0 0
+D5
+~
+~
+0 0 6338
+S
+
+#6268
+{RMiniBoss {mWolf{x~
+~
+0 0
+D4
+~
+~
+0 0 6352
+S
+
+#6269
+{RMiniBoss {mWolf{x~
+~
+0 0
+D4
+~
+~
+0 0 6351
+S
+
+#6270
+{cBird Spider Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6341
+D1
+~
+~
+0 0 6271
+D2
+~
+~
+0 0 6276
+D3
+~
+~
+0 0 6272
+S
+
+#6271
+{cBird Spider Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6273
+D3
+~
+~
+0 0 6270
+S
+
+#6272
+{cBird Spider Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6270
+D3
+~
+~
+0 0 6274
+S
+
+#6273
+{cBird Spider Room{x~
+~
+0 0
+D3
+~
+~
+0 0 6271
+D5
+~
+~
+0 0 6253
+S
+
+#6274
+{cBird Spider Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6272
+D5
+~
+~
+0 0 6252
+S
+
+#6275
+{cBird Spider Room{x~
+~
+0 0
+S
+
+#6276
+{cBird Spider Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6270
+D1
+~
+~
+0 0 6277
+D2
+~
+~
+0 0 6279
+D3
+~
+~
+0 0 6278
+S
+
+#6277
+{cBird Spider Room{x~
+~
+0 0
+D3
+~
+~
+0 0 6276
+S
+
+#6278
+{cBird Spider Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6276
+S
+
+#6279
+{cBird Spider Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6276
+D5
+~
+~
+0 0 6342
+S
+
+#6280
+{cKi-Rin Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6345
+D1
+~
+~
+0 0 6282
+D2
+~
+~
+0 0 6284
+D3
+~
+~
+0 0 6283
+D5
+~
+~
+0 0 6281
+S
+
+#6281
+{cKi-Rin Room{x~
+~
+0 0
+D2
+~
+~
+0 0 6285
+D4
+~
+~
+0 0 6280
+S
+
+#6282
+{cKi-Rin Room{x~
+~
+0 0
+D3
+~
+~
+0 0 6280
+S
+
+#6283
+{cKi-Rin Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6280
+S
+
+#6284
+{cKi-Rin Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6280
+S
+
+#6285
+{cKi-Rin Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6281
+D1
+~
+~
+0 0 6287
+D2
+~
+~
+0 0 6350
+D3
+~
+~
+0 0 6286
+S
+
+#6286
+{cKi-Rin Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6285
+D3
+~
+~
+0 0 6288
+S
+
+#6287
+{cKi-Rin Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6289
+D3
+~
+~
+0 0 6285
+S
+
+#6288
+{cKi-Rin Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6286
+D5
+~
+~
+0 0 6254
+S
+
+#6289
+{cKi-Rin Room{x~
+~
+0 0
+D3
+~
+~
+0 0 6287
+D5
+~
+~
+0 0 6255
+S
+
+#6290
+{cDonjonKeeper Room~
+~
+0 0
+D0
+~
+~
+0 0 6291
+D1
+~
+~
+0 0 6292
+D2
+~
+~
+0 0 6204
+D3
+~
+~
+0 0 6293
+S
+
+#6291
+{cDonjonKeeper Room~
+~
+0 0
+D0
+~
+~
+0 0 6296
+D1
+~
+~
+0 0 6294
+D2
+~
+~
+0 0 6290
+D3
+~
+~
+0 0 6295
+S
+
+#6292
+{cDonjonKeeper Room~
+~
+0 0
+D3
+~
+~
+0 0 6290
+S
+
+#6293
+{cDonjonKeeper Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6290
+S
+
+#6294
+{cDonjonKeeper Room{x~
+~
+0 0
+D3
+~
+~
+0 0 6291
+S
+
+#6295
+{cDonjonKeeper Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6291
+S
+
+#6296
+{cDonjonKeeper Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6256
+D2
+~
+~
+0 0 6291
+D3
+~
+~
+0 0 6257
+S
+
+#6297
+{cDonjonKeeper Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6299
+D2
+~
+~
+0 0 6298
+S
+
+#6298
+{cDonjonKeeper Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6297
+D2
+~
+~
+0 0 6370
+S
+
+#6299
+{cDonjonKeeper Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6204
+D2
+~
+~
+0 0 6297
+S
+
+#6300
+{cThrough the Web{x~
+~
+0 0
+D0
+~
+~
+0 0 6301
+D4
+~
+~
+0 0 6216
+S
+
+#6301
+Webbed Entrance~
+Sticky, sticky, sticky!  The ground is cluttered with leaves, decayed
+remains of webbed crickets, beetle, rats, dogs (?), and even humans.
+You begin to wonder about what lies ahead.  The air is damp here,
+and even the little light that shines through the canopy seems
+absorbed into the webbing.
+~
+4 1
+D0
+~
+~
+0 -1 6302
+D2
+~
+~
+0 0 6300
+S
+
+#6302
+Webby Passage~
+You find that footing here is very good, almost too good.  The
+limbs are coated with cobwebs and seem unusually strong for tree
+branches.  Paths lead in four directions.  The eastward path goes
+down a bit.
+~
+0 2
+D0
+~
+~
+0 -1 6304
+D1
+~
+~
+0 -1 6305
+D2
+~
+~
+0 -1 6301
+S
+
+#6303
+{mW{Dasp {YQ{Dueen's {cH{Doneycomb{x~
+Drones scuttle about in this room.  The cells on the walls
+are honeycomb in shape and many of the maggots and wasps you see
+have fang-marks on there bodies.  You sense some order in their markings.
+~
+0 2
+D5
+~
+~
+0 0 6339
+S
+
+#6304
+Webby Passage~
+Another webby passage, all sticky and wet.  Tiny ballooning
+spiders fill the air.  It seems that these young ones are newborns.
+~
+0 2
+D2
+~
+~
+0 -1 6302
+D3
+~
+~
+0 0 6314
+S
+
+#6305
+Beneath the Busy Path~
+You hear the sounds of crawling arachnids above.  The rhythms of
+the footsteps suggest a primitive order in their movement.  The light
+seems brighter upwards.
+~
+0 2
+D3
+~
+~
+0 -1 6302
+D4
+~
+~
+0 -1 6306
+S
+
+#6306
+On the Busy Path~
+Spiders, spiders, everywhere!  It is almost ant-like in efficiency
+with one big difference.  The spiders here are carrying ant-corpses,
+as well as rats, wolves, and humans.
+~
+0 2
+D2
+~
+~
+0 -1 6307
+D5
+~
+~
+0 -1 6305
+S
+
+#6307
+On the Busy Path~
+Spiders, spiders, everywhere!  It is almost ant-like in efficiency
+with one big difference.  The spiders here are carrying ant-corpses,
+as well as cats, wolves, and humans.
+~
+0 2
+D0
+~
+~
+0 -1 6306
+D1
+~
+~
+0 -1 6308
+S
+
+#6308
+On the Busy Path~
+Spiders, spiders, everywhere!  It is almost ant-like in efficiency
+with one big difference.  The spiders here are carrying ant-corpses,
+as well as cats, dogs, and humans.
+~
+0 2
+D1
+~
+~
+0 -1 6309
+D3
+~
+~
+0 -1 6307
+S
+
+#6309
+A Split in the Path~
+As always, there is a split in the road.  One road is strewn
+with cricket feelers.  The other is well-kept and suitable for smooth
+travelling.  The webbing that was prevalent in earlier rooms is almost
+non-existent now.
+~
+0 2
+D0
+~
+~
+0 -1 6310
+D2
+~
+~
+0 -1 6320
+D3
+~
+~
+0 -1 6308
+S
+
+#6310
+Fuzzy Tree Limb~
+You are on a "fuzzy" tree limb.  Interesting, since the branches
+seem to have "hairs" sprouting from its bark.  As you look
+closer you see millions of aphids covering each limb.
+~
+0 2
+D2
+~
+~
+0 -1 6309
+D3
+~
+~
+0 -1 6311
+S
+
+#6311
+Tree Trunk~
+You feel that you can rest here safely.  There is evidence of
+webbing here, but it is of a finer quality.
+~
+0 2
+D1
+~
+~
+0 -1 6310
+D2
+~
+~
+0 -1 6312
+S
+
+#6312
+Tree Lair Entrance~
+It seems the inhabitant of this place does not web her
+victims, as evidenced by the remains before you.  The area
+is cluttered with desiccated corpses, apparently bitten
+but unwebbed, and drained of their life juices.
+~
+0 2
+D0
+~
+~
+0 -1 6311
+D3
+~
+~
+0 0 6344
+S
+
+#6313
+{GWolf Spiders Lair {RBoss{x~
+Very dark, as all lairs of spiders are.  Not much of furnishings
+save an exit.  The wolf spider keeps no corpses here, but rather
+throws them out at her leisure.
+~
+0 2
+D4
+~
+~
+0 0 6359
+S
+
+#6314
+{cWasp Room~
+~
+0 0
+D0
+~
+~
+0 0 6317
+D1
+~
+~
+0 0 6304
+D2
+~
+~
+0 0 6318
+D3
+~
+~
+0 0 6319
+D4
+~
+~
+0 0 6315
+D5
+~
+~
+0 0 6316
+S
+
+#6315
+{cWasp Room~
+~
+0 0
+D5
+~
+~
+0 0 6314
+S
+
+#6316
+{cWasp Room~
+~
+0 0
+D4
+~
+~
+0 0 6314
+S
+
+#6317
+{cWasp Room~
+~
+0 0
+D2
+~
+~
+0 0 6314
+S
+
+#6318
+{cWasp Room~
+~
+0 0
+D0
+~
+~
+0 0 6314
+S
+
+#6319
+{cWasp Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6314
+D3
+~
+~
+0 0 6329
+D4
+~
+~
+0 0 6338
+D5
+~
+~
+0 0 6337
+S
+
+#6320
+The Webless Path~
+Strange.  No webbing here.  In fact, no sounds whatsoever.
+The path continues northward, where you find that you may have to
+tightrope your way across a ravine.
+~
+0 2
+D0
+~
+~
+0 -1 6309
+D3
+~
+~
+0 -1 6321
+S
+
+#6321
+Above the Ravine~
+Stranger still.  Your feet get a real firm grip on the spiderline.
+You are above a deep ravine.  This line connects you between two trees.
+Below you can see a prismatic web with lots of animal bones caught in it:
+some bear and small deer bones in fact.  No human skeletons are visible
+(yet).
+~
+0 2
+D1
+~
+~
+0 -1 6320
+D2
+~
+~
+0 -1 6323
+D5
+~
+~
+0 -1 6322
+S
+
+#6322
+The Rainbow Web~
+This is the rainbow web--each strand, each link, a hue of violently
+sharp colors and contrasts.  The resident here seems to have a command
+of light as well.
+~
+0 2
+D4
+~
+~
+0 -1 6321
+S
+
+#6323
+The Web Forest~
+The trees here take on a different appearance--they are not trees
+anymore, but disjointed make-shift silken made shafts, sticky to the touch,
+and webby in texture.  This is another world it would appear.
+~
+0 2
+D0
+~
+~
+0 -1 6321
+D5
+~
+~
+0 -1 6324
+S
+
+#6324
+The Slave Pit~
+You have entered the slave pit.  A voice blares in the distance,
+"Get back to work, maggots!"  Rails upon rails of mined gold and silver
+clutter the trail beneath you.
+~
+0 2
+D0
+~
+~
+0 -1 6325
+D4
+~
+~
+0 -1 6323
+S
+
+#6325
+The Tether Path~
+Another tether path just like the rest of them.  Surprisingly well
+-lit by the golden orbs that hang from the sides, you can see the paths
+become finer and finer in quality.
+~
+0 2
+D1
+~
+~
+0 -1 6326
+D3
+~
+~
+0 -1 6324
+S
+
+#6326
+A Road Crossing~
+Another shifty little strand of webs, almost ethereal in nature.
+~
+0 2
+D3
+~
+~
+0 -1 6325
+D4
+~
+~
+0 -1 6327
+S
+
+#6327
+A Leader Strand~
+This strand is weightier, more sturdy.  It shimmers as you step on
+it.  You are definitely not in the Midgaardian realms anymore.  Just
+where you are you can't tell.  It feels like you're moving through
+ether.  You can still get back down to more surer lands.
+~
+0 2
+D0
+~
+~
+0 -1 6328
+D5
+~
+~
+0 -1 6326
+S
+
+#6328
+The Entrance of the Ethereal Web~
+You are at the entrance to ethereal web.  Flickering in and out,
+in and out, each strand reveals a different hue from black to green
+to blue.
+~
+0 2
+D2
+~
+~
+0 -1 6327
+D5
+~
+~
+0 -1 6331
+S
+
+#6329
+{cWasp Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6319
+D3
+~
+~
+0 0 6339
+S
+
+#6330
+The Young Wormkin's Crib~
+A playpen of sorts, with maggots of wasps and other baby vermin
+lying about.  You feel that humans have been played with here too,
+and eaten later.  You sense that the maker of this place has
+an appetite for dragon meat, and uses this room as a breeding
+area.
+~
+0 2
+D2
+~
+~
+0 -1 6331
+S
+
+#6331
+The Base of the Web~
+Large strands connect at this point.  The node shimmers and
+flickers within the ether.  You see many flying creatures--
+insects, pegasi, and dragon wormkins--navigate the dangerous
+passages of the web.  Exits go in many directions.
+~
+0 2
+D0
+~
+~
+0 -1 6330
+D1
+~
+~
+0 -1 6332
+D2
+~
+~
+0 -1 6333
+S
+
+#6332
+Through the Trees~
+This part of the web intersects through the branches of some
+trees.  Various leaves and other debris that the many drones
+have not picked up yet lie here.
+~
+0 2
+D3
+~
+~
+0 -1 6331
+S
+
+#6333
+Above the Clouds~
+You can see all of Midgaard in this ethereal web.  Many
+of the larger dragons that do wish to fly seem to fly
+away from the sticky strands of the web.
+~
+0 2
+D0
+~
+~
+0 -1 6331
+D2
+~
+~
+0 -1 6334
+D3
+~
+~
+0 -1 6335
+S
+
+#6334
+On A Cloud~
+Rather thick in consistency.  You realize this is not
+a typical cloud, but it might be the nest of an aerial creature.
+~
+0 2
+D0
+~
+~
+0 -1 6333
+S
+
+#6335
+A Link in the Ethereal Web~
+This is another link in the ethereal web.  Various creatures
+seem to get caught (or hypnotized) by its sticky strands.
+~
+0 2
+D1
+~
+~
+0 -1 6333
+D3
+~
+~
+0 -1 6336
+S
+
+#6336
+The Tenuous Strand~
+Very windy here since it goes up into the sky somewhat.
+Still, it's safe enough to move around.
+~
+0 2
+D1
+~
+~
+0 -1 6335
+D2
+~
+~
+0 -1 6340
+D3
+~
+~
+0 -1 6341
+S
+
+#6337
+{cWasp Room{x~
+~
+0 0
+D4
+~
+~
+0 0 6319
+D5
+~
+~
+0 0 6266
+S
+
+#6338
+{cWasp Room{x~
+~
+0 0
+D4
+~
+~
+0 0 6267
+D5
+~
+~
+0 0 6319
+S
+
+#6339
+{cWasp Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6329
+D4
+~
+~
+0 0 6303
+S
+
+#6340
+The Elder Wormkin's Room~
+A more mature wormkin it seems resides here.  Various tomes of
+arcane lore clutter the area, along with shards of armor and weaponry.
+~
+0 2
+D0
+~
+~
+0 -1 6336
+S
+
+#6341
+Another Tree Limb~
+Once again the web crosses another tree limb.  To the side you
+see the possible entrance to another creatures lair.
+~
+0 2
+D1
+~
+~
+0 -1 6336
+D2
+~
+~
+0 0 6270
+D3
+~
+~
+0 -1 6345
+S
+
+#6342
+{mB{rird {cS{Dpiders {cL{Dair{x~
+This is a big game hunter among most spiders.  Crush jewels
+and other weapons suggest the inhabitant must have powerful jaws.
+Beware!
+~
+0 2
+D4
+~
+~
+0 0 6279
+S
+
+#6343
+{cWolf Spider Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6357
+D1
+~
+~
+0 0 6344
+D2
+~
+~
+0 0 6356
+D3
+~
+~
+0 0 6348
+S
+
+#6344
+{cWolf Spider Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6312
+D3
+~
+~
+0 0 6343
+S
+
+#6345
+A Link in the Ethereal Web~
+This is another link in the ethereal web.  Various creatures
+seem to get caught (or hypnotized) by its sticky strands.
+~
+0 2
+D1
+~
+~
+0 -1 6341
+D2
+~
+~
+0 0 6280
+D3
+~
+~
+0 -1 6346
+S
+
+#6346
+The Quiet Tree Top~
+Here is a quiet tree top.
+~
+0 2
+D1
+~
+~
+0 -1 6345
+D3
+~
+~
+0 -1 6347
+S
+
+#6347
+On The Web~
+RRRRRRRRRRROOOOOOOOOOOOOAAAAAAAAAAAAAARR!  You hear the roar
+of a powerful beast.  Dragon, you think.  You shiver in your boots
+as you tiptoe on this section of the web.
+~
+0 2
+D1
+~
+~
+0 -1 6346
+D2
+~
+~
+0 -1 6355
+S
+
+#6348
+{cWolf Spider Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6353
+D1
+~
+~
+0 0 6343
+D2
+~
+~
+0 0 6354
+D3
+~
+~
+0 0 6349
+D5
+~
+~
+0 0 6359
+S
+
+#6349
+{cWolf Spider Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6351
+D1
+~
+~
+0 0 6348
+D2
+~
+~
+0 0 6352
+S
+
+#6350
+{mC{Dhambers {Dof the {GK{gi{D-{GR{gi{Gn{x~
+A wise ki-rin was entrapped here many years ago.  It is from her
+that the ruler of this realm steals his magical strength.
+~
+0 2
+D0
+~
+~
+0 0 6285
+S
+
+#6351
+{cWolf Spider Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6353
+D2
+~
+~
+0 0 6349
+D5
+~
+~
+0 0 6269
+S
+
+#6352
+{cWolf Spider Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6349
+D1
+~
+~
+0 0 6354
+D5
+~
+~
+0 0 6268
+S
+
+#6353
+{cWolf Spider Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6357
+D2
+~
+~
+0 0 6348
+D3
+~
+~
+0 0 6351
+S
+
+#6354
+{cWolf Spider Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6348
+D1
+~
+~
+0 0 6356
+D3
+~
+~
+0 0 6352
+S
+
+#6355
+A Link in the Ethereal Web~
+This is another link in the ethereal web.  Various creatures
+seem to get caught (or hypnotized) by its sticky strands.  To
+the north you sense the heavy breathing of a fiery animal.
+~
+0 2
+D0
+~
+~
+0 -1 6347
+D3
+~
+~
+0 0 6374
+D4
+~
+~
+0 -1 6365
+S
+
+#6356
+{cWolf Spider Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6343
+D3
+~
+~
+0 0 6354
+S
+
+#6357
+{cWolf Spider Room{x~
+~
+0 0
+D2
+~
+~
+0 0 6343
+D3
+~
+~
+0 0 6353
+S
+
+#6358
+{cWolf Spider Room{x~
+~
+0 0
+D4
+~
+~
+0 0 6348
+S
+
+#6359
+{cWolf Spider Room{x~
+~
+0 0
+D4
+~
+~
+0 0 6348
+D5
+~
+~
+0 0 6313
+S
+
+#6360
+{GYevaud's Lair{R Boss{x~
+Yevaud, the Usurper of Midgaard, resides here.  A voice cries
+out, "BEWARE, the Usurper of Midgaard lives here!  FLEE while you can!"
+But even Yevaud has his master...or so you deduce.
+~
+0 2
+D4
+~
+~
+0 0 6375
+S
+
+#6361
+{cYevaud's Room{x~
+~
+0 0
+S
+
+#6362
+{cYevaud's Room{x~
+~
+0 0
+S
+
+#6363
+{cYevaud's Room{x~
+~
+0 0
+S
+
+#6364
+{cYevaud's Room{x~
+~
+0 0
+S
+
+#6365
+A Link in the Ethereal Web~
+This is another link in the ethereal web.  Various creatures
+seem to get caught (or hypnotized) by its sticky strands.  A single
+spider line lies to the north, while ghastly seemings are due
+southward.  The grim entrance of Arachnos' Lair is downward.
+~
+0 2
+D0
+~
+~
+0 -1 6371
+D2
+~
+~
+0 -1 6366
+D4
+~
+~
+0 -1 6390
+D5
+~
+~
+0 -1 6355
+S
+
+#6366
+Entrance to the Donjonkeep~
+A dark path at the end of the web strand, you see ahead
+a torch lit chamber where the souls of unavenged adventurers
+come and gnash their teeth.  The howls and screams of many echo
+through the hall ways.  You see one definite path ahead.
+~
+0 2
+D1
+~
+~
+0 -1 6367
+S
+
+#6367
+The Guardian's Room~
+A chair sits here for a tireless guardian who ensures that no
+soul escapes.  The room is undecorated.
+~
+0 2
+D1
+~
+~
+0 -1 6368
+D3
+~
+~
+0 -1 6366
+E
+chair~
+An ordinary chair, well used, glued to the ground by spiderweb.
+~
+S
+
+#6368
+Realm of the Hopeless~
+Here you see many misguided souls who think they still live.
+They search for those who killed them without warrant, and seek the
+free souls of living beings to inhabit and perhaps adventure once
+more.
+~
+0 2
+D1
+~
+~
+0 -1 6369
+D3
+~
+~
+0 -1 6367
+S
+
+#6369
+Realm of the Hopeless~
+Here you see many misguided souls who think they still live.
+They search for those who killed them without warrant, and seek the
+free souls of living beings to inhabit and perhaps adventure once
+more.
+~
+0 2
+D1
+~
+~
+0 0 6204
+D3
+~
+~
+0 -1 6368
+S
+
+#6370
+{GDonjonkeep {RBoss{x~
+No souls have ever lived in this place.  The wails of slaves
+and the howls of wolves are the only way you can describe the sounds
+you hear.  The walls are thin and wispy.  The only light you receive
+is the shimmering from the strand of the ethereal web you used to get
+here.
+~
+0 2
+D0
+~
+~
+0 0 6298
+S
+
+#6371
+The Single Spider Line~
+A single spider line supports you once more.  As you look
+across the ether you seen a single shack up ahead with a light in
+the window.  You sense a great evil coming from the east and feel
+inclined to go back on the ethereal web and take your chances there.
+~
+0 2
+D1
+~
+~
+0 -1 6372
+D3
+~
+~
+0 0 6204
+S
+
+#6372
+The Single Spider Line~
+A single spider line supports you once more.  The shack comes
+closer into view and you are even more inclined to go back now.
+~
+0 2
+D1
+~
+~
+0 -1 6373
+D3
+~
+~
+0 -1 6371
+S
+
+#6373
+The Hermit's Corner~
+Here you see evidence of a vagrant's abode.  The shack is to the
+east, if you dare enter it.  You get the sneaking feeling you should
+go back now.  The skies above you darken and roar with the laughter
+of thunder.
+~
+0 2
+D1
+~
+~
+0 -1 6380
+D3
+~
+~
+0 -1 6372
+S
+
+#6374
+{cYevaud's Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6355
+D3
+~
+~
+0 0 6375
+S
+
+#6375
+{cYevaud's Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6376
+D1
+~
+~
+0 0 6374
+D2
+~
+~
+0 0 6377
+D5
+~
+~
+0 0 6360
+S
+
+#6376
+{cYevaud's Room{x~
+~
+0 0
+D2
+~
+~
+0 0 6375
+D3
+~
+~
+0 0 6378
+S
+
+#6377
+{cYevaud's Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6375
+D3
+~
+~
+0 0 6379
+S
+
+#6378
+{cYevaud's Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6376
+D5
+~
+~
+0 0 6263
+S
+
+#6379
+{cYevaud's Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6377
+D5
+~
+~
+0 0 6262
+S
+
+#6380
+{GMahatma's Inescapable Trap {YUnique{x~
+Mahatma, that silly thief, is here, and he steals everything you
+have.  He says, 'Here, have a quick trip to the Temple of Midgaard.'
+He plunges a black dagger into your back ...
+~
+4 0
+S
+
+#6381
+{cArachnos Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6387
+D1
+~
+~
+0 0 6383
+D2
+~
+~
+0 0 6390
+D3
+~
+~
+0 0 6382
+S
+
+#6382
+{cArachnos Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6386
+D1
+~
+~
+0 0 6381
+D3
+~
+~
+0 0 6384
+S
+
+#6383
+{cArachnos Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6388
+D1
+~
+~
+0 0 6385
+D3
+~
+~
+0 0 6381
+S
+
+#6384
+{cArachnos Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6382
+D5
+~
+~
+0 0 6260
+S
+
+#6385
+{cArachnos Room{x~
+~
+0 0
+D3
+~
+~
+0 0 6383
+D5
+~
+~
+0 0 6261
+S
+
+#6386
+{cArachnos Room{~
+~
+0 0
+D0
+~
+~
+0 0 6394
+D1
+~
+~
+0 0 6387
+D2
+~
+~
+0 0 6382
+S
+
+#6387
+{cArachnos Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6393
+D1
+~
+~
+0 0 6388
+D2
+~
+~
+0 0 6381
+D3
+~
+~
+0 0 6386
+S
+
+#6388
+{cArachnos Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6389
+D2
+~
+~
+0 0 6383
+D3
+~
+~
+0 0 6387
+S
+
+#6389
+{cArachnos Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6396
+D2
+~
+~
+0 0 6388
+D3
+~
+~
+0 0 6393
+S
+
+#6390
+The Entrance to the Arachnos' Lair~
+All strands inevitably lead here, the center of the web, the
+entrance to Arachnos' Lair.
+~
+0 2
+D0
+~
+~
+0 0 6381
+D5
+~
+~
+0 -1 6365
+S
+
+#6391
+The Sticky Chamber~
+You can still bail out since your knees are shaking from the
+anticipation (or is it fear?).  The sky is clear on this strand of
+web, surprisingly unsticky.  The strand does not vibrate like the
+others.  A few ballooning spiders pass by, cackling "You're gonna
+die, you're gonna fry.  Good bye!"
+~
+0 2
+D0
+~
+~
+0 -1 6392
+D2
+~
+~
+0 0 6397
+S
+
+#6392
+The Great Door~
+Before you you see a large, web-like door.  Various designs
+of ancient runes and names of Midgaard heroes are etched into
+the webwork.  Perhaps lists of victims?  You can't tell.
+~
+8 2
+D0
+~
+door north~
+AB 0 6399
+D2
+~
+~
+0 -1 6391
+S
+
+#6393
+{cArachnos Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6398
+D1
+~
+~
+0 0 6389
+D2
+~
+~
+0 0 6387
+D3
+~
+~
+0 0 6394
+S
+
+#6394
+{cArachnos Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6393
+D2
+~
+~
+0 0 6386
+D3
+~
+~
+0 0 6395
+S
+
+#6395
+{cArachnos Room{x~
+~
+0 0
+D1
+~
+~
+0 0 6394
+D5
+~
+~
+0 0 6258
+S
+
+#6396
+{cArachnos Room{x~
+~
+0 0
+D3
+~
+~
+0 0 6389
+D5
+~
+~
+0 0 6259
+S
+
+#6397
+{cArachnos Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6391
+D2
+~
+~
+0 0 6398
+S
+
+#6398
+{cArachnos Room{x~
+~
+0 0
+D0
+~
+~
+0 0 6397
+D2
+~
+~
+0 0 6393
+S
+
+#6399
+{DA{crachnos {DL{cair{x~
+This is the lair of the Empress Spider, Arachnos.  A lavishly
+adorned rainbow web, her lair allows her to move to any universe
+she wishes by using her magical strands to the Prime Material Plane.
+Coffers upon coffers of gold, magical jewels and gems await.  Unfor-
+tunately Arachnos is a baggy spider too, and webs all her treasures
+to her beautiful silken body.
+~
+0 2
+D2
+~
+door south~
+AB 0 6392
+S
+#0
+
+#SPECIALS
+M 6302 spec_breath_gas
+M 6314 spec_breath_gas
+M 6316 spec_breath_gas
+M 6317 spec_breath_gas
+M 6318 spec_poison
+M 6319 spec_poison
+M 6328 spec_breath_any
+M 6329 spec_breath_any
+M 6330 spec_breath_any
+M 6331 spec_breath_any
+S
+
+#RESETS
+D 100 6392 0 1
+D 100 6399 2 1
+M 100 6338 1 6252 1
+G 25 6335 0
+G 25 6334 0
+G 25 6333 0
+E 25 6337 0 19
+E 25 6336 0 16
+M 100 6339 1 6253 1
+G 25 6340 0
+G 25 6339 0
+G 25 6338 0
+E 25 6342 0 19
+E 25 6341 0 16
+M 100 6337 1 6254 1
+E 50 6343 0 27
+M 100 6336 1 6255 1
+E 50 6344 0 27
+M 100 6331 1 6258 1
+E 25 6317 0 19
+E 25 6316 0 16
+G 25 6315 0
+E 25 6314 0 15
+E 25 6313 0 14
+M 100 6329 1 6259 1
+E 25 6308 0 24
+E 25 6309 0 25
+G 25 6310 0
+E 25 6311 0 16
+E 25 6312 0 19
+M 100 6328 1 6260 1
+E 25 6322 0 16
+E 25 6321 0 19
+G 25 6320 0
+E 25 6319 0 4
+E 25 6318 0 3
+M 100 6330 1 6261 1
+E 25 6325 0 19
+E 25 6324 0 16
+G 25 6327 0
+E 25 6326 0 22
+E 25 6325 0 21
+M 100 6301 8 6301 2
+M 100 6305 1 6303 1
+M 100 6301 8 6304 2
+M 100 6301 8 6306 2
+M 100 6301 8 6306 2
+M 100 6308 5 6308 5
+M 100 6308 5 6308 5
+M 100 6308 5 6308 5
+M 100 6308 5 6308 5
+M 100 6308 5 6308 5
+M 100 6303 1 6313 1
+M 100 6306 3 6321 1
+M 100 6309 2 6327 2
+M 100 6306 3 6330 1
+M 100 6316 1 6330 1
+M 100 6306 3 6331 1
+M 100 6304 1 6332 1
+M 100 6307 4 6333 2
+M 100 6307 4 6335 2
+M 100 6317 1 6340 1
+M 100 6310 1 6342 1
+E 25 6332 0 19
+E 25 6331 0 16
+G 25 6330 0
+G 25 6329 0
+G 25 6328 0
+M 100 6315 1 6350 1
+E 50 6345 0 27
+M 100 6302 1 6360 1
+G 100 6304 0
+M 100 6313 1 6367 1
+M 100 6312 1 6370 1
+G 100 6309 0
+M 100 6311 1 6373 1
+M 100 6314 1 6399 1
+E 75 6303 0 6
+E 50 6304 0 20
+E 25 6301 0 7
+E 25 6300 0 5
+E 25 6302 0 16
+E 25 6305 0 19
+G 25 6306 0
+G 25 6307 0
+S
+
+#$

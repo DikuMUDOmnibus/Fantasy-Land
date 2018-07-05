@@ -1,0 +1,125 @@
+#PLAYER
+Name Iknock~
+Race elf~
+Levl 2
+Clas thief~
+Pkpt 100
+TSex 1
+LogO 1325827349
+Sock c-68-44-233-249.hsd1.nj.comcast.net~
+Titl  on doors{x~
+
+#STAT_BREAK
+
+Id   1325826793
+Plat 0
+Gold 2
+Silv 7
+Exp  5071
+Attr 18 20 20 22 16
+Prom <%Ah %Bm %Cv> [{r%X{x]~
+Act  BCDEFGHJQRT
+AfBy DFV
+ShBy CDEH
+Comm NQ
+Pos  8
+Alig  -756
+Sk 1 'backstab'
+Sk 75 'dagger'
+Sk 1 'dodge'
+Sk 1 'dual wield'
+Sk 1 'fast healing'
+Sk 1 'kick'
+Sk 75 'recall'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'steal'
+Sk 1 'wands'
+MaxDam 36
+LLev 0
+Pass IkgZb0AvcB7OQ~
+Plyd 556
+Note 0 0 0 0 0
+Room 6003
+HMVN 174 59 102 42 82 37
+MaxS 0 0 0 0 0 0 0 0 0 0
+Bank 0 0 0 0 0 0 0 0 0 0
+Cnd  0 26 37 37
+Deviant 0 0
+Prac 26
+Trai 2
+Devote current 0
+Pnts 35
+Mkil 7
+Gr 'rom basics'
+Gr 'thief basics'
+Affc 'constitution'   0 314   0  28  10   5          0
+Affc 'haste'   0 315   0  75  10   2    2097152
+Affc 'sanctuary'   1 302   0  46   0   0        128
+Affc 'shockshield'   1 303   0  61   0   0         16
+Affc 'bless'   0 314   0 107 -39  20          0
+Affc 'bless'   0 313   0 107  39  18          0
+Affc 'iceshield'   1 302   0  61   0   0          4
+Affc 'intellect'   0 314   0  27  10   3          0
+Affc 'armor'   0 314   0  58 -315  17          0
+Affc 'fireshield'   1 315   0  63   0   0          8
+Affc 'wisdom'   0 315   0  26  10   4          0
+Affc 'detect hidden'   0   0   0  -1   0   0         32
+Affc 'detect invis'   0   0   0  -1   0   0          8
+End
+
+#O
+Vnum 3162
+Nest 0
+End
+
+#O
+Vnum 3163
+Nest 0
+End
+
+#O
+Vnum 3169
+Nest 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cost 0
+Wear 0
+Valu 2 1 189
+End
+
+#O
+Vnum 3703
+Nest 0
+Cost 0
+Wear 5
+End
+
+#O
+Vnum 3701
+Nest 0
+Wear 16
+End
+
+#O
+Vnum 3704
+Nest 0
+Cost 0
+Wear 11
+End
+
+#O
+Vnum 806
+Nest 0
+Name Dazzling lash special~
+ShD  Dazzling lash~
+Loader MPOP: (21:17-01/05/2012) Iknock~
+Cost 75
+Affc 'reserved' 2 1 -1 -6 17 0
+Affc 'reserved' 2 1 -1 14 18 0
+End
+
+#END

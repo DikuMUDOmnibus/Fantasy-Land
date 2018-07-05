@@ -1,0 +1,2438 @@
+#AREADATA
+Name War Zone~
+Builders None~
+VNUMs 36300 36399
+Credits [WARZONE] Kira     War Zone~
+Security 9
+End
+
+
+
+#MOBILES
+#36300
+spirit healer~
+Spirit of Kira~
+Spirit of Kira is tending to the wounded
+~
+~
+tiegre~
+ACDa DFJLVZc 0 0 0
+151 1000 10000d100+10 10000d100+10 10000d100+10 claw
+-100 -100 -100 -100
+CEFHKO BL BILQS H
+stand stand female 100
+AGHMV ABCDEFGHIJKQUV medium unknown
+#0
+
+
+
+#OBJECTS
+#36300
+forbidding passageway~
+a forbidding Passageway~
+Forbidding Passageway to the north leads to the battle ground.~
+unknown~
+portal BO 0
+-2 0 0 36301 0
+0 0 0 P
+#36301
+Gateway mortal realm~
+shimmering gateway~
+Gateway to the mortal realm wavers in the air.~
+glass~
+portal ABG 0
+0 0 0 3014 0
+1 100 100 P
+#36310
+Team 2 Locker Room~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#36311
+war healing pads~
+{^healing pad{0~
+{BMag{bical{^ healing pads{0 are floating around the room.~
+silver~
+furniture 0 0
+20 50000 HK 500 500
+1 1000 10000 P
+#36312
+trophy~
+a shiny war trophy~
+A golden statuette of a warrior glimmers in the sunlight here.~
+gold~
+treasure AGHISTYZc AO
+0 0 0 0 0
+1 1 1 P
+#36313
+coffin~
+{#mahogany coffin{x~
+A dusty {#mahogany coffin{x stands in the corner.~
+wood~
+furniture 0 0
+2 300 EIL 0 0
+0 1 1 P
+E
+coffin~
+It looks as if its recently been used.... strange...
+~
+#36320
+trophy~
+a shiny war trophy~
+A golden statuette of a warrior glimmers in the sunlight here.~
+gold~
+treasure AGHISTYZc AO
+0 0 0 0 0
+1 1 1 P
+#36321
+tournament gloves~
+tournament gloves~
+Tournament gloves~
+gold~
+armor ABIUY IO
+0 0 0 0 0
+151 1 1 P
+#0
+
+
+
+#ROOMS
+#36300
+Entrance To The War Zone~
+Sounds of distant battle fill the air.  A monumental passageway dominates
+the room.  It is adorned with skulls of those brave souls that were foolish
+enough to dare enter within.  Cries of anguish permeate throughout
+announcing yet another victim.  This is your last chance for retreat.  Enter
+now and fight for honor, glory, riches, and most importantly, your life!  
+~
+0 8 0
+D1
+~
+~
+0 0 36302
+D3
+~
+~
+0 0 36301
+M 200 H 200
+S
+#36301
+Team 1 Locker Room~
+You are standing in the Team 1 Locker room.  All around the room is
+Lockers and Benches.  Dominating one wall is a Large Chalkboard for mapping
+out strategy.  To the north you can see the entrance to the Battleground.  
+~
+0 12 0
+D0
+~
+~
+0 0 36311
+S
+#36302
+Team 2 Locker Room~
+You are standing in the Team 2 Locker room.  All around the room is
+Lockers, and benches.  Dominationg one wall is a Large Chalkboard for
+mapping out strategy.  To the north you can see the entrance to the
+Battleground.  
+~
+0 12 0
+D0
+~
+~
+0 0 36306
+S
+#36303
+War Victims Depository~
+Moaning coming from the beds lining the walls of the collection center
+saturates the room.  Blood streams the floor and the sweet smell of death
+tickles your nose.  Your corpse is laying on the ground waiting for you to
+comfort it.  You can catch your breath here and recover from your battle on
+the outside.  This is a safe heaven for those hurt to reunite with their
+earthly posessions, so there is a big sign on the wall stating {rNO LOOTING,{x
+{rNO KILLING, NO SMOKING{x When you finish recouperating you can enter the
+world of the mortal through the gateway hanging in mid-air.
+~
+0 263180 0
+M 500 H 500
+S
+#36304
+The Battle Grounds.~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D3
+~
+~
+0 0 36309
+D0
+~
+~
+0 0 36311
+D2
+~
+~
+0 0 36312
+D1
+~
+~
+0 0 36305
+S
+#36305
+The Battle Grounds.~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D1
+~
+~
+0 0 36309
+D2
+~
+~
+0 0 36310
+D0
+~
+~
+0 0 36308
+D3
+~
+~
+0 0 36304
+S
+#36306
+The Battle Grounds.~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.  
+~
+0 134225924 2
+D0
+~
+~
+0 0 36307
+D1
+~
+~
+0 0 36311
+D2
+~
+~
+0 0 36309
+D3
+~
+~
+0 0 36308
+S
+#36307
+The Battle Grounds.~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D0
+~
+~
+0 0 36309
+D3
+~
+~
+0 0 36310
+D2
+~
+~
+0 0 36306
+D1
+~
+~
+0 0 36312
+S
+#36308
+The Battle Grounds.~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D2
+~
+~
+0 0 36305
+D3
+~
+~
+0 0 36311
+D0
+~
+~
+0 0 36310
+D1
+~
+~
+0 0 36306
+D5
+~
+~
+3 0 36333
+S
+#36309
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.  A small rising in the ground forms a little crawl space
+here.  
+~
+0 134225924 2
+D1
+~
+~
+0 0 36304
+D3
+~
+~
+0 0 36305
+D2
+~
+~
+0 0 36307
+D0
+~
+~
+0 0 36306
+D5
+~
+~
+1 0 36315
+S
+#36310
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D0
+~
+~
+0 0 36305
+D1
+~
+~
+0 0 36307
+D2
+~
+~
+0 0 36308
+D3
+~
+~
+0 0 36316
+D5
+~
+~
+3 0 36334
+S
+#36311
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.  
+~
+0 134225924 2
+D2
+~
+~
+0 0 36304
+D0
+~
+~
+0 0 36312
+D3
+~
+~
+0 0 36306
+D1
+~
+~
+0 0 36308
+D5
+~
+~
+3 0 36332
+S
+#36312
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D1
+~
+~
+0 0 36313
+D2
+~
+~
+0 0 36311
+D0
+~
+~
+0 0 36304
+D3
+~
+~
+0 0 36307
+S
+#36313
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.  
+~
+0 134225924 2
+D3
+~
+~
+0 0 36312
+D0
+~
+~
+0 0 36320
+D1
+~
+~
+0 0 36314
+D2
+~
+~
+0 0 36319
+S
+#36314
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D0
+~
+~
+0 0 36321
+D1
+~
+~
+0 0 36316
+D3
+~
+~
+0 0 36313
+D2
+~
+~
+0 0 36318
+S
+#36315
+A Bunker Under the Battle Grounds~
+The ground in the corner of the Battle Zone has formed a snug bunker. 
+From here, you can hear the sounds of the battles nearby, and the sunlight
+barely reaches through the tiny opening you crawled through.  A strange box
+stands covered by dust in the corner.  
+~
+0 134225932 0
+D4
+~
+~
+1 0 36309
+S
+#36316
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D3
+~
+~
+0 0 36314
+D2
+~
+~
+0 0 36317
+D0
+~
+~
+0 0 36323
+D1
+~
+~
+0 0 36310
+S
+#36317
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D2
+~
+~
+0 0 36322
+D0
+~
+~
+0 0 36316
+D1
+~
+~
+0 0 36319
+D3
+~
+~
+0 0 36318
+S
+#36318
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D3
+~
+~
+0 0 36319
+D0
+~
+~
+0 0 36314
+D2
+~
+~
+0 0 36321
+D1
+~
+~
+0 0 36317
+S
+#36319
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D3
+~
+~
+0 0 36317
+D1
+~
+~
+0 0 36318
+D0
+~
+~
+0 0 36313
+D2
+~
+~
+0 0 36320
+S
+#36320
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D3
+~
+~
+0 0 36322
+D2
+~
+~
+0 0 36313
+D0
+~
+~
+0 0 36319
+D1
+~
+~
+0 0 36321
+D5
+~
+~
+3 0 36335
+S
+#36321
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D2
+~
+~
+0 0 36314
+D3
+~
+~
+0 0 36320
+D0
+~
+~
+0 0 36318
+D1
+~
+~
+0 0 36322
+S
+#36322
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D0
+~
+~
+0 0 36317
+D1
+~
+~
+0 0 36320
+D3
+~
+~
+0 0 36321
+D2
+~
+~
+0 0 36329
+D5
+~
+~
+3 0 36336
+S
+#36323
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D0
+~
+~
+0 0 36328
+D2
+~
+~
+0 0 36316
+D1
+~
+~
+0 0 36324
+D3
+~
+~
+0 0 36325
+S
+#36324
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D3
+~
+~
+0 0 36323
+D0
+~
+~
+0 0 36327
+D2
+~
+~
+0 0 36330
+D1
+~
+~
+0 0 36325
+S
+#36325
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D3
+~
+~
+0 0 36324
+D2
+~
+~
+0 0 36331
+D1
+~
+~
+0 0 36323
+D0
+~
+~
+0 0 36326
+D5
+~
+~
+3 0 36337
+S
+#36326
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D0
+~
+~
+0 0 36331
+D2
+~
+~
+0 0 36325
+D1
+~
+~
+0 0 36328
+D3
+~
+~
+0 0 36327
+S
+#36327
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D3
+~
+~
+0 0 36328
+D2
+~
+~
+0 0 36324
+D0
+~
+~
+0 0 36330
+D1
+~
+~
+0 0 36326
+S
+#36328
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D3
+~
+~
+0 0 36326
+D0
+~
+~
+0 0 36329
+D2
+~
+~
+0 0 36323
+D1
+~
+~
+0 0 36327
+S
+#36329
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D0
+~
+~
+0 0 36322
+D2
+~
+~
+0 0 36328
+D3
+~
+~
+0 0 36331
+D1
+~
+~
+0 0 36330
+D5
+~
+~
+3 0 36339
+S
+#36330
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D1
+~
+~
+0 0 36331
+D2
+~
+~
+0 0 36327
+D0
+~
+~
+0 0 36324
+D3
+~
+~
+0 0 36329
+S
+#36331
+The Battle Grounds~
+You are standing in the middle of a war torn battle zone.  As you survey
+the land, you see battles off in the distance.  Magic fires blazing, swords
+of steel clashing...  Blood gushes and splatters all about in a sea of red
+horror.  A battle cry rings out behind you, and you whirl about to face the
+coming onslaught.
+~
+0 134225924 2
+D0
+~
+~
+0 0 36325
+D1
+~
+~
+0 0 36329
+D3
+~
+~
+0 0 36330
+D2
+~
+~
+0 0 36326
+D5
+~
+~
+3 0 36338
+S
+#36332
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D2
+~
+~
+0 0 36343
+D3
+~
+~
+0 0 36340
+S
+#36333
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D1
+~
+~
+0 0 36340
+D2
+~
+~
+0 0 36341
+S
+#36334
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D0
+~
+~
+0 0 36341
+D1
+~
+~
+0 0 36342
+S
+#36335
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D0
+~
+~
+0 0 36344
+D1
+~
+~
+0 0 36345
+S
+#36336
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.
+~
+0 134225932 0
+D0
+~
+~
+0 0 36346
+D3
+~
+~
+0 0 36345
+S
+#36337
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.
+~
+0 134225932 0
+D0
+~
+~
+0 0 36349
+D3
+~
+~
+0 0 36354
+S
+#36338
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.
+~
+0 134225932 0
+D2
+~
+~
+0 0 36349
+D3
+~
+~
+0 0 36350
+S
+#36339
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.
+~
+0 134225932 0
+D1
+~
+~
+0 0 36350
+D2
+~
+~
+0 0 36348
+S
+#36340
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D1
+~
+~
+0 0 36332
+D2
+~
+~
+1 0 36351
+D3
+~
+~
+0 0 36333
+D4
+~
+~
+0 0 36306
+S
+#36341
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D0
+~
+~
+0 0 36333
+D1
+~
+~
+3 0 36351
+D2
+~
+~
+0 0 36334
+D4
+~
+~
+0 0 36305
+S
+#36342
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D0
+~
+~
+1 0 36351
+D1
+~
+~
+0 0 36344
+D3
+~
+~
+0 0 36334
+D4
+~
+~
+0 0 36307
+S
+#36343
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D0
+~
+~
+0 0 36332
+D1
+~
+~
+0 0 36347
+D3
+~
+~
+3 0 36351
+D4
+~
+~
+0 0 36304
+S
+#36344
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D1
+~
+~
+3 0 36352
+D2
+~
+~
+0 0 36335
+D3
+~
+~
+0 0 36342
+D4
+~
+~
+0 0 36319
+S
+#36345
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225924 5
+D0
+~
+~
+1 0 36352
+D1
+~
+~
+0 0 36336
+D3
+~
+~
+0 0 36335
+D4
+~
+~
+0 0 36321
+S
+#36346
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D0
+~
+~
+0 0 36354
+D2
+~
+~
+0 0 36336
+D3
+~
+~
+3 0 36352
+D4
+~
+~
+0 0 36317
+S
+#36347
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D0
+~
+~
+0 0 36348
+D2
+~
+~
+1 0 36352
+D3
+~
+~
+0 0 36343
+D4
+~
+~
+0 0 36314
+S
+#36348
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D0
+~
+~
+0 0 36339
+D1
+~
+~
+3 0 36353
+D2
+~
+~
+0 0 36347
+D4
+~
+~
+0 0 36328
+S
+#36349
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D0
+~
+~
+0 0 36338
+D2
+~
+~
+0 0 36337
+D3
+~
+~
+3 0 36353
+D4
+~
+~
+0 0 36326
+S
+#36350
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D1
+~
+~
+0 0 36338
+D2
+~
+~
+1 0 36353
+D3
+~
+~
+0 0 36339
+D4
+~
+~
+0 0 36330
+S
+#36351
+The Hide Away~
+A semi-quiet stone encased room provides a minor refuge from the battles
+raging above and around.  The faint sounds of battles echo from above and
+around.  A pall of silence echoes emptily from the passage leading down.  
+~
+0 134225932 0
+D0
+~
+~
+1 0 36340
+D1
+~
+~
+3 0 36343
+D2
+~
+~
+1 0 36342
+D3
+~
+~
+3 0 36341
+D4
+~
+~
+0 0 36315
+D5
+~
+~
+0 0 36352
+S
+#36352
+The Hide Away~
+A semi-quiet stone encased room provides a minor refuge from the battles
+raging above and around.  The faint sounds of battles echo from above and
+around.  A pall of silence echoes emptily from the passage leading down.  
+~
+0 134225932 0
+D0
+~
+~
+1 0 36347
+D1
+~
+~
+3 0 36346
+D2
+~
+~
+1 0 36345
+D3
+~
+~
+3 0 36344
+D4
+~
+~
+0 0 36318
+D5
+~
+~
+0 0 36353
+S
+#36353
+The Hide Away~
+A semi-quiet stone encased room provides a minor refuge from the battles
+raging above and around.  The faint sounds of battles echo from above and
+around.  A pall of silence echoes emptily from the passage leading down.  
+~
+0 134225932 0
+D0
+~
+~
+1 0 36350
+D1
+~
+~
+3 0 36349
+D2
+~
+~
+1 0 36354
+D3
+~
+~
+3 0 36348
+D4
+~
+~
+0 0 36327
+D5
+~
+~
+0 0 36351
+S
+#36354
+The Tunnel~
+The sounds of battle range over head.  Fine sand drifts from the wood
+supported ceiling.  The floor is a packed reddish-brown clay.  The passage
+back to the field is blocked but the sounds of battle whisper faintly from
+the side passages.  
+~
+0 134225932 0
+D0
+~
+~
+1 0 36353
+D1
+~
+~
+0 0 36337
+D2
+~
+~
+0 0 36346
+D4
+~
+~
+0 0 36324
+S
+#36355
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  
+~
+0 33562636 0
+D1
+~
+~
+0 0 36356
+D2
+~
+~
+0 0 36366
+S
+#36356
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  A ladder here
+allows you to climb out of the slime and stench of the pit.  
+~
+0 33562636 0
+D1
+~
+~
+0 0 36359
+D2
+~
+~
+0 0 36365
+D3
+~
+~
+0 0 36355
+D4
+~
+~
+0 0 36357
+S
+#36357
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  A ladder here leads down
+into the slime and stench of the pit.
+~
+0 33562636 0
+D0
+~
+~
+0 0 36388
+D1
+~
+~
+0 0 36358
+D2
+~
+~
+0 0 36364
+D5
+~
+~
+0 0 36356
+S
+#36358
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  A ladder here leads down
+into the slime and stench of the pit.
+~
+0 33562636 0
+D0
+~
+~
+0 0 36387
+D2
+~
+~
+0 0 36363
+D3
+~
+~
+0 0 36357
+D5
+~
+~
+0 0 36359
+S
+#36359
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  A ladder here
+allows you to climb out of the slime and stench of the pit.  
+~
+0 33562636 0
+D1
+~
+~
+0 0 36360
+D2
+~
+~
+0 0 36362
+D3
+~
+~
+0 0 36356
+D4
+~
+~
+0 0 36358
+S
+#36360
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  
+~
+0 33562636 0
+D2
+~
+~
+0 0 36361
+D3
+~
+~
+0 0 36359
+S
+#36361
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  A ladder here
+allows you to climb out of the slime and stench of the pit.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36360
+D2
+~
+~
+0 0 36384
+D3
+~
+~
+0 0 36362
+D4
+~
+~
+0 0 36372
+S
+#36362
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36359
+D1
+~
+~
+0 0 36361
+D2
+~
+~
+0 0 36383
+D3
+~
+~
+0 0 36365
+S
+#36363
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  The slime and stench of
+the pit appears to be a short hop down from here, but there doesn't appear
+to be a way back up.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36358
+D2
+~
+~
+0 0 36370
+D3
+~
+~
+0 0 36364
+D5
+~
+~
+0 0 36362
+S
+#36364
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  The slime and stench of
+the pit appears to be a short hop down from here, but there doesn't appear
+to be a way back up.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36357
+D1
+~
+~
+0 0 36363
+D2
+~
+~
+0 0 36369
+D5
+~
+~
+0 0 36365
+S
+#36365
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36356
+D1
+~
+~
+0 0 36362
+D2
+~
+~
+0 0 36380
+D3
+~
+~
+0 0 36366
+S
+#36366
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  A ladder here
+allows you to climb out of the slime and stench of the pit.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36355
+D1
+~
+~
+0 0 36365
+D2
+~
+~
+0 0 36379
+D4
+~
+~
+0 0 36367
+S
+#36367
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  A ladder here leads down
+into the slime and stench of the pit.
+~
+0 33562636 0
+D1
+~
+~
+0 0 36368
+D2
+~
+~
+0 0 36378
+D3
+~
+~
+0 0 36372
+D5
+~
+~
+0 0 36366
+S
+#36368
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  The slime and stench of
+the pit appears to be a short hop down from here, but there doesn't appear
+to be a way back up.  
+~
+0 33562636 0
+D1
+~
+~
+0 0 36369
+D2
+~
+~
+0 0 36377
+D3
+~
+~
+0 0 36367
+D5
+~
+~
+0 0 36365
+S
+#36369
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36364
+D1
+~
+~
+0 0 36370
+D2
+~
+~
+0 0 36376
+D3
+~
+~
+0 0 36368
+S
+#36370
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.
+~
+0 33562636 0
+D0
+~
+~
+0 0 36363
+D1
+~
+~
+0 0 36371
+D2
+~
+~
+0 0 36375
+D3
+~
+~
+0 0 36369
+S
+#36371
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  The slime and stench of
+the pit appears to be a short hop down from here, but there doesn't appear
+to be a way back up.  
+~
+0 33562636 0
+D1
+~
+~
+0 0 36372
+D2
+~
+~
+0 0 36374
+D3
+~
+~
+0 0 36370
+D5
+~
+~
+0 0 36362
+S
+#36372
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  A ladder here leads down
+into the slime and stench of the pit.
+~
+0 33562636 0
+D1
+~
+~
+0 0 36367
+D2
+~
+~
+0 0 36373
+D3
+~
+~
+0 0 36371
+D5
+~
+~
+0 0 36361
+S
+#36373
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  A ladder here leads down
+into the slime and stench of the pit.
+~
+0 33562636 0
+D0
+~
+~
+0 0 36372
+D1
+~
+~
+0 0 36378
+D3
+~
+~
+0 0 36374
+D5
+~
+~
+0 0 36384
+S
+#36374
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  The slime and stench of
+the pit appears to be a short hop down from here, but there doesn't appear
+to be a way back up.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36371
+D1
+~
+~
+0 0 36373
+D3
+~
+~
+0 0 36375
+D5
+~
+~
+0 0 36383
+S
+#36375
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.
+~
+0 33562636 0
+D0
+~
+~
+0 0 36370
+D1
+~
+~
+0 0 36374
+D2
+~
+~
+0 0 36382
+D3
+~
+~
+0 0 36376
+S
+#36376
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.
+~
+0 33562636 0
+D0
+~
+~
+0 0 36369
+D1
+~
+~
+0 0 36375
+D2
+~
+~
+0 0 36381
+D3
+~
+~
+0 0 36377
+S
+#36377
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  The slime and stench of
+the pit appears to be a short hop down from here, but there doesn't appear
+to be a way back up.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36368
+D1
+~
+~
+0 0 36376
+D3
+~
+~
+0 0 36378
+D5
+~
+~
+0 0 36380
+S
+#36378
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  A ladder here leads down
+into the slime and stench of the pit.
+~
+0 33562636 0
+D0
+~
+~
+0 0 36367
+D1
+~
+~
+0 0 36377
+D3
+~
+~
+0 0 36373
+D5
+~
+~
+0 0 36379
+S
+#36379
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  A ladder here
+allows you to climb out of the slime and stench of the pit.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36366
+D1
+~
+~
+0 0 36380
+D2
+~
+~
+0 0 36390
+D4
+~
+~
+0 0 36378
+S
+#36380
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36365
+D1
+~
+~
+0 0 36383
+D2
+~
+~
+0 0 36389
+D3
+~
+~
+0 0 36379
+S
+#36381
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  The slime and stench of
+the pit appears to be a short hop down from here, but there doesn't appear
+to be a way back up.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36376
+D1
+~
+~
+0 0 36382
+D2
+~
+~
+0 0 36388
+D5
+~
+~
+0 0 36380
+S
+#36382
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  The slime and stench of
+the pit appears to be a short hop down from here, but there doesn't appear
+to be a way back up.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36375
+D2
+~
+~
+0 0 36387
+D3
+~
+~
+0 0 36381
+D5
+~
+~
+0 0 36383
+S
+#36383
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36362
+D1
+~
+~
+0 0 36384
+D2
+~
+~
+0 0 36386
+D3
+~
+~
+0 0 36380
+S
+#36384
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  A ladder here
+allows you to climb out of the slime and stench of the pit.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36361
+D2
+~
+~
+0 0 36385
+D3
+~
+~
+0 0 36383
+D4
+~
+~
+0 0 36373
+S
+#36385
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36384
+D3
+~
+~
+0 0 36386
+S
+#36386
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  A ladder here
+allows you to climb out of the slime and stench of the pit.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36383
+D1
+~
+~
+0 0 36385
+D3
+~
+~
+0 0 36389
+D4
+~
+~
+0 0 36387
+S
+#36387
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  A ladder here leads down
+into the slime and stench of the pit.
+~
+0 33562636 0
+D0
+~
+~
+0 0 36382
+D2
+~
+~
+0 0 36358
+D3
+~
+~
+0 0 36388
+D5
+~
+~
+0 0 36386
+S
+#36388
+The Arena Floor~
+The roar of the crowd echoes from above and around.  Beautifully raked
+sand waits eagerly to accept the blood that will soon be spilt upon it. 
+Only two ways out of the arena: victorous or dead.  A ladder here leads down
+into the slime and stench of the pit.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36381
+D1
+~
+~
+0 0 36387
+D2
+~
+~
+0 0 36357
+D5
+~
+~
+0 0 36389
+S
+#36389
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  A ladder here
+allows you to climb out of the slime and stench of the pit.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36380
+D1
+~
+~
+0 0 36386
+D3
+~
+~
+0 0 36390
+D4
+~
+~
+0 0 36388
+S
+#36390
+The Pit~
+The roar of the crowd echoes overhead.  Movement is slow in this morasses
+of blood, mud, and the remains of previous combatants.  There is little
+movement of the air here, and the smell is overpowering.  
+~
+0 33562636 0
+D0
+~
+~
+0 0 36379
+D1
+~
+~
+0 0 36389
+S
+#36391
+The Loser's Resting Spot~
+You see blood splattered everywhere.  This place smells of death, sweat,
+and other foul odors you cant distinguish.  As you think back to your
+PITIFUL loss you see a rat scamper across the floor.  You <<*SMASH*>> the
+poor defenseless creature because you have no other way to take out your
+anger, and obviously you cant win against another person!  
+~
+0 1032 0
+D0
+~
+~
+0 0 3014
+D2
+~
+~
+0 0 3000
+S
+#36392
+The Winner's Circle~
+You enter the room of Champions.  You must have won to deserve such a
+great chance at this spot.  You hear the crowds cheering for you, and the
+critics booing as usual.  From your vantage spot you can see all the people
+that are fighting in the arena below.  {zCONGRATS!  {x You are indeed the
+Winner!  
+~
+0 1036 0
+D0
+~
+~
+0 0 3014
+D2
+~
+~
+0 0 3000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 36308 5 1
+D 0 36309 5 1
+D 0 36310 5 1
+D 0 36311 5 1
+D 0 36315 4 1
+D 0 36320 5 1
+D 0 36322 5 1
+D 0 36325 5 1
+D 0 36329 5 1
+D 0 36331 5 1
+D 0 36340 2 2
+D 0 36341 1 2
+D 0 36342 0 2
+D 0 36343 3 2
+D 0 36344 1 2
+D 0 36345 0 2
+D 0 36346 3 2
+D 0 36347 2 2
+D 0 36348 1 2
+D 0 36349 3 2
+D 0 36350 2 2
+D 0 36351 0 2
+D 0 36351 1 2
+D 0 36351 2 2
+D 0 36351 3 2
+D 0 36352 0 2
+D 0 36352 1 2
+D 0 36352 2 2
+D 0 36352 3 2
+D 0 36353 0 2
+D 0 36353 1 2
+D 0 36353 2 2
+D 0 36353 3 2
+D 0 36354 0 2
+O 0 36300 0 36300
+M 0 36300 1 36303 1
+O 0 36311 0 36303
+O 0 36301 0 36303
+R 0 36304 4
+R 0 36305 4
+R 0 36307 4
+R 0 36308 4
+R 0 36309 4
+R 0 36310 4
+R 0 36311 4
+R 0 36312 4
+R 0 36313 4
+R 0 36314 4
+O 0 36313 0 36315
+R 0 36316 4
+R 0 36317 4
+R 0 36318 4
+R 0 36319 4
+R 0 36320 4
+R 0 36321 4
+R 0 36322 4
+R 0 36323 4
+R 0 36324 4
+R 0 36325 4
+R 0 36326 4
+R 0 36327 4
+R 0 36328 4
+R 0 36329 4
+R 0 36330 4
+R 0 36331 4
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

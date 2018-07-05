@@ -1,0 +1,210 @@
+Max_On 2
+MostOn 1
+Good_G {WDivinity{x~
+Evil_G {rS{Rhry{rp{x~
+Neut_G {GNeutrality{x~
+MudNam {rA{Rbandone{rd D{Ramnatio{rn{x~
+QstObj 1 3 46
+QsGold 25 200
+QPoint 1 15
+QstExp 50 500
+Random 700 825
+Unique 843 899
+
+Chann Answer
+Self  You answer '{P$t{x'~
+Other $n answers '{P$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_YELLOW
+Flags F
+Level 0
+Vrble P
+End
+
+Chann Ask
+Self  You ask '{P$t{x'~
+Other $n asks '{P$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_YELLOW
+Flags F
+Level 0
+Vrble P
+End
+
+Chann Barter
+Self  You barter: {A$t{x~
+Other $n {Abarters{x '{A$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_BLUE
+Flags B
+Level 0
+Vrble A
+End
+
+Chann ClanGossip
+Self  You cgossip '{E$t{x'~
+Other $n cgossips '{E$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_BLUE
+Flags X
+Level 0
+Vrble E
+End
+
+Chann Flame
+Self  You {Rf{rl{Ya{rm{Re{x '{p$t{x'~
+Other $n {Rf{rl{Yam{re{Rs{x '{p$t{x'~
+Arena 0
+Censr 0
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_RED
+Flags J
+Level 0
+Vrble p
+End
+
+Chann Gossip
+Self  You gossip '{H$t{x'~
+Other $n gossips '{H$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_BLUE
+Flags E
+Level 0
+Vrble H
+End
+
+Chann Grats
+Self  You {W({Dg{Wra{Dt{W){x '{J$t{x'~
+Other $n {W({Dgr{Wat{Ds{W){x '{J$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color GREY
+Flags R
+Level 0
+Vrble J
+End
+
+Chann Herotalk
+Self  You [{uHERO{x] '{u$t{x'~
+Other $n [{uHERO{x] '{u$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color GREEN
+Flags K
+Level 101
+Vrble u
+End
+
+Chann IC
+Self  You {W>*{CIC{W*<{x {v$t{x~
+Other $n {W>*{CIC{W*<{x {v$t{x~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_CYAN
+Flags O
+Level 0
+Vrble v
+End
+
+Chann Immtalk
+Self  {WYou: {L$t{x~
+Other {W$n: {L$t{x~
+Arena 1
+Censr 0
+Drunk 0
+PTitl 0
+Quiet 1
+Color BRIGHT_RED
+Flags C
+Level 102
+Vrble L
+End
+
+Chann OOC
+Self  You {M[{WO{wO{WC{M]{x '{n$t{x'~
+Other $n {M[{WO{wO{WC{M]{x '{n$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_CYAN
+Flags D
+Level 0
+Vrble n
+End
+
+Chann QuestGossip
+Self  You qgossip '{l$t{x'~
+Other $n qgossips '{l$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color MAGENTA
+Flags c
+Level 0
+Vrble l
+End
+
+Chann Quote
+Self  You quote '{Q$t{x'~
+Other $n quotes '{Q$t{x'~
+Arena 0
+Censr 1
+Drunk 0
+PTitl 0
+Quiet 0
+Color GREY
+Flags I
+Level 0
+Vrble Q
+End
+
+Chann Racetalk
+Self  $n [{oRACE{x] '{o$t{x'~
+Other $n [{oRACE{x] '{o$t{x'~
+Arena 0
+Censr 1
+Drunk 1
+PTitl 1
+Quiet 0
+Color BRIGHT_BLUE
+Flags G
+Level 0
+Vrble o
+End
+
+END

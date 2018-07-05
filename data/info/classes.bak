@@ -1,0 +1,2874 @@
+#MAX_CLASS 25
+
+#Class
+Name mage~
+WhoN {WM{wag{x
+Attr 1
+Thac 20 6
+HitP 16 23
+Mana 80
+Disa 0
+Base mage basics~
+Deft mage default~
+SubC mage
+Tier 1
+Skil 'acid blast' 55 3
+Skil 'acid breath' 100 2
+Skil 'acidshield' 100 3
+Skil 'armor' 15 1
+Skil 'blindness' 40 2
+Skil 'blink' 90 6
+Skil 'blizzard' 50 5
+Skil 'burning hands' 5 1
+Skil 'chain lightning' 80 1
+Skil 'change sex' 10 1
+Skil 'channel' 90 1
+Skil 'charm person' 20 1
+Skil 'colour spray' 25 1
+Skil 'conjure' 60 1
+Skil 'continual light' 1 1
+Skil 'create food' 10 1
+Skil 'create spring' 35 1
+Skil 'create water' 1 1
+Skil 'decrement' 83 4
+Skil 'detect hidden' 25 1
+Skil 'detect invis' 10 1
+Skil 'detect magic' 1 1
+Skil 'dispel magic' 75 5
+Skil 'empower potion' 55 3
+Skil 'empower scroll' 55 3
+Skil 'enchant armor' 101 2
+Skil 'enchant weapon' 101 2
+Skil 'farsight' 15 1
+Skil 'fire breath' 98 2
+Skil 'fireball' 60 1
+Skil 'fireproof' 55 1
+Skil 'fireshield' 65 3
+Skil 'fly' 20 1
+Skil 'frost breath' 95 2
+Skil 'gas breath' 90 2
+Skil 'gate' 50 1
+Skil 'glacier' 95 1
+Skil 'growth' 75 3
+Skil 'heat metal' 50 1
+Skil 'iceshield' 25 3
+Skil 'identify' 55 1
+Skil 'incinerate' 95 1
+Skil 'intellect' 25 1
+Skil 'invisibility' 55 1
+Skil 'lightning bolt' 60 1
+Skil 'lightning breath' 97 2
+Skil 'locate object' 65 1
+Skil 'magic missile' 1 1
+Skil 'mana tap' 101 4
+Skil 'mass invis' 85 1
+Skil 'nexus' 100 2
+Skil 'pass door' 65 1
+Skil 'portal' 100 2
+Skil 'recharge' 70 1
+Skil 'refresh' 15 1
+Skil 'sanctuary' 90 3
+Skil 'shadowplay' 102 0
+Skil 'shield' 20 1
+Skil 'shocking grasp' 60 1
+Skil 'shockshield' 90 3
+Skil 'shrink' 95 3
+Skil 'sleep' 70 4
+Skil 'summon' 70 1
+Skil 'teleport' 65 1
+Skil 'thunderbolt' 95 1
+Skil 'transfix' 50 3
+Skil 'transport' 70 1
+Skil 'wizard eye' 101 4
+Skil 'concentration' 102 0
+Skil 'dagger' 1 2
+Skil 'dodge' 35 10
+Skil 'eighth attack' 102 0
+Skil 'hack' 75 9
+Skil 'haggle' 20 1
+Skil 'kick' 50 1
+Skil 'knife fighter' 102 0
+Skil 'master of magic' 106 1
+Skil 'meditation' 15 7
+Skil 'phase' 25 7
+Skil 'quarterstaff' 1 2
+Skil 'recall' 1 2
+Skil 'repair' 101 3
+Skil 'rub' 30 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 5
+Skil 'second attack' 30 6
+Skil 'shield block' 40 5
+Skil 'shield levitate' 50 4
+Skil 'staves' 1 2
+Skil 'third attack' 40 6
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 3
+Skil 'whip' 1 5
+Grup 'attack' 1
+Grup 'beguiling' 7
+Grup 'combat' 12
+Grup 'conjuration' 4
+Grup 'creation' 7
+Grup 'detection' 10
+Grup 'draconian' 8
+Grup 'elemental' 4
+Grup 'enchantment' 9
+Grup 'enhancement' 8
+Grup 'harmful' 4
+Grup 'healing' 3
+Grup 'illusion' 2
+Grup 'mage basics' 0
+Grup 'mage default' 40
+Grup 'maladictions' 11
+Grup 'protective' 6
+Grup 'rom basics' 0
+Grup 'shielding' 8
+Grup 'transportation' 9
+Grup 'weaponsmaster' 10
+End
+
+#Class
+Name cleric~
+WhoN {WC{wle{x
+Attr 2
+Thac 20 2
+HitP 12 19
+Mana 90
+Disa 0
+Base cleric basics~
+Deft cleric default~
+SubC cleric
+Tier 1
+Skil 'angelfire' 75 1
+Skil 'armor' 30 1
+Skil 'bless' 40 1
+Skil 'blindness' 50 2
+Skil 'calm' 100 2
+Skil 'cancellation' 85 1
+Skil 'cause critical' 90 1
+Skil 'cause light' 50 1
+Skil 'cause serious' 60 1
+Skil 'channel' 80 1
+Skil 'charm person' 101 2
+Skil 'continual light' 1 1
+Skil 'create food' 1 1
+Skil 'create rose' 10 1
+Skil 'create spring' 40 1
+Skil 'create water' 1 1
+Skil 'cure blindness' 15 1
+Skil 'cure critical' 60 1
+Skil 'cure disease' 25 1
+Skil 'cure light' 1 1
+Skil 'cure poison' 30 1
+Skil 'cure serious' 45 1
+Skil 'curse' 75 4
+Skil 'demonfire' 70 2
+Skil 'detect evil' 15 1
+Skil 'detect good' 15 1
+Skil 'detect hidden' 20 1
+Skil 'detect invis' 15 1
+Skil 'detect neutral' 15 1
+Skil 'devotion' 100 1
+Skil 'dispel evil' 5 1
+Skil 'dispel good' 5 1
+Skil 'dispel magic' 90 5
+Skil 'divine aura' 90 3
+Skil 'divine heal' 101 1
+Skil 'divine truth' 101 5
+Skil 'divinity' 75 2
+Skil 'empower potion' 50 3
+Skil 'empower scroll' 50 3
+Skil 'faith' 100 3
+Skil 'farsight' 25 1
+Skil 'fireproof' 65 2
+Skil 'flamestrike' 40 1
+Skil 'floating disc' 50 1
+Skil 'fly' 25 1
+Skil 'frenzy' 85 1
+Skil 'gate' 60 2
+Skil 'glacial aura' 75 1
+Skil 'groupheal' 69 2
+Skil 'harm' 95 1
+Skil 'heal' 80 1
+Skil 'heat metal' 80 2
+Skil 'heresy' 100 4
+Skil 'holy word' 90 2
+Skil 'iceshield' 55 3
+Skil 'identify' 30 1
+Skil 'locate object' 100 2
+Skil 'locust swarm' 101 3
+Skil 'mass healing' 95 2
+Skil 'nexus' 70 2
+Skil 'plague' 60 2
+Skil 'portal' 70 3
+Skil 'protection evil' 65 1
+Skil 'protection good' 60 1
+Skil 'protection neutral' 70 1
+Skil 'protection voodoo' 95 2
+Skil 'ray of deceit' 80 1
+Skil 'ray of truth' 80 1
+Skil 'refresh' 30 1
+Skil 'regeneration' 100 3
+Skil 'remove curse' 90 1
+Skil 'sanctuary' 45 1
+Skil 'shadowplay' 102 0
+Skil 'shield' 85 1
+Skil 'shockshield' 45 3
+Skil 'summon' 100 2
+Skil 'transport' 85 1
+Skil 'vigorize' 65 3
+Skil 'wisdom' 45 1
+Skil 'axe' 1 5
+Skil 'concentration' 102 0
+Skil 'dagger' 1 5
+Skil 'dirt kicking' 60 3
+Skil 'dodge' 40 10
+Skil 'eighth attack' 102 0
+Skil 'flail' 1 2
+Skil 'hack' 80 9
+Skil 'haggle' 20 1
+Skil 'hand to hand' 100 1
+Skil 'kick' 60 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 2
+Skil 'master of magic' 102 0
+Skil 'meditation' 10 6
+Skil 'phase' 30 8
+Skil 'polearm' 1 5
+Skil 'quarterstaff' 1 5
+Skil 'recall' 1 2
+Skil 'repair' 101 3
+Skil 'rub' 30 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 5
+Skil 'second attack' 30 6
+Skil 'shield block' 25 4
+Skil 'shield levitate' 50 4
+Skil 'spear' 1 5
+Skil 'staves' 1 2
+Skil 'sword' 1 5
+Skil 'third attack' 40 7
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 4
+Skil 'whip' 1 3
+Grup 'attack' 9
+Grup 'beguiling' 3
+Grup 'benedictions' 9
+Grup 'cleric basics' 0
+Grup 'cleric default' 40
+Grup 'creation' 9
+Grup 'curative' 5
+Grup 'detection' 12
+Grup 'enchantment' 5
+Grup 'enhancement' 5
+Grup 'harmful' 4
+Grup 'healing' 8
+Grup 'maladictions' 10
+Grup 'prayer' 8
+Grup 'protective' 12
+Grup 'rom basics' 0
+Grup 'shielding' 6
+Grup 'transportation' 9
+Grup 'weaponsmaster' 36
+End
+
+#Class
+Name thief~
+WhoN {WT{whi{x
+Attr 3
+Thac 20 -4
+HitP 25 32
+Mana 25
+Disa 0
+Base thief basics~
+Deft thief default~
+SubC thief
+Tier 1
+Skil 'shadowplay' 102 0
+Skil 'ventriloquate' 2 2
+Skil 'axe' 1 4
+Skil 'backstab' 10 5
+Skil 'circle' 30 5
+Skil 'concentration' 102 0
+Skil 'critical strike' 90 5
+Skil 'dagger' 1 2
+Skil 'dirt kicking' 10 3
+Skil 'disarm' 30 8
+Skil 'disguise' 50 2
+Skil 'dodge' 5 6
+Skil 'dual wield' 30 7
+Skil 'eighth attack' 102 0
+Skil 'engage' 100 8
+Skil 'envenom' 15 3
+Skil 'fast healing' 30 8
+Skil 'flail' 1 4
+Skil 'fourth attack' 60 8
+Skil 'gouge' 50 5
+Skil 'hack' 65 3
+Skil 'haggle' 10 1
+Skil 'hand to hand' 5 1
+Skil 'hide' 1 3
+Skil 'kick' 10 1
+Skil 'knife fighter' 106 1
+Skil 'lore' 20 4
+Skil 'mace' 1 3
+Skil 'master of magic' 102 0
+Skil 'parry' 25 5
+Skil 'peek' 1 5
+Skil 'pick lock' 10 7
+Skil 'polearm' 1 4
+Skil 'quarterstaff' 1 4
+Skil 'recall' 1 2
+Skil 'repair' 90 3
+Skil 'rub' 20 3
+Skil 'scrolls' 95 2
+Skil 'scythe' 1 4
+Skil 'second attack' 20 6
+Skil 'slip' 60 4
+Skil 'sneak' 20 3
+Skil 'spear' 1 5
+Skil 'stalk' 70 5
+Skil 'steal' 30 2
+Skil 'strangle' 100 6
+Skil 'sword' 1 7
+Skil 'tackle' 85 6
+Skil 'third attack' 30 4
+Skil 'trap disarm' 111 1
+Skil 'trip' 10 3
+Skil 'whip' 1 4
+Grup 'illusion' 3
+Grup 'rom basics' 0
+Grup 'thief basics' 0
+Grup 'thief default' 40
+Grup 'weaponsmaster' 24
+End
+
+#Class
+Name warrior~
+WhoN {WW{war{x
+Attr 0
+Thac 20 -10
+HitP 32 39
+Mana 35
+Disa 0
+Base warrior basics~
+Deft warrior default~
+SubC warrior
+Tier 1
+Skil 'shadowplay' 102 0
+Skil 'axe' 1 2
+Skil 'bandage' 20 5
+Skil 'bash' 9 3
+Skil 'berserk' 20 1
+Skil 'charge' 55 3
+Skil 'concentration' 102 0
+Skil 'counter' 80 5
+Skil 'critical damage' 95 6
+Skil 'cross slash' 60 3
+Skil 'cyclone' 75 4
+Skil 'dagger' 1 2
+Skil 'dirt kicking' 20 3
+Skil 'disarm' 25 7
+Skil 'dislodge' 30 2
+Skil 'dodge' 15 6
+Skil 'dual wield' 10 7
+Skil 'eighth attack' 106 1
+Skil 'engage' 45 7
+Skil 'enhanced damage' 16 4
+Skil 'fast healing' 20 7
+Skil 'fifth attack' 60 7
+Skil 'flail' 1 4
+Skil 'fourth attack' 30 7
+Skil 'gash' 55 6
+Skil 'grip' 40 4
+Skil 'hack' 60 3
+Skil 'haggle' 100 1
+Skil 'hand to hand' 1 1
+Skil 'headbutt' 100 7
+Skil 'kick' 15 1
+Skil 'knife fighter' 102 0
+Skil 'lore' 30 4
+Skil 'lunge' 30 3
+Skil 'mace' 1 2
+Skil 'master of magic' 102 0
+Skil 'parry' 20 5
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 1 2
+Skil 'recall' 1 2
+Skil 'repair' 90 3
+Skil 'rescue' 15 3
+Skil 'retreat' 65 3
+Skil 'rub' 25 3
+Skil 'scythe' 1 2
+Skil 'second attack' 1 5
+Skil 'seventh attack' 100 7
+Skil 'sharpen' 30 4
+Skil 'shield smash' 21 3
+Skil 'sixth attack' 80 6
+Skil 'spear' 1 2
+Skil 'stun' 38 5
+Skil 'sword' 1 2
+Skil 'tackle' 25 3
+Skil 'third attack' 10 3
+Skil 'trap disarm' 111 1
+Skil 'trip' 15 3
+Skil 'ultra damage' 84 6
+Skil 'whip' 1 2
+Grup 'rom basics' 0
+Grup 'warrior basics' 0
+Grup 'warrior default' 40
+Grup 'weaponsmaster' 15
+End
+
+#Class
+Name ranger~
+WhoN {WR{wan{x
+Attr 0
+Thac 20 -4
+HitP 26 33
+Mana 50
+Disa 0
+Base ranger basics~
+Deft ranger default~
+SubC ranger
+Tier 1
+Skil 'awen' 100 3
+Skil 'barkskin' 100 2
+Skil 'call lightning' 60 1
+Skil 'continual light' 10 1
+Skil 'control weather' 40 1
+Skil 'create food' 1 1
+Skil 'create raft' 1 2
+Skil 'create rose' 1 1
+Skil 'create spring' 1 1
+Skil 'create water' 1 1
+Skil 'cure blindness' 40 2
+Skil 'cure disease' 30 2
+Skil 'cure light' 10 3
+Skil 'cure poison' 15 2
+Skil 'cure serious' 75 3
+Skil 'detect hidden' 15 1
+Skil 'detect invis' 25 1
+Skil 'detect poison' 15 1
+Skil 'detect terrain' 1 1
+Skil 'earthquake' 45 2
+Skil 'entangle' 70 2
+Skil 'faerie fire' 60 1
+Skil 'faerie fog' 90 1
+Skil 'farsight' 10 1
+Skil 'floating disc' 50 1
+Skil 'fly' 10 2
+Skil 'glacier' 101 1
+Skil 'golden armor' 100 1
+Skil 'haste' 80 2
+Skil 'identify' 50 1
+Skil 'incinerate' 101 1
+Skil 'poison' 70 2
+Skil 'refresh' 10 2
+Skil 'shadowplay' 102 0
+Skil 'shield' 90 2
+Skil 'snow storm' 100 5
+Skil 'thunderbolt' 101 1
+Skil 'transport' 80 2
+Skil 'ambush' 40 14
+Skil 'axe' 1 4
+Skil 'axe mastery' 100 4
+Skil 'berserk' 50 3
+Skil 'camouflage' 40 8
+Skil 'concentration' 106 1
+Skil 'critical damage' 101 6
+Skil 'cross slash' 60 3
+Skil 'dagger' 1 3
+Skil 'dart' 80 3
+Skil 'dirt kicking' 20 3
+Skil 'disarm' 40 8
+Skil 'dodge' 30 7
+Skil 'dual wield' 25 7
+Skil 'eighth attack' 102 0
+Skil 'engage' 85 8
+Skil 'enhanced damage' 36 6
+Skil 'fast healing' 30 7
+Skil 'flail' 1 4
+Skil 'forest meld' 40 8
+Skil 'fourth attack' 60 7
+Skil 'gash' 65 6
+Skil 'grip' 60 4
+Skil 'hack' 65 3
+Skil 'haggle' 50 1
+Skil 'hand to hand' 1 1
+Skil 'hide' 15 3
+Skil 'hone' 30 5
+Skil 'kick' 10 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 4
+Skil 'master of magic' 102 0
+Skil 'meditation' 15 7
+Skil 'parry' 20 7
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 1 4
+Skil 'raze' 75 5
+Skil 'recall' 1 2
+Skil 'repair' 90 3
+Skil 'rescue' 10 5
+Skil 'rub' 30 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 3
+Skil 'second attack' 15 5
+Skil 'shield block' 50 4
+Skil 'shield levitate' 60 6
+Skil 'spear' 1 2
+Skil 'stalk' 50 7
+Skil 'staves' 1 2
+Skil 'sword' 1 2
+Skil 'third attack' 25 4
+Skil 'track' 5 2
+Skil 'trap disarm' 111 1
+Skil 'trap set' 70 4
+Skil 'trip' 15 3
+Skil 'wands' 1 4
+Skil 'whip' 1 4
+Grup 'creation' 3
+Grup 'curative' 8
+Grup 'detection' 7
+Grup 'elemental' 4
+Grup 'enhancement' 5
+Grup 'healing' 3
+Grup 'maladictions' 5
+Grup 'protective' 8
+Grup 'ranger basics' 0
+Grup 'ranger default' 40
+Grup 'rom basics' 0
+Grup 'transportation' 8
+Grup 'weaponsmaster' 24
+Grup 'weather' 9
+End
+
+#Class
+Name druid~
+WhoN {WD{wru{x
+Attr 2
+Thac 20 0
+HitP 18 25
+Mana 75
+Disa 0
+Base druid basics~
+Deft druid default~
+SubC druid
+Tier 1
+Skil 'acid storm' 60 5
+Skil 'armor' 80 1
+Skil 'awen' 95 2
+Skil 'backdraft' 80 1
+Skil 'barkskin' 75 1
+Skil 'bless' 60 2
+Skil 'call lightning' 45 1
+Skil 'cancellation' 100 1
+Skil 'cause critical' 90 2
+Skil 'cause light' 50 2
+Skil 'cause serious' 80 2
+Skil 'chain lightning' 100 2
+Skil 'colour spray' 100 2
+Skil 'conjure' 100 2
+Skil 'constitution' 35 1
+Skil 'continual light' 1 1
+Skil 'control weather' 30 1
+Skil 'create food' 1 1
+Skil 'create raft' 5 2
+Skil 'create rose' 1 1
+Skil 'create spring' 1 1
+Skil 'create water' 21 1
+Skil 'cure blindness' 50 1
+Skil 'cure critical' 70 2
+Skil 'cure disease' 90 1
+Skil 'cure light' 5 2
+Skil 'cure poison' 40 1
+Skil 'cure serious' 55 2
+Skil 'detect evil' 15 1
+Skil 'detect good' 15 1
+Skil 'detect hidden' 20 1
+Skil 'detect invis' 20 1
+Skil 'detect neutral' 15 1
+Skil 'detect poison' 25 1
+Skil 'detect terrain' 1 1
+Skil 'downpour' 80 3
+Skil 'earthquake' 1 1
+Skil 'electrical storm' 65 5
+Skil 'empower potion' 98 3
+Skil 'empower scroll' 98 3
+Skil 'entangle' 70 2
+Skil 'faerie fire' 70 1
+Skil 'faerie fog' 30 1
+Skil 'farsight' 15 1
+Skil 'fire storm' 85 3
+Skil 'fireball' 50 1
+Skil 'fireproof' 65 1
+Skil 'fireshield' 55 3
+Skil 'floating disc' 60 1
+Skil 'fly' 40 1
+Skil 'frenzy' 90 1
+Skil 'gate' 70 3
+Skil 'giant strength' 30 1
+Skil 'glacier' 91 1
+Skil 'haste' 50 1
+Skil 'heal' 90 2
+Skil 'heat metal' 100 2
+Skil 'iceshield' 45 3
+Skil 'identify' 55 1
+Skil 'incinerate' 91 1
+Skil 'invisibility' 45 2
+Skil 'lightning bolt' 35 1
+Skil 'locust swarm' 90 2
+Skil 'magic missile' 5 2
+Skil 'refresh' 10 1
+Skil 'remove curse' 95 2
+Skil 'rockshield' 95 3
+Skil 'sanctuary' 100 2
+Skil 'shadowplay' 102 0
+Skil 'shield' 60 1
+Skil 'shocking grasp' 35 2
+Skil 'shockshield' 95 3
+Skil 'snow storm' 75 3
+Skil 'stone skin' 90 2
+Skil 'summon' 100 2
+Skil 'thornshield' 75 3
+Skil 'thunderbolt' 91 1
+Skil 'transport' 85 1
+Skil 'watershield' 55 3
+Skil 'axe' 1 5
+Skil 'concentration' 102 0
+Skil 'dagger' 1 5
+Skil 'dirt kicking' 40 3
+Skil 'dodge' 35 7
+Skil 'eighth attack' 102 0
+Skil 'fast healing' 40 8
+Skil 'flail' 1 2
+Skil 'hack' 70 3
+Skil 'haggle' 30 1
+Skil 'hand to hand' 90 1
+Skil 'kick' 45 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 2
+Skil 'master of magic' 102 0
+Skil 'meditation' 10 4
+Skil 'phase' 20 3
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 1 1
+Skil 'raze' 65 5
+Skil 'recall' 1 2
+Skil 'repair' 101 3
+Skil 'rub' 30 4
+Skil 'scrolls' 1 1
+Skil 'scythe' 1 5
+Skil 'second attack' 30 7
+Skil 'shield block' 10 3
+Skil 'shield levitate' 50 4
+Skil 'spear' 1 2
+Skil 'staves' 1 1
+Skil 'sword' 1 5
+Skil 'third attack' 40 6
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 3
+Skil 'whip' 1 5
+Grup 'attack' 5
+Grup 'benedictions' 9
+Grup 'combat' 6
+Grup 'conjuration' 4
+Grup 'creation' 10
+Grup 'curative' 5
+Grup 'detection' 11
+Grup 'druid basics' 0
+Grup 'druid default' 40
+Grup 'elemental' 3
+Grup 'enchantment' 4
+Grup 'enhancement' 4
+Grup 'harmful' 4
+Grup 'healing' 8
+Grup 'illusion' 2
+Grup 'maladictions' 4
+Grup 'protective' 13
+Grup 'rom basics' 0
+Grup 'shielding' 9
+Grup 'transportation' 8
+Grup 'weaponsmaster' 36
+Grup 'weather' 14
+End
+
+#Class
+Name acolyte~
+WhoN {WA{wco{x
+Attr 4
+Thac 20 -30
+HitP 17 24
+Mana 60
+Disa 0
+Base acolyte basics~
+Deft acolyte default~
+SubC acolyte
+Tier 1
+Skil 'animate' 50 1
+Skil 'blindness' 50 2
+Skil 'bloodbath' 85 3
+Skil 'cause light' 90 3
+Skil 'cause serious' 100 3
+Skil 'charm person' 60 1
+Skil 'chill touch' 20 1
+Skil 'curse' 50 4
+Skil 'decrement' 89 5
+Skil 'demonfire' 100 3
+Skil 'detect evil' 15 1
+Skil 'detect good' 15 1
+Skil 'detect hidden' 15 1
+Skil 'detect invis' 30 1
+Skil 'detect neutral' 15 1
+Skil 'energy drain' 25 1
+Skil 'farsight' 25 1
+Skil 'fly' 30 1
+Skil 'frenzy' 70 2
+Skil 'gate' 70 3
+Skil 'identify' 40 1
+Skil 'infravision' 1 2
+Skil 'invisibility' 20 1
+Skil 'leech' 75 1
+Skil 'locust swarm' 95 5
+Skil 'luminrati' 101 5
+Skil 'mass invis' 80 2
+Skil 'nightmare' 75 3
+Skil 'pass door' 10 1
+Skil 'plague' 50 1
+Skil 'poison' 45 1
+Skil 'ray of deceit' 60 1
+Skil 'refresh' 35 2
+Skil 'shadowplay' 106 1
+Skil 'shrapnelshield' 95 5
+Skil 'sleep' 30 3
+Skil 'slow' 65 1
+Skil 'summon' 90 2
+Skil 'swarm' 85 3
+Skil 'transport' 85 1
+Skil 'vampiricshield' 80 3
+Skil 'ventriloquate' 1 1
+Skil 'voodoo' 95 3
+Skil 'weaken' 35 1
+Skil 'axe' 1 4
+Skil 'concentration' 102 0
+Skil 'dagger' 1 5
+Skil 'dirt kicking' 25 3
+Skil 'disarm' 40 7
+Skil 'dodge' 25 8
+Skil 'eighth attack' 102 0
+Skil 'enhanced damage' 82 6
+Skil 'envenom' 80 3
+Skil 'fast healing' 15 7
+Skil 'flail' 1 2
+Skil 'fourth attack' 90 12
+Skil 'hack' 60 3
+Skil 'haggle' 25 1
+Skil 'hand to hand' 1 1
+Skil 'hide' 25 3
+Skil 'kick' 35 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 4
+Skil 'master of magic' 102 0
+Skil 'meditation' 10 5
+Skil 'parry' 20 8
+Skil 'peek' 50 7
+Skil 'pick lock' 30 7
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 1 4
+Skil 'recall' 1 2
+Skil 'repair' 101 3
+Skil 'rub' 30 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 2
+Skil 'second attack' 25 7
+Skil 'shield block' 35 5
+Skil 'shield levitate' 50 4
+Skil 'spear' 1 5
+Skil 'staves' 1 2
+Skil 'sword' 1 2
+Skil 'third attack' 35 5
+Skil 'trap disarm' 111 1
+Skil 'trip' 10 3
+Skil 'wands' 40 4
+Skil 'whip' 1 2
+Grup 'acolyte basics' 0
+Grup 'acolyte default' 40
+Grup 'attack' 3
+Grup 'beguiling' 8
+Grup 'benedictions' 7
+Grup 'combat' 7
+Grup 'detection' 6
+Grup 'enchantment' 3
+Grup 'enhancement' 3
+Grup 'harmful' 6
+Grup 'illusion' 3
+Grup 'maladictions' 12
+Grup 'rom basics' 0
+Grup 'shielding' 3
+Grup 'transportation' 5
+Grup 'weaponsmaster' 24
+End
+
+#Class
+Name wizard~
+WhoN {GW{giz{x
+Attr 1
+Thac 10 -4
+HitP 26 33
+Mana 85
+Disa 0
+Base wizard basics~
+Deft wizard default~
+SubC mage
+Tier 2
+Skil 'acid blast' 50 3
+Skil 'acid breath' 98 2
+Skil 'acidshield' 95 3
+Skil 'armor' 15 1
+Skil 'blindness' 30 2
+Skil 'blink' 80 5
+Skil 'blizzard' 45 4
+Skil 'burning hands' 5 1
+Skil 'chain lightning' 70 1
+Skil 'change sex' 5 1
+Skil 'channel' 80 1
+Skil 'charm person' 20 1
+Skil 'colour spray' 23 1
+Skil 'conjure' 55 1
+Skil 'continual light' 1 1
+Skil 'create food' 10 1
+Skil 'create spring' 25 1
+Skil 'create water' 1 1
+Skil 'decrement' 81 4
+Skil 'detect hidden' 20 1
+Skil 'detect invis' 5 1
+Skil 'detect magic' 1 1
+Skil 'dispel magic' 65 5
+Skil 'empower potion' 50 3
+Skil 'empower scroll' 50 3
+Skil 'enchant armor' 90 2
+Skil 'enchant weapon' 90 2
+Skil 'farsight' 10 1
+Skil 'fire breath' 96 2
+Skil 'fireball' 50 1
+Skil 'fireproof' 45 1
+Skil 'fireshield' 55 3
+Skil 'fly' 15 1
+Skil 'frost breath' 92 2
+Skil 'gas breath' 86 2
+Skil 'gate' 40 1
+Skil 'glacier' 94 1
+Skil 'growth' 65 2
+Skil 'heat metal' 45 1
+Skil 'iceshield' 25 3
+Skil 'identify' 45 1
+Skil 'incinerate' 94 1
+Skil 'intellect' 20 1
+Skil 'invisibility' 50 1
+Skil 'lightning bolt' 50 1
+Skil 'lightning breath' 95 2
+Skil 'locate object' 55 1
+Skil 'magic missile' 1 1
+Skil 'mana shield' 100 3
+Skil 'mana tap' 99 4
+Skil 'mass invis' 70 1
+Skil 'nexus' 90 2
+Skil 'pass door' 55 1
+Skil 'portal' 90 2
+Skil 'recharge' 60 1
+Skil 'refresh' 10 1
+Skil 'sanctuary' 85 3
+Skil 'shadowplay' 102 0
+Skil 'shield' 20 1
+Skil 'shocking grasp' 50 1
+Skil 'shockshield' 80 3
+Skil 'shrapnelshield' 101 3
+Skil 'shrink' 90 2
+Skil 'sleep' 60 4
+Skil 'summon' 60 1
+Skil 'teleport' 55 1
+Skil 'thunderbolt' 94 1
+Skil 'transfix' 48 3
+Skil 'transport' 60 1
+Skil 'wizard eye' 96 4
+Skil 'concentration' 102 0
+Skil 'dagger' 1 2
+Skil 'dodge' 25 9
+Skil 'eighth attack' 102 0
+Skil 'hack' 65 8
+Skil 'haggle' 15 1
+Skil 'kick' 45 1
+Skil 'knife fighter' 102 0
+Skil 'master of magic' 106 1
+Skil 'meditation' 10 6
+Skil 'phase' 20 6
+Skil 'quarterstaff' 1 2
+Skil 'recall' 1 2
+Skil 'repair' 90 3
+Skil 'rub' 25 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 5
+Skil 'second attack' 25 5
+Skil 'shield block' 30 5
+Skil 'shield levitate' 45 4
+Skil 'staves' 1 2
+Skil 'third attack' 35 6
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 2
+Skil 'whip' 1 5
+Grup 'attack' 1
+Grup 'beguiling' 7
+Grup 'combat' 11
+Grup 'conjuration' 4
+Grup 'creation' 6
+Grup 'detection' 9
+Grup 'draconian' 8
+Grup 'elemental' 4
+Grup 'enchantment' 9
+Grup 'enhancement' 7
+Grup 'harmful' 4
+Grup 'healing' 2
+Grup 'illusion' 2
+Grup 'maladictions' 10
+Grup 'protective' 6
+Grup 'rom basics' 0
+Grup 'shielding' 7
+Grup 'transportation' 8
+Grup 'weaponsmaster' 10
+Grup 'wizard basics' 0
+Grup 'wizard default' 40
+End
+
+#Class
+Name priest~
+WhoN {GP{gri{x
+Attr 2
+Thac 10 2
+HitP 22 29
+Mana 95
+Disa 0
+Base priest basics~
+Deft priest default~
+SubC cleric
+Tier 2
+Skil 'angelfire' 65 1
+Skil 'armor' 25 1
+Skil 'bless' 30 1
+Skil 'blindness' 45 2
+Skil 'calm' 95 1
+Skil 'cancellation' 80 1
+Skil 'cause critical' 80 1
+Skil 'cause light' 40 1
+Skil 'cause serious' 50 1
+Skil 'channel' 70 1
+Skil 'charm person' 90 1
+Skil 'continual light' 1 1
+Skil 'create food' 1 1
+Skil 'create rose' 10 1
+Skil 'create spring' 30 1
+Skil 'create water' 1 1
+Skil 'cure blindness' 10 1
+Skil 'cure critical' 50 1
+Skil 'cure disease' 20 1
+Skil 'cure light' 1 1
+Skil 'cure poison' 25 1
+Skil 'cure serious' 35 1
+Skil 'curse' 65 4
+Skil 'demonfire' 60 2
+Skil 'detect evil' 10 1
+Skil 'detect good' 10 1
+Skil 'detect hidden' 15 1
+Skil 'detect invis' 10 1
+Skil 'detect neutral' 10 1
+Skil 'devotion' 95 1
+Skil 'dispel evil' 5 1
+Skil 'dispel good' 5 1
+Skil 'dispel magic' 85 5
+Skil 'divine aura' 80 3
+Skil 'divine blessing' 101 2
+Skil 'divine heal' 90 1
+Skil 'divine truth' 95 5
+Skil 'divinity' 65 2
+Skil 'empower potion' 40 3
+Skil 'empower scroll' 40 3
+Skil 'faith' 95 3
+Skil 'farsight' 30 1
+Skil 'fireproof' 55 2
+Skil 'flamestrike' 40 1
+Skil 'floating disc' 50 1
+Skil 'fly' 20 1
+Skil 'frenzy' 80 1
+Skil 'gate' 50 2
+Skil 'glacial aura' 65 1
+Skil 'groupheal' 67 2
+Skil 'harm' 90 1
+Skil 'heal' 70 1
+Skil 'heat metal' 75 2
+Skil 'heresy' 95 4
+Skil 'holy word' 80 2
+Skil 'iceshield' 45 3
+Skil 'identify' 30 1
+Skil 'infernal offering' 101 2
+Skil 'know alignment' 95 1
+Skil 'locate object' 90 2
+Skil 'locust swarm' 95 3
+Skil 'mass healing' 85 2
+Skil 'nexus' 80 2
+Skil 'plague' 50 2
+Skil 'portal' 80 3
+Skil 'protection evil' 55 1
+Skil 'protection good' 50 1
+Skil 'protection neutral' 60 1
+Skil 'protection voodoo' 90 2
+Skil 'ray of deceit' 70 1
+Skil 'ray of truth' 70 1
+Skil 'refresh' 25 1
+Skil 'regeneration' 90 3
+Skil 'remove curse' 80 1
+Skil 'sanctuary' 35 1
+Skil 'shadowplay' 102 0
+Skil 'shield' 75 1
+Skil 'shockshield' 35 3
+Skil 'summon' 90 2
+Skil 'transport' 75 1
+Skil 'vigorize' 63 3
+Skil 'wisdom' 35 1
+Skil 'axe' 1 5
+Skil 'concentration' 102 0
+Skil 'dagger' 1 5
+Skil 'dirt kicking' 50 2
+Skil 'dodge' 35 9
+Skil 'eighth attack' 102 0
+Skil 'flail' 1 2
+Skil 'hack' 70 8
+Skil 'haggle' 15 1
+Skil 'hand to hand' 95 1
+Skil 'kick' 55 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 2
+Skil 'master of magic' 102 0
+Skil 'meditation' 5 5
+Skil 'phase' 27 7
+Skil 'polearm' 1 5
+Skil 'quarterstaff' 1 5
+Skil 'recall' 1 2
+Skil 'repair' 90 3
+Skil 'rub' 25 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 5
+Skil 'second attack' 25 5
+Skil 'shield block' 15 4
+Skil 'shield levitate' 45 4
+Skil 'spear' 1 5
+Skil 'staves' 1 2
+Skil 'sword' 1 5
+Skil 'third attack' 35 7
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 3
+Skil 'whip' 1 3
+Grup 'attack' 8
+Grup 'beguiling' 3
+Grup 'benedictions' 8
+Grup 'creation' 8
+Grup 'curative' 4
+Grup 'detection' 11
+Grup 'enchantment' 5
+Grup 'enhancement' 4
+Grup 'harmful' 4
+Grup 'healing' 7
+Grup 'maladictions' 9
+Grup 'prayer' 6
+Grup 'priest basics' 0
+Grup 'priest default' 40
+Grup 'protective' 12
+Grup 'rom basics' 0
+Grup 'shielding' 5
+Grup 'transportation' 8
+Grup 'weaponsmaster' 36
+End
+
+#Class
+Name rogue~
+WhoN {GR{gog{x
+Attr 3
+Thac 10 -14
+HitP 35 42
+Mana 30
+Disa 0
+Base rogue basics~
+Deft rogue default~
+SubC thief
+Tier 2
+Skil 'shadowplay' 102 0
+Skil 'ventriloquate' 1 2
+Skil 'axe' 1 4
+Skil 'backstab' 7 5
+Skil 'circle' 25 5
+Skil 'concentration' 102 0
+Skil 'critical strike' 85 5
+Skil 'dagger' 1 2
+Skil 'dirt kicking' 5 2
+Skil 'disarm' 25 7
+Skil 'disguise' 45 2
+Skil 'dodge' 5 5
+Skil 'dual wield' 25 6
+Skil 'eighth attack' 102 0
+Skil 'engage' 95 7
+Skil 'envenom' 13 3
+Skil 'fast healing' 25 7
+Skil 'flail' 1 4
+Skil 'fourth attack' 55 7
+Skil 'gouge' 45 4
+Skil 'hack' 55 2
+Skil 'haggle' 5 1
+Skil 'hand to hand' 5 1
+Skil 'hide' 1 2
+Skil 'kick' 10 1
+Skil 'knife fighter' 106 1
+Skil 'lore' 18 4
+Skil 'mace' 1 3
+Skil 'master of magic' 102 0
+Skil 'parry' 20 4
+Skil 'peek' 1 4
+Skil 'pick lock' 8 6
+Skil 'polearm' 1 4
+Skil 'quarterstaff' 1 4
+Skil 'recall' 1 2
+Skil 'repair' 80 3
+Skil 'rub' 15 3
+Skil 'scrolls' 90 2
+Skil 'scythe' 1 4
+Skil 'second attack' 15 5
+Skil 'slip' 55 4
+Skil 'sneak' 15 3
+Skil 'spear' 1 5
+Skil 'stalk' 65 4
+Skil 'steal' 25 2
+Skil 'strangle' 95 6
+Skil 'sword' 1 6
+Skil 'tackle' 80 6
+Skil 'third attack' 25 4
+Skil 'trap disarm' 111 1
+Skil 'trip' 10 2
+Skil 'whip' 1 4
+Grup 'illusion' 2
+Grup 'rogue basics' 0
+Grup 'rogue default' 40
+Grup 'rom basics' 0
+Grup 'weaponsmaster' 24
+End
+
+#Class
+Name gladiator~
+WhoN {GG{gla{x
+Attr 0
+Thac 10 -20
+HitP 42 49
+Mana 40
+Disa 0
+Base gladiator basics~
+Deft gladiator default~
+SubC warrior
+Tier 2
+Skil 'shadowplay' 102 0
+Skil 'axe' 1 2
+Skil 'bandage' 15 4
+Skil 'bash' 7 3
+Skil 'berserk' 15 1
+Skil 'charge' 44 3
+Skil 'concentration' 102 0
+Skil 'counter' 75 5
+Skil 'critical damage' 90 6
+Skil 'cross slash' 55 3
+Skil 'cyclone' 73 4
+Skil 'dagger' 1 2
+Skil 'dirt kicking' 15 2
+Skil 'disarm' 20 6
+Skil 'dislodge' 25 2
+Skil 'dodge' 10 5
+Skil 'dual wield' 5 6
+Skil 'eighth attack' 106 1
+Skil 'engage' 40 5
+Skil 'enhanced damage' 14 4
+Skil 'fast healing' 15 6
+Skil 'fifth attack' 50 6
+Skil 'flail' 1 4
+Skil 'fourth attack' 25 6
+Skil 'gash' 50 5
+Skil 'grip' 30 4
+Skil 'hack' 50 2
+Skil 'haggle' 95 1
+Skil 'hand to hand' 1 1
+Skil 'headbutt' 95 6
+Skil 'kick' 10 1
+Skil 'knife fighter' 102 0
+Skil 'lore' 28 4
+Skil 'lunge' 28 3
+Skil 'mace' 1 2
+Skil 'master of magic' 102 0
+Skil 'parry' 15 4
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 2 2
+Skil 'recall' 1 2
+Skil 'repair' 80 3
+Skil 'rescue' 10 3
+Skil 'retreat' 60 3
+Skil 'rub' 20 3
+Skil 'scrolls' 100 9
+Skil 'scythe' 1 2
+Skil 'second attack' 1 4
+Skil 'seventh attack' 90 6
+Skil 'sharpen' 25 4
+Skil 'shield smash' 16 3
+Skil 'sixth attack' 70 6
+Skil 'spear' 1 2
+Skil 'stun' 35 5
+Skil 'sword' 1 2
+Skil 'tackle' 24 3
+Skil 'third attack' 5 3
+Skil 'trap disarm' 111 1
+Skil 'trip' 10 2
+Skil 'ultra damage' 82 6
+Skil 'whip' 1 2
+Grup 'gladiator basics' 0
+Grup 'gladiator default' 40
+Grup 'rom basics' 0
+Grup 'weaponsmaster' 15
+End
+
+#Class
+Name strider~
+WhoN {GS{gtr{x
+Attr 1
+Thac 10 -14
+HitP 36 43
+Mana 55
+Disa 0
+Base strider basics~
+Deft strider default~
+SubC ranger
+Tier 2
+Skil 'awen' 95 3
+Skil 'barkskin' 90 2
+Skil 'call lightning' 50 1
+Skil 'continual light' 10 1
+Skil 'control weather' 30 1
+Skil 'create food' 1 1
+Skil 'create raft' 1 2
+Skil 'create rose' 1 1
+Skil 'create spring' 1 1
+Skil 'create water' 1 1
+Skil 'cure blindness' 40 2
+Skil 'cure disease' 25 2
+Skil 'cure light' 9 3
+Skil 'cure poison' 15 2
+Skil 'cure serious' 65 3
+Skil 'detect hidden' 10 1
+Skil 'detect invis' 20 1
+Skil 'detect poison' 10 1
+Skil 'detect terrain' 1 1
+Skil 'earthquake' 35 2
+Skil 'entangle' 60 2
+Skil 'faerie fire' 55 1
+Skil 'faerie fog' 80 1
+Skil 'farsight' 5 1
+Skil 'floating disc' 40 1
+Skil 'fly' 5 2
+Skil 'glacier' 100 1
+Skil 'golden armor' 95 1
+Skil 'haste' 70 2
+Skil 'identify' 40 1
+Skil 'incinerate' 100 1
+Skil 'poison' 60 2
+Skil 'refresh' 5 2
+Skil 'shadowplay' 102 0
+Skil 'shield' 80 2
+Skil 'slow' 100 2
+Skil 'snow storm' 90 5
+Skil 'stone skin' 100 2
+Skil 'thunderbolt' 100 1
+Skil 'transport' 70 2
+Skil 'ambush' 35 14
+Skil 'axe' 1 4
+Skil 'axe mastery' 95 4
+Skil 'berserk' 45 3
+Skil 'camouflage' 35 7
+Skil 'concentration' 106 1
+Skil 'critical damage' 97 6
+Skil 'cross slash' 55 3
+Skil 'dagger' 1 3
+Skil 'dart' 70 3
+Skil 'dirt kicking' 15 2
+Skil 'disarm' 30 7
+Skil 'dodge' 20 6
+Skil 'dual wield' 20 6
+Skil 'eighth attack' 102 0
+Skil 'engage' 80 7
+Skil 'enhanced damage' 34 6
+Skil 'fast healing' 25 6
+Skil 'fifth attack' 90 9
+Skil 'flail' 1 4
+Skil 'forest meld' 35 7
+Skil 'fourth attack' 55 6
+Skil 'gash' 60 5
+Skil 'grip' 50 4
+Skil 'hack' 55 2
+Skil 'haggle' 45 1
+Skil 'hand to hand' 1 1
+Skil 'hide' 10 2
+Skil 'hone' 25 4
+Skil 'kick' 10 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 4
+Skil 'master of magic' 102 0
+Skil 'meditation' 15 7
+Skil 'parry' 15 6
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 1 4
+Skil 'raze' 70 5
+Skil 'recall' 1 2
+Skil 'repair' 80 3
+Skil 'rescue' 10 5
+Skil 'rub' 25 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 3
+Skil 'second attack' 10 4
+Skil 'shield block' 45 4
+Skil 'shield levitate' 55 6
+Skil 'spear' 1 2
+Skil 'stalk' 45 6
+Skil 'staves' 1 2
+Skil 'sword' 1 2
+Skil 'third attack' 20 4
+Skil 'track' 5 2
+Skil 'trap disarm' 111 1
+Skil 'trap set' 60 4
+Skil 'trip' 15 2
+Skil 'wands' 1 3
+Skil 'whip' 1 4
+Grup 'creation' 2
+Grup 'curative' 7
+Grup 'detection' 6
+Grup 'elemental' 4
+Grup 'enhancement' 4
+Grup 'healing' 2
+Grup 'maladictions' 5
+Grup 'protective' 8
+Grup 'rom basics' 0
+Grup 'strider basics' 0
+Grup 'strider default' 40
+Grup 'transportation' 8
+Grup 'weaponsmaster' 24
+Grup 'weather' 9
+End
+
+#Class
+Name sage~
+WhoN {GS{gag{x
+Attr 2
+Thac 10 -10
+HitP 28 35
+Mana 80
+Disa 0
+Base sage basics~
+Deft sage default~
+SubC druid
+Tier 2
+Skil 'acid storm' 55 5
+Skil 'armor' 75 1
+Skil 'awen' 90 2
+Skil 'backdraft' 75 1
+Skil 'barkskin' 65 1
+Skil 'bless' 50 2
+Skil 'call lightning' 40 1
+Skil 'cancellation' 95 1
+Skil 'cause critical' 80 2
+Skil 'cause light' 60 2
+Skil 'cause serious' 70 2
+Skil 'chain lightning' 90 2
+Skil 'colour spray' 97 2
+Skil 'conjure' 95 2
+Skil 'constitution' 30 1
+Skil 'continual light' 1 1
+Skil 'control weather' 30 1
+Skil 'create food' 1 1
+Skil 'create raft' 5 2
+Skil 'create rose' 1 1
+Skil 'create spring' 1 1
+Skil 'create water' 11 1
+Skil 'cure blindness' 45 1
+Skil 'cure critical' 60 2
+Skil 'cure disease' 80 1
+Skil 'cure light' 4 2
+Skil 'cure poison' 30 1
+Skil 'cure serious' 45 2
+Skil 'detect evil' 10 1
+Skil 'detect good' 10 1
+Skil 'detect hidden' 15 1
+Skil 'detect invis' 15 1
+Skil 'detect neutral' 10 1
+Skil 'detect poison' 20 1
+Skil 'detect terrain' 1 1
+Skil 'downpour' 70 3
+Skil 'earthquake' 1 1
+Skil 'electrical storm' 60 5
+Skil 'empower potion' 93 3
+Skil 'empower scroll' 93 3
+Skil 'entangle' 60 2
+Skil 'faerie fire' 60 1
+Skil 'faerie fog' 25 1
+Skil 'farsight' 10 1
+Skil 'fire storm' 80 3
+Skil 'fireball' 40 1
+Skil 'fireproof' 55 1
+Skil 'fireshield' 50 3
+Skil 'floating disc' 50 1
+Skil 'fly' 35 1
+Skil 'frenzy' 85 1
+Skil 'gate' 60 3
+Skil 'giant strength' 25 1
+Skil 'glacier' 90 1
+Skil 'haste' 45 1
+Skil 'heal' 80 2
+Skil 'heat metal' 95 2
+Skil 'iceshield' 35 3
+Skil 'identify' 40 1
+Skil 'incinerate' 90 1
+Skil 'invisibility' 40 2
+Skil 'lightning bolt' 30 1
+Skil 'locust swarm' 80 2
+Skil 'magic missile' 5 2
+Skil 'mass healing' 95 4
+Skil 'refresh' 5 1
+Skil 'remove curse' 90 2
+Skil 'rockshield' 85 3
+Skil 'sanctuary' 95 2
+Skil 'shadowplay' 102 0
+Skil 'shield' 55 1
+Skil 'shocking grasp' 25 2
+Skil 'shockshield' 90 3
+Skil 'snow storm' 70 3
+Skil 'stone skin' 85 2
+Skil 'summon' 90 2
+Skil 'thornshield' 70 3
+Skil 'thunderbolt' 90 1
+Skil 'transport' 80 1
+Skil 'watershield' 50 3
+Skil 'axe' 1 5
+Skil 'concentration' 102 0
+Skil 'dagger' 1 5
+Skil 'dirt kicking' 30 2
+Skil 'dodge' 30 2
+Skil 'eighth attack' 102 0
+Skil 'fast healing' 35 7
+Skil 'flail' 1 2
+Skil 'hack' 60 2
+Skil 'haggle' 25 1
+Skil 'hand to hand' 85 1
+Skil 'kick' 40 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 2
+Skil 'master of magic' 102 0
+Skil 'meditation' 5 3
+Skil 'phase' 15 2
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 1 1
+Skil 'raze' 60 5
+Skil 'recall' 1 2
+Skil 'repair' 90 3
+Skil 'rub' 25 4
+Skil 'scrolls' 1 1
+Skil 'scythe' 1 5
+Skil 'second attack' 25 6
+Skil 'shield block' 10 3
+Skil 'shield levitate' 45 4
+Skil 'spear' 1 2
+Skil 'staves' 1 1
+Skil 'sword' 1 5
+Skil 'third attack' 35 6
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 2
+Skil 'whip' 1 5
+Grup 'attack' 5
+Grup 'benedictions' 8
+Grup 'combat' 5
+Grup 'conjuration' 4
+Grup 'creation' 9
+Grup 'curative' 4
+Grup 'detection' 10
+Grup 'elemental' 3
+Grup 'enchantment' 4
+Grup 'enhancement' 3
+Grup 'harmful' 4
+Grup 'healing' 7
+Grup 'illusion' 2
+Grup 'maladictions' 3
+Grup 'protective' 13
+Grup 'rom basics' 0
+Grup 'sage basics' 0
+Grup 'sage default' 40
+Grup 'shielding' 8
+Grup 'transportation' 7
+Grup 'weaponsmaster' 36
+Grup 'weather' 13
+End
+
+#Class
+Name lich~
+WhoN {GL{gic{x
+Attr 4
+Thac 10 -40
+HitP 27 34
+Mana 65
+Disa 0
+Base lich basics~
+Deft lich default~
+SubC acolyte
+Tier 2
+Skil 'animate' 40 1
+Skil 'blindness' 45 2
+Skil 'bloodbath' 80 3
+Skil 'cause critical' 100 3
+Skil 'cause light' 80 3
+Skil 'cause serious' 90 3
+Skil 'charm person' 50 1
+Skil 'chill touch' 20 1
+Skil 'curse' 40 4
+Skil 'decrement' 87 5
+Skil 'demonfire' 95 3
+Skil 'detect evil' 10 1
+Skil 'detect good' 10 1
+Skil 'detect hidden' 10 1
+Skil 'detect invis' 25 1
+Skil 'detect neutral' 10 1
+Skil 'energy drain' 20 1
+Skil 'farsight' 20 1
+Skil 'fly' 20 1
+Skil 'frenzy' 60 2
+Skil 'gate' 60 3
+Skil 'harm' 100 2
+Skil 'identify' 30 1
+Skil 'infravision' 1 2
+Skil 'invisibility' 15 1
+Skil 'leech' 65 1
+Skil 'locust swarm' 90 5
+Skil 'luminrati' 97 5
+Skil 'mass invis' 75 2
+Skil 'nightmare' 70 3
+Skil 'pass door' 5 1
+Skil 'plague' 45 1
+Skil 'poison' 35 1
+Skil 'refresh' 25 2
+Skil 'resurrect' 100 1
+Skil 'shadowplay' 106 1
+Skil 'shrapnelshield' 85 5
+Skil 'sleep' 25 3
+Skil 'slow' 55 1
+Skil 'summon' 80 2
+Skil 'swarm' 85 3
+Skil 'transport' 75 1
+Skil 'vampiricshield' 70 3
+Skil 'ventriloquate' 1 1
+Skil 'voodoo' 93 3
+Skil 'weaken' 30 1
+Skil 'axe' 1 4
+Skil 'concentration' 102 0
+Skil 'dagger' 1 5
+Skil 'dirt kicking' 20 2
+Skil 'disarm' 35 6
+Skil 'dodge' 20 7
+Skil 'eighth attack' 102 0
+Skil 'enhanced damage' 80 6
+Skil 'envenom' 78 3
+Skil 'fast healing' 10 6
+Skil 'flail' 1 2
+Skil 'fourth attack' 80 11
+Skil 'hack' 50 2
+Skil 'haggle' 20 1
+Skil 'hand to hand' 1 1
+Skil 'hide' 20 2
+Skil 'kick' 30 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 4
+Skil 'master of magic' 102 0
+Skil 'meditation' 5 4
+Skil 'parry' 15 7
+Skil 'peek' 45 6
+Skil 'pick lock' 25 6
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 1 4
+Skil 'recall' 1 2
+Skil 'repair' 90 3
+Skil 'rub' 25 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 2
+Skil 'second attack' 20 6
+Skil 'shield block' 30 5
+Skil 'shield levitate' 45 4
+Skil 'spear' 1 5
+Skil 'staves' 1 2
+Skil 'sword' 1 2
+Skil 'third attack' 30 5
+Skil 'trap disarm' 111 1
+Skil 'trip' 5 2
+Skil 'wands' 30 3
+Skil 'whip' 1 2
+Grup 'attack' 3
+Grup 'beguiling' 8
+Grup 'benedictions' 6
+Grup 'combat' 6
+Grup 'detection' 5
+Grup 'enchantment' 3
+Grup 'enhancement' 2
+Grup 'harmful' 6
+Grup 'illusion' 2
+Grup 'lich basics' 0
+Grup 'lich default' 40
+Grup 'maladictions' 11
+Grup 'rom basics' 0
+Grup 'shielding' 2
+Grup 'transportation' 4
+Grup 'weaponsmaster' 24
+End
+
+#Class
+Name archmage~
+WhoN {CA{crc{x
+Attr 1
+Thac 10 -4
+HitP 36 43
+Mana 90
+Disa 0
+Base archmage basics~
+Deft archmage default~
+SubC mage
+Tier 3
+Skil 'acid blast' 45 3
+Skil 'acid breath' 95 2
+Skil 'acidshield' 85 3
+Skil 'armor' 15 1
+Skil 'blindness' 30 2
+Skil 'blink' 50 4
+Skil 'blizzard' 40 4
+Skil 'burning hands' 5 1
+Skil 'chain lightning' 60 1
+Skil 'change sex' 1 1
+Skil 'channel' 70 1
+Skil 'charm person' 20 1
+Skil 'colour spray' 21 1
+Skil 'conjure' 50 1
+Skil 'continual light' 1 1
+Skil 'create food' 10 1
+Skil 'create spring' 25 1
+Skil 'create water' 1 1
+Skil 'decrement' 79 4
+Skil 'detect hidden' 15 1
+Skil 'detect invis' 1 1
+Skil 'detect magic' 1 1
+Skil 'dispel magic' 55 5
+Skil 'empower potion' 45 3
+Skil 'empower scroll' 45 3
+Skil 'enchant armor' 65 2
+Skil 'enchant weapon' 80 2
+Skil 'farsight' 5 1
+Skil 'fire breath' 94 2
+Skil 'fireball' 40 1
+Skil 'fireproof' 35 1
+Skil 'fireshield' 45 3
+Skil 'fly' 10 1
+Skil 'frost breath' 88 2
+Skil 'gas breath' 82 2
+Skil 'gate' 30 1
+Skil 'glacier' 90 1
+Skil 'growth' 55 2
+Skil 'heat metal' 40 1
+Skil 'iceshield' 25 3
+Skil 'identify' 35 1
+Skil 'incinerate' 90 1
+Skil 'intellect' 15 1
+Skil 'invisibility' 5 1
+Skil 'lightning bolt' 40 1
+Skil 'lightning breath' 91 2
+Skil 'locate object' 45 1
+Skil 'magic missile' 1 1
+Skil 'mana shield' 95 3
+Skil 'mana tap' 90 3
+Skil 'mass invis' 60 1
+Skil 'nexus' 80 2
+Skil 'pass door' 45 1
+Skil 'portal' 80 2
+Skil 'recharge' 50 1
+Skil 'refresh' 5 1
+Skil 'sanctuary' 80 3
+Skil 'shadowplay' 102 0
+Skil 'shield' 20 1
+Skil 'shocking grasp' 40 1
+Skil 'shockshield' 70 3
+Skil 'shrapnelshield' 90 3
+Skil 'shrink' 85 2
+Skil 'sleep' 50 4
+Skil 'steel skin' 101 1
+Skil 'summon' 55 1
+Skil 'teleport' 45 1
+Skil 'thunderbolt' 90 1
+Skil 'transfix' 46 3
+Skil 'transport' 50 1
+Skil 'wizard eye' 91 4
+Skil 'concentration' 102 0
+Skil 'dagger' 1 2
+Skil 'dodge' 20 8
+Skil 'eighth attack' 102 0
+Skil 'hack' 55 7
+Skil 'haggle' 10 1
+Skil 'kick' 40 1
+Skil 'knife fighter' 102 0
+Skil 'master of magic' 106 1
+Skil 'meditation' 5 5
+Skil 'phase' 15 5
+Skil 'quarterstaff' 1 2
+Skil 'recall' 1 2
+Skil 'repair' 80 3
+Skil 'rub' 20 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 5
+Skil 'second attack' 20 4
+Skil 'shield block' 15 5
+Skil 'shield levitate' 40 4
+Skil 'staves' 1 2
+Skil 'third attack' 30 6
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 1
+Skil 'whip' 1 5
+Grup 'archmage basics' 0
+Grup 'archmage default' 40
+Grup 'attack' 1
+Grup 'beguiling' 7
+Grup 'combat' 10
+Grup 'conjuration' 4
+Grup 'creation' 5
+Grup 'detection' 8
+Grup 'draconian' 8
+Grup 'elemental' 4
+Grup 'enchantment' 9
+Grup 'enhancement' 6
+Grup 'harmful' 4
+Grup 'healing' 1
+Grup 'illusion' 2
+Grup 'maladictions' 9
+Grup 'protective' 6
+Grup 'rom basics' 0
+Grup 'shielding' 6
+Grup 'transportation' 7
+Grup 'weaponsmaster' 10
+End
+
+#Class
+Name bishop~
+WhoN {CB{cis{x
+Attr 2
+Thac 10 2
+HitP 32 39
+Mana 100
+Disa 0
+Base bishop basics~
+Deft bishop default~
+SubC cleric
+Tier 3
+Skil 'angelfire' 55 1
+Skil 'armor' 20 1
+Skil 'bless' 20 1
+Skil 'blindness' 40 2
+Skil 'calm' 90 1
+Skil 'cancellation' 75 1
+Skil 'cause critical' 70 1
+Skil 'cause light' 30 1
+Skil 'cause serious' 40 1
+Skil 'channel' 60 1
+Skil 'charm person' 80 1
+Skil 'continual light' 1 1
+Skil 'create food' 1 1
+Skil 'create rose' 10 1
+Skil 'create spring' 20 1
+Skil 'create water' 1 1
+Skil 'cure blindness' 5 1
+Skil 'cure critical' 40 1
+Skil 'cure disease' 15 1
+Skil 'cure light' 1 1
+Skil 'cure poison' 20 1
+Skil 'cure serious' 25 1
+Skil 'curse' 55 4
+Skil 'demonfire' 50 2
+Skil 'detect evil' 5 1
+Skil 'detect good' 5 1
+Skil 'detect hidden' 10 1
+Skil 'detect invis' 5 1
+Skil 'detect neutral' 5 1
+Skil 'devotion' 90 1
+Skil 'dispel evil' 5 1
+Skil 'dispel good' 5 1
+Skil 'dispel magic' 80 5
+Skil 'divine aura' 70 3
+Skil 'divine blessing' 90 2
+Skil 'divine heal' 80 1
+Skil 'divine truth' 90 5
+Skil 'divinity' 55 2
+Skil 'downpour' 95 4
+Skil 'empower potion' 35 3
+Skil 'empower scroll' 35 3
+Skil 'faith' 90 3
+Skil 'farsight' 15 1
+Skil 'fireproof' 45 2
+Skil 'flamestrike' 35 1
+Skil 'floating disc' 50 1
+Skil 'fly' 15 1
+Skil 'frenzy' 75 1
+Skil 'gate' 40 2
+Skil 'glacial aura' 55 1
+Skil 'groupheal' 65 2
+Skil 'harm' 85 1
+Skil 'heal' 60 1
+Skil 'heat metal' 70 2
+Skil 'heresy' 95 4
+Skil 'holy word' 70 2
+Skil 'iceshield' 35 3
+Skil 'identify' 30 1
+Skil 'infernal offering' 90 2
+Skil 'know alignment' 85 1
+Skil 'locate object' 80 2
+Skil 'locust swarm' 85 3
+Skil 'mass healing' 75 2
+Skil 'nexus' 80 2
+Skil 'plague' 40 2
+Skil 'portal' 90 3
+Skil 'protection evil' 45 1
+Skil 'protection good' 40 1
+Skil 'protection neutral' 50 1
+Skil 'protection voodoo' 85 2
+Skil 'ray of deceit' 60 1
+Skil 'ray of truth' 60 1
+Skil 'refresh' 20 1
+Skil 'regeneration' 80 3
+Skil 'remove curse' 70 1
+Skil 'sanctuary' 25 1
+Skil 'shadowplay' 102 0
+Skil 'shield' 65 1
+Skil 'shockshield' 25 3
+Skil 'summon' 80 2
+Skil 'transport' 65 1
+Skil 'vigorize' 61 3
+Skil 'wisdom' 25 1
+Skil 'word of recall' 90 1
+Skil 'axe' 1 4
+Skil 'concentration' 102 0
+Skil 'dagger' 1 5
+Skil 'dirt kicking' 40 1
+Skil 'dodge' 30 8
+Skil 'eighth attack' 102 0
+Skil 'flail' 1 2
+Skil 'hack' 60 7
+Skil 'haggle' 10 1
+Skil 'hand to hand' 90 1
+Skil 'kick' 50 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 2
+Skil 'master of magic' 102 0
+Skil 'meditation' 1 4
+Skil 'phase' 25 6
+Skil 'polearm' 1 5
+Skil 'quarterstaff' 1 5
+Skil 'recall' 1 2
+Skil 'repair' 80 3
+Skil 'rub' 20 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 5
+Skil 'second attack' 20 4
+Skil 'shield block' 5 4
+Skil 'shield levitate' 40 4
+Skil 'spear' 1 5
+Skil 'staves' 1 2
+Skil 'sword' 1 5
+Skil 'third attack' 30 7
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 2
+Skil 'whip' 1 3
+Grup 'attack' 7
+Grup 'beguiling' 3
+Grup 'benedictions' 7
+Grup 'bishop basics' 0
+Grup 'bishop default' 40
+Grup 'creation' 7
+Grup 'curative' 3
+Grup 'detection' 10
+Grup 'enchantment' 5
+Grup 'enhancement' 3
+Grup 'harmful' 4
+Grup 'healing' 6
+Grup 'maladictions' 8
+Grup 'prayer' 5
+Grup 'protective' 12
+Grup 'rom basics' 0
+Grup 'shielding' 4
+Grup 'transportation' 7
+Grup 'weaponsmaster' 36
+Grup 'weather' 3
+End
+
+#Class
+Name assassin~
+WhoN {CA{csn{x
+Attr 3
+Thac 10 -14
+HitP 45 52
+Mana 35
+Disa 0
+Base assassin basics~
+Deft assassin default~
+SubC thief
+Tier 3
+Skil 'shadowplay' 102 0
+Skil 'ventriloquate' 1 2
+Skil '2nd dual' 50 2
+Skil 'assassinate' 90 3
+Skil 'axe' 1 4
+Skil 'backstab' 5 5
+Skil 'circle' 20 5
+Skil 'concentration' 102 0
+Skil 'critical strike' 80 5
+Skil 'dagger' 1 2
+Skil 'dirt kicking' 1 1
+Skil 'disarm' 20 6
+Skil 'disguise' 40 2
+Skil 'dodge' 5 4
+Skil 'dual wield' 20 5
+Skil 'eighth attack' 102 0
+Skil 'engage' 90 6
+Skil 'envenom' 11 3
+Skil 'fast healing' 20 6
+Skil 'fifth attack' 90 2
+Skil 'flail' 1 4
+Skil 'fourth attack' 50 5
+Skil 'gouge' 5 1
+Skil 'hack' 45 1
+Skil 'haggle' 1 1
+Skil 'hand to hand' 5 1
+Skil 'hide' 1 3
+Skil 'jab' 50 2
+Skil 'katana' 1 1
+Skil 'kick' 10 1
+Skil 'knife fighter' 106 1
+Skil 'lore' 16 4
+Skil 'mace' 1 3
+Skil 'master of magic' 102 0
+Skil 'obfuscate' 101 5
+Skil 'offhand' 85 3
+Skil 'parry' 10 3
+Skil 'peek' 1 3
+Skil 'pick lock' 5 5
+Skil 'polearm' 1 4
+Skil 'quarterstaff' 1 4
+Skil 'recall' 1 2
+Skil 'repair' 70 3
+Skil 'rub' 10 3
+Skil 'scrolls' 85 2
+Skil 'scythe' 1 4
+Skil 'second attack' 10 4
+Skil 'slip' 50 4
+Skil 'sneak' 10 3
+Skil 'spear' 1 5
+Skil 'stalk' 60 3
+Skil 'steal' 20 2
+Skil 'strangle' 90 6
+Skil 'strike' 45 2
+Skil 'sword' 1 5
+Skil 'tackle' 75 6
+Skil 'third attack' 20 4
+Skil 'trap disarm' 111 1
+Skil 'trap set' 101 5
+Skil 'trip' 10 1
+Skil 'whip' 1 4
+Grup 'assassin basics' 0
+Grup 'assassin default' 40
+Grup 'illusion' 1
+Grup 'rom basics' 0
+Grup 'weaponsmaster' 24
+End
+
+#Class
+Name knight~
+WhoN {CK{cni{x
+Attr 0
+Thac 10 -20
+HitP 52 59
+Mana 45
+Disa 0
+Base knight basic~
+Deft knight default~
+SubC warrior
+Tier 3
+Skil 'shadowplay' 102 0
+Skil '2nd dual' 24 3
+Skil '3rd dual' 34 4
+Skil 'aim' 86 3
+Skil 'axe' 1 1
+Skil 'backbreaker' 100 5
+Skil 'bandage' 10 3
+Skil 'bash' 5 3
+Skil 'battlehymn' 1 1
+Skil 'berserk' 12 1
+Skil 'charge' 34 3
+Skil 'concentration' 102 0
+Skil 'counter' 70 5
+Skil 'critical damage' 85 6
+Skil 'cross slash' 50 3
+Skil 'cyclone' 71 4
+Skil 'dagger' 1 3
+Skil 'deathblow' 90 5
+Skil 'dirt kicking' 14 3
+Skil 'disarm' 3 3
+Skil 'dislodge' 20 2
+Skil 'dodge' 5 3
+Skil 'doorbash' 24 3
+Skil 'dual wield' 1 5
+Skil 'eighth attack' 106 1
+Skil 'engage' 30 2
+Skil 'enhanced damage' 12 4
+Skil 'eviscerate' 86 3
+Skil 'fast healing' 30 3
+Skil 'fifth attack' 44 3
+Skil 'flail' 1 2
+Skil 'fourth attack' 34 3
+Skil 'gash' 45 4
+Skil 'grip' 5 4
+Skil 'hack' 86 1
+Skil 'haggle' 90 1
+Skil 'hammer' 1 2
+Skil 'hammer bash' 101 5
+Skil 'hand to hand' 1 1
+Skil 'headbutt' 90 5
+Skil 'hone' 86 4
+Skil 'hundred blades' 11 4
+Skil 'ironskin' 101 3
+Skil 'kick' 8 1
+Skil 'knife fighter' 102 0
+Skil 'legsweep' 75 3
+Skil 'lore' 26 4
+Skil 'lunge' 26 3
+Skil 'mace' 1 1
+Skil 'master of magic' 102 0
+Skil 'parry' 10 3
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 1 2
+Skil 'quickdraw' 34 1
+Skil 'recall' 1 2
+Skil 'repair' 70 3
+Skil 'rescue' 8 3
+Skil 'retreat' 75 3
+Skil 'rub' 15 3
+Skil 'scrolls' 90 9
+Skil 'scythe' 1 2
+Skil 'second attack' 11 3
+Skil 'seventh attack' 80 2
+Skil 'sharpen' 20 4
+Skil 'shield smash' 11 3
+Skil 'sixth attack' 86 6
+Skil 'spear' 1 2
+Skil 'storm of blades' 100 5
+Skil 'stun' 33 5
+Skil 'sword' 1 1
+Skil 'tackle' 23 3
+Skil 'third attack' 30 3
+Skil 'thrust' 86 3
+Skil 'trap disarm' 111 1
+Skil 'trip' 8 4
+Skil 'ultra damage' 80 6
+Skil 'warcry' 20 2
+Skil 'whip' 1 2
+Grup 'knight basic' 0
+Grup 'knight default' 40
+Grup 'rom basics' 0
+Grup 'weaponsmaster' 15
+End
+
+#Class
+Name hunter~
+WhoN {CH{cun{x
+Attr 1
+Thac 10 -14
+HitP 46 53
+Mana 60
+Disa 0
+Base hunter basics~
+Deft hunter default~
+SubC ranger
+Tier 3
+Skil 'awen' 90 3
+Skil 'barkskin' 80 2
+Skil 'call lightning' 40 1
+Skil 'continual light' 10 1
+Skil 'control weather' 20 1
+Skil 'create food' 1 1
+Skil 'create raft' 1 2
+Skil 'create rose' 1 1
+Skil 'create spring' 1 1
+Skil 'create water' 1 1
+Skil 'cure blindness' 40 2
+Skil 'cure disease' 20 2
+Skil 'cure light' 8 3
+Skil 'cure poison' 15 2
+Skil 'cure serious' 55 3
+Skil 'detect hidden' 5 1
+Skil 'detect invis' 15 1
+Skil 'detect poison' 5 1
+Skil 'detect terrain' 1 1
+Skil 'earthquake' 25 2
+Skil 'faerie fire' 50 1
+Skil 'faerie fog' 70 1
+Skil 'farsight' 1 1
+Skil 'floating disc' 30 1
+Skil 'fly' 1 2
+Skil 'glacier' 95 1
+Skil 'golden armor' 90 1
+Skil 'haste' 60 2
+Skil 'identify' 30 1
+Skil 'incinerate' 95 1
+Skil 'nexus' 101 4
+Skil 'poison' 50 2
+Skil 'refresh' 1 2
+Skil 'shadowplay' 102 0
+Skil 'shield' 70 2
+Skil 'slow' 90 2
+Skil 'snow storm' 80 5
+Skil 'stone skin' 90 2
+Skil 'thunderbolt' 95 1
+Skil 'transport' 60 2
+Skil 'ambush' 30 14
+Skil 'axe' 1 4
+Skil 'axe mastery' 90 4
+Skil 'berserk' 40 3
+Skil 'camouflage' 30 6
+Skil 'concentration' 106 1
+Skil 'critical damage' 95 6
+Skil 'cross slash' 50 3
+Skil 'dagger' 1 3
+Skil 'dart' 60 3
+Skil 'deathblow' 100 6
+Skil 'dirt kicking' 10 1
+Skil 'disarm' 20 6
+Skil 'dismember' 80 2
+Skil 'dodge' 10 5
+Skil 'dual wield' 15 5
+Skil 'eighth attack' 102 0
+Skil 'engage' 75 6
+Skil 'enhanced damage' 32 6
+Skil 'fast healing' 20 5
+Skil 'fifth attack' 80 8
+Skil 'flail' 1 4
+Skil 'forest meld' 30 6
+Skil 'fourth attack' 50 5
+Skil 'gash' 55 4
+Skil 'grip' 40 4
+Skil 'hack' 45 1
+Skil 'haggle' 40 1
+Skil 'hand to hand' 1 1
+Skil 'hide' 5 1
+Skil 'hone' 20 3
+Skil 'kick' 10 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 4
+Skil 'master of magic' 102 0
+Skil 'meditation' 15 7
+Skil 'parry' 10 5
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 1 4
+Skil 'raze' 65 5
+Skil 'recall' 1 2
+Skil 'repair' 70 3
+Skil 'rescue' 10 5
+Skil 'rub' 20 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 3
+Skil 'second attack' 5 3
+Skil 'shield block' 40 4
+Skil 'shield levitate' 50 6
+Skil 'spear' 1 2
+Skil 'stalk' 40 5
+Skil 'staves' 1 2
+Skil 'sword' 1 2
+Skil 'third attack' 15 4
+Skil 'track' 5 2
+Skil 'trap disarm' 111 1
+Skil 'trap set' 50 4
+Skil 'trip' 15 1
+Skil 'wands' 1 2
+Skil 'whip' 1 4
+Grup 'creation' 1
+Grup 'curative' 6
+Grup 'detection' 5
+Grup 'elemental' 4
+Grup 'enhancement' 3
+Grup 'healing' 1
+Grup 'hunter basics' 0
+Grup 'hunter default' 40
+Grup 'maladictions' 5
+Grup 'protective' 8
+Grup 'rom basics' 0
+Grup 'transportation' 8
+Grup 'weaponsmaster' 24
+Grup 'weather' 9
+End
+
+#Class
+Name hierophant~
+WhoN {CH{cie{x
+Attr 2
+Thac 10 -10
+HitP 38 45
+Mana 85
+Disa 0
+Base hierophant basics~
+Deft hierophant default~
+SubC druid
+Tier 3
+Skil 'acid storm' 50 3
+Skil 'armor' 70 1
+Skil 'awen' 85 2
+Skil 'backdraft' 70 1
+Skil 'barkskin' 55 1
+Skil 'bless' 40 2
+Skil 'call lightning' 35 1
+Skil 'calm' 100 2
+Skil 'cancellation' 90 1
+Skil 'cause critical' 70 2
+Skil 'cause light' 50 2
+Skil 'cause serious' 60 2
+Skil 'chain lightning' 80 2
+Skil 'colour spray' 95 2
+Skil 'conjure' 92 2
+Skil 'constitution' 25 1
+Skil 'continual light' 1 1
+Skil 'control weather' 30 1
+Skil 'create food' 1 1
+Skil 'create raft' 5 2
+Skil 'create rose' 1 1
+Skil 'create spring' 1 1
+Skil 'create water' 1 1
+Skil 'cure blindness' 40 1
+Skil 'cure critical' 50 2
+Skil 'cure disease' 70 1
+Skil 'cure light' 3 2
+Skil 'cure poison' 20 1
+Skil 'cure serious' 35 2
+Skil 'darkvision' 101 5
+Skil 'detect evil' 5 1
+Skil 'detect good' 5 1
+Skil 'detect hidden' 10 1
+Skil 'detect invis' 10 1
+Skil 'detect neutral' 5 1
+Skil 'detect poison' 15 1
+Skil 'detect terrain' 1 1
+Skil 'downpour' 60 3
+Skil 'earthquake' 1 1
+Skil 'electrical storm' 55 5
+Skil 'empower potion' 87 3
+Skil 'empower scroll' 87 3
+Skil 'enchant armor' 101 2
+Skil 'enchant weapon' 101 2
+Skil 'entangle' 50 2
+Skil 'faerie fire' 50 1
+Skil 'faerie fog' 20 1
+Skil 'farsight' 5 1
+Skil 'fire storm' 75 3
+Skil 'fireball' 30 1
+Skil 'fireproof' 45 1
+Skil 'fireshield' 45 3
+Skil 'floating disc' 40 1
+Skil 'fly' 30 1
+Skil 'frenzy' 80 1
+Skil 'gate' 50 3
+Skil 'giant strength' 20 1
+Skil 'glacier' 85 1
+Skil 'haste' 40 1
+Skil 'heal' 70 2
+Skil 'heat metal' 90 2
+Skil 'iceshield' 25 3
+Skil 'identify' 35 1
+Skil 'incinerate' 85 1
+Skil 'invisibility' 35 2
+Skil 'lightning bolt' 25 1
+Skil 'locust swarm' 70 2
+Skil 'magic missile' 5 2
+Skil 'mass healing' 85 4
+Skil 'refresh' 1 1
+Skil 'remove curse' 85 2
+Skil 'rockshield' 75 3
+Skil 'sanctuary' 90 2
+Skil 'shadowplay' 102 0
+Skil 'shield' 50 1
+Skil 'shocking grasp' 15 2
+Skil 'shockshield' 85 3
+Skil 'snow storm' 65 3
+Skil 'stone skin' 80 2
+Skil 'summon' 80 2
+Skil 'thornshield' 65 3
+Skil 'thunderbolt' 85 1
+Skil 'transport' 75 1
+Skil 'watershield' 45 3
+Skil 'axe' 1 5
+Skil 'concentration' 102 0
+Skil 'dagger' 1 5
+Skil 'dirt kicking' 20 1
+Skil 'dodge' 25 5
+Skil 'eighth attack' 102 0
+Skil 'fast healing' 30 6
+Skil 'flail' 1 2
+Skil 'hack' 50 1
+Skil 'haggle' 20 1
+Skil 'kick' 35 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 2
+Skil 'master of magic' 102 0
+Skil 'meditation' 1 2
+Skil 'phase' 10 1
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 1 1
+Skil 'raze' 55 5
+Skil 'recall' 1 2
+Skil 'repair' 80 3
+Skil 'rub' 20 4
+Skil 'scrolls' 1 1
+Skil 'scythe' 1 5
+Skil 'second attack' 20 5
+Skil 'shield block' 10 3
+Skil 'shield levitate' 40 4
+Skil 'spear' 1 2
+Skil 'staves' 1 1
+Skil 'sword' 1 5
+Skil 'third attack' 30 6
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 1
+Skil 'whip' 1 5
+Grup 'attack' 5
+Grup 'benedictions' 7
+Grup 'combat' 4
+Grup 'conjuration' 4
+Grup 'creation' 8
+Grup 'curative' 3
+Grup 'detection' 9
+Grup 'elemental' 3
+Grup 'enchantment' 7
+Grup 'enhancement' 2
+Grup 'harmful' 4
+Grup 'healing' 6
+Grup 'hierophant basics' 0
+Grup 'hierophant default' 40
+Grup 'illusion' 2
+Grup 'maladictions' 2
+Grup 'protective' 13
+Grup 'rom basics' 0
+Grup 'shielding' 7
+Grup 'transportation' 6
+Grup 'weaponsmaster' 36
+Grup 'weather' 12
+End
+
+#Class
+Name necromancer~
+WhoN {CN{cec{x
+Attr 4
+Thac 10 -40
+HitP 37 44
+Mana 70
+Disa 0
+Base necromancer basics~
+Deft necromancer default~
+SubC acolyte
+Tier 3
+Skil 'animate' 35 1
+Skil 'blindness' 40 2
+Skil 'bloodbath' 75 3
+Skil 'cause critical' 90 3
+Skil 'cause light' 70 3
+Skil 'cause serious' 80 3
+Skil 'charm person' 40 1
+Skil 'chill touch' 20 1
+Skil 'curse' 30 4
+Skil 'decrement' 85 5
+Skil 'demonfire' 90 3
+Skil 'detect evil' 5 1
+Skil 'detect good' 5 1
+Skil 'detect hidden' 5 1
+Skil 'detect invis' 20 1
+Skil 'detect neutral' 5 1
+Skil 'energy drain' 10 1
+Skil 'farsight' 15 1
+Skil 'fly' 10 1
+Skil 'frenzy' 50 2
+Skil 'gate' 50 3
+Skil 'harm' 90 2
+Skil 'identify' 20 1
+Skil 'infernal offering' 4 4
+Skil 'infravision' 1 2
+Skil 'invisibility' 10 1
+Skil 'leech' 55 1
+Skil 'locust swarm' 65 3
+Skil 'luminrati' 95 5
+Skil 'mass invis' 70 2
+Skil 'nightmare' 65 3
+Skil 'pass door' 1 1
+Skil 'plague' 40 1
+Skil 'poison' 25 1
+Skil 'ray of deceit' 50 1
+Skil 'refresh' 15 2
+Skil 'resurrect' 90 1
+Skil 'shadowplay' 106 1
+Skil 'shrapnelshield' 75 5
+Skil 'sleep' 20 3
+Skil 'slow' 45 1
+Skil 'summon' 70 2
+Skil 'swarm' 80 3
+Skil 'transport' 65 1
+Skil 'vampiricshield' 60 3
+Skil 'ventriloquate' 1 1
+Skil 'voodoo' 91 3
+Skil 'weaken' 25 1
+Skil 'axe' 1 4
+Skil 'concentration' 102 0
+Skil 'dagger' 1 5
+Skil 'dirt kicking' 15 1
+Skil 'disarm' 30 5
+Skil 'dodge' 15 6
+Skil 'eighth attack' 102 0
+Skil 'enhanced damage' 78 6
+Skil 'envenom' 76 3
+Skil 'fast healing' 5 5
+Skil 'flail' 1 2
+Skil 'fourth attack' 70 10
+Skil 'hack' 40 1
+Skil 'haggle' 15 1
+Skil 'hand to hand' 1 1
+Skil 'hide' 15 1
+Skil 'kick' 25 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 4
+Skil 'master of magic' 102 0
+Skil 'meditation' 1 3
+Skil 'parry' 10 6
+Skil 'peek' 40 5
+Skil 'pick lock' 20 5
+Skil 'polearm' 1 2
+Skil 'quarterstaff' 1 4
+Skil 'recall' 1 2
+Skil 'repair' 80 3
+Skil 'rub' 20 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 2
+Skil 'second attack' 15 5
+Skil 'shield block' 25 5
+Skil 'shield levitate' 40 4
+Skil 'spear' 1 5
+Skil 'staves' 1 2
+Skil 'sword' 1 2
+Skil 'third attack' 25 5
+Skil 'trap disarm' 111 1
+Skil 'trip' 1 1
+Skil 'wands' 20 2
+Skil 'whip' 1 2
+Grup 'attack' 3
+Grup 'beguiling' 8
+Grup 'benedictions' 5
+Grup 'combat' 5
+Grup 'detection' 4
+Grup 'enchantment' 3
+Grup 'enhancement' 1
+Grup 'harmful' 6
+Grup 'illusion' 2
+Grup 'maladictions' 10
+Grup 'necromancer basics' 0
+Grup 'necromancer default' 40
+Grup 'rom basics' 0
+Grup 'shielding' 1
+Grup 'transportation' 3
+Grup 'weaponsmaster' 24
+End
+
+#Class
+Name witch~
+WhoN {WW{wch{x
+Attr 2
+Thac 20 0
+HitP 16 23
+Mana 80
+Disa 0
+Base witch basics~
+Deft witch default~
+SubC witch
+Tier 1
+Skil 'absorb magic' 60 1
+Skil 'acidshield' 100 3
+Skil 'armor' 30 1
+Skil 'blindness' 50 2
+Skil 'colour spray' 30 1
+Skil 'conjure' 60 2
+Skil 'cure blindness' 50 1
+Skil 'detect hidden' 25 1
+Skil 'detect invis' 10 1
+Skil 'detect magic' 1 1
+Skil 'diminish' 90 2
+Skil 'dispel magic' 75 5
+Skil 'farsight' 15 1
+Skil 'feeble mind' 50 2
+Skil 'fireproof' 65 1
+Skil 'fireshield' 65 3
+Skil 'fly' 30 1
+Skil 'gate' 60 2
+Skil 'heat metal' 80 2
+Skil 'iceshield' 25 3
+Skil 'identify' 40 1
+Skil 'invisibility' 55 1
+Skil 'locate object' 65 1
+Skil 'luminrati' 101 5
+Skil 'magic missile' 1 1
+Skil 'memory lapse' 100 3
+Skil 'pass door' 65 1
+Skil 'sanctuary' 101 5
+Skil 'shadowplay' 102 0
+Skil 'shield' 30 1
+Skil 'shockshield' 90 3
+Skil 'silence' 100 2
+Skil 'sleep' 50 4
+Skil 'summon' 90 2
+Skil 'swarm' 101 3
+Skil 'transport' 80 1
+Skil 'axe' 1 4
+Skil 'brew' 50 3
+Skil 'cartwheel' 60 2
+Skil 'concentration' 102 0
+Skil 'dagger' 1 3
+Skil 'dirt kicking' 40 3
+Skil 'dodge' 35 10
+Skil 'eighth attack' 102 0
+Skil 'fast healing' 40 8
+Skil 'flail' 1 2
+Skil 'fourth attack' 60 8
+Skil 'hack' 70 3
+Skil 'haggle' 30 1
+Skil 'kick' 45 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 3
+Skil 'master of magic' 102 0
+Skil 'meditation' 10 5
+Skil 'parry' 25 6
+Skil 'polearm' 1 5
+Skil 'quarterstaff' 1 3
+Skil 'recall' 1 2
+Skil 'repair' 101 3
+Skil 'rub' 30 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 5
+Skil 'second attack' 30 6
+Skil 'shield block' 35 4
+Skil 'shield levitate' 50 4
+Skil 'spear' 1 5
+Skil 'staves' 1 2
+Skil 'sword' 1 3
+Skil 'third attack' 40 6
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 3
+Skil 'whip' 1 3
+Grup 'anti spellcaster' 5
+Grup 'attack' 2
+Grup 'beguiling' 4
+Grup 'combat' 7
+Grup 'conjuration' 4
+Grup 'curative' 2
+Grup 'illusion' 2
+Grup 'maladictions' 6
+Grup 'protective' 10
+Grup 'rom basics' 0
+Grup 'shielding' 7
+Grup 'transportation' 5
+Grup 'weaponsmaster' 24
+Grup 'witch basics' 0
+Grup 'witch default' 41
+End
+
+#Class
+Name wiccan~
+WhoN {GW{gic{x
+Attr 2
+Thac 10 -10
+HitP 26 33
+Mana 85
+Disa 0
+Base wiccan basics~
+Deft wiccan default~
+SubC witch
+Tier 2
+Skil 'absorb magic' 55 1
+Skil 'acidshield' 95 3
+Skil 'armor' 30 1
+Skil 'blindness' 45 2
+Skil 'colour spray' 27 1
+Skil 'conjure' 55 2
+Skil 'cure blindness' 45 1
+Skil 'detect hidden' 20 1
+Skil 'detect invis' 5 1
+Skil 'detect magic' 1 1
+Skil 'diminish' 80 2
+Skil 'dispel magic' 65 5
+Skil 'farsight' 10 1
+Skil 'feeble mind' 45 2
+Skil 'fireproof' 55 1
+Skil 'fireshield' 55 3
+Skil 'fly' 20 1
+Skil 'gate' 50 2
+Skil 'heat metal' 75 2
+Skil 'iceshield' 25 3
+Skil 'identify' 30 1
+Skil 'invisibility' 50 1
+Skil 'locate object' 55 1
+Skil 'luminrati' 97 5
+Skil 'magic missile' 1 1
+Skil 'memory lapse' 95 3
+Skil 'pass door' 55 1
+Skil 'sanctuary' 97 5
+Skil 'shadowplay' 102 0
+Skil 'shield' 30 1
+Skil 'shockshield' 80 3
+Skil 'shrapnelshield' 101 3
+Skil 'silence' 95 2
+Skil 'sleep' 40 4
+Skil 'summon' 80 2
+Skil 'swarm' 95 3
+Skil 'transport' 70 1
+Skil 'axe' 1 4
+Skil 'brew' 45 3
+Skil 'cartwheel' 55 2
+Skil 'concentration' 102 0
+Skil 'dagger' 1 3
+Skil 'dirt kicking' 30 2
+Skil 'dodge' 25 9
+Skil 'eighth attack' 102 0
+Skil 'fast healing' 35 7
+Skil 'flail' 1 2
+Skil 'fourth attack' 55 7
+Skil 'hack' 60 2
+Skil 'haggle' 25 1
+Skil 'kick' 40 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 3
+Skil 'master of magic' 102 0
+Skil 'meditation' 5 5
+Skil 'parry' 20 5
+Skil 'polearm' 1 5
+Skil 'quarterstaff' 1 3
+Skil 'recall' 1 2
+Skil 'repair' 90 3
+Skil 'rub' 25 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 5
+Skil 'second attack' 25 5
+Skil 'shield block' 30 4
+Skil 'shield levitate' 45 4
+Skil 'spear' 1 5
+Skil 'staves' 1 2
+Skil 'sword' 1 3
+Skil 'third attack' 35 5
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 3
+Skil 'whip' 1 3
+Grup 'anti spellcaster' 5
+Grup 'attack' 2
+Grup 'beguiling' 4
+Grup 'combat' 6
+Grup 'conjuration' 4
+Grup 'curative' 2
+Grup 'illusion' 2
+Grup 'maladictions' 6
+Grup 'protective' 10
+Grup 'rom basics' 0
+Grup 'shielding' 6
+Grup 'transportation' 4
+Grup 'weaponsmaster' 24
+Grup 'wiccan basics' 0
+Grup 'wiccan default' 41
+End
+
+#Class
+Name warlock~
+WhoN {CW{clk{x
+Attr 2
+Thac 10 -10
+HitP 36 43
+Mana 90
+Disa 0
+Base warlock basics~
+Deft warlock default~
+SubC witch
+Tier 3
+Skil 'absorb magic' 50 1
+Skil 'acidshield' 95 3
+Skil 'armor' 30 1
+Skil 'blindness' 40 2
+Skil 'colour spray' 25 1
+Skil 'conjure' 50 2
+Skil 'cure blindness' 40 1
+Skil 'detect hidden' 15 1
+Skil 'detect invis' 1 1
+Skil 'detect magic' 1 1
+Skil 'diminish' 70 2
+Skil 'dispel magic' 55 5
+Skil 'farsight' 5 1
+Skil 'feeble mind' 40 2
+Skil 'fireproof' 45 1
+Skil 'fireshield' 45 3
+Skil 'fly' 10 1
+Skil 'gate' 40 2
+Skil 'heat metal' 70 2
+Skil 'iceshield' 25 3
+Skil 'identify' 20 1
+Skil 'invisibility' 45 1
+Skil 'locate object' 45 1
+Skil 'luminrati' 95 5
+Skil 'magic missile' 1 1
+Skil 'memory lapse' 90 3
+Skil 'pass door' 43 1
+Skil 'sanctuary' 95 5
+Skil 'shadowplay' 102 0
+Skil 'shield' 30 1
+Skil 'shockshield' 70 3
+Skil 'shrapnelshield' 90 3
+Skil 'silence' 90 2
+Skil 'sleep' 30 4
+Skil 'summon' 70 2
+Skil 'swarm' 90 3
+Skil 'transport' 60 1
+Skil 'axe' 1 4
+Skil 'brew' 40 3
+Skil 'cartwheel' 50 2
+Skil 'concentration' 102 0
+Skil 'dagger' 1 3
+Skil 'dirt kicking' 20 1
+Skil 'dodge' 20 8
+Skil 'eighth attack' 102 0
+Skil 'fast healing' 30 6
+Skil 'flail' 1 2
+Skil 'fourth attack' 50 6
+Skil 'hack' 50 1
+Skil 'haggle' 20 1
+Skil 'kick' 35 1
+Skil 'knife fighter' 102 0
+Skil 'mace' 1 3
+Skil 'master of magic' 102 0
+Skil 'meditation' 1 5
+Skil 'parry' 15 4
+Skil 'polearm' 1 5
+Skil 'quarterstaff' 1 3
+Skil 'recall' 1 2
+Skil 'repair' 80 3
+Skil 'rub' 20 4
+Skil 'scrolls' 1 2
+Skil 'scythe' 1 5
+Skil 'second attack' 20 4
+Skil 'shield block' 25 4
+Skil 'shield levitate' 40 4
+Skil 'spear' 1 5
+Skil 'staves' 1 2
+Skil 'sword' 1 3
+Skil 'third attack' 30 4
+Skil 'trap disarm' 111 1
+Skil 'wands' 1 3
+Skil 'whip' 1 3
+Grup 'anti spellcaster' 5
+Grup 'attack' 2
+Grup 'beguiling' 4
+Grup 'combat' 5
+Grup 'conjuration' 4
+Grup 'curative' 2
+Grup 'detection' 8
+Grup 'illusion' 2
+Grup 'maladictions' 6
+Grup 'protective' 10
+Grup 'rom basics' 0
+Grup 'shielding' 5
+Grup 'transportation' 3
+Grup 'warlock basics' 0
+Grup 'warlock default' 40
+Grup 'weaponsmaster' 24
+End
+
+#Class
+Name bard~
+WhoN {CB{crd{x
+Attr 3
+Thac 10 -14
+HitP 42 49
+Mana 70
+Disa 0
+Base assassin basics~
+Deft bard default~
+SubC thief
+Tier 3
+Skil 'shadowplay' 102 0
+Skil 'axe' 1 4
+Skil 'backstab' 5 5
+Skil 'circle' 20 5
+Skil 'concentration' 102 0
+Skil 'critical strike' 80 5
+Skil 'dagger' 1 2
+Skil 'dirt kicking' 1 1
+Skil 'disarm' 20 6
+Skil 'disguise' 40 2
+Skil 'dodge' 5 4
+Skil 'dual wield' 20 5
+Skil 'eighth attack' 102 0
+Skil 'engage' 90 6
+Skil 'envenom' 11 3
+Skil 'fast healing' 20 6
+Skil 'fifth attack' 90 2
+Skil 'flail' 1 4
+Skil 'fourth attack' 50 5
+Skil 'hack' 45 1
+Skil 'haggle' 1 1
+Skil 'hand to hand' 5 1
+Skil 'hide' 1 3
+Skil 'jab' 50 2
+Skil 'katana' 1 1
+Skil 'kick' 10 1
+Skil 'knife fighter' 106 1
+Skil 'lore' 16 4
+Skil 'mace' 1 3
+Skil 'master of magic' 102 0
+Skil 'music' 1 15
+Skil 'obfuscate' 101 5
+Skil 'parry' 10 3
+Skil 'peek' 1 3
+Skil 'pick lock' 5 5
+Skil 'polearm' 1 4
+Skil 'quarterstaff' 1 4
+Skil 'recall' 1 2
+Skil 'repair' 70 3
+Skil 'rub' 10 3
+Skil 'scrolls' 85 2
+Skil 'scythe' 1 4
+Skil 'second attack' 10 4
+Skil 'shield block' 40 4
+Skil 'slip' 50 4
+Skil 'sneak' 10 3
+Skil 'spear' 1 5
+Skil 'stalk' 60 3
+Skil 'steal' 20 2
+Skil 'sword' 1 5
+Skil 'third attack' 20 4
+Skil 'trap disarm' 111 1
+Skil 'trap set' 101 5
+Skil 'trip' 10 1
+Skil 'whip' 1 4
+Grup 'assassin basics' 0
+Grup 'assassin default' 40
+Grup 'rom basics' 0
+Grup 'weaponsmaster' 24
+End
+
+#End

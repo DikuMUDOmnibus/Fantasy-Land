@@ -1,0 +1,2565 @@
+#AOD_AREA
+The Tundra*~
+32400 32499 0 1
+Levl 40 80
+Bldr Fein~
+Alig N
+End
+
+#MOBILES
+#32400
+tundra wolf~
+{x A {BT{cu{Wnd{cr{Ba {xWolf~
+A Wolf with a furry white coat is here.
+~
+This beast of the snowy regions stalks for unsuspecting prey using its
+keen sense of smell.  Rumors say these wolves can often sense a wounded
+victim over two miles away.  
+~
+fido~
+100 100 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AG V C 0 0
+50 214 0 7213 8440 7244 8566 25 30 224 bite
+-406 -371 -373 -328
+STANDING STANDING neutral 3972
+0 mage medium ACDEFHJKQV
+W 25
+P 19 1
+
+#32401
+Cold adventurer~
+{xA {BC{Co{Wl{Bd {wAdventurer{x~
+A lost traveler wanders aimlessly in the snow.
+~
+This poor traveler has lost his way in the blinding snowstorm in the
+Tundra.  His supplies have nearly run dry and he does not even know if he's
+remotely close to finding the exit.  
+~
+human~
+100 100 100 150 0 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 
+AG 0 I 0 0
+60 89 0 3208 3822 3211 3963 10 12 81 pound
+-137 -194 -141 -199
+STANDING STANDING neutral 2226
+0 mage medium ABCDEFGHIJK
+W 50
+P 49 0
+
+#32402
+Great Dragon~
+The Great Dragon~
+The Great Dragon stands here buffing his claws.
+~
+~
+human~
+100 100 0 100 50 100 100 100 100 100 100 100 0 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABCFQRT DFVZc GHLMV 0 0
+90 175 0 5647 6449 5819 6440 23 18 202 magic
+-337 -314 -337 -345
+STANDING STANDING male 2834
+0 mage giant ABCDEFGHIJK
+W 25
+
+#32427
+ice thief~
+{DTreasure {yHunter{x~
+A sneaky thief peeks around corners for possible danger.
+~
+This thief has no life to live for so why not steal from the rich to
+benefit himself?  Despite his dirty appearance, he is quite adept in
+fighting and the art of theft.  
+~
+human~
+100 50 50 0 100 100 150 100 150 100 100 100 50 100 100 100 100 100 100 100 50 100 100 100 100 100 
+ABCGT CDEFGJPQTVZa CHT 0 0
+75 158 0 4789 5089 4790 5285 18 16 155 slice
+-209 -212 -196 -271
+STANDING STANDING male 3000
+0 mage medium ABCDEFGHIJK
+W 25
+P 12 0
+
+#32429
+ice dragon~
+{CI{Wc{Ce {BD{cr{wag{co{Bn{x~
+{xThe legendary {CI{Wc{Ce {BD{cr{wag{co{Bn {xspreads its mighty wings in the air.
+~
+The mighty ice dragon fears no mortal man as its giant claws could easily
+slice through metal.  If its safety is the concern it will stop at nothing
+to protect itself.  
+~
+dragon~
+100 50 50 0 100 100 150 100 150 100 100 100 50 100 100 100 100 100 100 100 50 100 100 100 100 100 
+ABCT CDEFGJPQTVZa CHT 0 0
+82 140 0 5141 5789 5205 5823 18 17 137 crush
+-209 -253 -188 -289
+STANDING STANDING neutral 2796
+0 mage giant ACDEFGHIJKPQUVX
+W 25
+P 6 0
+
+#32432
+terahm cleric~
+{BTe{Cra{Bhm {WCleric{x~
+A kindly cleric stands by the temple smiling.
+~
+This cleric entered the study of white magic in her early years of
+childhood.  She has devoted her life to the caring and healing of distressed
+citizens of Terahm, and does all that she can to make life easier in this
+frozen wasteland.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+AB 0 BCHN 0 0
+60 112 0 3260 3859 3513 3760 12 11 99 none
+-164 -122 -144 -135
+STANDING STANDING female 1640
+0 mage medium ABCDEFGHIJK
+W 25
+
+#32440
+Pit Fiend~
+{DPit {RFiend{x~
+A digusting {DPit {RFiend {xis here, licking its fangs.
+~
+This mutated creature fell down the pit ages ago but due to its stubby
+limbs, it is unable to climb out.  It now lives a lifestyle of feasting off
+the victims who happen to fall into the very trap that has imprisoned it.  
+~
+human~
+150 50 50 0 100 100 100 100 150 100 100 100 50 100 100 100 100 100 100 100 50 100 100 100 100 100 
+ABCFT CDEFGJPQTVZa DHT 0 0
+83 141 0 5240 5789 5476 5698 15 17 144 crush
+-197 -241 -234 -202
+STANDING STANDING neutral 3585
+0 mage huge ABCDEFGHIJK
+W 25
+P 4 0
+
+#32445
+ice wyvern~
+{CI{wc{Ce {BW{cy{Wv{ce{Br{cn{x~
+{xAn {CI{wc{Ce {BW{cy{Wv{ce{Br{cn {xflies around chasing its tail.
+~
+This little wyvern has many centuries to go before it matures into a full
+dragon.  It has hidden itself here so the Ice Dragon won't destroy it out of
+envy that it may one day overthrow it.  
+~
+dragon~
+100 50 50 0 100 100 150 100 150 100 100 100 50 100 100 100 100 100 100 100 50 100 100 100 100 100 
+ABCT CDEFGJPQTVZa CHT 0 0
+83 183 0 5544 5932 5053 6124 21 15 159 crush
+-271 -290 -200 -308
+STANDING STANDING neutral 2754
+0 mage giant ACDEFGHIJKPQUVX
+W 25
+P 15 0
+
+#32450
+Ice Guard~
+{CI{wc{Ce {wGuard{x~
+A guard made of ice stands perfectly still.
+~
+A tall being of ice stands tall guarding the town from intruders.  He has
+the strength of ten and rumors also say he has the appetite of ten as well. 
+~
+human~
+100 100 100 0 100 100 150 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABG Va C 0 0
+69 145 0 4293 4656 4338 4451 15 15 111 chill
+-194 -202 -245 -208
+STANDING STANDING male 2052
+0 mage medium ABCDEFGHIJK
+W 25
+P 21 0
+
+#32451
+ice man~
+{BI{cc{Be {cBeing{x~
+{xA man composed of {BI{cc{Be {xwalks about.
+~
+This ice being may look gentle but is extremely powerful due to his solid
+form.  He gets on with his daily life working in an ice cave that is located
+at the outskirts of the town.  
+~
+human~
+150 100 100 0 100 100 150 100 150 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABCG J 0 0 0
+75 113 0 4608 4972 4406 5198 15 17 132 frbite
+-165 -215 -226 -239
+STANDING STANDING male 2694
+0 mage medium ABCDEFGHIJK
+W 25
+P 138 1
+
+#32452
+polar bear~
+{BP{co{Wl{ca{Br {wBear{x~
+A gigantic bear tramples along the snow.
+~
+This bear may act friendly and look nice, but when its hunger is the
+concern, its priorities are set for food and any traveler would make a
+suitable meal for it.  
+~
+bear~
+100 150 0 50 100 100 100 100 100 100 100 100 50 100 100 100 100 150 100 100 150 100 100 100 100 100 
+AG DZ E 0 0
+70 103 0 4085 4515 4323 4759 15 13 138 bite
+-208 -150 -246 -211
+STANDING STANDING male 2436
+0 mage giant ABCDEFHJKUV
+W 25
+P 37 0
+
+#32453
+Ice child~
+{BI{cc{Be {cChild{x~
+{xA {Bf{cr{Wo{cz{Be{cn {xchild slips on the ice.
+~
+This happy fun-loving being uses his solid body for sliding up and down
+the icy roads.  People often yell as this little prankster as he tends to
+knock over their precious crystal roses.  
+~
+human~
+150 100 100 0 100 100 150 100 150 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABCG J 0 0 0
+40 55 0 1660 1938 1763 1802 5 6 43 frbite
+-62 -93 -61 -63
+STANDING STANDING male 981
+0 mage medium ABCDEFGHIJK
+W 25
+P 11 0
+
+#32454
+cart vendor~
+{yA Cart Vendor{x~
+An icy man slides around with his cart of trinkets.
+~
+This cart vendor has wasted his money on useless trinkets and now is
+trying to sell them back for a profit.  So far his sales are poor and due to
+his grumpy attitude, they won't be improving.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABGQR DEF CH 0 0
+150 277 0 11696 12095 11587 12952 39 32 304 magic
+-411 -505 -451 -598
+STANDING STANDING male 7270
+0 mage medium ABCDEFGHIJK
+W 25
+
+#32459
+abrahn shopkeeper~
+Abrahn the Potion Mixer~
+Abrahn looks about with his old eyes for a new customer.
+~
+Abrahn is a master at mixing the right indredients to form very potent
+potions.  None other can match his skill.  If he isn't sleeping, he is
+thinking of a new potion he can produce.  
+~
+human~
+100 0 0 100 100 100 100 100 100 100 100 100 0 100 100 100 100 0 100 100 0 100 100 100 100 100 
+ABQR DEF H 0 0
+150 343 0 10477 12385 11111 12862 35 32 351 magic
+-580 -596 -624 -445
+STANDING STANDING male 7121
+0 mage medium ABCDEFGHIJK
+W 25
+
+#32462
+Cave Salamander~
+{DC{wa{Dv{we {gS{ya{gl{ya{gm{ya{gn{yd{ge{yr{x~
+A tiny salamander crawls about the cave floor.
+~
+This little creature lives the wonderful life of being blind and eating
+insects off the dank cave floor.  To many this may seem bad but it sees it
+as heaven.  
+~
+human~
+100 50 50 150 50 100 50 100 150 100 100 100 50 100 100 100 100 100 50 100 50 100 0 0 100 100 
+ACGT CDEFGJLPQTVZa CHT 0 0
+45 66 0 2012 2256 2065 2368 7 6 51 acbite
+-86 -117 -77 -101
+STANDING STANDING male 1415
+0 mage small ABCDEFGHIJK
+W 25
+P 9 0
+
+#32465
+fherin dragoon~
+{YFherin {wthe {DDragoon{x~
+Fherin cleans off his weapon to slay his next target.
+~
+Fherin is a world famous dragon slayer who travels the realms in search
+of a bigger challenge.  He is known for saving castles, and towns alike from
+vicious dragons with his powerful spear.  
+~
+human~
+100 50 50 0 100 100 100 100 100 100 100 100 50 100 100 100 100 50 100 100 50 100 100 100 100 100 
+ABCGT CDEFGJPQTVZa CHT 0 0
+85 175 0 5506 6208 5831 6375 17 18 191 slice
+-282 -213 -284 -319
+STANDING STANDING male 2678
+0 mage medium ABCDEFGHIJK
+W 25
+P 10 0
+
+#32476
+faithful worshipper~
+{WFaithful {wWorshipper{x~
+An ice being is here praying for good fortune.
+~
+This citizen of the village comes here daily to worship and give thanks
+to the Ice Dragon.  He wears the traditional white garb bearing the Dragon
+symbol to show his devotion and loyalty to the dragon.  
+~
+human~
+150 100 100 0 100 100 150 100 150 100 100 100 100 100 100 100 100 100 0 100 100 100 100 100 100 100 
+ABCG J 0 0 0
+43 54 0 1997 2080 1844 2189 5 5 58 frbite
+-79 -92 -105 -73
+STANDING STANDING male 1331
+0 mage medium ABCDEFGHIJK
+W 25
+P 1 0
+
+#32477
+Terson priest~
+{BT{ce{Wrs{co{Bn {WT{whe {WP{wriest{x~
+The venerable priest Terson stands by the alter, praying.
+~
+Terson is the most loved person in the village as he is always able to
+lend a helping hand.  His adept knowledge of healing magic allows him to
+protect all the villagers from the effects of the icy tundra.  
+~
+human~
+100 50 50 0 100 100 150 100 150 100 100 100 50 100 100 100 100 100 100 100 50 100 100 100 100 100 
+ABCGT CDEFGJPQTVZa CHPQT 0 0
+150 264 0 10789 11856 11579 12859 41 39 287 slice
+-522 -645 -411 -591
+STANDING STANDING male 6004
+0 mage medium ABCDEFGHIJK
+W 25
+P 1 0
+#0
+
+#OBJECTS
+#32400
+Medal Dragon Slayer~
+{YMedal {wof a {DDragon {RS{rl{Ra{ry{Re{rr{x~
+A shiny medal lays here.~
+treasure T AO
+0 0 0 0 0
+0 0 0
+
+#32401
+band frost~
+{bb{Ban{bd of {cF{Cr{co{Cs{ct{x~
+A small circle of {cf{Cr{co{Cs{ct{x lies on the ground~
+armor A AM
+30 30 30 30 0
+101 10 1000
+A 3 2
+A 13 303
+A 12 300
+A 18 10
+
+#32402
+glowing crystal~
+a {yglo{Ywi{yng{C Cr{cys{Ctal{x~
+A {CCr{cys{Ctal{x is on the floor, glowing softly~
+light AG A
+0 0 999 0 0
+101 10 10000
+A 20 -4
+A 13 300
+
+#32403
+green toque~
+{ggreen toque{x~
+A {ggreen toque{x is on the ground, eh~
+armor 0 AE
+30 30 30 30 0
+101 1 10
+A 12 303
+A 13 250
+
+#32404
+Polar Bear Paws~
+{BP{co{Wl{ca{Br {wBear {yPaws{x~
+A pair of silky white gloves rest here.~
+armor GI AH
+10 9 9 5 0
+40 9 1500
+A 19 8
+A 18 8
+A 2 3
+
+#32405
+frozen tears~
+{Cfr{woz{Cen t{wear{Cs{x~
+Some {Cfr{woz{Cen t{wear{Cs{x fall from the gods~
+armor AGI AY
+30 30 30 30 0
+101 10 1000
+A 13 303
+A 18 10
+A 19 10
+A 20 -2
+A 4 3
+
+#32406
+woolen scarf~
+{Rwo{gol{Ren s{gc{Da{gr{Rf{x~
+A {Rs{gc{Da{gr{Rf{x is on the ground~
+armor I AC
+30 30 30 30 0
+101 10 100
+A 13 303
+A 19 15
+A 18 15
+A 20 -4
+
+#32407
+frozen staff~
+{bF{Br{Co{Wz{Be{bn {yStaff{x~
+A frozen staff lies here.~
+armor 0 AO
+15 15 15 15 0
+65 20 1000
+A 3 3
+A 12 80
+
+#32408
+frostbite~
+{bF{Br{Co{Ws{bt{Bb{Ci{Wt{be{x~
+A frost covered dagger lies on the ground.~
+weapon 0 AN
+dagger 10 9 frost BDH
+65 40 900
+A 20 -2
+A 12 50
+
+#32422
+A Shimmering portal~
+{xAn {CI{wc{Cy {WPortal{x~
+{xA portal encoated with {Ci{wc{Ce {xis here.~
+portal G 0
+0 0 0 32350 0
+0 0 0
+
+#32429
+dragon claws~
+{CI{wc{Ce {BD{cr{Wag{co{Bn {YClaws{x~
+The claws of a legendary dragon rest here.~
+armor AG AH
+26 26 26 26 0
+90 10 14359
+A 1 3
+A 13 150
+A 18 13
+A 19 13
+
+#32430
+blue flame~
+{xA {yMystical {BB{cl{bu{Ce {BF{clam{Be{x~
+A candle containing a mystical light is here.~
+light AI AO
+0 0 999 0 0
+75 10 20709
+F S 0 0 C
+A 3 2
+A 13 35
+A 18 12
+
+#32444
+wyvern wings~
+{CI{wc{Ce {BW{cy{Wv{ce{Br{cn {WW{wi{Wn{wg{Ws{x~
+{xA pair of {CI{wc{Ce {BW{cy{Wv{ce{Br{cn {WW{wi{Wn{wg{Ws {xlie here.~
+armor AG AK
+21 21 21 21 0
+90 25 2500
+A 18 15
+A 19 20
+A 12 150
+A 13 100
+
+#32445
+wyvern teeth~
+{WThe teeth of an {CI{wc{Ce {BW{cy{Wv{ce{Br{cn{x~
+{xA neckchain of sharp {wteeth {xlie here.~
+armor AG AC
+13 14 19 12 0
+90 15 1300
+A 19 22
+A 18 20
+A 13 250
+
+#32446
+Wyvern tail~
+{wAn {CI{wc{Ce {BW{cy{Wv{ce{Br{cn {WT{wa{Wi{wl{x~
+A torn tail of a small wyvern is here.~
+weapon AGU AN
+whip 12 12 frbite BDE
+90 40 2000
+A 5 2
+A 19 19
+A 18 19
+
+#32451
+frozen pot pie~
+{BF{cr{wo{cz{Be{cn {yPot Pie{x~
+A pot pie covered with ice sits here.~
+food 0 A
+-1 24 0 0 0
+0 15 50
+
+#32452
+tundra dagger~
+{BT{cu{Wn{cd{Br{ca {WD{wa{Wg{wg{We{wr{x~
+A dagger of frost chills the ground it lies on.~
+weapon G AN
+dagger 10 12 frbite BDE
+70 20 5000
+A 2 2
+A 18 19
+A 19 19
+
+#32453
+ice girdle~
+{xA {yGirdle {xof {CI{wc{Ce{x~
+{xA girdle with an {Ci{wc{Cy {xcoating lies here.~
+container Y AL
+550 A 0 20 0
+80 40 1100
+A 13 150
+A 18 13
+A 19 13
+
+#32454
+fountain water~
+{CI{wc{Ce {BD{cr{Wag{co{Bn {wFountain{x ~
+{xA fountain of the {CI{wc{Ce {BD{cr{Wag{co{Bn {xflows here.~
+fountain A 0
+-1 -1 'water' 0 0
+0 0 0
+
+#32455
+frosty enhancement potion~
+{BF{cr{Wo{cs{Bt{cy {WPotion of {yEnhancement{x~
+{xA flask covered with {BF{cr{Wo{cs{Bt {xlies here.~
+potion A AO
+90 'fly' '' '' ''
+90 1 7000
+
+#32456
+frosty rememdy potion~
+{BF{cr{Wo{cs{Bt{cy {WPotion of {yRemedy{x~
+{xA flask covered with {BF{cr{Wo{cs{Bt {xlies here.~
+potion A AO
+90 'cure blindness' '' '' ''
+90 1 8000
+
+#32457
+frosty healing potion~
+{BF{cr{Wo{cs{Bt{cy {WPotion of {yHealing{x~
+{xA flask covered with {BF{cr{Wo{cs{Bt {xlies here.~
+potion A AO
+90 'heal' 'cure critical' '' ''
+90 1 10000
+
+#32458
+frosty attack potion~
+{BF{cr{Wo{cs{Bt{cy {WPotion of {yAttack{x~
+{xA flask covered with {BF{cr{Wo{cs{Bt {xlies here.~
+potion A AO
+90 'cancellation' 'curse' '' ''
+90 1 13863
+
+#32459
+frosty protection potion~
+{BF{cr{Wo{cs{Bt{cy {WPotion of {yProtection{x~
+{xA flask covered with {BF{cr{Wo{cs{Bt {xlies here.~
+potion A AO
+90 'sanctuary' 'bless' '' ''
+90 1 9000
+
+#32465
+dragoon spear~
+{DDragoon {WS{wp{We{wa{Wr{x~
+The spear of a mighty dragoon lies here.~
+weapon ABG AN
+exotic 12 13 pierce DEG
+80 22 8000
+A 19 19
+A 18 19
+A 1 2
+
+#32472
+Temple pew~
+a Temple Pew~
+A long pew is here waiting for worshippers.~
+furniture B 0
+2 99999 BEHK 0 0
+0 50 1000
+
+#32475
+Temple Alter~
+{wThe {WT{wemple {WA{wlter{x~
+Righteous Alter~
+furniture AB 0
+2 5000 FIL 50 50
+0 0 0
+E
+alter~
+This alter is made of mixture of marble stone and rare blue ice crystals
+which give it a mystifying glow.  This alter is used to conduct prayers and
+sacrifices to the Ice Dragon to show the peoples' loyalty to him.  
+~
+
+#32477
+frozen mace~
+{BF{cr{Wo{cz{Be{cn {WM{wa{Wc{we{x~
+A weapon of icy origin rests here.~
+weapon G AN
+mace 12 12 frbite BDE
+90 45 5000
+A 3 2
+A 19 19
+A 18 19
+
+#32480
+Dragon Picture~
+ice Dragon Painting~
+A painting of the Ice Dragon hangs here.~
+trash B 0
+0 0 0 0 0
+0 0 0
+E
+painting~
+In this painting the artist depicts the Ice Dragon saving the town from a
+horde of demons.  In an excellent array of colors the Dragon spews forth
+great blue flames to thwart the enemies' attack.  
+~
+
+#32481
+Dragon Picture~
+ice Dragon Painting~
+A painting of the Ice Dragon hangs here.~
+trash B 0
+0 0 0 0 0
+0 0 0
+E
+painting~
+The mighty Ice Dragon is painted standing in the center of the town
+during what appears to be a festival.  It is standing on its hind legs and
+spraying a colorful fire into the air for the amusement of the people.  
+~
+
+#32482
+Dragon Picture~
+ice Dragon Painting~
+A painting of the Ice Dragon hangs here.~
+trash B 0
+0 0 0 0 0
+0 0 0
+E
+painting~
+This painting shows a tradegy for the Ice Dragon as the artist shows him
+being speared and captured by several dragon slayers.  This was probably
+during a great battle in this realm.  
+~
+
+#32483
+Dragon Picture~
+ice Dragon Painting~
+A painting of the Ice Dragon hangs here.~
+trash B 0
+0 0 0 0 0
+0 0 0
+E
+painting~
+This painting doesn't show any action but just a highly detailed portrait
+of the Ice Dragon's very own lair.  The artist probably exaggerated as the
+gold and jewels in the lair are touching the ceiling of this gigantic room. 
+~
+
+#32484
+Dragon Picture~
+ice Dragon Painting~
+A painting of the Ice Dragon hangs here.~
+trash B 0
+0 0 0 0 0
+0 0 0
+E
+painting~
+This painting expresses the legendary battle between the Ice and Fire
+Dragons for control of this realm.  Both dragons stand horn to horn each
+bellowing their elemental flames.  Legends say this victory of the Ice
+Dragon is what turned the realm into the frozen wasteland it is today.  
+~
+
+#32485
+Dragon Picture~
+ice Dragon Painting~
+A painting of the Ice Dragon hangs here.~
+trash B 0
+0 0 0 0 0
+0 0 0
+E
+painting~
+This is a portait of the Ice Dragon in exquisite detail showing that the
+artist put much effort in this painting.  The Dragon stands tall exhaling
+small flames from its nostrils.  
+~
+
+#32486
+gleaming crystal blade~
+{WG{wl{We{Yam{Wi{wn{Wg {WC{wr{Wy{Ys{Wt{wa{Wl {WB{wl{Wa{wd{We{x~
+{WG{wl{We{Yam{Wi{wn{Wg {WC{wr{Wy{Ys{Wt{wa{Wl {WB{wl{Wa{wd{We{x~
+weapon HTZ AN
+sword 14 14 glare GJL
+101 40 11261
+A 13 210
+A 19 10
+A 20 -3
+#0
+
+#ROOMS
+#32400
+Cold Pathway~
+The air is cold to breathe here as the vegetation surrounding the pathway
+are barely hanging on to life.  A light blanket of snow covers this worn
+trail.  For some odd reason this area seems to be snowing constantly despite
+what the season or temperature is.  
+~
+4 13
+D0
+~
+~
+0 0 32401
+D2
+~
+~
+0 0 31105
+S
+
+#32401
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32412
+D1
+~
+~
+0 0 32402
+D2
+~
+~
+0 0 32400
+D3
+~
+~
+0 0 32404
+S
+
+#32402
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32417
+D1
+~
+~
+0 0 32403
+D2
+~
+~
+0 0 32413
+D3
+~
+~
+0 0 32401
+S
+
+#32403
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32410
+D1
+~
+~
+0 0 32450
+D3
+~
+~
+0 0 32402
+S
+
+#32404
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32411
+D1
+~
+~
+0 0 32401
+D2
+~
+~
+0 0 32407
+D3
+~
+~
+0 0 32405
+S
+
+#32405
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32406
+D1
+~
+~
+0 0 32404
+D2
+~
+~
+0 0 32405
+D3
+~
+~
+0 0 32413
+S
+
+#32406
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32407
+D1
+~
+~
+0 0 32416
+D2
+~
+~
+0 0 32405
+D3
+~
+~
+0 0 32404
+S
+
+#32407
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32408
+D1
+~
+~
+0 0 32411
+D2
+~
+~
+0 0 32406
+D3
+~
+~
+0 0 32402
+S
+
+#32408
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32409
+D1
+~
+~
+0 0 32403
+D2
+~
+~
+0 0 32407
+D3
+~
+~
+0 0 32408
+S
+
+#32409
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32404
+D1
+~
+~
+0 0 32416
+D2
+~
+~
+0 0 32408
+D3
+~
+~
+0 0 32415
+S
+
+#32410
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32411
+D1
+~
+~
+0 0 32450
+D2
+~
+~
+0 0 32403
+S
+
+#32411
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32412
+D1
+~
+~
+0 0 32450
+D2
+~
+~
+0 0 32410
+D3
+~
+~
+0 0 32426
+S
+
+#32412
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32413
+D1
+~
+~
+0 0 32450
+D2
+~
+~
+0 0 32411
+S
+
+#32413
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32410
+D1
+~
+~
+0 0 32402
+D2
+~
+~
+0 0 32412
+D3
+~
+~
+0 0 32414
+S
+
+#32414
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32410
+D1
+~
+~
+0 0 32413
+D3
+~
+~
+0 0 32415
+S
+
+#32415
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32405
+D1
+~
+~
+0 0 32414
+D2
+~
+~
+0 0 32409
+D3
+~
+~
+0 0 32416
+S
+
+#32416
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D0
+~
+~
+0 0 32404
+D1
+~
+~
+0 0 32415
+D2
+~
+~
+0 0 32415
+D3
+~
+~
+0 0 32409
+S
+
+#32417
+Snowy Trail~
+The storm has increased now and the subzero temperatures cause the snow
+to become shards of deadly ice.  The pathway is completely buried in the
+snow and searching for an exit is out of the question.  
+~
+5 0
+D0
+~
+~
+0 0 32418
+D1
+~
+~
+0 0 32409
+D2
+~
+~
+0 0 32402
+D3
+~
+~
+0 0 32410
+S
+
+#32418
+Snowy Trail~
+The storm has increased now and the subzero temperatures cause the snow
+to become shards of deadly ice.  The pathway is completely buried in the
+snow and searching for an exit is out of the question.  
+~
+5 0
+D0
+~
+~
+0 0 32414
+D1
+~
+~
+0 0 32411
+D2
+~
+~
+0 0 32417
+D3
+~
+~
+0 0 32419
+S
+
+#32419
+Snowy Trail~
+The storm has increased now and the subzero temperatures cause the snow
+to become shards of deadly ice.  The pathway is completely buried in the
+snow and searching for an exit is out of the question.  
+~
+5 0
+D0
+~
+~
+0 0 32420
+D1
+~
+~
+0 0 32426
+D3
+~
+~
+0 0 32413
+S
+
+#32420
+A warm pathway~
+The relentless storm surrounds this cold wasteland but somehow this area
+is sunny warm, and without a trace of snow.  Perhaps it is just the center
+of storm which in a few moments will destroy this peaceful haven, or maybe
+it is the exodus out of this barren terrain.  
+~
+5 4
+D0
+~
+~
+0 0 32421
+D1
+~
+~
+0 0 32405
+D2
+~
+~
+0 0 32419
+D3
+~
+~
+0 0 32401
+S
+
+#32421
+The meadow~
+The blazing sun shines brightly over the plush green meadow.  Many small
+woodland creatures run rampant here not realizing the type of area they are
+actually in.  Despite the beauty and safety this sanctuary may have, a wrong
+turn could have one back in the freezing weather.  
+~
+5 0
+D0
+~
+~
+0 0 32422
+D1
+~
+~
+0 0 32424
+D2
+~
+~
+0 0 32420
+D3
+~
+~
+0 0 32423
+S
+
+#32422
+The meadow~
+The blazing sun shines brightly over the plush green meadow.  Many small
+woodland creatures run rampant here not realizing the type of area they are
+actually in.  Despite the beauty and safety this sanctuary may have, a wrong
+turn could have one back in the freezing weather.  
+~
+5 0
+D1
+~
+~
+0 0 32425
+D2
+~
+~
+0 0 32421
+D3
+~
+~
+0 0 32426
+S
+
+#32423
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D2
+~
+~
+0 0 32401
+S
+
+#32424
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D2
+~
+~
+0 0 32401
+S
+
+#32425
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D2
+~
+~
+0 0 32401
+S
+
+#32426
+Tundra Pathway~
+A heavy snowstorm makes visibility limited.  Great hills of untouched
+snow have formed from years of storms and freezing temperatures.  At times
+the pathway seems to disappear under the quilt of snow.  Travelers better
+mark where they have been if they are to get to the end without freezing
+first.  
+~
+5 13
+D1
+~
+~
+0 0 32411
+D2
+~
+~
+0 0 32401
+S
+
+#32427
+Inside the Dragon Cave~
+Darkness surrounds the entire walkway and sound of melting icicles from
+above can drive a man insane with its monotonous echo.  The smell of sulfur
+and burnt flesh replace the crisp, clean air of the village.  A small cave
+lizard skuttles about the cave floor looking for food to eat.  
+~
+4 0
+D0
+~
+~
+0 0 32463
+D1
+~
+~
+0 0 32428
+D2
+~
+~
+0 0 32462
+D3
+~
+~
+0 0 32437
+S
+
+#32428
+Inside the Dragon Cave~
+Darkness surrounds the entire walkway and sound of melting icicles from
+above can drive a man insane with its monotonous echo.  The smell of sulfur
+and burnt flesh replace the crisp, clean air of the village.  A small cave
+lizard skuttles about the cave floor looking for food to eat.  
+~
+4 0
+D0
+~
+~
+0 0 32429
+D3
+~
+~
+0 0 32427
+S
+
+#32429
+Lair of the Ice Dragon~
+Here is the room of the fabled Ice Dragon.  The ceiling rises to an
+amazing hundred feet while the floor is buried in gold, gems, rubies and
+bones of the victims who tried to seize them.  The Ice Dragon lays atop this
+vast fortune making sure no trespassers will retrieve it without a fight.  
+~
+4 0
+D2
+~
+~
+0 0 32428
+S
+
+#32430
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D2
+~
+~
+0 0 32455
+S
+
+#32431
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D0
+~
+~
+0 0 32455
+S
+
+#32432
+Terahm Temple~
+This icy cathedral stands high above the normal homes in the town.  The
+glass windows are made of a mixture of silver and ice to reflect any light
+that touches it.  There are icicles the size of swords that hang from the
+high rooftops.  A friendly cleric greets all who enter to worship the Ice
+Dragon.  
+~
+4 0
+D0
+~
+~
+0 0 32470
+D2
+~
+~
+0 0 32456
+S
+
+#32433
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D0
+~
+~
+0 0 32456
+S
+
+#32434
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D2
+~
+~
+0 0 32457
+S
+
+#32435
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D0
+~
+~
+0 0 32457
+S
+
+#32436
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D0
+~
+~
+0 0 32458
+S
+
+#32437
+Deeper into the Cave~
+Light is scarce in this dreadful area, and even light source has trouble
+shining through the think moldy fog of the cave.  This room reeks of
+decaying flesh as the dragon probably discards his victims' corpses here.  
+~
+4 0
+D1
+~
+~
+0 0 32427
+D3
+~
+~
+0 0 32438
+S
+
+#32438
+Deeper into the Cave~
+Light is scarce in this dreadful area, and even light source has trouble
+shining through the think moldy fog of the cave.  This room reeks of
+decaying flesh as the dragon probably discards his victims' corpses here.  
+~
+4 0
+D1
+~
+~
+0 0 32437
+D3
+~
+~
+0 0 32439
+S
+
+#32439
+Deeper into the Cave~
+Light is scarce in this dreadful area, and even light source has trouble
+shining through the think moldy fog of the cave.  This room reeks of
+decaying flesh as the dragon probably discards his victims' corpses here.  
+~
+4 0
+D1
+~
+~
+0 0 32438
+D3
+~
+~
+0 0 32441
+D5
+~
+~
+0 0 32440
+S
+
+#32440
+A Pit~
+This large pit is well over hundred feet deep.  With its slippery walls
+and musty air it is impossible to fly or climb out.  A light scratching can
+be heard here as well hopefully its not searching for food.  
+~
+4 0
+D4
+~
+~
+0 0 32439
+S
+
+#32441
+Deeper into the Cave~
+Light is scarce in this dreadful area, and even light source has trouble
+shining through the think moldy fog of the cave.  This room reeks of
+decaying flesh as the dragon probably discards his victims' corpses here.  
+~
+4 0
+D0
+~
+~
+0 0 32442
+D1
+~
+~
+0 0 32439
+D4
+~
+~
+0 0 32444
+S
+
+#32442
+Deeper into the Cave~
+Light is scarce in this dreadful area, and even light source has trouble
+shining through the think moldy fog of the cave.  This room reeks of
+decaying flesh as the dragon probably discards his victims' corpses here.  
+~
+4 0
+D2
+~
+~
+0 0 32441
+D3
+~
+~
+0 0 32443
+S
+
+#32443
+Deeper into the Cave~
+Light is scarce in this dreadful area, and even light source has trouble
+shining through the think moldy fog of the cave.  This room reeks of
+decaying flesh as the dragon probably discards his victims' corpses here.  
+~
+4 0
+D1
+~
+~
+0 0 32442
+S
+
+#32444
+Deepest section of the Cave~
+This area is so dark and lonely, one would probably die of boredom before
+the dragon's wrath.  The Ice Dragon himself doesn't even know the location
+of this desolate portion of his home.  Low cries can be heard in the
+distance.  
+~
+5 0
+D0
+~
+~
+0 0 32445
+D5
+~
+~
+0 0 32441
+S
+
+#32445
+Deepest section of the Cave~
+This area is so dark and lonely, one would probably die of boredom before
+the dragon's wrath.  The Ice Dragon himself doesn't even know the location
+of this desolate portion of his home.  Low cries can be heard in the
+distance.  
+~
+5 0
+D0
+~
+~
+0 0 32446
+S
+
+#32446
+Deepest section of the Cave~
+This area is so dark and lonely, one would probably die of boredom before
+the dragon's wrath.  The Ice Dragon himself doesn't even know the location
+of this desolate portion of his home.  Low cries can be heard in the
+distance.  
+~
+5 0
+D0
+~
+~
+0 0 32447
+S
+
+#32447
+Cave exit~
+At last the exit to this gloomy cave is near.  The light of the outside
+illuminates this depressing cave.  A weird circle surrounds the exit way and
+ripples with the incoming breeze.  Perhaps this may lead one to imminent
+their demise or just a figment of one's imagination.  
+~
+4 0
+D0
+~
+~
+0 0 32400
+S
+
+#32448
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D3
+~
+~
+0 0 32458
+S
+
+#32449
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D1
+~
+~
+0 0 32456
+S
+
+#32450
+Before An Ice Village~
+The air is brisk and cool, while gentle flurries descend upon the cold
+earth.  A dark mountain stands high beyond the town in this frozen region. 
+Guards stand their ground at the gates so still as if they are not even
+bothered by the cold.  
+~
+4 13
+D0
+~
+~
+0 0 32451
+D3
+~
+~
+0 0 32412
+S
+
+#32451
+The Ice Village of Terahm~
+What lays ahead is a village composed entirely of ice.  The homes, roads,
+and even people are just frozen dopplegangers of a traditional village life.
+Little ice children skate about with their frozen toys and even pets.  
+~
+4 0
+D0
+~
+~
+0 0 32452
+D2
+~
+~
+0 0 32450
+S
+
+#32452
+Village iceway~
+Villagers of all shapes and sizes walk about tending to their personal
+daily schedules.  Despite the crowds on the village paths, the ice still
+glimmers brightly under the cold sun.  Homes and shops are seen all about
+this large and prosperous village.  
+~
+4 0
+D0
+~
+~
+0 0 32453
+D1
+~
+~
+0 0 32468
+D2
+~
+~
+0 0 32451
+D3
+~
+~
+0 0 32469
+S
+
+#32453
+Village iceway~
+Villagers of all shapes and sizes walk about tending to their personal
+daily schedules.  Despite the crowds on the village paths, the ice still
+glimmers brightly under the cold sun.  Homes and shops are seen all about
+this large and prosperous village.  
+~
+4 0
+D0
+~
+~
+0 0 32454
+D1
+~
+~
+0 0 32466
+D2
+~
+~
+0 0 32452
+D3
+~
+~
+0 0 32467
+S
+
+#32454
+Village Square~
+Here is the center of this icy town.  Cart venders slide by trying to
+solicite their trinkets and other goods.  A fountain of a mighty ice dragon
+stands tall and surprisingly flows water.  
+~
+4 0
+D0
+~
+~
+0 0 32460
+D1
+~
+~
+0 0 32457
+D2
+~
+~
+0 0 32453
+D3
+~
+~
+0 0 32455
+S
+
+#32455
+Village iceway~
+Villagers of all shapes and sizes walk about tending to their personal
+daily schedules.  Despite the crowds on the village paths, the ice still
+glimmers brightly under the cold sun.  Homes and shops are seen all about
+this large and prosperous village.  
+~
+4 0
+D0
+~
+~
+0 0 32430
+D1
+~
+~
+0 0 32454
+D2
+~
+~
+0 0 32431
+D3
+~
+~
+0 0 32456
+S
+
+#32456
+Village iceway~
+Villagers of all shapes and sizes walk about tending to their personal
+daily schedules.  Despite the crowds on the village paths, the ice still
+glimmers brightly under the cold sun.  Homes and shops are seen all about
+this large and prosperous village.  
+~
+4 0
+D0
+~
+~
+0 0 32432
+D1
+~
+~
+0 0 32455
+D2
+~
+~
+0 0 32433
+D3
+~
+~
+0 0 32449
+S
+
+#32457
+Village iceway~
+Villagers of all shapes and sizes walk about tending to their personal
+daily schedules.  Despite the crowds on the village paths, the ice still
+glimmers brightly under the cold sun.  Homes and shops are seen all about
+this large and prosperous village.  
+~
+4 0
+D0
+~
+~
+0 0 32434
+D1
+~
+~
+0 0 32458
+D2
+~
+~
+0 0 32435
+D3
+~
+~
+0 0 32454
+S
+
+#32458
+Village iceway~
+Villagers of all shapes and sizes walk about tending to their personal
+daily schedules.  Despite the crowds on the village paths, the ice still
+glimmers brightly under the cold sun.  Homes and shops are seen all about
+this large and prosperous village.  
+~
+4 0
+D0
+~
+~
+0 0 32459
+D1
+~
+~
+0 0 32448
+D2
+~
+~
+0 0 32436
+D3
+~
+~
+0 0 32457
+S
+
+#32459
+Terahm Potion Shop~
+This shop is extremely cold, most likely to keep the potions in good
+condition.  The old shopkeeper Abrahn has some cracks under his eyes and
+looks like he doesn't want to be disturbed.  He looks every now and then for
+possible business, but promptly gets back to his current task.  
+~
+4 0
+D2
+~
+~
+0 0 32458
+S
+
+#32460
+Path to Dragon Cave~
+The village path abruptly ends and now a muddy pathway leads to a large
+ice cave in the distance.  All the villagers who look upon this cave shiver
+in terror of the Dragon who dwells there, but they also respect the Dragon
+as their watcher.  Only the really brave or really stupid dare to tread this
+way.  
+~
+4 0
+D0
+~
+~
+0 0 32461
+D2
+~
+~
+0 0 32454
+S
+
+#32461
+Before the Dragon Cave~
+A gigantic ice cave stands tall with a deep hole welcoming new victims. 
+Growls, and other eery sounds resinate from the dark hole of the cave.  A
+crushed skull lies at the entrance as a sign of the dragon's hospitality to
+his guests.  
+~
+4 0
+D0
+~
+~
+0 0 32462
+D2
+~
+~
+0 0 32460
+S
+
+#32462
+Inside the Dragon Cave~
+Darkness surrounds the entire walkway and sound of melting icicles from
+above can drive a man insane with its monotonous echo.  The smell of sulfur
+and burnt flesh replace the crisp, clean air of the village.  A small cave
+lizard skuttles about the cave floor looking for food to eat.  
+~
+4 0
+D0
+~
+~
+0 0 32427
+D2
+~
+~
+0 0 32461
+S
+
+#32463
+Inside the Dragon Cave~
+Darkness surrounds the entire walkway and sound of melting icicles from
+above can drive a man insane with its monotonous echo.  The smell of sulfur
+and burnt flesh replace the crisp, clean air of the village.  A small cave
+lizard skuttles about the cave floor looking for food to eat.  
+~
+4 0
+D0
+~
+~
+0 0 32464
+D2
+~
+~
+0 0 32427
+S
+
+#32464
+Inside the Dragon Cave~
+Darkness surrounds the entire walkway and sound of melting icicles from
+above can drive a man insane with its monotonous echo.  The smell of sulfur
+and burnt flesh replace the crisp, clean air of the village.  A small cave
+lizard skuttles about the cave floor looking for food to eat.  
+~
+4 0
+D2
+~
+~
+0 0 32463
+D3
+~
+~
+0 0 32465
+S
+
+#32465
+Inside the Dragon Cave~
+Darkness surrounds the entire walkway and sound of melting icicles from
+above can drive a man insane with its monotonous echo.  The smell of sulfur
+and burnt flesh replace the crisp, clean air of the village.  A small cave
+lizard skuttles about the cave floor looking for food to eat.  
+~
+4 0
+D1
+~
+~
+0 0 32464
+S
+
+#32466
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D3
+~
+~
+0 0 32453
+S
+
+#32467
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D1
+~
+~
+0 0 32453
+S
+
+#32468
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D3
+~
+~
+0 0 32452
+S
+
+#32469
+Icy Homestead~
+All furniture in this quaint home are made of crystal ice.  The beings
+here use magical blue flames as their source of lighting, as any type of
+fire would destroy all that they hold dear.  
+~
+4 0
+D1
+~
+~
+0 0 32452
+S
+
+#32470
+Inside the Temple~
+The Terahm Temple has an even more magnificent interior than its
+exterior.  The large ceiling holds onto a pure crystal chandelier that
+disperses the light into many illuminous colors.  The worshippers pay their
+homage to the Ice Dragon by the alter located further down the temple.  
+~
+4 0
+D0
+~
+~
+0 0 32471
+D2
+~
+~
+0 0 32432
+S
+
+#32471
+Inside the Temple~
+The Terahm Temple has an even more magnificent interior than its
+exterior.  The large ceiling holds onto a pure crystal chandelier that
+disperses the light into many illuminous colors.  The worshippers pay their
+homage to the Ice Dragon by the alter located further down the temple.  
+~
+4 0
+D0
+~
+~
+0 0 32476
+D1
+~
+~
+0 0 32472
+D2
+~
+~
+0 0 32470
+D3
+~
+~
+0 0 32473
+S
+
+#32472
+Inside the Temple~
+The Terahm Temple has an even more magnificent interior than its
+exterior.  The large ceiling holds onto a pure crystal chandelier that
+disperses the light into many illuminous colors.  The worshippers pay their
+homage to the Ice Dragon by the alter located further down the temple.  
+~
+4 0
+D0
+~
+~
+0 0 32475
+D1
+~
+~
+0 0 32478
+D3
+~
+~
+0 0 32471
+S
+
+#32473
+Inside the Temple~
+The Terahm Temple has an even more magnificent interior than its
+exterior.  The large ceiling holds onto a pure crystal chandelier that
+disperses the light into many illuminous colors.  The worshippers pay their
+homage to the Ice Dragon by the alter located further down the temple.  
+~
+4 0
+D0
+~
+~
+0 0 32474
+D1
+~
+~
+0 0 32471
+D3
+~
+~
+0 0 32479
+S
+
+#32474
+Inside the Temple~
+The Terahm Temple has an even more magnificent interior than its
+exterior.  The large ceiling holds onto a pure crystal chandelier that
+disperses the light into many illuminous colors.  The worshippers pay their
+homage to the Ice Dragon by the alter located further down the temple.  
+~
+4 0
+D1
+~
+~
+0 0 32476
+D2
+~
+~
+0 0 32473
+S
+
+#32475
+Inside the Temple~
+The Terahm Temple has an even more magnificent interior than its
+exterior.  The large ceiling holds onto a pure crystal chandelier that
+disperses the light into many illuminous colors.  The worshippers pay their
+homage to the Ice Dragon by the alter located further down the temple.  
+~
+4 0
+D2
+~
+~
+0 0 32472
+D3
+~
+~
+0 0 32476
+S
+
+#32476
+Inside the Temple~
+The Terahm Temple has an even more magnificent interior than its
+exterior.  The large ceiling holds onto a pure crystal chandelier that
+disperses the light into many illuminous colors.  The worshippers pay their
+homage to the Ice Dragon by the alter located further down the temple.  
+~
+4 0
+D0
+~
+~
+0 0 32477
+D1
+~
+~
+0 0 32475
+D2
+~
+~
+0 0 32471
+D3
+~
+~
+0 0 32474
+S
+
+#32477
+Terahm Temple Alter~
+The high priest of the church, Terson, stands before a crowd of
+worshippers spreading the blessings that have come from the Ice Dragon. 
+Upon the alter there is a small pile of the worshippers' possessions which
+will be sacrificed to the Dragon by use of the magical and highly forbidden
+red fire.  
+~
+4 0
+D2
+~
+~
+0 0 32476
+S
+
+#32478
+Stairway to Second Floor~
+Here is a stairway to the second floor of this giant place of worship. 
+The hallway up is lit by mystical flames that can melt or burn, but still
+supply light.  
+~
+4 0
+D3
+~
+~
+0 0 32472
+D4
+~
+~
+0 0 32483
+S
+
+#32479
+Stairway to Second Floor~
+Here is a stairway to the second floor of this giant place of worship. 
+The hallway up is lit by mystical flames that can melt or burn, but still
+supply light.  
+~
+4 0
+D1
+~
+~
+0 0 32473
+D4
+~
+~
+0 0 32480
+S
+
+#32480
+Second Floor of Temple~
+The pews and alter can be seen far below this narrow path.  Along the
+wall their are various paintings depicting the glory of the Dragon, and the
+heroic deeds he has accomplished for this town.  There seems to be many of
+them hung up.  
+~
+4 0
+D0
+~
+~
+0 0 32481
+D5
+~
+~
+0 0 32479
+S
+
+#32481
+Second Floor of Temple~
+The pews and alter can be seen far below this narrow path.  Along the
+wall their are various paintings depicting the glory of the Dragon, and the
+heroic deeds he has accomplished for this town.  There seems to be many of
+them hung up.  
+~
+4 0
+D0
+~
+~
+0 0 32482
+D2
+~
+~
+0 0 32480
+S
+
+#32482
+Second Floor of Temple~
+The pews and alter can be seen far below this narrow path.  Along the
+wall their are various paintings depicting the glory of the Dragon, and the
+heroic deeds he has accomplished for this town.  There seems to be many of
+them hung up.  
+~
+4 0
+D2
+~
+~
+0 0 32481
+S
+
+#32483
+Second Floor of Temple~
+The pews and alter can be seen far below this narrow path.  Along the
+wall their are various paintings depicting the glory of the Dragon, and the
+heroic deeds he has accomplished for this town.  There seems to be many of
+them hung up.  
+~
+4 0
+D0
+~
+~
+0 0 32484
+D5
+~
+~
+0 0 32478
+S
+
+#32484
+Second Floor of Temple~
+The pews and alter can be seen far below this narrow path.  Along the
+wall their are various paintings depicting the glory of the Dragon, and the
+heroic deeds he has accomplished for this town.  There seems to be many of
+them hung up.  
+~
+4 0
+D0
+~
+~
+0 0 32485
+D2
+~
+~
+0 0 32483
+S
+
+#32485
+Second Floor of Temple~
+The pews and alter can be seen far below this narrow path.  Along the
+wall their are various paintings depicting the glory of the Dragon, and the
+heroic deeds he has accomplished for this town.  There seems to be many of
+them hung up.  
+~
+0 0
+D2
+~
+~
+0 0 32484
+S
+#0
+
+#SPECIALS
+M 32432 spec_cast_adept
+S
+
+#RESETS
+M 100 32400 25 32401 3
+M 100 32401 50 32401 2
+M 100 32452 25 32401 1
+M 100 32452 25 32402 3
+M 100 32401 50 32402 1
+M 100 32400 25 32403 4
+M 100 32401 50 32403 1
+M 100 32401 50 32404 2
+M 100 32452 25 32404 3
+M 100 32400 25 32404 1
+M 100 32400 25 32405 4
+M 100 32401 50 32405 1
+M 100 32452 25 32405 1
+E 100 32404 0 9
+M 100 32401 50 32406 1
+E 100 32408 0 16
+M 100 32452 25 32409 2
+M 100 32401 50 32409 2
+M 100 32400 25 32409 1
+M 100 32401 50 32410 3
+M 100 32400 25 32410 1
+M 100 32452 25 32411 2
+M 100 32400 25 32411 2
+M 100 32401 50 32411 1
+E 100 32407 0 17
+M 100 32400 25 32412 3
+M 100 32401 50 32412 1
+M 100 32452 25 32412 1
+M 100 32452 25 32413 3
+M 100 32400 25 32413 2
+M 100 32401 50 32414 2
+M 100 32400 25 32414 2
+M 100 32400 25 32415 1
+M 100 32401 50 32415 1
+M 100 32452 25 32415 2
+M 100 32400 25 32416 3
+M 100 32401 50 32416 1
+E 100 32406 0 3
+E 100 32405 0 27
+E 100 32403 0 6
+E 100 32402 0 0
+E 100 32401 0 14
+O 100 32422 0 32422
+M 100 32400 25 32424 2
+M 100 32401 50 32424 2
+M 100 32452 25 32424 2
+M 100 32452 25 32425 2
+M 100 32401 50 32425 2
+M 100 32400 25 32425 1
+M 100 32400 25 32426 2
+M 100 32427 25 32427 1
+E 100 32452 0 16
+M 100 32462 25 32427 2
+M 100 32462 25 32428 3
+M 100 32429 25 32429 1
+E 100 32429 0 9
+M 100 32451 25 32430 1
+O 100 32430 0 32430
+M 100 32453 25 32431 1
+M 100 32451 25 32431 1
+M 100 32432 25 32432 1
+M 100 32453 25 32433 1
+M 100 32453 25 32435 2
+M 100 32451 25 32436 1
+M 100 32453 25 32436 1
+M 100 32462 25 32437 2
+M 100 32462 25 32438 2
+M 100 32462 25 32439 1
+M 100 32440 25 32440 1
+M 100 32462 25 32441 3
+M 100 32462 25 32442 2
+M 100 32462 25 32444 2
+M 100 32445 25 32444 1
+E 100 32444 0 12
+M 100 32462 25 32445 2
+M 100 32462 25 32445 2
+M 100 32445 25 32445 1
+E 100 32445 0 3
+M 100 32462 25 32446 2
+M 100 32445 25 32446 1
+G 100 32446 0
+M 100 32451 25 32448 1
+M 100 32453 25 32448 1
+M 100 32451 25 32449 2
+M 100 32450 25 32450 2
+M 100 32451 25 32451 1
+M 100 32453 25 32451 1
+M 100 32453 25 32452 1
+M 100 32451 25 32452 1
+M 100 32451 25 32453 1
+M 100 32453 25 32453 1
+O 100 32454 0 32454
+M 100 32451 25 32454 1
+M 100 32454 25 32454 1
+G 100 32451 0
+G 100 32453 0
+M 100 32453 25 32455 1
+M 100 32453 25 32455 1
+M 100 32451 25 32455 1
+M 100 32451 25 32456 1
+M 100 32453 25 32456 1
+M 100 32453 25 32457 1
+M 100 32451 25 32457 1
+M 100 32453 25 32458 1
+M 100 32451 25 32458 1
+M 100 32459 25 32459 1
+G 100 32455 0
+G 100 32456 0
+G 100 32457 0
+G 100 32458 0
+G 100 32459 0
+M 100 32462 25 32462 2
+M 100 32462 25 32463 2
+M 100 32462 25 32464 2
+M 100 32465 25 32465 1
+E 100 32465 0 16
+O 100 32472 0 32472
+M 100 32476 25 32472 2
+O 100 32472 0 32473
+M 100 32476 25 32473 2
+O 100 32472 0 32474
+M 100 32476 25 32474 2
+O 100 32472 0 32475
+M 100 32476 25 32475 2
+M 100 32477 25 32477 1
+G 100 32486 0
+E 100 32477 0 16
+O 100 32475 0 32477
+O 100 32480 0 32480
+O 100 32481 0 32481
+O 100 32482 0 32482
+O 100 32484 0 32483
+O 100 32483 0 32484
+O 100 32485 0 32485
+S
+
+#SHOPS
+32454 19 0 9 0 0 125 35 0 23
+32459 10 0 0 0 0 100 50 0 23
+0
+
+#$

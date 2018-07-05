@@ -1,0 +1,1335 @@
+#AOD_AREA
+Below Belgwaran Castle~
+51000 51199 C 9
+Levl 30 40
+Bldr Harbingr~
+End
+
+#MOBILES
+#51000
+creature deformed~
+a deformed creature~
+A grotesquely deformed creature eyes you warily.
+~
+You see before you a huddling, deformed shape, scurrying about.  You can
+tell that even though it is disfigured, it is still very strong.  It snarls
+at you, and drool drips out of its jaws.  
+~
+human~
+150 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 100 100 150 50 100 
+AGHT Q 0 -1000 0
+78 171 0 1945 2062 689 802 39 78 156 bite
+-200 -200 -200 -80
+STANDING STANDING neutral 1000
+0 mage large ABCDEFGHIJK
+W 8
+
+#51001
+golem stone massive~
+a massive stone golem~
+A massive stone golem stands here, watching you.
+~
+The massive stone golem standing before you appears to be inactive.  As
+you walk closer to it, however, the rubies set in its forehead begin to
+glimmer slightly, and can can detect small movements from the golem.  
+~
+human~
+150 0 100 100 100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 
+ABG Cd H 0 0
+84 175 0 7833 10305 1651 1930 42 84 168 pound
+-290 -290 -290 -90
+STANDING STANDING neutral 0
+0 mage huge ABCDEFGHIJK
+W 4
+
+#51002
+creature deformed hideous~
+a hideously deformed creature~
+A hideously deformed creature ambles towards you.
+~
+The creature you see before you might have been human at one point in
+time, but it so horribly disfigured and scarred, that you cannot deign to
+call this creature a natural phenomenon.  Someone with a very sick mind was
+messing with this creature, and something was done to it, something that
+turned the poor thing away from humanity forever.  
+~
+human~
+100 100 100 150 100 100 50 100 100 100 100 100 150 150 150 100 100 100 100 100 100 100 100 100 100 100 
+AG CZ B -800 0
+84 202 0 2089 2326 1671 1982 42 84 168 flbite
+-190 -190 -190 -90
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+
+#51003
+blob gelatinous~
+a gelatinous blob~
+A large gelatinous blob oozes your way.
+~
+This large smelly blob begins to creep towards you very slowly.  Inside
+the blob, you can see several small items that you cannot discern the
+identity of.  Perhaps they are items that the blob has eaten in the past,
+and not yet eaten.  
+~
+human~
+100 50 0 100 100 100 100 100 100 100 100 100 150 100 100 100 100 50 100 100 50 100 100 100 100 100 
+AF Ud 0 -1000 0
+84 144 0 1571 1661 472 597 42 84 168 digestion
+-190 -190 -190 -90
+STANDING STANDING neutral 0
+0 mage large ABCDEFGHIJK
+W 4
+
+#51004
+minotaur savage~
+A savage minotaur~
+A savage minotaur strides towards you menacingly.
+~
+This massive creature has the lower body of a human and the head of a
+bull.  His horns gleam in the torchlight, and he cracks his whip with a loud
+CRACK!  He snorts, and large clouds of steam rush out of his nostrils.  
+~
+human~
+100 50 100 100 150 100 100 100 100 100 100 100 100 50 150 100 100 100 50 100 100 100 100 100 100 100 
+ABT J 0 -666 0
+96 268 0 4760 5796 1765 2059 48 96 192 none
+-270 -300 -270 -100
+STANDING STANDING male 100
+0 mage large ABCDEFGHIJK
+W 4
+
+#51005
+dragon shackled white~
+a shackled white dragon~
+A sinister white dragon is here, trapped in chains.
+~
+This gigantic white dragon is pathetically shackled to the far wall of
+the room.  It sees you enter, and immediately attempts to tear your body to
+shreds, but the chains hold it securely in place.  It tries to breathe a
+cone of frost at you, but you are too far away for the breath to be
+effective.  You can walk up to the dragon and attack it, but then you will
+be in range of its claws and its breath.  
+~
+dragon~
+100 50 50 150 100 100 150 100 100 100 100 100 100 100 100 100 100 150 100 100 100 100 100 100 100 100 
+ART CDFJTV H -1000 0
+102 412 0 7825 9043 1748 2116 51 102 255 claw
+-330 -310 -340 -130
+STANDING STANDING female 20000
+0 mage huge ACDEFGHIJKPQUVX
+W 1
+
+#51006
+sewage snake~
+the sewage snake~
+A rather large, brown, snake bares its fangs at you and attacks!
+~
+This large brown snake bares its five inch fangs at you and tries to drag
+you under the water!  It is about ten feet long, and at least a foot in
+diameter at the largest point.  
+~
+snake~
+100 100 100 150 100 100 150 100 100 100 100 100 100 100 100 100 100 100 50 100 100 100 100 100 100 100 
+ABFT 0 0 -1000 0
+78 212 0 2272 2572 1698 2004 39 78 156 bite
+-180 -180 -180 -80
+STANDING STANDING female 0
+0 mage large ADEFKLQVX
+W 1
+
+#51007
+Guard Captain~
+the Captain of the Guard~
+The captain of the guard is here, playing cards with his men.
+~
+The commander of the guards is quite an intimidating man.  He has at his
+waist a glowing broadsword, and from the way he rubs the hilt every so
+often, you can tell that he knows how to use it quite skillfully.  He is
+holding one of the best poker hands you have ever seen.  
+~
+human~
+100 100 50 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT CV H 0 0
+96 233 0 8236 12014 1535 2123 48 96 192 none
+-280 -280 -280 -100
+STANDING STANDING male 10000
+0 mage medium ABCDEFGHIJK
+W 4
+
+#51008
+member guard~
+a member of the guard~
+A member of the guard is here, playing cards with the captain.
+~
+The member of the guard is playing poker with his captain, and he is
+obviously trying to lose.  He doesn't even pay you any attention as you walk
+in the room.  
+~
+human~
+100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 
+ABT V 0 0 0
+78 243 0 1903 2420 1728 2002 39 78 156 slice
+-220 -220 -220 -80
+STANDING STANDING male 0
+0 mage medium ABCDEFGHIJK
+#0
+
+#OBJECTS
+#51000
+shard bone~
+a shard of bone~
+A crudely shaped bone club.~
+weapon BJ AN
+mace 9 9 pound 0
+38 20 200
+A 19 3
+A 1 2
+
+#51001
+girth stone~
+a stone girth~
+A girth made of stone offers some protection.~
+armor 0 AL
+11 11 12 10 0
+40 100 1000
+A 2 -1
+A 1 2
+A 18 5
+A 19 5
+
+#51002
+whip lightning~
+the lightning whip~
+A whip made completely of lightning lies here.~
+weapon ABE AN
+whip 10 10 shbite G
+45 20 3000
+
+#51004
+dragon orb white~
+the White Dragon Orb~
+(no description)~
+warp_stone AB AQ
+0 0 0 0 0
+50 0 1000
+A 17 -10
+A 12 30
+A 2 2
+A 18 8
+A 19 8
+
+#51005
+sandals leather~
+leather sandals~
+A pair of leather sandals lies here.~
+armor CGJ AG
+8 8 8 7 0
+45 10 5000
+A 5 3
+A 2 2
+A 18 5
+A 19 5
+
+#51006
+locker foot~
+a wooden footlocker~
+A large wooden footlocker lies at the foot of the cot.~
+container 0 0
+50 AC 0 0 0
+25 0 4255
+
+#51007
+jerky stick~
+a stick of jerky~
+A stick of beef jerky is here, making your mouth water.~
+food 0 A
+15 0 0 0 0
+15 0 1929
+
+#51008
+a leather loincloth~
+a leather loincloth~
+A leather loincloth is here, providing minimal protection.~
+armor 0 AL
+6 6 6 6 0
+40 10 5000
+A 1 2
+A 18 5
+A 19 5
+
+#51009
+snakeskin coat skin~
+a snakeskin coat~
+A jacket made out of brown reptile scales, it feels very powerful.~
+armor BC AD
+10 10 10 8 0
+40 20 2000
+A 18 5
+A 19 5
+A 13 50
+
+#51010
+sputtering torch~
+a sputtering torch~
+A sputtering torch is attached to the wall.~
+light A AO
+0 0 999 0 0
+10 10 10
+
+#51011
+silver key~
+a silver key~
+A gleaming silver key.~
+key 0 AO
+0 0 0 0 0
+35 10 200
+
+#51012
+shackles dragon~
+the Shackles of the Dragon~
+The shackles that were powerful enough to hold a white dragon.~
+armor ABGHM AK
+8 8 10 8 0
+50 200 7500
+A 17 -5
+A 14 -30
+A 2 -2
+A 13 25
+
+#51013
+rags dirty~
+some dirty rags~
+Some dirty rags are here, you don't know how long they'll last.~
+armor 0 AF
+4 5 4 3 0
+20 10 500
+A 14 20
+A 13 10
+
+#51014
+shirt ragged~
+a ragged shirt~
+A shirt made out of rags~
+armor 0 AD
+5 4 4 4 0
+20 10 500
+A 18 2
+A 19 2
+
+#51015
+potion black bubbling~
+a bubbling black potion~
+A vial of a black bubbling potion.~
+potion G AO
+35 'cure poison' 'cure critical' '' ''
+25 5 1000
+
+#51016
+A stone cabinet~
+a stone cabinet~
+A stone cabinet stands against the wall here~
+container 0 0
+100 ABCD 51017 0 0
+15 0 2774
+
+#51017
+key gold~
+a key of gold~
+A key made out of gold lies here.~
+key 0 AO
+0 0 0 0 0
+35 20 5500
+
+#51018
+diamond brilliant~
+a brilliant diamond~
+A brilliantly cut and polished diamond, about the size of your fist.~
+gem 0 AO
+0 0 0 0 0
+40 50 30000
+
+#51019
+ruby huge~
+a huge ruby~
+A huge ruby is here, shining brilliantly~
+gem 0 AO
+0 0 0 0 0
+40 40 20000
+
+#51020
+bracelet stars~
+the bracelet of stars~
+A bracelet that has been infused with the power of the stars.~
+armor ABG AM
+9 9 9 10 0
+50 20 10000
+A 12 35
+A 17 -5
+A 18 5
+A 19 5
+
+#51021
+shield falcon crest~
+the falcon crest shield~
+A shield with the crest of a falcon on it.~
+container BY AJ
+80 0 0 100 0
+45 40 5000
+A 17 -10
+A 13 25
+A 18 5
+A 19 5
+
+#51022
+collar iron links~
+a collar of iron links~
+A collar made out of big iron links.~
+armor 0 AC
+7 7 9 5 0
+25 30 500
+A 1 2
+A 19 2
+
+#51023
+paper green~
+a handful of green paper~
+Some green paper is here, it has some very strange marking on it.~
+gem 0 AO
+0 0 0 0 0
+25 20 4800
+
+#51024
+fuckup~
+(no short description)~
+(no description)~
+trash 0 0
+0 0 0 0 0
+0 0 0
+
+#51025
+potion milky white~
+a milky white potion~
+A milky white potion is here swirling in a small glass vial.~
+potion 0 AO
+50 'remove curse' 'bless' '' ''
+50 10 40000
+
+#51106
+ruby eyes~
+the ruby eyes~
+Two rubies lie here, glowing softly.~
+gem AI AO
+0 0 0 0 0
+45 30 10000
+A 13 25
+A 18 2
+A 19 3
+A 17 -10
+
+#51107
+sword vorpal~
+the vorpal blade~
+A blade is here, vibrating at such a speed, that it could cut through anything.~
+weapon AB AN
+sword 9 10 cleave E
+40 80 3500
+A 19 3
+A 18 3
+A 13 100
+
+#51108
+ace spades~
+the ace of spades~
+The ace of spades is here, seperated from it's companion deck.~
+trash 0 AO
+0 0 0 0 0
+25 0 200
+A 12 20
+A 13 25
+A 18 10
+A 19 10
+
+#51109
+shirt captain~
+the captain's shirt~
+The shirt of the captain of the guard is here, gleaming with medals.~
+armor 0 AD
+8 8 9 6 0
+35 10 500
+A 18 2
+A 19 1
+
+#51110
+pants captain~
+a pair of olive-green pants~
+A pair of olive-green pants lies here, part of a military uniform.~
+armor 0 AF
+6 8 8 6 0
+20 10 5000
+A 5 3
+A 2 3
+
+#51111
+table small~
+a small table~
+A small table is here, covered with playing cards.~
+furniture 0 0
+2 5000 BCDFGKN 50 50
+0 50 0
+
+#51112
+cot green~
+a small cot~
+A green cot is here in the corner of the room.~
+furniture 0 0
+2 10000 BEIL 80 80
+10 0 1279
+#0
+
+#ROOMS
+#51000
+The Dark Basement~
+As you go down the trap door into the basement, your eyes strain to
+adjust to the pitch darkness here.  Even with your light, you can only see a
+few feet in front of your face.  You hear strange shuffling sounds coming
+from all directions.  
+~
+9 0
+D1
+~
+~
+0 0 51001
+D2
+~
+~
+0 0 51111
+D3
+~
+~
+0 0 51112
+D4
+~
+~
+0 0 37149
+S
+
+#51001
+The beginning of the hallway~
+The hallway runs to the east a little ways, and it also splits to the
+south here.  You can hear some strange noises coming from the south room,
+but you cannot penetrate the darkness of the room without going south.  The
+walls here are carved directly out of what would appear to be the
+foundations of the castle.  The work is so precise that it could only have
+been done by magical means.  
+~
+9 0
+D1
+~
+~
+0 0 51003
+D2
+~
+~
+0 0 51002
+D3
+~
+~
+0 0 51000
+S
+
+#51002
+A Dark Room~
+As you step into the darkness of the room, you see a pair of strange
+creatures, huddled in the corner.  They growl at you fiercly, but make no
+move to attack.  One of them opens his mouth as if to speak, but all that
+comes out are low gutteral sounds.  You look closer, and you can see that
+its tongue has been removed.  
+~
+9 0
+D0
+~
+~
+0 0 51001
+S
+
+#51003
+The hallway continues~
+The hallway here keeps going east and west.  To the west, you can see the
+entrance to the main floor of the castle, and to the east, you can see a
+door along the south wall.  You notice some strange marks on the dusty
+floor, as if someone with a severe limp was walking down this hallway.  You
+have no idea how old or fresh the tracks might be.  
+~
+9 0
+D1
+~
+~
+0 0 51004
+D3
+~
+~
+0 0 51001
+S
+
+#51004
+A Dark Hallway~
+The hallway continues east and west here.  To the west, you can see a few
+turns to the south, and to the east, the hallway ends before too long.  The
+walls here are strangely charred in some places, perhaps from a a torch that
+burned down on the wall.  There is a door to your immediate south.  
+~
+9 0
+D1
+~
+~
+0 0 51006
+D2
+~
+~
+0 0 51005
+D3
+~
+~
+0 0 51003
+S
+
+#51005
+A Small Room~
+This room is rather small, and most of the space in here is taken up by a
+massive stone golem.  It stands about ten feet tall, and has a pair of
+rubies set in its forehead, about where its eyes would be.  The rubies
+shine in the darkness of the room.  The wall to your south has a strange
+rectangular outline traced in the rock.  
+~
+9 0
+D0
+~
+~
+0 0 51004
+D2
+~
+wall~
+0 5623 51007
+S
+
+#51006
+A Dark Hallway~
+You have reached the end of the hallway.  The only way for you to go is
+back west.  The only thing that catches your eyes is a small message that
+has been carved into the wall.  It reads, "We ArE NOt wHo WE ArE..."  The
+message appears to have been written by human hands, but you cannot be sure.
+~
+9 0
+D3
+~
+~
+0 0 51004
+S
+
+#51007
+A Small Enclave~
+This room is very small, and you have to crawl to get all the way in. 
+This is apparantly one of Bel'Gwaran's secret storage rooms.  You can feel a
+lock on part of the wall, and discover a small locked cabinet in the corner
+of the room.  You decide to hurry, before anyone catches you messing around
+down here.  
+~
+9 0
+D0
+~
+wall~
+0 5623 51005
+S
+
+#51107
+A Dark Room~
+~
+9 0
+D2
+~
+door~
+0 0 51108
+S
+
+#51108
+A Trashed Room~
+~
+9 0
+D0
+~
+~
+0 0 51107
+S
+
+#51109
+A Dark Hallway~
+~
+13 0
+S
+
+#51110
+A Lit Room~
+~
+12 0
+S
+
+#51111
+A Hallway~
+This hallway continues on to the south.  There is a thin film of purple
+slime on the floor, causing you to slip and slide a little as you walk. 
+There are two closed doors to the south, one on the east wall, and one on
+the west.  
+~
+9 0
+D0
+~
+~
+0 0 51000
+D2
+~
+~
+0 0 51115
+S
+
+#51112
+A Hallway~
+The hallway continues to the east and west here.  To the east, you can
+see the door to the main floor of the castle.  To the west, the hallway
+continues to the south.  The air is very damp, and moss grows on the
+carved-stone walls.  Strange sounds come from all directions.  
+~
+9 0
+D1
+~
+~
+0 0 51000
+D3
+~
+~
+0 0 51113
+S
+
+#51113
+A Hallway~
+The hallway here runs to the east and south.  You can not see very far in
+either direction, but you can hear a strange pounding noise coming from the
+south.  The dirt floor has several strange looking footprints in it, as if
+someone was dragging one foot behind the other.  
+~
+9 0
+D1
+~
+~
+0 0 51112
+D2
+~
+~
+0 0 51114
+S
+
+#51114
+A Hallway~
+The hallway continues to the north and south.  It is so dark in here,
+that you cannot see more than five feet in front of your light.  The noise
+to the south grows louder.  To the south, the hallway turns east, and you
+can see light coming from that direction.  
+~
+9 0
+D0
+~
+~
+0 0 51113
+D2
+~
+~
+0 0 51137
+S
+
+#51115
+A Hallway~
+The hallway continues to the north and south here.  To the east and west
+of you, you can see two doors.  The door to the west has an elaborate lock
+on the door, and a strange light creeps out from under the door.  To the
+east, the door is much more flimsy, and you can detect a strange odor coming
+from the door.  
+~
+9 0
+D0
+~
+~
+0 0 51111
+D1
+~
+~
+0 0 51118
+D2
+~
+~
+0 0 51117
+D3
+~
+~
+0 0 51116
+S
+
+#51116
+A Locked Room~
+This room is quite small, and it appears to be uninhabited.  Moss grows
+along the walls, and it glows with a strange yellow phosphorescence.  The
+moss lights the room up enough that you can see that there is nothing of
+interest in here.  
+~
+9 0
+D1
+~
+~
+0 0 51115
+S
+
+#51117
+A Hallway~
+The hallway turns to the north and east here.  To the east you can see
+the hallway turning to the south again.  To the north, you can see two doors
+on both the east and west side of the walls.  A strange moss grows on the
+walls here, emitting a small amount of phosphorescent light.  
+~
+9 0
+D0
+~
+~
+0 0 51115
+D1
+~
+~
+0 0 51119
+S
+
+#51118
+A Smelly Room~
+This room is covered in a deep purple gelatinous slime.  The walls and
+floors are coated with it.  Your feet slip out from under you, and your
+stomach turns from the smell of the slime.  
+~
+9 0
+D3
+~
+~
+0 0 51115
+S
+
+#51119
+A Hallway~
+The hallway continues to the east and west.  To the east the hallway
+turns to the south, and to the west, the hallway turns to the north.  You
+can hear strange noises coming from the other side of the wall directly to
+the south of you.  
+~
+9 0
+D1
+~
+~
+0 0 51120
+D3
+~
+~
+0 0 51117
+S
+
+#51120
+A Hallway~
+The hallways turns south here, and further down, you can see a small
+passage to the east.  You catch a whiff of a strange odor, and wonder
+exactly what it was that you just smelled.  
+~
+9 0
+D2
+~
+~
+0 0 51121
+D3
+~
+~
+0 0 51119
+S
+
+#51121
+A Hallway~
+The hallway splits into a T section here.  To the west, the hallway
+continues a little bit, and ends with a large wooden door.  To the south the
+hallway continues, then turns west.  Some curiously deformed creatures
+wander about the basement freely, making low gutteral noises to themselves. 
+~
+9 0
+D0
+~
+~
+0 0 51120
+D2
+~
+~
+0 0 51123
+D3
+~
+~
+0 0 51122
+S
+
+#51122
+A Hallway~
+The hallway ends here, with a large wooden door to the east.  You can
+hear voices coming from the other side of the door, but you cannot make out
+any words.  
+~
+9 0
+D1
+~
+~
+0 0 51121
+D3
+~
+~
+0 0 51124
+S
+
+#51123
+A Hallway~
+The hallway here goes north and south.  The hallway to the north splits
+off to the west twice.  The hallway to your south goes off to the east a
+little ways down.  You again catch the whiff of a very foul odor.  You hear
+voices coming from the west , from behind the wall.  
+~
+9 0
+D0
+~
+~
+0 0 51121
+D2
+~
+~
+0 0 51128
+S
+
+#51124
+A Big Room~
+As you open the door and step into the room, you see two people playing
+cards at a small table in one corner of the room.  They seem too engulfed in
+their game to even pay you any attention as of yet.  In the other corner of
+the room, there are two cots, and two small footlockers at the feet of the
+cots.  
+~
+9 0
+D1
+~
+~
+0 0 51122
+D2
+~
+~
+0 0 51127
+D3
+~
+~
+0 0 51125
+S
+
+#51125
+A Big Room~
+The Captain of the Guard is here, playing some sort of card game with
+his men, who are obviously trying to lose.  As you step closer to the table,
+the captain looks up at you and says, "Hey!  What are you doing in here?!?" 
+~
+9 0
+D1
+~
+~
+0 0 51124
+D2
+~
+~
+0 0 51126
+S
+
+#51126
+A Big Room~
+In the corner of this room, you can see the cots that the men sleep on,
+and their footlockers, which are located at the foot of the cots.  This
+doesn't look like a very comfortable place to sleep.  
+~
+1 0
+D0
+~
+~
+0 0 51125
+D1
+~
+~
+0 0 51127
+S
+
+#51127
+A Big Room~
+In this corner of the room, you can see the table where the guardsmen are
+playing cards, and you can see the cots where they sleep.  There are no
+other amenities of life in the room.  
+~
+8 0
+D0
+~
+~
+0 0 51124
+D3
+~
+~
+0 0 51126
+S
+
+#51128
+A Dark Hallway~
+The hallway runs north and east here.  To the east the hallway goes to
+the south, and to the north the hallway splits off to the west, quite aways
+down.  The walls are covered in a slimy film, probably due to the incredible
+amount of moisture in the air.  It is definitely begging to smell worse as
+you walk down the hallway, and it is now also getting hotter with each
+progressive step.  You wipe the sweat from off of your brows and continue on
+forward.  
+~
+9 0
+D0
+~
+~
+0 0 51123
+D1
+~
+~
+0 0 51129
+S
+
+#51129
+A Damp Hallway~
+The hallway continues east and west, and the smell is getting worse. 
+There is enough moisture in the air, that some of it is collecting on the
+walls, and you can tell that it is not pure water that is wafting through
+the air.  You run your finger along the wall, and a brownish film is left on
+your fingertip.  You wipe your finger on your shirt, shudder slightly,
+debate on which direction to go next.  
+~
+9 0
+D1
+~
+~
+0 0 51130
+D3
+~
+~
+0 0 51128
+S
+
+#51130
+A Damp Hallway~
+The hallway starts to incline downwards here.  You can smell a putrid
+stench coming from up ahead to the east.  There is a small puddle of
+dark-colored water at your feet.  
+~
+9 0
+D1
+~
+~
+0 0 51131
+D3
+~
+~
+0 0 51129
+S
+
+#51131
+Ankle Deep in the Water~
+The water level here rises up to your ankles.  The hallway turns to the
+south, where you can see what appears to be the sewage system of the castle.
+The sewage water would reach up to your waist if you decided to proceed to
+the south.  The smell here is so foul, you can hardly breathe.  
+~
+9 0
+D2
+~
+~
+0 0 51132
+D3
+~
+~
+0 0 51130
+S
+
+#51132
+Waist Deep in Sewage~
+The water here comes up to your waist.  The smell is awful, and you have
+to squint your eyes to stop them from tearing up.  The sewage hallway
+continues to the west.  You can hear a strange rumbling sound coming from
+the west.  
+~
+9 0
+D0
+~
+~
+0 0 51131
+D3
+~
+~
+0 0 51133
+S
+
+#51133
+Sewage Containment Room~
+You decide to take the plunge, and step into the waist-deep sewage water.
+The smell here is so foul, you can hardly keep down your dinner.  Your eyes
+begin to water profusely, and you begin to have second thoughts about being
+here.  You feel something brush against your leg.  You stab your weapon in
+the general area where you saw the motion, but you don't hit anything. 
+Suddenly, you don't feel like being here for much longer.  
+~
+9 0
+D1
+~
+~
+0 0 51132
+D2
+~
+~
+0 0 51136
+D3
+~
+~
+0 0 51134
+S
+
+#51134
+Sewage Containment Room~
+You are waist deep in sewage-water, and you can feel it begin to seep in
+through your armor.  Hopefully, it won't stain your clothes, but your are
+going to smeel of human waste for quite some time, of that you are certain. 
+Splashing sounds to the south draw your attention.  
+~
+9 0
+D1
+~
+~
+0 0 51133
+D2
+~
+~
+0 0 51135
+S
+
+#51135
+Sewage Containment Room~
+As you wade to this corner of the room, you can clearly see a snake like
+organism wrapping around your legs, attempting to drag you under the sewage!
+You steel your courage and attack the sewage snake with the frenzy of a true
+adventurer.  Of course, being waist deep in sewage doesn't help your combat
+abilities...  
+~
+9 0
+D0
+~
+~
+0 0 51134
+D1
+~
+~
+0 0 51136
+S
+
+#51136
+Sewage Containment Room~
+You wade into the southeast corner of the room, and again you feel
+something brush against your leg.  To the west, you see a long snake-like
+organism surface for a minute, then it dives back down into the sewage.  You
+are really begininng to wonder why you decided to do this.  
+~
+9 0
+D0
+~
+~
+0 0 51133
+D3
+~
+~
+0 0 51135
+S
+
+#51137
+A Dark Hallway~
+The hallway turns north and east here.  To the east, the hallway is lit
+by several torches, and you can see a door to the north at the end of the
+hallway.  To the north, the darkness envelops your sight.  Carved onto the
+south wall of the corner are the words " 'WaRE ThE DrAGon!"  
+~
+9 0
+D0
+~
+~
+0 0 51114
+D1
+~
+~
+0 0 51138
+S
+
+#51138
+A Lit Hallway~
+The hallway here is lit by several torches affixed to the walls.  The
+torches sputter out enough light that you can see a door further down the
+hallway to the north.  The floor here is no longer dirt, but appears to be a
+concrete material of some kind.  You can hear a muted growling noise coming
+from beyond the wall to the north.  Strange stomping noises accompany the
+growling.  More importantly, however, is the massive minotaur that guards
+the door to your east.  
+~
+8 0
+D1
+~
+~
+0 0 51139
+D3
+~
+~
+0 0 51137
+S
+
+#51139
+A Lit Hallway~
+This room is occupied by a huge minotaur, who snorts and strides towards
+you.  He cracks his whip menacingly and eyes you down.  To the north, behind
+the minotaur, you can see a heavy iron-bound door.  The keys appear to be
+held by the minotaur.  
+~
+8 0
+D0
+~
+~
+0 19511 51140
+D3
+~
+~
+0 0 51138
+S
+
+#51140
+A Short Hallway~
+This short hallway goes east one more room, and there is a door to the
+north at the end of the hallway.  You can hear the growling noise that you
+heard before much clearer now.  There appears to be some kind of creature
+behind the door down the hallway.  There are large scratch marks on the
+sides of the walls and on the floors here, perhaps made by massive clawed
+hands...  
+~
+8 0
+D1
+~
+~
+0 0 51141
+D2
+~
+~
+0 0 51139
+S
+
+#51141
+A Short Hallway~
+You stand before the door, and contemplate your options.  You can turn
+back around, and not see what's behind the door, or you can open the door,
+and face whatever is making that horrible noise.  More of the claw marks can
+be seen on the door and on the walls all around you.  The torches on the
+walls flicker, casting wild shadows about the room.  
+~
+8 0
+D0
+~
+~
+0 19511 51142
+D3
+~
+~
+0 0 51140
+S
+
+#51142
+The White Dragon's Room~
+As soon as you open the door, you can see the source of the horrible
+noise that you've been hearing.  A gigantic white dragon is in this room,
+chained to a wall about thirty feet away from you.  Its chains prevent it
+from attacking you, as it is trying to do quite strenuously, and it is too
+far away for its breath weapon to be effective against you.  If you walk up
+to it and attack it however, you run the risk of breaking the chains that
+bind the dragon, allowing it to retaliate full force.  
+~
+8 0
+D2
+~
+~
+0 0 51141
+S
+#0
+
+#SPECIALS
+M 51002 spec_breath_fire
+M 51003 spec_poison
+M 51005 spec_breath_frost
+M 51006 spec_poison
+M 51007 spec_guard
+S
+
+#RESETS
+M 100 51000 8 51002 2
+E 100 51000 0 16
+M 100 51001 4 51005 1
+E 100 51106 0 17
+M 100 51002 0 51006 1
+E 100 51013 0 7
+E 100 51022 0 3
+O 100 51016 0 51007
+P 100 51018 1 51016 0
+P 100 51019 1 51016 0
+P 100 51020 1 51016 0
+M 100 51002 0 51111 1
+E 100 51013 0 7
+E 100 51022 0 3
+M 100 51000 8 51113 1
+E 100 51013 0 7
+E 100 51000 0 16
+M 100 51003 4 51118 1
+G 100 51015 0
+M 100 51000 8 51119 2
+E 100 51013 0 7
+E 100 51014 0 5
+M 100 51007 4 51125 1
+E 100 51107 0 16
+E 100 51108 0 17
+E 100 51109 0 5
+E 100 51110 0 7
+E 100 51021 0 11
+M 100 51008 0 51125 2
+O 100 51112 0 51126
+O 100 51006 0 51126
+P 100 51023 1 51006 0
+P 100 51007 5 51006 0
+M 100 51006 1 51135 1
+E 100 51009 0 5
+M 100 51000 8 51137 2
+E 100 51013 0 7
+E 100 51014 0 5
+O 100 51010 0 51138
+M 100 51004 4 51139 1
+E 100 51002 0 16
+E 100 51005 0 8
+E 100 51008 0 13
+O 100 51010 0 51139
+G 100 51011 0
+O 100 51010 0 51140
+O 100 51010 0 51141
+M 100 51005 1 51142 1
+E 100 51012 0 12
+G 100 51017 0
+G 100 51025 0
+S
+
+#$
